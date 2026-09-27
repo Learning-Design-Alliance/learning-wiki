@@ -15,12 +15,14 @@ sources:
     author: "Martella, A. M., Lovett, M. C., & Ramsay, L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 79.5% of the 88 active learning conditions contained a lecture component in class, at home, or both, and 72.4% of conditions with a main class session devoted at least 20% of class time to lecture. [→ Martella 2021](#martella-2021)
@@ -31,7 +33,7 @@ sources:
 
 Martella, A. M., Lovett, M. C., & Ramsay, L. (2021). Implementing active learning: A critical examination of sources of variation in active learning college science courses. Journal on Excellence in College Teaching, 32(1), 67-96. https://jlect.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Systematic review of 57 comparison studies (88 active learning conditions) from three DBER journals, 2014-2018. The review reports that "79.5% of active learning conditions contained a lecture component" and that 72.4% devoted at least 20% of main class time to lecture; percentages are descriptive, no effect size.
 

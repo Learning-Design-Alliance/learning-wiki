@@ -15,12 +15,14 @@ sources:
     author: Eggleton, Patrick J.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Ken's self-perceived confidence with mathematics inhibited him from considering a reinterpretation of his understanding of mathematics, in contrast to Ball's anxious preservice teachers. [→ Eggleton 1995](#eggleton-1995)
@@ -31,7 +33,7 @@ sources:
 
 Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Case-study interpretation contrasting Ken's response with Ball's (1990) elementary preservice teachers, who approached mathematics with anxiety. The article reports Ken's success with traditional mathematics made it difficult to consider an alternative approach.
 

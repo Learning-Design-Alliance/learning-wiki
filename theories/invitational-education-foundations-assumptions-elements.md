@@ -16,7 +16,7 @@ sources:
 # Invitational education theory: three foundations, five assumptions, and five basic elements
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes invitational education theory as "a framework to guide teacher and administrator behaviors in school settings." IE rests on three foundations: the democratic ethos, the perceptual tradition, and self-concept theory. These are supported by five assumptions: people are capable, worthy, and responsible; education is a cooperative undertaking; the process becomes the product; all people have limitless potential; and people reach this potential in intentionally inviting environments. IE posits five basic elements for enacting an inviting style: intentionality, care, optimism, respect, and trust, characterizing a teaching style "enacted purposefully and predictably which builds trust and reliability."

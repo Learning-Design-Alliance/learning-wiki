@@ -15,12 +15,14 @@ sources:
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Gamification raises motivation, satisfaction, and test performance in vocabulary learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a mixed-methods university study reported by the review, gamified English vocabulary learning yielded better learning results, higher motivation, and greater satisfaction than traditional instruction. [→ A. Pradheepa 2025](#a-pradheepa-2025)
@@ -31,7 +33,7 @@ sources:
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Yu (2023), a mixed-methods study of university students in which gamified vocabulary learning improved test performance and self-reported intrinsic motivation; participant comments described the activities as fun.
 

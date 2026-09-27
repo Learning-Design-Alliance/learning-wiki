@@ -15,12 +15,14 @@ sources:
     author: Yang Xu
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Communicative Approach introduced to China in the 1990s was initially not very communicative
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Communicative Approach was introduced to China in the 1990s with a 1992 functional syllabus and textbook series, but early ELT in China was described as not very communicative. [→ Yang Xu 2010](#yang-xu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article's historical account states that in 1992 the SEDC introduced a functional syllabus listing communicative functions and, with British Longman, published a new textbook series requiring teachers to teach communicatively. The article cites Liao (2000) for this account.
 

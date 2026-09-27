@@ -15,12 +15,14 @@ sources:
     author: North Carolina State Dept. of Public Instruction, Div. of Support Programs
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The self-monitoring process was piloted in 1988-89 in selected districts across North Carolina's eight educational regions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` During the 1988-89 school year the process was to be piloted in selected school districts in each of the eight educational regions. [→ North Carolina State Dept. of Public Instruction 1988](#north-carolina-state-dept-of-public-instruction-1988)
@@ -31,7 +33,7 @@ sources:
 
 North Carolina State Dept. of Public Instruction, Div. of Support Programs. (1988). Self-Monitoring Process for Job Training Partnership Act (JTPA) Programs. https://eric.ed.gov/?id=ED303603
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 A stated implementation plan from the guide's introduction, not an evaluated outcome; the article prints no pilot results, effect sizes, or participant counts. It indicates the process was new and unvalidated at publication.
 

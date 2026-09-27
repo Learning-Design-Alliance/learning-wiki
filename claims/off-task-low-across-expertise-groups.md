@@ -15,12 +15,14 @@ sources:
     author: "van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students' off-task behavior was very low in every expertise group with little change across groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Off-task levels were very low in each of the three teacher groups, indicating little change across expertise levels. [→ van der Mars 1991](#van-der-mars-1991)
@@ -31,7 +33,7 @@ sources:
 
 van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B. (1991). Novice and Expert Physical Education Teachers: They May Think and Decide Differently...But Do They Behave Differently? https://eric.ed.gov/?id=ED336354
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Interval-recording observational data from the same study; Table 3 reports off-task means of 3.4, 6.7, and 4.4 percent with a non-significant F ratio (2.74).
 

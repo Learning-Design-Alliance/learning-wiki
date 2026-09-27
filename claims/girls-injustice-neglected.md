@@ -15,12 +15,14 @@ sources:
     author: Norberg, K.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Girls' experiences of injustice were neglected and girls were expected to accept unfair treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In observed episodes, girls' experiences of injustice were neglected, their feelings were denied, and they were expected to be accepting of the situation. [→ Norberg 2003](#norberg-2003)
@@ -31,7 +33,7 @@ sources:
 
 Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 The two episodes are the morning assembly underwear incident, where the teacher defended a boy's conduct as curiosity, and the physical education lesson where Sue waited while Adam used the ball and Kate left the room, with teachers defending Joe's conduct. Team discussion then raised whether teachers have higher demands on girls.
 

@@ -15,12 +15,14 @@ sources:
     author: Brandhorst, Allan R.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The taxonomy's most significant functional value is proposed to be providing structure for designing evaluation of action learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper concludes that the taxonomy's most significant functional value would be providing a structure for designing evaluation of action learning, addressing inadequacy of current accreditation formats noted by Graham (1975). [→ Brandhorst 1976](#brandhorst-1976)
@@ -31,7 +33,7 @@ sources:
 
 Brandhorst, Allan R. (1976). Toward a Taxonomy of Educational Objectives in the Relational Domain. https://eric.ed.gov/?id=ED134505
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Concluding argument of the paper. The author states the taxonomy does not presume to provide a complete conceptualization of action-learning goals but represents a start, with complete conceptualization awaiting several additional taxonomies, some aimed more directly at self-development.
 

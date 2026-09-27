@@ -15,12 +15,14 @@ sources:
     author: de Beaugrande, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Writing programs should move decision-making from intuition and chance to conscious, explicit, efficient deciding, at the cost of slower early production
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that a writing program must strive to move the decision-making process from the realm of intuition and chance to a level where decisions are conscious, explicit, and efficient, which slows production considerably in early training but reduces vague and fortuitous aspects of success. [→ de Beaugrande 1977](#de-beaugrande-1977)
@@ -31,7 +33,7 @@ sources:
 
 de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper: writers' decisions, unlike speakers', admit no recourse for repair, so programs must make deciding "'conscious explicitand efficient". The author concedes this slows early production but reduces fortuitous success. No data are reported.
 

@@ -15,18 +15,22 @@ sources:
     author: "Aybek, B., & Aslan, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: aybek-2017-2
     resource: "https://doi.org/10.13189/ujer.2017.050403"
     title: "Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403"
     author: "Aybek, B., & Aslan, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Engagement, cognitive maturity and innovation together significantly predicted contemporary educational philosophy (R=.368, R2=.135, F(3-428)=22.171, p<.01), explaining nearly 14% of variance. [→ Aybek 2017](#aybek-2017)
@@ -38,7 +42,7 @@ sources:
 
 Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Multiple linear regression analysis on the 429-prospective-teacher sample testing whether the three CTDS subscales predict contemporary educational philosophy. The model was significant with "R=,368 R 2 =,135" and F(3-428)=22,171, p<,01.
 
@@ -48,7 +52,7 @@ Multiple linear regression analysis on the 429-prospective-teacher sample testin
 
 Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Standardized regression coefficients from the same multiple linear regression on contemporary educational philosophy. Innovation (β=.305) was the only significant predictor; engagement and cognitive maturity coefficients were not significant.
 

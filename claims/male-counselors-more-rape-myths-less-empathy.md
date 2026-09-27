@@ -15,18 +15,22 @@ sources:
     author: Litam, S. D. A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: litam-2019-2
     resource: "https://doi.org/10.15241/sdal.9.4.396"
     title: "Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396"
     author: Litam, S. D. A.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Male counselors reported more rape myth acceptance and lower empathy than female counselors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Gender correlated with the IRMA-SF (r = -.269), with significant correlations on 19 of 22 items (86%). [→ Litam 2019](#litam-2019)
@@ -38,7 +42,7 @@ sources:
 
 Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlational analysis in the full sample relating counselor gender to rape myth acceptance; the negative correlation reflects higher acceptance among males given scoring direction.
 
@@ -48,7 +52,7 @@ Bivariate correlational analysis in the full sample relating counselor gender to
 
 Litam, S. D. A. (2019). She's Just a Prostitute: The Effects of Labels on Counselor Attitudes, Empathy, and Rape Myth Acceptance. The Professional Counselor, 9(4), 396-415. https://doi.org/10.15241/sdal.9.4.396
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Bivariate correlations between gender and empathy subscales; the article interprets that female counselors reported greater perspective taking, affective response, and overall empathy than males.
 

@@ -15,12 +15,14 @@ sources:
     author: "Miyazoe, T., & Anderson, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students prioritize teacher interaction for face-to-face learning but content interaction for online learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across four university contexts, students ranked teacher interaction first for face-to-face instruction and content interaction first for online instruction. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +33,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Survey of 236 students across four universities using the Interaction Equivalency Theorem Indicator, with rankings coded into six priority patterns and analyzed in SPSS. The results section reports that "content is given first priority for the online mode" while teacher interaction leads for F2F. No inferential statistic is printed.
 

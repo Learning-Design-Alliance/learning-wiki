@@ -160,6 +160,24 @@ class Studies:
         vals = Counter(s["q"] for s in self.entries[key] if isinstance(s.get("q"), int))
         return min(vals, key=lambda q: (-vals[q], q)) if vals else None
 
+    def kind(self, key):
+        """The evidence kind most entries give this study; a tie goes to the
+        first in okf_lib.EVIDENCE_KINDS order, so the choice is stable."""
+        vals = Counter(s["kind"] for s in self.entries[key] if s.get("kind"))
+        order = okf_lib.EVIDENCE_KINDS
+        return min(vals, key=lambda k: (-vals[k], order.index(k) if k in order else 99)) if vals else None
+
+    def rigour(self, key):
+        """The rigour most of the study's entries of its own kind give (a tie
+        goes to the lower); "?" when none could be established."""
+        k = self.kind(key)
+        vals = Counter(s.get("rigour") for s in self.entries[key] if s.get("kind") == k)
+        ints = Counter({r: n for r, n in vals.items() if isinstance(r, int)})
+        return min(ints, key=lambda r: (-ints[r], r)) if ints else ("?" if vals else None)
+
+    def kinds(self) -> Counter:
+        return Counter(k for k in (self.kind(x) for x in self.entries) if k)
+
     def reports_effect(self, key) -> bool:
         return any(isinstance(s.get("i"), int) for s in self.entries[key])
 
@@ -176,6 +194,7 @@ def page_profile(cites: list, claims: dict) -> dict:
         "claims": len(slugs),
         "polarity": Counter(p or "unmarked" for _, p, _ in cites),
         "studies": len(studies),
+        "kinds": studies.kinds(),
         "q_min": min(qs) if qs else None,
         "q_max": max(qs) if qs else None,
         "q3_plus": sum(1 for q in qs if q >= 3),
@@ -197,6 +216,10 @@ def profile_line(p: dict) -> str:
     if not p["studies"]:
         return f"> **Evidence** · {head} · no studies recorded yet"
     st = f"{p['studies']} stud{'y' if p['studies'] == 1 else 'ies'}"
+    kinds = p.get("kinds") or {}
+    if kinds:
+        order = okf_lib.EVIDENCE_KINDS
+        st += " (" + ", ".join(f"{n} {k}" for k, n in sorted(kinds.items(), key=lambda t: (-t[1], order.index(t[0])))) + ")"
     if p["q_min"] is not None:
         st += (f", `q{p['q_min']}`" if p["q_min"] == p["q_max"] else f", `q{p['q_min']}`–`q{p['q_max']}`")
     parts = [head, st, f"{p['with_effect']} of {p['studies']} report an effect size"]

@@ -15,12 +15,14 @@ sources:
     author: Stadt, Ronald W.; Kenneke, Larry J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Because workers change jobs and places of employment several times in a working life, the authors conclude schools must support both occupational and geographical mobility. [→ Stadt 1970](#stadt-1970)
@@ -31,7 +33,7 @@ sources:
 
 Stadt, Ronald W.; Kenneke, Larry J. (1970). Teacher Competencies for the Cybernated Age. American Council on Industrial Arts Teacher Education. https://eric.ed.gov/?id=ED055227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Concluding recommendation of the On Mobility section, resting on cited labor statistics and Palmer's mobility research rather than new data. The section reports that workers commonly change jobs or place of employment several times during working life.
 

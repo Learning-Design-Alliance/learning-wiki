@@ -15,18 +15,22 @@ sources:
     author: Hulsebosch, Pat; Koerner, Mari
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: hulsebosch-1993-2
     resource: "https://eric.ed.gov/?id=ED403553"
     title: "Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of \"Culturally-Aware\" Teachers. https://eric.ed.gov/?id=ED403553"
     author: Hulsebosch, Pat; Koerner, Mari
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A teacher who had assimilated white culture and later recognized what was denied to her resolved to teach so that the culture of non-white children is never again overlooked, downplayed, or misunderstood. [→ Hulsebosch 1993](#hulsebosch-1993)
@@ -38,7 +42,7 @@ sources:
 
 Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of "Culturally-Aware" Teachers. https://eric.ed.gov/?id=ED403553
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Veronica Johnson's life-history narrative recounts assimilating white culture through schooling and later deciding to become a teacher so that non-white children's cultures are never "overlooked, downplayed, misunderstood."
 
@@ -48,7 +52,7 @@ Veronica Johnson's life-history narrative recounts assimilating white culture th
 
 Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of "Culturally-Aware" Teachers. https://eric.ed.gov/?id=ED403553
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Debbie Menchaca's narrative recounts sexism and racial labeling across her schooling and describes her third-grade practice of exposing students to different cultures through reading, media, and field trips, and of building their self-esteem.
 

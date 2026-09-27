@@ -15,12 +15,14 @@ sources:
     author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Data fits of B(z) = a z^b return exponents consistent with the expected z−3 dependence for both the coil and the magnet. [→ V.O.M. Lara 2014](#vom-lara-2014)
@@ -31,7 +33,7 @@ sources:
 
 V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Second demonstration-set experiment: the coil (current up to I∼ 0.9A) and the magnet were moved by equal displacements and B recorded at each distance; Table I fits give b = −3.05112± 0.03917 (coil) and b = −3.09232± 0.01217 (magnet), showing "excellent agreement with the expected z−3 dependence".
 

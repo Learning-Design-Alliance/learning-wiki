@@ -15,24 +15,30 @@ sources:
     author: Göktürk, D.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: göktürk-2021-3
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article reports that Ispa-Landa (2013) used in-depth interviews and ethnographic observations with black adolescents (n=38) to identify when and how a lower-class minority group's gender performance is used as grounds for its exclusion. [→ Göktürk 2021](#gokturk-2021)
@@ -45,7 +51,7 @@ sources:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports, citing Ispa-Landa (2013), a school-based ethnography using "in-depth interviews and ethnographic observations in a school setting with black adolescents (n=38)". The article summarizes this study rather than reporting its own data.
 
@@ -55,7 +61,7 @@ The article reports, citing Ispa-Landa (2013), a school-based ethnography using 
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article's summary of Ispa-Landa's (2013) findings: girls "are unpopular because their portrayal is “loud” and “ghetto,”" and criticism of their loudness by boys and classmates "results in their social exclusion." Qualitative findings; no statistics reported.
 
@@ -65,7 +71,7 @@ The article's summary of Ispa-Landa's (2013) findings: girls "are unpopular beca
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article's summary of Ispa-Landa's (2013) findings: "Boys are classified as incapable of academic achievement so they are not taken as a challenge to white dominance". Qualitative finding; no statistics reported.
 

@@ -15,12 +15,14 @@ sources:
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Subject-level breakdowns show, for example, 75.0% of math courses with convex slope shape and 0.0% with steep wall, while 63.6% of political science courses showed steep wall shape. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)
@@ -31,7 +33,7 @@ sources:
 
 Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive cross-tabulation of graph-shape frequencies by subject (Table 4). The math row reads "Math 0.0% 0.0% 12.5% 75.0%" across steep wall, back-to-back, steady slope, and convex slope columns; the political science row shows 63.6% steep wall. These are descriptive percentages, not tested contrasts.
 

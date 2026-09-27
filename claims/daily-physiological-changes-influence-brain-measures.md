@@ -15,12 +15,14 @@ sources:
     author: Falkenstein Kim, Pauley Claire, Kühn Simone
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Daily physiological changes in non-experimental situations influence measures of brain structure and function
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Measures of brain structure and function are influenced by day-to-day physiological changes such as exercise, (de)hydration, caffeine intake, and the menstrual cycle. [→ Falkenstein Kim 2026](#falkenstein-kim-2026)
@@ -31,7 +33,7 @@ sources:
 
 Falkenstein Kim, Pauley Claire, Kühn Simone. (2026). Investigating effects of day-to-day variations in environmental exposure on the human brain: study protocol for the Day2Day Environment project. BMC Neuroscience. https://doi.org/10.1186/s12868-026-01052-z
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
 The protocol asserts, citing prior studies, that "measures of brain structure and function are influenced by daily physiological changes in non-experimental situations" including exercise, hydration, caffeine, and menstrual cycle. No effect sizes are printed.
 

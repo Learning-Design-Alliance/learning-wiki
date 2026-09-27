@@ -15,12 +15,14 @@ sources:
     author: "Qi, G. Y., & Wang, Y."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teacher agency development proceeds through temporal phases in which different subsystems dominate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a single-teacher qualitative case study, certain subsystems played a more dominant role at given stages of agency development, with dominance shifting over time. [→ Qi 2022](#qi-2022)
@@ -31,7 +33,7 @@ sources:
 
 Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative thematic analysis of one teacher's written reflection and interviews across three periods of a semester. The authors report that subsystems "played a more prominent role in certain contexts and at certain periods", e.g. past experiences dominating early and classroom affordances later.
 

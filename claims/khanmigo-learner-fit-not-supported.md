@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The evaluation judged the learner fit criterion not supported because the language Khanmigo uses and the topics it selects may be too advanced for beginner-level learners. [→ Shetye 2024](#shetye-2024)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Judgment recorded in Table 1 of the qualitative evaluation. The author argues via Processability Theory that advanced input may not benefit L2 development, and that under unsupervised conditions "the app may not benefit learners of all ages or L2 proficiency levels".
 

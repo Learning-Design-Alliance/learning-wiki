@@ -15,12 +15,14 @@ sources:
     author: Nicholson-Goodman, JoVictoria; Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Social cartography makes value and power relations in a policy discourse explicit and opens the heuristic circle to readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Mapping a discourse spatially portrays the interrelations of truth and value choices and makes their power relations explicit, opening dialogue to readers who may contest and redefine the mapped space. [→ Nicholson-Goodman 1996](#nicholson-goodman-1996)
@@ -31,7 +33,7 @@ sources:
 
 Nicholson-Goodman, JoVictoria; Paulston, Rolland G. (1996). Mapping/Remapping Discourse in Educational Policy Studies. Occasional Paper Series, APS Conceptual Mapping Project. https://eric.ed.gov/?id=ED395559
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument from the essay's abstract and rationale: the authors contend social cartography portrays 'the interrelations of truth and value choices' in educational policy studies and that the map 'is available for dialogue; if a reader disagrees, she or he need only redefine the space.' No empirical test is offered; support is the demonstration project itself.
 

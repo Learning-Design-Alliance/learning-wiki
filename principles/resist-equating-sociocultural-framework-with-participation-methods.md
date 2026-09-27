@@ -17,7 +17,7 @@ sources:
 # Resist equating the sociocultural framework in SLA with legitimizing only particular methods of participation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The author proposes that educators and researchers consciously refuse to treat the sociocultural framework in SLA as an endorsement of mainstream, normative forms of social learning. Preference for individual work and silence, she argues, "do not necessarily constitute confinement from the social and collective, only from certain forms of interacting with these." Rather than elevating mainstream participation, teachers should value idiosyncratic methods of appropriating learning, such as preference for texts and books over face-to-face peer conversation.

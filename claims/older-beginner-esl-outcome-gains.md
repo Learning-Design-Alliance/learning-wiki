@@ -15,12 +15,14 @@ sources:
     author: Weintraub, L.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All students in the older beginner class made gains, averaging 128 BEST Plus points over 6 months, and two former absolute beginners passed the US citizenship test. [→ Weintraub 2025](#weintraub-2025)
@@ -31,7 +33,7 @@ sources:
 
 Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Practitioner report of outcomes from the author's own "older beginner" class of 11 pre-beginners aged 55-83, taught 60 minutes three days a week with one-to-one volunteer tutor review. The author reports "an average 128 points BEST Plus gain over 6 months" and two citizenship passes; no comparison group or test statistics are given.
 

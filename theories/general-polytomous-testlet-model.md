@@ -16,7 +16,7 @@ sources:
 # General polytomous testlet model: a bifactor-style IRT model extending the general testlet model to mixed dichotomous and polytomous testlet items via a generalized partial credit model
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 2 studies, `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 2 studies (1 design, 1 theoretical), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The general polytomous testlet model is an item response theory model for testlet-based tests containing both dichotomously and polytomously scored items. It extends the general testlet model of Li, Bolt, and Fu (2006), which the report notes "is essentially the same as the bifactor model", by using a generalized partial credit model for the polytomous items. Each item loads on a general ability dimension and on a secondary dimension associated with its testlet, with separate discrimination parameters for the two factors. According to the report, "This model not only takes into account local dependence within the testlets but also provides more information about how items within a testlet are influenced by the testlet factor."

@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: not stated in abstract (k unreported)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Peer-assisted learning interventions improve achievement for elementary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=not stated in abstract (k unreported)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · n=not stated in abstract (k unreported)
 
 Peer-assisted learning (PAL) — structured interventions in which students teach, tutor or work interdependently with one another — raises elementary students' academic achievement relative to comparison instruction. The claim is scoped to elementary grades, where the meta-analytic evidence is concentrated.
 
@@ -34,7 +36,7 @@ Peer-assisted learning (PAL) — structured interventions in which students teac
 
 Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
 
-`q3 · meta-analytic review (abstract only)` · `i? · no effect size reported (abstract does not state a pooled d/g)` · `n=not stated in abstract (k unreported)`
+`q3 · meta-analytic review (abstract only)` · `i? · no effect size reported (abstract does not state a pooled d/g)` · `n=not stated in abstract (k unreported)` · `quant-synthesis · r?`
 
 A meta-analytic review of group-comparison-design studies evaluating peer-assisted learning (PAL) interventions with elementary school students. The review reports positive effect sizes on achievement outcomes overall, and finds PAL was most effective with younger, urban, low-income, and minority students. Interventions using interdependent reward contingencies, ipsative (self-referenced) evaluation procedures, and greater student autonomy showed higher effect sizes.
 

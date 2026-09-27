@@ -15,12 +15,14 @@ sources:
     author: Wlodarsky, R. and Walters, H.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Independent coding of 95 narrative cases by two researchers yielded Cronbach's alpha of .93 overall, indicating the reflective scale definitions were robust for teacher educators' language. [→ Wlodarsky 2010](#wlodarsky-2010)
@@ -31,7 +33,7 @@ sources:
 
 Wlodarsky, R. and Walters, H. (2010). Use of the Reflective Judgment Model as a Reference Tool for Assessing the Reflective Capacity of Teacher Educators in a College Setting. i-manager's Journal of Educational Psychology. https://www.ncate.org/documents/standards/UnitStandardsMay07.pdf
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Mixed-method study of eight teacher educators: two raters independently coded 95 quotation cases for Knowledge and Judgment on a 1-7 scale, achieving "a very high level of consistency among the cases and scores" (alpha .93).
 

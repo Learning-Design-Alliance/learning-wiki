@@ -15,12 +15,14 @@ sources:
     author: Brown, Ronald T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Peabody Vocabulary Test scores correlated significantly with locus of control for males and females in both the normal and delinquent groups. [→ Brown 1980](#brown-1980)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Ronald T. (1980). Some Misgivings About Locus of Control Orientation and its Relationship to Intelligence, Academic Achievement, and Delinquency. https://eric.ed.gov/?id=ED197263
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis reported in the Results and Table 1: intelligence correlations with locus of control were -.77 (delinquent males), -.66 (delinquent females), -.76 (normal males), and -.66 (normal females), all marked significant at p <.01, supporting that "intelligence was related to locus of control scores for both groups".
 

@@ -15,18 +15,22 @@ sources:
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: z-gao-2024-2
     resource: "https://doi.org/10.5281/zenodo.12729866"
     title: "Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866"
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When λ > 0.06, choosing NSF over FCFS significantly increases the percentage of students who receive help (p<0.05). [→ Z. Gao 2024](#z-gao-2024)
@@ -38,7 +42,7 @@ sources:
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Sensitivity simulation across 20 arrival rates from 0.05 to 0.10. The results show that "when λ > 0.06, the significant difference in the percentage of helped students exists (p < 0.05)", locating the boundary of NSF's benefit.
 
@@ -48,7 +52,7 @@ Sensitivity simulation across 20 arrival rates from 0.05 to 0.10. The results sh
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Relaxed-load simulation (λ = 0.05): long-wait requests were almost always 0 and no significant differences appeared among the four strategies on any metric (all p>0.05), so strategy choice does not affect resolved requests or helped students.
 

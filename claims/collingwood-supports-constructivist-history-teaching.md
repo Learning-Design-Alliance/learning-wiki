@@ -15,12 +15,14 @@ sources:
     author: Lemisko, L.S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper argues that Collingwood's theory of historical knowledge production provides theoretical support for constructivist classroom approaches. [→ Lemisko 2004](#lemisko-2004)
@@ -31,7 +33,7 @@ sources:
 
 Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's interpretive argument (type e): because historical knowledge is itself constructed imaginatively from evidence, teachers have theoretical grounds for letting students construct their own understandings. The paper offers this as a reasoned position, not an empirical test; it also cites Seixas's argument that good history teaching exposes the process of constructing warranted historical accounts through critical inquiry.
 

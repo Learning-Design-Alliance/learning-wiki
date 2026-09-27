@@ -15,12 +15,14 @@ sources:
     author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Some trainees gradually undertook departmental training, specialty process optimization, and quality improvement after returning to work, diffusing training outcomes to team and organizational levels. [→ Liang 2026](#liang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative subtheme on role extension; examples include a trainee adapting an OSCE case on intracranial pressure crisis management into departmental teaching material and another participating in revising health education processes for brain tumor patients.
 

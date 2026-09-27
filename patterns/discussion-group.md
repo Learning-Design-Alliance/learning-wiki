@@ -23,7 +23,7 @@ grain_size: lesson
 # Discussion Group
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 12 studies, `q2`–`q4` · 0 of 12 report an effect size
+> **Evidence** · 4 claims (4 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 12 report an effect size
 
 ## Description
 Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem. It is more than "talk in groups"; the pattern works by giving discussion a clear purpose, enough preparation, and enough moderation that the conversation stays intellectually productive.

@@ -16,7 +16,7 @@ sources:
 # Sociocultural theory as a framework for gifted education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The essay proposes applying Vygotsky's sociocultural theory to gifted education, arguing the field lacks a widely accepted theoretical framework. Learning is framed socially: "The sociocultural perspective suggests that learning is a process of appropriating 'tools for thinking'" made available by social agents acting as guides. The theory is used to critique identification practices and to inform teacher preparation.

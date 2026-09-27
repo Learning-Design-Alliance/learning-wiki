@@ -15,12 +15,14 @@ sources:
     author: Loucks, Susan F.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Individual teachers' concern profiles vary widely and can diverge from group trends during implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Case profiles show one teacher whose concerns decreased in intensity over the year without ever beginning to use SCIS, and another whose concerns followed the expected wave motion from informational and personal to management to higher-stage concerns. [→ Loucks 1977](#loucks-1977)
@@ -31,7 +33,7 @@ sources:
 
 Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Two individual case profiles (Figures 9 and 10) presented to illustrate variation between individuals. "Teacher A exhibited nonuser concerns" at every period, with all concerns decreasing in intensity and no sign she began to use SCIS because a teammate taught all science; Teacher B's concerns showed the expected wave motion.
 

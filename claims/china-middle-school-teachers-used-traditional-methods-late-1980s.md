@@ -15,12 +15,14 @@ sources:
     author: Yang Xu
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 87% of teachers in China's middle schools used the traditional method in the late 1980s, focusing on grammar and structure. [→ Yang Xu 2010](#yang-xu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article cites a 1990 investigation by Zuo reporting that "87% of teachers in China's middle schools used the traditional method in the late 1980s". The article reports this as a cited statistic without describing the study's design.
 

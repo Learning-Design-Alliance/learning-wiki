@@ -15,12 +15,14 @@ sources:
     author: Naval, C.; Villacís, J.L.; Ibarrola-García, S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Spain, traditional means of student participation have been shown to be an inefficient mechanism to promote greater civic commitment from students, according to professors and managers. [→ Naval 2022](#naval-2022)
@@ -31,7 +33,7 @@ sources:
 
 Naval, C.; Villacís, J.L.; Ibarrola-García, S. (2022). The Transversality of Civic Learning as the Basis for Development in the University. Educ. Sci. 2022, 12, 240. https://doi.org/10.3390/educsci12040240
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 At the non-formal education level, the article reports that opinions of professors and managers show notable pessimism about traditional participation structures, and that student participation in Spain has been shown to be inefficient for civic commitment. No study details or effect sizes are printed.
 

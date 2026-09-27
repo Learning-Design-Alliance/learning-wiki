@@ -16,7 +16,7 @@ sources:
 # Dynamic Language Learning Framework (DL2F): a communication-centric, learner-centered instructional model for language education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 DL2F is a progressive pedagogical approach for language education that positions effective communication as the primary goal of learning. The article states it is 'grounded in a communication-centric philosophy, positioning effective communication as the primary goal of language learning', prioritizing real-life language use, authentic contexts, adaptability to diverse learners, collaboration, cultural integration, and continuous improvement through feedback, self-assessment, and revision. Implementation relies on authentic materials, diverse tasks, and technology integration.

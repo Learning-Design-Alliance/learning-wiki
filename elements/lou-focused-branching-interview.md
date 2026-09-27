@@ -17,7 +17,7 @@ sources:
 # The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The LoU Interview is a focused interview procedure that measures Levels of Use. "The interviewer does not ask a specific list of redetermined, presequenced questions, but rather uses a branching technique derived from the defined decision points which separate each level." Interviews take approximately 20 minutes, are tape-recorded, and yield ratings of overall LoU plus LoU in each of the seven categories, with provisions for Not Doing (ND) and No Information (NI) ratings.

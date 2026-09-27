@@ -15,12 +15,14 @@ sources:
     author: "Mahmoodarabi, M., & Khodabakhsh, M. R."
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` MANOVA revealed significant differences among BA, MA and PhD participants' awareness of the four critical pedagogy factors, with a weak effect size. [→ Mahmoodarabi 2015](#mahmoodarabi-2015)
@@ -31,7 +33,7 @@ sources:
 
 Mahmoodarabi, M., & Khodabakhsh, M. R. (2015). Critical Pedagogy: EFL Teachers' Views, Experience and Academic Degrees. English Language Teaching, 8(6). https://doi.org/10.5539/elt.v8n6p100
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Survey of 403 Iranian EFL teachers analyzed with MANOVA comparing BA, MA and PhD holders' awareness across the four questionnaire factors. The omnibus test was significant: "F (8, 796) = 2.20, P < .05, Partial η2 = .022 representing a weak effect size". The first null-hypothesis was rejected.
 

@@ -16,7 +16,7 @@ sources:
 # Social justice impact spectrum for OEP: transformative, ameliorative, neutral or negative
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1`–`q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article extends Hodgkinson-Williams and Trotter's framework, built on Fraser's model of social justice, to expansive process-centric OEP. It defines four levels of impact: "Transformative refers to addressing systemic/structural roots of injustice, affirmative/ameliorative refers to addressing surface injustice, neutral refers to not having a social justice impact, and negative means reproducing or even exacerbating injustice". Table 2 maps each OEP onto this spectrum across contexts.

@@ -15,12 +15,14 @@ sources:
     author: "Padgett, Vernon R. & Brock, Timothy C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Increased repetitions of both intelligible and unintelligible communications produce increased acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Repeating both intelligible and unintelligible messages increased acceptance, suggesting similar persuasion processes for the two message types. [→ Padgett 1986](#padgett-1986)
@@ -31,7 +33,7 @@ sources:
 
 Padgett, Vernon R. & Brock, Timothy C. (1986). Persuasion with Unintelligible Messages: A Cognitive Response Analysis. https://eric.ed.gov/?id=ED282138
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experiment 4 of the six-experiment series, with repetitions added as a between-subjects factor. The article reports that "increased repetitions of both intelligible and unintelligible communications produced increased acceptance."
 

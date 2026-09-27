@@ -15,12 +15,14 @@ sources:
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Extensive reading improves grammatical knowledge and writing style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Learners who engaged in extensive reading showed significant improvements in writing skills, including more sophisticated style, organization, varied sentence structures, coherence, and fluency. [→ Hardy 2025](#hardy-2025)
@@ -31,7 +33,7 @@ sources:
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Hafiz & Tudor (1989), Lai (1993), and Sakurai (2017), significant writing improvements, and additionally cites Mermelstein (2015), Constantino (1995), and Tsang (1996) for organization, varied sentence structures, coherence, idiomatic expressions, precise vocabulary, and increased writing fluency. No effect sizes are printed.
 

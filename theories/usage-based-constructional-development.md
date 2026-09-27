@@ -16,7 +16,7 @@ sources:
 # Usage-based account of constructional development: from item-based learning to abstract constructions via language experience
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Usage-based approaches explain language development as a gradual process of generalizing constructions through language experience. The article applies this framework to L2 learning, predicting that beginners rely on individual verbs and frequent patterns while advanced learners form abstract constructional representations. It states that "usage-based constructional approaches characterize the acquisition of the constructions as a gradual process of formulating abstract representations through language experience", with light verbs serving as cues in early stages.

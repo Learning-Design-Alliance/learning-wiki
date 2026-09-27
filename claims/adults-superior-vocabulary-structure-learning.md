@@ -15,12 +15,14 @@ sources:
     author: Grognet, Allene Guss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Adults may have superior language learning capabilities in vocabulary and language structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the areas of vocabulary and language structure, adults are better language learners than children, being more able to make higher order associations and generalizations. [→ Grognet 1997](#grognet-1997)
@@ -31,7 +33,7 @@ sources:
 
 Grognet, Allene Guss. (1997). Elderly Refugees and Language Learning. Center for Applied Linguistics. https://eric.ed.gov/?id=ED416721
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The digest reports, citing researchers, that neural cells responsible for higher order linguistic processes develop with age. It states adults "arebetter language learners than children" in vocabulary and structure, especially adults with some formal education.
 

@@ -15,12 +15,14 @@ sources:
     author: "Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Some users prefer a single-form Boolean query interface to the original Entrez interface
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some users stated they prefer the WWW Entrez FORMS-based query interface, which allows Boolean composition of several terms on one form, to the Entrez/Network Entrez interface. [→ Epstein 1994](#epstein-1994)
@@ -31,7 +33,7 @@ sources:
 
 Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D. (1994). WWW Entrez: A Hypertext Retrieval Tool for Molecular Biology. https://eric.ed.gov/?id=ED462262
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the WWW Entrez discussion section, the authors report informal user feedback: "some users have stated that they prefer this query interface" built on a single FORM allowing union, intersection, and set subtraction of terms. No systematic evaluation or effect size is reported.
 

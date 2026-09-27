@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 3
     n: 8,776 effect sizes
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Prior Knowledge Determines New Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=8,776 effect sizes
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large · n=8,776 effect sizes
 
 New learning is built on what the learner already knows: existing knowledge structures determine what can be understood, how new information is organized, and where misconceptions will interfere. This is a foundational premise of [cognitive load theory](../theories/cognitive-load-theory.md) and schema-based accounts of learning rather than a single experimental finding — its Evidence section therefore awaits a dedicated synthesis of the supporting literature.
 
@@ -34,7 +36,7 @@ New learning is built on what the learner already knows: existing knowledge stru
 
 Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2022). Domain-specific prior knowledge and learning: A meta-analysis. *Educational Psychologist, 57*(1), 31–54. [doi:10.1080/00461520.2021.1939700](https://doi.org/10.1080/00461520.2021.1939700)
 
-`q4 · meta-analysis` · `i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059` · `n=8,776 effect sizes`
+`q4 · meta-analysis` · `i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059` · `n=8,776 effect sizes` · `quant-synthesis · r3`
 
 A meta-analysis of 8,776 effect sizes examined the relationship between domain-specific prior knowledge (measured at Time 1) and knowledge outcomes measured later, across studies spanning many ages, domains and designs. Two distinct relationships were separated: the stability of individual differences (correlation between pretest and posttest knowledge scores) was high, r+ = .534 — learners who know more at the start tend to know more at the end, supporting the claim that new learning builds on and is strongly predicted by prior knowledge. But the predictive power of prior knowledge for *normalized learning gains* (how much a learner improves, controlling for starting point) was low and centered near zero, r+ = -.059, with a large 95% prediction interval of [-.688, .621] — meaning the direction and size of prior knowledge's effect on gains varies enormously across contexts, sometimes helping and sometimes hurting. The authors argue this variability falsifies both "knowledge is power" and "the effect of prior knowledge is negligible" as general statements, and calls for research on the conditions (moderators) under which prior knowledge helps, hurts, or does nothing — directly supporting this page's Discussion section on expertise reversal, moderators and boundary conditions rather than a single uniform effect.
 

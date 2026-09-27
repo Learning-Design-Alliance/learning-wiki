@@ -12,7 +12,7 @@ generated:
 # Prediction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q3` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 5 report an effect size
 
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.

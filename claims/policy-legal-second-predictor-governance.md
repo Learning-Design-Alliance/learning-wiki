@@ -15,12 +15,14 @@ sources:
     author: Truong, T. D.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # The policy-legal framework is the second strongest predictor of governance effectiveness in Vietnamese universities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The policy-legal framework significantly predicted governance effectiveness (β = 0.18, p < 0.01), ranking second after leadership. [→ Truong 2025](#truong-2025)
@@ -31,7 +33,7 @@ sources:
 
 Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method Investigation. Educational Process: International Journal, 19, e2025605. https://doi.org/10.22521/edupij.2025.19.605
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Same regression analysis (Table 8) of the 455-respondent survey. The article reports the policy-legal factor ranked second, with the printed coefficient "β = 0.18, p < 0.01"; no effect size beyond the coefficient is printed.
 

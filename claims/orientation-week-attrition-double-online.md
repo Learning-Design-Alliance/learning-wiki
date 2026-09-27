@@ -15,12 +15,14 @@ sources:
     author: Jia Frydenberg
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Online attrition during Orientation Week is twice that of onground classes' first week
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the online Orientation Week, before instruction began, the attrition rate was twice that of onground classes, marking this period as the locus of the modality difference. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -31,7 +33,7 @@ sources:
 
 Jia Frydenberg. (2007). Persistence in University Continuing Education Online Classes. International Review of Research in Open and Distance Learning, 8(3). https://portal.issn.org/resource/ISSN/1492-3831
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of drop timing across the two-year data set (Table 5): 8 percent of online students dropped during Orientation Week, boosting pre-instruction dropout to 13 percent, while only 5 percent dropped before experiencing any aspect of the course. The author states the attrition rate in that period "is twice that of onground classes."
 

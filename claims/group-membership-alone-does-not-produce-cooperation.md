@@ -15,12 +15,14 @@ sources:
     author: "You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The handbook argues that group membership, and even collaboration, do not guarantee working together toward a common goal unless structure encourages it. [→ You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners 1993](#you-can-be-in-a-group-and-still-not-cooperate-collaborative-approaches-and-cooperative-learning-activities-for-adult-learners-1993)
@@ -31,7 +33,7 @@ sources:
 
 You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 This is the handbook's preface argument, a conceptual distinction drawn from dictionary definitions of group, collaboration, and cooperation rather than from collected data. It states that "you can be in a group, and not cooperate!" and that structure must be present to encourage joint work.
 

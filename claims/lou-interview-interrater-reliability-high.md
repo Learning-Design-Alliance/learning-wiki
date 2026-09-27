@@ -15,12 +15,14 @@ sources:
     author: Loucks, Susan F.
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In year two, a streamlined two-rater procedure yielded interrater reliability of .96 with 73% agreement, and interviewer-only ratings later agreed with final ratings 87% of the time. [→ Loucks 1977](#loucks-1977)
@@ -31,7 +33,7 @@ sources:
 
 Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's immediate rating replaced one of two independent ratings to reduce cost. The article also reports interviewer ratings had "a high percent agreement (87%) with final ratings", leading to interviewer-only rating with periodic reliability checks.
 

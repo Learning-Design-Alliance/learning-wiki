@@ -391,6 +391,16 @@ def run(args) -> None:
         _run_chained_step([sys.executable, "-u", "scripts/link_pages.py", "--new", "--apply",
                            "--out", f"eval/runs/page-links/{args.label}.ndjson"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # Evidence kind and rigour for the batch's new entries (evidence-scales.json),
+        # judged against the article the entry came from. After verify, like the
+        # links: it edits codes lines, which verify_citation_edits.py would refuse.
+        # About $0.0006 an entry; the budget stops a runaway, not a normal batch.
+        print(f"\n=== coding evidence kind and rigour for new entries ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/code_kind_rigour.py", "--code", "--apply",
+                           "--new", "--budget", "2"], SCRAPE_CONSOLE_LOG_PATH)
+        for step in (["scripts/sync_evidence_codes.py", "--apply"],
+                     ["scripts/add_evidence_summary.py", "--apply"]):
+            _run_chained_step([sys.executable, "-u", *step], SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/add_evidence_profile.py", "--apply"],
                           SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/build_indexes.py"], SCRAPE_CONSOLE_LOG_PATH)

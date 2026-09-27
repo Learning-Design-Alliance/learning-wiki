@@ -15,12 +15,14 @@ sources:
     author: "Kaygısız, G.M., Uygun, N., & Uçar, F.M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Pre-service teachers choose science objectives mainly for ease of teaching, material support, and perceived professional knowledge, with grade-level differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Content analysis of open-ended answers showed the most chosen reason for choosing objectives was that teaching is easy (juniors 33.3%, seniors 62.5%), followed by having sufficient professional knowledge (juniors 43.5%, seniors 46.8%), with juniors more often citing material support. [→ Kaygısız 2018](#kaygsz-2018)
@@ -31,7 +33,7 @@ sources:
 
 Kaygısız, G.M., Uygun, N., & Uçar, F.M. (2018). The Relationship between the Levels of Self-efficacy Beliefs of Pre-service Teachers and their Levels of Determining Suitable Taxonomy, Strategy, and Method-technique for Science Objectives. Science Education International 31(1), 117-126. https://doi.org/10.33828/sei.v31.i1.12
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Qualitative content analysis (Table 4) of answers to "Why did you choose that objective?" with open coding by two field experts; agreement percentages of 0.90 and finally 0.96. Themes included teaching process, professional knowledge, professional quality, and learning process.
 

@@ -15,12 +15,14 @@ sources:
     author: "Rodriguez, Roth, & Villarreal Sosa"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` SSWs report that state and local policies and practices, such as 287g law-enforcement cooperation, produce fear of deportation that deters families from seeking help and school resources. [→ Rodriguez 2022](#rodriguez-2022)
@@ -31,7 +33,7 @@ sources:
 
 Rodriguez, Roth, & Villarreal Sosa. (2022). "Immigration Enforcement Is a Daily Part of Our Students' Lives": School Social Workers' Perceptions of Racialized Nested Contexts of Reception for Immigrant Students. AERA Open. https://doi.org/10.1177/23328584211073170
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Open-ended survey responses analyzed thematically at the meso level. A suburban Georgia SSW described 287g enforcement producing fear; other respondents described ICE raids, schools as "not an arm of the law," and districts' inequitable resource distribution limiting SSW action.
 

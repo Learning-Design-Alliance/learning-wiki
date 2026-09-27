@@ -15,12 +15,14 @@ sources:
     author: Lepore, C. E.
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` 15 of 36 students (42%) reported less difficulty regarding comprehensibility between VT1 and VT3, reaching significance (Z = -2.120, p < .05). [→ Lepore 2014](#lepore-2014)
@@ -32,7 +34,7 @@ sources:
 
 Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Wilcoxon signed-rank tests on Part 3 of the self-assessment form comparing perceived difficulty of pronunciation-specific tasks between VT1 and VT3 (n = 36). The article also reports a significant decrease in perceived difficulty of accuracy efforts (Z = -2.134, p < .05) for 33% of students.
 

@@ -15,12 +15,14 @@ sources:
     author: Smith, A. T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Coaching responsibilities divide into mentoring (planning with, observing, and conferring with individual teachers) and literacy program advocacy (school-level professional development and curriculum implementation). [→ Smith 2009](#smith-2009)
@@ -31,7 +33,7 @@ sources:
 
 Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A conceptual synthesis in the framework overview, citing prior literature (Smith, 2006; IRA, 2006; Walpole & Blamey, 2008) for the claim that "coaching responsibilities fall into two major areas." No empirical data are reported in this brief.
 

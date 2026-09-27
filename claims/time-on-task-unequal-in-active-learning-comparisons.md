@@ -15,12 +15,14 @@ sources:
     author: "Martella, A. M., Lovett, M. C., & Ramsay, L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 44.1% of the 59 studies had unequal home time-on-task, and in each of these the active learning condition was designed for more home time than the comparison condition(s). [→ Martella 2021](#martella-2021)
@@ -31,7 +33,7 @@ sources:
 
 Martella, A. M., Lovett, M. C., & Ramsay, L. (2021). Implementing active learning: A critical examination of sources of variation in active learning college science courses. Journal on Excellence in College Teaching, 32(1), 67-96. https://jlect.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Study-level time-on-task analysis in the review's structure/design source of variation. The review reports 20.3% of studies had unequal in-class time and 44.1% unequal home time, with active learning conditions typically requiring more home time due to recorded lectures and longer homework; descriptive only.
 

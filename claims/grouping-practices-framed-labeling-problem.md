@@ -14,12 +14,14 @@ sources:
     author: "Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Rees debrief, random and purposeful grouping practices from PCMI and Kagan training afforded a representation of teaching as entailing judgments between contrasting structures and a framing of student labeling that underscored local school context and teacher agency. [→ Ehrenfeld 2020](#ehrenfeld-2020)
@@ -30,7 +32,7 @@ sources:
 
 Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interaction analysis of the Rees Middle School debrief episode (EPR 2), where Ezio contrasted random grouping (from PCMI) with purposeful grouping (from Kagan training) twice, ultimately valuing random grouping because it "disrupted the institutional process of labeling kids" amid unofficial tracking.
 

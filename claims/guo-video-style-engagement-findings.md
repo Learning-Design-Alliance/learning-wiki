@@ -15,12 +15,14 @@ sources:
     author: Chorianopoulos, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Guo, Kim, and Rubin (2014), that students prefer short videos, slides should include a talking head, the Khan drawing style is more engaging than slides or coding sessions, and direct classroom recording does not work well online. [→ Chorianopoulos 2018](#chorianopoulos-2018)
@@ -31,7 +33,7 @@ sources:
 
 Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing these findings to Guo, Kim, and Rubin (2014), described as the largest study of instructional video formats, which identified six basic video production styles. The review notes the limitation that "all the courses were from the same platform (EdX) and all the courses are from science and engineering."
 

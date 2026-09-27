@@ -15,12 +15,14 @@ sources:
     author: Brandhorst, Allan R.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Citing Kohlberg, the paper argues moral reasoning is necessary but not sufficient for moral behavior, and that the taxonomy fosters ego strength through success experiences, making its aims consistent with moral development and value analysis. [→ Brandhorst 1976](#brandhorst-1976)
@@ -31,7 +33,7 @@ sources:
 
 Brandhorst, Allan R. (1976). Toward a Taxonomy of Educational Objectives in the Relational Domain. https://eric.ed.gov/?id=ED134505
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the values-education section. The author attributes the reasoning-behavior gap to Kohlberg (1971) and, citing Coombs and Meux (1971), argues the taxonomy's fostering of ego development also supports value analysis procedures. No data are reported.
 

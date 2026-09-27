@@ -15,12 +15,14 @@ sources:
     author: "Kropiewnicki, M. I., & Shapiro, J. P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Each principal's personal ethic of care related to their roles as mothers was reflected in their behaviors as administrators to varying degrees. [→ Kropiewnicki 2001](#kropiewnicki-2001)
@@ -31,7 +33,7 @@ sources:
 
 Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Cross-case conclusion drawn from interviews: principals described dealing with students as if they were their own children, and staff remarks conveyed that motherhood experience made them more effective and understanding leaders. The authors conclude caring is an on-going activity and ethic in their lives.
 

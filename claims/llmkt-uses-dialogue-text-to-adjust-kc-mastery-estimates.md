@@ -15,18 +15,22 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` LLMKT excels in cases when it relies on textual information, rather than correctness labels, to adjust its KC mastery estimates. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -38,7 +42,7 @@ sources:
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Qualitative case study of one CoMTA test-set dialogue (Table 3): "LLMKT excels in cases when it relies on textual information"; the model appeared to estimate the second tutor question as harder than the first despite overlapping KC labels.
 
@@ -48,7 +52,7 @@ Qualitative case study of one CoMTA test-set dialogue (Table 3): "LLMKT excels i
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Qualitative analysis observation: LLMKT "tends to predict low mastery when a KC is seen for the first time in a dialogue", which the authors suggest may reflect students not reacting well to tutors shifting to new KCs mid-way.
 

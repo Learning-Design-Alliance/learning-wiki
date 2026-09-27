@@ -15,12 +15,14 @@ sources:
     author: Dennis, J. K.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Texts are foundational for the disciplines, and interdisciplinarity depends on the integrative power of texts and language rather than on complex systems theory alone. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. K. (2020). The Kantian Effect: Reconceiving the Integration of Knowledge in Interdisciplinary Theory. JIS Journal of Interdisciplinary Sciences, 4(2). https://eric.ed.gov/?id=ED608667
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is a theoretical argument in the article's synthesis of Bakhtin and Barthes: each word of a text exceeds its boundaries, understanding correlates a text with other texts, and Barthes argues interdisciplinary work consists in creating a new object belonging to no one rather than arranging sciences around a theme. The conclusion states interdisciplinarity is almost impossible to practice without the integrative power of texts.
 

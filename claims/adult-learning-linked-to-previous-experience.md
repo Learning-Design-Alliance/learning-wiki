@@ -15,12 +15,14 @@ sources:
     author: Torkington, Kate
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Adults learn better when learning content and methods link to their previous experience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper reports, citing Barkatoolah (1990), that adult learning improves when the matter learned or methods used can be connected to the adult's previous experience and that experience reinvested in new learning. [→ Torkington 1996](#torkington-1996)
@@ -31,7 +33,7 @@ sources:
 
 Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper attributes this position to Barkatoolah (1990) in its adult learning section, presenting it as current thinking in adult education rather than as a tested finding; no study design or effect size is reported.
 

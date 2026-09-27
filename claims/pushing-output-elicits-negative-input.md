@@ -15,12 +15,14 @@ sources:
     author: Yu Liming
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In authentic communication native speakers attend to meaning rather than form and tolerate non-native inaccuracies, so negative input is not readily available. [→ Yu Liming 1990](#yu-liming-1990)
@@ -31,7 +33,7 @@ sources:
 
 Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Diary self-study, journal entry of Oct. 27: an officemate's visitor says "Since I understood what you meant, why should I bother?" about uncorrected errors, supporting that "native speakers will attend to meaning rather than form".
 

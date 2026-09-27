@@ -15,12 +15,14 @@ sources:
     author: Ronald E. Chennault
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The article concludes that Washington's insistence on the correctness of his Tuskegee method and unconditional acceptance of it effectively stifled the emergence of new ideas, and that his self-help industrial education restricted Black people's potential for broad success. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -31,7 +33,7 @@ sources:
 
 Ronald E. Chennault. (2013). Pragmatism and Progressivism in the Educational Thought and Practices of Booker T. Washington. Philosophical Studies in Education, Volume 44. https://eric.ed.gov/?id=EJ1015729
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Authors' interpretive conclusion: the article states Washington's "insistence on the correctness of his Tuskegee method" effectively stifled new ideas, making him an oppressor within other sociopolitical projects, and judges his system of self-help using industrial education as restricting Black people's potential for broad success.
 

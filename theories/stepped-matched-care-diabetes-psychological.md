@@ -16,7 +16,7 @@ sources:
 # Stepped/matched care model for psychological care in diabetes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review proposes stepped- or matched care as the organizing model for embedding psychological care in diabetes services: people receive the least intensive yet effective care first, with escalation to specialized care if needed. In the article's words, "These models ensure that people receive the least intensive, yet effective, care first, with escalation to more specialized care if needed." Routine distress assessment could trigger nurse-led psycho-education, while persistent or severe distress warrants referral to a psychologist, creating a tiered model of expertise in which psychologists supervise and handle complex cases.

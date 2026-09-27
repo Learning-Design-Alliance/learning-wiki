@@ -15,18 +15,22 @@ sources:
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 3
     i: 1
+    kind: causal
+    rigour: 3
   - id: french-chloe-2026-2
     resource: "https://doi.org/10.1093/ageing/afag291"
     title: "French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291"
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` KOKU was associated with an adjusted incremental fall-related cost of −£59.81 (95% CI −£215.37 to £43.39, not significant) and an average incremental QALY gain of 0.020 (95% CI 0.004 to 0.033, significant), making it dominant. [→ French Chloe 2026](#french-chloe-2026)
@@ -38,7 +42,7 @@ sources:
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q3 · i1`
+`q3 · i1` · `causal · r3`
 
 Cost-utility analysis from the NHS and Personal Social Services perspective over a 12-week horizon, using regression and non-parametric bootstrapping with 10 005 replications. Delivery cost was £46.17 per person; because the intervention was "both less costly and more effective", no ICER was calculated.
 
@@ -48,7 +52,7 @@ Cost-utility analysis from the NHS and Personal Social Services perspective over
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Sensitivity analyses covering complete-case analysis, excluding tablet costs, varying unit costs by ±10%, and assuming one in four participants required a tablet; the authors report the cost-effectiveness results were robust to these alternative assumptions.
 

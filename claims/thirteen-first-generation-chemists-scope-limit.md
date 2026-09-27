@@ -15,12 +15,14 @@ sources:
     author: Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The insights come from 13 first-generation chemists in the CAS Future Leaders Top 100 program who succeeded and stayed in chemistry, so they cannot represent first-generation scientists who left the field, changed disciplines, or did not pursue academic careers. [→ Ives Robert A. 2026](#ives-robert-a-2026)
@@ -31,7 +33,7 @@ sources:
 
 Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling. (2026). Reconsidering Excellence in the Chemical Sciences: Lessons from First-Generation Chemists. ACS Central Science. https://doi.org/10.1021/acscentsci.6c00822
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 The editorial's own Limitations and Scope section states the sample comprises 13 successful first-generation chemists and acknowledges exclusion of those who left chemistry, changed disciplines, did not pursue academic careers, or could not overcome the barriers described.
 

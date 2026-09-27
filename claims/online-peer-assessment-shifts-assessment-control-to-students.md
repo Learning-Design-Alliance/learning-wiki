@@ -15,12 +15,14 @@ sources:
     author: Online peer assisted learning community model and its application in ZJNU
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In online instructional design, peer assessment has become widely used, producing a shift from teacher-controlled assessment to combined teacher and peer assessment, with learners revising work based on peer feedback before teacher evaluation. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
@@ -31,7 +33,7 @@ sources:
 
 Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 The article's review of online instructional design reports "a shift from teacher controlled assessment to combination of teacher assessment and students peer assessment" and positions an online peer assessment system as support for online instructional design. No comparative data are reported.
 

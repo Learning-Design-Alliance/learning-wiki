@@ -16,7 +16,7 @@ sources:
 # Interactionist vs. interventionist approaches to Dynamic Assessment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article organizes Dynamic Assessment — a Vygotskian approach integrating assessment and instruction — into two mediation models. It states that "In interactionist approaches to DA, the learner's zone of proximal development (ZPD) is highly involved since the mediator assists the learner through interaction", with non-standardized, responsive hints and continuous individual mediation. In interventionist DA, by contrast, "the mediation is pre-scripted hints from implicit to explicit so it can be similar for all learners", using standardized pre-planned hints and cues. The study operationalized interactionist DA as the experimental condition and interventionist DA as the control condition in IELTS writing classes.

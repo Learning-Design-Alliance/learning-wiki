@@ -15,18 +15,22 @@ sources:
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: sweet-2012-2
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM"
     title: "Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM"
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In design matrix 1 games, the smallest distributional range of WD values across learner types is observed when tasks are easy as well as highly specific (condition A2). [→ Sweet 2012](#sweet-2012)
@@ -38,7 +42,7 @@ sources:
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Distributional analysis of WD values across learner types for design matrix 1 games, broken down by task difficulty (1-7) and specificity (A, B, C), shows "the smallest distributional range is observed when the tasks are "easy" as well as "highly specific" (condition A2)".
 
@@ -48,7 +52,7 @@ Distributional analysis of WD values across learner types for design matrix 1 ga
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The same design matrix 1 distributional analysis shows "the widest range of WD values is observed for "well-designed" tasks (conditions A1, B1, and C1)", with remaining conditions falling between these extremes.
 

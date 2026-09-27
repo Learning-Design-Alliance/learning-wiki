@@ -17,7 +17,7 @@ sources:
 # Rainbow passage with ASR transcription and segmental error rate (SER) as a pronunciation diagnostic instrument
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A diagnostic assessment instrument combining the Rainbow passage (adapted from Fairbanks, 1960, and validated for Korean pronunciation assessment by Yang, 2020) with ASR speech-to-text transcription. The study "combined Penkhae's (2020) focus on problematic sounds with Yang's (2020) simplified rubric", narrowing the focus from whole words to commonly mispronounced sounds. Recordings are transcribed by Google Cloud speech to text, errors are categorized against a list of errors common to L1 Korean speakers, and a segmental error rate is computed over the passage's 131 syllables, enabling error diagnosis without subjective differences between raters.

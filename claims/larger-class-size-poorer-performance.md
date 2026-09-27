@@ -15,12 +15,14 @@ sources:
     author: Walls, J. K.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Larger class size linked to poorer student and teacher performance (review attribution)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Bedard and Kuhn (2008) and Chapman and Ludlow (2010), that larger class size has been linked to poorer student and teacher performance. [→ Walls 2016](#walls-2016)
@@ -31,7 +33,7 @@ sources:
 
 Walls, J. K. (2016). A Theoretically Grounded Framework for Integrating the Scholarship of Teaching and Learning. Journal of the Scholarship of Teaching and Learning, 16(2). https://doi.org/10.14434/josotl.v16i2.19217
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attribution in the Context (microsystem) section: the article states "Larger class size has been linked to poorer student and teacher performance", citing economics-of-education and general-education studies. No effect sizes are printed.
 

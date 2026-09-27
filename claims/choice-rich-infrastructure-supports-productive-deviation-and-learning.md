@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)
+    kind: qualitative
+    rigour: 3
 ---
 
 # Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)
+> **Evidence** · 1 study · qualitative `r3` · `q2` · n=2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)
 
 Two sixth-grade students, given sustained access to a choice-rich, ungraded in-school STEAM infrastructure, extended a single game-design challenge into a year-long, self-directed project involving skills and practices the challenge never taught, encountering and independently resolving 23 discrete technical problems along the way.
 
@@ -37,7 +39,7 @@ Two sixth-grade students, given sustained access to a choice-rich, ungraded in-s
 
 Hilppö, J., & Stevens, R. (2024). Learning Inside the School, but Outside the Curriculum: An Extreme Case of Interest-Driven Learning in Alternative STEAM Learning Infrastructure for Schools. *Cognition and Instruction, 42*(4), 482-504. [https://doi.org/10.1080/07370008.2024.2386956](https://doi.org/10.1080/07370008.2024.2386956)
 
-`q2 · ethnographic case study with systematic, multi-source data (first-person action-camera video, room-level video, field notes, server logs, end-of-year interviews) and interaction-analysis methodology; explicitly selected and framed by the authors as an "extreme case," not a representative sample` `i? · the abstract prints no effect size; the full text may` `n=2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)`
+`q2 · ethnographic case study with systematic, multi-source data (first-person action-camera video, room-level video, field notes, server logs, end-of-year interviews) and interaction-analysis methodology; explicitly selected and framed by the authors as an "extreme case," not a representative sample` `i? · the abstract prints no effect size; the full text may` `n=2 focal sixth-grade students (embedded within a larger ethnography of 7 studio implementations across 3 schools), one school year (2015-2016)` · `qualitative · r3`
 
 Two sixth-grade students at a FUSE Studio implementation (see [Alternative In-School STEAM Learning Infrastructure](../patterns/alternative-in-school-steam-learning-infrastructure.md)) were followed intensively across a full school year using first-person action-camera video, room video, field notes, and server logs. Deliberately selected as an "extreme case" for the duration and extent of their departure from the original challenge structure, their trajectory — from an initial game-design tutorial to two original, publicly-shared games — was analyzed via interaction analysis to characterize what problem-solving and self-directed learning look like when infrastructure supports genuine deviation from a designed task.
 

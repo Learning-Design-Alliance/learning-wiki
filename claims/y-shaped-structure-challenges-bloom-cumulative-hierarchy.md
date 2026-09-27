@@ -15,12 +15,14 @@ sources:
     author: Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Stepped regressions and partial correlations indicated a break in the assumed hierarchy: Knowledge to Comprehension to Application forms a stem, with one branch to Analysis and another to Synthesis and Evaluation. [→ Madaus 1971](#madaus-1971)
@@ -31,7 +33,7 @@ sources:
 
 Madaus, George F.; Nuttall, Ronald L.; Woods, Elinor M. (1971). A Causal Model Analysis Suggests Modification of the Cumulative Hierarchical Structure Assumed in Bloom's Taxonomy of the Cognitive Domain. https://eric.ed.gov/?id=ED054203
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 Causal model analyses of Kropp and Stoker's four taxonomy tests across 16 replications (four contents by four grades, N=1,128) using multiple regression proportions of variance. The authors report the analyses "suggested a Y-shaped structure" replacing the linear cumulative hierarchy.
 

@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: 332 independent samples (~385,441 participants) from 223 studies
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Math Anxiety Degrades Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=332 independent samples (~385,441 participants) from 223 studies
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=332 independent samples (~385,441 participants) from 223 studies
 
 Math anxiety — feelings of tension, apprehension, or dread when manipulating numbers or solving mathematical problems — impairs mathematical performance, primarily by consuming working memory resources needed for computation and reasoning. The impairment is situational rather than uniform: it emerges most strongly when evaluative pressure or high working memory demands collide with anxiety-generated load [~M].
 
@@ -34,7 +36,7 @@ Math anxiety — feelings of tension, apprehension, or dread when manipulating n
 
 Barroso, C., Ganley, C. M., McGraw, A. L., Geer, E. A., Hart, S. A., & Daucourt, M. C. (2021). A meta-analysis of the relation between math anxiety and math achievement. *Psychological Bulletin, 147*(2), 134–168. [doi:10.1037/bul0000307](https://doi.org/10.1037/bul0000307)
 
-`q4 · well-powered meta-analysis` · `i2 · medium effect, r=-.28` · `n=332 independent samples (~385,441 participants) from 223 studies`
+`q4 · well-powered meta-analysis` · `i2 · medium effect, r=-.28` · `n=332 independent samples (~385,441 participants) from 223 studies` · `quant-synthesis · r2`
 
 Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 correlation coefficients from 332 independent samples (~385,441 participants) to account for non-independence among effect sizes from the same sample. The pooled correlation between math anxiety and math achievement was r = −.28 (small-to-moderate, negative, statistically significant), and the relation held for nearly every moderator subgroup tested (grade level, math-ability level, adolescent/adult anxiety scales, math topic of the anxiety scale, and assessment type), with the sole exception of anxiety and approximate-number-system tasks. Grade level, ability level, and scale/assessment type were significant moderators of the size of the relation, and effect sizes were somewhat weaker in grades 3–5 and postsecondary samples than at other ages.
 

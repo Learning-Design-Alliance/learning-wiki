@@ -15,12 +15,14 @@ sources:
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Even the most talented performers need around 10 years of intense involvement to reach international level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No modern chess master reached the international level in less than approximately 10 years of playing, including prodigies such as Bobby Fischer, and the rule extends to music, sports, sciences, and arts. [→ Ericsson 2005](#ericsson-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review of longitudinal assessments and retrospective evidence on expert development. The article reports that Simon and Chase originally proposed the 10-year rule for chess and that "even the most “talented” need around 10 years of intense involvement" before international level.
 

@@ -15,12 +15,14 @@ sources:
     author: Nitko, Anthony J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Criterion-referenced tests require empirically-based construct validation studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Empirical evidence is needed to support contentions that classes of test tasks reflect the behavior or competence of interest, requiring construct validation studies like those recommended for psychological tests. [→ Nitko 1970](#nitko-1970)
@@ -31,7 +33,7 @@ sources:
 
 Nitko, Anthony J. (1970). Criterion-Referenced Testing in the Context of Instruction. https://eric.ed.gov/?id=ED047010
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper's 'Need for a Data Base' section argues, as a theoretical position, that criterion-referenced test builders must conduct "many of the same kinds of construct validation studies" recommended for psychological tests, citing Cronbach and Meehl. No validation study is reported in the paper itself.
 

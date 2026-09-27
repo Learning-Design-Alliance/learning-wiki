@@ -15,12 +15,14 @@ sources:
     author: North Carolina State Dept. of Public Instruction, Div. of Support Programs
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The guide assigns school districts three purposes for self-monitoring: reviewing for compliance, taking corrective action, and identifying assistance needs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Self-monitoring is defined as serving three district-level purposes: compliance review, corrective action, and identification of areas needing SDPI assistance. [→ North Carolina State Dept. of Public Instruction 1988](#north-carolina-state-dept-of-public-instruction-1988)
@@ -31,7 +33,7 @@ sources:
 
 North Carolina State Dept. of Public Instruction, Div. of Support Programs. (1988). Self-Monitoring Process for Job Training Partnership Act (JTPA) Programs. https://eric.ed.gov/?id=ED303603
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Definitional statement from the guide's section on the purposes of self-monitoring; it is an administrative directive, not a tested result, and the article offers no evidence or argument beyond the statement itself. The purposes frame the nine-step review procedure the guide recommends.
 

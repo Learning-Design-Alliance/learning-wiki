@@ -12,7 +12,7 @@ generated:
 # Cross Age Tutoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 12 studies, `q1`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 6 claims (6 for) · 12 studies (6 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Cross age tutoring pairs an older student with a younger one so the older student teaches, models, and gives feedback on content the younger student is learning. Unlike [peer tutoring](peer-tutoring.md) between same-age classmates, the age gap establishes a clear role asymmetry: the tutor has mastered (or is re-consolidating) material the tutee is encountering for the first time. Sessions are typically structured — a short warm-up, focused work on specific objectives, and a closing check — rather than open homework help.

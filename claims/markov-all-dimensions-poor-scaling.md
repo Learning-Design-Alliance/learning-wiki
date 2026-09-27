@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For the within-occasion bifactor model with first-order Markov structures over time for all dimensions, the maximal number of latent variables in a clique increases with T (four when D = 3 and T = 3; six when T = 6 under the heuristic triangulation used). [→ Rijmen 2010](#rijmen-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Graphical analysis of the model requiring triangulation edges. The article reports the maximal clique held four latent variables when both D = 3 and T = 3, and that "For T = 6, the largest number of latent variables in a clique was six" using the same heuristic triangulation algorithm.
 

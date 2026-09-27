@@ -15,12 +15,14 @@ sources:
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The WD statistic is more useful for differentiating between simulated learner types when games are played longer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` WD differentiates between learner types more usefully when games are played longer, because relative differences between learner types become more pronounced over time as more evidence about learner differences accumulates. [→ Sweet 2012](#sweet-2012)
@@ -31,7 +33,7 @@ sources:
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Median WD trajectories for 21 learner types across 100 replications in design matrix 1 games show "the WD is more useful for differentia ting between learner types when games are played longer" as evidence about learner differences accumulates.
 

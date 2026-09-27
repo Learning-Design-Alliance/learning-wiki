@@ -21,7 +21,7 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Peer discussion is the instructional principle of using structured talk among learners to deepen interpretation, explanation, and understanding. Its value comes from learners having to articulate ideas, compare reasoning, respond to alternatives, and make meaning together rather than only receiving information individually. Peer discussion can support retention, disciplinary language, perspective-taking, and critical thinking, but it is strongest when the discussion task is purposeful and well-scaffolded.

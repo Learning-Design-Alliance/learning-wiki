@@ -15,12 +15,14 @@ sources:
     author: Tims, Albert R., Jr
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Magazine article reading about politics shows no age-related increase, low stability, and low parent-child similarity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Age-group differences in magazine article reading about politics or government were nonsignificant at both waves (F < 1). [→ Tims 1983](#tims-1983)
@@ -31,7 +33,7 @@ sources:
 
 Tims, Albert R., Jr. (1983). Development of Public Affairs Media Use. https://eric.ed.gov/?id=ED238044
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Age-group ANOVA of weekly magazine article reading in the two-wave survey; means were low and skewed (winter mean .86 articles, nearly 70 percent of adolescents reporting none). No significant between-group differences at either wave.
 

@@ -16,7 +16,7 @@ sources:
 # Pedagogical judgment as interpretable, responsive instructional decision-making (Horn & Campbell, operationalized via inquiry as stance)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study builds on Horn and Campbell's (2015) conception of pedagogical judgment, which the authors "operationalize as the ability to interpret classroom interactions and make responsive instructional decisions." Framed by Cochran-Smith and Lytle's inquiry as stance — practice-based work in which practitioners "collaboratively theorize, study, and act on those problems in the best interests of the learning and life chances of students" — the framework treats pedagogical judgment as a cultivable capacity made visible through structured tools, prompts, and feedback rather than a fixed trait.

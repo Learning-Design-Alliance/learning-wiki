@@ -15,18 +15,22 @@ sources:
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: a-pradheepa-2025-2
     resource: "https://doi.org/10.29140/ajal.v8n1.2073"
     title: "A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073"
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Frequent gamers showed better L2 proficiency than moderate gamers and non-gamers, yet receptive extramural English activities negatively related to productive vocabulary scores. [→ A. Pradheepa 2025](#a-pradheepa-2025)
@@ -38,7 +42,7 @@ sources:
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Sylvén and Sundqvist (2012), that frequent gamers outperformed moderate gamers and non-gamers in L2 proficiency; it also reports, citing Jones and Calafato (2023), that receptive EE activities had negative implications for productive vocabulary test scores.
 
@@ -48,7 +52,7 @@ The review reports, citing Sylvén and Sundqvist (2012), that frequent gamers ou
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Calafato and Clausen (2024), positive relations between gaming-time strategies (inferencing, referencing, note-taking) and productive vocabulary knowledge; it also notes a modest negative impact of driving games on receptive vocabulary knowledge.
 

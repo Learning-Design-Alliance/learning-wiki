@@ -15,12 +15,14 @@ sources:
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across all gloss conditions retention declined between the immediate and first delayed recall tests, but between the first and second delayed recall tests a slight increase in retention was observed for all groups including the control. [→ Cheng 2009](#cheng-2009)
@@ -31,7 +33,7 @@ sources:
 
 Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Descriptive analysis of the four vocabulary tests (Table 5, Figure 1) for the combined levels: gloss-group means rose from pretest to VocTest 1, declined on VocTest 2, and rose slightly on VocTest 3; the no-gloss group declined from pretest (M = 6.75) through VocTest 2 (M = 4.97).
 

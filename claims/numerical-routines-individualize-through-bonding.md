@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
+    kind: qualitative
+    rigour: 2
 ---
 
 # Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
+> **Evidence** · 1 study · qualitative `r2` · `q3` · n=4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
 
 A longitudinal teaching experiment tracing one child's numerical development over 18 months (corroborated by three additional cases) found a consistent three-stage sequence — unbonded precursor routines, then separately vertically-bonded quantitative and numerical routines, then horizontally-bonded coalescence into a discourse of cardinality — with the same qualitative sequence, though not the same pace, across all four children studied.
 
@@ -37,7 +39,7 @@ A longitudinal teaching experiment tracing one child's numerical development ove
 
 Lavie, I., & Sfard, A. (2019). How Children Individualize Numerical Routines: Elements of a Discursive Theory in Making. *Journal of the Learning Sciences, 28*(4-5), 419-461. [https://doi.org/10.1080/10508406.2019.1646650](https://doi.org/10.1080/10508406.2019.1646650)
 
-`q3 · intensive longitudinal teaching experiment (1 focal case, 3 corroborating cases), video-recorded interviews approximately every 4-5 months over 18-24 months, with an explicit coding scheme for routines and vocabulary; not a controlled experiment or RCT, and the authors themselves note their task battery had gaps (e.g., too few small-set comparisons to fully test whether cardinality coalescence happens for small sets before large ones)` · `i? · the abstract prints no effect size; the full text may` · `n=4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample`
+`q3 · intensive longitudinal teaching experiment (1 focal case, 3 corroborating cases), video-recorded interviews approximately every 4-5 months over 18-24 months, with an explicit coding scheme for routines and vocabulary; not a controlled experiment or RCT, and the authors themselves note their task battery had gaps (e.g., too few small-set comparisons to fully test whether cardinality coalescence happens for small sets before large ones)` · `i? · the abstract prints no effect size; the full text may` · `n=4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample` · `qualitative · r2`
 
 Under [Commognition](../theories/commognition.md), the researcher acted as both teacher and observer in a Vygotskian teaching-experiment design, posing repeated "Where Is There More?" comparison tasks to four children over 18-24 months and video-recording their routines and vocabulary. [Vertical and Horizontal Bonding in Numerical Routines](../principles/vertical-and-horizontal-bonding-in-numerical-routines.md) names the two mechanisms the authors identify as driving the transition between stages. The focal case (Milo) is documented in the greatest depth; the three additional cases replicate the qualitative sequence (though not its timing), which is the paper's basis for treating the mechanism, not just the timeline, as generalizable.
 

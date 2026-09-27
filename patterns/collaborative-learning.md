@@ -13,7 +13,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (5 for) · 6 studies, `q1`–`q3` · 1 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 6 studies (3 qualitative, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Collaborative learning is the short-form canonical pattern for shared work, discussion, and co-construction of understanding.

@@ -15,18 +15,22 @@ sources:
     author: Golomb, Claire; Vogel, David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: golomb-1983-2
     resource: "https://eric.ed.gov/?id=ED233823"
     title: "Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823"
     author: Golomb, Claire; Vogel, David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Pretense play training improves gender constancy on the first posttest but not the second
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Pretense play training was more effective than the control condition for gender level scores on posttest 1. [→ Golomb 1983](#golomb-1983)
@@ -38,7 +42,7 @@ sources:
 
 Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pairwise comparison of gender level scores on posttest 1 in the randomized training study showed pretense play training "more effective than the control condition" at p < .01 as printed.
 
@@ -48,7 +52,7 @@ Pairwise comparison of gender level scores on posttest 1 in the randomized train
 
 Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 On posttest 2 the gender-level training effect was no longer significant; the article reports differences "in the tredicted direction but failed to reach significance". Equivalence was not tested.
 

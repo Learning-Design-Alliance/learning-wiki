@@ -15,18 +15,22 @@ sources:
     author: "Xiong, Y., Zhou, H., & Ogilby, S. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: xiong-2014-2
     resource: "https://doi.org/10.5539/jel.v3n4p1"
     title: "Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1"
     author: "Xiong, Y., Zhou, H., & Ogilby, S. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The effect of cognitive elaboration strategies on total posttest scores was significant at the 10% level, and remained significant at the 5% level when GPA was included as a factor. [→ Xiong 2014](#xiong-2014)
@@ -38,7 +42,7 @@ sources:
 
 Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 ANOVA on total posttest scores in the three-group experiment; the pretest covariate was insignificant. With GPA in the model, the strategy effect was significant at the 5% level (F=2.96, p=0.05).
 
@@ -48,7 +52,7 @@ ANOVA on total posttest scores in the three-group experiment; the pretest covari
 
 Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the Effects of Cognitive Elaboration on Accounting Learning Outcomes. Journal of Education and Learning, 3(4). https://doi.org/10.5539/jel.v3n4p1
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Univariate posttest comparison from Table 3: the self-generated group (mean 3.89) versus the instructor-assisted group (mean 2.54), difference +1.35, t=2.40, p=0.02; self vs. combined was not significant (t=0.58, p=0.56).
 

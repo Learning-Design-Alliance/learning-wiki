@@ -15,30 +15,38 @@ sources:
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: liu-2016-2
     resource: "https://doi.org/10.5539/elt.v9n4p92"
     title: "Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92"
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: liu-2016-3
     resource: "https://doi.org/10.5539/elt.v9n4p92"
     title: "Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92"
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: liu-2016-4
     resource: "https://doi.org/10.5539/elt.v9n4p92"
     title: "Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92"
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Amotivation items scored high (means above 3.8), which the author attributes to compulsory English requirements. [→ Liu 2016](#liu-2016)
@@ -52,7 +60,7 @@ sources:
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive statistics (Table 5) for the 23 questionnaire items from the 558-student survey; the author reports "the means of the three items within the Amotivation subscale are high" and links this to compulsory English credits.
 
@@ -62,7 +70,7 @@ Descriptive statistics (Table 5) for the 23 questionnaire items from the 558-stu
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive item analysis: "Three of the four items within the External Regulation subscale, have means grea ter than 3.8", which the author reads as participants being "greatly motivated by external demand or possible reward".
 
@@ -72,7 +80,7 @@ Descriptive item analysis: "Three of the four items within the External Regulati
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive item analysis of the Identified Regulation subscale: "two out of  the three items have scores higher than 4", read as internalization of ESP's importance; the social-status item IDRQ13 had a very low mean (3.42).
 
@@ -83,7 +91,7 @@ indicate that the participants are highly motivated to l earn ESP because they r
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive item analysis of intrinsic subtypes: "all Intrinsic Motivati on-Knowledge and Intrinsic Motivation –Accomplishments items have scores higher than 3.8", interpreted as internalized knowledge pursuit and desire for challenge. IM-Stimulation was weaker, with two of four items above 4.
 

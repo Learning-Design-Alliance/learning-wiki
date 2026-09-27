@@ -15,18 +15,22 @@ sources:
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: karatas-2012-2
     resource: "http://dx.doi.org/10.5539/ies.v5n6p131"
     title: "Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131"
     author: "Karatas, Z. & Tagay, O."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Locus of control correlated negatively with subjective well-being (r = -.26) and, in gradual regression, contributed 3.3% of variance after self-esteem (Beta = -.184). [→ Karatas 2012](#karatas-2012)
@@ -38,7 +42,7 @@ sources:
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Gradual (stepwise) regression analysis (Table 2, n=318) predicting subjective well-being. Locus of control entered second with R2Change of .033 and Beta = -.184; the text reports it followed self-esteem "with 3.3%" of expressed variance. No standardised effect size is printed for this step.
 
@@ -48,7 +52,7 @@ Gradual (stepwise) regression analysis (Table 2, n=318) predicting subjective we
 
 Karatas, Z. & Tagay, O. (2012). Self Esteem, Locus of Control and Multidimensional Perfectionism as the Predictors of Subjective Well Being. International Education Studies, 5(6). http://dx.doi.org/10.5539/ies.v5n6p131
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Pearson correlation analysis (Table 1, n=318). The locus-of-control column shows "-.26**" with subjective well-being, i.e. r = -.26, significant at p<.01, indicating a negative relationship.
 

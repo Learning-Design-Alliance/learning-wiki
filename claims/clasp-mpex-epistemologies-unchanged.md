@@ -15,12 +15,14 @@ sources:
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Administering the MPEX-II to about 600 students in two CLASP A courses in Fall 2008, the favorable fraction changed from 0.46 ± 0.01 to 0.47 ± 0.01 and the unfavorable fraction from 0.27 ± 0.01 to 0.28 ± 0.01 — statistically unchanged, in contrast to national-sample declines even in most reformed classes. [→ Potter 2018](#potter-2018)
@@ -31,7 +33,7 @@ sources:
 
 Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A courses, before and after the quarter. The article reports the epistemologies were "statistically unchanged over the course of the quarter"; no effect size is printed.
 

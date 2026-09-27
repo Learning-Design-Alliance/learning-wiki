@@ -29,7 +29,7 @@ sources:
 # Practice Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Practice time is scheduled, low-stakes opportunity for learners to apply a skill or concept immediately after instruction, without grading or evaluative consequences. The instructor's role shifts from presenting to circulating, monitoring, and giving [feedback](../elements/assessment.md) while learners attempt the task themselves.

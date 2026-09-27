@@ -15,12 +15,14 @@ sources:
     author: "Larsen, A., & James, T."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Pedler et al. (2022), that students with a stronger sense of belonging tend to have more academic self-confidence, higher motivation, higher levels of academic engagement and higher achievement. [→ Larsen 2022](#larsen-2022)
@@ -31,7 +33,7 @@ sources:
 
 Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review attribution: the article reports Pedler et al.'s (2022) finding that stronger belonging co-occurs with "academic self-confidence, higher motivation, higher levels of academic engagement and higher achievement". The underlying study's design is not described here; no effect sizes are printed.
 

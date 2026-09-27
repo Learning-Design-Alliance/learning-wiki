@@ -15,18 +15,22 @@ sources:
     author: "Kropiewnicki, M. I., & Shapiro, J. P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: kropiewnicki-2001-2
     resource: "https://eric.ed.gov/?id=ED453599"
     title: "Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599"
     author: "Kropiewnicki, M. I., & Shapiro, J. P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Female principals empowered others through shared ownership, committee involvement, and staff development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Each principal created school environments of shared ownership by involving parents, community members, and staff in school decision making. [→ Kropiewnicki 2001](#kropiewnicki-2001)
@@ -38,7 +42,7 @@ sources:
 
 Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Cross-case finding from interviews and documents: Sara and Anne invited parents and community members onto committees, Lee ran an active PTA, and Anne used a school climate task force, mentor program, and advisory committee to distribute voice and ownership.
 
@@ -48,7 +52,7 @@ Cross-case finding from interviews and documents: Sara and Anne invited parents 
 
 Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Responses to the hypothetical merit-pay dilemma revealed differing enactments of care under hierarchy: Lee and Anne refused to lower ratings, while Sara abided by the directive but offered letters of commendation and perks, visibly uncomfortable with the unfairness.
 

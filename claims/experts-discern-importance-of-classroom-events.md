@@ -15,12 +15,14 @@ sources:
     author: Berliner, David C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Experts discern instructional significance in classroom scenes while novices and postulants treat all visual stimuli as equally important
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a rapid slide-exposure study, experts described scenes in terms of instructional significance while postulants and novices gave literal, static descriptions. [→ Berliner 1988](#berliner-1988)
@@ -31,7 +33,7 @@ sources:
 
 Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 In the article's visual-processing study, a classroom slide was shown for under 1 second. Postulants and novices gave literal descriptions (blond hair, posture), while experts gave organized descriptions around concepts like work; postulants could not 'distinguish what was important from what was not'.
 

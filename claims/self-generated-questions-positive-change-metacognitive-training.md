@@ -15,12 +15,14 @@ sources:
     author: "Gil-Garcia, A. & Canizales, R."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The authors report that an area of positive change in their study was students' use of self-generated questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In discussing the present study's findings, the authors state that an area of positive change was in the use of self-generated questions. [→ Gil-Garcia 2001](#gil-garcia-2001)
@@ -31,7 +33,7 @@ sources:
 
 Gil-Garcia, A. & Canizales, R. (2001). Commanding Strategies by Hispanic Students as They Think about Their Own Thinking Process. Paper presented at the National Association for Bilingual Education. https://eric.ed.gov/?id=ED457135
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The authors' discussion of the present study of 136 bilingual sixth graders states "an area of positive change was in the use of self-generated questions." The same discussion separately cites Muniz-Swicegood (1994) on lower thinking levels without training and improved Spanish-reading strategy use after training.
 

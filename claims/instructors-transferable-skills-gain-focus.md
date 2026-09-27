@@ -15,12 +15,14 @@ sources:
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Instructors perceive experiential learning primarily as developing transferable skills for personal and professional growth, with student happiness rarely considered (gain)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Instructor responses on gain outnumbered beauty and good by nearly 2:1, and instructors named soft skills such as critical thinking, communication, and collaboration. [→ Sherman 2020](#sherman-2020)
@@ -31,7 +33,7 @@ sources:
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 1 findings on the gain question produced Global Theme 2, "Students develop transferable skills for personal and professional growth". Asked about student happiness, one instructor said, "I'll be honest, I never thought, 'Are my students happy'?"
 

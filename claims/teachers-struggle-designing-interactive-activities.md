@@ -15,12 +15,14 @@ sources:
     author: "Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` After completing ICAP professional development, teachers showed minimal success at designing lesson plans in the Constructive and Interactive modes and at eliciting Interactive engagement. [→ Chi 2018](#chi-2018)
@@ -31,7 +33,7 @@ sources:
 
 Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP Theory of Cognitive Engagement Into Practice. Cognitive Science, 42. https://doi.org/10.1111/cogs.12626
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Across the 5-year project, teachers' translation of ICAP was assessed by pre/post understanding tests, lesson-plan design, and classroom implementation fidelity; the article reports teachers "had minimal success in designing Constructive and Interactive activities."
 

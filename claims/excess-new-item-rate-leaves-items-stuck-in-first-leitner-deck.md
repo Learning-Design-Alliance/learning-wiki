@@ -15,18 +15,22 @@ sources:
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: reddy-2016-2
     resource: "https://doi.org/10.1145/2939672.2939850"
     title: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850"
     author: "Reddy, S., Labutov, I., Banerjee, S., & Joachims, T."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # In a Mechanical Turk flashcard experiment, raising the new-item arrival rate first increases mastered items, but past the optimum fewer items are mastered and more get stuck in deck 1.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` As arrival rate increased, the number of mastered items first increased. [→ Reddy 2016](#reddy-2016)
@@ -38,7 +42,7 @@ sources:
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Mechanical Turk experiment: average distribution of items across decks at session end, by arrival-rate condition (Fig. 15). "as the arrival rate increases, we ﬁrst see an increase in the number of mastered items"; descriptive counts, no test reported.
 
@@ -48,7 +52,7 @@ Mechanical Turk experiment: average distribution of items across decks at sessio
 
 Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Same Mechanical Turk experiment and deck-distribution analysis (Fig. 15). Past the optimum, "relatively fewer items are mastered and relatively more items get ‘stuck’ in deck 1"; descriptive, no test reported.
 

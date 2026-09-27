@@ -15,18 +15,22 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: malhotra-s-2007-2
     resource: "https://eric.ed.gov/?id=EJ896858"
     title: "Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858"
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Psychological treatment provision increased and no-follow-up registrations declined over time, though reduced non-follow-up may not indicate improved service quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Provision of parental counseling (F=3.89, p<0.05) and individual psychotherapy (F=15.07, p<0.001) increased significantly across periods. [→ Malhotra S 2007](#malhotra-s-2007)
@@ -38,7 +42,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Management trend analysis (Table 3, percentages) of the 26-year audit. The article reports "a significant increase in the provision of parental counseling (F=3.89, p<0.05)" and individual psychotherapy (F=15.07, p<0.001); non-pharmacological treatment was provided for 83.3%-94.1% of registrations.
 
@@ -48,7 +52,7 @@ Management trend analysis (Table 3, percentages) of the 26-year audit. The artic
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Follow-up trend analysis within the same audit: no-follow-up registrations fell from 54.16% (Period I) to 34.70% (Period III), with significant increases in 1-3 visit (F=6.67, p<0.01) and 4-9 visit (F=25.24, p<0.001) groups.
 

@@ -15,12 +15,14 @@ sources:
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A research review the monograph attributes to Showers, Joyce, and Bennett identified four techniques as effective for training teachers to improve instructional skills. [→ Gall 1994](#gall-1994)
@@ -31,7 +33,7 @@ sources:
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph reports an extensive review by Showers, Joyce, and Bennett (1987) of research on techniques for training teachers to improve instructional skills. It states: "They found that the following techniques were effective: presentation of the theory or rationale underlying the instructional skills, demonstration and modeling of the skills." No effect sizes are printed.
 

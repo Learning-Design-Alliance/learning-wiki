@@ -15,18 +15,22 @@ sources:
     author: "Patil, T., Hunt, M., Cooper, K., & Townsend, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
   - id: patil-2020-2
     resource: "https://eric.ed.gov/?id=EJ1267932"
     title: "Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932"
     author: "Patil, T., Hunt, M., Cooper, K., & Townsend, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The literature review reports, citing Clem, Mennicke and Beasley (2014), that experiential learning increases student engagement, practical skill development and ethical reasoning and judgement in human services education. [→ Patil 2020](#patil-2020)
@@ -38,7 +42,7 @@ sources:
 
 Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Narrative review attribution: the review reports, citing Clem, Mennicke and Beasley (2014), that experiential learning yields "student learner engagement, practical skill development and improvements in student ethical reasoning and judgement". No effect sizes are reported; the review narrates the cited study without reproducing its design.
 
@@ -48,7 +52,7 @@ Narrative review attribution: the review reports, citing Clem, Mennicke and Beas
 
 Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Narrative review attribution: the article reports, citing Gates and Dauenhauer (2016), a comparison of face-to-face and blended learning suggesting "no comparable difference in the learning outcomes". The cited study's design and statistics are not reproduced; equivalence was not formally tested in this article.
 

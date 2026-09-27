@@ -15,30 +15,38 @@ sources:
     author: Karpicke, J. D.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-4
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q1`–`q2`
+> **Evidence** · 1 study (4 entries) · review `r2`–`r3` · `q1`–`q2`
 
 ## Subclaims
 `q1 i?` The chapter reports that van Gog and Sweller (2015) argued retrieval practice effects do not occur with materials high in element interactivity. [→ Karpicke 2017](#karpicke-2017)
@@ -52,7 +60,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The chapter reports an argument, not a new study: van Gog and Sweller (2015) "argued that retrieval practice effects do not occur with materials that are high in element interactivity", citing texts and worked examples.
 
@@ -62,7 +70,7 @@ The chapter reports an argument, not a new study: van Gog and Sweller (2015) "ar
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter reports de Jonge et al. (2015), who "observed retrieval practice effects with a randomly ordered text but not with an intact text".
 
@@ -72,7 +80,7 @@ The chapter reports de Jonge et al. (2015), who "observed retrieval practice eff
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Chan (2009), who manipulated intact versus randomly ordered texts and "found robust retrieval practice effects for both formats".
 
@@ -82,7 +90,7 @@ The chapter reports Chan (2009), who manipulated intact versus randomly ordered 
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The chapter's own conclusion: "there is a wealth of evidence that retrieval practice enhances the learning of complex educational texts".
 

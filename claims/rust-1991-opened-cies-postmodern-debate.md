@@ -15,12 +15,14 @@ sources:
     author: Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Val Rust's 1991 presidential address opened CIES discourse to postmodern ideas via four crucial aspects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Rust's 1991 presidential address introduced deconstructivist arguments of Derrida, Foucault and Lyotard into CIES discourse, selecting four aspects of postmodernism crucial for understanding the field. [→ Paulston 1998](#paulston-1998)
@@ -31,7 +33,7 @@ sources:
 
 Paulston, Rolland G. (1998). Mapping the Postmodernity Debate in Comparative Education Discourse. Occasional Paper Series, University of Pittsburgh. https://eric.ed.gov/?id=ED430869
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Historical narrative within the paper's review of the debate's origins. The fourth aspect is an opening to new possibilities for art and aesthetics in everyday life. The paper notes Rust's analysis remained strongly realist even melioristic, and evoked little CIES response until 1994.
 

@@ -15,12 +15,14 @@ sources:
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Non-STEM students in conceptual physics/astronomy courses average 54% on the LCTSR pre-instruction versus 75% for STEM majors in calculus-based physics. [→ Moore 2011](#moore-2011)
@@ -31,7 +33,7 @@ sources:
 
 Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Observational comparison of pre-instruction LCTSR scores: the authors' non-STEM population (N = 109, avg. = 54%) scored significantly lower than the STEM comparison sample (N = 1208, avg. = 75%) reported by Bao et al. No significant difference was found between physics and astronomy courses or between the two institutions.
 

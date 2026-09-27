@@ -17,7 +17,7 @@ sources:
 # Leave flexibility within the curriculum so student coaches can respond to emerging student needs in CEL/CBL courses
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CEL/CBL courses can surface learning needs that were not anticipated in the design, arising from emerging understandings of the challenge or newly identified competencies. The article recommends a course design with a degree of flexibility that allows responsiveness, often operationalized through student coaches recruited for interpersonal, didactic improvisation, and flexibility skills. As the article states, "CEL/CBL can also introduce learning needs not anticipated in the course design and planning."

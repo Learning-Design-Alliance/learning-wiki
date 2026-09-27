@@ -15,24 +15,30 @@ sources:
     author: Blosser, P. E.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: blosser-1993-2
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: blosser-1993-3
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Jones's grades 3-5 study on temperature misconceptions, the cooperative learning approach was no more effective than the control despite conflict training changing students' concepts. [→ Blosser 1993](#blosser-1993)
@@ -45,7 +51,7 @@ sources:
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Jones (1990) worked with teachers and students in grades 3, 4, and 5 in two rural elementary schools, comparing cooperative learning to traditional pair work in moving students through misconceptions about temperature, with pretest, cognitive conflict activity, and posttest. No effect size is printed.
 
@@ -55,7 +61,7 @@ Jones (1990) worked with teachers and students in grades 3, 4, and 5 in two rura
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Rice and Gabel (1990) studied preservice elementary teachers in four college chemistry sections, with Slavin's team report and bonus point system in experimental groups versus self-chosen pairs submitting individual reports in conventional classes. The control classes won on all comparisons; no effect sizes are printed.
 
@@ -65,7 +71,7 @@ Rice and Gabel (1990) studied preservice elementary teachers in four college che
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Sherman (1989) compared Group Investigation with individual work in two approximately equal-ability high school biology classes over seven weeks using a 40-item multiple choice pretest-posttest. Sherman concluded both methods were effective but neither superior, speculating the late-school-year timing or fixed friendships may explain the null between-group difference.
 

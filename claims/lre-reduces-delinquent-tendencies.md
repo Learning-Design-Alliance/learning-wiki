@@ -15,12 +15,14 @@ sources:
     author: Pereira, Carolyn
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A study by the Social Science Education Consortium and the Center for Action Research found that properly conducted LRE programs can reduce tendencies toward delinquent behavior and improve attitudes related to responsible citizenship. [→ Pereira 1988](#pereira-1988)
@@ -31,7 +33,7 @@ sources:
 
 Pereira, Carolyn. (1988). Law-Related Education in Elementary and Secondary Schools. ERIC Digest. https://eric.ed.gov/?id=ED296948
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest reports, citing Little and Haley (1982), a study by the Social Science Education Consortium and the Center for Action Research indicating that "LRE programs, when properly conducted, can reduce tendencies toward delinquent behavior". Successful students were reportedly less likely to associate with delinquent peers or use violence to resolve conflict.
 

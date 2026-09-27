@@ -16,7 +16,7 @@ sources:
 # Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Architectonics is defined in the article as "the constructive role of cognition in perception" and as "the 'art of systems'" — the unity of manifold cognition under one idea. Kant applies it both to the mind, where diverse modes of knowledge must form a system rather than a rhapsody, and to higher education, whose faculty structure mirrors his model of cognition. The article treats architectonics as the trope at the center of Kantian thought and as an early articulation of constructivism.

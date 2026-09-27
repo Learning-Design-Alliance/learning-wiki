@@ -16,7 +16,7 @@ sources:
 # Funnell's three-route model of single word reading as an account of false beginners' interlanguage
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article imports Funnell's three-route model of single word reading, developed for a case study of surface dyslexia with semantic impairment, to explain L2 learners' word vocalization. When regular pronunciation of irregular words is observed, the reader "takes the sublexical route which does not connect to the semantic system among the three groups." The model explains how false beginners can read faster than true beginners while their comprehension remains as low, since even correct pronunciations may take the direct lexical route, avoiding the semantic system indispensable for comprehension.

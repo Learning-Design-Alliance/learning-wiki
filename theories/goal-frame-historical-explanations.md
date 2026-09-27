@@ -16,7 +16,7 @@ sources:
 # Goal frame for historical explanations: Goal, Plan, Action, Outcome slots
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Goal frame is an abbreviated story grammar adapted for history text, with four slots assumed to constitute the "main ideas" of an historical explanation. The Goal is the desired state sought by the main character; the Plan is the cognitive strategy for attaining it; the Action is overt behavior in response to the Plan; and the Outcome is the consequence of the Action, which may satisfy or fail to satisfy the Goal. Each slot can be instantiated at any level of detail, and the frame is intended to apply to most interpretations of history because historical events are explained in psychological terms with human beings as agents of change.

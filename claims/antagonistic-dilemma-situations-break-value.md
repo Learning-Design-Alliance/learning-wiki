@@ -15,12 +15,14 @@ sources:
     author: "Patry, Jean-Luc, & Gastager, Angela"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Antagonistic and dilemma situations in evaluation are decision situations where any choice breaks a value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In antagonistic and dilemma situations the protagonist must choose between at least two actions and will necessarily break one or another value, or certain norms clash. [→ Patry 2004](#patry-2004)
@@ -31,7 +33,7 @@ sources:
 
 Patry, Jean-Luc, & Gastager, Angela. (2004). Kokybės vertinimo dilemos – Dilemmas in quality assessment. The Quality of Higher Education 2004/1. https://eric.ed.gov/?id=EJ874233
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the section "Dealing with Values Conflicts", defining antagonistic and dilemma situations, tracing "antagonism" back to Kant and citing Gastager (1999) and Thiel (1980). The article states such antagonistic situations "are frequent".
 

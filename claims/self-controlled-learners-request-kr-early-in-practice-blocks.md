@@ -15,18 +15,22 @@ sources:
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Self-Before and Self-Both used KR requests predominantly on trials 1, 2 and 3; Self-After predominantly on trials 1, 3 and 4. [→ Carter 2014](#carter-2014)
@@ -38,7 +42,7 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive frequency distribution (Table 2) of which trials the self-controlled groups in this experiment chose for KR: "the Self-After group predominantly requested KR on trials 1, 3, and 4". No inferential test is reported.
 
@@ -48,7 +52,7 @@ Descriptive frequency distribution (Table 2) of which trials the self-controlled
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The authors’ summary of the same descriptive Table 2 data: the groups "appear to have favored more of a massed schedule". No inferential test is reported.
 

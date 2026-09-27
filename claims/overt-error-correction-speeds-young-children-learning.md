@@ -15,12 +15,14 @@ sources:
     author: Glaser, Robert
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Overt correction of errors speeds young children's learning compared with knowledge of correctness alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For young children, overt correction of errors produced faster learning than mere knowledge of whether responses were correct; for adults, overt correction did not increase learning rate or asymptotic performance. [→ Glaser 1966](#glaser-1966)
@@ -31,7 +33,7 @@ sources:
 
 Glaser, Robert. (1966). Variables in "Discovery Learning." Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED010518
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review attributes this finding to Suppes and Ginsberg (1962) on children's concept formation, and contrasts it with Burke, Estes, and Hellyer (1954) showing overt correction did not raise adult learning rate or asymptote. No effect size is printed.
 

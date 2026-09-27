@@ -15,12 +15,14 @@ sources:
     author: Sia, Archibald P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The adapted EEEBI was able to reveal preservice teachers' belief efficacy in teaching EE, but reliability and validity of the adapted instrument are yet to be determined. [→ Sia 1992](#sia-1992)
@@ -31,7 +33,7 @@ sources:
 
 Sia, Archibald P. (1992). Preservice Elementary Teachers' Perceived Efficacy in Teaching Environmental Education: A Preliminary Study. https://eric.ed.gov/?id=ED362487
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Instrumentation section describing the EEEBI, a 23-item Likert-type instrument patterned after the STEEBI-B (Enochs & Riggs, 1990), with a 13-item self-efficacy scale and 10-item outcome expectancy scale. The author states "Reliability and validity of the adapted EE instrument are get to be determined" via Cronbach's alpha and factor analysis.
 

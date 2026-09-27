@@ -15,12 +15,14 @@ sources:
     author: Black, K.E. and Wittmann, M.C.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both miniview groups first chose unphysical limits, failing to consider the functional relationship of the upper and lower limits on either side of the equal sign. [→ Black 2009](#black-2009)
@@ -31,7 +33,7 @@ sources:
 
 Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Transcript analysis of two miniview groups solving an air resistance problem with a non-zero initial velocity of 366 m/s. The authors report both groups "first chose unphysical limits", e.g. matching t = 0 with v = 0 by rules of thumb; the problem's non-zero initial velocity was chosen deliberately to elicit such responses.
 

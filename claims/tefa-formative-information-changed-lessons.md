@@ -15,12 +15,14 @@ sources:
     author: Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Several teachers reported gaining more information about how their students were thinking about concepts, and reported instances of changing lessons as a result. [→ Ian D. Beatty 2008](#ian-d-beatty-2008)
@@ -31,7 +33,7 @@ sources:
 
 Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris. (2008). Teacher Learning of Technology-Enhanced Formative Assessment. NARST 2008 conference paper. https://eric.ed.gov/?q=Teacher+Learning+of+Technology-Enhanced+Formative+Assessment
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Teacher self-report data from the project's first site, with instances the authors say were "verified by videotape data and pre/post-taping interviews". This is a preliminary observational finding; no effect sizes are printed.
 

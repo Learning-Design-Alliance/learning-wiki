@@ -15,12 +15,14 @@ sources:
     author: "Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Teacher-posed questions that refer to direct, concrete experiences are described as the most effective stimulators of pupil thinking, and questions must allow the child to apply his own experiences. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
@@ -31,7 +33,7 @@ sources:
 
 Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Descriptive statement from the Workbook H (Experience Referents) section of Unit II. The document classifies questions by experience level (direct, visually represented, or described) and asserts the superiority of direct-experience questions without reporting supporting data.
 

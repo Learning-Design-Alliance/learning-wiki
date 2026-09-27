@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 2
     n: "158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous
+> **Evidence** · 1 study · qualitative `r2` · `q2` · `i2` medium · n=158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous
 
 Middle-school students in a redesigned physics unit centering racial bias in light-related technologies showed increased emotional and critical engagement with anti-racist source material, synthesized readings into systemic (not individual) accounts of injustice, and produced transdisciplinary speculative artifacts — including, in one case, through intergenerational collaboration with a family member.
 
@@ -37,7 +39,7 @@ Middle-school students in a redesigned physics unit centering racial bias in lig
 
 Arad, K., Sanchez, A., & Bell, P. (2023). Youth as pattern makers for racial justice: How speculative design pedagogy in science can promote restorative futures through radical care practices. *Journal of the Learning Sciences, 32*(1), 76-109. [https://doi.org/10.1080/10508406.2022.2154158](https://doi.org/10.1080/10508406.2022.2154158)
 
-`q2 · ethnographic case study (158 students tracked, 13 with sufficient data for pathway analysis, 2 focal cases analyzed in depth) using thematic inductive analysis; no comparison group or quantified learning measure; instructional time was reduced mid-study by COVID scheduling changes` · `i2 · clear, well-documented qualitative patterns across multiple data sources (annotations, exit tickets, interviews, artifacts) for the focal cases, not quantified or causally isolated` · `n=158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous`
+`q2 · ethnographic case study (158 students tracked, 13 with sufficient data for pathway analysis, 2 focal cases analyzed in depth) using thematic inductive analysis; no comparison group or quantified learning measure; instructional time was reduced mid-study by COVID scheduling changes` · `i2 · clear, well-documented qualitative patterns across multiple data sources (annotations, exit tickets, interviews, artifacts) for the focal cases, not quantified or causally isolated` · `n=158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous` · `qualitative · r2`
 
 Two 8th-grade physics classes replaced a standard unit on light waves with [Threading, Weaving, Patternmaking](../patterns/threading-weaving-patternmaking.md), a three-phase sequence built around the driving question "How can and does light serve some communities and not other communities?" using readings on racial bias in solar-energy access, medical treatment, and AI-driven dermatology. The authors document, through annotation analysis, exit tickets, and interviews, two focal students' progression from initial disengagement to explicit critical synthesis and speculative, transdisciplinary artifact production (poetry, a collaboratively designed "Visioning Board"), framed through [Critical Speculative Design Pedagogy](../theories/critical-speculative-design-pedagogy.md).
 

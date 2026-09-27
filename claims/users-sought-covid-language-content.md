@@ -15,12 +15,14 @@ sources:
     author: Neuschafer, T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Duolingo users sought COVID-19 vocabulary in foreign languages and shared their own translations, with 17 users requesting pandemic-related lesson content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Seventeen users wanted Duolingo to add a COVID-19 learning section to the lessons, and users shared translated COVID-19 sentences and external resource links. [→ Neuschafer 2022](#neuschafer-2022)
@@ -31,7 +33,7 @@ sources:
 
 Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Within the netnographic theme of COVID-19 language content, users shared English sentences with translations in languages such as Spanish and French and linked resources such as OpenWHO. The article prints the count of 17 users requesting lesson content.
 

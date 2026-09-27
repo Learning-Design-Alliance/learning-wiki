@@ -15,12 +15,14 @@ sources:
     author: Enghauser, R.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Traditional dance class structure offers insufficient opportunity for students to develop a sensitized relationship with their body
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The structure of a traditional dance class does not offer sufficient opportunities for students to develop a sensitized relationship with their body, and technical training pursued through mechanical repetition can leave dancers disembodied from their experience. [→ Enghauser 2007](#enghauser-2007)
@@ -31,7 +33,7 @@ sources:
 
 Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument opening the article, citing Fortin (2002) on dancers becoming "disembodied from their experience" through "mechanical repetitions of movements." The article offers no empirical data for this assertion.
 

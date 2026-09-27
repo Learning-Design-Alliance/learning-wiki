@@ -15,24 +15,30 @@ sources:
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
   - id: carter-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: carter-2014-3
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
     title: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325"
     author: "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) were more accurate on a 24-h motor retention test than learners who decided before the trial (Self-Before) and than their yoked counterparts.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` A significant Choice × Decision interaction (F(2,42) = 7.13, p = 0.002, ηp2 = 0.25) was found on retention absolute error. [→ Carter 2014](#carter-2014)
@@ -45,7 +51,7 @@ sources:
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions; retention absolute error (AE) was analysed with a 2 (Choice) × 3 (Decision) ANOVA. The article reports "a significant Choice × Decision interaction, F(2,42) = 7.13, p = 0.002, ηp2 = 0.25".
 
@@ -55,7 +61,7 @@ Laboratory experiment in which university volunteers learned a slider-positionin
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Post hoc comparisons of retention AE among the three self-controlled groups in the same experiment: "they were both significantly more accurate in retention than the Self-Before group (M = 29.18, SE = 4.08)". No pairwise effect size is printed.
 
@@ -65,7 +71,7 @@ Post hoc comparisons of retention AE among the three self-controlled groups in t
 
 Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5, 1325. https://doi.org/10.3389/fpsyg.2014.01325
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Self versus yoked post hoc comparisons on retention AE: "both the Self-After and Self-Both groups had significantly less AE than their Yoked counterparts"; the Self-Before and Yoked-Before groups did not differ. No pairwise effect size is printed.
 

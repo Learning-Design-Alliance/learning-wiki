@@ -15,12 +15,14 @@ sources:
     author: "Wee, L. K., & Lee, T. L."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Using video analysis data to set model parameters yields a more precise model than trial-and-error model building
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A model built from video analysis data (vx = 1.759 m/s, vy = 2.393 m/s, fy = -10.124 m/s2) matches the real data very closely at the 19th frame, compared with a trial-and-error model slightly off at the 15th frame. [→ Wee 2011](#wee-2011)
@@ -31,7 +33,7 @@ sources:
 
 Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
 Comparison of two modeling approaches on the same projectile video: trial-and-error modeling (Figure 4) versus a data-driven model using analysis values vx = 1.759 m/s and ay = -10.124 m/s2 (Figures 5-7). The authors report the data-driven model matches very closely.
 

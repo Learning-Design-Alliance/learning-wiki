@@ -15,12 +15,14 @@ sources:
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The authors argue the learning gains arose because technology supported a student-centered, active engagement curriculum, and would not expect the same gains in a lecture-based course switching to high-tech traditional labs. [→ Brewe 2007](#brewe-2007)
@@ -31,7 +33,7 @@ sources:
 
 Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Authors' interpretation in the discussion, not a tested result: they state the increases exist because the student-centered pedagogy pre-dated the technology, and that technology provided evidence reinforcing student-built models. No experiment tested the lecture-based contrast.
 

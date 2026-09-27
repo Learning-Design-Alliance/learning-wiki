@@ -15,18 +15,22 @@ sources:
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: dillon-2023-2
     resource: "https://doi.org/10.15858/engtea.78.1.202303.3"
     title: "Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3"
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 90.9% of students agreed the pronunciation training was very good, and 84.1% agreed the Rainbow passage was useful, helped improvement, and was a good test. [→ Dillon 2023](#dillon-2023)
@@ -38,7 +42,7 @@ sources:
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Post-study questionnaire (5-point Likert items, Cronbach's alpha 0.86 for passage-study questions) completed by 43 participants; "90.9% agreeing that the pronunciation training was very good (M = 4.68, SD = 0.639)" and 84.1% net agreement on passage usefulness items.
 
@@ -48,7 +52,7 @@ Post-study questionnaire (5-point Likert items, Cronbach's alpha 0.86 for passag
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Questionnaire items on technical aspects showed middling means: ease of studying the passage (M = 3.52), voice typing reliability (M = 3.63), recording ease (M = 3.64); the article states "responses were somewhat mixed on the technical issues of conducting the experiment."
 

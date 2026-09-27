@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
+    kind: associational
+    rigour: 1
 ---
 
 # Students' application of teacher support predicts accurate answers in small-group work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
+> **Evidence** · 1 study · associational `r1` · `q3` · n=7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
 
 A mediation analysis of 35 secondary lessons found that students who applied (rather than ignored or merely copied) a teacher's scaffolding went on to give significantly more accurate answers in subsequent small-group work, but how well-calibrated (contingent) the teacher's support was did not itself predict whether students applied it — timely fading, checking understanding before withdrawing, did.
 
@@ -39,7 +41,7 @@ A mediation analysis of 35 secondary lessons found that students who applied (ra
 
 van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. *Journal of the Learning Sciences, 28*(2), 206-239. [https://doi.org/10.1080/10508406.2018.1522258](https://doi.org/10.1080/10508406.2018.1522258)
 
-`q3 · peer-reviewed video-coded observational study with logistic multilevel mediation analysis; high inter-rater reliability (Krippendorff's α .73-.82 across coded variables); not experimental — teacher behavior was observed, not manipulated` · `i? · the abstract prints no effect size; the full text may` · `n=7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns`
+`q3 · peer-reviewed video-coded observational study with logistic multilevel mediation analysis; high inter-rater reliability (Krippendorff's α .73-.82 across coded variables); not experimental — teacher behavior was observed, not manipulated` · `i? · the abstract prints no effect size; the full text may` · `n=7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns` · `associational · r1`
 
 Video recordings of 35 lessons across 7 teacher-student small-group dyads were coded for teacher control level, student understanding, support contingency, student uptake (ignore/copy/apply), and subsequent small-group answer accuracy. A logistic multilevel mediation model tested whether contingent support's effect on accuracy was mediated by uptake; the direct uptake-accuracy link held, but the contingency-uptake link did not. Qualitative analysis of the specific cases driving this null result identified [Scaffolding and Fading](../principles/scaffolding-and-fading.md)'s fading step — specifically, whether the teacher checked understanding before withdrawing — as the factor distinguishing applied from ignored support, resolving why contingency alone was not sufficient.
 

@@ -15,12 +15,14 @@ sources:
     author: Meehan, Merrill L.; Priester, H. G. Jim; Basile, Joseph C., II; Hobar, Nicholas
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors conclude that an intensive, competency-based, mastery-learning workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems. [→ Meehan 1977](#meehan-1977)
@@ -31,7 +33,7 @@ sources:
 
 Meehan, Merrill L.; Priester, H. G. Jim; Basile, Joseph C., II; Hobar, Nicholas. (1977). A Competency-Based Workshop on Designing Learning Systems for the West Virginia Department of Education, Division of Instructional Learning Systems Staff. West Virginia State Dept. of Education. https://eric.ed.gov/?id=ED143659
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The authors' first conclusion, drawn from the overall data composite of the single workshop evaluation (mastery records, pre-post self-ratings, and attitude instruments with 19 participants). The report states the workshop "can_be an effective diffusion strategy for statewide curriculum leaders to develop learning systems".
 

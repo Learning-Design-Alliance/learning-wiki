@@ -15,12 +15,14 @@ sources:
     author: "Iran-Nejad, Asghar & Ortony, Andrew"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The major functional assumption distinguishing the functional from the structural perspective is that cognition is transient and created by distributed neural functioning, an assumption the authors say is supported by neurophysiological evidence. [→ Iran-Nejad 1982](#iran-nejad-1982)
@@ -31,7 +33,7 @@ sources:
 
 Iran-Nejad, Asghar & Ortony, Andrew. (1982). Cognition: A Functional View. Center for the Study of Reading, University of Illinois at Urbana-Champaign. https://eric.ed.gov/?id=ED215308
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper's introductory section, citing neuroscientific theories (John, Uttal, Sperry, Edelman, Arbib) as supporting the assumption. The authors present it as "unequivocally supported by neurophysiologicalevidence" shared by current neuroscientific theories, quoting Uttal on momentary network activity.
 

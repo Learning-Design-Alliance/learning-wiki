@@ -15,12 +15,14 @@ sources:
     author: "Nero, C. A., & Zulkiply, N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Regardless of retrieval format, reading comprehension was significantly better for lower-order thinking questions (M = 2.93) than higher-order thinking questions (M = 2.62), F(1, 98) = 9.88, p = .002. [→ Nero 2021](#nero-2021)
@@ -31,7 +33,7 @@ sources:
 
 Nero, C. A., & Zulkiply, N. (2021). The Effects of Retrieval Practice Across Levels of Thinking and Retention Interval on Reading Comprehension. Asian Journal of University Education (AJUE), 17(4). https://doi.org/10.24191/ajue.v17i4.16222
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Within-subjects levels-of-thinking factor of the classroom experiment (100 undergraduates; five lower-order and five higher-order items per format, validated by the course instructor). Results: "significantly better for lower-order thinking questions (M = 2.93) compared to higher-order thinking questions (M = 2.62)", F(1, 98) = 9.88, p = .002.
 

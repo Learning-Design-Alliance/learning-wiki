@@ -12,7 +12,7 @@ generated:
 # Justification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies, `q1`–`q2` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (1 causal, 1 design, 1 theoretical), `q1`–`q2` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence. It is useful when the instructional goal is to strengthen explanation quality rather than only reach an answer.

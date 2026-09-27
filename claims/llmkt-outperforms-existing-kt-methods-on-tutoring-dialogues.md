@@ -15,18 +15,22 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLMKT significantly outperforms all existing KT methods (BKT, DKT, DKVMN, AKT, SAINT, simpleKT) and generally outperforms DKT-Sem on both datasets. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -38,7 +42,7 @@ sources:
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Benchmark comparison of KT methods on two math tutoring dialogue datasets, scored by accuracy, AUC and F1 (Table 2). The authors report that "LLMKT significantly outperforms all existing KT methods and generally outperforms DKT-Sem on both datasets"; no effect size is printed.
 
@@ -48,7 +52,7 @@ Benchmark comparison of KT methods on two math tutoring dialogue datasets, score
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 MathDial results from the same benchmark comparison, where existing methods improve with more data: "LLMKT still maintains a large advantage over all other KT methods". No test statistic or effect size is printed in this sentence.
 

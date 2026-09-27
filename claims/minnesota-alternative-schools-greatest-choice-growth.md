@@ -15,12 +15,14 @@ sources:
     author: Boyd, William Lowe; Hare, Debra; Nathan, Joe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Alternative schools and Area Learning Centers showed the greatest growth of any choice option, from 4,050 students in 1988-89 to over 100,000 in 2000-01
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participation in Area Learning Centers, alternative schools, and private contract schools increased from 4,050 students in 1988-89 to over 100,000 in 2000-01, the largest increase among the choice programs. [→ Boyd 2002](#boyd-2002)
@@ -31,7 +33,7 @@ sources:
 
 Boyd, William Lowe; Hare, Debra; Nathan, Joe. (2002). What Really Happened? Minnesota's Experience with Statewide Public School Choice Programs. Center for School Change, University of Minnesota. https://eric.ed.gov/?id=ED480198
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 Enrollment trend analysis using Department of Children, Families and Learning counts and ADMs (Table 5). The report calls this "by far the choice programwiththemostsignificant increase in student participation", with many students enrolling part-time.
 

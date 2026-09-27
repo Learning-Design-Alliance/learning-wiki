@@ -15,18 +15,22 @@ sources:
     author: Wei, Wang and Dong
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
   - id: wei-2026-2
     resource: "https://doi.org/10.3389/fpsyg.2026.1905847"
     title: "Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847"
     author: Wei, Wang and Dong
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Mean correctness increased from 0.656 on the first practice of a pitch to 0.727 on the thirtieth, with the largest gains in the first ten repetitions; the article reports the standardized effect as small (Cohen's h ≈ 0.15). [→ Wei 2026](#wei-2026)
@@ -38,7 +42,7 @@ sources:
 
 Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 Descriptive repetition-curve analysis (Figure 3) of the singKT corpus, aggregating within-student practice ranks across the population. The article reports the curve as "negatively accelerated" and states the repetition gain corresponds to "Cohen's h ≈ 0.10 and ≈ 0.15" — a small standardized effect.
 
@@ -48,7 +52,7 @@ Descriptive repetition-curve analysis (Figure 3) of the singKT corpus, aggregati
 
 Wei, Wang and Dong. (2026). Cognitive and skill acquisition trajectories in school-based music education: evidence from Chinese classrooms. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1905847
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Robustness re-analysis on the fixed cohort of 17,518 learner–pitch trajectories reaching at least thirty repetitions (11.8% of first-attempt trajectories). Because the cohort is fixed across ranks, the authors state the increase "cannot be produced by selective persistence"; the corresponding standardized effect is small (Cohen's h ≈ 0.15).
 

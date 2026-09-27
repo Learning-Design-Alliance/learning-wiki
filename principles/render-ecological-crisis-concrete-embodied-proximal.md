@@ -17,7 +17,7 @@ sources:
 # Render planetary ecological crisis concrete, embodied, proximal, and implicative for students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Extending Fassett and Warren's commitments to concrete mundane practices and structural critique, the article argues that "a critical pedagogy of the Anthropocene must render the 'larger' structure of planetary ecological crisis concrete, embodied, proximal, and implicative." Because ecological crises may appear as ineffable events happening elsewhere, the principle shifts focus from individual entities to interconnectedness, helping students see how local mundane practices connect to larger social and ecological systems. Students are invited to critically reflect on their relationship to place and to identify patterns of environmental injustice and opportunities for local intervention.

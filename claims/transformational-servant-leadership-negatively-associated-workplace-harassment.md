@@ -15,12 +15,14 @@ sources:
     author: "Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Both transformational and servant leadership are negatively associated with workplace harassment among university teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Transformational leadership (β = -0.123) and servant leadership (β = -0.186) each showed a significant negative association with workplace harassment. [→ Alave Mamani 2026](#alave-mamani-2026)
@@ -31,7 +33,7 @@ sources:
 
 Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E. (2026). Multivariate modeling of organizational dynamics and faculty well-being in higher education. BMC Psychology. https://doi.org/10.1186/s40359-026-05450-0
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Structural equation model (WLSMV, N=506 Peruvian university teachers) estimating direct paths from both leadership styles to workplace harassment. The article reports "negatively associated with workplace harassment" for both styles, with standardized coefficients β = -0.123 and β = -0.186, both significant.
 

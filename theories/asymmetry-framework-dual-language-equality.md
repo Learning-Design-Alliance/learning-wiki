@@ -16,7 +16,7 @@ sources:
 # Asymmetry framework for analyzing equality in dual language programs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article develops asymmetry, defined as "a lack of proportion," as an analytical tool for studying whether a dual language program delivers equal educational opportunity. Symmetry instances appear when the program promotes fairness, such as printing all school publications in both languages; asymmetry appears when planners move theory to practice. The framework organizes observed imbalances into three categories: instructional asymmetry (teaching practices), resource asymmetry (disproportion of learning materials), and student asymmetry (interpersonal relations among students).

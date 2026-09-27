@@ -16,7 +16,7 @@ sources:
 # Focused vs. unfocused communicative task distinction in task-based language teaching
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Within task-based language teaching, Ellis's distinction separates tasks designed to elicit a particular grammatical form from tasks designed for general communicative language use. As the article states, "unfocused communication tasks are the tasks in which L2 learners utilize the target language without any requirement to use a specific grammar structure/form for completing the task," while focused tasks make a target form salient through consciousness raising. The study uses this distinction as its organizing axis, crossing it with task type (decision-making vs. opinion-exchange).

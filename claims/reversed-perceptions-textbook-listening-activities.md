@@ -15,12 +15,14 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The majority of NHLLs (10 of 11) rated textbook listening activities somewhat difficult, while over half of HLLs (7 of 12) rated them somewhat easy and no HLL rated them difficult. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -31,7 +33,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire item on textbook listening activities rated on a 4-point scale by the same 23 participants; Figure 3 charts the two groups' ratings. The chart "evidences two reversed scenarios" between the groups.
 

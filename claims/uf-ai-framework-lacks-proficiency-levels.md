@@ -15,12 +15,14 @@ sources:
     author: "Kathleen Kennedy & Anuj Gupta"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The UF AI Across the Curriculum framework does not incorporate proficiency levels for each category, limiting the ability to track student progress or scaffold curriculum. [→ Kathleen Kennedy & Anuj Gupta 2025](#kathleen-kennedy-anuj-gupta-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kathleen Kennedy & Anuj Gupta. (2025). AI & Data Competencies: Scaffolding holistic AI literacy in Higher Education. Thresholds Volume 48, Issue 2. https://journals.ku.edu/thresholds
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The authors' comparative analysis of the one existing higher-education-specific framework (Southworth et al., 2023) notes it also does not provide guidance for integrating AI concepts into non-technical disciplines, address self-efficacy, consider socio-cultural implications, or foster innovation across disciplines.
 

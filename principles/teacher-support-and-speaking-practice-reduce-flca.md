@@ -17,7 +17,7 @@ sources:
 # Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's findings suggest that teacher encouragement and sustained opportunities for speaking practice can reduce foreign language classroom anxiety and build learner self-efficacy. Student A's receipt of a dictionary from her teacher motivated her to "want to study English language more and find the meanings of words and try harder in class," and years of English speaking club membership let her lose her fear of speaking in front of teacher and peers. The article presents this as evidence that extrinsic motivation can drive an ESL learner to participate and find satisfaction in learning.

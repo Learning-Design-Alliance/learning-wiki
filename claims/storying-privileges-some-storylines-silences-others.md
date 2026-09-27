@@ -15,12 +15,14 @@ sources:
     author: Goodson, Ivor F.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Storying is socially and politically non-neutral: it privileges some storylines and silences others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Storying rapidly becomes a form of social and political prioritizing, a particular way of telling stories which privileges some storylines and silences others, displacing unwanted social and political realities. [→ Goodson 1994](#goodson-1994)
@@ -31,7 +33,7 @@ sources:
 
 Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Interpretive argument drawing on the paper's media analysis, including the New York Times observation that the savings and loan scandal shifted in foggy limbo rather than forming a storyline. The article offers this as reasoned interpretation, not tested data.
 

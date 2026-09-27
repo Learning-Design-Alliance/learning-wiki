@@ -15,12 +15,14 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Full equality in ICEL decision-making and funding distribution is not possible for non-EU partners in European Universities alliances
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In European Universities alliances, partners outside the EU cannot receive the same EU funding or become full partners with decision-making power, so full equality in ICEL partnerships with the Global South is not possible. [→ Vijge 2025](#vijge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Collaborative autoethnographic reflection by the Capstone's coordinators, educationalists and South African supervisors on two cohorts (about 120 students across 26 teams). The authors conclude "Full equality is therefore not possible in the partnership's decision-making and funding distribution" for non-EU partners.
 

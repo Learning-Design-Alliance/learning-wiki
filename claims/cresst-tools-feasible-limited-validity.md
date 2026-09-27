@@ -15,12 +15,14 @@ sources:
     author: "Chung, G. K. W. K., Herl, H. E., Klein, D. C. D., O'Neil, H. F., Jr., & Schacter, J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Evaluation data show the CRESST assessment tools to be feasible, though reliability and validity evidence is limited and further studies are planned. [→ Chung 1997](#chung-1997)
@@ -31,7 +33,7 @@ sources:
 
 Chung, G. K. W. K., Herl, H. E., Klein, D. C. D., O'Neil, H. F., Jr., & Schacter, J. (1997). Estimate of the Potential Costs and Effectiveness of Scaling Up CRESST Assessment Software. https://eric.ed.gov/?id=ED418102
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The report summarizes its own evaluation work on the integrated simulation tools, stating the "evaluation data for our assessment tools show them to be feasible" while acknowledging limited reliability and validity information. No effect sizes or test statistics are printed.
 

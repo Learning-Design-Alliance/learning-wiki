@@ -15,12 +15,14 @@ sources:
     author: "Sturgill, A., & Motley, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Guided reflection generated more analytic and integrative paragraphs than free reflection; more than half of free reflections were descriptive only. [→ Sturgill 2014](#sturgill-2014)
@@ -31,7 +33,7 @@ sources:
 
 Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Comparative analysis of journal and blog paragraphs from four sections of a graduate international service-learning course, coded by two coders to consensus. Table 1 shows guided reflections were 47% analytic and 27% integrative, while free reflections were "More than half of the free reflections were descriptive only" and 11% off-topic.
 

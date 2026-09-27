@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 88 (22 per group)
+    kind: causal
+    rigour: 2
 ---
 
 # Emotion Labeling Improves Regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=88 (22 per group)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=88 (22 per group)
 
 Putting feelings into words — naming an emotional state with a specific label — helps learners understand and manage that state, supporting self-regulation during learning.
 
@@ -34,7 +36,7 @@ Putting feelings into words — naming an emotional state with a specific label 
 
 Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Contributions of language to exposure therapy. *Psychological Science, 23*(10), 1086–1091. [doi:10.1177/0956797612443830](https://doi.org/10.1177/0956797612443830)
 
-`q3 · randomized between-subjects experiment (not pre-registered)` · `i2 · medium-to-large effect, d=0.64–0.85 at 1-week follow-up` · `n=88 (22 per group)`
+`q3 · randomized between-subjects experiment (not pre-registered)` · `i2 · medium-to-large effect, d=0.64–0.85 at 1-week follow-up` · `n=88 (22 per group)` · `causal · r2`
 
 88 spider-fearful adults (undergraduates and community members, 82% female) were randomly assigned to one of four groups (22 each) during repeated live-exposure trials to a tarantula: affect labeling (describing the feared stimulus and one's reactions using negative-emotion words), reappraisal, distraction, or exposure alone. At a one-week follow-up, the affect-labeling group showed a significantly larger drop in skin conductance response (a physiological arousal measure) than the reappraisal group (*d* = 0.85, *p* = .005), the distraction group (*d* = 0.74, *p* = .017), and the exposure-alone group (*d* = 0.64, *p* = .044); a contrast comparing labeling against all other groups combined was significant (*p* = .004). Labeling also showed marginally greater behavioral approach toward the spider than distraction (*d* = 0.59, *p* = .054) at the same follow-up. However, the affect-labeling group did **not** differ from the other groups in self-reported fear at any test occasion — the benefit showed up only in the physiological and (marginally) behavioral measures, not in what participants said they felt. Greater spontaneous use of anxiety/fear words during exposure independently predicted greater physiological fear reduction (*r* = −.288, *p* = .019).
 

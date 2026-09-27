@@ -15,12 +15,14 @@ sources:
     author: Wisconsin State Dept. of Public Instruction, Madison
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The task force states the performance standards require district commitment to technological infrastructure, technical support, and ongoing teacher training.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Achieving the performance standards is stated to require sufficient equipment, materials, staffing, technical support, and a comprehensive ongoing teacher training and staff development program. [→ Wisconsin State Dept. of Public Instruction 1998](#wisconsin-state-dept-of-public-instruction-1998)
@@ -31,7 +33,7 @@ sources:
 
 Wisconsin State Dept. of Public Instruction, Madison. (1998). Wisconsin's Model Academic Standards for Information and Technology Literacy. Bulletin No. 90002. https://eric.ed.gov/?id=ED423881
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 An authorial position stated in the Integration section of the Overview, not a tested result. The document reports the task force's belief that "these standards can be achieved with a strong district commitment to a technological infrastructure" including equipment, staffing, technical support, and staff development.
 

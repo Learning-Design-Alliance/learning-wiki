@@ -16,7 +16,7 @@ sources:
 # 360 Degree Global Education Model: a framework for interdisciplinary international service learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The 360 Global Ed Model is an evolving education model for an international service-learning class that brings together a theoretical framework, educational environment, academic coursework, and evidence-based outcomes. The article states it "brings together a variety of educational concepts to form an educational approach for an international service-learning class that impacts students' knowledge, attitudes, and skills, through partnerships with an international community." It is offered in contrast to traditional silo-based, discipline-specific models and was developed in partnership with Peacework Inc. and the Belizean Ministry of Education.

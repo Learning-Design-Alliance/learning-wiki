@@ -17,7 +17,7 @@ sources:
 # Design professional learning communities around situated teacher agency and practice, not attitude change
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper proposes a practice-based focus for PLCs: "professional learning in schools is situated in the context of educational practices," so designs must acknowledge the contextual, dynamic, and relational nature of teaching practices and prioritize teachers' agency and learning. This contrasts with conventional formulations that appeal to psychological notions like commitment and willingness, treating change as a shift in teachers' attitudes toward organizational goals.

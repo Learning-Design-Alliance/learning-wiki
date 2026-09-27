@@ -15,12 +15,14 @@ sources:
     author: Bassler, O. C.; Beers, M. I.; Richardson, L. I.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Polya and Dahmus methods do not differ on the problem solution criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` There was no significant difference between Polya Method and Dahmus Method groups on scores for correctly solving the verbal problems; equivalence was not tested. [→ Bassler 1972](#bassler-1972)
@@ -31,7 +33,7 @@ sources:
 
 Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instructional Strategies for Teaching the Solution to Verbal Problems. Final Report. George Peabody College for Teachers. https://eric.ed.gov/?id=ED075260
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 ANOVA on the problem solution criterion (same 48-student design) found the strategy main effect non-significant (F = 1.07): "There was no significant effect due_to treatment." Posttest solution means ranged from 6.8 to 12.5 across cells.
 

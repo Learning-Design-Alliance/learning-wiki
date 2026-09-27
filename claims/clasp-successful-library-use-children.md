@@ -15,12 +15,14 @@ sources:
     author: Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R.
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` CLASP had considerable success in reaching its first goal of establishing library use among children, with high satisfaction and evidence of increased library use. [→ Small 1994](#small-1994)
@@ -31,7 +33,7 @@ sources:
 
 Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `design · r3`
 
 Multi-method evaluation across three studies (summer 1993, fall 1993, summer 1994) using surveys, observations, and interviews. The report states "considerable evidence of success in terms of Goal 1" with high satisfaction and benefit ratings from users. During September-November 1993, 2,856 library cards were issued to CLASP program attendees.
 

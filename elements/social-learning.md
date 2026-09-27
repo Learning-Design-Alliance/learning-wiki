@@ -12,7 +12,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 9 studies, `q1`–`q4` · 2 of 9 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 9 studies (4 quant-synthesis, 4 qualitative, 1 design), `q1`–`q4` · 2 of 9 report an effect size · 6 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.

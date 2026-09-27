@@ -15,12 +15,14 @@ sources:
     author: Sumayyah Qaed Alsulami
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Stage 2, the learner's notes on the model rainbow paragraph involved only lexical features such as droplets, strike, prism, and reflect. [→ Sumayyah Qaed Alsulami 2016](#sumayyah-qaed-alsulami-2016)
@@ -31,7 +33,7 @@ sources:
 
 Sumayyah Qaed Alsulami. (2016). Testing the Noticing Function of the Output Hypothesis. English Language Teaching, 9(2). https://doi.org/10.5539/elt.v9n2p136
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Stage 2 comparison notes from the single-participant case study; for the rainbow task the article states that everything noticed while comparing his own writing to the model involved lexical features, listing the four words he noted.
 

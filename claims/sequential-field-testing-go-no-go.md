@@ -15,12 +15,14 @@ sources:
     author: Huenecke, Dorothy M.; Stansbury, George W.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In the workbook's field-testing procedure, the student field test is gated on a satisfactory evaluation of staff competency attainment. [→ Huenecke 1975](#huenecke-1975)
@@ -31,7 +33,7 @@ sources:
 
 Huenecke, Dorothy M.; Stansbury, George W. (1975). A Systems Approach to Staff Development. Georgia State Dept. of Education. https://eric.ed.gov/?id=ED123751
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 This is a procedural prescription from the workbook's field-testing section, presented as design guidance rather than an empirically tested result. Field Test I trains a sample of staff in needed competencies with concomitant evaluation; Field Test II then field tests the educational improvement activities with selected students. Evaluation at each point is a go or no-go decision.
 

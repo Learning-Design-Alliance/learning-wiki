@@ -15,12 +15,14 @@ sources:
     author: "Irving, P. W., & Sayre, E. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In week 1, inter-group exchanges about experiments were tentative, brief, and superficial; by week 8, students engaged in long detailed discussions and shared experiment-specific expertise. [→ Irving 2013](#irving-2013)
@@ -31,7 +33,7 @@ sources:
 
 Irving, P. W., & Sayre, E. C. (2013). Conditions for building a community of practice in an advanced physics laboratory. https://arxiv.org/abs/1312.1953
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Micro-ethnographic episode analysis comparing a first-week "brief me on the experiment" exchange with a week-8 repeat of the same interaction type, in which Larry gave detailed theory advice. The authors interpret this as "evidence of the evolving nature of the community of practice".
 

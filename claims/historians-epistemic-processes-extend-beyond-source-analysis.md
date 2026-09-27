@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 2
     n: "26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Academic historians' epistemic processes extend well beyond source analysis and writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes
+> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes
 
 Interviews with 26 academic historians identified 107 distinct epistemic processes across 14 categories, including five categories — archival collection, tool/language mediation, epistemic virtues and affect, broad methodological choices, and explicitly social processes — that are largely absent from prior empirical research on historians' practices and from inquiry-based-learning design in history.
 
@@ -39,7 +41,7 @@ Interviews with 26 academic historians identified 107 distinct epistemic process
 
 Kainulainen, M., Puurtinen, M., & Chinn, C. A. (2025). Regrounding Inquiry-Based Learning in History: A Study of Historians' Epistemic Processes. *Cognition and Instruction, 43*(4), 291-315. [https://doi.org/10.1080/07370008.2025.2503193](https://doi.org/10.1080/07370008.2025.2503193)
 
-`q2 · peer-reviewed semi-structured interview study with a large, systematically-coded scheme (107 codes, 14 categories) and a computed interrater agreement (71% on a sample of 24 coded processes); observational/interview design, not experimental, and no predetermined hypothesis about the categories that would emerge` `i2 · a substantial, well-documented empirical expansion of what is known about historians' actual epistemic practices, though findings are self-reported and drawn from one national academic population` `n=26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes`
+`q2 · peer-reviewed semi-structured interview study with a large, systematically-coded scheme (107 codes, 14 categories) and a computed interrater agreement (71% on a sample of 24 coded processes); observational/interview design, not experimental, and no predetermined hypothesis about the categories that would emerge` `i2 · a substantial, well-documented empirical expansion of what is known about historians' actual epistemic practices, though findings are self-reported and drawn from one national academic population` `n=26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes` · `qualitative · r3`
 
 Twenty-six Finnish academic historians, spanning career stages and subdisciplines, were interviewed about their own research processes in Finnish, with interviews averaging 90 minutes. Content analysis (descriptive, in vivo, and process coding) inductively identified 107 epistemic processes across 14 categories, extending far beyond the six aspects in the [Historical Reasoning Framework](../theories/historical-reasoning-framework.md), which had been derived largely from studies of historians analyzing pre-selected source documents rather than pursuing their own inquiries.
 

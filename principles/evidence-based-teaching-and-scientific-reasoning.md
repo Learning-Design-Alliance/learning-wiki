@@ -12,7 +12,7 @@ generated:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Ben Goldacre (2013) argues that teaching should be an evidence-based profession, which would require a cultural shift: recognizing that we don't necessarily "know" what works best and need evidence that something works; giving teachers better access to research outcomes; helping teachers understand how research works so they can become critical consumers of it; and giving teachers access to networks of others interested in research. This isn't only research done by academics — research by teachers on their own practice is itself part of the same evidence base, and is increasingly embedded in schools as a contributor to school improvement.

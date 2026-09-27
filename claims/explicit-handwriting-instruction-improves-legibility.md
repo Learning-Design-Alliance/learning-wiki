@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: K-12 students (number of studies/participants not stated in the abstract)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Explicit Handwriting Instruction Improves Legibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=K-12 students (number of studies/participants not stated in the abstract)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=K-12 students (number of studies/participants not stated in the abstract)
 
 Direct, systematic teaching of letter formation — including modeling, guided practice, and feedback — produces more legible handwriting than incidental exposure or unguided practice alone.
 
@@ -34,7 +36,7 @@ Direct, systematic teaching of letter formation — including modeling, guided p
 
 Santangelo, T., & Graham, S. (2016). A Comprehensive Meta-analysis of Handwriting Instruction. *Educational Psychology Review, 28*(2), 225–265. [doi:10.1007/s10648-015-9335-1](https://doi.org/10.1007/s10648-015-9335-1)
 
-`q4 · comprehensive meta-analysis of true- and quasi-experimental intervention studies` · `i2 · medium effect, ES=0.59` · `n=K-12 students (number of studies/participants not stated in the abstract)`
+`q4 · comprehensive meta-analysis of true- and quasi-experimental intervention studies` · `i2 · medium effect, ES=0.59` · `n=K-12 students (number of studies/participants not stated in the abstract)` · `quant-synthesis · r?`
 
 This meta-analysis pooled true- and quasi-experimental studies of handwriting instruction with K-12 students to test whether teaching handwriting improved legibility, fluency, and broader writing performance. Compared to no instruction or non-handwriting instructional conditions, handwriting instruction produced a statistically significant, medium-sized improvement in legibility (ES = 0.59) and in fluency (ES = 0.63). The analysis further found that generic motor-skill instruction alone did not improve legibility (ES = 0.10), while individualizing instruction (ES = 0.69) and delivering it via technology (ES = 0.85) produced larger legibility gains — evidence that the *how* of instruction, not merely its presence, drives the effect. The authors frame the results as support for the Simple View of Writing, in which transcription skill is a distinct, trainable ingredient of writing development.
 

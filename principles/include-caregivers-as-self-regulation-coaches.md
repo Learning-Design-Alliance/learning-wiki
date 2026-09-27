@@ -17,7 +17,7 @@ sources:
 # Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 2 report an effect size
 
 ## Description
 The brief's third guideline holds that self-regulation interventions for adolescents and young adults should include parents, teachers, or mentors. It recommends providing "these caregivers and other supportive adults with assistance in building their own self-regulation skills in addition to coaching them on strategies to strengthen relationships and provide co-regulation for the youth." This principle rests on the brief's argument that caregivers are critical to healthy development throughout adolescence and into young adulthood, and that co-regulation is a critical supplement to skills training.

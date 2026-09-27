@@ -15,12 +15,14 @@ sources:
     author: Ferraro, Joan M.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The primary benefit of reflective practice for teachers is a deeper understanding of their own teaching style and ultimately greater effectiveness as a teacher. [→ Ferraro 2000](#ferraro-2000)
@@ -31,7 +33,7 @@ sources:
 
 Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The digest's benefits section states this as its primary claim, drawn from a review of current literature. Other benefits noted include "the validation of a teacher's ideals, beneficial challenges to tradition, the recognition of teaching as artistry, and respect for diversity." No empirical data or effect sizes are reported in the digest itself.
 

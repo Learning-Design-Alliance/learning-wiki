@@ -15,12 +15,14 @@ sources:
     author: Bill VanPatten
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` UG-related aspects of acquisition are not susceptible to external influences such as explicit information, drilling, or correction, because the language faculty operates only on processed input data. [→ Bill VanPatten 2010](#bill-vanpatten-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in section I.3: the author reasons that UG and parsers/processors respond only to input data, like a bar-code scanner reading only what it is designed to read, so abstract features such as +/-STRONG cannot be taught explicitly. This is an argument, not a tested result; the article offers no direct empirical evidence here.
 

@@ -15,12 +15,14 @@ sources:
     author: Norman, D. A.; And Others
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # System compensation as implemented is not a satisfactory adaptive variable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` System compensation, as implemented for this experiment, did not perform satisfactorily as an adaptive variable. [→ Norman 1972](#norman-1972)
@@ -31,7 +33,7 @@ sources:
 
 Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experimental finding from the comparison of three adaptive variables. The report concludes that "System compensation, as implemented for this experiment, is not a satisfactory adaptive variable" and that neither are aiding and quickening.
 

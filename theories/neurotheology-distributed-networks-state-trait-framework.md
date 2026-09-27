@@ -16,7 +16,7 @@ sources:
 # Neurotheology framework: distributed neural networks for spiritual experience and the state-versus-trait distinction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study, `q2` · 1 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 Neurotheology is defined in the review as "the scientific investigation of the relationship between brain function and religious or spiritual experience". Its theoretical basis holds that spiritual experience is brain-mediated, that neuroplasticity makes practice-induced change hypothesizable, and that different aspects of religious experience are mediated by distinguishable neural networks rather than a single module. The framework distinguishes state effects (transient changes during practice) from trait effects (durable neuroplastic modifications from sustained practice), which the review uses to organize its synthesis of 105 studies across practice categories and neural systems.

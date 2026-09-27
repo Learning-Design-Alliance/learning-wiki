@@ -17,7 +17,7 @@ sources:
 # Blended off-the-job and on-the-job module structure for supervisor training
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The package organises learning as six free-standing modules sequenced so learning integrates with the workplace. Each module pairs classroom instruction with workplace application: "the first 3 hours is 'off the job' followed by practical workplace activities to be undertaken during 2 hours 'on the job'". On-the-job tasks (interviewing an NESB worker, collecting workplace documents, building festival calendars) feed into the next session.

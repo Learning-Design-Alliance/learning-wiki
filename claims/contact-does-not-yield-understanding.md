@@ -15,12 +15,14 @@ sources:
     author: Hanvey, Robert G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Contact between societies does not by itself produce cross-cultural understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Even sustained, concrete contact with another culture can yield rich data without understanding, as when French observers could not comprehend non-hierarchical Indian social organization. [→ Hanvey 1975](#hanvey-1975)
@@ -31,7 +33,7 @@ sources:
 
 Hanvey, Robert G. (1975). An Attainable Global Perspective. Center for War/Peace Studies. https://eric.ed.gov/?id=ED116993
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The essay's historical illustration of French contact with aboriginal North American groups argues against the cherished idea that contact leads to understanding. The French had "rich databut no understanding" because they interpreted behavior only through their own hierarchical social system. A Peace Corps Philippines case is offered as a parallel modern instance.
 

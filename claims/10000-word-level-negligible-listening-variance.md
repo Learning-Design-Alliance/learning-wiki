@@ -15,12 +15,14 @@ sources:
     author: Ataş, U.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Adding the 10000-word frequency level does not significantly improve prediction of listening comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The change from regression model 4 to model 5 (adding the 10000-word level) was not significant (p > .05), with an R² change of only .007. [→ Ataş 2018](#atas-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ataş, U. (2018). The Role of Receptive Vocabulary Knowledge in Advanced EFL Listening Comprehension. TESL-EJ, 21(4). https://eric.ed.gov/?id=EJ1172563
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Sequential multiple regression (N = 33) showed model 5, including all five frequency levels, had the highest correlation (.661), but the article reports the model 4-to-5 change was not significant and the R² change of .007 "almost does not change the result." No effect size beyond the R² change is printed for this step.
 

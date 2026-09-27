@@ -15,18 +15,22 @@ sources:
     author: Yu Liming
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: yu-liming-1990-2
     resource: "https://eric.ed.gov/?id=EJ420159"
     title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
     author: Yu Liming
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Most of the author's errors came from L1 interference, such as "from your behind" produced by subconscious translation from Chinese. [→ Yu Liming 1990](#yu-liming-1990)
@@ -38,7 +42,7 @@ sources:
 
 Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Diary self-study: the author attributes his dominant error type to L1 interference, illustrated by "establish a telephone" and the Feb. 13 "from your behind" error produced by subconscious translation from Chinese.
 
@@ -48,7 +52,7 @@ Diary self-study: the author attributes his dominant error type to L1 interferen
 
 Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Diary-based argument about advanced learners who already have working grammar and vocabulary: without conscious effort to improve communicative performance, reliance on compensatory strategies such as circumlocution risks fossilization.
 

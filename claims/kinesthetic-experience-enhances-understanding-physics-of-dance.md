@@ -15,12 +15,14 @@ sources:
     author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors are convinced that the kinesthetic experience enhances student understanding and makes encountering the scientific process more fruitful, citing a student-conceived project as evidence. [→ Barber et al. 2007](#barber-et-al-2007)
@@ -31,7 +33,7 @@ sources:
 
 Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' interpretive conclusion from their course experience, offered without systematic outcome measures; the article presents the impulse-asymmetry student project as its evidence of effectiveness rather than any comparative assessment.
 

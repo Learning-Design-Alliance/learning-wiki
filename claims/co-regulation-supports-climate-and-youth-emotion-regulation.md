@@ -15,18 +15,22 @@ sources:
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: tingey-2023-2
     resource: "https://www.acf.hhs.gov/opre"
     title: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre"
     author: "Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Facilitators described the strategies as helping create an environment where youth felt safe expressing themselves and asking questions. [→ Tingey 2023](#tingey-2023)
@@ -38,7 +42,7 @@ sources:
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Section II.C qualitative findings; youth focus groups similarly described the classroom as "safe" and "a positive space", and facilitators credited breath to focus with setting the tone of the class.
 
@@ -48,7 +52,7 @@ Section II.C qualitative findings; youth focus groups similarly described the cl
 
 Tingey, L., R. Piatt, A. Hennigar, C. O'Callahan, S. Weaver, and H. Zaveri. (2023). The Sexual Risk Avoidance Education National Evaluation: Using Co-regulation in Youth Programs. OPRE Report 2023-281, Washington, DC: Office of Planning, Research and Evaluation, Administration for Children and Families, U.S. Department of Health and Human Services. https://www.acf.hhs.gov/opre
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Youth focus group accounts in Section II.C; one student said breath to focus helps "to not get mad" and another described using the taught tools to reflect on emotions in the future.
 

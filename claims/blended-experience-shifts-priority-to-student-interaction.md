@@ -15,12 +15,14 @@ sources:
     author: "Miyazoe, T., & Anderson, T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Experience of blended course design shifts students' interaction priorities from teacher toward student interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students who rated the instructor most important for traditional language courses shifted emphasis to student interaction when rating the blended course they were taking, in all four university cases. [→ Miyazoe 2010](#miyazoe-2010)
@@ -31,7 +33,7 @@ sources:
 
 Miyazoe, T., & Anderson, T. (2010). Empirical Research on Learners' Perceptions: Interaction Equivalency Theorem in Blended Learning. European Journal of Open, Distance and E-Learning. http://www.eurodl.org/?article=397
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Within-survey comparison of general perceptions of traditional language courses versus the specific blended course taken (Figure 5), with the six patterns grouped into teacher, student, and content first-priority categories. The shift was most visible with the Taiwanese University D group; no test statistic is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A review the monograph attributes to Orlich and associates concluded that ITIP, implemented under typical school conditions, lacks empirical evidence supporting claims of improved student achievement. [→ Gall 1994](#gall-1994)
@@ -31,7 +33,7 @@ sources:
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph reports a review by Orlich and associates (1993) of studies of staff development implemented under typical school conditions, mainly the ITIP model implemented district- or statewide. The review's conclusion is quoted: "Madeline Hunter's ITIP lacks empirical evidence to support claims of improved student achievement." No effect sizes are printed.
 

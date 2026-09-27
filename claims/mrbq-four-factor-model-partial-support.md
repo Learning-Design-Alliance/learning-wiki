@@ -15,12 +15,14 @@ sources:
     author: "Op 't Eynde, P., & De Corte, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A principal component analysis of MRBQ responses yielded a four-factor solution in which Factor 1 refers to the social context, Factor 2 to beliefs about the self, and Factors 3 and 4 to beliefs about mathematics, though many hypothesized subcategories were not validated. [→ Op 't Eynde 2003](#op-t-eynde-2003)
@@ -31,7 +33,7 @@ sources:
 
 Op 't Eynde, P., & De Corte, E. (2003). Students' mathematics-related belief systems: Design and analysis of a questionnaire. https://eric.ed.gov/?id=ED475708
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Exploratory principal component analysis of all MRBQ items from 365 Flemish junior high students. The scree plot indicated no more than six factors, and "A four-factor solution accounting for 38.3% of the variance" allowed the best interpretation. The analysis was chosen for its exploratory nature since no prior study had tested the categories in relation to each other.
 

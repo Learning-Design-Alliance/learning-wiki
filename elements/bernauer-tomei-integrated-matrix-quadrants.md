@@ -17,7 +17,7 @@ sources:
 # Bernauer and Tomei's integrated matrix of five faculty integrator quadrants
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The integrated matrix is a framework described as an architectonics of the competencies, learning objectives, and practices faculty can use to maximize teaching and learning with technology in higher education. It presents five quadrants college faculty move through when learning to use pedagogy and technology more effectively, from apprentice integrator (dependent on didactic activities, lectures, and textbooks) to master integrator (a repertoire of instructional methods adaptable to diverse learning needs). As printed: "the five quandrants are apprentice integrator, pedagogical integrator, technological integrator, journeyman integrator, and master integrator."

@@ -15,12 +15,14 @@ sources:
     author: "Ilhan, M., & Guler, N."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Item difficulty indices estimated according to CTT and MFRM for ten open-ended mathematics items correlate positively and perfectly (r = .999, p<.001). [→ Ilhan 2018](#ilhan-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analysis of difficulty indices computed for ten open-ended items from ratings of 375 eighth graders by three teachers; CTT indices via Excel, MFRM via FACETS. The chart reports "r = .999, p<.001".
 

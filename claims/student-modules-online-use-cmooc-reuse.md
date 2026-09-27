@@ -15,12 +15,14 @@ sources:
     author: Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The edX platform's usage monitoring will enable evaluation of the modules' educational impact with a large sample of online users, to be reported in a follow-up publication. [→ Nathan E. Sanders 2013](#nathan-e-sanders-2013)
@@ -31,7 +33,7 @@ sources:
 
 Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' forward-looking plan, not a reported result: the team is working with HarvardX to re-cast suitable modules for high user demand, and plans to report usage and evaluation results "in a follow-up publication after suﬃcient data has been collected."
 

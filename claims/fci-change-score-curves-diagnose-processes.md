@@ -15,12 +15,14 @@ sources:
     author: Lei Bao
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Real FCI data from three calculus-based mechanics classes show a fairly linear change-score relation with pretest score above 0.5, with one class showing curving down at low pretest scores. [→ Lei Bao 2006](#lei-bao-2006)
@@ -31,7 +33,7 @@ sources:
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `theoretical · r3`
 
 Numerical analysis (Section V) of real FCI data from three classes (interactive labs N1~350; traditional N2~1500; honors N~200), plotted as binned averages with standard errors less than 0.02. The data show a 'fairly linear relation' above pretest 0.5 and curving down at low scores for one class.
 

@@ -16,7 +16,7 @@ sources:
 # The Student Momentum Indicator (M): a lesson-by-lesson completion trajectory metric for online courses
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The Student Momentum Indicator is a grounded-theory metric defined as "the percent of students enrolled in the course who finished", calculated after each lesson as M = (total enrolled - dropouts remaining after the lesson) / total enrolled. Graphed across lessons, M traces the course's completion trajectory, rising toward 100% as remaining dropouts are exhausted. The authors developed it after their Tipping Point hypothesis failed, using constant comparison of graphs from 196 courses, and position it as a design tool for pinpointing where students lose momentum.

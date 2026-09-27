@@ -15,12 +15,14 @@ sources:
     author: Feiman-Nemser, Sharon, et al
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Analysis of talk in weekly school-based meetings identified five types of intellectual work—rethinking language, posing problems, constructing curriculum, giving reasons to cases, and confronting dilemmas—capturing the intersection of form and content in serious thought about teaching. [→ Feiman-Nemser 1994](#feiman-nemser-1994)
@@ -31,7 +33,7 @@ sources:
 
 Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The framing paper attributes this categorization to Cochran-Smith's analysis of weekly school-based meetings. Noting that classroom management was only one of several topics explored, Cochran-Smith enumerated other topics including individual children, child development, the cultures of schools and classrooms, and issues of race, gender and class.
 

@@ -15,12 +15,16 @@ sources:
     q: 3
     i: "?"
     n: n/a (literature synthesis)
+    kind: review
+    rigour: "?"
   - id: levie-and-dickie-1973
     title: "Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally."
     author: "Levie, W. H., & Dickie, K."
     q: 2
     i: 0
     n: n/a
+    kind: theoretical
+    rigour: "?"
   - id: lockee-moore-and-burton-2001
     resource: "https://edtechbooks.org/lidtfoundations/old_concerns_distance_education"
     title: "Lockee, B. B., Moore, M., & Burton, J. (2001). Old concerns with new distance education research. *Educause Quarterly, 24*(2), 60–62. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/old_concerns_distance_education](https://edtechbooks.org/lidtfoundations/old_concerns_distance_education)"
@@ -28,12 +32,14 @@ sources:
     q: 2
     i: "?"
     n: n/a
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Media comparison studies produce uninterpretable "no significant difference" findings.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3` · `i0` negligible
+> **Evidence** · 3 studies · 2 theoretical `r?`, 1 review `r?` · `q2`–`q3` · `i0` negligible
 
 A "media comparison study" treats an entire delivery medium (e.g., distance vs. face-to-face instruction) as the independent variable and student achievement as the dependent variable. This design confounds learner characteristics, specific media attributes, instructional strategy, and underlying learning theory into a single undifferentiated "treatment," which makes the near-universal "no significant difference" result these studies produce uninterpretable rather than reassuring.
 
@@ -51,7 +57,7 @@ A "media comparison study" treats an entire delivery medium (e.g., distance vs. 
 
 Clark, R. E. (1983). Reconsidering research on learning from media. *Review of Educational Research, 53*(4), 445–459. [https://doi.org/10.3102/00346543053004445](https://doi.org/10.3102/00346543053004445)
 
-`q3 · influential peer-reviewed narrative synthesis of decades of media-comparison research` · `i? · the abstract prints no effect size; the full text may` · `n=n/a (literature synthesis)`
+`q3 · influential peer-reviewed narrative synthesis of decades of media-comparison research` · `i? · the abstract prints no effect size; the full text may` · `n=n/a (literature synthesis)` · `review · r?`
 
 Clark's widely-cited synthesis argues that media do not directly cause learning gains; any apparent effect is confounded with the instructional method delivered through the medium, novelty effects from a new technology, and uncontrolled differences in the populations being compared. He concludes that comparing whole delivery media ("Web-based" vs. "face-to-face") tells researchers nothing about *why* an outcome occurred, because the actual instructional strategy used within each medium is left unmeasured and uncontrolled.
 
@@ -59,7 +65,7 @@ Clark's widely-cited synthesis argues that media do not directly cause learning 
 
 Levie, W. H., & Dickie, K. (1973). The analysis and application of media. In R. Travers (Ed.), *The Second Handbook of Research on Teaching* (pp. 858–882). Rand McNally.
 
-`q2 · foundational taxonomic/theoretical chapter` · `i0 · not an effect-size claim` · `n=n/a`
+`q2 · foundational taxonomic/theoretical chapter` · `i0 · not an effect-size claim` · `n=n/a` · `theoretical · r?`
 
 Levie and Dickie define media attributes as "the properties of stimulus materials which are manifest in the physical parameters of media," and provide a taxonomy including type of information representation (text, image, sound), sensory modality addressed, level of realism (abstract to concrete), and capacity for feedback (overt, covert, immediate, delayed). They argue comparison studies should target these specific attributes rather than whole media categories, and concluded as early as 1973 that most learning content can be conveyed through a variety of different media — making whole-medium comparison studies "fruitless."
 
@@ -67,7 +73,7 @@ Levie and Dickie define media attributes as "the properties of stimulus material
 
 Lockee, B. B., Moore, M., & Burton, J. (2001). Old concerns with new distance education research. *Educause Quarterly, 24*(2), 60–62. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/old_concerns_distance_education](https://edtechbooks.org/lidtfoundations/old_concerns_distance_education)
 
-`q2 · peer-reviewed methodological critique applying Clark (1983) and Levie & Dickie (1973) to distance-education research` · `i? · no source text available to check; the entry prints no effect size` · `n=n/a`
+`q2 · peer-reviewed methodological critique applying Clark (1983) and Levie & Dickie (1973) to distance-education research` · `i? · no source text available to check; the entry prints no effect size` · `n=n/a` · `theoretical · r?`
 
 The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s distance-education comparison research, arguing that the same confounds (learner characteristics, media attributes, instructional strategy, absence of any tested learning theory) that discredited earlier media-comparison studies were being repeated under a new name. They highlight the specific fallacy of treating "no significant difference" as proof of equivalence, and recommend that researchers either isolate specific media attributes/strategies as variables, or — when no generalizable theoretical question is actually at stake — conduct local program evaluation rather than claim generalizable research findings.
 

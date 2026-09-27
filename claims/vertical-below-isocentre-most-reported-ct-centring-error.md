@@ -15,12 +15,14 @@ sources:
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In an international survey, vertical off-centring (y-axis) below the gantry isocentre was the most frequently reported positioning error (31.5%), ahead of lateral off-centring (23.4%) and vertical off-centring above the isocentre (16.5%). [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)
@@ -31,7 +33,7 @@ sources:
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Self-report survey of 321 CT radiographers in 43 countries using a 38-question instrument; the article notes these are "based on self‐reported perceptions rather than measured positioning data," with 31.5% reporting vertical off-centring below the isocentre.
 

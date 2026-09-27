@@ -15,12 +15,14 @@ sources:
     author: "Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Transformational leadership's effect on harassment was significant among women (β=-0.238, p<0.001) but not men (β=-0.022, n.s.); its effect on self-efficacy was significant among men (β=0.157, p<0.05) but not women (β=-0.024, n.s.). [→ Alave Mamani 2026](#alave-mamani-2026)
@@ -31,7 +33,7 @@ sources:
 
 Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E. (2026). Multivariate modeling of organizational dynamics and faculty well-being in higher education. BMC Psychology. https://doi.org/10.1186/s40359-026-05450-0
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Multigroup WLSMV SEM with free structural paths (Nmen=251, Nwomen=255), following rejection of full structural equivalence. Wald tests localised gender differences exclusively to the two transformational-leadership paths; the article reports the harassment effect "operated among women" and the efficacy effect "operated among men".
 

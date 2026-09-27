@@ -17,7 +17,7 @@ sources:
 # GSA coding forms and teaching-behavior profiles for self-analysis of videotaped lessons
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Each GSA manual directs the teacher to code a videotaped lesson on a Coding Form, marking a square each time a categorized behavior occurs, producing a permanent written record of the pattern and frequency of behaviors. In implementation, "he converts his tallied frequencies of specific observed behaviors to simple percentages and graphs," yielding a profile that serves as a visual and quantitative reference for his habitual teaching behavior. Successive profiles can be compared with other teachers' profiles or with the teacher's own earlier profiles, letting teachers map their progress and identify strengths and areas needing change.

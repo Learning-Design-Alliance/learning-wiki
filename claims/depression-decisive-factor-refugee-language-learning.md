@@ -15,12 +15,14 @@ sources:
     author: Grognet, Allene Guss
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Mental health, especially depression, is probably the single most decisive factor in refugee language learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Depression, often somaticized in elderly refugees as loss of appetite, short attention span, nightmares and inability to sleep, impairs concentration and reinforces a cycle of not speaking English. [→ Grognet 1997](#grognet-1997)
@@ -31,7 +33,7 @@ sources:
 
 Grognet, Allene Guss. (1997). Elderly Refugees and Language Learning. Center for Applied Linguistics. https://eric.ed.gov/?id=ED416721
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 The digest's factors section asserts, without cited data, that depression is common in old age and somaticized in refugees. It states "Refugees' depression does not permit them to concentrate well, thus reinforcing the cycle of not being able to speak English."
 

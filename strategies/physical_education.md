@@ -12,7 +12,7 @@ generated:
 # Physical Education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 9 studies, `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (3 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Physical Education (PE) is a curricular domain and instructional strategy in which learners acquire motor skills, tactical understanding, and health-related knowledge through structured movement tasks. Effective PE sequences [Demonstration](../elements/demonstration.md), guided [Practice](../elements/practice.md), and [Coaching](../elements/coaching.md) within progressively modified game or performance contexts, rather than relying on drill alone.

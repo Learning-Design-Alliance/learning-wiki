@@ -15,12 +15,14 @@ sources:
     author: Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Piaget denied Baldwin's influence, calling the theoretical similarities simple convergences, yet his mentor Janet had been strongly influenced by Baldwin
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Piaget stated he was not influenced by Baldwin in details, attributing the similarities to simple convergence, but Piaget's mentor Pierre Janet cited Baldwin constantly and lunched with him weekly, conveying Baldwin's ideas to Piaget. [→ Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin 1989](#simple-convergences-piagetian-theory-and-its-relationship-to-the-epistemology-of-james-mark-baldwin-1989)
@@ -31,7 +33,7 @@ sources:
 
 Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Historical argument quoting Piaget's own recollection (in Broughton and Freeman-Moir 1982) that "Pierre Janet, whose courses I took in Paris, cited him [Baldwin] constantly." The paper adds Wozniak's point that Baldwin's works were published concurrently in French and English, so Piaget could not have avoided them.
 

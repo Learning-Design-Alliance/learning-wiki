@@ -15,12 +15,14 @@ sources:
     author: "Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview"
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among several compared programs for teaching disadvantaged children, the one placing heavy emphasis on oral language development led all others in cognitive gains, nearly closing the gap with non-disadvantaged children. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
@@ -31,7 +33,7 @@ sources:
 
 Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 Secondhand finding: the document reports, citing Di Lorenzo's 1969 study of pre-kindergarten programs for educationally disadvantaged children (ED 038 460), that the oral-language-emphasis program led all compared programs in cognitive gains. The comparison is reported without statistics.
 

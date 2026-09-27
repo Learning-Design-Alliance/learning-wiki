@@ -15,12 +15,14 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No instances of comprehension checks were found in either language, while all other coded strategies were present. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -31,7 +33,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Coding of the transcribed oral production of 20 dyads at two data collection times found every category (clarification requests, confirmation checks, self- and other-repetition, positive and negative feedback) except comprehension checks, in both L1 and L2.
 

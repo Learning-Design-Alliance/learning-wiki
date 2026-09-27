@@ -16,7 +16,7 @@ sources:
 # Critical reflexivity as a fundamental skill for applying equity frameworks, drawing on Nixon's coin model
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents critical reflexivity as "a practice designed to locate oneself and others in the systems of power and oppression" that must be understood to devise disruptive actions, calling it a fundamental skill for applying any EDI framework in healthcare. Drawing on Nixon's coin model of privilege and oppression, it identifies two especially important elements: understanding that oppression is unearned structural disadvantage and privilege unearned structural advantage, and understanding that these structural realities are multiple and intersecting. Reflexivity was an expectation of participants in the co-design process.

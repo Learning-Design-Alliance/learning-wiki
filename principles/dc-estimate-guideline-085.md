@@ -17,7 +17,7 @@ sources:
 # Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article endorses Subkoviak's (1988) guidance that tests used for serious decisions should achieve an agreement coefficient exceeding 0.85, while arguing the acceptable value should be a programmatic policy decision informed by exam data. The authors state: "The authors support the recommendation of having a DC estimate of at least 0.85 for high stakes exams, but also believe there are reasonable explanations as to why the DC estimate may be lower." Lower values may be justifiable when the score distribution peaks at the cut score or when reliability is reduced by a homogeneous population.

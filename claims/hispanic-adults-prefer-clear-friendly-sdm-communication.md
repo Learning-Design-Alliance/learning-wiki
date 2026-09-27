@@ -15,12 +15,14 @@ sources:
     author: Arana-Chicas E, Reyes AV, Chavez-Iniguez A, Macenat M, Ferrante J, Capurro C, Kinney AY
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants emphasized communication that was clear, understandable, direct, and culturally appropriate, and expressed concern that complex medical terminology such as overdiagnosis may hinder comprehension. [→ Arana-Chicas E 2026](#arana-chicas-e-2026)
@@ -31,7 +33,7 @@ sources:
 
 Arana-Chicas E, Reyes AV, Chavez-Iniguez A, Macenat M, Ferrante J, Capurro C, Kinney AY. (2026). Informing the cultural adaptation of a lung cancer screening shared decision-making and navigation intervention for Hispanic adults: a qualitative study. Cancer Causes & Control. https://doi.org/10.1007/s10552-026-02257-7
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Theme from rapid qualitative analysis of three virtual focus groups with 19 Hispanic adults. Participants wanted plain language for terms like "overdiagnosis" and valued a "friendly, respectful, and nonjudgmental" style that builds trust.
 

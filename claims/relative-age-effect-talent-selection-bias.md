@@ -15,12 +15,14 @@ sources:
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Relative-age effects, not innate talent, bias selection into elite youth sports
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Professional soccer and hockey players are born 3–6 times more frequently in some months, and shifting cohort cutoff dates shifted which birth months were selected. [→ Ericsson 2005](#ericsson-2005)
@@ -31,7 +33,7 @@ sources:
 
 Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Natural-experiment analysis by Helsen, Starkes, and van Winckel (2000) as reported here: Belgium changed its soccer age-cohort cutoff from August–July to January–December in 1997, and "children born in January to March immediately became the most highly selected."
 

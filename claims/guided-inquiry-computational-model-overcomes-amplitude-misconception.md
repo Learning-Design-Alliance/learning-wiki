@@ -15,12 +15,14 @@ sources:
     author: "Farr, Schelbert, & Trouille"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Over 80% of students were able to predict and explain why the frequency of the gravitational wave increases with time during inspiral, while only about half deduced that the amplitude also increases. [→ Farr 2012](#farr-2012)
@@ -31,7 +33,7 @@ sources:
 
 Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Classroom implementation across 8 mixed junior/senior, honors and non-honors classes of about 25 students. The authors report that "over 80% of students were able to predict and explain" the increasing frequency after the demonstration and guided inquiry worksheet; no statistical test is reported.
 

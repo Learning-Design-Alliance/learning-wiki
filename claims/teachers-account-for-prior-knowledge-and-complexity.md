@@ -15,12 +15,14 @@ sources:
     author: "Houichi, A., & Sarnou, D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 85.7% of teachers agreed they take learners' prior knowledge into account when designing instructions, and 80.1% agreed they take the material's complexity into account. [→ Houichi 2020](#houichi-2020)
@@ -31,7 +33,7 @@ sources:
 
 Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results of the Complexity category in Table 3 (Likert-type questionnaire items). The article reports "the majority (85.7%) claimed that they take prior knowledge of the students into account" and separately that 80.1% take the material's complexity into account. No effect size is reported.
 

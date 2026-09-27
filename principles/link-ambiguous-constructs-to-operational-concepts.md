@@ -17,7 +17,7 @@ sources:
 # Make ambiguous behavioral-science constructs empirically tractable by linking them to better-behaved concepts from related nomological networks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper models a strategy of conceptual clarification: rather than abandoning a fertile but empirically elusive construct, link it to a concept with greater behavioral vulnerability. The author proposes "employing Goffman's role distance concept for that of Halpin and Croft's authenticity" because the "behavioral vulnerabilities of role distance appear to be appreciably greater than do those of the authenticity concept," thereby making empirical inroads on the more ambiguous concept by treating role distance as one of its dimensions.

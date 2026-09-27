@@ -15,12 +15,14 @@ sources:
     author: Schofield, Kaye
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # ACE providers are increasingly delivering recognised outcomes in the national VET system, with around 180 registered providers and 1.5-2% of national VET course activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` ACE providers are increasingly engaging with and delivering recognised outcomes for the national VET system, with around 180 registered providers representing an estimated 15% of all ACE providers and 18% of all registered training providers. [→ Schofield 1996](#schofield-1996)
@@ -31,7 +33,7 @@ sources:
 
 Schofield, Kaye. (1996). Think Local and Compete. An Analysis of the Role of Adult and Community Education in the Implementation of a National System for Vocational Education and Training. A Report to the MCEETYA ACE Taskforce. Australian National Training Authority, Brisbane. https://eric.ed.gov/?id=ED420782
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The report's Executive Summary presents estimates of ACE engagement with the national VET system, stating "around 180 ACE providers who are registered training providers" and estimating their share of registered training providers. The report cautions that its statistics are indicative only.
 

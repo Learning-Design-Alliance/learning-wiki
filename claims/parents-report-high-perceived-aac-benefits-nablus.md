@@ -15,12 +15,14 @@ sources:
     author: Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a cross-sectional survey of 75 parents/caregivers, the perceived AAC benefit score had a median of 6 (IQR 4–6) out of 6, with 97.3% endorsing increased communication opportunities. [→ Jarrar Hala 2026](#jarrar-hala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-sectional questionnaire study of 75 parents/caregivers of children with autism receiving AAC services at specialized centers in Nablus. The six-item perceived benefit score showed "a median of 6 (IQR 4–6) out of 6"; endorsement of increased communication opportunities was 73/75 (97.3%).
 

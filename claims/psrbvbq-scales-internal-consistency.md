@@ -15,12 +15,14 @@ sources:
     author: "Grădinariu, T., & Assante, G. M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Item analysis showed satisfactory internal consistency for all three PSRBVBQ factors, with the response-to-victim and response-to-bully scales the most reliable. [→ Grădinariu 2021](#gradinariu-2021)
@@ -31,7 +33,7 @@ sources:
 
 Grădinariu, T., & Assante, G. M. (2021). An Exploratory Factor Analysis and Reliability Analysis of the Perceived Severity and Response to Bullies and Victims of Bullying Questionnaire. Journal of Educational Sciences. https://doi.org/10.35923/JES.2021.2.03
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Reliability (item) analysis on the same sample of 322 middle school teachers, with six items per scale. The article notes the satisfactory internal consistency index "varies from 0.70 to 0.90" (Blunch, 2008) and that all three factors had a high reliability rating.
 

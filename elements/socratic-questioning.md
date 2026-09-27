@@ -17,7 +17,7 @@ sources:
 # Socratic Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Socratic questioning is the element in which prompts are used to probe assumptions, clarify reasoning, test evidence, and extend implications. It is useful when the goal is not simply to elicit an answer, but to strengthen the quality of explanation and judgment behind the answer.

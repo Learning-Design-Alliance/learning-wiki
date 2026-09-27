@@ -16,7 +16,7 @@ sources:
 # Five-dimension framework of affective development in preschool children
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The report organizes affective development into five interrelated dimensions chosen because they appeared central to development: emergence of self, caretaker attachment, adaptation-mastery, self-concept, and socialization. The authors state that "affective development was dichotomized into five critical dimensions" in order to relate curriculum, assessment devices, and bibliography entries to key areas of development. The dimensions are presented in approximate developmental order and used as the outline for discussing both normal and handicapped children's affective development.

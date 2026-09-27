@@ -15,12 +15,14 @@ sources:
     author: de Beaugrande, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that successful writing is impossible unless the would-be writer first becomes a sufficiently skillful reader, able to estimate the effect of his or her own texts on a prospective audience. [→ de Beaugrande 1977](#de-beaugrande-1977)
@@ -31,7 +33,7 @@ sources:
 
 de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the paper: decision-making criteria for writing must be "lovertly, 'obeervable, in samples of good writing", which the author links to the relevance of literature as conscious training in control of language. No empirical data are reported.
 

@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: 2010 (23 studies, 23 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Reflective practice shows mixed evidence of effectiveness in professional education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=2010 (23 studies, 23 effect sizes)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2010 (23 studies, 23 effect sizes)
 
 Structured reflection on one's own professional practice is widely embedded in professional education (teaching, nursing, medicine, social work), but the evidence that it improves learning or practice outcomes is mixed rather than consistently positive. [~W]
 
@@ -34,7 +36,7 @@ Structured reflection on one's own professional practice is widely embedded in p
 
 Guo, L. (2022). How should reflection be supported in higher education? — A meta-analysis of reflection interventions. *Reflective Practice, 23*(1), 118–146. [doi:10.1080/14623943.2021.1995856](https://doi.org/10.1080/14623943.2021.1995856)
 
-`q4 · well-powered random-effects meta-analysis of controlled experimental designs` · `i2 · medium effect, g=0.56 (SE=0.06)` · `n=2010 (23 studies, 23 effect sizes)`
+`q4 · well-powered random-effects meta-analysis of controlled experimental designs` · `i2 · medium effect, g=0.56 (SE=0.06)` · `n=2010 (23 studies, 23 effect sizes)` · `quant-synthesis · r?`
 
 A meta-analysis of controlled experiments testing reflective interventions intended to promote learning outcomes in higher education, drawing on 23 studies with 2,010 participants total. Under a random-effects model the pooled effect was positive and medium-sized (g = 0.56), but moderator analyses showed the effect size depended on intervention duration, whether the reflection included peer interaction, and which specific reflective activity was used — i.e., the average effect masks considerable heterogeneity driven by how reflection is implemented, consistent with this claim page's point that operationalization varies widely and drives the mixed picture in the wider literature.
 

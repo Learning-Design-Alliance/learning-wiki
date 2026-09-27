@@ -15,24 +15,30 @@ sources:
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: bértolo-2005-2
     resource: "https://www.uv.es/psicologica"
     title: "Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica"
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: bértolo-2005-3
     resource: "https://www.uv.es/psicologica"
     title: "Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica"
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Neuroimaging, ERP and lesion evidence supports separate mechanisms: imagery as a function of visual association cortex without primary visual cortex engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` fMRI during mental image generation from heard words engaged visual association cortex, not primary visual cortex, with left inferior temporal lobe (Brodmann's area 37) most robustly activated. [→ Bértolo 2005](#bertolo-2005)
@@ -45,7 +51,7 @@ sources:
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports D'Esposito et al.'s (1997) fMRI study in which subjects listened to words under image-generation versus listen-only conditions. It states "visual association cortex, and not primary visual cortex, was engaged" and that image generation localised asymmetrically to the left.
 
@@ -55,7 +61,7 @@ The review reports D'Esposito et al.'s (1997) fMRI study in which subjects liste
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Roland and Gulyás's (1995) PET rCBF study in 11 healthy volunteers mapping storage, retrieval and recognition of complex visual geometrical patterns; recall activated prefrontal, cingulate, inferior temporal, precuneus, angular and superior parietal fields but no occipital cortex spot. The review attributes this conclusion to Roland and Gulyás.
 
@@ -65,7 +71,7 @@ The review reports Roland and Gulyás's (1995) PET rCBF study in 11 healthy volu
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports clinical cases: patients losing imagery with perception preserved or the reverse, a patient with bilateral temporo-occipital lesions and agnosia whose imagery was preserved, and a case of imagery "preserved in a patient with total cortical blindness". It cautions small islands of visual cortex should be considered.
 

@@ -15,12 +15,14 @@ sources:
     author: "Uz Baş, A., & Öz Soysal, F. S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Confirmatory factor analysis with 728 high school students showed all fit indices were superior for the two-factor reactive–proactive model compared to the one-factor model, with a significant reactive–proactive correlation (r = .66). [→ Uz Baş 2016](#uz-bas-2016)
@@ -31,7 +33,7 @@ sources:
 
 Uz Baş, A., & Öz Soysal, F. S. (2016). Peer relations and peer deviance as predictors of reactive and proactive aggression among high school girls. Educational Sciences: Theory & Practice, 16, 173-186. http://dx.doi.org/10.12738/estp.2016.1.0287
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 CFA (LISREL 8.51, maximum likelihood) on the Turkish RPQ administered to 728 high school students aged 15 to 19, comparing a one-factor and a two-factor model (Table 1). The correlation between reactive and proactive aggression was significant (r = .66, p < .001).
 

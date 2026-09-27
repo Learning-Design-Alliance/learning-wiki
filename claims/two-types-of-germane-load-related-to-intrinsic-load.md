@@ -15,12 +15,14 @@ sources:
     author: Relations between cognitive resources and two types of germane load for learning
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Germane load of one type increases with increases in intrinsic load, as shown by substantial test-score increases in the no hint and Black and White condition. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)
@@ -32,7 +34,7 @@ sources:
 
 Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 One-sample t-tests on identical-problem score increases in the Reversi experiment found "substantial increases in the no hint and Black and White condition as well as in the hint presentation and Black and White condition ( t(20) = 3.09, p < 0.01". The authors interpret this pattern as confirming both Hypothesis 2a and 2b.
 

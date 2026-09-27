@@ -16,7 +16,7 @@ sources:
 # Systems-theory view of the infant as a competent adaptive system
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report adopts a conceptualization of the infant and young child as a "controlled system" in constant interaction with the environment, where mutual adaptation produces a fit that enables continuing growth. The authors summarize that "systems theory emphasizes the infant's capacity for adaptation, his competence as a system, the importance of the exchange between individual and environment, and the critical nature of environmental accommodation." This framework is used to explain why handicapped children, who face more barriers and less environmental accommodation, may have disrupted affective development.

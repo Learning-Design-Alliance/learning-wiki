@@ -15,12 +15,14 @@ sources:
     author: Gentile, J. Ronald
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Rank-ordering students is irrelevant to teaching because teaching is not claimed to have occurred unless each student learned, per the author's Dewey-inspired argument
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A rank ordering of students does not serve the instructor's task, which is identifying who has and has not achieved the objectives and teaching the latter. [→ Gentile 1971](#gentile-1971)
@@ -31,7 +33,7 @@ sources:
 
 Gentile, J. Ronald. (1971). Toward Excellence in Teaching: Grading Practices. https://eric.ed.gov/?id=ED061264
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Philosophical argument paraphrasing Dewey: "if any student has not learned, the teacher has not taught him," so ranking students is useless; the instructor instead needs to know who achieved the objectives and teach those who did not. No empirical data support this.
 

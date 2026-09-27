@@ -17,7 +17,7 @@ sources:
 # Thematic bilingual audio dictionary lessons delivered via Telegram for incidental mobile listening
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The researchers created seven audio vocabulary lessons covering homes-and-apartments topics such as "materials" and "opinions about housing arrangements", each about 2 to 8 minutes long. Each lesson pronounces a new word and its phrases in the students' mother tongue and, after a short pause, its meaning in L2, supplemented with text-format word lists. Students accessed the lessons via the Telegram app on their mobile phones and were expected to listen while walking or commuting, so repetition fit into daily routine without allocating spare time.

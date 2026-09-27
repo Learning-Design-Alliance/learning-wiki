@@ -15,12 +15,14 @@ sources:
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` On momentum post-test questions, no statistical difference in student performance was found (p = 0.65) among the five cooperative-group styles with verbal TA interaction, suggesting the tutorial material rather than instructor quality most impacts understanding of unfamiliar content. [→ Slezak 2011](#slezak-2011)
@@ -31,7 +33,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Null comparison across Styles 2-5 and the prior ideal implementation on momentum questions. The mean score of all students in Figure 3 was 34%, with pre-test means near 0-4%, indicating the tutorial was students' first exposure to the theorem.
 

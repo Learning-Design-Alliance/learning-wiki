@@ -15,12 +15,14 @@ sources:
     author: Fenton, Rebecca
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Schwantes' study of third grade, sixth grade, and college age students found young readers rely heavily on semantic and syntactic information for word level analysis, while adults tend to use these clues at the level of meaning integration. [→ Fenton 1998](#fenton-1998)
@@ -31,7 +33,7 @@ sources:
 
 Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports Schwantes' (1991) study using "third grade, sixth grade, and college age students" within an interactive model of reading. The review attributes the developmental contrast to Schwantes; the original study's design is not described here beyond its age groups.
 

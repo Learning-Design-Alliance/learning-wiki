@@ -16,7 +16,7 @@ sources:
 # Theoretical Domains Framework for identifying determinants of implementation behavior
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Theoretical Domains Framework (TDF) is "a collection of theories relevant to intervention implementation, with various theoretical perspectives and constructs grouped into 14 domains that explain possible determinants of behavior." The domains span three broad areas: Capacity (knowledge, skills, memory/attention, behavioral regulation), Motivation (beliefs, optimism, emotions, reinforcement, intentions, goals), and Opportunity (environmental context and resources, social influences). The article applies the TDF retrospectively to survey coaches and code teacher and coach qualitative data, using domains as an initial codebook for barriers to curriculum fidelity. Although developed by behavioral and community-health scientists, the authors argue it is of great relevance to education.

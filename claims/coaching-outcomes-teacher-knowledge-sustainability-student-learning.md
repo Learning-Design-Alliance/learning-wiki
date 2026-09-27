@@ -15,24 +15,30 @@ sources:
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: white-2015-2
     resource: "https://r2ed.unl.edu/resources_workingpapers.shtml"
     title: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml"
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: white-2015-3
     resource: "https://r2ed.unl.edu/resources_workingpapers.shtml"
     title: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml"
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants in the qualitative study reported that the coaching partnership increased teachers' subject-area knowledge and improved classroom practices, which they linked to more positive student learning outcomes. [→ White 2015](#white-2015)
@@ -45,7 +51,7 @@ sources:
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Findings overview of the qualitative study: teachers reported developing a more nuanced understanding of scientific inquiry, gained confidence (from "holy cow, I have no clue what I’m doing" to gained skills and confidence), and began modeling inquiry for students. These are participant perceptions within the conceptual framework, not tested effects.
 
@@ -55,7 +61,7 @@ Findings overview of the qualitative study: teachers reported developing a more 
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Program Outcomes section: teachers felt they would sustain the approach, were already integrating inquiry in other classes by choice, shared lesson plans with fellow participants, and coaches tied fidelity of engagement to mastery and sustainability.
 
@@ -65,7 +71,7 @@ Program Outcomes section: teachers felt they would sustain the approach, were al
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Program Outcomes section: teachers used clear language that they "knew" students were positively affected, describing students who truly understood the scientific method and hypotheses, regardless of what the academic measures demonstrated; the substantial impacts are qualitative perceptions.
 

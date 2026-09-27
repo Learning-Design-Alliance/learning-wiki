@@ -15,12 +15,14 @@ sources:
     author: Cohen, Malcolm S.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Simulation lets a manager try out resource-allocation decisions and see their effects before implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` By changing factors such as the number of interviewers, terminals, or interview time in the model, a manager can observe effects on waiting times and leftover queues before implementing a decision. [→ Cohen 1975](#cohen-1975)
@@ -31,7 +33,7 @@ sources:
 
 Cohen, Malcolm S. (1975). A Study of On-Line Use of Job Information in Employment Service Local Offices. Volume II: A Simulation Study. https://eric.ed.gov/?id=ED115779
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 This is the report's introductory argument (Chapter 1) for simulation as a management-science technique, not an empirical test. The author reasons that modeling lets a manager examine parameters and "try out various resource allocation decisions to see their effectsbefore they are implemented," avoiding seat-of-the-pants choices made without knowing the full impact.
 

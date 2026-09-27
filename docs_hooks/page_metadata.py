@@ -117,6 +117,9 @@ def _load_scales():
 
 
 QUALITY_TIERS, IMPACT_TIERS, SCALES = _load_scales()
+KIND_VALUES = [(v["code"], v["definition"]) for v in SCALES["kind"]["values"]]
+RIGOUR_TIERS = [(f"r{t['code']}", f"{t['label'].capitalize()} — {t['definition']}")
+                for t in SCALES["rigour"]["tiers"]]
 
 
 def _first_sentence(text: str) -> str:
@@ -147,17 +150,26 @@ def _evidence_legend() -> str:
     q_means = _first_sentence(SCALES["quality"]["means"])
     i_means = _first_sentence(SCALES["impact"]["means"])
     n_means = _first_sentence(SCALES["sample"]["means"])
+    k_rows = [f"    | `{code}` | {meaning} |" for code, meaning in KIND_VALUES]
+    r_rows = [f"    | `{code}` | {meaning} |" for code, meaning in RIGOUR_TIERS]
+    r_means = _first_sentence(SCALES["rigour"]["means"])
     unknown = SCALES["unknown"]["means"]
     return "\n".join([
         "", '??? info "Reading the evidence codes"', "",
         "    The letters are abbreviations:", "",
-        f"    * **`q` — quality.** {q_means}",
+        f"    * **`q` — design tier.** {q_means}",
         f"    * **`i` — impact.** {i_means}",
-        f"    * **`n` — sample.** {n_means}", "",
+        f"    * **`n` — sample.** {n_means}",
+        f"    * **kind and `r` — rigour.** {r_means}", "",
         "    A subclaim is prefixed with the first two, bare: `q3 i2` means a q3 study",
         "    with an i2 effect. An evidence entry spells them out in words beside the",
-        "    code and adds `n=`.", "",
-        "    **`q` — evidence quality**", "",
+        "    code and adds `n=` and the study's kind with its rigour, `qualitative · r3`.", "",
+        "    **Kind — what sort of evidence the study is**", "",
+        "    | Kind | What it covers |", "    |---|---|", *k_rows, "",
+        "    **`r` — rigour, judged within the kind**", "",
+        "    | Code | Meaning |", "    |---|---|", *r_rows, "",
+        f"    `r?`: {SCALES['rigour']['unknown']}", "",
+        "    **`q` — position on the causal-design ladder**", "",
         "    | Code | Criteria |", "    |---|---|", *q_rows, "",
         "    **`i` — impact magnitude**", "",
         "    | Code | Rough effect size |", "    |---|---|", *i_rows, "",

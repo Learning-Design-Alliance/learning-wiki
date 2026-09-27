@@ -15,12 +15,14 @@ sources:
     author: Gagne, Ellen D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Seventh graders trained to elaborate recalled more countries after three days and more propositions from a Superman passage after one day than a control group given elaboration-stimulating questions. [→ Gagne 1981](#gagne-1981)
@@ -31,7 +33,7 @@ sources:
 
 Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 In the training study, some seventh graders were trained in elaborative processing and directed to elaborate on a list of 15 countries and a Superman passage; a control group received questions stimulating elaboration production. The trained group "recalled more countries after three'laYs" and more Superman propositions after one day.
 

@@ -15,12 +15,14 @@ sources:
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Students show a large epistemological split between classroom and research contexts on thinking up their own questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Only about 30% of students in an introductory calculus-based lab and similar-level courses agree they think up their own questions, while students expect researchers to think up their own questions. [→ Zwickl 2013](#zwickl-2013)
@@ -31,7 +33,7 @@ sources:
 
 Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Results from a typical introductory calculus-based lab course at a large public PhD-granting university, reported as formative feedback figures. The article calls this "one of the statements with the largest epistemological splits between what students believe about classroom experiments versus research."
 

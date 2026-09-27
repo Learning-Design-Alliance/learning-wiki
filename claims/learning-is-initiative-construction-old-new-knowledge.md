@@ -15,12 +15,14 @@ sources:
     author: Qiong Jia
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Learning is an initiative construction in which learners code, process, and construct unique understandings based on previous experiences; pure external stimulation is meaningless. [→ Qiong Jia 2010](#qiong-jia-2010)
@@ -31,7 +33,7 @@ sources:
 
 Qiong Jia. (2010). A Brief Study on the Implication of Constructivism Teaching Theory on Classroom Teaching Reform in Basic Education. International Education Studies, 3(2). https://www.ccsenet.org/ies
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical exposition in the article's section on learning, arguing that construction is an initiative, conscious, self-organized recognition way and that "pure external stimulation is meaningless" without learners' coding based on previous experiences. No empirical data are offered.
 

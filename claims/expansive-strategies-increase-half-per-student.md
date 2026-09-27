@@ -15,12 +15,14 @@ sources:
     author: C. A. Ogilvie
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Students describe on average half an additional expansive strategy by semester's end (effect size 0.6)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` The average number of expansive strategies described per student increased by 0.49±0.06, a statistically significant increase with effect size 0.6. [→ C. A. Ogilvie 2006](#c-a-ogilvie-2006)
@@ -31,7 +33,7 @@ sources:
 
 C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu
 
-`q2 · i2 · medium effect, d = 0.6`
+`q2 · i2 · medium effect, d = 0.6` · `design · r2`
 
 Within-student pre/post change in coded expansive strategies (diagram, concepts first, qualitative analysis, sub-problems) for the 216 paired reflectors. The article reports < Δ(expansive)> = 0.49±0.06 with p-value < 0.0001 and "The effect-size for this increase in expansive strategies is 0.6."
 

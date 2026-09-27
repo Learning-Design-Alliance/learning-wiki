@@ -15,12 +15,14 @@ sources:
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Joint-effect simulations show that inserting a "wrong response" before each help request raises the predicted probability of a correct response relative to the request alone. [→ Lu 2024](#lu-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Artificial action-log simulation (Figure 3) inserting a wrong response before answer, hint, or explanation requests. The authors attribute the pattern to enhanced learning effects when students attempt problems before seeking help.
 

@@ -15,12 +15,14 @@ sources:
     author: Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 70.7% of parents reported difficulty integrating AAC into the child's daily routine and 68.0% reported difficulty accessing AAC programs. [→ Jarrar Hala 2026](#jarrar-hala-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jarrar Hala, Malhis Lana, Munawer Alaa, Omareya Moamen, Deek Nagham, Abutair Razan, Dodeen Saja, Khadeje Sara Majed, Abu-Shamat Zaynab. (2026). Parent-reported benefits, barriers, and experiences of augmentative and alternative communication use among children with autism in Nablus, Palestine: a cross-sectional study. BMC Pediatrics. https://doi.org/10.1186/s12887-026-07161-2
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Item-level results from the same cross-sectional parent survey in Nablus. Barriers were reported "by 53/75 parents/caregivers (70.7%)" for daily-routine integration and 51/75 (68.0%) for program access, despite high benefit scores.
 

@@ -15,12 +15,14 @@ sources:
     author: Berliner, David C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In slide and NAEP think-aloud studies, experts made many more assumptions, hypotheses, and predictions, including predicting the misalgorithms students might apply. [→ Berliner 1988](#berliner-1988)
@@ -31,7 +33,7 @@ sources:
 
 Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 In the study by Stein, Clarridge, and Berliner (1988), expert, novice, and postulant teachers talked aloud while predicting how students would answer NAEP items. Experts showed knowledge of student cognitions and misalgorithms; novices and postulants rarely discussed possible student errors.
 

@@ -15,12 +15,14 @@ sources:
     author: Wabike, P.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Honours community members report isolation and negative bias from regular students and lecturers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A recurring qualitative theme is that honours students feel isolated from the wider business school community and perceive prejudice from non-members. [→ Wabike 2021](#wabike-2021)
@@ -31,7 +33,7 @@ sources:
 
 Wabike, P. (2021). Enhancing Learning through Community Membership: Honours Students' Perceptions of Community Membership and Its Impact on Learning. Journal of Educational Issues, 7(2). https://doi.org/10.5296/jei.v7i2.18814
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Open-ended survey responses from 28 honours students were categorised into themes; isolation and perceived prejudice from regular students and lecturers emerged as a recurring disadvantage of membership, with respondents citing examples such as spending time in the honours room.
 

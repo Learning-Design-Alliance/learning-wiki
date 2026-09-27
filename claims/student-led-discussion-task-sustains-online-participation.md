@@ -15,12 +15,14 @@ sources:
     author: "Pittaway, S. M., & Moss, T."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` SNAPP network maps showed the discussion group task produced connections between every individual and exchanges of up to 28 posts, unlike the standard board where interaction converged on teaching staff and few students posted more than twice. [→ Pittaway 2014](#pittaway-2014)
@@ -31,7 +33,7 @@ sources:
 
 Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational analysis of SNAPP visualisations of discussion-board interactions in the 40-student Schools in Society unit, comparing a whole-of-cohort week-2 board with one week of the group task. The group map showed "connections between every individual in the group" with exchanges of up to 28 posts, whereas the standard board converged on the teacher with few cross-posts.
 

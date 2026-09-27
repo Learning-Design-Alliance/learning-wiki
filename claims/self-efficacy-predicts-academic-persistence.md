@@ -12,6 +12,8 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
   - id: pajares-1996
     resource: "https://doi.org/10.3102/00346543066004543"
     title: "Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*(4), 543–578. [https://doi.org/10.3102/00346543066004543](https://doi.org/10.3102/00346543066004543)"
@@ -19,6 +21,8 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
 id: self-efficacy-predicts-academic-persistence
 evidence_strength: strong
 ---
@@ -26,7 +30,7 @@ evidence_strength: strong
 # Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 review `r?` · `q2`
 
 Self-efficacy is not global confidence — it is the learner's judgment that they can execute the specific actions required to accomplish a specific task. High self-efficacy for a task produces higher goals, more effort, longer persistence under obstacles, and faster recovery from failure. Low self-efficacy produces avoidance, reduced effort, and attribution of difficulty to stable inability rather than insufficient strategy.
 
@@ -44,7 +48,7 @@ Self-efficacy is not global confidence — it is the learner's judgment that the
 
 Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
 
-`q2 · narrative review: a book-length theoretical synthesis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A`
+`q2 · narrative review: a book-length theoretical synthesis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `review · r?`
 
 Bandura's foundational text synthesizes the social cognitive theory of self-efficacy, drawing on hundreds of studies across educational, clinical, and occupational settings. Self-efficacy affects choice of activities (people avoid tasks they doubt they can do), effort expenditure, persistence, and resilience — not through confidence in isolation, but through its effect on how learners interpret difficulty. Learners with high efficacy interpret difficulty as a challenge requiring more effort; learners with low efficacy interpret the same difficulty as evidence of incapacity. Four sources shape self-efficacy: mastery experiences (most powerful), vicarious modeling, social persuasion, and physiological states.
 
@@ -52,7 +56,7 @@ Bandura's foundational text synthesizes the social cognitive theory of self-effi
 
 Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*(4), 543–578. [https://doi.org/10.3102/00346543066004543](https://doi.org/10.3102/00346543066004543)
 
-`q2 · narrative review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
+`q2 · narrative review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A` · `review · r?`
 
 Pajares reviews the empirical literature on academic self-efficacy, documenting its strong predictive relationship with academic performance across mathematics, writing, and other subjects. He distinguishes self-efficacy (task-specific, future-oriented judgment of capability) from related constructs like self-concept (global, past-oriented evaluation of competence) and argues the former is a more precise and more powerful predictor. Key design implication: interventions that build self-efficacy — especially through graduated success experiences — have more durable effects on academic persistence than motivational exhortation alone.
 

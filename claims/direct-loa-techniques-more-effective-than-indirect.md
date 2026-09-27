@@ -15,12 +15,14 @@ sources:
     author: Haller, Archibald O. and Miller, Irwin W.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Direct LOA techniques are more effective in practice than indirect techniques because they derive explicitly from the occupational hierarchy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Direct techniques are more effective than indirect techniques in practice because their authors understand the variable being measured and their scores relate clearly to LOA's continuum of difficulty. [→ Haller 1963](#haller-1963)
@@ -31,7 +33,7 @@ sources:
 
 Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The authors' analytical evaluation within their classification of LOA techniques, not a tested comparison. They argue direct techniques have "a clear relationship to LOA's continuum of difficulty", while indirect techniques to date lack such a clear relationship because they are based on interests.
 

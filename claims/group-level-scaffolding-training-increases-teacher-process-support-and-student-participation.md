@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
+    kind: causal
+    rigour: 1
 ---
 
 # Group-level scaffolding training increases teacher process support and student participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium · n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
 
 Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed the group's collective understanding and handed responsibility back to the group significantly more often than untrained teachers, gave content support less often, and drew substantially more students into each small-group interaction — but did not improve the contingency (accuracy of calibration) of the content support they did give.
 
@@ -41,7 +43,7 @@ Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed t
 
 Calor, S. M., Dekker, R., van Drie, J. P., & Volman, M. L. L. (2022). Scaffolding small groups at the group level: Improving the scaffolding behavior of mathematics teachers during mathematical discussions. *Journal of the Learning Sciences, 31*(3), 369-407. [https://doi.org/10.1080/10508406.2021.2024834](https://doi.org/10.1080/10508406.2021.2024834)
 
-`q3 · quasi-experimental comparison (2 trained teachers vs. 2 matched untrained teachers, video-coded across 45 interaction fragments and 969 turns) with statistical hypothesis testing (Fisher's exact tests, t-test); not pre-registered, not randomized at the teacher level` · `i2-i3 · several statistically significant behavioral differences of at least medium size, and one large, precisely quantified effect on student participation (d≈2.08, derived); one explicit null result honestly reported` · `n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam`
+`q3 · quasi-experimental comparison (2 trained teachers vs. 2 matched untrained teachers, video-coded across 45 interaction fragments and 969 turns) with statistical hypothesis testing (Fisher's exact tests, t-test); not pre-registered, not randomized at the teacher level` · `i2-i3 · several statistically significant behavioral differences of at least medium size, and one large, precisely quantified effect on student participation (d≈2.08, derived); one explicit null result honestly reported` · `n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam` · `causal · r1`
 
 Four teachers (two coached on the [Small-Group Scaffolding Tool](../strategies/small-group-scaffolding-tool.md) via individual training, on-the-job coaching, and post-lesson debriefs; two taught as usual) were video-recorded across five mathematics lessons designed to provoke small-group discussion. Coded teacher-turn frequencies show trained teachers used the tool's diagnostic and process-support steps significantly more often and gave direct content support significantly less often, while student-participation counts show trained teachers' interactions involved roughly 1.5 more students on average — a very large effect (t(56)=7.96, p<.001). The one explicit null result — no significant difference in how well-calibrated the content support was — is reported plainly by the authors rather than minimized.
 

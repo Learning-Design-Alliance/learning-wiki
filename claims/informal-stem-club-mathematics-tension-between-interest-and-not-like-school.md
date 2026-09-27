@@ -15,18 +15,22 @@ sources:
     author: Lili Zhou
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: lili-zhou-2023-2
     resource: "https://eric.ed.gov/?id=ED658339"
     title: "Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339"
     author: Lili Zhou
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # An informal STEM club founder saw a dilemma between raising girls' interest in mathematics and keeping the club different from school, and mathematics went unemphasized in its activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The GEMS founder reported that engaging girls in mathematics can create tension with the goal of presenting GEMS as different from school. [→ Lili Zhou 2023](#lili-zhou-2023)
@@ -38,7 +42,7 @@ sources:
 
 Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Findings section of a narrative inquiry based on interviews with the founder of a girls' afterschool STEM club (GEMS). She sees mathematics as presenting "a dilemma" because engaging girls in it "can create tension with another goal, presenting GEMS as different from school".
 
@@ -48,7 +52,7 @@ Findings section of a narrative inquiry based on interviews with the founder of 
 
 Lili Zhou. (2023). Humanizing Mathematics through Boundary Crossing Collaboration. Proceedings of the forty-fifth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (Vol. 2). https://eric.ed.gov/?id=ED658339
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Findings section; the author's account of GEMS website sample activities. Activities were labelled science or engineering and, although mathematics components were identifiable, "mathematics is not emphasized in the activities". Descriptive, no measurement.
 

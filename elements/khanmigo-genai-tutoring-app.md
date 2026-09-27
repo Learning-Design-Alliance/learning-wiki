@@ -17,7 +17,7 @@ sources:
 # Khanmigo: a GPT-4-based GenAI tutoring app with six activity formats, adaptable to French learning through text-based interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study, `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Khanmigo is a GenAI-based educational app launched in 2022 by Khan Academy, powered by GPT-4 via an API and built into the Khan Academy content library. Its main activity categories are "Tutor Me, Refresh, Write, Debate, Chat, Play", plus an Extra section for open-ended conversation. It is designed to guide learners to find answers as a teacher would rather than give away answers, and supports speech-to-text and text-to-speech recognition, though these were not available for French at the time of evaluation, making it more suitable for developing writing and reading skills.

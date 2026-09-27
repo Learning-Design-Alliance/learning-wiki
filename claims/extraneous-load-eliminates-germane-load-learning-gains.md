@@ -15,18 +15,22 @@ sources:
     author: Relations between cognitive resources and two types of germane load for learning
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
   - id: relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015-2
     resource: "https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
     title: "Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
     author: Relations between cognitive resources and two types of germane load for learning
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` The hint presentation and L and rL condition showed no increase in test scores on identical problems. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)
@@ -38,7 +42,7 @@ sources:
 
 Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 In the identical-problem category of the Reversi experiment, "there was no increase in the hint presentation and L and rL condition (t(20) < 1, n.s.)", contrasting with substantial increases in the Black and White conditions.
 
@@ -48,7 +52,7 @@ In the identical-problem category of the Reversi experiment, "there was no incre
 
 Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 In the near-transfer problem category, no significant "increase was found in the hint presentation and L and rL condition ( t(20) = 1.24, n.s.)"; equivalence was not tested.
 

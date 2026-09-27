@@ -15,12 +15,14 @@ sources:
     author: "Riveros, A., Newton, P., & Burgess, D."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Current PLC formulations trivialize teacher practice, which the authors argue severely limits the model's usefulness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Professional learning communities assume collaboration improves practice and results, but leave what improved teacher practice looks like theoretically under-developed. [→ Riveros 2012](#riveros-2012)
@@ -31,7 +33,7 @@ sources:
 
 Riveros, A., Newton, P., & Burgess, D. (2012). A Situated Account of Teacher Agency and Learning: Critical Reflections on Professional Learning Communities. Canadian Journal of Education, 35(1). https://journals.sfu.ca/cje/index.php/cje
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in the introduction: the authors contend that PLCs assume the collaborative approach will result in improved practice without describing it, so "the usefulness of the professional learning communities model is severely limited." No empirical data are offered.
 

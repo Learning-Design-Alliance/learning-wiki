@@ -16,7 +16,7 @@ sources:
 # Self-Determination Theory as a framework for L2/ESP motivation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 SDT is a broad framework distinguishing intrinsic motivation (knowledge, accomplishment, stimulation subtypes) from extrinsic motivation subtypes ranked along a continuum of self-determination (external, introjected, identified regulation), plus amotivation. The article uses it as the theoretical basis for a questionnaire measuring Chinese ESP learners' motivations, arguing it "offers a parsimonious, internally consistent framework for systematically describing many different orientations in a comprehensive manner". It holds that "Conditions supporting the individual’s experience of autonomy, competence, and relatedness, which are described as the three basic needs, are argued to foster the most volitional and high quality forms of motivation and engagement for activities".

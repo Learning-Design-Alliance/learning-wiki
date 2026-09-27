@@ -16,7 +16,7 @@ sources:
 # Interaction Equivalency Theorem: deep formal learning is supported when one of three interaction forms is at a high level
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study, `q2` · 1 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 The Interaction Equivalency Theorem, posited by Anderson (2003a), holds that deep and meaningful formal learning is supported as long as one of the three forms of interaction — student-teacher, student-student, or student-content — is at a high level, while the other two may be minimal or eliminated. Thesis 2 states that high levels of more than one mode will likely provide a more satisfying educational experience, though possibly less cost- or time-effective. The article re-conceptualizes the Theorem as two core theses of quality (Thesis 1) and quantity (Thesis 2) and tests it empirically in blended learning contexts.

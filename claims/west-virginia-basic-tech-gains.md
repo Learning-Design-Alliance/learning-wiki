@@ -15,12 +15,14 @@ sources:
     author: "The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # West Virginia's ten-year basic technology skills program was associated with an 11 percent gain in standardized test scores and a rise in state achievement ranking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` West Virginia's technology program yielded an 11 percent gain in standardized test scores for math, reading and language, and the state's educational achievement ranking moved from 33rd to 17th among states. [→ The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report 2000](#the-power-of-digital-learning-integrating-digital-content-the-ceo-forum-school-technology-and-readiness-report-2000)
@@ -31,7 +33,7 @@ sources:
 
 The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three. (2000). https://eric.ed.gov/?id=ED447781
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 A sidebar describes West Virginia's comprehensive longitudinal study of a ten-year basic technology skills effort, with 48 teachers partnering with the state education department to develop juried curricula. The report states the program "yielded an 11 percent gain in standardized test scores" and the ranking moved from 33rd to 17th; no test statistic is printed.
 

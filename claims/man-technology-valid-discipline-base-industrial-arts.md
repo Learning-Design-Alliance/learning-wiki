@@ -15,12 +15,14 @@ sources:
     author: Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The fellowship team concluded that the study of man and technology is the most valid discipline base for industrial arts education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A year-long fellowship of ten teacher educators derived the basic assumption that studying man and technology is the most valid discipline base for industrial arts education. [→ Industrial Arts Teacher Education Fellowship Program in the Technologies 1970](#industrial-arts-teacher-education-fellowship-program-in-the-technologies-1970)
@@ -31,7 +33,7 @@ sources:
 
 Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970. (1970). West Virginia University, College of Human Resources and Education. https://eric.ed.gov/?id=ED048505
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A position statement from the fellowship team's Section I report, presented as a basic assumption derived from a year of study and dialogue by ten teacher educators. The team states the assumption was "derived from intensive research" but reports no empirical test of it.
 

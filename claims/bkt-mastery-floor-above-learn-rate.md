@@ -15,12 +15,14 @@ sources:
     author: Badrinath, A. and Pardos, Z.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Analytically, for any non-degenerate learned BKT parameters with P(G)<0.5, P(S)<0.5, and forgetting below 1-P(T), the mastery probability P(Lt) exceeds P(T) for all t, even when every response is incorrect. [→ Badrinath 2023](#badrinath-2023)
@@ -31,7 +33,7 @@ sources:
 
 Badrinath, A. and Pardos, Z. (2023). Optimizing Bayesian Knowledge Tracing with Neural Network Parameter Generation. https://github.com/abadrinath947/OptimNN
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Analytical derivation (Section 4.1 and Appendix A) of the BKT posterior and limit for a student answering all questions incorrectly. The paper shows "the mastery probability P (Lt)>P (T ) for allt", and illustrates with a learned learn rate of 0.887 where mastery converges to 1.
 

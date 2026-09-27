@@ -15,12 +15,14 @@ sources:
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Publication output on WCF in L2 writing grew over 2014–2024, with a small early phase (2014–2018) and a surge after 2019 peaking in 2023
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The volume of WCF-in-L2-writing publications gradually increased, with comparatively small totals from 2014 to 2018 and a surge after 2019 that peaked in 2023. [→ Liu 2025](#liu-2025)
@@ -31,7 +33,7 @@ sources:
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writing (2014–June 2024), visualized in Figure 2. The article reports "the number of publications surged, which peaked in 2023" after 2019, and expects 2024 to surpass 2023 if momentum remained.
 

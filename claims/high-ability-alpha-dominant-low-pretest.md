@@ -15,12 +15,14 @@ sources:
     author: Lei Bao
     q: 2
     i: 1
+    kind: theoretical
+    rigour: 3
 ---
 
 # High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · theoretical `r3` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Honor students' change-score data show a more linear relation indicating dominant α-process even at low pretest scores, and Coletta et al. found Harvard students (r = 0.04) differed from average-university students (r = 0.15~0.33). [→ Lei Bao 2006](#lei-bao-2006)
@@ -31,7 +33,7 @@ sources:
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
-`q2 · i1`
+`q2 · i1` · `theoretical · r3`
 
 The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engagement populations: Harvard students showed near-zero gain–pretest correlation while three average-university populations showed positive correlations (r = 0.15~0.33), consistent with high-ability learning behaving as α-process.
 

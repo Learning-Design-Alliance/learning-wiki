@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 3
     n: 20 studies (154 total effect sizes across the review; Grades 4–10)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Self-regulated learning strategy instruction improves writing outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=20 studies (154 total effect sizes across the review; Grades 4–10)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large · n=20 studies (154 total effect sizes across the review; Grades 4–10)
 
 Explicitly teaching writers to plan, monitor, and revise their own composing process improves writing quality beyond instruction focused only on writing mechanics or content.
 
@@ -34,7 +36,7 @@ Explicitly teaching writers to plan, monitor, and revise their own composing pro
 
 Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 
-`q4 · meta-analysis of experimental/quasi-experimental studies` · `i3 · large effect, weighted mean d=0.82 (95% CI 0.69–0.95)` · `n=20 studies (154 total effect sizes across the review; Grades 4–10)`
+`q4 · meta-analysis of experimental/quasi-experimental studies` · `i3 · large effect, weighted mean d=0.82 (95% CI 0.69–0.95)` · `n=20 studies (154 total effect sizes across the review; Grades 4–10)` · `quant-synthesis · r?`
 
 This meta-analysis of the adolescent (Grades 4–12) writing-intervention literature located 123 documents yielding 154 effect sizes across 11 treatment categories. Twenty of those effect sizes came from studies that taught students strategies for planning, revising, and/or editing text, all with explicit modeling, at least three days of instruction, and progression toward independent use. The weighted mean effect on writing quality was large (0.82) and every one of the 20 effect sizes was positive. The self-regulated strategy development (SRSD) model — which adds explicit self-regulation components (goal setting, self-monitoring, self-instruction, self-reinforcement) to the strategy teaching — produced a larger effect (1.14) than non-SRSD strategy instruction (0.62), and struggling writers showed larger gains (1.02) than the full range of classroom writers (0.70). Effects held across genres, grade bands, and several different control conditions (process writing, text-structure instruction, traditional instruction, unspecified controls), though the authors caution that no studies in this treatment involved students above 10th grade.
 

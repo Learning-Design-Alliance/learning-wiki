@@ -17,7 +17,7 @@ sources:
 # Design laboratories to satisfy all five cooperative-learning conditions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies, `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 quant-synthesis), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors organize laboratory work so that "cooperative learning is implemented", and report that "all requests for achieving a cooperative learning are satisfied (Curseo 1992, Johnson 1999), such as positive interdependence, individual accountability, face-to-face promotive interaction, social skills and group processing." Groups are deliberately inhomogeneous and formed following teachers' suggestions to promote the best collaboration.

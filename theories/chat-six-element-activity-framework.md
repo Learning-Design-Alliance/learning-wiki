@@ -16,7 +16,7 @@ sources:
 # Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents activity theory as a socio-cultural and historical lens for holistically analyzing human activity systems. It states that "The basic elements of an activity include subject, object, tools, community, rules, and division of labor" and that internal tensions among these elements drive transformation of knowledge. In technology integration research, the framework directs attention to dynamic relationships among individuals, goals, tools, community members, and mediating factors rather than to the technology alone.

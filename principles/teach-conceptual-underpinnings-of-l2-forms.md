@@ -15,7 +15,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article argues that learner difficulties such as avoidance and overgeneralization "are consequences that are not successfully remedied by only placing attention to the structural aspects of forms in the L2 classroom or by teaching units formulaically". Instead, CL proposes more focus on the conceptual underpinnings of language use, since patterns of use may differ from learners' L1s in subtle ways learners never identify on their own. Explicit instruction is proposed as the route to mastering appropriate L2 contexts.

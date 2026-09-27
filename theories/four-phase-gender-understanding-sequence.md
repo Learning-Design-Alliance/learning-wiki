@@ -16,7 +16,7 @@ sources:
 # Four-phase developmental sequence of gender understanding: labeling, stability, motive, constancy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes gender understanding as a gradually culminating developmental sequence of four levels. As printed, "This process hás been described as consisting of ~foui distinct phases: gender labeling, the consistent application of appropriate gender labels to self and others; stability, the child's awareness that gender remains stable over time", followed by motive (desire does not change gender) and constancy (gender maintained despite transformations of clothing, hairstyle, and behavior). The study's gender pretests and posttests scored children against these levels.

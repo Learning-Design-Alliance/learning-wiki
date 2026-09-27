@@ -17,7 +17,7 @@ sources:
 # Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions. The guide specifies that "The instructional tasks within which the district-wide, grade levelassessment will occur should involve situations that will reflect ways in which mathematics is learnedand applied." A checklist maps each activity number to the critical objectives it assesses, and student pages are used at relevant times throughout the project rather than as a single test session.

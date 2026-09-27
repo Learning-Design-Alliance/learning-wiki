@@ -15,12 +15,14 @@ sources:
     author: Ping Wong, Patricia Duff, and Margaret Early
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For participants who had faced barriers such as age or lack of postsecondary training, successful completion of the program significantly increased their confidence and self-esteem, and learning English and workplace contact supported settlement and integration. [→ Ping Wong 2001](#ping-wong-2001)
@@ -32,7 +34,7 @@ sources:
 
 Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and Skills Training on Immigrants' Lives. TESL Canada Journal, Vol. 18, No. 2, Spring 2001. https://eric.ed.gov/?id=EJ659475
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, who had felt disadvantaged by age and lack of postsecondary training. The article states "successful completion of the program significantly increased their confidence and self-esteem," and links confidence to finding and keeping a job.
 

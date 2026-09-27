@@ -15,12 +15,14 @@ sources:
     author: Yildirim, Z.
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Work-avoidant orientation correlates negatively with GPA in the project-based course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A significant negative correlation was found between work avoidant orientation and students' GPAs (r = -.403). [→ Yildirim 2003](#yildirim-2003)
@@ -31,7 +33,7 @@ sources:
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Correlation analysis (Table 3) among 48 students: work avoidant vs. GPA r=-.403, significant at the .01 level (p=.004). The author interprets that low achievers avoid focusing on mastery of the subject.
 

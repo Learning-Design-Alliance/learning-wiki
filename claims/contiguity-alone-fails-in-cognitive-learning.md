@@ -15,12 +15,14 @@ sources:
     author: Smith, Kendon
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A percept, image, or thought may be followed repeatedly by another cognition, yet the first has no tendency to evoke the second, so contiguity alone cannot explain cognitive learning. [→ Smith 1973](#smith-1973)
@@ -31,7 +33,7 @@ sources:
 
 Smith, Kendon. (1973). On the Possibility of a Reinforcement Theory of Cognitive Learning. https://eric.ed.gov/?id=ED085078
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in a conference paper: the author cites the familiar phenomenon of repeatedly contiguous cognitions that never become linked, quoting that "almost unlimited contiguity is provided" without producing association. No empirical data are reported.
 

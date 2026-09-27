@@ -15,12 +15,14 @@ sources:
     author: de Beaugrande, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The transition from mental to written medium involves reducing multivalence and arranging non-linearly stored elements in a linear mode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that the transition from the mental to the written medium involves at least the reduction of multivalence and communicative alternatives, as well as the arrangement of non-linearly stored elements in a linear mode. [→ de Beaugrande 1977](#de-beaugrande-1977)
@@ -31,7 +33,7 @@ sources:
 
 de Beaugrande, Robert. (1977). Writing as a Decision Process. https://eric.ed.gov/?id=ED159704
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument: discourse is linear and represents only one version of what is communicated, while thoughts are more likely hierarchic and interweave alternatives; hence writing's "immense margin for chaos and -error" can be reduced by lengthy experience or by a net of conscious standards. No data reported.
 

@@ -15,12 +15,14 @@ sources:
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Chi-square analysis found grade significantly related to thinking styles in the functions, form, level and leaning dimensions at the .05 level. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)
@@ -31,7 +33,7 @@ sources:
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Chi-square tests of background factors against styles in each dimension for the 1,545-student sample. The discussion reports that "grade was related to student's styles of thinking in the dimension of functions, style, level and leaning" and that students with good grade tended to have judicial, hierarchic and liberal styles.
 

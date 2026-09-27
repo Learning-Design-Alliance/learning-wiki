@@ -15,12 +15,14 @@ sources:
     author: Cummins, James
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Preservation of the mother tongue predicts second-language achievement among migrant children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the UNESCO investigation of Finnish migrant children in Sweden, the hypothesis that children who best preserved their mother tongue were also best in Swedish was strongly supported. [→ Cummins 1979](#cummins-1979)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports the UNESCO investigation by Skutnabb-Kangas and Toukomaa (1976) of Finnish migrant children attending Swedish comprehensive school, which examined interdependence between mother-tongue and Swedish skills. The paper states "This hypothesis was strongly supported by the findings." Children who migrated at age 10 achieved Swedish skills comparable to those of Swedes.
 

@@ -15,12 +15,14 @@ sources:
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Framework Analysis of FGDs identified revision utility and portability as valued, while the continuous uninterrupted audio format caused cognitive fatigue and learners requested deliberate pauses and better prosody. [→ Joshi U 2026](#joshi-u-2026)
@@ -31,7 +33,7 @@ sources:
 
 Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Qualitative Framework Analysis of four FGDs (three at Centre 1, one at Centre 2; combined sample of 30 students) following the post-test. Participants valued "revision during 'dead time'" but the quoted passage records the fatigue and pause requests; no effect size applies.
 

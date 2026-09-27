@@ -15,12 +15,14 @@ sources:
     author: Fukuda, A.
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Metacognitive strategies (r = .307), effort regulation (r = .332), and coping with problems (r = .270) each significantly correlated with and predicted TOEIC proficiency variance, with metacognitive strategies β = .374. [→ Fukuda 2018](#fukuda-2018)
@@ -32,7 +34,7 @@ sources:
 
 Fukuda, A. (2018). The Japanese EFL Learners' Self-Regulated Language Learning and Proficiency. Journal of Pan-Pacific Association of Applied Linguistics, 22(1), 65-87. https://doi.org/10.25256/PAAL.22.1.4
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Multiple regression on MSLQ learning-strategy factors from 97 Japanese university EFL students, with TOEIC scores as the proficiency measure. The study reports "significantly correl ated with proficiency (TOEIC scores)" for MCS, ER, and CP, with standardized coefficients β = .374, .270, .247 (all p < .01) and Adj.R2 = .232.
 

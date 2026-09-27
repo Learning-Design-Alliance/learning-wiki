@@ -15,12 +15,14 @@ sources:
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Conflict between student and community partner negatively correlated with social justice (r = -.38, p < .01) and diversity (r = -.36, p < .01) attitudes; antagonism negatively correlated with social justice (r = -.41, p < .001) and diversity (r = -.36, p < .01) attitudes. [→ Harkins 2021](#harkins-2021)
@@ -31,7 +33,7 @@ sources:
 
 Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Correlational analyses of community partner-student NRI-SPV variables against CASQ outcomes across all participants. The article reports that negative relationship qualities specifically undermined social justice and diversity attitudes, while positive qualities correlated with civic action.
 

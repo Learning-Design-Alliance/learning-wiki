@@ -14,18 +14,24 @@ sources:
     author: "Callender, A. A., & McDaniel, M. A."
     q: 3
     i: 0
+    kind: causal
+    rigour: "?"
   - id: roediger-karpicke-2006-review
     resource: "https://doi.org/10.1111/j.1745-6916.2006.00012.x"
     title: "Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)"
     author: "Roediger, H. L., & Karpicke, J. D."
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
   - id: dunlosky-et-al-2013
     resource: "https://doi.org/10.1177/1529100612453266"
     title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)"
     author: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Rereading is less effective than retrieval practice
@@ -49,7 +55,7 @@ Actively recalling material from memory produces stronger, more durable learning
 
 Callender, A. A., & McDaniel, M. A. (2009). The limited benefits of rereading educational texts. *Contemporary Educational Psychology, 34*(1), 30–41. [doi:10.1016/j.cedpsych.2008.07.001](https://doi.org/10.1016/j.cedpsych.2008.07.001)
 
-`q3` · `i0`
+`q3` · `i0` · `causal · r?`
 
 A series of experiments with authentic educational texts rather than word lists, testing rereading against a single reading. Benefits were absent or negligible on the measures that matter for instruction. The authors' framing is the useful one for design: rereading is not harmful, it is close to inert for the time it costs.
 
@@ -57,7 +63,7 @@ A series of experiments with authentic educational texts rather than word lists,
 
 Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. [doi:10.1111/j.1745-6916.2006.00012.x](https://doi.org/10.1111/j.1745-6916.2006.00012.x)
 
-`q2` · `i? · the abstract prints no effect size; the full text may`
+`q2` · `i? · the abstract prints no effect size; the full text may` · `review · r?`
 
 A narrative review of the testing-effect literature and its educational implications. Relevant here for the mechanism rather than an effect size: rereading increases perceptual fluency and immediate accessibility, both of which learners read as evidence of learning.
 
@@ -65,7 +71,7 @@ A narrative review of the testing-effect literature and its educational implicat
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 
-`q3` · `i? · the abstract prints no effect size; the full text may`
+`q3` · `i? · the abstract prints no effect size; the full text may` · `review · r2`
 
 A systematic review evaluating ten learning techniques against generalisability, learner characteristics, materials and criterion tasks. Rereading and highlighting received the lowest utility ratings; practice testing and distributed practice the highest. The review is a synthesis rather than a single experiment, so its weight here is breadth of coverage.
 

@@ -15,12 +15,14 @@ sources:
     author: "Mahmoodarabi, M., & Khodabakhsh, M. R."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` On Factor 2 (liberatory autonomy), PhD teachers (M = 5.20) significantly outscored MA teachers (M = 4.83) and BA teachers (M = 4.79); BA and MA did not differ. [→ Mahmoodarabi 2015](#mahmoodarabi-2015)
@@ -31,7 +33,7 @@ sources:
 
 Mahmoodarabi, M., & Khodabakhsh, M. R. (2015). Critical Pedagogy: EFL Teachers' Views, Experience and Academic Degrees. English Language Teaching, 8(6). https://doi.org/10.5539/elt.v8n6p100
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Between-subjects ANOVA on Factor 2 among the 403 respondents. Post-hoc Scheffe tests showed PhD teachers significantly higher than MA (MD = .37, P < .05) and BA (MD = .41, P < .05); BA and MA did not differ significantly.
 

@@ -15,12 +15,14 @@ sources:
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Replacing brief written checkpoint answers with detailed answer keys including reasoning (Style 2) increased post-test scores on both topics, but statistical significance was reached only for the momentum questions (p = 0.42 for kinetic energy, p < 0.05 for momentum). [→ Slezak 2011](#slezak-2011)
@@ -31,7 +33,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Comparison of Style 2 (N=45, detailed written answer keys, no verbal TA interaction) against the prior study's cooperative-groups-with-brief-answers style (N=58). Post-test means were 22% and 32% for kinetic energy and momentum.
 

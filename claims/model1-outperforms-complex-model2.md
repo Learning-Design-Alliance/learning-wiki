@@ -15,12 +15,14 @@ sources:
     author: "Lu, Y., Tong, L., & Cheng, Y."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Model 1 achieved higher best validation, private evaluation, and second-best public AUC than the more complex Model 2, which the authors suggest may indicate overfitting. [→ Lu 2024](#lu-2024)
@@ -31,7 +33,7 @@ sources:
 
 Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Results section comparison of four architectures evaluated with 10-fold cross-validation and public/private evaluation AUCs (Table 4). Model 1's private AUC was 0.79083 versus Model 2's 0.78617; the authors state "Model 1 outperforms Model 2 despite the latter’s greater complexity".
 

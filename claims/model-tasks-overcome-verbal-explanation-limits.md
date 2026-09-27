@@ -15,12 +15,14 @@ sources:
     author: Saçkes, M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Almost half the children had difficulty providing verbal causal explanations, yet nearly all could give causal explanations during model manipulation and labeling tasks. [→ Saçkes 2015](#sackes-2015)
@@ -31,7 +33,7 @@ sources:
 
 Saçkes, M. (2015). Kindergartners' Mental Models of the Day and Night Cycle: Implications for Instructional Practices in Early Childhood Classrooms. Educational Sciences: Theory & Practice, 15(4), 997-1006. https://doi.org/10.12738/estp.2015.4.2741
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the discussion of the interview study, the author reports "almost half of the children had difficulty providing verbal causal explanations" but "during the model manipulation and model labeling tasks, almost all of these children were able to provide causal explanations." The author attributes the verbal difficulty to transductive reasoning and syncretic thinking, citing Piaget.
 

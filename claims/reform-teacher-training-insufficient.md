@@ -15,18 +15,22 @@ sources:
     author: Alfonso Cuervo, César Mora y R. García-Salcedo
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
   - id: alfonso-cuervo-2008-2
     resource: "http://www.journal.lapen.org.mx"
     title: "Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx"
     author: Alfonso Cuervo, César Mora y R. García-Salcedo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the fifth national report, 35% of contributing teachers stated that improving application of the study programs requires training in planning, design and diversification of didactic situations and activities. [→ Alfonso Cuervo 2008](#alfonso-cuervo-2008)
@@ -38,7 +42,7 @@ sources:
 
 Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 The article cites the SEP's fifth national report on school monitoring (cycle 2006-2007): "35% de los docentes" contributing to the report stated that training in planning, design and diversification of didactic situations and activities is required to improve application of the study programs.
 
@@ -48,7 +52,7 @@ The article cites the SEP's fifth national report on school monitoring (cycle 20
 
 Alfonso Cuervo, César Mora y R. García-Salcedo. (2008). Analysis of the Educative Reform in the Secondary School Education in Mexico and its implications in Science II in the new curriculum. http://www.journal.lapen.org.mx
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Drawing on the fourth national report (cycle 2006-2007), the article states that "cerca de un 30% de los directores de escuela" judged the induction workshop's information poorly adequate or inadequate; the workshop covered school organization, strengthening teaching practice, and doubt resolution.
 

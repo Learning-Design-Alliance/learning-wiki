@@ -15,12 +15,14 @@ sources:
     author: Catherine Rockey, Jessica Tiegs, and Julieta Fernández
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` L1 speakers used more one-finger, facial, head, and full-body movements, while L2 speakers used more two-handed gestures and wrist movements; overall use showed no significant differences between groups. [→ Catherine Rockey 2020](#catherine-rockey-2020)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Rockey, Jessica Tiegs, and Julieta Fernández. (2020). Mobile Application Use in Technology-Enhanced DCTs. CALICO Journal. https://doi.org/10.1558/cj.38773
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive rate-of-use analysis (devices per participant) comparing 8 L1 and 5 L2 Spanish speakers; the discussion states there were "no significant differences between L1 and L2 speakers" in overall use. The L2 group was the only group to use a closed-fist gesture.
 

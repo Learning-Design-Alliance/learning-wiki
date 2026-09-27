@@ -15,12 +15,14 @@ sources:
     author: "Olson, B., Mead, R., & Payne, D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Literacy and mathematics performance classifications showed considerable variation across grades, e.g., 21.7% of grade 11 literacy portfolios were Not Evident versus just over 5% in grades 4, 6, and 8. [→ Olson 2002](#olson-2002)
@@ -31,7 +33,7 @@ sources:
 
 Olson, B., Mead, R., & Payne, D. (2002). A report of a standard setting method for alternate assessments for students with significant disabilities (Synthesis Report 47). https://eric.ed.gov/?id=ED472306
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive impact data from the standard setting panels across grades 4, 6, 8, and 11. The report notes literacy showed "considerable variation across grades" and mathematics likewise, with 18% of grade 8 but only 2.3% of grade 6 portfolios rated Independent.
 

@@ -15,12 +15,14 @@ sources:
     author: Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Critical science education requires explicit attention to philosophy of science and rival theories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Siegel argues that a critical science education should give explicit and sustained attention to philosophical and methodological considerations underlying scientific practice, and should actively consider and compare alternative, rival theories and hypotheses rather than indoctrinate students into a reigning paradigm. [→ Weinstein 1989](#weinstein-1989)
@@ -31,7 +33,7 @@ sources:
 
 Weinstein, Mark, Ed.; Oxman-Michelli, Wendy, Ed. (1989). Critical Thinking: Language and Inquiry across the Disciplines. Proceedings of the Annual Conference of the Institute for Critical Thinking (Upper Montclair, New Jersey, 1988). https://eric.ed.gov/?id=ED351305
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in Siegel's plenary paper on science education. He holds that 'the philosophy of science should be an integral part of the science curriculum,' and rejects a Schwab-style 'rhetoric of conclusions' and a Kuhn-inspired aim of indoctrination into the reigning paradigm.
 

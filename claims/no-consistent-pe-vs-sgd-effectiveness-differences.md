@@ -15,18 +15,22 @@ sources:
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: nam-2018-2
     resource: "https://eric.ed.gov/?id=EJ1185374"
     title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374"
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across reviews of single-subject studies, no specific or consistent differences were found between PE and SGDs in request acquisition and daily use. [→ Nam 2018](#nam-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative overview of the Lancioni et al. (2007) review, which examined 37 single-subject studies with 173 students with developmental disabilities comparing PE and SGDs for requesting; the review reports "not specific or consistent differences" between the two systems.
 
@@ -48,7 +52,7 @@ Narrative overview of the Lancioni et al. (2007) review, which examined 37 singl
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Overview of the Gevarter et al. (2013) review of 28 single-subject studies comparing communication systems; the review attributed to it concluded PE and SGDs were "equally effective as SGDs" across learning stages, though preference data favored SGDs.
 

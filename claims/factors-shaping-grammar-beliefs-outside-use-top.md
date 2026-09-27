@@ -15,12 +15,14 @@ sources:
     author: Daloglu, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students most often attributed their grammar-learning beliefs to their use of English outside the classroom, followed by high-school teachers and classmates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The most influential factor shaping beliefs, mentioned by 72% of respondents, was use of English outside the classroom, followed by high-school English teachers (55%) and classmates (40%). [→ Daloglu 2020](#daloglu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Open-ended survey Section 4 item asking students to name up to three factors shaping their beliefs. "the most influential factor, mentioned by 72 per cent of respondents, was their use of English outside the classroom," followed by high-school English teachers (55%) and classmates (40%).
 

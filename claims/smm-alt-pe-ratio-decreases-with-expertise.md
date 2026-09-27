@@ -15,12 +15,14 @@ sources:
     author: "van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The ratio of SMM time to ALT-PE decreased gradually with increasing expertise level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The SMM-to-ALT-PE ratio, an indicator of activity organization and task difficulty appropriateness, decreased from 1.7:1 to 1.6:1 to 1.3:1 across the three expertise groups. [→ van der Mars 1991](#van-der-mars-1991)
@@ -31,7 +33,7 @@ sources:
 
 van der Mars, H., Vogler, E. W., Darst, P. W., & Cusimano, B. (1991). Novice and Expert Physical Education Teachers: They May Think and Decide Differently...But Do They Behave Differently? https://eric.ed.gov/?id=ED336354
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive result from the observational study of 18 teachers; the article states a higher ratio would indicate "less effective activity organization and/or less appropriate task selection".
 

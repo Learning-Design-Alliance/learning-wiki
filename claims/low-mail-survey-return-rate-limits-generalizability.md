@@ -15,12 +15,14 @@ sources:
     author: Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The immigrant sample's low return rate limits generalizability to Korean adult immigrants as a whole
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Because of a low return rate and high improper answer rate, the sample may not be random and may not represent Korean adult immigrants as a whole. [→ Kim 1998](#kim-1998)
@@ -31,7 +33,7 @@ sources:
 
 Kim, Saekyung; Gaa, John; Swank, Paul; Liberman, Dov. (1998). Identity Transformation of Korean Immigrants. https://eric.ed.gov/?id=ED420007
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Mail survey of 300 randomly selected Korean-Americans yielded 101 returns (16.8%), of which 79 were analyzable after exclusions; the authors state in the discussion that the sample may not represent Korean adult immigrants as a whole.
 

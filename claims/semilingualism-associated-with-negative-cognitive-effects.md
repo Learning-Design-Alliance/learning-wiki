@@ -15,12 +15,14 @@ sources:
     author: Cummins, James
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Evidence is cited that some minority-language and migrant children show semilingualism, with detrimental cognitive and academic consequences. [→ Cummins 1979](#cummins-1979)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review cites Skutnabb-Kangas and Toukomaa (1976) on semilingualism among minority and migrant children. The paper stresses the term "cannot be used as a strictly linguistic concept at all"; supporting research measured cognitive aspects of language, not surface fluency alone.
 

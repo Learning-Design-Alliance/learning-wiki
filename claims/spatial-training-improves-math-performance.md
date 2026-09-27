@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 1
     n: 3,765 participants across 29 studies, k=89 effect sizes
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Spatial Training Improves Math Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small · n=3,765 participants across 29 studies, k=89 effect sizes
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small · n=3,765 participants across 29 studies, k=89 effect sizes
 
 Training learners' spatial skills — through mental rotation, spatial visualization, and similar tasks — transfers to improved performance in mathematics, particularly in areas with strong spatial components such as geometry, measurement, and graph interpretation.
 
@@ -34,7 +36,7 @@ Training learners' spatial skills — through mental rotation, spatial visualiza
 
 Hawes, Z. C. K., Gilligan-Lee, K. A., & Mix, K. S. (2022). Effects of spatial training on mathematics performance: A meta-analysis. *Developmental Psychology, 58*(1), 112–137. [doi:10.1037/dev0001281](https://doi.org/10.1037/dev0001281)
 
-`q3 · systematic meta-analysis of controlled pre-post training studies` · `i1 · small-to-moderate effect, Hedges's g=0.28 (SE=0.07)` · `n=3,765 participants across 29 studies, k=89 effect sizes`
+`q3 · systematic meta-analysis of controlled pre-post training studies` · `i1 · small-to-moderate effect, Hedges's g=0.28 (SE=0.07)` · `n=3,765 participants across 29 studies, k=89 effect sizes` · `quant-synthesis · r2`
 
 This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effect sizes) testing whether training spatial skills (e.g., mental rotation, spatial visualization tasks) transfers to mathematics performance. Relative to control conditions, spatial training produced an average transfer effect on math of Hedges's g = .28 (SE = .07), alongside a larger direct effect on spatial thinking itself (g = .49, SE = .09). Effects were moderated by participant age (larger in older participants, ages 3–20), by use of concrete manipulatives (larger than computerized training), and by transfer distance ("near" transfer to spatially-aligned math content produced larger effects than "far" transfer); training dosage, spatial gains, posttest timing, control-group type, experimental design, and publication status did not moderate effects, and publication-bias/selective-reporting checks were nonsignificant.
 

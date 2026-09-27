@@ -16,7 +16,7 @@ sources:
 # Two-faces framework: language acquisition as distinct mental representation and skill components
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article proposes that language is not monolithic but consists of two broad domains: mental representation, defined as "the abstract, implicit, and underlying linguistic system in a speaker's mind/brain", and skill, the speed and accuracy of language use in interpretation, expression, and negotiation. Each domain has separable sub-domains (syntax, phonology, lexicon within representation; reading, writing, speaking within skill). The framework's purpose is to sort out what instruction can and cannot impact in adult SLA.

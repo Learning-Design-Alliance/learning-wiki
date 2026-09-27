@@ -15,12 +15,14 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Both immediate and delayed penny-per-idea reward produced significantly more ideas than control conditions on creativity tasks. [→ Ward 1970](#ward-1970)
@@ -31,7 +33,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment with 191 fifth-grade children randomly assigned to Control, Immediate Reward, or Delayed Reward groups in Session 2; analysis of covariance on combined-task fluency showed "increased mean numbers of ideas relative to the Control group" with the printed F values.
 

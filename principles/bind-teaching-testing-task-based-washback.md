@@ -17,7 +17,7 @@ sources:
 # Bind language teaching and language testing through task-based assessment to harness wash-back
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article argues that task-based language testing (e.g., IELTS) and task-based language teaching should be bound together because assessment exerts a wash-back effect on teaching. It maintains that "task can, either in evaluative sense or instructional one, guide or shape both pedagogy and assessment through task-resulted wash back," and that the way learners are tested affects the way they are instructed and learn. In task-based language testing, assessment becomes one kind of learning, with close correspondence between test performance and real-world criterion performance.

@@ -15,12 +15,14 @@ sources:
     author: Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R.
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The impact of CLASP centered on the number of activities rather than their type, because both CLASP and non-CLASP libraries sponsored many of the same types of activities. [→ Small 1994](#small-1994)
@@ -31,7 +33,7 @@ sources:
 
 Small, Ruth V.; Katzer, Jeffrey; Eisenberg, Michael B.; McClure, Charles R. (1994). Connecting Libraries and Schools Project (CLASP) Evaluation. Report #7. Final Report. Information Management Consultant Services, Inc. https://eric.ed.gov/?id=ED382199
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `design · r3`
 
 The evaluation found that despite increased frequency in CLASP activities, there appeared to be no difference between the impact of CLASP and non-CLASP activities on their respective audiences, as judged by librarians in different institutions. CLASP did offer more options for adults, more contact with community agencies, and a larger number of activities.
 

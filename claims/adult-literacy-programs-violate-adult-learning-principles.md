@@ -15,12 +15,14 @@ sources:
     author: "You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners"
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The handbook identifies five main problem areas in adult literacy programs, including the assumption that literacy develops quickly and a misconception that individualized learning means learning in isolation. [→ You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners 1993](#you-can-be-in-a-group-and-still-not-cooperate-collaborative-approaches-and-cooperative-learning-activities-for-adult-learners-1993)
@@ -31,7 +33,7 @@ sources:
 
 You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 This is the handbook's research-review section on problems of adult literacy programs, citing Kazemak (1988), Knowles (1990), and Soifer and colleagues (1990). It lists five problem areas, including that pre-packaged programs "rarely transfer skills to real-life situations" and that programs use leftover elementary or secondary materials.
 

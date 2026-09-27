@@ -15,12 +15,14 @@ sources:
     author: Bill VanPatten
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In on-line processing research comparing native and mid-level non-native Spanish speakers, learners showed sensitivity to untaught syntactic violations but not to subject-verb agreement violations they had explicitly learned and practiced. [→ Bill VanPatten 2010](#bill-vanpatten-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports its authors' own on-line processing study (VanPatten, Keating, & Leeser, forthcoming): natives showed sensitivity to violations in all domains including subject-verb agreement; non-natives matched natives on syntactic violations but not agreement. No effect sizes are printed in the essay.
 

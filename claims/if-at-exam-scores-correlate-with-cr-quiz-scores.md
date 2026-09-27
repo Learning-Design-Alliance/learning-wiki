@@ -15,12 +15,14 @@ sources:
     author: Slepkov, A. D.
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Among 47 students who completed course materials and wrote the final exam, cumulative IF-AT examination scores correlated r = 0.67 with scores on bi-weekly constructed-response quizzes, which the author takes as evidence of exam validity. [→ Slepkov 2013](#slepkov-2013)
@@ -31,7 +33,7 @@ sources:
 
 Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Correlational validity check comparing cumulative IF-AT exam scores against five bi-weekly constructed-response quizzes graded by recitation leaders with limited role in creating the IF-AT exams. The author reports "the correlation ( r = 0 . 67)" and notes it is in line with validated MC tests.
 

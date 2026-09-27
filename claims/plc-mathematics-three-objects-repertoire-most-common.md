@@ -15,12 +15,14 @@ sources:
     author: "Harvey, F., & Teledahl, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 32 reviewed studies, PLC in mathematics had primarily three objects: developing norms for collaboration, developing teachers' understanding of mathematics and its teaching, and developing teachers' repertoire of teaching actions, the last being most common. [→ Harvey 2022](#harvey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Configurative systematic review of 32 empirical studies of PLC in mathematics, categorised into activity-system nodes. The review reports "Twenty-seven studies described PLC where teachers worked to develop their teaching actions", with 15 studies for understanding-oriented objects and 4 for collaboration norms.
 

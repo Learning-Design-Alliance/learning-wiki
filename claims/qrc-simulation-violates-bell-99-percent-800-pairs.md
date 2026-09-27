@@ -15,12 +15,14 @@ sources:
     author: Vongehr, S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A simulation enforcing sine-dependence shows quantum mechanics predicts Bell inequality violation around 99% of the time with 800 photon pairs. [→ Vongehr 2012](#vongehr-2012)
@@ -31,7 +33,7 @@ sources:
 
 Vongehr, S. (2012). Quantum Randi Challenge. arXiv:1207.5294. [doi:10.48550/arXiv.1207.5294](https://doi.org/10.48550/arXiv.1207.5294)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 A numerical simulation (Supplemental Material Fig. 6, run 1000 times) of 800 entangled photon pairs enforcing the sin-squared dependence shows the Bell inequality is not violated on average only "nine times out of 1000 runs", i.e. violated about 99% of the time.
 

@@ -17,7 +17,7 @@ sources:
 # Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter establishes six core principles (Table 3) to guide AI use in higher education and scholarship, ensuring alignment with academic values and pedagogical best practice. These include that "AI should enhance human capabilities, not replace them," that faculty determine whether AI is used in a course, that AI use be transparent, that AI systems follow fairness and accountability principles, that AI be designed inclusively, and that AI augment rather than outsource critical thinking. The framework operationalizes these principles through its multidimensional approach to AI literacy.

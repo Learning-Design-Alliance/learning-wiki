@@ -16,7 +16,7 @@ sources:
 # Cognitive theory of pretense: a separate mental workspace in the brain explains pretense
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review describes a recently proposed "cognitive theory of pretense" (Nichols & Stich, 2000) which posits a "separate mental workspace" within the human brain to explain the phenomenon of pretense. The article presents it as emphasizing the importance of the play/cognition relationship for humans and pointing toward neuroscience collaboration in future research. The article notes it engages emotion, cognition, language, and sensorimotor actions, possibly promoting dense synaptic connections.

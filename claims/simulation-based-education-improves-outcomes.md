@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 3
     n: 609 studies (35,226 trainees)
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Simulation Based Education Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i3` large · n=609 studies (35,226 trainees)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large · n=609 studies (35,226 trainees)
 
 Simulation-based education — structured practice in interactive representations of real tasks (mannequins, virtual patients, flight simulators, role-play) — improves learning and performance outcomes relative to instruction without deliberate practice in the simulated environment.
 
@@ -34,7 +36,7 @@ Simulation-based education — structured practice in interactive representation
 
 Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., & Hamstra, S. J. (2011). Technology-Enhanced Simulation for Health Professions Education: A Systematic Review and Meta-analysis. *JAMA, 306*(9), 978–988. [doi:10.1001/jama.2011.1234](https://doi.org/10.1001/jama.2011.1234)
 
-`q4 · systematic review and meta-analysis` · `i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors` · `n=609 studies (35,226 trainees)`
+`q4 · systematic review and meta-analysis` · `i3 · large effect, pooled effect sizes ~1.09–1.20 for knowledge/skills/behaviors` · `n=609 studies (35,226 trainees)` · `quant-synthesis · r3`
 
 A systematic review and meta-analysis (search through May 2011 across MEDLINE, EMBASE, CINAHL, ERIC, PsycINFO, Scopus and other sources) identified 609 eligible studies of technology-enhanced simulation training (mannequins, virtual reality, part-task trainers, etc.) for physicians, nurses, dentists and other health professionals, compared against no intervention. Study designs included 137 randomized trials, 67 nonrandomized multi-group studies, and 405 single-group pretest-posttest studies. Pooled random-effects sizes versus no intervention were large for knowledge (g=1.20, 95% CI 1.04–1.35, k=118), time skills (g=1.14, k=210), process skills (g=1.09, k=426) and product skills (g=1.18, k=54), and moderate-to-large for behaviors (g≈0.79–0.81) and for direct effects on patients (g=0.50, 95% CI 0.34–0.66, k=32). Subgroup analyses found no consistent statistically significant interactions between simulation training and instructional-design features (curricular integration, distributed practice, feedback, mastery learning, repetitive practice) or study quality — heterogeneity was large (I²>50%) throughout, so this is a comparison against no intervention rather than against an equally-dosed non-simulation alternative, and it does not by itself establish which design features drive the effect.
 

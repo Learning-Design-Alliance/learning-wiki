@@ -15,12 +15,14 @@ sources:
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Direct comparisons reviewed in the article indicate incidental vocabulary acquisition is less effective than intentional vocabulary learning, producing less and slower gains and worse retention. [→ Zou 2019](#zou-2019)
@@ -31,7 +33,7 @@ sources:
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The review reports, citing Peters et al. (2009), a direct comparison showing incidental acquisition is "less effective than intentional vocabulary learning" with slower gains and worse retention; the review narrates this second-hand without reporting effect sizes.
 

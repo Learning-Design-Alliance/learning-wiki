@@ -15,12 +15,14 @@ sources:
     q: 1
     i: 0
     n: 1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
+    kind: qualitative
+    rigour: 2
 ---
 
 # Community projects need conceptual framing to avoid narrowing the learning object
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i0` negligible · n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
+> **Evidence** · 1 study · qualitative `r2` · `q1` · `i0` negligible · n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
 
 When a real-world or community-partnered project is not anchored to explicit disciplinary or conceptual content, the different groups involved (students, teachers, outside partners) tend to converge on whichever meaning system is easiest to coordinate around — often a narrow, transactional one — rather than the broader learning object the design intended.
 
@@ -33,7 +35,7 @@ When a real-world or community-partnered project is not anchored to explicit dis
 
 Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)
 
-`q1 · single qualitative case study` · `i0 · no quantified effect; interpretive finding` · `n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers`
+`q1 · single qualitative case study` · `i0 · no quantified effect; interpretive finding` · `n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers` · `qualitative · r2`
 
 A Finnish public middle school ran an annual entrepreneurship "fair course" connecting students with local entrepreneurs and municipal decision-makers, analyzed using [cultural-historical activity theory](../theories/cultural-historical-activity-theory.md). Using video/audio recordings, interviews, student reports, and a researcher-facilitated "future forum" discussion, the authors traced how each group of participants (students, teachers, entrepreneurs, municipal officers) made meaning of the shared activity. Without a disciplinary knowledge system to anchor the course's content, the dominant meaning system that emerged was "money-making" — students prioritized profit and declined to share proceeds with outside partners, framing entrepreneurship as a value-neutral economic activity rather than engaging its political or ideological dimensions. A subsequent researcher-designed intervention (a mixed-stakeholder "future forum" discussion) surfaced an alternative "internal entrepreneurship" framing only after explicit facilitation prompted participants to reflect together.
 

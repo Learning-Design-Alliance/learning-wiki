@@ -15,12 +15,14 @@ sources:
     author: Fullin, Christine; Mills, Brett D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Skilled athletes attribute successes to stable internal causes and failures to unstable external causes (self-serving attribution bias)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Skilled, consistently successful athletes tend to attribute their successes to stable, internal causes, and a usually successful athlete who fails tends to ascribe failure to an unstable, external source, a pattern Brawley and Roberts term the self-serving attribution bias. [→ Fullin 1995](#fullin-1995)
@@ -31,7 +33,7 @@ sources:
 
 Fullin, Christine; Mills, Brett D. (1995). Attribution Theory in Sport: Problems and Solutions. https://eric.ed.gov/?id=ED387439
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing McAuley and Gross (1983), that skilled consistently successful athletes attribute success to stable internal causes. It further reports, citing Brawley and Roberts (1984), that such athletes ascribe occasional failure to unstable external sources, protecting self-esteem.
 

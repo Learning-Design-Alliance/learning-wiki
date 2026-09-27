@@ -15,12 +15,14 @@ sources:
     author: Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` A second MANOVA on the three treatment amenability subscales found no statistically significant main effects or interaction. [→ Robles Chella 2026](#robles-chella-2026)
@@ -31,7 +33,7 @@ sources:
 
 Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy. (2026). Changing Language May Not Be Enough to Change Public Perceptions of Individuals Who Sexually Offend. Sexual Offending: Theory, Research, and Prevention. https://doi.org/10.5964/sotrap.17345
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Second MANOVA in the same experiment, on three subscales of the treatment amenability measure. The label-type effect was non-significant ("F(9,798) = .917, p = .510"), and the article reports the victim-age effect (F(3,264) = .009, p = .514) and interaction (F(9,798) = 1.553, p = .125) as also non-significant.
 

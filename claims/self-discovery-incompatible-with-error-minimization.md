@@ -15,12 +15,14 @@ sources:
     author: Glaser, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Self-discovery through errorful exploration is basically incompatible with error minimization in instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Because discovery sequences require students to pursue blind alleys and make mistakes, a basic incompatibility exists between the self-discovery process and error minimization. [→ Glaser 1966](#glaser-1966)
@@ -31,7 +33,7 @@ sources:
 
 Glaser, Robert. (1966). Variables in "Discovery Learning." Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED010518
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 A theoretical argument in the paper: discovery sequences allow blind alleys and negative instances so errors are highly probable, whereas error minimization removes error factors without manifesting them, producing less-than-challenging tasks. Adaptive teaching systems (Lewis and Pask) instead use errors to select next instruction.
 

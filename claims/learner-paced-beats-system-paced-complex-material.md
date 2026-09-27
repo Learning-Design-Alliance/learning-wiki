@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: primary school students (exact N not stated in the abstract); 4 conditions
+    kind: causal
+    rigour: "?"
   - id: karich-et-al-2014
     resource: "https://doi.org/10.3102/0034654314526064"
     title: "Karich, A. C., Burns, M. K., & Maki, K. E. (2014). Updated Meta-Analysis of Learner Control Within Educational Technology. *Review of Educational Research, 84*(3), 392–410. [doi:10.3102/0034654314526064](https://doi.org/10.3102/0034654314526064)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 0
     n: 18 studies, 29 effects
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Learner Paced Beats System Paced Complex Material
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
 
 For complex material, allowing learners to control the pace of instruction (pause, replay, slow down) produces better learning than a fixed, system-controlled pace, because pacing control lets learners manage cognitive load.
 
@@ -43,7 +47,7 @@ For complex material, allowing learners to control the pace of instruction (paus
 
 Hasler, B. S., Kersten, B., & Sweller, J. (2007). Learner control, cognitive load and instructional animation. *Applied Cognitive Psychology, 21*(6), 713–729. [doi:10.1002/acp.1345](https://doi.org/10.1002/acp.1345)
 
-`q3 · peer-reviewed experiment (not pre-registered)` · `i? · no standardized effect size reported in the abstract` · `n=primary school students (exact N not stated in the abstract); 4 conditions`
+`q3 · peer-reviewed experiment (not pre-registered)` · `i? · no standardized effect size reported in the abstract` · `n=primary school students (exact N not stated in the abstract); 4 conditions` · `causal · r?`
 
 Primary school students were taught the determinants of day and night using one of four presentations: a system-paced continuous animation, a learner-paced animation split into discrete segments, a learner-paced animation with 'stop'/'play' buttons, or a narration-only version. Both learner-paced conditions showed higher test performance and relatively lower [cognitive load](../theories/cognitive-load-theory.md) than the system-paced conditions, even though the stop/play buttons were rarely used. Crucially, the advantage appeared only on more difficult, high-element-interactivity questions — not on low-element-interactivity questions — supporting the claim's specific restriction to complex material rather than a general pacing-control benefit.
 
@@ -51,7 +55,7 @@ Primary school students were taught the determinants of day and night using one 
 
 Karich, A. C., Burns, M. K., & Maki, K. E. (2014). Updated Meta-Analysis of Learner Control Within Educational Technology. *Review of Educational Research, 84*(3), 392–410. [doi:10.3102/0034654314526064](https://doi.org/10.3102/0034654314526064)
 
-`q3 · meta-analysis (18 studies, modest k; not pre-registered)` · `i0 · negligible overall effect, g=0.05` · `n=18 studies, 29 effects`
+`q3 · meta-analysis (18 studies, modest k; not pre-registered)` · `i0 · negligible overall effect, g=0.05` · `n=18 studies, 29 effects` · `quant-synthesis · r?`
 
 This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving students control over their own learning within educational technology generally — including but not limited to pacing. Across 18 studies yielding 29 effects, the overall benefit of learner control was almost zero (g = 0.05) and stayed near zero across most characteristics of control and instructional context, though moderate effects appeared for social-studies/history courses and comprehensive technology programs. This qualifies the wiki claim: outside material specifically screened for high complexity, "letting learners control the experience" does not reliably help, so the claim's benefit should be read as conditional on complexity/element interactivity rather than a general property of learner control.
 

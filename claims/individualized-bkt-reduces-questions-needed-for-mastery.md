@@ -15,12 +15,14 @@ sources:
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review attributes to Lee and Brunskill that individualized BKT could roughly halve the questions needed for 20% of students to reach mastery. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Lee and Brunskill, who "suggest" individualized BKT in an intelligent tutoring system can reduce "by about half the amount of questions required for 20% of students to achieve mastery". The survey gives no design or sample details.
 

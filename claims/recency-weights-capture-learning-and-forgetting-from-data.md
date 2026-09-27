@@ -15,12 +15,14 @@ sources:
     author: "Agarwal, D., Baker, R.S., & Muraleedharan, A."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Recency weights let MS-BKT capture learning and forgetting from response patterns without a fixed learning rate, in a hypothetical example
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In a hypothetical illustration, MS-BKT gave a considerably higher mastery estimate to a student whose correct answers came later (0.67) than to a student whose correct answers came earlier (0.37), though both answered 5 of 10 correctly. [→ Agarwal 2020](#agarwal-2020)
@@ -31,7 +33,7 @@ sources:
 
 Agarwal, D., Baker, R.S., & Muraleedharan, A. (2020). Dynamic knowledge tracing through data driven recency weights. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org/edm2020/
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 A hypothetical worked example (Section 3) tracking three fictitious students over 10 questions with parameters L0: 0.5, G: 0.1, S: 0.1, T: 0.3. Table 1 prints mastery estimates of 0.67 for the learning pattern and 0.37 for the forgetting pattern, showing recency weights derive learning direction from data itself.
 

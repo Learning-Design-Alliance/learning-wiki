@@ -15,12 +15,14 @@ sources:
     author: "Gómez Argüelles, L., Hernández Méndez, E., & Perales Escudero, M. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Most participants reported not interrupting students and correcting at the end of class, driven by discomfort and beliefs about intimidation; only one of six used immediate OCF. [→ Gómez Argüelles 2019](#gomez-arguelles-2019)
@@ -31,7 +33,7 @@ sources:
 
 Gómez Argüelles, L., Hernández Méndez, E., & Perales Escudero, M. D. (2019). EFL Teachers' Attitudes Towards Oral Corrective Feedback: A Case Study. Profile: Issues in Teachers' Professional Development, 21(1), 107-120. https://doi.org/10.15446/profile.v21n1.69508
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 In the timing analysis of the six-teacher interview study, "The overall triodes resulting from Jain's (2014) model were nnn for immediate correction and ppp for delayed correction"; only Xavier reported immediate correction.
 

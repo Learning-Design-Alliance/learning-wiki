@@ -15,12 +15,14 @@ sources:
     author: Livingstone, D.W.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Informal learning participation is unrelated to formal schooling level, unlike course participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` While participation in further education courses rises sharply with school attainment, no such relationship is evident between level of schooling completed and the incidence of informal learning. [→ Livingstone 2001](#livingstone-2001)
@@ -31,7 +33,7 @@ sources:
 
 Livingstone, D.W. (2001). Adults' Informal Learning: Definitions, Findings, Gaps, and Future Research. NALL Working Paper #21. http://www.oise.utoronto.ca/depts/sese/csew/nall/res/21adultsifnormallearning.htm
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Analysis of NALL 1998 survey data by school attainment shows university graduates are over three times as likely to have taken courses as those without high school diplomas, yet informal learning participation (95% vs 89%) and weekly hours (14-16) are nearly identical across attainment levels.
 

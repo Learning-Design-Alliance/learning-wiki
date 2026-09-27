@@ -15,12 +15,14 @@ sources:
     author: Brundidge, G.
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Out-of-school suspensions at Lee Roy Myers Middle School decreased 41%, from 976 to 580, which the school attributes to its PBIS program. [→ Brundidge 2025](#brundidge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Brundidge, G. (2025). TEAM student: A comprehensive model for family-friendly, student-centered middle schooling. National Youth Advocacy and Resilience Journal, 8(1), 15-22. https://doi.org/10.20429/nyarj.2025.080103
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Single-school report from the Results section of a written workshop report; the author attributes the drop in out-of-school suspensions "from 976 to 580" to the school's PBIS program. No comparison school or statistical test is reported.
 

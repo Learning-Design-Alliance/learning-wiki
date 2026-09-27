@@ -15,18 +15,22 @@ sources:
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: sweet-2012-2
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM"
     title: "Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM"
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The expert learner trajectory, with perfect mastery of all SKIVE elements throughout the game, shows the largest WD statistic values throughout the game in design matrix 1 games. [→ Sweet 2012](#sweet-2012)
@@ -38,7 +42,7 @@ sources:
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Numerical simulation results shown in Figure 7 (median WD across 100 replications for 21 learner types, design matrix 1) indicate the expert learner trajectory "shows the largest values of the WD statistic throughout the game".
 
@@ -48,7 +52,7 @@ Numerical simulation results shown in Figure 7 (median WD across 100 replication
 
 Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Follow-up boxplot analyses for six prototypical learner types under design matrix 1 show boxplots for learner types with distinct trajectories "are well separated across task difficulty and specificity conditions", with overlap mimicking the similarity of WD traces.
 

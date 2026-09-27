@@ -15,12 +15,14 @@ sources:
     author: Song, Qiang; Chissom, Brad S.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` With a quadratic term only, FTM had better predicted values than nonlinear regression; with a cubic term included, the nonlinear regression model produced better predicted values. [→ Song 1991](#song-1991)
@@ -31,7 +33,7 @@ sources:
 
 Song, Qiang; Chissom, Brad S. (1991). Forecasting Enrollments with Fuzzy Time Series. https://eric.ed.gov/?id=ED340733
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Authors' comparison of FTM predicted values with nonlinear regression models for the same enrollment series, reported in the discussion section. The result is mixed across model specifications, and the authors offer the cubic shape of the enrollment curve as a possible reason.
 

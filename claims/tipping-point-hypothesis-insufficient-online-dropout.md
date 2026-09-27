@@ -15,12 +15,14 @@ sources:
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only 50 of 196 courses (25.5%) had a Tipping Point, leading the authors to abandon the single-Tipping-Point hypothesis in favor of a multi-shape account. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)
@@ -31,7 +33,7 @@ sources:
 
 Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Observational analysis of two years of dropout data from 196 university-level online courses. The authors defined the Tipping Point as the lesson after which over 50% of total dropouts occurred, and report that "50 courses, or 25.5% of courses, had Tipping Points", so the hypothesis was rejected.
 

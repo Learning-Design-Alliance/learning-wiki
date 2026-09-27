@@ -14,12 +14,14 @@ sources:
     author: Bautista, R. G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Anthropomorphic explanations of 15 abstract physics concepts differ significantly before and after classroom pedagogical interventions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Dependent t-tests on 15 concept stems show students' anthropomorphic explanations differ significantly before and after classroom pedagogical interventions at the .05 level. [→ Bautista 2015](#bautista-2015)
@@ -30,7 +32,7 @@ sources:
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Dependent t-test comparison of 48 students' explanations of 15 abstract physics concepts (Position and Speed, Velocity and Acceleration, Forces and Motion, Momentum, Thermodynamics) before and after classroom interventions; all 15 t-values significant at .05, e.g. concept 15 t = 12.573, df = 47, p = .000.
 

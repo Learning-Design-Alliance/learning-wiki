@@ -15,12 +15,14 @@ sources:
     author: "Breitkreuz, K. R. & Songer, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Six iterations of the 360 Global Ed Model since 2013 are reported by the authors to demonstrate effectiveness for educating socially responsible global citizens
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The authors report that six iterations of 360 Global Ed Model implementation since 2013 demonstrate effectiveness for educating socially responsible global citizens. [→ Breitkreuz 2022](#breitkreuz-2022)
@@ -31,7 +33,7 @@ sources:
 
 Breitkreuz, K. R. & Songer, A. (2022). The Foundation for Interdisciplinary Team Learning in the 360 Degree Global Ed Model. Proceedings of IConSES 2022, ISTES Organization. https://eric.ed.gov/?id=ED631179
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The authors' own summary assertion in the model-description section of this conference paper; no measures, statistics, or evaluation design are printed for this effectiveness statement, so it stands as an author-reported claim.
 

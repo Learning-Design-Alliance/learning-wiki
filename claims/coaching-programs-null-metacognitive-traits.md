@@ -15,12 +15,14 @@ sources:
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # None of the three coaching programs had a statistically significant impact on private self-consciousness, self-reflection or insight.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Across the cognitive, behavioural and combined coaching programs, no statistically significant impact on private self-consciousness, self-reflection or insight was found. [→ Grant 2001](#grant-2001)
@@ -31,7 +33,7 @@ sources:
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Across the three coaching studies with trainee accountants, none of the programs significantly changed private self-consciousness, self-reflection or insight as measured. The author judged the Private Self-consciousness Scale (Fenigstein, Scheier, & Buss, 1975) an inadequate measure of these processes, motivating the SRIS. No effect sizes are printed in the supplied text.
 

@@ -15,12 +15,14 @@ sources:
     author: Rosell-Aguilar, F.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In workshop evaluations with 18 language teachers in Ireland (2014) and 26 language teachers in Cyprus (2015), participants were positive about the criteria and their feedback shaped the framework's revision. [→ Rosell-Aguilar 2017](#rosell-aguilar-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rosell-Aguilar, F. (2017). State of the App: A Taxonomy and Framework for Evaluating Language Learning Mobile Applications. CALICO Journal. https://doi.org/10.1558/cj.27623
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Section 4 reports two workshop evaluations: 18 language teachers in Ireland (October 2014) and 26 in Cyprus (November 2015), each ending with oral focus-group feedback. Cyprus teachers found the Language Learning category too abstract, so it was rewritten in plainer terms.
 

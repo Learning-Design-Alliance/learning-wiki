@@ -15,12 +15,14 @@ sources:
     author: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Montreal sample differs significantly from the 1992 sample in pilot testing and assessing trainees
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Pilot testing is regularly performed by 77.3% of the Montreal sample versus 49% of the 1992 sample, and attitude toward it also differs. [→ Winer 1994](#winer-1994)
@@ -31,7 +33,7 @@ sources:
 
 Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Montreal replication survey comparison with the 1992 sample: "Pilot testing is regularly performed by 77.3% of the Montreal sample as compared to 49% of the 1992 sample." A chi-square test on steps considered unnecessary was significant at p<.05 but no longer significant when Pilot Testing was removed.
 

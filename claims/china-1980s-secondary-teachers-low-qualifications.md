@@ -15,12 +15,14 @@ sources:
     author: Yang Xu
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Secondary school teachers in 1980s China had low formal English qualifications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the 1980s, only 28% of secondary school teachers held BA degrees, with 4% holding associate degrees and 29% holding secondary diplomas. [→ Yang Xu 2010](#yang-xu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article cites an SEDC investigation reported in Zuo (1990) finding that "the percentage of secondary school teachers with BA degrees was only 28%" in the 1980s, with associate degrees at 4% and secondary diplomas at 29%. The article reports these figures without describing the investigation's design.
 

@@ -16,6 +16,8 @@ sources:
     q: 1
     i: "?"
     n: N/A
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Instruction can harm learners in ways its performance data do not show.
@@ -35,7 +37,7 @@ The claim is about effects a design produces beyond what it was built to produce
 
 Osguthorpe, R. T., Osguthorpe, R. D., Jacob, W. J., & Davies, R. S. (2018). The moral dimensions of instructional design. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 563–573). EdTech Books. [https://edtechbooks.org/lidtfoundations/instructional_design_moral_dimensions](https://edtechbooks.org/lidtfoundations/instructional_design_moral_dimensions)
 
-`q1 · theoretical argument with illustrative cases` · `i? · no effect size` · `n=N/A`
+`q1 · theoretical argument with illustrative cases` · `i? · no effect size` · `n=N/A` · `theoretical · r?`
 
 A philosophical argument, first published in *Educational Technology* in 2003, that instructional design is a moral endeavour. Its central case is a superintendent who, thirty years on, still recalled the shame of walking to the front of her fifth-grade class to take the purple, lowest-level reader from a colour-coded reading kit. The authors pair it with a training unit that counted a trainee's wrong answer as a "defect" in the person. They do not think either designer intended harm: "that is precisely the point: Instruction leads to unintended results, and without careful reflection, those results can harm learners." The authors mention ongoing studies (reflections from 86 college students and 27 sixth graders, and interviews with 9 designers) but report them only as quotations, so the claim rests on the argument.
 

@@ -15,12 +15,14 @@ sources:
     author: Samah Zakareya Ahmad
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Experimental and control groups were equivalent in vocabulary before the glossing treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A Mann-Whitney U-test of pretest scores found no significant difference between the groups, confirming equivalence. [→ Samah Zakareya Ahmad 2019](#samah-zakareya-ahmad-2019)
@@ -31,7 +33,7 @@ sources:
 
 Samah Zakareya Ahmad. (2019). Multimedia Glosses for Enhancing EFL Students' Vocabulary Acquisition and Retention. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p46
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pretest administration of the researcher-devised 50-item vocabulary test to both groups before treatment; Table 1 reports Sig. 0.733. The analysis "did not indicate a significant difference between the mean scores of the two groups (U= 238; p>0.05)"; equivalence was not further tested.
 

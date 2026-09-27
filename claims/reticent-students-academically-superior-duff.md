@@ -15,12 +15,14 @@ sources:
     author: Chen, J.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The review attributes to Duff (2002) the finding that seemingly reticent students who had not appropriated local norms of classroom interaction were academically superior based on other kinds of performance. [→ Chen 2016](#chen-2016)
@@ -31,7 +33,7 @@ sources:
 
 Chen, J. (2016). Demonized Learners in Sociocultural Theory. Advances in Language and Literary Studies, 7(3), 168-177. https://doi.org/10.7575/aiac.alls.v.7n.3p.168
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Narrative review attributing this to Duff's (2002) ethnography of non-local students in a Canadian multilingual high school, who preferred silence and writing over verbal discourse; the review reports their silence "did not necessarily form a hindrance to their learning."
 

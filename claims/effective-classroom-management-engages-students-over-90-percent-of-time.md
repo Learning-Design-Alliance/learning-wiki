@@ -15,12 +15,14 @@ sources:
     author: Walker, K.
     q: 2
     i: 2
+    kind: review
+    rigour: 1
 ---
 
 # Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · review `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Effective implementation of classroom management strategies and discipline enables student engagement in learning activities for more than 90 percent of allocated time. [→ Walker 2000](#walker-2000)
@@ -31,7 +33,7 @@ sources:
 
 Walker, K. (2000). Classroom Management for New Teachers. Education Partnerships, Inc. http://www.educationpartnerships.org/
 
-`q2 · i2`
+`q2 · i2` · `review · r1`
 
 The brief reports, citing Cangelosi (1990, pp. 13-20), that teachers who learn to implement management strategies effectively "can engage students in learning activities for more than 90 percent of allocated time". No study design or effect size is printed.
 

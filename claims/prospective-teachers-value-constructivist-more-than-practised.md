@@ -15,12 +15,14 @@ sources:
     author: Eren, A.
     q: 3
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Prospective teachers value constructivist teaching/learning and assessment for learning more than they practise, and practise traditional teaching and performance orientation more than they value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Prospective teachers significantly valued constructivist conceptions, making learning explicit, and promoting learning autonomy more than they practised (d = .90, .43, .49). [→ Eren 2010](#eren-2010)
@@ -32,7 +34,7 @@ sources:
 
 Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/
 
-`q3 · i3`
+`q3 · i3` · `associational · r2`
 
 Paired samples t-tests comparing value and practice sections of the TCAS and TLCQ in a sample of 304 Turkish prospective teachers. Constructivist conceptions showed the largest gap (d = .90); performance orientation the smallest (d = -.16). The article reports "significant mean-level differences between prospective teachers' values and practices".
 

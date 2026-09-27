@@ -15,12 +15,14 @@ sources:
     author: Truong, T. D.
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
 ---
 
 # Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` In the simultaneous regression model, the finance factor did not exhibit a statistically significant impact (β = 0.08, Sig. = 0.070); equivalence was not tested. [→ Truong 2025](#truong-2025)
@@ -31,7 +33,7 @@ sources:
 
 Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method Investigation. Educational Process: International Journal, 19, e2025605. https://doi.org/10.22521/edupij.2025.19.605
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Multiple linear regression (Table 8) of the 455-respondent survey. The article prints the finance coefficient and significance value verbatim and reports no statistically significant direct effect; the printed β = 0.08 is the only magnitude reported.
 

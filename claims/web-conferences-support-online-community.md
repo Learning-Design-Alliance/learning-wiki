@@ -15,12 +15,14 @@ sources:
     author: "Pittaway, S. M., & Moss, T."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fortnightly web conferences, refocused from assessment talk to open-ended conversation, were highly successful in engaging students in content and forming their learning community. [→ Pittaway 2014](#pittaway-2014)
@@ -31,7 +33,7 @@ sources:
 
 Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative finding from student comments in web conference sessions collected as unobtrusive data in the redesigned unit. The authors report the fortnightly conferences were "highly successful in engaging students in the content and the formation of their learning community", also modelling online discussion facilitation.
 

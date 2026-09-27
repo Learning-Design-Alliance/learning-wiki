@@ -15,12 +15,14 @@ sources:
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # Peer mentoring shows a trend toward higher posttest social justice attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` Students mentored by a SLAM showed a non-significant trend toward higher posttest social justice attitudes (M = 4.06, SD = .54) compared to non-mentored students (M = 3.84, SD = .60), F(1) = 2.80, p = .098. [→ Harkins 2021](#harkins-2021)
@@ -31,7 +33,7 @@ sources:
 
 Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i0`
+`q3 · i0` · `associational · r1`
 
 The same MANOVA on CASQ posttest scores found the social justice attitudes subscale did not reach significance. The article reports "a trend for social justice attitudes, F(1), = 2.80, p = .098" with mentored students scoring higher descriptively.
 

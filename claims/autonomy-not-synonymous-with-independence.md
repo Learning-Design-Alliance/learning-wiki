@@ -15,12 +15,14 @@ sources:
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In SDT, autonomy is not synonymous with independence nor the opposite of dependence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Following directions can be done autonomously if one endorses the behavior requested, and one can work independently while feeling pressured, i.e., without autonomy. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual argument from the article's autonomy section, presenting SDT's position with classroom examples: students will more likely follow strict assignment guidelines autonomously if the teacher helps them understand the need for them, while high-achieving students pressured to work alone will likely agree to work independently but not with autonomy.
 

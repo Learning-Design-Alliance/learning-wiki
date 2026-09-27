@@ -15,12 +15,14 @@ sources:
     author: Welna, Jerzy
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Use of a deceptive word need not cause complete misunderstanding, but some semantic affinity in the pair is always necessary for such a translation to be correct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` When contrast is involved, deceptive words used by a learner to translate almost always disturb communication, yet some resulting phrases may convey a meaning not very distant from the intended one. [→ Welna 1976](#welna-1976)
@@ -31,7 +33,7 @@ sources:
 
 Welna, Jerzy. (1976). Deceptive Words: A Study in the Contrastive Lexicon of Polish and English. https://eric.ed.gov/?id=ED127783
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's summarizing assessment in section 3.7 of how contrast-type deceptive words behave in learner translation, illustrated with example sentences such as 'the activists' meeting' and 'the amazon was riding a horse'. This is the author's interpretation, not a measured error rate.
 

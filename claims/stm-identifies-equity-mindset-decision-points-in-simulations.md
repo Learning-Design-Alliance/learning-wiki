@@ -15,12 +15,14 @@ sources:
     author: "Littenberg-Tobias, J., Borneman, E., & Reich, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across all four simulations, the STM model identified decision points within the simulations that were indicative of different mindsets toward equity in teaching, with many topics both theoretically linked to and empirically correlated with survey items about specific equity mindsets. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)
@@ -31,7 +33,7 @@ sources:
 
 Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Unsupervised structural topic models estimated separately for each of four simulations in an 8-week MOOC on equity teaching (analysis sample N = 963). The authors report that the STM model "was able to successfully identify decision points" indicative of different equity mindsets; no effect size is printed for this aggregate finding.
 

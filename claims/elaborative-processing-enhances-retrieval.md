@@ -15,18 +15,22 @@ sources:
     author: Gagne, Ellen D.
     q: 2
     i: 2
+    kind: causal
+    rigour: "?"
   - id: gagne-1981-2
     resource: "https://eric.ed.gov/?id=ED221831"
     title: "Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831"
     author: Gagne, Ellen D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` With degree of original learning controlled across levels of elaborative processing, elaborative processing showed a powerful effect on retrieval, accounting for roughly 30% of the variance in one-month recall of propositions. [→ Gagne 1981](#gagne-1981)
@@ -38,7 +42,7 @@ sources:
 
 Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
-`q2 · i2`
+`q2 · i2` · `causal · r?`
 
 The report describes experiments with middle-school students who learned passages to an 85% correct criterion with rehearsal controlled, then free-recalled after a delay. The report states the results showed "apowerful effect of elaborative processing on retrieval, accounting forroughly 30% of the variance in one month recall of propositions".
 
@@ -48,7 +52,7 @@ The report describes experiments with middle-school students who learned passage
 
 Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The report states the elaborative-processing effect on retrieval was replicated in a second experiment with less able students over a one-week retention interval, as described in the article on prior knowledge in retrieval processes.
 

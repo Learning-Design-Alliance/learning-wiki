@@ -15,12 +15,14 @@ sources:
     author: Costley, K. C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` According to the account presented, until about age 2 thoughts and language are separate; around age 2 children begin to express thoughts in speech; private speech emerges to guide children through difficult tasks and evolves into inner speech, a form of self-regulation. [→ Costley 2012](#costley-2012)
@@ -31,7 +33,7 @@ sources:
 
 Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is a descriptive exposition in the article's summary of Vygotsky's concepts, sourced from Ormrod's Human Learning textbook rather than new empirical data. The article states that "self-talk" or "private speech" occurs when thought and language merge, and that self-talk evolves into inner speech, a form of self-regulation. No empirical study or effect size is reported.
 

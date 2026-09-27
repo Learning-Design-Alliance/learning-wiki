@@ -15,12 +15,14 @@ sources:
     author: Burnstein, R. A. and Lederman, L. M.
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Computer-based keypad systems permit up to ten alternatives per question and per-answer scoring, unlike optical scanners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Recent keypad and real-time data entry systems are computer based and allow up to ten alternatives per question, with each different answer able to carry a different score related to its correctness. [→ Burnstein 2007](#burnstein-2007)
@@ -31,7 +33,7 @@ sources:
 
 Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The article's description of keypad system capabilities, contrasted with optical scanners that handled a limited number of choices and allowed credit for only one correct answer. This is a capability statement about the technology, not a measured comparison.
 

@@ -15,12 +15,14 @@ sources:
     author: Wesley, Marion T., Jr. and Franks, Melvin Eugene
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Collegial interactions among adopting teachers increased over time and pertained to concerns from the informational through the collaboration stage. [→ Wesley 1996](#wesley-1996)
@@ -31,7 +33,7 @@ sources:
 
 Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative interview analysis in the case study found "increasing collegial interaction among adopting teachers over time"; teachers reported sharing discoveries, e.g. "When somebody learns something new, we share it." No effect size is reported.
 

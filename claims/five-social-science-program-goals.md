@@ -15,12 +15,14 @@ sources:
     author: Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The framework enumerates five program goals: developing understandings from social science disciplines, intellectual and work-study skills, understanding and respecting differences, clarifying personal values, and participating in society. [→ Social Sciences Education Framework for California Public Schools 1975](#social-sciences-education-framework-for-california-public-schools-1975)
@@ -31,7 +33,7 @@ sources:
 
 Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The Goals of Social Sciences Education section enumerates the five goals as policy statements, beginning 'The social sciences programs will be planned to' and listing understandings, skills, diversity, values, and participation. This is a normative policy statement, not an empirical test.
 

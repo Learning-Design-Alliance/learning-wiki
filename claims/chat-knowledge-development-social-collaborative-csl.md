@@ -15,12 +15,14 @@ sources:
     author: Taylor, A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` CHAT assumes knowledge development is a social collaborative activity; Vygotsky's ZPD and Engeström's collective broadening of it frame curricular CSL as creating networks of learning with university and community members. [→ Taylor 2014](#taylor-2014)
@@ -31,7 +33,7 @@ sources:
 
 Taylor, A. (2014). Community service-learning and cultural-historical activity theory. Canadian Journal of Higher Education, 44(1). https://journals.sfu.ca/cjhe/index.php/cjhe
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Conceptual exposition of the second CHAT assumption: learning happens through interaction with others and materials created by others; new, more sophisticated actions can also emerge when individuals collaborate with peers at the same level. The paper applies this to CSL as knowledge production through network collaboration.
 

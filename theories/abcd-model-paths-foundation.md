@@ -16,7 +16,7 @@ sources:
 # Affective-Behavioral-Cognitive-Dynamic (ABCD) theoretical model underlying PATHS
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The ABCD model is the theoretical foundation of the PATHS curriculum, integrating diverse theories of human behavior and development including developmental social cognition, cognitive developmental theory, psychoanalytic developmental psychology, attachment theory, and cognitive-behavior therapy. The article states the "ABCD model emphasizes the dynamic relationship among affect, behavior, and cognition, integrating these three aspects so as to facilitate children's positive and healthy personality development and social functioning throughout their different developmental phases." It grounds PATHS's wholistic approach to educating the whole child.

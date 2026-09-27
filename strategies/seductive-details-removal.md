@@ -12,7 +12,7 @@ generated:
 # Seductive Details Removal
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 3 quant-synthesis), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Seductive details are highly interesting but irrelevant additions — anecdotes, decorative images, dramatic audio, tangential facts — inserted into learning materials with the intent to boost engagement or motivation. This strategy systematically audits materials and removes them, on the evidence that such additions divert attention and working memory away from the essential content and degrade learning [Removing interesting-but-irrelevant material improves learning outcomes.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S].

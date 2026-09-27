@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: "16 studies (expressive-vocabulary subset: k=9, n=322 children)"
+    kind: quant-synthesis
+    rigour: "?"
   - id: mol-et-al-2009
     resource: "https://doi.org/10.3102/0034654309332561"
     title: "Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. *Review of Educational Research, 79*(2), 979–1007. [doi:10.3102/0034654309332561](https://doi.org/10.3102/0034654309332561)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 2
     n: 31 studies (2,049 children)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Dialogic Reading Improves Expressive Language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i2` medium
 
 Dialogic reading — an interactive shared-reading style in which the adult prompts the child to talk about the story, gives feedback, and gradually shifts more of the telling to the child — improves children's expressive language outcomes relative to typical shared reading. The claim is scoped to expressive (production) measures; receptive vocabulary gains are typically smaller or less consistent.
 
@@ -43,7 +47,7 @@ Dialogic reading — an interactive shared-reading style in which the adult prom
 
 Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent–child book readings: A meta-analysis. *Early Education and Development, 19*(1), 7–26. [doi:10.1080/10409280701838603](https://doi.org/10.1080/10409280701838603)
 
-`q3 · meta-analysis of experimental comparisons` · `i2 · medium effect, d=0.59 (95% CI 0.44–0.75) on expressive vocabulary` · `n=16 studies (expressive-vocabulary subset: k=9, n=322 children)`
+`q3 · meta-analysis of experimental comparisons` · `i2 · medium effect, d=0.59 (95% CI 0.44–0.75) on expressive vocabulary` · `n=16 studies (expressive-vocabulary subset: k=9, n=322 children)` · `quant-synthesis · r?`
 
 A meta-analysis of 16 studies that compared a dialogic reading group against a reading-as-usual control and reported vocabulary outcomes. For expressive vocabulary specifically (9 studies, 322 children), dialogic reading outperformed typical shared reading by a moderate margin. The effect was substantially smaller when children were older (4 to 5 years) or at risk for language and literacy impairments, and families of children at greatest risk for school failure did not change their home reading practices. That is a direct qualification of the claim's scope.
 
@@ -51,7 +55,7 @@ A meta-analysis of 16 studies that compared a dialogic reading group against a r
 
 Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. *Review of Educational Research, 79*(2), 979–1007. [doi:10.3102/0034654309332561](https://doi.org/10.3102/0034654309332561)
 
-`q3 · meta-analysis of experiments and quasi-experiments` · `i2 · moderate effect on oral language (abstract gives no d)` · `n=31 studies (2,049 children)`
+`q3 · meta-analysis of experiments and quasi-experiments` · `i2 · moderate effect on oral language (abstract gives no d)` · `n=31 studies (2,049 children)` · `quant-synthesis · r?`
 
 A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in which educators were trained to get children actively involved before, during and after shared book reading in early-education settings. The abstract reports a moderate effect on oral language skills, and attributes 7% of the variance in kindergartners' alphabetic knowledge to the intervention. Effects found when experimenters did the reading did not replicate in natural classrooms with the children's own teachers, which bears on the page's point that implementation fidelity matters. The abstract does not split oral language into expressive and receptive measures.
 

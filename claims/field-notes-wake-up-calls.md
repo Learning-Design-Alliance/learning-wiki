@@ -15,12 +15,14 @@ sources:
     author: Norberg, K.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers only questioned and challenged their contrary practices when they saw them in print; reading the field-notes made the mismatch between their values and practices obvious. [→ Norberg 2003](#norberg-2003)
@@ -31,7 +33,7 @@ sources:
 
 Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 From the wake-up calls section: two teachers who had repeated conflicts with disruptive boys read the field-notes and recognised their values and practices were not consonant; one said "Reading this was really a wake-up call for me". The discussion notes field notes also contributed to proposals for further change in some groups.
 

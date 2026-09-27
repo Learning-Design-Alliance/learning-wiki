@@ -15,12 +15,14 @@ sources:
     author: Johnson, Jessie; And Others
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Process evaluation found no major recordkeeping or pupil-selection problems in ADK classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On-site visits and Calendar Worksheet reviews found selection lists correctly rank ordered, appropriate pupils served, and schedules posted, though notation for listed-but-unserved pupils was not always suitable. [→ Johnson 1994](#johnson-1994)
@@ -31,7 +33,7 @@ sources:
 
 Johnson, Jessie; And Others. (1994). Language Development Component: All Day Kindergarten Program 1992-1993. Ohio Disadvantaged Pupil Program Fund. Final Evaluation Report. https://eric.ed.gov/?id=ED379098
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Process evaluation via Calendar Worksheet reviews (November 1992, February 1993) and school visits by the program evaluator (January-March 1993); "no major problems regarding the documents reviewed" were found, though suitable notation for pupils listed but not served was not always made.
 

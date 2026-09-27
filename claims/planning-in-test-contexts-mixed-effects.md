@@ -15,18 +15,22 @@ sources:
     author: Yingli Wang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: yingli-wang-2008-2
     resource: "https://www.ccsenet.org/journal/index.php/elt"
     title: "Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt"
     author: Yingli Wang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Wigglesworth (1997) found planned/unplanned performance differences especially for high-proficiency learners and high cognitive load tasks. [→ Yingli Wang 2008](#yingli-wang-2008)
@@ -38,7 +42,7 @@ sources:
 
 Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Wigglesworth's (1997) study in which 107 adult ESL learners performed five tasks of the Australian Assessment of Communicative Skills test, with 28 learners' performances analyzed against complexity, fluency and accuracy measures. No effect sizes are printed.
 
@@ -48,7 +52,7 @@ The review reports Wigglesworth's (1997) study in which 107 adult ESL learners p
 
 Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Elder and McNamara's (2002) examination of 3-minute planning with 201 ESL students, which "found no obvious effect on task performance". This null result is reported without an effect size.
 

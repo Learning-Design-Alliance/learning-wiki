@@ -15,18 +15,22 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Performance of all KT methods is relatively low on dialogueKT, with a maximum of around 76% AUC for student turn correctness prediction. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -38,7 +42,7 @@ sources:
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Benchmark comparison across both datasets: performance is "relatively low on the dialogueKT task, with a maximum of around 76% AUC", which the article contrasts with standard KT methods surpassing 80% AUC on some datasets.
 
@@ -48,7 +52,7 @@ Benchmark comparison across both datasets: performance is "relatively low on the
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' explanation of the low performance, not a tested result: "student behavior in dialogues is more unpredictable compared to traditional KT". A first stated reason is that CoMTA dialogues are short, with only 4-5 labeled turn pairs on average.
 

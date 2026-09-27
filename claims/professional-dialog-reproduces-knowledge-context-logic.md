@@ -15,12 +15,14 @@ sources:
     author: Silverman, Robert J.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Professional dialog maintains and reproduces the logic of each knowledge context over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the four contexts, the approaches to proper action in critique maintain and reproduce each context's logic, so subject matter changes while how the dialog proceeds remains the same over time. [→ Silverman 1993](#silverman-1993)
@@ -31,7 +33,7 @@ sources:
 
 Silverman, Robert J. (1993). Comments and Replies: Academic Conversations. ASHE Annual Meeting Paper. https://eric.ed.gov/?id=ED365173
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The paper's concluding interpretive claim, drawn from the comparative rhetorical analysis of 21 comment-and-reply bundles across the four contexts of knowing. The author adds that understanding grows laterally as well as hierarchically, and critiques voiced in a different logic were refuted as irrelevant.
 

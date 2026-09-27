@@ -15,12 +15,14 @@ sources:
     author: MacKain, Sally Joy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Contrary to prior studies, stability and motivation items were harder than constancy items for these preschoolers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For at least the 3-year-olds, stability and motivation items were slightly more difficult than the constancy items, contrary to all previous studies. [→ MacKain 1987](#mackain-1987)
@@ -31,7 +33,7 @@ sources:
 
 MacKain, Sally Joy. (1987). Gender Constancy: A Realistic Approach. https://eric.ed.gov/?id=ED286583
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 1: 3-year-olds scored 50% on stability versus 83% on constancy; 4-year-olds missed only motivation items (83%). The article calls this "Contrary to results from all previous studies" and urges a larger sample.
 

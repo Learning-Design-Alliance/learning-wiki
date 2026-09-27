@@ -15,18 +15,22 @@ sources:
     author: Watts, Mike; Bentley, Di
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: watts-1991-2
     resource: "https://eric.ed.gov/?id=ED336269"
     title: "Watts, Mike; Bentley, Di. (1991). An Instructional 'Mali-Trap': Anthropomorphic and Animistic Thought in Constructivist Science Education. https://eric.ed.gov/?id=ED336269"
     author: Watts, Mike; Bentley, Di
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Teachers routinely use animistic and anthropomorphic explanations: 36% of 43 observed lessons overall and 78% of observed secondary lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 43 observed science lessons with 43 different teachers, anthropomorphic or animistic explanations were given to children in 36% of them. [→ Watts 1991](#watts-1991)
@@ -38,7 +42,7 @@ sources:
 
 Watts, Mike; Bentley, Di. (1991). An Instructional 'Mali-Trap': Anthropomorphic and Animistic Thought in Constructivist Science Education. https://eric.ed.gov/?id=ED336269
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 An observational study of 43 science lessons by 43 different teachers, with pupils aged 6 to 16, found anthropomorphic or animistic explanations given in 36% of lessons. The authors also cite textbook examples such as gravitational fields with 'invisible tentacles' and inertia as the 'laziness' of matter.
 
@@ -48,7 +52,7 @@ An observational study of 43 science lessons by 43 different teachers, with pupi
 
 Watts, Mike; Bentley, Di. (1991). An Instructional 'Mali-Trap': Anthropomorphic and Animistic Thought in Constructivist Science Education. https://eric.ed.gov/?id=ED336269
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Splitting the observations by phase, 14 lessons were secondary (12-16 years) and 11 of these involved an explanation with an animistic or anthropomorphic base, which the authors calculate as 78% of secondary classes, sometimes given to the whole class and sometimes to a group.
 

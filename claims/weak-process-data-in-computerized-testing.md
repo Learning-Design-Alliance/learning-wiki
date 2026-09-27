@@ -15,12 +15,14 @@ sources:
     author: "Chung, G. K. W. K., Herl, H. E., Klein, D. C. D., O'Neil, H. F., Jr., & Schacter, J."
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Cognitive process inference in computerized testing rarely rests on strong process data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that inferences about students' cognitive processing during computerized tests are rarely based on strong process data, motivating a proposed process analyzer API. [→ Chung 1997](#chung-1997)
@@ -31,7 +33,7 @@ sources:
 
 Chung, G. K. W. K., Herl, H. E., Klein, D. C. D., O'Neil, H. F., Jr., & Schacter, J. (1997). Estimate of the Potential Costs and Effectiveness of Scaling Up CRESST Assessment Software. https://eric.ed.gov/?id=ED418102
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 This is the authors' interpretive rationale in the Process Analyzer API specification, arguing that conclusions about cognitive processing are typically based on self-reported data or data aggregated over the task. No empirical result is reported here.
 

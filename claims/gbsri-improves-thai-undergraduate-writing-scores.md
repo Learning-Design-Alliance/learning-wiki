@@ -15,12 +15,14 @@ sources:
     author: "Wiboonwachara, L., & Charubusp, S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After eight weeks of GBSRI, participants' overall writing ability mean score rose from 16.89 to 26.53 out of 40, a statistically significant difference (p < 0.05). [→ Wiboonwachara 2022](#wiboonwachara-2022)
@@ -31,7 +33,7 @@ sources:
 
 Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 One-group pretest-posttest quasi-experiment with 32 Thai first-year English majors; dependent t-test showed a significant difference between pre-test and post-test writing means "at a 0.05 level of significance (p < 0.05)". No effect size reported.
 

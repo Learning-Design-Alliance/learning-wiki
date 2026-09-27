@@ -15,12 +15,14 @@ sources:
     author: R. K. P. Zia, Edward F. Redish, and Susan R. McKay
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Physics students can execute Legendre-transform rules but express discomfort with the transform as a general mathematical tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Many students can generate Hamiltonians from Lagrangians and switch thermodynamic potentials, yet report discomfort when the Legendre transform is treated as a general mathematical tool. [→ R. K. P. Zia 2009](#r-k-p-zia-2009)
@@ -31,7 +33,7 @@ sources:
 
 R. K. P. Zia, Edward F. Redish, and Susan R. McKay. (2009). Making Sense of the Legendre Transform. https://arxiv.org/abs/0806.1147
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The authors report, from their own teaching experience rather than a systematic study, that students handle the procedural rules well but express discomfort with the transform as a general tool. The article offers this as an observational motivation, not a tested result.
 

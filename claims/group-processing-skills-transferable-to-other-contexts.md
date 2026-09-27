@@ -15,12 +15,14 @@ sources:
     author: "Lachowsky, N. J., & Murray, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Most former students reported using group processing after their seminar and rated it as transferable to other contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 70.3% of participants reported experience with group processing after their course, and strong agreement that it was transferable to other contexts (mean=8.4), including other courses, clubs, volunteering, and personal relationships. [→ Lachowsky 2021](#lachowsky-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lachowsky, N. J., & Murray, J. (2021). Group Processing: Students Reflections on the Experience and Impact of Group Processing. Journal of Problem Based Learning in Higher Education, 9(2). https://doi.org/10.5278/ojs.jpblhe.v9i2.2883
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey of 46 former enquiry-based learning students: 70.3% reported post-course experience with group processing, and participants showed strong agreement that it was transferable to other contexts (mean=8.4), naming courses, clubs, voluntary activities, and personal relationships.
 

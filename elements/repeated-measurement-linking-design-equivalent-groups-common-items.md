@@ -17,7 +17,7 @@ sources:
 # Repeated measurement linking design combining equivalent groups with common items over time
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A longitudinal data collection design in which randomly equivalent groups receive parallel forms at each occasion, with item blocks rotated across occasions so that each occasion shares common items with the previous and next occasion. As the article summarizes, "The common items were common across measurement occasions but never presented to the same individual twice." This is possible because the design is incomplete at each measurement occasion, and it allows multiple links whose assumptions can partly be tested.

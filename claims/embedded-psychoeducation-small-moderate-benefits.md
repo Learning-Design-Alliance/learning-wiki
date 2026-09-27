@@ -15,18 +15,22 @@ sources:
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: winterdijk-per-2026-2
     resource: "https://doi.org/10.1111/dme.70411"
     title: "Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411"
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Psycho-educational interventions embedded in routine diabetes care show small-to-moderate improvements in diabetes-specific distress and depressive symptoms, with variable glycaemic effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Psycho-educational interventions embedded in routine diabetes care appear to effect small-to-moderate improvements in distress and depressive symptoms. [→ Winterdijk Per 2026](#winterdijk-per-2026)
@@ -38,7 +42,7 @@ sources:
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing prior meta-analyses, that nurse- and educator-delivered embedded psycho-education shows "small‐to‐moderate improvements in diabetes‐specific distress and depressive symptoms"; no pooled effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports, citing prior meta-analyses, that nurse- and educator-deliver
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes to prior reviews that distress-targeting interventions "may reduce emotional burden, with variable effects on glycaemic outcomes"; the review prints no effect sizes for this.
 

@@ -15,12 +15,14 @@ sources:
     author: "Zavhorodnia, O. V., & Shepelova, M. V."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Openness protects against well-being decline only when emotional stability is average or high
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A significant openness × emotional stability interaction (β = –.007, p = .010) showed openness predicted higher well-being at high (β = –.297, p < .001) and average (β = –.163, p = .004) emotional stability, but not at low levels (β = –.475, p = .635). [→ Zavhorodnia 2026](#zavhorodnia-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zavhorodnia, O. V., & Shepelova, M. V. (2026). Big Five Traits and Tolerance for Uncertainty as Protective Factors of Subjective Well-Being of Students in Martial Law Conditions. Europe's Journal of Psychology, 22(2). https://doi.org/10.5964/ejop.17767
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Moderation analysis (Hayes Model 1, bootstrap confidence intervals) on the 147-student sample, visualized in Figure 2. The authors conclude openness "does not exert a protective effect" at low emotional stability.
 

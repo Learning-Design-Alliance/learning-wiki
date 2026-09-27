@@ -12,7 +12,7 @@ generated:
 # Communicate High Expectations and Provide Appropriate Support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 15 studies, `q2`–`q4` · 2 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (7 for) · 15 studies (7 review, 3 causal, 3 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy pairs two moves that are ineffective in isolation: setting explicitly high, demanding expectations for learner performance, and providing the structured support ([Scaffolding](../principles/scaffolding.md), feedback, and guided practice) that makes those expectations attainable. The expectation alone functions as a motivational message — a form of [Coaching](../elements/coaching.md) — while the support converts the message into achievable steps. Originating in Chickering and Gamson's (1987) "Seven Principles for Good Practice in Undergraduate Education," it draws on expectancy effects, self-efficacy theory, and goal-setting research.

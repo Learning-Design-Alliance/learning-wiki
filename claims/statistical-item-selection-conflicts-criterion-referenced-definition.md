@@ -15,12 +15,14 @@ sources:
     author: Nitko, Anthony J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Screening items for desirable statistical characteristics changes the definitions of the behavioral categories a criterion-referenced test is meant to represent. [→ Nitko 1970](#nitko-1970)
@@ -31,7 +33,7 @@ sources:
 
 Nitko, Anthony J. (1970). Criterion-Referenced Testing in the Context of Instruction. https://eric.ed.gov/?id=ED047010
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Theoretical argument in the section on norm-referenced scores from criterion-referenced tests. The paper argues that since domains of tasks are determined before test construction, statistical item selection is inappropriate: it "will change the definitions of the behavioral categories". No empirical data are reported.
 

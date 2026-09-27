@@ -17,7 +17,7 @@ sources:
 # Realistic videotape gender-constancy assessment method
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 An assessment method in which children are videotaped playing with opposite-sex-typed toys and wearing opposite-sex clothing, then shown the tapes two weeks later and asked whether the referent is "REALLY a boy or a girl." The article states materials were "designed to be maximally realistic and familiar to young children without being distracting," verbal demands were minimized, and a "real" versus "pretend" response set was encouraged. Unlike cut-page booklet tasks, subjects saw transformations occur in their entirety, including footage of themselves.

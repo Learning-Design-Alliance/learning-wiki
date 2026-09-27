@@ -14,12 +14,14 @@ sources:
     author: "Nist, S. L., & Hogrebe, M. C."
     q: 3
     i: 0
+    kind: causal
+    rigour: "?"
 ---
 
 # Experimenter-generated underlining is as effective as student-generated underlining for test performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
 
 The act of generating one's own underlining does not, by itself, improve test performance over simply studying text that someone else has underlined — what matters is which content gets marked, not who marks it.
 
@@ -35,7 +37,7 @@ Primary evidence link: https://eric.ed.gov/?id=ED265520
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i0 · null effect` · `n not reported in stub`
+`q3 · peer-reviewed experiment, not pre-registered` · `i0 · null effect` · `n not reported in stub` · `causal · r?`
 
 In a controlled experiment comparing student-generated underlining with experimenter-generated underlining, the authors found that "subjects who generated their own underlining did not perform significantly better" than those given experimenter-generated underlining. The study also manipulated the relevance of the underlined content (high vs. low relevant text), suggesting that the selection of what to mark — rather than the generative act of marking — drives any effect on test performance.
 

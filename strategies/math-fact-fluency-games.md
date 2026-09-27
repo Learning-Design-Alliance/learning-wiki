@@ -12,7 +12,7 @@ generated:
 # Math Fact Fluency Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 review, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Math fact fluency games are structured activities — board games, card games, digital apps, or classroom routines — in which learners repeatedly retrieve basic arithmetic facts (e.g., 7 × 8) under motivating, often competitive or time-pressured conditions. The goal is automaticity: recall that is fast, accurate, and effortless, freeing working memory for higher-order mathematics. Effective games require *retrieval*, not counting or derivation, and provide immediate feedback on accuracy.

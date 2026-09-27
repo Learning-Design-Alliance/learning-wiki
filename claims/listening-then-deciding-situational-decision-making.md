@@ -15,18 +15,22 @@ sources:
     author: "Kropiewnicki, M. I., & Shapiro, J. P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: kropiewnicki-2001-2
     resource: "https://eric.ed.gov/?id=ED453599"
     title: "Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599"
     author: "Kropiewnicki, M. I., & Shapiro, J. P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Female principals enacted care through a 'listening then deciding' pattern of situational decision making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Each principal gathered perspectives and information before formulating responses, reflecting Noddings' premise of stepping into the other's frame of reference. [→ Kropiewnicki 2001](#kropiewnicki-2001)
@@ -38,7 +42,7 @@ sources:
 
 Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Cross-case qualitative finding from interviews, staff interviews, and observations; the category of listening then deciding "emerged from multiple data sources." Staff described principals as fair, thorough, and willing to hear every side before deciding.
 
@@ -48,7 +52,7 @@ Cross-case qualitative finding from interviews, staff interviews, and observatio
 
 Kropiewnicki, M. I., & Shapiro, J. P. (2001). Female Leadership and the Ethic of Care: Three Case Studies. https://eric.ed.gov/?id=ED453599
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Responses to the hypothetical name-calling dilemma in the interviews showed all three principals investigating before acting, illustrating the situational nature of their decision making based on whether the incident was isolated or recurring.
 

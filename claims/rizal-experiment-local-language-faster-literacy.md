@@ -15,12 +15,14 @@ sources:
     author: Doronila, Maria Luisa C.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The Rizal Experiment demonstrated that literacy was achieved more quickly when instruction used the local and national language rather than English, yet this finding has been continually ignored in language-of-instruction policy decisions. [→ Doronila 1997](#doronila-1997)
@@ -31,7 +33,7 @@ sources:
 
 Doronila, Maria Luisa C. (1997). A Research and Development Approach to the Delivery of Comprehensive Functional Education and Literacy in the Philippines. https://eric.ed.gov/?id=ED418217
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Historical narrative in Part II describing the community school idea piloted in many Philippine provinces during the post-war period (1946-1972). The author reports the experiment's finding and states it "has been continually glossed over in decisions regarding the language of instruction." No effect size or sample details are printed.
 

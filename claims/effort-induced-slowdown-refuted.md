@@ -15,12 +15,14 @@ sources:
     author: Brown, Alan S.; Cattoi, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Effort-induced slowing does not explain the inhibition buildup: no general latency increase across the full list and no difference between one and three prior same-category retrievals when prior categories differed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Two lines of evidence refute an effort/reactive-inhibition account: retrieval times did not increase across the entire list, and three versus one prior retrievals from an unrelated category produced no latency difference. [→ Brown 1982](#brown-1982)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Alan S.; Cattoi, Robert. (1982). Associative Strength Effects in Semantic Priming. https://eric.ed.gov/?id=ED223979
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 The article cites a prior investigation (Brown, Note 1) in which picture-naming latency was hampered by three versus one prior retrievals from the same category, but there was no difference when prior retrievals were from an unrelated category. It also notes a general latency increase across the entire list "did not occur in the present study, or in Brown (1981, Exp. 5)".
 

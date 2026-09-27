@@ -15,12 +15,14 @@ sources:
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The correlation between LCTSR pre-score and TUG-K normalized gain (slope 0.64, r=0.59) is stronger than for DIRECT (slope 0.45, r=0.50), consistent with theoretical content depending more on reasoning development. [→ Moore 2011](#moore-2011)
@@ -31,7 +33,7 @@ sources:
 
 Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Correlational analysis over two years of conceptual physics courses relating pre-instruction LCTSR scores to normalized gains on TUG-K and DIRECT. TUG-K (slope 0.64, r=0.59) tests movement between multiple representations requiring higher-order abstract thinking, classified as mostly theoretical content.
 

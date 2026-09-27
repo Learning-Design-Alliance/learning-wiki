@@ -15,12 +15,14 @@ sources:
     author: Hossein Hashem Neghad
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Learners taught through behaviourist strategies for five years face constructivist strategies suddenly in the final year of the Iranian program, with no gradual transition. [→ Hossein Hashem Neghad 2014](#hossein-hashem-neghad-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hossein Hashem Neghad. (2014). Reflection of Learning Theories in Iranian ELT Textbooks. Advances in Language and Literary Studies, 5(2). https://doi.org/10.7575/aiac.alls.v.5n.2p.115
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 The author's interpretive conclusion drawn from the frequency distributions across levels. The analysis found "No smooth shift was observed from behaviourism to constructivism", an abrupt change in the final year rather than a gradual transition.
 

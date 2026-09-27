@@ -12,7 +12,7 @@ generated:
 # Family Book Club
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 The educator selects a book that reflects students' identities, interests, and — where possible — their home languages, then records a short video of themselves reading a portion aloud each week until the book is finished. Alongside each video, the educator posts discussion questions that families can talk through with their children at home, with questions provided in families' home languages when feasible. The strategy converts family time into a shared literacy experience anchored by the teacher's read-aloud modeling.

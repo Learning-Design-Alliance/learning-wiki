@@ -16,7 +16,7 @@ sources:
 # Littlewood's division of advanced learners' communication needs into pragmatic and social needs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Littlewood's model of advanced language learners' development, which divides communication needs into pragmatic needs, "the desire to communicate effectively in a pragmatic sense", and social needs, "the desire to communicate appropriately in a social sense". The author uses this division to show that advanced learners' typical problems lie at the interpersonal social level, as in the embarrassing greeting exchange with Prof. X, and that learners must heighten their awareness of both need types to stay motivated.

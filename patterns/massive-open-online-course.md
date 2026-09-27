@@ -12,7 +12,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 2 studies, `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The MOOC combines several earlier innovations — open enrollment, video-based instruction, discussion-forum interaction, and open-content licensing — into a single, free, large-scale online course (Weller, 2018). The earliest MOOCs (Downes and Siemens's open courses in 2008–2009) were built around [Connectivism](../theories/connectivism.md): learning was meant to happen through learners forming and navigating their own network of connections across distributed content and peers, not through a fixed instructor-delivered sequence.

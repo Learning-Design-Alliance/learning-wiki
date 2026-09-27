@@ -15,12 +15,14 @@ sources:
     author: "Pretti, T. J., Etmanski, B., & Drewery, D. W."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # 54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the second sorting task matching behavioral examples to talents, 54 of 59 examples were sorted better than chance into their proposed talent and 48 of 59 were sorted correctly by more than half of participants. [→ Pretti 2021](#pretti-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Second sorting task of the online study (n = 97 educators), where participants matched behavioral examples to the defined talents within each cluster, with a does-not-belong option and trap items. Table 4 prints one-sample t-tests per item, e.g., Uses clear and concise language 96.6%, t = 37.23, p < .001. The article reads this as "a high degree of agreement between participants."
 

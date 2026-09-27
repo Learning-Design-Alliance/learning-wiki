@@ -17,7 +17,7 @@ sources:
 # Retention initiatives should satisfy all three basic psychological needs across the whole campus environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's central design recommendation is that retention initiatives be offered throughout the college environment and in each classroom, creating institutional cultures that satisfy students' needs for autonomy, competence, and relatedness. It argues that "all three basic psychological needs must be satisfied in order to increase intrinsic motivation or foster internalization of external goals", and that satisfying only relatedness and competence may not consistently create conditions for persistence. Competence support means providing optimal challenge, since too-easy activities bore and too-difficult ones provoke anxiety.

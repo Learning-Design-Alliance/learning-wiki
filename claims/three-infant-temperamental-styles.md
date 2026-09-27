@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The review reports three stable infant temperamental styles: easy, slow to warm up, and difficult
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Thomas, Chess, and Birch (1968), that three basic temperamental styles—easy, slow to warm up, and difficult—are discernable as early as two to three months and tend to persist over the years. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports this as recent research suggesting different types of temperaments among developing infants, with stable individual patterns of emotional development. It adds that personality is shaped by the constant interplay of temperament and environment.
 

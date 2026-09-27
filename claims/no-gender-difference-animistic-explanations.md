@@ -15,12 +15,14 @@ sources:
     author: Watts, Mike; Bentley, Di
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors' own findings, like other studies generally, show no significant difference between boys and girls in the degree of animistic or anthropomorphic explanation. [→ Watts 1991](#watts-1991)
@@ -31,7 +33,7 @@ sources:
 
 Watts, Mike; Bentley, Di. (1991). An Instructional 'Mali-Trap': Anthropomorphic and Animistic Thought in Constructivist Science Education. https://eric.ed.gov/?id=ED336269
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 In their classroom research with seven and eight year olds, alongside prior studies (Beveridge and Davies; Stead; Tamir et al.), the authors found "no significant difference betweenboys and girls" in animistic or anthropomorphic explanation. Only Tamir et al. report any small gender significance, with boys categorising living and non-living more accurately.
 

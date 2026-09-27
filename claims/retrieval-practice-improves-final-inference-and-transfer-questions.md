@@ -15,30 +15,38 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-4
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler (2010, Experiment 1), that practicing retrieval enhanced performance on new final inference questions relative to restudying, and variable tests were no better than same tests. [→ Karpicke 2017](#karpicke-2017)
@@ -52,7 +60,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Butler (2010), where students reread texts or took three short-answer tests with feedback; one week later "Practicing retrieval enhanced performance on the ﬁnal inference questions, relative to restudying".
 
@@ -62,7 +70,7 @@ The chapter reports Butler (2010), where students reread texts or took three sho
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Hinze and Wiley (2011), with a transfer test 2 days after learning: "the paragraph recall condition outperformed the ﬁll-in-the-blank condition on the ﬁnal transfer test".
 
@@ -72,7 +80,7 @@ The chapter reports Hinze and Wiley (2011), with a transfer test 2 days after le
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Tran et al. (2015), where subjects studied sentences one at a time: "This retrieval practice task did not enhance performance on ﬁnal inference questions"; no effect size is printed.
 
@@ -82,7 +90,7 @@ The chapter reports Tran et al. (2015), where subjects studied sentences one at 
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Eglington and Kang (2016), who reused Tran et al.'s materials and "found positive effects of retrieval practice on ﬁnal inference performance" under simultaneous study and free recall.
 

@@ -15,12 +15,14 @@ sources:
     author: "Biscevic, I., Pasalic, A., & Memisevic, H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No interaction effect of executive functions and theory of mind on semantic fluency in preschool children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The EF × TOM interaction on semantic fluency was not statistically significant (F=0.21, p=.88). [→ Biscevic 2018](#biscevic-2018)
@@ -31,7 +33,7 @@ sources:
 
 Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 The two-way ANOVA's interaction term (EF * TOM, df=1) printed in Table 2 shows F=0.21, p=.88; the article reports "lack of interaction effects of EF and TOM on semantic fluency". No effect size is printed.
 

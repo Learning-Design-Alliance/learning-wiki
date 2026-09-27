@@ -15,12 +15,14 @@ sources:
     author: Winnick, Joseph P., and Ronald W. French, eds
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Memory performance can decrement over time when a model produces conflict between operational schemes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Piaget's matches experiment showed that a model creating conflict between number and length schemes produced worse memory for the original configuration, with only advanced subjects remembering it correctly. [→ Winnick 1975](#winnick-1975)
@@ -31,7 +33,7 @@ sources:
 
 Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Zaichkowsky's paper reports Piaget's experiment presenting eight matches to children: young children added matches to conserve length while older children lengthened each match to conserve number, and 'It is the conflict then, between number and length, which resultinmemory decrement,' showing operational progress does not always improve recall.
 

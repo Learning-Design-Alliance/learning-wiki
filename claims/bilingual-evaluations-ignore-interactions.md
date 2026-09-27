@@ -15,12 +15,14 @@ sources:
     author: Cummins, James
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Evaluators of bilingual education programs have failed to incorporate possible interaction between educational treatment and child input factors into their experimental designs. [→ Cummins 1979](#cummins-1979)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper argues this design failure explains the lack of meaningful research on whether initial instruction in L1 promotes academic progress of children of limited English-speaking ability. It contrasts US evaluations, which took little account of interactions, with Canadian immersion evaluations that investigated aptitude-by-treatment interactions in depth.
 

@@ -15,18 +15,22 @@ sources:
     author: Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: kowalski-2013-2
     resource: "https://arxiv.org/abs/1308.2434"
     title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434"
     author: Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The process was administered separately to a sophomore class of 23 engineering physics students and a class of 7 graduate physics students. [→ Kowalski 2013](#kowalski-2013)
@@ -38,7 +42,7 @@ sources:
 
 Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
 
-`q2 · case report` · `i? · no effect size`
+`q2 · case report` · `i? · no effect size` · `design · r2`
 
 Case report of the process used in two classes meeting one hour a week in an interactive lecture format, each student using a tablet computer to submit open-format responses via InkSurvey. The article states it was "administered separately to two classes" of 23 sophomores and 7 graduate students; results from both classes are combined.
 
@@ -48,7 +52,7 @@ Case report of the process used in two classes meeting one hour a week in an int
 
 Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
 In the quarry problem, the group's metric (simultaneity, use of existing infrastructure, repeated measurement, non-intrusiveness, speed, transferability) was applied to two candidate methods; the article reports the metric "guided the class to choose calibrating the power consumed by a conveyer belt" while the volumetric method fell short.
 

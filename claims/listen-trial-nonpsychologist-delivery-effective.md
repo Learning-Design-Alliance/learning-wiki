@@ -15,12 +15,14 @@ sources:
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A low-intensity telehealth problem-solving intervention delivered by trained diabetes educators, nurses and dietitians reduced mild to moderate diabetes distress more than usual care (LISTEN trial)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The LISTEN trial found a low-intensity telehealth problem-solving intervention delivered by non-psychologists was more effective than usual care for mild to moderate diabetes distress. [→ Winterdijk Per 2026](#winterdijk-per-2026)
@@ -31,7 +33,7 @@ sources:
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 The review reports the LISTEN pragmatic randomized controlled trial, in which a telehealth problem-solving intervention delivered by trained diabetes educators, nurses and dietitians outperformed usual care for mild to moderate diabetes distress; no effect size is printed in the review.
 

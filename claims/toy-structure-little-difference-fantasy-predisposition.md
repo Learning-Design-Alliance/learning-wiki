@@ -15,12 +15,14 @@ sources:
     author: "Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Pulaski's study of kindergarten through second-grade children, the structure of the toys made very little difference to imaginative play; high-fantasy children played imaginatively with all toys while low-fantasy children scored significantly lower on half a dozen fantasy measures. The author suggests children's fantasy predisposition may be already pretty well formed by the age of five. [→ Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions 1973](#third-invitational-interdisciplinary-seminar-piagetian-theory-and-its-implications-for-the-helping-professions-1973)
@@ -31,7 +33,7 @@ sources:
 
 Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions. (1973). https://eric.ed.gov/?id=ED092496
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pulaski's study, as summarized in her conference paper, used kindergarten, first and second grade children of equal intelligence, half high and half low in fantasy predisposition. On measures such as number and organization of fantasy themes, "the high-fantasy children scored significantly higher than the low-fantasy group."
 

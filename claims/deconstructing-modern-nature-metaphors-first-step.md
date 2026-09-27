@@ -15,12 +15,14 @@ sources:
     author: Gough, Noel; Kesson, Kathleen
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Deconstructing the modern metaphors of nature cultivated by modern science and industrialism is a first step toward reconstructing relationships with the earth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Deconstruction of the 'mind grown above nature' cultivated by modern science and industrialism is presented as a necessary first step toward reconstructing human relationships with the earth. [→ Gough 1992](#gough-1992)
@@ -31,7 +33,7 @@ sources:
 
 Gough, Noel; Kesson, Kathleen. (1992). Body and Narrative as Cultural Text: Toward a Curriculum of Continuity and Connection. https://eric.ed.gov/?id=ED347544
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Opening claim of the 'Assimilating body and narrative to place' section, a theoretical argument (with the article's own OCR spellings preserved). The authors state that deconstruction "is but a fust step toward reconstructing our relationships with the earth", and that strategies for interrupting dominant discourses must follow.
 

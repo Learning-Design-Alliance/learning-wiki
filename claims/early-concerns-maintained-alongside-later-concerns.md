@@ -15,12 +15,14 @@ sources:
     author: Wesley, Marion T., Jr. and Franks, Melvin Eugene
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Even while enacting impact-related adoption activities, teachers continued to respond to self- and task-related concerns, which the authors relate to evolving experiences and interpretations of increasingly complex technologies. [→ Wesley 1996](#wesley-1996)
@@ -31,7 +33,7 @@ sources:
 
 Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Discussion of the case study's interview and SoCQ findings: teachers developed Consequence and Collaboration concerns as expected under CBAM theory, but early concerns persisted. The article reports this as an interpretation of qualitative data, with no effect size.
 

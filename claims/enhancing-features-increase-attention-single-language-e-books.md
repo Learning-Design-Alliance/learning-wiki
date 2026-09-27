@@ -15,12 +15,14 @@ sources:
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Children spent significantly more total fixation time on enhanced than silent single-language books, F(1, 30) = 4.36, p = .045, partial η2 = .13. [→ Yow 2019](#yow-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i1`
+`q3 · i1` · `causal · r1`
 
 Study 2 comparison of total fixation duration per page between silent and enhanced single-language books (ANCOVA controlling for reading-ability difference). Children "spent a significantly larger amount of time on enhanced single-language books" (6.74 vs. 4.79 seconds).
 

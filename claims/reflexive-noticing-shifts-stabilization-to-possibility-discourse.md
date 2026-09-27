@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: "27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year
+> **Evidence** · 1 study · qualitative `r2` · `q3` · `i2` medium · n=27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year
 
 Discourse analysis of nine whole-school intervention sessions over a school year found that teachers' stabilizing talk about students persisted even in the face of contrary evidence (surprises were usually reframed as exceptions), but that a specific discursive pattern — reflexive noticing — later emerged and correlated with a large, independently quantified increase in positive framing of students.
 
@@ -41,7 +43,7 @@ Discourse analysis of nine whole-school intervention sessions over a school year
 
 Rainio, A. P., & Hofmann, R. (2021). Teacher professional dialogues during a school intervention: From stabilization to possibility discourse through reflexive noticing. *Journal of the Learning Sciences, 30*(4-5), 707-746. [https://doi.org/10.1080/10508406.2021.1936532](https://doi.org/10.1080/10508406.2021.1936532)
 
-`q3 · systematic discourse analysis of 18 hours of video / 500 pages of transcript across nine sessions, with an operationalized coding scheme for linguistic markers and 393 coded speech actions from an earlier analysis (Rainio & Hofmann, 2015); not an experimental or quasi-experimental design, no control school` · `i2 · a clear, well-documented, and independently quantified shift in discourse pattern across a full school year, but the quantified counts measure discourse categories, not teaching-practice change or student learning outcomes` · `n=27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year`
+`q3 · systematic discourse analysis of 18 hours of video / 500 pages of transcript across nine sessions, with an operationalized coding scheme for linguistic markers and 393 coded speech actions from an earlier analysis (Rainio & Hofmann, 2015); not an experimental or quasi-experimental design, no control school` · `i2 · a clear, well-documented, and independently quantified shift in discourse pattern across a full school year, but the quantified counts measure discourse categories, not teaching-practice change or student learning outcomes` · `n=27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year` · `qualitative · r2`
 
 Discourse analysis of all nine [Reflexive Noticing Facilitation](../strategies/reflexive-noticing-facilitation.md) sessions at one Finnish middle school identified stabilizing, re-stabilizing (via reframed surprises or dilemmatic tension), and possibility-oriented (reflexive-noticing) speech-action types, with operationalized linguistic markers for each (e.g., "always," "that's a fact" for stabilization; "surprised," "noticed" for surprise-based destabilization; "but-but" structures for dilemma). An earlier quantitative pass on the same 393 coded speech actions (Rainio & Hofmann, 2015) found large increases in two categories of positive student framing across the intervention, which this paper's qualitative analysis explains mechanistically via the shift from re-stabilization to reflexive noticing.
 

@@ -15,12 +15,14 @@ sources:
     author: Anees, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In an analysis of 357 examination questions, comprehension-level questions were most frequent (40.9%) followed by knowledge-level questions (33.1%), indicating assessment focused on lower levels of learning. [→ Anees 2017](#anees-2017)
@@ -31,7 +33,7 @@ sources:
 
 Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Manual content analysis of 115 question papers from University of Agriculture Faisalabad teachers, with questions categorized by an expert committee using Bloom's Taxonomy keywords; frequencies and percentages computed per level. The analysis found "comprehension level (40.90%)" most common, then knowledge (33.05%) and analysis (17.37%).
 

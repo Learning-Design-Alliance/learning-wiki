@@ -15,12 +15,14 @@ sources:
     author: Bill VanPatten
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` People become skilled at an activity by engaging in that very activity or behaviors with transfer appropriateness, not by mechanistic practice of isolated pieces. [→ Bill VanPatten 2010](#bill-vanpatten-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in section II.2 drawing on the cognitive-psychological skill literature (Segalowitz 2003). The author contrasts classroom drills devoid of communicative purpose with tennis training, where players already have backhand knowledge before drilling technique. This is an interpretive argument, not a new empirical study.
 

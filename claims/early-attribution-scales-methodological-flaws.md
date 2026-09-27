@@ -15,12 +15,14 @@ sources:
     author: Fullin, Christine; Mills, Brett D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Early attribution research was limited by unsophisticated scales and arbitrary assigning of causal variables
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Early attribution research used unsophisticated measurement scales restricting responses to four causal elements, and the most significant flaw was the failure to consider the respondent's own perception of the link between causal attributions and their dimensions. [→ Fullin 1995](#fullin-1995)
@@ -31,7 +33,7 @@ sources:
 
 Fullin, Christine; Mills, Brett D. (1995). Attribution Theory in Sport: Problems and Solutions. https://eric.ed.gov/?id=ED387439
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's methodological analysis states that early research based on Weiner's 1972 four-element model restricted athlete responses to four answers, and that researchers cannot assume they accurately predict how subjects perceive attributions, making arbitrary assigning of causal variables always possible.
 

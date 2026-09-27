@@ -17,7 +17,7 @@ sources:
 # Self-Regulation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies, `q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 unmarked) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
 
 ## Description
 Self-regulation is the short-form canonical target for instructional designs that help learners plan, monitor, and adjust behavior, effort, and strategy over time.

@@ -15,12 +15,14 @@ sources:
     author: Gallagher, W. K.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The experimental immersion group made significantly greater progress in communication skills than the control group, while progress in structural skills was not significantly different between the groups. [→ Gallagher 1976](#gallagher-1976)
@@ -31,7 +33,7 @@ sources:
 
 Gallagher, W. K. (1976). Facilitating the Immigrant's Learning a Second Language in the Classroom. https://eric.ed.gov/?id=ED136593
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 In the Brigham Young University Hawaii experiment, thirty adult multi-national students spent fifteen weeks in an informal, carefully planned total-immersion English environment. The article reports the experimental group "made significantly greater progress, when compared to a control group in communication skills" while structural progress was not significantly different; no effect size is printed.
 

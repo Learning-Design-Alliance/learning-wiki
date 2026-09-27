@@ -15,12 +15,14 @@ sources:
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review asserts deep learning KT models exhibit superior performance compared to Bayesian and logistic models while leaving significant room for improvement in interpretability and explainability. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review summary of the fundamental models section, with no pooled comparison by the authors: deep learning models are described as "exhibiting superior performance compared to Bayesian mod- els and logistic models" but lacking interpretability, which the survey says has limited their further applicability.
 

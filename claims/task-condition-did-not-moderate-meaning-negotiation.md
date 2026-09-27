@@ -15,12 +15,14 @@ sources:
     author: "Roohani, A., & Esmaeili, M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Task condition (decision-making vs. opinion-exchange) did not significantly moderate the amount of meaning negotiation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Differences in meaning negotiation frequency were not significantly affected by the decision-making vs. opinion-exchange task condition. [→ Roohani 2022](#roohani-2022)
@@ -31,7 +33,7 @@ sources:
 
 Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Chi-square analysis of negotiation frequencies across the same 36-learner counterbalanced task performance; the article reports the DM tasks descriptively yielded more negotiation cases than OE tasks, but concludes the task condition "did not act as a moderating variable"; no effect size printed.
 

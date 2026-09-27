@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 2 focal cases (from 12 observed teachers)
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Teachers actively synthesize professional-development practices with their own context rather than transferring them intact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=2 focal cases (from 12 observed teachers)
+> **Evidence** · 1 study · qualitative `r?` · `q2` · n=2 focal cases (from 12 observed teachers)
 
 When teachers bring a practice learned in professional development back to their classroom, they actively reshape it by synthesizing it with their own problems of practice, professional identity, implementation constraints, and goals — meaning two teachers from the same PD session can end up with substantially different, but each personally meaningful, versions of the same practice. This means fidelity of implementation (whether a teacher used the practice "as designed") is an incomplete lens for evaluating what teachers actually learned.
 
@@ -35,7 +37,7 @@ When teachers bring a practice learned in professional development back to their
 
 Marshall, S. A., & Horn, I. S. (2025). Teachers as agentic synthesizers: Recontextualizing personally meaningful practices from professional development. *Journal of the Learning Sciences, 34*(3), 246-284. [https://doi.org/10.1080/10508406.2025.2468230](https://doi.org/10.1080/10508406.2025.2468230)
 
-`q2 · longitudinal ethnographic case study with two intensively observed focal teachers (from a larger cohort of 12), classroom observation and interviews across a school year` · `i? · the abstract prints no effect size; the full text may` · `n=2 focal cases (from 12 observed teachers)`
+`q2 · longitudinal ethnographic case study with two intensively observed focal teachers (from a larger cohort of 12), classroom observation and interviews across a school year` · `i? · the abstract prints no effect size; the full text may` · `n=2 focal cases (from 12 observed teachers)` · `qualitative · r?`
 
 Two middle-school mathematics teachers attended the same professional-development sessions and each chose a practice to try: a "notice-and-wonder" questioning strategy, and a rough-draft/final-draft feedback strategy. Researchers tracked both teachers' classroom enactments and reasoning over a school year. One teacher synthesized the questioning practice with a goal of fostering student independence, adding new elements (research prompts, paired whiteboard work) that extended the practice's original intent. The other, facing time pressure across 143 students in multiple sections, synthesized the feedback practice with those constraints by shifting from conceptually oriented written feedback to faster error-pointing feedback — a change the authors characterize as diverging from, rather than extending, the practice's original conceptual purpose — before later adding a "My Favorite Mistake" routine.
 

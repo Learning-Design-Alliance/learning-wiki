@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Hulstijn, Hollander, and Greidanus found that frequency of occurrence and provision of word meaning through marginal glosses or dictionary use positively affected incidental vocabulary learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Hulstijn et al.'s (1996) empirical study randomly assigned 78 advanced university students of French at three Dutch universities to read a short narrative under marginal-gloss, dictionary-use, or control conditions, testing 16 target words; the review reports positive effects of glosses, dictionary use, and recurrence.
 

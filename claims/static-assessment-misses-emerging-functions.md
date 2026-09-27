@@ -15,12 +15,14 @@ sources:
     author: Seng, Seok-Hoon
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Traditional individual psychological testing uncovers only matured functions, while functions still developing remain beyond its methodological purview; assisted performance reveals them. [→ Seng 1997](#seng-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in this review paper, attributed to Vygotsky, that static individual assessment reveals only already-matured functions. The ZPD was formulated to reflect potential competencies shown in assisted performance or joint activity with a more competent other.
 

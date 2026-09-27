@@ -16,7 +16,7 @@ sources:
 # Problem/Solution frame as a variation of the Goal frame for history text
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Problem/Solution frame arises from a variation of the Goal frame: the Problem is an event, condition, or series of events or conditions resulting in a state that is an obstacle to the attainment of the Goal. The Problem prompts a Solution taking the form of the Plan, Action, and Outcome of the Goal frame, and the Outcome either solves or fails to solve the Problem. The authors illustrate it with textbook accounts of the voyages of discovery and extend it to interactions between two parties, proposing a Compromise frame in which parties with incompatible Plans each give up and get part of what they want.

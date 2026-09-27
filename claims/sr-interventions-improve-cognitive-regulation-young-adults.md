@@ -15,12 +15,14 @@ sources:
     author: "Murray, D. W. & Rosanbalm, K."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Results from 60 studies of intervention with high schoolers and young adults show strong and consistent improvement in cognitive regulation, and small but significant improvements in health, mental health, and delinquency. [→ Murray 2017](#murray-2017)
@@ -31,7 +33,7 @@ sources:
 
 Murray, D. W. & Rosanbalm, K. (2017). Promoting Self-Regulation in Adolescents and Young Adults: A Practice Brief. OPRE Report #2015-82. https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The brief summarizes its OPRE comprehensive review of self-regulation interventions, reporting that "results from 60 studies of intervention with high schoolers and young adults" showed these outcomes. No effect sizes are printed, so magnitudes beyond the stated directions are not reported.
 

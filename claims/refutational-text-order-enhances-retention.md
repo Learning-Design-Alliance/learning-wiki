@@ -15,12 +15,14 @@ sources:
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Refutational text (misbelief stated first, then fact) enhanced recall and 14-day retention relative to traditional and inverted refutational text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` In Experiment 1, refutational text outperformed traditional text on free recall and both refutational formats on recall, and beat inverted refutational text on 14-day recognition. [→ Woloshyn 1992](#woloshyn-1992)
@@ -31,7 +33,7 @@ sources:
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Experiment 1 text-type analysis: significant text-type main effects on free and cued recall (F(2,116) > 7.78, p<.001) and on 14-day recognition (F(2,116) = 5.69, p<.005), with "Reading refutational text enhanced free recall for facts relative to reading traditional text."
 

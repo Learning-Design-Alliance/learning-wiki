@@ -17,7 +17,7 @@ sources:
 # Literature Circles with rotating collaborative-skill roles for small-group pleasure reading
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Midway between whole-class and individual reading, Literature Circles have "L2 students read for pleasure in small, self-selected groups that meet regularly to discuss books that the members themselves have chosen." The article recommends enhancing discussions with instruction in collaborative skills via rotating roles: Paraphraser, Praiser, Controversy kindler, and Connector, with teachers supplying role gambits such as "Have you ever thought about it this way?" Roles rotate so everyone practices the skills.

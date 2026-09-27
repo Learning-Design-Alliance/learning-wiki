@@ -15,12 +15,14 @@ sources:
     author: Hanvey, Robert G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Understanding technical world conditions such as stratospheric ozone depletion requires a level of education most publics lack
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The procedures generating information about the state of the planet are highly technical, so a certain level of education is required to see the full significance of data such as the ozone case. [→ Hanvey 1975](#hanvey-1975)
@@ -31,7 +33,7 @@ sources:
 
 Hanvey, Robert G. (1975). An Attainable Global Perspective. Center for War/Peace Studies. https://eric.ed.gov/?id=ED116993
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The essay's extended ozone illustration, including aerosol propellant chemistry and projected depletion percentages, shows how a significant world condition can remain within specialists' private realms. The author argues "A certain level of education is required to see the full signifi: cance of the data" and asks whether such problems can be widely comprehended.
 

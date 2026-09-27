@@ -15,12 +15,14 @@ sources:
     author: Schleppegrell, Mary
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Learning ability does not decline with age in healthy older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` If older people remain healthy, their intellectual abilities and skills do not decline, and no age-related differences in learning ability have been demonstrated among adults of different ages. [→ Schleppegrell 1987](#schleppegrell-1987)
@@ -31,7 +33,7 @@ sources:
 
 Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest reports, citing Ostwald and Williams, studies on aging showing that "learning ability does not decline with age" when older people remain healthy. It adds that no age-related differences in learning ability have been demonstrated among adults of different ages. No effect sizes are printed.
 

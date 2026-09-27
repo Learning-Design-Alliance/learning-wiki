@@ -15,18 +15,22 @@ sources:
     author: Gilbert, L. S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: gilbert-1999-2
     resource: "https://eric.ed.gov/?id=ED436153"
     title: "Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153"
     author: Gilbert, L. S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Contradictions between community objectives (the implementing organization's goals) and individual objectives (the typical end-user's goals) are gaining increasing attention in discussions of workplace computer systems, and appear in education as well. [→ Gilbert 1999](#gilbert-1999)
@@ -38,7 +42,7 @@ sources:
 
 Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The paper quotes software designer Alan Cooper (1995) illustrating the contrast between organizational goals and common user goals such as not looking stupid, not making big mistakes, getting an adequate amount of work done, and having fun. The paper states these goals seem as prevalent in education as in business.
 
@@ -48,7 +52,7 @@ The paper quotes software designer Alan Cooper (1995) illustrating the contrast 
 
 Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper reports, citing Perkins (1985), that many student users' individual goal of avoiding cognitive load stands in contradiction to the objectives of the educational community. This is the paper's attribution of a prior observation, not new data.
 

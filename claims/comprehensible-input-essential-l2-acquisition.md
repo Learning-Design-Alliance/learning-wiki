@@ -15,12 +15,14 @@ sources:
     author: Diaz, Diana M.
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Comprehensible input in natural language contexts is presented as essential to second language acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Krashen's Input Hypothesis holds that comprehensible input, occurring in the context of natural language use, is essential to L2 acquisition. [→ Diaz 1988](#diaz-1988)
@@ -31,7 +33,7 @@ sources:
 
 Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 Theoretical exposition of Krashen's Input Hypothesis within the article's review of L2 acquisition research; no empirical data are reported. The article states that "comprehensible input" is essential to the acquisition of a second language, and that acquirers go for meaning first and thereby acquire structure.
 

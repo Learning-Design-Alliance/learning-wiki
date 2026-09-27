@@ -15,12 +15,14 @@ sources:
     author: Yanmei Li, Shuhong Li, and Lin Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For six operational test forms, item discrimination and difficulty estimates were little affected by using the 2PL/GPCM model that ignored local item dependence. [→ Yanmei Li 2010](#yanmei-li-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the reading sections of six operational test forms (2005-2007 administration years 2006-2007, random sample of 2,000 examinees per form, 3 passages of 13-14 items). The report states "the RMSDs between the item parameters estimated from the two models were small" and that slightly higher discrimination parameters were found for the 2PL/GPCM.
 

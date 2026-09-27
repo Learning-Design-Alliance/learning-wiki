@@ -12,7 +12,7 @@ generated:
 # Video Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis. They are useful when a brief visual or narrative stimulus can focus learners on a question, problem, or phenomenon.

@@ -21,7 +21,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 mixed) · 5 studies (2 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Engagement is the principle of designing learning so that learners attend, participate, and sustain effort in cognitively meaningful ways. It matters when attention, persistence, and active involvement affect whether instruction actually results in learning.

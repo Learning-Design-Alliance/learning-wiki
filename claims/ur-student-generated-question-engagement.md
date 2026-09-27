@@ -15,12 +15,14 @@ sources:
     author: "Fischer, A. E., Immel, K. R., Wilkum, K., & Lee, L."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students who generate their own research question are apt to be more invested and more engaged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A student who generated the research question is apt to be more invested in the outcome of the research and more engaged with the overall experience. [→ Fischer 2021](#fischer-2021)
@@ -31,7 +33,7 @@ sources:
 
 Fischer, A. E., Immel, K. R., Wilkum, K., & Lee, L. (2021). A Taxonomy for Developing Undergraduate Research Experiences as High-Impact Practices. Journal of the Scholarship of Teaching and Learning. https://doi.org/10.14434/josotl.v21i1.30564
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 The article's authors' assertion in the Formulating a Question element description, offered without cited data or test; the article states "A student who generated the question is apt to be more invested in the outcome of the research  and be more engaged with the overall experience." No effect size is printed.
 

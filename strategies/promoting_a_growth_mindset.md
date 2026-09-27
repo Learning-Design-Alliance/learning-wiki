@@ -12,7 +12,7 @@ generated:
 # Promoting a Growth Mindset
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Promoting a growth mindset encourages learners to believe that intelligence and ability are not fixed traits but can be developed through effort, effective strategies, and help from others. The strategy is carried out through process-focused feedback, framing of mistakes as informative, explicit teaching about how learning changes the brain, and task designs that make persistence worthwhile. It is most associated with Dweck's implicit-theories research and is widely applied in mathematics, where fixed-ability beliefs are especially prevalent.

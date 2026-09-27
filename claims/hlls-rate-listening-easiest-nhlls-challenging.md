@@ -15,12 +15,14 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` HLLs perceived listening as the easiest skill among listening, speaking, reading and writing; NHLLs rated listening as challenging as writing and almost as demanding as speaking. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -31,7 +33,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Questionnaire ratings on a 4-point difficulty scale from 12 HLLs and 11 NHLLs in two fourth-semester Portuguese classes, coded 1-4 with frequencies calculated. The study found HLLs perceived listening as "the easiest among the four skills surveyed" while NHLLs did not.
 

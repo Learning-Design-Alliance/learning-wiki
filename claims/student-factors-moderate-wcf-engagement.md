@@ -15,12 +15,14 @@ sources:
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students with low target linguistic knowledge and limited feedback literacy are incapable of understanding linguistic problems and correcting errors, and are less cognitively engaged with WCF uptake. [→ Liu 2025](#liu-2025)
@@ -31,7 +33,7 @@ sources:
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Zheng and Yu (2018), that low linguistic knowledge and limited feedback literacy reduce cognitive engagement and uptake; it also cites learning objectives, beliefs, and English proficiency as identified individual-difference factors (Han, 2017; Pearson, 2022; Han & Xu, 2021; Zhang & Hyland, 2018).
 

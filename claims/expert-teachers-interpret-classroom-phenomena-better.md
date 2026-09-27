@@ -15,12 +15,14 @@ sources:
     author: Berliner, David C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a three-screen video study, experts monitored all screens and gave more, more detailed comments, while novices and postulants made contradictory statements and struggled to monitor the displays. [→ Berliner 1988](#berliner-1988)
@@ -31,7 +33,7 @@ sources:
 
 Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice, and postulant teachers watched three simultaneous video screens of one lesson and talked aloud. Experts 'responded effortlessly and fluidly' while novices reported contradictory observations; experts averaged 27.4 comments versus 20.5 for novices and 23.2 for postulants.
 

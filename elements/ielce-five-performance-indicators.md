@@ -17,7 +17,7 @@ sources:
 # IELCE integrated English literacy and civics education program with five performance indicators
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies, `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (1 associational, 1 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The Integrated English Literacy and Civics Education (IELCE) initiative is a federally supported program centering on English literacy skills, civic responsibilities and rights awareness for adult immigrants. The article reports the program identified five primary indicators of performance: measurable skills gains (MSG), Employment Rate 2nd Quarter After Exit, Employment Rate 4th Quarter After Exit, Median Earnings 2nd Quarter After Exit, and Credential Attainment. It also prints accountability data, e.g., MSG metrics highest between PY 2018-2019 with a 52% success rate.

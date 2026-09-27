@@ -15,30 +15,38 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-4
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Carpenter and DeLosh (2006, Experiment 1), that initial free recall enhanced retention more than initial recognition even though subjects recognized 89% and freely recalled 69% of words initially. [→ Karpicke 2017](#karpicke-2017)
@@ -52,7 +60,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Carpenter and DeLosh (2006, Experiment 1), with eight-item lists and no feedback: "whereas subjects correctly recognized 89% of the words, they freely recalled 69% of them", yet free recall enhanced retention more.
 
@@ -62,7 +70,7 @@ The chapter reports Carpenter and DeLosh (2006, Experiment 1), with eight-item l
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports experiments varying how many letters of five-letter words were cued: "Providing fewer letter cues during initial retrieval practice enhanced performance on a ﬁnal free recall test".
 
@@ -72,7 +80,7 @@ The chapter reports experiments varying how many letters of five-letter words we
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Finley et al. (2011), with foreign language word pairs: "the diminishing cues condition consistently outperformed the study-only condition and the accumulating cue condition".
 
@@ -82,7 +90,7 @@ The chapter reports Finley et al. (2011), with foreign language word pairs: "the
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Carpenter (2009), in which weak associates were assumed to offer less support: "retrieval practice effects were larger with weak associates than they were with strong associates".
 

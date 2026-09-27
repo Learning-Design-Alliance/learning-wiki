@@ -15,12 +15,14 @@ sources:
     author: John Duplice
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` University ELLs who used the GoldList Notebook Method after an idiom lesson showed greater post-test recall nine weeks later than students who received the lesson alone. [→ John Duplice 2022](#john-duplice-2022)
@@ -31,7 +33,7 @@ sources:
 
 John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Action research with 74 first-year Japanese university ELLs (CEFR B1–B2) across four classes; pre-test, idiom lesson, GoldList treatments or baseline, and post-test nine weeks later via Moodle quizzes. The study reports "increased learning of L2 idioms" for all GoldList treatments versus baseline.
 

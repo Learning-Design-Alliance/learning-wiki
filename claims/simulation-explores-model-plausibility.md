@@ -15,18 +15,22 @@ sources:
     author: Neches, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: neches-1982-2
     resource: "https://eric.ed.gov/?id=ED217874"
     title: "Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874"
     author: Neches, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Simulation usefully explores the plausibility of models where empirical testing lags, and permits psycho-surgery experiments impossible with human subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Simulation gives a means of exploring the plausibility of models where theoretical sophistication exceeds the state of the art in empirical testing. [→ Neches 1982](#neches-1982)
@@ -38,7 +42,7 @@ sources:
 
 Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Section 3.1 theoretical argument on the significance of a running program, following L. Miller's (1978) summary of the theory-validation debate. The paper states "simulation gives ameans>f exploring theplausibility of models Where theoretical sophistication exceeds the state of the art in empirical testing."
 
@@ -48,7 +52,7 @@ Section 3.1 theoretical argument on the significance of a running program, follo
 
 Neches, Robert. (1982). Simulation Systems for Cognitive Psychology. Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED217874
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Section 3.2 argument that greater freedom to perform psycho-surgery on a program, with no Human Subjects Committee clearance, enables component-interaction experiments; illustrated by the McClelland & Rumelhart word perception model.
 

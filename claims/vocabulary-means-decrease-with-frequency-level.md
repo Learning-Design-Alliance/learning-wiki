@@ -15,12 +15,14 @@ sources:
     author: Ataş, U.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Vocabulary test means decrease as word-frequency level rises, but learners scored better on academic vocabulary than the 3000 level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Mean Vocabulary Levels Test scores decreased as frequency level increased (2000 level M = 27.21; 10000 level M = 6), though the academic level mean (M = 24.03) exceeded the 3000 level mean (M = 22.76). [→ Ataş 2018](#atas-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ataş, U. (2018). The Role of Receptive Vocabulary Knowledge in Advanced EFL Listening Comprehension. TESL-EJ, 21(4). https://eric.ed.gov/?id=EJ1172563
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive statistics for the 33 participants (Table 1) show means declining across frequency levels, from M = 27.21 at the 2000 level to M = 6.00 at the 10000 level. The article notes participants "scored better on the academic level (M = 24.03) than on the 3,000 level (M = 22.76)", possibly justified by textbook exposure in classroom study.
 

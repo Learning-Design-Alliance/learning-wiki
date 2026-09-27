@@ -15,12 +15,14 @@ sources:
     author: "McKim, A. J., & Velez, J. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Multiple vicarious experiences were positively correlated with student teachers' general teaching efficacy, and observing a first year agriculture teacher explained 11% of the variance in general teacher efficacy. [→ McKim 2016](#mckim-2016)
@@ -31,7 +33,7 @@ sources:
 
 McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Wolf et al. (2010) found observing a first year teacher, another student teacher, a non-agriculture teacher, a cooperating teacher, and another agriculture teacher were all positively correlated with general teaching efficacy; "observing a first year agriculture teacher, was found to explain 11% of the variance in general teacher efficacy." No standardized effect size is printed.
 

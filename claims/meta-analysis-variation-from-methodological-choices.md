@@ -15,12 +15,14 @@ sources:
     author: Boulton, A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Meta-analyses of ostensibly the same phenomenon yield different effect sizes because synthesists make many choices: defining the field, collecting studies, inclusion criteria, data extraction, effect-size formulas, weighting and outlier treatment. [→ Boulton 2016](#boulton-2016)
@@ -31,7 +33,7 @@ sources:
 
 Boulton, A. (2016). Quantifying CALL: significance, effect size and variation. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 55-60). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.538
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical/methodological argument about sources of variation in secondary research: inclusion criteria, extraction, formula choice, weighting, outliers, inter-rater checking and funnel plots for publication bias are all listed as synthesist decisions.
 

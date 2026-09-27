@@ -12,7 +12,7 @@ generated:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies, `q2`–`q4` · 0 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (3 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 0 of 11 report an effect size
 
 ## Description
 Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product. Its core premise is that writers improve when the process itself is taught, supported, and made visible. This is especially useful for learners developing complex writing skills, because it breaks writing into revisable stages while still keeping the final communicative purpose in view.

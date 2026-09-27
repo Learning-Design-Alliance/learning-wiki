@@ -15,12 +15,14 @@ sources:
     author: Barnawi, O. Z.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Chandler's (2003) study as reported by the review, when students were asked to notice particular errors in their writing, errors decreased in a subsequent draft without a reduction in the overall quality of writing. [→ Barnawi 2010](#barnawi-2010)
@@ -31,7 +33,7 @@ sources:
 
 Barnawi, O. Z. (2010). Promoting Noticing Through Collaborative Feedback Tasks in EFL College Writing Classrooms. International Journal of Teaching and Learning in Higher Education, 22(2). https://www.isetl.org/ijtlhe/
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports Chandler's (2003) study of feedback about error in students' writing improvement, viewing such feedback as a medium for encouraging students to notice errors. The review states "errors decreased in a subsequent draft without a reduction in the overall quality of writing." No effect size is printed.
 

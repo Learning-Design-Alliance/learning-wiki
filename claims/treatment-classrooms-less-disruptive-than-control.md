@@ -15,12 +15,14 @@ sources:
     author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In all 12 studies, students in treatment classrooms showed less disruptive, inappropriate, and aggressive behavior compared to untreated students in control classrooms with treatment as usual. [→ Oliver 2011](#oliver-2011)
@@ -31,7 +33,7 @@ sources:
 
 Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 
-`q3 · i3 · large effect, SMD = 0.8`
+`q3 · i3 · large effect, SMD = 0.8` · `quant-synthesis · r2`
 
 The review's conclusion over the 12 included studies, most of which were randomized (7 individual, 4 group random assignment per Table 1), comparing universal classroom management interventions against typical classroom management practices.
 

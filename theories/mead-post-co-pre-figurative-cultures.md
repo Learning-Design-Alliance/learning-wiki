@@ -16,7 +16,7 @@ sources:
 # Mead's taxonomy of post-figurative, co-figurative, and pre-figurative cultures explains how accelerating change reverses the direction of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The report presents Mead's three-part cultural taxonomy for characterizing how knowledge passes between generations. In post-figurative cultures children learn from adults as models of the future; in co-figurative cultures peers learn from peers; in pre-figurative culture, which Mead dated to around 1969, "the elders had to learn how to incorporate what the young had learned but which they had not." The report presents this as Mead's account of a generation gap unique in involving the whole world, introducing a new element into education.

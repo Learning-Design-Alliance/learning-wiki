@@ -15,12 +15,14 @@ sources:
     author: "Shen, C.-Y., & O’Neil, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Adults randomly assigned to study worked examples improved significantly more on the content-understanding knowledge map than a control group that did not (mean improvement 2.21 vs. 0.62). [→ Shen 2006](#shen-2006)
@@ -31,7 +33,7 @@ sources:
 
 Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized two-group experiment (72 undergraduate or graduate students) with the SafeCracker puzzle game. The worked example group "improved significantly more than those who did not receive worked examples on the knowledge map": average improvement 2.21 (SD = 2.56) vs. 0.62 (SD = 2.45). No test statistic or effect size is printed.
 

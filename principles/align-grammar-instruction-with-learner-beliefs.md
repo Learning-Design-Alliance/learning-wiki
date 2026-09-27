@@ -17,7 +17,7 @@ sources:
 # Align grammar instruction and materials design with learners' stated beliefs about how they learn grammar
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (8 for) · 1 study, `q2` · 1 of 1 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 8 claims rest on one study
 
 ## Description
 The article argues that being aware of learners' preferences about grammar instruction can guide syllabus and materials designers about the approach to adopt and the roles assigned to teachers and learners. It states that "being aware of learners’ preferences about grammar instruction can guide the syllabus and materials designer about the approach to be adopted and the roles to b e assigned to teachers and lear ners." The study's survey of 927 students supplies the preference data such alignment would rest on.

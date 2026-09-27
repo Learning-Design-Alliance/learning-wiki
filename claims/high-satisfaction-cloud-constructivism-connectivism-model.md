@@ -15,12 +15,14 @@ sources:
     author: "Jirasatjanukul, K., Pakprod, N., Dokkulab, P., Changkwanyeun, A., Jantakoon, T., & Laoha, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Overall satisfaction of the 60 undergraduates with instruction management in the model was at the highest level (mean 4.53, SD 0.60). [→ Jirasatjanukul 2023](#jirasatjanukul-2023)
@@ -31,7 +33,7 @@ sources:
 
 Jirasatjanukul, K., Pakprod, N., Dokkulab, P., Changkwanyeun, A., Jantakoon, T., & Laoha, R. (2023). Creation of Educational Innovations through Cloud-based Constructivism and Connectivism Learning for Undergraduates. Higher Education Studies, 13(4). https://doi.org/10.5539/hes.v13n4p119
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 A one-shot case study evaluated satisfaction of 60 undergraduates recruited by simple random sampling from two programs. The article reports "The overall satisfaction was at a very high level ( 𝑥̅=4.53, S.D. = 0.60)" on a five-item evaluation; no inferential test is reported.
 

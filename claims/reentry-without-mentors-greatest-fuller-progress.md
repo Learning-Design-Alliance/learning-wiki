@@ -15,12 +15,14 @@ sources:
     author: Olsen, Dwayne G.; Heyse, Kathy L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 11 reentry teachers without mentors declined extensively in self concerns (45% to 18%) and rose in impact concerns (18% to 55%), the highest impact level of any group, while the 6 reentry teachers with mentors showed only slight change. [→ Olsen 1990](#olsen-1990)
@@ -31,7 +33,7 @@ sources:
 
 Olsen, Dwayne G.; Heyse, Kathy L. (1990). Development and Concerns of First-year and Reentry Teachers with and without Mentors. https://eric.ed.gov/?id=ED323188
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Conclusion-section summary of the Table 6 panel data for the two reentry groups. Reentry teachers with mentors decreased only slightly in self concerns (67% to 50%), stayed at 17% task concerns, and reached only 17% impact concerns in the third interview.
 

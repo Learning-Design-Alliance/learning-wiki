@@ -15,12 +15,14 @@ sources:
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Strategies advocated in the school's system requirement document (Program Achieve) and modelled by the mentor transferred to the mentee's classroom management practices by the end of the field experience. [→ Sempowicz 2011](#sempowicz-2011)
@@ -31,7 +33,7 @@ sources:
 
 Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Conclusion of the qualitative case study, drawing on lesson observations, interviews and the mentor's final report. The authors report that modelled and program-advocated strategies, including age-appropriate language and clear concept explanation, appeared in the mentee's own teaching.
 

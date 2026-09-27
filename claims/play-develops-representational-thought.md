@@ -15,12 +15,14 @@ sources:
     author: Felton, Victoria; Petersen, Rosemary
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` According to the handbook's account of Piaget, the most important contribution of play is its crucial role in developing representational language and thought, which grows from non-verbal symbols emerging at the end of the sensori-motor stage. [→ Felton 1976](#felton-1976)
@@ -31,7 +33,7 @@ sources:
 
 Felton, Victoria; Petersen, Rosemary. (1976). Piaget: A Handbook for Parents and Teachers of Children in the Age of Discovery--Preschool Through Third Grade. https://eric.ed.gov/?id=ED131912
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The handbook's play section reports Piaget's account that representational thought develops from non-verbal symbols ("ludic symbolism") rather than from verbal signs learned socially, with symbolic play and language development peaking between ages 2 and 4. It contrasts play (assimilating reality to the child's satisfaction) with imitation (accommodating to reality). No empirical data are printed.
 

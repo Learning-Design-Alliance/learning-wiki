@@ -12,7 +12,7 @@ generated:
 # Audio Books
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Audio books present written text through professional narration, allowing learners to listen instead of — or in parallel with — reading. They function as an alternative access route to the same content, decoupling comprehension from decoding skill. Digital platforms add playback-speed control, bookmarking, and synchronized transcripts that enable simultaneous audio-plus-text engagement.

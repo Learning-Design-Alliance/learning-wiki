@@ -15,12 +15,14 @@ sources:
     author: Samah Zakareya Ahmad
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` EFL students who read computerized texts with multimedia pop-up glosses scored significantly higher on an immediate vocabulary posttest than students who read the same texts without glosses. [→ Samah Zakareya Ahmad 2019](#samah-zakareya-ahmad-2019)
@@ -31,7 +33,7 @@ sources:
 
 Samah Zakareya Ahmad. (2019). Multimedia Glosses for Enhancing EFL Students' Vocabulary Acquisition and Retention. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p46
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Quasi-experimental pretest-posttest control group study of 45 first-year EFL students (experimental n=23, control n=22) over 12 weekly reading sessions. The Mann-Whitney U-test of the posttest was "statistically significant in favor of the experimental group (U=125; p<0.05)"; Table 2 reports Sig. 0.004. No effect size is printed.
 

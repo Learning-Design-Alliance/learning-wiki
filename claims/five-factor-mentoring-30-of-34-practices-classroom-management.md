@@ -15,12 +15,14 @@ sources:
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In one first-practicum case, 30 of the 34 attributes and practices of the five-factor mentoring model provided input into the mentee's classroom management development. [→ Sempowicz 2011](#sempowicz-2011)
@@ -32,7 +34,7 @@ sources:
 
 Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative single case study of one mentor-mentee dyad over a four-week first practicum, using multiple sources (dialogue recordings, lesson plans, reflections, reports, interviews) coded against the five-factor model. The article reports "30 of the 34 attributes and practices" were evidenced, with aims, curriculum, assessment and timetabling absent.
 

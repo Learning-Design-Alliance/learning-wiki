@@ -17,7 +17,7 @@ sources:
 # Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The author argues the social and linguistic isolation older immigrants face has physical and psychological consequences, citing CDC material linking isolation to heart disease, stroke, and dementia. She holds that "An age-friendly ESL classroom can serve as a remedy for social isolation and the feelings of helplessness and depression that may accompany it," offering a warm, low-stress environment where students form a community of learners. Practices include fostering cooperation, having classmates assist struggling peers, veteran students mentoring new arrivals, and abundant praise and applause for gains.

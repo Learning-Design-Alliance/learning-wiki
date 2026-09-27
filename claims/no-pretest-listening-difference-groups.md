@@ -15,12 +15,14 @@ sources:
     author: Ali Panahi
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # No significant pre-test difference existed between the two groups' entry listening knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Before treatment, the IELTS-Instructed and TOEFL-Instructed groups did not differ significantly on a listening pre-test, supporting group comparability at entry. [→ Ali Panahi 2012](#ali-panahi-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Independent t-test on the 20-question listening pre-test (Table 5 reports t = 0.381, df = 56, Sig. 0.24) comparing the II group (n = 32, mean 5.0125) and TI group (n = 235, mean 5.1523); the study reports "no statistically significant difference" between the groups' entry knowledge.
 

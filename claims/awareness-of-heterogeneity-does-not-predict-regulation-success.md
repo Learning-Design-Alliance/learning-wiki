@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 0
     n: 136 (heterogeneous groups only, from the larger n=311 sample)
+    kind: associational
+    rigour: "?"
 ---
 
 # Awareness of heterogeneous problem perceptions does not by itself predict successful regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible · n=136 (heterogeneous groups only, from the larger n=311 sample)
+> **Evidence** · 1 study · associational `r?` · `q3` · `i0` negligible · n=136 (heterogeneous groups only, from the larger n=311 sample)
 
 Even when a group member accurately recognizes that peers perceive a collaboration problem differently than they do, that awareness alone is not associated with higher satisfaction, perceived regulation success, subjective learning gain, or objective knowledge — contrary to theoretical predictions that awareness should enable groups to resolve disagreement.
 
@@ -33,7 +35,7 @@ Even when a group member accurately recognizes that peers perceive a collaborati
 
 Spang, L., Greisel, M., & Kollar, I. (2026). Great minds think alike—how homogeneous problem perceptions are associated with successful regulation in collaborative learning groups. *Journal of the Learning Sciences, 35*(2), 277-318. [https://doi.org/10.1080/10508406.2025.2553543](https://doi.org/10.1080/10508406.2025.2553543)
 
-`q3 · peer-reviewed path-modeling study, null-finding sub-analysis` · `i0 · non-significant associations across all outcomes` · `n=136 (heterogeneous groups only, from the larger n=311 sample)`
+`q3 · peer-reviewed path-modeling study, null-finding sub-analysis` · `i0 · non-significant associations across all outcomes` · `n=136 (heterogeneous groups only, from the larger n=311 sample)` · `associational · r?`
 
 Restricting to groups with heterogeneous problem perceptions, the authors tested whether members' awareness of that heterogeneity (measured as the gap between actual and perceived homogeneity) predicted satisfaction, perceived regulation success, subjective learning gain, or objective knowledge. None of these associations reached significance. A qualitative case example showed one group member who recognized her peers saw the collaboration problem differently but felt unable to raise the disagreement for discussion, and was uncertain how to communicate her concern — suggesting that recognizing disagreement does not automatically translate into the coordination needed to resolve it.
 

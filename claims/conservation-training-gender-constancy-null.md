@@ -15,12 +15,14 @@ sources:
     author: Golomb, Claire; Vogel, David
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Conservation training did not significantly improve gender constancy relative to control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The difference between conservation training and control on posttest 1 gender level scores was in the predicted direction but not significant. [→ Golomb 1983](#golomb-1983)
@@ -31,7 +33,7 @@ sources:
 
 Golomb, Claire; Vogel, David. (1983). The Role of Cognitive Operations in the Development of Gender Constancy. https://eric.ed.gov/?id=ED233823
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 In the randomized training study, conservation training versus the drawing control on posttest 1 gender scores "failed to reach significance (p (.10)"; no effect size was printed.
 

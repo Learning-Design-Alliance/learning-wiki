@@ -15,12 +15,14 @@ sources:
     author: "Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M."
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The learning cycle is reported as an effective means for learning science concepts and processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Science educators have identified the learning cycle as an effective means for learning science concepts and processes, and for developing reasoning abilities and reducing misconceptions. [→ Reilly 2008](#reilly-2008)
@@ -31,7 +33,7 @@ sources:
 
 Reilly, K., Wooster, B., Andrews, E., Bourdeau, V., Conley, R., & Thompson, M. (2008). Holding onto the GREEN Zone Leader Guide: A Youth Program for the Study and Stewardship of Community Riparian Areas. Bureau of Land Management. https://www.blm.gov/education
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The guide asserts, citing a 4-H SERIES curriculum introduction, that the learning cycle has proven effective for learning science concepts and processes. No evidence or study is presented in this document for the assertion; it is an attributed rationale for the curriculum's design.
 

@@ -16,7 +16,7 @@ sources:
 # Three classical test theory decision consistency estimation methods differing in assumptions and complexity
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article organizes single-administration decision consistency estimation around three CTT methods: Livingston and Lewis (LL-DC), which assumes a beta-binomial distribution and uses effective test length; Peng-Subkoviak (PS-DC), a normal approximation extending Huynh's procedure; and Wolkowitz (W-DC), which uses 95% confidence intervals about observed scores. The article states "All three methods require total scores, reliability, and the cut score as input," with LL-DC additionally requiring minimum and maximum possible scores. Complexity of understanding ranges from high (LL-DC) to low (W-DC).

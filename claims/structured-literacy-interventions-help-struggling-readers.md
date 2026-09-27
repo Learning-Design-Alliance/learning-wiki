@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 0
     n: 22 RCTs (49 comparisons)
+    kind: quant-synthesis
+    rigour: 2
   - id: stevens-et-al-2021
     resource: "https://doi.org/10.1177/0014402921993406"
     title: "Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S. (2021). Current State of the Evidence: Examining the Effects of Orton-Gillingham Reading Interventions for Students With or at Risk for Word-Level Reading Disabilities. *Exceptional Children, 87*(4), 397–417. [doi:10.1177/0014402921993406](https://doi.org/10.1177/0014402921993406)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 0
     n: 16 studies in meta-analysis (24 identified)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Structured Literacy Interventions Help Struggling Readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i0` negligible
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3`–`q4` · `i0` negligible
 
 Structured literacy — explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding — improves word reading for students who struggle, relative to less explicit or incidental approaches.
 
@@ -43,7 +47,7 @@ Structured literacy — explicit, systematic, cumulative instruction in phonemic
 
 Galuschka, K., Ise, E., Krick, K., & Schulte-Körne, G. (2014). Effectiveness of Treatment Approaches for Children and Adolescents with Reading Disabilities: A Meta-Analysis of Randomized Controlled Trials. *PLoS ONE, 9*(2), e89900. [doi:10.1371/journal.pone.0089900](https://doi.org/10.1371/journal.pone.0089900)
 
-`q4 · meta-analysis of randomized controlled trials` · `i0 · negligible effect, g'=0.198 (95% CI 0.039–0.357)` · `n=22 RCTs (49 comparisons)`
+`q4 · meta-analysis of randomized controlled trials` · `i0 · negligible effect, g'=0.198 (95% CI 0.039–0.357)` · `n=22 RCTs (49 comparisons)` · `quant-synthesis · r2`
 
 Systematic literature search (ERIC, PsycINFO, PubMed, Cochrane, plus unpublished-trial searches) identified 22 RCTs comparing treatments for children/adolescents below the 25th percentile in reading. Across seven treatment categories (phonics, phonemic awareness, reading fluency, reading comprehension, auditory training, medical treatment, coloured overlays/lenses), phonics instruction — 29 of the 49 comparisons — was "the only approach whose efficacy on reading and spelling performance ... is statistically confirmed," with a publication-bias-adjusted effect of g' = 0.198 (95% CI [0.039, 0.357]); the mean effect sizes of every other treatment category did not reach statistical significance. The authors conclude that "systematic instruction of letter-sound-correspondences and decoding strategies, and the application of these skills in reading and writing activities, is the most effective method for improving literacy skills of children and adolescents with reading disabilities."
 
@@ -51,7 +55,7 @@ Systematic literature search (ERIC, PsycINFO, PubMed, Cochrane, plus unpublished
 
 Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S. (2021). Current State of the Evidence: Examining the Effects of Orton-Gillingham Reading Interventions for Students With or at Risk for Word-Level Reading Disabilities. *Exceptional Children, 87*(4), 397–417. [doi:10.1177/0014402921993406](https://doi.org/10.1177/0014402921993406)
 
-`q3 · meta-analysis (mixed RCT/quasi-experimental)` · `i0 · non-significant effects, ES=0.22 (foundational skills) and 0.14 (vocabulary/comprehension)` · `n=16 studies in meta-analysis (24 identified)`
+`q3 · meta-analysis (mixed RCT/quasi-experimental)` · `i0 · non-significant effects, ES=0.22 (foundational skills) and 0.14 (vocabulary/comprehension)` · `n=16 studies in meta-analysis (24 identified)` · `quant-synthesis · r?`
 
 A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 15 studies of quasi-experimental or randomized design) of Orton-Gillingham, described in the paper as "a direct, explicit, multisensory, structured, sequential, diagnostic, and prescriptive approach to reading," for students with or at risk for word-level reading disabilities. The weighted mean effect on foundational-skill outcomes (phonological awareness, phonics, fluency, spelling) was ES = 0.22 (95% CI [−0.33, 0.77]), not statistically significant (p = .40); vocabulary/comprehension outcomes showed ES = 0.14, also non-significant (p = .59). The authors state this "yielded findings lacking support for the effectiveness of Orton-Gillingham interventions" comparable to a prior synthesis and What Works Clearinghouse reports, while noting the mean effect was positive and that more high-quality, adequately powered research is needed.
 

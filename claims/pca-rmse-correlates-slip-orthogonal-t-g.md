@@ -15,12 +15,14 @@ sources:
     author: "Martori, F., Cuadros, J., & González-Sabaté, L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In a preliminary PCA, RMSE is highly correlated with the slip parameter S, while T and G appear orthogonal to RMSE
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` PCA of RMSE and the four BKT parameters shows RMSE highly correlated with slip (S), G and T highly inversely correlated with each other, and T and G orthogonal to RMSE, suggesting T and G may have little or no effect on RMSE variation. [→ Martori 2015](#martori-2015)
@@ -31,7 +33,7 @@ sources:
 
 Martori, F., Cuadros, J., & González-Sabaté, L. (2015). Direct estimation of the minimum RSS value for training Bayesian Knowledge Tracing parameters. Proceedings of the 8th International Conference on Educational Data Mining. https://www.educationaldatamining.org/EDM2015/proceedings/short364-367.pdf
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Exploratory PCA on minimum-RMSE values and BKT parameters from BKT-BF grid results; first two components explain 71.4% of variance. Authors report "RMSE is highly correlated with the slip parameter" and orthogonality between T, G and RMSE.
 

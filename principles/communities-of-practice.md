@@ -17,7 +17,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession. Members do not just exchange information; they build shared language, norms, tools, and standards of practice over time. Learning happens through contribution, observation, feedback, and increasingly central participation in the work of the community.

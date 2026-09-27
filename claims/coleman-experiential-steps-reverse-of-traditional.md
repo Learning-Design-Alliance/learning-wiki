@@ -15,12 +15,14 @@ sources:
     author: Torkington, Kate
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Coleman describes experiential learning steps as almost the reverse of traditional learning steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Coleman (1976) characterises traditional classroom learning as information assimilation and orders experiential learning steps in almost the reverse sequence, starting from action rather than received information. [→ Torkington 1996](#torkington-1996)
@@ -31,7 +33,7 @@ sources:
 
 Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical exposition in the paper's historical overview: Coleman's (1976) comparison, as reported by the author, orders traditional learning from receiving symbolic information to action, while experiential learning proceeds from "action and effects of action" toward application in new circumstances.
 

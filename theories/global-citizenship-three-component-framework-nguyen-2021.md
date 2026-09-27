@@ -16,7 +16,7 @@ sources:
 # Three-component framework of global citizenship: social responsibility, global competence, and global civic engagement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article adopts a conceptual framework in which global citizenship comprises three components. Social responsibility is 'the feeling of being responsible for problems and issues happing across the countries and culture'; global competence is open-mindedness toward other cultures; and global civic engagement is action on issues at local, national, or international levels. Each component is measured by three sub-constructs (e.g., global justice and disparities, altruism and empathy, global interconnectedness and personal responsibility for social responsibility).

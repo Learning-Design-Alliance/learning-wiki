@@ -15,18 +15,22 @@ sources:
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: french-chloe-2026-2
     resource: "https://doi.org/10.1093/ageing/afag291"
     title: "French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291"
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i0`–`i2`
 
 ## Subclaims
 `q3 i2` Participants receiving KOKU had improved (lower) 5-STS time at 12 weeks (mean difference −6.85; 95% CI −10.47, −3.24) and less concern about falling (Short FES-I mean difference −3.11 at 12 weeks) than controls. [→ French Chloe 2026](#french-chloe-2026)
@@ -38,7 +42,7 @@ sources:
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 Secondary outcomes of the same MMRM analysis of the randomised trial at 12 weeks. KOKU participants showed "improved (lower) 5-STS time (seconds)" and reduced Short FES-I scores; EQ-5D-5L also differed significantly at both timepoints.
 
@@ -48,7 +52,7 @@ Secondary outcomes of the same MMRM analysis of the randomised trial at 12 weeks
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Fall counts from self-reported fall calendars over 24 weeks compared by Poisson regression adjusting for baseline values. The trial also found no significant effect on depression risk (GDS), FRAT fall risk, EQ-VAS, PASE or fatigue at 6 or 12 weeks; equivalence was not tested.
 

@@ -15,12 +15,14 @@ sources:
     author: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The microscopic OSA analysis of Starbird's car-distance problem decomposes the intuitive Riemann integral meaning into five epistemic configurations (constant velocity, piecewise constant, variable velocity, space as function of time, integral as limit of sums), each with identifiable objects and processes. [→ Burgos 2021](#burgos-2021)
@@ -31,7 +33,7 @@ sources:
 
 Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Textual analysis (type d/e) of Starbird's (2006) presentation in section 4, using OSA tools. The authors analyze five configurations (EC1–EC5) via Tables 1–5, identifying languages, concepts, propositions, procedures, arguments and processes such as "Particularization", "Generalization" and "Algorithmization" in each.
 

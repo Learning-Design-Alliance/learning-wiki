@@ -15,18 +15,22 @@ sources:
     author: "Pretti, T. J., Etmanski, B., & Drewery, D. W."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
   - id: pretti-2021-2
     resource: "https://eric.ed.gov/?id=EJ1313416"
     title: "Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416"
     author: "Pretti, T. J., Etmanski, B., & Drewery, D. W."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In an online sorting task, 97 WIL educators sorted each of 11 talent labels into its proposed cluster at rates significantly above the 25% chance level (one-sample t-tests, all p < .001). [→ Pretti 2021](#pretti-2021)
@@ -38,7 +42,7 @@ sources:
 
 Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Online sorting study with WIL educators at the University of Waterloo (n = 97) who dragged each talent label into one of four talent clusters with no other information. Table 3 prints one-sample t-tests against .25; e.g., Collaboration 94.7%, t = 30.28, p < .001, supporting the framework's conceptual organization.
 
@@ -48,7 +52,7 @@ Online sorting study with WIL educators at the University of Waterloo (n = 97) w
 
 Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Descriptive range of correct sorts from Table 3 of the same sorting task. The article notes critical thinking was matched with its correct cluster almost twice as frequently as the 25% chance rate, while continuous learning and career development (65.3%) and innovation mindset (64.6%) were mid-range.
 

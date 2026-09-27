@@ -15,12 +15,14 @@ sources:
     author: Zhang Beibei et al
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Self-reported acuity scores after AV were significantly higher than after VS, but the Wilcoxon check did not reach significance. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Paired questionnaire comparison from the 34-student core sample; the Wilcoxon signed-rank check "did not reach statistical significance (z = −1.937, p = 0.053 > 0.05)", so the authors advise caution. Interviews corroborated AV honing detail capture through repeated viewing.
 

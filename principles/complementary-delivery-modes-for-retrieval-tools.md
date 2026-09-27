@@ -17,7 +17,7 @@ sources:
 # Offer multiple delivery modes of a retrieval resource to complement different user needs
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article concludes that the CD-ROM, client/server, and WWW implementations of Entrez "complement, rather than compete with one another": WWW Entrez suits users who prefer a single software tool and can accept slower performance, while Network Entrez is critical for high performance and custom applications. Maintaining alternate implementations also provides a fallback when one service fails for a user.

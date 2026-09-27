@@ -15,12 +15,14 @@ sources:
     author: Cummins, James
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Immersion and submersion programs differ socioculturally, communicating success versus failure to children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Immersion programs communicate to children their success, whereas submersion programs often make children acutely aware of their failure. [→ Cummins 1979](#cummins-1979)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper contrasts the two program types, both involving a home-school language switch. In immersion, teachers know the child's L1 and praise any use of the school language; in submersion, lack of proficiency is often treated as a sign of limited ability and the child's L1 is viewed as an impediment.
 

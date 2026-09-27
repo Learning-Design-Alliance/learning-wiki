@@ -17,7 +17,7 @@ sources:
 # Epistemological Move Analysis (EMA) with five epistemological moves for analyzing a teacher's role in children's learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Epistemological Move Analysis is an analytical approach that analyzes a teacher's role in students' learning process, used in this study to examine how the teacher directed children's learning. The article distinguishes five moves: "(a) instructional moves," which direct children how to act so they can see what is worth noticing; (b) confirming moves; (c) reconstructing moves, giving children opportunity to reflect on experiences; (d) reorienting moves, encouraging another way to deal with the task; and (e) generative moves, enabling children to generate understanding by reporting perceived knowledge.

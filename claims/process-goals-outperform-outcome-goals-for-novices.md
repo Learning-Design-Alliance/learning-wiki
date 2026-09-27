@@ -13,6 +13,8 @@ sources:
     q: 3
     i: "?"
     n: unspecified
+    kind: causal
+    rigour: "?"
   - id: zimmerman-2000
     resource: "https://doi.org/10.1016/B978-012109890-2/50031-7"
     title: "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press. [https://doi.org/10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)"
@@ -20,6 +22,8 @@ sources:
     q: 3
     i: "?"
     n: N/A
+    kind: theoretical
+    rigour: "?"
 id: process-goals-outperform-outcome-goals-for-novices
 evidence_strength: moderate
 ---
@@ -27,7 +31,7 @@ evidence_strength: moderate
 # Process goals lead to better skill acquisition for novices than outcome goals.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r?` · `q3`
 
 In the initial stages of learning complex tasks, focusing on the specific techniques or steps (process goals) is more effective for building expertise than focusing solely on the final result (outcome goals).
 
@@ -43,7 +47,7 @@ Primary evidence link: https://doi.org/10.1037/0022-0663.91.2.241
 
 Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)
 
-`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=unspecified`
+`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=unspecified` · `causal · r?`
 
 This study examined high-schoolers learning writing revision skills. Students who were assigned process goals (focusing on the strategy) outperformed those assigned outcome goals (focusing on the final score). The results also suggested that once a skill is mastered, shifting to outcome goals can be beneficial.
 
@@ -51,7 +55,7 @@ This study examined high-schoolers learning writing revision skills. Students wh
 
 Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press. [https://doi.org/10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)
 
-`q3 · theoretical book chapter with empirical synthesis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A`
+`q3 · theoretical book chapter with empirical synthesis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `theoretical · r?`
 
 Zimmerman provides a robust theoretical framework for self-regulated learning (SRL), synthesizing multiple studies (including his work on dart-throwing) that demonstrate the superiority of process goals during early skill acquisition.
 

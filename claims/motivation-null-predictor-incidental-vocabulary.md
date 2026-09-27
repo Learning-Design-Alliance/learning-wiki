@@ -15,12 +15,14 @@ sources:
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: 0
+    kind: associational
+    rigour: 1
 ---
 
 # Motivation did not significantly predict L2 incidental vocabulary acquisition through reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Motivation was not a significant predictor of incidental vocabulary acquisition (β = .02, p > .05). [→ Zhao 2016](#zhao-2016)
@@ -31,7 +33,7 @@ sources:
 
 Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
 
-`q2 · i0`
+`q2 · i0` · `associational · r1`
 
 In the multiple linear regression (N = 129), motivation measured by the MIVLS (self-efficacy, intrinsic and extrinsic subscales, α = 0.78) was not significant: "β = .02, t = 0.17, p > .05".
 

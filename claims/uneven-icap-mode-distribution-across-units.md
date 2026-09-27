@@ -15,12 +15,14 @@ sources:
     author: "Pollard, V. & Armatas, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The audit found an uneven distribution of ICAP modes across the eight units, with some units Interactive and some entirely Passive. [→ Pollard 2025](#pollard-2025)
@@ -31,7 +33,7 @@ sources:
 
 Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Course-level audit of eight asynchronous online units. The authors report that "an uneven distribution of modes was found" across units, attributing this partly to the design template and partly to development time pressures.
 

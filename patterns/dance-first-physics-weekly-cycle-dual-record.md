@@ -17,7 +17,7 @@ sources:
 # Weekly dance-first-then-physics cycle with dual experimental and experiential records
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Each one-week section follows a fixed structure: Tuesday reading and quiz-led lecture introducing concepts, Wednesday dance-studio lab with choreographed movement and journal reflection, Thursday data analysis connecting results to the physics. Students keep a laboratory notebook holding both an experimental record and an experiential reflection; the authors say "The point of this “dual” record is to help students connect personal experience and sensation (the dance) with objective scientific observation (the physics)."

@@ -15,12 +15,14 @@ sources:
     author: Darcy, I.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teachers value pronunciation instruction highly but report seldom teaching it and low satisfaction with how they teach it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a survey of 14 Intensive English Program instructors, teachers believed pronunciation instruction plays a crucial role, yet reported seldom teaching it, and only two of 14 were satisfied with their pronunciation teaching. [→ Darcy 2018](#darcy-2018)
@@ -31,7 +33,7 @@ sources:
 
 Darcy, I. (2018). Powerful and effective pronunciation instruction: How can we achieve it? The CATESOL Journal, 30(1). http://languageinstinct.blogspot.com/2006/09/what-is-clt.html
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Small-scale survey of teachers' practices and beliefs about pronunciation in the Intensive English Program at Indiana University; 14 surveys were completed by instructors. The article reports that "Only two out of 14 respondents indicated that they were satis - fied with their pronunciation teaching," while the group believed pronunciation plays a crucial role.
 

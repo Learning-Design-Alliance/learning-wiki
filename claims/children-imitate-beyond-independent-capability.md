@@ -15,12 +15,14 @@ sources:
     author: Seng, Seok-Hoon
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Children can imitate a series of actions far beyond the boundaries of their own possibilities, though not infinitely, which is what makes teaching effective. [→ Seng 1997](#seng-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument reported in this review paper, attributed to Vygotsky via van der Veer and Valsiner (1991), contrasting human imitational capacity with animals confined to the zone of actual development. The paper presents it as Vygotsky's claim against a mechanical view of imitation.
 

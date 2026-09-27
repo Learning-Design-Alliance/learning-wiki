@@ -15,12 +15,14 @@ sources:
     author: Felton, Victoria; Petersen, Rosemary
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Egocentric speech, up to about 40% of preoperational children's talk, serves to attach words to actions and should not be discouraged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Egocentric speech may comprise as much as 40% of the total talk of preoperational children and serves the important function of attaching verbal signs to the actions and concepts the child is working with. [→ Felton 1976](#felton-1976)
@@ -31,7 +33,7 @@ sources:
 
 Felton, Victoria; Petersen, Rosemary. (1976). Piaget: A Handbook for Parents and Teachers of Children in the Age of Discovery--Preschool Through Third Grade. https://eric.ed.gov/?id=ED131912
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The handbook's language-development section distinguishes communicative speech (transmitting information, asking questions, roughly 60% of verbalizations) from egocentric speech (a monologue as the child plays, roughly 40%). It argues egocentric speech helps internalize actions so the child can deal with them more abstractly. Figures are the handbook's own approximations, not study statistics.
 

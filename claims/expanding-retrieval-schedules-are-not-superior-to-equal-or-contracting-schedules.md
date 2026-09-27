@@ -15,24 +15,30 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-3
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports that Karpicke and Bauernschmidt (2011) found no discernable difference among expanding, equally spaced, and contracting relative spacing conditions. [→ Karpicke 2017](#karpicke-2017)
@@ -45,7 +51,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Karpicke and Bauernschmidt (2011), which minimized differences in initial retrieval success: "there was no discernable difference between the three relative spacing conditions". No test statistic is printed; equivalence was not tested.
 
@@ -55,7 +61,7 @@ The chapter reports Karpicke and Bauernschmidt (2011), which minimized differenc
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Kang et al. (2014), with sessions spaced 2-6-19 or 9-9-9 days and a test 56 days later: "Kang et al. found a 3% advantage of the expanding schedule relative to the equally spaced schedule", not significant.
 
@@ -65,7 +71,7 @@ The chapter reports Kang et al. (2014), with sessions spaced 2-6-19 or 9-9-9 day
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports Kupper-Tetzel et al. (2014), with relearning sessions expanding, equal, or contracting: "they found no evidence for the superiority of an expanding retrieval schedule"; expanding and equal were best at 35 days.
 

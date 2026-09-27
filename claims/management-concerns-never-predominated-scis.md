@@ -15,12 +15,14 @@ sources:
     author: Loucks, Susan F.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Contrary to expectation and to prior studies such as team teaching, Stage 3 Management concerns never predominated for any group in the SCIS study. [→ Loucks 1977](#loucks-1977)
@@ -31,7 +33,7 @@ sources:
 
 Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Unexpected finding from the longitudinal SCIS SoCQ analyses, where "Management concerns (SoC 3) never-predominated for any group." The author offers two interpretations: the workshop may have resolved management concerns before use began, or management concerns were not aroused until actual use began and were resolved by January.
 

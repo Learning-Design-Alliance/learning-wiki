@@ -15,24 +15,30 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: malhotra-s-2007-2
     resource: "https://eric.ed.gov/?id=EJ896858"
     title: "Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858"
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: malhotra-s-2007-3
     resource: "https://eric.ed.gov/?id=EJ896858"
     title: "Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858"
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Affective, developmental and emotional disorder registrations rose while mental retardation registrations fell over 26 years; pervasive developmental disorder registrations fell between Periods II and III
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Registrations with affective disorders increased significantly (F=32.09, p<0.001; III>II>I), as did disorders of psychological development (F=11.47, p<0.001) and emotional disorders (F=4.61, p<0.05). [→ Malhotra S 2007](#malhotra-s-2007)
@@ -45,7 +51,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Diagnostic trend analysis (Table 2) of the 26-year clinic audit, using ANOVA/independent t-tests with Scheffe post-hoc comparisons. Mean annual affective disorder cases rose from 2.00 (Period I) to 13.49 (Period III); the article reports "an increase in the number of registrations with affective disorders (F=32.09, p<0.001)".
 
@@ -55,7 +61,7 @@ Diagnostic trend analysis (Table 2) of the 26-year clinic audit, using ANOVA/ind
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same Table 2 diagnostic trend analysis. Mean annual mental retardation cases fell from 76.40 (Period I) to 41.49 (Period III). For pervasive developmental disorder (autism), Table 2 marks Period I data as not available (NA, 1980-1991), so the printed decrease (t=2.04, p<0.05) is demonstrable between Period II (17.62) and Period III (7.99) only.
 
@@ -65,7 +71,7 @@ Same Table 2 diagnostic trend analysis. Mean annual mental retardation cases fel
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same Table 2 diagnostic trend analysis. Mean annual schizophrenia and psychotic disorder cases rose from 3.80 (Period I) to 7.49 (Period II) and 6.83 (Period III); the article reports an increase "during period II compared to period I (F=4.51, p<005; Scheefe's test II>I)".
 

@@ -15,12 +15,14 @@ sources:
     author: Ehsan Rassaei, Ahmad Moinzadeh
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The metalinguistic group's performance declined sharply from post-test to delayed post-test, while the recast group's gains held, making the recast effect more stable. [→ Ehsan Rassaei 2011](#ehsan-rassaei-2011)
@@ -31,7 +33,7 @@ sources:
 
 Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Figure 1 plots mean total grammaticality judgment performance across the three testing periods for the four groups; the text reports "a sharp decline in metalinguistic group's test performance from post-test to delayed post-test" while recast gains held (delayed means 15.31 recasts vs 15.44 metalinguistic).
 

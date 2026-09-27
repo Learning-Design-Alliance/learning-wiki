@@ -15,12 +15,14 @@ sources:
     author: Honglan Wei
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # English-major seniors report writing classes receive inadequate attention and are tied to test preparation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Senior English majors report that writing classes were offered only around the TEM4 exam period and disappeared afterwards, indicating inadequate institutional attention to writing. [→ Honglan Wei 2018](#honglan-wei-2018)
@@ -31,7 +33,7 @@ sources:
 
 Honglan Wei. (2018). Implication of Output Hypothesis on Teaching College English Writing ------Based on an interview in JiangXi Normal University. World Journal of Education, 8(5). https://doi.org/10.5430/wje.v8n5p198
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview finding from the semi-structured interviews with English-major seniors at JiangXi Normal University. Student A reported no freshman writing class and that classes appeared only for TEM4 preparation; other students said classes stopped after TEM4. The article also notes focus on argumentative compositions suited to tests, with little practice of applicable styles.
 

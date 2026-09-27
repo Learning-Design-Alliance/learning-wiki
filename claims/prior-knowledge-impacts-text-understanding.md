@@ -15,12 +15,14 @@ sources:
     author: "Pilgrim, J. M., & Pilgrim, J."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Students' prior knowledge about a topic impacts their understanding of text as they read
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students with considerable prior knowledge can problem-solve more effectively, focus on what is important, and ask relevant questions, while those with inadequate prior knowledge struggle to distinguish relevant from irrelevant material. [→ Pilgrim 2016](#pilgrim-2016)
@@ -31,7 +33,7 @@ sources:
 
 Pilgrim, J. M., & Pilgrim, J. (2016). The use of virtual reality tools in the reading-language arts classroom. Texas Journal of Literacy Education, 4(2). https://portal.issn.org/resource/ISSN/2374-7404
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article asserts, citing prior literature (Richardson, Morgan, & Fleener; Sousa; Marzano), that "Evidence of the importance of prior knowledge in reading comprehension is well-documented." No new empirical data are reported; this is a synthesis statement.
 

@@ -16,6 +16,8 @@ sources:
     q: 3
     i: "?"
     n: N/A (narrative synthesis of the field)
+    kind: review
+    rigour: 3
   - id: rogowsky-et-al-2020
     resource: "https://doi.org/10.3389/fpsyg.2020.00164"
     title: "Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing Instruction Based on Students' Learning Style Preferences Does Not Improve Learning. *Frontiers in Psychology, 11*, 164. [doi:10.3389/fpsyg.2020.00164](https://doi.org/10.3389/fpsyg.2020.00164)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: "?"
     n: 125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)
+    kind: causal
+    rigour: 2
 ---
 
 # Learning Styles Matching Does Not Improve Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 1 causal `r2`, 1 review `r3` · `q3`
 
 Matching instruction to a learner's purported "learning style" (visual, auditory, kinesthetic, etc.) does not improve learning outcomes; learners learn best when content is matched to the *nature of the material*, not to a self-reported style preference.
 
@@ -44,7 +48,7 @@ Matching instruction to a learner's purported "learning style" (visual, auditory
 
 Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning Styles: Concepts and Evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. [doi:10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x)
 
-`q3 · systematic review of the learning-styles literature` · `i? · no aggregate effect size reported` · `n=N/A (narrative synthesis of the field)`
+`q3 · systematic review of the learning-styles literature` · `i? · no aggregate effect size reported` · `n=N/A (narrative synthesis of the field)` · `review · r3`
 
 The authors specify that validating learning-style-based instruction requires a "crossover interaction" — style A learners must do best under method 1 while style B learners do best under method 2, using a design where learners are classified by style, randomly assigned to matched or mismatched instruction, and given a common assessment. Searching the literature for studies meeting this design, they found only one that even potentially qualified, and its evidence was weak; several well-designed studies instead found evidence *contradicting* the hypothesis. They conclude that instruction should follow the content's demands (e.g., visual material for geometry, verbal for writing), not a learner's self-reported style.
 
@@ -52,7 +56,7 @@ The authors specify that validating learning-style-based instruction requires a 
 
 Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing Instruction Based on Students' Learning Style Preferences Does Not Improve Learning. *Frontiers in Psychology, 11*, 164. [doi:10.3389/fpsyg.2020.00164](https://doi.org/10.3389/fpsyg.2020.00164)
 
-`q3 · randomized experiment (crossover-interaction design following Pashler et al.'s own criteria)` · `i? · no standardised effect size reported; interaction F(1,38)=1.16, p=0.29` · `n=125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)`
+`q3 · randomized experiment (crossover-interaction design following Pashler et al.'s own criteria)` · `i? · no standardised effect size reported; interaction F(1,38)=1.16, p=0.29` · `n=125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)` · `causal · r2`
 
 125 fifth graders (ages 10–11) in a Pennsylvania public school were classified as auditory or visual learners via a standardized learning-style inventory, then given listening- and reading-comprehension tests. A mixed-design ANOVA testing whether learning style predicted which modality a student comprehended better found no learning-style-by-modality interaction (F(1,38)=1.16, p=0.29) — visual learners scored significantly higher on *both* listening and reading comprehension (main effect of style, F(1,32)=12.92, p=0.001, η²=0.29) rather than showing the crossover the [meshing hypothesis](../theories/dual-coding-theory.md) predicts. This replicates the earlier adult study (Rogowsky, Calhoun & Tallal, 2015) with a school-age population.
 

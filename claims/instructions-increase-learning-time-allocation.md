@@ -15,12 +15,14 @@ sources:
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In Experiment 1 the instructed group spent more minutes learning than controls, and learning time correlated strongly with successful recall trials per item. [→ Ariel 2018](#ariel-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 1 time-allocation analysis: instructed group M = 21.89 minutes versus control M = 15.55, t(58) = 3.06, p < .01, d = 0.79. In Experiment 2 the groups did not differ in the initial session but did in the transfer session (d = 0.73), with correlations of r = .72 and r = .68.
 

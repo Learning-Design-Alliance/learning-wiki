@@ -15,12 +15,14 @@ sources:
     author: Liang, Li, Hsu and Xu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` AIGC feedback quality strongly predicts satisfaction (β = 0.712, p < 0.001). [→ Liang 2026](#liang-2026)
@@ -33,7 +35,7 @@ sources:
 
 Liang, Li, Hsu and Xu. (2026). AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1800950
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 PLS-SEM path tests in the 689-student survey. The quote reports the significant feedback-quality→satisfaction path and the non-significant feedback-quality→self-efficacy path; the satisfaction→SRL path (β = 0.032, p > 0.05) was also non-significant, so H5 was not supported. Equivalence was not tested.
 

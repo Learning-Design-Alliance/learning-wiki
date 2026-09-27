@@ -15,12 +15,14 @@ sources:
     author: "Grădinariu, T., & Assante, G. M."
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Strong positive correlations were obtained between perceived severity and probability of reaction towards aggressors and victims in all three bullying types; for victims of relational aggression, r = .557. [→ Grădinariu 2021](#gradinariu-2021)
@@ -31,7 +33,7 @@ sources:
 
 Grădinariu, T., & Assante, G. M. (2021). An Exploratory Factor Analysis and Reliability Analysis of the Perceived Severity and Response to Bullies and Victims of Bullying Questionnaire. Journal of Educational Sciences. https://doi.org/10.35923/JES.2021.2.03
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Preliminary correlational analysis in the Results section of the teacher sample. The article reports that "In all three situations of aggression examined (physical, verbal and relational) we obtained strong correlations" between perceived severity and probability of reaction, with r = .557 for relational-aggression victims.
 

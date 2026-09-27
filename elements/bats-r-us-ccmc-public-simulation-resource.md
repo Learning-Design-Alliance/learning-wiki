@@ -17,7 +17,7 @@ sources:
 # BATS-R-US global MHD simulations run through NASA's Community Coordinated Modeling Center as a public undergraduate lab resource
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 BATS-R-US (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) solves the 3D magnetohydrodynamics equations in finite volume form using Roe's Approximate Riemann Solver on an adaptive grid. Students run it on NASA supercomputers at the CCMC, where simulation runs can be requested by the public and results explored and visualized through a standard web browser. The authors note the CCMC resources allow access to powerful simulations without local supercomputer hardware or installing and maintaining simulation codes, and that thorough documentation makes explaining run requests relatively easy.

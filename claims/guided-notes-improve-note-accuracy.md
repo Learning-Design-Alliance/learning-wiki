@@ -15,6 +15,8 @@ sources:
     q: 4
     i: "?"
     n: N/A
+    kind: quant-synthesis
+    rigour: "?"
   - id: chen-et-al-2016
     resource: "https://doi.org/10.1007/s12144-016-9459-6"
     title: "Chen, P.-H., Teo, T., & Zhou, M. (2016). Effects of guided notes on enhancing college students' lecture note-taking quality and learning performance. *Current Psychology, 36*(4), 719–732. [doi:10.1007/s12144-016-9459-6](https://doi.org/10.1007/s12144-016-9459-6)"
@@ -22,12 +24,14 @@ sources:
     q: 2
     i: "?"
     n: 65 undergraduates
+    kind: causal
+    rigour: "?"
 ---
 
 # Guided Notes Improve Note Accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q4`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4`
 
 Guided notes are instructor-prepared lecture outlines that cue students to record key information, leaving gaps for learners to complete. The claim is that this scaffolding produces more complete and more accurate notes than unstructured note-taking.
 
@@ -43,7 +47,7 @@ Guided notes are instructor-prepared lecture outlines that cue students to recor
 
 Konrad, M., Joseph, L. M., & Eveleigh, E. (2009). A meta-analytic review of guided notes. *Education and Treatment of Children, 32*(3), 421–444. [doi:10.1353/etc.0.0066](https://doi.org/10.1353/etc.0.0066)
 
-`q4 · meta-analytic review` · `i? · no pooled effect size reported in the accessible record` · `n=N/A`
+`q4 · meta-analytic review` · `i? · no pooled effect size reported in the accessible record` · `n=N/A` · `quant-synthesis · r?`
 
 This meta-analysis synthesized research on guided notes — instructor-prepared lecture handouts with blanks that cue students to record key content during teacher-directed lectures — examining their effectiveness across outcome variables and student ages, procedural variations in implementation, and social validity. The review concluded that guided notes are an effective and socially valid method for increasing note-taking accuracy and improving academic performance, particularly for school-age students, and offered recommendations for classroom practice. Only the ERIC abstract/description was accessible (the Project MUSE full text and Unpaywall/Semantic Scholar lookups returned no open-access copy), so no quantitative pooled effect size could be verified from the source itself.
 
@@ -51,7 +55,7 @@ This meta-analysis synthesized research on guided notes — instructor-prepared 
 
 Chen, P.-H., Teo, T., & Zhou, M. (2016). Effects of guided notes on enhancing college students' lecture note-taking quality and learning performance. *Current Psychology, 36*(4), 719–732. [doi:10.1007/s12144-016-9459-6](https://doi.org/10.1007/s12144-016-9459-6)
 
-`q2 · quasi-experimental (pretest–posttest–delayed-posttest, two intact classes)` · `i? · no standardized effect size reported in the accessible abstract` · `n=65 undergraduates`
+`q2 · quasi-experimental (pretest–posttest–delayed-posttest, two intact classes)` · `i? · no standardized effect size reported in the accessible abstract` · `n=65 undergraduates` · `causal · r?`
 
 Sixty-five undergraduates across two intact psychology classes were assigned by class to an experimental group (outline notes plus guided-note handouts, completed during lecture) or a control group (outline notes only, no guided blanks). In the delayed posttest, the experimental group outperformed the control group on the quality of their lecture notes, and outperformed it on learning performance at both the immediate and delayed posttests; the experimental group also reported more positive attitudes toward the guided-notes format. Only the publisher's abstract was accessible (Unpaywall found no open-access location and the Springer article page renders as a paywalled "Buy article" view), so no effect-size statistics beyond the directional findings above could be verified from the source itself.
 

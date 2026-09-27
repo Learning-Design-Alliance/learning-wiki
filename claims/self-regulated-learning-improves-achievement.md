@@ -16,6 +16,8 @@ sources:
     q: 4
     i: 2
     n: 84 studies (357 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: dent-koenka-2016
     resource: "https://doi.org/10.1007/s10648-015-9320-8"
     title: "Dent, A. L., & Koenka, A. C. (2016). The relation between self-regulated learning and academic achievement across childhood and adolescence: A meta-analysis. *Educational Psychology Review, 28*(3), 425–474. [doi:10.1007/s10648-015-9320-8](https://doi.org/10.1007/s10648-015-9320-8)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: 1
     n: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Self-regulated learning improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1`–`i2`
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1`–`i2`
 
 Learners who plan, monitor, and evaluate their own learning — and who are explicitly taught to do so — achieve better outcomes than learners who study the same material without these self-regulatory processes.
 
@@ -44,7 +48,7 @@ Learners who plan, monitor, and evaluate their own learning — and who are expl
 
 Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students. A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231–264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 
-`q4 · meta-analysis of intervention studies` · `i2 · medium-to-large effect, average ES = 0.69` · `n=84 studies (357 effect sizes)`
+`q4 · meta-analysis of intervention studies` · `i2 · medium-to-large effect, average ES = 0.69` · `n=84 studies (357 effect sizes)` · `quant-synthesis · r?`
 
 Two separate meta-analyses pooled self-regulated learning training studies: 49 with primary school students and 35 with secondary school students, 357 effect sizes in all. Outcomes were academic performance, strategy use and motivation, and the 0.69 average covers all three together. The abstract does not give a separate figure for achievement. Meta-regression found larger effects when researchers, not regular teachers, delivered the training, and in mathematics compared with reading/writing or other subjects. The theory behind the programme and the type of strategy taught had different effects at the two school levels. Read as abstract only.
 
@@ -52,7 +56,7 @@ Two separate meta-analyses pooled self-regulated learning training studies: 49 w
 
 Dent, A. L., & Koenka, A. C. (2016). The relation between self-regulated learning and academic achievement across childhood and adolescence: A meta-analysis. *Educational Psychology Review, 28*(3), 425–474. [doi:10.1007/s10648-015-9320-8](https://doi.org/10.1007/s10648-015-9320-8)
 
-`q3 · meta-analysis of correlational studies` · `i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies)` · `n=?`
+`q3 · meta-analysis of correlational studies` · `i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies)` · `n=?` · `quant-synthesis · r?`
 
 Two meta-analyses of elementary and secondary school students related achievement to (1) metacognitive processes of self-regulated learning and (2) use of cognitive strategies. Both overall correlations were small: r = 0.20 for metacognitive processes and r = 0.11 for cognitive strategies. The correlations differed significantly by the specific process or strategy, academic subject, grade level, type of SRL measure and type of achievement measure. This is the correlational arm of the claim. It supports a real but modest association, not a causal effect. The number of studies was not in the abstract. Read as abstract only.
 

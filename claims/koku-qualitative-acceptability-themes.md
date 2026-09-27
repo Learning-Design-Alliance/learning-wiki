@@ -15,18 +15,22 @@ sources:
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: french-chloe-2026-2
     resource: "https://doi.org/10.1093/ageing/afag291"
     title: "French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291"
     author: French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma
     q: 2
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Older adults found KOKU easy to use including those with lower digital literacy, with eCoach demonstrations enhancing confidence and motivation; some faced technical glitches and unclear exercise dosage that reduced motivation. [→ French Chloe 2026](#french-chloe-2026)
@@ -38,7 +42,7 @@ sources:
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Reflexive thematic analysis (Braun and Clarke six-phase approach) of 20 semi-structured interviews and one focus group with 13 older adults purposively sampled for diversity; interviews were conducted by researchers not involved in delivering KOKU to the included participants.
 
@@ -48,7 +52,7 @@ Reflexive thematic analysis (Braun and Clarke six-phase approach) of 20 semi-str
 
 French Chloe, Parchment Amelia, Odebiyi Bolanle, Shi Chunhu, Bashir Saima, Dowding Dawn, Kislov Roman, Thompson Alexander, Skelton Dawn A, Clarke Margaret, Sylvestre Garcia Yvonne, Ahmed Saima S, Todd Chris J, Bower Peter, Stanmore Emma. (2026). Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial. Age and Ageing. https://doi.org/10.1093/ageing/afag291
 
-`q2 · i?`
+`q2 · i?` · `causal · r3`
 
 Theme 3 from older-adult interviews and Theme 2 from care-provider interviews (13 older adults, 10 social care staff): several staff felt KOKU felt relatable only to White Caucasian older adults and suggested cultural adaptation to enhance inclusivity.
 

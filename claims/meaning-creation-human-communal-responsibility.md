@@ -15,12 +15,14 @@ sources:
     author: Gough, Noel; Kesson, Kathleen
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Premodern mythologies and postmodern physics accept that creating meaning in the world is a human and communal responsibility, something the narratives of modern science fail to do. [→ Gough 1992](#gough-1992)
@@ -31,7 +33,7 @@ sources:
 
 Gough, Noel; Kesson, Kathleen. (1992). Body and Narrative as Cultural Text: Toward a Curriculum of Continuity and Connection. https://eric.ed.gov/?id=ED347544
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument opening the 'What are we to do?' section. The authors illustrate with Watson's account of Yolngu people who "continue to sing the world into existence as an everyday activity", and argue that most people in modern Western societies have abrogated this responsibility by uncritically accepting the world Bacon, Descartes and Newton 'sang' into existence.
 

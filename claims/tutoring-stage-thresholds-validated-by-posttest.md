@@ -15,12 +15,14 @@ sources:
     author: Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Posttest credit rose significantly from active-acquisition items (P, 16.3%) to short-term-memory items (S, 28.7%, p < 0.01, one-tailed) and again to long-term-memory items (L, 50.1%, p < 0.001, one-tailed), but control-group items did not differ significantly from P items. [→ Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](#evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016)
@@ -31,7 +33,7 @@ sources:
 
 Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova. (2016). The effectiveness of computer-based spaced repetition in foreign language vocabulary instruction: a double-blind study. calico journal vol 33.3. https://doi.org/10.1558/cj.v33i3.26055
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 The same double-blind randomized study's posttest analysis of lexical-unit statuses in student models. The authors state this "provides support for the criteria that were chosen for moving lexical units from P to S" and from S to L. No effect size was printed.
 

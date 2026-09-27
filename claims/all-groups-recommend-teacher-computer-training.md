@@ -15,12 +15,14 @@ sources:
     author: "Sarfo, F. K., & Ansong-Gyimah, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # All three participant groups commonly recommend training teachers to use the computer to support their teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No significant difference was found among groups' recommendations, with 35% of participants generally accepting that teachers should be trained to use computer to support their teaching. [→ Sarfo 2010](#sarfo-2010)
@@ -31,7 +33,7 @@ sources:
 
 Sarfo, F. K., & Ansong-Gyimah, K. (2010). The perceptions of students, teachers, and educational officers in Ghana on the role of computer and the teacher in promoting the first five principles of instruction. The Turkish Online Journal of Educational Technology, 9(3). https://www.tojet.net
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Recommendation question in the same Ghana survey of 395 participants: 39% of students, 36% of teachers, and 31% of education officers selected training teachers to use computer to support their teaching; the chi-square test found no significant difference among groups.
 

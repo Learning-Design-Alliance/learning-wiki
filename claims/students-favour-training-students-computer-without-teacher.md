@@ -15,12 +15,14 @@ sources:
     author: "Sarfo, F. K., & Ansong-Gyimah, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # More students than teachers and education officers recommend training students to use the computer to learn without the teacher
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A significant difference in recommendations showed more students than teachers and education officers accepted that students should be trained to use the computer without the teacher. [→ Sarfo 2010](#sarfo-2010)
@@ -31,7 +33,7 @@ sources:
 
 Sarfo, F. K., & Ansong-Gyimah, K. (2010). The perceptions of students, teachers, and educational officers in Ghana on the role of computer and the teacher in promoting the first five principles of instruction. The Turkish Online Journal of Educational Technology, 9(3). https://www.tojet.net
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Recommendation question in the same Ghana survey: 43% of students, 19% of teachers, and 30% of education officers selected training students to learn without the teacher. The article reports "χ2 (4, N = 92) = 10. 97, p =0.5" as a significant difference.
 

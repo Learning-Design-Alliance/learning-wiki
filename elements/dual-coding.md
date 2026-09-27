@@ -12,7 +12,7 @@ generated:
 # Dual Coding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Dual coding is the element in which verbal and visual representations are used together to support understanding and memory.

@@ -15,12 +15,14 @@ sources:
     author: Tetiana Zubenko, Allan Shwedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After subtracting oral comprehension scores from each student's total, the LWPA group still outperformed the Comparison group on literacy components (Tukey/Kramer Q-stat = 3.01, p = .038). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)
@@ -31,7 +33,7 @@ sources:
 
 Tetiana Zubenko, Allan Shwedel. (2019). Integrating mobile listening and physical activity to facilitate intentional and incidental vocabulary acquisition. Advanced Education, Special Issue 11. https://doi.org/10.20535/2410-8286.165717
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Post-hoc analysis of the End-of-Unit results controlling for oral comprehension by subtracting those scores from each student's total. The Tukey/Kramer HSD test showed the LWPA group "outperformed the Comparison group on literacy components" (Q-stat = 3.01, df = 49, p = .038).
 

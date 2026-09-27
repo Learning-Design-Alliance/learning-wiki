@@ -17,7 +17,7 @@ sources:
 # Pre-visit, on-site, post-visit field-trip activity arc
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The Sea Turtle Trek packet structures a park field trip as three sequential activity phases: classroom preparation before the trip, hands-on activities conducted at the park, and classroom follow-up afterward. The guide states that "The packet includes three types of activities: 1) pre-visit activity 2) on-site activity 3) post-visit activity," with the on-site activities conducted at the park and the others in the classroom. The phases may be used together or separately.

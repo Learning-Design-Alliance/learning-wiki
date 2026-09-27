@@ -15,12 +15,14 @@ sources:
     author: "Carmouche, M., & Thompson, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Studies coaching fidelity of implementation of specific academic tasks met more quality indicators and demonstrated more immediate and sustained positive outcomes than studies targeting teacher-specific behaviors such as praise. [→ Carmouche 2018](#carmouche-2018)
@@ -31,7 +33,7 @@ sources:
 
 Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review discussion comparing quality-indicator adherence across the 16 studies. The authors suggest the discrepancy may exist because it is easier to measure data on a specific academic task than on teacher-specific behaviors.
 

@@ -15,12 +15,14 @@ sources:
     q: 4
     i: "?"
     n: 108 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Mastery Learning Improves Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · n=108 studies
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=108 studies
 
 When learners must demonstrate mastery of each unit before advancing, achievement improves relative to time-fixed, group-paced instruction. The mechanism is holding learning constant and varying time, rather than holding time constant and varying learning.
 
@@ -34,7 +36,7 @@ When learners must demonstrate mastery of each unit before advancing, achievemen
 
 Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.2307/1170612](https://doi.org/10.2307/1170612)
 
-`q4 · meta-analysis (108 controlled evaluations)` · `i? · no pooled effect size reported in what was read` · `n=108 studies`
+`q4 · meta-analysis (108 controlled evaluations)` · `i? · no pooled effect size reported in what was read` · `n=108 studies` · `quant-synthesis · r?`
 
 This meta-analysis pooled 108 controlled evaluations of mastery learning programs at the college, high-school and upper-elementary levels. It reports that mastery programs had positive effects on examination performance, that the effects appear stronger for the weaker students in a class and vary with the mastery procedures used, the studies' designs and course content, that mastery programs have positive effects on attitudes toward course content and instruction but may increase student time on instructional tasks, and that self-paced mastery programs often reduce completion rates in college classes. Only the abstract was available for this entry; the full JSTOR text could not be retrieved (returned a bot-challenge page), so no pooled *d* or confidence interval is asserted here — see Discussion's existing note that a numeric effect size is still needed.
 

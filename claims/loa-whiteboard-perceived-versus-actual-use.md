@@ -15,12 +15,14 @@ sources:
     author: "Orr, D., & Mrazek, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Changes in reported interactive whiteboard adoption between the August and December surveys provoked questions about participants' perceptions of a technology's potential use versus their actual use once back in schools. [→ Orr 2009](#orr-2009)
@@ -31,7 +33,7 @@ sources:
 
 Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive analysis of whiteboard adoption (n=15) showed reported levels in the orientation and preparation range shifting between the August and December surveys; the authors note an increase in respondents reporting collaborative adoption at the integration level for both whiteboard and LMS technologies.
 

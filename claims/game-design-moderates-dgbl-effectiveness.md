@@ -15,12 +15,14 @@ sources:
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 
 ## Subclaims
 `q2 i?` DGBL efficiency depends on game design rather than learner age or linguistic background, with adventure-oriented games more efficient than non-adventure-based games. [→ A. Pradheepa 2025](#a-pradheepa-2025)
@@ -31,7 +33,7 @@ sources:
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 The review reports, citing Chen et al. (2018), that game design rather than learner age or linguistic background drives DGBL efficiency, and that adventure-oriented games offering insoluble problems and strategic planning are more efficient than non-adventure-based games.
 

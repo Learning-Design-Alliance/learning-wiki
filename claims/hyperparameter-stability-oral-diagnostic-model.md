@@ -15,12 +15,14 @@ sources:
     author: Chai Rui
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Sensitivity analysis over attention heads, hidden dimensions, and dropout rates showed relatively stable performance across moderate ranges, with 8 attention heads and hidden dimension 512 optimal. [→ Chai Rui 2026](#chai-rui-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chai Rui. (2026). Deep learning-based intelligent diagnosis and adaptive training system for university english oral proficiency. Scientific Reports. https://doi.org/10.1038/s41598-026-51608-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Hyperparameter sensitivity analysis of the diagnostic model, presented in Fig. 5 across attention heads, hidden dimensions, and dropout rates. The article reports that "performance remained relatively stable across moderate hyperparameter ranges, with attention head count of 8 and hidden dimension of 512 yielding optimal results."
 

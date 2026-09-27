@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 1
     n: "28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small · n=28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)
+> **Evidence** · 1 study · qualitative `r2` · `q2` · `i1` small · n=28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)
 
 Across a 4-week statistical modeling unit taught by a teacher with no specialized statistics training, nearly all identified classroom episodes involving one of four foundational modeling aspects also included an explicit, identifiable form of dialogic teacher support for that aspect, and students showed qualitative progress on all four aspects by the unit's end.
 
@@ -37,7 +39,7 @@ Across a 4-week statistical modeling unit taught by a teacher with no specialize
 
 Wisittanawat, P., & Lehrer, R. (2024). Teacher Cultivation of Classroom Statistical Modeling Practice: A Case Study. *Cognition and Instruction, 42*(4), 505-547. [https://doi.org/10.1080/07370008.2024.2397969](https://doi.org/10.1080/07370008.2024.2397969)
 
-`q2 · intensive single-classroom qualitative case study with systematic thematic coding (constant comparison) of 182 classroom episodes across 15 fully-observed lessons; a participant-observer researcher was present for all lessons; no comparison classroom or quantified pre/post learning measure beyond an external post-unit assessment described qualitatively` `i1-i2 · a clear, well-documented mechanism (near-universal presence of aligned teacher support) and consistent qualitative evidence of student progress on all four aspects, achieved by a non-specialist teacher, though without a quantified effect size or comparison condition` `n=28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)`
+`q2 · intensive single-classroom qualitative case study with systematic thematic coding (constant comparison) of 182 classroom episodes across 15 fully-observed lessons; a participant-observer researcher was present for all lessons; no comparison classroom or quantified pre/post learning measure beyond an external post-unit assessment described qualitatively` `i1-i2 · a clear, well-documented mechanism (near-universal presence of aligned teacher support) and consistent qualitative evidence of student progress on all four aspects, achieved by a non-specialist teacher, though without a quantified effect size or comparison condition` `n=28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)` · `qualitative · r2`
 
 A sixth-grade teacher with no specialized statistical training taught a 4-week unit using [Dialogic Facilitation of Statistical Modeling Practice](../strategies/dialogic-facilitation-of-statistical-modeling-practice.md), covering all 28 students in the class. A researcher present as participant-observer for every lesson video-recorded and field-noted all whole-class and small-group talk; 182 episodes were coded via constant comparison against the four modeling aspects, with recurring forms of teacher assistance identified for each. Student reasoning was tracked qualitatively across the unit and via an external post-unit assessment of sampling understanding.
 

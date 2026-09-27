@@ -17,7 +17,7 @@ sources:
 # Four characteristics inherent in criterion-referenced tests
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper enumerates four design characteristics of criterion-referenced tests: "the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed"; each class is defined by test situations displaying the behaviors in all their nuances; a representative sampling plan selects the tasks on any form; and the obtained score must express the individual's performance characteristics objectively and meaningfully. This is the paper's own blueprint for building such tests.

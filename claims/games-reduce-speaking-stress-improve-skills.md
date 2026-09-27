@@ -15,12 +15,14 @@ sources:
     author: "Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # EFL students report that games reduce speaking stress and improve speaking skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All interviewed students stated that games reduce stress and thereby improve speaking skills. [→ Ismayilli 2025](#ismayilli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A. (2025). The impact of educational games on speaking skills in the foreign language teaching process. Novitas-ROYAL (Research on Youth and Language), 19(1), 229–240. https://eric.ed.gov/?id=EJ1469668
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of semi-structured focus-group interviews with 30 undergraduate EFL students (Table 4) found the stress-reduction/speaking-skills code was endorsed by all participants; 15 reported increased self-confidence and 10 reported speaking more comfortably in public. No effect sizes were reported.
 

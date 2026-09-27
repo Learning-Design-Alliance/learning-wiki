@@ -15,12 +15,14 @@ sources:
     author: "Johns, B. T., Dye, M., & Jones, M. N."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Subjects were significantly more accurate at recognizing novel words seen across highly variable contexts than those seen in redundant contexts. [→ Johns 2016](#johns-2016)
@@ -31,7 +33,7 @@ sources:
 
 Johns, B. T., Dye, M., & Jones, M. N. (2016). The influence of contextual diversity on word learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/s13423-015-0980-7
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the experiment's pseudolexical decision task, average accuracy was 83.9% across conditions, and "subjects were significantly more accurate at recognizing targets seen across highly variable contexts" than those trained on uniform passages. No effect size is printed.
 

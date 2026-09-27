@@ -15,12 +15,14 @@ sources:
     author: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Interactionist Dynamic Assessment produces significantly higher IELTS writing accuracy than interventionist Dynamic Assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After the treatment sessions, interactionist DA groups scored significantly higher on IELTS writing accuracy than interventionist DA groups (F=7.979, p=.005). [→ Kashef 2024](#kashef-2024)
@@ -31,7 +33,7 @@ sources:
 
 Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quasi-experimental pretest-posttest study of 140 intermediate IELTS candidates in Tehran institutes; interactionist vs. interventionist DA over the treatment sessions. Two-way ANOVA on post-test accuracy: "the observed p-value (0.005)" with F=7.979 favored interactionist DA. No effect size printed.
 

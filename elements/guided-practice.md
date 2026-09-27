@@ -12,7 +12,7 @@ generated:
 # Guided Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 2 report an effect size
 
 ## Description
 Guided practice is the element in which learners attempt a task with active support before moving to independent work.

@@ -15,12 +15,14 @@ sources:
     author: Neuschafer, T.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Social-emotional support was the most frequent code in COVID-19-related Duolingo discussion posts, followed by gratitude and pandemic
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among coded contributions, "social-emotional support" had the highest frequency (40 occurrences), "gratitude" second (30), and "pandemic" third (28). [→ Neuschafer 2022](#neuschafer-2022)
@@ -31,7 +33,7 @@ sources:
 
 Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Frequency counts came from coding the contributions of each discussion post in the netnographic dataset of around 4,000 contributions. The article also reports "gratitude" (30 occurrences) and "pandemic" (28 occurrences) as the next codes.
 

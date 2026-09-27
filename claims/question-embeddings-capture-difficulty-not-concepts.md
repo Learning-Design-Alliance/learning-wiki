@@ -15,12 +15,14 @@ sources:
     author: Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Learned question embeddings capture question difficulty rather than clustering exercises by concept
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` t-SNE visualization of Junyi question representations shows a difficulty gradient but no clustering by concept. [→ Ritwick Chaudhry 2017](#ritwick-chaudhry-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 t-SNE visualization analysis of question representations for the Junyi dataset (Figure 4a/4b), colored by difficulty and by concept. The text reports exercise tags within a concept "do not cluster together" and seem randomly scattered.
 

@@ -15,18 +15,22 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Three former math teachers rating 166 turn pairs from 30 CoMTA dialogues gave GPT-4o very high scores for correctness and moderate-to-high scores for KCs. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -38,7 +42,7 @@ sources:
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 IRB-approved human evaluation in which 3 former math teachers scored GPT-4o's labels on 30 randomly selected CoMTA dialogues (166 turn pairs). Annotators "give GPT-4o very high scores for correctness and moderate-to-high scores for KCs"; Table 4 reports 0.9317 / 1 and 3.2831 / 4.
 
@@ -48,7 +52,7 @@ IRB-approved human evaluation in which 3 former math teachers scored GPT-4o's la
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Inter-rater reliability from the same human evaluation, using exact overlap and Krippendorff's alpha: "IRR is volatile, with high overlap and lowα on correctness, and low overlap but moderateα on KCs".
 

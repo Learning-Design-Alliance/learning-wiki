@@ -15,12 +15,14 @@ sources:
     author: "Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Teacher responses that signal closure (e.g., 'OK', moving to another pupil, or even verbal rewards such as 'fine') can end pupil talk and make pupil thinking dependent on the teacher, whereas responses encouraging sustained contribution foster independent thinking. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
@@ -31,7 +33,7 @@ sources:
 
 Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Descriptive/theoretical statement from the Workbook G (Teacher Responses) section of Unit II. The document asserts that closure-signaling responses, including praise, inhibit sustained pupil verbalization and independent thinking; no empirical data are reported for this specific assertion.
 

@@ -15,18 +15,22 @@ sources:
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: grant-2001-2
     resource: "https://eric.ed.gov/?id=ED478147"
     title: "Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147"
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The cognitive-only coaching program increased deep and achieving approaches to learning and academic self-concepts, reduced test anxiety and nonstudy-related anxiety and depression, while academic performance declined relative to the control group. [→ Grant 2001](#grant-2001)
@@ -38,7 +42,7 @@ sources:
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Study 1 of the three-study series assigned trainee accountants to a cognitive-based coaching program and measured GPA, study approaches, self-concept, test anxiety and affect. The dissertation reports these outcomes, including a relative decline in academic performance versus control; no effect sizes are printed in the supplied text.
 
@@ -48,7 +52,7 @@ Study 1 of the three-study series assigned trainee accountants to a cognitive-ba
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Study 2 evaluated a behavioural-based coaching program with trainee accountants. The dissertation reports decreased test anxiety and increased academic performance, and states no other effects were found; no effect sizes are printed in the supplied text.
 

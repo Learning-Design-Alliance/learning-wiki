@@ -15,12 +15,14 @@ sources:
     author: "Sheldon-Keller, Adrienne & West, Malcolm"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Agency develops only within an intensely communal (attachment) relationship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The private (agentic) self depends on adequate maternal nurturance in infancy; communion is the ground which defines the agentic figure. [→ Sheldon-Keller 1995](#sheldon-keller-1995)
@@ -31,7 +33,7 @@ sources:
 
 Sheldon-Keller, Adrienne & West, Malcolm. (1995). Attachment within the Agency/Communion Paradigm. https://eric.ed.gov/?id=ED395227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical synthesis, drawing on Modell's account of the private self, in which formation of the agentic private self depends on adequate maternal nurturing in infancy. The authors state that "agency only evolves in the context of an intensely communal relationship." No empirical data are reported in this paper.
 

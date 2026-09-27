@@ -15,12 +15,14 @@ sources:
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Solve attributes differ in discrimination: the environment attribute strongly separated proficiency groups while the learned-procedure attribute did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mastery probabilities for the environment attribute rose from .47 (low) to .60 (medium) to .97 (high) proficiency, while the learned-procedure attribute's means were very similar across groups. [→ Katz 1993](#katz-1993)
@@ -31,7 +33,7 @@ sources:
 
 Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Table 9 mean mastery probabilities for solve attributes by proficiency group. The authors call the environment attribute "highly discriminating" given its .47/.60/.97 probabilities, whereas the learned-procedure attribute's three means were very similar and unhelpful for discrimination.
 

@@ -15,12 +15,14 @@ sources:
     author: Welna, Jerzy
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Among contrast pairs of abstract nouns, the English word's meaning is mostly a generalization of the semantic element contained in the Polish word, with only a few examples of the reverse relation. [→ Welna 1976](#welna-1976)
@@ -31,7 +33,7 @@ sources:
 
 Welna, Jerzy. (1976). Deceptive Words: A Study in the Contrastive Lexicon of Polish and English. https://eric.ed.gov/?id=ED127783
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's lexicological observation over his compiled list of contrast pairs (section 3.6), based on dictionary definitions rather than learner data. Typical pairs named include E concept : P koncept, E affair : P afera, and E melioration : P melioracja.
 

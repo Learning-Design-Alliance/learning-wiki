@@ -15,12 +15,14 @@ sources:
     author: Livingstone, D.W.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Recognition of prior informal learning (PLAR) would substantially narrow the course-participation gap between occupational classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Industrial workers and the unemployed show much lower planned course participation than managers and professionals, but this gap largely disappears when prior learning assessment and recognition (PLAR) is offered. [→ Livingstone 2001](#livingstone-2001)
@@ -31,7 +33,7 @@ sources:
 
 Livingstone, D.W. (2001). Adults' Informal Learning: Definitions, Findings, Gaps, and Future Research. NALL Working Paper #21. http://www.oise.utoronto.ca/depts/sese/csew/nall/res/21adultsifnormallearning.htm
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 NALL 1998 survey data show planned course participation of 43% for industrial workers and 40% for the unemployed versus 73-74% for managers and professionals, but interest rises to 71-79% with PLAR, yielding differences of 28-39 percentage points.
 

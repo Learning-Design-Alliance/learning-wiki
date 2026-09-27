@@ -15,12 +15,14 @@ sources:
     author: "Sadighi, F., & Dastpak, M."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Lack of practice was the fourth-ranked source of speaking anxiety (65%), which the authors attribute to teacher-centered classes giving students insufficient participation opportunities. [→ Sadighi 2017](#sadighi-2017)
@@ -31,7 +33,7 @@ sources:
 
 Sadighi, F., & Dastpak, M. (2017). The Sources of Foreign Language Speaking Anxiety of Iranian English Language Learners. International Journal of Education & Literacy Studies, 5(4). https://doi.org/10.7575/aiac.ijels.v.5n.4p.111
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Authors' interpretation of the survey ranking (Table 1: lack of practice, 65%, rank 4), attributing insufficient practice to teacher-centered Iranian classes where students play a minor role in discussion, with limited English input outside the classroom.
 

@@ -15,18 +15,22 @@ sources:
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: z-gao-2024-2
     resource: "https://doi.org/10.5281/zenodo.12729866"
     title: "Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866"
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No significant difference in percentage of resolved requests among the four strategies under busy or normal load. [→ Z. Gao 2024](#z-gao-2024)
@@ -38,7 +42,7 @@ sources:
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Normal-load simulation results: "on average, 65% of the requests would get resolved" regardless of strategy, with no significant pairwise differences (p>0.05 for all pairs). The busy-load condition showed a similar null result (45% resolved, p>0.05 for all pairs).
 
@@ -48,7 +52,7 @@ Normal-load simulation results: "on average, 65% of the requests would get resol
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Wait-time analysis across all simulations (Table 1): average wait was around 80 minutes under busy load, 50 minutes under normal load, and 18 minutes under relaxed load, with no significant difference between strategies (all pair p>0.05).
 

@@ -16,7 +16,7 @@ sources:
 # Role-playing gamification design framework: RPG mechanics, aesthetics, and game thinking applied to language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies, `q1`–`q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q1`–`q2` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article adopts Kapp's (2012) gamification framework and Crocco's (2016) RPG elements, defining gamification as "the use of design elements characteristic for games (rather than play or playfulness) in non-game contexts". In Mangomon, RPG mechanics include avatars, experience points, quests, and collection; aesthetics involve appealing 3D scenes and monster characters; game thinking builds the experience around motivation through collection, repetition, and mastery. The framework is used to explain how role-playing gamification can engage learners while they practice English for work.

@@ -15,12 +15,14 @@ sources:
     author: Monika Geist
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among twelve morphological LREs, verb forms (especially modals) were the most frequent focus, and preposition choice recurred across participants. [→ Monika Geist 2017](#monika-geist-2017)
@@ -31,7 +33,7 @@ sources:
 
 Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Analysis of the twelve morphological LREs in Table 1 shows verb forms as broad focus in five cases, with "the main focus on the use of modal verbs"; prepositions were the focus of three LREs encountered by different participants.
 

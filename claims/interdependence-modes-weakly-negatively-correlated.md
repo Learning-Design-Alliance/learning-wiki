@@ -15,12 +15,14 @@ sources:
     author: Pennings, Johannes M.
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Social interdependence and workgroup process measures are unrelated to specialization measures, while role interdependence correlates weakly and negatively with specialization (r = -.36 or -.28). [→ Pennings 1974](#pennings-1974)
@@ -31,7 +33,7 @@ sources:
 
 Pennings, Johannes M. (1974). Differentiation, Interdependence, and Performance in Formal Organizations. https://eric.ed.gov/?id=ED099988
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Correlational analysis of questionnaire and profile data from 40 brokerage offices (Table 1, N=40). The article reports "a weak but consistent correlation between role interdependence and specialization" (r = -.36 or -.28), suggesting heterogeneous offices have fewer collaborative, role interdependent employees.
 

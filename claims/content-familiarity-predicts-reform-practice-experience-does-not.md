@@ -15,18 +15,22 @@ sources:
     author: Corcoran, Tom
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
   - id: corcoran-2003-2
     resource: "https://eric.ed.gov/?id=ED480404"
     title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
     author: Corcoran, Tom
     q: 3
     i: 0
+    kind: associational
+    rigour: "?"
 ---
 
 # Content familiarity, not teaching experience, predicted reform-based science teaching practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0`–`i1`
 
 ## Subclaims
 `q3 i1` Each additional semester of college science was associated with a statistically significant .11 of a standard deviation increase in reform-based teaching practice. [→ Corcoran 2003](#corcoran-2003)
@@ -38,7 +42,7 @@ sources:
 
 Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Same HLM analysis of 334 teachers in the four partner districts; the coefficient for college science semesters was statistically significant, which the authors say suggests content-based professional development is important and bears further investigation.
 
@@ -48,7 +52,7 @@ Same HLM analysis of 334 teachers in the four partner districts; the coefficient
 
 Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
 
-`q3 · i0`
+`q3 · i0` · `associational · r?`
 
 Null finding from the same HLM model of 334 teachers: years of teaching experience showed no significant relationship with reform-based practice; equivalence was not tested. The authors note it casts doubt on the assumption that experienced teachers resist change.
 

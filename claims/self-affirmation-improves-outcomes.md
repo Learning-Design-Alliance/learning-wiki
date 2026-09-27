@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 119 (study 1) and additional cohort (replication), African American and European American 7th graders
+    kind: causal
+    rigour: 2
   - id: hanselman-et-al-2017
     resource: "https://doi.org/10.1037/edu0000141"
     title: "Hanselman, P., Rozek, C. S., Grigg, J., & Borman, G. D. (2017). New evidence on self-affirmation effects and theorized sources of heterogeneity from large-scale replications. *Journal of Educational Psychology, 109*(3), 405-424. [doi:10.1037/edu0000141](https://doi.org/10.1037/edu0000141)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 0
     n: 449 Black/Hispanic students (cohort 2), compared with n=331 from a prior year (cohort 1) in the same district
+    kind: causal
+    rigour: 3
 ---
 
 # Self-affirmation improves outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
 
 Self-affirmation — briefly reflecting on personally important values before an evaluative or threatening task — reduces defensiveness and stress, which in turn can improve performance and persistence.
 <!-- deprecated (2026-09-29): This page currently has no verified evidence entries; the sections below are placeholders pending ingestion of the underlying studies. -->
@@ -44,7 +48,7 @@ Self-affirmation — briefly reflecting on personally important values before an
 
 Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2006). Reducing the Racial Achievement Gap: A Social-Psychological Intervention. *Science, 313*(5791), 1307-1310. [doi:10.1126/science.1128317](https://doi.org/10.1126/science.1128317)
 
-`q3 · peer-reviewed randomized field experiment (two studies)` · `i? · reported in GPA points (B=0.26–0.34), not as a standardized effect` · `n=119 (study 1) and additional cohort (replication), African American and European American 7th graders`
+`q3 · peer-reviewed randomized field experiment (two studies)` · `i? · reported in GPA points (B=0.26–0.34), not as a standardized effect` · `n=119 (study 1) and additional cohort (replication), African American and European American 7th graders` · `causal · r2`
 
 Two randomized, double-blind field experiments with 7th-graders at one suburban middle school (roughly evenly split African American/European American) had students complete a 15-minute in-class writing exercise: treatment students wrote about a personally important value, control students about a value unimportant to them. African American students in the affirmation condition earned significantly higher fall-term grades in the targeted course than controls (B = 0.26, t(41) = 2.44, p < .02 in study 1; B = 0.34, t(60) = 2.69, p < .01 in the replication), reducing the racial achievement gap by about 40%; European American students showed no treatment effect in either study. The affirmed group also showed a "sideways-S" (non-declining) performance trajectory across the term versus a significant downward linear trend for African American controls, and reduced activation of the racial stereotype on a word-completion task.
 
@@ -52,7 +56,7 @@ Two randomized, double-blind field experiments with 7th-graders at one suburban 
 
 Hanselman, P., Rozek, C. S., Grigg, J., & Borman, G. D. (2017). New evidence on self-affirmation effects and theorized sources of heterogeneity from large-scale replications. *Journal of Educational Psychology, 109*(3), 405-424. [doi:10.1037/edu0000141](https://doi.org/10.1037/edu0000141)
 
-`q3 · large-scale double-blind randomized field experiment, close replication of Cohen et al. (2006) procedures` · `i0 · negligible effect, d=-0.07 (95% CI -0.19 to 0.05); the interval excludes the size of the earlier benefit` · `n=449 Black/Hispanic students (cohort 2), compared with n=331 from a prior year (cohort 1) in the same district`
+`q3 · large-scale double-blind randomized field experiment, close replication of Cohen et al. (2006) procedures` · `i0 · negligible effect, d=-0.07 (95% CI -0.19 to 0.05); the interval excludes the size of the earlier benefit` · `n=449 Black/Hispanic students (cohort 2), compared with n=331 from a prior year (cohort 1) in the same district` · `causal · r3`
 
 Following an earlier successful large-scale replication in the same Midwestern school district (all 11 middle schools, Borman et al. 2016), the same research team fielded the identical self-affirmation writing protocol with a new 7th-grade cohort the following year. Verbatim: "we found no effects of the intervention on the performance of Asian and White students... [and] estimates for all outcomes were negative, but none were statistically different from zero" for Black/Hispanic students; the grade 8 GPA effect was d = -0.072 (95% CI -0.192, 0.047), significantly different from the prior year's positive effect of d = 0.152 (p = 0.013). The authors tested and rejected essentially every theorized moderator (fidelity of delivery, teacher effects, control-group design, timing, student engagement with the writing task, race/gender subgroups, prior achievement, school racial composition and achievement gaps, and individual schools driving the result) and concluded self-affirmation's benefits at scale are likely small and difficult to predict, with a companion power analysis showing that if the "true" effect is as small as the ~0.07 SD average across large-scale trials, most published significant findings in this literature are likely to substantially overstate the true effect (expected exaggeration ~2.2x).
 

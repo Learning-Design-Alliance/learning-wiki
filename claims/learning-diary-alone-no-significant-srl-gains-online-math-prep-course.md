@@ -15,12 +15,14 @@ sources:
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Groups C and D showed no statistically significant increases in any dependent variable in the planned gain contrasts. [→ Bellhäuser 2022](#bellhauser-2022)
@@ -31,7 +33,7 @@ sources:
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C and D showed no statistically significant increases in any dependent variable." This shows no detected gain for the diary-only group; equivalence was not tested.
 

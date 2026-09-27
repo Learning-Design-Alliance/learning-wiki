@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 65 independent evaluations
+    kind: quant-synthesis
+    rigour: "?"
   - id: alegre-ansuategui-et-al-2017
     resource: "https://doi.org/10.12973/ejmste/79805"
     title: "Alegre-Ansuategui, F. J., Moliner, L., Lorenzo, G., & Maroto, A. (2017). Peer Tutoring and Academic Achievement in Mathematics: A Meta-Analysis. *EURASIA Journal of Mathematics, Science and Technology Education, 14*(1). [doi:10.12973/ejmste/79805](https://doi.org/10.12973/ejmste/79805)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 1
     n: 50 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Peer Tutoring Improves Achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1` small
 
 Learners who tutor peers — or who are tutored by them — tend to show higher achievement than learners receiving equivalent instruction without tutoring, with the strongest benefits typically accruing to the tutor.
 
@@ -43,7 +47,7 @@ Learners who tutor peers — or who are tutored by them — tend to show higher 
 
 Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational Outcomes of Tutoring: A Meta-analysis of Findings. *American Educational Research Journal, 19*(2), 237–248. [doi:10.3102/00028312019002237](https://doi.org/10.3102/00028312019002237)
 
-`q3 · meta-analysis` · `i? · no pooled effect size reported in the abstract` · `n=65 independent evaluations`
+`q3 · meta-analysis` · `i? · no pooled effect size reported in the abstract` · `n=65 independent evaluations` · `quant-synthesis · r?`
 
 A meta-analysis of 65 independent evaluations of school tutoring programs, spanning tutee and tutor outcomes. Tutored students outperformed control students on examinations and developed more positive attitudes toward the subject matter; students who served as tutors showed the same pattern of academic and attitudinal gains. Participation had little or no effect on the self-esteem of either tutors or tutees. Only the abstract was read (the full article is paywalled and no open-access copy was found), so no pooled effect-size statistic could be confirmed from the text — the abstract itself states the finding only in directional terms.
 
@@ -51,7 +55,7 @@ A meta-analysis of 65 independent evaluations of school tutoring programs, spann
 
 Alegre-Ansuategui, F. J., Moliner, L., Lorenzo, G., & Maroto, A. (2017). Peer Tutoring and Academic Achievement in Mathematics: A Meta-Analysis. *EURASIA Journal of Mathematics, Science and Technology Education, 14*(1). [doi:10.12973/ejmste/79805](https://doi.org/10.12973/ejmste/79805)
 
-`q4 · meta-analysis` · `i1 · small effect, Hedge's g = 0.333` · `n=50 studies`
+`q4 · meta-analysis` · `i1 · small effect, Hedge's g = 0.333` · `n=50 studies` · `quant-synthesis · r?`
 
 A meta-analysis of 50 independent studies of peer-tutoring programs in mathematics across multiple educational stages found that 88% of the programs had a positive effect on participants' academic performance, with a pooled Hedge's g of 0.333. Moderator analyses found tutee/tutor age, assigned roles, tutee ability level (disabled/at-risk vs. not), session length and frequency were not significant moderators, while educational stage, study design, program duration, tutor knowledge level, time of day (in-school vs. out-of-school) and sample size were significant moderators of the effect. Crossref carries no page range for this record; the article's own header gives pp. 337–354 (2018;14(1)), which is noted here but not asserted as the Crossref-verified value.
 

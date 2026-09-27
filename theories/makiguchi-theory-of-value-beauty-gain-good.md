@@ -16,7 +16,7 @@ sources:
 # Makiguchi's Theory of Value (beauty, gain, good) as a framework for Soka (value-creating) education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 Soka education, formulated by Tsunesaburo Makiguchi and Josei Toda and advanced by Daisaku Ikeda, is a humanistic approach in which education's essential role is enabling value creation for individual and society. "Makiguchi's integrated system of values, consisting of beauty, gain, and (social) good, form the most essential components of his Theory of Value." Beauty is a sensory, temporary aesthetic response; gain directly maintains and advances the individual's life; good contributes to societal wellbeing. The article uses these three values as the coding categories and research questions for both interview studies, theorizing that a life founded on contributing to society's welfare strengthens individual wellbeing and beauty, yielding the highest value creation.

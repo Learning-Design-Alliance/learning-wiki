@@ -13,12 +13,14 @@ sources:
     title: corr-1
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` The BKT "Learn" parameter estimated from simulated data shows a positive correlation of around 0.65 with the human-estimated parameter, while Guess and Slip parameters showed no notable correlation. [→ corr-1](#corr-1)
@@ -29,7 +31,7 @@ sources:
 
 Qiao Zhang and Christopher MacLellan “Going Online: A simulated student approach for evaluating knowledge tracing in the context of mastery learning”. 2021. In: Proceedings of The 14th International Conference on Educational Data Mining (EDM21). International Educational Data Mining Society, 331-337. https://educationaldatamining.org/edm2021/
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 Correlation analysis comparing BKT parameters fit to simulated Random-condition log data versus the human "Fraction Addition and Multiplication" DataShop dataset. The "Known" parameter was near 0 in simulated data because all agents start without prior knowledge.
 

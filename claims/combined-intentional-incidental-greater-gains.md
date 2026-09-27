@@ -15,12 +15,14 @@ sources:
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Guo's (2010) study of 93 Chinese university ESL students, both incidental and intentional learning produced significant vocabulary gains, but the combined instruction achieved greater gains and better retention. [→ Zou 2019](#zou-2019)
@@ -31,7 +33,7 @@ sources:
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review describes Guo's (2010) study in which "Ninety-three students were assigned to two groups" using texts with 26 target words, vocabulary exercises for the experimental group, and vocabulary and writing tests; the combined condition achieved greater gains and better retention. No effect size is printed.
 

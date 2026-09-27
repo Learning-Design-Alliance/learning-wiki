@@ -15,12 +15,14 @@ sources:
     author: Wisconsin State Dept. of Public Instruction, Madison
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Adoption of the model standards is voluntary, and districts may adopt them, adopt standards from other sources, or develop their own. [→ Wisconsin State Dept. of Public Instruction 1998](#wisconsin-state-dept-of-public-instruction-1998)
@@ -31,7 +33,7 @@ sources:
 
 Wisconsin State Dept. of Public Instruction, Madison. (1998). Wisconsin's Model Academic Standards for Information and Technology Literacy. Bulletin No. 90002. https://eric.ed.gov/?id=ED423881
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Descriptive policy statement from the Using the Academic Standards section of the introduction. The document states "Adopting Wisconsin's Model Academic Standards is voluntary, not mandatory," while noting the legal requirement applies to other named subjects and that districts may adopt or develop their own standards.
 

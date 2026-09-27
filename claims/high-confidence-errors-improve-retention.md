@@ -13,6 +13,8 @@ sources:
     q: 2
     i: "?"
     n: N/A
+    kind: review
+    rigour: "?"
   - id: fazio-marsh-2009
     resource: "https://doi.org/10.3758/PBR.16.1.88"
     title: "Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)"
@@ -20,6 +22,8 @@ sources:
     q: 3
     i: "?"
     n: unspecified
+    kind: causal
+    rigour: "?"
 id: high-confidence-errors-improve-retention
 evidence_strength: strong
 ---
@@ -27,7 +31,7 @@ evidence_strength: strong
 # High-confidence errors lead to better retention after correction than low-confidence errors.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q2`–`q3`
 
 The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.
 
@@ -43,7 +47,7 @@ Primary evidence link: https://doi.org/10.1146/annurev-psych-010416-044022
 
 Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
 
-`q2 · narrative review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
+`q2 · narrative review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A` · `review · r?`
 
 This comprehensive review synthesizes decades of research on learning from errors. It identifies the hypercorrection effect as a robust finding across multiple domains and age groups, highlighting the importance of generating answers (even if wrong) and receiving immediate corrective feedback.
 
@@ -51,7 +55,7 @@ This comprehensive review synthesizes decades of research on learning from error
 
 Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)
 
-`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=unspecified`
+`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=unspecified` · `causal · r?`
 
 Experiments in this study confirmed that feedback is more effectively processed and remembered when it contradicts a high-confidence prediction, supporting the mechanism of surprise-driven attention in error correction.
 

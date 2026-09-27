@@ -16,7 +16,7 @@ sources:
 # Greenwald's cognitive response account: rehearsal of the recipient's own cognitive responses explains persisting persuasion effects
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper reproduces Greenwald's (1968) analysis of persuasion as a complex stimulus evoking a complex cognitive response, whose essential dimensions are response content (acceptance versus rejection) and intensity. Greenwald proposes that "rehearsal and learning of cognitive responses to persuasion may provide a basis for explaining persisting effects of communications in terms of cognitive learning." The article cites this to highlight the role of learners' own cognitive reactions, noting effects can range from persuasion to boomerang depending on whether rehearsed content supports or opposes the advocated position.

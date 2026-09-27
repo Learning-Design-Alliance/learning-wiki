@@ -15,12 +15,14 @@ sources:
     author: Walls, J. K.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Driscoll (2000) and Michel, Cater, and Varela (2009), that active and collaborative approaches encourage student-peer interactions and promote higher-order thinking and complex reasoning. [→ Walls 2016](#walls-2016)
@@ -31,7 +33,7 @@ sources:
 
 Walls, J. K. (2016). A Theoretically Grounded Framework for Integrating the Scholarship of Teaching and Learning. Journal of the Scholarship of Teaching and Learning, 16(2). https://doi.org/10.14434/josotl.v16i2.19217
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attribution in the Process dimension section: the article states active and collaborative approaches "promote higher-order thinking and complex reasoning". It also notes some studies suggest benefits of student-led over teacher-led discussions (Yoder & Hochevar, 2005).
 

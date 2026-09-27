@@ -17,7 +17,7 @@ sources:
 # GoldList Notebook Method (headlist plus three distillations)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies, `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 A pen-and-paper L2 vocabulary review method using a standard A4 notebook in place of flashcards or apps. The learner writes a "headlist" of up to 20 target terms with definitions from lesson context, then performs three self-quizzing "distillations" spaced in time, marking unrecalled items and rewriting them in mixed order. The article states it "is not a lesson to introduce new vocabulary, but a tool for review and to strengthen recall," providing spacing and retrieval desirable difficulties plus tactile pen-to-paper interaction.

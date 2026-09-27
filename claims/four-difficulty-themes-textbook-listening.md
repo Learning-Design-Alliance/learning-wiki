@@ -15,12 +15,14 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative analysis of learners' explanations identified speech rate, speaker's accent, inability to understand word meanings, and time pressure as difficulties in textbook listening activities. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -31,7 +33,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Qualitative thematic analysis of open-ended questionnaire explanations from both HLLs and NHLLs, analysed separately by each researcher and moderated for agreement. Example comments include "They speak too fast." and "Only a few chances to figure out everything."
 

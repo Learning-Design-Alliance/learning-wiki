@@ -15,12 +15,14 @@ sources:
     author: Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Strategy-control given to the student is considered in four categories: control over survey tactics, learning tactics, evaluation tactics, and review tactics. [→ Bunderson 1980](#bunderson-1980)
@@ -31,7 +33,7 @@ sources:
 
 Bunderson, C. Victor; Campbell, J. Olin; Farr, Beatrice J. (1980). Instructional Systems Development Model for Interactive Videodisc Training Delivery Systems. Volume I: Hardware, Software and Procedures. Army Research Institute Technical Report 511. https://eric.ed.gov/?id=ED220071
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Definitional statement in the Levels of Discourse section of the VTD Concepts part, defining the four categories of student strategy-control and noting survey commands let students browse the module set. Illustrated with TICCIT commands; no empirical test reported.
 

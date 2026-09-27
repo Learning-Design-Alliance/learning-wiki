@@ -17,7 +17,7 @@ sources:
 # Mediation typology of implicit-to-explicit moves in SCMC DA
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Emerging from thematic analysis of the DA sessions, the mediation typology orders mediator moves from most implicit to most explicit. The article reports it "included four general categories, namely awareness raising, problem identification, overcoming the problem and finally, focusing on the structure". Moves include the virtual collaborative frame, auto smart edit, yellow and red highlighting, sharing relevant web links (cyber-mediation), choice offering, and oral explanation of target structures. Moves are employed individualized to learners' ZPD levels and reciprocity.

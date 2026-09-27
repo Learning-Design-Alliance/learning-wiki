@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; And Others
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Blind infants show the same developmental sequence of basic emotions as sighted infants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Blind infants demonstrate the same developmental sequence as normal infants in the appearance of basic emotions, though their range of affect may be smaller. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; And Others. (1976). Affective Development in the Normal and Handicapped Preschool Child. Summary Report. Review and Recommendations. Exceptional Child Center, Utah State University. https://eric.ed.gov/?id=ED135163
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The report's review of blind and partially seeing children cites Friedman (1964) as presenting evidence that the blind child smiles at appropriate times and with appropriate body movements. It notes behaviors which elicit responses from others are inhibited in blind children.
 

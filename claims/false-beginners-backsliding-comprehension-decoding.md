@@ -15,12 +15,14 @@ sources:
     author: Nakamura, Tomoko
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # False beginners' backsliding occurs in comprehension, and their main problem lies in recoding and decoding English words
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The study's three stated findings: backsliding occurs in comprehension at a level equivalent to true beginners; false beginners read passages aloud better; the main problem lies in recoding and decoding of English words. [→ Nakamura 1997](#nakamura-1997)
@@ -31,7 +33,7 @@ sources:
 
 Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 The authors' summary of their own findings after the word vocalization analysis; the article notes findings 2 and 3 seem contradictory but are reconciled because most passage words are regular words that false beginners can read without serious problems.
 

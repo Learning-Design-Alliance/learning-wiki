@@ -15,12 +15,14 @@ sources:
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # The computer-based implementation showed no significant difference from individual paper-based work with brief written answers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Despite more complete onscreen feedback at checkpoints, the computer-based implementation produced no significant differences in understanding of kinetic energy or momentum compared with students working individually through paper tutorials with brief written answers (p = 0.64 and p = 0.40). [→ Slezak 2011](#slezak-2011)
@@ -31,7 +33,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Comparison of the computer-based group (N=29) with the prior study's individual paper-based group (N=76). The authors had hypothesized richer checkpoint feedback would raise scores; equivalence was not tested, only no significant difference found.
 

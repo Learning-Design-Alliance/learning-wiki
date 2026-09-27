@@ -15,12 +15,14 @@ sources:
     author: Diaz, Diana M.
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that methods promoting writing development necessitate student-centered environments which lower anxiety, increase confidence, and provide natural language contexts based on meaningful communication. [→ Diaz 1988](#diaz-1988)
@@ -31,7 +33,7 @@ sources:
 
 Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 The article's concluding synthesis, an authors' interpretation connecting process writing methods to Krashen's Affective Filter and Input hypotheses; no empirical data are reported. It argues these environments have the potential to increase L2 acquisition while facilitating L2 writing acquisition.
 

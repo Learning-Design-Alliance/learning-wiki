@@ -15,12 +15,14 @@ sources:
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The modeling course produced increases in all MPEX categories except effort, and the increases were similar in both years, indicating consistent pedagogy. [→ Brewe 2007](#brewe-2007)
@@ -31,7 +33,7 @@ sources:
 
 Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Attitudinal pre/post MPEX data (Table III) collected in both years; favorable percentages rose in most categories in both years while effort declined. The article treats this similarity as evidence the pedagogy did not change between the technology and no-technology conditions.
 

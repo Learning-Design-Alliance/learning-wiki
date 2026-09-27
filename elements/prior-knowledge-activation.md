@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge Activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 1 of 3 report an effect size
 
 ## Description
 Prior knowledge activation is the element in which learners recall, surface, or organize what they already know before engaging with new material. It is useful when new learning depends on connection to existing ideas or experiences.

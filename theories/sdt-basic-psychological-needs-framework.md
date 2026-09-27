@@ -16,7 +16,7 @@ sources:
 # Self-determination theory: a motivation and personality theory built on three basic psychological needs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies, `q1`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 3 studies (1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Self-determination theory is described in the article as "a comprehensive theory of motivation and personality, focused on nurturing inner motivational resources to enhance optimal functioning." Its key component is the recognition of three basic psychological needs: autonomy, relatedness, and competence. Autonomy is the perception that one's actions are volitional; relatedness is feeling liked, appreciated, and valued in a setting; competence is feeling successful in tasks and interactions. The article states educators are more successful when they support these needs, and that SDT views humans as active agents in a person-environment dialectic, striving for continued growth and integration.

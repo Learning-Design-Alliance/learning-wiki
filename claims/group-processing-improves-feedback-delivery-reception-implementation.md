@@ -15,12 +15,14 @@ sources:
     author: "Lachowsky, N. J., & Murray, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Participants reported significant improvement in their ability to deliver, receive, and implement feedback between the seminar and the time of survey
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Self-rated effectiveness at delivering feedback improved from 7.1 to 8.0 (p=0.001), at receiving feedback from 7.2 to 8.0 (p=0.004), and at implementing feedback from 7.7 to 8.2 (p=0.01). [→ Lachowsky 2021](#lachowsky-2021)
@@ -31,7 +33,7 @@ sources:
 
 Lachowsky, N. J., & Murray, J. (2021). Group Processing: Students Reflections on the Experience and Impact of Group Processing. Journal of Problem Based Learning in Higher Education, 9(2). https://doi.org/10.5278/ojs.jpblhe.v9i2.2883
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Paired t-tests in the retrospective survey of 46 former seminar students showed improved self-rated ability to deliver effective feedback to others (mean scores from 7.1 to 8.0, p=0.001), attributed by participants to group processing practice.
 

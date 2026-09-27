@@ -15,12 +15,14 @@ sources:
     author: Suarez, E. and Otero, V.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students in a beginner/intermediate SEIP classroom used familiar, everyday words and invented onomatopoeic labels to describe and reason about differences in the sounds of plucked strings. [→ Suarez 2008](#suarez-2008)
@@ -31,7 +33,7 @@ sources:
 
 Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative discourse analysis of one videotaped discussion in a third-grade SEIP Sound unit, with nine first languages spoken. The authors report that "students recruited familiar language" and that this language "was taken up by the class" during negotiations about pitch mechanisms. No effect sizes are reported.
 

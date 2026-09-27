@@ -15,12 +15,14 @@ sources:
     author: "Karavi, Mali, & Avraamidou"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The paper's integrative review concludes that commognition provides micro-level analytical tools revealing when lecture communication occurs, fails, or creates misconceptions, beyond what prior non-sociocultural frameworks provided. [→ Karavi 2022](#karavi-2022)
@@ -31,7 +33,7 @@ sources:
 
 Karavi, Mali, & Avraamidou. (2022). Commognition as an approach to studying proof teaching in university mathematics lectures. EURASIA Journal of Mathematics, Science and Technology Education. https://doi.org/10.29333/ejmste/12173
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Integrative literature review (qualitative, not systematic) synthesizing commognitive studies of university lecturing (Güçler 2013; Park 2015; Viirman 2014, 2015; Pinto 2019; Kontorovich 2021). The review reports the framework "offered the language and the analytical tools" for identifying communicational patterns and gaps.
 

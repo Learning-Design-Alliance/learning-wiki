@@ -17,7 +17,7 @@ sources:
 # Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies, `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 review, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Because older adults tend to process information more slowly and may have declining working memory, the author delivers instruction in careful stages, provides more repetition and review than a typical ESL class, and lets students demonstrate comprehension (yes/no, "or", and "show me" tasks) before producing new language from memory. She reports that "A few extra seconds of "wait time" can make a big difference in students' willingness to take risks, their ability to produce responses, and to develop confidence in speaking English." She also found combining several new concepts in one activity caused lessons to fail to connect.

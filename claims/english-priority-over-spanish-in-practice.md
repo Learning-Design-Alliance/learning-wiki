@@ -15,12 +15,14 @@ sources:
     author: Amrein, Audrey
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Despite guidelines requiring equal representation of both languages, the program prioritized English acquisition, and an English teacher's remarks revealed English as her instructional priority. [→ Amrein 2000](#amrein-2000)
@@ -31,7 +33,7 @@ sources:
 
 Amrein, Audrey. (2000). Dual Language Asymmetry: Symbolic Inequalities. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440548
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Observation and informal interview with an English-speaking teacher during a mixed language science class. The author interprets the teacher's comment as implying her objective emphasized English acquisition over Spanish acquisition, contrary to the program's equal-representation goal.
 

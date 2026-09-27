@@ -17,7 +17,7 @@ sources:
 # Design professional development around curriculum-embedded, teacher-led, sustained learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 MISE's core guiding principles for professional development remained constant across a decade of adaptation. Professional development should be "Linked to specific curriculum units and focused on the content teachers must teach," based on a clear vision of good practice, immediately useful in classrooms, respectful of teachers and grounded in a coherent theory of adult learning, intensive yet extended over time with on-site support, led by accomplished teachers modeling good practice, easily accessible, and sustainable over time by local districts. The article notes these principles are consistent with the prevailing consensus on effective professional development and that MISE's use of district priorities, rather than individual teacher choice, aimed to build shared vision and communities of practice.

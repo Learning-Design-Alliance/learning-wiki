@@ -15,12 +15,14 @@ sources:
     author: Ebadi, S.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In illustrative episodes across DA and transcendence sessions, each of the two learners moved toward higher levels of internalization of assistance and responded to less explicit mediation, though the article also reports backsliding and regression and says the target structure was not fully internalized. [→ Ebadi 2016](#ebadi-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Microgenetic analysis of language-related episodes from 60-minute SCMC-based interactionist DA and TR sessions. In TR2, Dena "moved up in her ZPD to level 3 of internalization of assistance", correcting a modal error with less explicit help than in DA1; later episodes suggested possible movement to level 4.
 

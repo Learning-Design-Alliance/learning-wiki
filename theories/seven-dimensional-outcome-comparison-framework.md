@@ -16,7 +16,7 @@ sources:
 # Seven-dimensional outcome comparison framework for analyzing implicit learning outcomes in summative assessments
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article develops and applies a comparison framework that identifies characteristics of summative assessments in seven dimensions: cognitive process, transferability, depth of analysis, interdependence, novelty, scaffolding and communication. It is used to compare implicit learning outcomes between Engineering and Engineering Technology programs by scoring final-exam questions. The authors state it was "adapted from taxonomies and outcome principles from the literature" and that "the framework we have developed is intended to allow that comparison" of course rigor.

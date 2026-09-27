@@ -15,12 +15,14 @@ sources:
     author: Frank, B. W., and Scherr, R. E.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The worksheet question's phrasing emphasizes distance features, and the everyday flexibility of short and long for both distance and time supports the intuition that less distance implies less time. [→ Frank 2012](#frank-2012)
@@ -31,7 +33,7 @@ sources:
 
 Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Discourse analysis of the tutorial transcript in Section 4.A.1. The authors analyze how the worksheet question's parallel phrasing draws attention to short and long, and how "The colloquial ambiguity of the word “short” supports the intuition that less distance (“shorter”) implies less time (“shorter”)."
 

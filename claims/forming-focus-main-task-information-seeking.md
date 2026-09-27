@@ -15,12 +15,14 @@ sources:
     author: Kuhlthau, C. C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Forming a focus, rather than merely gathering information, is the main task in complex information seeking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In studies of secondary school students and workplace information seekers, forming a focused perspective emerged as the central task of information seeking rather than gathering information on a topic. [→ Kuhlthau 2005](#kuhlthau-2005)
@@ -31,7 +33,7 @@ sources:
 
 Kuhlthau, C. C. (2005). Towards collaboration between information seeking and information retrieval. Information Research, 10(2) paper 225. http://InformationR.net/ir/10-2/paper225.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Qualitative study of secondary school students in which the author found that "forming a focus in the process of information seeking was the main task"; students who failed to form a focus described great difficulty writing. The concept of formulation was drawn from this study.
 

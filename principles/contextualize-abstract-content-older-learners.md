@@ -17,7 +17,7 @@ sources:
 # Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The author reports that abstract information is challenging for older learners, so the Step One curriculum is "highly contextualized, centering on familiar topics" such as students' own biographical information, families, and daily lives. New vocabulary is introduced primarily through visuals and body language, and civics topics are demonstrated with maps, calendars, and historical images. She also minimizes distractions and unnecessary teacher talk and maintains predictable routines, such as calling on homework review in seating order.

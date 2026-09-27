@@ -15,12 +15,14 @@ sources:
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Positive Bias subjects advanced in Modal Level on the delayed posttest at a significantly higher rate than negative Bias subjects. [→ Snyder 1975](#snyder-1975)
@@ -31,7 +33,7 @@ sources:
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 The Bias indicator classified subjects by whether non-modal responses fell predominantly above (positive) or below (negative) the mode. "while 45% (17 of 38) of all positive Bias subjects advanced (irrespective of treatment or inixture), only 13% (3 of 23) of negative Bias subjects did so" (X1=6.05, p<.02).
 

@@ -17,7 +17,7 @@ sources:
 # Semantic mapping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies, `q1`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Graphically depicting key concepts and their interrelationships helps convey and build structural knowledge by mapping the expert's knowledge structure onto the learner's. The article shows this can be done either by providing expert-generated maps or by having students generate their own maps, and that both routes produced similar overall structural-knowledge outcomes in introductory psychology.

@@ -15,18 +15,22 @@ sources:
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: crumley-2015-2
     resource: "https://arxiv.org/abs/0706.1985"
     title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Geotail example from 31 October 2003, the predicted and actual magnetopause crossings agree fairly well overall, though the crossings seen in the data tell a slightly different story than predicted. [→ Crumley 2015](#crumley-2015)
@@ -38,7 +42,7 @@ sources:
 
 Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Authors' analysis of the Figure 5 Geotail example from the Halloween 2003 storm, comparing crossings predicted from Eqs. (6)-(8) using ACE solar wind data with crossings seen in Geotail ion and magnetic field data. The prediction had a more complicated series of crossings before the final one at 11:00. No effect size is printed.
 
@@ -48,7 +52,7 @@ Authors' analysis of the Figure 5 Geotail example from the Halloween 2003 storm,
 
 Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Authors' summary statement from the abstract describing the overall outcome of the lab across eleven years of use with sophomore and junior students. No effect size or test statistic is printed.
 

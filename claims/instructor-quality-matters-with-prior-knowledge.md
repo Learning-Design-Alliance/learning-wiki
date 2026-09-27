@@ -15,12 +15,14 @@ sources:
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` On kinetic energy post-test questions, the ideal implementation performed significantly better (p < 0.05) than all other styles except Style 4 (limited Socratic dialogue, p = 0.14), and Style 2 (complete written answers) was statistically lower than Style 4 and the prior study's ideal implementation. [→ Slezak 2011](#slezak-2011)
@@ -31,7 +33,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Post-hoc LSD comparisons among cooperative-group styles with verbal TA interaction (Styles 2-5 plus prior ideal; N=45, 38, 41, 47, 63). Figure 3 shows progressive improvement as instruction moves closer to the ideal implementation model.
 

@@ -15,24 +15,30 @@ sources:
     author: Daloglu, A.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
   - id: daloglu-2020-2
     resource: "https://doi.org/10.5539/elt.v13n10p158"
     title: "Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158"
     author: Daloglu, A.
     q: 2
     i: 0
+    kind: associational
+    rigour: 2
   - id: daloglu-2020-3
     resource: "https://doi.org/10.5539/elt.v13n10p158"
     title: "Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158"
     author: Daloglu, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i0`–`i1`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` Prep School students scored significantly higher than other students on overall beliefs (d = .22). [→ Daloglu 2020](#daloglu-2020)
@@ -45,7 +51,7 @@ sources:
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Independent-samples t-test comparing 684 Prep School and 243 undergraduate students. The article reports t (925) = 2.89, p<.05, d = .22, which it interprets via Cohen (1988) as a significant effect of year in university.
 
@@ -55,7 +61,7 @@ Independent-samples t-test comparing 684 Prep School and 243 undergraduate stude
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i0`
+`q2 · i0` · `associational · r2`
 
 Independent-samples t-tests on the MFI-FFI pair (d = .17, Table 4) and the FonF-FonFs pair (d = .27, Table 5). The article calls these "a small but significant effect" of year in university.
 
@@ -65,7 +71,7 @@ Independent-samples t-tests on the MFI-FFI pair (d = .17, Table 4) and the FonF-
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Independent-samples t-tests found no significant differences on implicit-explicit (p >.05) or inductive-deductive (p = .690, Table 7) pairs. No effect sizes were printed for these null results.
 

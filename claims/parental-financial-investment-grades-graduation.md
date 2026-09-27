@@ -15,12 +15,14 @@ sources:
     author: Walls, J. K.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Hamilton (2013), that students receiving greater parental financial investment tend to receive lower grades but are more likely to graduate than their peers. [→ Walls 2016](#walls-2016)
@@ -31,7 +33,7 @@ sources:
 
 Walls, J. K. (2016). A Theoretically Grounded Framework for Integrating the Scholarship of Teaching and Learning. Journal of the Scholarship of Teaching and Learning, 16(2). https://doi.org/10.14434/josotl.v16i2.19217
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attribution in the exosystem section: the article describes Hamilton's (2013) examination of parents' financial contributions, reporting that "students who receive greater financial investment from their parents tend to receive lower grades" while graduating more. Presented as an indirect (exosystem) influence.
 

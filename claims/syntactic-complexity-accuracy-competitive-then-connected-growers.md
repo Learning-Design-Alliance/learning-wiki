@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Review reports syntactic complexity and accuracy shift from competitive to connected growers over time in Chinese learners of English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Yu and Lowie's (2020) four-month study of two Chinese learners of English, syntactic complexity and accuracy were initially competitive growers and later evolved as connected growers. [→ Shetye 2023](#shetye-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2023). Interconnected Dynamic Components of Learner Language. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University, 22(2), 15-18. https://www.tc.columbia.edu
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports Yu and Lowie's (2020) longitudinal case study of the oral language of two Chinese learners of English over four months, using moving correlations. Initially negative correlations indicated "competitive growers"; later the components evolved as connected growers, allowing complex utterances with accuracy. Lexical diversity and accuracy fluctuated between competing and supporting relationships with individual differences.
 

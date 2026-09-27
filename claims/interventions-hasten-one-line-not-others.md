@@ -15,18 +15,22 @@ sources:
     author: Hunt, J. McVicker
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: hunt-1973-2
     resource: "https://eric.ed.gov/?id=ED082854"
     title: "Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854"
     author: Hunt, J. McVicker
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Interventions can hasten one line of development without hastening others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The order of pseudo-imitation and top-level reaching was reversed in institution-reared infants experiencing White's interventions compared with home-reared infants. [→ Hunt 1973](#hunt-1973)
@@ -38,7 +42,7 @@ sources:
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Observational comparison: home-reared Champaign-Urbana babies showed pseudo-imitation in the fourth month and top-level reaching near the sixth month; institution-reared babies with White's interventions showed the reverse order. Descriptive, no effect size.
 
@@ -48,7 +52,7 @@ Observational comparison: home-reared Champaign-Urbana babies showed pseudo-imit
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Hunt's observation that the Mt. Carmel enrichment advanced object permanence but not vocal imitation, illustrating line-specific effects of experience. In Tehran, only six of 10 audio-visual-enrichment infants showed even pseudo-imitation during the first year.
 

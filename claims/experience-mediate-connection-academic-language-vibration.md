@@ -15,12 +15,14 @@ sources:
     author: Suarez, E. and Otero, V.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students tried out the academic term introduced through schooling (vibration), initially mispronounced or substituted, and experience with the ruler experiment mediated their connection to the concept. [→ Suarez 2008](#suarez-2008)
@@ -31,7 +33,7 @@ sources:
 
 Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Discourse analysis of the episode shows Brian said the shortest string goes "ting ting, because it hibernates faster," attempting the term from a previous session; peers prompted correction toward "vibrate." The authors state "experience mediates students' connection with academic language."
 

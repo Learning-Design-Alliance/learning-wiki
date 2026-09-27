@@ -15,12 +15,14 @@ sources:
     author: Tuck, Kathy D.; And Others
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # The more formal SDM training staff received, the more positive their attitudes toward the model (r=.293, p<.001), especially at the elementary level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Staff receiving the greatest amount of training had more positive attitudes towards the new SDM (r=.293, p<.001) and perceived the need for less additional training (r=-.270, p<.001). [→ Tuck 1994](#tuck-1994)
@@ -32,7 +34,7 @@ sources:
 
 Tuck, Kathy D.; And Others. (1994). Training for the Special Education Service Delivery Model. Evaluation. District of Columbia Public Schools. https://eric.ed.gov/?id=ED377631
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Correlational analysis of survey data from 303 staff in 35 of the 40 pilot schools (Table 10a), relating hours of formal SDM training to attitude and training-need scores. The report found "staff receiving the greatest amount of training had more positive attitudes" with r=.293, p<.001, and a negative relationship with perceived training need (r=-.270, p<.001).
 

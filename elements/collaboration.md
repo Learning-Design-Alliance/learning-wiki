@@ -12,7 +12,7 @@ generated:
 # Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies, `q1`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (3 quant-synthesis, 1 causal, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Collaboration is the short-form canonical target for learners working together toward a shared product, understanding, or decision.

@@ -15,12 +15,14 @@ sources:
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Scaffolding the mentee through one lesson repeated six times with groups of four children led her to review and modify her classroom management strategies between repetitions and to teach a whole-class lesson confidently by week three. [→ Sempowicz 2011](#sempowicz-2011)
@@ -31,7 +33,7 @@ sources:
 
 Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Case-study finding from written reflections, subsequent lesson plans and researcher observation. The mentor scaffolded confidence through repeated short small-group lessons; by week three the mentee taught her first 57-minute whole-class lesson confidently.
 

@@ -15,12 +15,14 @@ sources:
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students described lasting growth in confidence and self-knowledge from hands-on experiences such as placements, plus soft skills like leadership and time management. [→ Sherman 2020](#sherman-2020)
@@ -31,7 +33,7 @@ sources:
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 2 thematic analysis produced Student Global Theme 2, "Applying knowledge gained through new meaningful experiences creates lasting personal growth". Students reported gains in confidence, reflection, leadership, time management, organization, and communication skills.
 

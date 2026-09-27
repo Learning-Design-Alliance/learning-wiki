@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 44 students
+    kind: causal
+    rigour: 2
   - id: block-strachan-2019
     resource: "https://scholarworks.wmich.edu/reading_horizons/vol58/iss2/5"
     title: "Block, M. K., & Strachan, S. L. (2019). The impact of external audience on second graders' writing quality. *Reading Horizons, 58*(2), 68–93. No DOI registered in Crossref; stable URL: [scholarworks.wmich.edu/reading_horizons/vol58/iss2/5](https://scholarworks.wmich.edu/reading_horizons/vol58/iss2/5)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: "?"
     n: "? (not stated in the abstract)"
+    kind: causal
+    rigour: "?"
   - id: magnifico-2010
     resource: "https://doi.org/10.1080/00461520.2010.493470"
     title: "Magnifico, A. M. (2010). Writing for whom? Cognition, motivation, and a writer's audience. *Educational Psychologist, 45*(3), 167–184. [doi:10.1080/00461520.2010.493470](https://doi.org/10.1080/00461520.2010.493470)"
@@ -29,12 +33,14 @@ sources:
     q: 2
     i: "?"
     n: N/A (narrative review)
+    kind: review
+    rigour: "?"
 ---
 
 # Authentic Audiences Improve Student Work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2`–`q3`
+> **Evidence** · 3 studies · 2 causal `r2`, 1 review `r?` · `q2`–`q3`
 
 When students write, present, or create for a real audience beyond the teacher — community members, experts, online publics, or peers with a genuine stake — the quality, effort, and revision of their work improves. The mechanism is motivational and rhetorical: a genuine recipient changes what students believe their work is *for*.
 
@@ -52,7 +58,7 @@ When students write, present, or create for a real audience beyond the teacher �
 
 Cohen, M., & Riel, M. (1989). The effect of distant audiences on students' writing. *American Educational Research Journal, 26*(2), 143–159. [doi:10.3102/00028312026002143](https://doi.org/10.3102/00028312026002143)
 
-`q3 · peer-reviewed within-subjects experiment, counterbalanced order` · `i? · no effect size reported in the abstract` · `n=44 students`
+`q3 · peer-reviewed within-subjects experiment, counterbalanced order` · `i? · no effect size reported in the abstract` · `n=44 students` · `causal · r2`
 
 Two seventh-grade classes in Jerusalem (22 students each) each wrote two compositions on the same topic: one addressed to peers in other countries via a computer network, to share ideas, and one to their teacher for their semester grade, with the order counterbalanced. In both order conditions, papers written to communicate with peers were rated significantly higher than those written for the grade. The authors frame two possible explanations for children's weak audience awareness, slow social-cognitive development or the decontextualised way writing is taught, and conclude that functional writing environments can improve the quality of classroom writing; the study does not rule the first explanation out. The sample is small and uses intact classes in one school setting.
 
@@ -60,7 +66,7 @@ Two seventh-grade classes in Jerusalem (22 students each) each wrote two composi
 
 Block, M. K., & Strachan, S. L. (2019). The impact of external audience on second graders' writing quality. *Reading Horizons, 58*(2), 68–93. No DOI registered in Crossref; stable URL: [scholarworks.wmich.edu/reading_horizons/vol58/iss2/5](https://scholarworks.wmich.edu/reading_horizons/vol58/iss2/5)
 
-`q3 · peer-reviewed within-subjects comparison` · `i? · no effect size reported in the abstract` · `n=? (not stated in the abstract)`
+`q3 · peer-reviewed within-subjects comparison` · `i? · no effect size reported in the abstract` · `n=? (not stated in the abstract)` · `causal · r?`
 
 Second-grade students each wrote for an internal audience (the usual classroom task, evaluated by the teacher) and for an external audience, and the two sets of texts were compared for writing quality. Children were more likely to produce higher-quality writing for the external audience. The study extends earlier findings with older students down to beginning writers. Only the ERIC abstract could be read, so the sample size, measures and magnitude are not recorded here.
 
@@ -68,7 +74,7 @@ Second-grade students each wrote for an internal audience (the usual classroom t
 
 Magnifico, A. M. (2010). Writing for whom? Cognition, motivation, and a writer's audience. *Educational Psychologist, 45*(3), 167–184. [doi:10.1080/00461520.2010.493470](https://doi.org/10.1080/00461520.2010.493470)
 
-`q2 · narrative review` · `i? · no effect size (conceptual review)` · `n=N/A (narrative review)`
+`q2 · narrative review` · `i? · no effect size (conceptual review)` · `n=N/A (narrative review)` · `review · r?`
 
 A review of research on the cognitive and social processes of writing, conceptions of audience, writing across learning environments, and writers' motivation. It argues that how a writer understands their audience is linked to their motivation and interest, and that this link bridges the cognitive and sociocultural research traditions. It supports the mechanism this claim proposes, not the size of the effect, and calls for further research on audience in new-media learning environments.
 

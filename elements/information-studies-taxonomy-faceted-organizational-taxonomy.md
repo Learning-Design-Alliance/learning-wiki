@@ -17,7 +17,7 @@ sources:
 # Information Studies Taxonomy: a faceted organizational taxonomy for a digital repository
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Information Studies Taxonomy was developed to organize resources in a digital repository at the Division of Information Studies, Nanyang Technological University, Singapore, supporting students and faculty in locating resources for teaching, learning and research tasks. It used "a faceted organization scheme" with five major facets identified from analysis of existing resources, stakeholder interviews and task analysis: Courses, Research groups, Resource types, Information types and Topics. "The first version of the Information studies taxonomy, used in this study, comprised seven facets and about 540 categories." The subject facet (Topics) was the largest with twelve main categories and more than 440 categories, and the taxonomy was implemented in the University e-learning platform using the TLE-Equella software.

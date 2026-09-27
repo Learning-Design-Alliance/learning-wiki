@@ -16,7 +16,7 @@ sources:
 # The univocal language of inquiry: the language of reasons across disciplines
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Siegel argues that although techniques of inquiry differ across disciplines, inquiry is fundamentally the same activity everywhere: the creation and critical examination of reasons and their power to warrant hypotheses. He claims 'The language of inquiry, I am claiming, just is the language of reasons,' a common linguistic apparatus for conducting responsible inquiry that stands alongside diverse disciplinary 'languages' (such as the physicist's 'sees' or the anthropologist's 'empathy'). This univocal language lets investigators comprehend diverse disciplinary activity as inquiry, extend results beyond their disciplinary home, and evaluate them in a broader context.

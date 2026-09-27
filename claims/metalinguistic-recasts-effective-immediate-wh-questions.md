@@ -15,12 +15,14 @@ sources:
     author: Ehsan Rassaei, Ahmad Moinzadeh
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only recasts and metalinguistic feedback had a significant effect on learners' post-test performance; clarification requests did not differ from the control group. [→ Ehsan Rassaei 2011](#ehsan-rassaei-2011)
@@ -31,7 +33,7 @@ sources:
 
 Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Quasi-experimental study of 134 Iranian EFL learners in four intact classes; one-way ANOVA on immediate post-test grammaticality judgment scores gave F (3, 130) = 33.3, with Tukey post-hoc comparisons showing "No statistically significant difference, on the other hand, was observed between clarification and control groups."
 

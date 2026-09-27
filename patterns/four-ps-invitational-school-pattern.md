@@ -17,7 +17,7 @@ sources:
 # The Four P's: aligning places, people, policies, and programs to make each school day an invitation to learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes school practice around four coordinated levers: 'the places (classrooms, offices, hallways, commons, restrooms, playing fields, gymnasiums, lawns, libraries); the people...; the policies (rules, codes, regulations, procedures), and programs (curricular and extracurricular, including the spirit in which the programs are conducted).' Educators who pay careful attention to these four can ensure that each school day invites learning. Places are recommended as the starting point because they are the most visible and easiest to change.

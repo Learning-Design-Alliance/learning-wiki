@@ -15,18 +15,22 @@ sources:
     author: "Armbruster, B. B., & Anderson, T. H."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: armbruster-1982-2
     resource: "https://eric.ed.gov/?id=ED218595"
     title: "Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595"
     author: "Armbruster, B. B., & Anderson, T. H."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In frame-based evaluations of three fifth-grade social studies excerpts about the transcontinental railroad, the first two answered little beyond the Action question, the third answered three of the four frame slot questions, and none answered the Outcome question. [→ Armbruster 1982](#armbruster-1982)
@@ -38,7 +42,7 @@ sources:
 
 Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The authors' own two-stage frame analysis of three fifth-grade textbook excerpts found that the first answered only the Action question and the second answered the Action question and, "Sort of", the Goal; the third "does a much better job of answeringthe questions than the 4 preceding -two texts", answering the Goal, Plan and Action questions, yet none of the three answered the Outcome question. The evaluation is the authors' subjective analysis, not a study with learners.
 
@@ -48,7 +52,7 @@ The authors' own two-stage frame analysis of three fifth-grade textbook excerpts
 
 Armbruster, B. B., & Anderson, T. H. (1982). Structures for Explanations in History Textbooks or So What If Governor Stanford Missed the Spike and Hit the Rail? (Technical Report No. 252). https://eric.ed.gov/?id=ED218595
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Summarizing all three excerpts, the authors write that events are described "in exquisite detail" and that "The details are there, but the mideas are largely missing.", judging that authors elaborated colorful events at the expense of goals, motives, and outcomes.
 

@@ -15,12 +15,14 @@ sources:
     author: "Wiboonwachara, L., & Charubusp, S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Thirty-one respondents (96.88%) stated GBSRI activities helped improve their writing ability, and collaborative activities were the most preferred activity (30.30% of open-ended responses). [→ Wiboonwachara 2022](#wiboonwachara-2022)
@@ -31,7 +33,7 @@ sources:
 
 Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Open-ended questionnaire content analysis; respondents most preferred "collaborative activities, e.g., group discussions, group writing, and pair work the most (30.30%)", followed by teacher's explicit examination during online conferences (21.21%) and creative presentations (15.15%).
 

@@ -15,12 +15,14 @@ sources:
     author: Truong, T. D.
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` In a multiple linear regression on survey data from 455 respondents, leadership was the strongest and most significant predictor of governance effectiveness (β = 0.21, p < 0.001). [→ Truong 2025](#truong-2025)
@@ -31,7 +33,7 @@ sources:
 
 Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method Investigation. Educational Process: International Journal, 19, e2025605. https://doi.org/10.22521/edupij.2025.19.605
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Multiple linear regression (Table 8) on a 455-respondent survey of Vietnamese university staff, faculty, and administrators. The article reports that "Leadership emerged as the strongest predictor (β = 0.21, p < 0.001)" among six factors; only the printed coefficients are reported here.
 

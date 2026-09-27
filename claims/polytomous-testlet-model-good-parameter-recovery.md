@@ -15,12 +15,14 @@ sources:
     author: Yanmei Li, Shuhong Li, and Lin Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The general polytomous testlet model recovers true item parameters well in simulation, with average correlations of 0.9680, 0.8608, and 0.9982 for discrimination and difficulty parameters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a simulation study with 2000 examinees per data set and 20 simulated data sets, the general polytomous testlet model showed good recovery of item discrimination and difficulty parameters. [→ Yanmei Li 2010](#yanmei-li-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Simulation study mimicking the real test structure (3 passages, 14 items each, last item polytomously scored 0-2), 2000 examinees per data set, ten data sets under each of two testlet-effect conditions. The report states the "average correlation across the two conditions" for discrimination and difficulty parameters and calls the RMSD values "reasonably low".
 

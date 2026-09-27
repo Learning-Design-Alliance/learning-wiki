@@ -15,12 +15,14 @@ sources:
     author: Grognet, Allene Guss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Social identity and power relations between speakers mediate when and whether older refugees communicate in English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` A learner's ability to communicate successfully in some situations and not others is mediated by the relationship of power between speakers, as illustrated by an educated man who ventured into English when positioned as a father. [→ Grognet 1997](#grognet-1997)
@@ -31,7 +33,7 @@ sources:
 
 Grognet, Allene Guss. (1997). Elderly Refugees and Language Learning. Center for Applied Linguistics. https://eric.ed.gov/?id=ED416721
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The digest illustrates this with a case anecdote: an educated man working in fast food "ventured forth into English, positioning himself as a father" when told to clean up by teenaged co-workers, gaining more equitable treatment.
 

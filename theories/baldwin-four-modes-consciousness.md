@@ -16,7 +16,7 @@ sources:
 # Baldwin's four successive modes of consciousness embedded in the growth of logical thought
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Baldwin proposed four "modes of consciousness" embedded in the growth of logical thought: prelogical, quasi-logical, logical, and hyperlogical. A mode is defined as "the most basic level of making sense of the world in a given period of development." Logical validities of one mode do not hold in the next but are succeeded through successive reorganization of function, producing what Baldwin called a comparative logic of successive reinterpretations.

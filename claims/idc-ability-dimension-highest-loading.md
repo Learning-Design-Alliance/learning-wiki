@@ -15,12 +15,14 @@ sources:
     author: "Khaewphuang, P., & Nuangchalerm, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the second-order CFA, the Ability dimension loaded highest (0.989), followed by Knowledge (0.976) and Personal Attributes (0.890). [→ Khaewphuang 2025](#khaewphuang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Khaewphuang, P., & Nuangchalerm, P. (2025). Components and Indicators of Instructional Design Competence for Thai Pre-Service Teachers. Journal of Practical Studies in Education, 6(2), 14-22. https://doi.org/10.46809/jpse.v6i2.97
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Second-order CFA of questionnaire responses from 471 pre-service teachers. The article reports the Ability dimension "had the highest standardized factor loading at 0.989," with Knowledge at 0.976 and Personal Attributes at 0.890 (per Table 3).
 

@@ -15,12 +15,14 @@ sources:
     author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Applying the permeability analysis to the magnet fails; assuming µair, one can only estimate the magnet's magnetic dipole m. [→ V.O.M. Lara 2014](#vom-lara-2014)
@@ -31,7 +33,7 @@ sources:
 
 V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the magnet variant of the demonstration-set experiment; the authors state that "all that one is able to make is an estimate for the magnet magnetic dipole m, assuming the value for µair".
 

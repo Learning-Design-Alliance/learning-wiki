@@ -15,12 +15,14 @@ sources:
     author: "Mahmoud Abdi Tabari & Iman Abdi Tabari"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The two textbook series differ significantly in the distribution of intelligences across learning objectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A chi-square test showed a statistically significant difference between the two series' grids of intelligences and learning objectives. [→ Mahmoud Abdi Tabari & Iman Abdi Tabari 2015](#mahmoud-abdi-tabari-iman-abdi-tabari-2015)
@@ -31,7 +33,7 @@ sources:
 
 Mahmoud Abdi Tabari & Iman Abdi Tabari. (2015). Links between Bloom's Taxonomy and Gardener's Multiple Intelligences: The issue of Textbook Analysis. Advances in Language and Literary Studies, 6(1). https://doi.org/10.7575/aiac.alls.v.6n.1p.94
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Chi-square comparison of the coded frequency grids for the high school textbooks and the Interchange series, reported in the Results section: "a statistically significant difference between them (x2=52.11, df=7, ρ=0)". No effect size is printed.
 

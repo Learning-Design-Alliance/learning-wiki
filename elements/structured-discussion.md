@@ -17,7 +17,7 @@ sources:
 # Structured Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q2`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open. It is useful when the goal is to make discussion more equitable, rigorous, and productive.

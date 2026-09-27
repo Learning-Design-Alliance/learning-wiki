@@ -17,7 +17,7 @@ sources:
 # Teach writing based on reading so learners use meaningful input to accomplish output tasks
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because writing must be taught within intensive reading classes for non-English majors, the article recommends integrating the two: “Reading provides the students with the meaningful language input, which includes not only the linguistic constitutes but also the way the authors organize their ideas”. Students mine this input for elements that help them complete writing tasks, making writing the output-driven objective and reading the enabling input. The principle rests on the output-driven, input-enabled hypothesis and on reading-writing connection research.

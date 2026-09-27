@@ -15,18 +15,22 @@ sources:
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: crumley-2015-2
     resource: "https://arxiv.org/abs/0706.1985"
     title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Having solar wind parameters vary linearly with time leads to poor results because changes take time to propagate through the magnetosphere. [→ Crumley 2015](#crumley-2015)
@@ -38,7 +42,7 @@ sources:
 
 Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Instructor-reported outcome from the lab-development section describing early versions of the simulation exercise in which students varied solar wind speed and density linearly. No effect size or test statistic is printed.
 
@@ -48,7 +52,7 @@ Instructor-reported outcome from the lab-development section describing early ve
 
 Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Instructor-reported improvement from the lab-development section: after switching to the stair-step input pattern shown in Figure 4, student results improved substantially. The authors note the instructions for creating the pattern have evolved over time. No effect size is printed.
 

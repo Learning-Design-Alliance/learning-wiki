@@ -15,12 +15,14 @@ sources:
     author: "Olejnik, Stephen F. & Algina, James"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Rank ANCOVA tends to a liberal test when the covariate and errors are non-normal, sample sizes are small, alpha = .01, and the covariate-posttest relationship is weak
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Rank ANCOVA tended to lead to a liberal test under combined non-normal covariate and errors with n1 = n2 = 5, alpha = .01, and rho = .3. [→ Olejnik 1983](#olejnik-1983)
@@ -31,7 +33,7 @@ sources:
 
 Olejnik, Stephen F. & Algina, James. (1983). Parametric ANCOVA vs. Rank Transform ANCOVA when Assumptions of Conditional Normality and Homoscedasticity Are Violated. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED231882
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Simulation conclusions section: under the stated combination of non-normal covariate and errors, small equal samples, nominal alpha .01, and weak relationship, the rank transform approach produced liberal actual alpha levels; under all other non-normal conditions it was quite robust.
 

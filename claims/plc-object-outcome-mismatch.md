@@ -15,12 +15,14 @@ sources:
     author: "Harvey, F., & Teledahl, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Outcomes of PLC in mathematics fall into three categories (changed collaboration norms, enhanced understanding of mathematics and its teaching, enhanced ability to design and carry out mathematics teaching), but the stated object does not always correspond with the outcome; only three studies showed complete correspondence. [→ Harvey 2022](#harvey-2022)
@@ -31,7 +33,7 @@ sources:
 
 Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Synthesis of reported outcomes across the 32 studies. The review found "only three studies in which there was a complete correspondence between object and outcome", six studies with non-corresponding outcomes, and eight studies with additional unintended outcomes.
 

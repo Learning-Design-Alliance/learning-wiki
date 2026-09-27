@@ -14,7 +14,7 @@ grain_size: lesson
 # Five "E" Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 3 report an effect size
 
 ## Description
 The Five "E" Model is a popular pattern for implementing [constructivism](../theories/constructivism.md) in the classroom, defined by the Biological Science Curriculum Study (BSCS). It sequences a constructivist lesson through five stages: students **Engage** with the topic, **Explore** it directly, **Explain** their experience, **Elaborate** on the concept, and undergo **Evaluate**ion — with evaluation feeding back into the next cycle of lessons rather than only closing the current one.

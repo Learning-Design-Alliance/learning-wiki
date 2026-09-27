@@ -15,12 +15,14 @@ sources:
     author: "Doctor, R. M., & Marziani, A. W."
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` When subjects were subdivided by awareness, aware external subjects accounted for the conditioning effect whereas aware internal subjects, unaware subjects, and controls showed essentially no change in performance. [→ Doctor 1971](#doctor-1971)
@@ -31,7 +33,7 @@ sources:
 
 Doctor, R. M., & Marziani, A. W. (1971). Locus of Control of Reinforcement and Responsiveness to Social Influence. San Fernando Valley State College. https://eric.ed.gov/?id=ED055283
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Post-experimental Spielberger awareness interviews were scored by two judges (interjudge agreement 95%); 23 subjects were classified as aware and 25 as unaware. A significant awareness-by-I-E-status interaction (F = 4.10, df 1/44, p < .05) indicated aware ESs accounted for the performance gains.
 

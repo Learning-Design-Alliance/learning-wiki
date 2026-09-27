@@ -15,12 +15,14 @@ sources:
     author: MacKain, Sally Joy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Gender understanding increased with age and no sex differences were found
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Success at each level of gender understanding increased with age in months, and no sex differences were found. [→ MacKain 1987](#mackain-1987)
@@ -31,7 +33,7 @@ sources:
 
 MacKain, Sally Joy. (1987). Gender Constancy: A Realistic Approach. https://eric.ed.gov/?id=ED286583
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section of the 12-child study (6 boys, 6 girls). The article reports "Success at each level increased with age, as calculated in months" and no sex differences, consistent with prior studies per the authors.
 

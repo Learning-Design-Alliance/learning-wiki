@@ -16,7 +16,7 @@ sources:
 # Listening as an active process of constructing meaning from a stream of sounds
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies, `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper argues that although listening is classified as a receptive skill, it is not passive: "Listeners do not passively absorb the words, but actively attempt to grasp the facts and feelings in what they hear". It reviews definitions from Chastain, Morley, Postovsky, Goss, James and others who treat listening comprehension as an activity in which listeners employ mental processes to decode meaning from oral texts, and O'Malley, Chamot and Kupper's account of listening as an active, conscious process using contextual cues and existing knowledge.

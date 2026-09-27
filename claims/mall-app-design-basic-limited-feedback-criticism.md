@@ -15,12 +15,14 @@ sources:
     author: Rosell-Aguilar, F.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Language-learning app design is criticized as basic, replicating earlier technologies with limited instruction and feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Burston (2014), that language-learning activities on mobile apps are basic and have mostly replicated what was done before with other technologies. [→ Rosell-Aguilar 2017](#rosell-aguilar-2017)
@@ -31,7 +33,7 @@ sources:
 
 Rosell-Aguilar, F. (2017). State of the App: A Taxonomy and Framework for Evaluating Language Learning Mobile Applications. CALICO Journal. https://doi.org/10.1558/cj.27623
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative literature review section 2.1. The review attributes this criticism to Burston (2014) and adds that many apps "provide exercises that test the user without first providing instruction" and that feedback tends to be limited to a check mark or a cross.
 

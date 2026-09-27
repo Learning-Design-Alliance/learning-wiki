@@ -15,12 +15,14 @@ sources:
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Positive professor relationship qualities (guidance, satisfaction, nurturance, reassurance of competence, power) correlated with civic action, diversity, and political awareness, while conflict and antagonism negatively correlated with social justice and diversity attitudes. [→ Harkins 2021](#harkins-2021)
@@ -31,7 +33,7 @@ sources:
 
 Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i1`
+`q3 · i1` · `associational · r2`
 
 Correlational analyses across all 125 participants examined professor-student NRI-SPV relationship variables against CASQ civic outcomes. The article also reports negative correlations: conflict with social justice (r = -.27, p < .05) and antagonism with social justice (r = -.42, p < .001).
 

@@ -15,18 +15,22 @@ sources:
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: zhang-2023-2
     resource: "https://doi.org/10.1007/s10488-022-01248-5"
     title: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5"
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` School-level aggregated strategic leadership showed significant associations with all four attitudinal dimensions while general leadership showed none. [→ Zhang 2023](#zhang-2023)
@@ -38,7 +42,7 @@ sources:
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel models on 441 implementers in 52 schools (Level 2: N = 52) tested school-aggregated leadership and climate as predictors of the four EBPAS dimensions; the results and discussion report that "neither gen- eral leadership nor climate exhibited significant associations" at the organizational level.
 
@@ -48,7 +52,7 @@ Multilevel models on 441 implementers in 52 schools (Level 2: N = 52) tested sch
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the climate models from the same multilevel analysis, "only stra- tegic climate was significantly associated with Require- ment, Openness, and Appeal" at the organizational level; Table 8 shows organizational-level general climate was nonsignificant for all four dimensions.
 

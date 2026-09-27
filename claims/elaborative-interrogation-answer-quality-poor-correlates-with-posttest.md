@@ -15,24 +15,30 @@ sources:
     author: "Clinton, V., Alibali, M. W., & Nathan, M. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: clinton-2016-2
     resource: "https://doi.org/10.1080/00220973.2015.1048847"
     title: "Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847"
     author: "Clinton, V., Alibali, M. W., & Nathan, M. J."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: clinton-2016-3
     resource: "https://doi.org/10.1080/00220973.2015.1048847"
     title: "Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847"
     author: "Clinton, V., Alibali, M. W., & Nathan, M. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i?` The overwhelming majority of elaborative interrogation answers were missing, circular, wrong, or inadequate. [→ Clinton 2016](#clinton-2016)
@@ -45,7 +51,7 @@ sources:
 
 Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Rubric-coded answers (Cohen's κ = .84 reliability) from the elaborative-interrogation condition. The average score was 4.80 (SD = 2.27) out of 18, with 37% missing, circular, or wrong and 51% inadequate.
 
@@ -55,7 +61,7 @@ Rubric-coded answers (Cohen's κ = .84 reliability) from the elaborative-interro
 
 Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Spearman rank-order correlation between elaborative interrogation answer quality and posttest accuracy in the elaborative-interrogation condition: ρ(62) = .40, p = .001. Correlational, not causal.
 
@@ -65,7 +71,7 @@ Spearman rank-order correlation between elaborative interrogation answer quality
 
 Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Spearman rank-order correlation in the embedded-questioning condition (mean 3.08 of 6 correct, SD = 1.70): ρ(54) = .11, p = .44, no association with posttest scores.
 

@@ -15,18 +15,22 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ward-1970-2
     resource: "https://eric.ed.gov/?id=ED045766"
     title: "Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766"
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A significant group effect appeared in baseline data for Similarities and Line Drawings, with the Delayed Reward group giving fewer baseline responses. [→ Ward 1970](#ward-1970)
@@ -38,7 +42,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Four 3 x 2 x 2 analyses of variance on baseline data per task found a group effect for Similarities and Line Drawings; "Subjects who received the Delayed Reward treatment in Session 2 gave fewer responses in base line assessment".
 
@@ -48,7 +52,7 @@ Four 3 x 2 x 2 analyses of variance on baseline data per task found a group effe
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Null results from the same baseline analyses of variance: "No sex differences or order effects were found" across the four tasks.
 

@@ -15,12 +15,14 @@ sources:
     author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Frame-by-frame video analysis of a student's vertical jump produced a slope estimate of g of -10.1 m/s², which the authors report compares well with the local value of -9.7996 m/s². [→ Barber et al. 2007](#barber-et-al-2007)
@@ -31,7 +33,7 @@ sources:
 
 Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Numerical analysis of videotaped vertical jump data shown in figure 2, with velocity derived from position data at 30 frames per second. A linear fit to the free-fall region gave "The value of -10.1 m/s 2 is the estimate of g" against the local plaque value of -9.7996 m/s².
 

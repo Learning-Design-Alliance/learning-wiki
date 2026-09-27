@@ -15,12 +15,14 @@ sources:
     author: Winnick, Joseph P., and Ronald W. French, eds
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Task complexity moderates the age difference in serial motor task performance: five-year-olds had trouble only when the serial task taxed memory, and performed nearly as well as nine-year-olds when it was kept simple. [→ Winnick 1975](#winnick-1975)
@@ -31,7 +33,7 @@ sources:
 
 Winnick, Joseph P., and Ronald W. French, eds. (1975). Piaget for Regular and Special Physical Educators and Recreators. State University College, Brockport. https://eric.ed.gov/?id=ED117874
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Zaichkowsky reports his own 1974 study on memory development in a serial motor task, supporting Piaget's claim that memory interacts with developmental stage: 'five year old children experienced trouble in performing a serial motor task which taxed the memory abilities' but performed nearly as well as nine-year-olds on the simple version.
 

@@ -15,12 +15,14 @@ sources:
     author: "Dowdy, E., & Kamphaus, R. W."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The person-oriented method predicted number of days absent significantly better than the categorical method; no significant differences emerged among methods for days tardy. [→ Dowdy 2007](#dowdy-2007)
@@ -31,7 +33,7 @@ sources:
 
 Dowdy, E., & Kamphaus, R. W. (2007). A Comparison of Classification Methods for Use in Predicting School-Based Outcomes. The California School Psychologist, 12, 121-132. https://eric.ed.gov/?id=EJ896649
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Regression comparison for attendance outcomes in the 558-child sample. Predicted days absent correlated .246 (cluster) versus .174 (categorical); R squared values were .030-.060 for absence and .006-.017 for tardiness. The article reports "No significant differences were noted between the three possible methods of predicting the number of days a student was tardy."
 

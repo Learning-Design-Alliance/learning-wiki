@@ -15,18 +15,22 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: rijmen-2009-2
     resource: "http://www.ets.org/research/contact.html"
     title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html"
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The computational complexity of a full information MML procedure exploiting the model's conditional independence relations scales with the number of latent variables within a subset, which may be substantially lower than the total number of latent variables. [→ Rijmen 2009](#rijmen-2009)
@@ -38,7 +42,7 @@ sources:
 
 Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Analytical statement from the introduction, elaborated in the junction tree algorithm section where the E-step's complexity is stated to scale with "the sum of the clique state spaces", so smaller clique state spaces yield greater efficiency gains over the standard EM algorithm.
 
@@ -48,7 +52,7 @@ Analytical statement from the introduction, elaborated in the junction tree algo
 
 Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Boundary-condition statement from the Discussion, grounding the earlier observation that with Gaussian quadrature "the number of calculations involved increases exponentially with the number of dimensions". Such unstructured models are mostly considered at an exploratory stage, where MML results are not crucial.
 

@@ -15,12 +15,14 @@ sources:
     author: Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` First-generation chemists may experience a persistent sentiment of not belonging that manifests as imposter syndrome, reducing confidence and causing hesitation in pursuing opportunities or advocating for themselves. [→ Ives Robert A. 2026](#ives-robert-a-2026)
@@ -31,7 +33,7 @@ sources:
 
 Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling. (2026). Reconsidering Excellence in the Chemical Sciences: Lessons from First-Generation Chemists. ACS Central Science. https://doi.org/10.1021/acscentsci.6c00822
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Reflective editorial section identifying psychological factors as an "often underrecognized" barrier, based on the authors' lived experiences. The sentiment of "do I even belong here?" is described as hindering visibility and seizing of opportunities.
 

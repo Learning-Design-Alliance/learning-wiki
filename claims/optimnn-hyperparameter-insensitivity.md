@@ -15,12 +15,14 @@ sources:
     author: Badrinath, A. and Pardos, Z.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In ablations on AST09, OptimNN reaches an optimal model after one epoch regardless of learning rate, while SGD fails within 12 epochs for 3 of 4 learning rates; varying layers and hidden size has effectively no effect on OptimNN performance. [→ Badrinath 2023](#badrinath-2023)
@@ -31,7 +33,7 @@ sources:
 
 Badrinath, A. and Pardos, Z. (2023). Optimizing Bayesian Knowledge Tracing with Neural Network Parameter Generation. https://github.com/abadrinath947/OptimNN
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Ablation studies (Section 6.5, Table 5, Figure 6) on AST09 varying layers, hidden size, and learning rate (1e-4 to 1e-2). The paper reports "effectively no difference on the performance in any metric" across layers and embedding dimensions for OptimNN.
 

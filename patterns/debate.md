@@ -13,7 +13,7 @@ grain_size: lesson
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 mixed, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 mixed, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.

@@ -15,18 +15,22 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: rijmen-2010-2
     resource: "https://www.ets.org/research/contact.html"
     title: "Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html"
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` For within-occasion bifactor and second-order models with a first-order Markov structure on the general dimension, no clique contains more than two latent variables, making the models computationally tractable. [→ Rijmen 2010](#rijmen-2010)
@@ -38,7 +42,7 @@ sources:
 
 Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Graphical analysis of within-occasion bifactor (D = 3 + 1) and second-order models with a first-order Markov structure on the general dimension over T = 3 occasions. The article reports that "no clique contains more than two latent variables," so both models are tractable.
 
@@ -48,7 +52,7 @@ Graphical analysis of within-occasion bifactor (D = 3 + 1) and second-order mode
 
 Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Graphical derivation for the tri-factor model (D specific dimensions per occasion, T general dimensions over time, one overarching dimension). The article finds the complexity "of the same order" as the unidimensional within-occasion model, with at most three latent variables per clique.
 

@@ -15,12 +15,14 @@ sources:
     author: Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Educational attainment was not significantly associated with persistence in either phase, suggesting alternative pathways do not require traditional educational credentials for persistence. [→ Huang 2025](#huang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Null finding from the generalized ordered logistic regression on 524 LC101 participants. The article reports that "educational attainment was not significantly associated with persistence in either of these phases," a non-significant result with no printed effect size.
 

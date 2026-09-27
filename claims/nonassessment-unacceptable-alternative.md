@@ -15,12 +15,14 @@ sources:
     author: Gentile, J. Ronald
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Some assessment of whether each student attained the objectives is necessary; teaching cannot be claimed to have occurred without it. [→ Gentile 1971](#gentile-1971)
@@ -31,7 +33,7 @@ sources:
 
 Gentile, J. Ronald. (1971). Toward Excellence in Teaching: Grading Practices. https://eric.ed.gov/?id=ED061264
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument against the free-school extreme of no assessment: "sore assessment of whether each student has attained the objectives is necessary," though tests are not the only means. The author says learning may occur without objectives but a teacher must show what was taught was learned.
 

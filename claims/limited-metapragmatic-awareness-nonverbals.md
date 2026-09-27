@@ -15,12 +15,14 @@ sources:
     author: Catherine Rockey, Jessica Tiegs, and Julieta Fernández
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In spoken immediate-recall explanations, participants most often cited familiarity, formality, and politeness, but only one participant mentioned a nonverbal device. [→ Catherine Rockey 2020](#catherine-rockey-2020)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Rockey, Jessica Tiegs, and Julieta Fernández. (2020). Mobile Application Use in Technology-Enhanced DCTs. CALICO Journal. https://doi.org/10.1558/cj.38773
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative thematic analysis of immediate-recall recordings from 6 of the 13 participants (5 L2, 1 L1). Most frequent motivations were familiarity (39 mentions), formality (22), and politeness (11); only one participant mentioned waving, in four scenarios.
 

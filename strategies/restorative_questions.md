@@ -12,7 +12,7 @@ generated:
 # Restorative Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q1`–`q4` · 1 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Restorative questions are a small set of open-ended prompts used in restorative practices to elicit reflection from those who have caused harm and those affected by it. The canonical forms are: *What happened? What were you thinking at the time? Who has been affected and how? What do you need to do to make things right?* Rather than assigning blame or prescribing consequences, the facilitator holds the structure while the participants generate the account, the impact analysis, and the repair plan.

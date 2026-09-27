@@ -17,7 +17,7 @@ sources:
 # Explanation questions divide into cause-seeking, effect-seeking, and causal-elaboration types with distinct answer structures
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Explanation questions are analyzed with a simple cause-effect model and split into three major types: questions that give an effect and ask about the cause (Why-Action, Why-Conflict, Why-Reaction, and Why-Effect), questions that give a cause and ask about the effects (What-Effects and Why-Importance-of-Cause), and questions asking for elaboration of the causal connection between a specified cause and effect (How did A affect B). The report states that "By far the most common type of Explanation question in social studies textbooks asks why or how a given event or outcome took place." Each subtype carries its own general answer structure, such as Action because Goal for Why-Action questions.

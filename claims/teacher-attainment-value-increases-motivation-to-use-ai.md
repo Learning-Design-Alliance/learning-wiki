@@ -15,12 +15,14 @@ sources:
     author: Yurt, E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper argues that when teachers believe AI technologies will significantly contribute to their professional success and identity, they may be more motivated to use them. [→ Yurt 2024](#yurt-2024)
@@ -31,7 +33,7 @@ sources:
 
 Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the attainment value section, with no new data: attainment value is tied to teachers' professional identities, and "they may be more motivated to use these technologies" when AI is seen as contributing to professional success.
 

@@ -15,12 +15,14 @@ sources:
     author: "Hu, C., & Li, Y."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In L1 essays and functions as a multifunctional DC, including a pattern of and I think/feel/don't think/agree that/this occurring 85 times in ENS1, whereas L2 use of and mainly indicates an additive relationship. [→ Hu 2015](#hu-2015)
@@ -31,7 +33,7 @@ sources:
 
 Hu, C., & Li, Y. (2015). Discourse Connectives in L1 and L2 Argumentative Writing. Higher Education Studies. https://doi.org/10.5539/hes.v5n4p30
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 Follow-up qualitative concordance analysis of and in the ENS1 sub-corpus (Section 4.2.1). The article argues and here functions as a resultive DC with a weaker degree than so, and that L2 writers prefer explicit devices like besides, moreover and in addition, which mark addition more explicitly and reduce reader effort.
 

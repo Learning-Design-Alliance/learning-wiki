@@ -15,18 +15,22 @@ sources:
     author: Yildirim, Z.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: yildirim-2003-2
     resource: "https://eric.ed.gov/?id=ED493521"
     title: "Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521"
     author: Yildirim, Z.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Correlation analysis showed no significant relationship between attitudes toward group work and achievement goal orientation profiles. [→ Yildirim 2003](#yildirim-2003)
@@ -38,7 +42,7 @@ sources:
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlation analysis (Table 3) among 48 students; group work attitude vs. work avoidant correlation was -.171 (p=.255) and vs. mastery .329 (p=.023, not marked significant at the .01 level). No equivalence test was conducted.
 
@@ -48,7 +52,7 @@ Correlation analysis (Table 3) among 48 students; group work attitude vs. work a
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlation analysis (Table 3); the attitude–discussion collaboration coefficient was -.232 (p=.113) with no starred significance printed for that pair, so the article's stated correlation rests on its narrative claim; no effect size is printed in the supporting text.
 

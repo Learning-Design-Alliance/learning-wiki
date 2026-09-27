@@ -16,7 +16,7 @@ sources:
 # Internalization-based mapping between SDT motivation types and L2MSS self constructs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes the two motivation theories along a shared internalization continuum. SDT postulates distinct motivation types along a continuum of self-determination, while the L2MSS comprises "the ideal L2 self, the ought-to L2 self, and the L2 learning experience." The authors argue the ideal L2 self matches identified regulation, the ought-to L2 self matches introjected regulation, and Teimouri's ought-to L2 self/own and /others correspond to introjected and external regulation respectively. The study's correlations empirically support this mapping.

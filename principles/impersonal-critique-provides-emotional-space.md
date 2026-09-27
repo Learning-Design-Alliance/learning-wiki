@@ -17,7 +17,7 @@ sources:
 # Use an impersonal, procedure-driven critique format so challenges to students' basic assumptions come from the method, not the instructor
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper recommends CRITO as an affective strategy: because its demands appear impersonal and objective, challenges to students' considered judgments issue from the students themselves as they apply general rules of good reasoning, rather than from the instructor. The author argues this "may help to provide the emotional space in which students can accept and learn from nontrivial challenges to their most basic assumptions."

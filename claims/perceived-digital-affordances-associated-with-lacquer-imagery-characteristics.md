@@ -15,12 +15,14 @@ sources:
     author: Liu Yuanyuan
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Perceived immersive affordance is positively associated with sensible scene (β = 0.45, p < 0.001). [→ Liu Yuanyuan 2026](#liu-yuanyuan-2026)
@@ -33,7 +35,7 @@ sources:
 
 Liu Yuanyuan. (2026). Audience attitudes and aesthetic perception of digitally empowered contemporary lacquer painting: a survey-based technology-imagery-perception model. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1866076
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Multiple regression (forced-entry, gender and education as controls) on 425 valid questionnaires; all three affordance-to-imagery models significant at p < 0.001 with adjusted R2 of 0.31, 0.29, and 0.27, supporting H1–H3 as "positively associated" adjusted associations rather than causal effects.
 

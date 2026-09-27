@@ -15,18 +15,22 @@ sources:
     author: Shu Jing Yen, Leah Walker
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: shu-jing-yen-2007-2
     resource: "https://eric.ed.gov/?id=ED504361"
     title: "Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361"
     author: Shu Jing Yen, Leah Walker
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Speaking scale scores correlated .91 and .92 with the Oral scale score across the two levels, which the authors attribute to the polytomous Speaking test dominating the simultaneous calibration. [→ Shu Jing Yen 2007](#shu-jing-yen-2007)
@@ -38,7 +42,7 @@ sources:
 
 Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Pearson correlations between previously calibrated scale scores for lower and upper elementary samples (Table 1.4). The authors report "values of .91 and .92 respectively" and attribute the dominance to the polytomously scored Speaking test.
 
@@ -48,7 +52,7 @@ Pearson correlations between previously calibrated scale scores for lower and up
 
 Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Same correlation analysis of scale scores (Table 1.4). The authors report the Listening-Speaking correlation is "only moderate for both levels with values of .42 and .45," which they say motivates a multidimensional approach.
 

@@ -13,6 +13,8 @@ sources:
     q: 3
     i: "?"
     n: 48
+    kind: causal
+    rigour: "?"
 id: example-problem-sequences-reduce-cognitive-load
 evidence_strength: moderate
 ---
@@ -20,7 +22,7 @@ evidence_strength: moderate
 # Example-problem sequences reduce cognitive load and improve learning outcomes.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=48
+> **Evidence** · 1 study · causal `r?` · `q3` · n=48
 
 Learners who study worked examples before or interleaved with practice problems tend to learn more efficiently than learners who only solve problems.
 
@@ -37,7 +39,7 @@ Primary evidence link: https://doi.org/10.1016/j.cedpsych.2010.10.004
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 
-`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=48`
+`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=48` · `causal · r?`
 
 Novices in all example-based conditions outperformed the problem-only condition and reported lower cognitive load. The result supports using sequences that mix modeled solutions and independent attempts instead of starting with unsupported problem solving.
 

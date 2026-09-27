@@ -15,12 +15,14 @@ sources:
     author: Emmanuel Imiere
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Palincsar and Brown (1984), that reciprocal teaching of reading was remarkably effective in raising reading comprehension test scores, especially those of poor readers. [→ Emmanuel Imiere 2019](#emmanuel-imiere-2019)
@@ -31,7 +33,7 @@ sources:
 
 Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Narrative review attributing the finding to Palincsar and Brown (1984); the article adds it is believed to be equally effective in writing and problem solving, but prints no effect size for the reading result.
 

@@ -12,7 +12,7 @@ generated:
 # Multi-Tiered System of Supports (MTSS)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (3 review, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 MTSS is a school-wide prevention framework in which all students receive high-quality universal (Tier 1) instruction, students flagged by screening receive supplemental targeted intervention (Tier 2, typically small group), and non-responders receive intensive individualized support (Tier 3). Decisions about movement between tiers are driven by continuous progress monitoring rather than referral or diagnosis, making it a data-based system for matching instructional intensity to student need.

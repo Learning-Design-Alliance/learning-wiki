@@ -15,18 +15,22 @@ sources:
     author: Yildirim, Z.
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
   - id: yildirim-2003-2
     resource: "https://eric.ed.gov/?id=ED493521"
     title: "Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521"
     author: Yildirim, Z.
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Task collaboration correlated with discussion/active listening (r=.883) and team functioning (r=.822), and discussion with team functioning (r=.783). [→ Yildirim 2003](#yildirim-2003)
@@ -38,7 +42,7 @@ sources:
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlation analysis (Table 3) among 48 students, all three inter-correlations significant at the .01 level (r=.883, r=.822, r=.783); the author concludes the collaboration behaviors are interrelated and members need all of them to function efficiently as a group.
 
@@ -48,7 +52,7 @@ Correlation analysis (Table 3) among 48 students, all three inter-correlations s
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Correlation analysis (Table 3), mastery-ego r=.437, p=.002; this correlation exceeds .37. The author interprets that students wanted recognition and rewards, such as grades and social approval, for their learning.
 

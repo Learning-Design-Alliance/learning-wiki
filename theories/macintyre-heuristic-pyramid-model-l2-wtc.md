@@ -16,7 +16,7 @@ sources:
 # MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies, `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article describes the comprehensive 1998 model of L2 willingness to communicate by MacIntyre, Clement, Dörnyei and Noels, which treats WTC as a situational rather than trait-like variable. It is illustrated by "a pyramid figure which has twelve constructs" depicting probable determinants of WTC in L2, and is called "the first attempt at a comprehensive treatment of WTC in the L2".

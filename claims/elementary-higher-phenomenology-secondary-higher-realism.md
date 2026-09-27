@@ -15,12 +15,14 @@ sources:
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Elementary education students show higher Phenomenology belief and lower Realism belief than secondary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Pooling graduate and undergraduate students, elementary students score higher on Phenomenology (65.85 vs 62.58, p = .01) and secondary students higher on Realism (40.15 vs 34.80, p = .001). [→ Starkey 1972](#starkey-1972)
@@ -31,7 +33,7 @@ sources:
 
 Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Teaching-level comparison pooling graduate and undergraduate students (Table X, N = 451); Phenomenology t = -2.96 (p = .01) and Realism t = 3.55 (p = .001) as printed.
 

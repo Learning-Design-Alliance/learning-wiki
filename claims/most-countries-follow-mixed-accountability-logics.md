@@ -15,12 +15,14 @@ sources:
     author: "Kim, T. & Yun, J. T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A few countries follow relatively pure accountability logics, but most countries follow mixed forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Examining joint patterns of control across the four school functions, only a few countries display a relatively pure control-based, professional-based, or process-based logic, while most countries mix logics. [→ Kim 2019](#kim-2019)
@@ -31,7 +33,7 @@ sources:
 
 Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Headline empirical finding from the cross-national TALIS 2013 analysis of school-level controls in assessment, HR, curriculum, and budget. The authors report that "a few countries followed a relatively pure form" of logic "however, most countries followed mixed -forms of logic."
 

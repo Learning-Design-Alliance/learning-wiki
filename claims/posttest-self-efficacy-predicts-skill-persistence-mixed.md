@@ -15,18 +15,22 @@ sources:
     author: Schunk, D. H.
     q: 3
     i: 1
+    kind: review
+    rigour: 2
   - id: schunk-1996-2
     resource: "https://eric.ed.gov/?id=ED394663"
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 3
     i: 0
+    kind: review
+    rigour: 2
 ---
 
 # Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i1`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i0`–`i1`
 
 ## Subclaims
 `q3 i1` In multiple regression analyses, self-efficacy accounted for a significant increment in the variability of posttest skill, with R-squared values ranging from .17 to .24. [→ Schunk 1996](#schunk-1996)
@@ -38,7 +42,7 @@ sources:
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q3 · i1`
+`q3 · i1` · `review · r2`
 
 Empirical evidence section reporting multiple regression analyses across content domains (long division, subtraction, fractions, comprehension, writing). Posttest self-efficacy-skill correlations ranged from r = .27 to .84, and regression showed a significant increment in explained skill variability.
 
@@ -48,7 +52,7 @@ Empirical evidence section reporting multiple regression analyses across content
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q3 · i0`
+`q3 · i0` · `review · r2`
 
 Empirical evidence section reviewing posttest self-efficacy and persistence (time spent working) correlations across studies: r = .30, r = -.29, r = -.30, and one nonsignificant correlation close to zero. The paper attributes this to factors such as teacher-mandated work and changing skill levels.
 

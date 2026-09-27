@@ -15,18 +15,22 @@ sources:
     author: Norberg, K.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: norberg-2003-2
     resource: "http://www.ed.psu.edu/uceacsle/"
     title: "Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/"
     author: Norberg, K.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across the school groups, with one exception, observation revealed a culture of rule-following, helpful vocal girls alongside a culture of disruptive boys who received a disproportionate amount of teacher time and space. [→ Norberg 2003](#norberg-2003)
@@ -38,7 +42,7 @@ sources:
 
 Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Observational finding from the unequal opportunities section of the field study at Green school: in five of the school groups a few boys constantly demanded teacher attention, disturbed peers, and expressed more self-confidence than the girls, who showed less confidence presenting work.
 
@@ -48,7 +52,7 @@ Observational finding from the unequal opportunities section of the field study 
 
 Norberg, K. (2003). Constitutive Values and Daily Practice in a Swedish School. Values and Ethics in Educational Administration, 1(3). http://www.ed.psu.edu/uceacsle/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 From the strong girls section: in the one group where boys did not dominate the space, a teacher's colleague opposed the description that boys needed more support by referring to an event where the boys, who were drawing, received more attention anyway.
 

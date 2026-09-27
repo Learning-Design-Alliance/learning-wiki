@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 6 secondary science teachers (self-selected from a larger 21-teacher program cohort), 4 sessions (~3 hours each) across one school year (Oct 2017-May 2018), 25 written reflections
+    kind: qualitative
+    rigour: 3
 ---
 
 # Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=6 secondary science teachers (self-selected from a larger 21-teacher program cohort), 4 sessions (~3 hours each) across one school year (Oct 2017-May 2018), 25 written reflections
+> **Evidence** · 1 study · qualitative `r3` · `q2` · n=6 secondary science teachers (self-selected from a larger 21-teacher program cohort), 4 sessions (~3 hours each) across one school year (Oct 2017-May 2018), 25 written reflections
 
 Over four collaborative-autoethnography sessions across a school year, six secondary science teachers converged on and progressively deepened the view that trust, vulnerability, and safety are foundational to productive scientific argumentation, and several explicitly reframed their conception of instructional "rigor" from difficulty/workload toward discourse-based, equity-oriented engagement.
 
@@ -37,7 +39,7 @@ Over four collaborative-autoethnography sessions across a school year, six secon
 
 Chowning, J. T. (2023). "We All Sort of Jump to That Relationship Piece": Science Teachers' Collaborative Professional Learning about the Role of Relationships in Argumentation. *Cognition and Instruction, 41*(4), 436-471. [https://doi.org/10.1080/07370008.2023.2180006](https://doi.org/10.1080/07370008.2023.2180006)
 
-`q2 · peer-reviewed qualitative case study with systematic thematic coding (Dedoose) of 25 written reflections and 11+ hours of transcribed discussion, triangulated across data sources with member-checking and peer review; small, self-selected sample with no comparison group or classroom-observation data` `i? · the abstract prints no effect size; the full text may` `n=6 secondary science teachers (self-selected from a larger 21-teacher program cohort), 4 sessions (~3 hours each) across one school year (Oct 2017-May 2018), 25 written reflections`
+`q2 · peer-reviewed qualitative case study with systematic thematic coding (Dedoose) of 25 written reflections and 11+ hours of transcribed discussion, triangulated across data sources with member-checking and peer review; small, self-selected sample with no comparison group or classroom-observation data` `i? · the abstract prints no effect size; the full text may` `n=6 secondary science teachers (self-selected from a larger 21-teacher program cohort), 4 sessions (~3 hours each) across one school year (Oct 2017-May 2018), 25 written reflections` · `qualitative · r3`
 
 Six secondary science teachers participated in [Collaborative Autoethnography for Teacher PD](../strategies/collaborative-autoethnography-for-teacher-pd.md) across four Saturday sessions over a school year, producing 25 written reflections and over 11 hours of recorded, transcribed discussion. Thematic analysis (with member-checking and peer review) traced how the relational theme first named in Session 1 deepened across subsequent sessions, ultimately connecting to some teachers' explicit reframing of instructional rigor. This directly evidences [Relationships as Foundation for Argumentation](../principles/relationships-as-foundation-for-argumentation.md).
 

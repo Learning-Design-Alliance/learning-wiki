@@ -16,7 +16,7 @@ sources:
 # Group processing as a structured peer- and self-assessment process focused on the learning process rather than outputs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Group processing is defined as a crucial element of cooperative learning in which students evaluate the effectiveness of the learning process by describing helpful and unhelpful strategies, deciding which behaviors require change, and acknowledging group members' success. The article states that "group processing opens a new means of assessment that focuses on the learning process" and that it is shared by all group members, faculty facilitator and students alike, addressing the weaknesses of peer assessment that lacks transparency or accountability. It is intended to create a safe space for continuous constructive feedback that builds community and encourages realistic evaluations of individual strengths and weaknesses.

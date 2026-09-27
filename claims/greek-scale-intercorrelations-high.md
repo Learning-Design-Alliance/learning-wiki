@@ -15,12 +15,14 @@ sources:
     author: Hunt, J. McVicker
     q: 2
     i: 3
+    kind: review
+    rigour: 1
 ---
 
 # Scale scores for object construction and imitation intercorrelate highly in the Greek sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · review `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Intercorrelations among scale scores for object construction, gestural imitation, and vocal imitation in the Greek study were 0.80, 0.86, and 0.88. [→ Hunt 1973](#hunt-1973)
@@ -31,7 +33,7 @@ sources:
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q2 · i3`
+`q2 · i3` · `review · r1`
 
 Correlational analysis across all children in the Greek cross-sectional study, with printed correlations of r = 0.80, r = 0.86, and r = 0.88 among object construction, gestural imitation, and vocal imitation scale scores. These large correlations (all r = 0.80 or above) support the printed claim that the intercorrelations "were high."
 

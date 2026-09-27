@@ -15,6 +15,8 @@ sources:
     q: 4
     i: "?"
     n: 1,340 families
+    kind: quant-synthesis
+    rigour: "?"
   - id: mol-et-al-2008
     resource: "https://doi.org/10.1080/10409280701838603"
     title: "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added Value of Dialogic Parent–Child Book Readings: A Meta-Analysis. *Early Education and Development, 19*(1), 7-26. [doi:10.1080/10409280701838603](https://doi.org/10.1080/10409280701838603)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 2
     n: 322
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Parent Involvement Improves Early Reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3`–`q4` · `i2` medium
 
 Parental engagement in home literacy activities — shared book reading, dialogic questioning, and structured home literacy routines — is associated with stronger early reading and emergent literacy outcomes. The claim covers parent-delivered literacy activities in the home during preschool and early-elementary years, not parental presence or general educational attainment.
 
@@ -43,7 +47,7 @@ Parental engagement in home literacy activities — shared book reading, dialogi
 
 Sénéchal, M., & Young, L. (2008). The Effect of Family Literacy Interventions on Children's Acquisition of Reading From Kindergarten to Grade 3: A Meta-Analytic Review. *Review of Educational Research, 78*(4), 880-907. [doi:10.3102/0034654308320319](https://doi.org/10.3102/0034654308320319)
 
-`q4 · meta-analytic review of 16 intervention studies` · `i? · no pooled effect size reported in the abstract` · `n=1,340 families`
+`q4 · meta-analytic review of 16 intervention studies` · `i? · no pooled effect size reported in the abstract` · `n=1,340 families` · `quant-synthesis · r?`
 
 This meta-analysis pools 16 studies testing whether parent–child reading interventions (kindergarten through grade 3) improve children's reading acquisition, covering 1,340 families in total. It reports a clear positive overall effect of parent involvement, but distinguishes intervention type: programs in which parents directly tutored children in specific literacy activities produced larger gains than programs where parents simply listened to children read aloud, and the three studies where parents read *to* their children produced no significant reading gains at all — evidence for the wiki's own "quality of involvement matters" point rather than a blanket effect of parental presence.
 
@@ -51,7 +55,7 @@ This meta-analysis pools 16 studies testing whether parent–child reading inter
 
 Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added Value of Dialogic Parent–Child Book Readings: A Meta-Analysis. *Early Education and Development, 19*(1), 7-26. [doi:10.1080/10409280701838603](https://doi.org/10.1080/10409280701838603)
 
-`q3 · meta-analysis of 16 eligible studies (k=9 for the reported vocabulary effect)` · `i2 · medium effect, d=.59` · `n=322`
+`q3 · meta-analysis of 16 eligible studies (k=9 for the reported vocabulary effect)` · `i2 · medium effect, d=.59` · `n=322` · `quant-synthesis · r2`
 
 This meta-analysis isolates the "added value" of dialogic (interactive) shared reading over ordinary shared reading, using 16 eligible studies with a dialogic-reading intervention group and a reading-as-usual control group. For expressive vocabulary specifically (k = 9 studies, n = 322), the pooled effect was d = .59 (SE = .08, 95% CI [0.44, 0.75], p < .001) — a moderate effect favoring dialogic reading. The effect size dropped substantially for children aged 4–5 and for children at risk for language/literacy impairment, and the authors note dialogic reading changes home literacy activity in families with 2- to 3-year-olds more reliably than in the highest-risk families — directly supporting this page's "boundary conditions" discussion (younger children, and family/child risk factors constraining feasible gains).
 

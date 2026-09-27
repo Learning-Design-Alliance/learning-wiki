@@ -15,12 +15,14 @@ sources:
     author: "Padgett, Vernon R. & Brock, Timothy C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Students agree with and list cognitive responses to unintelligible communications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` A majority of students provided evaluative ratings and listed cognitive elaborations to a foreign-language message they claimed not to have understood, and the effect replicated with electronically filtered speech. [→ Padgett 1986](#padgett-1986)
@@ -31,7 +33,7 @@ sources:
 
 Padgett, Vernon R. & Brock, Timothy C. (1986). Persuasion with Unintelligible Messages: A Cognitive Response Analysis. https://eric.ed.gov/?id=ED282138
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Laboratory experiments in which students in language-laboratory cubicles heard taped talks and responded to semantic differentials, Likert-type attitude scales, and cognitive response measures. The article reports "a majority of students provided evaluative ratings" to Greek speech they did not understand, replicated with filtered speech.
 

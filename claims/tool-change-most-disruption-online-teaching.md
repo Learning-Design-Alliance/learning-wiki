@@ -15,12 +15,14 @@ sources:
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among all activity-system elements, the change in mediating tools was the most disruptive for e-teachers, since reliance on body language and visual cues was no longer possible online. [→ Murphy 2009](#murphy-2009)
@@ -31,7 +33,7 @@ sources:
 
 Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the Discussion, the authors state "the change in tools that caused the most disruption" in the e-teachers' activity system, because the traditional symbolic mediating tools of body language and visual cues were no longer possible in online classrooms. Teachers reported countering this via instant messaging for instant feedback.
 

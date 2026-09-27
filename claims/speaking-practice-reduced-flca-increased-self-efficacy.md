@@ -15,12 +15,14 @@ sources:
     author: Andrew Leichsenring
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Student A's anxiety in foreign language classroom settings was reduced through teacher support and membership of an English speaking club, which motivated her and increased her self-efficacy. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)
@@ -31,7 +33,7 @@ sources:
 
 Andrew Leichsenring. (2010). The experiences of anxiety of Japanese EFL learners: A case study. https://eric.ed.gov/?id=ED537603
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 In the results for the first research aim, Student A reported losing her "fear of speaking in front of her teacher and peers and gained a lot of confidence from speaking practice opportunities" after years in an English speaking club. The article attributes the reduction to teacher support and club inclusion.
 

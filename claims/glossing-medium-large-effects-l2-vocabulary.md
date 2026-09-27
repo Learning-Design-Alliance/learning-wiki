@@ -15,18 +15,22 @@ sources:
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: a-pradheepa-2025-2
     resource: "https://doi.org/10.29140/ajal.v8n1.2073"
     title: "A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073"
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Meta-analyses report positive gloss effects on L2 vocabulary learning with medium to large effect sizes. [→ A. Pradheepa 2025](#a-pradheepa-2025)
@@ -38,7 +42,7 @@ sources:
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Abraham (2008), Vahedi et al. (2016), and Mohsen et al. (2023), that meta-analyses establish positive gloss effects with medium to large effect sizes; specific values are not printed in the text provided.
 
@@ -48,7 +52,7 @@ The review reports, citing Abraham (2008), Vahedi et al. (2016), and Mohsen et a
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Vahedi et al. (2016), that multiple glosses combining text and graphics beat single-mode glosses, and notes moderators including proficiency level, text type, and assessment format, with recognition tests yielding larger effects than recall tests.
 

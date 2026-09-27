@@ -15,12 +15,14 @@ sources:
     author: Lai, Su-Huei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The cone's geometry encodes a dispositional contrast: emancipating problem solvers tend to use skeptical views, inductive methods, and critical thinking, whereas technical problem solvers incline toward pre-determined theories and deductive methods. [→ Lai 2002](#lai-2002)
@@ -31,7 +33,7 @@ sources:
 
 Lai, Su-Huei. (2002). Cone-Deciphered Modes of Problem Solving Action (MPSA Cone): Alternative Perspectives on Diversified Professions. https://eric.ed.gov/?id=ED468444
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual claim about what the cone's visual geometry represents: the biggest oval stands for complicated, dynamically processed thought in emancipating solvers, while the smallest oval indicates simplicity, efficiency, and effectiveness in technical solvers' thought. This is the author's framework interpretation, not a tested result.
 

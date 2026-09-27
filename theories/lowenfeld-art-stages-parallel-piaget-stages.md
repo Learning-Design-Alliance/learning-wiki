@@ -16,7 +16,7 @@ sources:
 # Lowenfeld and Brittain's stages of art development parallel Piaget's stages of cognitive development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article uses Lowenfeld and Brittain's (1987) stages of art development as a framework coinciding with Piaget's cognitive stages. It states that "Paralleling the preoperational and concrete operational stages of cognitive development are the preschematic and schematic stages of art development." Children's drawings were classified as preschematic, transitional, or schematic, and these classifications were compared with cognitive-stage and reading classifications.

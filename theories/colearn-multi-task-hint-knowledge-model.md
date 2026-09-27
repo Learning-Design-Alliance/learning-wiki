@@ -16,7 +16,7 @@ sources:
 # Colearn: a multi-task memory-augmented deep learning model jointly predicting knowledge state and hint-taking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Colearn extends the DKVMN memory-augmented knowledge tracing model by encoding each interaction as a tuple (qt, rt, ht) of question, response, and hint usage, and by adding hint-taking prediction as an auxiliary task sharing network weights. The input encoding uses a vector of length 2|Q|+1 whose "last dimension of the vector is a binary value indicating whether a hint is taken". The loss is a weighted sum of cross-entropy losses for the two tasks with equal weights, and the network weights except the final output layer are shared between tasks.

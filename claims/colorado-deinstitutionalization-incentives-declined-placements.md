@@ -15,12 +15,14 @@ sources:
     author: Farrow, Frank, and Cheryl Rogers
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Following Colorado's legislation providing financial incentives for community alternatives and an SEA–Department of Social Services interagency agreement, placements in residential institutions declined. [→ Farrow 1983](#farrow-1983)
@@ -31,7 +33,7 @@ sources:
 
 Farrow, Frank, and Cheryl Rogers. (1983). Policies Which Address Out-of-District Placements and Assure Education in the Least Restrictive Environment. A Report of the Handicapped Public Policy Analysis Project, Volume 3. https://eric.ed.gov/?id=ED245469
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r1`
 
 Descriptive policy case study of Colorado's deinstitutionalization effort in Section II.C. The legislature passed a bill using financial incentives to encourage agencies to develop community alternatives, and the SEA and Department of Social Services established an interagency agreement for joint placement, funding, and monitoring. No effect size is reported.
 

@@ -15,18 +15,22 @@ sources:
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: hardy-2025-2
     resource: "https://eric.ed.gov/?id=EJ1466517"
     title: "Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517"
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Meta-analyses consistently show extensive reading fosters literacy skills regardless of language, L1/L2/heritage status, demographics, and world region. [→ Hardy 2025](#hardy-2025)
@@ -38,7 +42,7 @@ sources:
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Jeon & Day (2016), Kim (2012), Krashen (2007), Liu & Zhang (2018), Mol & Bus (2011), and Nakanishi (2015), that meta-analyses comparing ER programs with traditional programs "consistently show that extensive reading fosters literacy skills" across languages and populations. No pooled effect sizes are printed in the text.
 
@@ -48,7 +52,7 @@ The review reports, citing Jeon & Day (2016), Kim (2012), Krashen (2007), Liu & 
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review states a duration moderator of ER benefits, concluding "the longer the extensive reading program, the greater the benefits observed", so time must be treated as a significant factor when implementing programs. No effect size is printed.
 

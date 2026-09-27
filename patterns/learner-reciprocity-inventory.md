@@ -17,7 +17,7 @@ sources:
 # Reciprocity inventory of learner responsiveness to mediation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A companion inventory, also emerging from thematic data analysis, classifies learner responses to mediation hierarchically. The article states "The reciprocity inventory was divided into two general themes as indicators of low and high reciprocity to mediation", with four categories: lack of responsiveness, partial responsiveness, overcoming the problem, and assuming full responsibility. Low reciprocity (e.g., failure to identify error location under the virtual collaborative frame and highlighting) indicates a lower ZPD, while overcoming problems and explaining and exemplifying structures indicate progression toward self-regulation.

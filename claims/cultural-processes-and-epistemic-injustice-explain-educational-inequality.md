@@ -15,18 +15,22 @@ sources:
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A conceptual article argues that cultural processes (identification and rationalization) and epistemic injustice forms should be considered in understanding the production and maintenance of inequalities in education. [→ Göktürk 2021](#gokturk-2021)
@@ -38,7 +42,7 @@ sources:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual article (theoretical argument, no new data). It builds a framework from Lamont, Beljean and Clair's cultural processes and Fricker's epistemic injustice, applied to one published ethnography, and concludes these "should be taken into consideration in understanding the production and maintenance of inequalities in education."
 
@@ -48,7 +52,7 @@ Conceptual article (theoretical argument, no new data). It builds a framework fr
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument stated in the introduction: the literature on education "should include diverse epistemic approaches" to problematize how structural inequalities in society are transmitted to education. No empirical test is reported.
 

@@ -15,12 +15,14 @@ sources:
     author: "Biscevic, I., Pasalic, A., & Memisevic, H."
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article reports, citing Hale and Tager-Flusberg (2003), that false-belief training contributed to better TOM scores but had no effect on language skills. [→ Biscevic 2018](#biscevic-2018)
@@ -31,7 +33,7 @@ sources:
 
 Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 This is a second-hand citation narrated in the article's discussion of whether TOM training generalizes to language; the reviewed study's design is not described here and its result is attributed exactly as the article attributes it.
 

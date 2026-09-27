@@ -15,12 +15,14 @@ sources:
     author: Stecher, Judith S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The study's finding of significantly different teacher mediation patterns contradicts the Gahagans' (1970) postulate of no difference in teacher mediation talk patterns. [→ Stecher 1976](#stecher-1976)
@@ -31,7 +33,7 @@ sources:
 
 Stecher, Judith S. (1976). A Description of Teacher Verbal Mediation and of Children's Verbal Coding in Selected Early Childhood Classrooms. https://eric.ed.gov/?id=ED126733
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the discussion the author contrasts her results with the Gahagans' earlier study: the findings "difered frOmthose. Of theGahagans (1970)", whose language programme study had omitted teacher talk as a context for children's coding.
 

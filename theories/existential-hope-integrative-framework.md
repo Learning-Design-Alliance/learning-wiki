@@ -16,7 +16,7 @@ sources:
 # Existential hope framework: a psychological stance grounded in existential trust, meaning, and agency under radical uncertainty
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes an integrative framework in which existential hope is "a foundational psychological stance toward life and the future, grounded in existential trust, sustained by a sense of meaning, and expressed through agency" even under uncertainty and perceived threat. Hope is existential when sustained by belief in a possible good life even when current developments contradict such a future. The framework (Figure 1) runs from contextual factors through adaptive processes to existential hope and outcomes such as well-being and civic engagement.

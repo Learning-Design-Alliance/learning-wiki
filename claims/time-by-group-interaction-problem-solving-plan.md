@@ -15,18 +15,22 @@ sources:
     author: Zambo, Ron; Hess, Robert
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
   - id: zambo-1994-2
     resource: "https://eric.ed.gov/?id=ED375005"
     title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
     author: Zambo, Ron; Hess, Robert
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` A one-way repeated measures ANOVA found a significant effect of time of testing (p = .001). [→ Zambo 1994](#zambo-1994)
@@ -38,7 +42,7 @@ sources:
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 Omnibus repeated measures ANOVA on the four gender-by-sequence groups (n=155); Table 2 prints Time SS=6.238, F=11.511, p=.001 and Time*Group F=4.259, p=.006. No effect size printed.
 
@@ -48,7 +52,7 @@ Omnibus repeated measures ANOVA on the four gender-by-sequence groups (n=155); T
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 The interaction is described as disordinal and strongest for females who received the formatted version after the unformatted; Figure 1 plots pre and post means by group. Pretest ANOVA among groups was non-significant (p = .375).
 

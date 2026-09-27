@@ -15,12 +15,14 @@ sources:
     author: Yanmei Li, Shuhong Li, and Lin Wang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For all six real data sets, the likelihood ratio test favored the MIRT-SS model over the 2PL/GPCM, and AIC and BIC favored MIRT-SS over both alternatives except for Data D. [→ Yanmei Li 2010](#yanmei-li-2010)
@@ -31,7 +33,7 @@ sources:
 
 Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Model-fit comparison across the six operational reading data sets using the likelihood ratio test, AIC, and BIC. The report states that "For all six datasets, G2 was significant, indicating that the MIRT-SS fit the data better than the 2PL/GPCM model", and that the estimated latent traits were highly correlated, ranging from 0.87 to 0.93.
 

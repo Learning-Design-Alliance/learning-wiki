@@ -15,12 +15,14 @@ sources:
     author: Bergen, Doris
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Preschool block play complexity, controlling for IQ and gender, was positively related to seventh-grade math test scores and high school math grades, math courses, and honors courses. [→ Bergen 2002](#bergen-2002)
@@ -31,7 +33,7 @@ sources:
 
 Bergen, Doris. (2002). The Role of Pretend Play in Children's Cognitive Development. Early Childhood Research & Practice, v4 n1. http://ecrp.uiuc.edu/v4n1/bergen.htm
 
-`q3 · i? · the article prints no effect size for this finding`
+`q3 · i? · the article prints no effect size for this finding` · `review · r3`
 
 The review reports, citing Wolfgang, Stannard, and Jones, a longitudinal study relating preschool block play complexity to later math outcomes, controlling for IQ and gender; the researchers speculate no relationships appeared at third and fifth grades because of "minimum skill and memorization" tests.
 

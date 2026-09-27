@@ -15,12 +15,14 @@ sources:
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` E-teachers described evolving from lecturing as in face-to-face classrooms toward facilitating student-controlled learning online. [→ Murphy 2009](#murphy-2009)
@@ -31,7 +33,7 @@ sources:
 
 Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the Findings (Object section), one e-teacher's interview statement describes her teaching evolution: "I‟ve become more a facilitator," noting she initially lectured as in a face-to-face classroom but adapted her role after moving online. The same teacher noted she still retained a percentage of the old 'sage on the stage' model that was changing.
 

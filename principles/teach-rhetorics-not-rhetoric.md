@@ -17,7 +17,7 @@ sources:
 # The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The fifth operationalization values a multiplicity of voices while developing a public language for critical democracy. The paper argues that "the course that teaches students to present themselves credibly, to develop a public ethos, and to tailor their words to the situation and audience is a course that silences every voice," because it relegates unformed ideas and the quest for consensus to private discourse. The course would instead address how a community can, does, and does not create a public sphere in which different voices can be heard, drawing on bell hooks's account of authentic listening.

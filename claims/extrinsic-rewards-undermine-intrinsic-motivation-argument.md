@@ -15,12 +15,14 @@ sources:
     author: Jim Reynolds
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` External rewards such as grades and stars may reduce the intrinsic motivation educators want learners to develop, so institutions should shift gradually toward nurturing intrinsic motivation. [→ Jim Reynolds 2006](#jim-reynolds-2006)
@@ -31,7 +33,7 @@ sources:
 
 Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators. Inquiry, Volume 11, Number 1, Spring 2006, 55-64. http://www.vccaedu.org/inquiry/inquiry-spring2006/i-11-reynolds.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan (1999) and Vansteenkiste & Deci (2003), that external rewards can harm intrinsic motivation; the review attributes this finding to those researchers and quotes their warning about long-term negative effects of controlling behavior.
 

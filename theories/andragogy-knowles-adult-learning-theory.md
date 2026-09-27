@@ -16,7 +16,7 @@ sources:
 # Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Andragogy, the art and science of leading and educating adults, is the study's organizing lens. The article presents Knowles' six characteristics differentiating adult learners from child learners: adults need to know what they are learning at onset, are self-directed, bring greater volume of experience, are prepared to learn things of value, are task and problem centered, and are responsive to motivated life factors. The study uses andragogy to hypothesize relationships between learner perspectives, self-directed learning, English acquisition and integration.

@@ -15,12 +15,14 @@ sources:
     author: Darder, A.; Pérez Garcias, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Research project supervision styles can be differentiated by degree of supervisory control and degree of support, yielding five distinct styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article identifies five distinct supervision styles differentiated by two axes — the degree of supervision control projected by the supervisor and the degree of support the student receives — plus four complementary styles, noting styles are not closed and depend on the trainee's needs and context. [→ Darder 2015](#darder-2015)
@@ -31,7 +33,7 @@ sources:
 
 Darder, A.; Pérez Garcias, A. (2015). Online tutoring procedure for research project supervision: management, organization and key elements. New Approaches in Educational Research 4(2). https://doi.org/10.7821/naer.2015.4.110
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Synthesis of prior supervision-style studies (Brown & Atkins, 1988; Gatfield, 2005; Gurr, 2001; Lee, 2007 & 2008; Mainhard et al., 2009; Vilkinas & Cartan, 2001; Vilkinas, 2007) summarized in Table 2 with styles such as Encourages collaborative work, Directive, and Passive. This is a review-based synthesis, not a new empirical test.
 

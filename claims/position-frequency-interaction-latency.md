@@ -15,12 +15,14 @@ sources:
     author: Brown, Alan S.; Cattoi, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Latency increase across positions is steepest for low-frequency and shallowest for high-frequency category exemplars (position × frequency interaction)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For the first three positions, ANOVA showed significant main effects of position and frequency and a significant position × frequency interaction, with latency slopes increasing most rapidly for low-frequency items and least rapidly for high-frequency items. [→ Brown 1982](#brown-1982)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Alan S.; Cattoi, Robert. (1982). Associative Strength Effects in Semantic Priming. https://eric.ed.gov/?id=ED223979
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Analysis of the first three positions of the 66-subject experiment, chosen because positions 4-6 were confounded by differing exposure histories. The article reports the interaction F(4,260) = 4.40 and states "the slope of the latencies 'increases most rapidly for 'the lowfrequency items and least rapidly for the high frequency items".
 

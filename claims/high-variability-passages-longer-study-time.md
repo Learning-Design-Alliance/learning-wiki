@@ -15,12 +15,14 @@ sources:
     author: "Johns, B. T., Dye, M., & Jones, M. N."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High-variability passages receive longer study times than low-variability passages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Passages containing targets in high-variability contexts were studied significantly longer (24.24 s vs 22.57 s on average). [→ Johns 2016](#johns-2016)
@@ -31,7 +33,7 @@ sources:
 
 Johns, B. T., Dye, M., & Jones, M. N. (2016). The influence of contextual diversity on word learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/s13423-015-0980-7
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 A post-hoc analysis, conducted at a reviewer's request, used timing data reconstructed from experiment log files, recoverable for the majority of participants. "their high variability counterparts were stud- ied 1.67 s longer"; no standardized effect size printed.
 

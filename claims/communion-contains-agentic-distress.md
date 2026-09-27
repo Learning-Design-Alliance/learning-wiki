@@ -15,12 +15,14 @@ sources:
     author: "Sheldon-Keller, Adrienne & West, Malcolm"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Attachment (communion) contains the fear and anxiety associated with individual action (agency)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Because anxiety blocks action, effective agency requires containment of anxiety, and attachment relationships provide the primary containment for the distress associated with agentic action. [→ Sheldon-Keller 1995](#sheldon-keller-1995)
@@ -31,7 +33,7 @@ sources:
 
 Sheldon-Keller, Adrienne & West, Malcolm. (1995). Attachment within the Agency/Communion Paradigm. https://eric.ed.gov/?id=ED395227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument from the authors' own prior work (West & Sheldon-Keller, 1994): separation and individuation bring anxiety and fear, which must be contained for effective agency. They argue that "attachment -- or communion -- offers the primary containment for the fear and anxiety" of individual action, illustrated by the opening paramedic anecdote.
 

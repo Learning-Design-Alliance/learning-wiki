@@ -15,12 +15,14 @@ sources:
     author: Olsen, Dwayne G.; Heyse, Kathy L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teacher concern development is better characterized as progression and retreat than linear stage movement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only 11 of 39 teachers (28%) showed an impact concern in the final interview, up from 3 (8%) in the first; many teachers progressed and retreated through the stages rather than ending at impact, supporting a progression-and-retreat characterization. [→ Olsen 1990](#olsen-1990)
@@ -31,7 +33,7 @@ sources:
 
 Olsen, Dwayne G.; Heyse, Kathy L. (1990). Development and Concerns of First-year and Reentry Teachers with and without Mentors. https://eric.ed.gov/?id=ED323188
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Concern-pattern analysis across the three interviews (Table 7), where only two teachers with an "S T I" pattern progressed from lowest to highest through Fuller's stages. The authors cite Cruickshank and Callahan's conclusion that most teachers reach the task stage and few attain impact.
 

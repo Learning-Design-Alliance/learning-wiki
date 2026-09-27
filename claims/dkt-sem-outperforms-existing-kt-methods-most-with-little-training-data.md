@@ -15,18 +15,22 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` DKT-Sem performs better than all existing KT methods even though it largely uses the same architecture as DKT. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -38,7 +42,7 @@ sources:
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Benchmark comparison of KT methods on CoMTA and MathDial: "DKT-Sem performs better than all existing KT methods", which the authors say emphasizes the benefit of using textual dialogue context. No effect size is printed.
 
@@ -48,7 +52,7 @@ Benchmark comparison of KT methods on CoMTA and MathDial: "DKT-Sem performs bett
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 MathDial results of the same comparison: DKT-Sem wins "by a smaller margin than on CoMTA", which the authors interpret as indicating it has its greatest advantage when little training data is given. No test statistic is printed.
 

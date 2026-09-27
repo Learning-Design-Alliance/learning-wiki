@@ -15,12 +15,14 @@ sources:
     author: Do, P. D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students in the deliberate practice group reported increased satisfaction with the learning process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Experimental-group students reported higher satisfaction with the deliberate practice learning process than traditional-method students. [→ Do 2024](#do-2024)
@@ -31,7 +33,7 @@ sources:
 
 Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 Post-training survey of the experimental group measured satisfaction with the deliberate practice approach; the study reports students "reported increased satisfaction with the learning process" alongside the pass-rate finding. Satisfaction was measured by self-reported survey data, which the author flags as a limitation.
 

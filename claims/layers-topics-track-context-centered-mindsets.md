@@ -15,12 +15,14 @@ sources:
     author: "Littenberg-Tobias, J., Borneman, E., & Reich, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Layers, participants with more of a Context-Centered mindset were more likely to mention drawing on students' experiences in their communities and home and family, while Context-Neutral-mindset participants described adaptations not incorporating students' experiences outside school. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)
@@ -31,7 +33,7 @@ sources:
 
 Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against the Context-Specific/Context-Neutral survey scale. Context-Centered participants also mentioned drawing on students' existing assets and including student perspectives; Context-Neutral participants more often described reassigning groups or adjusting activity time.
 

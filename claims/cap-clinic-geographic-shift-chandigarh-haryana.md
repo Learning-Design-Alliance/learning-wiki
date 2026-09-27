@@ -15,12 +15,14 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Clinic registrations shifted geographically: Chandigarh registrations declined while Haryana registrations increased across the three periods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Registrations from Chandigarh declined significantly (F=9.17, p<0.01; Period III below Period II), while registrations from Haryana increased significantly (F=4.20, p<0.05; Period III above Period I). [→ Malhotra S 2007](#malhotra-s-2007)
@@ -31,7 +33,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Geographic trend analysis (Table 1, state of origin) in the 26-year audit. The article reports "a significant decline in number of registrations from Chandigarh ... (F=9.17; p<0.01)" and "a significant increase in the number of registrations from Haryana across the three time periods (F=4.20; p<0.05)"; Punjab registrations were not significant.
 

@@ -16,6 +16,8 @@ sources:
     q: 3
     i: "?"
     n: 135 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: kostons-and-van-der-werf-2015
     resource: "https://doi.org/10.1111/bjep.12069"
     title: "Kostons, D., & van der Werf, G. (2015). The effects of activating prior topic and metacognitive knowledge on text comprehension scores. *British Journal of Educational Psychology, 85*(3), 264–275. [doi:10.1111/bjep.12069](https://doi.org/10.1111/bjep.12069)"
@@ -23,6 +25,8 @@ sources:
     q: 3
     i: "?"
     n: 88 students
+    kind: causal
+    rigour: "?"
   - id: brand-et-al-2025
     resource: "https://doi.org/10.1007/s11251-025-09727-6"
     title: "Brand, C., Loibl, K., & Rummel, N. (2025). Prior knowledge activation as preparation prior to instruction: does the coverage of relevant prior knowledge affect learning? *Instructional Science, 53*(6), 1633–1661. [doi:10.1007/s11251-025-09727-6](https://doi.org/10.1007/s11251-025-09727-6)"
@@ -30,12 +34,14 @@ sources:
     q: 3
     i: 0
     n: 165 students
+    kind: causal
+    rigour: 2
 ---
 
 # Activation Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
 
 Activating learners' relevant prior knowledge before or during instruction improves comprehension and retention of new material. The claim covers deliberate pre-instructional activities — pre-questions, brainstorming, analogies, advance organizers — that surface what learners already know so new material can be connected to it.
 
@@ -53,7 +59,7 @@ Activating learners' relevant prior knowledge before or during instruction impro
 
 Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal, 17*(2), 211–218. [doi:10.3102/00028312017002211](https://doi.org/10.3102/00028312017002211)
 
-`q3 · meta-analysis (published and unpublished studies)` · `i? · direction reported, effect size not in the abstract read` · `n=135 studies`
+`q3 · meta-analysis (published and unpublished studies)` · `i? · direction reported, effect size not in the abstract read` · `n=135 studies` · `quant-synthesis · r?`
 
 This meta-analysis pooled 135 published and unpublished studies that tested whether [advance organizers](../elements/advance-organizers.md) help learning, and it also looked at grade level, subject area, presentation mode and learner ability as possible moderators. According to the abstract, advance organizers helped both initial learning and retention. Only the abstract was read, so this entry does not report the pooled effect size or the moderator results.
 
@@ -61,7 +67,7 @@ This meta-analysis pooled 135 published and unpublished studies that tested whet
 
 Kostons, D., & van der Werf, G. (2015). The effects of activating prior topic and metacognitive knowledge on text comprehension scores. *British Journal of Educational Psychology, 85*(3), 264–275. [doi:10.1111/bjep.12069](https://doi.org/10.1111/bjep.12069)
 
-`q3 · randomised factorial experiment (2 × 2)` · `i? · no effect size in the abstract read` · `n=88 students`
+`q3 · randomised factorial experiment (2 × 2)` · `i? · no effect size in the abstract read` · `n=88 students` · `causal · r?`
 
 Eighty-eight primary-school students were randomly assigned to four conditions that crossed two factors: activating prior topic knowledge (yes or no) and activating prior metacognitive knowledge (yes or no). The outcome was text comprehension. Activating metacognitive knowledge improved comprehension. Activating topic knowledge, which is the kind of activation this claim mostly describes, had no effect once the amount of prior knowledge was controlled. This is direct evidence against a blanket version of the claim in reading comprehension with young learners.
 
@@ -69,7 +75,7 @@ Eighty-eight primary-school students were randomly assigned to four conditions t
 
 Brand, C., Loibl, K., & Rummel, N. (2025). Prior knowledge activation as preparation prior to instruction: does the coverage of relevant prior knowledge affect learning? *Instructional Science, 53*(6), 1633–1661. [doi:10.1007/s11251-025-09727-6](https://doi.org/10.1007/s11251-025-09727-6)
 
-`q3 · experiment, two conditions` · `i0 · no significant difference, ηp²=0.014 (cleaned sample), 0.004 (full sample)` · `n=165 students`
+`q3 · experiment, two conditions` · `i0 · no significant difference, ηp²=0.014 (cleaned sample), 0.004 (full sample)` · `n=165 students` · `causal · r2`
 
 Secondary-school students studied worked solution attempts on mean absolute deviation before explicit instruction, in a vicarious-failure design. The solution attempts covered either a high or a low share of the concept's components. After controlling for prior knowledge, mathematical ability and self-concept, the two conditions did not differ in conceptual knowledge. A Bayes factor weakly favoured no difference (BF01 = 2.36 for the cleaned sample, 4.26 for the full sample). In exploratory analyses, the knowledge students activated showed up in an intermediate test, and that intermediate knowledge was positively related to learning after instruction. The authors conclude that activating some relevant knowledge can be enough to prepare students. The study compares two amounts of activation and has no no-activation control, so it speaks to how much to activate, not to whether activation helps.
 

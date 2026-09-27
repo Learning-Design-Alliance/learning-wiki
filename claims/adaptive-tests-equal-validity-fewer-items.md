@@ -15,12 +15,14 @@ sources:
     author: Weiss, David J.
     q: 3
     i: 2
+    kind: associational
+    rigour: "?"
 ---
 
 # Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · associational `r?` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Construct validity of adaptive tests was effectively higher than conventional tests because equal validities were achieved with 25% to 35% fewer items. [→ Weiss 1980](#weiss-1980)
@@ -31,7 +33,7 @@ sources:
 
 Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. https://eric.ed.gov/?id=ED187760
 
-`q3 · i2`
+`q3 · i2` · `associational · r?`
 
 Construct validation study (Research Report 78-4) with two independent groups of 269 and 230 college students comparing computer-administered stradaptive tests and conventional paper-and-pencil tests via a nomological net fitted with linear structural equations. The abstract reports "equal validities' were Achieved with from 25% to 31% fewer items."
 

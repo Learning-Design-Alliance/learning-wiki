@@ -15,12 +15,14 @@ sources:
     author: Brown, Ronald T.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Nowicki (1971) claimed locus of control is related to academic achievement and independent of intelligence, but the present findings for delinquent adolescents are inconsistent with the related speculation that locus of control relates solely to achievement. [→ Brown 1980](#brown-1980)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Ronald T. (1980). Some Misgivings About Locus of Control Orientation and its Relationship to Intelligence, Academic Achievement, and Delinquency. https://eric.ed.gov/?id=ED197263
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 The article reports, citing Nowicki (1971), the prior position that locus of control relates to achievement independently of intelligence. The present study's finding that achievement correlated with locus of control only for normal adolescents is described as inconsistent with the speculation of Nowicki and colleagues that the scale relates solely to achievement.
 

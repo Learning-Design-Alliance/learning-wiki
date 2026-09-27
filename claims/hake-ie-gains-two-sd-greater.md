@@ -15,12 +15,14 @@ sources:
     author: Lei Bao
     q: 2
     i: 2
+    kind: theoretical
+    rigour: 3
 ---
 
 # Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Across 62 courses and N = 6542 students, interactive engagement courses' average normalized gains were about two standard deviations greater than traditional courses', and the correlation of average gains with pretest scores was +0.02. [→ Lei Bao 2006](#lei-bao-2006)
@@ -31,7 +33,7 @@ sources:
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
-`q2 · i2`
+`q2 · i2` · `theoretical · r3`
 
 The article reports (Introduction) Hake's large multi-course survey as background: 48 interactive-engagement courses versus 14 traditional courses, with the IE courses' average normalized gains 'about two-standard deviations greater' and a +0.02 correlation of gains with pretest scores across all courses.
 

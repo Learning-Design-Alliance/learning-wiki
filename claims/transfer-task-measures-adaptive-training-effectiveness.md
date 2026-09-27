@@ -15,12 +15,14 @@ sources:
     author: Norman, D. A.; And Others
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Transfer task performance is the critical measure of what adaptive training accomplishes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Performance on the first task indicates progress in training, but transfer task performance measures what subjects have been trained to do. [→ Norman 1972](#norman-1972)
@@ -31,7 +33,7 @@ sources:
 
 Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Methodological statement from the overview of the experimental design. The authors argue that "only the transfer task situation can be used to determine the extent to which the trainee can make use of what he learned in training."
 

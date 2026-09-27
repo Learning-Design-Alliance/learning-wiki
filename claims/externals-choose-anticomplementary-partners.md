@@ -15,12 +15,14 @@ sources:
     author: Duke, Marshall P. and Nowicki, Stephen
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Externals choose anticomplementary partners more frequently than internals in the choice phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Significantly more frequently than internals, externals chose to be attracted to anticomplementary others, while internals tended to choose complementary others. [→ Duke 1979](#duke-1979)
@@ -31,7 +33,7 @@ sources:
 
 Duke, Marshall P. and Nowicki, Stephen. (1979). A Social Learning Theory Conceptualization of Interpersonal Relationships. https://eric.ed.gov/?id=ED183975
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports a study (Thibodeau, 1979) focusing on the choice phase, assessing within the circumplex model of Leary and Carson the degree to which externals may choose others maladaptively. The authors state externals' anticomplementary choices appear to have been "hampering their interpersonal relationships from the very start."
 

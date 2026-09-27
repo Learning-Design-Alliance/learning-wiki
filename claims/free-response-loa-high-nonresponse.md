@@ -15,12 +15,14 @@ sources:
     author: Haller, Archibald O. and Miller, Irwin W.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A direct, continuous, multiple-item, free-response LOA technique showed non-response rates of 17 and 25 percent in the two studies in which it was used. [→ Haller 1963](#haller-1963)
@@ -31,7 +33,7 @@ sources:
 
 Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Reported drawback of the NORC-based free-response technique used in previously unpublished Sewell-Haller and Haller research. Many respondents give answers such as "get a job" or "housewife" that cannot be coded into LOA scores, producing the stated non-response rates.
 

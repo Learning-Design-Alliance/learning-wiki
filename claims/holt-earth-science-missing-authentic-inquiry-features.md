@@ -15,12 +15,14 @@ sources:
     author: Do-Yong Park and Mira Park
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Making multiple observations was the most used authentic inquiry feature (39.1%; 2.3 times per task), while generating own research question, developing relatively complex controls, observing intervening variable, multiple studies of different type, and studying expert research reports were absent. [→ Do-Yong Park and Mira Park 2013](#do-yong-park-and-mira-park-2013)
@@ -31,7 +33,7 @@ sources:
 
 Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education. https://doi.org/10.5408/12-360.1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Analysis of 22 inquiry tasks in the sampled pages against the modified Chinn and Malhotra framework of authentic scientific inquiry. The article reports the second most used feature was developing theories about mechanisms (18.8%; 1.1 times per task), and that selecting own variable showed low usage (11.7%).
 

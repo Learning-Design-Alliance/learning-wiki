@@ -15,12 +15,14 @@ sources:
     author: "Pittaway, S. M., & Moss, T."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students reported increased personal motivation because structured social opportunities helped them know each other, and peer visibility of work encouraged academic skill growth. [→ Pittaway 2014](#pittaway-2014)
@@ -31,7 +33,7 @@ sources:
 
 Pittaway, S. M., & Moss, T. (2014). “Initially, We Were Just Names on a Computer Screen”: Designing Engagement in Online Teacher Education. Australian Journal of Teacher Education, 39(7). http://ro.ecu.edu.au/ajte/vol39/iss7/8
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative finding from student emails and posts in the case study. The authors report that "Students reported feeling more motivated to participate (personal engagement)" due to getting to know peers through structured opportunities, and that seeing peers' work encouraged students to increase their own skills, showing complementary elements.
 

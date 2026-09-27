@@ -15,12 +15,14 @@ sources:
     author: Tennis, J.T.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Semantic change in long-lived classification schemes can destroy collocative integrity, as with eugenics in the Dewey Decimal Classification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` As literary warrant changed, the term eugenics left the biological sciences in the Dewey Decimal Classification, so books on the biological aspects of eugenics now collocate with books on berries and nuts. [→ Tennis 2013](#tennis-2013)
@@ -31,7 +33,7 @@ sources:
 
 Tennis, J.T. (2013). Metaphors of time and installed knowledge organization systems: Ouroboros, Architectonics, or Lachesis? Information Research, 18(3) paper C38. http://InformationR.net/ir/18-3/colis/paperC38.html
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The paper cites the author's prior ontogenic case study (Tennis, 2012) of a single subject changing position in the DDC across decades, illustrating how time-driven semantic change affects browsing, retrieval, and sense-making. Reported here as a documented example, not new data.
 

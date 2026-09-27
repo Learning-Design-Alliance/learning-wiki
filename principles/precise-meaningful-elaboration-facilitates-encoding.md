@@ -17,7 +17,7 @@ sources:
 # Elaborate new information precisely and meaningfully within the learner's perspective to facilitate schema encoding and retrieval
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The essay presents schema elaboration, following Bransford (1985), as a way to alter and enhance schema so that new information becomes accessible and retrievable. New facts "can seem arbitrary unless they are precisely elaborate in a way that clarifies their significance or relevance," so elaboration must be precise and meaningful to the individual, and significance can be presented from a particular perspective or context meaningful to the reader or student. The result of such elaboration is a construct that is accessible and retrievable.

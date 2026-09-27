@@ -15,18 +15,22 @@ sources:
     author: Loo Kang WEE
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: loo-kang-wee-2015-2
     resource: "http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
     title: "Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
     author: Loo Kang WEE
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In qualitative survey excerpts and informal interviews, students said the lesson was fun and made them think rather than just listen and remember. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)
@@ -38,7 +42,7 @@ sources:
 
 Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Qualitative survey excerpts and informal interviews from the laboratory lessons, thematised by the author under headings such as active learning can be fun and need experience to understand. This student excerpt illustrates the fun-and-thinking theme; no quantitative analysis is reported.
 
@@ -48,7 +52,7 @@ Qualitative survey excerpts and informal interviews from the laboratory lessons,
 
 Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Student interview excerpt in the theme simulation can support inquiry learning and thinking like real scientist: the student describes looking at results, analyzing and finding trends, and gaining "confidence and a sense of accomplishment when the conclusions we arrive at are correct".
 

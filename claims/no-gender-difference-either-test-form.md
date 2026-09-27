@@ -15,18 +15,22 @@ sources:
     author: Zambo, Ron; Hess, Robert
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
   - id: zambo-1994-2
     resource: "https://eric.ed.gov/?id=ED375005"
     title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
     author: Zambo, Ron; Hess, Robert
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # No significant gender difference in word-problem performance on either formatted or unformatted test forms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Males and females did not differ significantly on the formatted test (p = .110) or the unformatted test (p = .294), pre or post. [→ Zambo 1994](#zambo-1994)
@@ -38,7 +42,7 @@ sources:
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 t-test on formatted-form scores by gender in the counterbalanced sixth-grade study; the null result is reported with "(t=1.621, df=71, p = .110)". No effect size printed, so impact is null.
 
@@ -48,7 +52,7 @@ t-test on formatted-form scores by gender in the counterbalanced sixth-grade stu
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 Main-effect t-tests of gender on pretest and posttest scores; both non-significant as printed. The authors concluded gender "without consideration for the pattern of testing did not result in any significant difference".
 

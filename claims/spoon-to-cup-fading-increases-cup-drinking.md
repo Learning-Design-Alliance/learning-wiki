@@ -15,12 +15,14 @@ sources:
     author: "Groff, R. A., Piazza, C. C., Zeleny, J. R., & Dempsey, J. R."
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` After the fifth fading step, acceptance and mouth clean during cup probes were high and remained high through continued cup-only sessions. [→ Groff 2011](#groff-2011)
@@ -31,7 +33,7 @@ sources:
 
 Groff, R. A., Piazza, C. C., Zeleny, J. R., & Dempsey, J. R. (2011). Spoon-to-cup fading as treatment for cup drinking in a child with intestinal failure. Journal of Applied Behavior Analysis, 44, 949–954. https://doi.org/10.1901/jaba.2011.44-949
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Single-participant ABB 9AB and multielement study of a 4-year-old with short gut syndrome in a day-treatment program. In the fading phase, the fifth step produced "acceptance and mouth clean were high ( Ms 5 100% and 80%, respectively) during the cup probe," so fading was discontinued and cup probes continued.
 

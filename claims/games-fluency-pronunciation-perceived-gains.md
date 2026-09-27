@@ -15,12 +15,14 @@ sources:
     author: "Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students most frequently attribute fluency and pronunciation gains to games
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fluency was the most frequently cited benefit of games for speaking skills, followed by pronunciation. [→ Ismayilli 2025](#ismayilli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A. (2025). The impact of educational games on speaking skills in the foreign language teaching process. Novitas-ROYAL (Research on Youth and Language), 19(1), 229–240. https://eric.ed.gov/?id=EJ1469668
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of student interview responses (Table 3, benefits theme) showed fluency was the most frequent code (f = 17) and pronunciation second (f = 13); 10 students cited increased self-confidence while speaking and 8 cited correct grammar use. Frequencies are self-reported perceptions, not measured speech outcomes.
 

@@ -15,12 +15,14 @@ sources:
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
     i: 2
+    kind: review
+    rigour: 2
 ---
 
 # Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Across reviewed studies, SRL strategies accounted for up to 51% of the variance in academic performance. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)
@@ -32,7 +34,7 @@ sources:
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i2`
+`q2 · i2` · `review · r2`
 
 Narrative review of 35 studies on SRL published 1998-2016; the review's conclusion section reports that "SRL strategies accounted for up to 51% of the variance in academic performance" and names metacognitive regulation strategies as the strongest predictors, especially at secondary and tertiary levels.
 

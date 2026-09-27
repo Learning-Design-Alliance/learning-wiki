@@ -15,12 +15,14 @@ sources:
     author: "Arthur, L., & Hurd, S. (Eds.)"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Adult language learners join classes with varied, overlapping motivations that fall into goal-, activity- and learning-orientated categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adult learners' motivations fall into three broad overlapping categories: goal-orientated, activity-orientated and learning-orientated. [→ Arthur 1992](#arthur-1992)
@@ -31,7 +33,7 @@ sources:
 
 Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The guide cites Houle's classification of adult-education motivation, presenting goal-, activity- and learning-orientated learners, and notes "these are not finite categories but overlapping ones". This is a cited framework, not a new study.
 

@@ -15,12 +15,14 @@ sources:
     author: Bue, T. W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Student LSI scores showed significant differences on eight of 30 possible tests across department, sex, plans, class, and division, with differences particularly pronounced on Concrete Experience, Abstract Conceptualization, and the AC-CE combination score. [→ Bue 1979](#bue-1979)
@@ -31,7 +33,7 @@ sources:
 
 Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 A random student sample (N=206) completed the LSI. The article reports differences at or approaching the specified alpha level on eleven of sixteen possible tests on CE, AC, and AC-CE scores, indicating students prefer more balance between experience-based and analytical approaches than their instructors.
 

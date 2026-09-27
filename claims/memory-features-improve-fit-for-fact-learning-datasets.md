@@ -15,18 +15,22 @@ sources:
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: philip-i-pavlik-2021-2
     resource: "https://doi.org/10.1109/TLT.2021.3128569"
     title: "Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569"
     author: Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the statistics cloze dataset, models with declarative-memory features (models 10-12) significantly improved fit beyond models insensitive to memory decay. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)
@@ -38,7 +42,7 @@ sources:
 
 Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the statistics cloze dataset (58,316 observations, 478 adult Mechanical Turk participants) with manipulated spacing and multi-day delays. The article reports that "models 10–12) signiﬁcantly improved ﬁt beyond those that were insensitive to memory decay," consistent with the recall task and spacing intervals.
 
@@ -48,7 +52,7 @@ Analysis of the statistics cloze dataset (58,316 observations, 478 adult Mechani
 
 Philip I. Pavlik, Jr., Luke G. Eglington, and Leigh M. Harrell-Williams. (2021). Logistic Knowledge Tracing: A Constrained Framework for Learner Modeling. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2021.3128569
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the McGraw Hill dataset (124,387 observations, 1047 college students learning fitness and nutrition facts), a task requiring recall more than skill application. The article reports large fit differences between "the best model (model 10)" and "the worst ﬁtting model (model 1)".
 

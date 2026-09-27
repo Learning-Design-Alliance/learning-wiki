@@ -15,12 +15,14 @@ sources:
     author: Monika Geist
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All ten learners encountered syntactical issues whereas only five encountered morphological issues, suggesting greater concern with syntax. [→ Monika Geist 2017](#monika-geist-2017)
@@ -31,7 +33,7 @@ sources:
 
 Monika Geist. (2017). Noticing grammar in L2 writing and problem-solving strategies. Studies in Second Language Learning and Teaching, 7(3), 471-487. https://doi.org/10.14746/ssllt.2017.7.3.6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 In the same ten-participant think-aloud dataset, 24 syntactical LREs were identified versus twelve morphological LREs; the author states "all learners encountered syntactical issues whereas just five learners encountered issues of morphology."
 

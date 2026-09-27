@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For the leading unidimensional model with a first-order Markov structure, the efficient EM algorithm's E-step complexity is of order 2 × T × S² rather than exponential in T. [→ Rijmen 2010](#rijmen-2010)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Analytical derivation for the leading example model (unidimensional within occasions, first-order Markov across occasions). The article derives that the E-step of the efficient EM-algorithm requires computations "of order 2 × T × S2" versus S^T for a traditional EM-algorithm, so complexity becomes "linear in the number of measurement occasions."
 

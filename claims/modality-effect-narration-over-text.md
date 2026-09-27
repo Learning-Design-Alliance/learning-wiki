@@ -16,6 +16,8 @@ sources:
     q: 4
     i: "?"
     n: 43 independent effects
+    kind: quant-synthesis
+    rigour: "?"
   - id: mayer-and-moreno-1998
     resource: "https://doi.org/10.1037/0022-0663.90.2.312"
     title: "Mayer, R. E., & Moreno, R. (1998). A split-attention effect in multimedia learning: Evidence for dual processing systems in working memory. *Journal of Educational Psychology, 90*(2), 312–320. [doi:10.1037/0022-0663.90.2.312](https://doi.org/10.1037/0022-0663.90.2.312)"
@@ -23,12 +25,14 @@ sources:
     q: 3
     i: "?"
     n: 146
+    kind: causal
+    rigour: "?"
 ---
 
 # Presenting words as spoken narration rather than on-screen text alongside graphics improves learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
 
 Presenting words as spoken narration rather than on-screen text — alongside graphics or animation — improves learning, because distributing information across the auditory and visual channels reduces overload in the visual channel.
 
@@ -44,7 +48,7 @@ Presenting words as spoken narration rather than on-screen text — alongside gr
 
 Ginns, P. (2005). Meta-analysis of the modality effect. *Learning and Instruction, 15*(4), 313–331. [doi:10.1016/j.learninstruc.2005.07.001](https://doi.org/10.1016/j.learninstruc.2005.07.001)
 
-`q4 · meta-analysis (43 independent effects: 39 between-subjects, 4 within-subjects)` · `i? · no pooled effect size available in what was read` · `n=43 independent effects`
+`q4 · meta-analysis (43 independent effects: 39 between-subjects, 4 within-subjects)` · `i? · no pooled effect size available in what was read` · `n=43 independent effects` · `quant-synthesis · r?`
 
 A meta-analysis of the modality effect literature, pooling 43 independent effects (39 between-subjects designs, 4 within-subjects designs) comparing visual-plus-narration presentations against visual-plus-on-screen-text presentations. The major hypotheses about the instructional benefit of splitting text and graphics across the auditory and visual channels were supported, and the size of the benefit was moderated by level of element interactivity (material complexity) and by whether presentation was system-paced or learner-paced, and varied between fields of study. The strongest effect appeared under system-paced conditions, where visual-channel overload is most acute — consistent with [Cognitive Load Theory](../theories/cognitive-load-theory.md)'s account of the effect.
 
@@ -52,7 +56,7 @@ A meta-analysis of the modality effect literature, pooling 43 independent effect
 
 Mayer, R. E., & Moreno, R. (1998). A split-attention effect in multimedia learning: Evidence for dual processing systems in working memory. *Journal of Educational Psychology, 90*(2), 312–320. [doi:10.1037/0022-0663.90.2.312](https://doi.org/10.1037/0022-0663.90.2.312)
 
-`q3 · peer-reviewed experiment` · `i? · no effect size available in what was read` · `n=146`
+`q3 · peer-reviewed experiment` · `i? · no effect size available in what was read` · `n=146` · `causal · r?`
 
 An experiment with 146 college students learning from a computer-based animation of lightning formation. Learners who heard the explanatory words as spoken narration alongside the animation were able to integrate the verbal and pictorial material more easily than learners who read the identical words as on-screen text alongside the same animation — the split-attention/modality effect the meta-analysis above later synthesized across studies. The authors interpret the result as evidence for a dual-channel (auditory/visual) working-memory architecture rather than a single visual-processing bottleneck.
 

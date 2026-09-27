@@ -15,12 +15,14 @@ sources:
     author: "Roohani, A., & Esmaeili, M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Differences in negotiation strategy use between unfocused and focused tasks were not significantly affected by the decision-making vs. opinion-exchange condition. [→ Roohani 2022](#roohani-2022)
@@ -31,7 +33,7 @@ sources:
 
 Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Second Chi-square analysis on strategy frequencies split by the four task conditions (UF/DM, F/DM, UF/OE, F/OE) from the same counterbalanced study; descriptively, UF/DM elicited more confirmation checks (63.63%) than F/DM (38.9%); no effect size printed.
 

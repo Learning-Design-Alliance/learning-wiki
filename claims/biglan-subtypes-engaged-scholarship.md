@@ -15,18 +15,22 @@ sources:
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
   - id: doberneck-2017-2
     resource: "https://portal.issn.org/resource/ISSN/1534-6104"
     title: "Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104"
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Subtypes of publicly engaged scholarship vary by Biglan dimension, with applied faculty reporting five subtypes more often and soft faculty reporting two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Applied-discipline faculty more often report research funded by business/industry (p=.000), research funded by nonprofits/foundations/government (p=.000), noncredit instruction for public understanding (p=.001), technical assistance (p=.002), and discipline-related advisory boards (p=.018). [→ Doberneck 2017](#doberneck-2017)
@@ -38,7 +42,7 @@ sources:
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Chi-square analysis of subtypes coded from 171 RPT forms using the typology of publicly engaged scholarship; Results section reports these five applied-vs-pure contrasts with the printed p-values.
 
@@ -48,7 +52,7 @@ Chi-square analysis of subtypes coded from 171 RPT forms using the typology of p
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Chi-square analysis in Results; Table 4 shows technical assistance at 75.7% life vs 38.2% nonlife and patient/clinical services at 13.6% vs 1.5%. Hard disciplines also reported three subtypes more often, including noncredit classes and programs (p=.004).
 

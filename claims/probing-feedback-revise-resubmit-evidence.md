@@ -15,18 +15,22 @@ sources:
     author: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
   - id: janis-2025-2
     resource: "https://doi.org/10.69772/jes.8.3.1"
     title: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1"
     author: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The clinical instructor's probing feedback and opportunity to resubmit guided candidates, notably Marcus, toward citing specific student evidence for their conclusions about understanding. [→ Janis 2025](#janis-2025)
@@ -38,7 +42,7 @@ sources:
 
 Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 Case analysis of Marcus's weekly submissions. After probing feedback ("You need evidence from the students' responses to answer this question. Please revise and resubmit"), Marcus added cited student evidence such as students who "pulled out specific information from the text."
 
@@ -48,7 +52,7 @@ Case analysis of Marcus's weekly submissions. After probing feedback ("You need 
 
 Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 The same case analysis notes non-linear progress: Marcus sometimes "reverted to vague descriptions of student understandings." Alice "did not improve her capacity to attend to individual students" and persisted in blaming students, so improvement was partial and criterion-specific.
 

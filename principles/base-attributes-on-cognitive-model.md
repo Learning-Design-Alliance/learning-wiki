@@ -17,7 +17,7 @@ sources:
 # Base diagnostic item attributes on an independently constructed cognitive model of problem solving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 When applying cognitive diagnosis in a complex domain, item attributes should be derived from a problem-solving model built independently of the items, rather than listed intuitively. The authors state that "a cognitive model provides a rich description of each attribute because the meaning of each attribute is derived from its place in the model," which promotes fuller understanding of attributes and facilitates assigning them to items. Verbal protocol analysis serves as one means of constructing and verifying the model.

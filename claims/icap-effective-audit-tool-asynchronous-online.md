@@ -15,12 +15,14 @@ sources:
     author: "Pollard, V. & Armatas, C."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors found the ICAP Framework very effective as a codified, objective way of assessing the level of active learning required by activities in the audited asynchronous online course. [→ Pollard 2025](#pollard-2025)
@@ -31,7 +33,7 @@ sources:
 
 Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' interpretation from the case-study audit addressing their first research question. They report the Framework "provided a codified and objective way of assessing the level of active learning" in the audited course; no effect size is reported.
 

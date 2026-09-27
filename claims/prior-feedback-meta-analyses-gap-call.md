@@ -15,12 +15,14 @@ sources:
     author: Adnan F. Saad Mohamed
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Li (2010) found corrective feedback effects of d = 0.61 (FE) and d = 0.64 (RE) but included only six CALL studies; Kang and Han (2015) found d = 0.68 for written corrective feedback but excluded computer-delivered feedback; Van der Kleij et al. (2015) found d = 0.49 across disciplines without moderator analysis. [→ Adnan F. Saad Mohamed 2020](#adnan-f-saad-mohamed-2020)
@@ -31,7 +33,7 @@ sources:
 
 Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Narrative review of prior meta-analyses: the article reports Li's (2010) fixed- and random-effects estimates for corrective feedback on second language learning, noting the analysis contained only k = 6 CALL studies, making applicability to CALL questionable.
 

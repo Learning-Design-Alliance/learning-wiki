@@ -15,12 +15,14 @@ sources:
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Users most often use the topic concept in navigation choices but frequently also use context and resource-type concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In task-based navigation of a taxonomy interface, users most often match the topic concept to taxonomy categories, but they use context and resource-type concepts quite frequently as well. [→ Khoo 2013](#khoo-2013)
@@ -31,7 +33,7 @@ sources:
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Task-based navigation exercises with twenty-two participants (eighteen students and four instructors) navigating a faceted taxonomy displayed as a single-tree menu. The conclusion reports that "they did make use of the context and resource-type concept quite frequently" alongside the topic concept. When and why users choose among the three concepts was not established.
 

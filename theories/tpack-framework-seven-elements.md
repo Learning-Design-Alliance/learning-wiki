@@ -16,7 +16,7 @@ sources:
 # TPACK framework as a foundation for teacher technology-integration knowledge
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 TPACK is presented as "an influential foundation theory for teaching with technology integration research", evolved from Shulman's PCK model by Mishra and Koehler (2006). The framework's structure "consists of 7 elements, which are divided into 3 independent elements and 4 composite elements". Effective technology use in teaching involves knowing the operation process of technology (what), the reason for choosing a technology (why), and how to use it (how). In this study TPACK served as the organizing framework for course content, case analysis, and design reflection.

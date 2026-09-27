@@ -15,12 +15,14 @@ sources:
     author: "Takahashi, C., & Im, S."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Intrinsic motivation predicted intended effort most strongly (standardized coefficient = .58), followed by identified regulation (.33) and introjected regulation (.13). [→ Takahashi 2020](#takahashi-2020)
@@ -31,7 +33,7 @@ sources:
 
 Takahashi, C., & Im, S. (2020). Comparing self-determination theory and the L2 motivational self system and their relationships to L2 proficiency. Studies in Second Language Learning and Teaching, 10(4), 673-696. https://doi.org/10.14746/ssllt.2020.10.4.2
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 SEM results for the SDT model (n = 511) show standardized path coefficients to intended effort of .58 for intrinsic motivation, .33 for identified regulation, and .13 for introjected regulation; the article reports all path coefficients were significant.
 

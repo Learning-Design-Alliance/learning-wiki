@@ -16,7 +16,7 @@ sources:
 # Desirable difficulties: spacing and retrieval practice for L2 vocabulary
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes its rationale around desirable difficulties, defined as "activities or situations which increase the difficulty of a task initially," which slow learning and can lower short-term performance while improving long-term recall and transfer. Spaced repetition with pre-set intervals and retrieval practice after forgetting are the two difficulties built into the GoldList Method, drawing on the performance-versus-learning distinction of Soderstrom and Bjork as the article presents it.

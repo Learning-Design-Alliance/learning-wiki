@@ -16,7 +16,7 @@ sources:
 # Ellis's taxonomy of task planning in task-based language teaching
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The review adopts Ellis's (2005) classification of task planning, in which "Planning in task-based learning and teaching can be cataloged into two kinds: pre-task planning and within-task planning." Pre-task planning includes rehearsal, where students perform the task before the formal performance, and strategic planning, where students prepare content and how it is expressed. Within-task planning is divided into pressured and unpressured according to the time given to students to prepare. The review uses this taxonomy to organize its literature review of planning effects.

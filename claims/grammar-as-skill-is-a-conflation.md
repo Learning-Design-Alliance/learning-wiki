@@ -15,12 +15,14 @@ sources:
     author: Bill VanPatten
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Grammar as the formal properties of language is abstract implicit knowledge, not a skill to be acquired; skill-theory research uses artificial rules never derived from linguistic theory. [→ Bill VanPatten 2010](#bill-vanpatten-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in section III. The author critiques the declarative-to-procedural-to-automatized paradigm (DeKeyser 1997), noting its rules are artificial shorthand and that skill research imports constructs from typing and letter-detection tasks that may not transfer to language, per Schmidt (1992).
 

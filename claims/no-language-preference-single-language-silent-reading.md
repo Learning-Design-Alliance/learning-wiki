@@ -15,12 +15,14 @@ sources:
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` In Study 2, silent reading of single-language books showed no significant effect of Book Type after controlling for reading-ability differences, F(1, 32) = .19, p = .67, partial η2 = .006; equivalence was not explicitly tested. [→ Yow 2019](#yow-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 Study 2 null result: an ANCOVA controlling for ReadDiff found a "non-significant effect of Book Type" for silent single-language reading, suggesting the English bias in dual-language books arises from within-page language competition rather than a general language preference.
 

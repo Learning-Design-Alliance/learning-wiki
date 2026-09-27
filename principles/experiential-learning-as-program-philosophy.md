@@ -17,7 +17,7 @@ sources:
 # Implement experiential learning as a program-level teaching philosophy rather than as isolated activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that experiential learning should be adopted as an overarching curriculum philosophy spanning a whole degree program, not merely as discrete activities within units. Citing Itin (1999), it warns that when implemented "as a series of activities or strategies the experience for students can be disjointed and confusing", and concludes "experiential learning is best approached as a teaching philosophy and implemented as larger curriculum change". The Federation University model is presented as an instance of this program-level approach.

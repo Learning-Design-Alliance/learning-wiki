@@ -16,7 +16,7 @@ sources:
 # Self-directed learning as a five-step process learners control themselves
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies, `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Self-directed learning (SDL) derives from andragogy and describes a process in which the adult learner guides and directs the process, participating fully in evaluating learning needs, planning, implementing and evaluating content learned. Knowles' early definition lists diagnosing learning needs, formulating goals, identifying resources, choosing and implementing strategies, and evaluating outcomes. The article treats SDL as both external instructional process characteristics and internal learner characteristics such as self-discipline and curiosity, and measures it as a motivation variable in the correlational study.

@@ -15,12 +15,14 @@ sources:
     author: Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # The type of label used (person-first, 'sex offender', diagnostic, or offence-specific) does not significantly affect public perceptions of individuals who sexually offend
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Across four label conditions, there was no statistically significant difference in social distance, treatment amenability, perceived sexual or general recidivism, or sentencing severity. [→ Robles Chella 2026](#robles-chella-2026)
@@ -31,7 +33,7 @@ sources:
 
 Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy. (2026). Changing Language May Not Be Enough to Change Public Perceptions of Individuals Who Sexually Offend. Sexual Offending: Theory, Research, and Prevention. https://doi.org/10.5964/sotrap.17345
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Crowdsourced experiment in which 297 community adults read one of eight vignettes varying label and victim age, then rated perceptions. The first MANOVA on six dependent measures found "no statistically significant difference ... based on the label type, F(18,627) = .549, p = .934", with partial η2 = .016.
 

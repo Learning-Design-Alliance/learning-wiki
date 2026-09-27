@@ -15,12 +15,14 @@ sources:
     author: Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Disproportionate financial pressure (tuition, application fees, relocation costs) can lead first-generation chemists to prioritize immediate financial stability over long-term scientific aspirations, and can deter pursuit of advanced training. [→ Ives Robert A. 2026](#ives-robert-a-2026)
@@ -31,7 +33,7 @@ sources:
 
 Ives Robert A., Azulay David N., Cook Adam, Dagar Mamta, Fansher Douglas J., Keshari Roshan, Ojha Anupam Anand, Patel Shivani, Sandoval-Pauker Christian, Sanghai Nitesh, Trinh Brittany K., Yadav Vishal, Zheng Zhiling. (2026). Reconsidering Excellence in the Chemical Sciences: Lessons from First-Generation Chemists. ACS Central Science. https://doi.org/10.1021/acscentsci.6c00822
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Reflective editorial section on financial barriers, drawn from the authors' shared experiences and structured reflections. The authors add that "these financial pressures can deter an individual from pursuing advanced training in the chemical sciences altogether."
 

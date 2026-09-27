@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: 25 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: van-dongen-et-al-2016
     resource: "https://doi.org/10.1016/j.cub.2016.04.071"
     title: "van Dongen, E. V., Kersten, I. H. P., Wagner, I. C., Morris, R. G. M., & Fernández, G. (2016). Physical Exercise Performed Four Hours after Learning Improves Memory Retention and Increases Hippocampal Pattern Similarity during Retrieval. *Current Biology, 26*(13), 1722–1727. [doi:10.1016/j.cub.2016.04.071](https://doi.org/10.1016/j.cub.2016.04.071)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: "? (sample size not stated in the abstract)"
+    kind: causal
+    rigour: "?"
 ---
 
 # The timing of acute exercise relative to learning modulates memory consolidation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i2` medium
 
 A single bout of cardiovascular exercise can enhance memory for recently learned material, but the effect depends on *when* the exercise occurs relative to encoding and consolidation — before learning, shortly after learning, or much later.
 
@@ -43,7 +47,7 @@ A single bout of cardiovascular exercise can enhance memory for recently learned
 
 Loprinzi, P., Blough, J., Crawford, L., Ryu, S., Zou, L., & Li, H. (2019). The Temporal Effects of Acute Exercise on Episodic Memory Function: Systematic Review with Meta-Analysis. *Brain Sciences, 9*(4), 87. [doi:10.3390/brainsci9040087](https://doi.org/10.3390/brainsci9040087)
 
-`q3 · systematic review with meta-analysis (not pre-registered)` · `i2 · medium effect, d=0.47 during early consolidation` · `n=25 studies`
+`q3 · systematic review with meta-analysis (not pre-registered)` · `i2 · medium effect, d=0.47 during early consolidation` · `n=25 studies` · `quant-synthesis · r?`
 
 This review pooled 25 experimental studies of healthy adults aged 18 to 84, comparing one bout of exercise with a control condition. It sorted them by when the exercise happened: before learning, during learning, within 4 hours after learning (early consolidation), or 4 or more hours after (late consolidation). Exercise during learning slightly hurt memory (d=−0.12). Exercise before learning had a small effect that did not reach significance (d=0.11), though it helped young adults (d=0.18) and hurt older adults (d=−0.53). Exercise after learning helped: d=0.47 in the early window and d=1.05 in the late window. The late-window estimate comes from only two studies and has a wide interval (95% CI 0.32 to 1.78). No study blinded its outcome assessors.
 
@@ -51,7 +55,7 @@ This review pooled 25 experimental studies of healthy adults aged 18 to 84, comp
 
 van Dongen, E. V., Kersten, I. H. P., Wagner, I. C., Morris, R. G. M., & Fernández, G. (2016). Physical Exercise Performed Four Hours after Learning Improves Memory Retention and Increases Hippocampal Pattern Similarity during Retrieval. *Current Biology, 26*(13), 1722–1727. [doi:10.1016/j.cub.2016.04.071](https://doi.org/10.1016/j.cub.2016.04.071)
 
-`q3 · randomised three-group experiment` · `i? · no effect size in the abstract` · `n=? (sample size not stated in the abstract)`
+`q3 · randomised three-group experiment` · `i? · no effect size in the abstract` · `n=? (sample size not stated in the abstract)` · `causal · r?`
 
 Participants were randomly assigned to one of three groups, and all of them learned a set of picture-location pairs. One group exercised immediately afterwards, one exercised 4 hours later, and one did not exercise. The procedures were otherwise the same. Memory was tested 48 hours later, with cued recall in an MRI scanner. Only the group that exercised 4 hours later remembered better than the no-exercise group. That group also showed more hippocampal pattern similarity when recalling correctly. The finding runs against the idea that exercise immediately after learning is the best time and that delayed exercise does little.
 

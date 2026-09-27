@@ -15,12 +15,14 @@ sources:
     author: Hunt, J. McVicker
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Conditions of rearing substantially shift the ages at which infants achieve object-construction landmarks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Institution-reared Greek infants achieved object-construction levels at substantially older mean ages than home-reared infants, with about 65 weeks separating orphanage and home-reared means at top-level object construction. [→ Hunt 1973](#hunt-1973)
@@ -31,7 +33,7 @@ sources:
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Cross-sectional study (Paraskevopoulos & Hunt, 1971) of infants in the Athens Municipal Orphanage (infant-caretaker ratio about 10/1), Metera Baby Center (about 3/1), and 94 home-reared working-class children. Hunt reports "The variation in mean ages ... is about 65 weeks or about a year and a quarter." No effect size printed.
 

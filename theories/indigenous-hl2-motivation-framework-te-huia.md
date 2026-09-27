@@ -16,7 +16,7 @@ sources:
 # Heritage-language motivation framework for indigenous HL2 learners: revitalisation, identity, and cultural participation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article organises Māori HL2 learner motivation around the interplay of cultural revitalisation, identity, and access to cultural practices. It argues that for endangered-language learners, motivation differs from learners of dominant languages because "the motivation for wanting to engage in HL2 learning is likely to be tied to the obligation to maintain the language for future generations." It draws on social identity theory, investment (Norton), and cultural frame-switching, and reports a bi-directional relationship between revitalisation and individual motivation.

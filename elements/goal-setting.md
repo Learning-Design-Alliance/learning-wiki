@@ -17,7 +17,7 @@ sources:
 # Goal Setting
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement. It is useful when visible goals help focus effort, strategy choice, and persistence.

@@ -15,12 +15,14 @@ sources:
     author: Okwara, V. U.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # School (A, B, C) showed no statistically significant effect on post-test applied conceptual understanding in the ANCOVA model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the ANCOVA of post-test scores, the school factor (A, B, C) was not statistically significant (F = 1.36, p = 0.2585). [→ Okwara 2024](#okwara-2024)
@@ -31,7 +33,7 @@ sources:
 
 Okwara, V. U. (2024). The impact of puppetry as a teaching tool on Grade 9 learners' applied conceptual understanding of ecological concepts: A STE(A)M context. Educational Research: Theory and Practice, 35(4), 158-174. https://orcid.org/0000-0002-0876-9020
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Secondary term in the same ANCOVA of applied conceptual understanding (Table 4), where the independent variables included "the school (with three categories: A, B, C)". The printed School row shows F Value 1.36 and Pr > F 0.2585; no effect size is reported.
 

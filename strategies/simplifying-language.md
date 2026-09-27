@@ -12,7 +12,7 @@ generated:
 # Simplifying Language
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 1 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Simplifying language means rewriting instructional materials — text, narration, instructions, and assessment items — so that the linguistic surface demands less of the learner: shorter sentences, common vocabulary, explicit connectives, and one idea per sentence. The goal is to free working memory for the actual content rather than for decoding prose. Simplification targets the *language wrapper* around content, not the conceptual difficulty of the content itself.

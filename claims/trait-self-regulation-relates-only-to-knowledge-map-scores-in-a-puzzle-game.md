@@ -15,24 +15,30 @@ sources:
     author: "Shen, C.-Y., & O’Neil, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: shen-2006-2
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
     author: "Shen, C.-Y., & O’Neil, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: shen-2006-3
     resource: "https://eric.ed.gov/?id=ED491961"
     title: "Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961"
     author: "Shen, C.-Y., & O’Neil, H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the total sample, significant relationships were found only between trait self-regulation questionnaire scores and knowledge map scores. [→ Shen 2006](#shen-2006)
@@ -45,7 +51,7 @@ sources:
 
 Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Correlational analysis of the trait self-regulation questionnaire in the total sample of the SafeCracker experiment. "significant relationships were found only between the scores of trait self regulation questionnaire and knowledge map scores"; no coefficients are printed.
 
@@ -55,7 +61,7 @@ Correlational analysis of the trait self-regulation questionnaire in the total s
 
 Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Same total-sample correlational analysis: "the participants with higher planning performed better in knowledge map pretest and posttest", and higher self-monitoring went with higher knowledge map posttest and improvement scores. No coefficients are printed.
 
@@ -65,7 +71,7 @@ Same total-sample correlational analysis: "the participants with higher planning
 
 Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Same total-sample correlational analysis: "the participants with higher effort performed better on knowledge map improvement"; the article also links higher self-efficacy to higher knowledge map scores. No coefficients are printed.
 

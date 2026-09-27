@@ -15,12 +15,14 @@ sources:
     author: Silverman, Robert J.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Comments and replies are rare in the research and scholarly literature
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A survey of approximately 350 journals found that comments and replies occur far less frequently than expected, with fewer than 10 of about 100 closely examined journals routinely including author reactions to critics. [→ Silverman 1993](#silverman-1993)
@@ -31,7 +33,7 @@ sources:
 
 Silverman, Robert J. (1993). Comments and Replies: Academic Conversations. ASHE Annual Meeting Paper. https://eric.ed.gov/?id=ED365173
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Observational browse of journals at The Ohio State University Libraries, 1975-1990, excluding natural sciences. Of roughly 350 journals browsed, about 100 were examined more closely and approximately 40 published some comments; the author notes "how rare comments and replies are in the research and scholarly literature."
 

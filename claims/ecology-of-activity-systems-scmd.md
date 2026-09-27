@@ -15,12 +15,14 @@ sources:
     author: Park, Y.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The SCMD activity system is embedded in and co-determined by broader activity systems: the instructor's course design, the university, technology designers, and the academic discipline. [→ Park 2015](#park-2015)
@@ -31,7 +33,7 @@ sources:
 
 Park, Y. (2015). Understanding Synchronous Computer-Mediated Classroom Discussion through Cultural-Historical Activity Theory. The Turkish Online Journal of Educational Technology, 14(2). https://www.tojet.net/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Theoretical interpretation of the case data: the instructor's design activity determined class topics, readings, tools, times and places; the university set rules and divisions of labor; technology designers' intentions were embedded in the tool affordances.
 

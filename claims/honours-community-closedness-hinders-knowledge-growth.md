@@ -15,12 +15,14 @@ sources:
     author: Wabike, P.
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # A minority of honours community members feel the community is too closed, hindering knowledge growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` 42.5% of surveyed members rarely or often feel the community is becoming too closed and hindering their knowledge growth, while 57% never feel that way. [→ Wabike 2021](#wabike-2021)
@@ -31,7 +33,7 @@ sources:
 
 Wabike, P. (2021). Enhancing Learning through Community Membership: Honours Students' Perceptions of Community Membership and Its Impact on Learning. Journal of Educational Issues, 7(2). https://doi.org/10.5296/jei.v7i2.18814
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Likert-scale questionnaire section on 'community' completed by 28 honours students; the printed percentages show a minority perceive closedness as a hindrance while a majority never do. Percentages are descriptive; no inferential test is reported.
 

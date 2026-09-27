@@ -15,12 +15,14 @@ sources:
     author: Dean, A. C.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Cypriot after-school language programs, teachers' tendency to employ repetition and translation as scaffolding hindered learning. [→ Dean 2014](#dean-2014)
@@ -31,7 +33,7 @@ sources:
 
 Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The forum reports Tsagari's (2014) empirical study of teacher-student exchanges in Cypriot Frontistiria after-school language programs, illustrating instances of failed interaction and concern for teachers' approach to "unplanned interventions."
 

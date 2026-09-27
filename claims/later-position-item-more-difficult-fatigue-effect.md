@@ -15,12 +15,14 @@ sources:
     author: "Soysal, S., & Yilmaz Kogar, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Item 15 in Booklet A, which appeared as item 9 in Booklet B, was found more difficult by Booklet A test takers, which the authors attribute to a fatigue effect. [→ Soysal 2021](#soysal-2021)
@@ -31,7 +33,7 @@ sources:
 
 Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Item-parameter comparison across TEOG booklets (Appendix-1) shows the position-difficulty pattern; the article states the item "was found more difficult by the test takers of Booklet A" and attributes this to fatigue effect per Davis and Ferdous (2005).
 

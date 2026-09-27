@@ -15,12 +15,14 @@ sources:
     author: Mehelay S, Comeau B, Chandra S, Fancott C, Gordon D, Loftgard K, Louzado C, Nixon SA, Shahid S, Tilson K, Wilson C, Shaw J.
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors report, from their co-development experience and engagement with literature, that conceptualizing power as finite and transactional implies it must be given or shared in simplistic ways, and that power is better understood as structural and as the capacity of people to act even under social and structural constraints. [→ Mehelay S 2026](#mehelay-s-2026)
@@ -31,7 +33,7 @@ sources:
 
 Mehelay S, Comeau B, Chandra S, Fancott C, Gordon D, Loftgard K, Louzado C, Nixon SA, Shahid S, Tilson K, Wilson C, Shaw J. (2026). Shifting power: co-developing a framework for equity in healthcare. BMC Health Services Research. https://doi.org/10.1186/s12913-026-14964-7
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' interpretation in the discussion, from their co-development experience and cited literature, not a tested result. They add that power is "the capacity of people to act in the world even in a context of social and structural constraints".
 

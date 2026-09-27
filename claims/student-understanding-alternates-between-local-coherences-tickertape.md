@@ -16,18 +16,22 @@ sources:
     author: Frank, B. W., and Scherr, R. E.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: frank-2009
     resource: "https://eric.ed.gov"
     title: "Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov"
     author: Frank, B. W.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 
@@ -41,7 +45,7 @@ sources:
 
 Frank, B. W., and Scherr, R. E. (2012). Interactional processes for stabilizing conceptual coherences in physics. Submitted to PRST-PER. https://journals.aps.org/prper/
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Video analysis of two vignettes from a group of four students in an introductory university physics tutorial on tickertape representations of motion. The analysis documents that "their understanding seems to alternate between two distinct ways of making sense of the strips," with the time-interpretation recurring at 11:20 after the speed-interpretation emerged.
 
@@ -51,7 +55,7 @@ Video analysis of two vignettes from a group of four students in an introductory
 
 Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Case study of one group of four students in an introductory physics tutorial, based on transcript vignettes. The article reports that after initially deciding shorter strips take less time, the students regenerated the speed interpretation, then a student was again convinced of the earlier idea, showing "their understanding seems to vary between these two distinct ways of making sense of the strips."
 

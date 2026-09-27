@@ -15,18 +15,22 @@ sources:
     author: Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M.
     q: 3
     i: 1
+    kind: associational
+    rigour: 1
   - id: scharlott-2024-2
     resource: "https://doi.org/10.1021/acs.jchemed.3c00517"
     title: "Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517"
     author: Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` On the dissolution task, 20%, 19%, and 40% of student responses exhibited causal mechanistic reasoning in the active, didactic, and core ideas learning environments, respectively, and a chi-square test showed a significant environment effect with a moderate effect size of 0.352. [→ Scharlott 2024](#scharlott-2024)
@@ -38,7 +42,7 @@ sources:
 
 Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517
 
-`q3 · i1`
+`q3 · i1` · `associational · r1`
 
 Chi-square test of independence across the three learning environments on the dissolution task responses, reported in Results. The article reports "χ2 = 47.86, p < 0.005, effect size = 0.352 {moderate}", indicating a significant impact of learning environment.
 
@@ -48,7 +52,7 @@ Chi-square test of independence across the three learning environments on the di
 
 Scharlott, L. J.; Rippey, D. W.; Rosa, V.; Becker, N. M. (2024). Progression toward Causal Mechanistic Reasoning through Phenomenon-Based Learning in Introductory Chemistry. Journal of Chemical Education. https://doi.org/10.1021/acs.jchemed.3c00517
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive percentages of causal mechanistic responses on the dissolution task across the active, didactic, and core ideas environments, reported in Results. The core ideas environment's 40% was double the other two; the article attributes this partly to the instructor discussing a similar dissolving event in class.
 

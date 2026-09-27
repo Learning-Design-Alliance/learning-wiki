@@ -15,12 +15,14 @@ sources:
     author: Balta, E. E.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ANOVA on 410 preservice teachers showed epistemological beliefs differ significantly in terms of learning styles in all dimensions of the Epistemological Beliefs Questionnaire. [→ Balta 2018](#balta-2018)
@@ -31,7 +33,7 @@ sources:
 
 Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs in Terms of Learning Styles. International Journal of Higher Education, 7(6). https://doi.org/10.5430/ijhe.v7n6p106
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 ANOVA comparing six learning style groups (n=410) on the four-dimension Epistemological Beliefs Questionnaire; F values ranged from 2.780 (certainty knowledge, p=0.017) to 14.446 (learning process/expert knowledge, p=0.000). The article states beliefs "differ significantly in terms of learning styles in all dimensions."
 

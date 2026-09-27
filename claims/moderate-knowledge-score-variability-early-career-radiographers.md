@@ -15,18 +15,22 @@ sources:
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: hadi-yasser-h-2026-2
     resource: "https://doi.org/10.1002/jmrs.70119"
     title: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119"
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The mean composite knowledge score was 4.66 ± 1.79 out of 8 (median 5, IQR 3), which the authors interpret as only moderate proficiency. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)
@@ -38,7 +42,7 @@ sources:
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Composite knowledge score (range 0–8) from eight items on vertical mis-centring, ATCM principles, HU accuracy and localiser direction; Shapiro–Wilk W was 0.958 with p < 0.001 (Table 2).
 
@@ -48,7 +52,7 @@ Composite knowledge score (range 0–8) from eight items on vertical mis-centrin
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Discussion observation that the wider spread of scores within these groups suggests knowledge in early-career and lower-volume practitioners is less consolidated, implying mean scores may underestimate their educational needs.
 

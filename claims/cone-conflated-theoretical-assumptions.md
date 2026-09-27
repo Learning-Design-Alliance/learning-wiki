@@ -15,12 +15,14 @@ sources:
     author: Seels, B.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The Cone of Experience rests on conflated theoretical assumptions, mixing humanistic and hierarchical task-analysis viewpoints
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` DeVaney and Butler argue Dale's voice was conflated, combining humanistic child-development perspectives with the sequential hierarchical structure of task-analysis proponents, so the cone was based on conflicting theoretical assumptions. [→ Seels 1997](#seels-1997)
@@ -31,7 +33,7 @@ sources:
 
 Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports, citing DeVaney and Butler's historical analysis, that the cone "is at once experiential and hierarchical in its listing of experiential events" and, while popular, was based on conflicting theoretical assumptions. The author notes Dale would likely have argued he was integrating ideas into a whole.
 

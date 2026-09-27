@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 124
+    kind: causal
+    rigour: 2
 ---
 
 # Number Board Games Improve Numerical Knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=124
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=124
 
 Linear number board games — in which players move counters along a numbered track — improve young children's numerical knowledge, including counting, number identification, and numerical magnitude comparison.
 
@@ -34,7 +36,7 @@ Linear number board games — in which players move counters along a numbered tr
 
 Ramani, G. B., & Siegler, R. S. (2008). Promoting Broad and Stable Improvements in Low-Income Children's Numerical Knowledge Through Playing Number Board Games. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-8624.2007.01131.x](https://doi.org/10.1111/j.1467-8624.2007.01131.x)
 
-`q3 · peer-reviewed randomized experiment` · `i2 · medium to large effects, d=0.65–1.08 across tasks` · `n=124`
+`q3 · peer-reviewed randomized experiment` · `i2 · medium to large effects, d=0.65–1.08 across tasks` · `n=124` · `causal · r2`
 
 124 Head Start preschoolers (mean age 4 years 9 months) were randomly assigned within centers to play one of two "Great Race" board games with an experimenter for four 15–20 min sessions over two weeks: one board had linearly arranged squares numbered 1–10, the other was identical except squares varied only in color. Children who played the [number board game](../elements/practice.md) improved from pretest to immediate posttest and to a 9-week follow-up on numeral identification (d=0.69 posttest, d=0.80 follow-up), counting without error (d=0.65, d=0.69), magnitude comparison accuracy (d=0.99 posttest, d=0.77 follow-up) and linearity of number-line estimates (d=1.08 posttest, d=0.55 follow-up); children who played the color-only version showed minimal or no change on any measure. The two groups did not differ at pretest on any task.
 

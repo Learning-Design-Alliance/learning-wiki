@@ -15,12 +15,14 @@ sources:
     author: Sáez, N.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Explicit CL-based instruction teaching prepositions' core senses plus diagrams significantly improved advanced learners' understanding of when to use to, for and at
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Advanced L2 learners taught the core senses of to, for and at with diagrams showed significant pre- to post-test improvement in knowing when to use the prepositions. [→ Sáez 2014](#saez-2014)
@@ -31,7 +33,7 @@ sources:
 
 Sáez, N. (2014). Enhancing the Role of Meaning in the L2 Classroom: A Cognitive Linguistics Perspective. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176947
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The article reports the experimental study by Tyler, Mueller and Ho (2011), in which seven senses of at stemming from its core meaning, plus to and for, were taught to advanced learners with diagrams of core spatial scenes; pre/post testing showed "significant improvements in participants' understandings". No effect size is printed.
 

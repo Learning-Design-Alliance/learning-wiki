@@ -15,12 +15,14 @@ sources:
     author: "Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that objective insights into one's own teaching gained through self-analysis are the most meaningful and most likely to produce constructive change, because such insights can rarely be given by an observer. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
@@ -31,7 +33,7 @@ sources:
 
 Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Theoretical argument in the document's conclusion chapter: teachers can improve if they gain objective insights into their own teaching behaviors, but such insights "can rarely be "given" to a teacher by an observer". No empirical data are reported for this assertion.
 

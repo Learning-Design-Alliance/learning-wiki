@@ -15,18 +15,22 @@ sources:
     author: "McKim, A. J., & Velez, J. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: mckim-2016-2
     resource: "https://doi.org/10.5032/jae.2016.01073"
     title: "McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073"
     author: "McKim, A. J., & Velez, J. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Verbal feedback from the cooperating teacher explained 10% of the variance in student teachers' general teaching efficacy, while being observed by another student teacher had no significant relationship. [→ McKim 2016](#mckim-2016)
@@ -38,7 +42,7 @@ sources:
 
 McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Wolf et al. (2010) found both written and verbal feedback from cooperating teachers positively correlated with student teachers' efficacy, and "verbal feedback, explained 10% of the variance in student teachers' general teachi ng efficacy." Being observed by another student teacher was not significant. No standardized effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports Wolf et al. (2010) found both written and verbal feedback fro
 
 McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Edgar, Roberts, and Murphy's 2007 quasi-experimental study in which cooperating teachers used a structured communication tool rating twelve accomplished practice sections; "the presence of this structured communication tool was detrimental to the teaching efficacy of these student teachers."
 

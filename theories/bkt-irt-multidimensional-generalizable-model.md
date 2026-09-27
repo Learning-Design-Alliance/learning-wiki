@@ -16,7 +16,7 @@ sources:
 # BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student ability and problem difficulty effects: student ability and problem-specific offsets modulate BKT's guessing, slipping, learning, and forgetting probabilities via logit offsets. Student abilities are multidimensional (learning, not-forgetting, guessing, not-slipping dimensions), and new students' abilities are inferred by a sequential Bayesian update over discretized ability values or learnable student prototypes. The article states this "merges BKT temporal dynamics with problem and student effects from IRT models", retaining interpretable parameters unlike black-box NN models.

@@ -15,12 +15,14 @@ sources:
     q: 4
     i: 2
     n: "994 effect sizes, N>61,000"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Feedback Use Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=994 effect sizes, N>61,000
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=994 effect sizes, N>61,000
 
 Learners benefit when they receive feedback on their performance and actively use it to revise their understanding or work. The claim centers on feedback **use** — revision, re-attempt, strategy adjustment — not merely feedback delivery.
 
@@ -34,7 +36,7 @@ Learners benefit when they receive feedback on their performance and actively us
 
 Wisniewski, B., Zierer, K., & Hattie, J. (2020). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)
 
-`q4 · meta-analysis (random-effects model, 435 primary studies)` · `i2 · medium effect, d=0.48` · `n=994 effect sizes, N>61,000`
+`q4 · meta-analysis (random-effects model, 435 primary studies)` · `i2 · medium effect, d=0.48` · `n=994 effect sizes, N>61,000` · `quant-synthesis · r2`
 
 A random-effects meta-analysis synthesizing 435 studies and 994 effect sizes (over 61,000 participants) on feedback and student learning, conducted to replicate and expand Hattie's Visible Learning synthesis. The pooled effect was medium (d=0.48), but heterogeneity was significant, meaning feedback cannot be treated as one uniform intervention. Moderator analysis found the type and information content of the feedback drove the effect: praise, punishment, and reward carried low or low-to-medium effects, while corrective feedback aimed at new-skill acquisition was highly effective, and feedback had a larger impact on cognitive/motor outcomes than on motivational/behavioral ones. Video/audio and computer-assisted feedback channels showed medium-high to high effects, and specific written comments outperformed generic ones. Note: this study's unit of analysis is feedback *delivered*, not verified feedback *use* (revision/re-attempt) — the sharper claim this page centers on; a second candidate source for that distinction, Kluger & DeNisi (1996, doi:10.1037/0033-2909.119.2.254), could not be read (APA PsycNET paywalled it and no open-access copy was found), so it is not cited here.
 

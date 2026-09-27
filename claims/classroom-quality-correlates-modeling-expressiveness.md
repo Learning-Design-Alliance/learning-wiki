@@ -15,12 +15,14 @@ sources:
     author: "Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Higher overall ECERS-R quality correlates with Modeling of Emotional Expressiveness (r = 0.430, p = .046) and with the ESOS Final score (r = 0.423, p = .050). [→ Veraksa N.E. 2021](#veraksa-ne-2021)
@@ -31,7 +33,7 @@ sources:
 
 Veraksa N.E., Airapetyan Z.V., Krasheninnikov-Khait E.E. & Gavrilova M.N. (2021). Associations between emotional scaffolding, classroom quality and dialectical thinking support in kindergarten. Cypriot Journal of Educational Science. 16(5), 2091-2099. https://doi.org/10.18844/cjes.v16i5.6224
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Spearman correlations in the 22-group observational sample; the article reports "Modeling of Emotional Expressiveness (r = 0.430, p = .046)" and "the higher the Final score (r = 0.423, p = .050)". Both p-values sit at or near the .05 threshold.
 

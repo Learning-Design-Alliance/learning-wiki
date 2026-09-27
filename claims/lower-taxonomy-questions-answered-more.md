@@ -15,12 +15,14 @@ sources:
     author: Bates, S. P., Galloway, R. K., Riise, J., and Homer, D.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across the four course datasets, questions in lower taxonomic categories tended to be answered more, by a relatively small factor (e.g. category 1 and 2 questions in Physics 1A 2011 averaged 21(4) and 18(4) answers). [→ Bates 2013](#bates-2013)
@@ -31,7 +33,7 @@ sources:
 
 Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Descriptive analysis of mean answers per question by taxonomic category for the 602 evaluated questions, shown for Physics 1A in Figure 5. The article reports "category 1 and 2 questions are answered on average 21(4) and 18(4) times" and a factor-of-2 difference. No inferential test is printed.
 

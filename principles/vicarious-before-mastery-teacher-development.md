@@ -17,7 +17,7 @@ sources:
 # Sequence teacher development so vicarious experiences come before mastery experiences
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 This principle holds that agriculture teacher preparation programs should build preservice teachers' self-efficacy first through observation of others teaching, before requiring successful teaching performance itself. The authors recommend that "programs should consider shifting their initial focus from providing potential mastery experiences to initially providing vicarious experiences," because the synthesized studies suggest mastery experiences may not optimally raise efficacy early in preparation. Vicarious experience such as observing a first year teacher is expected to lay a foundation for later mastery opportunities like student teaching.

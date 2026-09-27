@@ -16,7 +16,7 @@ sources:
 # Assumptions-and-functions framework of student-centered learning environments
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper identifies common assumptions underlying student-centered learning environments, drawn from "a synthesis of empirical research, theory, and supporting examples" in situated cognition, microworld design, mental model development, metacognition, and process learning. Table 1 pairs each assumption with functions, e.g., that "Knowledge is dynamic and continuously evolving" supports learners in building upon intuitions or mental models, and that individuals must assume greater responsibility for their own learning supports self-regulation and active knowledge construction.

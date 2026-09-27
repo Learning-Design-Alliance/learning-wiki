@@ -15,12 +15,14 @@ sources:
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` The average of standardized Perspectives and Systems of Reference z-scores showed a significant treatment effect favoring +1 and +2 over 0. [→ Snyder 1975](#snyder-1975)
@@ -31,7 +33,7 @@ sources:
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i1`
+`q2 · i1` · `causal · r2`
 
 Individual transfer measures showed nonsignificant treatment contrasts. When samples were collapsed across +1/+2 and standardized, the combined z-score analysis revealed a significant effect (F1,57=4.46, p<.04), "thus providing limited evidence, of greater transfer from the +I and +2 treatmentsthan from the 0 condition."
 

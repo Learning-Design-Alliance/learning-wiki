@@ -15,12 +15,14 @@ sources:
     author: Cooper, E.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` ANOVA showed significant differences in mean cumulative GPA among the three visit groups for all reported quarters (e.g., Fall 2008: F=7.387, p=0.001), with the contrast between >10 visits and no visits significant at p=.029. [→ Cooper 2010](#cooper-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Observational ANOVA of cumulative GPA by visit category for the fall 2007 cohorts. Table 7 prints between-groups results for Winter 2008 (F=4.581, p=0.01), Spring 2008 (F=6.315, p=0.002), and Fall 2008 (F=7.387, p=0.001); the contrast quote gives p=.029.
 

@@ -15,12 +15,14 @@ sources:
     author: Catherine Rockey, Jessica Tiegs, and Julieta Fernández
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Facial expression was the most common nonverbal attention-getting device, and the open hand the most common hand gesture
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across all participants and scenarios, facial expressions were the most frequent nonverbal device (57 tokens), followed by open-hand gestures (40 tokens). [→ Catherine Rockey 2020](#catherine-rockey-2020)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Rockey, Jessica Tiegs, and Julieta Fernández. (2020). Mobile Application Use in Technology-Enhanced DCTs. CALICO Journal. https://doi.org/10.1558/cj.38773
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Token counts from coding all 13 participants' video responses in V-Note software using Amory and Kisselev's feature-based scheme; Table 5 reports 194 total devices, with open hand at "40 tokens". The authors note the selfie camera's focus on the face as a possible technological explanation.
 

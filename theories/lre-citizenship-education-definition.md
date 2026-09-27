@@ -16,7 +16,7 @@ sources:
 # Law-related education defined as citizenship education for a constitutional democracy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The digest defines LRE as education for citizenship rather than specialized legal training. It cites the 1978 federal Study Group definition of LRE as "those organized learning experiences that provide students and educators with opportunities to develop the knowledge and understanding, skills, attitudes and appreciations necessary to respond effectively to the law and legal issues in our complex and changing society". Central program ideas concern why legal procedures exist and how they resolve disputes.

@@ -15,12 +15,14 @@ sources:
     author: Ediger, Marlow
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The essay argues not all pupils learn to read through a single method and asks whether a better balance among whole word and phonics instruction is needed. [→ Ediger 1995](#ediger-1995)
@@ -31,7 +33,7 @@ sources:
 
 Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 An opinion essay contrasting whole language experts, who argue phonics segments content and reduces enjoyment of literature, with phonics experts, who argue a strong phonics background makes pupils independent in unlocking new words. No empirical data are reported.
 

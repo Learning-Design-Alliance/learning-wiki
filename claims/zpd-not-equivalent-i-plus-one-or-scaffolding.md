@@ -15,12 +15,14 @@ sources:
     author: "Karimi-Aghdam, S., & Lantolf, J. P."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Lantolf argues the assumption that the ZPD equals Krashen's i + 1 is unfounded, and that scaffolding and the ZPD are not equivalent concepts, citing published demonstrations. [→ Karimi-Aghdam 2020](#karimi-aghdam-2020)
@@ -31,7 +33,7 @@ sources:
 
 Karimi-Aghdam, S., & Lantolf, J. P. (2020). Dialectical Emergence of Language and Consciousness in Society: An Interview with Professor James P. Lantolf. The Journal of Applied Linguistics and Applied Literature: Dynamics and Advances, 8(2), 3-21. https://eric.ed.gov/?id=ED610078
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the interviewee's theoretical argument, not an empirical test. He reports that several published articles demonstrate the lack of correspondence between the ZPD and i + 1, and cites Xi and Lantolf (2020) arguing scaffolding "does not capture the same process that Vygotsky intended to capture with the ZPD". No data are offered in the interview itself.
 

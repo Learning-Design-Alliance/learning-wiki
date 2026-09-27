@@ -15,12 +15,14 @@ sources:
     author: Emel Saritaş
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Majority of classroom teachers adopt experimentalist philosophy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 51.1% of surveyed classroom teachers adopt experimentalism, the most common educational philosophy. [→ Emel Saritaş 2016](#emel-saritas-2016)
@@ -31,7 +33,7 @@ sources:
 
 Emel Saritaş. (2016). Relationship between philosophical preferences of classroom teachers and their teaching styles. Educational Research and Reviews. https://doi.org/10.5897/ERR2016.2787
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 General survey of 301 volunteered classroom teachers teaching 1st–4th classes in primary schools; philosophy determined by the highest-scoring category on the Philosophical Preferences Assessment form. The printed percentages show "51.1% adopt experimentalism" as the most frequent philosophy.
 

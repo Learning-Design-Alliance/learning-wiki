@@ -15,12 +15,14 @@ sources:
     author: "The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # A one-to-one wireless laptop initiative in Hiawassee, Georgia was accompanied by improved test scores, a 24 percent rise in adult education enrollment and a 71 percent rise in G.E.D. completions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After every student and teacher in Hiawassee received a wireless, networked laptop with round-the-clock access to online curriculum content, student test scores improved, adult education enrollment increased by 24 percent, and G.E.D. completions rose by 71 percent. [→ The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report 2000](#the-power-of-digital-learning-integrating-digital-content-the-ceo-forum-school-technology-and-readiness-report-2000)
@@ -31,7 +33,7 @@ sources:
 
 The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three. (2000). https://eric.ed.gov/?id=ED447781
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 A sidebar in the access section describes the Hiawassee one-to-one e-learning initiative, which included round-the-clock online curriculum access, family training, high-speed school connectivity, dial-up home access and technical support. The report states "enrollment in adult education classes has Increased by 24%" and G.E.D. completions rose 71 percent; no test statistic is printed.
 

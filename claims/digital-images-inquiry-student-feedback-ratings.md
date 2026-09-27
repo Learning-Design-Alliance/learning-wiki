@@ -15,12 +15,14 @@ sources:
     author: Morzinski, K. M., Crockett, C. J., and Crossfield, I. J.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a five-point student feedback survey, poster session and synthesis lecture scored highest (mean 4.5), followed by image decoding (4.4), with homework file creation lowest (3.6). [→ Morzinski 2010](#morzinski-2010)
@@ -31,7 +33,7 @@ sources:
 
 Morzinski, K. M., Crockett, C. J., and Crossfield, I. J. (2010). Digital image exploration at Maui Community College. ASP Conference Series. https://arxiv.org/abs/1009.3297
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Written feedback forms from approximately 25 first- and second-year Electrical Engineering Technology students after the Fall 2008 inquiry. Table 6 reports means: Poster Session 4.5 (SD 0.8), Synthesis Lecture 4.5 (SD 0.6), Image Decoding 4.4 (SD 0.8), Homework File Creation 3.6 (SD 1.4).
 

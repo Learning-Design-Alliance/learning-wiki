@@ -15,18 +15,22 @@ sources:
     author: Zambo, Ron; Hess, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: zambo-1994-2
     resource: "https://eric.ed.gov/?id=ED375005"
     title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
     author: Zambo, Ron; Hess, Robert
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Reviews and meta-analyses agree females tend to be superior in computational activities while males tend to be superior in problem solving, and the problem-solving difference increases with age. [→ Zambo 1994](#zambo-1994)
@@ -38,7 +42,7 @@ sources:
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The article's literature review states these two points of agreement among reviews and meta-analyses (citing Aiken 1971 through Hyde, Fennema and Lamon 1990); the review reports them second-hand without new analysis.
 
@@ -48,7 +52,7 @@ The article's literature review states these two points of agreement among revie
 
 Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The review reports disagreement about when the male advantage first appears, attributing upper-elementary findings to Maccoby and Jacklin (1974) and Badger (1981) and high-school onset to Linn and Hyde (1989) and others.
 

@@ -15,12 +15,14 @@ sources:
     author: "Uyen, B. P., Tong, D. H., & Tram, N. T. B."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On the explanation criterion, students at Levels 1-2 fell from 20 on the pre-test to 11 on the post-test, while Level 4 rose from 2 to 6. [→ Uyen 2021](#uyen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Uyen, B. P., Tong, D. H., & Tram, N. T. B. (2021). Developing mathematical communication skills for students in grade 8 in teaching congruent triangle topics. European Journal of Educational Research, 10(3), 1287-1302. https://doi.org/10.12973/eu-jer.10.3.1287
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Rubric-based scoring of the explanation (argument, presentation) criterion in Table 5 for the same 40 students. Pre-test Level 1-4 counts were 7, 13, 18, 2; post-test counts were 5, 6, 23, 6, indicating improvement concentrated in Level 3.
 

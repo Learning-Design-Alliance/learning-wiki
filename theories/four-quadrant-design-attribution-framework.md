@@ -16,7 +16,7 @@ sources:
 # Four-quadrant inferential framework for interpreting human attribution responses to robot design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article crosses two dimensions—whether the robot was designed to be humanlike and whether humans attribute human characteristics to it—yielding four outcomes: aligned anthropomorphism, emergent anthropomorphism, humanlike design misalignment, and appropriate non-human interpretation. The framework makes explicit that "human attributions are evidence about how people interpret a system, not necessarily direct evidence of the system's design-level humanlikeness." It supports diagnosing when design intent and human interpretation align or diverge.

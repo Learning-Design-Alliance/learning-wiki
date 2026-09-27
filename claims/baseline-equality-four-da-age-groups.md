@@ -15,18 +15,22 @@ sources:
     author: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: kashef-2024-2
     resource: "https://eric.ed.gov/?id=EJ1419474"
     title: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474"
     author: "Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The four DA-by-age groups were statistically equivalent in general English proficiency and pre-test writing accuracy before treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One-way ANOVA on PET scores showed no difference among the four groups (p=0.90). [→ Kashef 2024](#kashef-2024)
@@ -38,7 +42,7 @@ sources:
 
 Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 One-way ANOVA on PET scores (Table 2) for the four groups of 140 candidates; group means ranged around 38-39 with p=0.90, only a p-value printed.
 
@@ -48,7 +52,7 @@ One-way ANOVA on PET scores (Table 2) for the four groups of 140 candidates; gro
 
 Kashef, L., Ghafoori, N., Valizadeh Oghani, A., & Mehrpouyan, A. (2024). The effect of interactionist vs. interventionist dynamic assessment on writing accuracy of young vs. adult IELTS candidates. International Journal of Language Testing, 14(1), 1–16. https://eric.ed.gov/?id=EJ1419474
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 One-way ANOVA on writing accuracy pre-test scores (Table 5), scored as error-free T-units over total T-units, confirmed equality of the four groups' means before treatment; only F and p printed, no effect size.
 

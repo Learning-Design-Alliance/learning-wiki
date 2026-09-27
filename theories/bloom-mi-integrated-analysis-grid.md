@@ -16,7 +16,7 @@ sources:
 # Integrated Bloom-MI grid as a two-perspective textbook analysis framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article uses a planning and analysis grid that crosses Bloom's six levels of cognitive learning objectives (knowledge through evaluation) with Gardner's eight intelligences, so that materials can be coded for both "breadth and depth of learning processes and goals in textbooks". The authors argue prior textbook checklists did not address learning objectives or intelligence categorizations, producing one-dimensional analyses, and that combining the two taxonomies broadens and deepens the analysis of texts, tasks and exercises.

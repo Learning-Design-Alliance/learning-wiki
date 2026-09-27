@@ -15,12 +15,14 @@ sources:
     author: Özsoy, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The Republic's education project espoused equality of opportunity and coeducation as discourse, but in practice a mentality turning these principles into their opposites prevailed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Although the Republic's education project was based on equality of opportunity and coeducation principles as discourse, in practice a mentality prevailed that turned these principles into their opposites. [→ Özsoy 2009](#ozsoy-2009)
@@ -31,7 +33,7 @@ sources:
 
 Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Historical-theoretical assertion in the balance-sheet section, attributed by the author to several cited works. The article states the discourse-practice gap in which the principles of "equality of opportunity" and "coed education" were turned into their opposites in practice.
 

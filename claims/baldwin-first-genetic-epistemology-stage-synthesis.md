@@ -15,12 +15,14 @@ sources:
     author: Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Baldwin, not Piaget, first proposed progressive stage-by-stage development and a genetic epistemology founded on assimilation and accommodation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Baldwin first attempted the synthesis of philosophy and the life sciences through progressive stage-by-stage development and first articulated a genetic epistemology based on cognitive assimilation and accommodation, ideas later attributed to Piaget. [→ Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin 1989](#simple-convergences-piagetian-theory-and-its-relationship-to-the-epistemology-of-james-mark-baldwin-1989)
@@ -31,7 +33,7 @@ sources:
 
 Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Historical argument citing Broughton (1981), who states "It was Baldwin not Piaget who first attempted a synthesis of philosophy and the life sciences" and who first proposed developmental sequences across logical, scientific, social, moral, religious, and aesthetic consciousness. The paper offers this as scholarly attribution, not new data.
 

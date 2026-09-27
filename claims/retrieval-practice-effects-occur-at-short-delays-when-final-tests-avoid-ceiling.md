@@ -15,18 +15,22 @@ sources:
     author: Karpicke, J. D.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: karpicke-2017-2
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     title: "Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` The chapter reports that Rowland's (2014) analysis indicates reliable positive effects at short delays, provided final test performance is not at ceiling. [→ Karpicke 2017](#karpicke-2017)
@@ -38,7 +42,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 The chapter rejects the view that benefits appear only after a delay, reporting that Rowland's (2014) analysis "indicates that there are reliable positive effects at short delays"; no separate effect size is printed for this point.
 
@@ -48,7 +52,7 @@ The chapter rejects the view that benefits appear only after a delay, reporting 
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter's own methodological argument: because restudy reexposes the whole set while retrieval reexposes only what is recalled, "comparisons of retrieval practice and repeated study conditions are biased in favor of repeated studying".
 

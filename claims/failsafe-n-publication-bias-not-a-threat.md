@@ -15,12 +15,14 @@ sources:
     author: Adnan F. Saad Mohamed
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A classic fail-safe N of 425 and an Orwin's fail-safe N of 183 (exceeding the 5k + 10 criterion) indicated publication bias was not an issue threatening the findings, despite an asymmetric funnel plot. [→ Adnan F. Saad Mohamed 2020](#adnan-f-saad-mohamed-2020)
@@ -31,7 +33,7 @@ sources:
 
 Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment for the 21-study meta-analysis. Visual inspection of the funnel plot showed asymmetry, so classic and Orwin's fail-safe N tests were run; Orwin's analysis with trivial criterion .05 showed 183 studies were required to invalidate the overall effect, exceeding the 5k + 10 limit.
 

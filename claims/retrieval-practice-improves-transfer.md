@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 122 experiments (192 effect sizes, N=10,382)
+    kind: quant-synthesis
+    rigour: 2
   - id: butler-2010
     resource: "https://doi.org/10.1037/a0019902"
     title: "Butler, A. C. (2010). Repeated testing produces superior transfer of learning relative to repeated studying. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(5), 1118–1133. [doi:10.1037/a0019902](https://doi.org/10.1037/a0019902)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 4 experiments
+    kind: causal
+    rigour: "?"
 ---
 
 # Retrieval Practice Improves Transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i2` medium
 
 Practicing retrieval of learned material (rather than rereading or restudying) improves learners' ability to apply that knowledge to new problems and contexts, not just to recall it verbatim.
 
@@ -43,7 +47,7 @@ Practicing retrieval of learned material (rather than rereading or restudying) i
 
 Pan, S. C., & Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. *Psychological Bulletin, 144*(7), 710–756. [doi:10.1037/bul0000151](https://doi.org/10.1037/bul0000151)
 
-`q4 · meta-analysis` · `i2 · medium effect, d=0.40` · `n=122 experiments (192 effect sizes, N=10,382)`
+`q4 · meta-analysis` · `i2 · medium effect, d=0.40` · `n=122 experiments (192 effect sizes, N=10,382)` · `quant-synthesis · r2`
 
 A random-effects meta-analysis of 67 published and unpublished articles spanning more than 40 years, comparing practice testing with a non-testing re-exposure control on transfer tests. Testing yielded transferable learning overall (d = 0.40, 95% CI [0.31, 0.50]), strongest across test formats, to application and inference questions, and to medical-diagnosis problems, and weakest to rearranged stimulus-response items, to untested material seen during study, and to worked-example problems. Response congruency, elaborated retrieval practice and initial test performance strongly moderated transfer. Publication-bias corrections (PET-PEESE and selection methods) left moderator effects largely intact but substantially reduced the intercept, often indicating no positive transfer when none of those moderators is present — a significant qualification of the unconditional claim.
 
@@ -51,7 +55,7 @@ A random-effects meta-analysis of 67 published and unpublished articles spanning
 
 Butler, A. C. (2010). Repeated testing produces superior transfer of learning relative to repeated studying. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 36*(5), 1118–1133. [doi:10.1037/a0019902](https://doi.org/10.1037/a0019902)
 
-`q3 · peer-reviewed experiment` · `i? · no effect size in the abstract read` · `n=4 experiments`
+`q3 · peer-reviewed experiment` · `i? · no effect size in the abstract read` · `n=4 experiments` · `causal · r?`
 
 Participants studied prose passages and then either repeatedly restudied them or took repeated tests on them. A week later the final test used the same questions (Experiment 1a), new inferential questions from the same knowledge domain (Experiments 1b and 2), or new inferential questions from different knowledge domains (Experiment 3). Repeated testing produced better retention and transfer than repeated studying in every case, indicating the benefit is not limited to the specific response practised.
 

@@ -15,18 +15,22 @@ sources:
     author: "Kim, T. & Yun, J. T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: kim-2019-2
     resource: "https://doi.org/10.14507/epaa.27.4597"
     title: "Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597"
     author: "Kim, T. & Yun, J. T."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Box plots show the assessment distribution skews high (median around 0.50 versus mean 0.61), while curriculum has the lowest median (0.15 versus mean 0.31), indicating most countries' principals report substantial internal control over curriculum. [→ Kim 2019](#kim-2019)
@@ -37,7 +41,7 @@ sources:
 
 Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Box-plot analysis of country-average external control scores in the TALIS 2013 data. The article reports "the median and mean are quite far apart with the median (0.15) set at half the value of the mean (0.31)" for curriculum, and that the assessment distribution is non-normal and skews high.
 
@@ -47,7 +51,7 @@ Box-plot analysis of country-average external control scores in the TALIS 2013 d
 
 Kim, T. & Yun, J. T. (2019). Logics of accountability: Cross-national patterns in school-level controls. Education Policy Analysis Archives, 27(119). https://doi.org/10.14507/epaa.27.4597
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same box-plot analysis of the four domains: HR shows the largest range (0–1) of country agreement on external control, while curriculum shows the smallest range with outliers Abu Dhabi, Cyprus, and Japan reporting very high external curricular control.
 

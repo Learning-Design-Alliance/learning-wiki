@@ -15,12 +15,14 @@ sources:
     author: Norman, D. A.; And Others
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Manually controlled adaptation of task difficulty produced slightly better trainee performance than machine-controlled automatic adaptation. [→ Norman 1972](#norman-1972)
@@ -31,7 +33,7 @@ sources:
 
 Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Experimental comparison of eight independent groups of eight subjects each under different training methods on a single-axis tracking task. The report states that "manual adaptation is slightly superior to automatic adaptation" while noting this could reflect differences in performance measurement levels.
 

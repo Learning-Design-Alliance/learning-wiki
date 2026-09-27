@@ -15,12 +15,14 @@ sources:
     q: 3
     i: 2
     n: 78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning
+    kind: causal
+    rigour: 2
 ---
 
 # Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium · n=78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning
 
 When writers plan only a single overall goal before drafting (rather than a detailed outline), spontaneous, minimally-rehearsed sentence production predicts an increase in the writer's self-rated understanding of the topic — the opposite pattern from what occurs under detailed outline planning — while also predicting lower initial text quality; a separate process of revising the text's global structure independently predicts increased understanding regardless of planning condition, and the two together (text quality and understanding) are not simply positively related.
 
@@ -41,7 +43,7 @@ When writers plan only a single overall goal before drafting (rather than a deta
 
 Baaijen, V. M., & Galbraith, D. (2018). Discovery Through Writing: Relationships with Writing Processes and Text Quality. *Cognition and Instruction, 36*(3), 199-223. [https://doi.org/10.1080/07370008.2018.1456431](https://doi.org/10.1080/07370008.2018.1456431)
 
-`q3 · peer-reviewed experiment with random assignment to planning condition, keystroke-logged writing-process measures (Inputlog), validated composite scales (α=.79-.80) from a confirmatory principal-component analysis, and independently-rated text quality (interrater r=.84, p<.001); not pre-registered` `i2-i3 · precisely reported, statistically significant effects of moderate size on a novel and theoretically important question, including a claim (i3) that directly overturns the standard assumption that text quality and understanding-development are positively linked` `n=78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning`
+`q3 · peer-reviewed experiment with random assignment to planning condition, keystroke-logged writing-process measures (Inputlog), validated composite scales (α=.79-.80) from a confirmatory principal-component analysis, and independently-rated text quality (interrater r=.84, p<.001); not pre-registered` `i2-i3 · precisely reported, statistically significant effects of moderate size on a novel and theoretically important question, including a claim (i3) that directly overturns the standard assumption that text quality and understanding-development are positively linked` `n=78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning` · `causal · r2`
 
 University students wrote a 30-minute argumentative essay after either detailed outline planning or minimal ("synthetic") goal-only planning. Writing processes were captured via keystroke logging and reduced to two validated composite scales — sentence-production style (controlled vs. spontaneous) and global-linearity (revision of overall text structure). Students rated their topic understanding before and after writing; two independent raters scored text quality. Regression models showed that spontaneous sentence production and structural revision predicted understanding through two independent pathways, and that the relationship between text quality and understanding depended on planning condition rather than being uniformly positive — directly testing and complicating the standard problem-solving account of writing. This informs [Synthetic Planning for Discovery-Oriented Writing](../patterns/synthetic-planning-for-discovery-oriented-writing.md) and [Dual-Process Account of Discovery in Writing](../theories/dual-process-account-of-discovery-in-writing.md).
 

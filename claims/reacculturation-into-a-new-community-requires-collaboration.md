@@ -15,18 +15,22 @@ sources:
     author: DeCiccio, Albert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: deciccio-1988-2
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
     author: DeCiccio, Albert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper argues that reacculturation, loosening ties to one community to join another, cannot be accomplished alone and must be accomplished through collaboration. [→ DeCiccio 1988](#deciccio-1988)
@@ -38,7 +42,7 @@ sources:
 
 DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in a conference paper, with no data. It asserts that "reacculturation is virtually impossible to accomplish alone" and illustrates the point with the civil rights and women's movements rather than with a study.
 
@@ -48,7 +52,7 @@ Theoretical argument in a conference paper, with no data. It asserts that "reacc
 
 DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the same paper, with no data. It describes collaborative learning as providing students with "a support group, which serves as a transitional, social unit" during initiation into a new community.
 

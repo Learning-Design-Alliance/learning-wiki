@@ -17,7 +17,7 @@ sources:
 # Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends AMOVA as a post hoc addition to instrument validation practice, claiming it "adds considerable value to the methods designed to assess instrument validity and reliability especially when said instrumentation is researcher–designed". The author's stated recommendations are that more research be conducted with the model to substantiate its applicability, that an assortment of psychometric instruments use the model across disciplines, and that researchable applications be documented so the innovations can be readily applied.

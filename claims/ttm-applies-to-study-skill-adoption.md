@@ -15,12 +15,14 @@ sources:
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The Transtheoretical Model of Change applies to the adoption of improved study skills: decisional balance pros and cons follow the TTM pattern across stages, self-efficacy rises from contemplation to maintenance, and action/maintenance students use more deep achieving strategies.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Self-efficacy increased from contemplation through to maintenance, and students in the action and maintenance stages showed increased use of deep achieving study strategies. [→ Grant 2001](#grant-2001)
@@ -31,7 +33,7 @@ sources:
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 In the same stage-of-change study, self-efficacy rose across stages from contemplation to maintenance, and action and maintenance students reported more deep achieving study strategies. No effect sizes are printed in the supplied text.
 

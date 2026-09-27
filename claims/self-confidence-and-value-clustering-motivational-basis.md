@@ -15,12 +15,14 @@ sources:
     author: "Op 't Eynde, P., & De Corte, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The clustering of self-efficacy and task-value beliefs in one factor indicates students who are confident about their mathematical ability are mostly also convinced about the relevance of mathematics, while those with low self-confidence are also not convinced of its importance. [→ Op 't Eynde 2003](#op-t-eynde-2003)
@@ -31,7 +33,7 @@ sources:
 
 Op 't Eynde, P., & De Corte, E. (2003). Students' mathematics-related belief systems: Design and analysis of a questionnaire. https://eric.ed.gov/?id=ED475708
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Interpretation of the Factor 2 composition (task-value and self-efficacy items) from the PCA of 365 students' MRBQ responses. The article reports that "students who are confident about their mathematical ability are mostly also the ones who are convinced about the relevance of mathematics" and that low-confidence students will be very difficult to motivate for mathematics.
 

@@ -15,12 +15,14 @@ sources:
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The strengths-based shared coaching partnership comprises four components: emphasis on positive feedback, rapport, mutual respect, and reciprocal trust. [→ White 2015](#white-2015)
@@ -31,7 +33,7 @@ sources:
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Requisite Relationship Components section: focus group data showed coaches emphasizing positive over corrective feedback so teachers felt safe trying new practices ("I never felt like we were being nitpicked"), and the summer institute built rapport before coaching began.
 

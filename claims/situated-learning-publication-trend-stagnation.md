@@ -15,12 +15,14 @@ sources:
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Research production on situated learning has grown but stagnated, averaging about 140 articles per year over the last 10 years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Interest in situated learning has grown over time, but publication output has been less numerous than expected, averaging about 140 articles per year in the last 10 years with a tendency to stagnate. [→ Vargas 2024](#vargas-2024)
@@ -31,7 +33,7 @@ sources:
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Bibliometric analysis of Scopus-indexed publications on situated learning (Figure 1) reported in the introduction: growing interest but output "an average of only 140 articles per year in the last 10 years, and with a tendency to stagnate in its growth for that same period".
 

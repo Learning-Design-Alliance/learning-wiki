@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Extensive reading for meaning and form is the primary way incidental vocabulary learning occurs, though success depends on context quality, learner attention, and task demands. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Huckin and Coady (1999), that their survey of empirical research found "Extensive reading for meaning and form was found as the primary way incidental learning occurs", with context, attention, and task demands as moderating variables.
 

@@ -15,18 +15,22 @@ sources:
     author: "McKim, A. J., & Velez, J. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: mckim-2016-2
     resource: "https://doi.org/10.5032/jae.2016.01073"
     title: "McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073"
     author: "McKim, A. J., & Velez, J. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Studies of peer teaching, early field experiences, and student teaching course load found mastery experiences were inconsistently or negatively related to preservice and novice agriculture teachers' self-efficacy. [→ McKim 2016](#mckim-2016)
@@ -37,7 +41,7 @@ sources:
 
 McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Knobloch's 2001 study of two groups of preservice agricultural education students, finding "early field experiences were not significantly related to preservice teachers' teaching efficacy" while peer teaching raised efficacy in only one group. No effect sizes are printed.
 
@@ -47,7 +51,7 @@ The review reports Knobloch's 2001 study of two groups of preservice agricultura
 
 McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Wolf et al. (2010) found "teaching additional courses during student teaching was related to lower levels of classroom management efficacy," and Whittington et al. (2006) found number of classes taught negatively correlated with novice teachers' efficacy. No effect sizes are printed.
 

@@ -16,7 +16,7 @@ sources:
 # Taxonomy of Process Education: four sequential self-growth levels from Emerging to Accomplished
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Taxonomy of Process Education (TPE) is a four-level measurement metric derived from Process Education, used in AMOVA to weight instrument items. "The four levels are also constructed to build towards the highest level of content knowledge or subject matter expertise": (1) Emerging, (2) Developing, (3) Proficient, and (4) Accomplished, "the highest level demonstrating mastery of the topic, concept, task, skillset, and/or requirement". The levels are viewed as sequential stages (or phases) of professional development and self-growth, with numeric weights 0 through 4 assigned by frequency descriptors (Never, Seldom, Occasionally, Often, Consistently).

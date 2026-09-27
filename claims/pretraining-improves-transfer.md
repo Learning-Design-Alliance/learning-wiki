@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 93
+    kind: causal
+    rigour: "?"
 ---
 
 # Pretraining Improves Transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=93
+> **Evidence** · 1 study · causal `r?` · `q3` · n=93
 
 Learners who receive instruction on key concepts, terms, or characteristics of a system *before* the main instruction show better transfer than learners who receive the same content integrated into or after the main instruction.
 
@@ -34,7 +36,7 @@ Learners who receive instruction on key concepts, terms, or characteristics of a
 
 Delgado, C. Y., & Mayer, R. E. (2024). Implementing Pretraining to Optimise Learning in Immersive Virtual Reality. *Journal of Computer Assisted Learning, 41*(1). [doi:10.1111/jcal.13099](https://doi.org/10.1111/jcal.13099)
 
-`q3 · peer-reviewed randomized experiment` · `i? · no standardized effect size reported` · `n=93`
+`q3 · peer-reviewed randomized experiment` · `i? · no standardized effect size reported` · `n=93` · `causal · r?`
 
 Ninety-three participants were randomly assigned to a pretraining group (who watched a video naming the parts and characteristics of a micropipette before an immersive virtual-reality lesson) or a no-pretraining group (who went straight into the same VR lesson). After the VR training phase and an in-VR test, all participants performed a modified version of the task in a real-life setting, plus a knowledge test and cognitive-load, presence, and self-efficacy measures. The pretraining group scored significantly higher on the knowledge test and made fewer errors on the real-life transfer task than the no-pretraining group, with lower reported cognitive load and no group differences in presence, self-efficacy, or errors during the in-VR test itself — i.e., pretraining's benefit showed up specifically on transfer to the real-world task, not on performance inside the VR lesson.
 

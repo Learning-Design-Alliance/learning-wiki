@@ -15,12 +15,14 @@ sources:
     author: Silverman, Robert J.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # In the constitutive knowledge/regulative community context, critique targets interpretive appropriateness rather than execution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Critics respond less to how well something was accomplished than to the value of what was done, typically pursuing what they consider more appropriate questions through alternate perspectives reflecting another community of interest. [→ Silverman 1993](#silverman-1993)
@@ -31,7 +33,7 @@ sources:
 
 Silverman, Robert J. (1993). Comments and Replies: Academic Conversations. ASHE Annual Meeting Paper. https://eric.ed.gov/?id=ED365173
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Rhetorical analysis of six papers spanning topics from a tenants' movement to witches, science policy, and co-citation practices. Critics charge authors with not asking the relevant or larger question and reanalyze topics within alternate perspectives; authors reply by challenging the alternative's expertise or appropriateness.
 

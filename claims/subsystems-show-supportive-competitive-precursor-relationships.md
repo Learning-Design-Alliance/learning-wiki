@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports that subsystems demonstrate supportive, competitive, or precursor relationships depending on the cognitive resources available to learners. [→ Shetye 2023](#shetye-2023)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2023). Interconnected Dynamic Components of Learner Language. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University, 22(2), 15-18. https://www.tc.columbia.edu
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of CDST work (citing Caspi 2010 and van Geert 2008) states that "supportive, competitive, or pre-cursor relationships" arise between subsystems. In supportive models subsystems are connected growers; in competitive models growth in one decelerates growth in the other; in precursor models one system must develop before another emerges.
 

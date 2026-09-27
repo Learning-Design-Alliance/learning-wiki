@@ -15,18 +15,22 @@ sources:
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: jennifer-d-moss-2017-2
     resource: "https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/"
     title: "Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/"
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Teachers can support students' autonomy even for less preferred tasks by providing a satisfying rationale, incorporating elements of choice, and promoting the value of the activity; these strategies stand in contrast to controlling teaching strategies. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -38,7 +42,7 @@ sources:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article's SDT section presents autonomy-supportive strategies, attributed to Reeve, standing "in contrast to controlling teaching strategies." Controlling behaviors listed include threats of punishment, sarcasm, shaming children, issuing commands, talking more than listening, and not allowing students to hold educational materials.
 
@@ -48,7 +52,7 @@ The article's SDT section presents autonomy-supportive strategies, attributed to
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article attributes, citing Reeve, the research finding that controlled students do poorly compared to autonomous students; no effect size or study details are printed, so this is reported as the article's second-hand assertion.
 

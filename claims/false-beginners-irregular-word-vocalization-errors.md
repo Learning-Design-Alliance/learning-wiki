@@ -15,18 +15,22 @@ sources:
     author: Nakamura, Tomoko
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: nakamura-1997-2
     resource: "https://eric.ed.gov/?id=ED420194"
     title: "Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194"
     author: Nakamura, Tomoko
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # In word vocalization, false beginners read irregular words quickly with more unrepaired errors and the highest rate of regularization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The difference in number of errors between true beginners and false beginners reading the 40-word list is not significant (p=0.26231). [→ Nakamura 1997](#nakamura-1997)
@@ -38,7 +42,7 @@ sources:
 
 Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Word vocalization experiment: participants read a 40-word list (20 regular, 20 irregular words matched for frequency and syllables) aloud as quickly as possible; ANOVA on errors between true and false beginners was not significant.
 
@@ -48,7 +52,7 @@ Word vocalization experiment: participants read a 40-word list (20 regular, 20 i
 
 Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Qualitative and timing analysis of the same word-reading task; Table 5 shows false beginners' regularization proportion at 19% versus 15% for true beginners and 3.5% for successful learners, and the article states "The false beginners have the highest percentage of regularization errors."
 

@@ -15,18 +15,22 @@ sources:
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
   - id: doberneck-2017-2
     resource: "https://portal.issn.org/resource/ISSN/1534-6104"
     title: "Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104"
     author: "Doberneck, D. M., & Schweitzer, J. H."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Applied-discipline faculty report higher intensity of activity than pure-discipline faculty (means 2.29 vs 1.76, p=.000). [→ Doberneck 2017](#doberneck-2017)
@@ -38,7 +42,7 @@ sources:
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Independent-sample t-tests on 171 RPT documents coded with the four-point Colbeck and Wharton-Michael intensity scheme (0=no engaged scholarship to 3=long-term collaborations with peer-reviewed evidence); Results section reports means pure 1.76, applied 2.29, difference .53.
 
@@ -48,7 +52,7 @@ Independent-sample t-tests on 171 RPT documents coded with the four-point Colbec
 
 Doberneck, D. M., & Schweitzer, J. H. (2017). Disciplinary Variations in Publicly Engaged Scholarship: An Analysis Using the Biglan Classification of Academic Disciplines. Journal of Higher Education Outreach and Engagement, 21(1). https://portal.issn.org/resource/ISSN/1534-6104
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Results section, Table 5: intensity difference in means .65 for life/nonlife (p=.000) and .24 for hard/soft (p=.126, not significant). Intensity was defined as the frequency, duration, and complexity of faculty interaction with community partners.
 

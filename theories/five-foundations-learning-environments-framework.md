@@ -16,7 +16,7 @@ sources:
 # Five-foundations framework for learning environments
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper classifies learning environments by five underlying foundations: psychological, pedagogical, technological, cultural, and pragmatic. Psychological foundations concern beliefs about how individuals think and learn; pedagogical foundations concern how knowledge is conveyed; technological foundations concern optimizing capabilities and limits of available technology; cultural foundations reflect prevailing beliefs and values; pragmatic foundations reflect practical constraints. The paper states that "All learning environments explicitly or tacitly ieflect these underlying models or foundations."

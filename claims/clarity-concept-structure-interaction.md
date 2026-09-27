@@ -15,18 +15,22 @@ sources:
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: snyder-1991-2
     resource: "https://eric.ed.gov/?id=ED331809"
     title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The ANOVA for defining concepts showed a significant clarity-by-structure interaction, with clarity and the interaction each accounting for 44% of score variance. [→ Snyder 1991](#snyder-1991)
@@ -38,7 +42,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Omnibus ANOVA on the definition measure in the Results section. The article reports the interaction F(2,53)=8.38, p<.001, and that clarity and the interaction each accounted for 44% of score variance.
 
@@ -48,7 +52,7 @@ Omnibus ANOVA on the definition measure in the Results section. The article repo
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Omnibus ANOVA on the application measure. The article reports the interaction accounted for 41% of score variance, clarity 52%, and concept structure 47%.
 

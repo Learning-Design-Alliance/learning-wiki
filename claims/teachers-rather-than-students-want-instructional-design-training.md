@@ -15,12 +15,14 @@ sources:
     author: "Sarfo, F. K., & Ansong-Gyimah, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teachers, rather than students, want teachers trained to design instruction for effective teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A significant difference in recommendations indicated teachers, rather than students, want teachers trained to design their instruction for effective teaching. [→ Sarfo 2010](#sarfo-2010)
@@ -31,7 +33,7 @@ sources:
 
 Sarfo, F. K., & Ansong-Gyimah, K. (2010). The perceptions of students, teachers, and educational officers in Ghana on the role of computer and the teacher in promoting the first five principles of instruction. The Turkish Online Journal of Educational Technology, 9(3). https://www.tojet.net
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Recommendation question in the same Ghana survey: 45% of teachers, 39% of education officers, and 18% of students selected training teachers in instructional design. The article reports "χ2 (4, N = 102) = 12.27,  p < 0.05".
 

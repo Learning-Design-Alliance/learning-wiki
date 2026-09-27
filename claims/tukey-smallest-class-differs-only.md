@@ -15,12 +15,14 @@ sources:
     author: "Zeinab Moradi Khazaei, Ahmad Moin Zadeh & Saeed Ketabi"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Only the smallest class differs significantly from the other two; classes of 10 and 15 do not differ significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Post-hoc Tukey comparisons showed class A (5 students) differed significantly from classes B and C, while class B (10 students) and class C (15 students) did not differ significantly from each other. [→ Zeinab Moradi Khazaei 2012](#zeinab-moradi-khazaei-2012)
@@ -31,7 +33,7 @@ sources:
 
 Zeinab Moradi Khazaei, Ahmad Moin Zadeh & Saeed Ketabi. (2012). Willingness to Communicate in Iranian EFL Learners: The Effect of Class Size. English Language Teaching, 5(11). https://doi.org/10.5539/elt.v5n11p181
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Post-hoc Tukey tests following the one-way ANOVA compared the three class sizes; the smallest class differed significantly from both larger classes, but the 10- and 15-student classes did not differ significantly from each other. No effect size is printed.
 

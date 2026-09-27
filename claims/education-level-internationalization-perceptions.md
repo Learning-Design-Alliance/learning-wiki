@@ -15,12 +15,14 @@ sources:
     author: Truong, T. D.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher educational attainment is associated with more positive evaluations of international cooperation efforts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Perceptions of internationalization rose with educational level (all Sig. < 0.05): the Bachelor's group reported the lowest mean scores (3.4-3.5) and the Associate/Full Professor group the highest (4.1-4.2), with the largest difference on strategies to attract international faculty and PhD students (Sig. = 0.002). [→ Truong 2025](#truong-2025)
@@ -31,7 +33,7 @@ sources:
 
 Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method Investigation. Educational Process: International Journal, 19, e2025605. https://doi.org/10.22521/edupij.2025.19.605
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ANOVA by educational level (Table 6) in the 455-respondent survey. The article reports a clear positive relationship between attainment and internationalization ratings, with the Bachelor's group lowest (3.4-3.5) and professors highest (4.1-4.2).
 

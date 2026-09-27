@@ -15,12 +15,14 @@ sources:
     author: Ping Wong, Patricia Duff, and Margaret Early
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Participants perceived their English had improved through the program, and this increased their independence in job searching, services, and community interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Many participants reported improvement in English that increased their independence, including going to agencies and interviews alone and helping others who lacked English. [→ Ping Wong 2001](#ping-wong-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and Skills Training on Immigrants' Lives. TESL Canada Journal, Vol. 18, No. 2, Spring 2001. https://eric.ed.gov/?id=EJ659475
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Findings from the semistructured interviews on perceived language gains in public and private spheres. The article reports "Many of the participants spoke of their improvement in English and how this increased their independence," citing examples such as Karina attending agencies unaccompanied and Sofia helping others.
 

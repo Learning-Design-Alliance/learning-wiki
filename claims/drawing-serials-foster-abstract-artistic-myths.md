@@ -15,12 +15,14 @@ sources:
     author: Beittel, Kenneth R.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Artists in extended drawing serials develop abstract, lasting conceptualizations about their art
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Across drawing serials of at least ten weeks, observed artists regardless of training level developed quite abstract conceptualizations about their art, close to idiosyncratic artistic myths with great lasting power. [→ Beittel 1972](#beittel-1972)
@@ -31,7 +33,7 @@ sources:
 
 Beittel, Kenneth R. (1972). A Case Methodology for the Study of the Drawing Process and the Drawing Series. Final Report. https://eric.ed.gov/?id=ED075274
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Qualitative case observation across artists' extended drawing serials in the drawing laboratory. The author reports that artists "develop conceptualizations about their art which are quite abstract," emerging slowly and having great lasting power, often close to idiosyncratic artistic myths. No effect size or test is reported.
 

@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 1
     n: 30 studies (92 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: bowers-kirby-deacon-2010
     resource: "https://doi.org/10.3102/0034654309359353"
     title: "Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The Effects of Morphological Instruction on Literacy Skills. *Review of Educational Research, 80*(2), 144–179. [doi:10.3102/0034654309359353](https://doi.org/10.3102/0034654309359353)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 22 studies (preschool–grade 8)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Morphological Instruction Improves Vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i1` small
 
 Teaching learners to analyze and manipulate morphemes (prefixes, suffixes, roots, and inflections) improves vocabulary knowledge and supports word reading and comprehension.
 
@@ -43,7 +47,7 @@ Teaching learners to analyze and manipulate morphemes (prefixes, suffixes, roots
 
 Goodwin, A. P., & Ahn, S. (2013). A Meta-Analysis of Morphological Interventions in English: Effects on Literacy Outcomes for School-Age Children. *Scientific Studies of Reading, 17*(4), 257–285. [doi:10.1080/10888438.2012.689791](https://doi.org/10.1080/10888438.2012.689791)
 
-`q3 · meta-analysis (not stated as pre-registered)` · `i1 · small effect, d = 0.34` · `n=30 studies (92 effect sizes)`
+`q3 · meta-analysis (not stated as pre-registered)` · `i1 · small effect, d = 0.34` · `n=30 studies (92 effect sizes)` · `quant-synthesis · r?`
 
 Meta-analysis synthesizing 92 standardized mean differences from 30 independent studies of morphological intervention in school-age children. The overall effect of morphological instruction on literacy achievement was moderate and significant (d̄ = 0.32). Effects varied by outcome: significant moderate effects were found for morphological knowledge (d̄ = 0.44), phonological awareness (d̄ = 0.48), vocabulary (d̄ = 0.34), decoding (d̄ = 0.59), and spelling (d̄ = 0.30), but not for reading comprehension or fluency. Effectiveness also varied by age/school level and research design, but not by unit of intervention, scope, length, or learner type.
 
@@ -51,7 +55,7 @@ Meta-analysis synthesizing 92 standardized mean differences from 30 independent 
 
 Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The Effects of Morphological Instruction on Literacy Skills. *Review of Educational Research, 80*(2), 144–179. [doi:10.3102/0034654309359353](https://doi.org/10.3102/0034654309359353)
 
-`q3 · systematic review of peer-reviewed studies` · `i? · no pooled effect size reported in what was read` · `n=22 studies (preschool–grade 8)`
+`q3 · systematic review of peer-reviewed studies` · `i? · no pooled effect size reported in what was read` · `n=22 studies (preschool–grade 8)` · `quant-synthesis · r?`
 
 Systematic review of 22 peer-reviewed studies of morphological intervention with participants from preschool to grade 8. Instructional effects (Cohen's d) were averaged by linguistic outcome category (morphological sublexical, nonmorphological sublexical, lexical, supralexical) and by comparison group. The review concludes morphological instruction benefits learners overall, brings particular benefit to less-able readers, is no less effective for younger than older students, and is more effective when combined with other literacy instruction than delivered in isolation. Only the abstract was available to this review, so no numeric pooled effect size could be confirmed from primary text; the abstract itself reports no single pooled d.
 

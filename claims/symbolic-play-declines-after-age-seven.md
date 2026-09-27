@@ -15,12 +15,14 @@ sources:
     author: "Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Symbolic play declines after age seven or eight and disappears or transforms by eleven or twelve
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` According to Piaget as reported in the paper, there is a definite decline in symbolic play after age seven or eight, coinciding with concrete operations and games with rules, and by eleven or twelve symbolic games disappear or are transformed into daydreams or dramatics. [→ Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions 1973](#third-invitational-interdisciplinary-seminar-piagetian-theory-and-its-implications-for-the-helping-professions-1973)
@@ -31,7 +33,7 @@ sources:
 
 Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions. (1973). https://eric.ed.gov/?id=ED092496
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is a theoretical/observational claim from Piaget's work as summarized in Pulaski's conference paper, not an experiment reported in this document. The paper adds that by eleven or twelve symbolic games "disappear or are transformed into daydreams (internal) or dramatics (external)."
 

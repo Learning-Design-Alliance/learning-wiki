@@ -15,12 +15,14 @@ sources:
     author: Weiss, David J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Comparing students who received immediate knowledge of results with students who received none showed essentially no systematic differences in achievement level estimates or in the dimensionality of responses, so local independence assumptions were not violated. [→ Weiss 1980](#weiss-1980)
@@ -31,7 +33,7 @@ sources:
 
 Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. https://eric.ed.gov/?id=ED187760
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Two studies (Research Report 80-1) comparing two groups of students on computer-administered tests, one receiving immediate knowledge of results and one receiving none. The report states there were "essentially no systematic differences iniachievement level eat mates or in the dimensionality of the students' responSeA."
 

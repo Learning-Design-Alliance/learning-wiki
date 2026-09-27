@@ -12,7 +12,7 @@ generated:
 # Promote a Sense of Home
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies, `q1`–`q3` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (2 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.

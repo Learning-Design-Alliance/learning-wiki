@@ -15,18 +15,22 @@ sources:
     author: Kirova, Anna; Bhargava, Ambika
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
   - id: kirova-2002-2
     resource: "http://ecrp.uiuc.edu/v4n1/kirova.html"
     title: "Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html"
     author: Kirova, Anna; Bhargava, Ambika
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After repeated teacher-mediated matching interactions, Rachel spontaneously applied one-to-one correspondence in new contexts (frogs on leaves, cups at snack). [→ Kirova 2002](#kirova-2002)
@@ -38,7 +42,7 @@ sources:
 
 Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r1`
 
 Teacher observation within the case study: Laura joined Rachel's housekeeping play with everyday objects and asked her to find one animal for each container. "After repeated interactions of this nature," Rachel showed correspondence at the water table and snack table.
 
@@ -48,7 +52,7 @@ Teacher observation within the case study: Laura joined Rachel's housekeeping pl
 
 Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r1`
 
 Observation during grid games (Teddy Bear Bingo-type cards with dice): Rachel double-counted pips while Tiffany counted correctly. After Tiffany modeled pip counting, "Rachel was able to count on her own to six."
 

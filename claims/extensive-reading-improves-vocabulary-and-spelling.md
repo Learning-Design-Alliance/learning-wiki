@@ -15,18 +15,22 @@ sources:
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: hardy-2025-2
     resource: "https://eric.ed.gov/?id=EJ1466517"
     title: "Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517"
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Extensive reading helps learners internalize new vocabulary, enlarge vocabulary size, and correct spelling via repeated exposure in varied contexts. [→ Hardy 2025](#hardy-2025)
@@ -38,7 +42,7 @@ sources:
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing Grabe & Stoller (1997), Horst (2005), Krashen (1989), Nagy, Herman, & Anderson (1985), Nation (2014), Pigada & Schmitt (2006), and Rodrigo (2009), that ER builds vocabulary because "repeated exposure in various contexts is essential for vocabulary learning". No effect sizes are printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Grabe & Stoller (1997), Horst (2005), Krashen (1989),
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes a spelling benefit to cited studies: frequent exposure to correctly spelled words helps learners internalize orthographic patterns, leading to better spelling. The word "strong" is the review's own characterization; no coefficient is printed.
 

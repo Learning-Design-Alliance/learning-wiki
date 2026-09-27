@@ -15,12 +15,14 @@ sources:
     author: Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Both Baldwin and Piaget explained development through the complementary processes of assimilation and accommodation, with accommodation arising from conflict with habit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Both Baldwin and Piaget relied on assimilation and accommodation as complementary processes explaining development, with accommodation resulting from conflict between new and old ideas that motivates structural change. [→ Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin 1989](#simple-convergences-piagetian-theory-and-its-relationship-to-the-epistemology-of-james-mark-baldwin-1989)
@@ -31,7 +33,7 @@ sources:
 
 Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Comparative textual analysis of Baldwin's and Piaget's writings. Baldwin called assimilation "habit formation" and described accommodation as running ahead of habit and disintegrating it; Piaget wrote that assimilation alone would produce no variations in the child's structures. The paper concludes both saw accommodation as a kind of conflict with habit resulting in growth.
 

@@ -12,7 +12,7 @@ generated:
 # Reading Documentation and Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 Students systematically record details about their independent reading — titles, pages read, new vocabulary, brief responses — and periodically reflect on the record. Documentation creates an external trace of reading behavior; reflection converts that trace into self-knowledge about habits, preferences, and comprehension. The practice should remain lightweight so that recording does not displace reading itself.

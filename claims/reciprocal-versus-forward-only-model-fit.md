@@ -15,12 +15,14 @@ sources:
     author: Shi Guochun, Shi Zimo, Wang Qianqian
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The reciprocal and forward-only (EF → ER) models fit almost indistinguishably, with the reciprocal model holding only a slender AIC edge (24812.4 versus 24816.1); reverse-only and correlated-factors models fit worse. [→ Shi Guochun 2026](#shi-guochun-2026)
@@ -31,7 +33,7 @@ sources:
 
 Shi Guochun, Shi Zimo, Wang Qianqian. (2026). Cross-sectional bidirectional associations between executive function and emotion regulation in adolescents: the moderating role of digital engagement intensity. BMC Psychology. https://doi.org/10.1186/s40359-026-05038-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive comparison of four competing structural specifications (reciprocal, forward-only, reverse-only, correlated factors) in the same cross-sectional dataset, using fit indices and AIC/BIC. The reciprocal model showed χ²/df = 2.37, CFI = 0.960, RMSEA = 0.051, SRMR = 0.048.
 

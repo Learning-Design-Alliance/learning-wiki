@@ -15,18 +15,22 @@ sources:
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Teachers who entered minority students' homes to identify and document existing knowledge found funds of knowledge "abundant and diverse", including farming and animal husbandry, construction, trade, business, and finance. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -38,7 +42,7 @@ sources:
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The digest summarises a teacher-researcher ethnographic project in which teachers made home visits to document existing knowledge. It reports that teachers "discovered that funds of knowledge are abundant and diverse", naming farming, animal husbandry, construction, trade, business, and finance. No counts are reported.
 
@@ -48,7 +52,7 @@ The digest summarises a teacher-researcher ethnographic project in which teacher
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Descriptive report from the Tucson project's home visits: teachers learned "how households network in informal market exchanges" and that cross-border activities let students act as mini-ethnographers. Qualitative observation; no data summary is printed.
 

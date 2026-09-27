@@ -15,12 +15,14 @@ sources:
     author: Monroe, Suzanne S.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Mead raised the issue of education as a mechanism of change, particularly social change, emphasizing both cultural transmission and cultural transformation. [→ Monroe 1992](#monroe-1992)
@@ -31,7 +33,7 @@ sources:
 
 Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The report's interpretive summary of Mead's 1943 article "Our Educational Emphases in Primitive Perspective," describing her position that education operates as a tool of "cultural transformation" as well as transmission. This is the report's reading of Mead's argument, not an empirical test.
 

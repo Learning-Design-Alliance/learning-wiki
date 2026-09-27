@@ -15,12 +15,14 @@ sources:
     author: Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The authors report that Adaptive G-UKT achieves competitive state-of-the-art predictive performance on four benchmark datasets, with its strongest advantage under sparse observation regimes. [→ Jia Nan 2026](#jia-nan-2026)
@@ -31,7 +33,7 @@ sources:
 
 Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue. (2026). Adaptive G-UKT: a unified probabilistic framework for knowledge tracing via adaptive graph topology learning and uncertainty-aware Gaussian embeddings. Scientific Reports. https://doi.org/10.1038/s41598-026-50711-y
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The article's summary of its benchmark experiments on four real-world sequential datasets, stating that "Adaptive G-UKT establishes competitive state-of-the-art performance, particularly under sparse observation regimes". No effect sizes or test statistics are printed in the available text.
 

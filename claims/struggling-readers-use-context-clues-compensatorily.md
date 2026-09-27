@@ -15,12 +15,14 @@ sources:
     author: Fenton, Rebecca
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Henshaw's study of eleven year-old remedial readers found low-level readers utilize context clues as a compensatory device and use them more heavily than fluent readers. [→ Fenton 1998](#fenton-1998)
@@ -31,7 +33,7 @@ sources:
 
 Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Henshaw's (1992) study, which "calls for eleven year-old remedial readers to read three texts gradually decreasing in accessibility" — self, peer, and class texts. The review attributes the compensatory pattern to Henshaw.
 

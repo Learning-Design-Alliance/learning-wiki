@@ -15,12 +15,14 @@ sources:
     author: Caple, Carlous
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Group 1, receiving structured CAI with spaced practice and spaced review, performed better than Group 2, receiving unstructured CAI, on both recall and retention. [→ Caple 1996](#caple-1996)
@@ -31,7 +33,7 @@ sources:
 
 Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The dissertation's pretest-posttest control-group experiment analyzed between-group differences with ANCOVA, using the pretest as covariate. It reports "a statistically significant different between treatment groups on both recall and retention" favoring the structured group; no effect size is printed.
 

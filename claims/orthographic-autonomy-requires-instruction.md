@@ -15,12 +15,14 @@ sources:
     author: Dombey, Henrietta; Formisano, Marina Pascucci
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper asserts, citing prior research, that the vast majority of children need instruction to inform their developing ideas about the orthographic system. [→ Dombey 1999](#dombey-1999)
@@ -31,7 +33,7 @@ sources:
 
 Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper's own argument, attributed to prior research (Goswami and Bryant 1990; Byrne 1998) rather than new data: autonomy on its own can never be enough for mastery of the orthographic aspects, though autonomy remains an essential element in developing active learners.
 

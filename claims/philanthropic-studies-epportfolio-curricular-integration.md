@@ -13,12 +13,14 @@ sources:
     title: case-integration
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the Philanthropic Studies B.A. program, ePortfolio began in 2013 as a capstone replacement for paper portfolios and was later integrated across the first-year seminar, pre-internship course, internship course, and capstone, letting students develop ePortfolio making skills and integrative learning over time. [→ case-integration](#case-integration)
@@ -29,7 +31,7 @@ sources:
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Single-program case study of the IUPUI Philanthropic Studies B.A. The authors describe the 2013 capstone launch as an elementary level that "did not emphasize structural and design elements," typical of early-stage ePortfolio projects, followed by curricular changes in 2016-2017 and 2017 that spread ePortfolio across four courses; no outcome statistics are printed.
 

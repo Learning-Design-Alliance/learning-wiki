@@ -16,7 +16,7 @@ sources:
 # Baldwin's genetic logic as the elaboration of natural thought processes
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 In his four-volume Thought and Things, Baldwin differentiated three types of logic: formal, dialectical, and genetic. The paper states that "the genetic logic adopted by Baldwin concerned itself with the elaboration of natural thought processes," revealing themselves through individuals' adaptive responses to their environments — forming new habits, organizing new experiences, and learning about the world. This framework anticipates Piaget's constructivist genetic epistemology.

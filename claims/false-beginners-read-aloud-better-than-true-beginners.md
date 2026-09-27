@@ -15,12 +15,14 @@ sources:
     author: Nakamura, Tomoko
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # False beginners read passages aloud significantly better than true beginners despite equal written-test scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Quantitative analysis of reading performance shows false beginners' oral reading is significantly better than that of true beginners on every variable. [→ Nakamura 1997](#nakamura-1997)
@@ -31,7 +33,7 @@ sources:
 
 Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Read-aloud experiment in which true beginners and false beginners read STEP 3 interview cards five times each, with reading time, repairs, and pauses recorded; Table 2 reports significant differences on time, repairs, and pauses (e.g., Pauses p=0.0000).
 

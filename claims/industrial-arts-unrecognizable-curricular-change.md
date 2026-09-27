@@ -15,12 +15,14 @@ sources:
     author: Stadt, Ronald W.; Kenneke, Larry J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Industrial arts curricular change must be so extensive the field becomes unrecognizable as either industrial in scope or arts in substance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue industrial arts must change so greatly that neither its industrial scope nor its arts substance remains recognizable. [→ Stadt 1970](#stadt-1970)
@@ -31,7 +33,7 @@ sources:
 
 Stadt, Ronald W.; Kenneke, Larry J. (1970). Teacher Competencies for the Cybernated Age. American Council on Industrial Arts Teacher Education. https://eric.ed.gov/?id=ED055227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Position statement from the Introduction, repeated in the Implications section; the authors argue the field must become relevant to advanced technology and contemporary needs of real people. No empirical evidence is offered.
 

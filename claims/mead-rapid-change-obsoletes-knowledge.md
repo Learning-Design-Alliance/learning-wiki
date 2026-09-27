@@ -15,12 +15,14 @@ sources:
     author: Monroe, Suzanne S.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In The School in American Culture (1950), Mead identified the major problem in education as teaching young people to cope with rapid change, since technological and scientific change renders prior knowledge useless. [→ Monroe 1992](#monroe-1992)
@@ -31,7 +33,7 @@ sources:
 
 Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The report's summary of Mead's 1950 Inglis Lecture at Harvard, in which she argued that post-war children growing up in the atomic age faced a world where "yesterday's knowledge" would be made useless by technological and scientific change. Interpretive, not empirical.
 

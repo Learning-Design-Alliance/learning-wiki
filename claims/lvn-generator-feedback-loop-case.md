@@ -13,12 +13,14 @@ sources:
     title: lvn-case
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Engaging in feedback loops within a generator structure created synergistic effects that produced organically generated outputs supporting the LVP team's goals, and the authors suggest the outputs may have been significantly different had the team relied on simple survey responses. [→ lvn-case](#lvn-case)
@@ -29,7 +31,7 @@ sources:
 
 Baker, A., Weisgrau, J., & Brister Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
 
-`q1 · case study` · `i? · no effect size`
+`q1 · case study` · `i? · no effect size` · `design · r1`
 
 Case study analysis of the Learner Variability Navigator learner model refresh, mapped as a generator structure with the LVP team as central facilitator/designer in feedback loops with an advisor, educator consultants, and a practitioner advisory board. The authors' counterfactual interpretation, not a measured comparison.
 

@@ -15,12 +15,14 @@ sources:
     author: XIE Fang, JIANG Xue-mei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Early-stage errors stem largely from interlingual transfer from the native language, while intermediate-level errors stem from negative intralingual transfer or overgeneralization (developmental errors). [→ XIE Fang 2007](#xie-fang-2007)
@@ -33,7 +35,7 @@ sources:
 
 XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical review section (§3) categorizing error sources. The article states early stages show "a good deal of interlingual transfer from the native language", while at intermediate levels negative intralingual transfer or overgeneralization produces developmental errors; cultural interference and communicative strategies (avoidance, language switch, prefabricated patterns) are additional sources. No empirical data are reported.
 

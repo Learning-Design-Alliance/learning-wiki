@@ -15,12 +15,14 @@ sources:
     author: "Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview"
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Seeing oneself acting in unsuccessful teaching patterns creates a discrepancy between actual performance and goals, and the desire to eliminate that discrepancy provides motivation for change. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
@@ -31,7 +33,7 @@ sources:
 
 Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview. (1970). Office of Education (DHEW). https://eric.ed.gov/?id=ED069340
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Theoretical argument in the 'Change in the Classroom' chapter, explicitly footnoted to Festinger's theory of cognitive dissonance (1957). The document offers this as an explanatory account of why videotaped self-analysis motivates change, with no empirical test reported.
 

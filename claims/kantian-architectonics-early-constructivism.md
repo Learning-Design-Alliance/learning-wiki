@@ -15,12 +15,14 @@ sources:
     author: Dennis, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Kant's architectonics — the art of constructing systems in which diverse modes of knowledge form a system — is claimed by Hawkins to be one of the earliest articulations of constructivism, with Piaget tracing constructivism's epistemological roots to Kant. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Historical-philosophical analysis of Kant's Critique of Pure Reason: Kant argued that faculties and categories in our minds synthesize, construct, and shape what we know, unifying knowledge into a system via architectonics. The article reports Hawkins's claim that this was an early constructivism and Noddings's note that Piaget traced constructivism to Kant, while Piaget made the mind's categories developmental rather than static.
 

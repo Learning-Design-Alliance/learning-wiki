@@ -17,7 +17,7 @@ sources:
 # Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article holds that in communicative activities the focus is not on particular grammatical forms but on experiencing the relationship between language use and task fulfilment, so delivery must be adjusted to students' proficiency. It states that "the chief thing for the teacher is to make meaning evident", ensuring input is comprehensible and comprehended, and lists concrete ways: explaining terminology carefully, using visuals and diagrams, slower and more distinct delivery, and scaling tasks down.

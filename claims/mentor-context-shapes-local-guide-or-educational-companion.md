@@ -15,12 +15,14 @@ sources:
     author: Feiman-Nemser, Sharon, et al
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Mentors' roles and practices differ by program context: local guides versus educational companions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` When mentor teachers in two beginning teacher assistance programs were compared, striking differences in their perspectives and practices were found and linked to differences in context. [→ Feiman-Nemser 1994](#feiman-nemser-1994)
@@ -31,7 +33,7 @@ sources:
 
 Feiman-Nemser, Sharon, et al. (1994). Guiding Teacher Learning: Insider Studies of Classroom-Based Work with Teachers. Craft Paper 94-1. National Center for Research on Teacher Learning. https://eric.ed.gov/?id=ED377169
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 The framing paper reports this comparative study of mentors in two assistance programs, attributing the finding to Feiman-Nemser and Parker. In one setting mentors functioned as "local guides" explaining local policies; in the other as "educational companions" keeping broader professional goals in view. The researchers linked the differences to working conditions, role expectations, program structures and preparation.
 

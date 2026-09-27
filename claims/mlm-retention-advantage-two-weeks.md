@@ -15,12 +15,14 @@ sources:
     author: Stelzer, Gladding, Mestre, and Brookes
     q: 2
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` On the 32-question Retention Test given about two weeks after the lessons, the MLM group scored about 13% higher than the Textbook group (adjusted effect size 0.7, p < 0.01). [→ Stelzer 2008](#stelzer-2008)
@@ -31,7 +33,7 @@ sources:
 
 Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
 
-`q2 · i2`
+`q2 · i2` · `causal · r2`
 
 Retention Test administered about two weeks after the lessons to the same 45 completers; ANCOVA with Physics 211 exam scores as covariate. The article reports the MLM group's "average score of 70%" versus the Textbook group's raw 57%, adjusted to 58%, with adjusted effect size 0.7 and p < 0.01.
 

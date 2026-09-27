@@ -15,18 +15,22 @@ sources:
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: geng-yaoyao-2026-2
     resource: "https://doi.org/10.1007/s10936-026-10279-0"
     title: "Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0"
     author: Geng Yaoyao, Morita Aiko
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In a single-word lexical decision task, Chinese speakers show a transposed-character effect in reaction times and error rates while Japanese speakers do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Chinese participants took longer to reject TC pseudowords than control nonwords, whereas Japanese participants showed no significant reaction-time difference between the two nonword types. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)
@@ -38,7 +42,7 @@ sources:
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Single-word lexical decision experiment with 20 Chinese and 20 Japanese participants (one Japanese participant excluded) analyzing log-transformed RTs with LME models. The language × nonword-type interaction was significant (χ2(1) = 4.786, p = .029), with the "significant difference in reaction times between the trans condition and the control condition for Chinese participants" but no significant difference for Japanese participants (p(tukey) = 0.903).
 
@@ -48,7 +52,7 @@ Single-word lexical decision experiment with 20 Chinese and 20 Japanese particip
 
 Geng Yaoyao, Morita Aiko. (2026). A Comparison of Transposed-Character Effect Between Chinese and Japanese Speakers: Processing Position Information of Hanzi and Kanji Characters. Journal of Psycholinguistic Research. https://doi.org/10.1007/s10936-026-10279-0
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Generalized LME analysis of error rates from the same 40 participants in Experiment 1. The language × nonword-type interaction was significant (χ2(1) = 4.277, p = 0.039); the quoted post-hoc contrast was significant for Chinese participants, while the Japanese contrast was not (p(tukey) = 0.904).
 

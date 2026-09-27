@@ -15,12 +15,14 @@ sources:
     author: Krause, Suzanne; Moore, Elizabeth J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Both groups grew in cognitive flexibility, but improvement was significantly greater among children who received cognitive flexibility training (F(1,190) = 6.7). [→ Krause 1997](#krause-1997)
@@ -31,7 +33,7 @@ sources:
 
 Krause, Suzanne; Moore, Elizabeth J. (1997). Effects of Cognitive Flexibility and Phonemic Awareness Training on Kindergarten and First-Grade Students' Phonemic Awareness, Cognitive Flexibility, Reading, and Spelling Ability. https://eric.ed.gov/?id=ED406649
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Repeated-measures ANOVA in a randomized two-condition intervention with 280 kindergarten and first-grade students: both groups grew in cognitive flexibility, but "the improvement was significantly greater among the children who received cognitive flexibility training" (F(1,190) = 6.7).
 

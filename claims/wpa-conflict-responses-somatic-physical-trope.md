@@ -15,12 +15,14 @@ sources:
     author: Gradin, Sherrie
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` WPA responses to personal, departmental, institutional, regional and national conflict are often somatic: conflict becomes a physical trope and administrators speak through illness. [→ Gradin 1998](#gradin-1998)
@@ -31,7 +33,7 @@ sources:
 
 Gradin, Sherrie. (1998). Inscribing Our Work as WPAs: Gendered Bodies and Conflict as Physical Trope. ERIC. https://eric.ed.gov/?id=ED422588
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's interpretive reading of essays collected from Writing Program Administrators for an unpublished manuscript, plus conversations with WPAs. She reports that "our responses are somatic" and that "Conflict becomes aphysical trope and we speak through illness." No systematic data are reported.
 

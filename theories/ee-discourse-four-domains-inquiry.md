@@ -16,7 +16,7 @@ sources:
 # Four domains of inquiry in environmental education discourse formed by intersecting ontological and axiological dimensions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The first conceptual map organizes environmental education-related discourse along two intersecting dimensions: a reality dimension (materialist versus immanence) and a valuation dimension (anthropocentric versus ecocentric ways of seeing human/nature relations). The discourse also reveals two aspects of concern, risk and relationship. Their intersection 'forms four interconnected, interrelated domains of inquiry: ecology, deep ecology, scientific humanism, and what the first author terms theology (a theology of human/nature relations).' Ten texts are located within these domains in Figure 1.

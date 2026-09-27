@@ -15,12 +15,14 @@ sources:
     author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` About 60% of coaches endorsed Behavior Regulation and Memory, Attention, and Decision Processes domains as barriers, including lack of automaticity with a new curriculum. [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
@@ -31,7 +33,7 @@ sources:
 
 Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Coach retrospective survey and qualitative coding across the three studies; these two domains overlapped heavily in qualitative responses and were analyzed concurrently. The authors did not hypothesize memory/attention would be a barrier given a scripted curriculum.
 

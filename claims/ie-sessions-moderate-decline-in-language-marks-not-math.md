@@ -15,12 +15,14 @@ sources:
     author: Presseisen, Barbara Z.; Kozulin, Alex
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Up to about 35 IE sessions moderated the decline of report card marks in language-based subjects, but IE did not affect mathematics grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For students receiving up to 35 IE sessions, the decline of report card marks was moderated in English/language arts, reading, science, and social studies, while IE instruction did not affect mathematics grades. [→ Presseisen 1992](#presseisen-1992)
@@ -31,7 +33,7 @@ sources:
 
 Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Report card marks (converted to a numerical scale) were tracked for 115 students in five regular education classes receiving approximately 21 to 58 IE sessions; students' average marks declined in each major subject from spring 1990 to spring 1991, a trend similar to the middle grades district-wide.
 

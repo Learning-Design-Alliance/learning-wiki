@@ -16,7 +16,7 @@ sources:
 # Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 2 studies, `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations. The DAG is moralized, triangulated, and transformed into a junction tree, and the E-step of the EM algorithm is carried out via local computations on the tree. A stated advantage is that "these subsets of variables can be derived in a fully automatic way by applying algorithms to the graphical representation of the model", making the approach generally applicable and rendering hand derivations obsolete.

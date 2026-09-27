@@ -15,12 +15,14 @@ sources:
     author: Welna, Jerzy
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Risk of semantic interference varies systematically across the four relation types, with full contrast always producing faulty translation when a formal replica is used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Equivalence pairs show practically no interference, the probability of inaccurate interpretation increases for inclusion and overlapping pairs, and contrast pairs always lead to faulty translation when a grapho-phonemic replica is employed. [→ Welna 1976](#welna-1976)
@@ -31,7 +33,7 @@ sources:
 
 Welna, Jerzy. (1976). Deceptive Words: A Study in the Contrastive Lexicon of Polish and English. https://eric.ed.gov/?id=ED127783
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Analytical comparison of the four relation types in the paper's own classification, presented in section 1.2 as the author's linguistic analysis rather than an empirical test. The article states that "The probability of inaccurate interpretation increases in the classes (ii) and (Iii)" while contrast always misleads when a replica is used.
 

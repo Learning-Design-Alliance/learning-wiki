@@ -15,12 +15,14 @@ sources:
     author: Nelson, Charles P.; Kim, Mi-Kyung
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Student suggestions arising from conflicts with the OLR led to changes: providing sample OLRs from nonnative speakers has been implemented, a simplified version is in progress, and a pilot study with an online interface is being conducted in five rhetoric and composition classes. [→ Nelson 2001](#nelson-2001)
@@ -31,7 +33,7 @@ sources:
 
 Nelson, Charles P.; Kim, Mi-Kyung. (2001). Contradictions, Appropriation, and Transformation: An Activity Theory Approach to L2 Writing and Classroom Practices. Texas Papers in Foreign Language Education. https://eric.ed.gov/?id=ED464497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Authors' report of changes to the course activity system following student suggestions that future classes should have sample OLRs from nonnative speakers and a simplified version of the OLR information, because the existing readings and samples by native speakers were not easy to follow or understand.
 

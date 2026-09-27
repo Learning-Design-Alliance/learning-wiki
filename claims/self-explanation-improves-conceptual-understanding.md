@@ -13,6 +13,8 @@ sources:
     q: 2
     i: "?"
     n: 10
+    kind: associational
+    rigour: 1
   - id: rittle-johnson-2017
     resource: "https://doi.org/10.1007/s11858-017-0834-z"
     title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
@@ -20,6 +22,8 @@ sources:
     q: 3
     i: "?"
     n: N/A
+    kind: quant-synthesis
+    rigour: "?"
 id: self-explanation-improves-conceptual-understanding
 evidence_strength: strong
 ---
@@ -27,7 +31,7 @@ evidence_strength: strong
 # Self-explanation improves conceptual understanding and problem-solving performance.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 associational `r1` · `q2`–`q3`
 
 Generating explanations for oneself while studying worked examples or solving problems helps learners bridge gaps in their knowledge, integrate new information with prior schemas, and monitor their own comprehension.
 
@@ -43,7 +47,7 @@ Primary evidence link: https://doi.org/10.1207/s15516709cog1302_1
 
 Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)
 
-`q2 · observational study of 10 students, no manipulated condition` · `i? · the abstract prints no effect size; the full text may` · `n=10`
+`q2 · observational study of 10 students, no manipulated condition` · `i? · the abstract prints no effect size; the full text may` · `n=10` · `associational · r1`
 
 The seminal study identifying the "self-explanation effect." High-achieving students were found to generate significantly more self-explanations (52 vs. 18) while studying physics examples, using them to connect steps to underlying principles and monitor their own understanding.
 
@@ -51,7 +55,7 @@ The seminal study identifying the "self-explanation effect." High-achieving stud
 
 Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
 
-`q3 · meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A`
+`q3 · meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `quant-synthesis · r?`
 
 A meta-analysis of studies in mathematics education. It found that prompted self-explanation consistently improves both conceptual and procedural knowledge and that prompts are most effective when they focus on conceptual "why" questions rather than procedural "what" questions.
 

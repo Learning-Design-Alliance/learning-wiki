@@ -15,12 +15,14 @@ sources:
     author: Johnson, Jessie; And Others
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # ADK program teachers rated the four September 1992 inservice meetings very positively, averaging 4.7 on a 5-point scale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across four inservice meetings (orientation, teaching strategies, interactive writing, learning to look at print), 43 participating teachers rated the sessions worthwhile and informative, with an overall average of 4.7 on a 5-point scale. [→ Johnson 1994](#johnson-1994)
@@ -31,7 +33,7 @@ sources:
 
 Johnson, Jessie; And Others. (1994). Language Development Component: All Day Kindergarten Program 1992-1993. Ohio Disadvantaged Pupil Program Fund. Final Evaluation Report. https://eric.ed.gov/?id=ED379098
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Teacher-completed inservice evaluation forms (43 respondents) from the four September 1992 ADK inservice meetings; individual statement averages in Table 3 ranged from 4.7 to 4.8, and "the meetings received a very positive rating of 4.7 on a 5 point scale."
 

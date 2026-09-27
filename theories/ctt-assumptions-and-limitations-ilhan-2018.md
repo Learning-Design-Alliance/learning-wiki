@@ -15,7 +15,7 @@ sources:
 # Classical Test Theory (CTT) and its stated limitations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores. The article lists limitations: "item parameters are dependent on the group to which a test is administered", no item-level evaluation of individuals, one standard error for all individuals, difficulty achieving high reliability with few items, and ordinal-scale data. Its advantages are few assumptions, simple computations, and usability with small samples.

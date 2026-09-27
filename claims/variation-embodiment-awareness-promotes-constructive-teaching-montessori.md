@@ -15,12 +15,14 @@ sources:
     author: "Ahlquist, E.-M. T., & Gynther, P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a qualitative single-case formative intervention, discussing critical content aspects with the teacher increased her awareness and appeared to improve how she directed children's learning. [→ Ahlquist 2020](#ahlquist-2020)
@@ -31,7 +33,7 @@ sources:
 
 Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative single-case study with a formative intervention in a Swedish Montessori class with 7- and 8-year-olds, analyzed with Epistemological Move Analysis across five observed sessions. The authors report the teacher's theoretical awareness "seemed to help her successfully use epistemological moves in a more encouraging and constructive way."
 

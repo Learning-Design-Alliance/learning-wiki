@@ -15,18 +15,22 @@ sources:
     author: Cummins, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: cummins-1999-2
     resource: "https://eric.ed.gov/?id=ED438551"
     title: "Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551"
     author: Cummins, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The implicit assumption that conversational fluency in English is a good indicator of English proficiency has resulted in countless bilingual children being diagnosed as learning disabled or retarded. [→ Cummins 1999](#cummins-1999)
@@ -38,7 +42,7 @@ sources:
 
 Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the author's assertion in an opinion paper about inappropriate assessment practices; the article offers no new data or argument beyond the BICS/CALP distinction for this claim. It also links the distinction to over-representation in classes for the learning disabled and under-representation in gifted classes.
 
@@ -48,7 +52,7 @@ This is the author's assertion in an opinion paper about inappropriate assessmen
 
 Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author argues that ignoring acquisition-rate differences caused premature exit into mainstream classes with minimal support, contributing directly to academic failure among bilingual students. This is an interpretive claim without printed statistics.
 

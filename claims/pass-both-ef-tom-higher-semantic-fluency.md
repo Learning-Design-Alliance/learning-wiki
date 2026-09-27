@@ -15,12 +15,14 @@ sources:
     author: "Biscevic, I., Pasalic, A., & Memisevic, H."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Across four EF/TOM pass-fail categories, semantic fluency differed significantly (one-way ANOVA p=.012), and Hochberg's GT2 post hoc test found the only significant difference between children failing both tests and children passing both (p=.021). [→ Biscevic 2018](#biscevic-2018)
@@ -31,7 +33,7 @@ sources:
 
 Biscevic, I., Pasalic, A., & Memisevic, H. (2018). The effects of executive functions and theory of mind on semantic fluency in preschool children. Problems of Education in the 21st Century, 76(1). https://www.scientiasocialis.lt/pec/
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 The sample was divided into four categories by EF and TOM pass/fail (Table 3 means 6.58 to 9.42); a one-way ANOVA was significant (p=.012) and Hochberg's GT2 post hoc test (used because group sizes were unequal, Levene p=.25) isolated the fail-both vs pass-both contrast.
 

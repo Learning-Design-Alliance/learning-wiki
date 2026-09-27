@@ -15,12 +15,14 @@ sources:
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Research on adults' self-directed learning has been extensive in North America but almost absent in Britain over the past twenty-five years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` North American continuing education research has produced a significant outpouring of work on self-directed, informal and independent adult learning, while Great Britain has published almost none in these fields. [→ Percy 1994](#percy-1994)
@@ -31,7 +33,7 @@ sources:
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The authors' literature review contrasts British and North American research effort, citing Candy's characterisation of self-direction as a "majorperhaps the major growth industry" in North America, and noting almost no published British research or discussion in these fields.
 

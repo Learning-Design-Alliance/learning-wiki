@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, T. C., & Raju, N. S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In simulated polytomous data, NCDIF Type I error rates were close to the .05 alpha level in most conditions, rising only when four DIF items with .25 magnitude were embedded. [→ Flowers 1997](#flowers-1997)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, T. C., & Raju, N. S. (1997). The Relationship between Polytomous DFIT and Other Polytomous DIF Procedures. Paper presented at the NCME Annual Meeting, Chicago. https://eric.ed.gov/?id=ED410300
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Monte Carlo simulation of a 20-item five-category test using the graded response model, iterated 100 times per condition at nominal alpha .05. In the exception condition the error rate increased, "ranging from .09 to .14" with 1000-examinee conditions highest.
 

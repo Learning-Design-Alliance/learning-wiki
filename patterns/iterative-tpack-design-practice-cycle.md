@@ -17,7 +17,7 @@ sources:
 # Iterative TPACK design-practice cycle with feedback, revision, micro-teaching, and reflection
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A reusable instructional pattern in which design practice is completed through repeated cycles. "The practical training followed a structured design process, including Design principles instruction, TPACK analysis of teaching videos, TPACK analysis of activity design, activity design, feedback and revision, micro-teaching, feedback, further revision, and reflection." Each cycle produces an original plan and a revised plan after instructor and peer feedback, and the cycle is repeated across conversation, narrative, and literary activity types. Participants rated the repeated practice and feedback as very helpful for improving instructional design competence.

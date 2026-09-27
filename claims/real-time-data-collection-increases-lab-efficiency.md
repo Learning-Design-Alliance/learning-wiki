@@ -15,12 +15,14 @@ sources:
     author: Brewe, E., Sawtelle, V., and Pamela, P.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The ethnographer recorded that the Fall 2005 technology lab lasted only an hour whereas the Fall 2004 lab lasted a full two hours, indicating technology significantly increased class efficiency. [→ Brewe 2007](#brewe-2007)
@@ -31,7 +33,7 @@ sources:
 
 Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Ethnographic observation of the momentum labs in both years by a supporting faculty member. The duration contrast is a qualitative field-note observation, not a controlled timing measurement; students engaged in the same type of activities in both years.
 

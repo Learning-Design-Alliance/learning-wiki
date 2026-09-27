@@ -15,18 +15,22 @@ sources:
     author: Corder, Lloyd E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: corder-1988-2
     resource: "https://eric.ed.gov/?id=ED299654"
     title: "Corder, Lloyd E. (1988). The Utility of Erving Goffman's Theoretical Perspective, Metaphorical Models, and \"Serious Ethnography\" for the Rhetoric and Communication Scholar. ERIC. https://eric.ed.gov/?id=ED299654"
     author: Corder, Lloyd E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Goffman rejected laboratory experiments because they had not uncovered fields of naturalistic study and fostered bias toward negative cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Goffman opposed laboratory studies of social interaction on the grounds that they had not uncovered fields of naturalistic study or produced concepts that reorder our view of social activity. [→ Corder 1988](#corder-1988)
@@ -38,7 +42,7 @@ sources:
 
 Corder, Lloyd E. (1988). The Utility of Erving Goffman's Theoretical Perspective, Metaphorical Models, and "Serious Ethnography" for the Rhetoric and Communication Scholar. ERIC. https://eric.ed.gov/?id=ED299654
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The essay quotes Goffman's stated reasons for opposing laboratory studies of social interaction, distinguishing them from Blumer's reasons. The critique is a quoted argument, not an empirical result.
 
@@ -48,7 +52,7 @@ The essay quotes Goffman's stated reasons for opposing laboratory studies of soc
 
 Corder, Lloyd E. (1988). The Utility of Erving Goffman's Theoretical Perspective, Metaphorical Models, and "Serious Ethnography" for the Rhetoric and Communication Scholar. ERIC. https://eric.ed.gov/?id=ED299654
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The essay quotes Goffman's second objection: researchers are loathe to discard elegant hypotheses for negative cases, and Goffman suggests reexamining negative cases or creating a new category for them instead.
 

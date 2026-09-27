@@ -13,7 +13,7 @@ grain_size: lesson
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.

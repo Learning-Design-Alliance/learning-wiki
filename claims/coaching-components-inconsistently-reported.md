@@ -15,12 +15,14 @@ sources:
     author: "Carmouche, M., & Thompson, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across reviewed studies, face-to-face feedback was offered in 94% of studies, training in 81%, modeling and pre-observation meetings in 50%, and fidelity of implementation on coaching procedures was collected in only 50%. [→ Carmouche 2018](#carmouche-2018)
@@ -31,7 +33,7 @@ sources:
 
 Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review analysis of coaching components (Table 4): training was offered in 81% of studies, modeling and pre-observation meetings in 50%, handwritten feedback in 44%, teacher goal setting in 31%, and dosage was mentioned in 37.5% of studies.
 

@@ -15,12 +15,14 @@ sources:
     author: Nassar-McMillan, Sylvia C.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Patterson's views on person-centered counseling and psychotherapy, based on Rogers' philosophy, remain widely debated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The article states that Patterson's person-centered counseling and psychotherapy views, grounded in Rogers' philosophy, are still widely debated. [→ Nassar-McMillan 1999](#nassar-mcmillan-1999)
@@ -31,7 +33,7 @@ sources:
 
 Nassar-McMillan, Sylvia C. (1999). The Life of a Legacy Bearer: Biographical Interview with C.H. Patterson. https://eric.ed.gov/?id=ED435879
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 The author states in the abstract and interview framing that Patterson's person-centered views "are still widely debated," offering no evidence or argument for the nature of the debate; this is an asserted characterization, not a tested result.
 

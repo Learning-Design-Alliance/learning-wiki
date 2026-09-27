@@ -15,12 +15,14 @@ sources:
     author: Chakrabartty, S. N.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Difficulty value of a test (DiffT) equals the ratio of the length of the observed score vector to the length of the ideal vector multiplied by cos∅, which equals the test mean divided by m, with higher values indicating an easier test. [→ Chakrabartty 2021](#chakrabartty-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chakrabartty, S. N. (2021). Assessment of item and test parameters: Cosine similarity approach. International Journal of Psychology and Educational Studies, 8(3), 28-38. https://dx.doi.org/10.52380/ijpes.2021.8.3.190
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Empirical verification on a 50-item Selection Test administered to 911 candidates (n=911, m=50). Applying the cosine definition, the article reports DiffT = 0.409901, concluding the "Test was moderately difficult".
 

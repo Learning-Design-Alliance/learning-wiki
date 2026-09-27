@@ -15,12 +15,14 @@ sources:
     author: Brown, Ronald T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The locus of control scale fails to discriminate delinquent from normal adolescents, casting doubt on its clinical screening utility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite expectations that chronic underachieving delinquent adolescents would be more externally controlled than normal peers, the scale did not differentiate the groups. [→ Brown 1980](#brown-1980)
@@ -31,7 +33,7 @@ sources:
 
 Brown, Ronald T. (1980). Some Misgivings About Locus of Control Orientation and its Relationship to Intelligence, Academic Achievement, and Delinquency. https://eric.ed.gov/?id=ED197263
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Comparison of delinquent adolescents placed in residential treatment by juvenile court decisions with randomly selected normal controls matched on age, SES, and Peabody IQ. The study found the scale "ineffective in discriminating between normal and delinquent adolescents", questioning its use for identifying clinical populations.
 

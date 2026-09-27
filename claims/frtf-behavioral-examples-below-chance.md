@@ -15,12 +15,14 @@ sources:
     author: "Pretti, T. J., Etmanski, B., & Drewery, D. W."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Five behavioral examples failed to exceed chance sorting: Actively listens to others (18.2%, t = -1.65, p = .103), Pays attention when others are speaking (10.2%, t = -4.55, p < .001), Asks relevant questions about important issues (11.9%, t = -3.68, p = .001), and Explores implications of proposed solutions (9.4%, t = -4.89, p < .001). [→ Pretti 2021](#pretti-2021)
@@ -31,7 +33,7 @@ sources:
 
 Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Row from Table 4 of the same educator sorting study (n = 97): the behavioral example "Actively listens to others," proposed under Collaboration, was sorted correctly by only 18.2% of participants, a one-sample t-test not exceeding the .25 chance value. Related below-chance rows include Pays attention when others are speaking (10.2%) and Asks relevant questions about important issues (11.9%).
 

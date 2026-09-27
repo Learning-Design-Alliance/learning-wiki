@@ -15,12 +15,14 @@ sources:
     author: Pennings, H. J. M.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For both teachers, adding quadratic and/or cubic terms significantly improved the linear regression model of the behavioral time-series. [→ Pennings 2017](#pennings-2017)
@@ -31,7 +33,7 @@ sources:
 
 Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Ordinary least squares regression trend analysis of the two classrooms' time-series (Table 2 reports R2 linear and ΔR2 quadratic and cubic terms with significance markers). The article concludes this "shows the importance of studying the nonlinearity".
 

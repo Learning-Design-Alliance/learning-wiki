@@ -13,6 +13,8 @@ sources:
     q: 3
     i: "?"
     n: N/A
+    kind: review
+    rigour: 2
   - id: renkl-et-al-2002
     resource: "https://doi.org/10.1080/00220970209599510"
     title: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)"
@@ -20,6 +22,8 @@ sources:
     q: 3
     i: "?"
     n: 71
+    kind: causal
+    rigour: "?"
 id: fading-support-promotes-transfer-of-responsibility
 evidence_strength: strong
 ---
@@ -27,7 +31,7 @@ evidence_strength: strong
 # Fading support promotes the transfer of responsibility from instructor to learner.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment
+> **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q3`
 
 Fading, or the systematic withdrawal of scaffolding as competence increases, is essential for internalizing new skills and preventing long-term dependence on external aids.
 
@@ -43,7 +47,7 @@ Primary evidence link: https://doi.org/10.1007/s10648-010-9127-6
 
 van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 
-`q3 · systematic review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
+`q3 · systematic review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A` · `review · r2`
 
 This review confirms that fading is one of the three essential characteristics of effective scaffolding. Without fading, support remains an external aid rather than a tool for internal development.
 
@@ -51,7 +55,7 @@ This review confirms that fading is one of the three essential characteristics o
 
 Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 
-`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=71`
+`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=71` · `causal · r?`
 
 The authors studied different ways of transitioning from worked examples to problem-solving. They found that a "fading" approach—where steps are gradually removed from a worked example—led to better learning outcomes and less mental effort than either full problem-solving or a traditional block of examples followed by a block of problems.
 

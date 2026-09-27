@@ -15,18 +15,22 @@ sources:
     author: Ozturk, N.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: ozturk-2023-2
     resource: "https://www.youtube.com/watch?v=Cl2Fao763ms"
     title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms"
     author: Ozturk, N.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Pippi's specific behaviors in the series instantiate Pragmatism, Reconstructionism, and Existentialism, including rejecting imposed learning decisions and reconstructing assessment.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When Pippi decided how, how much, and how long she wanted to learn, the author reads this as rejecting traditional education's dogmas (Pragmatism/Existentialism). [→ Ozturk 2023](#ozturk-2023)
@@ -38,7 +42,7 @@ sources:
 
 Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Authors' interpretation (discussion section) of coded episodes, e.g., Pippi asking the teacher to throw "some pluttifikation out there" so she can learn enough to join a field trip (Book 2, Chp. 3).
 
@@ -48,7 +52,7 @@ Authors' interpretation (discussion section) of coded episodes, e.g., Pippi aski
 
 Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Authors' interpretation of a Book 3, Chapter 4 episode coded as Reconstructionism vs. Essentialism in Table 3, alongside the author's note that Pippi "somehow recognized the rights of the oppressed".
 

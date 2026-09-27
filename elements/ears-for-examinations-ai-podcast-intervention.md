@@ -17,7 +17,7 @@ sources:
 # Ears for Examinations: AI-generated, faculty-validated conversational revision podcasts hosted on YouTube
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A series of six AI-generated, faculty-validated revision podcasts, each an 8–10 minute "conversational dialogue between an anchor and a senior professor of Community Medicine", moving from basic recall to higher-order application. Scripts were synthesized from standard textbooks and national guidelines, validated by two senior faculty in a structured two-round review, then converted to audio with high-fidelity text-to-speech engines and hosted on a private YouTube channel. The intervention was asynchronous and self-directed over a 15-day window, positioned explicitly as a reinforcement and revision tool rather than primary teaching.

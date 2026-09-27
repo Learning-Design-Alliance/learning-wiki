@@ -15,12 +15,14 @@ sources:
     author: "Orr, D., & Mrazek, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bridging/conferencing software, a technology with which respondents had little or no previous experience, showed a significant (p<0.001) increase in reported use, with mean rising from 1.00 to 2.60. [→ Orr 2009](#orr-2009)
@@ -31,7 +33,7 @@ sources:
 
 Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 In the pilot's descriptive analysis (n=15), four respondents reported preparation for use and three reported mechanical or routine use of bridging/conferencing software on the December post-posttest, with mean reported level of use increasing from 1.00 to 2.60; the article reports the result as significant (p<0.001).
 

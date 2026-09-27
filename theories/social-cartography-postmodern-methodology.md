@@ -16,7 +16,7 @@ sources:
 # Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Social cartography is a methodology, grounded in an anti-foundational perspective and Foucault's notion of spatial dispersion, for representing the interrelations of discourse communities in educational policy studies. The authors describe it as 'a methodology which attends to the spatial dispersion of ideas in such a way that their value and power relations are made explicit.' Maps are heuristic devices that 'discover intellectual communities and relationships, illustrate domains, suggest a field of interactive ideas,' and remain open to revision by readers. The method is demonstrated through mapping environmental education-related discourse.

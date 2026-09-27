@@ -15,12 +15,14 @@ sources:
     author: MacKain, Sally Joy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Conservation of gender identity follows the referent sequence self, then same-sex peer, then opposite-sex peer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Children's correct responses followed the sequence: own identity first, then same-sex peer, then opposite-sex peer, matching all previous studies. [→ MacKain 1987](#mackain-1987)
@@ -31,7 +33,7 @@ sources:
 
 MacKain, Sally Joy. (1987). Gender Constancy: A Realistic Approach. https://eric.ed.gov/?id=ED286583
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 2 percentages by referent type (e.g., self 67%/83%, same 50%/83%, opposite 50%/83% for ages 3/4). The study found "first conservation of one's OWN identity, then conservation of identity of a same-sex peer, and finally" opposite-sex.
 

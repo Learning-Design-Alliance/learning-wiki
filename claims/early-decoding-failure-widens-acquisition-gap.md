@@ -15,12 +15,14 @@ sources:
     author: Nakamura, Tomoko
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Unsuccessful learners make a false step at the beginning of learning in recoding and decoding phonetically, which hinders smooth passage through the interlanguage continuum and widens the gap with more successful learners as study continues. [→ Nakamura 1997](#nakamura-1997)
@@ -31,7 +33,7 @@ sources:
 
 Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper presented at the Annual Meeting of the Japan Association for Language Teaching. https://eric.ed.gov/?id=ED420194
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' concluding interpretation (type e): even though the two young adult groups' circumstances, including learning age and learning environment, were the same, the recoding and decoding problem makes the acquisition gap wider as learners continue studying.
 

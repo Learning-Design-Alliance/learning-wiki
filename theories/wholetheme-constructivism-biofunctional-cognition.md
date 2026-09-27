@@ -16,7 +16,7 @@ sources:
 # Wholetheme constructivism: knowledge understood from the whole, with parts emerging in the context of the whole
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Wholetheme constructivism is the paper's organizing framework, derived from biofunctional cognition. Where conventional psychological constructions treat knowledge piecemeal, 'where the whole emerges from its parts', biofunctional cognition 'treats knowledge from a wholetheme perspective, where an understanding of the parts emerges in the context of the whole'. The paper uses this framework to reinterpret Dewey's and Schon's accounts of reflection as having a foundation in brain functioning rather than being merely philosophical.

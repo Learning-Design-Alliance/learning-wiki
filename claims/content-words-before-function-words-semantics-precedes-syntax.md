@@ -15,12 +15,14 @@ sources:
     author: Butler, Lester G.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Children use content words before function words, and semantics in general appears to precede syntax
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Semantics in general appears to precede syntax, though understanding does not always precede syntax. [→ Butler 1973](#butler-1973)
@@ -31,7 +33,7 @@ sources:
 
 Butler, Lester G. (1973). Language Acquisition of Young Children: Major Theories and Sequences. https://eric.ed.gov/?id=ED094403
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The paper states this general precedence citing Cazden (1972), but immediately qualifies it: citing Vygotsky (1972) that 'grammar precedes logic,' children use subordinate clauses with 'because,' 'although,' etc. long before grasping the corresponding structures of meaning (Piaget's findings).
 

@@ -17,7 +17,7 @@ sources:
 # Compiled lists of Polish-English deceptive word pairs extracted from popular monolingual and bilingual dictionaries
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's core artifact is a representative selection of deceptive pairs organized by relation type: full-contrast pairs (e.g. E lecture : P lektura 'reading-list'), overlapping pairs (E platform : P platforma), and partial-correlation pairs. The lists were "extracted from recent editions of popular English and Polish dictionaries, monolingual and bilingual", with a more comprehensive presentation attempted only for the contrast class.

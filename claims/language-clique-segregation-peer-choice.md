@@ -15,18 +15,22 @@ sources:
     author: Amrein, Audrey
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: amrein-2000-2
     resource: "https://eric.ed.gov/?id=ED440548"
     title: "Amrein, Audrey. (2000). Dual Language Asymmetry: Symbolic Inequalities. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440548"
     author: Amrein, Audrey
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When students could seat themselves or form their own groups, they broke into homogeneous language groups, contradicting the director's claim that everyone mixed. [→ Amrein 2000](#amrein-2000)
@@ -38,7 +42,7 @@ sources:
 
 Amrein, Audrey. (2000). Dual Language Asymmetry: Symbolic Inequalities. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440548
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Complete-observer classroom observations found students "separated themselves into language cliques during formal and informal instruction, free class time, and outside of the classroom," despite deliberate teacher seating arrangements.
 
@@ -48,7 +52,7 @@ Complete-observer classroom observations found students "separated themselves in
 
 Amrein, Audrey. (2000). Dual Language Asymmetry: Symbolic Inequalities. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440548
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Program director interview: high attrition and student mobility kept numbers in flux, and the program "lacked English speakers to complete the 50-50 balance," weighting classes toward Spanish speakers.
 

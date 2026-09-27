@@ -15,12 +15,14 @@ sources:
     author: "Zakani, S., Kaupp, J., Turner, R. D., & Frank, B."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Scoring of physics questions with the framework achieved an overall percentage agreement of 79% and inter-rater reliability (Gwet's AC1) of 81%, which the authors interpret as high consistency. [→ Zakani 2019](#zakani-2019)
@@ -31,7 +33,7 @@ sources:
 
 Zakani, S., Kaupp, J., Turner, R. D., & Frank, B. (2019). Analyzing implicit science and math outcomes in engineering and technology programs. The Canadian Journal for the Scholarship of Teaching and Learning, 10(1). https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Three trained content specialists scored anonymized physics exam questions from a mix of institutions on the first four framework dimensions. Reliability was assessed using percentage of exact agreement and Gwet's AC1, chosen to account for chance agreement and the number of levels within each dimension.
 

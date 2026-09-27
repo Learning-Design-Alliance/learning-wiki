@@ -15,12 +15,14 @@ sources:
     author: Nassar-McMillan, Sylvia C.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Patterson valued his personal mentoring of students and mentees above his scholarly works
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Patterson himself ranked his personal interactions with students and mentees above his more scholarly-oriented works. [→ Nassar-McMillan 1999](#nassar-mcmillan-1999)
@@ -31,7 +33,7 @@ sources:
 
 Nassar-McMillan, Sylvia C. (1999). The Life of a Legacy Bearer: Biographical Interview with C.H. Patterson. https://eric.ed.gov/?id=ED435879
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 The author reports, citing Jackson (1999), that Patterson valued his personal interactions with students and mentees above his scholarly works; the article presents this as a reported valuation, not a measured finding.
 

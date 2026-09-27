@@ -15,12 +15,14 @@ sources:
     author: "Wolkowitz, A. A., & Smith, R."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In a worked example with 95% observed agreement, Cohen's kappa yields only 0.64, illustrating why kappa is not commonly used to calculate DC on high stakes pass/fail exams. [→ Wolkowitz 2024](#wolkowitz-2024)
@@ -31,7 +33,7 @@ sources:
 
 Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Illustrative hypothetical example of 100 examinees with 95% observed agreement and 86% expected agreement. The article attributes the paradox to the use of marginal sums, citing Feinstein & Cicchetti (1990), Cicchetti & Feinstein (1990), and Gwet (2002).
 

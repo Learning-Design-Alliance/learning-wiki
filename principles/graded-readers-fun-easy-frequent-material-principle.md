@@ -17,7 +17,7 @@ sources:
 # Choose graded readers over authentic texts and children's books, keeping material fun, easy, and frequent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that ER material "should be fun, easy, and frequent", since enjoyment drives voluntary reading, appropriate difficulty prevents frustration, and frequency builds a lasting reading habit. It argues "The kind of reading material that is best for practicing extensive reading is graded readers (GR), which are simplified books specifically designed for language learners", rejecting the objection that graded readers are inauthentic: following Day & Bamford, literature written for language learners is authentic because of its communicative intent toward that audience.

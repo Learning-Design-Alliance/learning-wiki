@@ -16,7 +16,7 @@ sources:
 # SDT motivation continuum: four forms of extrinsic motivation varying in autonomy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes SDT's motivational continuum ranging from externally regulated to internally driven, self-directed behavior. Within extrinsic motivation it distinguishes four regulatory styles: "Integrated regulation is the most autonomous type of extrinsic motivation", followed by identified regulation, introjected regulation, and external regulation. External regulation, the least autonomous, "includes behaviors that are enacted to obtain a reward or avoid a punishment", and such behaviors are difficult to sustain once controlling contingencies are removed. Integrated and identified regulation can become self-determined over time.

@@ -14,6 +14,8 @@ sources:
     q: 3
     i: "?"
     n: hundreds of preschoolers in the original series
+    kind: causal
+    rigour: "?"
   - id: watts-duncan-and-quan-2018
     resource: "https://doi.org/10.1177/0956797618761661"
     title: "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. *Psychological Science, 29*(7), 1159-1177. [doi:10.1177/0956797618761661](https://doi.org/10.1177/0956797618761661)"
@@ -21,12 +23,14 @@ sources:
     q: 2
     i: "?"
     n: 918 children (approx., nationally representative subsample)
+    kind: associational
+    rigour: 2
 ---
 
 # Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q3`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 associational `r2` · `q2`–`q3`
 
 Walter Mischel's "marshmallow test" is one of the best-known studies in developmental psychology. Its original follow-up findings were dramatic, but a large, more representative conceptual replication decades later found a substantially weaker and more context-sensitive relationship.
 
@@ -42,7 +46,7 @@ Walter Mischel's "marshmallow test" is one of the best-known studies in developm
 
 Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218.
 
-`q3 · original experimental study, later extended into a longitudinal follow-up (Mischel, Shoda, & Rodriguez, 1989)` · `i? · no source text available to check; the entry prints no effect size` · `n=hundreds of preschoolers in the original series`
+`q3 · original experimental study, later extended into a longitudinal follow-up (Mischel, Shoda, & Rodriguez, 1989)` · `i? · no source text available to check; the entry prints no effect size` · `n=hundreds of preschoolers in the original series` · `causal · r?`
 
 A preschool child was placed alone in a room with one marshmallow on the table and told they could eat it immediately, or wait for the researcher to return and receive two marshmallows instead. Children varied substantially in how long they could wait. Following this cohort into high school (Mischel, Shoda, & Rodriguez, 1989) and further into adulthood (Mischel et al., 2010) found that children who had waited longer in preschool later had higher SAT scores, more positive peer relationships, lower rates of substance-abuse problems, and (as adults) more stable marriages than children who had grabbed the single marshmallow immediately. Secondary citation via Arduini-Van Hoose, N. (2020), *Educational Psychology*, Social Cognitive Learning Theory chapter, https://edpsych.pressbooks.sunycreate.cloud.
 
@@ -50,7 +54,7 @@ A preschool child was placed alone in a room with one marshmallow on the table a
 
 Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. *Psychological Science, 29*(7), 1159-1177. [doi:10.1177/0956797618761661](https://doi.org/10.1177/0956797618761661)
 
-`q2 · observational study with controls: a large conceptual replication, not an experiment` · `i? · no effect size could be confirmed in the abstract` · `n=918 children (approx., nationally representative subsample)`
+`q2 · observational study with controls: a large conceptual replication, not an experiment` · `i? · no effect size could be confirmed in the abstract` · `n=918 children (approx., nationally representative subsample)` · `associational · r2`
 
 A later, larger, and more socioeconically and racially representative replication of the marshmallow paradigm found that early delay of gratification was still associated with measures of adolescent achievement, but the association was considerably weaker than Mischel's original findings suggested and was highly sensitive to situational factors — early measures of cognitive capacity, family background, and home environment substantially attenuated the relationship once controlled for. The authors argue this supports considering situational and contextual factors as central to understanding self-regulation and its outcomes, rather than treating early self-control as a fixed, independently predictive trait.
 

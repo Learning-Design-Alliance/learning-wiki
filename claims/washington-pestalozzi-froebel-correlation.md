@@ -15,12 +15,14 @@ sources:
     author: Ronald E. Chennault
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Washington's belief in correlating industrial with academic instruction manifests his adaptation of Pestalozzi's philosophy and Fröebel's object studies, helping situate him in the progressive education tradition. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -31,7 +33,7 @@ sources:
 
 Ronald E. Chennault. (2013). Pragmatism and Progressivism in the Educational Thought and Practices of Booker T. Washington. Philosophical Studies in Education, Volume 44. https://eric.ed.gov/?id=EJ1015729
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Historical-philosophical argument: the article says Washington's correlating of industrial with academic instruction "seems a manifestation of his adaptation of Pestalozzi’s philosophy and Fröebel’s “object studies.”" Washington was familiar with Herbart, referencing his work in his 1902 annual report to Tuskegee trustees.
 

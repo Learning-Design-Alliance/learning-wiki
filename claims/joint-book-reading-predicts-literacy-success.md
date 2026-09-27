@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: unreported in abstract
+    kind: quant-synthesis
+    rigour: "?"
   - id: mol-et-al-2008
     resource: "https://doi.org/10.1080/10409280701838603"
     title: "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added Value of Dialogic Parent–Child Book Readings: A Meta-Analysis. *Early Education and Development, 19*(1), 7–26. [doi:10.1080/10409280701838603](https://doi.org/10.1080/10409280701838603)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: 2
     n: "16 studies (expressive vocabulary: k=9, n=322 children)"
+    kind: quant-synthesis
+    rigour: 3
   - id: mol-bus-2011
     resource: "https://doi.org/10.1037/a0021890"
     title: "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. *Psychological Bulletin, 137*(2), 267–296. [doi:10.1037/a0021890](https://doi.org/10.1037/a0021890)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: 2
     n: 99 studies (N=7,669)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Joint Book Reading Predicts Literacy Success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 3 studies · 3 quant-synthesis `r3` · `q3` · `i2` medium
 
 The frequency and quality of adult–child shared book reading during early childhood is associated with later reading achievement, vocabulary growth, and emergent literacy skills. The claim is predictive rather than causal: the association is well established, but the unique causal contribution of shared reading itself remains contested.
 
@@ -52,7 +58,7 @@ The frequency and quality of adult–child shared book reading during early chil
 
 Bus, A. G., van IJzendoorn, M. H., & Pellegrini, A. D. (1995). Joint Book Reading Makes for Success in Learning to Read: A Meta-Analysis on Intergenerational Transmission of Literacy. *Review of Educational Research, 65*(1), 1–21. [doi:10.3102/00346543065001001](https://doi.org/10.3102/00346543065001001)
 
-`q3 · meta-analysis of correlational studies` · `i2 · medium effect, d=.59` · `n=unreported in abstract`
+`q3 · meta-analysis of correlational studies` · `i2 · medium effect, d=.59` · `n=unreported in abstract` · `quant-synthesis · r?`
 
 This quantitative meta-analysis pooled studies of how often parents read books to preschool children, and related that frequency to outcomes such as language growth, emergent literacy and reading achievement. The overall effect was d = .59, meaning book reading accounted for about 8% of the variance in outcomes, with a particular effect on acquiring the written language register. The effect did not depend on family socioeconomic status or on several methodological differences between studies. It became smaller once children were conventional readers who could read on their own. The primary studies are mostly correlational, so the pooled estimate describes an association rather than a causal effect of [reading aloud](../strategies/read-alouds.md).
 
@@ -60,7 +66,7 @@ This quantitative meta-analysis pooled studies of how often parents read books t
 
 Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added Value of Dialogic Parent–Child Book Readings: A Meta-Analysis. *Early Education and Development, 19*(1), 7–26. [doi:10.1080/10409280701838603](https://doi.org/10.1080/10409280701838603)
 
-`q3 · meta-analysis of intervention studies` · `i2 · medium effect, d=.59 (expressive vocabulary)` · `n=16 studies (expressive vocabulary: k=9, n=322 children)`
+`q3 · meta-analysis of intervention studies` · `i2 · medium effect, d=.59 (expressive vocabulary)` · `n=16 studies (expressive vocabulary: k=9, n=322 children)` · `quant-synthesis · r3`
 
 This meta-analysis included 16 studies that compared a dialogic reading intervention group, in which the child takes an active part in the reading, with a reading-as-usual control group and measured vocabulary ([dialogic reading](../elements/dialogic-reading.md)). For expressive vocabulary the added value of dialogic reading was moderate: d = .59 (SE = .08, 95% CI 0.44–0.75). The effect shrank substantially when the children were older (4 to 5 years) or at risk for language and literacy impairments. Dialogic reading changed the home literacy activities of families with 2- to 3-year-olds, but not those of families whose children were at greatest risk of school failure. This comparison between two reading formats is the page's best evidence that interaction quality matters. It also qualifies the claim, because the benefit is smallest for the children most in need.
 
@@ -68,7 +74,7 @@ This meta-analysis included 16 studies that compared a dialogic reading interven
 
 Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. *Psychological Bulletin, 137*(2), 267–296. [doi:10.1037/a0021890](https://doi.org/10.1037/a0021890)
 
-`q3 · meta-analysis of correlational studies` · `i2 · moderate-to-strong correlations; print exposure explained 12% of variance in oral language in preschool/kindergarten` · `n=99 studies (N=7,669)`
+`q3 · meta-analysis of correlational studies` · `i2 · moderate-to-strong correlations; print exposure explained 12% of variance in oral language in preschool/kindergarten` · `n=99 studies (N=7,669)` · `quant-synthesis · r?`
 
 This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time reading in preschoolers and kindergartners, in pupils in Grades 1–12, and in college and university students. Print exposure correlated moderately to strongly with reading comprehension and with technical reading and spelling. The share of variance it explained in oral language rose from 12% in preschool and kindergarten to 34% at college and university. The authors interpret the pattern as an upward spiral of causality, and conclude that shared book reading to preconventional readers may be part of a continuum of out-of-school reading experiences. The evidence is correlational and bidirectional: more proficient readers also read more.
 

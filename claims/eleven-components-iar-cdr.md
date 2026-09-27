@@ -15,12 +15,14 @@ sources:
     author: Thomas, Mollie B.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Separate principal components analyses of the IAR and CDR each yielded eleven components with eigenvalues equal to or greater than one, accounting for 65.66% and 63.22% of variance respectively. [→ Thomas 1975](#thomas-1975)
@@ -31,7 +33,7 @@ sources:
 
 Thomas, Mollie B. (1975). Underlying Constructs of Locus of Control of Reinforcement. https://eric.ed.gov/?id=ED108039
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Principal components analyses computed separately from the item intercorrelation matrices of the two instruments. Tables 1 and 2 report the eleven CDR components accounted for 63.22% of variance and the eleven IAR components 65.66%, followed by varimax rotation to compute factor scores.
 

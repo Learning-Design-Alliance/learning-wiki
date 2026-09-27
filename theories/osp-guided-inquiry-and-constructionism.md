@@ -16,7 +16,7 @@ sources:
 # OSP's two pedagogical approaches: guided inquiry and constructionism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article states that the two main pedagogical approaches used in OSP are guided inquiry and constructionism. Guided inquiry covers investigating modeled phenomena (EJS) and video analysis (Tracker); constructionism covers learning by making new models (EJS) and video modeling (Tracker). This framework, presented in Figure 1 from the author's 2012 AAPT conference presentation, organises how the tools are used for learning.

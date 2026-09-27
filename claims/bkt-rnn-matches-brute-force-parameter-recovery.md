@@ -15,18 +15,22 @@ sources:
     author: Khajah, M. M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: khajah-2024-2
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1"
     title: "Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1"
     author: Khajah, M. M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # BKT implemented as an RNN layer in PyTorch recovers generating parameters comparably to brute-force grid-search BKT while scaling to large datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` BKT RNN implementations recover the five BKT parameters from synthetic datasets about as well as (slightly better than) a brute-force grid-search reference implementation. [→ Khajah 2024](#khajah-2024)
@@ -38,7 +42,7 @@ sources:
 
 Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Synthetic simulation with datasets of 10, 100, 1000, and 3000 students, 25 KCs with randomly initialized BKT parameters, each student practicing each KC 10 times. Comparing mean absolute difference between estimated and generating parameters, "Both BKT RNN implementations are slightly better than the brute force model".
 
@@ -48,7 +52,7 @@ Synthetic simulation with datasets of 10, 100, 1000, and 3000 students, 25 KCs w
 
 Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Timing benchmark (Figure 10) over synthetic datasets with 10, 100, 1000, and 3000 students and 10, 50, 100, and 500 trials per KC on a GPU workstation. The text notes hmm-scalable's advantage "shrinks as the size of the datasets increases" to as small as 10-20%.
 

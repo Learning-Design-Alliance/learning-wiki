@@ -12,7 +12,7 @@ generated:
 # Metacognitive Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies, `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 2 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Metacognitive reflection is the structured practice of having learners examine their own thought processes — what they understood, where they struggled, what strategies they used, and what they will change next time. It is carried out through guided prompts, journals, exit tickets, or post-task debriefs, with an explicit orientation toward self-improvement rather than evaluation. The aim is to build learners' capacity to monitor their own progress, construct meaning from content, and transfer learning to new contexts.

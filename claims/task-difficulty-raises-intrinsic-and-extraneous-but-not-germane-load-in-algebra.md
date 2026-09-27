@@ -15,18 +15,22 @@ sources:
     author: "Gupta, U., & Zheng, R. Z."
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
     title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
     author: "Gupta, U., & Zheng, R. Z."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The main effect of task difficulty was significant (Wilks' Lambda = .86, p < .05, ŋ2 = .14) on intrinsic (ŋ2 = .07) and extraneous cognitive load (ŋ2 = .09). [→ Gupta 2020](#gupta-2020)
@@ -38,7 +42,7 @@ sources:
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 In a 2 x 2 x 2 factorial experiment with college students solving simultaneous equations, task difficulty was defined by solution steps; "The analysis on the main effect of task difficulty was significant (Wilks’ Lambda λ = .86, p < .05, ŋ2 = .14)" for intrinsic (F1, 107 = 8.60, ŋ2 = .07) and extraneous load (F1, 107 = 9.92, ŋ2 = .09).
 
@@ -48,7 +52,7 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same experiment, task-difficulty contrast on the CLM germane subscale: "no significance was found for germane cognitive load ( F = .204, p < .653)". The authors suggest load from difficulty "may render germane cognitive load unavailable for learning".
 

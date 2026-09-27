@@ -15,12 +15,14 @@ sources:
     author: XIE Fang, JIANG Xue-mei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Errors tell the teacher how far the learner has progressed and what remains to learn, so they are valuable feedback enabling remedial teaching. [→ XIE Fang 2007](#xie-fang-2007)
@@ -32,7 +34,7 @@ sources:
 
 XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' interpretive argument in §5 on the significance of error analysis. The article states errors are "valuable feedbacks" showing learner progress, that making mistakes is a device learners employ to learn, and that unhandled errors "will become fossilized". This is a theoretical claim with no data.
 

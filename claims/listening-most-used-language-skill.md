@@ -15,12 +15,14 @@ sources:
     author: Cheung, Yun Kul
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Listening is the most frequently used of the four language skills, consuming the largest share of communication time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Adults spend 45% of communication time listening versus 30% speaking, 16% reading and 9% writing, and students may spend 65-90% of communication time listening. [→ Cheung 2010](#cheung-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review cites Rivers and Temperly (1978) on adult communication-time percentages and Gilbert (1988) on K-12 students' listening time, supporting the claim that "Listening is the most frequently used language skill of the four language skills". Figures are secondhand descriptive statistics.
 

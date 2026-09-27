@@ -15,18 +15,22 @@ sources:
     author: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: kim-2020-2
     resource: "https://doi.org/10.15858/engtea.75.s1.202006.55"
     title: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55"
     author: "Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Translation accuracy rises with proficiency but varies substantially across individual constructions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` For the ditransitive and caused-motion constructions, translation accuracy increased with learners’ grade levels, while transitive accuracy was uniformly high and resultative accuracy low across groups. [→ Kim 2020](#kim-2020)
@@ -38,7 +42,7 @@ sources:
 
 Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Translation-task analysis with G4 excluded due to data loss; translations coded for whether they contained the core meaning of each target construction. Table 6 reports means such as G1 total 8.2 (max 16) rising to G5 total 13.9.
 
@@ -48,7 +52,7 @@ Translation-task analysis with G4 excluded due to data loss; translations coded 
 
 Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approaches to assessing EFL learners’ development of English argument structure constructions. English Teaching, 75(s1), 55-78. https://doi.org/10.15858/engtea.75.s1.202006.55
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Pairwise group comparisons breaking down the group × construction interaction: no differences for transitives, significant differences for ditransitives (except G3–G5, p = .340), caused-motion (except G2–G3, p = .797; G3–G5, p = .069), and resultatives (only G5 vs. others).
 

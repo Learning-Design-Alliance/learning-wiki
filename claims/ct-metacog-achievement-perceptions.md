@@ -15,12 +15,14 @@ sources:
     author: Șchiopu, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students perceived that critical thinking and metacognition training increased their achievement and learning efficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported a strong feeling of responsibility for their own learning and perceived advantages such as faster vocabulary learning and better prioritizing of assignments. [→ Șchiopu 2018](#schiopu-2018)
@@ -31,7 +33,7 @@ sources:
 
 Șchiopu, L. (2018). Integrating metacognition and critical thinking skills in the exploration of culture in EFL classroom. Journal of Pedagogical Research, 2(3), 181-191. https://eric.ed.gov/?id=EJ1301134
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Results section 3.2 reports student perceptions of the metacognitive and critical thinking training: "All the participants have the strong and increasing feeling of responsibility on their own learning process"; verbatim quotes mention learning vocabulary faster and perceiving the teacher as advisor and guide.
 

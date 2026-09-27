@@ -14,12 +14,14 @@ sources:
     author: "Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In two focal debrief episodes, external conceptual resources afforded richer representational infrastructure and more productive problem frames, increasing alignment among pedagogical action, reasoning, and responsibility. [→ Ehrenfeld 2020](#ehrenfeld-2020)
@@ -30,7 +32,7 @@ sources:
 
 Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative discourse analysis of two comparative case-study debrief episodes (Noether High School and Rees Middle School) drawn from a research-practice partnership; the authors' cross-case summary states resources "supported the development of teachers' pedagogical judgment" via richer representations and productive frames.
 

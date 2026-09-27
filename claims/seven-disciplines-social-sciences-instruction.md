@@ -15,12 +15,14 @@ sources:
     author: Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Education Code Section 8551 lists seven disciplines from which social sciences instruction is drawn, and the framework defines each and its central questions. [→ Social Sciences Education Framework for California Public Schools 1975](#social-sciences-education-framework-for-california-public-schools-1975)
@@ -31,7 +33,7 @@ sources:
 
 Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 The Goal I section defines each of the seven disciplines in turn, e.g. economics' central theme that 'wants are virtually unlimited but that resources are limited,' and geography's concern with 'spatial atrangements and associations.' This is a definitional policy statement grounded in statute.
 

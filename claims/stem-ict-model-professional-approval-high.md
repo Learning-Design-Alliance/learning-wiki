@@ -15,12 +15,14 @@ sources:
     author: "Changpetch & Seechaliao"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Five professionals approved the model as appropriate at a high level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Professional assessment of the qualified model yielded an overall average arithmetic mean of 4.04 (S.D. 0.92), a high level of approval. [→ Changpetch & Seechaliao 2020](#changpetch-seechaliao-2020)
@@ -31,7 +33,7 @@ sources:
 
 Changpetch & Seechaliao. (2020). The Propose of an Instructional Model Based on STEM Education Approach for Enhancing the Information and Communication Technology Skills for Elementary Students in Thailand. International Education Studies. https://doi.org/10.5539/ies.v13n1p69
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Phase II assessment by five professionals using an evaluate form. Table 2 reports element means from 3.60 (principles, S.D. 1.67) to 4.33 (measurement and evaluation), all rated high; the discussion states the "Overall average presented arithmetic mean was 4.05".
 

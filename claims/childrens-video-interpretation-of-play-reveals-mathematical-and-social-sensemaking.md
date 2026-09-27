@@ -15,12 +15,14 @@ sources:
     q: 1
     i: 0
     n: 4 children (kindergarten/first-grade)
+    kind: qualitative
+    rigour: 2
 ---
 
 # Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i0` negligible · n=4 children (kindergarten/first-grade)
+> **Evidence** · 1 study · qualitative `r2` · `q1` · `i0` negligible · n=4 children (kindergarten/first-grade)
 
 When young children watch and interpret video of their own collaborative mathematical play, they surface sophisticated mathematical reasoning (debating definitions, noticing mathematical uniqueness) alongside social and affective dimensions of the experience (care for peers, aesthetics, fun) that a content-only lens on the same play would miss.
 
@@ -35,7 +37,7 @@ When young children watch and interpret video of their own collaborative mathema
 
 Vescio, J. (2025). "I love being a kid. I don't want to grow up." Young children's video interpretations of their mathematical play. *Journal of the Learning Sciences, 34*(3), 329-367. [https://doi.org/10.1080/10508406.2025.2481844](https://doi.org/10.1080/10508406.2025.2481844)
 
-`q1 · qualitative, grounded-theory analysis of video-elicited interviews with young children, no comparison condition` · `i0 · illustrates a set of analytic frames children use, not a quantified learning effect` · `n=4 children (kindergarten/first-grade)`
+`q1 · qualitative, grounded-theory analysis of video-elicited interviews with young children, no comparison condition` · `i0 · illustrates a set of analytic frames children use, not a quantified learning effect` · `n=4 children (kindergarten/first-grade)` · `qualitative · r2`
 
 Four young children watched video recordings of their own earlier shape-magnet play and were interviewed about what they noticed. Analysis of their unprompted interpretations (not researcher pre-coded categories) surfaced five recurring frames: situated conditions of the classroom context, networks of care among peers, affective experience of the play, tangible fulfillment from perseverance and creation, and mathematical curiosities about the shapes and structures built. Children engaged in genuine mathematical debate (e.g., disagreeing about how to count levels of a tower) while also foregrounding relational and emotional aspects of the same episode as equally salient to them.
 

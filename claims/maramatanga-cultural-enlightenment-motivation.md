@@ -15,12 +15,14 @@ sources:
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Cultural enlightenment and connectedness (Māramatanga) is a motivation theme for Māori HL2 learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Increased language knowledge contributed to Māori HL2 learners' sense of belonging, identity, and connectedness with te reo Māori speakers. [→ Awanui Te Huia 2015](#awanui-te-huia-2015)
@@ -31,7 +33,7 @@ sources:
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Thematic analysis of interviews found the theme Māramatanga (cultural enlightenment) comprised desires to connect with whakapapa, language as a platform for relationships with speakers, and enhanced cultural understanding; one participant described it as "a whole opening, and the more the world opens to you, the more better you feel."
 

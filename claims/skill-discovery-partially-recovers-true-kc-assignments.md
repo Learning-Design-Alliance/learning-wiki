@@ -15,12 +15,14 @@ sources:
     author: Khajah, M. M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The skill discovery model partially recovers the true problem-KC assignment matrix in synthetic datasets when provided with problem representations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In synthetic experiments, the skill discovery model can partially recover the true generating problem-KC assignment matrix while achieving high accuracy, even under unfavorably structured (interleaved) KC sequences. [→ Khajah 2024](#khajah-2024)
@@ -31,7 +33,7 @@ sources:
 
 Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Synthetic simulation experiments evaluating KC-assignment recovery with two agreement metrics under both blocked and interleaved KC ordering patterns. The abstract reports the model "can partially recover the true generating problem-KC assignment matrix while achieving high accuracy". No effect size is printed in the supplied text.
 

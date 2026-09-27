@@ -15,12 +15,14 @@ sources:
     author: Brumbaugh, Robert B.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # A FIRO-B-based difference between composite role expectations and composite perceived role behavior is proposed as an index of a group's generalized impression of role distance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The difference between averaged FIRO-B role expectations held for the principal role and averaged FIRO-B descriptions of the principal's perceived role behavior would index the group's generalized impression of the principal's role distance. [→ Brumbaugh 1968](#brumbaugh-1968)
@@ -31,7 +33,7 @@ sources:
 
 Brumbaugh, Robert B. (1968). Authenticity, Role Distance, and Organizational Climate: Toward a Conceptual Clarification. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED026738
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A proposed (not conducted) procedure in a conceptual paper: FIRO-B would be administered to a random selection of about half the teachers in a fairly large school to express expectations for the principal role, and to the remaining teachers to describe perceived role behavior; the difference between composite means would be assessed. No data are reported.
 

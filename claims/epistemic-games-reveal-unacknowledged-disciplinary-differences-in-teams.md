@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
+    kind: qualitative
+    rigour: 3
 ---
 
 # Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
+> **Evidence** · 1 study · qualitative `r3` · `q2` · n=18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
 
 Interdisciplinary student teams constructing a shared problem statement used five recurring, profoundly multimodal (not purely verbal) interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — and these moves regularly surfaced disciplinary differences in what counts as trustworthy evidence and how quickly a problem framing should be treated as settled, but these differences were rarely explicitly discussed as disciplinary in origin.
 
@@ -37,7 +39,7 @@ Interdisciplinary student teams constructing a shared problem statement used fiv
 
 Arthars, N., Markauskaite, L., & Goodyear, P. (2024). Constructing shared understanding of complex interdisciplinary problems: Epistemic games in interdisciplinary teamwork. *Journal of the Learning Sciences, 33*(2), 405-442. [https://doi.org/10.1080/10508406.2024.2341390](https://doi.org/10.1080/10508406.2024.2341390)
 
-`q2-q3 · naturalistic video-based interaction analysis (Multimodal Interaction Analysis + Jeffersonian transcription) with a systematic multi-step coding process (entry conditions, epistemic goal, target form, constraints, moves, transfers, exit conditions) adapted from prior published methodology, multi-coder verification; no experimental manipulation or comparison condition` · `i? · the abstract prints no effect size; the full text may` · `n=18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses`
+`q2-q3 · naturalistic video-based interaction analysis (Multimodal Interaction Analysis + Jeffersonian transcription) with a systematic multi-step coding process (entry conditions, epistemic goal, target form, constraints, moves, transfers, exit conditions) adapted from prior published methodology, multi-coder verification; no experimental manipulation or comparison condition` · `i? · the abstract prints no effect size; the full text may` · `n=18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses` · `qualitative · r3`
 
 Four interdisciplinary graduate teams (mixing business, design, science, and IT backgrounds) were video-recorded across 5-13 week projects. Analysis identified the same [five epistemic-game moves](../elements/epistemic-games-shared-understanding-moves.md) — knowledge sharing, perspective-taking, simulation, knowledge validation, negotiation — in all four teams despite different problems (e.g., a fintech-trust problem, a reinsurance problem). The knowledge-validation move most often exposed disciplinary-aligned differences in evidentiary standards, and how quickly a problem statement should be treated as settled also varied by discipline. The authors document that these differences, while visible in the recordings, were rarely made explicit or discussed as disciplinary in origin by the students themselves. Detailed transcript analysis also showed non-speaking members actively participating through gesture and short vocalizations, supporting the paper's argument for treating these moves as inherently multimodal.
 

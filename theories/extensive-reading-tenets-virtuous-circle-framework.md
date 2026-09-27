@@ -16,7 +16,7 @@ sources:
 # Extensive reading framework: ten tenets and the virtuous circle of the good reader
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article presents extensive reading as an approach in which learners "read quickly large amounts of easy and varied self-selected material to build fluency and consolidate language knowledge", with reading as its own reward. It reproduces Day & Bamford's ten tenets (read as much as possible; materials within linguistic competence; learner selection; faster rather than slower reading; teacher as model reader, among others). It also explains the mechanism via Nuttall's vicious circle of the weak reader and its reversal: easy material produces understanding, enjoyment, speed, and a "virtuous circle of the good reader".

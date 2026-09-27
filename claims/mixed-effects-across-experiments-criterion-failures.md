@@ -15,18 +15,22 @@ sources:
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ariel-2018-2
     resource: "https://doi.org/10.1037/xap0000133"
     title: "Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133"
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Cumulative attempted recall did not differ between groups in either Experiment 2 session, unlike Experiment 1. [→ Ariel 2018](#ariel-2018)
@@ -38,7 +42,7 @@ sources:
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 cumulative learning analysis (Table 2): both groups attempted retrieval for nearly all items (98% in Session 1, over 90% in Session 2), so attempted recall showed no group difference; cumulative recall differed significantly only in the transfer session, t(62) = 2.43, p < .05.
 
@@ -48,7 +52,7 @@ Experiment 2 cumulative learning analysis (Table 2): both groups attempted retri
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i? · no effect size could be confirmed in the full text`
+`q3 · i? · no effect size could be confirmed in the full text` · `causal · r2`
 
 In both experiments, instructed students did not apply the three-recall criterion uniformly across items; the authors state the reason is unclear and defer discussion to the General Discussion.
 

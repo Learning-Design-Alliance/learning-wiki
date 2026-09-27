@@ -15,12 +15,14 @@ sources:
     author: C. A. Ogilvie
     q: 2
     i: 0
+    kind: design
+    rigour: 2
 ---
 
 # Pre-course problem-solving preference does not predict final course grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` There is no observed correlation between students' pre-course pscale and final course grade (r2=0.00001). [→ C. A. Ogilvie 2006](#c-a-ogilvie-2006)
@@ -31,7 +33,7 @@ sources:
 
 C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu
 
-`q2 · i0`
+`q2 · i0` · `design · r2`
 
 Regression of final course grade on pre-course pscale for the paired-reflection students. The article reports r2=0.00001 and a slope of -0.05±1.1, concluding initial preference for expansive or limiting strategies does not predict final grade.
 

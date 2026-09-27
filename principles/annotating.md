@@ -12,7 +12,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies, `q2`–`q4` · 0 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (4 causal, 3 review, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 12 report an effect size
 
 ## Description
 Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading. Done well, it turns reading from passive exposure into active sense-making: learners identify what matters, track confusion, connect ideas to prior knowledge, and leave behind an external record of their thinking that can support discussion, writing, and review.

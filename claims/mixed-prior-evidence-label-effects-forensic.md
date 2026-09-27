@@ -15,12 +15,14 @@ sources:
     author: Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some prior studies found more punitive attitudes under stigmatizing labels (Harris & Socia, 2016; Imhoff, 2015; Lowe & Willis, 2020), while Snape and Fido (2022) found no significant relationship between labels and public perceptions. [→ Robles Chella 2026](#robles-chella-2026)
@@ -31,7 +33,7 @@ sources:
 
 Robles Chella, Cheema Harleen, Buro Karen, Jung Sandy. (2026). Changing Language May Not Be Enough to Change Public Perceptions of Individuals Who Sexually Offend. Sexual Offending: Theory, Research, and Prevention. https://doi.org/10.5964/sotrap.17345
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Narrative review of prior label-effects research in the article's background and discussion. The review reports that "a study conducted by Snape and Fido (2022) found that the labels assigned to people with sexual offences had no significant relationship with public perceptions", while Harris and Socia (2016) and Imhoff (2015) found label-condition differences.
 

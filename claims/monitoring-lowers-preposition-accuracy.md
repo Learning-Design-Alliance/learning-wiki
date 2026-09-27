@@ -15,12 +15,14 @@ sources:
     author: Adamson, Douglas
     q: 2
     i: 0
+    kind: theoretical
+    rigour: 3
 ---
 
 # Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · theoretical `r3` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` In the same pilot study, preposition accuracy was significantly lower in the more monitored (edited) style (p < .05). [→ Adamson 1983](#adamson-1983)
@@ -31,7 +33,7 @@ sources:
 
 Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194
 
-`q2 · i0`
+`q2 · i0` · `theoretical · r3`
 
 In Ciske's four-style elicitation from one Korean student, the edited written style showed significantly lower preposition accuracy than less monitored styles. The author explains this via Krashen's claim that preposition rules cannot be learned and must be acquired; no effect size is printed.
 

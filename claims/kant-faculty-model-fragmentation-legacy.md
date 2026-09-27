@@ -15,12 +15,14 @@ sources:
     author: Dennis, J. K.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Kant's faculty-division model of higher education left a legacy of disciplinary fragmentation that persists today
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Kant's model of higher education, dividing faculties by rank, was widely adopted and continues to support the separation of disciplines into departments, leaving a legacy of fragmentation that interdisciplinarians struggle to reintegrate. [→ Dennis 2020](#dennis-2020)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. K. (2020). The Kantian Effect: Reconceiving the Integration of Knowledge in Interdisciplinary Theory. JIS Journal of Interdisciplinary Sciences, 4(2). https://eric.ed.gov/?id=ED608667
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 This is a historical-philosophical argument in the article's 'Legacy of Kant' section: Kant's controversial model in The Conflict of the Faculties was embraced by Wilhelm von Humboldt in Germany, duplicated worldwide, and adapted in the United States by Charles W. Eliot at Harvard. The article adds the inherited organizational structure is almost indestructible.
 

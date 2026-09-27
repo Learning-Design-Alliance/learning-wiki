@@ -12,7 +12,7 @@ generated:
 # Scaffolding Structure and Function in PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies, `q3`–`q4` · 1 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q3`–`q4` · 1 of 9 report an effect size
 
 ## Description
 This strategy embeds language scaffolds within project-based learning (PBL) so that students can demonstrate content understanding through academic language they might not yet command independently. Instructors supply structural supports — sentence starters ("The evidence shows that…"), conditional frames ("If ______, then ______"), and discourse templates for justifying, comparing, or hypothesizing — paired with explicit instruction in the *function* each structure serves (e.g., claiming, evidencing, conceding). The scaffold targets both the linguistic form and the rhetorical purpose, so students learn not just how to say it but when and why.

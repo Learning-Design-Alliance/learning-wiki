@@ -15,12 +15,14 @@ sources:
     author: "Sheldon-Keller, Adrienne & West, Malcolm"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Developmentally, attachment (communion) precedes exploration (agency): a secure base created by adequate attachment enables confident, purposive exploration. [→ Sheldon-Keller 1995](#sheldon-keller-1995)
@@ -31,7 +33,7 @@ sources:
 
 Sheldon-Keller, Adrienne & West, Malcolm. (1995). Attachment within the Agency/Communion Paradigm. https://eric.ed.gov/?id=ED395227
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical synthesis of Bowlby's attachment account: the internalized attachment figure provides a secure base from which the child explores, so communion precedes and supports agency. The authors state that exploration "is the direct outcome of the security offered by an effective attachment relationship."
 

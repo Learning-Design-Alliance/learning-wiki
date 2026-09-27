@@ -17,7 +17,7 @@ sources:
 # Teach response precision and new associations with minimal errors, using mediators and stimulus fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies, `q1`–`q4` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (1 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 For tasks where precise responding must be gradually brought under subject-matter control, Glaser recommends contracting performance tolerances progressively and minimizing errors, because abrupt constriction of criteria risks extinction and motivation loss. Associations can likewise be taught almost error-free via mediating stimuli (e.g., the resistor color code) and stimulus fading, transferring existing associations to new stimuli with little error.

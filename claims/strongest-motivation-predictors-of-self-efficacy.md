@@ -15,12 +15,14 @@ sources:
     author: "Roshandel, J., Ghonsooly, B., & Ghanizadeh, A."
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Among the ten sub-factors, criterion measures (r = 0.37), attitudes towards learning English (r = 0.36), instrumentality promotion (r = 0.35), and ideal L2 self (r = 0.34) displayed the highest correlations with self-efficacy. [→ Roshandel 2018](#roshandel-2018)
@@ -31,7 +33,7 @@ sources:
 
 Roshandel, J., Ghonsooly, B., & Ghanizadeh, A. (2018). L2 Motivational Self-System and Self-Efficacy: A Quantitative Survey-Based Study. International Journal of Instruction, 11(1), 329-344. https://doi.org/10.12973/iji.2018.11123a
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 Correlational analysis (Table 4) of the 210-learner survey identified the four highest correlates of self-efficacy, led by criterion measures at r = 0.37; the discussion adds that "criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the most powerful predictors of L2 self -efficacy, respectively".
 

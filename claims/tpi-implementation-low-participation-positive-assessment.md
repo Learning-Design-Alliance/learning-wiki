@@ -15,18 +15,22 @@ sources:
     author: Darder, A.; Pérez Garcias, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: darder-2015-2
     resource: "https://doi.org/10.7821/naer.2015.4.110"
     title: "Darder, A.; Pérez Garcias, A. (2015). Online tutoring procedure for research project supervision: management, organization and key elements. New Approaches in Educational Research 4(2). https://doi.org/10.7821/naer.2015.4.110"
     author: Darder, A.; Pérez Garcias, A.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the implementation case study with UNPA Master's Degree tutors using Mahara, out of 9 potential tutors only one tutor-trainee researcher pair could be formed, yet the two participants who put the procedure into practice assessed it highly positively. [→ Darder 2015](#darder-2015)
@@ -38,7 +42,7 @@ sources:
 
 Darder, A.; Pérez Garcias, A. (2015). Online tutoring procedure for research project supervision: management, organization and key elements. New Approaches in Educational Research 4(2). https://doi.org/10.7821/naer.2015.4.110
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Implementation case study in which tutors and their students organized the virtual tutoring environment in Mahara; information was collected through an observation card and a questionnaire. The two implementers called it "an excellent piece of work which guides, clarifies, and specifies a suitable itinerary".
 
@@ -48,7 +52,7 @@ Implementation case study in which tutors and their students organized the virtu
 
 Darder, A.; Pérez Garcias, A. (2015). Online tutoring procedure for research project supervision: management, organization and key elements. New Approaches in Educational Research 4(2). https://doi.org/10.7821/naer.2015.4.110
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Authors' interpretation (type e) offered in the conclusions to explain low participation, hedged with "probably" and attributed partly to cited literature (Tejedor et al., 2009; Rodríguez, 2011). No data analysis supports it.
 

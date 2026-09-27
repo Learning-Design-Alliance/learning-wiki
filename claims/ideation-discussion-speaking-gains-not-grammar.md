@@ -15,12 +15,14 @@ sources:
     author: "Buphate, T. & Esteban, R. H."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fluency, pronunciation and vocabulary criteria showed significant pre-to-post gains (p=0.000, p=<0.001, p=0.000), while grammar did not (p=0.190). [→ Buphate 2022](#buphate-2022)
@@ -31,7 +33,7 @@ sources:
 
 Buphate, T. & Esteban, R. H. (2022). Using ideation discussion activities in Design Thinking to develop EFL students' speaking and critical thinking abilities. LEARN Journal: Language Education and Acquisition Research Network, 15(1), 682-708. https://so04.tci-thaijo.org/index.php/LEARN/index
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Analysis of the four speaking-test criteria (fluency, pronunciation, vocabulary, grammar) in Table 3 for the eight participants. The article states the activities "does not have any effect on grammar mean scores" (p=0.190) while reporting significant effects for the other three criteria. Vocabulary had the highest means (2.63 pre-test, 3.38 post-test).
 

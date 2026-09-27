@@ -14,12 +14,14 @@ sources:
     author: Bautista, R. G.
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Teleologic explanations and anthropomorphic languages of the student-respondents are attributed to their age (r = .731, p < .001) and curricular undertakings (Χ2 = -.308, p = .033). [→ Bautista 2015](#bautista-2015)
@@ -30,7 +32,7 @@ sources:
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Pearson-r correlation and Pearson chi-square analyses (Table 4) relating students' teleologic explanations and anthropomorphic languages to age bracket and curricular undertaking; the age correlation r = .731 is significant at the 0.01 level (2-tailed).
 

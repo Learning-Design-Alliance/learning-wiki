@@ -16,6 +16,8 @@ sources:
     q: 4
     i: 2
     n: 222 studies (48,478 students)
+    kind: quant-synthesis
+    rigour: "?"
   - id: latimier-et-al-2020
     resource: "https://doi.org/10.1007/s10648-020-09572-8"
     title: "Latimier, A., Peyre, H., & Ramus, F. (2020). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)"
@@ -23,6 +25,8 @@ sources:
     q: 4
     i: 2
     n: 29 studies (39 + 54 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: brunmair-richter-2019
     resource: "https://doi.org/10.1037/bul0000209"
     title: "Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)"
@@ -30,12 +34,14 @@ sources:
     q: 4
     i: 2
     n: 59 studies (158 samples, 238 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Desirable Difficulties Enhance Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q4` · `i2` medium
 
 Introducing certain effortful conditions during learning — such as retrieval practice, spacing, and interleaving — can slow visible performance during instruction while improving long-term retention and transfer. The claim is about *desirable* difficulties specifically: conditions that are effortful but surmountable, not obstacles that exceed the learner's capacity.
 
@@ -53,7 +59,7 @@ Introducing certain effortful conditions during learning — such as retrieval p
 
 Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (quizzing) boosts classroom learning: A systematic and meta-analytic review. *Psychological Bulletin, 147*(4), 399–435. [doi:10.1037/bul0000309](https://doi.org/10.1037/bul0000309)
 
-`q4 · systematic review and meta-analysis` · `i2 · medium effect, g=0.499` · `n=222 studies (48,478 students)`
+`q4 · systematic review and meta-analysis` · `i2 · medium effect, g=0.499` · `n=222 studies (48,478 students)` · `quant-synthesis · r?`
 
 A systematic review and meta-analysis of the testing effect in real classrooms rather than the laboratory, pooling 222 independent studies with 48,478 students. Taking quizzes or practice tests on studied material ([retrieval practice](../elements/retrieval-practice.md)) raised academic achievement by a medium amount compared with restudying and other learning strategies. The size of the benefit varied with what the control group did, whether the practice and final tests had the same format, whether corrective feedback was given, how many times learners were tested, and the study design.
 
@@ -61,7 +67,7 @@ A systematic review and meta-analysis of the testing effect in real classrooms r
 
 Latimier, A., Peyre, H., & Ramus, F. (2020). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
 
-`q4 · meta-analysis (robust variance estimation)` · `i2 · medium-to-large effect, g=0.74` · `n=29 studies (39 + 54 effect sizes)`
+`q4 · meta-analysis (robust variance estimation)` · `i2 · medium-to-large effect, g=0.74` · `n=29 studies (39 + 54 effect sizes)` · `quant-synthesis · r?`
 
 A meta-analysis of 29 studies on spaced retrieval practice, which the authors describe as combining two "desirable difficulties": retrieval practice and spacing. Spreading repeated retrieval of the same content over time gave a strong retention advantage over massing it (g = 0.74, 39 effect sizes). Expanding the gaps between retrievals was no better than keeping them even (g = 0.034, 54 effect sizes), although expanding schedules helped more when items were tested more often.
 
@@ -69,7 +75,7 @@ A meta-analysis of 29 studies on spaced retrieval practice, which the authors de
 
 Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)
 
-`q4 · multilevel meta-analysis` · `i2 · medium effect, g=0.42` · `n=59 studies (158 samples, 238 effect sizes)`
+`q4 · multilevel meta-analysis` · `i2 · medium effect, g=0.42` · `n=59 studies (158 samples, 238 effect sizes)` · `quant-synthesis · r?`
 
 A multilevel meta-analysis comparing interleaved with blocked presentation of items for inductive (category) learning, across 59 studies. Interleaving helped by a moderate amount overall, most for paintings and other visual materials (g = 0.67) and less for mathematical tasks (g = 0.34). It **qualifies** the claim: for word materials blocking beat interleaving (g = -0.39), and effects for expository texts and tastes were not significant. Interleaving helped more when categories were similar to each other and items within a category were less similar, so the difficulty is desirable only for some materials.
 

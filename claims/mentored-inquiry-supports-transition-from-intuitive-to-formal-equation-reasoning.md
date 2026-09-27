@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 1 high-school student and 1 mentor, one academic year (October 2016-September 2017)
+    kind: qualitative
+    rigour: 3
 ---
 
 # Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=1 high-school student and 1 mentor, one academic year (October 2016-September 2017)
+> **Evidence** · 1 study · qualitative `r3` · `q1` · n=1 high-school student and 1 mentor, one academic year (October 2016-September 2017)
 
 Over a year-long mentored physics research project, one student's reasoning about a wave-velocity equation progressed from purely intuitive mechanistic explanation to increasingly sophisticated, mathematically-grounded interpretation, moving through the equation's meaning at increasing depth and shifting from passively following instructions to autonomous, self-directed investigation.
 
@@ -37,7 +39,7 @@ Over a year-long mentored physics research project, one student's reasoning abou
 
 Kapon, S., & Schvartzer, M. (2024). Guided Inquiry into a Physics Equation. *Cognition and Instruction, 42*(1), 159-206. [https://doi.org/10.1080/07370008.2023.2197232](https://doi.org/10.1080/07370008.2023.2197232)
 
-`q1-q2 · single-case longitudinal ethnography with systematic microanalytic discourse coding across 10 videotaped 3-hour sessions (3 selected for intensive transcription), triangulated with a stimulated-recall interview and design artifacts; no comparison case or control condition` `i? · the abstract prints no effect size; the full text may` `n=1 high-school student and 1 mentor, one academic year (October 2016-September 2017)`
+`q1-q2 · single-case longitudinal ethnography with systematic microanalytic discourse coding across 10 videotaped 3-hour sessions (3 selected for intensive transcription), triangulated with a stimulated-recall interview and design artifacts; no comparison case or control condition` `i? · the abstract prints no effect size; the full text may` `n=1 high-school student and 1 mentor, one academic year (October 2016-September 2017)` · `qualitative · r3`
 
 A single 11th-grade student, mentored one-on-one over a year-long independent research project studying wave velocity in liquids, was videotaped across 10 three-hour sessions; three sessions focused on deriving and interpreting the target equation were transcribed and analyzed in fine-grained detail. The analysis traces the student's reasoning through the [Guided Equation Appropriation](../patterns/guided-equation-appropriation.md) sequence — mechanistic reasoning before the equation, then three levels of reading comprehension after — documenting a shift from intuitive uncertainty to mathematically-grounded conviction about which physical effects could be neglected and why.
 

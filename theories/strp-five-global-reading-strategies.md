@@ -16,7 +16,7 @@ sources:
 # Strategic Teaching and Reading Project (STRP) and its five global reading strategies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 2 studies, `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 STRP is a research-based instructional improvement and staff development project, originally developed in 1987 by NCREL with Wisconsin agencies, that measurably improves student reading comprehension. It works with any existing curriculum, adapts to local and state objectives, suits all K-12 classrooms, and maintains teacher creativity and instructional freedom. It presents five global reading strategies: Metacognition, Prior Knowledge, Inference, Word Meaning, and Text Structure, delivered through at least two years of consultant support with twice-yearly teacher training and classroom observations.

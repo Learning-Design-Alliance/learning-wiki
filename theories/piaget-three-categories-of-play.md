@@ -16,7 +16,7 @@ sources:
 # Piaget's taxonomy of play: practice games, symbolic games, and games with rules
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper presents Piaget's classification of children's play into three main categories that evolve with development. As printed, "there are three main categories of play: practice games, symbolic games and games with rules." Practice games grow out of imitative sensory-motor activity and may develop into symbolic games or, with socialization, into games with rules, which are essentially social and persist among adults. Constructive games such as building or weaving are regarded not really as games but as a bridge between play and work, merging into adult practical skills. The taxonomy explains why symbolic play declines as socialized games take over.

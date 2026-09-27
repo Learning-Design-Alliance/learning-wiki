@@ -15,12 +15,14 @@ sources:
     author: "Khaewphuang, P., & Nuangchalerm, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The three-dimension instructional design competence model fits the empirical data acceptably in CFA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Second-order CFA goodness-of-fit indices (X²/df = 1.582, NFI = 0.984, RMSEA = 0.035, CFI = 0.994) all met the article's evaluation criteria. [→ Khaewphuang 2025](#khaewphuang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Khaewphuang, P., & Nuangchalerm, P. (2025). Components and Indicators of Instructional Design Competence for Thai Pre-Service Teachers. Journal of Practical Studies in Education, 6(2), 14-22. https://doi.org/10.46809/jpse.v6i2.97
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Goodness-of-fit evaluation of the second-order CFA model from questionnaire data of 471 pre-service teachers. The article reports X² = 132.901, df = 84, and that indices "all meet the acceptable criteria," indicating the model "is consistent with the empirical data."
 

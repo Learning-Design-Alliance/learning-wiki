@@ -15,12 +15,14 @@ sources:
     author: Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini
     q: 2
     i: 0
+    kind: design
+    rigour: 2
 ---
 
 # Jointly modeling hint-taking with knowledge tracing adds a small consistent improvement to hint-taking prediction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Multi-task Colearn improves hint-taking prediction AUC by 0.63 points on ASSISTments and 0.03 points on Junyi over single-task DKVMN-hints. [→ Ritwick Chaudhry 2017](#ritwick-chaudhry-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/
 
-`q2 · i0`
+`q2 · i0` · `design · r2`
 
 Comparison of Colearn against DKVMN-hints in the results (Table 3: 91.75 vs 91.12 on ASSISTments; 92.34 vs 92.31 on Junyi). The improvement is described as "by a small margin"; a practical benefit is needing only one model for training and scoring.
 

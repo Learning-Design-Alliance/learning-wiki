@@ -16,7 +16,7 @@ sources:
 # Interpersonal styles equated with generalized expectancies in social learning theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article reinterprets interpersonal styles — the basic behavioral units of interpersonal processes — as generalized expectancies within Rotter's social learning theory, alongside specific expectancies that develop from actual experiences. Generalized expectancies govern behavior in novel or ambiguous situations, and as specific experience accumulates, specific expectancies become more important determinants of behavior. The authors write: "You will notice that in the conceptualization in Figure 2 interpersonal styles are equated with generalized expectancies."

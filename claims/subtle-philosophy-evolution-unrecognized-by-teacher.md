@@ -15,12 +15,14 @@ sources:
     author: Eggleton, Patrick J.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The preservice teacher's philosophical evolution was so subtle that he did not recognize alternative philosophical views of mathematics or perceive his student teaching would have differed without the program
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Despite a conducive environment for change, Ken's philosophical evolution seemed insignificant to him; he said his student teaching would not have been very different without the mathematics education classes. [→ Eggleton 1995](#eggleton-1995)
@@ -31,7 +33,7 @@ sources:
 
 Eggleton, Patrick J. (1995). Evolution of a Mathematical Philosophy: The Story of One Secondary Mathematics Preservice Teacher. https://eric.ed.gov/?id=ED389592
 
-`q1 · i? · the article prints no effect size for this finding`
+`q1 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Case-study interview finding reported in the conclusions. The article states the evolution in Ken's philosophy had been subtle and that Ken did not recognize that there were alternative philosophical views of mathematics from which he could choose.
 

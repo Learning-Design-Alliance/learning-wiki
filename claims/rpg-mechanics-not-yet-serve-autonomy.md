@@ -15,12 +15,14 @@ sources:
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Participants' lowest ratings fell in interest/enjoyment and perceived choice, and the authors interpret this as the RPG design not yet fully meeting the autonomy need of self-determination theory. [→ Tangkiengsirisin 2025](#tangkiengsirisin-2025)
@@ -31,7 +33,7 @@ sources:
 
 Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Authors' interpretation of the questionnaire data: the lowest-ranked items were enjoyment of catching Mangomon (M = 3.52) and perceived choice (M = 3.52), which they link to intrinsic motivation and autonomy in Ryan and Deci's framework; this is an interpretive claim, not a tested result.
 

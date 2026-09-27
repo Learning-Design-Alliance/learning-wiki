@@ -15,12 +15,14 @@ sources:
     author: "Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students report games make the classroom atmosphere fun and increase participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The most frequent codes for games' effect on engagement and atmosphere were fun and increased participation. [→ Ismayilli 2025](#ismayilli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A. (2025). The impact of educational games on speaking skills in the foreign language teaching process. Novitas-ROYAL (Research on Youth and Language), 19(1), 229–240. https://eric.ed.gov/?id=EJ1469668
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of interview responses on class atmosphere (Table 2) found 13 students said games made the atmosphere fun, 9 said participation increased, and 5 said desire to learn increased; one student reported the classroom changed positively as excitement and desire to learn increased.
 

@@ -12,7 +12,7 @@ generated:
 # Student Presentations All About Me
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies, `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Students create and deliver a short presentation about themselves — interests, background, strengths, goals — typically at the start of a course or school year. The task doubles as low-stakes oral communication practice and as a community-building ritual: peers learn who is in the room while the presenter practices organizing and delivering content to an authentic audience.

@@ -15,12 +15,14 @@ sources:
     author: von Glasersfeld, E.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Constructivist teaching experiments in elementary arithmetic, continued for at least two years, produced results exceeding the authors' expectations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Operational analyses of elementary-school children's number handling led to practical classroom applications, and multi-year continuations of the experiments yielded results far exceeding expectations. [→ von Glasersfeld 1995](#von-glasersfeld-1995)
@@ -31,7 +33,7 @@ sources:
 
 von Glasersfeld, E. (1995). Radical Constructivism: A Way of Knowing and Learning. Falmer Press. https://eric.ed.gov/?id=ED381352
 
-`q2 · i? · no source text available to check; the entry prints no effect size`
+`q2 · i? · no source text available to check; the entry prints no effect size` · `theoretical · r?`
 
 The author's retrospective account in the Preface of his collaboration with Les Steffe on the constructivist approach to learning and teaching arithmetic. He reports that classroom applications followed from Steffe's operational analyses and that "the results far exceeded our expectations" where experiments ran at least two years. No statistics are printed.
 

@@ -16,7 +16,7 @@ sources:
 # Threefold ritual pattern of separation, transition, and reincorporation in African coming-of-age ceremonies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper describes African initiation ceremonies as following a three-part ritual structure: rites of separation, a middle liminal phase of transition, and reincorporation. It states that "Typically, this is accomplished through a threefold ritual pattern consisting of rites of separation, transition, and reincorporation." The liminal middle phase is where "children are made into adults" through symbolic destruction of the old and creation of the new. The paper uses this framework to ground the design of the Simba Wachanga program.

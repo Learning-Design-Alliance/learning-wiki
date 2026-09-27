@@ -15,12 +15,14 @@ sources:
     author: Siegel, Harvey
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Rationality is self-justifying: seriously questioning its justificatory status presupposes that status
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` To ask 'Why be rational?' commits one to a recognition of the epistemic force of reasons; therefore one should be rational because reasons have force. [→ Siegel 1989](#siegel-1989)
@@ -31,7 +33,7 @@ sources:
 
 Siegel, Harvey. (1989). Why Be Rational? On Thinking Critically about Critical Thinking. Resource Publication, Series 2 No. 1. https://eric.ed.gov/?id=ED352333
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper's central philosophical argument. The skeptic who asks 'Why be rational?' is "presupposing rationalismin order to call it into question", since seriously posing any question presupposes the possible forcefulness of putative answers, i.e. the epistemic legitimacy of reasons.
 

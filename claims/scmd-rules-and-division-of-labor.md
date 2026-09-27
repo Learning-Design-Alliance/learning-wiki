@@ -15,12 +15,14 @@ sources:
     author: Park, Y.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # SCMD activity systems exhibit three categories of rules and four types of participant roles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Rules in the SCMD activity system fall into three categories (tool use, institutional context, rhetorical situation), and four types of key roles emerged among participants. [→ Park 2015](#park-2015)
@@ -31,7 +33,7 @@ sources:
 
 Park, Y. (2015). Understanding Synchronous Computer-Mediated Classroom Discussion through Cultural-Historical Activity Theory. The Turkish Online Journal of Educational Technology, 14(2). https://www.tojet.net/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Qualitative analysis of the SCMD activity system found rules of tool use, institutional rules and the instructor's pedagogical practice, and patterned rhetorical practices of opening, topical discussion, and closing. Four key roles emerged: "instructor, technological leader, socio-emotional facilitator, topical initiator and follower, and experts in different domains of knowledge."
 

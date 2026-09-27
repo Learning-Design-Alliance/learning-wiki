@@ -16,7 +16,7 @@ sources:
 # A three-level trajectory of instructional coaching situated within a recursive teacher change process
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief's central framework organizes coaching responsibilities along a trajectory of three levels — initial steps, necessary supports, and sustaining efforts — while mapping mentoring and advocacy responsibilities onto each level. The trajectory is embedded in a recursive change process based on "reflection-in-action (Schön, 1983), a process that includes reflection, goal setting, and action." The framework is intended to help coaches achieve balance and cohesion across the many responsibilities that pull them in different directions.

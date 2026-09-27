@@ -15,12 +15,14 @@ sources:
     author: Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Second-year ESL students who repeated target vocabulary once a month via audio lessons scored higher on the End-of-Experiment test than comparison students, and the article reports the difference as statistically significant by one-way ANOVA. [→ Tetiana Zubenko 2022](#tetiana-zubenko-2022)
@@ -31,7 +33,7 @@ sources:
 
 Tetiana Zubenko, Anastasiia Gavrylenko, Tetyana Zhyvotovska, Nadiia Vasylieva. (2022). Spaced vocabulary acquisition while incidental listening by ESL university students. Advanced Education, 20. https://doi.org/10.20535/2410-8286.250501
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quasi-experiment with 51 Ukrainian second-year ESL students in one experimental (SVAS) and two comparison groups; the spaced-repetition group's End-of-Experiment mean of 84.1 exceeded the comparison group's 80.6, with a one-way ANOVA reported as statistically significant. No effect size is printed.
 

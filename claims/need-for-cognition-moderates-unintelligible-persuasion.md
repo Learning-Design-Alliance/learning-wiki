@@ -15,12 +15,14 @@ sources:
     author: "Padgett, Vernon R. & Brock, Timothy C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Students high in Need for Cognition are more persuaded by unintelligible messages than students low in Need for Cognition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Need for Cognition moderated acceptance of unintelligible messages, with high-Need-for-Cognition students more persuaded. [→ Padgett 1986](#padgett-1986)
@@ -31,7 +33,7 @@ sources:
 
 Padgett, Vernon R. & Brock, Timothy C. (1986). Persuasion with Unintelligible Messages: A Cognitive Response Analysis. https://eric.ed.gov/?id=ED282138
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 A moderator analysis reported from Experiments 3 and 4 of the series. The article reports "students high in Need for Cognition... were more persuaded by unintelligible messages than students low in Need for Cognition."
 

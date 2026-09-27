@@ -15,18 +15,22 @@ sources:
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 0
+    kind: causal
+    rigour: 1
   - id: yow-2019-2
     resource: "https://doi.org/10.1177/2332858419878126"
     title: "Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126"
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` In Study 1, a Condition main effect on comprehension was marginally significant, F(1, 30) = 3.82, p = .060, partial η2 = .11, with higher scores in enhanced sessions (M = 1.78) than baseline (M = 1.58). [→ Yow 2019](#yow-2019)
@@ -38,7 +42,7 @@ sources:
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 Study 1 exploratory comprehension analysis: the Condition effect was only "marginally significant" (p = .060); enhanced-session scores (M = 1.78, SE = 0.07) trended above baseline (M = 1.58, SE = 0.10). Analysis was explicitly exploratory.
 
@@ -48,7 +52,7 @@ Study 1 exploratory comprehension analysis: the Condition effect was only "margi
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i0`
+`q3 · i0` · `causal · r1`
 
 Study 2 comprehension analysis of single-language books found "no significant main effects after controlling for differences in reading ability," so the comprehension benefit did not extend to single-language reading.
 

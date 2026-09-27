@@ -15,12 +15,14 @@ sources:
     author: McGlonn-Nelson, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Underrepresentation of culturally and linguistically diverse students is a pressing problem caused by identification measures biased toward a cultural background not the students' own. [→ McGlonn-Nelson 2005](#mcglonn-nelson-2005)
@@ -31,7 +33,7 @@ sources:
 
 McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Narrative review attributing this to Ford (2003): giftedness is determined by society's present definition, and students' sociocultural backgrounds inform their success on identical assessment measures. The review reports gifted programs have historically failed to identify diverse students because of the measures' nature.
 

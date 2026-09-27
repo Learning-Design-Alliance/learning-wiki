@@ -13,18 +13,22 @@ sources:
     q: 2
     i: "?"
     n: unreported in secondary source
+    kind: associational
+    rigour: "?"
   - id: hart-and-risley-1995
     title: "Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Paul H. Brookes."
     author: "Hart, B., & Risley, T. R."
     q: 2
     i: "?"
     n: 42 families
+    kind: associational
+    rigour: "?"
 ---
 
 # Conversational turn-taking predicts language development better than raw word count or socioeconomic status.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 associational `r?` · `q2`
 
 The widely cited "30 million word gap" (Hart & Risley, 1995) framed early language disparities in terms of sheer quantity of words a child overhears. More recent research reframes the mechanism: the responsiveness and reciprocity of interaction — measured as conversational turns, not raw word count — is the stronger predictor of language-relevant brain development.
 
@@ -40,7 +44,7 @@ The widely cited "30 million word gap" (Hart & Risley, 1995) framed early langua
 
 Gabrieli, J. D. E. MIT McGovern Institute research on conversational turns and Broca's area development. Retrieved from https://mcgovern.mit.edu. Cited via Arduini-Van Hoose, N. (2020), *Educational Psychology*, Language Development chapter, https://edpsych.pressbooks.sunycreate.cloud.
 
-`q2 · neuroimaging study linking interaction quality to brain development` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source`
+`q2 · neuroimaging study linking interaction quality to brain development` · `i? · no source text available to check; the entry prints no effect size` · `n=unreported in secondary source` · `associational · r?`
 
 Children's conversational turn count with adults — the number of reciprocal back-and-forth exchanges, not the raw number of words spoken in the child's presence — predicted activity and development in Broca's area, a brain region central to language production. This held after accounting for socioeconomic status and total word count, suggesting responsiveness and reciprocity of interaction, not just linguistic exposure volume, drives development. This is a secondary citation (from the Educational Psychology textbook); the primary study details (sample, exact statistics) were not available in the source text and should be verified against the original MIT McGovern publication before treating this subclaim as strongly established.
 
@@ -48,7 +52,7 @@ Children's conversational turn count with adults — the number of reciprocal ba
 
 Hart, B., & Risley, T. R. (1995). *Meaningful differences in the everyday experience of young American children*. Paul H. Brookes.
 
-`q2 · observational study across family SES groups, since substantially qualified by later replication attempts` · `i? · no source text available to check; the entry prints no effect size` · `n=42 families`
+`q2 · observational study across family SES groups, since substantially qualified by later replication attempts` · `i? · no source text available to check; the entry prints no effect size` · `n=42 families` · `associational · r?`
 
 The original study observed 42 families across a range of socioeconomic backgrounds and estimated that, by age 4, children from higher-income families had heard roughly 30 million more words than children from lower-income families, with corresponding vocabulary and later academic differences. Subsequent replication attempts have found a substantially smaller gap in words heard, and critics have argued the original framing did not adequately account for different (not simply deficient) communication styles across the home cultures studied. The finding is included here primarily as the historical baseline the conversational-turns research reframes, not as a settled, unqualified claim in its own right.
 

@@ -15,12 +15,14 @@ sources:
     author: Lin, L.-F.
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In the immediate test, the VNT group achieved a significantly higher MACS comprehension score than the T group and the NT group, with no significant difference between T and NT. [→ Lin 2016](#lin-2016)
@@ -31,7 +33,7 @@ sources:
 
 Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 One-way ANOVA on the immediate MACS test in a five-week randomized three-group treatment (T, NT, VNT) with 98 university students showed a significant main effect for Group, F (2, 95) = 4.85, p = .01. Post hoc Scheffé tests showed "significant differences between the VNT and T groups, and between the VNT and NT groups."
 

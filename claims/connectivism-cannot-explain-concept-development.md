@@ -15,18 +15,22 @@ sources:
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: downes-2019-2
     resource: "https://www.eurodl.org/"
     title: "Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/"
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Clarà and Barberà argue, via the learning paradox, that connectivism cannot explain how learners recognize patterns or how concepts develop. [→ Downes 2019](#downes-2019)
@@ -38,7 +42,7 @@ sources:
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey reports Clarà and Barberà's (2013b) learning-paradox argument against connectivism's account of concept formation, plus their claims that connectivism "is unable to explain concept development" and underconceptualizes interaction and dialogue. Reported second-hand.
 
@@ -48,7 +52,7 @@ The survey reports Clarà and Barberà's (2013b) learning-paradox argument again
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The survey reports Al Dahdouh's (2018) argument that connectivism cannot show how learners form connections to the variety of resources, and that a process over and above connectivist pedagogy — three consecutive stages of planning and forethought, cognitive processing, and evaluating — seems required. Reported second-hand.
 

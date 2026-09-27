@@ -15,18 +15,22 @@ sources:
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: gall-1994-2
     resource: "https://eric.ed.gov/?id=ED372464"
     title: "Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464"
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The monograph reports that research on clinical supervision has not reached clear conclusions about its effectiveness. [→ Gall 1994](#gall-1994)
@@ -38,7 +42,7 @@ sources:
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph attributes this inconclusive finding to a review by Glickman and Bey (1990) and explains it by clinical supervision not being a unitary practice and often being diluted or used mainly for evaluation. It states: "Research on clinical supervision has not reached clear conclusions about its effectiveness."
 
@@ -48,7 +52,7 @@ The monograph attributes this inconclusive finding to a review by Glickman and B
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph reports Graybeal's (1984) finding of dilution in practice: "the total annual clinical-supervision time averaged only 112 minutes per teacher," with average preconference twelve minutes, observation twenty-eight minutes, and postconference sixteen minutes.
 

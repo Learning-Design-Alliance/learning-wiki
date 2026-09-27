@@ -15,12 +15,14 @@ sources:
     author: Yildirim, Z.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` T-tests showed a significant gender difference only in work-avoidant orientation, males (M=2.25) higher than females (M=1.75); attitudes and collaboration perceptions did not differ. [→ Yildirim 2003](#yildirim-2003)
@@ -31,7 +33,7 @@ sources:
 
 Yildirim, Z. (2003). Relationship between Achievement Goal Orientation and Collaboration in Project-Based Learning Process. https://eric.ed.gov/?id=ED493521
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 T-test comparisons by gender (Table 2) among 33 males and 15 females; the work-avoidant difference carried the printed statistic t(46)=2.092, p=.042, and no effect size is printed. Mastery, ego-social, group work attitude, and the three collaboration rubric scores showed no significant gender differences.
 

@@ -15,12 +15,14 @@ sources:
     author: Downes, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the surveyed papers where connectivism was explicitly evaluated, in no case did the evidence mitigate against connectivism; most outcomes were positive or at worst neutral. [→ Downes 2019](#downes-2019)
@@ -31,7 +33,7 @@ sources:
 
 Downes, S. (2019). Recent Work in Connectivism. European Journal of Open, Distance and e-Learning, 22(2). https://www.eurodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The author's interpretive survey of 44 openly accessible papers referencing connectivism from the past year, organized thematically rather than quantitatively. The author reports that "in no case did the evidence mitigate against connectivism" among evaluative studies.
 

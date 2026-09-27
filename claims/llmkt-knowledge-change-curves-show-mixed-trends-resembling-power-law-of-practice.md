@@ -15,18 +15,22 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: alexander-scarlatos-2024-2
     resource: "https://arxiv.org/abs/2409.16490"
     title: "Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490"
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Of the 15 most frequent KCs, 5 trend towards increasing mastery, 5 towards decreasing mastery, and 5 do not change significantly. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -38,7 +42,7 @@ sources:
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Learning-curve analysis of LLMKT's predicted masteries on CoMTA test splits, for the 15 most frequent KCs: "the results are mixed: 5 out of 15 KCs trend towards increasing mastery", 5 toward decreasing mastery and 5 unchanged. No statistics are printed.
 
@@ -48,7 +52,7 @@ Learning-curve analysis of LLMKT's predicted masteries on CoMTA test splits, for
 
 Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Authors' overall reading of the same learning-curve analysis: the trends "seem to mostly resemble the power law of practice" once the small amount of data and truncated CoMTA dialogues are taken into account.
 

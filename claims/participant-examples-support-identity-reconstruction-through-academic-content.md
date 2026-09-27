@@ -15,12 +15,14 @@ sources:
     q: 1
     i: 2
     n: 1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
+    kind: qualitative
+    rigour: 3
 ---
 
 # Participant examples support identity reconstruction through academic content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · `i2` medium · n=1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
+> **Evidence** · 1 study · qualitative `r3` · `q1` · `i2` medium · n=1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
 
 Over a four-month knowledge-building unit presenting national identity as a contested, multiply-defined category, one student's language use shifted from essentialist uncertainty about his own identity category membership toward a confident, constructionist stance — a shift documented through his use of an academic case as a [participant example](../elements/participant-examples.md), positioning himself as analogous to the case's subject.
 
@@ -35,7 +37,7 @@ Over a four-month knowledge-building unit presenting national identity as a cont
 
 Cohen, E., Hod, Y., & Ben-Zvi, D. (2023). From "Carrier" to "Creator": The re-construction of national identity in more inclusive terms. *Journal of the Learning Sciences, 32*(3), 427-454. [https://doi.org/10.1080/10508406.2023.2185147](https://doi.org/10.1080/10508406.2023.2185147)
 
-`q1 · single-case discourse analysis (grounded-theory coding, triangulated by three authors and an independent panel of seven learning scientists) embedded in a larger design-based research project; no comparison group or experimental manipulation` · `i2 · a documented, mechanistically detailed shift in one student's language and self-reported sense of belonging across nine data points over four months` · `n=1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices`
+`q1 · single-case discourse analysis (grounded-theory coding, triangulated by three authors and an independent panel of seven learning scientists) embedded in a larger design-based research project; no comparison group or experimental manipulation` · `i2 · a documented, mechanistically detailed shift in one student's language and self-reported sense of belonging across nine data points over four months` · `n=1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices` · `qualitative · r3`
 
 A ninth-grade Israeli classroom ran a four-month [Humanistic Knowledge Building Community](../strategies/humanistic-knowledge-building-community.md) unit on Jewish national identity, deliberately using pluralistic, sometimes contradictory legal, philosophical, and journalistic materials rather than one authoritative account. The authors trace one student's ("Joshua's") language across nine data points — Knowledge Forum notes, interviews, presentations, peer discussions, and a final essay — using discourse-analytic tools (Gee, 2011; Wortham, 2006) to code his position on an essentialism-constructionism continuum and his stated sense of belonging to the Jewish category. His use of a contested legal case (the "Oswald Rufeisen" case) as a [participant example](../elements/participant-examples.md) — positioning himself as analogous to its subject rather than analyzing it at arm's length — is presented as the mechanism through which academic case analysis became a vehicle for his own identity reconstruction.
 

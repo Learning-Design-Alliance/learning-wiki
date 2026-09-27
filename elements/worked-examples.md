@@ -12,7 +12,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.

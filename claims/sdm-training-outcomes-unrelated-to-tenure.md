@@ -15,12 +15,14 @@ sources:
     author: Tuck, Kathy D.; And Others
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No relationships were established between the training outcomes and tenure-related factors such as years employed in DCPS and years in the field of education. [→ Tuck 1994](#tuck-1994)
@@ -31,7 +33,7 @@ sources:
 
 Tuck, Kathy D.; And Others. (1994). Training for the Special Education Service Delivery Model. Evaluation. District of Columbia Public Schools. https://eric.ed.gov/?id=ED377631
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis in the Summary of Implementation and Training Outcomes (Table 10a) found no significant relationships between attitude, awareness, training-need, or resource-adequacy outcomes and either tenure measure, which the report reads as equity in access and assimilation of information across staff tenure.
 

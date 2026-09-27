@@ -15,18 +15,22 @@ sources:
     author: Blosser, P. E.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: blosser-1993-2
     resource: "https://eric.ed.gov/?id=ED351207"
     title: "Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207"
     author: Blosser, P. E.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Johnson and Johnson report that in nine studies over 15 years, high-ability and gifted students showed higher mastery and retention in cooperative work than in competitive or individual learning, and more frequently used higher-level reasoning strategies when working cooperatively. [→ Blosser 1993](#blosser-1993)
@@ -38,7 +42,7 @@ sources:
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review attributes this to Johnson and Johnson's nine studies of high-ability and gifted students conducted over a 15-year period, including a cited physics study in which gifted students used expert reasoning strategies in cooperative groups but novice strategies alone. No effect sizes are printed in the digest.
 
@@ -48,7 +52,7 @@ The review attributes this to Johnson and Johnson's nine studies of high-ability
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Slavin's stated evidence gap in the controversy section on cooperative learning and the gifted. He nonetheless thinks cooperative learning is good for gifted students because they are most likely to provide elaborated explanations, a behavior closely associated with learning gains.
 

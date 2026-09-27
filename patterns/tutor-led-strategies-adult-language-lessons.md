@@ -17,7 +17,7 @@ sources:
 # Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The guide enumerates tutor-led strategies that "enhance this particular process and make the learning more effective": structure the learning so material is "coherent and meaningful, with supporting interconnections made dear"; "Take small steps and allow for brisk pace"; provide redundant information and many examples including extensive tutor use of the target language; give feedback and corrections particularly at first; "Get 80% accuracy early" so small amounts of input are quickly mastered; "Promote continuous student practice" with a rhythm of presentation, practice and use occurring several times per session; drop activities that are not working; and "Re-use previously learned material constantly" to give experiences of success.

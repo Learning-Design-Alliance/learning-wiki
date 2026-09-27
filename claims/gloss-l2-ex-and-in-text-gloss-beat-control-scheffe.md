@@ -15,12 +15,14 @@ sources:
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Scheffé post-hoc tests showed significant differences favoring L1-gloss-L2-ex and L1-in-text-gloss over no-gloss on VocTests 1, 2, and 3, but no significant differences for L1-MG-gloss or the control. [→ Cheng 2009](#cheng-2009)
@@ -31,7 +33,7 @@ sources:
 
 Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Scheffé post-hoc multiple comparisons on the three delayed-design vocabulary tests: e.g., VocTest 1 L1-gloss-L2-ex (M = 9.94) vs no-gloss (M = 5.48), p = .001; L1-in-text-gloss (M = 9.58) vs no-gloss, p = .002; L1-MG-gloss comparisons were not significant.
 

@@ -15,18 +15,22 @@ sources:
     author: Caple, Carlous
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: caple-1996-2
     resource: "https://eric.ed.gov/?id=ED427772"
     title: "Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772"
     author: Caple, Carlous
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Learners using structured CAI maintained their level of memory from recall to retention, while unstructured CAI learners did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The structured CAI group showed no significant difference from recall to retention, indicating maintained memory. [→ Caple 1996](#caple-1996)
@@ -38,7 +42,7 @@ sources:
 
 Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 A t-test of dependent means examined within-group change from recall to retention for the structured CAI group. The dissertation reports "no significant difference from recall to retention"; equivalence was not tested and no effect size is printed.
 
@@ -48,7 +52,7 @@ A t-test of dependent means examined within-group change from recall to retentio
 
 Caple, Carlous. (1996). The Effects of Spaced Practice and Spaced Review on Recall and Retention Using Computer Assisted Instruction. Doctoral Dissertation, North Carolina State University. https://eric.ed.gov/?id=ED427772
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 A t-test of dependent means examined within-group change from recall to retention for the unstructured CAI group. The dissertation reports "a significant difference from recall to retention", which the author interprets as subjects not maintaining memory; no effect size is printed.
 

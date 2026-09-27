@@ -16,7 +16,7 @@ sources:
 # Bildung as self-formation through encounter with the world and return to oneself
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents Bildung, rooted in Von Humboldt and extended by Gadamer, as the development of a personal and academic identity achieved by going out to the external world and reflecting the experience back into one's inner being. The author quotes Von Humboldt's view that fulfilment comes 'by the linking of the self to the world', and stresses that scholarship alone does not produce Bildung without this return to oneself. Dialogue with others, whose particularity confronts the individual with new perspectives, is named as an important ingredient of Bildung-centred education.

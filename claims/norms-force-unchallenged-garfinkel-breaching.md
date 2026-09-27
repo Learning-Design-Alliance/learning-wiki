@@ -15,12 +15,14 @@ sources:
     author: Corder, Lloyd E.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Social norms hold force only because they are expected and unchallenged, as Garfinkel's breaching studies showed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Garfinkel's breaching research showed that norms such as paying the marked price have force only because everyone expects them to be followed and they are never challenged. [→ Corder 1988](#corder-1988)
@@ -31,7 +33,7 @@ sources:
 
 Corder, Lloyd E. (1988). The Utility of Erving Goffman's Theoretical Perspective, Metaphorical Models, and "Serious Ethnography" for the Rhetoric and Communication Scholar. ERIC. https://eric.ed.gov/?id=ED299654
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The essay reports Garfinkel's breaching research, illustrating it with a department-store clerk's story of a man who refused to pay the marked price and shocked three clerks. The article attributes the finding to Garfinkel; no effect sizes are printed.
 

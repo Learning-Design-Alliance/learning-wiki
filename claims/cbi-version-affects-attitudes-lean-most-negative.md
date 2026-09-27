@@ -15,12 +15,14 @@ sources:
     author: "Martin, F., Klein, J., & Sullivan, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A MANOVA on the 12 attitude items revealed a significant overall difference among the six treatment groups. [→ Martin 2003](#martin-2003)
@@ -32,7 +34,7 @@ sources:
 
 Martin, F., Klein, J., & Sullivan, H. (2003). Effects of Instructional Events in Computer-Based Instruction. https://eric.ed.gov/?id=ED484984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 MANOVA on the 12-item Likert attitude survey administered after the lesson and posttest showed "F (60, 1188.48) = 12.98, p <.01"; univariate tests were significant on 11 of 12 items. Scheffe summaries showed the lean group with 21 significant negative comparisons and no-practice with 10.
 

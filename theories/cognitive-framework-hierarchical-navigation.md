@@ -16,7 +16,7 @@ sources:
 # Cognitive framework of hierarchical navigation as matching of context, topic and/or resource-type concepts to taxonomy categories
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes a cognitive framework in which navigating a taxonomy-based interface involves "a cognitive process of matching the context, topic and/or resource type to the taxonomy categories". It posits three processing steps: interpreting the terms displayed at a level of the taxonomy and relating them to the user's knowledge structure; relating the task concepts to the categories by identifying potential relationships; and hypothesizing the kinds of resources likely to be located within a category and estimating the likelihood of finding the desired resource there. The user then clicks a likely category and repeats the process, and may opt to use one or more of the three task concepts, the chosen one assumed to be the most salient for the user. The framework was used to interpret the results of the evaluation study.

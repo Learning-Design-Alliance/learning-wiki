@@ -17,7 +17,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies (3 review, 2 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 7 report an effect size
 
 ## Description
 Activation is the principle of prompting learners to surface prior knowledge, experiences, or related schemas before new instruction.

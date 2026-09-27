@@ -15,12 +15,14 @@ sources:
     author: Osborne, John W.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Words exposed for 9 seconds were recalled significantly more than words exposed for 3 seconds, and there was no interaction between arousal and exposure time. [→ Osborne 1974](#osborne-1974)
@@ -31,7 +33,7 @@ sources:
 
 Osborne, John W. (1974). Free Recall of Differentially Arousing Words. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED088021
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same 2x2 factorial ANOVA on recall scores of 160 participants, the exposure-time main effect was significant: "Words exposed for 9 sec. were recalled more than words exposed for 3. sec., F(1,156) = 45.1" at p<.001. The article reports there was no interaction between the two factors.
 

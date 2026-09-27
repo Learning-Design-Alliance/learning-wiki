@@ -17,7 +17,7 @@ sources:
 # Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper's concluding principle holds that history teaching should treat imagination as a legitimate, central component of knowledge construction rather than as mere fiction-making. The author writes that "Collingwood encourages us all to recognize and acknowledge the profound importance of the human imagination in learning and knowing". Instruction built on Collingwood's method channels student imagination through evidence-anchored re-enactment, interpolation, and interrogation of sources, so that imaginative reconstruction remains accountable to evidence.

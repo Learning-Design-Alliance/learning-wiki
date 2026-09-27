@@ -16,7 +16,7 @@ sources:
 # Level of occupational aspiration (LOA) as a special instance of level-of-aspiration theory with expression levels and goal periods
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article develops LOA as a special instance of the general level-of-aspiration concept, taking the occupational prestige hierarchy as its continuum of difficulty. It distinguishes two equally important aspects: expression levels, where "Estimates of the lower and upper boundaries will be called the 'realistic and idealistic expression levels, respectively", and goal periods, where "Estimates for future times that are near or. distant will be called'short-range and long-range.goal-periodsrespectively." This framework specifies the operations required for measuring LOA and grounds the design of the OAS.

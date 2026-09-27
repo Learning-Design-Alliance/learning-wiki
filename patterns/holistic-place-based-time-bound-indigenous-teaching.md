@@ -17,7 +17,7 @@ sources:
 # Holistic, place-based, time-bound Indigenous teaching pattern
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In the Elders' teaching of Indigenous knowledge in this study, all forms of knowledge were taught holistically rather than divided into disciplines, avoiding what Nadasdy called compartmentalization of IK. For example, "the Elders employed religion and spirituality to explain environmental studies topics," which the ECCD curriculum's subject divisions precluded for the teacher. Teaching was also not based on a single activity: Elders identified plants and farms incidentally while walking, and some teaching was time-bound to particular seasons and times of day, such as morning collection of fuelwood and termites.

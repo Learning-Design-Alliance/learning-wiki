@@ -15,12 +15,14 @@ sources:
     author: Tetiana Zubenko, Allan Shwedel
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Post-hoc analysis of the Translating from Ukrainian to English sub-section showed a significant positive effect for the LWPA group (Q = 5.41, p = .000), supporting the hypothesis that L1-to-L2 training aids accurate translation. [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)
@@ -31,7 +33,7 @@ sources:
 
 Tetiana Zubenko, Allan Shwedel. (2019). Integrating mobile listening and physical activity to facilitate intentional and incidental vocabulary acquisition. Advanced Education, Special Issue 11. https://doi.org/10.20535/2410-8286.165717
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Post-hoc Tukey/Kramer analysis of the Translate from Ukrainian exam sub-section (Table 2: LWPA 90.0% vs Comparison 64.6%, Q = 5.41, p = .000). The authors interpret this as support for training vocabulary "through L1" in the L1-to-L2 direction.
 

@@ -15,12 +15,14 @@ sources:
     author: "Aybek, B., & Aslan, S."
     q: 2
     i: 1
+    kind: associational
+    rigour: 2
 ---
 
 # Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Among 429 prospective teachers, critical thinking disposition scores showed a positive moderate and significant relationship with contemporary educational philosophy scores (r=.333, p<.01). [→ Aybek 2017](#aybek-2017)
@@ -31,7 +33,7 @@ sources:
 
 Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403
 
-`q2 · i1`
+`q2 · i1` · `associational · r2`
 
 Pearson correlation analysis in a relational screening study of 429 prospective teachers selected by simple random sampling, using the CTDS and PPAS. The study found "a positive moderate [35] and significant (r=,333, p<,01) relationship" with contemporary educational philosophy.
 

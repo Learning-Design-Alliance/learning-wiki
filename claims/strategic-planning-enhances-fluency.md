@@ -15,12 +15,14 @@ sources:
     author: Yingli Wang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Strategic pre-task planning enhances learners' fluency in task-based performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across multiple reviewed studies, planners showed greater fluency than non-planners, including faster speaking speed and more syllables with fewer pauses. [→ Yingli Wang 2008](#yingli-wang-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review section 5.1.2 attributing findings to the cited studies: planners had "greater fluency than non- planners"; Ortega (1999) found faster speaking speed and Wendel found more syllables and fewer pauses. No effect sizes are printed.
 

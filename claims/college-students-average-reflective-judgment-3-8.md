@@ -15,12 +15,14 @@ sources:
     author: Schoen, L.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Traditional-aged college students average around stage 3.8 on the Reflective Judgment Interview, near the Pre-Reflective to Quasi-Reflective transition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Research on the RJM reports mean reflective judgment levels of traditional-aged college students at about 3.8, with RJI means of 3.63 for freshmen, 3.57 for sophomores, 3.74 for juniors, and 3.99 for seniors. [→ Schoen 2005](#schoen-2005)
@@ -31,7 +33,7 @@ sources:
 
 Schoen, L. (2005). Learning to make sense of the dilemmas of teaching practice: An exploration of preservice teachers' development of reflective judgment. Boston College. https://eric.ed.gov/?id=ED506804
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 The article reports, citing King and Kitchener, that mean RJI scores rise modestly across college years and that the overall mean for traditional-aged college students falls at about 3.8, between stages 3 and 4. These are second-hand figures reported in the article's literature review.
 

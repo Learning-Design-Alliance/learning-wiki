@@ -15,12 +15,14 @@ sources:
     author: Restrepo Ramos, F. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Xu found that reading tasks with higher involvement load (glosses plus dictionary use) produced better word retention, and marginal glosses were more efficient in fostering incidental learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -31,7 +33,7 @@ sources:
 
 Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature review. PROFILE Issues in Teachers' Professional Development, 17(1), 157-166. http://dx.doi.org/10.15446/profile.v17n1.43957
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Xu's (2010) study assigned 125 ESL freshmen from a Chinese university, divided into four groups by entrance-examination scores, to four reading tasks on one passage with 10 target words (glosses; sentence marking; glosses plus dictionary; no aid); the review reports higher involvement load aided retention.
 

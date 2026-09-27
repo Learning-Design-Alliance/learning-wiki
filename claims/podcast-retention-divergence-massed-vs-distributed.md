@@ -15,12 +15,14 @@ sources:
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the LMM, post-to-delayed change was significant only at Centre 2 (Holm-adjusted p = 0.033), while Centre 1 remained above baseline at delayed follow-up. [→ Joshi U 2026](#joshi-u-2026)
@@ -31,7 +33,7 @@ sources:
 
 Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Primary linear mixed-effects model (TotalScore ~ Timepoint + Centre + Timepoint×Centre + (1|StudyID)) with Holm-adjusted planned contrasts; model-estimated means were 35.8 to 34.6 at Centre 1 versus 45.0 to 41.0 at Centre 2. No effect size printed for this contrast.
 

@@ -15,12 +15,14 @@ sources:
     author: Stephan Böhm and Georges Philip Constantine
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Perceived contextual value is the primary driver of perceived usefulness of the contextual app
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` PCV's path to PU (0.4660) exceeded PEOU's path to PU (0.3269), both significant. [→ Stephan Böhm and Georges Philip Constantine 2015](#stephan-bohm-and-georges-philip-constantine-2015)
@@ -31,7 +33,7 @@ sources:
 
 Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Structural model results from the PLS-SEM analysis of the 45-case net sample: both PCV→PU (t = 4.3288) and PEOU→PU (t = 2.6545) were significant, with PCV the larger driver of perceived usefulness.
 

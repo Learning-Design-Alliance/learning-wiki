@@ -15,12 +15,14 @@ sources:
     author: Online peer assisted learning community model and its application in ZJNU
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Peer coaching, in which teachers observe, share ideas, and solve classroom teaching problems cooperatively with peers of similar status, is reported as a highly effective model of school-based teacher professional development. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
@@ -31,7 +33,7 @@ sources:
 
 Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
 The article's review asserts that peer coaching "has been proved as a highly effective way of teachers professional development" in the UK, US and other countries since the 1980s. No underlying studies or effect sizes are reported in the article.
 

@@ -15,12 +15,14 @@ sources:
     author: "Buphate, T. & Esteban, R. H."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 21-item survey administered at the end of the program yielded a total mean of 4.57 (SD = 0.54) on a 5-point scale, in the strongly-agree band. [→ Buphate 2022](#buphate-2022)
@@ -31,7 +33,7 @@ sources:
 
 Buphate, T. & Esteban, R. H. (2022). Using ideation discussion activities in Design Thinking to develop EFL students' speaking and critical thinking abilities. LEARN Journal: Language Education and Acquisition Research Network, 15(1), 682-708. https://so04.tci-thaijo.org/index.php/LEARN/index
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive statistics on a 21-item, 5-point Likert questionnaire adapted from Zare and Othman (2015), answered by all eight participants on the final day. The article reports the mean was "4.57 (S.D. = 0.54) with a strong level of agreement"; the four highest-rated items (4.88) concerned enjoyment, sensitivity to others, oral communication, and speaking improvement.
 

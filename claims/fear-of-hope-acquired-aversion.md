@@ -15,12 +15,14 @@ sources:
     author: Bohlmeijer, E., Nieuwenhuis, M., Dominguez, A. R., Klooster, P. ten, and Malboeuf-Hurtubise, C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Individuals may develop fear of hope, an acquired aversion to feeling hopeful due to anticipated disappointment or emotional risk, leading them to avoid hopeful engagement with the future. [→ Bohlmeijer 2026](#bohlmeijer-2026)
@@ -31,7 +33,7 @@ sources:
 
 Bohlmeijer, E., Nieuwenhuis, M., Dominguez, A. R., Klooster, P. ten, and Malboeuf-Hurtubise, C. (2026). Toward an integrative psychological framework of existential hope: navigating uncertain futures. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1850611
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Narrative review attribution: the article reports that Harber et al. (2026) introduced "fear of hope" as "an acquired aversion to feeling hopeful." The article uses this concept to underscore the importance of existential trust as willingness to remain open to possibility despite the risk of disappointment; no data are presented here.
 

@@ -15,12 +15,14 @@ sources:
     author: Dombey, Henrietta; Formisano, Marina Pascucci
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Exercise of autonomy at one level may inhibit its development at another in early literacy learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Children accorded large measures of autonomy of participation may not choose activities allowing cognitive autonomy, so their orthographic autonomy may be significantly delayed. [→ Dombey 1999](#dombey-1999)
@@ -31,7 +33,7 @@ sources:
 
 Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument within the paper's anatomy of autonomy, based on the authors' comparative observation of the four network projects; no effect size or test is reported, and the claim is posed with hedging (may inhibit, may be delayed).
 

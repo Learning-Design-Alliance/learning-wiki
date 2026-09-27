@@ -16,7 +16,7 @@ sources:
 # Learner-centred facilitation of adult language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The guide adopts Carl Rogers' view that "we cannot teach a person anything directly; we can only facilitate his or her learning" as its organising framework for adult language teaching. It holds that teaching should put the learner's needs at the centre, with "constant feedback between the student and the tutor, and by a mutual adaptation of behaviour based on students' needs, wants and expectations". In language teaching this operates through two foci: a flexible syllabus amended in response to student wishes, and flexible methodology that keeps students active and performing the language. The tutor's role is to recognise growth points and facilitate their development.

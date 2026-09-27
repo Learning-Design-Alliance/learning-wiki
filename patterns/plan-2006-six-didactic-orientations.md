@@ -17,7 +17,7 @@ sources:
 # The 2006 secondary Plan de Estudios prescribes six didactic orientations for the new study programs
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Plan de Estudios 2006 for secondary education lists six didactic orientations intended to guide teachers' use of the new study programs: "1. Incorporar los conocimientos previos de los alumnos. 2. Promover el trabajo grupal y construcción colectiva del conocimiento. 3. Optimizar el uso del tiempo y del espacio. 4. Seleccionar materiales adecuados. 5. Impulsar la autonomía de los estudiantes. 6. Evaluación." The article presents this list as the official didactic framework the reform asks teachers to implement, and the paper's analysis of planning formats and didactic sequences takes these orientations as the reform's stated pedagogical intent.

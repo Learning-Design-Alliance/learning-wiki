@@ -12,7 +12,7 @@ generated:
 # Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies, `q2`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (9 quant-synthesis, 6 causal), `q2`–`q4` · 6 of 15 report an effect size
 
 ## Description
 Discussion is a structured verbal exchange — whole-class, small-group, or online — in which learners articulate their thinking, respond to peers, and negotiate meaning under facilitation. It functions as both an assessment surface (making reasoning visible to the instructor) and a learning mechanism (eliciting explanation, elaboration, and cognitive conflict).

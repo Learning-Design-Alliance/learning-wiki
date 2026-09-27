@@ -12,7 +12,7 @@ generated:
 # Practice Changing Negative Thoughts into Positive Ones
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
 This strategy asks learners to identify negative self-statements — their own or supplied examples — and deliberately transform them into more constructive, accurate alternatives. It operationalizes the cognitive reframing move from cognitive-behavioral theory: the thought itself is treated as the object of analysis, and the learner practices generating alternative interpretations. Sessions typically present negative statements (e.g., "I only did well on this test due to luck"), prompt learners to rewrite them, and then discuss the reframed versions with peers or a facilitator.

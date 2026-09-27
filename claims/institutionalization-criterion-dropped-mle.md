@@ -15,12 +15,14 @@ sources:
     author: Felini, D.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Teachers doubted institutionalizing MLE in school documents, and the institutionalization criterion was removed from the final framework
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All teachers interviewed expressed strong doubts about including MLE institutionalization (e.g., in the POF) as a quality criterion, and the criterion was dropped from the final framework. [→ Felini 2014](#felini-2014)
@@ -31,7 +33,7 @@ sources:
 
 Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Interview comment by Manuela Valenti (July 2012) during the teacher interviews on the draft criteria. She called inclusion of MLE in the POF "very hard to achieve" and not a guarantee things get done. Following such comments, the institutionalization criterion was removed from the final version.
 

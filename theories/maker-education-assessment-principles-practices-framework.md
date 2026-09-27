@@ -16,7 +16,7 @@ sources:
 # An assessment-planning framework for maker education built on eight principles and five practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's central contribution is an organizing framework answering its essential question about assessing maker education. The authors suggest that there are "eight principles and five practices worthy of consideration when designing an assessment plan for students engaged with maker education experiences." The principles cover design cycle instruction, process focus, real-world problem solving, teacher freedom, iteration, teacher role, choice, and play; the practices are prompt, rubric, reflection, portfolio, and digital badges. An appendix of example assessment tools accompanies the framework.

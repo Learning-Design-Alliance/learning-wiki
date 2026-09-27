@@ -16,7 +16,7 @@ sources:
 # Narrative inquiry as a research method studies the ways humans experience the world through stories
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Narrative inquiry is a qualitatively oriented research method in education, first named by Connelly and Clandinin in 1990 and grounded in Dewey's philosophy. The article states that per Connelly and Clandinin, "the study of narrative, ..., is the study of the ways humans experience the world" (p. 2). Experience is the stories people live, and stories are the closest form that can research experience; researchers describe, collect, and retell stories of experience so that stories, lived and told, relived and retold, educate the self and others. All stakeholders—researchers, teachers, students, parents, administrators—are storytellers, and the method values individuality, originality, and ownership by giving voice to participants.

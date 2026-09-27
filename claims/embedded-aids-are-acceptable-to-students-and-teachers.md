@@ -15,12 +15,14 @@ sources:
     author: Manzo, Anthony V.
     q: 2
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Approximately 90% of students said they had no difficulty understanding or using the Aids, and over 75% indicated they would like to see similar Aids throughout the book. [→ Manzo 1977](#manzo-1977)
@@ -31,7 +33,7 @@ sources:
 
 Manzo, Anthony V. (1977). 'Imbedded Aids' to Readers: Alternatives to Traditional Textual Material. https://eric.ed.gov/?id=ED136196
 
-`q2 · i1`
+`q2 · i1` · `causal · r1`
 
 Student attitude survey data reported in the article alongside the experimental study. The article states "approximately 90% of the students said that they had no difficulty" and "over 75% indicated that they would like to see similar Aids throughout the book."
 

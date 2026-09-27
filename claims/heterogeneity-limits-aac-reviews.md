@@ -15,12 +15,14 @@ sources:
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The heterogeneity of many studies involving various research designs, participants, and multiple components is a major concern for review studies of AAC effectiveness. [→ Nam 2018](#nam-2018)
@@ -31,7 +33,7 @@ sources:
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article's own methodological assessment of the five review studies it synthesizes, which pooled 92 single-subject studies conducted between 1992 and 2016 with participants aged 2 to 52; it cites Boesch et al. (2016) noting "a broad focus may lead to narrow recommendations."
 

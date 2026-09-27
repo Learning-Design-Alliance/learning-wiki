@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: 32 studies (62 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: tod-et-al-2011
     resource: "https://doi.org/10.1123/jsep.33.5.666"
     title: "Tod, D., Hardy, J., & Oliver, E. (2011). Effects of Self-Talk: A Systematic Review. *Journal of Sport and Exercise Psychology, 33*(5), 666–687. [doi:10.1123/jsep.33.5.666](https://doi.org/10.1123/jsep.33.5.666)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 47 studies
+    kind: review
+    rigour: "?"
 ---
 
 # Self Talk Improves Learning And Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i2` medium
 
 Instructional or motivational self-talk — verbalizing task-relevant cues or encouragement to oneself — can improve attention, technique, and performance on learning and motor tasks.
 
@@ -43,7 +47,7 @@ Instructional or motivational self-talk — verbalizing task-relevant cues or en
 
 Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-Talk and Sports Performance: A Meta-Analysis. *Perspectives on Psychological Science, 6*(4), 348–356. [doi:10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)
 
-`q3 · peer-reviewed meta-analysis` · `i2 · medium effect, ES=.48` · `n=32 studies (62 effect sizes)`
+`q3 · peer-reviewed meta-analysis` · `i2 · medium effect, ES=.48` · `n=32 studies (62 effect sizes)` · `quant-synthesis · r?`
 
 A meta-analytic review of self-talk interventions on task performance, pooling 32 studies yielding 62 effect sizes, mostly in sport settings. The overall effect was positive and moderate (ES = .48). Moderator analyses found self-talk interventions were more effective for fine (versus gross) motor tasks and for novel (versus well-learned) tasks; instructional self-talk outperformed motivational self-talk specifically on fine-motor tasks; and interventions that included explicit self-talk training were more effective than those that did not.
 
@@ -51,7 +55,7 @@ A meta-analytic review of self-talk interventions on task performance, pooling 3
 
 Tod, D., Hardy, J., & Oliver, E. (2011). Effects of Self-Talk: A Systematic Review. *Journal of Sport and Exercise Psychology, 33*(5), 666–687. [doi:10.1123/jsep.33.5.666](https://doi.org/10.1123/jsep.33.5.666)
 
-`q3 · systematic review` · `i? · no pooled effect size reported` · `n=47 studies`
+`q3 · systematic review` · `i? · no pooled effect size reported` · `n=47 studies` · `review · r?`
 
 A systematic review of 47 studies on the self-talk–performance relationship, including "second-generation" questions about mediators and moderators. Results indicated beneficial effects of positive, instructional, and motivational self-talk on performance. Two findings challenged popular assumptions: negative self-talk did not impede performance, and evidence for differential effects of instructional versus motivational self-talk by task type was inconsistent. Mediation analyses found cognitive and behavioral factors had the most consistent relationships with self-talk's effect.
 

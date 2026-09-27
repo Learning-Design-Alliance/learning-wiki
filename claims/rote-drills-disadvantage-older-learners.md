@@ -15,12 +15,14 @@ sources:
     author: Schleppegrell, Mary
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Methods relying on auditory discrimination, short-term memory, and speed put older learners at a disadvantage, because the adult learns best by integrating new material into existing cognitive structures rather than by rote. [→ Schleppegrell 1987](#schleppegrell-1987)
@@ -31,7 +33,7 @@ sources:
 
 Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 In its classroom practices section, the digest states that oral drills and memorization "rely on short-term memory" and discriminate against the adult learner, and that speed works against older students in fast-paced drills and competitive activities. No empirical study or effect size is reported for this assertion.
 

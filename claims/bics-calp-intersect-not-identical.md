@@ -15,12 +15,14 @@ sources:
     author: Cummins, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # BICS and CALP intersect developmentally but are not identical or reducible one to the other
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The cognitive and social aspects of language proficiency intersect but are not identical or reducible one to the other. [→ Cummins 1999](#cummins-1999)
@@ -31,7 +33,7 @@ sources:
 
 Cummins, J. (1999). BICS and CALP: Clarifying the Distinction. ERIC Document ED 438 551. https://eric.ed.gov/?id=ED438551
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is a conceptual argument in an opinion paper: Cummins reasons that all children acquire their conceptual foundation through home conversational interaction, yet the intersection of cognitive and social aspects does not make them identical. No data are reported for this point.
 

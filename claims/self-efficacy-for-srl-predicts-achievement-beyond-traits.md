@@ -15,12 +15,14 @@ sources:
     author: "Abdul Gafoor. K., & Kurukkan, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-efficacy for self-regulated learning predicts academic achievement above and beyond prior achievement, gender, SES, intelligence, personality traits, and self-esteem
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Zuffiano et al. (2013), that self-efficacy for self-regulated learning uniquely predicts academic achievement beyond multiple individual-difference variables. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)
@@ -32,7 +34,7 @@ sources:
 
 Abdul Gafoor. K., & Kurukkan, A. (2016). Self-Regulated Learning: A Motivational Approach for Learning Mathematics. International Journal of Education and Psychological Research, 5(3). https://ijepr.org/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 Narrative review attributing this finding to Zuffiano et al. (2013); the review states "self-efficacy for self-regulated learning is above and beyond previous academic achievement, gender, SES, intelligence, personality traits, and self-esteem in predicting academic achievement". The reviewed study's design was not read directly.
 

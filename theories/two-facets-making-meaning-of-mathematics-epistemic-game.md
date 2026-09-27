@@ -16,7 +16,7 @@ sources:
 # Two facets of the 'Making Meaning of Mathematics' epistemic game: Finding a Family of Functions and Fitting the Physical Situation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors describe two versions, or facets, of the large-scale epistemic game 'Mapping Meaning to Mathematics' in the context of solving separable first-order differential equations. They "call these versions 'Finding a Family of Functions' (the +C method without finding the value of the constant) and 'Fitting the Physical Situation' (the limits method)". The facets have similar moves but differ in finer-grain analysis: Phil requires an equation that can "cover everything", while Max seeks consistency between mathematics and physics. The two methods are procedurally different but lead to equivalent solutions.

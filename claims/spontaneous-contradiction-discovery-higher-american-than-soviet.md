@@ -15,12 +15,14 @@ sources:
     author: Presseisen, Barbara Z.; Kozulin, Alex
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Spontaneous discovery of contradictions was much higher among American students than among Soviet peers, attributed to lack of mediation of challenge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Spontaneous reporting of contradictions in a physics-contradiction text was much higher among American students and young professionals than among Soviet peers (28% compared to 3.8%). [→ Presseisen 1992](#presseisen-1992)
@@ -31,7 +33,7 @@ sources:
 
 Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 Cross-cultural comparison using stimulus material adopted from the Soviet study by Tikhomirov and Klochko (1981), administered to American students and young professionals. The authors report "spontaneous reporting of contradictionswas much higher among American studentsand young professionals thanamong" Soviet peers, and attribute the Soviet sample's low rate to lack of mediation of challenge in recent Soviet education.
 

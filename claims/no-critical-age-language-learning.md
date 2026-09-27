@@ -15,18 +15,22 @@ sources:
     author: "Arthur, L., & Hurd, S. (Eds.)"
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: arthur-1992-2
     resource: "https://eric.ed.gov/?id=ED352829"
     title: "Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829"
     author: "Arthur, L., & Hurd, S. (Eds.)"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` There is no hard evidence that language-learning ability is worse in adults than children, and no age is optimal or critical for all aspects of second language learning. [→ Arthur 1992](#arthur-1992)
@@ -38,7 +42,7 @@ sources:
 
 Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The guide's chapter on age states, citing Stern, that "There is no hard evidence that ability to learn languages is less good among adults than in children" and that no age is optimal or critical for all aspects of second language learning.
 
@@ -48,7 +52,7 @@ The guide's chapter on age states, citing Stern, that "There is no hard evidence
 
 Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The guide reports, citing Stern, that "older learners can benefit more than young children from cognitive approaches", defining these as approaches including some explanation or study of the language itself.
 

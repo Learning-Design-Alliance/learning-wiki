@@ -15,12 +15,14 @@ sources:
     author: Raafat Gabriel
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Explicit teaching of grammar resulted in better learner performance particularly with complex rules, while no difference was found for simple rules. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)
@@ -31,7 +33,7 @@ sources:
 
 Raafat Gabriel. (2009). The Efficacy of Explicit Grammar Instruction and its Impact on L2 Rule-Learning: A literature review. https://eric.ed.gov/?id=ED509345
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Andrews (2007), a quantitative study of 70 teenage ESL learners in intact classes at three proficiency levels, taught a simple rule (subject-verb agreement) and a complex rule (relative clauses) via explicit or implicit treatments with pre-, post- and delayed post-tests. The review states "explicit teaching of grammar resulted in better learners performance particularly with complex rules".
 

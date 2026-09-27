@@ -15,12 +15,14 @@ sources:
     author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S.
     q: 2
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Paired pre-to-post MCQ gains were significant at both centres, with mean differences of 3.9 at Centre 1 (dz 0.42) and 7.3 at Centre 2 (dz 0.55). [→ Joshi U 2026](#joshi-u-2026)
@@ -31,7 +33,7 @@ sources:
 
 Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 
-`q2 · i2`
+`q2 · i2` · `causal · r1`
 
 Paired within-participant t-tests among linked completers (Centre 1 n = 154, Centre 2 n = 36) in a one-group pre-post-delayed quasi-experiment. The article prints paired effect sizes "dz 0.42" and "dz 0.55" (medium), with the quoted mean differences of 3.9 and 7.3.
 

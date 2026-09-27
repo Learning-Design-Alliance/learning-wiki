@@ -15,12 +15,14 @@ sources:
     author: "Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r3` · `q1`
 
 ## Subclaims
 `q1 i?` In Lesson 10, the teacher explicitly discussed equation forms, aiming to expand the equations students would accept by emphasizing the equal sign's meaning. [→ Sung 2022](#sung-2022)
@@ -31,7 +33,7 @@ sources:
 
 Sung, Y., Stephens, A., Veltri Torres, R., Strachota, S., Blanton, M., Gardiner, A., Stroud, R., & Knuth, E. (2022). Teacher Language and Gesture in an Intervention Focused on Developing Kindergarteners' Understandings of the Equal Sign. Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://eric.ed.gov/?id=ED630361
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Qualitative account of one teacher's whole-class discussion in Lesson 10, after a student expressed discomfort with a non-standard equation. The teacher "explicitly discussed the forms an equation can take", aiming to widen which equations students accepted as valid.
 

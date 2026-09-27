@@ -15,18 +15,22 @@ sources:
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` Drawing on Kotzee (2017), the article argues that epistemic injustice might be activated by giving a student less credit because of teachers' identity prejudice, so that the student's testimony is taken less seriously. [→ Göktürk 2021](#gokturk-2021)
@@ -38,7 +42,7 @@ sources:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument the article attributes to Kotzee (2017): epistemic injustice "might be activated through giving less credit to a student due to the identity prejudice teachers have". The article offers this as a conceptual account, not a tested finding.
 
@@ -48,7 +52,7 @@ Theoretical argument the article attributes to Kotzee (2017): epistemic injustic
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument the article attributes to Kotzee (2017): the curriculum "has the potential of blocking and enabling" students' understanding of social experiences. The article concludes the curriculum functions as a means of epistemic injustice; no empirical evidence is reported.
 

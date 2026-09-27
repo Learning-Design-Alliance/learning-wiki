@@ -15,6 +15,8 @@ sources:
     q: 4
     i: "?"
     n: 56 investigations (88 pairwise comparisons)
+    kind: quant-synthesis
+    rigour: "?"
   - id: barbieri-et-al-2023
     resource: "https://doi.org/10.1007/s10648-023-09745-1"
     title: "Barbieri, C. A., Miller-Cotto, D., Clerjuste, S. N., & Chawla, K. (2023). A meta-analysis of the worked examples effect on mathematics performance. *Educational Psychology Review, 35*(1), 11. [doi:10.1007/s10648-023-09745-1](https://doi.org/10.1007/s10648-023-09745-1)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 2
     n: 55 studies (43 articles, 181 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Cognitive Load Management
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q4` · `i2` medium
 
 Managing intrinsic, extraneous, and germane cognitive load — by controlling element interactivity, removing unnecessary processing demands, and scaffolding complex content — protects limited working-memory capacity and improves learning outcomes.
 
@@ -43,7 +47,7 @@ Managing intrinsic, extraneous, and germane cognitive load — by controlling el
 
 Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A meta-analysis of the segmenting effect. *Educational Psychology Review, 31*(2), 389–419. [doi:10.1007/s10648-018-9456-4](https://doi.org/10.1007/s10648-018-9456-4)
 
-`q4 · meta-analysis` · `i? · described as small to medium; the abstract gives no pooled d` · `n=56 investigations (88 pairwise comparisons)`
+`q4 · meta-analysis` · `i? · described as small to medium; the abstract gives no pooled d` · `n=56 investigations (88 pairwise comparisons)` · `quant-synthesis · r?`
 
 This meta-analysis pooled 56 investigations (88 pairwise comparisons) that compared multimedia instruction split into meaningful segments with the same material presented as one continuous unit. Segmenting had small to medium positive effects on retention and transfer. It also reduced overall cognitive load and increased learning time, and the same four effects held when the system, not the learner, set the pace. Contrary to what the expertise reversal effect would predict, learners with high prior knowledge benefited more on retention than learners with little or none. That finding qualifies the idea that load-reducing support always matters most for novices.
 
@@ -51,7 +55,7 @@ This meta-analysis pooled 56 investigations (88 pairwise comparisons) that compa
 
 Barbieri, C. A., Miller-Cotto, D., Clerjuste, S. N., & Chawla, K. (2023). A meta-analysis of the worked examples effect on mathematics performance. *Educational Psychology Review, 35*(1), 11. [doi:10.1007/s10648-023-09745-1](https://doi.org/10.1007/s10648-023-09745-1)
 
-`q4 · meta-analysis (robust variance estimation)` · `i2 · medium effect, g=0.48` · `n=55 studies (43 articles, 181 effect sizes)`
+`q4 · meta-analysis (robust variance estimation)` · `i2 · medium effect, g=0.48` · `n=55 studies (43 articles, 181 effect sizes)` · `quant-synthesis · r?`
 
 The authors screened 8,033 abstracts and kept 55 experimental and quasi-experimental studies (181 effect sizes) of [worked examples](worked-examples-reduce-novice-search.md) in mathematics, from elementary grades to postsecondary. The average effect on mathematics performance was medium (g = 0.48). It held whether the examples were used for initial skill acquisition or for practice, and correct examples alone worked better than incorrect examples or a mix of the two. Adding self-explanation prompts produced a negative effect compared with worked examples without them. This cuts against the assumption that layering a germane-load activity onto a load-reducing scaffold always adds value.
 

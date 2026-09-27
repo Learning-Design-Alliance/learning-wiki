@@ -17,7 +17,7 @@ sources:
 # Evaluate mentorship records, method-sharing contributions, and community engagement with the same rigor as citation metrics in promotion and tenure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The editorial recommends discipline-specific portfolio review committees, analogous to teaching portfolios, explicitly trained to weigh non-traditional contributions. It observes that broader impact statements in tenure dossiers "often remain symbolic" because "no standardized rubric yet exists for weighing non-traditional contributions." Embedding this in chemistry-specific promotion and tenure guidelines, "rather than relying on general institutional DEI statements, would move the recommendation from aspirational to structurally enforceable."

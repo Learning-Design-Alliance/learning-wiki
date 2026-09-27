@@ -15,12 +15,14 @@ sources:
     author: Chai Rui
     q: 3
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent testing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · design `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` The diagnostic model's predicted scores correlate strongly with human expert ratings across pronunciation accuracy, fluency, vocabulary-grammar complexity, and content coherence under a strict speaker-independent partition. [→ Chai Rui 2026](#chai-rui-2026)
@@ -31,7 +33,7 @@ sources:
 
 Chai Rui. (2026). Deep learning-based intelligent diagnosis and adaptive training system for university english oral proficiency. Scientific Reports. https://doi.org/10.1038/s41598-026-51608-6
 
-`q3 · i3`
+`q3 · i3` · `design · r2`
 
 Validation of the proposed diagnostic model on a corpus of 4,374 recordings from 486 university students with speaker-independent partitioning. The article reports "correlation coefficients of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across the four assessment dimensions respectively."
 

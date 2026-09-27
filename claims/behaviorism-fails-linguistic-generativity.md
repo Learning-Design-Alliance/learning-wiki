@@ -15,12 +15,14 @@ sources:
     author: Qais Faryadi
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Behaviorism is unable to deal with complex human behavior and has failed to explain linguistic generativity. [→ Qais Faryadi 2007](#qais-faryadi-2007)
@@ -31,7 +33,7 @@ sources:
 
 Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 The review's critique section states that "Behaviorism is unable to deal with comple x human behavior" and that it "has failed to explain linguistic generativity," citing Ingvarsson and Morris (2004). This is the authors' interpretive assessment, not a tested result.
 

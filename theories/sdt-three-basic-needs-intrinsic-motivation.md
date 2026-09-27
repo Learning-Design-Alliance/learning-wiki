@@ -16,7 +16,7 @@ sources:
 # Self-determination theory: three basic psychological needs underpin intrinsic motivation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents self-determination theory as an explanatory framework in which intrinsic motivation, the drive to engage in activity for its own sake, is sustained by satisfying three basic psychological needs. As the authors state, intrinsic motivation "is maintained by satisfaction of three basic psychological needs: the need for autonomy, the need for competence, and the need for relatedness". Autonomy means perceiving behavior as volitional, competence means feeling capable when challenged, and relatedness means developing emotional regard for others. The paper applies this framework to higher education retention, arguing classrooms and campuses should support all three needs.

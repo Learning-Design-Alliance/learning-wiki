@@ -15,12 +15,14 @@ sources:
     author: Do-Yong Park and Mira Park
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the sampled Holt Earth Science inquiry tasks, inductive (40%) and abductive (38.1%) methods were used far more often than the deductive method (21.9%). [→ Do-Yong Park and Mira Park 2013](#do-yong-park-and-mira-park-2013)
@@ -31,7 +33,7 @@ sources:
 
 Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education. https://doi.org/10.5408/12-360.1
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Curriculum analysis of a random 43-page sample (851 pages total) of Holt Earth Science, coding each sentence of inquiry tasks. The authors note the small deductive share is likely because tasks guide students to observe and infer how and why Earth phenomena occurred rather than apply a theory to a specific phenomenon.
 

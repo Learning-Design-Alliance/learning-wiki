@@ -15,12 +15,14 @@ sources:
     author: Wei, L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Internal drive from teachers, rather than top-down curriculum prescriptions, leads to the most successful change in educational practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Top-down prescriptions have been shown not effective or long-lasting in improving teaching, and the internal drive from teachers leads to the most successful change in educational practices. [→ Wei 2023](#wei-2023)
@@ -31,7 +33,7 @@ sources:
 
 Wei, L. (2023). Narrative Inquiry: A Research Method in the Education Field. World Journal of Education, 13(6). https://doi.org/10.5430/wje.v13n6p35
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 An authorial assertion in the section on teacher images, presented without cited data or study design. The article states top-down prescriptions "have been shown not effective or long-lasting in improving teaching" and that teachers' internal drive produces the most successful change. No evidence or study is printed for the assertion.
 

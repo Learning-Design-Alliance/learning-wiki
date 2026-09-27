@@ -15,12 +15,14 @@ sources:
     author: "Honig, C.A. & Salmon, D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The consistent course layout of a program-wide template offered cross-course familiarity that supported the Learner Intentions quality of learner presence and produced high ratings for course organization. [→ Honig 2021](#honig-2021)
@@ -31,7 +33,7 @@ sources:
 
 Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r?`
 
 Authors' interpretation of combined survey and interview data from the MBA study. The template provided "specially designed pages for learning goals, activity instructions, due dates, and grading turnaround times" and was described as a high-impact design approach.
 

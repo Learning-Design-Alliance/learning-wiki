@@ -15,12 +15,14 @@ sources:
     author: "Wolkowitz, A. A., & Smith, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` DC values tend to be lowest at the peak of a score distribution because that is where the chance of an inconsistent decision is highest. [→ Wolkowitz 2024](#wolkowitz-2024)
@@ -31,7 +33,7 @@ sources:
 
 Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observed in the Sim 1 results (Figure 2 and Table 7), where the lowest DC estimate for all three methods occurred at the mode (cut score of 100). The article explains that a high density of scores at or near the cut score increases possible inconsistent decisions.
 

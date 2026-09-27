@@ -15,12 +15,14 @@ sources:
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` All seven IMI sub-scales showed moderate motivation (M < 4.00), with effort/importance highest (M = 3.90) and perceived choice lowest (M = 3.52). [→ Tangkiengsirisin 2025](#tangkiengsirisin-2025)
@@ -31,7 +33,7 @@ sources:
 
 Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive analysis of a 22-item IMI questionnaire completed by the 21 participants after the post-test; all item means were below 4.00 and all SD values above 1.00, indicating dispersion in perceived motivation.
 

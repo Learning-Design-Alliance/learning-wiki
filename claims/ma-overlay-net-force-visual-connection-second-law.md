@@ -15,12 +15,14 @@ sources:
     author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite noise from the slope calculation, the direct comparison of ma(t) with FNET(t) is compelling and serves as a visual connection to Newton's Second Law. [→ Barber et al. 2007](#barber-et-al-2007)
@@ -31,7 +33,7 @@ sources:
 
 Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Figure 3 overlays the student's mass times the video-derived vertical acceleration with net force vs. time, the latter obtained by subtracting the student's standing weight from the force-plate reading. The authors describe the comparison as "quite compelling" despite large noise.
 

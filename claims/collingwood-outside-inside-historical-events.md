@@ -15,12 +15,14 @@ sources:
     author: Lemisko, L.S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Historical knowledge involves knowing both the outside/observable and the inside/unobservable of events, making it fundamentally different from knowledge of the natural world. [→ Lemisko 2004](#lemisko-2004)
@@ -31,7 +33,7 @@ sources:
 
 Lemisko, L.S. (2004). The Historical Imagination: Collingwood in the Classroom. Canadian Social Studies. https://www.quasar.ualberta.ca/css
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical exposition of Collingwood's philosophy as presented in the paper: the 'outside' is what could be perceived by the senses, the 'inside' is the thoughts that motivated actors. The paper states historical knowledge "involves knowing both the outside/observable and the inside/unobservable". This is a philosophical argument, not an empirical test.
 

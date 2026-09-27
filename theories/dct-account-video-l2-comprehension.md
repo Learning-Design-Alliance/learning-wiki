@@ -16,7 +16,7 @@ sources:
 # Dual coding theory as the explanatory account of video-supported L2 text comprehension
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article uses Paivio's dual coding theory (DCT) to explain why video plus narration plus text fosters comprehension. DCT assumes "two functionally independent but interconnected systems, a nonverbal system specialized for dealing with nonlinguistic objects and events, and a verbal system specialized for dealing directly with language." In the VNT condition, participants could construct verbal and nonverbal mental representations simultaneously, and the article extends DCT via the logogen concept to explain macrostructure gains, where larger language units are composed of combinations of smaller units.

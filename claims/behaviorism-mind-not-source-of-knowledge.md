@@ -15,12 +15,14 @@ sources:
     author: Qais Faryadi
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Behaviorism holds that the mind does not help a person acquire knowledge; learning is driven by the external environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Behaviorism asserts that the mind does not aid knowledge acquisition and that the main stimuli of behavior come from the external environment. [→ Qais Faryadi 2007](#qais-faryadi-2007)
@@ -31,7 +33,7 @@ sources:
 
 Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 This is the review's exposition of the behaviorist position, attributed to Thomas H Leahey (2000): "the mind does not help a person to acquire knowledge," with situational environmental interactions affecting the learner rather than the mind. No empirical test is reported.
 

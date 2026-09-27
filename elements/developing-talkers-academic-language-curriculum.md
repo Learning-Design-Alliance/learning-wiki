@@ -17,7 +17,7 @@ sources:
 # Developing Talkers supplemental academic language curriculum for pre-k and kindergarten
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Developing Talkers is a supplemental academic language curriculum for pre-k and kindergarten classrooms targeting sophisticated vocabulary and inferential language use, including Tier 2 small-group lessons for three to five students needing more language support. "The curriculum includes three evidence-based teaching strategies based on substantial accumulated research": direct vocabulary instruction before and during shared reading, inferential-level conversations with open-ended questions, and responsive upward and downward scaffolding of children's responses. Each book is read three times weekly with six target vocabulary words and printed inferential questions at the point of use. Teachers report high satisfaction, saying even "I love it!"

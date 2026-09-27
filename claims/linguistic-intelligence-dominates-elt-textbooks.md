@@ -15,18 +15,22 @@ sources:
     author: "Mahmoud Abdi Tabari & Iman Abdi Tabari"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: mahmoud-abdi-tabari-iman-abdi-tabari-2015-2
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.1p.94"
     title: "Mahmoud Abdi Tabari & Iman Abdi Tabari. (2015). Links between Bloom's Taxonomy and Gardener's Multiple Intelligences: The issue of Textbook Analysis. Advances in Language and Literary Studies, 6(1). https://doi.org/10.7575/aiac.alls.v.6n.1p.94"
     author: "Mahmoud Abdi Tabari & Iman Abdi Tabari"
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Linguistic intelligence dominated both series while natural intelligence was least frequent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Interchange series, linguistic intelligence (47%) was most frequent and natural intelligence (1.09%) least frequent. [→ Mahmoud Abdi Tabari & Iman Abdi Tabari 2015](#mahmoud-abdi-tabari-iman-abdi-tabari-2015)
@@ -38,7 +42,7 @@ sources:
 
 Mahmoud Abdi Tabari & Iman Abdi Tabari. (2015). Links between Bloom's Taxonomy and Gardener's Multiple Intelligences: The issue of Textbook Analysis. Advances in Language and Literary Studies, 6(1). https://doi.org/10.7575/aiac.alls.v.6n.1p.94
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive frequency grid of 638 coded intelligence evidences in the Interchange series (Table 3): linguistic 300, logical 167, spatial 50, interpersonal 67, with musical, kinesthetic, intrapersonal and natural lowest. Descriptive percentages only.
 
@@ -48,7 +52,7 @@ Descriptive frequency grid of 638 coded intelligence evidences in the Interchang
 
 Mahmoud Abdi Tabari & Iman Abdi Tabari. (2015). Links between Bloom's Taxonomy and Gardener's Multiple Intelligences: The issue of Textbook Analysis. Advances in Language and Literary Studies, 6(1). https://doi.org/10.7575/aiac.alls.v.6n.1p.94
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Descriptive frequency grid of 476 coded intelligence evidences in the four high school textbooks (Table 4): linguistic 255, logical 123, with musical and intrapersonal at 4 each and natural at 2. Descriptive percentages only.
 

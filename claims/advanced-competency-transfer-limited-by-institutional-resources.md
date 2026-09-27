@@ -15,12 +15,14 @@ sources:
     author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Advanced competencies such as complex case management, advanced monitoring, and precision-treatment nursing often could not be fully implemented after training because of limited case exposure, insufficient technical platforms, or immature multidisciplinary systems. [→ Liang 2026](#liang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative subtheme from interviews across three participant groups; participants described advanced content remaining at "the level of knowledge understanding" or serving as "conceptual updating" when institutional resources were mismatched.
 

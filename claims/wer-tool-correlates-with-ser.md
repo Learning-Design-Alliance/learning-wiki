@@ -15,12 +15,14 @@ sources:
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # An online word error rate checker correlates strongly with the study's segmental error rate measure, offering a quick pronunciation accuracy score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` SER scores correlated with an online word error rate tool at Pearson's correlation of .788 (r = .788), supporting the WER tool as a reliable quick measure of pronunciation accuracy. [→ Dillon 2023](#dillon-2023)
@@ -31,7 +33,7 @@ sources:
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Correlational validation analysis of the segmental error rate against an online word error rate checker produced "a reasonably strong Pearson's correlation of .788" (r = .788); the authors suggest the WER tool could let students self-assess progress quickly.
 

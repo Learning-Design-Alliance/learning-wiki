@@ -15,12 +15,14 @@ sources:
     author: Ziller, Robert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` An individual with low self esteem prematurely withdraws from an exchange of views when his beliefs conflict with those of his group, whereas persons with high self esteem and high social interest are capable of a more extended exchange of views under conditions of conflict. [→ Ziller 1969](#ziller-1969)
@@ -31,7 +33,7 @@ sources:
 
 Ziller, Robert C. (1969). A Theory of Self Other Orientation and Interpersonal Conflict: A Technical Report. https://eric.ed.gov/?id=ED032608
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical proposition of the report: low self esteem individuals lack 'a well-developed buffer for evaluative stimuli' and behave inconsistently, while high self esteem persons use conflict 'as a means of developing and maintaining a viable guidance system involving self and Other.' No empirical test is reported in the text.
 

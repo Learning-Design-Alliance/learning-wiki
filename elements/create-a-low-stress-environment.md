@@ -12,7 +12,7 @@ generated:
 # Create a Low-Stress Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies, `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 review), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.

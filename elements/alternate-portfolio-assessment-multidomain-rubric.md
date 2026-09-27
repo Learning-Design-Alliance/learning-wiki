@@ -17,7 +17,7 @@ sources:
 # Standards-based alternate portfolio assessment with multi-domain scoring rubric
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 An alternate assessment in which student portfolios—a purposeful and systematic collection of student work evaluated against predetermined scoring criteria—document progress toward the same content standards as all students, using alternate learning expectations. Entries span audio and videotapes, photographs, checklists, interviews, surveys, rating scales, and existing records. A focused, holistic, domain scoring rubric scored each entry in performance, appropriateness, and level of assistance domains, with a settings domain scored once per subject area.

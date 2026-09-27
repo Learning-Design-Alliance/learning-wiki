@@ -15,12 +15,14 @@ sources:
     author: Boyd, William Lowe; Hare, Debra; Nathan, Joe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When asked, participants in Minnesota's choice options express a very high degree of satisfaction, and preliminary studies suggest positive academic outcomes, though more systematic research is needed. [→ Boyd 2002](#boyd-2002)
@@ -31,7 +33,7 @@ sources:
 
 Boyd, William Lowe; Hare, Debra; Nathan, Joe. (2002). What Really Happened? Minnesota's Experience with Statewide Public School Choice Programs. Center for School Change, University of Minnesota. https://eric.ed.gov/?id=ED480198
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
 The report's own synthesis across its two-year study, including over 2,000 ALC and PSEO student survey respondents. It explicitly frames the academic-outcome evidence as preliminary and calls for more systematic research.
 

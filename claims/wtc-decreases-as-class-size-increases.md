@@ -15,12 +15,14 @@ sources:
     author: "Zeinab Moradi Khazaei, Ahmad Moin Zadeh & Saeed Ketabi"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # WTC decreases as class size increases on both talk-time and turns of talk
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Class observation showed that as class size increased, WTC decreased on both indicators, turn of talk and talk time. [→ Zeinab Moradi Khazaei 2012](#zeinab-moradi-khazaei-2012)
@@ -31,7 +33,7 @@ sources:
 
 Zeinab Moradi Khazaei, Ahmad Moin Zadeh & Saeed Ketabi. (2012). Willingness to Communicate in Iranian EFL Learners: The Effect of Class Size. English Language Teaching, 5(11). https://doi.org/10.5539/elt.v5n11p181
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Six weeks of observation of three classes (5, 10, and 15 students), each lasting one and a half hours, recorded each student's talk time and turns of talk; both indicators decreased as class size increased. No effect size is printed.
 

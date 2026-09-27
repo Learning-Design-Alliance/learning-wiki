@@ -17,7 +17,7 @@ sources:
 # Planetary Health and Climate Resilient Health Systems course
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An interdisciplinary and international 6-week course at the intersection of global and planetary health, climate change, and health systems transformation, built by the EWUU alliance (TU/e, WUR, UU, UMCU) with St. Luke's Medical Center in the Philippines. "The course built on the five foun - dational domains of the planetary health education framework." It integrated CBL, CEL, and COIL, and "The 6-week course took place between February and March, the first edition in 2023 and the second in 2024."

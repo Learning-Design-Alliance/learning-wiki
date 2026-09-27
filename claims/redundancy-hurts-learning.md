@@ -14,12 +14,16 @@ sources:
     author: "Kalyuga, S., Chandler, P., & Sweller, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: adesope-nesbit-2012
     resource: "https://doi.org/10.1037/a0026147"
     title: "Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. *Journal of Educational Psychology, 104*(1), 250–263. [doi:10.1037/a0026147](https://doi.org/10.1037/a0026147)"
     author: "Adesope, O. O., & Nesbit, J. C."
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Redundancy Hurts Learning
@@ -45,7 +49,7 @@ Presenting the same information simultaneously in multiple formats — such as o
 
 Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351–371. [doi:10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6](https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6)
 
-`q3` · `i? · no source text available to check; the entry prints no effect size`
+`q3` · `i? · no source text available to check; the entry prints no effect size` · `causal · r?`
 
 Experiments in technical training comparing a diagram with integrated narration against the same material with redundant on-screen text. The redundant version produced worse learning, consistent with a working-memory account in which the duplicate consumes capacity without adding information.
 
@@ -53,7 +57,7 @@ Experiments in technical training comparing a diagram with integrated narration 
 
 Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning environments: A meta-analysis. *Journal of Educational Psychology, 104*(1), 250–263. [doi:10.1037/a0026147](https://doi.org/10.1037/a0026147)
 
-`q4` · `i? · the abstract prints no effect size; the full text may`
+`q4` · `i? · the abstract prints no effect size; the full text may` · `quant-synthesis · r2`
 
 A meta-analysis of 57 independent experimental studies, mostly with postsecondary students, comparing spoken-only, written-only and spoken–written (text plus verbatim speech) presentations on retention and transfer. Spoken–written and written-only presentations did not differ, and spoken–written presentations *outperformed* spoken-only ones. That advantage depended on prior knowledge, pacing and the inclusion of animation or diagrams: it was found for low prior knowledge learners, system-paced materials and picture-free materials. Presentations showing key terms extracted from the narration were associated with better outcomes than verbatim spoken–written ones. The abstract does not report verbal redundancy as harmful in any configuration, which is why this study qualifies the claim rather than supporting it and should be cited with a contextual tag.
 

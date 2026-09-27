@@ -12,7 +12,7 @@ generated:
 # Reflection Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Reflection activities are structured tasks that ask learners to examine what they did, understood, or would change next. They are useful when reflection needs to be made visible and actionable rather than left implicit.

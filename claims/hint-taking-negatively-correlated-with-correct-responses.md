@@ -15,12 +15,14 @@ sources:
     author: Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The percentage of hints taken on a question is negatively correlated with the percentage of correct responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` More learners take hints on difficult questions: percent hint taken falls as percent correct rises across questions. [→ Ritwick Chaudhry 2017](#ritwick-chaudhry-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Observational analysis of ASSISTments 2009-2010 data shown in Figure 1, which plots percent correct, incorrect, and hint responses per question sorted by difficulty. The text states "% hint taken is negatively correlated with % correct".
 

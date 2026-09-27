@@ -15,12 +15,14 @@ sources:
     author: Kuhlthau, C. C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Existing information retrieval systems fail to support users' constructive process in complex tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Lawyers preparing complex trial tasks reported that available systems did not support their process of construction, leading them to avoid the systems and use books instead. [→ Kuhlthau 2005](#kuhlthau-2005)
@@ -31,7 +33,7 @@ sources:
 
 Kuhlthau, C. C. (2005). Towards collaboration between information seeking and information retrieval. Information Research, 10(2) paper 225. http://InformationR.net/ir/10-2/paper225.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 User study of lawyers' information search process: one lawyer said he would never find key cases "using the traditional search program they have now" and preferred books; another noted systems seemed source oriented not task oriented.
 

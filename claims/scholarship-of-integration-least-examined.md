@@ -15,12 +15,14 @@ sources:
     author: Dennis, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The scholarship of integration is the least examined frame in Boyer's model of scholarship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Within Boyer's four domains of scholarship, integration has received the least scholarly attention, and integrative teaching and learning in higher education remain largely unrealized. [→ Dennis 2022](#dennis-2022)
@@ -31,7 +33,7 @@ sources:
 
 Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Background-of-the-problem section citing literature: the review reports, citing Weimer (2006), that integration is the least examined of Boyer's frames, and cites Huber and Hutchings (2004) that integrative teaching and learning remain largely unrealized. No new empirical data are presented.
 

@@ -15,12 +15,14 @@ sources:
     author: "Olson, B., Mead, R., & Payne, D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Panelist classification agreement rates for the alternate portfolio standard setting ranged from 71% to 97% across grades and subjects. [→ Olson 2002](#olson-2002)
@@ -31,7 +33,7 @@ sources:
 
 Olson, B., Mead, R., & Payne, D. (2002). A report of a standard setting method for alternate assessments for students with significant disabilities (Synthesis Report 47). https://eric.ed.gov/?id=ED472306
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Single-state standard setting study with five or six raters per panel and fifteen portfolios per grade/content area, yielding 75 or 90 ratings per panel. The report states "The classification agreement rates ranged from 71% to 97%" and that the source of variation could not be identified from one study.
 

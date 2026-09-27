@@ -15,12 +15,14 @@ sources:
     author: "Orr, D., & Mrazek, R."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the pilot study, the author reports that self-reported use increased for all 20 technology categories and that the average level of use rose across the three survey administrations; the article's own appendix table shows exceptions, such as digital video cameras falling from a mean of 4.13 at pretest to 3.60 at posttest. [→ Orr 2009](#orr-2009)
@@ -31,7 +33,7 @@ sources:
 
 Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Pilot study of a blended graduate course: 26 students were surveyed three times via the LMS, and analysis was restricted to the 15 participants completing all three administrations. Descriptive analysis showed "self‐reported increase of use for all 20 technology categories"; the Appendix table reports the average level of use index rising from 3.01 to 3.97.
 

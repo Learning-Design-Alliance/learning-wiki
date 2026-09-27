@@ -15,12 +15,14 @@ sources:
     author: Ping Wong, Patricia Duff, and Margaret Early
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Completing a combined ESL and healthcare-skills training program improved immigrants' employment prospects, but numerous employment barriers persisted even for those with relevant experience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One to two years after program completion, most participants had improved but insecure employment, and a dominant theme was persistent barriers to employment even for those with relevant experience. [→ Ping Wong 2001](#ping-wong-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and Skills Training on Immigrants' Lives. TESL Canada Journal, Vol. 18, No. 2, Spring 2001. https://eric.ed.gov/?id=EJ659475
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative semistructured interviews with nine program graduates (eight women), conducted one to two years after completion and analyzed for dominant themes. The authors report that "a dominant theme that emerged from the interviews was the existence of numerous barriers to employment even for those with relevant experience."
 

@@ -15,18 +15,22 @@ sources:
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: katz-1993-2
     resource: "https://eric.ed.gov/?id=ED366652"
     title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Solve attributes were the most powerful classifiers across proficiency and status groups, classifying all 41 low-proficiency examinees. [→ Katz 1993](#katz-1993)
@@ -38,7 +42,7 @@ sources:
 
 Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Results section reporting classification outcomes by process type (Table 7). The authors state "the solve attributes are the most powerful in classifying subjects across proficiency levels and status groups"; understand followed, then check.
 
@@ -48,7 +52,7 @@ Results section reporting classification outcomes by process type (Table 7). The
 
 Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 7 breakdown: "twice the percentage of low-proficiency examinees (61%) than high-proficiency examinees (30%) were classified under check", a pattern the authors note held almost uniformly across groups.
 

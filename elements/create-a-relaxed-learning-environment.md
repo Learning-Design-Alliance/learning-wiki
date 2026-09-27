@@ -12,7 +12,7 @@ generated:
 # Create a Relaxed Learning Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Create a relaxed learning environment is the element of arranging social and physical conditions that support safety, calm, and participation.

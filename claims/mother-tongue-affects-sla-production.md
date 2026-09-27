@@ -15,12 +15,14 @@ sources:
     author: Faramarz Samifanni
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A learner's mother language affects second language acquisition, particularly in production of absent sounds
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The absence of particular sounds in the mother tongue gives learners a challenging time in second language production. [→ Faramarz Samifanni 2020](#faramarz-samifanni-2020)
@@ -31,7 +33,7 @@ sources:
 
 Faramarz Samifanni. (2020). The Fluency Way: A Functional Method for Oral Communication. English Language Teaching, 13(3). https://doi.org/10.5539/elt.v13n3p100
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 Theme 7 among the ten themes the study recognized after synthesizing SLA theories and teaching methods; stated as a qualitative finding without empirical measurement.
 

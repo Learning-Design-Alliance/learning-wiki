@@ -15,12 +15,14 @@ sources:
     author: Biesta, Gert J. J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Mead's 1910-1911 course holds that meaning is not conveyed ready-made but arises through the learner's own response within social intercourse, so language as a social process is the medium in which the child constructs meanings. [→ Biesta 1997](#biesta-1997)
@@ -31,7 +33,7 @@ sources:
 
 Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Reconstruction from the typescript of Mead's Course 50 on Philosophy of Education (lecture XXXVII). The article quotes Mead's statement that "Language is a social process, and in such social process alone can the child construct the meanings which he acquires", and reports Mead's parallel claim that meaning arises only through the reaction of the learner. This is a philosophical position reported from the lectures, not an empirically tested result.
 

@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 2 quant-synthesis), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Cognitive apprenticeship is the element in which learners observe expert thinking, practice with coaching, and gradually assume more responsibility.

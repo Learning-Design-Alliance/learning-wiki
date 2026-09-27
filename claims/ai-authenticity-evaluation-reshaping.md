@@ -15,18 +15,22 @@ sources:
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: vargas-2024-2
     resource: "https://eric.ed.gov/?id=EJ1445872"
     title: "Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872"
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Simulated environments and intelligent agents allow learners to participate in authentic professional practices and engage with complex real-world problems. [→ Vargas 2024](#vargas-2024)
@@ -38,7 +42,7 @@ sources:
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review synthesis (citing Baker et al., 2016) in the results on challenges: "simulated environments and intelligent agents allow learn ers to participate in authentic professional practices", promoting practical skills through experiential learning.
 
@@ -48,7 +52,7 @@ Review synthesis (citing Baker et al., 2016) in the results on challenges: "simu
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review synthesis (citing Ingkavara et al., 2022) presenting the evaluation transformation: assessment "intricately woven into the learning process rather than as an external audit of knowledge", becoming fully integrated within situated learning activities.
 

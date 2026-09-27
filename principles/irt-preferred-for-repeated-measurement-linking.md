@@ -17,7 +17,7 @@ sources:
 # Use IRT rather than classical test theory when implementing repeated measurement linking designs with re-randomized groups and multiple concurrent links
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends an IRT framework for its repeated measurement linking design because IRT "easily allows for incomplete designs and for equality constraints between item parameters." The author notes that when new randomized groups are formed at each occasion and all links are put to work in concert, a classical test theory framework may be less suited. This makes the design practical for longitudinal growth measurement.

@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation
+    kind: design
+    rigour: 2
 ---
 
 # Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation
+> **Evidence** · 1 study · design `r2` · `q3` · n=6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation
 
 When art, science, and computing teachers jointly built programmable sculptural lanterns representing a shared classroom garden, all participating teachers raised evaluative criteria from disciplines outside their own — evidence that hands-on, mixed-disciplinary making can expand (not just apply) teachers' sense of what makes a representation "good."
 
@@ -39,7 +41,7 @@ When art, science, and computing teachers jointly built programmable sculptural 
 
 Finch, L., Moreno, C., & Shapiro, R. B. (2021). Luminous Science: Teachers Designing For and Developing Transdisciplinary Thinking and Learning. *Cognition and Instruction, 39*(4), 512-560. [https://doi.org/10.1080/07370008.2021.1945064](https://doi.org/10.1080/07370008.2021.1945064)
 
-`q3 · peer-reviewed design-based research with systematic video/audio coding (grounded theory plus deductive coding against the Boix Mansilla disciplinary-integration framework), tracked inter-rater agreement, and triangulated artifacts (teacher storylines, daily reflections); purposive small sample, not a controlled or randomized design` `i? · the abstract prints no effect size; the full text may` `n=6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation`
+`q3 · peer-reviewed design-based research with systematic video/audio coding (grounded theory plus deductive coding against the Boix Mansilla disciplinary-integration framework), tracked inter-rater agreement, and triangulated artifacts (teacher storylines, daily reflections); purposive small sample, not a controlled or randomized design` `i? · the abstract prints no effect size; the full text may` `n=6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation` · `design · r2`
 
 Six K-12 teachers (art, science, computing/math) and two engineers spent a 5-day workshop building [Luminous Science Transdisciplinary Curriculum](../patterns/luminous-science-transdisciplinary-curriculum.md) lanterns representing a shared classroom hydroponic garden, with all activity recorded via multiple fixed and roving cameras and audio recorders. Discourse was coded for epistemic criteria (what teachers said made a representation "good") and for how teachers navigated tensions between disciplinary criteria, then teachers' subsequent classroom implementation plans were compared for how fully they achieved transdisciplinary (versus multi- or interdisciplinary) integration.
 

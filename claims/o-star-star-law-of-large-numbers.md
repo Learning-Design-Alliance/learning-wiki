@@ -15,12 +15,14 @@ sources:
     author: Elbehary, S.G.A.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Type o** thinkers adequately used experimental probability, recognising that many repeated trials are needed and showing awareness of the law of large numbers; this subcategory appeared only in responses to the die task. [→ Elbehary 2021](#elbehary-2021)
@@ -31,7 +33,7 @@ sources:
 
 Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative coding of die-task responses. The article reports o** thinkers 'expressed a clear understanding of such a concept without biases', treated probability as a posterior judgment requiring frequency data, and showed 'an awareness of the law of large numbers'.
 

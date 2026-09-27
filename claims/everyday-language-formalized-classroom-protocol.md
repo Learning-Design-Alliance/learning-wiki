@@ -15,12 +15,14 @@ sources:
     author: Suarez, E. and Otero, V.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Continued peer use of onomatopoeic labels originally invented by one student constituted evidence that everyday language became formalized into a shared referencing convention. [→ Suarez 2008](#suarez-2008)
@@ -31,7 +33,7 @@ sources:
 
 Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative analysis of the third Sound unit session shows labels invented by Gabriel were adopted and consulted by peers like Gergö; the authors state the "continued use of the onomatopoeic labels" shows formalization. The authors compare this to the creation of scientific discourse conventions.
 

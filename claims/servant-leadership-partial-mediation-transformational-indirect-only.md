@@ -15,12 +15,14 @@ sources:
     author: "Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Servant leadership exhibits complementary partial mediation via self-efficacy, whereas transformational leadership shows a small indirect-only effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Servant leadership's indirect effect via self-efficacy (βstd=0.217) and its direct residual effect (β=0.251) were both significant, indicating complementary partial mediation. [→ Alave Mamani 2026](#alave-mamani-2026)
@@ -32,7 +34,7 @@ sources:
 
 Alave Mamani, C. G., Tocto-Cano, E., Gonzales Medina, R. I., López-Gonzales, J. L., & Turpo-Chaparro, J. E. (2026). Multivariate modeling of organizational dynamics and faculty well-being in higher education. BMC Psychology. https://doi.org/10.1186/s40359-026-05450-0
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Product-of-coefficients indirect effects with bootstrap BCa intervals (B=5000) in the WLSMV structural model. The article classifies servant leadership as "complementary partial mediation" and transformational leadership as a "small indirect-only effect" (βstd=0.033, BCa CI [0.003,0.101]).
 

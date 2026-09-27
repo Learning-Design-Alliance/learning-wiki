@@ -16,7 +16,7 @@ sources:
 # Swain's output hypothesis with three functions of output in second-language acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies, `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's theoretical framework presents Swain's output hypothesis, which assigns production of language a significant role in second-language acquisition alongside comprehensible input. It identifies three functions: a hypothesis-testing function, a metalinguistic function, and the noticing/triggering function, in which "learners may notice a gap between what they want to say and what they can say". The study tests the third function in EFL writing.

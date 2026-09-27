@@ -15,12 +15,14 @@ sources:
     author: "Gall, Meredith D.; Vojtek, Roseanne O'Brien"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The monograph reports, citing a review by Kling and Brookhart (1991), that mentoring has a strong influence on new teachers' decision to stay in or leave the profession. [→ Gall 1994](#gall-1994)
@@ -31,7 +33,7 @@ sources:
 
 Gall, Meredith D.; Vojtek, Roseanne O'Brien. (1994). Planning for Effective Staff Development: Six Research-Based Models. ERIC Clearinghouse on Educational Management. https://eric.ed.gov/?id=ED372464
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The monograph describes mentoring as a variant of clinical supervision involving a tutorial relationship between a skilled experienced teacher and a novice. It reports: "mentoring has a strong influence on new teachers' decision to stay in or leave the profession." No effect size is printed.
 

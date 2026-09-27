@@ -15,12 +15,14 @@ sources:
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The CHAT approach provided a much richer understanding of interactions among teachers, new content, and their environment than a traditional cognitive paradigm. [→ Koszalka 2001](#koszalka-2001)
@@ -32,7 +34,7 @@ sources:
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Authors' assessment in the Limitations section: the CHAT approach gave richer understanding of teacher-content-environment interactions, but "Given this was a pilot test of a new research and analysis methodology findings must be interpreted cautiously."
 

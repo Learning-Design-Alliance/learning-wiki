@@ -15,12 +15,14 @@ sources:
     q: 1
     i: "?"
     n: 18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
+    kind: qualitative
+    rigour: 3
 ---
 
 # External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case · n=18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
+> **Evidence** · 1 study · qualitative `r3` · `q1` · n=18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
 
 When a sixth-grade class's computational simulation of particle diffusion could not visually distinguish between a correct theory and a plausible but incorrect "infect" theory, a physical evaporation experiment that directly tested the underlying particle-level claim shifted a substantial share of students away from the incorrect theory.
 
@@ -35,7 +37,7 @@ When a sixth-grade class's computational simulation of particle diffusion could 
 
 Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M. (2025). Toward Ontological Alignment: Coordinating Student Ideas with the Representational System of a Computational Modeling Unit for Science Learning. *Cognition and Instruction, 43*(1-2), 1-32. [https://doi.org/10.1080/07370008.2024.2427400](https://doi.org/10.1080/07370008.2024.2427400)
 
-`q1-q2 · single-classroom qualitative observation with systematic interaction-analysis coding (three researchers, 296 coded utterances, 8/296 disagreements resolved by majority) and triangulated video/artifact data; no comparison classroom or controlled test of the evaporation experiment's specific causal effect` `i? · the abstract prints no effect size; the full text may` `n=18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit`
+`q1-q2 · single-classroom qualitative observation with systematic interaction-analysis coding (three researchers, 296 coded utterances, 8/296 disagreements resolved by majority) and triangulated video/artifact data; no comparison classroom or controlled test of the evaporation experiment's specific causal effect` `i? · the abstract prints no effect size; the full text may` `n=18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit` · `qualitative · r3`
 
 In a sixth-grade computational-modeling unit on particle diffusion using [Three Practices for Ontological Alignment in Computational Modeling](../patterns/three-practices-for-ontological-alignment-in-computational-modeling.md), the teacher recognized that the class's agent-based simulation could not visually distinguish between two competing student theories and introduced a physical evaporation experiment whose result directly contradicted one theory's prediction. Post-unit written reflections from 18 consented students were analyzed for whether and how they referenced this experiment in explaining a change in their thinking.
 

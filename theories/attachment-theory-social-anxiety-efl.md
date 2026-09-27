@@ -16,7 +16,7 @@ sources:
 # Attachment Theory account of social anxiety in language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 In its recommendations, the article invokes Attachment Theory (citing Erozkan, 2009) to explain and address the social-anxiety component of foreign language speaking anxiety. It states that "Social anxiety is positively correlated with fearful rejection and negative correlated with 'secure' style (Erozkan, 2009)," and that an appropriate attachment style helps students feel secure and have self-esteem, enabling them to establish communicative relationships in their communities. The styles named are secure, dismissing, preoccupied, and dismissed. The article suggests making students aware of the effects of different attachment styles on social anxiety levels.

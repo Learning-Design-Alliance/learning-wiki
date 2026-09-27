@@ -15,18 +15,22 @@ sources:
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: winterdijk-per-2026-2
     resource: "https://doi.org/10.1111/dme.70411"
     title: "Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411"
     author: Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Early screening studies improved detection but did not reliably enhance outcomes absent follow-up pathways. [→ Winterdijk Per 2026](#winterdijk-per-2026)
@@ -38,7 +42,7 @@ sources:
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing earlier trials and a systematic review, that screening alone improved detection but did not reliably enhance psychological or medical outcomes without follow-up pathways; no effect sizes are printed.
 
@@ -48,7 +52,7 @@ The review reports, citing earlier trials and a systematic review, that screenin
 
 Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports that subsequent qualitative and implementation studies found discussing measurement results was generally appreciated and strengthened team communication.
 

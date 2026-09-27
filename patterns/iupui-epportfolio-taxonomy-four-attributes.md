@@ -16,7 +16,7 @@ sources:
 # IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies, `q1`–`q2` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (7 design), `q1`–`q2` · 0 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 The taxonomy identifies four attributes of high-impact ePortfolio practice: "1. ePortfolio is central to the curricular design of the course, program, or university experience. 2. ePortfolio pedagogies support integrative, self-directed learning, and student identity development. 3. ePortfolio making skills are explicitly taught to students. 4. ePortfolio assessment is holistic and aligned with learning processes and outcomes." Each attribute is described along three levels of impact—high, higher, and highest—with each level incorporating all characteristics of previous levels. Impact increases as adoption scales from a single course to course sequences, degree programs, and the whole undergraduate experience.

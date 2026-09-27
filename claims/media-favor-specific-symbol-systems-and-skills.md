@@ -15,18 +15,22 @@ sources:
     author: Salomon, Gavriel; Gardner, Howard
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: salomon-1983-2
     resource: "https://eric.ed.gov/?id=ED253201"
     title: "Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201"
     author: Salomon, Gavriel; Gardner, Howard
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Every medium favors certain symbol systems and cultivates different representational skills and mental operations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
 
 ## Subclaims
 `q1 i?` Every medium, including the microcomputer, favors transmission of certain symbol systems over others and is likely to call upon and cultivate different representational skills. [→ Salomon 1983](#salomon-1983)
@@ -38,7 +42,7 @@ sources:
 
 Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument of the paper: from the symbol systems analysis of media biases the authors derive this first lesson about representational skills. No empirical data are reported for it in this paper; it is an analytic claim of the framework.
 
@@ -48,7 +52,7 @@ Theoretical argument of the paper: from the symbol systems analysis of media bia
 
 Salomon, Gavriel; Gardner, Howard. (1983). The Computer as Educator: Lessons from Television Research. Harvard Project Zero. https://eric.ed.gov/?id=ED253201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The second derived lesson, an activity-bias argument: media employing the same symbol system (e.g. typewriter and word processor with language) may afford and constrain different ways of manipulating it, yielding different cognitive operations. Theoretical, no data reported.
 

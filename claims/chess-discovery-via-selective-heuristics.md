@@ -15,12 +15,14 @@ sources:
     author: Glaser, Robert
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Expert chess discovery is explained by powerful selective heuristics rather than faster thinking or better memory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Simon and Simon's simulation evidence indicates expert players discover mating combinations because their programs incorporate powerful selective heuristics, not because they think faster or memorize better. [→ Glaser 1966](#glaser-1966)
@@ -31,7 +33,7 @@ sources:
 
 Glaser, Robert. (1966). Variables in "Discovery Learning." Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED010518
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The paper reports, citing Simon and Simon (1962), a hand-simulable heuristic program using an exploration tree of move possibilities that discovered mating combinations in about 52 of 136 chess positions, with slight modification adding 10 more. No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Silverman, Robert J.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # In the regulative knowledge/constitutive community context, argument proceeds by contention and fortification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When authors and critics debate foundational theorists or frameworks, exchanges are severe and hard-judged, with both sides fortifying positions through strategies such as speaking in the theorist's voice and paradoxical praise-criticism. [→ Silverman 1993](#silverman-1993)
@@ -31,7 +33,7 @@ sources:
 
 Silverman, Robert J. (1993). Comments and Replies: Academic Conversations. ASHE Annual Meeting Paper. https://eric.ed.gov/?id=ED365173
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Rhetorical analysis of six papers in this context dealing with Kuhn's paradigm concept, Kohlberg, Apple, and Bourdieu. The author documents fortification strategies including quoting the foundational theorist, positioning the critic as third party, and claiming space limitations for omissions.
 

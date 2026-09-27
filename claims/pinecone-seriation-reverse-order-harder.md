@@ -15,12 +15,14 @@ sources:
     author: Kirova, Anna; Bhargava, Ambika
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # Preschool children seriated pinecones by size largely by trial and error, and seriating in reverse order was more challenging and needed extensive verbal cueing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Almost all children seriated at least 9 of 17 pinecones from biggest to smallest; reverse-order seriation required much teacher verbal cueing. [→ Kirova 2002](#kirova-2002)
@@ -31,7 +33,7 @@ sources:
 
 Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r1`
 
 Classroom activity with the teacher's collection of 17 pinecones of varied sizes. "Almost all of them were able to sedate at least 9 of the cones from biggest to smallest" (article's spelling), one child all 17; "Seriating in reverse order was more challenging and needed a lot of verbal cueing."
 

@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: 25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32
+    kind: causal
+    rigour: 1
   - id: richland-et-al-2009
     resource: "https://doi.org/10.1037/a0016496"
     title: "Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful retrieval attempts enhance learning? *Journal of Experimental Psychology: Applied, 15*(3), 243–257. [doi:10.1037/a0016496](https://doi.org/10.1037/a0016496)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 3
     n: 63 undergraduates (Experiment 1); 5 experiments, ns 59–158
+    kind: causal
+    rigour: "?"
 ---
 
 # Retrieval Fails Without Encoding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i2`–`i3`
 
 Retrieval practice strengthens memory only for material that was first encoded into long-term memory; if learners never formed a usable memory representation, attempting retrieval produces little or no benefit.
 
@@ -43,7 +47,7 @@ Retrieval practice strengthens memory only for material that was first encoded i
 
 Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)
 
-`q3 · peer-reviewed multi-experiment lab study` · `i2 · medium effect, d=0.58 (Experiment 1)` · `n=25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32`
+`q3 · peer-reviewed multi-experiment lab study` · `i2 · medium effect, d=0.58 (Experiment 1)` · `n=25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32` · `causal · r1`
 
 Experiment 1: 25 UCLA undergraduates were given fictional trivia questions (invented facts with no true answer, so every "test" trial was guaranteed to be unsuccessful) either in a test condition (attempt to recall before the answer was shown) or a read-only condition (question and answer shown together). Final cued recall was significantly higher for items from the test condition (M=.41) than the read-only condition (M=.31), t(24)=2.97, p<.01, d=0.58. The authors' own reading of this is that the failed attempt enhanced the encoding that occurred when the answer was subsequently presented — the design never tested retrieval with no answer ever supplied, so the result speaks to what retrieval attempts do *to* a following encoding opportunity, not to retrieval practiced in its absence.
 
@@ -51,7 +55,7 @@ Experiment 1: 25 UCLA undergraduates were given fictional trivia questions (inve
 
 Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful retrieval attempts enhance learning? *Journal of Experimental Psychology: Applied, 15*(3), 243–257. [doi:10.1037/a0016496](https://doi.org/10.1037/a0016496)
 
-`q3 · peer-reviewed multi-experiment lab study` · `i3 · large effect, d=1.1 (Experiment 1)` · `n=63 undergraduates (Experiment 1); 5 experiments, ns 59–158`
+`q3 · peer-reviewed multi-experiment lab study` · `i3 · large effect, d=1.1 (Experiment 1)` · `n=63 undergraduates (Experiment 1); 5 experiments, ns 59–158` · `causal · r?`
 
 Across five experiments, participants read an expository essay about vision. In the "test" condition they were asked about concepts embedded in the essay *before* reading it (guaranteeing an unsuccessful retrieval attempt, since they had not yet encountered the material); in the "extended study" condition they instead got more time to read. Post-test performance on the pretested concepts was better than on the extended-study concepts in every experiment, even analyzing only items the pretest failed to elicit. The pretest was always followed by reading the full passage, so — as in Kornell et al. (2009) — the unsuccessful attempt is shown to enhance the encoding that immediately followed it, not to produce learning by itself.
 

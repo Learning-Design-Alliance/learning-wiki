@@ -15,12 +15,14 @@ sources:
     author: Ellis, Rod
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pica (1989) found no statistically significant comprehension difference between interactionally adjusted (88%) and matched premodified (81%) input, but a post-hoc analysis showed interaction benefited learners rated lower in comprehension ability. [→ Ellis 1991](#ellis-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Pica's (1989) follow-up comparing interactionally generated input with premodified input matched for amount of original and repeated input and presentation time, so conditions differed only in negotiation opportunity. The overall difference was not significant; a post-hoc analysis favoured interaction for lower-rated learners.
 

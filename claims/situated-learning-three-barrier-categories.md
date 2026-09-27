@@ -15,24 +15,30 @@ sources:
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: vargas-2024-2
     resource: "https://eric.ed.gov/?id=EJ1445872"
     title: "Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872"
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: vargas-2024-3
     resource: "https://eric.ed.gov/?id=EJ1445872"
     title: "Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872"
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The traditional school system's vertical, one-way passive teaching disconnects learning from real contexts. [→ Vargas 2024](#vargas-2024)
@@ -45,7 +51,7 @@ sources:
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Thematic synthesis of reviewed articles (citing Matsko 2022, Chou 2007, Garritz 2010, McKoy 2013, Salvà-Tomàs et al. 2019) identifies the school-system barrier: a "captive and passive audience" with no connection to the real context, limiting critical understanding and everyday knowledge construction.
 
@@ -55,7 +61,7 @@ Thematic synthesis of reviewed articles (citing Matsko 2022, Chou 2007, Garritz 
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Thematic synthesis of reviewed articles on the traditional educational approach, citing Muñoz Solís (2015), reports it "largely excluding the knowledge, interests, and needs of both students and teachers" and failing to conceptualize learning as embedded in learners' specific environments.
 
@@ -65,7 +71,7 @@ Thematic synthesis of reviewed articles on the traditional educational approach,
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Thematic synthesis of teacher-training obstacles, citing Chou (2007), Amatea et al. (2012), Hernández-Sellés et al. (2015) and Berbel Gómez et al. (2020), reports that "most teachers have very limited knowledge of social issues and the cultural diversity of their students alike" and lack sensitivity to students' contexts.
 

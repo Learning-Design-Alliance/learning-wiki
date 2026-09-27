@@ -14,12 +14,14 @@ sources:
     author: "Kupers, E., van Dijk, M., & van Geert, P."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 Eighteen months of video-coded individual music lessons across three teacher-student dyads showed each pair converging on a distinct, self-reinforcing interaction pattern (a directive/entrenched pattern, an unsettled pattern, or a positive "flow" pattern), with a student's initially low autonomy need predicting a more directive trajectory and a sudden large increase in teacher autonomy support failing to stick when it was too far outside the dyad's established pattern.
 
@@ -38,7 +40,7 @@ Eighteen months of video-coded individual music lessons across three teacher-stu
 
 Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)
 
-`q2-q3 · intensive longitudinal microgenetic study (3 purposively-selected extreme-case dyads, 28 video-coded lessons each over 18 months) combining Monte Carlo significance testing of individual time-series trends with post-hoc hierarchical cluster analysis; high inter-rater reliability (Cohen's κ .78-.96); not a controlled or randomized design, N=3 dyads selected as extreme cases from a larger pool of 8` `i1-i2 · statistically significant, precisely reported time-series trends for the quantitative claims; the attractor-state/cluster-analysis findings are qualitatively rich and theoretically well-motivated but post-hoc and based on 3 cases`
+`q2-q3 · intensive longitudinal microgenetic study (3 purposively-selected extreme-case dyads, 28 video-coded lessons each over 18 months) combining Monte Carlo significance testing of individual time-series trends with post-hoc hierarchical cluster analysis; high inter-rater reliability (Cohen's κ .78-.96); not a controlled or randomized design, N=3 dyads selected as extreme cases from a larger pool of 8` `i1-i2 · statistically significant, precisely reported time-series trends for the quantitative claims; the attractor-state/cluster-analysis findings are qualitatively rich and theoretically well-motivated but post-hoc and based on 3 cases` · `associational · r1`
 
 Three violin/cello teacher-student dyads (students purposively selected as the most extreme cases for teacher-rated autonomy need from a larger pool of 8) were video-recorded for the first 10 minutes of four consecutive lessons at 7 time points across 18 months (28 lessons per dyad), and coded for teacher autonomy support, student autonomy expression, and scaffolding contingency. Monte Carlo tests on individual time series established significance of within-dyad trends; hierarchical cluster analysis on normalized, smoothed data identified qualitatively distinct recurring interaction states per dyad, interpreted through Complex Dynamic Systems theory as evidence that dyads settle into self-reinforcing "attractor" patterns, informing [Persistent Autonomy Support During Resistance](../principles/persistent-autonomy-support-during-resistance.md).
 

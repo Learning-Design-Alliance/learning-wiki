@@ -15,12 +15,14 @@ sources:
     author: Florez, MaryAnn Cunningham
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most researchers agree adults find pronunciation more difficult than children and probably will not achieve native-like pronunciation, but language learning experience and self-monitoring ability can offset these limitations to some degree. [→ Florez 1998](#florez-1998)
@@ -31,7 +33,7 @@ sources:
 
 Florez, MaryAnn Cunningham. (1998). Improving Adult ESL Learners' Pronunciation Skills. ERIC Digest. National Clearinghouse for ESL Literacy Education. https://eric.ed.gov/?id=ED427553
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review of research on age effects in pronunciation acquisition, citing Celce-Murcia, Brinton, & Goodwin (1996), Gillette (1994), Graham (1994) and Pennington (1994). The digest reports that "adults find pronunciation more difficult than children do" while noting offsetting factors. No effect sizes are printed.
 

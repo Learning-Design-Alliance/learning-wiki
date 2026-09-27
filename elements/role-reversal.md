@@ -12,7 +12,7 @@ generated:
 # Role Reversal
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Role reversal asks learners to argue the position they currently oppose — typically mid-debate or after an initial round of advocacy. By constructing the strongest case for the other side, learners must engage with opposing arguments at the level of reasoning rather than merely rebutting them, which exposes the partiality of their own position and deepens understanding of the issue's structure.

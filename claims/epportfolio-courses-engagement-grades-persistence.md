@@ -13,12 +13,14 @@ sources:
     title: kuh-foreword
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Evidence from the 26-institution national project led by Eynon and Gambino, as summarized by Kuh, showed that students taking courses requiring ePortfolios were generally more engaged in educationally purposeful activities, earned higher grades, and were more likely to complete courses and persist than counterparts who did not use ePortfolios. [→ kuh-foreword](#kuh-foreword)
@@ -29,7 +31,7 @@ sources:
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Second-hand summary: the paper quotes Kuh's foreword to Eynon and Gambino's book, which reports findings from a 26-institution national project. The review attributes the comparison to that project and hedges it with "generally"; no effect sizes are printed, and the underlying study is not described in detail here.
 

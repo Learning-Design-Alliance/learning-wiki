@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: 9 queer-identifying youth and allies, ages 10-17, 5-day/15-hour camp
+    kind: qualitative
+    rigour: 2
 ---
 
 # Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=9 queer-identifying youth and allies, ages 10-17, 5-day/15-hour camp
+> **Evidence** · 1 study · qualitative `r2` · `q2` · n=9 queer-identifying youth and allies, ages 10-17, 5-day/15-hour camp
 
 When a STEM maker space explicitly invites participants to author identity into their design choices, queer youth can experience STEM and identity as mutually reinforcing rather than needing to compartmentalize or choose between them, and may extend that openness to questioning other imposed binary categories.
 
@@ -35,7 +37,7 @@ When a STEM maker space explicitly invites participants to author identity into 
 
 Tofel-Grehl, C., Hawkman, A. M., Feldon, D. F., Suárez, M. I., MacDonald, B. M., & Searle, K. (2024). "I can be the weird STEM kid who is also gay": Queer rightful presence in STEM making. *Journal of the Learning Sciences, 33*(4-5), 799-842. [https://doi.org/10.1080/10508406.2024.2409101](https://doi.org/10.1080/10508406.2024.2409101)
 
-`q2 · social design experiment, thematic discourse analysis of fieldnotes, interviews, and participant-authored identity-bead artifacts, no comparison group` · `i? · the abstract prints no effect size; the full text may` · `n=9 queer-identifying youth and allies, ages 10-17, 5-day/15-hour camp`
+`q2 · social design experiment, thematic discourse analysis of fieldnotes, interviews, and participant-authored identity-bead artifacts, no comparison group` · `i? · the abstract prints no effect size; the full text may` · `n=9 queer-identifying youth and allies, ages 10-17, 5-day/15-hour camp` · `qualitative · r2`
 
 Researchers ran a 5-day e-textile maker camp using [identity-centered e-textile making](../patterns/identity-centered-e-textile-making.md), with a facilitator team including an openly trans lead. Daily bead-based self-identification activities tracked how participants described their own STEM and gender/sexuality identities over the week. STEM-identity labels shifted often and were largely non-essentialist. Several participants explicitly described the camp as a place where they didn't have to separate being "gay" from being a "STEM kid." Separately, participants — given full design autonomy — increasingly chose gender-neutral materials and designs, and some explicitly rejected the value of binary gender categories in discussion.
 

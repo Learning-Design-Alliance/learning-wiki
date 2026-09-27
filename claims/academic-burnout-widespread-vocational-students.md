@@ -15,12 +15,14 @@ sources:
     author: Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic burnout is widespread among secondary vocational students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Academic burnout is widespread, with students struggling to derive sufficient value from academic achievements. [→ Zhang 2026](#zhang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang, X., Wang, S., Lin, X., Zheng, J., and Li, L. (2026). 2025 survey study on psychological education status among secondary vocational school students in xx province insights into mental health status and educational implications based on 31,000 students. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1773198
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Burnout was measured with the revised MBI-GS covering emotional exhaustion, cynicism, and low personal accomplishment. The article reports that "Academic burnout is widespread" and that students struggle to derive value from achievements.
 

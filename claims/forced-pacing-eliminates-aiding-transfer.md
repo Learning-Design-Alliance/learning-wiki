@@ -15,12 +15,14 @@ sources:
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` There was no positive or negative transfer of training for forced-paced subjects, suggesting time pressure prevents studying what the aid does. [→ Rouse 1980](#rouse-1980)
@@ -31,7 +33,7 @@ sources:
 
 Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Same Experiment Two forced-pacing study with twelve subjects on 49-component Task One problems. The article reports no positive or negative transfer for forced-paced subjects and interprets that subjects "may have to be allowed to reflecton what computer aiding is doing forthem" to gain transferable skills.
 

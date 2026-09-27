@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A qualitative single-user evaluation judged that interactions with Khanmigo provide opportunities for abundant language input, meaningful output, adaptive feedback, and meaning negotiation, fully supporting the language learning potential criterion. [→ Shetye 2024](#shetye-2024)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Qualitative case-study evaluation based on the author's 17.5 hours of interactions with Khanmigo for learning French, judged against Chapelle's (2001) framework. Table 1 records the judgment "Fully Supported" for language learning potential, and the author concluded the evidence "fully supports the language learning potential criteria".
 

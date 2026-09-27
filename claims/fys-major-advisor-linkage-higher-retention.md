@@ -15,18 +15,22 @@ sources:
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: zak-moskal-2020-2
     resource: "https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     title: "Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # First-year seminars populated by major or advisor show higher retention than unconnected seminars
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports students in FYS sections connected to a major or advisor were retained at 83% versus 76% for unconnected sections. [→ Zak-Moskal 2020](#zak-moskal-2020)
@@ -38,7 +42,7 @@ sources:
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Rogerson and Poock (2013), who compared four FYS enrollment criteria (same major, same advisor, both, or neither) via survey the following semester. Sections with same major and advisor rated policy knowledge as more beneficial. No standardized effect size printed.
 
@@ -48,7 +52,7 @@ Narrative review attributing this to Rogerson and Poock (2013), who compared fou
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Lifton et al. (2007), a four-year study co-registering business majors in a linked FYS and Introduction to Business versus unlinked sections with similar gender and SAT distributions. Average linked-section grade was 75 versus 71. No standardized effect size printed.
 

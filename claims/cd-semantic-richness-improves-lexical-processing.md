@@ -15,12 +15,14 @@ sources:
     author: "Jones, M. N., Dye, M., & Johns, B. T."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In naming and lexical decision tasks, words scoring higher on measures of contextual diversity and semantic richness elicit more accurate and efficient responses, a result the chapter reports as replicated with different language materials and extended to young readers. [→ Jones 2017](#jones-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jones, M. N., Dye, M., & Johns, B. T. (2017). Context as an Organizing Principle of the Lexicon. Psychology of Learning and Motivation, Volume 67. https://doi.org/10.1016/bs.plm.2017.03.008
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r3`
 
 The chapter's narrative review of multiple studies reports that in naming and lexical decision, "words that score higher on measures of CD and semantic richness are responded to more accurately and efficiently," with replication across different language materials and extension to young readers. No effect sizes are printed.
 

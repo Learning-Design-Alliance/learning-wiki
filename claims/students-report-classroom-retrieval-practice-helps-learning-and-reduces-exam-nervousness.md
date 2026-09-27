@@ -15,12 +15,14 @@ sources:
     author: Karpicke, J. D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Agarwal et al. (2014), that of 1408 surveyed students 92% viewed classroom retrieval practice positively and 72% said it helped them feel less nervous about exams. [→ Karpicke 2017](#karpicke-2017)
@@ -31,7 +33,7 @@ sources:
 
 Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive Reference, 2nd edition, Volume 2. https://doi.org/10.1016/B978-0-12-809324-5.21055-9
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The chapter reports a self-report survey by Agarwal et al. (2014) of 1408 middle and high school students: "72% said that frequent retrieval practice helped them feel less nervous about classroom exams". These are student beliefs, not measured anxiety change.
 

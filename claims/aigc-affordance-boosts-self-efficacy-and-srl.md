@@ -15,12 +15,14 @@ sources:
     author: Liang, Li, Hsu and Xu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` AIGC affordance has a positive effect on AIGC self-efficacy (β = 0.583, p < 0.001). [→ Liang 2026](#liang-2026)
@@ -32,7 +34,7 @@ sources:
 
 Liang, Li, Hsu and Xu. (2026). AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1800950
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 PLS-SEM structural model on survey data from 689 undergraduates in IEI-linked programs, bootstrapped with 10,000 resamples. The article reports "a beta coefficient of 0.583 (p < 0.001)" for affordance to self-efficacy and "a beta of 0.316 (p < 0.05)" for affordance to SRL; no standardized effect-size magnitude beyond these path coefficients is printed.
 

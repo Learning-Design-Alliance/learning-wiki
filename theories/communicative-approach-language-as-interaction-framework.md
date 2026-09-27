@@ -16,7 +16,7 @@ sources:
 # Communicative Approach as a language-teaching framework grounded in language as interaction in context
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Communicative Approach treats language as "it is interpersonal activity and has a clear relationship with society", so language study must examine the use of language in both linguistic and social context. The article describes how lessons replace the presentation-practice-perform model with communicative tasks monitored by the teacher, followed by feedback and post-activity error correction, with tasks repeated for greater linguistic accuracy. It emerged in 1970s Britain from dissatisfaction with audio-lingual and grammar-translation methods.

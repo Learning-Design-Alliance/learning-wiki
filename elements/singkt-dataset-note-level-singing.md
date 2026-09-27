@@ -17,7 +17,7 @@ sources:
 # singKT: an open dataset of note-level singing practice from Chinese classrooms
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The singKT dataset is an openly released corpus of singing interactions collected from Chinese primary and middle schools, distributed by the iTEC Lab at Huazhong University of Science and Technology. It comprises "2,432 student–song interaction sequences contributed by the 1,074 distinct learners" and "2,458,825 individual pitched-note attempts", with 270 unique pitch identifiers and 2,587 score-position identifiers, an overall mean correctness of 0.7224, and sequence lengths from 34 to 38,387 attempts. The article uses it to estimate repetition curves, register effects and interpretable student models.

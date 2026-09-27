@@ -15,12 +15,14 @@ sources:
     author: Clark, J. W., Sayre, E. C., and Franklin, S. V.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Because student response to vector-based topics is sensitive to whatever physics instruction is being received at the time, instructors are cautioned against reading too much into any single assessment. [→ Clark 2010](#clark-2010)
@@ -31,7 +33,7 @@ sources:
 
 Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student Understanding of Newton's 3rd Law. arXiv preprint. https://arxiv.org/abs/1009.0260
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretive conclusion (type e) drawn from the response-curve findings: even strong students with high initial scores struggle to reconcile a strange prompt with their current frame of mind.
 

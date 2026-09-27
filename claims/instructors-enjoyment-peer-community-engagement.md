@@ -15,12 +15,14 @@ sources:
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Instructors reported students experience enjoyment through peer connection and satisfaction by building self-confidence overcoming real-world challenges. [→ Sherman 2020](#sherman-2020)
@@ -31,7 +33,7 @@ sources:
 
 Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Study 1 thematic network analysis (Attride-Stirling method) of instructor interviews produced Global Theme 1: "Enjoyment, satisfaction and self-confidence are cultivated through peer and community engagement", from two organizing themes on peer engagement and confidence via practical application.
 

@@ -15,12 +15,14 @@ sources:
     author: Adamson, Douglas
     q: 2
     i: 0
+    kind: theoretical
+    rigour: 2
 ---
 
 # Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · theoretical `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` Dulay and Burt found the order of difficulty of fourteen grammatical morphemes was about the same for Chinese-speaking and Spanish-speaking children. [→ Adamson 1983](#adamson-1983)
@@ -31,7 +33,7 @@ sources:
 
 Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194
 
-`q2 · i0`
+`q2 · i0` · `theoretical · r2`
 
 The review reports, citing Dulay and Burt (1974), that children acquiring fourteen grammatical morphemes showed similar difficulty orders across language backgrounds; Bailey, Madden and Krashen (1974) found the same for adults. The article treats this as indirect support for the Monitor Model.
 

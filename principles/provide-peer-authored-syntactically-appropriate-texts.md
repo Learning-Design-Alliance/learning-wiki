@@ -17,7 +17,7 @@ sources:
 # Provide young readers with syntactically appropriate peer-authored texts rather than basal readers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review argues that texts accounting for readers' cognitive and linguistic experiences, and texts written by peers, are more accessible to young readers than basal readers. Ekwall and Shanker note that "second graders, for instance, more easily read peer-written texts than those written by adults who use comparable words and sentence lengths", because adults' sophisticated sentence style hinders syntactically optimal composition for children. The review concludes it is important for teachers to provide peer-authored, syntactically appropriate material.

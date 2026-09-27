@@ -25,7 +25,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies, `q3`–`q4` · 0 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q3`–`q4` · 0 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available. It sits between initial explanation or modeling and independent performance. The purpose is not mere repetition: guided practice lets learners attempt the task, receive targeted feedback, and gradually assume more of the work as scaffolds are faded. It is especially important when a skill has multiple steps, hidden decision points, or a high likelihood of early error.

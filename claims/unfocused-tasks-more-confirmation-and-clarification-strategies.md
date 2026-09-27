@@ -15,12 +15,14 @@ sources:
     author: "Roohani, A., & Esmaeili, M."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The relationship between negotiation strategy type and task type (focused vs. unfocused) was statistically significant, with more confirmation checks and clarification requests in unfocused tasks. [→ Roohani 2022](#roohani-2022)
@@ -31,7 +33,7 @@ sources:
 
 Roohani, A., & Esmaeili, M. (2022). Effect of (Un)Focused Tasks on L2 Learners' Meaning Negotiation and Negotiation Strategy. PASAA, 63. https://portal.issn.org/resource/ISSN/2287-0024
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Chi-square test on strategy frequencies (confirmation checks, clarification requests, comprehension checks) coded by two raters from the 36 learners' task transcripts; confirmation checks were the most frequent and comprehension checks the least frequent strategy in both task types; no effect size printed.
 

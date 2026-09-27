@@ -17,7 +17,7 @@ sources:
 # All Day Kindergarten (ADK) Program: extra half day of individualized language-based instruction for underachieving kindergartners
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The ADK Program, instituted in Columbus Public Schools in January 1972, provides underachieving kindergarten pupils "an extra half day of instruction in addition to the half day of instruction provided in the regular kindergarten classroom." In 1992-93 an equivalent of 14.5 program teachers served 18 high-priority schools, each teacher instructing two groups limited to 12 pupils, serving 405 pupils for an average of 10.8 hours of instruction per week. The program operates on the philosophy that additional help and attention will better prepare pupils for first grade.

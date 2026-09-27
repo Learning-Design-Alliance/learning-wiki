@@ -15,12 +15,14 @@ sources:
     author: "Padgett, Vernon R. & Brock, Timothy C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Increased source credibility produces greater agreement to both intelligible and unintelligible messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Higher source credibility increased agreement with an intelligible message and also with an unintelligible message. [→ Padgett 1986](#padgett-1986)
@@ -31,7 +33,7 @@ sources:
 
 Padgett, Vernon R. & Brock, Timothy C. (1986). Persuasion with Unintelligible Messages: A Cognitive Response Analysis. https://eric.ed.gov/?id=ED282138
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Experiment 5, with source credibility manipulated as a between-subjects factor. The article reports "increased source credibility produced greater agreement" to both message types, which the authors take as evidence that persuasion processes are similar across intelligibility.
 

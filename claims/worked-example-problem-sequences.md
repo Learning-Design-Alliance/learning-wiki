@@ -15,12 +15,14 @@ sources:
     q: 3
     i: "?"
     n: 96 (secondary education students, novices)
+    kind: causal
+    rigour: "?"
 ---
 
 # Sequencing worked examples with practice problems improves learning for novices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=96 (secondary education students, novices)
+> **Evidence** · 1 study · causal `r?` · `q3` · n=96 (secondary education students, novices)
 
 This claim concerns how [worked examples](../elements/demonstration.md) and [practice problems](../elements/practice.md) should be ordered and combined — e.g., example–problem pairs, faded examples, or example-first sequences — rather than whether examples help at all.
 
@@ -34,7 +36,7 @@ This claim concerns how [worked examples](../elements/demonstration.md) and [pra
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices’ learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 
-`q3 · peer-reviewed randomized experiment (not pre-registered)` · `i? · partial η² reported (.20–.23) but not a d/g/r/OR effect size` · `n=96 (secondary education students, novices)`
+`q3 · peer-reviewed randomized experiment (not pre-registered)` · `i? · partial η² reported (.20–.23) but not a d/g/r/OR effect size` · `n=96 (secondary education students, novices)` · `causal · r?`
 
 103 Dutch secondary-education students, novices at electrical-circuit troubleshooting, were randomly assigned to one of four training conditions: worked-examples-only (WE), example-then-problem pairs (WE-PS), problem-then-example pairs (PS-WE), or problems-only (PS); 96 were retained for analysis after exclusions for missing data. On a post-test, WE and WE-PS (both example-first) significantly outperformed PS and PS-WE (both problem-first) on test performance, F(3,91) = 9.00, p < .001, ηp² = .23, while also requiring significantly less invested mental effort during training, F(3,91) = 7.78, p < .001, ηp² = .20. WE and WE-PS did not differ from each other, and PS and PS-WE did not differ from each other — i.e., whether examples were paired with problems mattered less than whether the sequence started with an example or a problem. The authors conclude it is not necessary to alternate example study and problem solving, but that when [pairs](../elements/practice.md) are used, [example](../elements/demonstration.md)-before-problem should be used rather than problem-before-example.
 

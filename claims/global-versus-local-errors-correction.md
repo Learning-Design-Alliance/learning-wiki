@@ -15,12 +15,14 @@ sources:
     author: XIE Fang, JIANG Xue-mei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Global errors hinder communication and prevent comprehension of the message; local errors affect a single element but do not prevent the message from being heard. [→ XIE Fang 2007](#xie-fang-2007)
@@ -32,7 +34,7 @@ sources:
 
 XIE Fang, JIANG Xue-mei. (2007). Error analysis and the EFL classroom teaching. US-China Education Review. https://scholar.google.com/scholar?q=Error+analysis+and+the+EFL+classroom+teaching
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical review in §4.1 attributing the global/local distinction to Burt (1975) and correction guidance to Hendrickson (1980). The article reports that global errors "hinder communication" while local errors affect only a single element, and recommends differentiated treatment by error type. No data are reported.
 

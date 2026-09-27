@@ -15,12 +15,14 @@ sources:
     author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Insufficient physical resources, lack of protected time, absence of performance incentives, and discontinuity of post-training guidance jointly constrained sustained transfer, with training effects reportedly weakening within months after return. [→ Liang 2026](#liang-2026)
@@ -31,7 +33,7 @@ sources:
 
 Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Barrier subtheme from manager and trainee interviews; participants also cited equipment and information-system limits, heavy workload leaving no time for specialty projects, and no change in performance rewards despite added teaching, quality control, and research tasks.
 

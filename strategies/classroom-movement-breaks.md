@@ -12,7 +12,7 @@ generated:
 # Classroom Movement Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies, `q3` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3` · 2 of 4 report an effect size
 
 ## Description
 Classroom movement breaks are brief (typically 3–10 minute) episodes of moderate physical activity — stretching, aerobic movement, coordinated games, or dance — embedded within instructional time. They are carried out in or near the classroom, require no equipment or clothing change, and are followed by a rapid return to academic work.

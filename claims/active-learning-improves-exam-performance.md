@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 225 studies
+    kind: quant-synthesis
+    rigour: 2
   - id: theobald-et-al-2020
     resource: "https://doi.org/10.1073/pnas.1916903117"
     title: "Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S., Chambwe, N., Cintrón, D. L., Cooper, J. D., Dunster, G., Grummer, J. A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L., Jordt, H., Keller, M., Lacey, M. E., Littlefield, C. E., … Freeman, S. (2020). Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math. *Proceedings of the National Academy of Sciences, 117*(12), 6476–6483. [doi:10.1073/pnas.1916903117](https://doi.org/10.1073/pnas.1916903117)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: 1
     n: 15 studies (9,238 students) for exam scores
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Active Learning Improves Exam Performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1`–`i2`
+> **Evidence** · 2 studies · 2 quant-synthesis `r2`–`r3` · `q3`–`q4` · `i1`–`i2`
 
 Students taught through active-learning approaches (e.g., in-class problem-solving, discussion, peer instruction) tend to perform better on examinations than students taught through traditional lecture alone.
 
@@ -43,7 +47,7 @@ Students taught through active-learning approaches (e.g., in-class problem-solvi
 
 Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 
-`q4 · well-powered meta-analysis` · `i2 · medium effect, 0.47 SD` · `n=225 studies`
+`q4 · well-powered meta-analysis` · `i2 · medium effect, 0.47 SD` · `n=225 studies` · `quant-synthesis · r2`
 
 A meta-analysis of 225 studies that compared undergraduate STEM courses taught by traditional lecturing with the same courses taught with active learning. On examinations and concept inventories (158 studies), students under active learning scored 0.47 standard deviations higher, about 6% on average exam scores. Students under traditional lecturing were 1.5 times more likely to fail (odds ratio 1.95, 67 studies). The effect held across STEM disciplines and all class sizes, was largest in small classes (50 students or fewer) and on concept inventories rather than course exams, and did not appear to be explained by publication bias or by weaker study controls.
 
@@ -51,7 +55,7 @@ A meta-analysis of 225 studies that compared undergraduate STEM courses taught b
 
 Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S., Chambwe, N., Cintrón, D. L., Cooper, J. D., Dunster, G., Grummer, J. A., Hennessey, K., Hsiao, J., Iranon, N., Jones, L., Jordt, H., Keller, M., Lacey, M. E., Littlefield, C. E., … Freeman, S. (2020). Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math. *Proceedings of the National Academy of Sciences, 117*(12), 6476–6483. [doi:10.1073/pnas.1916903117](https://doi.org/10.1073/pnas.1916903117)
 
-`q3 · meta-analysis (Bayesian regression over pooled student data)` · `i1 · small effect, exam gap narrowed by 0.20 SD (−0.62 to −0.42)` · `n=15 studies (9,238 students) for exam scores`
+`q3 · meta-analysis (Bayesian regression over pooled student data)` · `i1 · small effect, exam gap narrowed by 0.20 SD (−0.62 to −0.42)` · `n=15 studies (9,238 students) for exam scores` · `quant-synthesis · r3`
 
 A meta-analysis of published and unpublished STEM course comparisons in which the same instructor taught with both traditional lecturing and active learning, looking at students from underrepresented minority and low-income groups against their classmates. On identical or equivalent exams, the gap was −0.62 SD under lecturing and −0.42 SD under active learning, a 33% reduction; gaps in passing rates narrowed by 45% (26 studies, 44,606 students). The results varied widely between studies, and only classes that used high-intensity active learning (a larger share of class time in activities) narrowed the gaps. This qualifies the claim: the benefit on exams is not uniform and depends on how much active learning is actually done.
 

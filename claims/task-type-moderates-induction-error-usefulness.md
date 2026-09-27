@@ -15,12 +15,14 @@ sources:
     author: Glaser, Robert
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The usefulness of induction and errorful learning varies with the type of terminal task being taught
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Induction and errorful learning take on differential usefulness depending on whether the target is response precision, simple associations, concepts, rules and principles, or higher-order strategies. [→ Glaser 1966](#glaser-1966)
@@ -31,7 +33,7 @@ sources:
 
 Glaser, Robert. (1966). Variables in "Discovery Learning." Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED010518
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 A conceptual analysis: response precision and associations appear not to require induction and errorful learning (mediators and stimulus fading minimize errors), induction may suit concepts, and for rules, principles, and higher-order strategies the paper is "less than definitive," calling for experimental analysis.
 

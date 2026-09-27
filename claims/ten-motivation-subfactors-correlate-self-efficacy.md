@@ -15,12 +15,14 @@ sources:
     author: "Roshandel, J., Ghonsooly, B., & Ghanizadeh, A."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Each of the ten motivation sub-factors shows a significant positive correlation with self-efficacy, ranging from r = 0.19 (integrativeness) to r = 0.37 (criterion measures). [→ Roshandel 2018](#roshandel-2018)
@@ -31,7 +33,7 @@ sources:
 
 Roshandel, J., Ghonsooly, B., & Ghanizadeh, A. (2018). L2 Motivational Self-System and Self-Efficacy: A Quantitative Survey-Based Study. International Journal of Instruction, 11(1), 329-344. https://doi.org/10.12973/iji.2018.11123a
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Correlational analysis of the survey data from 210 EFL learners (Table 4) found significant correlations between each motivation sub-factor and self-efficacy; the remaining sub-factors Culture (r = 0.26), ATL2C (r = 0.27), and Integrative (r = 0.19) were also significant at p < 0.05.
 

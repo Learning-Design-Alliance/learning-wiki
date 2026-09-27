@@ -16,7 +16,7 @@ sources:
 # Symbol systems framework: symbols, symbol systems, and symbolic products
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The review organizes its analysis with Gardner's distinction between symbols, symbol systems, and symbolic products. A symbol is any entity that can denote another entity; a symbol system is a set of symbols plus rules for combining them, with Salomon's added requirement of "correspondence to a field of reference" that gives the symbols meaning. Achievement tests are characterized as symbolic products whose adequacy for estimating knowledge the review examines. The review also surveys classifications (Gross's five modes; Hooper's mathematics taxonomy) and dimensions such as resemblance and notationality.

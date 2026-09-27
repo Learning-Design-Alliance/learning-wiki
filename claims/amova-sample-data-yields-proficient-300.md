@@ -15,12 +15,14 @@ sources:
     author: Osler, J. E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # In the worked sample analysis of faculty professional development data, AMOVA yielded a final value of 3.00, a 'Proficient' level, leading to rejection of the null hypothesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` A hypothetical sample dataset from an investigation into the efficacy of faculty training produced an accumulative AMOVA value of 3.00, indicating a Proficient level of instrumentation efficacy and acceptance of the alternative hypothesis. [→ Osler 2015](#osler-2015)
@@ -31,7 +33,7 @@ sources:
 
 Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 Sample data calculation with n and m = 11: the article reports 31 ÷ 11 = 2.818 ≅ 3.00 via the nearest-integer function, and states the null hypothesis "is rejected according to the final research outcomes that yielded a 3.00" while the alternative is accepted. The article labels the dataset hypothetical sample data.
 

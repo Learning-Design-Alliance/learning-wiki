@@ -15,12 +15,14 @@ sources:
     author: Wei, L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` By providing particularity that abstractions cannot render, narrative inquiry's storied format enables in-depth looks at individuals or situations while allowing researchers to see beyond a particular individual or setting. [→ Wei 2023](#wei-2023)
@@ -31,7 +33,7 @@ sources:
 
 Wei, L. (2023). Narrative Inquiry: A Research Method in the Education Field. World Journal of Education, 13(6). https://doi.org/10.5430/wje.v13n6p35
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 An authorial argument in the Research Puzzles section, not a tested result. The article argues the storied format "has the potential to transcend the specialties of the immediate research field," grounded in Dewey's notion that the principal interest in experience is growth and transformation. No data support the claim.
 

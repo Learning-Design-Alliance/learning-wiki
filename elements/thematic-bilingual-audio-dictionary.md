@@ -17,7 +17,7 @@ sources:
 # Thematic Bilingual Audio Dictionary delivered via Telegram
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A set of short audio vocabulary lessons created by the first researcher and delivered to students' mobile phones through the Telegram app. Each lesson presents a new word first in Ukrainian (L1) and, after a short pause, in English (L2), with students instructed to repeat each word and phrase aloud; difficult words are additionally presented in phrases. For the studied unit, "7 audio lessons were created" covering topics such as materials and opinions about housing arrangements, each "about 2 to 8 minutes long" so students could listen and repeat multiple times during walks or commutes.

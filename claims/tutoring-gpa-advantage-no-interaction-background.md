@@ -15,12 +15,14 @@ sources:
     author: Cooper, E.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No significant interaction between visitation category and any of the four background conditions was found, so the main effect of visiting the TC held across all categories (Figures 2-5). [→ Cooper 2010](#cooper-2010)
@@ -31,7 +33,7 @@ sources:
 
 Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Interaction analyses comparing mean cumulative GPA across visit categories within math SAT score, high school GPA, ethnicity, and first-generation status, shown in Figures 2-5 for 200840. The article reports no significant interaction in any condition and that the >10-visit group's GPA was higher across all categories of each condition.
 

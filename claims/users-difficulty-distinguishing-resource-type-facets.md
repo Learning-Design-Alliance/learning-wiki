@@ -15,18 +15,22 @@ sources:
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: khoo-2013-2
     resource: "http://InformationR.net/ir/17-4/paper547.html"
     title: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html"
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In post-exercise interviews, 73% of participants said they had difficulty distinguishing Document types from Course materials types and Reference types, and 77% had difficulty understanding Information types. [→ Khoo 2013](#khoo-2013)
@@ -38,7 +42,7 @@ sources:
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Post-exercise interviews with the twenty-two participants after task-based navigation exercises. The authors report that "73% said they had difficulty distinguishing Document types from Course materials types and Reference types" and "77% had difficulty understanding Information types".
 
@@ -48,7 +52,7 @@ Post-exercise interviews with the twenty-two participants after task-based navig
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 From the recall analysis of the navigation exercise: "77% of the participants had difficulty distinguishing between them" for the Courses and Course material types facets, and participants suggested combining them, such as inserting course material types under each course title.
 

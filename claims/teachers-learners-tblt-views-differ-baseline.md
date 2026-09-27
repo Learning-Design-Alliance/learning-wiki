@@ -15,12 +15,14 @@ sources:
     author: Ali Panahi
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Before treatment, teachers' views toward TBLT differed significantly from both learner groups' views
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Prior to any instruction, teachers' views toward TBLT differed significantly from both the II group's and the TI group's views. [→ Ali Panahi 2012](#ali-panahi-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Baseline t-tests (Tables 3 and 4) comparing teachers (n = 32, mean 73.54) with the II group (n = 235, mean 24.06, t = 3.53, Sig. 0.001) and TI group (n = 235, mean 23.9902, t = 4.03, Sig. 0.001) on TBLT-view questionnaires before treatment.
 

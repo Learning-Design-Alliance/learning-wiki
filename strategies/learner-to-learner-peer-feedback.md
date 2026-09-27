@@ -12,7 +12,7 @@ generated:
 # Learner-to-Learner (Peer) Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Learner-to-learner (peer) feedback involves having learners provide constructive feedback on each other's work, typically against explicit criteria. Learners act alternately as reviewers and reviewees: givers must analyze a peer's work against quality standards, while receivers get specific, actionable suggestions for revision. Effective implementation requires modeling feedback techniques, providing guidelines or rubrics, and building a supportive classroom climate.

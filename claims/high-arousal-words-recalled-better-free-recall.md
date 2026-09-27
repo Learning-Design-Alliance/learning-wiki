@@ -15,12 +15,14 @@ sources:
     author: Osborne, John W.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High-arousal words are recalled better than low-arousal words in free recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` High-arousal words were recalled significantly more than low-arousal words in an independent-groups free recall experiment. [→ Osborne 1974](#osborne-1974)
@@ -31,7 +33,7 @@ sources:
 
 Osborne, John W. (1974). Free Recall of Differentially Arousing Words. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED088021
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A 2x2 factorial independent groups experiment in which 160 University of Alberta students free-recalled 20-word lists differing maximally on arousal but equated for imagery and frequency. The two-way ANOVA found "High-arousal wordi were recalled more than low-arousal words, F(1,156) = 16.8" at p<.001.
 

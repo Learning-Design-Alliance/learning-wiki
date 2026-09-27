@@ -15,6 +15,8 @@ sources:
     q: 3
     i: 2
     n: 125 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: epton-et-al-2017
     resource: "https://doi.org/10.1037/ccp0000260"
     title: "Epton, T., Currie, S., & Armitage, C. J. (2017). Unique effects of setting goals on behavior change: Systematic review and meta-analysis. *Journal of Consulting and Clinical Psychology, 85*(12), 1182–1198. [doi:10.1037/ccp0000260](https://doi.org/10.1037/ccp0000260)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 1
     n: 141 papers, 384 effect sizes, 16,523 participants
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Goal setting improves performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1`–`i2`
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1`–`i2`
 
 The claim is currently a placeholder: no scope or mechanism has been specified and no evidence has been curated yet (see Subclaims and Evidence below).
 
@@ -43,7 +47,7 @@ The claim is currently a placeholder: no scope or mechanism has been specified a
 
 Wood, R. E., Mento, A. J., & Locke, E. A. (1987). Task complexity as a moderator of goal effects: A meta-analysis. *Journal of Applied Psychology, 72*(3), 416–425. [doi:10.1037/0021-9010.72.3.416](https://doi.org/10.1037/0021-9010.72.3.416)
 
-`q3 · meta-analysis (1987, not pre-registered)` · `i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks)` · `n=125 studies`
+`q3 · meta-analysis (1987, not pre-registered)` · `i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks)` · `n=125 studies` · `quant-synthesis · r?`
 
 A meta-analysis of goal-setting studies published from 1966 to 1985 on how task complexity changes the effect of goals. The authors ran three sets of analyses: hard versus easy goals, specific difficult goals versus "do your best" or no goal, and all studies combined. Goals improved performance in every set, but most on simple tasks such as reaction time and brainstorming (d = .76) and least on complex tasks such as business simulations, scientific and engineering work, and faculty research productivity (d = .42). Read as abstract only. It supports the claim for specific, challenging goals, and says the effect is weaker on the complex, novel work that learning often involves.
 
@@ -51,7 +55,7 @@ A meta-analysis of goal-setting studies published from 1966 to 1985 on how task 
 
 Epton, T., Currie, S., & Armitage, C. J. (2017). Unique effects of setting goals on behavior change: Systematic review and meta-analysis. *Journal of Consulting and Clinical Psychology, 85*(12), 1182–1198. [doi:10.1037/ccp0000260](https://doi.org/10.1037/ccp0000260)
 
-`q4 · systematic review and meta-analysis of randomized controlled trials` · `i1 · small effect, d=.34 (95% CI .28–.41)` · `n=141 papers, 384 effect sizes, 16,523 participants`
+`q4 · systematic review and meta-analysis of randomized controlled trials` · `i1 · small effect, d=.34 (95% CI .28–.41)` · `n=141 papers, 384 effect sizes, 16,523 participants` · `quant-synthesis · r?`
 
 A systematic review and random-effects meta-analysis of randomized controlled trials that isolated goal setting from other parts of a behavior change intervention. Goal setting had a small positive effect across behaviors (d = .34). It worked best when the goal was difficult, set publicly, or a group goal. There was weaker evidence that it worked better with external monitoring by others and with face-to-face delivery. Read as abstract only. The outcomes are behaviors, mainly in health settings, rather than learning or academic performance, so they bear on the claim only by analogy.
 

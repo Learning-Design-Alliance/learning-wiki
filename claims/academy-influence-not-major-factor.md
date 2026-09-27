@@ -15,18 +15,22 @@ sources:
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: koszalka-2001-2
     resource: "https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration"
     title: "Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration"
     author: "Koszalka, T. A. & Wu, C.-P."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Observed changes were traced to factors including new knowledge from the academy, support mechanisms, curriculum requirements, peer collaboration, classroom context, school policy, and personal perceptions and attitudes. [→ Koszalka 2001](#koszalka-2001)
@@ -38,7 +42,7 @@ sources:
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Summary of Results section tracing changes and lack of changes to historical and activity factors, including support mechanisms, curriculum requirements, peer collaboration, classroom contextual factors such as room layout and technology access, and school policy.
 
@@ -48,7 +52,7 @@ Summary of Results section tracing changes and lack of changes to historical and
 
 Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Authors' interpretation in the Discussion: the two educators differed greatly in IDEAS-team engagement, so teacher characteristics and environmental interactions may have played a larger role than the academy itself in prompting new behaviors.
 

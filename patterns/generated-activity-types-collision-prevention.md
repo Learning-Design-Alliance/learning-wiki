@@ -17,7 +17,7 @@ sources:
 # Automated generation of seven vocabulary activity types with distractor collision prevention
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 During each training session the algorithm selects target words from the P, S, and L sets and generates activities optimizing predicted learning gains. "At the time of the experiment, the system was capable of generating seven types of activities", including multiple-choice matching in both directions, spelling from an L1 prompt, two listening comprehension tasks, semantic sorting, and fill-in-the-blank sentence completion. A distinctive design feature is collision prevention: "To avoid collisions, WordNet data (Miller, 1995) is used to exclude synonyms and direct hypernyms/hyponyms of the target word from the inventory of possible distractors", while paronyms are given preference to help students distinguish them.

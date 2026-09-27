@@ -15,12 +15,14 @@ sources:
     author: "Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K."
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Spectral BKT achieves higher prediction accuracy than standard BKT on the KDD Cup 2010 Bridge to Algebra data, reaching 92% accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` On the KDD Cup 2010 dataset, Spectral BKT reaches 92% overall accuracy, above what the authors report as never previously achieved for BKT or its variations on that dataset. [→ Falakmasir 2015](#falakmasir-2015)
@@ -31,7 +33,7 @@ sources:
 
 Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K. (2015). Spectral Bayesian Knowledge Tracing. Proceedings of the 8th International Conference on Educational Data Mining. http://pslcdatashop.web.cmu.edu/KDDCup
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Cross-validation of standard BKT versus Spectral BKT on the KDD Cup 2010 Bridge to Algebra data, using 10-fold student-based and item-based cross-validations with the hmmsclbl tool. The paper reports Spectral BKT "hits an impressive 92%" accuracy, with standard BKT at 0.8609 (item) and 0.8659 (student) in Table 1.
 

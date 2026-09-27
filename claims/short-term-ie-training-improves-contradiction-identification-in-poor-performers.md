@@ -15,12 +15,14 @@ sources:
     author: Presseisen, Barbara Z.; Kozulin, Alex
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Short-term Instrumental Enrichment training improves analytic, exploratory, and contradiction-identification strategies in poorly performing adult learners, limited by reliance on everyday content knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Short-term IE training improved analytic, exploratory, and contradiction identification strategies in poorly performing adult immigrant learners, though group-wide gains were modest and limited by non-scientific everyday experience. [→ Presseisen 1992](#presseisen-1992)
@@ -31,7 +33,7 @@ sources:
 
 Presseisen, Barbara Z.; Kozulin, Alex. (1992). Mediated Learning--The Contributions of Vygotsky and Feuerstein in Theory and Practice. https://eric.ed.gov/?id=ED347202
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 Pilot pretest-posttest study of 19 Russian immigrant special education teachers given four months (50 hours) of IE training, with physically possible/impossible picture problems at pretest and posttest. The authors conclude "Short-term IE trainingseems to be effective in improvinganalytic, exploratory, andcontradiction identificationstrategies in poorly performing adult learners."
 

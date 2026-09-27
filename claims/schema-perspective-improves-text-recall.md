@@ -15,12 +15,14 @@ sources:
     author: Bigenho, Frederick W., Jr
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Readers given a perspective or schema recall more text information than readers instructed to carefully read the story
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a free-recall experiment, the group given a perspective or schema recalled more text information than the control group instructed to carefully read the story. [→ Bigenho 1992](#bigenho-1992)
@@ -31,7 +33,7 @@ sources:
 
 Bigenho, Frederick W., Jr. (1992). Conceptual Developments in Schema Theory. https://eric.ed.gov/?id=ED351392
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The essay reports a free-recall experiment by Kardash, Royer, and Greene (1988) on retrieval of text information from a specific perspective or schema, in which "more information was recalled by the experimental group" than the control group. No effect size is printed.
 

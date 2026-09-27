@@ -15,12 +15,14 @@ sources:
     author: "Martella, A. M., Lovett, M. C., & Ramsay, L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Only a minority of active learning comparison studies include treatment fidelity checks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only 10 of 59 (16.9%) studies included fidelity checks for the active learning conditions, and three of those ten did not include a complete fidelity check. [→ Martella 2021](#martella-2021)
@@ -31,7 +33,7 @@ sources:
 
 Martella, A. M., Lovett, M. C., & Ramsay, L. (2021). Implementing active learning: A critical examination of sources of variation in active learning college science courses. Journal on Excellence in College Teaching, 32(1), 67-96. https://jlect.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Study-level treatment fidelity coding in the systematic review. The review reports "only 10 of the 59 (16.9%) studies included fidelity checks"; a common method was COPUS observation in 2-minute segments. Descriptive percentages only.
 

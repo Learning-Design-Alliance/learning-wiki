@@ -15,12 +15,14 @@ sources:
     author: Qais Faryadi
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Behaviorist reinforcement methods positively affect learner performance in almost any learning environment. [→ Qais Faryadi 2007](#qais-faryadi-2007)
@@ -31,7 +33,7 @@ sources:
 
 Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports, citing John Dawning, Tedd Keating and Karl Bennett (2005), that "behavioris t methods of reinforcement ar e very effective in creating positive behavior in almost any learning envi ronment." No effect size or sample is printed; this is a second-hand narrative assertion.
 

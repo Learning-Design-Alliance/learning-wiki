@@ -15,12 +15,14 @@ sources:
     author: Land, Susan M.; Hannafin, Michael J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Underlying assumptions dictate how the five foundations are operationalized in a learning environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` As underlying assumptions vary, the foundations, features, and methods of the learning environment change accordingly, regardless of specific biases or perspectives. [→ Land 1996](#land-1996)
@@ -31,7 +33,7 @@ sources:
 
 Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual argument in the Foundations section. The authors illustrate that objectivists and constructivists reference the same foundation pool but "derive distinctly different strategies based upon altered underlying assumptions." No empirical test is reported.
 

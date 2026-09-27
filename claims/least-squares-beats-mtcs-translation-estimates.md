@@ -15,12 +15,14 @@ sources:
     author: Li, Yuan H.; Lissitz, Robert W.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Least Squares procedures consistently outperform the MTCS method for estimating MIRT translation parameters m1 and m2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Across all simulation situations, the Least Squares Procedures produced smaller RMSE and Range for the translation parameter estimates m1 and m2 than the Matching Test Characteristic Surfaces method. [→ Li 1998](#li-1998)
@@ -31,7 +33,7 @@ sources:
 
 Li, Yuan H.; Lissitz, Robert W. (1998). An Evaluation of Multidimensional IRT Equating Methods by Assessing the Accuracy of Transforming Parameters onto a Target Test Metric. Paper presented at the annual meeting of the National Council on Measurement in Education. https://eric.ed.gov/?id=ED418999
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Descriptive summary of the first simulation study (200 replications per condition) comparing BIAS and RMSE of translation-parameter estimates under manipulated estimation error. Table 1 shows, for example, smaller RMSE for LS_m2 than MTCS_m2 in each sample-size and test-length condition.
 

@@ -15,12 +15,14 @@ sources:
     author: Kirova, Anna; Bhargava, Ambika
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Observation of a dramatic-play episode revealed children's behavioral knowledge of seriation, classification, and one-to-one correspondence, at different stages for the two children. [→ Kirova 2002](#kirova-2002)
@@ -31,7 +33,7 @@ sources:
 
 Kirova, Anna; Bhargava, Ambika. (2002). Learning To Guide Preschool Children's Mathematical Understanding: A Teacher's Professional Growth. Early Childhood Research & Practice. http://ecrp.uiuc.edu/v4n1/kirova.html
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Observational analysis of a play episode in which Rachel placed plates for each bear (one-to-one correspondence) and Tiffany rearranged spoons by bear size (double seriation). The teacher recognized "the different stages they had reached in the development of their knowledge of seriation."
 

@@ -17,7 +17,7 @@ sources:
 # Four standardized teaching tasks (masks, balloons, homes and families, games) plus snack-time observation, designed to elicit stylistic variation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes a set of teaching tasks developed to elicit variation in teaching behavior along the scales of control, approach and value. Thirty tasks were developed by six experienced observers; the four selected for the pilot were masks (a fantasy task with a distribution problem, only six masks per class), balloons (a play-oriented task with possible scientific applications), games (dodge-ball with competition), and homes and families (discussion with elaboration and interaction), plus non-filmed snack-time observation of each class. Tasks ranged from completely open-ended activities to highly structured sequences, and each came with materials lists, instructions to teachers, rationale, and guiding questions about how the teacher handles control, frustration, aggression, and competition.

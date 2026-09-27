@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 2
     n: 37 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: minner-et-al-2010
     resource: "https://doi.org/10.1002/tea.20347"
     title: "Minner, D. D., Levy, A. J., & Century, J. (2010). Inquiry‐based science instruction—what is it and does it matter? Results from a research synthesis years 1984 to 2002. *Journal of Research in Science Teaching, 47*(4), 474–496. [doi:10.1002/tea.20347](https://doi.org/10.1002/tea.20347)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 138 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Teacher Guided Inquiry Outperforms Student Led
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 
 The claim concerns the comparison between teacher-guided (scaffolded) forms of inquiry and minimally guided, student-led discovery: guidance from a teacher or instructional materials tends to produce stronger learning outcomes, particularly for novices.
 
@@ -43,7 +47,7 @@ The claim concerns the comparison between teacher-guided (scaffolded) forms of i
 
 Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and Quasi-Experimental Studies of Inquiry-Based Science Teaching: A Meta-Analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)
 
-`q4 · meta-analysis of experimental/quasi-experimental studies` · `i2 · medium effect, g = 0.4` · `n=37 studies`
+`q4 · meta-analysis of experimental/quasi-experimental studies` · `i2 · medium effect, g = 0.4` · `n=37 studies` · `quant-synthesis · r?`
 
 This meta-analysis coded 37 experimental and quasi-experimental studies of inquiry-based science teaching published 1996–2006, distinguishing cognitive features of the activity from the degree of guidance given to students. The overall mean effect size on student learning was .50. Studies with teacher-led activities had mean effect sizes about .40 larger than those with student-led (unguided) conditions, and studies emphasizing epistemic activities or a combination of procedural, epistemic, and social activities showed the highest effects.
 
@@ -51,7 +55,7 @@ This meta-analysis coded 37 experimental and quasi-experimental studies of inqui
 
 Minner, D. D., Levy, A. J., & Century, J. (2010). Inquiry‐based science instruction—what is it and does it matter? Results from a research synthesis years 1984 to 2002. *Journal of Research in Science Teaching, 47*(4), 474–496. [doi:10.1002/tea.20347](https://doi.org/10.1002/tea.20347)
 
-`q3 · research synthesis (mixed-methods)` · `i? · no pooled standardized effect size reported` · `n=138 studies`
+`q3 · research synthesis (mixed-methods)` · `i? · no pooled standardized effect size reported` · `n=138 studies` · `quant-synthesis · r?`
 
 This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing the impact of inquiry-based science instruction on K–12 student outcomes, using a conceptual framework to define "inquiry-based" instruction and a mixed-methods analysis of numerical and text data. It found a clear, positive trend favoring inquiry-based instructional practices — particularly instruction emphasizing active student thinking and drawing conclusions from data — over more passive instructional strategies, for building conceptual understanding. No overall quantitative effect size across studies is reported.
 

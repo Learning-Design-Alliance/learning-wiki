@@ -15,12 +15,14 @@ sources:
     author: Junhong Ren
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # College English writing instruction for non-English majors in China faces reduced class hours, no dedicated writing course, and test-driven assessment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` English class hours have been reduced by 1/4, 1/3 or even 1/2, writing must be taught in intensive reading classes, and multiple-choice-heavy assessment distracts students from writing improvement. [→ Junhong Ren 2017](#junhong-ren-2017)
@@ -31,7 +33,7 @@ sources:
 
 Junhong Ren. (2017). College English Writing Instruction for Non-English Majors in Mainland China: The “Output-Driven, Input-Enabled” Hypothesis Perspective. English Language Teaching, 10(7). https://doi.org/10.5539/elt.v10n7p150
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author’s descriptive account of current conditions in mainland China: reduced class hours, no compulsory writing course for non-English majors, multiple-choice-dominated testing, and teachers who “seldom teach English writing in class because of the tight teaching schedule”. No empirical data are offered.
 

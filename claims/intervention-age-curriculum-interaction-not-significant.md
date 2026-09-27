@@ -14,12 +14,14 @@ sources:
     author: Bautista, R. G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The interaction of interventions with age and curricular undertaking is not significant at the .05 level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The interaction between classroom pedagogical interventions and the age and curricular undertakings of respondents was analyzed with estimated marginal means and was not significant at the .05 level (F = 2.487, p = .098 at .10 level). [→ Bautista 2015](#bautista-2015)
@@ -30,7 +32,7 @@ sources:
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 ANCOVA interaction term (age * curriculum) in the same study of 48 students; Table 3 prints p = .096 while the running text prints p = .098, an inconsistency in the article. Figure 2 shows estimated marginal means with covariate value 7.92.
 

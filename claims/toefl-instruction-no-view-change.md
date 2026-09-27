@@ -15,12 +15,14 @@ sources:
     author: Ali Panahi
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # TOEFL-materials instruction did not change learners' views toward TBLT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After TOEFL-materials instruction, the TI group's views toward TBLT remained significantly different from teachers' views, indicating the treatment did not affect the TI group's views. [→ Ali Panahi 2012](#ali-panahi-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ali Panahi. (2012). Binding Task-Based Language Teaching and Task-Based Language Testing: A Survey into EFL Teachers and Learners' Views of Task-Based Approach. English Language Teaching, 5(2). https://doi.org/10.5539/elt.v5n2p148
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Post-treatment t-test (Table 8) comparing teachers' (n = 32, mean 18.94) and TI group's (n = 235, mean 8.76) TBLT views; the study reports the TOEFL-materials treatment did not affect the TI group's views toward TBLT.
 

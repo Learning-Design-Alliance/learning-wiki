@@ -17,7 +17,7 @@ sources:
 # Concept/semantic map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 5 studies (2 quant-synthesis, 2 theoretical, 1 causal), `q1`–`q4` · 3 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 A graphic organizer in which concepts are represented as nodes and their relationships as labeled or positional links. In the article it appears as student frame maps and skeletal templates, and can be provided complete as an advance organizer or given partially completed for students to fill in during mapping exercises.

@@ -15,12 +15,14 @@ sources:
     author: Nilsson, Ingrid
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Teachers experienced the theory of variation as a new way of thinking compared to variation in methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participating teachers reported that using the theory of variation was a new way of thinking compared to varying methods. [→ Nilsson 2008](#nilsson-2008)
@@ -31,7 +33,7 @@ sources:
 
 Nilsson, Ingrid. (2008). Alignment in teacher education and distribution of leadership: An example concerning learning study. Forum on Public Policy. https://eric.ed.gov/?id=EJ1099542
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Teacher reports from the learning study course: the shift from varying teaching methods to varying critical aspects of the learning object was experienced as new. The article attributes to Marton, Runesson and Tsui (2004) the view that this shift in perspective is crucial for teachers' competence development.
 

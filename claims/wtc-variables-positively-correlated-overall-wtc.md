@@ -15,12 +15,14 @@ sources:
     author: Lepore, C. E.
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` All Part 2 variables were positively associated with overall WTC in all three activities; L2-related confidence and overall WTC correlated at r = .70 (p < .001) at the study's onset, and coefficients ranged from .69 to .82 (p < .001) by VT3. [→ Lepore 2014](#lepore-2014)
@@ -32,7 +34,7 @@ sources:
 
 Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 Pearson correlational analysis of changes in participants' WTC self-assessment scores across the three VoiceThread activities. The article reports positive relationships between individual influences and overall WTC in all three activities, with motivation, perceived performance, and self-confidence showing coefficients from .69 to .75 (p < .001) in VT2 and .69 to .82 (p < .001) in VT3.
 

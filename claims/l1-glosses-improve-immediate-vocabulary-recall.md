@@ -15,12 +15,14 @@ sources:
     author: "Cheng, Y.-H., & Good, R. L."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` L1-gloss-L2-ex, L1-in-text-gloss, and L1-MG-gloss conditions each produced significantly higher immediate vocabulary recall scores than the no-gloss control group. [→ Cheng 2009](#cheng-2009)
@@ -31,7 +33,7 @@ sources:
 
 Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ reading comprehension and vocabulary retention. Reading in a Foreign Language, 21(2), 119–142. http://nflrc.hawaii.edu/rfl
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Posttest comparison of 135 Taiwanese undergraduates randomly assigned within intact classes to three gloss conditions or control. VocTest 1 means were 9.94 (L1-gloss-L2-ex, t = 4.441, p = .000), 9.58 (L1-in-text-gloss, t = 3.917, p = .000), and 8.07 (L1-MG-gloss, t = 2.656, p = .011) versus 5.48 for control, showing "significantly higher than the no-gloss control group".
 

@@ -15,12 +15,14 @@ sources:
     author: Tuck, Kathy D.; And Others
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only slightly more than one-half (54.6%) of school staff participated in formal training, with 58.8% of classroom teachers non-participants, while 82.5% of building-team members received training. [→ Tuck 1994](#tuck-1994)
@@ -32,7 +34,7 @@ sources:
 
 Tuck, Kathy D.; And Others. (1994). Training for the Special Education Service Delivery Model. Evaluation. District of Columbia Public Schools. https://eric.ed.gov/?id=ED377631
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey findings on training participation and hours (Tables 2, A-2 through A-6). The report found "more than one-half (58.8%) of classroom teachers being non-participants", most trained staff received 8 hours or less, and significant differences in hours by team membership and staff position.
 

@@ -15,12 +15,14 @@ sources:
     author: C. A. Ogilvie
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Word-frequency changes in reflections suggest a shift away from given-information-based strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Words tied to using given information dropped sharply in frequency (information -40%, physics -34%, need -34%, given -30%) while exploratory verbs rose (look +23%, try +7%). [→ C. A. Ogilvie 2006](#c-a-ogilvie-2006)
@@ -31,7 +33,7 @@ sources:
 
 C. A. Ogilvie. (2006). Impact of Context-Rich, Multifaceted Problems on Students' Attitudes Towards Problem-Solving. https://www.physics.iastate.edu
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 TAPoR text-analysis of the 20 highest-frequency words in pre-course reflections, tracked into post-course reflections. The article calls interpretation difficult and offers the decrease in given-information words as possibly reflecting a decrease in information-content-based strategies.
 

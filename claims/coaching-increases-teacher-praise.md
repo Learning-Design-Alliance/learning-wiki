@@ -15,12 +15,14 @@ sources:
     author: "Carmouche, M., & Thompson, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Teacher praise increased in every reviewed study that coached teachers to increase praise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Over half of the reviewed studies used teacher praise as a dependent variable, and in each such study teacher praise increased with the coaching intervention. [→ Carmouche 2018](#carmouche-2018)
@@ -31,7 +33,7 @@ sources:
 
 Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review synthesis of the Results section: studies using teacher praise as a dependent variable, over 56% of the review, reported praise increases under coaching; one study also found increased higher level questioning and decreased general nonspecific praise.
 

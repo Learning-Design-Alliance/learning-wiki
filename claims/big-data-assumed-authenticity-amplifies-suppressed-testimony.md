@@ -15,12 +15,14 @@ sources:
     author: Haarman, Susan
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Big Data can amplify suppressed testimony because its sheer size lends it assumed authenticity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Datafication can surface and make visible the suppressed testimony of previously dismissed groups, acting as a virtual foot in the door for their voices. [→ Haarman 2021](#haarman-2021)
@@ -31,7 +33,7 @@ sources:
 
 Haarman, Susan. (2021). The Data Should Not Speak for Itself: Epistemic Injustice and Data as Rhetoric. Philosophical Studies in Education 52. https://www.ovpes.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the section on datafication and testimonial injustice: data renders epistemic sources visible in a way that cannot be ignored, illustrated with students demanding campus safety stop data. The article calls Big Data "a sort of virtual \"foot in the door\"" for dismissed voices.
 

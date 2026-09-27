@@ -17,7 +17,7 @@ sources:
 # DIALANG web-based diagnostic assessment tool
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 DIALANG is a free, adaptive diagnostic web-based assessment tool that "provides test-takers with scores related to the Common European Framework of Reference for Languages (CEFR)" and "provides feedback and advice on how to move towards the next CEFR level". The article uses its structure section as a diagnostic tool to identify learners' grammatical problems (modals and prepositions) as target structures for DA sessions. The article characterizes it as a non-dynamic test whose feedback is not attuned to learners' ZPD.

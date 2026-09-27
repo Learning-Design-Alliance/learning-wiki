@@ -15,12 +15,14 @@ sources:
     author: "Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Participants' mapped CEFR levels moved upward: pre-test scores ranged between B1 and B2 while post-test scores ranged between B2 and C1. [→ Tangkiengsirisin 2025](#tangkiengsirisin-2025)
@@ -31,7 +33,7 @@ sources:
 
 Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2025). The effects of role-playing gamification on business vocabulary learning and motivation: A study of language learning mobile application for Thai undergraduate students. LEARN Journal: Language Education and Acquisition Research Network, 19(1), 464-486. https://doi.org/10.70730/UFRC4620
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive comparison of the same 21 participants' pre- and post-test scores mapped to CEFR bands shows "a shift in test scores to higher CEFR levels"; minimum scores rose from 7 to 21 and maximum from 21 to 30 out of 30 items.
 

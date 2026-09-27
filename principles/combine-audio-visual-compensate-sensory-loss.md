@@ -17,7 +17,7 @@ sources:
 # Compensate for age-related sensory impairments by combining audio input with visual presentation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The digest notes that hearing loss and declining visual acuity affect many people as they age and can interfere with learning, particularly understanding speech in the presence of background noise. It recommends that the classroom environment compensate for visual or auditory impairments "by combining audio input with visual presentation of new material, good lighting, and elimination of outside noise". Hearing and vision problems are not restricted exclusively to the older learner.

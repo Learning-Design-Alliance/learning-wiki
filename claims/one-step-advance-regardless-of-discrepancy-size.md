@@ -15,18 +15,22 @@ sources:
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: snyder-1975-2
     resource: "https://eric.ed.gov/?id=ED118211"
     title: "Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211"
     author: "Snyder, S. S. & Feldman, D. H."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The +1 versus +2 comparison on adjusted posttest Map Drawing Mean revealed no significant difference. [→ Snyder 1975](#snyder-1975)
@@ -38,7 +42,7 @@ sources:
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Orthogonal 1-df contrasts on adjusted posttest Map Drawing Mean showed +1 and +2 together exceeded 0, but "the +1 versus +2 comparison revealed aninsignificant difference between these two treatments" (F1,53=.16, p>.50). The same null held at delayed posttest.
 
@@ -48,7 +52,7 @@ Orthogonal 1-df contrasts on adjusted posttest Map Drawing Mean showed +1 and +2
 
 Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of Internal and External Disequilibrium on Spatial Reasoning Development. https://eric.ed.gov/?id=ED118211
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Among the 63 subjects, "All subjects advancingin.Modal Level after treatmentdid so to level four, i.e. to +1." A binomial test rejected the null that movements to +1 or +2 were equally probable among +2 advancers (p=.007).
 

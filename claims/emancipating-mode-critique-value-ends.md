@@ -15,12 +15,14 @@ sources:
     author: Lai, Su-Huei
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Emancipating problem-solving action critiques norms back to underlying ideology to seek morally defensible consensus value ends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Within the MPSA framework, emancipating action traces behavioral norms back to underlying ideology through dialectical interaction and takes social action to ensure reasonable, morally defensible, consensus value ends. [→ Lai 2002](#lai-2002)
@@ -31,7 +33,7 @@ sources:
 
 Lai, Su-Huei. (2002). Cone-Deciphered Modes of Problem Solving Action (MPSA Cone): Alternative Perspectives on Diversified Professions. https://eric.ed.gov/?id=ED468444
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual definition of the emancipating mode at the widened base of the MPSA Cone, described as a critique format tracing behavioral norms to underlying ideology. The article says such complexity requires critical thinking and psychoanalytical capability; no empirical data are reported.
 

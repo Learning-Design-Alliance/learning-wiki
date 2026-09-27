@@ -15,12 +15,14 @@ sources:
     author: Tims, Albert R., Jr
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Over-time consistency of newspaper reading rises to roughly adult levels by age 13
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Over-time consistency of children's newspaper reading increases from .34 at age 10 to .80 at age 13, becoming essentially equivalent to the adult baseline (.76). [→ Tims 1983](#tims-1983)
@@ -31,7 +33,7 @@ sources:
 
 Tims, Albert R., Jr. (1983). Development of Public Affairs Media Use. https://eric.ed.gov/?id=ED238044
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 Over-time correlations between winter and fall waves by child age, with parental autocorrelation (.76) as baseline. The article reports consistency rising from .34 to a high of .80, with the overall 10-17 correlation .62 (p < .001).
 

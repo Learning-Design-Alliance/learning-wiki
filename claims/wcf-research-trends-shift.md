@@ -15,12 +15,14 @@ sources:
     author: Liu, W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Early WCF research keywords were accuracy and error correction; later research emphasized efficacy of direct, indirect and metalinguistic WCF and comprehensive versus focused scope, then teacher practices and beliefs, student perception and motivation, and most recently student engagement and automated writing feedback. [→ Liu 2025](#liu-2025)
@@ -31,7 +33,7 @@ sources:
 
 Liu, W. (2025). A bibliometric analysis of written corrective feedback in second language writing. Language Teaching Research Quarterly, 49, 133-150. https://doi.org/10.32038/ltrq.2025.49.07
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Interpretation of the Citespace timezone map (Figure 5) of keyword distribution 2014–2024. The review reports early keywords were "accuracy" and "error correction", followed by efficacy studies of WCF strategies and scope, then teacher practices, perception and motivation, and most recently engagement and automated feedback.
 

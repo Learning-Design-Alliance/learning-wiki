@@ -16,7 +16,7 @@ sources:
 # Engagement Framework: five distinct yet interrelated, non-hierarchical dimensions of student engagement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Engagement Framework addresses how students engage, offering "five distinctive, non-hierarchical dimensions of engagement that are fundamental to students’ success at university": personal, academic, intellectual, social, and professional. Environmental principles underpin it, including that staff engagement is essential before students can engage. The dimensions intersect, so different elements may be prominent at different points of study, and the Framework can be used by unit developers for design and by students to take ownership of their learning.

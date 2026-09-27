@@ -15,18 +15,22 @@ sources:
     author: Gradin, Sherrie
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: gradin-1998-2
     resource: "https://eric.ed.gov/?id=ED422588"
     title: "Gradin, Sherrie. (1998). Inscribing Our Work as WPAs: Gendered Bodies and Conflict as Physical Trope. ERIC. https://eric.ed.gov/?id=ED422588"
     author: Gradin, Sherrie
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Composition studies and the WPA position are feminized, and male WPAs remain in a feminized position within the academic hierarchy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The field of composition and the WPA position are constructed as feminized, and male WPAs share this feminized position because of composition's place in the academic superstructure. [→ Gradin 1998](#gradin-1998)
@@ -38,7 +42,7 @@ sources:
 
 Gradin, Sherrie. (1998). Inscribing Our Work as WPAs: Gendered Bodies and Conflict as Physical Trope. ERIC. https://eric.ed.gov/?id=ED422588
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's theoretical argument about the gendered academic hierarchy, in which she ranks men in the humanities, literature, and composition by degree of feminization and places the hard sciences as most "manly." An interpretive claim, not an empirical test.
 
@@ -48,7 +52,7 @@ The author's theoretical argument about the gendered academic hierarchy, in whic
 
 Gradin, Sherrie. (1998). Inscribing Our Work as WPAs: Gendered Bodies and Conflict as Physical Trope. ERIC. https://eric.ed.gov/?id=ED422588
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper attributes the feminization evidence to second-hand sources: Holbrook's 1988 4Cs study on women's numbers in composition and part-time positions, Connors's "Rhetoric in the University: The Creation of an Underclass," and Susan Miller's "The Feminization of Composition." The underlying studies were not read directly.
 

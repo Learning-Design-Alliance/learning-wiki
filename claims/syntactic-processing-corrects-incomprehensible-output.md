@@ -15,18 +15,22 @@ sources:
     author: Yu Liming
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: yu-liming-1990-2
     resource: "https://eric.ed.gov/?id=EJ420159"
     title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
     author: Yu Liming
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Syntactic rather than semantic processing of input is essential for correcting incomprehensible output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Correcting incomprehensible output required grammatical analysis of input structure, as when journal review revealed the need for "have the telephone installed" instead of "install the telephone". [→ Yu Liming 1990](#yu-liming-1990)
@@ -38,7 +42,7 @@ sources:
 
 Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Diary self-study: after misusing "fix" and "establish" for "install", only journal review with grammatical analysis revealed the correct pattern, showing a transition "from semantic processing of input to syntactic processing" requiring conscious effort.
 
@@ -48,7 +52,7 @@ Diary self-study: after misusing "fix" and "establish" for "install", only journ
 
 Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Diary self-study enumerating four situations for eliminating incomprehensible output, illustrated by the "fix", "move us", "ease up" and "drop the party" journal examples; the author states attention to form was necessary in all of them.
 

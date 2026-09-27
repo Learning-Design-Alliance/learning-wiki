@@ -15,12 +15,14 @@ sources:
     author: "Warr, M. & West, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students were motivated by the nature of the problem to be solved rather than by course grades, rating personal motivation beyond a grade at 4.15 (SD = 1.00) and responsibility for their work at 4.45 (SD = 0.81). [→ Warr 2020](#warr-2020)
@@ -31,7 +33,7 @@ sources:
 
 Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Postpositivist qualitative study (2014–2016) using interviews, observations, and Likert surveys of studio students across disciplines. End-of-course surveys showed "students rated their deep, personal motivation an average of 4.15 (SD = 1.00)" and responsibility at 4.45 (SD = 0.81) on a 1–5 scale; students attributed motivation to world impact, authentic career-relevant work, autonomy, and outside collaboration.
 

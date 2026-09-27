@@ -15,12 +15,14 @@ sources:
     author: Felton, Victoria; Petersen, Rosemary
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Preoperational children judge quantity by appearance, judging there is more clay in a lengthened sausage shape
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children in the preoperational stage typically say there is more clay in the elongated sausage than in the ball, because they center on length and have not yet developed conservation of quantity. [→ Felton 1976](#felton-1976)
@@ -31,7 +33,7 @@ sources:
 
 Felton, Victoria; Petersen, Rosemary. (1976). Piaget: A Handbook for Parents and Teachers of Children in the Age of Discovery--Preschool Through Third Grade. https://eric.ed.gov/?id=ED131912
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The handbook reports Piaget's classic clay-ball task: two equal balls of clay, one rolled into a sausage while the child watches, then the child asked whether there is more, less, or the same amount. Children "usually said there was more in the sausagebecause it was longer," centering on one dimension. No sample sizes or statistics are printed.
 

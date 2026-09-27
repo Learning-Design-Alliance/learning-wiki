@@ -15,12 +15,14 @@ sources:
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The digest asserts that the "inaccurate perception" of minority students' home-based deficiencies has too often led to lowered academic expectations; it offers no evidence for this in the text. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -31,7 +33,7 @@ sources:
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 Stated as the digest's opening premise: the deficit perception "has too often led to lowered academic expectations for these students." The digest offers no evidence or argument for this assertion beyond stating it; it is coded as an unsupported assertion.
 

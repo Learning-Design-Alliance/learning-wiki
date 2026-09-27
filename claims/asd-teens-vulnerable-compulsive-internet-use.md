@@ -13,12 +13,14 @@ sources:
     title: risk-fixation
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Adolescents with ASD may become compulsive internet users, struggle to shift from gaming to daily activities, and lose opportunities to practice social communication skills in person. [→ risk-fixation](#risk-fixation)
@@ -29,7 +31,7 @@ sources:
 
 Clinard, A. (2016, February). Internet Safety for Teens with ASD (Autism at-a-Glance Brief). Chapel Hill: The University of North Carolina, Frank Porter Graham Child Development Institute, CSESA Development Team. https://csesa.fpg.unc.edu/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 A practitioner brief asserts, without cited data, that teens with ASD are "vulnerable to becoming compulsive internet users" and that compulsive use reduces chances to practice social communication skills.
 

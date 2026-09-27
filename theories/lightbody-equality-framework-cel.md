@@ -16,7 +16,7 @@ sources:
 # Lightbody's four-element framework of equality in community-engaged learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies, `q1` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (1 qualitative, 1 design), `q1` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Lightbody's (2017) framework structures equality in CEL around four interrelated elements: "power-sharing and rep- resentation, partnerships, bureaucracy, and funding and resources". The article adopts it because it is based on a large literature study around CEL and is presented as a practical guideline to enhance equality in CEL. The authors use it as a priori themes to structure their autoethnographic analysis of the CHARM-EU Capstone and to identify gaps and opportunities for equality and reciprocity in ICEL.

@@ -16,7 +16,7 @@ sources:
 # Task-based language teaching framework with six systematic components and three lesson stages
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article presents task-based language teaching (TBLT) as the strong version of communicative language teaching, whose central element is the task. It states that tasks "can be effectively arranged, implemented and assessed grounded upon the systematic components including goals, input, setting, activities, roles, and feedback," and that task-based lesson design involves pre-task, during task, and post-task stages. Goals are the task's objectives, input is the verbal or non-verbal materials learners engage with, setting is the task context, activities are what learners do, roles make teachers and learners facilitative rather than interfering, and washback concerns task evaluation.

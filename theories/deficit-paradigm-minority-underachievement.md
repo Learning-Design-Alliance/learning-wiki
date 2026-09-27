@@ -16,7 +16,7 @@ sources:
 # Deficit paradigm: minority underachievement explained by deficits the child brings to school
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 against) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 against) · 2 studies (1 review, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The Deficit paradigm, as the review describes it via Pianta and Walsh, locates minority underachievement in the child, who "comes to school with a deficit, whether biological, genetic, or cultural". The review credits it with enabling special education programs and Head Start-style interventions that provided learning environments, parent involvement, and health services, but judges it inadequate because it presents an "inaccurate and invidious view of non-dominant groups and their cultures".

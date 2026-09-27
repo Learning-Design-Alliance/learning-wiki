@@ -15,12 +15,14 @@ sources:
     author: Criterion Referenced Measurement in Reading
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Criterion-referenced measurement indicates mastery or absence of a defined skill rather than relative standing among test takers. [→ Criterion Referenced Measurement in Reading 1974](#criterion-referenced-measurement-in-reading-1974)
@@ -31,7 +33,7 @@ sources:
 
 Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r?`
 
 The article's conceptual discussion of criterion-referenced measurement explains its anchoring: "one at the top indicating complete or perfect mastery of some defined abilities; one at the bottom indicating absence of some skills." No empirical comparison is reported; this is the article's definitional account.
 

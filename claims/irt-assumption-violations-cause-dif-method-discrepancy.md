@@ -15,12 +15,14 @@ sources:
     author: Holweger, Nancy; Weston, Timothy
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The assessment measures multiple constructs (science plus reading and math items, six domains) and groups related items (soil tests, levers, salinity), violating unidimensionality and local independence. [→ Holweger 1998](#holweger-1998)
@@ -31,7 +33,7 @@ sources:
 
 Holweger, Nancy; Weston, Timothy. (1998). Differential Item Functioning: An Applied Comparison of the Item Characteristic Curve Method with the Logistic Discriminant Function Method. https://eric.ed.gov/?id=ED422362
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Authors' diagnostic discussion (type e): five items assess science and reading concurrently, seven science and math, and items cluster into soil-test, lever, and salinity content sets, so related items "cannot actually be considered separate items in the item response theory sense." They conclude the ICC method's errors are more likely affected than LDF's.
 

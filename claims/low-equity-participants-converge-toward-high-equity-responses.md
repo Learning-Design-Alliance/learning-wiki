@@ -15,12 +15,14 @@ sources:
     author: "Littenberg-Tobias, J., Borneman, E., & Reich, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Low-equity participants' simulation responses converged over successive simulations toward those of a high-equity reference group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants with less-equitable beliefs at the beginning of the course converged over time with participants with initially higher equitable beliefs in terms of the topics identified in their simulation responses, suggesting they were applying similar approaches by the end of the course. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)
@@ -31,7 +33,7 @@ sources:
 
 Littenberg-Tobias, J., Borneman, E., & Reich, J. (2021). Measuring Equity-Promoting Behaviors in Digital Teaching Simulations: A Topic Modeling Approach. AERA Open. https://doi.org/10.1177/23328584211045685
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Distance-metric analysis comparing low-equity (LE) participants' topic distributions to a high-equity (HE) reference group (top quartile on the precourse equity survey) across four sequential simulations. The Results text reports convergence; the abstract prints an effect size of 1.08 SD for this convergence.
 

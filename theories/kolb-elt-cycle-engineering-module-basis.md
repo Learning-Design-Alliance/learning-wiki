@@ -15,7 +15,7 @@ sources:
 # Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Kolb's experiential learning theory (ELT) as the fundamental pedagogy of a Heat Transfer learning module. The model depicts "two related modes of grasping experience (Concrete Experince and Abstract Conceptualization) and two related models of transforming experience (Reflective Observation and Active Experimentation)", forming a four-stage cycle that begins with concrete experience and ends with active experimentation, in which students transfer generated knowledge into practicum.

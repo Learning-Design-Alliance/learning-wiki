@@ -15,12 +15,14 @@ sources:
     author: "Furukawa, J. M., Sumpter, K., & Cohen, N."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # High CPC students outperform low CPC students only on the delayed posttest under the chunking method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` High cognitive processing capacity students were significantly better than low CPC students on the delayed posttest only, with mean scores of 8.38 and 7.76. [→ Furukawa 1978](#furukawa-1978)
@@ -31,7 +33,7 @@ sources:
 
 Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Extreme-groups comparison of high versus low CPC students in the retention study class on the delayed posttest. The article reports a significant difference favoring high CPC students with means of 8.38 and 7.76, on the delayed posttest only.
 

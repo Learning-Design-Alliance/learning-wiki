@@ -15,12 +15,14 @@ sources:
     author: El-Koumy, Abdel Salam A.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Posttest reading comprehension differed significantly across the three semantic mapping conditions overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The omnibus one-way ANOVA on posttest scores was significant (f = 80.11, p < 0.05), prompting pairwise t-tests among the three treatment groups. [→ El-Koumy 1999](#el-koumy-1999)
@@ -31,7 +33,7 @@ sources:
 
 El-Koumy, Abdel Salam A. (1999). Effects of Three Semantic Mapping Strategies on EFL Students' Reading Comprehension. https://eric.ed.gov/?id=ED435193
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus one-way ANOVA on posttest TOEFL reading comprehension scores for the 187 completers across the three treatment conditions; the significant F-ratio led to the three pairwise t-tests reported in Table 3.
 

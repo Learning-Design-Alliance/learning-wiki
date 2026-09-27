@@ -15,12 +15,14 @@ sources:
     author: Emel Saritaş
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Majority of classroom teachers have a facilitator teaching style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 54.8% of surveyed classroom teachers have a facilitator teaching style, the most common style. [→ Emel Saritaş 2016](#emel-saritas-2016)
@@ -31,7 +33,7 @@ sources:
 
 Emel Saritaş. (2016). Relationship between philosophical preferences of classroom teachers and their teaching styles. Educational Research and Reviews. https://doi.org/10.5897/ERR2016.2787
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey of 301 classroom teachers; teaching styles scored low/medium/high on the Grasha-Reichmann Teaching Style Questionnaire, with high levels used to assign each teacher's style. The printed distribution shows "Majority of teachers (54.8%) have facilitator teaching style".
 

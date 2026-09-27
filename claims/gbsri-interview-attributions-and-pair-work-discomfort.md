@@ -15,12 +15,14 @@ sources:
     author: "Wiboonwachara, L., & Charubusp, S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` All six interviewees credited explicit genre instruction, collaborative scaffolding, and self-regulated writing processes for their improvement, but some reported discomfort or difficulty in pair and group work. [→ Wiboonwachara 2022](#wiboonwachara-2022)
@@ -31,7 +33,7 @@ sources:
 
 Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Semi-structured interviews with six students stratified by pre-test ability (high, medium, low); content analysis with inter-coder reliability Cohen's kappa = 0.71 (p < .001). Some interviewees "had felt uncomfortable working in pairs or in larger groups".
 

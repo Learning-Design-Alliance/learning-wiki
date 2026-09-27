@@ -15,12 +15,14 @@ sources:
     author: Saçkes, M.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` 63% of 46 kindergartners held initial (naïve) mental models, and the distance model (sun moving back-and-forth from earth) was the most common, held by 17 children (37%). [→ Saçkes 2015](#sackes-2015)
@@ -31,7 +33,7 @@ sources:
 
 Saçkes, M. (2015). Kindergartners' Mental Models of the Day and Night Cycle: Implications for Instructional Practices in Early Childhood Classrooms. Educational Sciences: Theory & Practice, 15(4), 997-1006. https://doi.org/10.12738/estp.2015.4.2741
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Descriptive interview study of 46 kindergartners (22 boys, 24 girls, mean age 67 months) from three state preschools in Balıkesir, coded with model identification methodology (κ=0.85). The results section reports "The majority of the children (63%) had initial (naïve) mental models" and the distance model most common; Table 3 shows 17 children (37%) held the distance model.
 

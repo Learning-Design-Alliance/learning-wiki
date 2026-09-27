@@ -16,7 +16,7 @@ sources:
 # Modelos externos e internos (vivenciales) como dos representaciones complementarias del ciclo día-noche
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 El artículo distingue dos representaciones del movimiento aparente del Sol: el modelo externo, en el que un observador fuera de la Tierra ve el planeta rotar con el Sol fijo, y el modelo interno o vivencial, en el que "la Tierra permanece inalterada y es el Sol el que aparentemente se mueve por el cielo". La secuencia guía a los alumnos en una transición lenta y reflexiva entre ambos modelos, usando la esfera de telgopor iluminada y luego la maqueta.

@@ -15,12 +15,14 @@ sources:
     author: "Wee, L. K., & Lee, T. L."
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors' initial findings from using Tracker with their students suggest video modeling pedagogy suits active and deep learning because students predict by keying values, observe by comparing real data with the model, and explain by choice of values. [→ Wee 2011](#wee-2011)
@@ -31,7 +33,7 @@ sources:
 
 Wee, L. K., & Lee, T. L. (2011). Video Analysis and Modeling Tool for Physics Education. Paper presented at the 4th Redesigning Pedagogy International Conference, Singapore. http://weelookang.blogspot.com/2011/05/video-analysis-and-modeling-tool-for.html
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 The authors' own classroom experience using Tracker with their students, framed as initial findings (citing White & Gunstone's predict-observe-explain). Even incorrect models support data driven social discussions via multiple representational views. No systematic data are reported.
 

@@ -15,12 +15,14 @@ sources:
     author: "Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Browsing term lists (selection mode) helps searchers who do not know the exact query term
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Continuous scrolling through alphabetical term lists is valuable because users do not always know the exact query term or author name. [→ Epstein 1994](#epstein-1994)
@@ -31,7 +33,7 @@ sources:
 
 Epstein, Jonathan A., Kans, Jonathan A., & Schuler, Gregory D. (1994). WWW Entrez: A Hypertext Retrieval Tool for Molecular Biology. https://eric.ed.gov/?id=ED462262
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The authors' ergonomic analysis of the Entrez interface reports, from experience, that "selection mode" scrolling of alphabetical term lists is valuable because "users don't always know the exact query term or author name". No effect size is reported.
 

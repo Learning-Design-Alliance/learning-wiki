@@ -15,6 +15,8 @@ sources:
     q: 3
     i: "?"
     n: 20 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: rosenshine-et-al-1996
     resource: "https://doi.org/10.3102/00346543066002181"
     title: "Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching Students to Generate Questions: A Review of the Intervention Studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)"
@@ -22,6 +24,8 @@ sources:
     q: 3
     i: 1
     n: studies not counted in abstract
+    kind: quant-synthesis
+    rigour: "?"
   - id: tobin-1987
     resource: "https://doi.org/10.3102/00346543057001069"
     title: "Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)"
@@ -29,12 +33,14 @@ sources:
     q: 3
     i: "?"
     n: multiple studies across grade levels/subjects, count not stated in abstract
+    kind: review
+    rigour: "?"
 ---
 
 # Questioning Strategies Improve Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r?` · `q3` · `i1` small
 
 Deliberate use of questions — posed before, during, or after instruction — improves learning by prompting retrieval, focusing attention, and stimulating elaboration. The scope of this claim covers teacher-posed and text-embedded questions across age groups and subject domains.
 
@@ -52,7 +58,7 @@ Deliberate use of questions — posed before, during, or after instruction — i
 
 Redfield, D. L., & Rousseau, E. W. (1981). A Meta-Analysis of Experimental Research on Teacher Questioning Behavior. *Review of Educational Research, 51*(2), 237–245. [doi:10.3102/00346543051002237](https://doi.org/10.3102/00346543051002237)
 
-`q3 · meta-analysis of 20 experimental studies (abstract only)` · `i? · no standardized effect size reported in what was read` · `n=20 studies`
+`q3 · meta-analysis of 20 experimental studies (abstract only)` · `i? · no standardized effect size reported in what was read` · `n=20 studies` · `quant-synthesis · r?`
 
 Synthesized 20 experimental studies on the relationship between teachers' use of "higher" cognitive questions (requiring learners to manipulate information to generate a response) versus "lower" cognitive questions (verbatim recall/recognition) and student achievement. Effect sizes were computed examining program monitoring and experimental validity as moderators. The synthesis concluded that achievement gains can be expected when higher-cognitive questions predominate during instruction. Only the publisher abstract was available (paywalled full text; not found via Unpaywall, Semantic Scholar, or ERIC), so no specific numeric effect size could be verified — the `i` code is left unestablished rather than guessed.
 
@@ -60,7 +66,7 @@ Synthesized 20 experimental studies on the relationship between teachers' use of
 
 Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching Students to Generate Questions: A Review of the Intervention Studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)
 
-`q3 · review/synthesis of intervention studies (abstract only)` · `i1 · small–medium effect, median d=0.36 (standardized tests)` · `n=studies not counted in abstract`
+`q3 · review/synthesis of intervention studies (abstract only)` · `i1 · small–medium effect, median d=0.36 (standardized tests)` · `n=studies not counted in abstract` · `quant-synthesis · r?`
 
 Reviewed intervention studies in which students were taught the cognitive strategy of generating their own questions about text as a comprehension aid (a self-questioning/text-embedded-questioning strategy, distinct from teacher-posed questions). Comprehension was measured on new material at the end of training. Across studies, question-generation training improved comprehension, with a median effect size of 0.36 (64th percentile) on standardized comprehension tests and 0.86 (81st percentile) on experimenter-developed tests; a traditional skill-based approach and a reciprocal-teaching approach produced similar results. Only the abstract was read (paywalled full text; not found via Unpaywall or Semantic Scholar), so the number of contributing studies is not confirmed and the `i` code reflects only the standardized-test figure the abstract states as a reported effect size.
 
@@ -68,7 +74,7 @@ Reviewed intervention studies in which students were taught the cognitive strate
 
 Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Review of Educational Research, 57*(1), 69–95. [doi:10.3102/00346543057001069](https://doi.org/10.3102/00346543057001069)
 
-`q3 · review/synthesis of classroom studies (abstract only)` · `i? · no standardized effect size reported in what was read` · `n=multiple studies across grade levels/subjects, count not stated in abstract`
+`q3 · review/synthesis of classroom studies (abstract only)` · `i? · no standardized effect size reported in what was read` · `n=multiple studies across grade levels/subjects, count not stated in abstract` · `review · r?`
 
 Reviewed studies of "wait time" — the duration of pauses separating utterances during teacher–student verbal interaction — across a range of subject areas and grade levels. When average wait time exceeded a threshold of about 3 seconds, both teacher and student discourse changed and higher-cognitive-level achievement gains were observed in elementary, middle, and high school science, and in middle school mathematics. The abstract frames wait time as facilitating higher-cognitive learning by giving teachers and students more time to think. Only the publisher abstract was available (paywalled full text; not found via Unpaywall or Semantic Scholar), so no standardized effect size could be confirmed from what was read.
 

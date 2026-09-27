@@ -17,7 +17,7 @@ sources:
 # Leigh Two-Way Bilingual Immersion Literacy in Two Languages program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A Title VII Grant-funded dual language program at Leigh Elementary School in Phoenix, Arizona, launched with a 1996-1997 planning year and in its second year of implementation at the time of study. Its objective was "to facilitate English acquisition while maintaining and furthering the native language skills of students," promoting bilingualism regardless of language proficiency status. The program used a 50-50 dual language immersion model in Spanish and English, with classrooms organized so each teacher used one language as the sole language of instruction.

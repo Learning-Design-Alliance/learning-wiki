@@ -15,18 +15,22 @@ sources:
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Group TDP showed statistically significant increases in SRL knowledge (β = 4.61; p < 0.001), the SRL overall score (β = 0.52; p < 0.001) and self-efficacy (β = 0.28; p < 0.01). [→ Bellhäuser 2022](#bellhauser-2022)
@@ -38,7 +42,7 @@ sources:
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned pre-to-post gain contrasts in the randomized trial: "for Group TDP, the increases in SRL knowledge (β = 4.61; p < 0.001), in the SRL overall score (β = 0.52; p < 0.001) and in self-efficacy (β = 0.28; p < 0.01)" were significant.
 
@@ -48,7 +52,7 @@ Planned pre-to-post gain contrasts in the randomized trial: "for Group TDP, the 
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same planned contrasts on the mathematics focus score (ten self-chosen chapters): "Group TDP showed statistically significant increases in the mathematics focus score (β = 1.23; p < 0.001)", unlike Group TD.
 

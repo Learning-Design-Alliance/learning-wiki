@@ -15,12 +15,14 @@ sources:
     author: Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Time constraints were the most cited reason for non-completion (47.3%), followed by course difficulty (27.7%), with differences across gender and race/ethnicity. [→ Huang 2025](#huang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive analysis of survey-reported reasons for non-persistence in the coursework phase (524 participants, select-all-that-apply). The article reports "47.3% of 524 participants citing" time constraints and 27.7% citing course difficulty.
 

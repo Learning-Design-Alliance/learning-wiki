@@ -15,12 +15,14 @@ sources:
     author: Wettersten, Kara B.; Lichtenberg, James W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The congruence-change and symptom-reduction relation does not hold at six-month follow-up
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No relationship was found between change in relational congruence and symptom reduction at the six-month post-treatment follow-up, on any role dimension. [→ Wettersten 1995](#wettersten-1995)
@@ -31,7 +33,7 @@ sources:
 
 Wettersten, Kara B.; Lichtenberg, James W. (1995). Relationship Formation and Change in Psychotherapy: An Analysis of Cases. https://eric.ed.gov/?id=ED386668
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 In the same seven-case rank-correlation analysis, pre-treatment to six-month follow-up SCL-90-R change scores showed no significant relation with redundancy change (Table 6 prints coefficients of .253, .186, and .550).
 

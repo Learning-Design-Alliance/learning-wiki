@@ -15,12 +15,14 @@ sources:
     author: Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish
     q: 1
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Game-based learning improved pharmacy students' literature searching course scores in one reported study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r?` · `q1`
 
 ## Subclaims
 `q1 i?` A game-based learning approach in a drug information course was followed by average literature searching scores increasing from 79.9% to 90.6% between 2021 and 2023, though credits were allocated based on task completion rather than search strategy quality. [→ Kapu H 2026](#kapu-h-2026)
@@ -31,7 +33,7 @@ sources:
 
 Kapu H, Shetty Veekshitha S, Rajendran Rajalakshmi, Sekhar M Sonal, Kunhikatta Vijayanarayana, Unnikrishnan B, Khan Sohil, Gunning Tiffany K, Athan Eugene, Saha Sajal K, Thunga Girish. (2026). Exploring educational approaches and strategies for developing evidence synthesis skills among pharmacy students: a scoping review protocol. BMJ Open. https://doi.org/10.1136/bmjopen-2026-119283
 
-`q1 · i?`
+`q1 · i?` · `review · r?`
 
 This is a second-hand report: the protocol's introduction attributes the finding to Whitney R and Wisniewski CS, describing a game-based learning approach in a drug information course with average scores increasing from "79.9% to 90.6% from 2021 to 2023". No effect size is printed; the protocol notes credits were allocated based on task completion rather than the quality of the search strategies developed.
 

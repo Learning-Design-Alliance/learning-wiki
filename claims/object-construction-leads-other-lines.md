@@ -15,12 +15,14 @@ sources:
     author: Hunt, J. McVicker
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Advances in object construction lead advances in other developmental lines when steps anchor the comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Using object-construction steps as anchor points instead of chronological age, Uzgiris found evidence that advances in object construction lead those in other lines, with four distinct structural levels. [→ Hunt 1973](#hunt-1973)
@@ -31,7 +33,7 @@ sources:
 
 Hunt, J. McVicker. (1973). Utility of Ordinal Scales Derived from Piaget's Observations. https://eric.ed.gov/?id=ED082854
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Reanalysis of Uzgiris's longitudinal study of 12 Worcester infants across four scales. Age-grouped intercorrelations revealed little, but anchoring on object-construction steps suggested object construction leads other lines and yielded four distinct levels spanning Piaget's Stages III through VI. No effect size printed.
 

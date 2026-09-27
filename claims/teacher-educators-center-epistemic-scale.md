@@ -15,12 +15,14 @@ sources:
     author: Wlodarsky, R. and Walters, H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Teacher educators scored near the center of the epistemic scale (means about 4.2-4.3), contrary to expectations of a highly constructivist orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The eight participants' item means fell around 4.2 to 4.3, slightly above average and slightly toward the constructivist orientation, not the expected 5.0-6.0 range. [→ Wlodarsky 2010](#wlodarsky-2010)
@@ -31,7 +33,7 @@ sources:
 
 Wlodarsky, R. and Walters, H. (2010). Use of the Reflective Judgment Model as a Reference Tool for Assessing the Reflective Capacity of Teacher Educators in a College Setting. i-manager's Journal of Educational Psychology. https://www.ncate.org/documents/standards/UnitStandardsMay07.pdf
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive analysis of the 95 coded cases from eight teacher educators found "a fairly small variability around a similar mean score of approximately 4.2 to 4.3" across the four Knowledge/Judgment item scores.
 

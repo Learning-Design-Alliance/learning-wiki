@@ -15,12 +15,14 @@ sources:
     author: "Shen, C.-Y., & O’Neil, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The worked example group improved significantly more than the control group on the problem-solving transfer question (adjusted posttest means 2.37 vs. 1.97). [→ Shen 2006](#shen-2006)
@@ -31,7 +33,7 @@ sources:
 
 Shen, C.-Y., & O’Neil, H. (2006). The Effectiveness of Worked Examples in a Game-Based Learning Environment. Paper presented at the annual meeting of the American Educational Research Association (AERA), San Francisco, CA. https://eric.ed.gov/?id=ED491961
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same randomized two-group SafeCracker experiment with 72 students. "The worked example group improved significantly more than the control group on the problem solving transfer question"; adjusted posttest means were 2.37 (SD = .14) vs. 1.97 (SD = .14). No test statistic or effect size is printed.
 

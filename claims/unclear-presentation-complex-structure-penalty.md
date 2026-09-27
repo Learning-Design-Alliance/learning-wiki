@@ -15,18 +15,22 @@ sources:
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 1
+    kind: causal
+    rigour: 1
   - id: snyder-1991-2
     resource: "https://eric.ed.gov/?id=ED331809"
     title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i1` With unclear lessons, the classical attribute group identified examples significantly better than the variable coordinate group. [→ Snyder 1991](#snyder-1991)
@@ -38,7 +42,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i1`
+`q3 · i1` · `causal · r1`
 
 Dunn-Sidak tests on example identification among unclear-lesson groups in the Results section. The article reports the classical attribute group outperformed the variable coordinate group (p<.05), with no other significant differences.
 
@@ -48,7 +52,7 @@ Dunn-Sidak tests on example identification among unclear-lesson groups in the Re
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Dunn-Sidak tests on the application measure among unclear-lesson groups. The article reports the constant successive structure significantly outperformed both other structures (p<.01 each).
 

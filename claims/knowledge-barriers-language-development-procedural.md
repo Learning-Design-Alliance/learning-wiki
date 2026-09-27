@@ -15,12 +15,14 @@ sources:
     author: "Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell"
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Knowledge domain was coded 43 times and identified as a barrier by 53.13% of coaches, spanning responsive conversation-partner knowledge and procedural knowledge of materials. [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)
@@ -31,7 +33,7 @@ sources:
 
 Tricia A. Zucker, Erin Jacbos & Sonia Q. Cabell (2021). Exploring Barriers to Early Childhood Teachers' Implementation of a Supplemental Academic Language Curriculum. Early Education and Development. https://doi.org/10.1080/10409289.2020.1839288
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Mixed-methods barrier analysis across three studies; some teachers, including some who spoke English as a second language, lacked vocabulary knowledge to explain academic words in child-friendly ways, and early-stage teachers needed help navigating lesson materials.
 

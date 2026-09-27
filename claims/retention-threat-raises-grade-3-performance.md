@@ -15,12 +15,14 @@ sources:
     author: "Comprehensive Early Literacy Policy: Fundamental Principles"
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # The threat of retention produced statistically significant increases in 3rd-grade math and reading performance before the retention decision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The threat of retention led to statistically significant and substantial increases in student math and reading performance within the 3rd grade, prior to the retention decision. [→ Comprehensive Early Literacy Policy: Fundamental Principles 2024](#comprehensive-early-literacy-policy-fundamental-principles-2024)
@@ -31,7 +33,7 @@ sources:
 
 Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 The toolkit summarizes Winters (2018), The Costs and Benefits of Test-Based Promotion, reporting that the threat of retention raised within-3rd-grade math and reading performance before any retention decision occurred.
 

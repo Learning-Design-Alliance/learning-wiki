@@ -12,7 +12,7 @@ generated:
 # Mentoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies, `q1`–`q4` · 1 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Mentoring pairs a learner with a more experienced person who provides ongoing guidance, modeling, feedback, and emotional support over an extended period. Unlike episodic instruction, mentoring is relational and developmental: the mentor calibrates support to the mentee's growing competence and, in effective programs, addresses both career/instrumental needs (skill coaching, sponsorship, exposure) and psychosocial needs (identity, confidence, belonging).

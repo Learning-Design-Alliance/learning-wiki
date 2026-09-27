@@ -16,7 +16,7 @@ sources:
 # Seven Stages of Concern About an Innovation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Stages of Concern (SoC) concept, generalized from Fuller's work on teacher concerns and part of the Concerns-Based Adoption Model, describes seven hypothesized stages through which individuals' concerns about an innovation move: awareness, informational, personal, management, consequence, collaboration, and refocusing. The article defines each stage, e.g., management means "Attention is 'focused on the processes and tasks of using the innovation and the best use of information and resources." The stages range through Fuller's Self, Task, and Impact orientations and are measured by the SoC Questionnaire.

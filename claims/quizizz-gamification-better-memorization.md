@@ -15,12 +15,14 @@ sources:
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Quizizz-based gamification improved word memorization over traditional methods for intermediate learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Intermediate-level students using the Quizizz platform memorized new words better than learners under traditional methods, with feedback and reward features seen as vital. [→ A. Pradheepa 2025](#a-pradheepa-2025)
@@ -31,7 +33,7 @@ sources:
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Mirzoyeva and Gurbanova (2021), a study of an online gamification platform with intermediate English students in which Quizizz users showed better memorization than traditionally taught learners; no effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "Orr, D., & Mrazek, R."
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Based on respondent comments, the authors revised the eight-level matrix to ten levels, treating the first two as non-use variants and adding a level for technologies no longer used because they were replaced. [→ Orr 2009](#orr-2009)
@@ -31,7 +33,7 @@ sources:
 
 Orr, D., & Mrazek, R. (2009). Developing the level of adoption survey to inform collaborative discussion regarding educational innovation. Canadian Journal of Learning and Technology, V35(2). https://www.cjlt.ca
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Instrument-development response to pilot feedback: the most common respondent comment was the desire to indicate familiarity with a technology while consciously choosing not to use it, and another identified the need to indicate adoption of technologies replacing older ones. The authors propose that responses at Level 5 are clearly cuspidal, representing established changes in praxis, and that the assumption linking level 10 reports to levels 4-6 for replacement technologies requires further investigation.
 

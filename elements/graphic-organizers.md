@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (4 causal, 2 quant-synthesis), `q1`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.

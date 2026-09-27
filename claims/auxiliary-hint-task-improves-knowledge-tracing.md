@@ -15,12 +15,14 @@ sources:
     author: Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini
     q: 2
     i: 0
+    kind: design
+    rigour: 2
 ---
 
 # Adding hint-taking as an auxiliary task slightly improves knowledge tracing performance on both datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Colearn improves knowledge tracing AUC by 0.25 points on ASSISTments and 0.18 points on Junyi over DKVMN. [→ Ritwick Chaudhry 2017](#ritwick-chaudhry-2017)
@@ -31,7 +33,7 @@ sources:
 
 Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/
 
-`q2 · i0`
+`q2 · i0` · `design · r2`
 
 Knowledge tracing results (Table 4: Colearn 81.48±0.04% vs DKVMN 81.23±0.02% on ASSISTments; 80.56±0.009% vs 80.38±0.007% on Junyi). The baseline for knowledge tracing is another memory-augmented deep learning model, DKVMN.
 

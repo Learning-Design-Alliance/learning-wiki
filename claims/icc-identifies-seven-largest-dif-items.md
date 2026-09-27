@@ -15,12 +15,14 @@ sources:
     author: Holweger, Nancy; Weston, Timothy
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Items 3, 18, 4, 25, 26, 23 and 5 had the largest ICC DIF indices, displaying primarily uniform DIF, though items 23 and 26 show slight nonuniform DIF. [→ Holweger 1998](#holweger-1998)
@@ -31,7 +33,7 @@ sources:
 
 Holweger, Nancy; Weston, Timothy. (1998). Differential Item Functioning: An Applied Comparison of the Item Characteristic Curve Method with the Logistic Discriminant Function Method. https://eric.ed.gov/?id=ED422362
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ICC analyses of all thirty items using Samejima's graded-response model with random MML estimation in Multilog. Printed index ranges: b1 DIF from .03 to .33, b2 DIF from .02 to .19, and the single b3 DIF of .05. The authors note the indices for items 23 and 26 are artificially low because an unsigned area measure was used.
 

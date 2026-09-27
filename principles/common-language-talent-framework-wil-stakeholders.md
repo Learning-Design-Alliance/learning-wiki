@@ -17,7 +17,7 @@ sources:
 # Use a shared talent framework to give WIL stakeholders a common language for communicating about talent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Because WIL programs rely on co-creation among employers, students, and educators whose perspectives on talent vary widely, the article recommends giving stakeholders a shared framework so they can coordinate efforts. It argues "Frameworks provide a common language that enables stakeholders to interact more efficiently," and states the FRTF's goal is "to provide a common ground for WIL stakeholders to discuss the talents that are important to them." Informal feedback from students, employers, faculty, staff, and administrators suggests the FRTF is useful in conversations about talent.

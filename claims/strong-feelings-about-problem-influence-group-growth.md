@@ -15,12 +15,14 @@ sources:
     author: Campbell, M. Donald
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Strong feelings about a community problem positively influence group growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Group members' strong feelings about a community problem positively influence group growth. [→ Campbell 1978](#campbell-1978)
@@ -31,7 +33,7 @@ sources:
 
 Campbell, M. Donald. (1978). Educator Influence on Group Growth in Community Problem Solving. Paper presented at the Adult Education Research Conference, San Antonio, Texas. https://eric.ed.gov/?id=ED152994
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Generated from the five primary case studies: the three highest-ranked groups were very concerned about their community situations (sewage facilities, bald eagle habitat, mobile homes), while strong feelings were not apparent in the groups ranking fourth and fifth.
 

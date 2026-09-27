@@ -17,7 +17,7 @@ sources:
 # Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The co-design process produced a set of commitments that guide how the framework is used, developed after in-person participants emphasized the need for principles giving context for how the framework should be understood. The commitments are: reflect deeply, recognize intersectionality, adopt an anti-racism and anti-oppression approach, develop trauma awareness, build relationships based on trust and accountability, and commit to learning and unlearning. Each commitment is described in Table 3 with guidance for application.

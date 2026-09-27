@@ -15,12 +15,14 @@ sources:
     author: "Warren-Gordon, K., Hudson, K., & Scott, F."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 1
 ---
 
 # The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors conclude that developing the service-learning project with the community partner ensures full partner buy-in and that the project remains of lasting value to the community. [→ Warren-Gordon 2019](#warren-gordon-2019)
@@ -31,7 +33,7 @@ sources:
 
 Warren-Gordon, K., Hudson, K., & Scott, F. (2019). Voices of Partnerships Within the Critical Service-Learning Framework. Journal of Community Engagement and Higher Education, 12(2). https://portal.issn.org/resource/ISSN/1934-5283
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r1`
 
 Authors' interpretive conclusion in the Conclusion section, drawing on both partners' expressed comfort with co-developing course goals. The article offers no measured evidence for the buy-in or lasting-value outcomes; it is an argued claim from the partnership case.
 

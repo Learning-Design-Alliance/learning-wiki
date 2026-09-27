@@ -14,17 +14,21 @@ sources:
     author: Bautista, R. G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: bautista-2015-2
     title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
     author: Bautista, R. G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students who had just completed their secondary education had the least affordance of teleologic-anthropomorphic reasoning compared to their counterparts. [→ Bautista 2015](#bautista-2015)
@@ -36,7 +40,7 @@ sources:
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive analysis of general preconceptions (Table 1) across Kinematics, Dynamics, Statics and Thermodynamics, with dispersion indices by age group (16-17, 18-19, 20 and above) rated Low, Moderate or High.
 
@@ -46,7 +50,7 @@ Descriptive analysis of general preconceptions (Table 1) across Kinematics, Dyna
 
 Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive comparison by curricular orientation in Table 1; the author attributes the difference to English being the medium of instruction in the present study, so students with linguistic and semantic competence in English can more easily infer on phenomena.
 

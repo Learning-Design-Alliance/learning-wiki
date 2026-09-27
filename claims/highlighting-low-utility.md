@@ -16,12 +16,14 @@ sources:
     q: 3
     i: "?"
     n: multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)
+    kind: review
+    rigour: 3
 ---
 
 # Highlighting shows low utility for improving learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)
+> **Evidence** · 1 study · review `r3` · `q3` · n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)
 
 Highlighting and underlining text is one of the most widely used study strategies, yet it shows little benefit for learning outcomes relative to simply reading.
 
@@ -35,7 +37,7 @@ Highlighting and underlining text is one of the most widely used study strategie
 
 Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 
-`q3 · narrative review of primary experiments` · `i? · no pooled effect size reported` · `n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)`
+`q3 · narrative review of primary experiments` · `i? · no pooled effect size reported` · `n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)` · `review · r3`
 
 A monograph by five cognitive/educational psychologists reviewing the empirical literature on ten study techniques, evaluated for generality across learning conditions, student characteristics, materials and criterion tasks. For highlighting/underlining specifically, the review synthesizes primary experiments (e.g., Fowler & Barker, 1974; Peterson, 1992) spanning Air Force basic trainees, children, remedial and typical undergraduates, using texts on topics from aerodynamics to enzymes, with immediate and delayed (up to two months) tests. Most studies found no benefit of highlighting over simply reading; one study (Peterson, 1992) found underlining actively hurt performance on inference questions requiring connections across the text, while leaving factual recall unaffected. The authors conclude the technique's benefit depends heavily on highlighting quality and prior knowledge, and that as typically practiced it provides little gain.
 

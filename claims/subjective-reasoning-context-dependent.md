@@ -15,12 +15,14 @@ sources:
     author: Elbehary, S.G.A.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` About 60% of PSMTs (41 of 68) reasoned subjectively in the giving-birth context, but no subjective reasoning appeared in the die task, showing realistic contexts elicit subjective probability where randomising-device tasks do not. [→ Elbehary 2021](#elbehary-2021)
@@ -31,7 +33,7 @@ sources:
 
 Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of probability education: A case study of preservice mathematics teachers. Pythagoras, 42(1), a630. https://doi.org/10.4102/pythagoras.v42i1.630
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Cross-case comparison of the same 68 PSMTs' responses to two questionnaire items. The article reports subjective reasoning matched 'nearly 60% (41 cases from 68)' in giving birth yet 'did not emerge in the task of throwing a die', supporting the fruitfulness of realistic contexts for displaying subjective probability.
 

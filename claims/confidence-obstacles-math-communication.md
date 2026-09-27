@@ -15,12 +15,14 @@ sources:
     author: "Uyen, B. P., Tong, D. H., & Tram, N. T. B."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Observations showed most students struggled to speak in front of peers due to lack of confidence and inappropriate language use. [→ Uyen 2021](#uyen-2021)
@@ -31,7 +33,7 @@ sources:
 
 Uyen, B. P., Tong, D. H., & Tram, N. T. B. (2021). Developing mathematical communication skills for students in grade 8 in teaching congruent triangle topics. European Journal of Educational Research, 10(3), 1287-1302. https://doi.org/10.12973/eu-jer.10.3.1287
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Pedagogical observations, quick interviews, and worksheet analysis during the experimental teaching. The article also notes students misused difficult-to-understand words mixing natural language and math, and that notes were often haphazard or slow, so the teacher needed to help students overcome fear of being wrong or ridiculed.
 

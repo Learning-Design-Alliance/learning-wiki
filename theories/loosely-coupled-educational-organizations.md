@@ -16,7 +16,7 @@ sources:
 # Educational organizations as loosely coupled systems defined by practices rather than structure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Following Weick (1976), the paper portrays educational organizations as "loosely coupled systems" in which groups interact "without compromising their identity." Loose coupling carries "connotations of impermanence, dissolvability, and tacitness," enhances capacity to innovate and adapt, and gives groups autonomy to deal with unexpected events; tightly coupled organizations are deterministic because interaction is predefined by structure.

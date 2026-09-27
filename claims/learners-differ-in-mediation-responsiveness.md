@@ -15,12 +15,14 @@ sources:
     author: Ebadi, S.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In DA1, Sarah was more responsive to mediation for modals than Dena and could take responsibility for her performance with less explicit help. [→ Ebadi 2016](#ebadi-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 LRE analysis from DA1 shows Sarah noticed and corrected a modal error after red highlighting and justified her correction, reaching level 3 of internalization; the author notes "Sarah was more responsive to mediation for modals than Dena" in their first encounter with the problem.
 

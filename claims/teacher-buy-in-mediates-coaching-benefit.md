@@ -15,12 +15,14 @@ sources:
     author: "White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers and coaches reported that teacher buy-in would strongly mediate the overall effect of coaching, and that resistant teachers show lower-quality outcomes. [→ White 2015](#white-2015)
@@ -31,7 +33,7 @@ sources:
 
 White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingredients of instructional coaching: Developing a conceptual framework (R2Ed Working Paper No. 2015-3). https://r2ed.unl.edu/resources_workingpapers.shtml
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Requisite Teacher Characteristics section of the focus group study: teachers saw buy-in as affecting attitudes and the coaching relationship; coaches described the most successful teachers as those who "weren’t afraid to fail." The article also cites prior work connecting teacher resistance to lower-quality outcomes.
 

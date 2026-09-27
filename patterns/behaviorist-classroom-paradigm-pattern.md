@@ -17,7 +17,7 @@ sources:
 # The behaviorist classroom paradigm: teacher as enforcer, passive learner, reward and punishment, predetermined knowledge
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review's Table 1 lays out the behaviorist paradigm across objectives, teaching theory, and the student's role. Objectives are to "Control student's behavior"; teaching relies on "Reward and punishment" and "Experimentation"; the teacher is an "Enforcer behavioral modifier" who provides materials and creates the study environment; the learner is "passive," waits for an order, follows instruction, and shows "No critical thinking."

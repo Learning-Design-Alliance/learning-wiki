@@ -17,7 +17,7 @@ sources:
 # Require prospective industrial arts teachers to study behavioral and social science coursework on the human side of enterprise
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The monograph recommends that teacher educators design or select courses describing "the relationships ofmen with men, machines with machines, and men with machines," including fundamentals of human interaction at work, authority and status structures, organization theory, and labor union history. It holds that understandings of the human side of enterprise are as essential as technical understandings for teachers who help youth assume adult roles in productive society.

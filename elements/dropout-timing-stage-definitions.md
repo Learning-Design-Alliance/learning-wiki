@@ -17,7 +17,7 @@ sources:
 # Four-stage dropout timing definitions for cross-institutional persistence comparison
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article collapses Simpson's nine potential dropout stages into four timing-based definitions of dropout (Table 2), distinguishing drops before course start, during the initial or Orientation week, and during instruction, and counting only "active drops" while excluding dormant (MIA) students. The author offers these "definitions of the time a student withdraws" to other researchers hoping to enable cross-institutional aggregation, since inconsistent attrition definitions make onground–online comparisons like comparing "apples and oranges."

@@ -16,12 +16,14 @@ sources:
     q: 2
     i: "?"
     n: 157
+    kind: associational
+    rigour: 1
 ---
 
 # Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=157
+> **Evidence** · 1 study · associational `r1` · `q2` · n=157
 
 Correlational, so the direction is open: strategies may build proficiency, proficiency may afford
 strategies, or both may follow from something else.
@@ -38,7 +40,7 @@ strategies, or both may follow from something else.
 
 Mantovani, A. (2026). Investigating language learning strategies through the strategy inventory: A study among immigrant adolescents in Italian secondary schools. *Glottodidactica, 53*(1), 221–239. [doi:10.14746/gl.2026.53.1.10](https://doi.org/10.14746/gl.2026.53.1.10)
 
-`q2 · cross-sectional correlational self-report study` · `i? · correlation reported as present, magnitude not given` · `n=157`
+`q2 · cross-sectional correlational self-report study` · `i? · correlation reported as present, magnitude not given` · `n=157` · `associational · r1`
 
 157 newly arrived migrant students across nine secondary schools in north-east Italy completed an adapted Strategy Inventory for Language Learning. The paper reports mean strategy use, the indirect-over-direct preference, the correlation with proficiency, and variation by cultural background, and recommends explicitly promoting cognitive, social and compensatory strategies through goal-oriented and collaborative tasks.
 

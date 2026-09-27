@@ -15,12 +15,14 @@ sources:
     author: "Denise Santos & Gláucia Silva"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` HLLs performed only slightly better than NHLLs overall and in each of the three task demand types, but Mann-Whitney U tests found the differences not statistically significant. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -31,7 +33,7 @@ sources:
 
 Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions of and Performance in Listening. The Canadian Journal of Applied Linguistics 18(1), 63-86. https://journals.sfu.ca/cjal/index.php/cjal
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Non-parametric Mann-Whitney U tests on listening task scores of 12 HLLs and 11 NHLLs across three task demand types. Overall means were 83.1 (HLLs) and 75.0 (NHLLs) per Table 2; the tests showed the difference "was not statistically significant".
 

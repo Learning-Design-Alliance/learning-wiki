@@ -15,18 +15,22 @@ sources:
     author: Özsoy, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: özsoy-2009-2
     resource: "https://eric.ed.gov/?id=EJ867373"
     title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373"
     author: Özsoy, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The method adopted in the Republic's education project, from the top to the bottom and from the outside towards the inside, contradicts Dewey's pedagogical principles and his understanding of democracy. [→ Özsoy 2009](#ozsoy-2009)
@@ -38,7 +42,7 @@ sources:
 
 Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the balance-sheet section, where the author distinguishes Dewey's democracy design from an authoritarian modernization implemented as a kind of human and social engineering. The quoted method is said to contradict Dewey's pedagogy and democracy.
 
@@ -48,7 +52,7 @@ Theoretical argument in the balance-sheet section, where the author distinguishe
 
 Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article contrasts the instrumental framing of education in the Turkish modernization project with Dewey's attribution to education of an "intrinsic" value rather than an "instrumental" one.
 

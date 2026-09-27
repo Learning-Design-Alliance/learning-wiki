@@ -15,12 +15,14 @@ sources:
     author: Frank, B. W.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the first fifteen minutes, the group moved in and out of two behavior clusters—strip-oriented and worksheet-oriented—with remarkable synchrony, and this coordinated participation stabilized their noticing-and-describing activity. [→ Frank 2009](#frank-2009)
@@ -31,7 +33,7 @@ sources:
 
 Frank, B. W. (2009). Multiple Conceptual Coherences in the Speed Tutorial: Micro-processes of Local Stability. https://eric.ed.gov
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
 Qualitative analysis of interactional behaviors (Figures 2 and 3) during the first fifteen minutes. Strip-oriented behaviors involved leaning in, looking inward, and pointing at the table center; worksheet-oriented behaviors involved hunching, looking down, and writing. The author describes "a highly coordinated (but not centrally directed) activity" coupling to the substance of the students' ideas.
 

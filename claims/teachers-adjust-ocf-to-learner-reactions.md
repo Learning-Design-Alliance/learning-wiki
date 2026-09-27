@@ -15,12 +15,14 @@ sources:
     author: "Gómez Argüelles, L., Hernández Méndez, E., & Perales Escudero, M. D."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported learner reactions of acceptance, indifference, and defiance, and most adapted their feedback practices accordingly; only Xavier tried to change students' attitudes instead. [→ Gómez Argüelles 2019](#gomez-arguelles-2019)
@@ -31,7 +33,7 @@ sources:
 
 Gómez Argüelles, L., Hernández Méndez, E., & Perales Escudero, M. D. (2019). EFL Teachers' Attitudes Towards Oral Corrective Feedback: A Case Study. Profile: Issues in Teachers' Professional Development, 21(1), 107-120. https://doi.org/10.15446/profile.v21n1.69508
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Analysis of learner-reaction reports in the interviews found acceptance, indifference, and defiance of OCF; the authors state "they provide feedback if the learners accept it, and they stop providing it if the learners are indifferent to it or challenge it."
 

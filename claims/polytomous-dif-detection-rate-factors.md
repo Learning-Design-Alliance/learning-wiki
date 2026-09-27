@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, T. C., & Raju, N. S."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In simulation, detection rates were consistently higher in the 1000-examinee conditions than the 500-examinee conditions for all three indices. [→ Flowers 1997](#flowers-1997)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, T. C., & Raju, N. S. (1997). The Relationship between Polytomous DFIT and Other Polytomous DIF Procedures. Paper presented at the NCME Annual Meeting, Chicago. https://eric.ed.gov/?id=ED410300
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Average DIF detection rates across simulated conditions reported in Table 4. The nominal alpha for detection was .05, with 100 iterations per condition.
 

@@ -15,12 +15,14 @@ sources:
     author: Nicholson-Goodman, JoVictoria, Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Presentations of the mapping elicited varied reader readings — as quadrants, a scattergram, a measuring device, a model of truth and value choices — which the authors valued for comprehending reader inclusion even though none matched their own view of the map as dialogical space. [→ Nicholson-Goodman 1996](#nicholson-goodman-1996)
@@ -31,7 +33,7 @@ sources:
 
 Nicholson-Goodman, JoVictoria, Paulston, Rolland G. (1996). Mapping/Remapping Discourse in Educational Policy Studies. Occasional Paper Series, APS Conceptual Mapping Project. https://eric.ed.gov/?id=ED395559
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Narrative account (type c/e) from the interaction section: a series of presentations of the mapping effort generated reader input, including the observation that the map was 'very Paulstonesque' due to its quadrant basis. The authors report these views 'were valuable nevertheless for comprehending the inclusion of the reader in the hermeneutic circle.' Descriptive, no effect sizes.
 

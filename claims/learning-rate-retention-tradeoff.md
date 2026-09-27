@@ -15,12 +15,14 @@ sources:
     author: "Williams, A. M., Fawver, B., & Hodges, N. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In short-term adaptation studies, slow adaptation processes are more robust over time than fast processes, and slower learners in sequence learning showed better retention, suggesting an efficiency-effectiveness trade-off. [→ Williams 2017](#williams-2017)
@@ -31,7 +33,7 @@ sources:
 
 Williams, A. M., Fawver, B., & Hodges, N. J. (2017). Using the 'expert performance approach' as a framework for examining and enhancing skill learning: Improving understanding of how experts learn. *Frontline Learning Research, 5*(3), 139–154. https://doi.org/10.14786/flr.v5i3.267
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from short-term adaptation studies of "both fast and slow adaptation processes, with the slow process being more robust over time". It also reports, citing Wadden et al. (2017), that slower learners who spent more time in the cognitive phase had better retention in sequence learning.
 

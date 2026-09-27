@@ -15,12 +15,14 @@ sources:
     author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Magnetic field measured by a tablet magnetometer depends linearly on the coil current
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the coil experiment, measured magnetic field B fits a linear function of current I, with slope a = (41.0247± 0.2571)µT/A. [→ V.O.M. Lara 2014](#vom-lara-2014)
@@ -31,7 +33,7 @@ sources:
 
 V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 A demonstration-set experiment in which current was increased by equal amounts δI = 0.05 A at fixed axial distance z = 4.8 cm, with B recorded by the iPad app and fitted with Gnuplot; the linear fit gave "a = (41.0247± 0.2571)µT/A".
 

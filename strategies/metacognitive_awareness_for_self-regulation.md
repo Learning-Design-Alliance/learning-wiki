@@ -12,7 +12,7 @@ generated:
 # Metacognitive Awareness for Self-Regulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies, `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Structured journaling (or audio/video recording) prompts learners to plan, monitor, and evaluate their own thinking and study behavior. By externalizing these processes in writing or speech, learners build awareness of their strategies and outcomes — the foundation of self-regulated learning [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. The strategy operationalizes the three phases of Zimmerman's self-regulation model — forethought, performance, and self-reflection — as recurring, prompted reflection tied to real learning tasks.

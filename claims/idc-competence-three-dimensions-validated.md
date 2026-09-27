@@ -15,12 +15,14 @@ sources:
     author: "Khaewphuang, P., & Nuangchalerm, P."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The validated model identifies three dimensions of instructional design competence—knowledge, ability, and personal attributes—with knowledge and ability sharing six common components. [→ Khaewphuang 2025](#khaewphuang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Khaewphuang, P., & Nuangchalerm, P. (2025). Components and Indicators of Instructional Design Competence for Thai Pre-Service Teachers. Journal of Practical Studies in Education, 6(2), 14-22. https://doi.org/10.46809/jpse.v6i2.97
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Survey of 471 third- and fourth-year pre-service teachers analyzed with second-order confirmatory factor analysis in LISREL 8.72. The article reports that competence "comprises three main dimensions: Knowledge, Ability, and Personal Attributes," with knowledge and ability subdivided into six common components.
 

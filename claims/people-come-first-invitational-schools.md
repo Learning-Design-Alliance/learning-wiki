@@ -15,12 +15,14 @@ sources:
     author: Purkey, William W.; Novak, John M.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # People come first: places, policies, and programs should be altered when they inhibit people's development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In invitational schools, people take priority over places, policies, and programs; structures that inconvenience or inhibit people should be changed. [→ Purkey 1988](#purkey-1988)
@@ -31,7 +33,7 @@ sources:
 
 Purkey, William W.; Novak, John M. (1988). Education: By Invitation Only. Fastback No. 268. Phi Delta Kappa Educational Foundation. https://eric.ed.gov/?id=ED296471
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is an authors' assertion in the People section of the theory-into-practice chapter, argued from the invitational model rather than tested with data. The article states that 'people come first' and that people 'develop best in an inviting environment'.
 

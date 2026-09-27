@@ -15,12 +15,14 @@ sources:
     author: Ellis, M. L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Facilitated self-directed learning and peer discussion empower adult learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author reports that facilitated class discussions allowing views to be spoken and addressed left her feeling empowered as an individual contributor, shifting her view of knowledge away from authoritarian instruction. [→ Ellis 2012](#ellis-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 First-person case reflection from the author's adult education classroom experience; the article reports no measures, only that the process "has been effective" in producing a feeling of empowerment and that learner input should feel heard and relevant.
 

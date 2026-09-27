@@ -15,12 +15,14 @@ sources:
     author: "Gil, A., Osiecki, N., & Juarez, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among 488 students in grades 7-12, the most reported behaviors were contextual analysis (229), setting the purpose for reading (166), monitoring comprehension (160), and rereading (104). [→ Gil 2001](#gil-2001)
@@ -31,7 +33,7 @@ sources:
 
 Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 9: coded interview responses from 488 middle and high school students. The study reports "using contextual analysis as the first instance of metacognition, followed by setting the purpose for reading (166)." No effect size printed.
 

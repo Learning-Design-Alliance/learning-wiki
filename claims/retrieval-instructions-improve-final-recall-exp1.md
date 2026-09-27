@@ -15,12 +15,14 @@ sources:
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval practice instructions improved final recall of translations in Experiment 1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Purdue undergraduates who received retrieval practice instructions recalled more translations on a delayed criterial test than a neutral-instruction control group. [→ Ariel 2018](#ariel-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Randomized experiment with 60 undergraduates assigned to retrieval practice instructions or control, learning 20 Lithuanian–English translations with self-regulated practice before a delayed final test. The instructed group recalled more (M = .87 vs .64), "t(58) /H110053.36, p /H11021 .001, d /H110050.88".
 

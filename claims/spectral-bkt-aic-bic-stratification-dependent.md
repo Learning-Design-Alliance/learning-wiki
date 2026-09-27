@@ -15,12 +15,14 @@ sources:
     author: "Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K."
     q: 2
     i: 1
+    kind: design
+    rigour: 2
 ---
 
 # Model-complexity penalties favor Spectral BKT under student-stratified cross-validation but not under item-stratified cross-validation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` With 37 parameters per skill versus 4 for standard BKT, AIC and BIC decrease by 21% and 13% under student-stratified cross-validation but increase by 3% and 9% under item-stratified cross-validation. [→ Falakmasir 2015](#falakmasir-2015)
@@ -31,7 +33,7 @@ sources:
 
 Falakmasir, M., Yudelson, M., Ritter, S., & Koedinger, K. (2015). Spectral Bayesian Knowledge Tracing. Proceedings of the 8th International Conference on Educational Data Mining. http://pslcdatashop.web.cmu.edu/KDDCup
 
-`q2 · i1`
+`q2 · i1` · `design · r2`
 
 AIC/BIC comparison from the Model Validation section's cross-validation of the two models, which differ in parameters per skill (4 for standard BKT, 37 for Spectral BKT). The penalty metrics favor Spectral BKT only under student stratification; under item stratification they rise.
 

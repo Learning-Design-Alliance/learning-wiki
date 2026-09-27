@@ -16,7 +16,7 @@ sources:
 # Remapping via the local/global dynamic yields four human/social responses to nature: control, submission, awe, reconstruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 To deprivilege the first map, the authors remap EE-related discourse around the local/global locus of vision using two continua: an axiology of community (species beings versus social beings) and an epistemology of social development (ethic of progress versus ethic of uncertainty). The intersections 'form... control, submission, awe and reconstruction' as characterizations of human/social responses to nature. Control and submission are reactive responses of the risk aspect; awe and reconstruction are creative responses of the relationship aspect. Seventeen perspectives are located in Figure 2.

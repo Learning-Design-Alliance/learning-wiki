@@ -17,7 +17,7 @@ sources:
 # PSRBVBQ — a situational judgment questionnaire with six bullying vignettes measuring perceived severity and likelihood of responding to bully and victim
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The PSRBVBQ is a scenario-based measure built by Bush (2009) and developed by Harrison (2015), adapted into Romanian via forward-backward translation with four expert translators. As the article states, "the measure includes six bullying scenarios, two for each type of bullying (physical, verbal, and relational)". For each situation teachers rank perceived severity, likelihood of responding to the bully, and likelihood of responding to the victim on a seven-point Likert scale. The validated Romanian version contains three six-item scales.

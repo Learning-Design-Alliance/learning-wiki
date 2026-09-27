@@ -15,12 +15,14 @@ sources:
     author: Chmarkh, M.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Class size limits the Sociocultural Model's benefits in L2 writing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The efficacy of the Sociocultural Model is difficult to examine in larger settings because its interactional benefits have mostly been studied in tutoring and small classrooms. [→ Chmarkh 2025](#chmarkh-2025)
@@ -31,7 +33,7 @@ sources:
 
 Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's evaluation of the Sociocultural Model. The author raises as an open question whether the approach "would benefit all students or only those who actively participate and collaborate in classroom discussions".
 

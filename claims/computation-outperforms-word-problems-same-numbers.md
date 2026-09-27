@@ -15,12 +15,14 @@ sources:
     author: Stein, Mary G.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Fourth-graders perform substantially better on computation tests than on word problems using the same numbers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students scored significantly better on computation tests than on word problem pre-tests that used the same numbers and operations. [→ Stein 1998](#stein-1998)
@@ -31,7 +33,7 @@ sources:
 
 Stein, Mary G. (1998). Strategic Learning: The Implications of Language in Successful Math Problem-Solving. https://eric.ed.gov/?id=ED416501
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 In this classroom study of 24 fourth-graders, a computation pre-test was compared with a word problem pre-test built from the same numbers and algorithms. The computation mean was 81.67 (SD 17.86) versus 47.5 (SD 21.92); "a t of 5.92 reveals substantially better performance on computation tests than on word problem tests."
 

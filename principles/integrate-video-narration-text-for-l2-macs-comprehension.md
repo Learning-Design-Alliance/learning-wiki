@@ -17,7 +17,7 @@ sources:
 # Integrate video with narration and on-screen text in L2 reading comprehension instruction to foster macrostructure comprehension
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes that multimedia materials integrated with on-screen text, narrations, and video are recommended for L2 comprehension instruction, because the VNT group outperformed the text-only and narration-plus-text groups on macrostructure comprehension. It argues that video plays an essential role in fostering MACS comprehension ability, helping learners distinguish main ideas from details, attend to the theme, identify writer's devices, and draw conclusions.

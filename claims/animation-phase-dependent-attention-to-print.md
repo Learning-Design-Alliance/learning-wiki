@@ -15,12 +15,14 @@ sources:
     author: "Yow, W. Q., & Priyashri, S."
     q: 3
     i: 1
+    kind: causal
+    rigour: 1
 ---
 
 # The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` In the enhanced English condition, a significant Text Language × Phase interaction, F(1, 30) = 7.18, p = .012, partial η2 = .19, showed English attention remained higher in both phases but Mandarin looking increased post-animation, t(31) = −2.62, p = .014, d = 0.45. [→ Yow 2019](#yow-2019)
@@ -31,7 +33,7 @@ sources:
 
 Yow, W. Q., & Priyashri, S. (2019). Computerized Electronic Features Direct Children's Attention to Print in Single- and Dual-Language e-Books. AERA Open. https://doi.org/10.1177/2332858419878126
 
-`q3 · i1`
+`q3 · i1` · `causal · r1`
 
 Study 1 phase analysis of the enhanced English condition: English text retained significantly higher PLT "in both the animation phase and the post-animation phase," though Mandarin looking rose significantly after animation ended (d = 0.45).
 

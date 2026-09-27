@@ -12,7 +12,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.

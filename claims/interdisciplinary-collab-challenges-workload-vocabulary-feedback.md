@@ -15,12 +15,14 @@ sources:
     author: "Warr, M. & West, R. E."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students faced uneven workloads across roles, disparate vocabularies that made communication difficult, and uncertainty about how to give discipline-specific feedback to teammates from other fields. [→ Warr 2020](#warr-2020)
@@ -31,7 +33,7 @@ sources:
 
 Warr, M. & West, R. E. (2020). Bridging Academic Disciplines with Interdisciplinary Project-based Learning: Challenges and Opportunities. The Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.14434/ijpbl.v14i1.28590
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r3`
 
 Interview findings: editing students finished early and had lighter loads, programming students could not begin until weeks into a seven-week course, and students reported that "sometimes it took us a while to get over the different viewpoints and vocabulary." Students navigated these challenges by consulting faculty and specialists in their own field.
 

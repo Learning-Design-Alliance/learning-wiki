@@ -15,12 +15,14 @@ sources:
     author: Özsoy, S.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The values on which Turkish modernization is based, which also constitute the reference framework of the education system, conflict irreconcilably with the libertarian and democratic values Dewey advocates. [→ Özsoy 2009](#ozsoy-2009)
@@ -31,7 +33,7 @@ sources:
 
 Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The study's stated conclusion, a theoretical-historical reading of Dewey and Turkish modernization rather than an empirical test. The author states plainly that "there is an irreconcilable conflict between the values" of Turkish modernization and Dewey's libertarian and democratic values.
 

@@ -15,12 +15,14 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Overall meaning negotiation (NoM) relative to utterances is remarkably low and is higher in the L2 (M = 10.24) than in the L1 (M = 7.30), with a significant language effect. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -31,7 +33,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Generalized linear mixed model on oral production of 40 children in 20 dyads performing a spot-the-differences task twice over two years, with time, proficiency pairing and language as fixed factors. The language effect was significant (F(1, 72) = 4.496, p = .037), with "higher in the L2" than L1 negotiation.
 

@@ -17,7 +17,7 @@ sources:
 # Foster learners' enjoyment and accumulated L2 learning experience to motivate effort
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies, `q1`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 6 studies (3 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 From the finding that the L2 learning experience and intrinsic motivation were the strongest predictors of intended effort, the authors draw a pedagogical conclusion: "learners' accumulated L2 learning experience and their enjoyment in L2 learning are crucial in motivating themselves." Teachers should design learning experiences that build positive engagement with the immediate learning context rather than relying mainly on future-self visions or external pressure.

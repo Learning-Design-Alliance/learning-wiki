@@ -16,7 +16,7 @@ sources:
 # Collingwood's methodology for reconstructing the past from primary sources: re-enactment, interpolating, and interrogating
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Collingwood's methodological approach treats primary source documents and relics as evidence for imaginatively reconstructing the past through three processes. Re-enactment means thinking oneself into the historical situation and re-thinking the thoughts of the people involved: "we re-think the thoughts of the persons engaged in the situation". Interpolating bridges gaps in what sources state, which Collingwood called 'constructing history'; interrogating subjects source statements to critical questioning rather than accepting them at face value. The paper adapts this method into classroom instructional strategy.

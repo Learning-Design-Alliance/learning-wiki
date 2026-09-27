@@ -15,12 +15,14 @@ sources:
     author: Ataş, U.
     q: 2
     i: 3
+    kind: associational
+    rigour: 1
 ---
 
 # Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Overall receptive vocabulary knowledge (Vocabulary Levels Test total) correlates significantly and moderately with Cambridge CPE listening comprehension scores (r = .551, p = .001). [→ Ataş 2018](#atas-2018)
@@ -31,7 +33,7 @@ sources:
 
 Ataş, U. (2018). The Role of Receptive Vocabulary Knowledge in Advanced EFL Listening Comprehension. TESL-EJ, 21(4). https://eric.ed.gov/?id=EJ1172563
 
-`q2 · i3`
+`q2 · i3` · `associational · r1`
 
 Pearson correlation analysis of 33 advanced Turkish EFL learners' Vocabulary Levels Test total scores against Cambridge CPE listening scores found a significant correlation (p = .001, r = .551). The article states this "indicates a moderate relationship" between receptive vocabulary knowledge and listening comprehension quality.
 

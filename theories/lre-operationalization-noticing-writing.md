@@ -16,7 +16,7 @@ sources:
 # Language related episodes (LREs) as the operationalization of noticing in L2 writing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies, `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 3 studies (2 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 The article situates its method within research that operationalizes noticing and related concepts as language related episodes (LREs), citing studies such as Qi & Lapkin (2001) and Swain & Lapkin (1995). Following Swain and Lapkin, an LRE is "any segment of the protocol in which a learner either spoke about a language problem he/she encountered while writing and solved it either correctly... or incorrectly..., or simply solved it" without explicitly identifying it. The study codes think-aloud protocols at the LRE unit, selecting morphological and syntactical LREs as grammar-related, and notes that existing classifications of LREs differ widely across studies.

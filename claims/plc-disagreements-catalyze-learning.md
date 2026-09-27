@@ -15,12 +15,14 @@ sources:
     author: Prytula, M. P.
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Disagreements within a PLC can catalyze teacher learning rather than impede it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` One participant believed that disagreements enriched learning because they caused the conversation and prompted reflection on classroom strategies. [→ Prytula 2012](#prytula-2012)
@@ -31,7 +33,7 @@ sources:
 
 Prytula, M. P. (2012). Teacher Metacognition within the Professional Learning Community. International Education Studies. https://doi.org/10.5539/ies.v5n4p112
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview data from Tracey, a middle-years PLC leader, who unlike Jacki believed disagreements catalyzed learning rather than warranting adjournment to minimize conflict. This is a single-participant interpretive account, not a tested comparison.
 

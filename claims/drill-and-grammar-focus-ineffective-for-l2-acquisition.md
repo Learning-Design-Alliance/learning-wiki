@@ -15,12 +15,14 @@ sources:
     author: Calderon, Margarita; And Others
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The packet asserts, citing Krashen, that repetitive drill and a focus on grammar are ineffective teaching devices for second language acquisition. [→ Calderon 1982](#calderon-1982)
@@ -31,7 +33,7 @@ sources:
 
 Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 The packet's Rationale section asserts, citing Krashen (1981a), that "repetitive drill and focus on grammar are inef- fective teaching devices". This is an authorial assertion attributed to theory and practical experience, not a reported study; no data are presented.
 

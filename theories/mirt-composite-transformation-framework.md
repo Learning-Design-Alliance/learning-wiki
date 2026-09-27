@@ -16,7 +16,7 @@ sources:
 # Composite transformation framework for MIRT equating: orthogonal procrustes rotation, translation, and single dilation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article frames MIRT equating as transforming the equated group's reference system into the base group's system via a composite transformation: "an orthogonal procrustes rotation, a translation transformation and a single dilation". Because estimation programs impose abilities distributed as N(0, I), reference axes are orthogonal and of unit length, so rotation resolves rotational indeterminacy, translation coefficients shift the origin, and a dilation coefficient k rescales the unit. Three sets of equating methods were built on this framework and evaluated with BIAS and RMSE criteria.

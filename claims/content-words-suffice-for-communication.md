@@ -15,12 +15,14 @@ sources:
     author: Legum, Stanley E.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Labov theorizes that communication can occur by simply saying the content words, especially in multilingual situations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Labov theorizes that one can, and in multilingual situations does, communicate by simply saying the content words. [→ Legum 1970](#legum-1970)
@@ -31,7 +33,7 @@ sources:
 
 Legum, Stanley E. (1970). On the Facts of the Language in Question or a Conversation with W. Labov. Southwest Regional Laboratory Technical Note TN-2-70-47. https://eric.ed.gov/?id=ED108215
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 Theoretical claim reported from the author's conversation with Labov in September 1970; the article offers no empirical test of it, presenting it as Labov's theorizing about communication in multilingual situations.
 

@@ -15,12 +15,14 @@ sources:
     author: John Duplice
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a fixed-effects generalized linear model, the Standard treatment (two weeks between each distillation) differed significantly from the Baseline treatment, while Frontloaded and Mixed did not reach significance. [→ John Duplice 2022](#john-duplice-2022)
@@ -31,7 +33,7 @@ sources:
 
 John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Generalized linear model with fixed effects in R 4.0.3, pre-test as baseline score and Baseline treatment as baseline condition, on idiom-matching correctness for 74 participants. Only the Standard treatment reached significance (t = 2.457, p = .0143); no effect size was printed.
 

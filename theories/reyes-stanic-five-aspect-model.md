@@ -16,7 +16,7 @@ sources:
 # Reyes and Stanic's five-aspect model of differences in mathematics achievement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 theoretical), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The review describes Reyes and Stanic's (1988) model explaining differences in mathematics achievement based on race, sex, and socioeconomic status. "In this model, five aspects were considered to be relevant: societal influences, teacher attitudes, school mathematics curricula, student attitudes and achievement-related behavior, and classroom processes." The review values it for giving a comprehensive account of possible sources of the problem, while noting the school environment or organization is missing and that the authors called for work on causal interactions among race, sex, and SES.

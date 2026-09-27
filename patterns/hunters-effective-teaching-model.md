@@ -14,7 +14,7 @@ grain_size: lesson
 # Hunter's Effective Teaching Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Madeline Hunter combined a number of direct-instruction techniques into a single, comprehensive approach she called **mastery teaching** (distinct from the separate term "mastery learning") or the **effective teaching model** (M. Hunter, 1982; R. Hunter, 2004). Its features span before, during, and after a lesson.

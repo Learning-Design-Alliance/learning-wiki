@@ -15,12 +15,14 @@ sources:
     author: Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: "?"
 ---
 
 # Intellectual styles are partly socialized and therefore modifiable to some degree
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Because styles are partly socialized constructs shaped by culture, gender, age, parenting, and schooling, they are modifiable to at least some degree. [→ Presseisen 1990](#presseisen-1990)
@@ -31,7 +33,7 @@ sources:
 
 Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322
 
-`q1 · i? · no source text available to check; the entry prints no effect size`
+`q1 · i? · no source text available to check; the entry prints no effect size` · `theoretical · r?`
 
 Theoretical argument in the development section of Sternberg's chapter, which lists culture, gender, age, parenting style, and kind of schooling as variables affecting style development. The article states styles are "almost certainly modifiable toatleast some degree."
 

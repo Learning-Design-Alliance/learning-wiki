@@ -15,12 +15,14 @@ sources:
     author: Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # The Man-Technology model replaces traditional industrial arts content areas with production, transportation, and communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` In the proposed Man-Technology model, the traditional areas of wood, metal, and drafting are replaced by three basic areas: production, transportation, and communication, each studied in both technical and socio-cultural realms. [→ Industrial Arts Teacher Education Fellowship Program in the Technologies 1970](#industrial-arts-teacher-education-fellowship-program-in-the-technologies-1970)
@@ -31,7 +33,7 @@ sources:
 
 Industrial Arts Teacher Education Fellowship Program in the Technologies, 1969-1970. (1970). West Virginia University, College of Human Resources and Education. https://eric.ed.gov/?id=ED048505
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 A design statement from Section I describing the Man-Technology model's content structure (Figure II). The report adds that students "would study the tangibles of technology, but would also study the social consequences of these materials," and that the fellowship team's research indicated this to be a logical breakdown.
 

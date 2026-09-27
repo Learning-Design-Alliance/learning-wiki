@@ -15,12 +15,14 @@ sources:
     author: Chorianopoulos, K.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports, citing Santos-Espino, Afonso-Suárez, and Guerra-Artal (2016), that MOOC courses in humanities and arts emphasize speaker-centric styles while science and engineering courses emphasize board-centric styles, with social and life sciences balanced between them. [→ Chorianopoulos 2018](#chorianopoulos-2018)
@@ -31,7 +33,7 @@ sources:
 
 Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing to Santos-Espino et al. (2016) a survey of instructional video styles on contemporary MOOC platforms, which "classified them in two main categories: speaker-centric and board-centric." The disciplinary pattern is the review's report of that survey's findings.
 

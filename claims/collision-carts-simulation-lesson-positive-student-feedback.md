@@ -15,18 +15,22 @@ sources:
     author: Loo Kang WEE
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: loo-kang-wee-2015-2
     resource: "http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
     title: "Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
     author: Loo Kang WEE
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students' self-reported knowledge of the physics taught increased after the simulation lesson, with students reporting they knew very much or much rising from 5% to 56% and those reporting little or very little falling from 72% to 3%. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)
@@ -38,7 +42,7 @@ sources:
 
 Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Survey after a 1 hour 40 minutes hands-on lesson with guided inquiry worksheets (N = 64) using an earlier version of the simulation. Students self-reported perceived knowledge before and after; "an increase from 5% to 56%" reported knowing very much or much, and little/very little responses fell "from 72% to 3%". No effect size or significance test is reported.
 
@@ -48,7 +52,7 @@ Survey after a 1 hour 40 minutes hands-on lesson with guided inquiry worksheets 
 
 Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Same survey (N = 64) after the guided-inquiry simulation lesson: "more than 50% and more than 70% rated the learning experiences as enjoyable and valuable respectively". These are descriptive percentages; no statistical test or effect size is printed.
 

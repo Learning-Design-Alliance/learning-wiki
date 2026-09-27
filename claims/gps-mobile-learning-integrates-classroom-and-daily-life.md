@@ -15,12 +15,14 @@ sources:
     author: Jaeseok Yang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # GPS-supported mobile language learning outside the classroom lets students integrate classroom knowledge with authentic daily-life needs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a GPS-supported Japanese language learning environment, foreign students completing town field tasks could integrate classroom knowledge with their authentic daily-life needs. [→ Jaeseok Yang 2013](#jaeseok-yang-2013)
@@ -31,7 +33,7 @@ sources:
 
 Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Ogata et al.'s (2008) test of a computer-supported mobile learning environment in which foreign students in an Intensive Japanese Program completed teacher-assigned field activities around town, showing GPS devices' "applicab ility" in language education. No effect size is printed.
 

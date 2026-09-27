@@ -15,12 +15,14 @@ sources:
     author: Meehan, Merrill L.; Priester, H. G. Jim; Basile, Joseph C., II; Hobar, Nicholas
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Participants in an intensive competency-based mastery workshop mastered more than 98% of their workshop enabling objectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the one-week competency-based workshop, participants mastered more than 98% of their workshop enabling objectives, with all 19 participants mastering seven of the 10 performance record statements. [→ Meehan 1977](#meehan-1977)
@@ -31,7 +33,7 @@ sources:
 
 Meehan, Merrill L.; Priester, H. G. Jim; Basile, Joseph C., II; Hobar, Nicholas. (1977). A Competency-Based Workshop on Designing Learning Systems for the West Virginia Department of Education, Division of Instructional Learning Systems Staff. West Virginia State Dept. of Education. https://eric.ed.gov/?id=ED143659
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Product evaluation of the one-week workshop for the full Division of Instructional Learning Systems staff (N=19), using a master performance record of 10 statements collapsed from 20 enabling objectives. The conclusions state that "Workshop participants mastered more than 98% of their workshop enabling objectives", which the authors say supports the mastery learning position of Bloom, Hastings, and Madaus.
 

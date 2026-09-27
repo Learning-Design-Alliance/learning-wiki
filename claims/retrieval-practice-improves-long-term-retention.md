@@ -15,18 +15,24 @@ sources:
     q: 3
     i: "?"
     n: 180
+    kind: causal
+    rigour: "?"
   - id: rowland-2014
     resource: "https://doi.org/10.1037/a0037559"
     title: "Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)"
     author: Rowland, C. A.
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
   - id: adesope-et-al-2017
     resource: "https://doi.org/10.3102/0034654316689306"
     title: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)"
     author: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N."
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Retrieval Practice Improves Long Term Retention
@@ -52,7 +58,7 @@ Actively recalling information from memory (retrieval practice, or the "testing 
 
 Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
 
-`q3` · `i? · the abstract prints no effect size; the full text may` · `n=180`
+`q3` · `i? · the abstract prints no effect size; the full text may` · `n=180` · `causal · r?`
 
 Students read prose passages and then either re-read them or took free-recall tests, with total time equated. Retention was measured after 5 minutes, 2 days or 1 week. Repeated study produced the best immediate performance and the worst delayed performance; repeated testing inverted both. The dissociation between the 5-minute and 1-week results is the load-bearing part of this study: it shows that performance during learning is a misleading index of learning.
 
@@ -60,7 +66,7 @@ Students read prose passages and then either re-read them or took free-recall te
 
 Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)
 
-`q4` · `i2`
+`q4` · `i2` · `quant-synthesis · r?`
 
 Meta-analysis of experiments comparing a testing condition against a restudy control, which is the comparison that matters for instructional decisions — testing against doing nothing overstates the effect. Mean g = 0.50. Moderator analyses found the benefit larger with feedback, with longer retention intervals, and with successful initial retrieval.
 
@@ -68,7 +74,7 @@ Meta-analysis of experiments comparing a testing condition against a restudy con
 
 Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)
 
-`q4` · `i2`
+`q4` · `i2` · `quant-synthesis · r?`
 
 Meta-analysis of practice testing across education levels, comparing it against rereading, filler tasks and no treatment. Mean g = 0.51. The effect appeared for multiple-choice as well as constructed-response practice tests, which matters for a system whose selection items would otherwise be assumed inferior on this dimension.
 

@@ -16,7 +16,7 @@ sources:
 # Peircean architectonics as an interdisciplinary paradigm organized by triadic logic
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Architectonics is presented as the cross-disciplinary term for the systematic, constructivist nature of all relations and creations, appropriated by Peirce from Kant's art of constructing systems of knowledge. Its distinguishing feature is triadic logic: firstness is a monadic relation, secondness a dyadic relation, and thirdness their convergence, which grounds the synechism or continuity produced by integrative forces. The article uses this paradigm to reframe integration in SoTL and to interpret online education theory. As the article states, "The most distinguishing feature in Peirce's architectonics is the triadic logic that animates his arrangement of the disciplines."

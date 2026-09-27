@@ -15,18 +15,22 @@ sources:
     author: Dombey, Henrietta; Formisano, Marina Pascucci
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
   - id: dombey-1999-2
     resource: "https://eric.ed.gov/?id=ED434766"
     title: "Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766"
     author: Dombey, Henrietta; Formisano, Marina Pascucci
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a Modena co-construction task, six five-year-olds dictating game rules to their teacher produced 240 turns all focused on the task with no overt signs of distraction. [→ Dombey 1999](#dombey-1999)
@@ -38,7 +42,7 @@ sources:
 
 Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Video-transcript analysis of one co-construction session in a Modena Scuola Materna, in which six five-year-olds dictated the rules of a card game to their teacher acting as scribe; the transcript showed "240 turns, all focused on the task".
 
@@ -48,7 +52,7 @@ Video-transcript analysis of one co-construction session in a Modena Scuola Mate
 
 Dombey, Henrietta; Formisano, Marina Pascucci. (1999). Examining the Notion of Autonomy in the Context of Early Literacy Learning in Four European Countries. https://eric.ed.gov/?id=ED434766
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The authors' interpretation of the same Modena transcript: although the teacher initiated every exchange and pushed for explicitness, "the words are theirs", and the children corrected each other and determined when the purpose was achieved.
 

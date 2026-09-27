@@ -15,12 +15,14 @@ sources:
     author: Malhotra S, Biswas P, Sharan P, Grover S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The average annual number of patients assessed in detail did not differ significantly across the three time periods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Average annual detailed assessments were 228.8 (Period I), 246.0 (Period II) and 227.17 (Period III), and the difference across periods was not statistically significant. [→ Malhotra S 2007](#malhotra-s-2007)
@@ -31,7 +33,7 @@ sources:
 
 Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent Psychiatric Clinic: A 26-year Study from North India. J. Indian Assoc. Child Adolesc. Ment. Health 3(3). https://eric.ed.gov/?id=EJ896858
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Overall volume analysis opening the Results of the 26-year audit. The article reports the three period means with SDs and states "The difference in the number of patients seen in these three time periods was not statistically significanty"; no effect size is printed.
 

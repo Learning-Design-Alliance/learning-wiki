@@ -15,12 +15,14 @@ sources:
     author: Land, Susan M.; Hannafin, Michael J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The better the five foundations are integrated, the greater the probability of success in the designed setting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors assert that functional integration of the five foundations increases the probability of success, and failure to account for all foundations interactively causes predictable threats to the environment's integrity. [→ Land 1996](#land-1996)
@@ -31,7 +33,7 @@ sources:
 
 Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the Foundations section, illustrated with Figures 2a-2d showing disconnected environments. The authors argue that "failure to account for all foundations interactively causes predictable threats to the integrity of the environment." No empirical test is reported.
 

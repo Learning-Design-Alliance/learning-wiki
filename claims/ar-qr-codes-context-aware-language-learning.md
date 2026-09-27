@@ -15,18 +15,22 @@ sources:
     author: Jaeseok Yang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: jaeseok-yang-2013-2
     resource: "https://doi.org/10.5539/elt.v6n7p19"
     title: "Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19"
     author: Jaeseok Yang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A handheld augmented-reality English learning system using QR codes let students explore a map and retrieve context-aware learning material wirelessly while visiting learning zones. [→ Jaeseok Yang 2013](#jaeseok-yang-2013)
@@ -38,7 +42,7 @@ sources:
 
 Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Liu, Tan, and Chu's (2010) demonstration of a QR-code and augmented-reality-supported mobile English learning system in which students decrypted QR codes at learning zones to retrieve "context-aware learning material wirelessly". No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports Liu, Tan, and Chu's (2010) demonstration of a QR-code and aug
 
 Jaeseok Yang. (2013). Mobile Assisted Language Learning: Review of the Recent Applications of Emerging Mobile Technologies. English Language Teaching, 6(7). https://doi.org/10.5539/elt.v6n7p19
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Leonidis et al.'s (2012) claim that the SESIL ambient-intelligence system "provides an augmented reality environment to support L2 reading and writing practices" in classroom contexts. No effect size is printed.
 

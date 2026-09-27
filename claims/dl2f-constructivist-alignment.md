@@ -15,12 +15,14 @@ sources:
     author: Merueña, J. A. A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # DL2F aligns with social and cognitive constructivist theories of learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The framework aligns with Vygotsky's social constructivism through collaborative learning and with Piaget's cognitive constructivism through active application of language skills in meaningful contexts. [→ Merueña 2023](#meruena-2023)
@@ -31,7 +33,7 @@ sources:
 
 Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the Theory of Learning section: the author roots DL2F in social and cognitive constructivism, experiential learning (Kolb), situated learning (Lave and Wenger), and task-based language teaching, positioning learners as active participants. No data are reported.
 

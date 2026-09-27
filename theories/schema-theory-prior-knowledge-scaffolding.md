@@ -16,7 +16,7 @@ sources:
 # Schema theory: learning new information depends on relating it to existing mental blueprints
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article invokes schema theory and cognitive science to explain how the brain structures knowledge. Following Piaget, it holds that "learning new information depends on relating the new to something already known to students," who draw on a schema, or mental blueprint, of reality. Teachers apply this by designing lessons that build prior knowledge before reading, for example showing beach images before a beach text.

@@ -15,12 +15,14 @@ sources:
     author: Hayes, R. L., and Kan, P. F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Bilinguals' higher accuracy on the ToM2 question was not statistically significant. [→ Hayes 2026](#hayes-2026)
@@ -32,7 +34,7 @@ sources:
 
 Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative skills: comparing English monolingual and Japanese–English bilingual children. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1747702
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Chi-square comparison of comprehension question accuracy across 56 children; monolinguals scored 36% and bilinguals 54% on ToM2. The article also reports the mean comprehension score reached 8.6/10 by four years old and 9.25/10 by five years old, with negatively skewed distributions (Shapiro–Wilk W = 0.75, p < 0.001).
 

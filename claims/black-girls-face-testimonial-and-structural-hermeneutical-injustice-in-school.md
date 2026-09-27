@@ -15,24 +15,30 @@ sources:
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: göktürk-2021-2
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: göktürk-2021-3
     resource: "https://doi.org/10.24106/kefdergi.732138"
     title: "Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138"
     author: Göktürk, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q1` argument or single case
+> **Evidence** · 1 study (3 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article argues that not conforming to the norms of white femininity may result in credibility deficit and tracker prejudice for black girls. [→ Göktürk 2021](#gokturk-2021)
@@ -45,7 +51,7 @@ sources:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's application of testimonial injustice to Ispa-Landa's (2013) ethnography: nonconformity "may result in credibility deficit and tracker prejudice for black girls". A theoretical argument; the article reports no measurement of credibility.
 
@@ -55,7 +61,7 @@ The author's application of testimonial injustice to Ispa-Landa's (2013) ethnogr
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's argument in the Discussion, applying Fricker to Ispa-Landa's study: "hermeneutical injustice is structural and cannot be eroded by personal efforts", unlike testimonial injustice. Theoretical argument; no data.
 
@@ -65,7 +71,7 @@ The author's argument in the Discussion, applying Fricker to Ispa-Landa's study:
 
 Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. Kastamonu Education Journal, 29(1), 218-227. https://doi.org/10.24106/kefdergi.732138
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's argument: a "systematic absence of knowledge about the speaker’s social experience" holds unjust distributions of credibility, trust and recognition in place in a pedagogic medium. Theoretical argument; no data.
 

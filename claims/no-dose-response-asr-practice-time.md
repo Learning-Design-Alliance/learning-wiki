@@ -15,12 +15,14 @@ sources:
     author: "Dillon, Thomas, & Wells, Donald"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Self-reported practice frequency and session length were not associated with observable improvement in pronunciation. [→ Dillon 2023](#dillon-2023)
@@ -31,7 +33,7 @@ sources:
 
 Dillon, Thomas, & Wells, Donald. (2023). Effects of pronunciation training using automatic speech recognition on pronunciation accuracy of Korean English language learners. English Teaching, 78(1), 3-23. https://doi.org/10.15858/engtea.78.1.202303.3
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Questionnaire-based analysis of the treatment group (27 respondents, of whom 15 claimed to study 1 or 2 days per week and 20 claimed 5 to 10 minutes per session) found "no observable difference in improvement according to days studied per week or session time."
 

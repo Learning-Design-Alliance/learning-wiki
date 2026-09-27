@@ -15,12 +15,14 @@ sources:
     author: "Soysal, S., & Yilmaz Kogar, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Item purification made both DIF methods more sensitive, flagging more items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Applying item purification to Lord's chi-square and Raju's UA analyses tended to flag more items as DIF than analyses without purification. [→ Soysal 2021](#soysal-2021)
@@ -31,7 +33,7 @@ sources:
 
 Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 In the TEOG booklet DIF analysis, tables 4-6 show more flagged items under with-purification conditions for both methods; the authors state purification "tended to be more sensitive than performing without purification."
 

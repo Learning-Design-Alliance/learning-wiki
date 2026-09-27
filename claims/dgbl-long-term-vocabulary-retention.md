@@ -15,12 +15,14 @@ sources:
     author: "A. Pradheepa, K. Gurusamy & T. Pushpanathan"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Digital game-based learning supports long-term retention of second-language vocabulary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A meta-analysis by Tsai and Liu (2018), as reported by this review, found digital games effective for SLV acquisition with positive long-term retention effects. [→ A. Pradheepa 2025](#a-pradheepa-2025)
@@ -31,7 +33,7 @@ sources:
 
 A. Pradheepa, K. Gurusamy & T. Pushpanathan. (2025). The role of language games in enhancing vocabulary acquisition: A meta-analysis. Australian Journal of Applied Linguistics, 8(1). https://doi.org/10.29140/ajal.v8n1.2073
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review attributes this to Tsai and Liu (2018), reporting that learners using gamified tools showed improved retention compared with counterparts using conventional approaches; no effect size is printed in the text provided.
 

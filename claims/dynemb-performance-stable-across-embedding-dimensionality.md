@@ -15,12 +15,14 @@ sources:
     author: Liangbei Xu and Mark A. Davenport
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across embedding dimensionalities tested on ASSISTment09 and CT05, DynEmb's AUC showed little variation, indicating robustness to this hyperparameter. [→ Liangbei Xu and Mark A. Davenport 2020](#liangbei-xu-and-mark-a-davenport-2020)
@@ -31,7 +33,7 @@ sources:
 
 Liangbei Xu and Mark A. Davenport. (2020). Dynamic Knowledge Embedding and Tracing. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
 Experiment 2 varied the dynamic embedding dimensionality on the ASSISTment09 and Cognitive Tutor 'Algebra I 2005' (CT05) datasets, the two with the smallest numbers of interactions, and evaluated on the response prediction task; Figure 3 shows AUC varying little across dimensionalities.
 

@@ -14,7 +14,7 @@ grain_size: lesson
 # Jigsaw Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 Jigsaw Learning is the short-form canonical target for the jigsaw pattern in which learners develop expertise on one part of the material and then teach it to peers so the group can assemble a fuller understanding.

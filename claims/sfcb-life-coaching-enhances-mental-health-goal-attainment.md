@@ -15,12 +15,14 @@ sources:
     author: Grant, Anthony M.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adults who completed the SF/CB life coaching program showed significantly enhanced mental health, quality of life and increased goal attainment. [→ Grant 2001](#grant-2001)
@@ -31,7 +33,7 @@ sources:
 
 Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The dissertation's final study evaluated a solution-focused cognitive-behavioural life coaching program with 20 adults pursuing goals that had eluded them "for an average of 23.5 months". The abstract reports participation "was associated with significantly enhanced mentalhealth, quality of life and increased goal attainment"; no effect sizes are printed in the supplied text.
 

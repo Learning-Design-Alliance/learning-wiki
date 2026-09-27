@@ -15,18 +15,22 @@ sources:
     author: Bértolo, H.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: bértolo-2005-2
     resource: "https://www.uv.es/psicologica"
     title: "Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica"
     author: Bértolo, H.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Visual imagery is possible without visual perception or experience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` The author's own study supports the hypothesis that visual imagery is possible without visual experience, since congenitally blind subjects show visual dream content, draw it, and show the same alpha-VAI correlation as sighted subjects. [→ Bértolo 2005](#bertolo-2005)
@@ -38,7 +42,7 @@ sources:
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The article's abstract and discussion state its own PSG and drawing study of congenitally blind subjects supports that "it is possible to have visual imagery without visual experience". The author hypothesises blind subjects' dreams correspond to activation of visual cortical regions, possibly driven by auditory and tactile inputs.
 
@@ -48,7 +52,7 @@ The article's abstract and discussion state its own PSG and drawing study of con
 
 Bértolo, H. (2005). Visual imagery without visual perception? Psicológica, 26, 173-188. https://www.uv.es/psicologica
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 In the discussion the author counters the objection that blind subjects' reports are merely spatial-metric representations, arguing "it is difficult to justify such a variety of scenes, objects and characters depicted based only in the preservation of metric and spatial properties". This is an interpretive argument, not a tested result.
 

@@ -17,7 +17,7 @@ sources:
 # Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report states its tool design strategy directly: "Our strategy is to design assessment tools that (a) measure one or more components of the CRESST model of learning, (b) are stand-alone or integrate with other tools, (c) have authoring capability, (d) employ automated scoring and reporting, and (e) are Internet-deployable in both Windows and Macintosh environments." Each of the eight proposed tools is evaluated against these requirements.

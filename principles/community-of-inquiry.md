@@ -17,7 +17,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies, `q2`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
 Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence. It is useful when instruction relies on discussion, collaboration, and shared sensemaking rather than only individual study.

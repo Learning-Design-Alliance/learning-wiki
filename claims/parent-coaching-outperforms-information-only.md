@@ -15,6 +15,8 @@ sources:
     q: 4
     i: "?"
     n: 77 published evaluations
+    kind: quant-synthesis
+    rigour: "?"
   - id: sanders-et-al-2000
     resource: "https://doi.org/10.1037/0022-006X.68.4.624"
     title: "Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-positive parenting program: A comparison of enhanced, standard, and self-directed behavioral family intervention for parents of children with early onset conduct problems. *Journal of Consulting and Clinical Psychology, 68*(4), 624–640. [doi:10.1037/0022-006X.68.4.624](https://doi.org/10.1037/0022-006X.68.4.624)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 305 preschoolers
+    kind: causal
+    rigour: "?"
 ---
 
 # Parent Coaching Outperforms Information Only
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
 
 Coaching parents through active practice with feedback produces larger gains in parent skills and child outcomes than providing information alone (e.g., written materials, lectures, or psychoeducation without guided practice).
 
@@ -43,7 +47,7 @@ Coaching parents through active practice with feedback produces larger gains in 
 
 Kaminski, J. W., Valle, L. A., Filene, J. H., & Boyle, C. L. (2008). A Meta-analytic Review of Components Associated with Parent Training Program Effectiveness. *Journal of Abnormal Child Psychology, 36*(4), 567–589. [doi:10.1007/s10802-007-9201-9](https://doi.org/10.1007/s10802-007-9201-9)
 
-`q4 · meta-analysis` · `i? · no pooled effect size reported for this specific component` · `n=77 published evaluations`
+`q4 · meta-analysis` · `i? · no pooled effect size reported for this specific component` · `n=77 published evaluations` · `quant-synthesis · r?`
 
 This component analysis pooled 77 published evaluations of parent training programs for children aged 0–7, using program content and delivery-method characteristics as moderators of effect sizes on parenting behavior and child externalizing behavior. After controlling for research-design differences, requiring parents to practice new skills with their own children during sessions — the active, coached component, as opposed to programs that only convey content — was one of a small set of components consistently associated with larger effects; components limited to conveying information (e.g., teaching problem-solving or promoting cognitive/academic skills) were among those associated with smaller effects. The abstract reports which components predict larger vs. smaller effects but does not give a single pooled effect size for "practice" alone, so no d/g/r/OR value is coded here.
 
@@ -51,7 +55,7 @@ This component analysis pooled 77 published evaluations of parent training progr
 
 Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-positive parenting program: A comparison of enhanced, standard, and self-directed behavioral family intervention for parents of children with early onset conduct problems. *Journal of Consulting and Clinical Psychology, 68*(4), 624–640. [doi:10.1037/0022-006X.68.4.624](https://doi.org/10.1037/0022-006X.68.4.624)
 
-`q3 · randomized controlled trial` · `i? · no standardized effect size reported in what was read` · `n=305 preschoolers`
+`q3 · randomized controlled trial` · `i? · no standardized effect size reported in what was read` · `n=305 preschoolers` · `causal · r?`
 
 305 preschoolers at high risk of developing conduct problems were randomly assigned to enhanced behavioral family intervention (EBFI, practitioner-coached plus extra support), standard BFI (SBFI, practitioner-coached), self-directed BFI (SDBFI, workbook/written materials with minimal practitioner contact), or a wait-list control. At postintervention, the two practitioner-assisted (coached) conditions outperformed the self-directed and wait-list conditions on parent-reported disruptive child behavior, dysfunctional parenting, parental competence, and consumer satisfaction, and EBFI showed the greatest reliable improvement in children's behavior overall. By one-year follow-up, all three active conditions had converged on similarly improved *observed* disruptive behavior, but the two coached conditions still showed greater improvement than self-directed on *parent-reported* disruptive behavior — a partial qualification of the claim's durability that the page's Discussion should note.
 

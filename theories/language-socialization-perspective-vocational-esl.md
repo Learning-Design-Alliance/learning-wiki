@@ -16,7 +16,7 @@ sources:
 # Language socialization perspective on combined language and occupational skills training
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article interprets participants' learning through a language socialization lens, in which language learning, sociocultural knowledge, and social interaction are interdependent. It states that participants' experiences "ties in with language socialization perspectives on the interdependence on language learning, sociocultural knowledge and activities, and the role of social interaction and experience in the development of new language and literacy competences." On this view, learning English to search for a job involves not only language but cultural scripts and schemata about what to say, to whom, and how, acquired through participation in the target community.

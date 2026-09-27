@@ -15,18 +15,22 @@ sources:
     author: Fukuda, A.
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
   - id: fukuda-2018-2
     resource: "https://doi.org/10.25256/PAAL.22.1.4"
     title: "Fukuda, A. (2018). The Japanese EFL Learners' Self-Regulated Language Learning and Proficiency. Journal of Pan-Pacific Association of Applied Linguistics, 22(1), 65-87. https://doi.org/10.25256/PAAL.22.1.4"
     author: Fukuda, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Self-efficacy (r = .304), intrinsic goal orientation (r = .263), and test anxiety (r = -.193) correlated significantly with proficiency. [→ Fukuda 2018](#fukuda-2018)
@@ -38,7 +42,7 @@ sources:
 
 Fukuda, A. (2018). The Japanese EFL Learners' Self-Regulated Language Learning and Proficiency. Journal of Pan-Pacific Association of Applied Linguistics, 22(1), 65-87. https://doi.org/10.25256/PAAL.22.1.4
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Multiple regression of five MSLQ motivational factors on TOEIC scores for 97 Japanese university EFL freshmen. The study reports "considerable correlations between SE ( r = .304, p < .01), IGO ( r = .263, p < .01), TANX ( r = -.193, p < .05) and proficiency."
 
@@ -48,7 +52,7 @@ Multiple regression of five MSLQ motivational factors on TOEIC scores for 97 Jap
 
 Fukuda, A. (2018). The Japanese EFL Learners' Self-Regulated Language Learning and Proficiency. Journal of Pan-Pacific Association of Applied Linguistics, 22(1), 65-87. https://doi.org/10.25256/PAAL.22.1.4
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The same multiple regression on motivational factors found no significant predictors; the study reports the five factors "explained only 9.1% of the variance in prof iciency (Adj.R 2 = .091), and no significant predictors appeared." Equivalence was not tested.
 

@@ -15,18 +15,22 @@ sources:
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: jennifer-d-moss-2017-2
     resource: "https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/"
     title: "Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/"
     author: Jennifer D. Moss
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Both SDT and IE hold that people's actions are based on their perceptions of their contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Perceptions, not the objective situation, drive behavior: a student may perceive a sincere invitation as insincere or a manageable assignment as too difficult, and those perceptions determine motivation and behavior. [→ Jennifer D. Moss 2017](#jennifer-d-moss-2017)
@@ -38,7 +42,7 @@ sources:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Conceptual argument from the article's perception section linking both theories: SDT's cognitive evaluation theory holds that perceived sense of control and competence determines intrinsic motivation, while IE's perceptual tradition holds that behavior is a function of how people perceive the world and themselves.
 
@@ -48,7 +52,7 @@ Conceptual argument from the article's perception section linking both theories:
 
 Jennifer D. Moss. (2017). Inviting Autonomy: Common Roots and Beliefs of Self-determination Theory and Invitational Education Theory. Journal of Invitational Theory and Practice. https://www.invitationaleducation.net/journal-of-invitational-theory-and-practice/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The article attributes to Novak (1981) the point that a message is inviting if it affirms a person's value, ability, or responsibility, but the recipient decodes the message and ascribes perceived intent; the article also notes students new to being invited perceive even small invitations positively.
 

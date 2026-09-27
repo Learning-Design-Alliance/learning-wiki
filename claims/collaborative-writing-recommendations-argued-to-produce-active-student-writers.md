@@ -15,18 +15,22 @@ sources:
     author: DeCiccio, Albert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: deciccio-1988-2
     resource: "https://eric.ed.gov/?id=ED294201"
     title: "DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201"
     author: DeCiccio, Albert C.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author submits that acting on the recommendations will yield active student writers who focus attentively on peers' responses to prepared problems. [→ DeCiccio 1988](#deciccio-1988)
@@ -38,7 +42,7 @@ sources:
 
 DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's own prediction in the paper's conclusion, not a tested result. The reason given is that teachers "will be helping them to focus attentivelyon what their peers say"; no data are offered.
 
@@ -48,7 +52,7 @@ The author's own prediction in the paper's conclusion, not a tested result. The 
 
 DeCiccio, Albert C. (1988). Social Constructionism and Collaborative Learning: Recommendations for Teaching Writing. Paper presented at the Annual Meeting of the Conference on College Composition and Communication. https://eric.ed.gov/?id=ED294201
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 A further predicted benefit stated in the conclusion, with no data and no argument beyond the recommendations themselves: students will "learn tact and responsibility".
 

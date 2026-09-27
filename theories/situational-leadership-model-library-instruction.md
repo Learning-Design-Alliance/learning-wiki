@@ -16,7 +16,7 @@ sources:
 # Situational Leadership Model as a framework for assessing library learners and selecting instructional style
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper adapts Hersey's Situational Leadership Model, already used in management, teaching, nursing and counseling, as a conceptual framework for librarians providing individual instruction. Teaching style is matched to assessed learner ability: "One's leadership or teaching style is determined by the client's ability, and follows a progression through four quadrants, representing the student's developmental level and the appropriate leadership style." The model is meant to make instruction more learner-centered by grounding technique choice in rapid assessment of experience and ability.

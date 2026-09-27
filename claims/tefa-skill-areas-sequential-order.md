@@ -15,12 +15,14 @@ sources:
     author: Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Teachers typically wrestle first with operating the technology (comfortable within about a month), then with designing effective questions through much of the first year, then with classroom discussion dynamics. [→ Ian D. Beatty 2008](#ian-d-beatty-2008)
@@ -31,7 +33,7 @@ sources:
 
 Ian D. Beatty, Allan Feldman, William J. Leonard, William J. Gerace, Karen St. Cyr, Hyunju Lee, Robby Harris. (2008). Teacher Learning of Technology-Enhanced Formative Assessment. NARST 2008 conference paper. https://eric.ed.gov/?q=Teacher+Learning+of+Technology-Enhanced+Formative+Assessment
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Cross-case interpretive observation from the project's case studies and longitudinal data, offered as the authors' emerging pattern rather than a tested result. The five skill areas framework comes from the authors' previous work (Feldman & Capobianco, 2008).
 

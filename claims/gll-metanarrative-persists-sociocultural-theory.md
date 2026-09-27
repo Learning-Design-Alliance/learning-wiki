@@ -15,12 +15,14 @@ sources:
     author: Chen, J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Even after SLA shifted from cognitive/personality traits to sociocultural perspectives, a metanarrative persists: contemporary sociocultural theory frames good language learners' success as relying on access to a variety of community conversations. [→ Chen 2016](#chen-2016)
@@ -31,7 +33,7 @@ sources:
 
 Chen, J. (2016). Demonized Learners in Sociocultural Theory. Advances in Language and Literary Studies, 7(3), 168-177. https://doi.org/10.7575/aiac.alls.v.7n.3p.168
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument tracing the Good Language Learner construct from the 1980s onward: the author argues that although the field broke from modernist trait idealization, "any metanarrative, regardless of how multiple, varied and evolved, nevertheless persists to confine perspectives of GLLs."
 

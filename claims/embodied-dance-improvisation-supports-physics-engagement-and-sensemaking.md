@@ -15,12 +15,14 @@ sources:
     q: 2
     i: 2
     n: 15 high-school girls from two community-based dance centers
+    kind: qualitative
+    rigour: 2
 ---
 
 # Embodied dance improvisation supports physics engagement and sense-making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium · n=15 high-school girls from two community-based dance centers
+> **Evidence** · 1 study · qualitative `r2` · `q2` · `i2` medium · n=15 high-school girls from two community-based dance centers
 
 Validating culturally specific movement (e.g., krumping, stepping) as legitimate physics expression, and using dance improvisation to explore physics concepts, shifted participating Black girls' emotional relationship to physics content and gave them an embodied vocabulary for reasoning about and critiquing their own scientific models.
 
@@ -39,7 +41,7 @@ Validating culturally specific movement (e.g., krumping, stepping) as legitimate
 
 Solomon, F., Champion, D., Steele, M., & Wright, T. (2022). Embodied physics: Utilizing dance resources for learning and engagement in STEM. *Journal of the Learning Sciences, 31*(1), 73-106. [https://doi.org/10.1080/10508406.2021.2023543](https://doi.org/10.1080/10508406.2021.2023543)
 
-`q2 · qualitative micro-ethnographic video analysis of an 8-week program, supplemented with field notes, participant journals, surveys, and interviews; no comparison condition` · `i2 · clear, well-documented qualitative pattern of shifted engagement and emergent cultural participation, not quantified` · `n=15 high-school girls from two community-based dance centers`
+`q2 · qualitative micro-ethnographic video analysis of an 8-week program, supplemented with field notes, participant journals, surveys, and interviews; no comparison condition` · `i2 · clear, well-documented qualitative pattern of shifted engagement and emergent cultural participation, not quantified` · `n=15 high-school girls from two community-based dance centers` · `qualitative · r2`
 
 Fifteen Black (some also Caribbean or Latinx-identifying) high-school girls with prior dance training participated in an 8-week program pairing physics content (gravity, Newton's laws, atomic bonding) with dance improvisation and choreography, designed after 30 hours of observation at each participant's community dance center. [Embodied Physics Inquiry Through Dance Improvisation](../patterns/embodied-physics-inquiry-through-dance.md) documents the session structure. Video and journal data show a shift from strong initial rejection of canonical physics materials (the periodic table) to embodied engagement, cultural validation of dance styles broadening participation, and at least one instance of students using their own embodied model to identify and address that model's conceptual limits. The equity context motivating the study (0.8% of physics bachelor's degrees awarded to Black women, versus an 11% average across other fields) is drawn from a national report cited in the paper, not from the study's own data collection.
 

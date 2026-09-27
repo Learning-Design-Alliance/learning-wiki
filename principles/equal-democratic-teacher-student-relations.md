@@ -17,7 +17,7 @@ sources:
 # Change teaching from authoritative conducting to equal association and communication between teachers and students
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 The article argues teaching should move from authoritative conducting to equal association and communication: in traditional teaching teachers hold a sovereign authoritative position and do not respect or care for students as necessary, creating gaps and conflicts. Teachers should give students "more respects, one more chance, and one more trust", treat students with an equal, kind and considerate attitude, and supply a loose environment for learning, so that students learn to communicate with and respond to teachers, greatly improving teacher-student relations and constructing a democratic and equal relation.

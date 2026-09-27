@@ -15,12 +15,14 @@ sources:
     author: "Wagner, M.-N. L., Donskaya, M. V., Kupriyanova, M. E., & Ovezova, U. A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students showed a high level of interest and rated the MALL technology as significant in the implementation survey
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A survey of students' interest toward using the MALL technology showed a rather high level of both interest and evaluation of significance. [→ Wagner 2016](#wagner-2016)
@@ -31,7 +33,7 @@ sources:
 
 Wagner, M.-N. L., Donskaya, M. V., Kupriyanova, M. E., & Ovezova, U. A. (2016). Perspectives of Introduction of the Mobile-Assisted Language Learning (Mall) Technology. International Journal of Environmental & Science Education, 11(15), 8562-8571. http://creativecommons.org/licenses/by/4.0/
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 A survey conducted during the Mobl21 implementation with the participating senior-year students measured interest toward the MALL technology; the article reports "a rather high level of both interest and evaluation of significance" without printing statistics or an effect size.
 

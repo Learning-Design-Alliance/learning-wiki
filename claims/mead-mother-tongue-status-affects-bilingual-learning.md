@@ -15,12 +15,14 @@ sources:
     author: Monroe, Suzanne S.
     q: 1
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Mead argued that if the mother tongue is treated as an inferior version of the standard language rather than as a dialect, movement between the phonemic, morphemic, and cognitive structures of home and school language becomes much more difficult. [→ Monroe 1992](#monroe-1992)
@@ -31,7 +33,7 @@ sources:
 
 Monroe, Suzanne S. (1992). Margaret Mead: Anthropological Perspective on Educational Change. ERIC Document ED 356 168. https://eric.ed.gov/?id=ED356168
 
-`q1 · i?`
+`q1 · i?` · `review · r2`
 
 The report quotes Mead's 1971 article "Early Childhood Experience and Later Education in Complex Cultures," in which she makes this cross-cultural argument about bilingualism and calls for exploring later effects on thinking ability of co-existing languages. Theoretical argument, no data reported.
 

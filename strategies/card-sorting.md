@@ -12,7 +12,7 @@ generated:
 # Card Sorting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies, `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Card sorting asks learners to organize a physical or digital set of cards — each labeled with a concept, example, symptom, term, or claim — into groups, either under teacher-specified criteria or by generating their own categories and rationales. The sorting process externalizes learners' mental models, making misconceptions visible while requiring active comparison, discrimination, and categorization of the material.

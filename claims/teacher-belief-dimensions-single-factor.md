@@ -15,12 +15,14 @@ sources:
     author: "Op 't Eynde, P., & De Corte, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Items referring to how accepted students feel, the teacher's sensitivity to their needs, how motivating the teacher is, and how instruction is organized load significantly on the same factor (Factor 1). [→ Op 't Eynde 2003](#op-t-eynde-2003)
@@ -31,7 +33,7 @@ sources:
 
 Op 't Eynde, P., & De Corte, E. (2003). Students' mathematics-related belief systems: Design and analysis of a questionnaire. https://eric.ed.gov/?id=ED475708
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Result from the principal component analysis of MRBQ responses: items on the cognitive, motivational and affective dimensions of the teacher's behavior loaded together on Factor 1 (Beliefs about the role and the functioning of their own teacher), e.g. 'Our teacher is friendly to us' (.884).
 

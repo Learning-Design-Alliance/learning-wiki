@@ -15,12 +15,14 @@ sources:
     author: Altiner, C.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Turkish EFL preparatory students were somewhat willing to communicate in English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported being somewhat willing to communicate in the L2. [→ Altiner 2018](#altiner-2018)
@@ -31,7 +33,7 @@ sources:
 
 Altiner, C. (2018). Turkish EFL Learners' Willingness to Communicate in L2 and Motivation. Journal of Education and Training Studies, 6(11a). https://doi.org/10.11114/jets.v6i11a.3815
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive finding from the survey of 106 preparatory students at Uşak University; the article reports participants "were somewhat willing to communicate" but prints no descriptive means or effect size for this level.
 

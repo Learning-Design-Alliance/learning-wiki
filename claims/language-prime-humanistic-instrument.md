@@ -15,12 +15,14 @@ sources:
     author: Jenkins, William A.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Language is the prime humanistic instrument, at once both the tool and the product of reason
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author argues language is more basic than reason in making humans human, because it is both the tool and the product of reason. [→ Jenkins 1962](#jenkins-1962)
@@ -31,7 +33,7 @@ sources:
 
 Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the address's 'Language Is Humanizer' section: the author asserts, without empirical evidence, that "Language is the prime humanistic instrument" and is more basic than reason because it is both tool and product of reason.
 

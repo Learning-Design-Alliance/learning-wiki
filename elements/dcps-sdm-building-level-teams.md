@@ -17,7 +17,7 @@ sources:
 # DCPS Special Education Service Delivery Model (SDM): two collaborative school-based teams (BLT and BLMDT) for decentralized identification, assessment, and placement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 3 against) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The SDM is a District of Columbia Public Schools model that decentralizes identification, assessment, and placement of special education students to local schools via two collaborative teams: the Building Level Team (BLT) of school-based staff with expertise in problem solving and classroom instruction, and the Building Level Multidisciplinary Team (BLMDT) including the principal, a special education teacher, the student's classroom teacher(s), qualified examiners, and parents. Teams are to "provide a method to analyze learning and appropriately program for students", provide early intervention, and plan education in the least restrictive environment.

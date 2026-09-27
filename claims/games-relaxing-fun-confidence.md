@@ -15,12 +15,14 @@ sources:
     author: "Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students view games as relaxing and fun, building confidence for speaking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Relaxing and fun were the most frequent codes in students' general views on using games to develop speaking skills. [→ Ismayilli 2025](#ismayilli-2025)
@@ -31,7 +33,7 @@ sources:
 
 Ismayilli, T. M., Mammadova, K. M., & Asadova, A. A. (2025). The impact of educational games on speaking skills in the foreign language teaching process. Novitas-ROYAL (Research on Youth and Language), 19(1), 229–240. https://eric.ed.gov/?id=EJ1469668
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Content analysis of general views on games (Table 1) found relaxing and fun were each coded for 11 students, useful for 9, and exciting for 7; one student said games reduce stress while speaking and increase enthusiasm because they are fun.
 

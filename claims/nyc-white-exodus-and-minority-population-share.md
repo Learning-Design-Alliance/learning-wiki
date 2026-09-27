@@ -15,12 +15,14 @@ sources:
     author: Stamm, Colleen P. (Ed.)
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # New York City lost nearly one million white residents from 1960 to 1970 while blacks and Puerto Ricans grew to nearly 35% of the population
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r1` · `q2`
 
 ## Subclaims
 `q2 i?` From 1960-1970 nearly one million white middle-class residents migrated from New York City, and blacks and Puerto Ricans came to constitute nearly 35% of the city's population. [→ Stamm 1973](#stamm-1973)
@@ -31,7 +33,7 @@ sources:
 
 Stamm, Colleen P. (Ed.). (1973). Industrial Arts and the Challenge of an Urban Society. American Industrial Arts Association. https://eric.ed.gov/?id=ED083382
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r1`
 
 Demographic analysis in Gifford's address, citing census-based population data (Table 1, sourced to Rosenwaike's Population History of New York City) showing the white middle-class "stepped up its exodus" and that blacks and Puerto Ricans "now constitute nearly 35% of the city's population."
 

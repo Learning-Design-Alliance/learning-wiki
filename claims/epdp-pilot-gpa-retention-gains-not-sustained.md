@@ -13,16 +13,20 @@ sources:
     title: epdp-pilot
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: epdp-sustain
     title: epdp-sustain
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the 2010-2011 ePDP pilot, students in sections taught by faculty who received intensive professional development had significantly higher first-year GPAs and first-to-second-semester retention rates than students in non-ePDP sections. [→ epdp-pilot](#epdp-pilot)
@@ -34,7 +38,7 @@ sources:
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Campus report of the 2010-2011 University College ePDP pilot, in which a small group of faculty volunteers completed an intensive two-week professional development program focused on reflection before teaching ePDP sections. The article reports that these students "had significantly higher first-year GPAs and first-to-second-semester retention rates" than non-ePDP peers; no effect size is printed.
 
@@ -44,7 +48,7 @@ Campus report of the 2010-2011 University College ePDP pilot, in which a small g
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Follow-up observation reported by the authors, citing Buyarski (2016): after the pilot, University College could not offer the same intensive professional development to later adopters, and the pilot-year gains were "not consistently sustained." No statistics are printed for the later years.
 

@@ -15,12 +15,14 @@ sources:
     author: Daloglu, A.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Implicit instruction was preferred by Prep School, freshman and sophomore students, whereas MFI was preferred by junior and senior students, suggesting beliefs change as students progress. [→ Daloglu 2020](#daloglu-2020)
@@ -31,7 +33,7 @@ sources:
 
 Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, 13(10). https://doi.org/10.5539/elt.v13n10p158
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive statistics by year of study (Table 1, N = 927). The article reports that "implicit instruction was pre ferred by Prep School, freshman and sophomore students, whereas MFI was preferred by junior and senior studen ts."
 

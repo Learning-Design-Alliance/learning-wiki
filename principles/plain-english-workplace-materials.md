@@ -17,7 +17,7 @@ sources:
 # Rewrite workplace instructional material in Plain English matched to the audience's reading skills
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The package holds that written workplace genres (narrative, informal, instructional, imperative) each demand different reading skills, and that "Many writers of instructional or imperative material lose sight of the reading skills of their intended audience and hence the material becomes incomprehensible". Supervisors therefore practise converting officialese and jargonistic training text into Plain English, selecting style according to audience and purpose.

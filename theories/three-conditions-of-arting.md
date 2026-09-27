@@ -16,7 +16,7 @@ sources:
 # Three coined conditions of arting: artistic causality, idiosyncratic meaning, and intentional symbolization
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report coins three terms for the basic conditions of making art, present from early childhood: artistic causality (the artist as proactive origin), idiosyncratic meaning (private, affective, image-bound meaning), and intentional symbolization (working idiosyncratic meaning into materials). The author writes that "wherever art is made I see evidence of artistic causality, idiosyncratic. meaning, and intentional symbolization." These conditions frame what the methodology must access.

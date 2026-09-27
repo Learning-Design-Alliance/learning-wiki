@@ -15,12 +15,14 @@ sources:
     author: Zhang Beibei et al
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Group observation assignment total scores were significantly higher after the AV workshop than after the VS workshop (large effect). [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
@@ -31,7 +33,7 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Paired comparison of the 8 groups' observation assignments after Workshop 1 (VS) and Workshop 2 (AV), with Wilcoxon signed-rank robustness checks (z = −2.375, p = 0.018). The AV condition scored "significantly higher than that under the VS condition". Cohen's d = −1.216, 95% CI [−2.126, −0.261].
 

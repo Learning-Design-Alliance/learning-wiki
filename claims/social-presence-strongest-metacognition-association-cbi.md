@@ -15,12 +15,14 @@ sources:
     author: "Sadaf, A., Kim, S. Y., & Olesova, L."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Social presence demonstrated the strongest association with both self-regulation and co-regulation, followed by cognitive presence. [→ Sadaf 2022](#sadaf-2022)
@@ -32,7 +34,7 @@ sources:
 
 Sadaf, A., Kim, S. Y., & Olesova, L. (2022). Relationship between metacognition and online Community of Inquiry in an online case-based course. Online Learning, 26(4), 79-93. https://doi.org/10.24059/olj.v26i4.3474
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational analysis under RQ3 in the survey of 47 graduate students in the online CBI course. The article reports "social presence demonstrated the strongest association with both self-regulation and co-regulation, followed by cognitive presence."
 

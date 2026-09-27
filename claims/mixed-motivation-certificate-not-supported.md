@@ -15,18 +15,22 @@ sources:
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: liu-2016-2
     resource: "https://doi.org/10.5539/elt.v9n4p92"
     title: "Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92"
     author: Liu, L.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students were motivated in a mixed manner, blending extrinsic and intrinsic subtypes in their self-descriptions. [→ Liu 2016](#liu-2016)
@@ -38,7 +42,7 @@ sources:
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Conclusion drawing on the questionnaire results and focus-group interviews with respondents; the author concludes "students were motivated in a mixed manner" and that interviewees mixed subtypes in their descriptions.
 
@@ -50,7 +54,7 @@ motivational subtypes and tended to mix different subtypes up in their descripti
 
 Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Focus-group interview finding: "most students responded that they had already passed the CET4 or CET6", so certificate motivation was "not sufficient to justify" in this group; students instead cared about real knowledge and skills for future work.
 

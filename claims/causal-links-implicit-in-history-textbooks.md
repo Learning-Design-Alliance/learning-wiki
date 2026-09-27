@@ -15,12 +15,14 @@ sources:
     author: Armbruster, Bonnie B.; Anderson, Thomas H.; Bruning, Roger R.; Meyer, Linda A.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students answering questions such as 'How did the cotton gin affect the spread of slavery?' must infer causal links that the textbook does not state explicitly. [→ Armbruster 1984](#armbruster-1984)
@@ -31,7 +33,7 @@ sources:
 
 Armbruster, Bonnie B.; Anderson, Thomas H.; Bruning, Roger R.; Meyer, Linda A. (1984). What Did You Mean by That Question? A Taxonomy of American History Questions. Technical Report No. 308. https://eric.ed.gov/?id=ED240511
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The authors' analysis of a worked example (cotton gin and spread of slavery) shows students must infer a chain of enabling links: the cotton gin enabled different cottons to be grown profitably, causing farming and then slavery to spread westward. The text notes "causal relationships are often left implicit in textbooks," citing Armbruster and Anderson (1982).
 

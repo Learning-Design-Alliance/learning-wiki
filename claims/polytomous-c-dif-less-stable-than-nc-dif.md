@@ -15,12 +15,14 @@ sources:
     author: "Flowers, C. P., Oshima, C., & Raju, N."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # C-DIF was less stable than NC-DIF across simulated conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` C-DIF showed occasional erratic detection rates in two conditions, while NC-DIF remained stable across all conditions. [→ Flowers 1996](#flowers-1996)
@@ -31,7 +33,7 @@ sources:
 
 Flowers, C. P., Oshima, C., & Raju, N. (1996). A Description and Demonstration of the Polytomous-DFIT Framework. https://eric.ed.gov/?id=ED401319
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Simulation comparison of the two indices. C-DIF varied from expectations in 40-item/impact Condition 2 (true positive rate .50) and 20-item/no-impact Condition 3 (.65); additional replications matched theoretical expectations (.80, .03 false positive). NC-DIF "had stable results acrossall conditions."
 

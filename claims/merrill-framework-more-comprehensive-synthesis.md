@@ -15,12 +15,14 @@ sources:
     author: Molenda, Michael
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Merrill's First Principles may provide a more comprehensive synthesis than prior lesson-design frameworks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The digest argues that Merrill's First Principles of Instruction may provide a more comprehensive synthesis of instructional research and theory than the behaviorist programmed-instruction format and Gagne's Events of Instruction. [→ Molenda 2002](#molenda-2002)
@@ -31,7 +33,7 @@ sources:
 
 Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the digest's introductory framing statement, an authorial assessment rather than a tested comparison. It asserts that Merrill's framework "may provide an even more comprehensive synthesis" than prior frameworks, and the digest offers no empirical test of this claim.
 

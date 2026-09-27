@@ -35,6 +35,7 @@ WIKI_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(Path(__file__).parent))
 import build_reverse_index  # noqa: E402
 import evidence_rollup as er  # noqa: E402
+import okf_lib  # noqa: E402
 
 OUT = WIKI_ROOT / "evidence.md"
 SMD_TYPES = {"cohens_d", "hedges_g", "standardized_mean_difference"}
@@ -96,7 +97,7 @@ def build() -> str:
     w("What the wiki's evidence adds up to. Every number counts **distinct studies**, keyed by DOI "
       "(or by author-year where a study has none), because one source often yields many claims. "
       "Nothing here is a verdict: tiers are reported as ranges and counts, and the impact codes are "
-      "never averaged. `q` and `i` are defined in the [Schema & Guide](CLAUDE.md) (evidence quality tiers and impact magnitude).")
+      "never averaged. `q`, `i`, kind and rigour are defined in the [Schema & Guide](CLAUDE.md) and in `evidence-scales.json`.")
     w("")
     w("## The corpus")
     w("")
@@ -106,7 +107,23 @@ def build() -> str:
       f"| Claims with no coded evidence | {spc[0]:,} |\n"
       f"| Studies reporting an effect size | {with_effect:,} of {len(studies):,} ({_pct(with_effect, len(studies))}) |")
     w("")
-    w("**Studies by quality tier** (where one study is coded differently on two claims, the tier most of its entries give):")
+    kr = Counter((studies.kind(k), studies.rigour(k)) for k in studies.entries if studies.kind(k))
+    if kr:
+        w("**Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, "
+          "so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the "
+          "text available could not show it):")
+        w("")
+        w("| kind | r3 | r2 | r1 | r? | all |")
+        w("|---|---|---|---|---|---|")
+        for kind in okf_lib.EVIDENCE_KINDS:
+            row = [kr.get((kind, r), 0) for r in (3, 2, 1, "?")]
+            if sum(row):
+                w(f"| {kind} | " + " | ".join(f"{v:,}" for v in row) + f" | {sum(row):,} |")
+        uncoded = sum(1 for k in studies.entries if not studies.kind(k))
+        if uncoded:
+            w(f"| not yet coded | | | | | {uncoded:,} |")
+        w("")
+    w("**Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):")
     w("")
     w("| q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | "
       "q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |")

@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 1
     n: 2,050 participants (8 studies, 13 interventions)
+    kind: quant-synthesis
+    rigour: 2
   - id: neighbors-et-al-2004
     resource: "https://doi.org/10.1037/0022-006x.72.3.434"
     title: "Neighbors, C., Larimer, M. E., & Lewis, M. A. (2004). Targeting Misperceptions of Descriptive Drinking Norms: Efficacy of a Computer-Delivered Personalized Normative Feedback Intervention. *Journal of Consulting and Clinical Psychology, 72*(3), 434–447. [doi:10.1037/0022-006x.72.3.434](https://doi.org/10.1037/0022-006x.72.3.434)"
@@ -22,12 +24,14 @@ sources:
     q: 3
     i: "?"
     n: 252
+    kind: causal
+    rigour: "?"
 ---
 
 # Personalized Normative Feedback Corrects Misperceived Norms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i1` small
 
 Personalized normative feedback gives learners individualized information comparing their own behavior, beliefs, or performance against actual peer norms, with the aim of correcting overestimates of how much others engage in (or endorse) a behavior.
 
@@ -43,7 +47,7 @@ Personalized normative feedback gives learners individualized information compar
 
 Dotson, K. B., Dunn, M. E., & Bowers, C. A. (2015). Stand-Alone Personalized Normative Feedback for College Student Drinkers: A Meta-Analytic Review, 2004 to 2014. *PLOS ONE, 10*(10), e0139518. [doi:10.1371/journal.pone.0139518](https://doi.org/10.1371/journal.pone.0139518)
 
-`q4 · meta-analysis` · `i1 · small effect, dbetween=0.291` · `n=2,050 participants (8 studies, 13 interventions)`
+`q4 · meta-analysis` · `i1 · small effect, dbetween=0.291` · `n=2,050 participants (8 studies, 13 interventions)` · `quant-synthesis · r2`
 
 A meta-analysis of eight controlled outcome studies (13 interventions, 2,050 participants) evaluating computer-delivered, stand-alone [personalized normative feedback](../claims/personalized-normative-feedback-corrects-misperceived-norms.md) for college drinking. Relative to assessment-only, attention-matched, or active-treatment control groups, students who received gender-neutral PNF (dbetween = 0.291, 95% CI [0.159, 0.423]) and gender-specific PNF (dbetween = 0.284, 95% CI [0.117, 0.451]) showed greater reductions in drinking from baseline to follow-up, translating to roughly three fewer drinks per week. Effects on alcohol-related harms were smaller (dbetween = 0.157, 95% CI [0.037, 0.278]). The authors conclude the effects are small but "clinically relevant when considered from a public health perspective."
 
@@ -51,7 +55,7 @@ A meta-analysis of eight controlled outcome studies (13 interventions, 2,050 par
 
 Neighbors, C., Larimer, M. E., & Lewis, M. A. (2004). Targeting Misperceptions of Descriptive Drinking Norms: Efficacy of a Computer-Delivered Personalized Normative Feedback Intervention. *Journal of Consulting and Clinical Psychology, 72*(3), 434–447. [doi:10.1037/0022-006x.72.3.434](https://doi.org/10.1037/0022-006x.72.3.434)
 
-`q3 · peer-reviewed RCT` · `i? · no standardized effect size reported in the abstract` · `n=252`
+`q3 · peer-reviewed RCT` · `i? · no standardized effect size reported in the abstract` · `n=252` · `causal · r?`
 
 A randomized controlled trial with 252 heavy-drinking college students assigned to a computer-delivered personalized normative feedback condition or a control group after a baseline assessment. The intervention condition received "computerized information detailing their own drinking behavior, their perceptions of typical student drinking, and actual typical student drinking." The authors report that "normative feedback was effective in changing perceived norms and alcohol consumption at 3- and 6-month follow-up assessments," with somewhat stronger 3-month effects among students who drank for more social reasons.
 

@@ -15,18 +15,22 @@ sources:
     author: Lei Bao
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: lei-bao-2006-2
     resource: "https://arxiv.org/abs/0710.1375"
     title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
     q: 2
     i: 1
+    kind: theoretical
+    rigour: 3
 ---
 
 # When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2006](#lei-bao-2006)
@@ -38,7 +42,7 @@ sources:
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `theoretical · r3`
 
 Analytical derivation (Section IV) of the normalized gain under combined α and γ processes, Eq. (17). The article reports that with the γ-process the gain 'always has explicit terms' of the pretest score, unlike the α-only case.
 
@@ -48,7 +52,7 @@ Analytical derivation (Section IV) of the normalized gain under combined α and 
 
 Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
 
-`q2 · i1`
+`q2 · i1` · `theoretical · r3`
 
 The article's summary of existing experimental studies (Section IV) documenting positive gain–measure correlations, including CSE gains with math pretests (r = 0.1~0.4, N ~150), FCI gains with spatial ability (r ~0.3, N ~60), and FCI gains with SAT scores (r = 0.57 and 0.46).
 

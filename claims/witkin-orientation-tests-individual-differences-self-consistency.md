@@ -15,12 +15,14 @@ sources:
     author: Tamaoka, Katsuo
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Witkin's orientation tests showed marked individual differences and self-consistency in perceiving the upright, with only a tendency toward two distinguishable groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the body-adjustment, rod-and-frame and rotating-room tests, subjects differed markedly and used the same way of integrating information across conditions. [→ Tamaoka 1985](#tamaoka-1985)
@@ -31,7 +33,7 @@ sources:
 
 Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `review · r2`
 
 The review reports Witkin and Asch's rod-and-frame experiment with 53 adults, in which the frame was tilted 28 degrees right or left. Witkin observed that "subjects perceived the tilted frame as upright" at one extreme while others set the rod to true vertical, showing individual differences.
 

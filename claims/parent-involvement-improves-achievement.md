@@ -16,6 +16,8 @@ sources:
     q: 3
     i: 1
     n: 50 studies (32 independent samples for the overall estimate)
+    kind: quant-synthesis
+    rigour: "?"
   - id: castro-et-al-2015
     resource: "https://doi.org/10.1016/j.edurev.2015.01.002"
     title: "Castro, M., Expósito-Casas, E., López-Martín, E., Lizasoain, L., Navarro-Asencio, E., & Gaviria, J. L. (2015). Parental involvement on student academic achievement: A meta-analysis. *Educational Research Review, 14*, 33–46. [doi:10.1016/j.edurev.2015.01.002](https://doi.org/10.1016/j.edurev.2015.01.002)"
@@ -23,6 +25,8 @@ sources:
     q: 3
     i: "?"
     n: 37 studies (kindergarten, primary, and secondary)
+    kind: quant-synthesis
+    rigour: "?"
   - id: jeynes-2005
     resource: "https://doi.org/10.1177/0042085905274540"
     title: "Jeynes, W. H. (2005). A meta-analysis of the relation of parental involvement to urban elementary school student academic achievement. *Urban Education, 40*(3), 237–269. [doi:10.1177/0042085905274540](https://doi.org/10.1177/0042085905274540)"
@@ -30,12 +34,14 @@ sources:
     q: 3
     i: 2
     n: 41 studies (urban elementary schoolchildren)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Parent Involvement Improves Achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3` · `i1`–`i2`
 
 Parental engagement in children's learning — at home and at school — is associated with higher academic achievement, though the form and intensity of involvement condition the effect.
 
@@ -53,7 +59,7 @@ Parental engagement in children's learning — at home and at school — is asso
 
 Hill, N. E., & Tyson, D. F. (2009). Parental involvement in middle school: A meta-analytic assessment of the strategies that promote achievement. *Developmental Psychology, 45*(3), 740–763. [doi:10.1037/a0015362](https://doi.org/10.1037/a0015362)
 
-`q3 · meta-analysis of correlational studies (50 studies)` · `i1 · small effect, r=.18` · `n=50 studies (32 independent samples for the overall estimate)`
+`q3 · meta-analysis of correlational studies (50 studies)` · `i1 · small effect, r=.18` · `n=50 studies (32 independent samples for the overall estimate)` · `quant-synthesis · r?`
 
 Meta-analysis of correlational and quasi-experimental studies on parental involvement in middle school (grades roughly 6–8). The weighted average correlation between general parental involvement and achievement across 32 independent samples was r = .18 (95% CI [.12, .24]). Involvement reflecting "academic socialization" (communicating expectations, valuing education, discussing learning strategies) had the strongest association (r = .39), home-based involvement was weaker (r = .03), and parental help with homework was negatively associated with achievement (r = −.11, 95% CI [−.25, −.04]) — the authors interpret this as help typically being sought/offered in response to a child already struggling, and/or as undermining autonomy at this developmental stage.
 
@@ -61,7 +67,7 @@ Meta-analysis of correlational and quasi-experimental studies on parental involv
 
 Castro, M., Expósito-Casas, E., López-Martín, E., Lizasoain, L., Navarro-Asencio, E., & Gaviria, J. L. (2015). Parental involvement on student academic achievement: A meta-analysis. *Educational Research Review, 14*, 33–46. [doi:10.1016/j.edurev.2015.01.002](https://doi.org/10.1016/j.edurev.2015.01.002)
 
-`q3 · meta-analysis of correlational studies (37 studies)` · `i? · no pooled effect size given in what was read` · `n=37 studies (kindergarten, primary, and secondary)`
+`q3 · meta-analysis of correlational studies (37 studies)` · `i? · no pooled effect size given in what was read` · `n=37 studies (kindergarten, primary, and secondary)` · `quant-synthesis · r?`
 
 Meta-analysis synthesizing 37 studies (2000–2013) spanning kindergarten through secondary school, converting reported statistics to Fisher's r for pooling and examining moderators and publication bias. Per the abstract (full text not accessible from this sandbox), the parental involvement dimensions most strongly linked to achievement were general supervision of learning activities, high parental academic expectations, ongoing communication with the child about school, and fostering reading habits — a more specific reading than a single undifferentiated "parent involvement" effect.
 
@@ -69,7 +75,7 @@ Meta-analysis synthesizing 37 studies (2000–2013) spanning kindergarten throug
 
 Jeynes, W. H. (2005). A meta-analysis of the relation of parental involvement to urban elementary school student academic achievement. *Urban Education, 40*(3), 237–269. [doi:10.1177/0042085905274540](https://doi.org/10.1177/0042085905274540)
 
-`q3 · meta-analysis of correlational studies (41 studies)` · `i2 · medium effect, ~0.7–0.75 SD` · `n=41 studies (urban elementary schoolchildren)`
+`q3 · meta-analysis of correlational studies (41 studies)` · `i2 · medium effect, ~0.7–0.75 SD` · `n=41 studies (urban elementary schoolchildren)` · `quant-synthesis · r?`
 
 Meta-analysis of 41 studies on parental involvement and academic achievement in urban elementary schoolchildren. Per the abstract (full text not accessible from this sandbox), overall parental involvement was associated with academic outcome variables by roughly 0.7 to 0.75 of a standard deviation unit, and this relationship held for both White and minority children and for both boys and girls. As with the other two studies, the underlying primary literature is predominantly correlational (parents were not randomly assigned to involvement conditions), so the pooled estimate should be read as an association, not a demonstrated causal effect of comparable size.
 

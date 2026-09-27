@@ -15,12 +15,14 @@ sources:
     author: Chakrabartty, S. N.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` As k increases, the item difficulty curve increases and the percentage item discriminating curve decreases; their intersection point k0 defines an acceptance region (k0 ± 2SD) for deciding which items to delete. [→ Chakrabartty 2021](#chakrabartty-2021)
@@ -31,7 +33,7 @@ sources:
 
 Chakrabartty, S. N. (2021). Assessment of item and test parameters: Cosine similarity approach. International Journal of Psychology and Educational Studies, 8(3), 28-38. https://dx.doi.org/10.52380/ijpes.2021.8.3.190
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Figure 1 plots item difficulty values and percentage discriminating values against k for the 50-item test; the curves intersect at k0 = 368, where item difficulty is 0.40395 and percentage item discriminating is 0.40245. Acceptance-region methods discarded item no. 40 only.
 

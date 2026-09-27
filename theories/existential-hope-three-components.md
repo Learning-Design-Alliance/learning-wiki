@@ -16,7 +16,7 @@ sources:
 # Three core components of existential hope: existential trust, meaning, and agency
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article delineates three interrelated components of existential hope: "existential trust, meaning, and agency." Existential trust is a transcendent stance affirming a worthwhile future under uncertainty; meaning is the cognitive capacity to interpret and organize experience toward significance; agency is the capacity to act meaningfully even when outcomes are unknowable. The components are hierarchically related: trust precedes meaning-making, meaning bridges trust and agency, and agency reinforces the other two; no single dimension alone is sufficient.

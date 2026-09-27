@@ -15,12 +15,14 @@ sources:
     author: Brumbaugh, Robert B.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Supporting the proposition that role distance constitutes one dimension of authenticity requires positive empirical relationships between role distance measures and OCDQ Esprit, Thrust, and Open Climate measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author states that positive empirical relationships must be evidenced between role distance measures and Halpin and Croft's OCDQ measures of Esprit and Thrust, and between role distance measures and Open Climate, for the proposition to be supported. [→ Brumbaugh 1968](#brumbaugh-1968)
@@ -31,7 +33,7 @@ sources:
 
 Brumbaugh, Robert B. (1968). Authenticity, Role Distance, and Organizational Climate: Toward a Conceptual Clarification. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED026738
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument stating the validation criterion for the paper's central proposition. The author writes that "positive empirical relationships will have to be evidenced" between role distance measures and the OCDQ Esprit and Thrust measures and Open Climate; no such relationships are tested in this paper.
 

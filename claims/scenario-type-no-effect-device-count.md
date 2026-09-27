@@ -15,12 +15,14 @@ sources:
     author: Catherine Rockey, Jessica Tiegs, and Julieta Fernández
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The number of overall attention-getting devices did not vary by scenario type, though device types varied, with head movements most common in –PD, –SD scenarios. [→ Catherine Rockey 2020](#catherine-rockey-2020)
@@ -31,7 +33,7 @@ sources:
 
 Catherine Rockey, Jessica Tiegs, and Julieta Fernández. (2020). Mobile Application Use in Technology-Enhanced DCTs. CALICO Journal. https://doi.org/10.1558/cj.38773
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Comparison of device totals across the four scenario types (+PD/+SD, –PD/+SD, +PD/–SD, –PD/–SD) in Table 5, which ranged from 46 to 52 tokens. Head movements were most common in the –PD, –SD scenarios (12 tokens).
 

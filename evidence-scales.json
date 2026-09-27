@@ -2,24 +2,115 @@
   "note": "The q/i shorthand, as data. Written beside a claim's evidence so an agent reads codes rather than prose, and rendered for human readers by docs_hooks/page_metadata.py, which loads THIS file — so the two cannot drift. See CLAUDE.md's Evidence quality tiers / Impact magnitude.",
   "quality": {
     "field": "q",
-    "means": "How good the study is. A property of the research, not of whether this page reports it faithfully — that is the separate `verified` axis.",
+    "means": "Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument. It answers 'how good is this as evidence of a cause', not 'how well was this study done': a careful interview study is q1 by construction. Read it beside kind and rigour, which judge each study by the standard of what it is. A property of the research, not of whether this page reports it faithfully; that is the separate `verified` axis.",
     "ordinal": "higher is stronger",
     "tiers": [
-      {"code": 4, "label": "pre-registered or meta-analytic", "definition": "Pre-registered RCT or well-powered meta-analysis"},
-      {"code": 3, "label": "peer-reviewed experiment", "definition": "Peer-reviewed experiment (not pre-registered) or systematic review"},
-      {"code": 2, "label": "quasi-experiment", "definition": "Quasi-experiment, observational with controls, or narrative review"},
-      {"code": 1, "label": "argument or single case", "definition": "Case study, expert opinion, or theoretical argument"}
+      {
+        "code": 4,
+        "label": "pre-registered or meta-analytic",
+        "definition": "Pre-registered RCT or well-powered meta-analysis"
+      },
+      {
+        "code": 3,
+        "label": "peer-reviewed experiment",
+        "definition": "Peer-reviewed experiment (not pre-registered) or systematic review"
+      },
+      {
+        "code": 2,
+        "label": "quasi-experiment",
+        "definition": "Quasi-experiment, observational with controls, or narrative review"
+      },
+      {
+        "code": 1,
+        "label": "argument or single case",
+        "definition": "Case study, expert opinion, or theoretical argument"
+      }
     ]
+  },
+  "kind": {
+    "field": "kind",
+    "means": "What sort of evidence the study is. Adopted 2026-09-29 so that rigour can be judged by the standard of the study's own kind.",
+    "ordinal": null,
+    "values": [
+      {
+        "code": "causal",
+        "definition": "Randomised or quasi-experiment, or single-case design: a manipulated condition and a comparison"
+      },
+      {
+        "code": "quant-synthesis",
+        "definition": "Meta-analysis, or systematic review with quantitative pooling"
+      },
+      {
+        "code": "review",
+        "definition": "Narrative or scoping review, or a book-length synthesis without a systematic search"
+      },
+      {
+        "code": "associational",
+        "definition": "Correlational, survey, longitudinal or observational study, with or without statistical controls"
+      },
+      {
+        "code": "qualitative",
+        "definition": "Interviews, focus groups, ethnography, case study, thematic or discourse analysis"
+      },
+      {
+        "code": "design",
+        "definition": "Design-based research, development or evaluation of an artefact, or a practitioner's report of a design"
+      },
+      {
+        "code": "theoretical",
+        "definition": "An argument, model or framework, with or without cited support"
+      }
+    ]
+  },
+  "rigour": {
+    "field": "rigour",
+    "means": "How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md). A rigorous qualitative study is r3; a weak trial is r1.",
+    "ordinal": "higher is stronger",
+    "tiers": [
+      {
+        "code": 3,
+        "label": "strong for its kind",
+        "definition": "Meets its kind's criteria: e.g. a randomised, powered, low-bias trial; a qualitative study with clear aims, systematic analysis shown and credibility checks"
+      },
+      {
+        "code": 2,
+        "label": "adequate for its kind",
+        "definition": "Most of its kind's criteria met, with clear gaps"
+      },
+      {
+        "code": 1,
+        "label": "weak for its kind",
+        "definition": "Few of its kind's criteria met: tiny or confounded comparison, thin description, bare assertion"
+      }
+    ],
+    "unknown": "r? means the text available (often an abstract) could not show whether the criteria are met; with no text of the study at all, rigour is always r?"
   },
   "impact": {
     "field": "i",
     "means": "How big the effect is, in the study's own terms.",
     "ordinal": "higher is larger",
     "tiers": [
-      {"code": 3, "label": "large", "definition": "d >= 0.8 or equivalent"},
-      {"code": 2, "label": "medium", "definition": "d 0.4-0.79"},
-      {"code": 1, "label": "small", "definition": "d 0.2-0.39"},
-      {"code": 0, "label": "negligible", "definition": "Negligible: an effect size is reported and it is below d 0.2 or equivalent", "history": "Until 2026-09-24 this tier read 'negligible or unclear', and the extraction prompt wrote i0 whenever an article printed no effect size. So an i0 written before then may mean either; read the entry's own text. An unreported effect size is now i? (see unknown)."}
+      {
+        "code": 3,
+        "label": "large",
+        "definition": "d >= 0.8 or equivalent"
+      },
+      {
+        "code": 2,
+        "label": "medium",
+        "definition": "d 0.4-0.79"
+      },
+      {
+        "code": 1,
+        "label": "small",
+        "definition": "d 0.2-0.39"
+      },
+      {
+        "code": 0,
+        "label": "negligible",
+        "definition": "Negligible: an effect size is reported and it is below d 0.2 or equivalent",
+        "history": "Until 2026-09-24 this tier read 'negligible or unclear', and the extraction prompt wrote i0 whenever an article printed no effect size. So an i0 written before then may mean either; read the entry's own text. An unreported effect size is now i? (see unknown)."
+      }
     ]
   },
   "sample": {

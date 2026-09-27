@@ -14,7 +14,7 @@ grain_size: course
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 10 studies, `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners. Learners investigate topics, share expertise, teach one another, and reflect on how the community's understanding is evolving. The pattern treats learning as distributed across people, roles, and artifacts, with the instructor shaping the norms and supports that let the community function productively.

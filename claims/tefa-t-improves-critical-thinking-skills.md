@@ -15,12 +15,14 @@ sources:
     author: "Maksum, H., Yuvenda, D. & Purwanto, W."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After ten weeks, TEFA-T students had better critical thinking skills on all indicators (analysis, evaluation, inference, deductive and inductive reasoning) than students in conventional classes. [→ Maksum 2022](#maksum-2022)
@@ -31,7 +33,7 @@ sources:
 
 Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Per-indicator comparison plotted in Figure 5 from the quasi-experimental study (CCTST-based measure); the conclusion reports descriptive percentage gains of 23.94% to 70% across critical thinking indicators, with no standardized effect size printed.
 

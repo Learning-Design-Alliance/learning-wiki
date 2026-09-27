@@ -15,12 +15,14 @@ sources:
     author: "Vadasy, P. F., & Sanders, E. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No mean treatment differences between Flex and Plain were observed on early literacy or cognitive flexibility growth, and no significant treatment interactions were apparent. [→ Vadasy 2023](#vadasy-2023)
@@ -31,7 +33,7 @@ sources:
 
 Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics intervention effects on reading gains. Reading Psychology. https://doi.org/10.1080/02702711.2023.2166636
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multilevel gain models controlling for EB status, pretest, and attendance found "No mean treatment differences were observed" on any outcome. No effect sizes were printed for these contrasts, so impact is not coded.
 

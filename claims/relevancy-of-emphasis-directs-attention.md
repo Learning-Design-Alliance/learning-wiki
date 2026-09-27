@@ -14,6 +14,8 @@ sources:
     q: 3
     i: 2
     n: 67
+    kind: causal
+    rigour: "?"
   - id: nist-1985-2
     resource: "https://eric.ed.gov/?id=ED265520"
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
@@ -21,13 +23,15 @@ sources:
     q: 3
     i: 2
     n: 67
+    kind: causal
+    rigour: "?"
 id: relevancy-of-emphasis-directs-attention
 ---
 
 # Relevancy of emphasized text directs attention and influences test performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2` medium
 
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 
@@ -45,7 +49,7 @@ Primary evidence link: https://eric.ed.gov/?id=ED265520
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i2 · medium effect` · `n=67`
+`q3 · peer-reviewed experiment, not pre-registered` · `i2 · medium effect` · `n=67` · `causal · r?`
 
 Sixty-seven college freshmen read text passages with [underlining](../principles/annotating.md) applied to either high-relevant or low-relevant content, then completed a test with questions matched to both relevancy levels. A weighted-means ANOVA showed a significant main effect for relevancy on the high-relevant score, F(1, 49) = 13.56, p < .01: learners performed better on high-relevant questions when that material was the emphasized content. The pattern demonstrates that emphasis directs attention to the marked material, and test performance tracks what was marked.
 
@@ -53,7 +57,7 @@ Sixty-seven college freshmen read text passages with [underlining](../principles
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i2 · medium effect` · `n=67`
+`q3 · peer-reviewed experiment, not pre-registered` · `i2 · medium effect` · `n=67` · `causal · r?`
 
 In the same study, the main effect for relevancy was also significant for the low-relevant score, F(1, 40) = 6.98, p < .05. Learners scored higher on low-relevant questions when the low-relevant material was the emphasized content. Together with the high-relevant result, this shows the effect is symmetric: emphasis improves performance on whatever is emphasized, regardless of its actual instructional importance.
 

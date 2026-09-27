@@ -15,18 +15,22 @@ sources:
     author: "Vadasy, P. F., & Sanders, E. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: vadasy-2023-2
     resource: "https://doi.org/10.1080/02702711.2023.2166636"
     title: "Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics intervention effects on reading gains. Reading Psychology. https://doi.org/10.1080/02702711.2023.2166636"
     author: "Vadasy, P. F., & Sanders, E. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students with higher pretest cognitive flexibility made significantly greater gains on both decoding measures (taught-letter and Word Attack). [→ Vadasy 2023](#vadasy-2023)
@@ -38,7 +42,7 @@ sources:
 
 Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics intervention effects on reading gains. Reading Psychology. https://doi.org/10.1080/02702711.2023.2166636
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the multilevel gain models, pretest cognitive flexibility uniquely predicted gains on both decoding measures; the article reports students with higher pretest cognitive flexibility "made significantly greater gains on the two decoding measures." No effect size is printed for this predictor.
 
@@ -48,7 +52,7 @@ In the multilevel gain models, pretest cognitive flexibility uniquely predicted 
 
 Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics intervention effects on reading gains. Reading Psychology. https://doi.org/10.1080/02702711.2023.2166636
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 The models included treatment-by-covariate and covariate interactions; the article reports "a significant interaction was observed between pretest cognitive flexibility and alphabetics on all three reading measures," which the authors interpret as cognitive flexibility compensating in part for limited pretest alphabet knowledge.
 

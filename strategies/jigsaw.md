@@ -12,7 +12,7 @@ generated:
 # Jigsaw
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies, `q2`–`q3` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 7 report an effect size
 
 ## Description
 In the Jigsaw method (Aronson, 1978), material is divided into interdependent segments. Learners first join an "expert group" responsible for mastering one segment, then regroup into "jigsaw groups" composed of one expert from each segment, where each member teaches their portion to peers. The interdependence is structural: no learner can complete the full task without the contributions of the others, so peer teaching is a necessity rather than an optional activity.

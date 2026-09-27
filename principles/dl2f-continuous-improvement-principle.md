@@ -17,7 +17,7 @@ sources:
 # Build continuous improvement into language instruction through regular feedback, self-assessment, and revision opportunities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
 
 ## Description
 DL2F treats language proficiency as an ongoing journey rather than a fixed destination by embedding continuous learning mechanisms into instruction. The article states the framework 'incorporat[es] regular feedback, self-assessment, and opportunities for revision to foster a growth mindset among learners', supported by reflection and discussion sessions and continuous monitoring with adjustments based on student feedback.

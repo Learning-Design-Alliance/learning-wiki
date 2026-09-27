@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 234 assessors (1,921 individual comments), 234 secondary/high-school students in a U.S. writing course
+    kind: associational
+    rigour: "?"
   - id: schunn-et-al-2016
     resource: "https://doi.org/10.1002/jaal.525"
     title: "Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of peer review of writing in high school AP English classes. *Journal of Adolescent & Adult Literacy, 60*(1), 13–23. [doi:10.1002/jaal.525](https://doi.org/10.1002/jaal.525)"
@@ -22,12 +24,14 @@ sources:
     q: 2
     i: "?"
     n: 1,215 students across 26 U.S. schools (12 states); 489 essays independently rated by teachers and trained AP scorers
+    kind: associational
+    rigour: 2
 ---
 
 # Peer Feedback Accuracy Depends On Expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2` quasi-experiment
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 The accuracy and usefulness of feedback that learners give to one another depends on the feedback-giver's domain expertise: novices often misdiagnose problems and endorse flawed work. The claim concerns the *accuracy* of the feedback given, not the *benefit* of receiving or producing it — those can diverge.
 
@@ -43,7 +47,7 @@ The accuracy and usefulness of feedback that learners give to one another depend
 
 Wu, Y., & Schunn, C. D. (2023). Assessor writing performance on peer feedback: Exploring the relation between assessor writing performance, problem identification accuracy, and helpfulness of peer feedback. *Journal of Educational Psychology, 115*(1), 118–142. [doi:10.1037/edu0000768](https://doi.org/10.1037/edu0000768)
 
-`q2 · observational/correlational study with regression controls (not an experimental manipulation of expertise)` · `i? · no d/r-scale effect size reported; findings expressed as odds ratios and null regression coefficients` · `n=234 assessors (1,921 individual comments), 234 secondary/high-school students in a U.S. writing course`
+`q2 · observational/correlational study with regression controls (not an experimental manipulation of expertise)` · `i? · no d/r-scale effect size reported; findings expressed as odds ratios and null regression coefficients` · `n=234 assessors (1,921 individual comments), 234 secondary/high-school students in a U.S. writing course` · `associational · r?`
 
 234 high-school assessors' own writing performance was measured at three grain sizes (genre, rubric dimension, specific problem topic) and related to (a) whether they correctly flagged real problems in a peer's essay and (b) whether their comments were rated helpful. Multiple regression showed assessor writing performance was **not** related to problem-identification accuracy at any grain size — lower-performing assessors even flagged *more* problems (not fewer) on several topics, with directionally higher false-alarm rates that were not statistically significant. By contrast, assessor performance on specific topics and dimensions consistently and substantially predicted [feedback helpfulness](../elements/rubrics.md) (topic-level performance more than doubled the odds of helpful feedback; dimensional performance raised it by ~25%), even though lower-performing assessors rarely gave outright incorrect advice.
 
@@ -51,7 +55,7 @@ Wu, Y., & Schunn, C. D. (2023). Assessor writing performance on peer feedback: E
 
 Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of peer review of writing in high school AP English classes. *Journal of Adolescent & Adult Literacy, 60*(1), 13–23. [doi:10.1002/jaal.525](https://doi.org/10.1002/jaal.525)
 
-`q2 · observational/correlational classroom study, no experimental manipulation of reviewer ability` · `i? · reported as correlations (r ≈ .4–.7) and a non-significant moderation test, not a d-scale effect for the expertise comparison` · `n=1,215 students across 26 U.S. schools (12 states); 489 essays independently rated by teachers and trained AP scorers`
+`q2 · observational/correlational classroom study, no experimental manipulation of reviewer ability` · `i? · reported as correlations (r ≈ .4–.7) and a non-significant moderation test, not a d-scale effect for the expertise comparison` · `n=1,215 students across 26 U.S. schools (12 states); 489 essays independently rated by teachers and trained AP scorers` · `associational · r2`
 
 1,215 AP English students anonymously rated five classmates' rhetorical-analysis essays each with a task-specific [rubric](../elements/rubrics.md); their mean ratings were compared to their teachers' and to trained AP expert scorers' ratings of the same 489 essays. Correlations between mean student ratings and both teacher and expert scores were moderate-to-high (roughly .4–.7, approaching .7 for the overall essay score) and, notably, students' averaged ratings correlated with expert scores slightly *more* strongly than individual teachers' ratings did. Critically for this claim, reliability and validity did **not** differ significantly between higher- and lower-performing schools on any rubric criterion, suggesting that — at least when reviewers use a carefully designed, well-specified rubric — peer-assessment accuracy does not simply track the reviewers' own academic performance level.
 

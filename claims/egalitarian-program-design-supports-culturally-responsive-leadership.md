@@ -15,12 +15,14 @@ sources:
     author: "Farmer & Higham"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Egalitarian graduate program design supports culturally responsive leadership development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` Graduate programs seeking to enhance culturally responsive leadership development must permeate egalitarianism through the amalgamation of both acquiescence and expectation. [→ Farmer & Higham 2007](#farmer-higham-2007)
@@ -31,7 +33,7 @@ sources:
 
 Farmer & Higham. (2007). Culturally Responsive Leadership: Graduate Program Egalitarianism. https://www.ucea.org
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 Theoretical argument from the paper's program-design discussion, not a tested result. The authors assert that programs must "permeate egalitarianism through the amalgamation of both acquiescence and expectation" to develop culturally responsive leaders; no data or effect size is reported.
 

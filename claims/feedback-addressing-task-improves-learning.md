@@ -15,6 +15,8 @@ sources:
     q: 4
     i: 3
     n: 435 studies
+    kind: quant-synthesis
+    rigour: 2
   - id: kluger-denisi-1996
     resource: "https://doi.org/10.1037/0033-2909.119.2.254"
     title: "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. *Psychological Bulletin, 119*(2), 254–284. [doi:10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254)"
@@ -22,12 +24,14 @@ sources:
     q: 4
     i: 2
     n: 607 effect sizes
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Feedback Addressing Task Improves Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i2`–`i3`
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2`–`i3`
 
 Feedback that directs the learner's attention to the task — how their work relates to the learning goal, what was done well, and what to do next — improves learning more than feedback directed at the self (praise, personal evaluation).
 
@@ -43,7 +47,7 @@ Feedback that directs the learner's attention to the task — how their work rel
 
 Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)
 
-`q4 · meta-analysis (random effects, not pre-registered)` · `i3 · very large effect for high-information feedback, d=0.99` · `n=435 studies`
+`q4 · meta-analysis (random effects, not pre-registered)` · `i3 · very large effect for high-information feedback, d=0.99` · `n=435 studies` · `quant-synthesis · r2`
 
 A random-effects meta-analysis of 435 studies (994 effect sizes, more than 61,000 learners) of feedback on student learning, set up to test the Hattie and Timperley (2007) model. The overall effect was medium (d = 0.48 after removing outliers) with very high heterogeneity (I² about 83%). Studies were coded by the type of information feedback carried: reinforcement or punishment (d = 0.24), corrective feedback (d = 0.46), and high-information feedback that addresses the task, the process and sometimes self-regulation (d = 0.99). Motivational outcomes showed smaller effects (d = 0.33) than cognitive ones (d = 0.51). The authors did not code self-level praise as its own category, so the self-level contrast here rests on the reinforcement/punishment group and on their summary of Hattie and Timperley.
 
@@ -51,7 +55,7 @@ A random-effects meta-analysis of 435 studies (994 effect sizes, more than 61,00
 
 Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. *Psychological Bulletin, 119*(2), 254–284. [doi:10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254)
 
-`q4 · meta-analysis with moderator analyses` · `i2 · medium average effect, d=.41` · `n=607 effect sizes`
+`q4 · meta-analysis with moderator analyses` · `i2 · medium average effect, d=.41` · `n=607 effect sizes` · `quant-synthesis · r?`
 
 A meta-analysis of 607 effect sizes (23,663 observations) of feedback interventions on performance across settings, not limited to classrooms. Feedback improved performance on average (d = .41), but more than a third of interventions made performance worse, which sampling error and feedback sign could not explain. The authors' feedback intervention theory holds that feedback shifts attention among task-learning, task-motivation and self-related (meta-task) processes, and their moderator analyses found that effectiveness declined as feedback moved attention toward the self. Their levels are not the same as Hattie and Timperley's four, and the abstract reports no effect size for the level moderator itself.
 

@@ -13,16 +13,20 @@ sources:
     title: showcase
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
   - id: virtual-showcase
     title: virtual-showcase
     q: 1
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q1` argument or single case
+> **Evidence** · 2 studies · 2 design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` After capstone instructors began inviting departmental and campus audiences to ePortfolio presentations, students reported high satisfaction, and knowing they would have an actual audience influenced their approach to assignments earlier in the course. [→ showcase](#showcase)
@@ -34,7 +38,7 @@ sources:
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Case-study report from the Philanthropic Studies capstone: the science-fair-style campus showcase replaced brief 10-15 minute formal presentations to 10-20 people with a 75-minute event whose audiences averaged 50-60 people, letting students hold multiple small-group conversations about their work. Satisfaction is reported as student reports, with no printed effect size.
 
@@ -44,7 +48,7 @@ Case-study report from the Philanthropic Studies capstone: the science-fair-styl
 
 Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy for ePortfolio: A tool for development, implementation, and scaling (Occasional Paper No. 57). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment (NILOA). https://eric.ed.gov/?id=ED619086
 
-`q1 · i?`
+`q1 · i?` · `design · r2`
 
 Description of the COVID-pivot virtual showcase in spring 2020: instructors created a host website, students posted autobiographies and short presentation videos, guests left feedback via per-student surveys during a 5-day open window, and students invited family, friends, supervisors, and prospective employers. The approach was repeated in 2021.
 

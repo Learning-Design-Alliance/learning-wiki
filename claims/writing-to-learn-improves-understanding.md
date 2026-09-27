@@ -16,6 +16,8 @@ sources:
     q: 4
     i: "?"
     n: 48 studies
+    kind: quant-synthesis
+    rigour: "?"
   - id: kayaalp-et-al-2022
     resource: "https://doi.org/10.17275/per.22.18.9.1"
     title: "Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect of writing-to-learn activities regarding students' academic achievement and self-regulation skills in writing. *Participatory Educational Research, 9*(1), 324–348. [doi:10.17275/per.22.18.9.1](https://doi.org/10.17275/per.22.18.9.1)"
@@ -23,12 +25,14 @@ sources:
     q: 2
     i: 2
     n: 64 (31 experimental, 33 control)
+    kind: causal
+    rigour: 1
 ---
 
 # Writing To Learn Improves Understanding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q2`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
 
 Writing about to-be-learned material — rather than only reading or listening — deepens understanding by forcing learners to organize, elaborate, and articulate ideas in their own words. The claim concerns *understanding* (conceptual knowledge, transfer), not rote recall, and applies to writing as a learning activity during instruction — not to writing instruction aimed at improving composition skill, which is a distinct outcome.
 
@@ -44,7 +48,7 @@ Writing about to-be-learned material — rather than only reading or listening �
 
 Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
 
-`q4 · meta-analysis of 48 studies` · `i? · no single effect size reported in the accessible abstract` · `n=48 studies`
+`q4 · meta-analysis of 48 studies` · `i? · no single effect size reported in the accessible abstract` · `n=48 studies` · `quant-synthesis · r?`
 
 This meta-analysis pooled 48 school-based writing-to-learn intervention studies spanning elementary school through college, each comparing a group receiving writing-emphasizing instruction against a control group given conventional instruction. It concludes that writing produces "a small, positive impact on conventional measures of academic achievement," and further finds that effects were enhanced by metacognitive prompts and longer treatment duration, but reduced when implemented in grades 6–8 or when writing assignments themselves were longer. Only the article's abstract was accessible to this reviewer; the full text (which reports a per-study and pooled quantitative effect size) could not be read, so no numeric effect size is asserted here.
 
@@ -52,7 +56,7 @@ This meta-analysis pooled 48 school-based writing-to-learn intervention studies 
 
 Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect of writing-to-learn activities regarding students' academic achievement and self-regulation skills in writing. *Participatory Educational Research, 9*(1), 324–348. [doi:10.17275/per.22.18.9.1](https://doi.org/10.17275/per.22.18.9.1)
 
-`q2 · quasi-experimental, pre-test/post-test control group` · `i2 · medium effect, d=0.61` · `n=64 (31 experimental, 33 control)`
+`q2 · quasi-experimental, pre-test/post-test control group` · `i2 · medium effect, d=0.61` · `n=64 (31 experimental, 33 control)` · `causal · r1`
 
 64 eighth-grade students in two intact classrooms at a Turkish secondary school were assigned (by classroom) to an experimental group taught a social-studies unit ("Turkish Republic, History of Revolution and Atatürk's Principles") using writing-to-learn activities, or a control group taught the same unit with the standard curriculum. Groups did not differ on a pre-test of academic achievement (t(62) = −0.47, p = .639). On the post-test, the experimental group (M = 82.26, SD = 13.89) scored significantly higher than the control group (M = 71.82, SD = 19.59), t(62) = 2.444, p = .017, d = 0.61 (the authors' own reported "medium level effect"). This is a subject-matter (social-studies/history) content-learning outcome, not a mathematics-specific one.
 

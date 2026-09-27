@@ -15,12 +15,14 @@ sources:
     author: "Heflich, David A. & Iran-Nejad, Asghar"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Reflection is the combination of active and dynamic self-regulation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Reflective thought is best understood as the combination of active (conscious) and dynamic (unconscious) forms of self-regulation. [→ Heflich 1995](#heflich-1995)
@@ -31,7 +33,7 @@ sources:
 
 Heflich, David A. & Iran-Nejad, Asghar. (1995). Reflective Educational Practice from the Perspective of Wholetheme Constructivism. https://eric.ed.gov/?id=ED393851
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper's central theoretical argument, offered in its Discussion section: reflection takes different forms, including prolonged active review, active adjustment to a dynamically perceived anomaly, and postdiction-driven thematic reconceptualization. No empirical test is reported for this synthesis.
 

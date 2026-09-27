@@ -15,18 +15,22 @@ sources:
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: percy-1994-2
     resource: "https://eric.ed.gov/?id=ED382882"
     title: "Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882"
     author: "Percy, K., Burton, D., & Withnall, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Tough's Learning without a Teacher study, all forty adults had each spent more than eight hours in the previous year acquiring previously specified knowledge or skill on their own, and received help from an average of 10.6 helpers. [→ Percy 1994](#percy-1994)
@@ -37,7 +41,7 @@ sources:
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Tough's 1967 quantitative study of forty Toronto-area graduates (mean age 35) confirmed that adults engage in self-teaching; the review reports that "All forty adults in the sample" exceeded eight hours of self-directed learning in the prior year.
 
@@ -47,7 +51,7 @@ Tough's 1967 quantitative study of forty Toronto-area graduates (mean age 35) co
 
 Percy, K., Burton, D., & Withnall, A. (1994). Self-Directed Learning among Adults: The Challenge for Continuing Educators. Association for Lifelong Learning. https://eric.ed.gov/?id=ED382882
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The same study found self-teachers drew on a range of helpers, averaging 10.6 per person with a minimum of four; mentors such as spouses, fellow learners or tutors were singled out as especially important sources of help.
 

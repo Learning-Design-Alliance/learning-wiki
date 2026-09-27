@@ -15,12 +15,14 @@ sources:
     author: Anees, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Question-level emphasis varied by academic designation, with professors omitting synthesis and lecturers omitting evaluation entirely
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Professors' question papers contained no synthesis-level questions (0.0%), while lecturers' papers contained no evaluation-level questions (0.0%), though all designation groups concentrated on knowledge and comprehension. [→ Anees 2017](#anees-2017)
@@ -31,7 +33,7 @@ sources:
 
 Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Designation-wise analysis of question papers from professors (n=20 papers), associate professors (33), assistant professors (209) and lecturers (95). Table 2 prints professors' synthesis at 0.0% and lecturers' evaluation at 0.0%; the text states "Synthesis level totally ignored by the professors."
 

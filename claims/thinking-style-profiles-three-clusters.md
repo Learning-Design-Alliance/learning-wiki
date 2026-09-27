@@ -15,18 +15,22 @@ sources:
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
   - id: chaiyapornpattana-2009-2
     resource: "http://www.aabri.com"
     title: "Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com"
     author: "Chaiyapornpattana, N., & Wongwanich, S."
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Cluster analysis grouped the 96 profiles into Detail Conscious Thinking, Procedural Thinking and Achievement Motivation Thinking, with the majority of students in Achievement Motivation Thinking. [→ Chaiyapornpattana 2009](#chaiyapornpattana-2009)
@@ -38,7 +42,7 @@ sources:
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Cluster analysis of the five-dimension style profiles of the 1,545-student sample. The article reports "96 Profiles of thinking styles be clustered into 3 groups" and that the majority of students had Achievement Motivation Thinking.
 
@@ -48,7 +52,7 @@ Cluster analysis of the five-dimension style profiles of the 1,545-student sampl
 
 Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Descriptive profile analysis by frequencies and percentage of the 1,545-student sample's complete five-dimension profiles. The article reports "most of students at 13.53 percent had judicial – hierarchic – global – external – liberal profile of styles", followed by 7.38 percent and 6.99 percent profiles.
 

@@ -15,12 +15,14 @@ sources:
     author: MacKain, Sally Joy
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # With realistic videotaped stimuli, the majority of 3- and 4-year-olds achieved full gender constancy, including constancy across perceptual transformation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Five of six 4-year-olds (83%) and three of six 3-year-olds (50%) answered all items correctly, achieving complete gender constancy under a realistic videotape method. [→ MacKain 1987](#mackain-1987)
@@ -31,7 +33,7 @@ sources:
 
 MacKain, Sally Joy. (1987). Gender Constancy: A Realistic Approach. https://eric.ed.gov/?id=ED286583
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Small exploratory study of 12 preschoolers (6 boys, 6 girls; mean age 3 years 11 months) using videotaped realistic stimuli; results reported as percentages because the sample was too small for statistical tests. The quote reports "Five of the 4 year olds (83%) and three of the 3 year olds (50%)" achieving complete understanding.
 

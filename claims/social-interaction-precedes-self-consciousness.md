@@ -15,12 +15,14 @@ sources:
     author: Biesta, Gert J. J.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Mead holds that social interaction precedes and produces reflective self-consciousness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Mead's functional account claims that acting together precedes and produces reflective self-consciousness, because consciousness of one's own attitudes helps control the conduct of others in cooperative activity. [→ Biesta 1997](#biesta-1997)
@@ -31,7 +33,7 @@ sources:
 
 Biesta, Gert J. J. (1997). George Herbert Mead's Lectures on Philosophy of Education at the University of Chicago (1910-1911). Paper presented at the Annual Meeting of the American Educational Research Association, Chicago, IL. https://eric.ed.gov/?id=ED422199
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical reconstruction of Mead's early writings (1900-1913) in the article's section on the social origin of reflective consciousness. The article reports Mead's summary that "our social interaction, precedes and produces our (reflective) self-consciousness", resting on the functional claim that attending to one's own attitudes aids cooperation. No empirical test is reported; support is the philosophical argument itself.
 

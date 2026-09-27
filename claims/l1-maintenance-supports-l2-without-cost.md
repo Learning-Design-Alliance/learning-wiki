@@ -15,18 +15,22 @@ sources:
     author: Cummins, James
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: cummins-1979-2
     resource: "https://doi.org/10.3102/00346543049002222"
     title: "Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)"
     author: Cummins, James
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Hébert's Manitoba study, percentage of instruction in French (L1) was unrelated to English achievement but strongly related to French achievement. [→ Cummins 1979](#cummins-1979)
@@ -38,7 +42,7 @@ sources:
 
 Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports Hébert's (1976) study of academic achievement of minority francophone children in Manitoba. It found promoting children's L1 "resulted in higher levels of Ll achievement at no cost to achievement in L2."
 
@@ -48,7 +52,7 @@ The review reports Hébert's (1976) study of academic achievement of minority fr
 
 Cummins, James. (1979). Linguistic interdependence and the educational development of bilingual children. https://eric.ed.gov/?id=ED257312. [doi:10.3102/00346543049002222](https://doi.org/10.3102/00346543049002222)
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The review reports Ramírez and Politzer's (1976) finding on home language use among Spanish-English children. In both studies, "a loss in LI did not result inany gains in L2 despite the increased interaction through L2."
 

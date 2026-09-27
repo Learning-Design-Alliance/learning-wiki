@@ -15,18 +15,22 @@ sources:
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: vargas-2024-2
     resource: "https://eric.ed.gov/?id=EJ1445872"
     title: "Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872"
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review concludes human guidance remains essential, instilling ethical reasoning skills to question AI biases. [→ Vargas 2024](#vargas-2024)
@@ -38,7 +42,7 @@ sources:
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's concluding argument (no empirical test) that "human guidance remains essential, instilling ethical reasoning skills to question AI biases" as a condition for thoughtfully integrating AI with situated learning.
 
@@ -48,7 +52,7 @@ The review's concluding argument (no empirical test) that "human guidance remain
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency and rote repetition" from generative AI's predictive capabilities fosters human originality through critical thinking; AI benefits situated learning most when approached with active interrogation of responses.
 

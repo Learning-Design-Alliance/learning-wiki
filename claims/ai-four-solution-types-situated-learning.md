@@ -15,12 +15,14 @@ sources:
     author: "Vargas, E. G., Chiappe, A., & Durand, J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review identifies adaptive systems tailored to evolving needs, intelligent tutoring situated in authentic scenarios, automation of administrative tasks, and data-driven teacher support as AI solutions to situated learning obstacles. [→ Vargas 2024](#vargas-2024)
@@ -31,7 +33,7 @@ sources:
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature. Journal of Social Studies Education Research. https://eric.ed.gov/?id=EJ1445872
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review-level synthesis of the 60 analyzed articles stating that "AI presents solutions including adaptive syst ems tailored to students' evolving needs" alongside intelligent tutoring, automation, and data-driven teacher support. This is the review's own integrative claim, not a pooled effect estimate.
 

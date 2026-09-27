@@ -15,30 +15,38 @@ sources:
     author: "Gil, A., Osiecki, N., & Juarez, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: gil-2001-2
     resource: "https://eric.ed.gov/?id=ED457222"
     title: "Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222"
     author: "Gil, A., Osiecki, N., & Juarez, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: gil-2001-3
     resource: "https://eric.ed.gov/?id=ED457222"
     title: "Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222"
     author: "Gil, A., Osiecki, N., & Juarez, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: gil-2001-4
     resource: "https://eric.ed.gov/?id=ED457222"
     title: "Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222"
     author: "Gil, A., Osiecki, N., & Juarez, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (4 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Grades 2-3 gave metacognitive responses to 66% of interview questions overall. [→ Gil 2001](#gil-2001)
@@ -52,7 +60,7 @@ sources:
 
 Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 2: tallying of Metacognitive Interview Form responses from 2nd and 3rd grade students, coded against the 35-behavior framework; 11 behaviors were observed for this band. The overall percentage was "66%." No effect size printed.
 
@@ -62,7 +70,7 @@ Results section, Table 2: tallying of Metacognitive Interview Form responses fro
 
 Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 4: 5th grade interview responses (160 subjects per Table 1) coded against the framework; 20 behaviors were observed. The overall percentage was "97%." No effect size printed.
 
@@ -72,7 +80,7 @@ Results section, Table 4: 5th grade interview responses (160 subjects per Table 
 
 Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 6: 6th grade interview responses (355 subjects per Table 1) coded against the framework; 20 behaviors were observed. The overall percentage was "82%." No effect size printed.
 
@@ -82,7 +90,7 @@ Results section, Table 6: 6th grade interview responses (355 subjects per Table 
 
 Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Results section, Table 8: interview responses from 488 students in grades 7-12 coded against the framework; 20 behaviors were observed. The overall percentage was "41%." No effect size printed.
 

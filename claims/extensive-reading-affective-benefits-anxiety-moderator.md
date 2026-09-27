@@ -15,18 +15,22 @@ sources:
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: hardy-2025-2
     resource: "https://eric.ed.gov/?id=EJ1466517"
     title: "Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517"
     author: "Hardy, J. E., & Rodrigo, V."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Enjoyable, proficiency-appropriate reading experiences reduce reading anxiety and frustration and increase comprehension, enjoyment, interest, and confidence. [→ Hardy 2025](#hardy-2025)
@@ -38,7 +42,7 @@ sources:
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Liburd & Rodrigo (2012), Rodrigo (2011), and Yamashita (2013), affective benefits of ER, and cites Hafiz & Tudor (1989), Hardy (2016), Mori (2002), Tsang (2010), and Yamashita (2013) for positive attitudes, love of books, and intrinsic motivation supporting lifelong reading habits. No effect sizes are printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Liburd & Rodrigo (2012), Rodrigo (2011), and Yamashit
 
 Hardy, J. E., & Rodrigo, V. (2025). Incorporating Extensive Reading into the Foreign Language Curriculum. Dimensions, 60. https://eric.ed.gov/?id=EJ1466517
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review cites Mardianti et al. (2021) for the contrast: difficult texts with low comprehension raise anxiety. This boundary condition motivates selecting easy, interest-matched material. No effect size is printed.
 

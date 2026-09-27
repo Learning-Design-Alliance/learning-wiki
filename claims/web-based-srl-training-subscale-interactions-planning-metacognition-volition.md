@@ -15,18 +15,22 @@ sources:
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: bellhäuser-2022-2
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
     title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
     author: "Bellhäuser, H., Liborius, P., & Schmitz, B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Univariate ANOVAs showed significant interactions for planning, self-motivation, volition, elaboration and metacognition, with Group TDP outperforming the other two intervention groups. [→ Bellhäuser 2022](#bellhauser-2022)
@@ -38,7 +42,7 @@ sources:
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Third repeated-measures MANOVA on the seven SRL questionnaire subscales, followed by univariate ANOVAs: five subscales "revealed statistically significant interaction effects consistent with our hypotheses, with Group TDP outperforming the other two intervention groups".
 
@@ -48,7 +52,7 @@ Third repeated-measures MANOVA on the seven SRL questionnaire subscales, followe
 
 Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same univariate ANOVAs: "For the subscales goal-setting and reflection, the interaction effects missed statistical significance". No significant difference was shown for these two subscales; equivalence was not tested.
 

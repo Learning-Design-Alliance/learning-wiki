@@ -12,7 +12,7 @@ generated:
 # Access-Use-Effectiveness Framework
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Davies and West (2014) argue that technology-integration efforts should be evaluated as progressive stages rather than as a single access/no-access binary. Their three stages: (1) **access** — do teachers and students have working, adequate technology available; (2) **use** — do they actually use it for instructional purposes, as opposed to administrative tasks or passive consumption; and (3) **effectiveness** — is the technology used in pedagogically sound, student-centered ways that measurably facilitate learning.

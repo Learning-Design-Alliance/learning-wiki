@@ -15,12 +15,14 @@ sources:
     author: Fullin, Christine; Mills, Brett D.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When a task performance outcome agreed with past outcomes, subjects ascribed the result to stable attributions such as ability and task difficulty; when it conflicted with previous outcomes, they ascribed it to unstable factors such as luck and effort. [→ Fullin 1995](#fullin-1995)
@@ -31,7 +33,7 @@ sources:
 
 Fullin, Christine; Mills, Brett D. (1995). Attribution Theory in Sport: Problems and Solutions. https://eric.ed.gov/?id=ED387439
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Frieze and Weiner's series of task performance studies, that outcome-consistent performances were attributed to stable attributions regardless of whether subjects consistently failed or succeeded, while outcome-conflicting performances were attributed to unstable factors.
 

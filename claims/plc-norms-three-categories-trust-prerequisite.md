@@ -15,18 +15,22 @@ sources:
     author: "Harvey, F., & Teledahl, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: harvey-2022-2
     resource: "https://eric.ed.gov/?id=EJ1361397"
     title: "Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397"
     author: "Harvey, F., & Teledahl, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In schools where collaboration norms were established, productive norms belonged to three categories: supporting active participation, reflection and critical inquiry; supporting open communication and trust; and directing teachers' attention towards an object, with trust norms acting as prerequisites for critical inquiry. [→ Harvey 2022](#harvey-2022)
@@ -38,7 +42,7 @@ sources:
 
 Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Synthesis across the reviewed studies of norms in schools where collaboration was already established. The review reports that "Critical inquiry and reflection require trust and an openness to new ideas", and that criticality must be directed at developing practices rather than at other teachers.
 
@@ -48,7 +52,7 @@ Synthesis across the reviewed studies of norms in schools where collaboration wa
 
 Harvey, F., & Teledahl, A. (2022). Characteristics of Professional Learning Communities in Mathematics: A Systematic Review. Mathematics Teacher Education and Development, 24(1), 72–95. https://eric.ed.gov/?id=EJ1361397
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Cross-study synthesis of norm development. The review states that "productive norms develop over time" in several studies, and that even other studies described changes in teachers' behavior over time, suggesting time is a crucial factor in establishing productive norms.
 

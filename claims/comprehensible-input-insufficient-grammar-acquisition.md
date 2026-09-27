@@ -15,12 +15,14 @@ sources:
     author: Ellis, Rod
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Immersion and intensive communicative programs supplying plentiful comprehensible input produced good listening/reading skills but low grammatical competence, indicating comprehensible input is not by itself sufficient for grammatical acquisition. [→ Ellis 1991](#ellis-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Document ED 338 037. https://eric.ed.gov/?id=ED338037
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbown (1989), that communicative programs yielded fluency and confidence but low grammatical accuracy (e.g. low accuracy on plural-s). The review attributes the pattern to learners not noticing grammatical features in comprehended input.
 

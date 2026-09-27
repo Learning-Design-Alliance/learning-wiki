@@ -15,18 +15,22 @@ sources:
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
   - id: rantavuori-2016-2
     resource: "http://dx.doi.org/10.14786/flr.v4i3.174"
     title: "Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174"
     author: "Rantavuori, J., Engeström, Y., & Lipponen, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The learning actions of the expansive cycle were taken by and large in the order predicted in the theory, though with iterations such as analyzing-modeling-analyzing-modeling. [→ Rantavuori 2016](#rantavuori-2016)
@@ -38,7 +42,7 @@ sources:
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r?`
 
 Sequential analysis of the meeting's learning actions (Table 5). The article states the actions were "taken by and large in the order predicted in the theory" while noting iterations such as analyzing-modeling-analyzing-modeling in turns 282-324.
 
@@ -48,7 +52,7 @@ Sequential analysis of the meeting's learning actions (Table 5). The article sta
 
 Rantavuori, J., Engeström, Y., & Lipponen, L. (2016). Learning actions, objects and types of interaction: A methodological analysis of expansive learning among pre-service teachers. Frontline Learning Research. http://dx.doi.org/10.14786/flr.v4i3.174
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `qualitative · r?`
 
 The article's structural analysis of the meeting identifies two main parts: "working on the problem (turns 66 to 324)" and "working on a new model (turns 325 to 470 and turns 714 to 787)", with modeling a new solution as the bridging phase.
 

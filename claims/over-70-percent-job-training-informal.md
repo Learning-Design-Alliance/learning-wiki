@@ -15,12 +15,14 @@ sources:
     author: Livingstone, D.W.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Over 70% of job training received by employees is informal, according to U.S. and Canadian national surveys
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Multiple national surveys find that over 70 percent of the job training received by employees is informal rather than formal or structured. [→ Livingstone 2001](#livingstone-2001)
@@ -31,7 +33,7 @@ sources:
 
 Livingstone, D.W. (2001). Adults' Informal Learning: Definitions, Findings, Gaps, and Future Research. NALL Working Paper #21. http://www.oise.utoronto.ca/depts/sese/csew/nall/res/21adultsifnormallearning.htm
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The paper reviews this finding citing U.S. Department of Labor (1996) and Ekos Research Associates (1993), and notes an in-depth U.S. study of over 1,000 workers in seven companies again found the 70 percent figure, concluding informal learning "served to fulfill most learning needs."
 

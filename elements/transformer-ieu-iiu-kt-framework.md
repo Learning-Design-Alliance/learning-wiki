@@ -17,7 +17,7 @@ sources:
 # Transformer-encoder knowledge tracing framework with IEU/IIU input vectors and released code, models, and predictions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A deep knowledge tracing framework for the ASSISTments dataset that predicts students' responses to end-of-unit test problems from action logs of in-unit assignments. It constructs IEU vectors (problem, sequence, student, and class information) as queries and IIU vectors (adding action-type embeddings and action features with positional encoding) as keys and values for a Transformer Encoder. The article states it is "a novel Transformer-based framework for the ASSISTments dataset which integrates several data-preprocessing techniques with a Transformer-based predictive model". Code, saved models, and predictions are released on OSF.

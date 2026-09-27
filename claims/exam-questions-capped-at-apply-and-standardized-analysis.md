@@ -15,12 +15,14 @@ sources:
     author: "Zakani, S., Kaupp, J., Turner, R. D., & Frank, B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` None of the collected physics and calculus exam questions required the analyze, evaluate, or create cognitive processes, nor the last levels of depth of analysis or interdependence. [→ Zakani 2019](#zakani-2019)
@@ -31,7 +33,7 @@ sources:
 
 Zakani, S., Kaupp, J., Turner, R. D., & Frank, B. (2019). Analyzing implicit science and math outcomes in engineering and technology programs. The Canadian Journal for the Scholarship of Teaching and Learning, 10(1). https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Content-specialist coding of all 319 calculus and 205 physics exam questions on the first four framework dimensions found no questions at the highest levels. The article notes this is "consistent with the findings of a previous study on post-secondary calculus in the United States" (Tallman et al.).
 

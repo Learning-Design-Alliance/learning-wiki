@@ -15,12 +15,14 @@ sources:
     author: Chmarkh, M.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The Cognitive Model is insufficient for fully understanding L2 writing because it ignores social interaction and individual differences in motivation, learning style and L2 proficiency. [→ Chmarkh 2025](#chmarkh-2025)
@@ -31,7 +33,7 @@ sources:
 
 Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's evaluation of the Cognitive Model. The author argues that L2 writers' interactions with peers, instructors and texts are social factors shaping their texts, and that expecting all writers to follow the same cognitive processes is simplistic.
 

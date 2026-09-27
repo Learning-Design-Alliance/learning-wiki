@@ -15,18 +15,22 @@ sources:
     author: Ehsan Rassaei, Ahmad Moinzadeh
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: ehsan-rassaei-2011-2
     resource: "https://doi.org/10.5539/elt.v4n2p97"
     title: "Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97"
     author: Ehsan Rassaei, Ahmad Moinzadeh
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The metalinguistic group significantly outperformed the recast group on the immediate post-test. [→ Ehsan Rassaei 2011](#ehsan-rassaei-2011)
@@ -38,7 +42,7 @@ sources:
 
 Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Tukey post-hoc comparison of immediate post-test scores in the four-group quasi-experiment showed the metalinguistic group significantly better than the recast group, which the authors read as "the superiority of metalinguistic fe edback over recasts."
 
@@ -48,7 +52,7 @@ Tukey post-hoc comparison of immediate post-test scores in the four-group quasi-
 
 Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Tukey post-hoc analysis of delayed post-test scores (ten days after treatment) found no significant metalinguistic-versus-recast difference; both groups still significantly outperformed the control and clarification groups.
 

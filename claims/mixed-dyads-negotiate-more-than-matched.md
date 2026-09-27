@@ -15,12 +15,14 @@ sources:
     author: Elisabet Pladevall-Ballester, Alexandra Vraciu
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mixed dyads produced more NoM (M = 10.42) than matched dyads (M = 7.12), a significant proficiency pairing effect. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)
@@ -31,7 +33,7 @@ sources:
 
 Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of time, proficiency pairing and language of interaction. Studies in Second Language Learning and Teaching, 10(3), 449-472. http://dx.doi.org/10.14746/ssllt.2020.10.3.3
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Generalized linear mixed model results for the overall NoM category from the same two-year longitudinal task study of 20 dyads. Mixed dyads were always high-low pairs, whereas half of matched dyads were low-low and half high-high.
 

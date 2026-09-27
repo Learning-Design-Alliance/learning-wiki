@@ -15,12 +15,14 @@ sources:
     author: Fenton, Rebecca
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Readers' combined use of semantic and syntactic contextual information expedites word recognition as compared to the use of syntactic information alone, per Ekwall and Shanker. [→ Fenton 1998](#fenton-1998)
@@ -31,7 +33,7 @@ sources:
 
 Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review attributes this to Ekwall and Shanker (1985), who hold that syntax and semantics "often overlap" despite being presented as discrete for heuristic purposes. The review prints no supporting data for the assertion.
 

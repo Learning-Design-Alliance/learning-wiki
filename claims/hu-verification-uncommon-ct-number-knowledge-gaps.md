@@ -15,18 +15,22 @@ sources:
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: hadi-yasser-h-2026-2
     resource: "https://doi.org/10.1002/jmrs.70119"
     title: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119"
     author: "Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Routine post-acquisition verification of HU values is uncommon and knowledge of positioning effects on CT numbers is inconsistent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Most radiographers check HU values only sometimes (37.4%), rarely (35.2%) or never (13.4%), with regular verification reported by a small minority. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)
@@ -38,7 +42,7 @@ sources:
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey item on routine post-acquisition HU verification among 321 radiographers; only 10.9% reported checking often and 3.1% always, which the discussion frames as a knowledge–practice gap needing targeted education.
 
@@ -48,7 +52,7 @@ Survey item on routine post-acquisition HU verification among 321 radiographers;
 
 Hadi Yasser H., Bani‐Ahmad Mo'men, Moore Niamh, Clark Kevin R., Al‐Hayek Yazan, Albeshan Salman M., Alghamdi Sultan B., Precht Helle, England Andrew, McEntee Mark. (2026). Patient Centring in CT: An International Survey of Clinical Practice and Future Directions. Journal of Medical Radiation Sciences. https://doi.org/10.1002/jmrs.70119
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey item asking whether HU values change when patients are not aligned with the gantry isocentre; responses were distributed across certainty levels, with only 12.5% selecting definitely yes and 6.2% definitely not.
 

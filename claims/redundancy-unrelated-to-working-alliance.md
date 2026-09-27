@@ -15,12 +15,14 @@ sources:
     author: Wettersten, Kara B.; Lichtenberg, James W.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Response redundancy (relational congruence) is not related to working alliance ratings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Correlations between redundancy indices and Working Alliance Inventory subscales were generally non-significant or significant in the wrong direction, failing to validate the congruence index against the alliance construct. [→ Wettersten 1995](#wettersten-1995)
@@ -31,7 +33,7 @@ sources:
 
 Wettersten, Kara B.; Lichtenberg, James W. (1995). Relationship Formation and Change in Psychotherapy: An Analysis of Cases. https://eric.ed.gov/?id=ED386668
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Within the seven-case analysis, session-level redundancy indices on three VRM role dimensions were correlated with client and therapist WAI ratings each session; correlations were "generally non-significant, or significant in the wrong direction" (Table 5).
 

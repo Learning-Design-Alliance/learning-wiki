@@ -12,7 +12,7 @@ generated:
 # Anticipation Guide
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies, `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 An anticipation guide is a short list of declarative statements — often plausible-sounding misconceptions — that learners agree or disagree with *before* encountering new material. After instruction, learners return to their initial responses, compare them against what they now know, and discuss or revise them. The strategy activates prior knowledge, surfaces misconceptions, and creates purpose for reading or instruction.

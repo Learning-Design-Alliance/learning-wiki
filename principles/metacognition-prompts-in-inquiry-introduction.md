@@ -17,7 +17,7 @@ sources:
 # Make students' problem-solving and metacognition explicit during inquiry introductions to improve performance and retention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 review, 1 design), `q2`–`q4` · 1 of 3 report an effect size
 
 ## Description
 During the inquiry introduction, facilitators should make students conscious of their use of critical-thinking skills and of prior knowledge they will reuse. The article states: "This metacognition of their learning and use of problem solving will not only help them perform better at the task, but it will also help retention of those skills." The introduction is also the place to explain that astronomy relies on spectra and images rather than laboratory experiments, and to suggest organizing data with graphs and tables.

@@ -15,12 +15,14 @@ sources:
     author: "Op 't Eynde, P., & De Corte, E."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A low positive correlation (r = .21) between Factor 3 (Mathematics as a social activity) and Factor 4 (Mathematics as a domain of excellence) implies the two views of mathematics are not strongly related and are not opposite poles of one dimension. [→ Op 't Eynde 2003](#op-t-eynde-2003)
@@ -31,7 +33,7 @@ sources:
 
 Op 't Eynde, P., & De Corte, E. (2003). Students' mathematics-related belief systems: Design and analysis of a questionnaire. https://eric.ed.gov/?id=ED475708
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational result from the principal component analysis of MRBQ responses. The article found "a low positive correlation (r = .21)" between the social-activity and domain-of-excellence factors, contrary to the expectation of a negative loading between the socio-constructivist and absolutist views.
 

@@ -15,12 +15,14 @@ sources:
     author: Ali, S.
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Elimat and Abuseileek's (2014) study of third-grade English learners using the 'Tell me more performance' program, the group of students who worked individually with the ASR system obtained the best results. [→ Ali 2016](#ali-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ali, S. (2016). Towards the development of a comprehensive pedagogical framework for pronunciation training based on adapted automatic speech recognition systems. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 7-13). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.530
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The article reports, citing Elimat and Abuseileek (2014), a study testing ASR efficacy with third-grade English learners across individual, pair and group work conditions, in which "The best results were obtained with the group of students who worked individually with the ASR system." No effect size is printed.
 

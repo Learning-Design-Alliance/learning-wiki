@@ -16,12 +16,14 @@ sources:
     q: 4
     i: 2
     n: 39 effect sizes (subset 1)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Spaced Retrieval Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium · n=39 effect sizes (subset 1)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=39 effect sizes (subset 1)
 
 Combining spaced repetition (distributing practice over time) with retrieval practice (actively recalling material rather than rereading it) produces stronger long-term retention than massed study or passive review. The two mechanisms are complementary: retrieval makes recall effortful, and spacing ensures that recall occurs after partial forgetting, when reconstruction is most beneficial.
 
@@ -35,7 +37,7 @@ Combining spaced repetition (distributing practice over time) with retrieval pra
 
 Latimier, A., Peyre, H., & Ramus, F. (2021). A Meta-Analytic Review of the Benefit of Spacing out Retrieval Practice Episodes on Retention. *Educational Psychology Review, 33*(3), 959–987. [doi:10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
 
-`q4 · meta-analysis (robust variance estimation over 29 studies)` · `i2 · medium effect, g=0.74` · `n=39 effect sizes (subset 1)`
+`q4 · meta-analysis (robust variance estimation over 29 studies)` · `i2 · medium effect, g=0.74` · `n=39 effect sizes (subset 1)` · `quant-synthesis · r?`
 
 Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets to answer two questions. Subset 1 (39 aggregated effect sizes) tested whether spaced retrieval practice produces better final-retention memory than massed retrieval practice, and found a benefit for spacing (Hedges' g = 0.74). Subset 2 (54 effect sizes) tested whether an expanding spacing schedule beats a uniform one during retrieval practice and found no reliable difference (g = 0.034); the number of retrieval exposures per item moderated this null result. The comparator in subset 1 is massed retrieval practice, so the meta-analysis shows that spacing matters within retrieval practice; it does not compare spaced retrieval with passive review.
 

@@ -13,7 +13,7 @@ grain_size: lesson
 # Jigsaw
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.

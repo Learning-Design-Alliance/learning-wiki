@@ -15,12 +15,14 @@ sources:
     author: Hossein Hashem Neghad
     q: 2
     i: 2
+    kind: design
+    rigour: 2
 ---
 
 # Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` In Iranian Pre-University ELT textbooks, constructivism had a relative frequency of 52.8% and frequency count of 37, making it the major organizing principle, while behaviourism fell to 18.6%. [→ Hossein Hashem Neghad 2014](#hossein-hashem-neghad-2014)
@@ -31,7 +33,7 @@ sources:
 
 Hossein Hashem Neghad. (2014). Reflection of Learning Theories in Iranian ELT Textbooks. Advances in Language and Literary Studies, 5(2). https://doi.org/10.7575/aiac.alls.v.5n.2p.115
 
-`q2 · i2`
+`q2 · i2` · `design · r2`
 
 Frequency count and relative frequency analysis of the Pre-University textbooks I and II, which were thoroughly revised in 2004. The analysis found constructivism at "the relative frequency of 52.8%" and behaviourism lowest at 18.6%.
 

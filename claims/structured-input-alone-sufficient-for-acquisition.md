@@ -15,12 +15,14 @@ sources:
     author: Bill VanPatten
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Research on processing instruction has repeatedly shown that explicit information is not needed; structured input alone causes changes in learner knowledge. [→ Bill VanPatten 2010](#bill-vanpatten-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bill VanPatten. (2010). The Two Faces of SLA: Mental Representation and Skill. International Journal of English Studies, 10(1), 1-18. https://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review of processing instruction studies (e.g., VanPatten & Oikennon 1996; Fernández 2008; Henry, Culman & VanPatten 2009), attributed by the article to that literature. The review reports that manipulated input forcing processors to work differently yields richer intake usable by UG. No effect sizes are printed in the essay.
 

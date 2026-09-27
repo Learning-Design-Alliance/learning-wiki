@@ -16,7 +16,7 @@ sources:
 # A broadened, context-aware conception of scientific excellence encompassing resilience, mentorship, community impact, flexibility, and navigation of structural challenges
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The editorial proposes an alternative view of excellence that goes beyond narrow measurable indicators such as high-impact publications, citation scores, and institutional prestige. It argues that "An alternative view of excellence encompasses a broader, more nuanced set of dimensions, including resilience under resource constraints, interdisciplinary thinking, mentorship, effective communication, and leadership within the scientific community." Excellence is also framed as "a generative impact, i.e., the capacity to create opportunities, support networks, and enable pathways" for others. The framework asks not only what was achieved but "under what conditions, with what resources, and with what impact on the scientific ecosystem."

@@ -15,12 +15,14 @@ sources:
     author: "Roshandel, J., Ghonsooly, B., & Ghanizadeh, A."
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Ideal L2 self correlates significantly with self-efficacy (r = 0.34, p < 0.05), confirming on a quantitative basis the association reported qualitatively in prior Japanese EFL research. [→ Roshandel 2018](#roshandel-2018)
@@ -31,7 +33,7 @@ sources:
 
 Roshandel, J., Ghonsooly, B., & Ghanizadeh, A. (2018). L2 Motivational Self-System and Self-Efficacy: A Quantitative Survey-Based Study. International Journal of Instruction, 11(1), 329-344. https://doi.org/10.12973/iji.2018.11123a
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Regression/correlation results from the 210-learner survey show ideal L2 self (r = 0.34, p < 0.05 in Table 4) significantly predicting self-efficacy; the article states the results "generalize the findings of Michiko and Osamu (2012) on a quantitative basis using a survey and utilizing regression analysis".
 

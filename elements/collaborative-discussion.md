@@ -17,7 +17,7 @@ sources:
 # Collaborative Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (3 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.

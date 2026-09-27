@@ -17,7 +17,7 @@ sources:
 # Anchored Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Anchored instruction situates learning around a shared, meaningful scenario or "anchor" that gives learners a concrete context for inquiry, analysis, and problem solving.

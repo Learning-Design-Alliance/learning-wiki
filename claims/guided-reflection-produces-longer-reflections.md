@@ -15,12 +15,14 @@ sources:
     author: "Sturgill, A., & Motley, P."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Guided reflection assignments produce roughly twice as much written reflection as free assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Guided journals yielded 926 paragraphs versus 478 for free journals, suggesting students spent more time preparing guided reflections. [→ Sturgill 2014](#sturgill-2014)
@@ -31,7 +33,7 @@ sources:
 
 Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Paragraph-count comparison across two guided and two free journal sections of the same course cohort. The authors interpret the longer guided output as suggesting "students spent more time in preparing the longer reflections" and potentially more thinking.
 

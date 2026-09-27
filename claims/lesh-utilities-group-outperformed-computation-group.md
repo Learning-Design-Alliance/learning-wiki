@@ -15,12 +15,14 @@ sources:
     author: Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Ninth graders using the computer as a translation tool (utilities group) outperformed a computation group on applications problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Lesh's study, the utilities group outperformed the computation group on applications problems and on the computation half of the test. [→ Shavelson 1986](#shavelson-1986)
@@ -31,7 +33,7 @@ sources:
 
 Shavelson, Richard J.; Webb, Noreen M.; Lehman, Penny. (1986). The Role of Symbol Systems in Problem Solving: A Literature Review. CSE Report No. 269. https://eric.ed.gov/?id=ED338680
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports a study comparing two groups (n1 = n2 = 10) of ninth graders with identical examples and exercises, differing in item order, computer role, and graph plotting; the "utilities" group used the computer as a tool for translating between equations and graphs. No effect size is printed.
 

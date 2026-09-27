@@ -15,12 +15,14 @@ sources:
     author: "Zhao, A., Guo, Y., Biales, C., & Olszewski, A."
     q: 2
     i: 2
+    kind: associational
+    rigour: 2
 ---
 
 # Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Anxiety measured by the IVLAS was a significant positive predictor of incidental vocabulary acquisition (β = .21). [→ Zhao 2016](#zhao-2016)
@@ -31,7 +33,7 @@ sources:
 
 Zhao, A., Guo, Y., Biales, C., & Olszewski, A. (2016). Exploring learner factors in second language (L2) incidental vocabulary acquisition through reading. Reading in a Foreign Language, 28(2). http://nflrc.hawaii.edu/rfl
 
-`q2 · i2`
+`q2 · i2` · `associational · r2`
 
 In the same multiple linear regression (N = 129), anxiety as measured by the IVLAS was a significant positive predictor, "β = .21, t = 2.54, p < .05". Anxiety was measured with a 10-item context-specific scale (α = 0.81).
 

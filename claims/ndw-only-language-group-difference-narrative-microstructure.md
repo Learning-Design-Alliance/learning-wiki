@@ -15,12 +15,14 @@ sources:
     author: Hayes, R. L., and Kan, P. F.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Age group significantly affected MLUm, NDW, SI, and fragments in English narratives. [→ Hayes 2026](#hayes-2026)
@@ -32,7 +34,7 @@ sources:
 
 Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative skills: comparing English monolingual and Japanese–English bilingual children. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2026.1747702
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 2×2 ANOVAs on MAIN retell narratives from 56 children (28 bilingual, 28 monolingual) tested language group and age group effects on microstructure. The article reports "NDW was significant, F(3, 52) = 8.19, p < 0.001, R2 = 0.32" with both main effects significant; MLUm, SI, and fragments showed significant age effects but no language group effect.
 

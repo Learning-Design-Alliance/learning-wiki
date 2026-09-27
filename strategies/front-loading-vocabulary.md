@@ -12,7 +12,7 @@ generated:
 # Front Loading Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies, `q1`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 5 claims (5 for) · 12 studies (4 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Front loading vocabulary means explicitly pre-teaching the meanings of high-value words before learners read a text, watch a demonstration, or begin a task. It typically involves selecting a small set of words critical to understanding, providing student-friendly definitions and examples, and engaging learners in brief active processing of those meanings before the main activity.

@@ -15,12 +15,14 @@ sources:
     author: "Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Implementers within the same school share similar attitudes toward EBPs, with intra-class correlations of 0.06 to 0.13 across four attitudinal dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Educators in the same school share significant similarities in Requirement, Openness, Appeal, and Divergence attitudes toward EBPs, with ICCs of 0.06, 0.09, 0.11, and 0.13 respectively. [→ Zhang 2023](#zhang-2023)
@@ -31,7 +33,7 @@ sources:
 
 Zhang, Y., Cook, C., Fallon, L., Corbin, C., Ehrhart, M., Brown, E., Locke, J., & Lyon, A. (2023). The Interaction Between General and Strategic Leadership and Climate on Their Multilevel Associations with Implementer Attitudes Toward Universal Prevention Programs for Youth Mental Health: A Cross-Sectional Study. Administration and Policy in Mental Health and Mental Health Services Research. https://doi.org/10.1007/s10488-022-01248-5
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Unconditional random-intercept-only multilevel models fitted on 441 implementers in 52 schools yielded ICCs showing "individuals from the same organization shared similar attitudes in all four dimensions"; level-2 variance components were significant for all four dimensions, supporting multilevel analysis.
 

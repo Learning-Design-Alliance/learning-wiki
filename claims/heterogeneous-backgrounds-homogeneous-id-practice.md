@@ -15,12 +15,14 @@ sources:
     author: "Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M."
     q: 2
     i: 1
+    kind: associational
+    rigour: 1
 ---
 
 # Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Despite heterogeneous introductions to ID and a breadth of 68 cited references with no common Bible, questionnaire responses about practice were homogeneous. [→ Winer 1994](#winer-1994)
@@ -31,7 +33,7 @@ sources:
 
 Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper presented at the Annual Meeting of AERA. https://eric.ed.gov/?id=ED371037
 
-`q2 · i1`
+`q2 · i1` · `associational · r1`
 
 In the Montreal replication survey, introductions to ID varied (47% formal university studies, 29% through work), and references produced a list of 68 items; the authors note "clearly no common Bible" yet responses were homogeneous.
 

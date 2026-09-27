@@ -12,7 +12,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 3 studies, `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (2 theoretical, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.

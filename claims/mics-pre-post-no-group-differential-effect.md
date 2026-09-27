@@ -15,18 +15,22 @@ sources:
     author: Lin, L.-F.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: lin-2016-2
     resource: "https://doi.org/10.5539/elt.v9n10p1"
     title: "Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1"
     author: Lin, L.-F.
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i?` The repeated-measures ANOVA on RC MICS pre- and post-tests showed a significant main effect for Test but non-significant effects for Group and the Group x Test interaction. [→ Lin 2016](#lin-2016)
@@ -38,7 +42,7 @@ sources:
 
 Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated-measures ANOVA (Table 4) on RC MICS pre- and post-tests: Group F = .922, p = .401; Test F = 22.96, p = .000; Interaction F = .72, p = .488. One-way ANOVA of the MICS post-test showed no significant differences among the three groups.
 
@@ -48,7 +52,7 @@ Repeated-measures ANOVA (Table 4) on RC MICS pre- and post-tests: Group F = .922
 
 Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Paired t-tests on RC MICS pre- and post-scores: VNT t = -5.45, p = .000; NT t = -2.98, p = .006; T t = -1.66, p = .107. The T group's improvement was not significant.
 

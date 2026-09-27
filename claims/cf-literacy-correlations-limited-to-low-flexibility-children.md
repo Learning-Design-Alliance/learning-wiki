@@ -15,18 +15,22 @@ sources:
     author: Krause, Suzanne; Moore, Elizabeth J.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
   - id: krause-1997-2
     resource: "https://eric.ed.gov/?id=ED406649"
     title: "Krause, Suzanne; Moore, Elizabeth J. (1997). Effects of Cognitive Flexibility and Phonemic Awareness Training on Kindergarten and First-Grade Students' Phonemic Awareness, Cognitive Flexibility, Reading, and Spelling Ability. https://eric.ed.gov/?id=ED406649"
     author: Krause, Suzanne; Moore, Elizabeth J.
     q: 2
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Among children with initially low cognitive flexibility, growth in cognitive flexibility correlates with post phonemic awareness, reading comprehension growth, and spelling scores; these correlations are not significant among high-flexibility children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` For children with initial low cognitive flexibility scores, growth in cognitive flexibility was positively correlated with post phonemic awareness scores (r = .36), growth in reading comprehension (r = .74), and post spelling scores (r = .28). [→ Krause 1997](#krause-1997)
@@ -38,7 +42,7 @@ sources:
 
 Krause, Suzanne; Moore, Elizabeth J. (1997). Effects of Cognitive Flexibility and Phonemic Awareness Training on Kindergarten and First-Grade Students' Phonemic Awareness, Cognitive Flexibility, Reading, and Spelling Ability. https://eric.ed.gov/?id=ED406649
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Subgroup correlational analysis of the 280-student intervention: among "children with initial, low cognitive flexibility scores", cognitive flexibility growth correlated with post phonemic awareness (r = .36), reading comprehension growth (r = .74), and post spelling (r = .28).
 
@@ -48,7 +52,7 @@ Subgroup correlational analysis of the 280-student intervention: among "children
 
 Krause, Suzanne; Moore, Elizabeth J. (1997). Effects of Cognitive Flexibility and Phonemic Awareness Training on Kindergarten and First-Grade Students' Phonemic Awareness, Cognitive Flexibility, Reading, and Spelling Ability. https://eric.ed.gov/?id=ED406649
 
-`q2 · i0`
+`q2 · i0` · `causal · r2`
 
 The same subgroup analysis found the correlations between cognitive flexibility growth and literacy outcomes "were not significant among children with initial, high cognitive flexibility scores", limiting the relationship to low-flexibility children.
 

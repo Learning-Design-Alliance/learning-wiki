@@ -15,12 +15,14 @@ sources:
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports that Bowlby (1972) proposed a natural sequence in healthy affective development: attachment forms, separation produces distress, and confidence in the attachment figure's availability diminishes separation behavior and moves the child to healthy exploration. [→ Casto 1976](#casto-1976)
@@ -31,7 +33,7 @@ sources:
 
 Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review lays out the sequence: attachment develops, separation produces emotional distress, and as the baby becomes confident the attachment figure will be available, separation behavior diminishes in intensity, culminating in healthy exploration.
 

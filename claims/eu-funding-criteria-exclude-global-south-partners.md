@@ -15,12 +15,14 @@ sources:
     author: "Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # EU funding criteria often do not allow channeling funding to Global South partners, requiring separate funding for ICEL
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Criteria for EU-level funding such as Erasmus+, Horizon2020 or Marie Skłodowska-Curie actions often do not allow channeling funding to Global South partners, so ICEL with Global South partners requires additional, separate funding. [→ Vijge 2025](#vijge-2025)
@@ -31,7 +33,7 @@ sources:
 
 Vijge, M. J., Gallagher, S. E., Byrne, J. R., Tschersich, J., Tager, J., Madhavan, U. B., Boshoff, H., & Triyanti, A. (2025). Community-Engaged Learning in a European Universities Alliance: Reflections on Equality and Reciprocity Across Europe and Africa. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.libs.uga.edu/jheoe
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Autoethnographic reflection on external funding for collaborative education and research. The authors note criteria "often do not allow chan- neling funding to Global South partners", making full integration of Global South partners in regular educational activities challenging.
 

@@ -15,12 +15,14 @@ sources:
     author: Jeffrey Wallace Judge
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The most common out-of-work practices were reading in English, watching TV and films in English, and speaking with native English speaking friends. [→ Jeffrey Wallace Judge 2012](#jeffrey-wallace-judge-2012)
@@ -31,7 +33,7 @@ sources:
 
 Jeffrey Wallace Judge. (2012). Use of Language Learning Strategies by Spanish Adults for Business English. International Journal of English Studies, 12(1), 37-54. http://www.um.es/ijes
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview question on English development outside the work environment in the 11-participant phenomenological study. Reading was "One of the most common themes among all the participants"; participants also intentionally watched original-version media and spoke with native English speaking friends. No effect size is reported.
 

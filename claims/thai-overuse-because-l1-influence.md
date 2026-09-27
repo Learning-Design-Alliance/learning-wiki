@@ -15,12 +15,14 @@ sources:
     author: "Hu, C., & Li, Y."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Thai students overuse the causal connective because, a pattern the article attributes to L1 influence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The causal device because is overwhelmingly frequent in Thai students' essays, ranking No. 1 among their top ten DCs, and Hong Kong and Singaporean students underuse it compared with L1 counterparts. [→ Hu 2015](#hu-2015)
@@ -31,7 +33,7 @@ sources:
 
 Hu, C., & Li, Y. (2015). Discourse Connectives in L1 and L2 Argumentative Writing. Higher Education Studies. https://doi.org/10.5539/hes.v5n4p30
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
 Corpus analysis of causal DCs (Section 4.2.4, Table 8), where because occurs 314 times in THA_B1_2 versus 163 in ENS1, 108 in SIN and 96 in HKG. The article attributes the Thai overuse to L1 influence, noting Thai students learning Chinese also overuse Yinwei, the Chinese equivalent of because.
 

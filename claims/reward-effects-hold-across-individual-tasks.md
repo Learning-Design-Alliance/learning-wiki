@@ -15,12 +15,14 @@ sources:
     author: Ward, William C., Nathan Kogan, and Ethel Pankove
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Per-task analyses showed nonsignificant slope effects but significant treatment effects for each task. [→ Ward 1970](#ward-1970)
@@ -31,7 +33,7 @@ sources:
 
 Ward, William C., Nathan Kogan, and Ethel Pankove. (1970). Motivation and Capacity in Children's Creativity. Research Bulletin. Educational Testing Service. https://eric.ed.gov/?id=ED045766
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Per-task analyses of covariance replicate the combined-task pattern: nonsignificant slopes and significant treatment effects, with "Immediate Reward gave significantly more ideas than did Control children on each of the four tasks".
 

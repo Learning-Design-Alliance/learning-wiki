@@ -16,7 +16,7 @@ sources:
 # Heterotopic social cartography maps perspectival difference as an intertextual field
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies, `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Social cartography is a spatial, postmodern alternative to totalizing utopic representation, drawing on Foucault's notion of heterotopia. The paper describes "heterotopic spaces" as "the simultaneously mythic and real spaces of everyday life capable of juxtaposing in a single place a great variety of different sites which in themselves may be wildly incompatable." Figure 3 applies this to the CIES postmodernity debate, defining the field by outlier positions rather than central tendency, and treating the map as metaphor, heuristic tool, and site of paralogy.

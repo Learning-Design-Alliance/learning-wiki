@@ -15,12 +15,14 @@ sources:
     author: Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Postmodern sensibility is characterized by a shift from one fixed reality to an anti-essentialist view in which reality constructs resist closure and multiple truth claims contend. [→ Paulston 1999](#paulston-1999)
@@ -31,7 +33,7 @@ sources:
 
 Paulston, Rolland G. (1999). Comparative Education After Postmodernity: Occasional Paper Series. https://eric.ed.gov/?id=ED430912
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Interpretive claim from the paper's conceptual framing section, where reality constructs are described as seen "to resist closure and multiple and diverse truth claims become part of a continuous agonistic struggle." This is the author's analytical reading, not an empirical result.
 

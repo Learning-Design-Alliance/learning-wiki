@@ -15,18 +15,22 @@ sources:
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: zak-moskal-2020-2
     resource: "https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     title: "Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4"
     author: "Zak-Moskal, A. D., & Garrison, M. J."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports that the one learning-community study with random, no-choice assignment showed no persistence or achievement gains, while voluntary programs showed some gains, suggesting choice itself may act as a mediator. [→ Zak-Moskal 2020](#zak-moskal-2020)
@@ -38,7 +42,7 @@ sources:
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review attributing this to Andrade's (2007) review of 12 learning-community studies. The randomly assigned study showed no "gains in either persistence or academic achievement" despite strong satisfaction ratings; voluntary-participation studies showed at least some retention gains. No effect size printed.
 
@@ -48,7 +52,7 @@ Narrative review attributing this to Andrade's (2007) review of 12 learning-comm
 
 Zak-Moskal, A. D., & Garrison, M. J. (2020). Can Self-determination Theory be Used to Increase College Student Retention?. The New York Journal of Student Affairs, 20(1). https://commons.library.stonybrook.edu/nyjsa/vol20/iss1/4
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's own synthesis of Table 1, which codes 12 studies by which needs each met. The authors state the need for autonomy "has no clear parallel in current retention programs" and that degree of choice "did not appear as a conscious or tested variable".
 

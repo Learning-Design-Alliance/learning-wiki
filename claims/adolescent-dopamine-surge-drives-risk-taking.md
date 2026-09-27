@@ -15,12 +15,14 @@ sources:
     author: "Roaten, G. K., & Roaten, D. J."
     q: 2
     i: 1
+    kind: review
+    rigour: 1
 ---
 
 # A rapid increase in dopamine activity in the adolescent brain's reward center contributes to teen risk-taking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · review `r1` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` Research shows a rapid increase in dopamine activity in the brain's reward center during adolescence, and risky behaviors such as drug experimentation and unsafe sex appear driven by dopamine and other excitatory neurotransmitters. [→ Roaten 2011](#roaten-2011)
@@ -31,7 +33,7 @@ sources:
 
 Roaten, G. K., & Roaten, D. J. (2011). Adolescent Brain Development: Current Research and the Impact on Secondary School Counseling Programs. https://schoolcounselor.org
 
-`q2 · i1`
+`q2 · i1` · `review · r1`
 
 Narrative review of neurotransmitter changes, citing Steinberg (2011) and Cohen et al. (2010). The review reports "a rapid increase in dopamine activity in the brain’s reward center" and attributes risky behaviors to excitatory neurotransmitters.
 

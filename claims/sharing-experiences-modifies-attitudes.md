@@ -15,12 +15,14 @@ sources:
     author: Ellis, M. L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Sharing experiences in class discussion modifies learners' attitudes and interpretations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` When one adult learner shares in what another has thought and felt, the sharer's own attitude is modified, and formulating experience for communication requires seeing it as another would see it. [→ Ellis 2012](#ellis-2012)
@@ -31,7 +33,7 @@ sources:
 
 Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument quoted from Dewey within the essay's discussion of connecting adult experiences to learning; the article offers no empirical test, presenting this as a philosophical account of how "his own attitude modified" occurs through shared experience.
 

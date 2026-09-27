@@ -110,6 +110,32 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-29 (night) — every evidence entry carries a kind and a rigour; `q` is the design tier
+
+- **Maintainer's decision, after the 38-entry pilot**: `q` ranked every study on the causal-design
+  ladder and so called a careful qualitative study low quality. Each entry now also carries its
+  **kind** (`causal`, `quant-synthesis`, `review`, `associational`, `qualitative`, `design`,
+  `theoretical`) and its **rigour 1–3 judged by that kind's own criteria**
+  (`eval/kind-rigor/RUBRIC.md`, `evidence-scales.json`), as a span on the codes line
+  (`qualitative · r3`) mirrored to `sources[]` as `kind:`/`rigour:`. **`q` is unchanged and kept**,
+  read as the design tier, because the design side and `strength_cap` read it.
+- **`scripts/code_kind_rigour.py` coded all 3,806 entries, $6.92** (GPT, one pass, on the fetched
+  article for 3,176, the abstract for 459, the entry alone for 171). **Rigour is never judged from
+  the wiki's own paraphrase**: with no text of the study it is `r?`, and it is `r?` wherever the
+  abstract cannot show the kind's criteria. Decisions are in `eval/runs/kind-rigor/coded.ndjson`
+  (ignored), keyed by the entry's text, so an edited entry is re-coded and an unchanged one never
+  paid for twice. Verified by parse: 3,036 claim pages, 0 source entries added or dropped, 0 other
+  keys changed, and the body diff is only codes lines and header lines.
+- **Of 1,070 distinct studies**: 37 qualitative studies are `r3` against 6 causal ones (few trials
+  here are pre-registered and powered); `r?` is mostly meta-analyses (105 of 147) and trials (96 of
+  233), which are known from abstracts. **Fetching those full texts is what would settle them.**
+- Claim headers lead with kind and rigour (`1 study · qualitative r3 · q1 · n=10`; q goes bare
+  beside kinds so "argument or single case" never sits next to "qualitative r3"), design pages'
+  evidence lines count studies by kind, `evidence.md` has a kind × rigour table, and the docs
+  legend explains both. **Batches code their new entries** after the verify step (`--new`, $2 cap).
+  The extraction prompt does not ask for them: coding from the article afterwards is cheaper than a
+  prompt change and a benchmark, and keeps GLM's job unchanged.
+
 ### 2026-09-29 (evening) — batch 10, the adult language-learning deep dive
 
 - **75 ERIC articles from `eval/deep-dive/adult-language-learning/topics.txt`, all ingested** (541 pages,
@@ -2996,7 +3022,7 @@ evidence_strength:   # strong / moderate / weak / mixed
 
 Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](https://doi.org/...)
 
-`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]` · `i? · [e.g. large effect, d=0.9]` · `n=?`
+`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]` · `i? · [e.g. large effect, d=0.9]` · `n=?` · `[kind] · r?`
 
 [2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example `[worked examples](../elements/demonstration.md)` and `[practice tasks](../elements/practice.md)`.]
 
@@ -3008,7 +3034,18 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 - 
 ```
 
-**Evidence quality tiers (q):**
+**Evidence kind and rigour.** Every entry's codes line ends with a span naming what sort of
+evidence the study is and how well it does what that kind can do, e.g. `qualitative · r3`. Kinds:
+`causal`, `quant-synthesis`, `review`, `associational`, `qualitative`, `design`, `theoretical`.
+Rigour 1–3 is judged against the kind's own criteria (`eval/kind-rigor/RUBRIC.md`), never another
+kind's, so a careful interview study is `r3` and a confounded trial `r1`; `r?` means the text
+available could not show it, and an entry with no text of its study is always `r?`. Both are
+mirrored into `sources[]` as `kind:` and `rigour:`. `scripts/code_kind_rigour.py` writes them,
+from the article or abstract, never from the wiki's own paraphrase. **`q` stays, and is now read as
+the design tier**: where a study sits on the causal-design ladder, which answers "how good is this as
+evidence of a cause" and not "how well was this done".
+
+**Design tiers (q):**
 | q | Criteria |
 |---|----------|
 | 4 | Pre-registered RCT or well-powered meta-analysis |
@@ -3031,6 +3068,8 @@ sources:
     q: 3
     i: 2
     n: large (multiple course sections at a research university)
+    kind: causal
+    rigour: 2
 ```
 
 Subclaim prefixes are deliberately not mirrored: a subclaim's `q3 i2` is a *reading* of the

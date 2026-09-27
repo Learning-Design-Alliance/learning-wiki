@@ -15,12 +15,14 @@ sources:
     author: Ronald E. Chennault
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Washington and Dewey differed on honoring student desires, with Washington arguing for their suppression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Unlike Dewey, who treats natural impulses and desires as an educational starting point, Washington emphasized education addressing actual needs while arguing for suppression of students' desires. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -31,7 +33,7 @@ sources:
 
 Ronald E. Chennault. (2013). Pragmatism and Progressivism in the Educational Thought and Practices of Booker T. Washington. Philosophical Studies in Education, Volume 44. https://eric.ed.gov/?id=EJ1015729
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Philosophical contrast drawn from Washington's Sunday evening talks and Dewey's Experience and Education: the article states "there is no evidence of him honoring the desires of students," while both men see education as creating the power of self-control.
 

@@ -15,18 +15,22 @@ sources:
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: ariel-2018-2
     resource: "https://doi.org/10.1037/xap0000133"
     title: "Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133"
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The instructed group chose to self-test more than the control group; study choice frequency did not differ. [→ Ariel 2018](#ariel-2018)
@@ -38,7 +42,7 @@ sources:
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 1 analysis of three self-regulated learning measures: study decisions, self-test decisions, and feedback choices per item. Study choices did not differ, t(58) = 0.70, p = .49; feedback choices were at ceiling (96%+ of trials) in both groups and "did not differ much across groups".
 
@@ -48,7 +52,7 @@ Experiment 1 analysis of three self-regulated learning measures: study decisions
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 1 cumulative learning analysis across test practice blocks (Table 2). The instructed group also used retrieval practice at least once for 99% of items versus 88% in control, t(58) = 2.51, p < .05, d = 0.65.
 

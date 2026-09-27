@@ -15,18 +15,22 @@ sources:
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: zou-2019-2
     resource: "https://doi.org/10.5539/elt.v12n12p39"
     title: "Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39"
     author: "Zou, F., & Yan, X."
     q: 2
     i: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Words appearing more frequently in a text are gained by more learners, and repeated exposures raise gains especially in the first few exposures. [→ Zou 2019](#zou-2019)
@@ -38,7 +42,7 @@ sources:
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Tekmen and Daloğlu (2006), a study of intermediate, upper-intermediate and advanced students using the Vocabulary Levels Test as pre-test and two post-tests of 30 of 60 words; more frequent words were gained by more learners. No effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Tekmen and Daloğlu (2006), a study of intermediate, 
 
 Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Reading: A Review in the Last Two Decades. English Language Teaching, 12(12). https://doi.org/10.5539/elt.v12n12p39
 
-`q2 · i?`
+`q2 · i?` · `review · r?`
 
 The review reports, citing Godfroid (2018), an eye-tracking study confirming repetition contributes to gains in form recognition, meaning recall and meaning recognition, with exposure most influencing form recognition. No effect size is printed.
 

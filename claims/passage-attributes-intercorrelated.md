@@ -15,12 +15,14 @@ sources:
     author: Gagne, Ellen D.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` There are high correlations between the imagery, interest and linkage variables, lower correlations between these three variables and reading ease, and lower but still substantial correlations of word frequency with the other variables. [→ Gagne 1981](#gagne-1981)
@@ -31,7 +33,7 @@ sources:
 
 Gagne, Ellen D. (1981). Comprehension and the Long-Term Recall of Information. Final Report. https://eric.ed.gov/?id=ED221831
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Correlations between the linkage, interest, imagery, word frequency, and reading ease values were computed across the 27 passages, each correlation having an N of 27. With one exception (word frequency with imagery), the correlations were significant with p < .01.
 

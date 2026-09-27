@@ -15,12 +15,14 @@ sources:
     author: Siegel, Harvey
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Trigg and O'Hear's argument that the justification demand is bogus is mistaken
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Trigg and O'Hear have not shown that reasons justifying rationality must be viciously circular or question-begging; their rejection of the justification demand fails. [→ Siegel 1989](#siegel-1989)
@@ -31,7 +33,7 @@ sources:
 
 Siegel, Harvey. (1989). Why Be Rational? On Thinking Critically about Critical Thinking. Resource Publication, Series 2 No. 1. https://eric.ed.gov/?id=ED352333
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Philosophical counter-argument. Siegel argues the claimed impossibility of non-circular justification can only be established by considering candidate answers, and that showing a justification impossible shows only that a position lacks rational justification, not that the demand is illegitimate.
 

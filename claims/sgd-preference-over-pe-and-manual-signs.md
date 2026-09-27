@@ -15,18 +15,22 @@ sources:
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: nam-2018-2
     resource: "https://eric.ed.gov/?id=EJ1185374"
     title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374"
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the studies comparing SGD vs. PE, 50% of participants showed high preference for SGD versus 30% for PE; across three options, 67% preferred SGDs. [→ Nam 2018](#nam-2018)
@@ -38,7 +42,7 @@ sources:
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · overview of a systematic review` · `i? · percentages of participants, no effect size`
+`q2 · overview of a systematic review` · `i? · percentages of participants, no effect size` · `review · r2`
 
 Overview of the van der Meer et al. (2011) review of 7 studies with 12 individuals with developmental disabilities assessing AAC preference; the 50% and 30% figures are for studies comparing SGDs with PE, and the 67% and 33% figures for comparisons of all three options (SGD, PE and manual signs); and the review modestly concluded individuals often show preferences for different AAC options.
 
@@ -48,7 +52,7 @@ Overview of the van der Meer et al. (2011) review of 7 studies with 12 individua
 
 Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Overview of the Lorah et al. (2015) review of 17 empirical studies on handheld computers as SGDs for individuals with developmental disabilities; device preference was reported alongside acquisition outcomes.
 

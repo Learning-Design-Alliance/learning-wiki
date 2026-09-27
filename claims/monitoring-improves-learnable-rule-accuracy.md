@@ -15,12 +15,14 @@ sources:
     author: Adamson, Douglas
     q: 2
     i: 0
+    kind: causal
+    rigour: 1
 ---
 
 # Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` In Ciske's pilot study, monitoring significantly improved the accuracy of subject-verb agreement (p < .01) and regular past tense (p < .001) for one Korean ESL student. [→ Adamson 1983](#adamson-1983)
@@ -31,7 +33,7 @@ sources:
 
 Adamson, Douglas. (1983). Monitoring and the Monitor Model: Labov Versus Krashen. WATESOL Working Papers. https://eric.ed.gov/?id=ED242194
 
-`q2 · i0`
+`q2 · i0` · `causal · r1`
 
 A pilot study by Mary Ciske elicited four contextual styles (free writing, reading it aloud, conversation, editing) from one Korean student in a freshman composition class, scoring accuracy in obligatory contexts. Editing significantly improved "the accuracy of subject-verb agreement" and regular past tense; no effect sizes are printed.
 

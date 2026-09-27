@@ -15,12 +15,14 @@ sources:
     author: Pereira, Carolyn
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # LRE grew rapidly in U.S. curricula after 1975, ranking fourth in social studies priority
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A national survey found LRE added to the curriculum in more than half of forty-six states since 1975, and state specialists ranked it fourth in priority, up from eleventh in 1975. [→ Pereira 1988](#pereira-1988)
@@ -31,7 +33,7 @@ sources:
 
 Pereira, Carolyn. (1988). Law-Related Education in Elementary and Secondary Schools. ERIC Digest. https://eric.ed.gov/?id=ED296948
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The digest reports, citing Hahn's 1985 national curriculum survey of state-level curriculum specialists and supervisors, that "LRE has been added to the curriculum in more than half of the forty-six states involved in the study" and that respondents ranked LRE fourth as a priority, up from eleventh in 1975.
 

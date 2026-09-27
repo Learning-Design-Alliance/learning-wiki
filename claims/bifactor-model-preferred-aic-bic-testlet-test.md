@@ -15,12 +15,14 @@ sources:
     author: Rijmen, F.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When three IRT models were fitted to 20 reading comprehension items in 4 testlets from 13,508 test takers, both information criteria selected the bifactor model. [→ Rijmen 2009](#rijmen-2009)
@@ -31,7 +33,7 @@ sources:
 
 Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Empirical comparison fitting a unidimensional 2PL model, a second-order model, and a bifactor model to a subset of 20 reading comprehension items in 4 testlets, analyzed on a sample of 13,508 persons. Table 1 reports deviance, AIC, and BIC, and "According to both the BIC and AIC, the bifactor model is the model to be selected."
 

@@ -15,18 +15,22 @@ sources:
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: khoo-2013-2
     resource: "http://InformationR.net/ir/17-4/paper547.html"
     title: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html"
     author: "Khoo, C.S.G., Wang, Z., & Chaudhry, A.S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Users infer a variety of relationships between task concepts and taxonomy categories and prefer common or generic associations over formal disciplinary relations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Users infer relationships including application area, associated tool, associated process/procedure/technique, associated institution and academic discipline between a task concept and a taxonomy category. [→ Khoo 2013](#khoo-2013)
@@ -38,7 +42,7 @@ sources:
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Qualitative analysis of navigation exercises and interviews with twenty-two participants. The authors conclude users are "creative in inferring a variety of relationships between a task concept and a taxonomy category", and note it is not easy to predict which relationship a user will find salient.
 
@@ -48,7 +52,7 @@ Qualitative analysis of navigation exercises and interviews with twenty-two part
 
 Khoo, C.S.G., Wang, Z., & Chaudhry, A.S. (2013). Task-based navigation of a taxonomy interface to a digital repository. Information Research, 17(4) paper 547. http://InformationR.net/ir/17-4/paper547.html
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Conclusion drawn from the evaluation study: participants associated topics with the contexts in which they encountered them, such as courses, and "may not understand the formal disciplinary relations found in subject classification systems". Interviews showed participants preferred familiar frameworks as main categories.
 

@@ -13,12 +13,14 @@ sources:
     title: counts-1
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Problem counts differed sharply by condition: Streak gave around 17 AD, 10 AS and 9 M problems; BKT default around 11 AD and 6 AS and M; DKT random gave around 78 AD problems but fewer than 3 in AS and M. [→ counts-1](#counts-1)
@@ -29,7 +31,7 @@ sources:
 
 Qiao Zhang and Christopher MacLellan “Going Online: A simulated student approach for evaluating knowledge tracing in the context of mastery learning”. 2021. In: Proceedings of The 14th International Conference on Educational Data Mining (EDM21). International Educational Data Mining Society, 331-337. https://educationaldatamining.org/edm2021/
 
-`q2 · i? · the article prints no effect size for this finding`
+`q2 · i? · the article prints no effect size for this finding` · `causal · r1`
 
 Simulation results shown in Figure 1 report problems administered per condition and problem type across 30 simulated students per condition. The authors hypothesize BKT human gives slightly more problems than BKT random because BKT random parameters were fit to the simulated students.
 

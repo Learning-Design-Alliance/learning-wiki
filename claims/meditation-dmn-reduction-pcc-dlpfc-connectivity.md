@@ -15,12 +15,14 @@ sources:
     author: "Husain, W., Ammar, A., Wusqa, U. T., Farooq, M., Tariq, Z., Pandi-Perumal, S. R., BaHammam, A. S., Trabelsi, K., Griffiths, M. D., Pakpour, A., & Jahrami, H."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review reports that experienced mindfulness meditators showed reduced medial PFC and PCC activation during meditation alongside enhanced PCC–dorsolateral PFC functional connectivity, interpreted as trained disengagement from self-referential mind-wandering. [→ Husain et al. 2026](#husain-et-al-2026)
@@ -31,7 +33,7 @@ sources:
 
 Husain, W., Ammar, A., Wusqa, U. T., Farooq, M., Tariq, Z., Pandi-Perumal, S. R., BaHammam, A. S., Trabelsi, K., Griffiths, M. D., Pakpour, A., & Jahrami, H. (2026). The Neuroscience of Religious and Spiritual Practices: A Systematic Review of Neurotheological Evidence. Brain and Behavior. [doi:10.1002/brb3.71733](https://doi.org/10.1002/brb3.71733)
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative synthesis (SWiM) of neuroimaging studies of meditation; the review reports, citing Brewer et al. 2011, "reduced activation in medial PFC and posterior cingulate cortex (PCC) nodes" with enhanced PCC–dlPFC connectivity. No effect sizes printed.
 

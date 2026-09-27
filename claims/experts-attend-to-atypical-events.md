@@ -15,12 +15,14 @@ sources:
     author: Berliner, David C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a class-takeover simulation, experts invested little effort learning typical student information, while novices and postulants worked to learn all they could about each student. [→ Berliner 1988](#berliner-1988)
@@ -31,7 +33,7 @@ sources:
 
 Berliner, David C. (1988). The Development of Expertise in Pedagogy. American Association of Colleges for Teacher Education. https://eric.ed.gov/?id=ED298122
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 In the Carter, Sabers, Cushing, Pinnegar, and Berliner (1987) simulation of taking over a class in its fifth week, experts merged student information into a 'typical' group picture and attended mainly to atypicalness, consistent with the slide study where experts described one slide as not typical.
 

@@ -17,7 +17,7 @@ sources:
 # Digital video and Vernier force plates as low-setup measurement tools for dance motion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The course uses two measurement tools: digital video cameras, from which position vs. time data are extracted by hand against a calibrated background, and "force plates from Vernier Software & Technology that are similar to bathroom scales but read force vs. time at 50 readings/second", recorded with a handheld interface. Two plates, one under each foot, provide a safer jumping target and require only adding two data columns.

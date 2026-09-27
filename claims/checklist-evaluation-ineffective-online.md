@@ -15,6 +15,8 @@ sources:
     q: 2
     i: "?"
     n: 45 participants
+    kind: qualitative
+    rigour: "?"
   - id: lowe-et-al-2021
     resource: "https://doi.org/10.14434/josotl.v21i3.30744"
     title: "Lowe, M. S., Macy, K. V., Murphy, E., & Kani, J. (2021). Questioning CRAAP. *Journal of the Scholarship of Teaching and Learning, 21*(3), 33–48. [doi:10.14434/josotl.v21i3.30744](https://doi.org/10.14434/josotl.v21i3.30744)"
@@ -22,6 +24,8 @@ sources:
     q: 2
     i: "?"
     n: 85 students (quizzes), 88 papers
+    kind: causal
+    rigour: 1
   - id: ratcliffe-2026
     resource: "https://doi.org/10.5860/crl.87.5.555"
     title: "Ratcliffe, C. (2026). Teaching source evaluation to undergraduate nursing students: Comparing the CRAAP Test and the Source + Beyond the Source framework. *College & Research Libraries, 87*(5), 555–580. [doi:10.5860/crl.87.5.555](https://doi.org/10.5860/crl.87.5.555)"
@@ -29,12 +33,14 @@ sources:
     q: 2
     i: "?"
     n: 115 students at pre-test (101 and 89 at the two post-tests)
+    kind: causal
+    rigour: "?"
 ---
 
 # Checklist-based evaluation instruction does not reliably improve online source evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q2` quasi-experiment
+> **Evidence** · 3 studies · 2 causal `r1`, 1 qualitative `r?` · `q2`
 
 Teaching learners to evaluate online information via static checklists (e.g., source-evaluation rubrics applied to a single page) does not reliably produce sound evaluation of web sources.
 
@@ -52,7 +58,7 @@ Teaching learners to evaluate online information via static checklists (e.g., so
 
 Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record: The Voice of Scholarship in Education, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
 
-`q2 · expert/novice think-aloud comparison (descriptive)` · `i? · no effect size reported` · `n=45 participants`
+`q2 · expert/novice think-aloud comparison (descriptive)` · `i? · no effect size reported` · `n=45 participants` · `qualitative · r?`
 
 Ten PhD historians, ten professional fact checkers and 25 Stanford undergraduates thought aloud while they evaluated live websites on social and political issues. Historians and students tended to stay on the site they were judging, and were taken in by easily manipulated features such as official-looking logos and domain names. Fact checkers left the site quickly and read laterally, and reached better-warranted judgments in less time. The study explains why on-page criteria can fail on the open web. It did not teach anyone a checklist, so it does not directly show that checklist instruction fails. Read from the abstract only.
 
@@ -60,7 +66,7 @@ Ten PhD historians, ten professional fact checkers and 25 Stanford undergraduate
 
 Lowe, M. S., Macy, K. V., Murphy, E., & Kani, J. (2021). Questioning CRAAP. *Journal of the Scholarship of Teaching and Learning, 21*(3), 33–48. [doi:10.14434/josotl.v21i3.30744](https://doi.org/10.14434/josotl.v21i3.30744)
 
-`q2 · quasi-experimental comparison of course sections` · `i? · effect sizes reported inconsistently` · `n=85 students (quizzes), 88 papers`
+`q2 · quasi-experimental comparison of course sections` · `i? · effect sizes reported inconsistently` · `n=85 students (quizzes), 88 papers` · `causal · r1`
 
 A librarian taught first-year business-seminar sections one source-evaluation method in a single session: the CRAAP checklist or the six journalistic question words (who, what, when, where, why, how). Students were assessed with pre-, post- and end-of-semester quizzes and a paper rubric. Quiz scores and the quality of students' evaluation reasoning did not differ significantly between methods. End-of-semester papers from the question-word sections scored higher on the rubric (2.81 against 2.28 out of 4, p < 0.005). Many students in both groups still treated a site's domain as a sign of credibility and found the web source hard to evaluate. The paper reports Cohen's d = 0.10 for the rubric difference and calls it "large", which does not match its own F statistic, so the size of the effect is treated here as not established. The authors also note that the paper difference may come from more prior library instruction in the question-word group.
 
@@ -68,7 +74,7 @@ A librarian taught first-year business-seminar sections one source-evaluation me
 
 Ratcliffe, C. (2026). Teaching source evaluation to undergraduate nursing students: Comparing the CRAAP Test and the Source + Beyond the Source framework. *College & Research Libraries, 87*(5), 555–580. [doi:10.5860/crl.87.5.555](https://doi.org/10.5860/crl.87.5.555)
 
-`q2 · quasi-experimental comparison of course sections, pre/post` · `i? · no effect size reported (t-test p-values only)` · `n=115 students at pre-test (101 and 89 at the two post-tests)`
+`q2 · quasi-experimental comparison of course sections, pre/post` · `i? · no effect size reported (t-test p-values only)` · `n=115 students at pre-test (101 and 89 at the two post-tests)` · `causal · r?`
 
 First-term nursing students in 12 lab sections had one 110-minute library session. Half the sections were taught the CRAAP checklist and half a networked framework that sends students beyond the source. Students then rated the reliability of live health-misinformation sites, reliable consumer-health sites and peer-reviewed articles. Mean accuracy in the CRAAP group rose from 41% at pre-test to 52% immediately after and 59% five weeks later (pre-test to five weeks, p < .001). The two groups did not differ at any time point (p = .16, .49, .77). Both groups used surface heuristics such as design and domain less after training, but still used them. There was no untrained control group, and the author concludes that the one-shot format, rather than the checklist itself, limits what either method achieves. This result runs against the claim, at least in a one-shot library session.
 

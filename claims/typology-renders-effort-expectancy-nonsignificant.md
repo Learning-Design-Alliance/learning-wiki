@@ -15,12 +15,14 @@ sources:
     author: "Singh, L. & Thomas, T. D."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When mobile user typology is added as a predictor alongside the UTAUT factors, the effect of effort expectancy (ease of use) on behavioural intention is no longer significant, while the full model explains 43% of variance versus 45% without the typology. [→ Singh 2020](#singh-2020)
@@ -31,7 +33,7 @@ sources:
 
 Singh, L. & Thomas, T. D. (2020). The Effect of Mobile User Typology on Mobile Learning Adoption in Higher Education. Asian Journal of Distance Education, 15(2). http://www.asianjde.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Combined structural model (RMSEA = 0.05, CFI = 0.95, SRMR = 0.07) explains "43%" of behavioural intention variance; Table 3 shows effort expectancy at 0.04 unstarred versus 0.07* in the UTAUT-only model. The authors interpret that the typology "accounts for ease of use (effort expectancy)".
 

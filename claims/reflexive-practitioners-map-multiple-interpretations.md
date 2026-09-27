@@ -15,12 +15,14 @@ sources:
     author: Paulston, Rolland G.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Reflexive practitioners are well positioned to map multiple interpretations and include views from the margins
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paper proposes reflexive practitioners as the most productive stance for comparative educators, able to compare and map multiple interpretations of social and educational life and enlarge the diversity of representations. [→ Paulston 1998](#paulston-1998)
@@ -31,7 +33,7 @@ sources:
 
 Paulston, Rolland G. (1998). Mapping the Postmodernity Debate in Comparative Education Discourse. Occasional Paper Series, University of Pittsburgh. https://eric.ed.gov/?id=ED430869
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The author's concluding interpretive argument, not an empirical test. He concurs with Bauman that comparativists are no longer legislators, and argues that mapping multiple interpretations lets researchers recognize and include views from the margins, enlarging the scope of vision and diversity of representations.
 

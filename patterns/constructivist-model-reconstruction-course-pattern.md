@@ -17,7 +17,7 @@ sources:
 # Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The restructured Introductory Astronomy course was "lecture-free, problem-centered, and collaborative in structure." Rather than presenting the heliocentric model linearly, students retraced the steps of evaluating and justifying successive models, beginning with their own self-constructed cosmology. Observations such as retrograde motion of Mars and the phases of Venus were introduced to call each model into question, and students reconstructed improved models through group discussion and guided facilitation, learning the facts in the natural course of inquiry.

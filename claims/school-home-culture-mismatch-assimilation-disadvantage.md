@@ -15,12 +15,14 @@ sources:
     author: Hulsebosch, Pat; Koerner, Mari
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students' learning disadvantage arises from the practice of assimilation rather than from diversity among teachers and students. [→ Hulsebosch 1993](#hulsebosch-1993)
@@ -31,7 +33,7 @@ sources:
 
 Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of "Culturally-Aware" Teachers. https://eric.ed.gov/?id=ED403553
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 A conclusion-section argument of the paper: the "mismatch between the school and home cultures" disadvantages learning, and the cause is "the practice of assimilation as opposed to inclusion." This is the authors' interpretive claim, not a tested result.
 

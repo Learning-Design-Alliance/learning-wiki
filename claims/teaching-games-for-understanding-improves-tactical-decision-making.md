@@ -16,6 +16,8 @@ sources:
     q: 3
     i: 3
     n: 65 studies (8,027 participants)
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.
@@ -42,7 +44,7 @@ education, on decision-making in games.
 
 Guo, J., Yu, Q., & Malik, Z. bin A. (2026). A network meta-analysis of pedagogical models in physical education: Evaluating multidimensional learning outcomes and instructional duration effects. *Frontiers in Psychology, 17*, 1766890. [doi:10.3389/fpsyg.2026.1766890](https://doi.org/10.3389/fpsyg.2026.1766890)
 
-`q3 · network meta-analysis of quasi-experimental studies` · `i3 · SMD 0.83 on decision-making` · `n=65 studies (8,027 participants)`
+`q3 · network meta-analysis of quasi-experimental studies` · `i3 · SMD 0.83 on decision-making` · `n=65 studies (8,027 participants)` · `quant-synthesis · r3`
 
 A Bayesian random-effects network meta-analysis of 65 pre/post studies from 16 countries, K-12 through higher education, with middle-school students the largest group. It compared five pedagogical models (Sport Education, TGfU, [Cooperative Learning](../principles/cooperative-learning.md), Teaching Personal and Social Responsibility, and hybrids of these) with traditional [direct instruction](../elements/direct-instruction.md) of physical education. None of the included studies was randomised, and study quality was rated with MINORS: 35 high, 26 medium, 4 low. The structured record of the study is `observations/guo-2026.yaml`.
 

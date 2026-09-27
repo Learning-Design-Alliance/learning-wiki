@@ -15,18 +15,22 @@ sources:
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
     resource: "https://eric.ed.gov/?id=ED367146"
     title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
     author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Researchers noticed that teachers, by virtue of their role in children's lives, have more ready entree to households than anthropologists do. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -38,7 +42,7 @@ sources:
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 Researcher observation reported in the digest's section on teachers as reflexive practitioners: teachers "have more ready entree to the households than anthropologists do." Qualitative observation; no comparison data printed.
 
@@ -48,7 +52,7 @@ Researcher observation reported in the digest's section on teachers as reflexive
 
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Tucson project report: teachers "were welcomed into the households with respect and honor" and families showed no mistrust about use of information. Qualitative report from one project.
 

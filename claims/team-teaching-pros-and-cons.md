@@ -15,12 +15,14 @@ sources:
     author: Ediger, Marlow
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The essay argues team teaching lets teachers learn from other professionals in planning, but teachers who fail to get along face a long school year and a dogmatic person may dominate discussions. [→ Ediger 1995](#ediger-1995)
@@ -31,7 +33,7 @@ sources:
 
 Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 The essay lists pros of team teaching, including that "teachers do not work in isolation but learn from other professionals in planning the curriculum". The stated cons are interpersonal: failure to get along and a dogmatic person dominating discussion.
 

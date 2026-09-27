@@ -15,12 +15,14 @@ sources:
     q: 2
     i: "?"
     n: "150 Grade 7 students across 4 Israeli schools, five out-of-school \"focus days\" (~30-35 hours total)"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · n=150 Grade 7 students across 4 Israeli schools, five out-of-school "focus days" (~30-35 hours total)
+> **Evidence** · 1 study · qualitative `r2` · `q2` · n=150 Grade 7 students across 4 Israeli schools, five out-of-school "focus days" (~30-35 hours total)
 
 Even after careful content, pedagogy, and organizational design, unguided student small-group discussion of interdisciplinary societal dilemmas stayed animated but "sterile" — students did not spontaneously integrate prior disciplinary learning into their reasoning. When a teacher noticed a student's partial, unprompted reference to disciplinary content and sharpened it with a targeted question, integration followed while dialogic quality was preserved; when a teacher instead interrupted with direct explanation, students resisted and talk shifted away from dialogic collaboration.
 
@@ -37,7 +39,7 @@ Even after careful content, pedagogy, and organizational design, unguided studen
 
 Schwarz, B., Heyd-Metzuyanim, E., Koichu, B., Tabach, M., & Yarden, A. (2024). Opportunities and hindrances for promoting interdisciplinary learning in schools. *Journal of the Learning Sciences, 33*(2), 242-283. [https://doi.org/10.1080/10508406.2024.2344809](https://doi.org/10.1080/10508406.2024.2344809)
 
-`q2 · narrative ethnographic analysis of 150 recorded small-group discussions (50 video-recorded, 8 transcribed in detail), coded against SEDA's 8 dialogic-move clusters; no comparison condition or quantified frequency count for the two patterns` · `i? · the abstract prints no effect size; the full text may` · `n=150 Grade 7 students across 4 Israeli schools, five out-of-school "focus days" (~30-35 hours total)`
+`q2 · narrative ethnographic analysis of 150 recorded small-group discussions (50 video-recorded, 8 transcribed in detail), coded against SEDA's 8 dialogic-move clusters; no comparison condition or quantified frequency count for the two patterns` · `i? · the abstract prints no effect size; the full text may` · `n=150 Grade 7 students across 4 Israeli schools, five out-of-school "focus days" (~30-35 hours total)` · `qualitative · r2`
 
 Students who had completed disciplinary preparation sessions (mathematics, science, philosophy) participated in small-group deliberation on [interdisciplinary societal dilemmas](../patterns/interdisciplinary-societal-dilemma-units.md) (e.g., mandatory vaccination, biometric passports). Narrative analysis of two contrasting transcripts illustrates the mechanism: in the successful case, the teacher's guiding question ("When a person does not get vaccinated, does he only hurt himself?") let a student's own unprompted mention of the "herd effect" become the class's shared integrative concept, sharpened with the correct disciplinary term but not replaced by teacher explanation. In the hindrance case, a second teacher's unsolicited interjection of philosophy content interrupted ongoing peer reasoning; a student's explicit resistance ("But I'm not done") signaled she preferred to continue the group's own line of reasoning. Both patterns recurred across the full set of 50 recorded discussions.
 

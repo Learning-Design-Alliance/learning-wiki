@@ -17,7 +17,7 @@ sources:
 # Review Exercises: injected review items sampled from earlier skills for scalable, fine-grained assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Review Exercises are assessment items inserted into randomly selected Level 0 lessons of skills beyond the first five in a course, sampled from the exercise pools of skills three or five skills earlier. They come in two forms: assisted recall and translation between L1 and L2. The article lists their advantages: they are "available in all courses", allow measurement "at every skill in a course, rather than just at unit-terminal Checkpoints", and "provide an order of magnitude more data than Checkpoint Quizzes". Their disadvantages are overlapping items with lessons (reduced test validity), unassessed item quality, and no tagging for grammatical concepts or communicative components.

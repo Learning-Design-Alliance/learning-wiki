@@ -15,12 +15,14 @@ sources:
     author: "Sapliyan, S., Chatwattana, P., & Nilsook, P."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Experts rate the constructionism imagineering learning process via metaverse as appropriate at the highest level (Mean = 4.82, S.D. = 0.40)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Experts rated the appropriateness of the developed constructionism imagineering learning process via metaverse at the highest level overall (Mean = 4.82, S.D. = 0.40), with the summarise-stage items rated only High. [→ Sapliyan 2023](#sapliyan-2023)
@@ -31,7 +33,7 @@ sources:
 
 Sapliyan, S., Chatwattana, P., & Nilsook, P. (2023). Constructionism Imagineering Learning Model via Metaverse to Enhance Young Innovators. Journal of Education and Learning, 12(4). https://doi.org/10.5539/jel.v12n4p81
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Expert assessment of the learning process on a five-level rating scale. All eight steps of the constructionism imagineering learning stage were rated Highest (means 4.71-5.00), while the two summarise-stage items (learning achievement score, young innovator skills) were rated High at Mean = 4.43 (S.D. = 1.13). The article states the process "can encourage learners to enhance the attribute of young innovators and learning achievement."
 

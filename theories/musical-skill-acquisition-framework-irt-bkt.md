@@ -16,7 +16,7 @@ sources:
 # Conceptual framework of musical skill acquisition linking practice laws, deliberate practice and singing development via IRT and BKT
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article proposes a framework in which "each sung note is a practice opportunity whose outcome depends jointly on a slowly changing learner ability, a stable item difficulty tied to the target pitch and register, and a mastery state that is updated as practice accumulates." It links the power and exponential laws of practice, deliberate-practice theory, and the developmental literature on singing, and operationalizes the components with Item Response Theory for ability/difficulty and Bayesian Knowledge Tracing for mastery/transition, preferring these interpretable models to black-box neural knowledge tracing whose parameters do not map onto these constructs.

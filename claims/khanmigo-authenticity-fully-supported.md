@@ -15,12 +15,14 @@ sources:
     author: Shetye, S.
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Nearly all Khanmigo activities except Chat have the potential to engage learners in authentic activities resembling real-life tasks, fully supporting the authenticity criterion. [→ Shetye 2024](#shetye-2024)
@@ -31,7 +33,7 @@ sources:
 
 Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Judgment in Table 1 of the qualitative evaluation. The author notes Khanmigo can generate authentic texts, lets learners pursue specific purposes meeting current needs, and models a Socratic approach that guides rather than gives answers.
 

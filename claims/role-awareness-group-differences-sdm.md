@@ -15,12 +15,14 @@ sources:
     author: Tuck, Kathy D.; And Others
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Role awareness was generally low and differed by group: classroom teachers scored 35.4 versus 65.4 for resource staff, with non-team members lowest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Classroom teachers showed significantly less understanding of their SDM responsibilities than resource staff (means=35.4 and 65.4; F=74.40, p=.000). [→ Tuck 1994](#tuck-1994)
@@ -32,7 +34,7 @@ sources:
 
 Tuck, Kathy D.; And Others. (1994). Training for the Special Education Service Delivery Model. Evaluation. District of Columbia Public Schools. https://eric.ed.gov/?id=ED377631
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Group comparisons on a 0-100 role-awareness score from the staff survey (Table 6), where correctness of responses against SDM guidelines indexed awareness. Overall the staff weighted score was 44.3; "classroom teachers showing less understanding of their SDM responsibilities" than resource staff, with team membership and school-level differences also significant.
 

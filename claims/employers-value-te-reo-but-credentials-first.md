@@ -15,12 +15,14 @@ sources:
     author: Awanui Te Huia
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Employers value te reo Māori but prioritise academic credentials over language ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` High-merit Māori CVs were preferred over non-Māori high-merit CVs, attributed partly to te reo Māori ability, but low-merit Māori were not preferred regardless of language proficiency. [→ Awanui Te Huia 2015](#awanui-te-huia-2015)
@@ -31,7 +33,7 @@ sources:
 
 Awanui Te Huia. (2015). Exploring goals and motivations of Māori heritage language learners. Studies in Second Language Learning and Teaching, 5(4), 609-635. https://eric.ed.gov/?id=EJ1135051
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 The article reports, citing Jackson and Fisher's (2007) filler-CV study, that employers valued te reo Māori: high-merit Māori were preferred over high-merit non-Māori, attributed to culturally specific workplace roles and te reo ability, but organisations were unlikely to prioritise te reo over academic credentials.
 
