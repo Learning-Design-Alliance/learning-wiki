@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-28-night-batch-9-the-droplet-dress-rehearsal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-28 (night) — batch 9, the droplet dress rehearsal
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-28-later-batch-8-on-the-default-prompt-recorded-costs-were-list-prices-providers-differ-3" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1466,6 +1477,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-28-night-batch-9-the-droplet-dress-rehearsal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-28 (night) — batch 9, the droplet dress rehearsal
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-28-later-batch-8-on-the-default-prompt-recorded-costs-were-list-prices-providers-differ-3" class="md-nav__link">
@@ -2359,6 +2381,39 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-28-night-batch-9-the-droplet-dress-rehearsal">2026-09-28 (night) — batch 9, the droplet dress rehearsal<a class="headerlink" href="#2026-09-28-night-batch-9-the-droplet-dress-rehearsal" title="Permanent link">&para;</a></h3>
+<p>Run exactly as the droplet would: a venv built as <code>deploy/provision.sh</code> builds it, <code>deploy/dashboard_server.py</code>
+on 127.0.0.1:8080, the batch launched from its <code>/launch-scrape</code> form (10 PMC, 70 ERIC, GLM, <code>CURRENT</code> = v135,
+2 corrections, no provider pin), keys from <code>/etc/eval-harness.env</code>. 75 of 80 fetched; 67 ingested (501
+pages), 6 rejected as out of scope, 3 failed validation after both retries (failed runs, still eligible).
+50 of 76 passed first time; $0.386 billed ($0.0051 an article) over nine providers OpenRouter chose, Sail
+Research 34 of them. Lint 0, verify clean, DOI problems 0, 0 impact codes without a statistic; strict audit
+380 quotes (3 not verbatim, all on the failed record), 504 of 506 decimal statistics present (the 2 on it too).
+What the rehearsal found, all fixed:</p>
+<ul>
+<li><strong><code>provision.sh</code> cloned a dead branch</strong> (<code>claude/research-scraper-test-setup-i4bh9m</code>); it clones <code>main</code> now.
+  <code>/etc/eval-harness.env</code> also needs <code>EVAL_HARNESS_CONTACT_EMAIL</code>, which the dashboard passes to the batch.</li>
+<li><strong>An inverted author list cost a correct DOI eight times.</strong> PMC's text prints authors surname first
+  ("Husain Waqar"); GLM wrote "Waqar, Husain; ...", and the identity gate stripped <code>10.1002/brb3.71733</code> because
+  "Waqar" is nowhere in the registry record. <code>source_citation.swapped_authors</code> rebuilds the list from the
+  PubMed-format catalogue record when most first authors are swapped; the 8 pages carry Husain et al. (2026)
+  with the DOI, Crossref-verified. 1 of 752 batch records had it.</li>
+<li><strong>GLM invents catalogue links.</strong> Armbruster &amp; Anderson (1982), fetched as ED218595, was linked to ED185595,
+  which the article never prints. Across every batch, 30 records' source citations linked a neighbouring id,
+  an old clearinghouse accession number (<code>BP006086</code>, <code>CE005601</code>) or an ERIC search URL. <code>repair</code> now replaces
+  a link into the fetch catalogue that names another record; 458 citation lines and 229 <code>resource:</code> mirrors
+  on 214+ pages were repointed to the record each source was fetched from, only on that source's own pages,
+  and every rewritten <code>resource:</code> matches its page's body citation.</li>
+<li><strong>The gate left a stripped DOI in the <code>title:</code> mirror</strong> on pages <code>sync_evidence_codes</code> does not rebuild
+  (theories, strategies). <code>enrich.verify_page_citations</code> strips it there too. Ilhan &amp; Guler (2018)'s
+  <code>10.14689/ejer.2018.75.6</code> was stripped from all seven pages because Crossref holds only its Turkish title;
+  authors, year, journal and pages agree, so it is almost certainly right, and restoring it is the
+  maintainer's call. The pages carry the ERIC link instead.</li>
+<li><strong>The load-bearing check missed the batch's own load-bearing claims</strong>: <code>--top 200</code> stopped above the 13 new
+  claims three pages from one source cite. <code>--min-designs 3</code> adds every claim at the threshold, and the batch
+  passes it; only unjudged entries cost anything. One real failure: Armbruster's "most frame-slot questions
+  went unanswered" (6 of 12 were), corrected from the article's tables. Load-bearing: 0 open, 0 never judged.</li>
+</ul>
 <h3 id="2026-09-28-later-batch-8-on-the-default-prompt-recorded-costs-were-list-prices-providers-differ-3">2026-09-28 (later) — batch 8 on the default prompt; recorded costs were list prices; providers differ 3×<a class="headerlink" href="#2026-09-28-later-batch-8-on-the-default-prompt-recorded-costs-were-list-prices-providers-differ-3" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Batch 8, the first on <code>CURRENT</code> = v135</strong> (PMC 10, ERIC 70): 76 fetched, 67 ingested, 9 rejected as
