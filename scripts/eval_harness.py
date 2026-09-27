@@ -269,7 +269,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False,
             require_source_quotes: bool = False, consistency_samples: int = 1,
             subclaim_judging: bool = False, gemini_judge_model: str = "google/gemini-3.7-flash",
-            judge_gate: str = None, judge_sample: float = 0.0, judge_sample_with: str = "gpt") -> dict:
+            judge_gate: str = None, judge_sample: float = 0.0, judge_sample_with: str = "gpt",
+            lean_retries: bool = False) -> dict:
     """max_correction_attempts=0 (default) is exactly the original single-shot
     behavior — this matters for benchmark integrity: the whole point of
     `run`/`optimize`/`auto-optimize` is measuring how a model does on its
@@ -402,6 +403,12 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         if attempt == 0:
             record["initial_passed"] = record["validation"]["passed"]
         record["correction_attempts"] = attempt
+        record.setdefault("attempts", []).append({
+            "attempt": attempt, "lean": bool(attempt and record.get("_last_retry_lean")),
+            "prompt_tokens": gen.prompt_tokens, "completion_tokens": gen.completion_tokens,
+            "cost_usd": gen.cost_usd, "cost_source": gen.cost_source, "provider": gen.provider,
+            "passed": record["validation"]["passed"],
+            "error_fields": [i["field"] for i in record["validation"]["issues"] if i.get("severity") == "error"]})
 
         if record["validation"]["passed"] or attempt == max_correction_attempts:
             break
@@ -413,8 +420,16 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         # batch-2's 51 articles (2026-09-25) were rejected that way, including
         # elaborative interrogation and ICAP. A rejection written without the
         # article is not a judgment about it.
-        current_prompt = (original_user_prompt + "\n\n---\n\n"
-                          + prompts.build_correction_prompt(gen.raw_text, record["validation"]["issues"]))
+        issues = record["validation"]["issues"]
+        lean = lean_retries and prompts.lean_retry_possible(issues)
+        record["_last_retry_lean"] = lean
+        if lean:
+            # Every error is fixable from the output itself: the article is the bulk of the
+            # prompt, so this retry costs a fraction of a full one (--lean-retries).
+            current_prompt = prompts.build_lean_correction_prompt(gen.raw_text, issues)
+        else:
+            current_prompt = (original_user_prompt + "\n\n---\n\n"
+                              + prompts.build_correction_prompt(gen.raw_text, issues))
 
     gate_result = None
     if parsed and judge_gate and (record.get("validation") or {}).get("passed"):
@@ -503,6 +518,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
                 "issues": [asdict(i) for i in report.issues],
             }
 
+    record.pop("_last_retry_lean", None)
     return record
 
 
@@ -574,7 +590,7 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
               ground_truth: bool = False, require_source_quotes: bool = False,
               consistency_samples: int = 1, subclaim_judging: bool = False,
               gemini_judge_model: str = "google/gemini-3.7-flash", judge_gate: str = None,
-              judge_sample: float = 0.0, judge_sample_with: str = "gpt") -> Path:
+              judge_sample: float = 0.0, judge_sample_with: str = "gpt", lean_retries: bool = False) -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -679,7 +695,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
                               require_source_quotes=require_source_quotes,
                               consistency_samples=consistency_samples, subclaim_judging=subclaim_judging,
                               gemini_judge_model=gemini_judge_model, judge_gate=judge_gate,
-                              judge_sample=judge_sample, judge_sample_with=judge_sample_with)
+                              judge_sample=judge_sample, judge_sample_with=judge_sample_with,
+                              lean_retries=lean_retries)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -792,7 +809,7 @@ def cmd_run(args: argparse.Namespace) -> None:
                   require_source_quotes=args.require_source_quotes,
                   consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging,
                   judge_gate=args.judge_gate, judge_sample=args.judge_sample,
-                  judge_sample_with=args.judge_sample_with)
+                  judge_sample_with=args.judge_sample_with, lean_retries=args.lean_retries)
     finally:
         sys.stdout, sys.stderr = orig_stdout, orig_stderr
         console_log_file.close()
@@ -2149,6 +2166,9 @@ def main() -> None:
                             "chosen by a hash of the article id. Never gates ingest. Recorded under "
                             "record['judge_sample'].")
     p_run.add_argument("--judge-sample-with", default="gpt", choices=["gpt", "gemini", "opus"])
+    p_run.add_argument("--lean-retries", action="store_true",
+                       help="a correction retry whose every error is fixable from the previous output "
+                            "alone is sent without the article (prompts.lean_retry_possible)")
     p_run.add_argument("--ground-truth", action="store_true",
                         help="Live-verify each citation's DOI (Crossref) or arXiv id (arXiv API) instead of "
                              "only checking it LOOKS like a real citation (see scripts/eval/ground_truth.py) "
