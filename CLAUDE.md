@@ -126,8 +126,9 @@ finds out.
   $0.028 against $0.029.** Runs: `eval/runs/bench-v134`, `bench-v135`, `bench-v135b`, `bench-v135c`.
   Two pattern bugs were found on the way and fixed: "SD = 2.56" read as a d, and "η2-values of
   .059" not read at all (it failed an article in v135b).
-- **`CURRENT` still says v99.** A batch uses v135 only when given `--prompt-version v135` (batches 1–7
-  were given v133 that way). Moving `CURRENT` is the maintainer's call.
+- **`CURRENT` is v135** (maintainer's decision, 2026-09-27), so a batch launched without
+  `--prompt-version`, from the command line or the dashboard, runs on it. It was v99 until then, and
+  batches 1–7 were given v133 by flag. Batch 8 was the first run on the default.
 
 ### 2026-09-27 (late night) — every `i` code now rests on a printed magnitude: 455 entries recoded
 
@@ -478,7 +479,7 @@ ingested, 12 rejected as E2, 3 failed, about $0.45 in generation. Claims with co
 
 `eval/pre-extractor-test/` runs one article set through five extractors and scores them with one
 scorer. **GLM on v124 ties Opus on quality at about 1/150th of the cost.** GLM's ~10% pass rate
-belongs to the v99 lineage, which CURRENT points to and v130 descends from. So do not read v130's
+belongs to the v99 lineage, which CURRENT pointed to until 2026-09-27 and v130 descends from. So do not read v130's
 collapse as "GLM cannot follow the new criteria". The droplet's next step is porting v128–v130
 onto v124, **without the `study_record`**: the ablations (v131–v133, `eval/pre-extractor-test/README.md`) show the small rules are free, the inclusion rule costs a few passes, and asking GLM for a study record in the same call drops it from 16/17 to 7/17. **17 articles were ingested from the Opus-agent arm** (237 pages, 10 study records):
 the first batch written by in-session subagents. `scripts/eval/agent_arm.py` is that path's
@@ -500,7 +501,7 @@ population is a scope qualifier on the claim. There are four exclusions, one per
 `q1` with an evidence entry saying no evidence or argument was offered, so that citing it visibly
 justifies nothing. The `q` scale is unchanged; the maintainer declined a `q0`. Prompt v130 carries
 the extraction side, with a claim floor of one and a rule that a reasoned argument is evidence.
-`CURRENT` stays at v99. **A research-methods paper is in only when it helps design** (a design
+`CURRENT` stayed at v99 then (v135 since 2026-09-27). **A research-methods paper is in only when it helps design** (a design
 process, a way of building or iterating an intervention, or how one was made). The five earlier
 rejections the criteria overturned were re-reviewed and ingested the same day, each with a later
 `ingested` manifest line rather than an edit: Osguthorpe et al. (moral dimensions), Christensen &
@@ -1354,7 +1355,7 @@ The route for the rest, when the structure has proved itself:
    only on a claim page the same run wrote. The extraction validator reports a bad
    record as **warnings**, so a flawed record never costs an article its claims but does
    show in the tuning signal. `v127` (a v1-shaped block that nothing ingested) is
-   superseded. **`CURRENT` still points at `v99`.** Moving it is the eval ratchet's call,
+   superseded. **`CURRENT` pointed at `v99` until 2026-09-27 and is now `v135`.** Moving it is the eval ratchet's call,
    not a side effect: tune from `v128` (the null-impact rule only) or `v129` (plus the
    record), and let `optimize` decide.
 
