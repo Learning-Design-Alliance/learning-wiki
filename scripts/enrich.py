@@ -453,7 +453,8 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
                 break
         cited_title = cc._extract_title_text(located or entry.get("full_line") or entry["line"], year)
         try:
-            res = rdc.classify_doi(doi, cc._words_from_text(cited_title), cited_title, key=entry["key"])
+            res = rdc.classify_doi(doi, cc._words_from_text(cited_title), cited_title, key=entry["key"],
+                                  cited_line=located or entry.get("full_line") or entry["line"])
         except Exception as e:                      # network trouble must not lose the page
             print(f"  [citation check skipped for {doi}: {e}]", file=sys.stderr)
             continue
