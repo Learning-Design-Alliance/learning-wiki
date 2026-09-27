@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: burnett-1999
-    resource: "https://eric.ed.gov/?q=The+Impact+of+Teachers%27+Praise+on+Students%27+Self-Talk+and+Self-Concepts"
-    title: "Burnett, P. C. (1999). The Impact of Teachers' Praise on Students' Self-Talk and Self-Concepts. Paper presented at AERA, Montreal. https://eric.ed.gov/?q=The+Impact+of+Teachers%27+Praise+on+Students%27+Self-Talk+and+Self-Concepts"
+    resource: "https://eric.ed.gov/?id=ED431768"
+    title: "Burnett, P. C. (1999). The Impact of Teachers' Praise on Students' Self-Talk and Self-Concepts. Paper presented at AERA, Montreal. https://eric.ed.gov/?id=ED431768"
     author: Burnett, P. C
 ---
 
@@ -45,4 +45,4 @@ The article articulates an internal mediation model in which the influence of te
 -
 
 ## Key Sources
-- Burnett, P. C. (1999). The Impact of Teachers' Praise on Students' Self-Talk and Self-Concepts. Paper presented at AERA, Montreal. https://eric.ed.gov/?q=The+Impact+of+Teachers%27+Praise+on+Students%27+Self-Talk+and+Self-Concepts
+- Burnett, P. C. (1999). The Impact of Teachers' Praise on Students' Self-Talk and Self-Concepts. Paper presented at AERA, Montreal. https://eric.ed.gov/?id=ED431768

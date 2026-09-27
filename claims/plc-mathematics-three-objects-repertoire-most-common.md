@@ -44,3 +44,4 @@ Configurative systematic review of 32 empirical studies of PLC in mathematics, c
 - [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — related
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
+- [Current PLC formulations trivialize teacher practice, which the authors argue severely limits the model's usefulness](plc-literature-trivializes-teacher-practice.md) — related

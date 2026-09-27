@@ -40,10 +40,12 @@ The SoC Questionnaire is a 35-item self-report instrument for assessing individu
 - [Stages Of Concern Seven Stage Taxonomy](../theories/stages-of-concern-seven-stage-taxonomy.md)
 
 ## Related Elements
-- 
+
+- [Stages of Concern Questionnaire (SoCQ)](socq-stages-of-concern-questionnaire.md)
 
 ## Examples
--
+
+- [Use individual and group Stages of Concern data to tailor inservice and training decisions](../strategies/use-soc-data-to-tailor-inservice-decisions.md)
 
 ## Key Sources
 - Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728

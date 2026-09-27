@@ -1,0 +1,50 @@
+---
+type: element
+id: metacognitive-interview-form-ncrel
+title: Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)
+description: The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev.
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-09-27
+sources:
+  - id: gil-2001
+    resource: "https://eric.ed.gov/?id=ED457222"
+    title: "Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222"
+    author: "Gil, A., Osiecki, N., & Juarez, A"
+---
+
+# Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)
+
+> **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.) was the instrument administered to determine the degree of metacognitive strategy use by primary, middle, and high school students. It contains semi-structured questions about what to do before, during, and after reading, and when comprehension breaks down, with versions differing in item number by grade band (5 items for grades 2-3, 6 for grade 5, 4 for grade 6, 6 for grades 7-12). Teachers administered it after students silently read a short passage, with individual interviews for low-ability readers.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers select a short reading passage; students read silently then answer independently; low-ability or non-readers are individually interviewed after the teacher reads the passage
+#### Constraints
+- Item number differed according to adaptations created and permitted by the participating schools
+
+### Target Learners
+- students in grades 2 through 12
+
+### Target Learning Goals
+- metacognitive reading strategy awareness and use
+
+### Affordances
+- [Framework 35 Metacognitive Behaviors](../theories/framework-35-metacognitive-behaviors.md)
+
+## Related Elements
+
+- [Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.)](metacognitive-interview-form-younger-students.md)
+
+## Examples
+-
+
+## Key Sources
+- Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know. Paper presented at the XIX International Council for Innovation in Higher Education, Rome. https://eric.ed.gov/?id=ED457222

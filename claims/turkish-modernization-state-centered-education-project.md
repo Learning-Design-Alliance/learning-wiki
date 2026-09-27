@@ -10,14 +10,14 @@ generated:
 evidence_strength: weak
 sources:
   - id: özsoy-2009
-    resource: "https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education"
-    title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education"
+    resource: "https://eric.ed.gov/?id=EJ867373"
+    title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373"
     author: Özsoy, S.
     q: 1
     i: "?"
   - id: özsoy-2009-2
-    resource: "https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education"
-    title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education"
+    resource: "https://eric.ed.gov/?id=EJ867373"
+    title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373"
     author: Özsoy, S.
     q: 1
     i: "?"
@@ -36,7 +36,7 @@ sources:
 
 ### Özsoy 2009
 
-Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education
+Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
 `q1 · i?`
 
@@ -46,7 +46,7 @@ Theoretical characterization in the section on Turkish modernization and educati
 
 ### Özsoy 2009 (2)
 
-Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education
+Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373
 
 `q1 · i?`
 

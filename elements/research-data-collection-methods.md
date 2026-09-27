@@ -37,7 +37,9 @@ People tend to change their behavior when they know they're being watched — th
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](../theories/research-design-taxonomy.md)
 
 ## Related Elements
+
 - [Observation](observation.md) — the classroom-assessment use of observation is a related but distinct application from the research-methodology use described here
+- [Drawing laboratory with time-lapse photography of drawing evolution](drawing-lab-time-lapse-photography.md)
 
 ## Examples
 - A researcher choosing naturalistic classroom observation over a lab setting specifically to avoid altering the behavior they want to study

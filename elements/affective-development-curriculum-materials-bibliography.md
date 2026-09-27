@@ -9,8 +9,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: casto-1976
-    resource: "https://eric.ed.gov/?id=ED135161"
-    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161"
+    resource: "https://eric.ed.gov/?id=ED135162"
+    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162"
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
 ---
 
@@ -40,10 +40,11 @@ Chapter 4 of the report presents "a bibliography of 29 available curriculum mate
 
 - [Annotated bibliography of 27 instruments for assessing preschool affective development](affective-development-assessment-instrument-bibliography.md)
 - [Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories](arizona-project-global-awareness-bibliography.md)
+- [Charts of available instrumentation and curriculum for affective development](affective-development-instrumentation-curriculum-charts.md)
 
 ## Examples
 
 - [Annotated Bibliographies](../strategies/annotated-bibliographies.md)
 
 ## Key Sources
-- Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161
+- Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162

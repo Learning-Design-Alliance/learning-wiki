@@ -74,3 +74,4 @@ A review of self-regulated learning covering the metacognitive illusions that go
 - [Fluency is a poor cue for actual learning.](fluent-illusions-mislead-self-assessment.md) — why restudying feels productive but isn't
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](predicting-contextual-analysis-rereading-most-frequent.md) — related

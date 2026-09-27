@@ -46,3 +46,4 @@ Theoretical argument in the 'Environmental education: the story so far' section 
 - [The narratives of premodern mythologies and postmodern physics accept that the creation of meaning in the world is a human and communal responsibility, which modern science fails to do](meaning-creation-human-communal-responsibility.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
+- [Language is the prime humanistic instrument, at once both the tool and the product of reason](language-prime-humanistic-instrument.md) — related

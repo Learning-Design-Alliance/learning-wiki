@@ -68,6 +68,8 @@ Reflective practice matters most in domains where improvement depends on interpr
 
 ## Examples
 
+- [Schon's design-studio practicum as a reflective learning environment](../elements/schon-design-studio-practicum.md)
+
 ### Illustrative
 
 **[Reflective Practice](../patterns/reflective-practice.md)** — A structured cycle of action, analysis, adjustment, and re-application.

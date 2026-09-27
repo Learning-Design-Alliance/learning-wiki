@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: casto-1976
-    resource: "https://eric.ed.gov/?id=ED135161"
-    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161"
+    resource: "https://eric.ed.gov/?id=ED135162"
+    title: "Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162"
     author: Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Casto 1976
 
-Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135161
+Casto, Glendon; Biaggio, Mary Kay; Hoagland, Victoria; Muller, Deborah. (1976). Affective Behavior in Preschool Children. Final Report. https://eric.ed.gov/?id=ED135162
 
 `q2 · i?`
 
@@ -44,3 +44,5 @@ The review describes Ainsworth and associates' studies (Ainsworth and Bell, 1969
 - [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) — related
 - [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](bowlby-separation-sequence-to-exploration.md) — a broader claim this one bears on
 - [The review reports that infant monkeys preferred a terrycloth surrogate over a feeding wire-mesh surrogate, challenging secondary drive theory](harlow-surrogate-preference-challenges-secondary-drive.md) — related
+- [Affective competence at age five is characterized by twelve observable skills](affectively-competent-five-year-old-attributes.md) — related
+- [Extra adult handling increases exploratory behavior in blind infants](extra-handling-increases-blind-infant-exploration.md) — related

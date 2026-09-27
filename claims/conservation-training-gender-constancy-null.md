@@ -44,3 +44,5 @@ In the randomized training study, conservation training versus the drawing contr
 - [Conservation training stressing identity and reversibility improves conservation of quantity in nonconserving preschoolers](conservation-training-improves-conservation-preschoolers.md) — related
 - [Conservation training produced higher conservation scores than pretense play training](conservation-training-beats-pretense-play-on-conservation.md) — related
 - [Pretense play training improves gender constancy on the first posttest but not the second](pretense-play-training-improves-gender-constancy-posttest-1.md) — related
+- [Conservation of gender identity follows the referent sequence self, then same-sex peer, then opposite-sex peer](gender-constancy-referent-sequence-self-same-opposite.md) — related
+- [Contrary to prior studies, stability and motivation items were harder than constancy items for these preschoolers](stability-motivation-items-harder-than-constancy.md) — related

@@ -60,8 +60,10 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 6. **Fade the breakdown** — progressively shift responsibility for segmenting to the learner, moving from provided checklists to learner-generated plans [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the goal-setting counterpart: each task piece is framed as a small, attainable goal
 - [Chunking Information](../principles/cognitive-load-management.md) — the same principle applied to content rather than tasks
+- [Break conversation into micro-units to study the structure of interaction](micro-units-conversational-analysis-strategy.md)
 
 ## Examples
 - **Writing instruction:** a research essay broken into topic selection, source gathering, outline, draft, and revision, each with its own due date and rubric line — standard practice in process-writing curricula such as [Writer's Workshop](https://www.heinemann.com/writersworkshop/) models.

@@ -45,3 +45,4 @@ Distributional comparison of mean item response likelihood for boys and girls in
 - [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
+- [No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation](no-gender-difference-animistic-explanations.md) — related

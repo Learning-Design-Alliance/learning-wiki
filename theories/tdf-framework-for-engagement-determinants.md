@@ -41,9 +41,11 @@ The Theoretical Domains Framework (TDF) is "an integrative framework that draws 
 ## Related Theories
 
 - [Pathway to Planetary Health (PPH) framework](pathway-to-planetary-health-framework.md)
+- [Theoretical Domains Framework for identifying determinants of implementation behavior](tdf-14-domains-implementation-determinants.md)
 
 ## Examples
--
+
+- [Four-step TDF process for diagnosing and remediating curriculum implementation barriers](../strategies/four-step-tdf-barrier-diagnosis-process.md)
 
 ## Key Sources
 - Choo Esther M., Lara-Arevalo Jonathan, Achieng Catherine, Odhiambo Merceline, Okello Maurine Anyango, Masheti Mary, Tickell Kirkby D., Diakhate Mame M., Singa Benson O., McGrath Christine J., Means Arianna Rubin. (2026). Acceptability, feasibility, appropriateness, uptake and cost perceptions of family mid-upper arm circumference supported by two-way SMS in western Kenya. PLoS One. https://doi.org/10.1371/journal.pone.0358775

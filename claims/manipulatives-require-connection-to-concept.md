@@ -82,3 +82,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — a narrower finding that bears on this claim
+- [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related

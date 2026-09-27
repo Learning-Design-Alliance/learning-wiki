@@ -42,9 +42,11 @@ Gilligan's framework surfaces classroom dilemmas that a pure justice lens can ob
 ## Claims
 
 ## Related Theories
+
 - [Kohlberg's Stages of Moral Development](kohlberg-moral-development.md) — Gilligan's framework is a direct response to and complement of Kohlberg's justice-centered stage theory
 - [Turiel's Social Domain Theory](turiels-social-domain-theory.md) — both frameworks push back on treating moral reasoning as a single, unified developmental ladder
 - [Self-Determination Theory](self-determination-theory.md) — the autonomy, competence, and relatedness needs SDT identifies parallel the self/other balance Gilligan's Position 3 describes
+- [A feminist view of science based on interconnectedness, relationships as webs, and legitimate subjectivity](feminist-interconnected-science-framework.md)
 
 ## Examples
 

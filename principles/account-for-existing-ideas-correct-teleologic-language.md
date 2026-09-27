@@ -49,6 +49,7 @@ Drawing on constructivist tenets in learning science, the article argues that te
 ## Examples
 
 - [Use multimedia presentations, classroom interactions and synchronous and asynchronous online discussions alongside laboratory experiments to correct teleologic-anthropomorphic language](../strategies/multimedia-interaction-online-discussion-intervention-package.md)
+- [Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them](../strategies/build-on-anthropomorphic-explanations-as-bridges.md)
 
 ## Key Sources
 - Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.

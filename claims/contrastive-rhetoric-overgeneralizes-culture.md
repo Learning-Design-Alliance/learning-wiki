@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: chmarkh-2025
-    resource: "https://eric.ed.gov/?q=Chmarkh+contrastive+rhetoric+cognitive+sociocultural+L2+writing"
-    title: "Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?q=Chmarkh+contrastive+rhetoric+cognitive+sociocultural+L2+writing"
+    resource: "https://eric.ed.gov/?id=ED671744"
+    title: "Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744"
     author: Chmarkh, M.
     q: 1
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Chmarkh 2025
 
-Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?q=Chmarkh+contrastive+rhetoric+cognitive+sociocultural+L2+writing
+Chmarkh, M. (2025). Evaluating the Contrastive Rhetoric Model, the Cognitive Model, and the Sociocultural Model to L2 Writing. https://eric.ed.gov/?id=ED671744
 
 `q1 · i?`
 

@@ -43,6 +43,7 @@ The digest presents Merrill's (2002) First Principles of Instruction as the most
 
 - [Gagne's nine Events of Instruction as a lesson-design schema](gagne-nine-events-of-instruction-schema.md)
 - [First Principles of Instruction](first-principles-of-instruction.md)
+- [TEFA-T: a teaching factory learning model structured around a nine-step troubleshooting syntax](tefa-t-teaching-factory-troubleshooting-model.md)
 
 ## Examples
 

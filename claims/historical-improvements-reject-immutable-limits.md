@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ericsson-2005
-    resource: "https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
-    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
+    resource: "https://eric.ed.gov/?id=EJ746057"
+    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057"
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Ericsson 2005
 
-Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective
+Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
 `q2 · i?`
 
@@ -46,3 +46,4 @@ Historical-comparison evidence reviewed by the authors, described as the best si
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
 - [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
 - [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related
+- [In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability](todays-excellence-tomorrows-ignorance.md) — related

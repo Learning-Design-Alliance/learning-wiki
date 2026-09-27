@@ -43,3 +43,4 @@ This is a theoretical/observational claim from Piaget's work as summarized in Pu
 ## Related Claims
 - [Registrations of children aged 0-5 and 5-10 years declined significantly across the three time periods](cap-clinic-younger-child-registrations-declined.md) — related
 - [Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five](toy-structure-little-difference-fantasy-predisposition.md) — related
+- [Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism](play-develops-representational-thought.md) — related

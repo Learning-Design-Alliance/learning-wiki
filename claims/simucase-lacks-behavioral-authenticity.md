@@ -48,3 +48,4 @@ Focus-group theme from the qualitative pilot. Participants also preferred cases 
 - [Empirical use of the authenticity concept in organizational climate research has been precluded by lack of an appropriate operational definition](authenticity-concept-lacks-operational-definition.md) — related
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

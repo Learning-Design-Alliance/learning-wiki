@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: starkey-1972
-    resource: "https://eric.ed.gov/?id=BP006086"
-    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086"
+    resource: "https://eric.ed.gov/?id=ED072018"
+    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018"
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: 2
@@ -29,7 +29,7 @@ sources:
 
 ### Starkey 1972
 
-Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086
+Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
 `q2 · i2`
 
@@ -44,3 +44,4 @@ Comparison of elementary graduate and undergraduate students (Table IV, N = 213)
 - [Graduates differ from undergraduates across all five philosophical beliefs at the .20 level](graduates-vs-undergraduates-philosophical-profile.md) — related
 - [Several group comparisons show no statistically significant differences in philosophical belief](null-comparisons-philosophical-beliefs.md) — related
 - [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](elementary-undergrads-higher-existentialism.md) — related
+- [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related

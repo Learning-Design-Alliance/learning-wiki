@@ -44,6 +44,7 @@ The paper identifies, through close exegetic reading of some 60 texts, five text
 
 - [Four modernist genres opposing the postmodern challenge in comparative education](four-modernist-genres-comparative-education.md)
 - [Social cartography as heterotopic mapping of perspectival difference](social-cartography-heterotopic-mapping.md)
+- [Modernist responses to the postmodern challenge form three broad areas: orthodox, critical pedagogy, and performativity texts](modernist-responses-three-areas-taxonomy.md)
 
 ## Examples
 

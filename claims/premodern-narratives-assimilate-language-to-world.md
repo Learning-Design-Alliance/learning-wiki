@@ -48,3 +48,4 @@ Theoretical argument in the 'Assimilating body and narrative to place' section. 
 - [The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity](school-home-culture-mismatch-assimilation-disadvantage.md) — related
 - [Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context](children-manage-knowledge-conflict-collateral-learning.md) — related
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
+- [Language is the prime humanistic instrument, at once both the tool and the product of reason](language-prime-humanistic-instrument.md) — related

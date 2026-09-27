@@ -45,3 +45,4 @@ Same regression model. The article reports pre-application mentorship (OR=0.424*
 - [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related
 - [Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase](time-and-difficulty-largest-coursework-barriers.md) — related
 - [Educational attainment is not significantly associated with persistence in either the coursework or apprenticeship phase of the LC101 program](educational-attainment-not-associated-lc101-persistence.md) — related
+- [Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay](faculty-contact-part-time-and-interaction-retention.md) — related

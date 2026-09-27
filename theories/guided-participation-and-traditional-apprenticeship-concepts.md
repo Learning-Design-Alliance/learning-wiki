@@ -8,8 +8,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: emmanuel-imiere-2019
-    resource: "https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction"
-    title: "Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction"
+    resource: "https://eric.ed.gov/?id=ED613714"
+    title: "Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714"
     author: Emmanuel Imiere
 ---
 
@@ -51,4 +51,4 @@ Guided participation refers to the processes and systems of involvement between 
 -
 
 ## Key Sources
-- Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?q=An+Application+of+Cognitive+Apprenticeship+to+Philosophy+Instruction
+- Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714

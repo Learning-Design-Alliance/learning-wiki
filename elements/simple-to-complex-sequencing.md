@@ -71,6 +71,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 **[Codecademy](https://www.codecademy.com)** — Programming tracks introduce single concepts in isolation before combining them into multi-concept projects, a part-to-whole progression.
 
 **Saxon Math** — Published curriculum built on "incremental development": small increments of new content with continuous distributed review of earlier material, exemplifying sequencing plus mastery maintenance.
+- [Introduce Piagetian activities simply, one variable at a time, with ample time and repetition](../strategies/one-variable-at-a-time-activity-introduction.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

@@ -50,6 +50,7 @@ The study's theoretical base is Fuller's Teacher Concerns Theory, which holds th
 - [Stages of Concern About the Innovation: a seven-stage developmental taxonomy of individuals' concerns](stages-of-concern-seven-stage-taxonomy.md)
 - [Concerns Based Adoption Model (CBAM) stages of concern](cbam-stages-of-concern-model.md)
 - [Revised emergent-growth model of technology adoption integrating voluntary activities with maintained early concerns](emergent-growth-adoption-model.md)
+- [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
 
 ## Examples
 

@@ -40,7 +40,8 @@ The article presents a framework in which a statistical model is represented as 
 - [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](../claims/junction-tree-em-linear-complexity-occasions.md) [+W]
 
 ## Related Theories
-- 
+
+- [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](graphical-model-framework-mml-irt-estimation.md)
 
 ## Examples
 -

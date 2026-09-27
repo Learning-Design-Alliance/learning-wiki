@@ -63,10 +63,12 @@ PLCs work when they shift professional learning from transmission (expert delive
 6. Periodically review team norms and the evidence-focus itself, since drift toward logistics is the default trajectory.
 
 ## Related Strategies
+
 - [Action Research](action-research.md) — the individual/classroom-level inquiry method PLCs often institutionalize
 - [Data-Driven Instruction](data-driven-instruction.md) — supplies the evidence routines PLCs run on
 - [Instructional Coaching](instructional-coaching.md) — provides the follow-through support between team meetings
 - [Peer Observation](peer-observation.md) — extends collaboration from data to live practice
+- [Incorporate a method for identifying areas of improvement into PLC models](plc-method-identifying-improvement-areas.md)
 
 ## Examples
 - **Solution Tree / DuFour model** ([solutiontree.com](https://www.solutiontree.com)) — the most widely adopted PLC framework; schools organize into course-alike or grade-level teams running assessment-analysis cycles.

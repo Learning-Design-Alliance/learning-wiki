@@ -42,7 +42,8 @@ The review frames self-regulated learning as a cognitive-motivational approach i
 - [Self Efficacy For Srl Predicts Achievement Beyond Traits](../claims/self-efficacy-for-srl-predicts-achievement-beyond-traits.md) [+S]
 
 ## Related Theories
-- 
+
+- [Pintrich's four-phase, four-area paradigm of self-regulated learning](pintrich-srl-four-phase-paradigm.md)
 
 ## Examples
 -

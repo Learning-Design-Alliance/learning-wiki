@@ -43,6 +43,7 @@ The paper analyzes Schon's account of how master practitioners induct novices in
 
 - [Joyce Showers Technical Coaching](joyce-showers-technical-coaching.md)
 - [Reflective practice as a process for refining teaching craft through coached reflection on experience](reflective-practice-schon-coached-reflection.md)
+- [Schon's knowing-in-action and the distinction between reflection-in-action and reflection-on-action](schon-knowing-in-action-reflection.md)
 
 ## Examples
 

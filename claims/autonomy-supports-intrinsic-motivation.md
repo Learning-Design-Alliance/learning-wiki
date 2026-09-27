@@ -99,3 +99,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing](explicit-tasks-standards-boost-writing-motivation.md) — related
 - [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
+- [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related

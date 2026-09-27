@@ -9,8 +9,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: lundberg-2018
-    resource: "https://eric.ed.gov/?id=EJ1170292"
-    title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1170292"
+    resource: "https://eric.ed.gov/?id=EJ1179517"
+    title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517"
     author: "Lundberg, M., & Rasmussen, J"
 ---
 
@@ -50,4 +50,4 @@ The paper recommends taking the spotlight off the end product and focusing on th
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
 
 ## Key Sources
-- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1170292
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517

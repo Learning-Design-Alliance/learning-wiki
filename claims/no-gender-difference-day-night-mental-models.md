@@ -48,3 +48,4 @@ In the results section of the interview study with 46 kindergartners, "The resul
 - [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
 - [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
 - [No significant interaction between gender and CREACT on pretest or posttest creative performance](creact-no-gender-interaction.md) — related
+- [No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation](no-gender-difference-animistic-explanations.md) — related

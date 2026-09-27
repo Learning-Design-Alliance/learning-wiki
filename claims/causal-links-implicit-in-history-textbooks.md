@@ -44,3 +44,4 @@ The authors' analysis of a worked example (cotton gin and spread of slavery) sho
 - [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related
 - [Generative Learning Improves Retention](generative-learning-improves-retention.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
+- [Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas](history-textbooks-lack-explanatory-structure.md) — related

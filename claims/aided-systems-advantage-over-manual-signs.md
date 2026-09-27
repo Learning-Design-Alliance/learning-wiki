@@ -10,14 +10,14 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nam-2018
-    resource: "https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
-    title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
+    resource: "https://eric.ed.gov/?id=EJ1185374"
+    title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374"
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
   - id: nam-2018-2
-    resource: "https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
-    title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems"
+    resource: "https://eric.ed.gov/?id=EJ1185374"
+    title: "Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374"
     author: "Nam, S., Kim, J., & Sparks, S."
     q: 2
     i: "?"
@@ -36,7 +36,7 @@ sources:
 
 ### Nam 2018
 
-Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems
+Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
 `q2 · i?`
 
@@ -46,7 +46,7 @@ Overview of the Nam and Hwang (2016) review of three empirical studies comparing
 
 ### Nam 2018 (2)
 
-Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?q=An+Overview+of+Review+Studies+on+Effectiveness+of+Major+AAC+Systems
+Nam, S., Kim, J., & Sparks, S. (2018). An Overview of Review Studies on Effectiveness of Major AAC Systems for Individuals with Developmental Disabilities Including Autism. The Journal of Special Education Apprenticeship, 7(2). https://eric.ed.gov/?id=EJ1185374
 
 `q2 · i?`
 

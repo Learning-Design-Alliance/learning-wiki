@@ -40,7 +40,8 @@ The Stages of Concern Questionnaire is a quantitative instrument used to measure
 - [Cbam Stages Of Concern Model](../theories/cbam-stages-of-concern-model.md)
 
 ## Related Elements
-- 
+
+- [Stages of Concern Questionnaire (SoCQ)](socq-stages-of-concern-questionnaire.md)
 
 ## Examples
 -

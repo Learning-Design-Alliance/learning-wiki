@@ -66,6 +66,7 @@ Video replay works because it converts fleeting performance into a stable, revie
 - Peer coaching cycles — replay analysis as the evidence base for coaching conversations
 - Portfolio-based reflection — annotated video clips as reflective artifacts accumulated over a course
 - [Use TPACK-based analysis of teaching video cases and design artifacts to build novice instructional designers' metacognition](tpack-video-case-analysis-for-idc-metacognition.md)
+- [Shared history feedback inquiry using stimulated recall of time-lapse replays](shared-history-stimulated-recall-inquiry.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — expert recordings serve as comparison models for the learner's own replay

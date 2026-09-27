@@ -51,10 +51,12 @@ Bayesian Knowledge Tracing (BKT) is a student model used to infer a student's kn
 - [BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares](bkt-brute-force-grid-search-estimation.md)
 - [Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)](spectral-bkt-model.md)
 - [BKTransformer: transformer-based generation of temporally-evolving BKT parameters](bktransformer-temporal-bkt-parameters.md)
+- [BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects](bkt-irt-multidimensional-generalizable-model.md)
 
 ## Examples
 
 - [Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM](../strategies/fit-a-fix-one-parameter-alternative-to-dirichlet-priors.md)
+- [BKT RNN: a fast, flexible PyTorch recurrent neural network implementation of Bayesian Knowledge Tracing](../elements/bkt-rnn-pytorch-implementation.md)
 
 ## Key Sources
 - Martori, F., Cuadros, J., & González-Sabaté, L. (2015). Direct estimation of the minimum RSS value for training Bayesian Knowledge Tracing parameters. Proceedings of the 8th International Conference on Educational Data Mining. https://www.educationaldatamining.org/EDM2015/proceedings/short364-367.pdf

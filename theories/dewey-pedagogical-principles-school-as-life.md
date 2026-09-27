@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: özsoy-2009
-    resource: "https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education"
-    title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education"
+    resource: "https://eric.ed.gov/?id=EJ867373"
+    title: "Özsoy, S. (2009). \"Turkish Modernization,\" Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373"
     author: Özsoy, S
 ---
 
@@ -46,4 +46,4 @@ The article presents a set of Deweyan pedagogical principles against which it ev
 -
 
 ## Key Sources
-- Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?q=%22Turkish+Modernization%22+Democracy+and+Education
+- Özsoy, S. (2009). "Turkish Modernization," Democracy, and Education: An Analysis from Dewey's Perspective. Educational Sciences: Theory & Practice, 9(4). https://eric.ed.gov/?id=EJ867373

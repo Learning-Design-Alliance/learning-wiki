@@ -47,11 +47,15 @@ Dynamic assessment is presented as a Vygotskian alternative to psychometric test
 - [Dynamic assessment and the zone of proximal development as a framework for mediator-learner interaction](dynamic-assessment-zpd-mediator-interaction.md)
 - [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
 - [Vygotsky's account of mediated activity: three classes of mediators and the Zone of Proximal Development](vygotsky-three-classes-of-mediators-zpd.md)
+- [Interactionist vs. interventionist approaches to Dynamic Assessment](interactionist-interventionist-da-approaches.md)
+- [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
 
 ## Examples
 
 - [Reciprocity inventory of learner responsiveness to mediation](../patterns/learner-reciprocity-inventory.md)
 - [Mediation typology of implicit-to-explicit moves in SCMC DA](../patterns/scmc-da-mediation-typology.md)
+- [Assess children's cognitive development both when performing alone and when assisted](../principles/assess-alone-and-assisted-performance.md)
+- [Use interactionist DA to give learners more opportunities to interact and improve writing accuracy](../strategies/use-interactionist-da-for-writing-accuracy.md)
 
 ## Key Sources
 - Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925

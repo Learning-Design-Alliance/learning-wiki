@@ -52,6 +52,7 @@ The article presents Jerome Bruner's (1983) cognitive-developmental account, in 
 
 - [Treat talking and writing as means to learning through dialogue-based, student-centered instruction](../principles/talking-and-writing-means-to-learning.md)
 - [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
+- [Prepare novice teachers of the gifted in the sociocultural context of the gifted classroom](../strategies/sociocultural-teacher-preparation-gifted.md)
 
 ## Key Sources
 - Diaz, Diana M. (1988). First Language/Second Language: Acquisition, Writing, and Cognitive Development. https://eric.ed.gov/?id=ED294203

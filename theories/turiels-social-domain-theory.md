@@ -38,9 +38,11 @@ Because these domains are differentiated rather than unified, a student's moral 
 ## Claims
 
 ## Related Theories
+
 - [Kohlberg's Stages of Moral Development](kohlberg-moral-development.md) — Turiel's framework directly challenges the assumption that moral reasoning is a single, unified developmental ladder that Kohlberg's stage sequence depends on
 - [Piaget's Theory of Moral Development](piaget-moral-development.md) — similarly complicated by domain differentiation, since Piaget's heteronomous/autonomous shift is described as a general cognitive change rather than domain-specific
 - [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) — both frameworks push back on collapsing moral reasoning into a single scale
+- [Three types of knowledge — social, physical, and logico-mathematical — require different ways of learning](piaget-three-types-of-knowledge.md)
 
 ## Examples
 - [Classroom Space and Procedural Design](../principles/classroom-space-and-procedural-design.md) — applies the moral/conventional distinction directly to why classroom procedures (conventional) and rules (moral) warrant different levels of student input and enforcement

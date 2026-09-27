@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rouse-1980
-    resource: "https://eric.ed.gov/?id=IR008809"
-    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809"
+    resource: "https://eric.ed.gov/?id=ED192743"
+    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743"
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Rouse 1980
 
-Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809
+Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
 `q2 · i?`
 

@@ -41,7 +41,8 @@ The article introduces an angular-statistics framework in which item and test di
 - [Item Discrimination Cv Negative Difficulty Relation](../claims/item-discrimination-cv-negative-difficulty-relation.md) [+M]
 
 ## Related Theories
-- 
+
+- [Classical Test Theory (CTT) and its stated limitations](ctt-assumptions-and-limitations-ilhan-2018.md)
 
 ## Examples
 -

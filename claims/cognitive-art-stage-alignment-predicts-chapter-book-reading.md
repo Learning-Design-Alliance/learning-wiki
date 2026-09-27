@@ -46,3 +46,4 @@ Findings from the case-study classification (Table 5) of 15 students: four concr
 - [Sex differences appeared in stage distribution: 63% of males were concrete operational versus 57% of females preoperational](sex-differences-in-cognitive-and-art-stage-distribution.md) — related
 - [For 10 of 15 first-graders, literacy development was determined by cognitive development, with artistic responses paralleling the classification](literacy-development-parallels-cognitive-stage-in-first-graders.md) — a broader claim this one bears on
 - [Children's artwork and written stories offer insight into children's cognitive development and literacy development](artwork-and-stories-reveal-cognitive-development.md)
+- [Artists in extended drawing serials develop abstract, lasting conceptualizations about their art](drawing-serials-foster-abstract-artistic-myths.md) — related

@@ -45,7 +45,9 @@ Applied concretely: taking over a disruptive class, Ginott's approach would have
 - [Teaching Styles as Warmth and Control](teaching-styles-warmth-and-control.md) — congruent communication is one concrete way of building the warm side of an authoritative teaching style
 
 ## Examples
+
 - [Teacher Effectiveness Training / Conflict Resolution](../strategies/teacher-effectiveness-training-conflict-resolution.md) — Gordon's later "problem ownership" and "I-message" framework builds directly on the same communication-skills tradition
+- [Student-co-created acceptable/unacceptable behavior guides for conflict management](../strategies/student-co-created-behavior-guides.md)
 
 ## Key Sources
 - Ginott, H. G. (1972). *Teacher and child: A book for parents and teachers*. Macmillan.

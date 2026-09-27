@@ -44,6 +44,7 @@ The review organizes its analysis with Gardner's distinction between symbols, sy
 ## Related Theories
 
 - [Symbol system translation as a problem-solving construct](symbol-system-translation-construct.md)
+- [The symbol systems approach to studying media and computers in education](symbol-systems-approach-media-research.md)
 
 ## Examples
 -

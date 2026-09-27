@@ -43,3 +43,7 @@ An argumentative section (Industrial Arts in the Cybernetic Era) of the Section 
 ## Related Claims
 - [The fellowship team concluded that the study of man and technology is the most valid discipline base for industrial arts education](man-technology-valid-discipline-base-industrial-arts.md) — related
 - [The Man-Technology model replaces traditional industrial arts content areas with production, transportation, and communication](three-technology-areas-replace-traditional-industrial-arts.md) — related
+- [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
+- [Industrial arts curricular change must be so extensive the field becomes unrecognizable as either industrial in scope or arts in substance](industrial-arts-unrecognizable-curricular-change.md) — related
+- [Information processing now consumes more societal effort than making goods and rendering services](information-processing-exceeds-goods-production-effort.md) — related
+- [Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm](schools-foster-occupational-geographical-mobility.md) — related

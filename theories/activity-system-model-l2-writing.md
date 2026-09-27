@@ -43,6 +43,7 @@ The article presents activity theory, tracing it to Vygotsky and Leont'ev and us
 - [Cultural Historical Activity Theory](cultural-historical-activity-theory.md)
 - [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
 - [Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)](chat-six-element-activity-framework.md)
+- [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
 
 ## Examples
 -

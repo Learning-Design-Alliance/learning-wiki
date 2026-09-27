@@ -46,10 +46,12 @@ The Stages of Concern (SoC) framework, one dimension of the Concerns-Based Adopt
 - [Intervention Taxonomy: six levels of change-facilitating interventions from incident to policy](cbam-intervention-taxonomy-six-levels.md)
 - [Fuller Teacher Concerns Theory: three developmental stages of teacher concerns](fuller-teacher-concerns-theory-three-stages.md)
 - [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
+- [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
 
 ## Examples
 
 - [Match the form and content of staff development interventions to clients' assessed Stages of Concern](../principles/match-interventions-to-stages-of-concern.md)
+- [Use individual and group Stages of Concern data to tailor inservice and training decisions](../strategies/use-soc-data-to-tailor-inservice-decisions.md)
 
 ## Key Sources
 - Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728

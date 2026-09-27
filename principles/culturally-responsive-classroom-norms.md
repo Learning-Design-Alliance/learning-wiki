@@ -56,6 +56,8 @@ Genuinely accommodating this diversity requires more than adding cultural conten
 
 ## Examples
 
+- [Use norm violation and metaphorical models to surface taken-for-granted communication assumptions](../strategies/norm-violation-metaphor-surface-communication-assumptions.md)
+
 ## Key Sources
 - Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (2nd ed.). Heinemann.
 - Tharp, R. G. (1989). Psychocultural variables and constants: Effects on teaching and learning in schools. *American Psychologist, 44*(2), 349-359.

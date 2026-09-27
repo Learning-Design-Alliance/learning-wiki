@@ -44,6 +44,7 @@ The paper presents Piaget's classification of children's play into three main ca
 - [Piaget's account of ludic symbolism: make-believe play as symbolic assimilation bridging concrete experience and abstract thought](ludic-symbolism-make-believe-play.md)
 - [Play and Cognitive Development](play-and-cognitive-development.md)
 - [Stages of Cognitive Development](stages-of-cognitive-development.md)
+- [Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations](piaget-four-stage-cognitive-development-theory.md)
 
 ## Examples
 -

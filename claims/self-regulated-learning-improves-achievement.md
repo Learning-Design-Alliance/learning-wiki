@@ -179,3 +179,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim

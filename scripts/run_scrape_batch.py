@@ -400,7 +400,7 @@ def run(args) -> None:
         # writes to no page and cannot fail the batch: its failures are for a person.
         print(f"\n=== judging the most-cited claims' evidence ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py",
-                           "--top", "200", "--budget", "0.25"], SCRAPE_CONSOLE_LOG_PATH)
+                           "--top", "200", "--min-designs", "3", "--budget", "0.25"], SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py", "--report"],
                           SCRAPE_CONSOLE_LOG_PATH)
 

@@ -81,3 +81,5 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
+- [The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions](cbi-advantage-shrinks-same-teacher-comparisons.md) — related
+- [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related

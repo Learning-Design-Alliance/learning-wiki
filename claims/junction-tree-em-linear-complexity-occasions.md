@@ -43,3 +43,4 @@ Analytical derivation for the leading example model (unidimensional within occas
 ## Related Claims
 - [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](bifactor-within-occasion-tractable-cliques.md) — related
 - [Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions](markov-all-dimensions-poor-scaling.md) — related
+- [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — a broader claim this one bears on

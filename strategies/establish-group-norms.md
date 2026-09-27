@@ -62,6 +62,7 @@ Group norms function as procedural scaffolds: they remove the need for learners 
 - [Establish Group Norms](establish-group-norms.md) — this page
 - Norm-setting pairs naturally with role assignment and accountability structures; see [Assigned Positions](../elements/assigned-positions.md) for distributing responsibility within groups.
 - [Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating](aids-to-cooperative-learning-implementation.md)
+- [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
 
 ## Examples
 - **Cooperative learning structures (Kagan; Johnson & Johnson)** — Team norms such as "everyone participates, no one dominates" are built into structures like RoundRobin and paired with individual accountability quizzes.

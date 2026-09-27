@@ -49,6 +49,7 @@ The article reports Cole and Wertsch's (1996) argument that researchers overfocu
 - [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
 - [Social constructionism as the basis for collaborative writing instruction](social-constructionism-in-composition.md)
 - [OSP's two pedagogical approaches: guided inquiry and constructionism](osp-guided-inquiry-and-constructionism.md)
+- [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
 
 ## Examples
 

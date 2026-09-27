@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carmouche-2018
-    resource: "https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms"
-    title: "Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms"
+    resource: "https://eric.ed.gov/?id=EJ1254603"
+    title: "Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603"
     author: "Carmouche, M., & Thompson, J."
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Carmouche 2018
 
-Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms
+Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603
 
 `q2 · i?`
 

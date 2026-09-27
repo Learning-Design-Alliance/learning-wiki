@@ -44,6 +44,7 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 ## Related Principles
 
 - [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
+- [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
 
 ## Examples
 

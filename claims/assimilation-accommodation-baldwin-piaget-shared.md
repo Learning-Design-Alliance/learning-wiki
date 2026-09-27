@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: simple-convergences-piagetian-theory-and-its-relationship-to-the-epistemology-of-james-mark-baldwin-1989
-    resource: "https://eric.ed.gov/?id=ED334479"
-    title: "Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334479"
+    resource: "https://eric.ed.gov/?id=ED334478"
+    title: "Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478"
     author: Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin
     q: 1
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin 1989
 
-Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334479
+Simple Convergences? Piagetian Theory and Its Relationship to the Epistemology of James Mark Baldwin. (1989). https://eric.ed.gov/?id=ED334478
 
 `q1 · i?`
 

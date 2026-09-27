@@ -47,3 +47,4 @@ Theoretical argument advanced in the review's problem statement: because instruc
 - [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — a narrower finding that bears on this claim
+- [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related

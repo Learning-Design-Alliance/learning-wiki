@@ -48,6 +48,7 @@ The article presents Ikeda's philosophy of value-creating education for global c
 - [Soka value-creating education: the aim of education is the learner's happiness in a contributive, transformative social context](soka-value-creating-education-happiness-aim.md)
 - [Three-component framework of global citizenship: social responsibility, global competence, and global civic engagement](global-citizenship-three-component-framework-nguyen-2021.md)
 - [Nkrumah's consciencism: the African personality defined by a cluster of humanist principles underlying traditional African society](nkrumah-consciencism-african-personality.md)
+- [Makiguchi's Theory of Value (beauty, gain, good) as a framework for Soka (value-creating) education](makiguchi-theory-of-value-beauty-gain-good.md)
 
 ## Examples
 

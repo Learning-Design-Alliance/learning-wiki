@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ericsson-2005
-    resource: "https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
-    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
+    resource: "https://eric.ed.gov/?id=EJ746057"
+    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057"
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W."
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Ericsson 2005
 
-Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective
+Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057
 
 `q2 · i?`
 
@@ -42,3 +42,4 @@ Review of longitudinal assessments and retrospective evidence on expert developm
 
 ## Related Claims
 - [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](no-heritability-extrapolation-to-expert-performance.md) — related
+- [Expert chess discovery is explained by powerful selective heuristics rather than faster thinking or better memory](chess-discovery-via-selective-heuristics.md) — related

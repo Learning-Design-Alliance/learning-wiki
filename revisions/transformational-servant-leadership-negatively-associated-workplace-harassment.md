@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/transformational-servant-leadership-negatively-associated-workplace-harassment.md
+---
+
+# Revision history: [claims/transformational-servant-leadership-negatively-associated-workplace-harassment](../claims/transformational-servant-leadership-negatively-associated-workplace-harassment.md)
+
+### 2026-09-27 · ingest · process:wiki-ingest
+Ingested from pmc-13613840 (Multivariate modeling of organizational dynamics and faculty well-being in higher education.) via eval_harness.py + ingest_extractions.py

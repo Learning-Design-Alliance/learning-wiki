@@ -64,3 +64,5 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
 - [Pretense play training improves conservation of quantity in nonconserving preschoolers](pretense-play-training-improves-conservation.md) — a narrower finding that bears on this claim
 - [Pretense play training improves gender constancy on the first posttest but not the second](pretense-play-training-improves-gender-constancy-posttest-1.md) — a narrower finding that bears on this claim
+- [Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism](play-develops-representational-thought.md) — related
+- [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related

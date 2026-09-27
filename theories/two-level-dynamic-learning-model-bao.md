@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/physics/0606141"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
+    resource: "https://arxiv.org/abs/0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
 ---
 
@@ -55,4 +55,4 @@ The article models a student's measured knowledge as a two-level system in which
 - [Fit change-score versus pretest-score data with α and γ process models to diagnose learning processes and distinguish student ability from instruction impact](../strategies/fit-change-score-curves-to-diagnose-learning.md)
 
 ## Key Sources
-- Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141
+- Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375

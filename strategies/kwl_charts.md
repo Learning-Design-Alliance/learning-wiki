@@ -58,9 +58,11 @@ KWL charts work primarily as [advance organizers](../elements/advance-organizers
 4. **Learned**: Have students record what they learned, then explicitly compare L against K — confirming, correcting, and extending earlier entries — and against W — noting which questions were answered and which remain open ([Individual Reflection](../elements/individual-reflection.md), [Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - Anticipation guides — a related pre-reading routine that activates prior knowledge through prediction rather than listing
 - Question-answering and question-generation routines — the W column is a scaffolded version of self-questioning
 - Exit tickets — a compressed, post-only alternative to the L phase
+- [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 
 ## Examples
 - **Ogle's original DRTA-derived routine** (Ogle, 1986): fifth-grade students completed group KWL charts before reading expository passages, with the teacher modeling how to generate W questions from the topic.

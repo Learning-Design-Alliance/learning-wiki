@@ -74,7 +74,9 @@ Unit (a multi-week classroom project; the source professional-development worksh
 - The specific phenomenon and representational medium are interchangeable; what matters structurally is that no discipline's criteria fit the artifact by default, forcing genuine cross-disciplinary negotiation.
 
 ## Related Patterns
+
 - (none yet linked)
+- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](wholetheme-k12-action-research-cycle.md)
 
 ## Examples
 - Two teachers built a narrative of "mountain gnomes" responding to garden sensor data into their lantern design while separately insisting the data display stay simple — an active compromise (interdisciplinary integration) between narrative and clarity criteria.

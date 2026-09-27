@@ -46,3 +46,4 @@ Confirmatory factor analysis with Mplus on data from the 1,545-student sample te
 - [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — related
 - [Judicial and liberal are the most prevalent function and leaning styles among Thai sixth graders](sixth-graders-prevalent-thinking-styles.md) — related
 - [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
+- [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related

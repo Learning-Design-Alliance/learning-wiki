@@ -45,9 +45,15 @@ The paper presents Vygotsky's zone of proximal development as the construct at t
 - [Real world versus pretend world activities as two distinct ZPD contexts](real-versus-pretend-world-zpd-distinction.md)
 - [Cognitive apprenticeship framework with four learning-environment dimensions](cognitive-apprenticeship-four-dimensions-framework.md)
 - [Interactionist dynamic assessment grounded in Vygotsky's ZPD](interactionist-da-zpd-framework.md)
+- [Situated cognition as an epistemological framework for professional learning communities](situated-cognition-framework-plc.md)
+- [Sociocultural theory as a framework for gifted education](sociocultural-theory-gifted-education-framework.md)
+- [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
+- [Zone of Proximal Development: tasks a child cannot yet do alone but can do with help](vygotsky-zone-of-proximal-development.md)
+- [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
 
 ## Examples
--
+
+- [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 
 ## Key Sources
 - Seng, Seok-Hoon. (1997). Zone of Proximal Development and the World of the Child. https://eric.ed.gov/?id=ED416957

@@ -8,8 +8,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: carmouche-2018
-    resource: "https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms"
-    title: "Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms"
+    resource: "https://eric.ed.gov/?id=EJ1254603"
+    title: "Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603"
     author: "Carmouche, M., & Thompson, J"
 ---
 
@@ -47,4 +47,4 @@ Supervisory teacher coaching is a form of coaching in which "an outside expert o
 - [Describe coaching components, collect fidelity and maintenance data, and explore school-personnel and technology-based coaching in future coaching research](../strategies/coaching-research-reporting-recommendations.md)
 
 ## Key Sources
-- Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?q=Supervisory+Teacher+Coaching+in+K-12+Classrooms
+- Carmouche, M., & Thompson, J. (2018). Supervisory Teacher Coaching in K-12 Classrooms. JAASEP Winter 2018. https://eric.ed.gov/?id=EJ1254603

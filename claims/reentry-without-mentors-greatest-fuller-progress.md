@@ -46,3 +46,5 @@ Conclusion-section summary of the Table 6 panel data for the two reentry groups.
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — a broader claim this one bears on
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
 - [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
+- [People come first: places, policies, and programs should be altered when they inhibit people's development](people-come-first-invitational-schools.md) — related
+- [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — related

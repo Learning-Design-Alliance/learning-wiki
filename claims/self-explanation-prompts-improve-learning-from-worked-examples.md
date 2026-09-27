@@ -96,3 +96,4 @@ Fourteen eighth-grade students were asked, with no extensive training, to self-e
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — a broader claim this one bears on
 - [Generative processing improves learning](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim

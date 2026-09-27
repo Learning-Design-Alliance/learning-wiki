@@ -61,6 +61,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [ARCS Model of Motivational Design](arcs-model.md) — ARCS's Relevance and Confidence tactics draw directly on SDT's autonomy and competence needs
 - [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
+- [Self-Determination Theory as a framework for L2/ESP motivation](sdt-framework-esp-motivation.md)
+- [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
+- [Self-determination theory: three basic psychological needs underpin intrinsic motivation](sdt-three-basic-needs-intrinsic-motivation.md)
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

@@ -43,6 +43,7 @@ The article proposes a revised theoretical conception in which adoption is not a
 
 - [Fuller Teacher Concerns Theory: three developmental stages of teacher concerns](fuller-teacher-concerns-theory-three-stages.md)
 - [The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention](teacher-technology-adoption-stages.md)
+- [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
 
 ## Examples
 -

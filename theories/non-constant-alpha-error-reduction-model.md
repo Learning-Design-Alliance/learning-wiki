@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/physics/0606141"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141"
+    resource: "https://arxiv.org/abs/0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
     author: Lei Bao
 ---
 
@@ -46,4 +46,4 @@ In Section VI the article generalizes the γ-process as a special case of the α
 -
 
 ## Key Sources
-- Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/physics/0606141
+- Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375

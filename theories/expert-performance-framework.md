@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: ericsson-2005
-    resource: "https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
-    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective"
+    resource: "https://eric.ed.gov/?id=EJ746057"
+    title: "Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057"
     author: "Ericsson, K. A., Nandagopal, K., & Roring, R. W"
 ---
 
@@ -53,4 +53,4 @@ The expert-performance approach studies objectively measurable, reproducibly sup
 - [Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling](../principles/perceived-giftedness-confers-training-resources.md)
 
 ## Key Sources
-- Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?q=Giftedness+Viewed+From+the+Expert-Performance+Perspective
+- Ericsson, K. A., Nandagopal, K., & Roring, R. W. (2005). Giftedness viewed from the expert-performance perspective. Journal for the Education of the Gifted, 28(3/4). https://eric.ed.gov/?id=EJ746057

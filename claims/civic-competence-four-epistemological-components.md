@@ -46,3 +46,4 @@ Item and factor analysis of course-evaluation survey data from 10,974 students i
 - [Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence](discussion-common-race-political-topics-underused.md) — related
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
 - [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
+- [No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores](no-item-differences-anova-rjm.md) — related

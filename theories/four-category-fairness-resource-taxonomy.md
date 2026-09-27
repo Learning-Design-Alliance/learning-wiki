@@ -8,8 +8,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: alspektor-1979
-    resource: "https://eric.ed.gov/?id=ED020373"
-    title: "Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED020373"
+    resource: "https://eric.ed.gov/?id=ED183700"
+    title: "Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700"
     author: Alspektor, Rose Ann, and Wirtenberg, Jeana
 ---
 
@@ -48,4 +48,4 @@ The guide organizes bias-free education resources into a four-part taxonomy. As 
 - [Combine resources across guide sections for the most fruitful results](../strategies/cross-section-resource-combination-strategy.md)
 
 ## Key Sources
-- Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED020373
+- Alspektor, Rose Ann, and Wirtenberg, Jeana. (1979). Fair Textbooks: A Resource Guide. U.S. Commission on Civil Rights, Clearinghouse Publication 61. https://eric.ed.gov/?id=ED183700

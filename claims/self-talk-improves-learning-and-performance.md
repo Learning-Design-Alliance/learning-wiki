@@ -71,3 +71,4 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-talk is one of the verbal self-regulation strategies learners use to monitor and control their own learning
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related
+- [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related

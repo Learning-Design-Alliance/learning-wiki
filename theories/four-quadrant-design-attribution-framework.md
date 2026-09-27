@@ -47,6 +47,7 @@ The article crosses two dimensions—whether the robot was designed to be humanl
 - [Integrated conceptual framework distinguishing humanlikeness as design property from anthropomorphism as attribution process](humanlikeness-design-anthropomorphism-inference-framework.md)
 - [Humanlikeness as a multidimensional design construct extending beyond physical appearance](humanlikeness-multidimensional-design-construct.md)
 - [Six theories of anthropomorphism explaining why learners attribute human characteristics to nonhuman entities](six-theories-of-anthropomorphism.md)
+- [Framework of four logics of accountability crossing process-outcome and external-internal dimensions](logics-of-accountability-four-logic-framework.md)
 
 ## Examples
 

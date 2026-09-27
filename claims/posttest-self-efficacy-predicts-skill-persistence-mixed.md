@@ -61,3 +61,4 @@ Empirical evidence section reviewing posttest self-efficacy and persistence (tim
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
 - [Self-efficacy for learning is a meaningful index in academic settings where self-efficacy for performing is near zero](self-efficacy-for-learning-distinct-from-performance.md) — related
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — related
+- [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) — related

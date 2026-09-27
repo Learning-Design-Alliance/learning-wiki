@@ -60,3 +60,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

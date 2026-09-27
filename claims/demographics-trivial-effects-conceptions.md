@@ -48,3 +48,4 @@ MANCOVAs with ANCOVA follow-ups on 304 prospective teachers testing gender, year
 - [A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable](consonance-both-valuable-and-applicable-minority.md) — related
 - [Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions](attitudes-demographics-predict-counselor-rape-myth-acceptance.md) — related
 - [Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception](demographics-unrelated-to-acceptability-ratings.md)
+- [Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education](sdm-training-outcomes-unrelated-to-tenure.md) — related

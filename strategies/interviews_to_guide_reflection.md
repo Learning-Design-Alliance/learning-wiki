@@ -58,8 +58,10 @@ Interviews convert private, often vague impressions of learning into explicit ve
 5. **Record commitments.** Each interviewee writes one specific application or adjustment for future work, which the teacher can revisit at the next check-in.
 
 ## Related Strategies
+
 - [Exit tickets and closing reflections](../strategies/exit_tickets.md) — written, whole-class cousins of the interview that trade depth for efficiency
 - [Learning conferences](../strategies/learning_conferences.md) — the teacher-led variant anchored to portfolios and goal-setting
+- [Identify information gaps through national conference review to set research and development strategies](national-conference-gap-identification-strategy.md)
 
 ## Examples
 - **Writing workshop conferences** (Calkins' Units of Study, [https://www.unitsofstudy.com](https://www.unitsofstudy.com)) — brief teacher–student interviews about a draft, following a research–decide–teach arc.

@@ -9,8 +9,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: three-year-staff-development-plan-1972-1975-report-of-hew-region-ii-staff-development-project-1973
-    resource: "https://eric.ed.gov/?id=ED083425"
-    title: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083425"
+    resource: "https://eric.ed.gov/?id=ED083424"
+    title: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083424"
     author: "Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project"
 ---
 
@@ -44,4 +44,4 @@ After judging the contracted region-wide needs assessment inadequate, the projec
 -
 
 ## Key Sources
-- Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083425
+- Three-Year Staff Development Plan 1972-1975: Report of HEW Region II Staff Development Project. (1973). Montclair State College. https://eric.ed.gov/?id=ED083424

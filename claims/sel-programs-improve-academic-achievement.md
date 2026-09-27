@@ -91,3 +91,4 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — possibly the same claim (merge candidate)
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related

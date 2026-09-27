@@ -43,10 +43,12 @@ The CBAM, developed by the Research and Development Center for Teacher Education
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
 - [Fuller Teacher Concerns Theory: three developmental stages of teacher concerns](fuller-teacher-concerns-theory-three-stages.md)
 - [The five-stage teacher technology adoption process: Entry, Adoption, Adaptation, Appropriation, Invention](teacher-technology-adoption-stages.md)
+- [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
 
 ## Examples
 
 - [Match the form and content of staff development interventions to clients' assessed Stages of Concern](../principles/match-interventions-to-stages-of-concern.md)
+- [Stages of Concern Questionnaire (SoCQ)](../elements/socq-stages-of-concern-questionnaire.md)
 
 ## Key Sources
 - Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907

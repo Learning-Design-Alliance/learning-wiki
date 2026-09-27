@@ -40,7 +40,9 @@ Educational psychology is both. Researchers use the scientific method and resear
 - [Reflective Practice](reflective-practice.md) — the practitioner side of this loop: using reflection on one's own experience (not only external research) to refine practice
 
 ## Related Principles
+
 - [Reflective Practice](reflective-practice.md)
+- [Teach both the truth of the scientist and the truth of the poet, since neither paradigm of truth is sufficient alone](teach-scientist-and-poet-truths.md)
 
 ## Examples
 - A teacher whose classroom-management approach draws on both a study of effective techniques and their own accumulated read of a specific group of students

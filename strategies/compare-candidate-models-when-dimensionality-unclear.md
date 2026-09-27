@@ -9,8 +9,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: shu-jing-yen-2007
-    resource: "https://eric.ed.gov/?q=Multidimensional+IRT+models+for+Composite+Scores"
-    title: "Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?q=Multidimensional+IRT+models+for+Composite+Scores"
+    resource: "https://eric.ed.gov/?id=ED504361"
+    title: "Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361"
     author: Shu Jing Yen, Leah Walker
 ---
 
@@ -46,4 +46,4 @@ This strategy addresses practical testing situations where no clear a priori the
 -
 
 ## Key Sources
-- Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?q=Multidimensional+IRT+models+for+Composite+Scores
+- Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361

@@ -40,7 +40,8 @@ The chapter organizes four major organizational forms — hierarchy, market, cla
 - [Paradoxical Institutional Characteristics Improve Effectiveness Over Time](../claims/paradoxical-institutional-characteristics-improve-effectiveness-over-time.md) [+M]
 
 ## Related Theories
-- 
+
+- [Framework of four logics of accountability crossing process-outcome and external-internal dimensions](logics-of-accountability-four-logic-framework.md)
 
 ## Examples
 -

@@ -9,8 +9,8 @@ generated:
   at: 2026-09-27
 sources:
   - id: enghauser-2007
-    resource: "https://eric.ed.gov/?q=Developing+Listening+Bodies+in+the+Dance+Technique+Class"
-    title: "Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?q=Developing+Listening+Bodies+in+the+Dance+Technique+Class"
+    resource: "https://eric.ed.gov/?id=EJ795590"
+    title: "Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590"
     author: Enghauser, R
 ---
 
@@ -47,4 +47,4 @@ A partner improvisation exercise in which a blindfolded-eyed (eyes-closed) mover
 -
 
 ## Key Sources
-- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?q=Developing+Listening+Bodies+in+the+Dance+Technique+Class
+- Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590

@@ -59,3 +59,4 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
 - [Interleaving Improves Learning](interleaving-improves-learning.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — possibly the same claim (merge candidate)
+- [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related

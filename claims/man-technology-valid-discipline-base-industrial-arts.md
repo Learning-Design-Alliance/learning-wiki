@@ -43,3 +43,5 @@ A position statement from the fellowship team's Section I report, presented as a
 ## Related Claims
 - [The fellowship team argued industrial arts education exemplifies a craft era and has failed to keep pace with technological change](industrial-arts-craft-era-inadequate-cybernetic-era.md) — related
 - [The Man-Technology model replaces traditional industrial arts content areas with production, transportation, and communication](three-technology-areas-replace-traditional-industrial-arts.md) — related
+- [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — a narrower finding that bears on this claim
+- [Industrial arts curricular change must be so extensive the field becomes unrecognizable as either industrial in scope or arts in substance](industrial-arts-unrecognizable-curricular-change.md) — related

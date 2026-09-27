@@ -87,3 +87,4 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — related
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — related

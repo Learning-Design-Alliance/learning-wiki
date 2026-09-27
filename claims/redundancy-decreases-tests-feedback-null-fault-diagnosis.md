@@ -10,14 +10,14 @@ generated:
 evidence_strength: mixed
 sources:
   - id: rouse-1980
-    resource: "https://eric.ed.gov/?id=IR008809"
-    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809"
+    resource: "https://eric.ed.gov/?id=ED192743"
+    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743"
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 1
     i: "?"
   - id: rouse-1980-2
-    resource: "https://eric.ed.gov/?id=IR008809"
-    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809"
+    resource: "https://eric.ed.gov/?id=ED192743"
+    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743"
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 1
     i: "?"
@@ -36,7 +36,7 @@ sources:
 
 ### Rouse 1980
 
-Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809
+Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
 `q1 · i?`
 
@@ -46,7 +46,7 @@ Experiment Four on Task Two with only four highly trained subjects, a within-sub
 
 ### Rouse 1980 (2)
 
-Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809
+Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
 `q1 · i?`
 

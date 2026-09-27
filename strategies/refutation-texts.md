@@ -57,9 +57,11 @@ Refutation texts work by surfacing and directly challenging misconceptions rathe
 5. Follow with [Comparing Cases](../elements/comparing-cases.md) or application tasks that require learners to use the corrected model, so it competes with the old one in use.
 
 ## Related Strategies
+
 - [Conceptual Change](../strategies/conceptual-change.md) — the broader family; refutation text is its most studied text-based form
 - [Predict-Observe-Explain](../strategies/predict-observe-explain.md) — elicits the misconception live so the refutation is personally relevant
 - [Comparing Contrasting Cases](../strategies/comparing-contrasting-cases.md) — similar discrimination mechanism without explicit refutation language
+- [Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them](build-on-anthropomorphic-explanations-as-bridges.md)
 
 ## Examples
 - **Physics education**: Texts refuting "force is needed to keep an object moving" before Newtonian instruction; used widely in [Physics by Inquiry](https://www.phys.washington.edu/groups/pei/) and [Modeling Instruction](https://www.modelinginstruction.org) materials.

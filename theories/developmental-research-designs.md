@@ -43,7 +43,9 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](research-design-taxonomy.md) — the general research-design taxonomy this specializes for studying change over time
 
 ## Examples
+
 - A cross-sectional study comparing vocabulary size across 5-, 10-, and 15-year-olds, versus a longitudinal study following the same children from age 5 to 15
+- [Undertake cross-sectional and longitudinal studies of the long-term effects of children's involvement with computers now](../strategies/longitudinal-studies-of-computer-involvement-effects.md)
 
 ## Key Sources
 - Schaie, K. W., & Baltes, P. B. (1975). On sequential strategies in developmental research: Description or explanation? *Human Development, 18*(6), 384-390.

@@ -64,3 +64,4 @@ A second reviewed finding attributes greater social responsibility, community aw
 - [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
+- [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related

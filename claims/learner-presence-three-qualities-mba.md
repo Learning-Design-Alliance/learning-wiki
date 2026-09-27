@@ -45,3 +45,4 @@ Thematic analysis of seven stimulated recall interviews with six MBA students wh
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — a narrower finding that bears on this claim
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related
+- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — related

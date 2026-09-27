@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: starkey-1972
-    resource: "https://eric.ed.gov/?id=BP006086"
-    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086"
+    resource: "https://eric.ed.gov/?id=ED072018"
+    title: "Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018"
     author: Starkey, John D.; Barr, Rita L.
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Starkey 1972
 
-Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=BP006086
+Starkey, John D.; Barr, Rita L. (1972). The Philosophical Nature of Teachers--Graduate and Undergraduate. https://eric.ed.gov/?id=ED072018
 
 `q2 · i? · the article prints no effect size for this finding`
 

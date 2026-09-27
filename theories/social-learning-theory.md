@@ -63,6 +63,7 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - [Social learning theory expectancy framework (generalized and specific expectancies)](social-learning-expectancy-framework.md)
 - [Bandura's social learning theory: four fundamental requirements for people to learn and model behavior](bandura-four-requirements-learn-model-behavior.md)
 - [Bandura's four self-efficacy building experiences framework](bandura-four-self-efficacy-building-experiences.md)
+- [Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)](belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
 
 ## Examples
 

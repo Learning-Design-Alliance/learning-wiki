@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: rouse-1980
-    resource: "https://eric.ed.gov/?id=IR008809"
-    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809"
+    resource: "https://eric.ed.gov/?id=ED192743"
+    title: "Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743"
     author: Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J.
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Rouse 1980
 
-Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=IR008809
+Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743
 
 `q2 · i?`
 
@@ -44,3 +44,4 @@ Experiment Five with 48 first-semester trainees in a two-year FAA certificate pr
 - [Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays](computer-aiding-positive-transfer-unaided-fault-diagnosis.md) — related
 - [Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants](context-free-training-transfers-to-context-specific-fault-diagnosis.md) — related
 - [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
+- [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related

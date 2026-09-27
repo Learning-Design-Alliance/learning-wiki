@@ -353,6 +353,9 @@ def entry_jobs(rows: list, pages: dict, offline: bool = False) -> tuple:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--top", type=int, default=100, help="how many of the most-cited claims")
+    ap.add_argument("--min-designs", type=int, default=0, metavar="N",
+                    help="also every claim at least N design pages cite, beyond --top: a batch's "
+                         "new pages can make a claim load-bearing that ranks far below the top")
     ap.add_argument("--rank", action="store_true", help="print the ranking and stop; costs nothing")
     ap.add_argument("--claims", nargs="+", metavar="SLUG",
                     help="judge these claims instead of the top of the ranking (e.g. after fixing them)")
@@ -384,7 +387,7 @@ def main() -> None:
             raise SystemExit(f"no claim page: {', '.join(sorted(missing))}")
         rows = [r for r in rows if r["claim"] in want]
     else:
-        rows = rows[:args.top]
+        rows = rows[:args.top] + [r for r in rows[args.top:] if args.min_designs and r["designs"] >= args.min_designs]
     if args.rank:
         print(f"{'designs':>7} {'claims':>6} {'merged':>6} {'studies':>7}  claim")
         for r in rows:

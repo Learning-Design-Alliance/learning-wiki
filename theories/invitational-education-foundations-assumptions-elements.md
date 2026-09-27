@@ -44,6 +44,9 @@ The article describes invitational education theory as "a framework to guide tea
 ## Related Theories
 
 - [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
+- [Invitational Education: a model of the educative process built on four value-based assumptions](invitational-education-model.md)
+- [Theoretical foundations: the perceptual tradition and self-concept theory](perceptual-tradition-self-concept-foundations.md)
+- [TRIO: trust, respect, intentionality, and optimism as the four elements of Invitational Education](trio-trust-respect-intentionality-optimism.md)
 
 ## Examples
 -

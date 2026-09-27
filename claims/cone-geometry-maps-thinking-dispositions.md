@@ -45,3 +45,5 @@ Conceptual claim about what the cone's visual geometry represents: the biggest o
 - [Emancipating problem-solving action critiques norms back to underlying ideology to seek morally defensible consensus value ends](emancipating-mode-critique-value-ends.md) — related
 - [Inquiry tasks in the Holt Earth Science curriculum rely mainly on inductive and abductive methods, with deductive reasoning used least](holt-earth-science-induction-abduction-dominate.md) — related
 - [Interpretive problem-solving action seeks understanding of meanings through democratic communication with those involved](interpretive-mode-democratic-communication.md) — related
+- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](ct-metacog-upper-level-thought.md) — related
+- [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related

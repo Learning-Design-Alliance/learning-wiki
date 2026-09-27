@@ -79,3 +79,4 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — related
 - [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related

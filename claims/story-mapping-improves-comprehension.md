@@ -77,3 +77,4 @@ Open questions include how much fading the scaffold requires over time, whether 
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — related

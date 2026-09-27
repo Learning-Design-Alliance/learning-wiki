@@ -48,6 +48,7 @@ Humm's overview paper presents Piaget's framework for physical educators: two fu
 - [Piaget's three memory types: recognition, reconstruction, and evocation](piaget-three-memory-types.md)
 - [Piaget's account of ludic symbolism: make-believe play as symbolic assimilation bridging concrete experience and abstract thought](ludic-symbolism-make-believe-play.md)
 - [Play and Cognitive Development](play-and-cognitive-development.md)
+- [Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations](piaget-four-stage-cognitive-development-theory.md)
 
 ## Examples
 

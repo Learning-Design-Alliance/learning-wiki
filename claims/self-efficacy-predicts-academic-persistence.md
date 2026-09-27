@@ -76,3 +76,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — a broader claim this one bears on
+- [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related

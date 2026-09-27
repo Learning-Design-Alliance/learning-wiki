@@ -8,8 +8,8 @@ generated:
   at: 2026-09-26
 sources:
   - id: anees-2017
-    resource: "https://eric.ed.gov/?q=Bloom%27s+Taxonomy+assessment+levels"
-    title: "Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?q=Bloom%27s+Taxonomy+assessment+levels"
+    resource: "https://eric.ed.gov/?id=ED586762"
+    title: "Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762"
     author: Anees, S
 ---
 
@@ -47,4 +47,4 @@ The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956
 -
 
 ## Key Sources
-- Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?q=Bloom%27s+Taxonomy+assessment+levels
+- Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762

@@ -63,3 +63,4 @@ Well-aligned organizers and advance organizers can support learning — see [Adv
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — the consequence when mismatched organizers push learners past working-memory capacity.
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related

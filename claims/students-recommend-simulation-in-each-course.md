@@ -47,3 +47,4 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](simucase-lacks-behavioral-authenticity.md) — related
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — related
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

@@ -44,3 +44,4 @@ Review-level synthesis of the 60 analyzed articles stating that "AI presents sol
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

@@ -38,7 +38,8 @@ The authors scale the practice through a 75-minute hands-on workshop making teac
 - teacher professional development and leadership
 
 ## Related Strategies
-- 
+
+- [Provide dedicated peer-led ePortfolio support focused on ePortfolio making skills, and scale professional development longitudinally with adoption](peer-led-epportfolio-studio-and-longitudinal-pd.md)
 
 ## Examples
 -
