@@ -113,7 +113,7 @@ def page_codes(path: Path):
     section = ok.get_section(body, "Evidence")
     if not section:
         return []
-    return [(s["id"], {k: s[k] for k in ("q", "i", "n") if k in s})
+    return [(s["id"], {k: s[k] for k in ("q", "i", "n", "kind", "rigour") if k in s})
             for s in ok.parse_evidence_sources(section)]
 
 
@@ -157,7 +157,7 @@ def main() -> None:
         if not section:
             continue
         srcs = ok.parse_evidence_sources(section)
-        if not any(any(k in s for k in ("q", "i", "n")) for s in srcs):
+        if not any(any(k in s for k in ("q", "i", "n", "kind")) for s in srcs):
             continue
         new_text = replace_sources_block(text, srcs)
         if not new_text or new_text == text:

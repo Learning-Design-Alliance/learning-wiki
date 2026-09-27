@@ -2996,7 +2996,7 @@ evidence_strength:   # strong / moderate / weak / mixed
 
 Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](https://doi.org/...)
 
-`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]` · `i? · [e.g. large effect, d=0.9]` · `n=?`
+`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]` · `i? · [e.g. large effect, d=0.9]` · `n=?` · `[kind] · r?`
 
 [2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example `[worked examples](../elements/demonstration.md)` and `[practice tasks](../elements/practice.md)`.]
 
@@ -3008,7 +3008,18 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 - 
 ```
 
-**Evidence quality tiers (q):**
+**Evidence kind and rigour.** Every entry's codes line ends with a span naming what sort of
+evidence the study is and how well it does what that kind can do, e.g. `qualitative · r3`. Kinds:
+`causal`, `quant-synthesis`, `review`, `associational`, `qualitative`, `design`, `theoretical`.
+Rigour 1–3 is judged against the kind's own criteria (`eval/kind-rigor/RUBRIC.md`), never another
+kind's, so a careful interview study is `r3` and a confounded trial `r1`; `r?` means the text
+available could not show it, and an entry with no text of its study is always `r?`. Both are
+mirrored into `sources[]` as `kind:` and `rigour:`. `scripts/code_kind_rigour.py` writes them,
+from the article or abstract, never from the wiki's own paraphrase. **`q` stays, and is now read as
+the design tier**: where a study sits on the causal-design ladder, which answers "how good is this as
+evidence of a cause" and not "how well was this done".
+
+**Design tiers (q):**
 | q | Criteria |
 |---|----------|
 | 4 | Pre-registered RCT or well-powered meta-analysis |
@@ -3031,6 +3042,8 @@ sources:
     q: 3
     i: 2
     n: large (multiple course sections at a research university)
+    kind: causal
+    rigour: 2
 ```
 
 Subclaim prefixes are deliberately not mirrored: a subclaim's `q3 i2` is a *reading* of the

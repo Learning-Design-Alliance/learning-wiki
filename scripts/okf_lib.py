@@ -286,10 +286,18 @@ _CODE_SPAN_RE = re.compile(r"`([^`\n]+)`")
 _Q_RE = re.compile(r"(?:^|·)\s*q\s*([0-9?])(?![0-9A-Za-z])", re.I)
 _I_RE = re.compile(r"(?:^|·)\s*i\s*([0-9?])(?![0-9A-Za-z])", re.I)
 _N_RE = re.compile(r"(?:^|·)\s*n\s*=\s*([^·]*)", re.I)
+# Evidence KIND and RIGOUR within that kind (evidence-scales.json, adopted
+# 2026-09-29): a span of its own on the codes line, `qualitative · r3`. `q` is
+# a position on the causal-design ladder, so a careful interview study reads as
+# q1 however well it was done; kind + rigour judge each study against the
+# standard of what it is. `r?` means the available text could not show it.
+EVIDENCE_KINDS = ("causal", "quant-synthesis", "review", "associational",
+                  "qualitative", "design", "theoretical")
+_KR_RE = re.compile(r"^\s*(" + "|".join(EVIDENCE_KINDS) + r")\s*·\s*r\s*([1-3?])\s*$")
 
 
 def parse_evidence_codes(block: str) -> dict:
-    """{q, i, n} from an evidence entry's codes line, omitting what is absent.
+    """{q, i, n, kind, rigour} from an evidence entry's codes line, omitting what is absent.
 
     The shorthand was designed to be read by an agent, and until recently an
     agent had to find it in prose. Mirroring it into `sources[]` puts it where
@@ -314,6 +322,10 @@ def parse_evidence_codes(block: str) -> dict:
             m = _N_RE.search(sp)
             if m and "n" not in out and m.group(1).strip():
                 out["n"] = m.group(1).strip()
+            m = _KR_RE.match(sp)
+            if m and "kind" not in out:
+                out["kind"] = m.group(1)
+                out["rigour"] = int(m.group(2)) if m.group(2).isdigit() else m.group(2)
         break                 # first codes line wins
     return out
 
@@ -578,6 +590,12 @@ def dump_frontmatter(fm: dict) -> str:
                                      else f"    {k}: {yaml_escape(str(v))}")
                 if src.get("n"):
                     lines.append(f"    n: {yaml_escape(str(src['n']))}")
+                if src.get("kind"):
+                    lines.append(f"    kind: {src['kind']}")
+                    v = src.get("rigour")
+                    if v is not None:
+                        lines.append(f"    rigour: {v}" if isinstance(v, int)
+                                     else f"    rigour: {yaml_escape(str(v))}")
         elif isinstance(val, list):
             if not val:
                 continue

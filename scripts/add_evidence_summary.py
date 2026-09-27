@@ -84,7 +84,10 @@ def generated_re() -> re.Pattern:
         one = rf"`{f}\d`(?: (?:{names}))?" if names else rf"`{f}\d`"
         return rf"(?: · (?:{one}|`{f}\d`–`{f}\d`))?"
 
+    kinds = "|".join(re.escape(k) for k in okf_lib.EVIDENCE_KINDS)
+    one_kind = rf"(?:\d+ )?(?:{kinds})(?: `r[1-3?]`(?:–`r[1-3?]`)?)?"
     return re.compile(r"^> \*\*Evidence\*\* · (?:none recorded yet|\d+ stud(?:y|ies)(?: \(\d+ entries\))?"
+                      + rf"(?: · {one_kind}(?:, {one_kind})*)?"
                       + field("q", q_lab) + field("i", i_lab) + r"(?: · n=[^·]+)?)$")
 
 
@@ -115,6 +118,32 @@ def summary_line(sources: list) -> str:
     if n < len(coded):
         parts[0] += f" ({len(coded)} entries)"
 
+    # Kind and rigour (evidence-scales.json), before q: what sort of evidence
+    # this is, and how well each study does what its kind can do. Counted by
+    # distinct study like the total; a study takes the kind most of its entries
+    # give. A rigour spread is shown as a spread, never averaged.
+    by_study = {}
+    for s_ in coded:
+        k = ("doi:" + _doi(s_)) if _doi(s_) else (_fingerprint(s_) or "id:" + str(s_.get("id")))
+        by_study.setdefault(k, []).append(s_)
+    kinds = {}
+    for group in by_study.values():
+        ks = [g["kind"] for g in group if g.get("kind")]
+        if not ks:
+            continue
+        kind = max(sorted(set(ks)), key=ks.count)
+        kinds.setdefault(kind, {"n": 0, "r": []})
+        kinds[kind]["n"] += 1
+        kinds[kind]["r"] += [g.get("rigour") for g in group if g.get("kind") == kind]
+    if kinds:
+        bits = []
+        for kind in sorted(kinds, key=lambda k: (-kinds[k]["n"], okf_lib.EVIDENCE_KINDS.index(k))):
+            rs = [r for r in kinds[kind]["r"] if isinstance(r, int)]
+            rig = ("`r?`" if not rs else f"`r{min(rs)}`" if min(rs) == max(rs)
+                   else f"`r{min(rs)}`–`r{max(rs)}`")
+            bits.append((f"{kinds[kind]['n']} " if n > 1 else "") + f"{kind} {rig}")
+        parts.append(", ".join(bits))
+
     def rng(field, labels):
         vals = [s[field] for s in coded if isinstance(s.get(field), int)]
         if not vals:
@@ -128,7 +157,9 @@ def summary_line(sources: list) -> str:
         # q4 into "q3" would assert a tier neither study has.
         return f"`{field}{lo}`–`{field}{hi}`"
 
-    for field, labels in (("q", q_lab), ("i", i_lab)):
+    # With kinds shown, q goes bare: its label ("argument or single case")
+    # beside "qualitative r3" would read as a verdict on the same study.
+    for field, labels in (("q", {} if kinds else q_lab), ("i", i_lab)):
         r = rng(field, labels)
         if r:
             parts.append(r)

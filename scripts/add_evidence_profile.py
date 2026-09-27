@@ -38,9 +38,10 @@ import okf_lib  # noqa: E402
 SUMMARY_RE = re.compile(r"^>\s*\*\*Evidence\*\*\s*·.*$")
 BANNER_RE = re.compile(r"^>\s*\*\*[^*]+\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
 _POL = r"\d+ (?:for|mixed|against|unmarked)"
+_KIND = r"\d+ (?:" + "|".join(re.escape(k) for k in okf_lib.EVIDENCE_KINDS) + r")"
 GENERATED_RE = re.compile(
     r"^> \*\*Evidence\*\* · (?:no claims cited|\d+ claims? \(" + _POL + r"(?:, " + _POL + r")*\)"
-    r"(?: · no studies recorded yet| · \d+ stud(?:y|ies)(?:, `q\d`(?:–`q\d`)?)?"
+    r"(?: · no studies recorded yet| · \d+ stud(?:y|ies)(?: \(" + _KIND + r"(?:, " + _KIND + r")*\))?(?:, `q\d`(?:–`q\d`)?)?"
     r" · \d+ of \d+ report an effect size(?: · (?:1 claim rests|\d+ claims rest) on one study)?))$")
 
 

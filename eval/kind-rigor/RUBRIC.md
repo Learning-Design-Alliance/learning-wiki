@@ -1,10 +1,13 @@
-# Evidence kind and rigour: a pilot rubric
+# Evidence kind and rigour: the rubric
 
 The `q` code ranks every study on one ladder built for causal questions: 4 is a pre-registered
 RCT or a strong meta-analysis, 1 is a case study, a qualitative study or an argument. A careful
 qualitative study therefore reads as "low quality", although it may be the best available evidence
 for the question it answers (how learners experience something, why a design fails in context).
-This pilot codes two things instead of one, on a small sample, before anything changes wiki-wide.
+So every evidence entry is coded with two things beside `q`: what KIND of evidence the study is,
+and its RIGOUR judged by that kind's own standard. Piloted on 38 entries (`scripts/kind_rigor_pilot.py`)
+and adopted wiki-wide on 2026-09-29 (`scripts/code_kind_rigour.py`); the definitions an agent reads
+are in `evidence-scales.json`.
 
 ## Kind: what sort of evidence the study is
 
@@ -39,7 +42,7 @@ Judged against the kind's own standard, never against another kind's.
 - **theoretical** — 3: coherent, explicit mechanisms, engages evidence and alternatives; 2: coherent
   but thin on evidence; 1: assertion.
 
-## What the pilot asks
+## What the pilot asked
 
 1. Do the two codes change what a reader would conclude, compared with `q` alone?
 2. Can a model code them consistently (two independent runs)?

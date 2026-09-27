@@ -562,7 +562,7 @@ def check_authority_conflicts(pages: dict[str, Path]) -> list[dict]:
 # The keys a frontmatter `sources:` entry may carry. `q`, `i` and `n` are the
 # evidence codes mirrored out of the body by sync_evidence_codes.py — see
 # evidence-scales.json for what they mean.
-SOURCE_ENTRY_KEYS = {"id", "resource", "title", "author", "q", "i", "n"}
+SOURCE_ENTRY_KEYS = {"id", "resource", "title", "author", "q", "i", "n", "kind", "rigour"}
 _SOURCE_KEY_RE = re.compile(r"^\s{4}([A-Za-z][\w-]*):")
 _SOURCE_ITEM_RE = re.compile(r"^\s{2}- (?:id|[A-Za-z][\w-]*):")
 
