@@ -17,7 +17,7 @@ sources:
 # Simucase computer-based clinical simulation platform
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (4 for, 2 against) · 2 studies, `q2`–`q4` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Simucase is a computer-based simulation platform that "allows students to complete clinical assignments independently and asynchronously from the clinic or course experience," covering speech-language pathology, audiology, and occupational therapy. Members access part-task trainers, assessments, and intervention sessions, working through case history, collaboration, hypothesis formation, assessment administration, diagnosis, and recommendations in learning mode (with feedback and unlimited practice) or assessment mode (no feedback). Students must score 90% or greater for minutes to count toward ASHA clinical clock hours.
@@ -41,7 +41,12 @@ Simucase is a computer-based simulation platform that "allows students to comple
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](../claims/simucase-increases-assessment-confidence.md) [+W]
+- [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](../claims/simucase-feedback-insufficient.md) [-W]
+- [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
+- [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
+- [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](../claims/simucase-learning-mode-perceived-beneficial.md) [+W]
+- [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
 
 ## Related Elements
 - 

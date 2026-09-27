@@ -17,7 +17,7 @@ sources:
 # Study carrel as an individual work area shielding a child from disturbance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The booklet defines and details the study carrel as a behaviour-support fixture: "A carrel is a work area for individual study. Itis intended as a place where a child may work alone, relatively undisturbed by other children." Drawing 10 shows a folding-panel type with chalkboard and tackboard on each side that folds against the wall when unused, and two permanent types with built-in desk top, shelving, chalkboard, tackboard, and a light. Carrels need electrical outlets for teaching machines and warm-white fluorescent lighting with diffusers.
@@ -38,7 +38,7 @@ The booklet defines and details the study carrel as a behaviour-support fixture:
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Fixed personal work places are assumed to build study habits for severely disturbed children](../claims/fixed-workplace-builds-study-habits.md) [+W]
 
 ## Related Elements
 - 

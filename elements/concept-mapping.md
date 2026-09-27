@@ -12,7 +12,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 5 studies, `q2`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -41,7 +41,10 @@ Concept mapping is the element in which learners represent concepts and their re
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
+- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M]
+- [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
+- [Learner Constructed Graphic Organizers Outperform Provided](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]
 
 ## Related Elements
 

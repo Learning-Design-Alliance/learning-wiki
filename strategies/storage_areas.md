@@ -12,7 +12,7 @@ generated:
 # Storage Areas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 0 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Storage areas are the designated, organized locations — shelves, bins, cubbies, labeled drawers, resource stations — where learning materials are kept in a physical or blended learning environment. The strategy treats organization of the physical environment as an instructional design decision: materials are arranged so learners can locate what a task requires quickly, return it independently, and do so without visual or navigational clutter competing for attention.

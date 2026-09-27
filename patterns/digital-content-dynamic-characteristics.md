@@ -17,7 +17,7 @@ sources:
 # Dynamic characteristics of digital content: randomly accessed, authentic, multi-level, interactive, manipulatable, instantaneous and creative
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report enumerates the dynamic characteristics that make digital content essential to digital learning: randomly accessed; relevant, up-to-date and authentic; explored on many levels; interactive and engaging; manipulatable; instantaneous; and creative. It states that "The strength of the dig-ital content in education stems from its dynamic characteristics that allow students to both locate and construct information." These characteristics distinguish digital content from traditional static materials and underpin the learning-environment pattern the report describes.
@@ -37,7 +37,8 @@ The report enumerates the dynamic characteristics that make digital content esse
 - information seeking, manipulation and construction of knowledge
 
 ### Claims
-- 
+
+- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](../claims/tracker-constant-vx-model-activity.md) [+W]
 
 ## Related Patterns
 

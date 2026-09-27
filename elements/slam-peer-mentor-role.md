@@ -17,7 +17,7 @@ sources:
 # Service-Learning Assistant Mentors (SLAMs): undergraduate peer mentors embedded in service-learning courses
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 SLAMs are undergraduate students with prior service-learning experience who serve as peer mentors to enrolled students and as liaisons between faculty and students. They "either met one-on-one with students to individually mentor them in their experience or conducted group mentoring through guided reflections during structured class time." SLAMs worked closely with professors to structure in-class critical reflection activities. Faculty helped SLAMs build alliances with students through support and motivation, based on prior findings about successful faculty mentoring.
@@ -43,7 +43,10 @@ SLAMs are undergraduate students with prior service-learning experience who serv
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Peer mentoring shows a trend toward higher posttest social justice attitudes](../claims/peer-mentoring-trend-social-justice-attitudes.md) [+W]
+- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](../claims/peer-mentoring-increases-civic-action-service-learning.md) [+W]
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](../claims/positive-relationships-increase-civic-engagement-intention.md) [+W]
+- [Positive SLAM-student relationship qualities correlate with civic action](../claims/slam-relationship-quality-correlates-civic-action.md) [+W]
 
 ## Related Elements
 - 

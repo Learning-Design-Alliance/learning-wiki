@@ -12,7 +12,7 @@ generated:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies, `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Whether standardized tests are biased against particular social class, racial, or ethnic groups is a genuinely complicated question, because "bias" itself has multiple distinct technical meanings. Three specific, documented mechanisms are worth separating clearly, since each implies a different fix.
@@ -43,6 +43,12 @@ Whether standardized tests are biased against particular social class, racial, o
 ### Theory
 #### Contradicting / Qualifying
 - [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) [~M] — the offensiveness/unfair-penalization bias framework for teacher-made assessments applies at classroom scale; this page documents the same underlying phenomena at the scale of nationally-normed standardized tests, plus two additional mechanisms (differential prediction, stereotype threat) not generally at issue in a single classroom assessment
+
+## Claims
+- [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](../claims/mit-lower-sat-math-scores-equal-performance.md) [+W]
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](../claims/sat-underpredicts-girls-performance.md) [+W]
+- [Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
+- [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](../claims/male-oriented-item-content-biases-test-scores.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

@@ -14,7 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning (Duolingo Pattern)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.
@@ -36,8 +36,10 @@ This page is the short-form canonical target for Duolingo-style game-based maste
 
 ### Theory
 #### Supporting
+
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
+- [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 
 ## Related Patterns
 - [Game-Based Mastery Learning](game-based-mastery-learning.md)

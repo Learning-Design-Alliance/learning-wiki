@@ -17,7 +17,7 @@ sources:
 # Information Studies Taxonomy: a faceted organizational taxonomy for a digital repository
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The Information Studies Taxonomy was developed to organize resources in a digital repository at the Division of Information Studies, Nanyang Technological University, Singapore, supporting students and faculty in locating resources for teaching, learning and research tasks. It used "a faceted organization scheme" with five major facets identified from analysis of existing resources, stakeholder interviews and task analysis: Courses, Research groups, Resource types, Information types and Topics. "The first version of the Information studies taxonomy, used in this study, comprised seven facets and about 540 categories." The subject facet (Topics) was the largest with twelve main categories and more than 440 categories, and the taxonomy was implemented in the University e-learning platform using the TLE-Equella software.
@@ -38,7 +38,11 @@ The Information Studies Taxonomy was developed to organize resources in a digita
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists](../claims/some-users-prefer-people-contexts-institutions-over-subject-browsing.md) [+W]
+- [Users most often use the topic concept in navigation choices but frequently also use context and resource-type concepts](../claims/users-use-topic-concept-most-often-but-also-context-and-resource-type.md) [+W]
+- [In task-based taxonomy navigation, the Topics and Document types facets achieved the highest precision and recall while the Research groups facet achieved 0%](../claims/topics-document-types-highest-precision-research-groups-zero.md) [+W]
+- [Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy](../claims/users-difficulty-distinguishing-resource-type-facets.md) [+W]
+- [Users infer a variety of relationships between task concepts and taxonomy categories and prefer common or generic associations over formal disciplinary relations](../claims/users-infer-varied-relationships-prefer-generic-associations.md) [+W]
 
 ## Related Elements
 - 

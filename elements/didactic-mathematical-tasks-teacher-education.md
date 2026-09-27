@@ -17,7 +17,7 @@ sources:
 # Didactic-mathematical tasks as a teacher-education element situating pre-service teachers in professional activity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Didactic-mathematical tasks combine a professional activity of secondary teachers (e.g. analyzing school textbook problems) with mathematical content (e.g. functions), supported by mathematics education articles and teacher explanations. The article presents them as a contribution to pre-service teacher education: "a contribution of this study is the incorporation of didactic-mathematical tasks as a new element that allows to situate these pre-service teachers in their future professio nal activity". Solving such tasks in small groups generated the discourse from which norms were inferred.
@@ -38,7 +38,10 @@ Didactic-mathematical tasks combine a professional activity of secondary teacher
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task](../claims/five-sdmns-inferred-preservice-teacher-discourse.md) [+M]
+- [Three of the inferred norms relate to the mathematical content and its learning, including privileging the table of values and devaluing explanation](../claims/sdmns-related-to-mathematical-content-and-learning.md) [+M]
+- [The inferred norms show features of a traditional teacher perspective, while SDMN 4 shows features of a perception-based perspective](../claims/sdmns-relate-to-traditional-and-perception-based-perspectives.md) [+M]
+- [Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups](../claims/sdmns-teacher-role-validation-all-groups.md) [+M]
 
 ## Related Elements
 - 

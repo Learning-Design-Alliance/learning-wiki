@@ -17,7 +17,7 @@ sources:
 # Developing Talkers supplemental academic language curriculum for pre-k and kindergarten
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 against) · 1 study, `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Developing Talkers is a supplemental academic language curriculum for pre-k and kindergarten classrooms targeting sophisticated vocabulary and inferential language use, including Tier 2 small-group lessons for three to five students needing more language support. "The curriculum includes three evidence-based teaching strategies based on substantial accumulated research": direct vocabulary instruction before and during shared reading, inferential-level conversations with open-ended questions, and responsive upward and downward scaffolding of children's responses. Each book is read three times weekly with six target vocabulary words and printed inferential questions at the point of use. Teachers report high satisfaction, saying even "I love it!"
@@ -39,7 +39,11 @@ Developing Talkers is a supplemental academic language curriculum for pre-k and 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](../claims/competing-time-priorities-dominant-barrier-language-curriculum.md) [-W]
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [-W]
+- [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](../claims/memory-habit-barriers-contextual.md) [-W]
+- [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](../claims/knowledge-barriers-language-development-procedural.md) [-W]
+- [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](../claims/skill-barriers-conversation-facilitation-classroom-management.md) [-W]
 
 ## Related Elements
 - 

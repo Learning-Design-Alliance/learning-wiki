@@ -17,7 +17,7 @@ sources:
 # Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Una maqueta de bajo costo construida con esferas de telgopor, alambres semirrígidos doblados en semicircunferencia, un gnomon de varilla y una linterna que emula al Sol. Los alumnos colocan "un arco corto" para el solsticio de invierno, "un arco largo" para el de verano y uno intermedio para los equinoccios, y exploran con la linterna las sombras a lo largo del día y del año.
@@ -40,7 +40,9 @@ Una maqueta de bajo costo construida con esferas de telgopor, alambres semirríg
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](../claims/students-difficulties-solar-movement-observable-changes.md) [+W]
+- [Las longitudes de las sombras al mediodía muestran una simetría en torno a los solsticios y los equinoccios que impide distinguir fechas solo midiendo sombras](../claims/shadow-length-symmetry-around-solstices.md) [+W]
+- [El Sol solo sale exactamente por el este y se pone exactamente por el oeste durante los equinoccios](../claims/sun-rises-exactly-east-only-at-equinoxes.md) [+W]
 
 ## Related Elements
 - 

@@ -17,7 +17,7 @@ sources:
 # Spup: a spoon taped to a cup used as a fading utensil
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The spup is a modified drinking utensil consisting of a large Maroon spoon taped to a blue cut-out cup, used to bridge spoon drinking and cup drinking. The article describes that "Fading consisted of altering the spup by retaping the bowl of the spoon 0.6 cm closer to the edge of the cup (Figure 1)," with extinction in place throughout fading and cup probes. It was the central material of the treatment for one child with intestinal failure.
@@ -38,7 +38,10 @@ The spup is a modified drinking utensil consisting of a large Maroon spoon taped
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure](../claims/spoon-to-cup-fading-increases-cup-drinking.md) [+W]
+- [Cup-drinking performance was poor during early fading steps and improved only near the terminal step](../claims/early-fading-steps-poor-cup-probes.md) [+W]
+- [Cup-drinking gains were maintained at a 1-year caregiver-conducted follow-up](../claims/cup-drinking-gains-maintained-one-year-follow-up.md) [+W]
+- [Extinction increased spoon acceptance but cup mouth clean remained low before fading](../claims/extinction-utensil-differential-mouth-clean.md) [~W]
 
 ## Related Elements
 - 

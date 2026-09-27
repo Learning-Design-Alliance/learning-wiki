@@ -13,7 +13,7 @@ grain_size: lesson
 # Jigsaw
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q3` · 1 of 2 report an effect size
 
 ## Description
 Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.
@@ -24,6 +24,9 @@ Jigsaw is the short-form canonical pattern for dividing a topic into expert role
 - [Group Work](../elements/group-work.md)
 - [Peer Teaching](../elements/peer-teaching.md)
 - [Peer Discussion](../elements/peer-discussion.md)
+
+## Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
 
 ## Related Patterns
 - [Jigsaw Method](jigsaw-method.md)

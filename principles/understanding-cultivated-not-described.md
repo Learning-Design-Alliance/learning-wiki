@@ -17,7 +17,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper's Table 1 asserts that "Wisdom cannot be 'told'" and that understanding must be cultivated rather than described, with understanding becoming deeper as learners "get to know" and explore it. Related functions include learners formulating and modifying initial understanding and errors serving as useful data for refining understanding.
@@ -37,7 +37,10 @@ The paper's Table 1 asserts that "Wisdom cannot be 'told'" and that understandin
 - deep understanding beyond the information given
 
 ### Claims
+
 - [Student Centered Environments Assumptions Framework](../theories/student-centered-environments-assumptions-framework.md) [+M]
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](../claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) [+W]
+- [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W]
 
 ## Related Principles
 

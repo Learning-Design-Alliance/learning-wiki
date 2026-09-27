@@ -12,7 +12,7 @@ generated:
 # Case Studies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies, `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Case studies are the element in which learners analyze a concrete scenario, incident, or example in order to reason about concepts, decisions, or consequences. They are useful when learning benefits from applying ideas to situated complexity.
@@ -35,7 +35,8 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](../claims/simucase-lacks-behavioral-authenticity.md) [~W]
 
 ## Related Elements
 - [Case Study](case-study.md)

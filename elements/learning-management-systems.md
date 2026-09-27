@@ -12,7 +12,7 @@ generated:
 # Learning Management Systems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies, `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
@@ -22,7 +22,8 @@ Learning management systems are the element in which course organization, materi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](../claims/loa-lms-adoption-growth.md) [+M]
+- [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](../claims/social-media-tools-misappropriated-as-social-learning.md) [-W]
 
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)

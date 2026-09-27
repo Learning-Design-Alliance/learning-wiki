@@ -29,7 +29,7 @@ sources:
 # Quiet Learning Spaces
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 mixed) · 5 studies, `q2`–`q4` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 mixed) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Quiet learning spaces reduce competing demands on attention so learners can focus on reading, listening, problem solving, and reflection. "Quiet" here does not only mean low sound; it also includes lower interruption, fewer notifications, clearer routines, and an environment that helps learners sustain concentration. For some adult learners, especially those managing stress, fatigue, shared living spaces, or prior chaotic learning experiences, environmental stability is itself an instructional support.

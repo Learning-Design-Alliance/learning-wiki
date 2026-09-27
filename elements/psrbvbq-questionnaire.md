@@ -17,7 +17,7 @@ sources:
 # PSRBVBQ — a situational judgment questionnaire with six bullying vignettes measuring perceived severity and likelihood of responding to bully and victim
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The PSRBVBQ is a scenario-based measure built by Bush (2009) and developed by Harrison (2015), adapted into Romanian via forward-backward translation with four expert translators. As the article states, "the measure includes six bullying scenarios, two for each type of bullying (physical, verbal, and relational)". For each situation teachers rank perceived severity, likelihood of responding to the bully, and likelihood of responding to the victim on a seven-point Likert scale. The validated Romanian version contains three six-item scales.
@@ -38,7 +38,10 @@ The PSRBVBQ is a scenario-based measure built by Bush (2009) and developed by Ha
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](../claims/psrbvbq-scales-internal-consistency.md) [+W]
+- [The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers](../claims/psrbvbq-three-factor-structure-romanian-teachers.md) [+W]
+- [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](../claims/perceived-severity-predicts-teacher-reaction.md) [+W]
+- [More teachers rate verbal aggression as serious (38.6%) than rate relational aggression as very serious (23.8%)](../claims/verbal-rated-more-serious-than-relational-aggression.md) [+W]
 
 ## Related Elements
 - 

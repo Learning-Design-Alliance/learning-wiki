@@ -17,7 +17,7 @@ sources:
 # Psychology MOOC GT Spring 2013 dataset (OLI, via PSLC DataShop)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A dataset from the 'Psychology MOOC GT - Spring 2013' course, accessed via DataShop (pslcdatashop.org). The course was designed by the Open Learning Initiative (OLI), known for data-driven design, which the authors say ensures skills were properly tagged. It contains data from 5615 students who issued around 2 million first attempt answers, with 226 different skills identified. Skills tagged in fewer than 4 different questions were discarded, leaving 103 skills for training and evaluating the RSS-estimation model.
@@ -39,7 +39,8 @@ A dataset from the 'Psychology MOOC GT - Spring 2013' course, accessed via DataS
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability](../claims/linear-regression-predicts-minimum-rss-bkt-bf.md) [+W]
+- [In a preliminary PCA, RMSE is highly correlated with the slip parameter S, while T and G appear orthogonal to RMSE](../claims/pca-rmse-correlates-slip-orthogonal-t-g.md) [+W]
 
 ## Related Elements
 - 

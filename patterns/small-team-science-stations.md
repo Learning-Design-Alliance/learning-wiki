@@ -17,7 +17,7 @@ sources:
 # Rotating small-team science stations for cooperative inquiry
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Unit 2 organizes inquiry as four hands-on science stations (shaping the zone; water quantity and soils; water quality and plants; land uses) that small teams rotate through. "The group should be divided into 4 or more teams. Team sizes should be small (5 or less)." Stations are set up in advance, clearly marked with titles and Action Guide page numbers, and divided into separate activity areas with materials for each activity. Through science inquiry and cooperative learning, teams explore riparian components and functions.
@@ -38,7 +38,8 @@ Unit 2 organizes inquiry as four hands-on science stations (shaping the zone; wa
 - cooperative investigation of riparian soil, water, vegetation, and land-use processes
 
 ### Claims
-- 
+
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](../claims/pairs-better-than-triads-in-stellar-inquiry.md) [+W]
 
 ## Related Patterns
 

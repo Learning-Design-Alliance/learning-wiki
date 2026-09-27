@@ -12,7 +12,7 @@ generated:
 # Self-Determination Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 5 studies, `q3`–`q4` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 unmarked) · 5 studies, `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.

@@ -17,7 +17,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 8 studies, `q1`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -41,7 +41,13 @@ Spaced repetition is the element in which key material is revisited at strategic
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S]
+- [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+M]
+- [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M]
+- [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+M]
+- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+W]
+- [Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.](../claims/optimal-leitner-schedule-expands-intervals-between-reviews.md) [+W]
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W]
 
 ## Related Elements
 - [Continuous Review](continuous-review.md)

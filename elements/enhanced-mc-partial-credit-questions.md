@@ -17,7 +17,7 @@ sources:
 # Enhanced multiple-choice (EMC) questions with up to ten answers, graded correctness, and partial credit
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 EMC questions are the article's proposed modification of the traditional multiple-choice format for use with computer-based classroom response systems. As the article lists it, 'EMC removes the restriction of limited choices per question' and 'EMC removes the limitation of one 'correct' answer per question', while 'EMC introduces the possibility of awarding partial credit for answers'. The authors developed physics-based EMC questions for wireless keypads in introductory college physics and report that students welcome the partial credit features.
@@ -39,7 +39,7 @@ EMC questions are the article's proposed modification of the traditional multipl
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Computer-based keypad systems permit up to ten alternatives per question and per-answer scoring, unlike optical scanners](../claims/keypad-systems-allow-ten-alternatives-and-per-answer-scoring.md) [+W]
 
 ## Related Elements
 

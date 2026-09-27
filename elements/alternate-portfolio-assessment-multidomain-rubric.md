@@ -17,7 +17,7 @@ sources:
 # Standards-based alternate portfolio assessment with multi-domain scoring rubric
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 An alternate assessment in which student portfolios—a purposeful and systematic collection of student work evaluated against predetermined scoring criteria—document progress toward the same content standards as all students, using alternate learning expectations. Entries span audio and videotapes, photographs, checklists, interviews, surveys, rating scales, and existing records. A focused, holistic, domain scoring rubric scored each entry in performance, appropriateness, and level of assistance domains, with a settings domain scored once per subject area.
@@ -42,7 +42,9 @@ An alternate assessment in which student portfolios—a purposeful and systemati
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](../claims/alternate-portfolio-classification-varies-across-grades.md) [+W]
+- [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](../claims/body-of-work-agreement-rates-71-97.md) [+W]
+- [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](../claims/mean-classification-cut-score-method-robust.md) [+W]
 
 ## Related Elements
 - 

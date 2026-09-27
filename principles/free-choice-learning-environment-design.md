@@ -12,7 +12,7 @@ generated:
 # Free-Choice Learning Environment Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 4 studies, `q1`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Falk and Dierking's research, cited by Ashton, Nelson, and Millward (2018), estimates that only about 5% of a person's lifetime learning occurs in classroom settings — the rest happens across a lifetime in self-selected, informal contexts: museums, hobbies, and everyday exploration. **Free-choice learning environments** are deliberately designed for this reality: they give visitors genuine control over what and how deeply they engage, rather than imposing a fixed sequence or curriculum. This differs in kind from bounded choice inside a fixed curriculum (offering a menu of topics or formats within a course, as in [Learner Choice](learner-choice.md)) — free-choice design assumes no externally imposed sequence or objective at all, and success means visitors can curate a coherent experience entirely of their own.
@@ -42,6 +42,9 @@ Because attendance and engagement are entirely voluntary, with no external accou
 - [Informal Learning](informal-learning.md) [+S] — free-choice learning environments are a concrete institutional embodiment of the same "pulled," self-directed dynamic informal learning theory describes generally
 
 ## Claims
+
+- [Rewards Undermine Intrinsic Motivation](../claims/rewards-undermine-intrinsic-motivation.md) [+M]
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Principles
 - [Learner Choice](learner-choice.md) — a related but distinct concept: bounded choice offered inside an otherwise fixed course, versus free-choice design's assumption of no externally imposed curriculum at all

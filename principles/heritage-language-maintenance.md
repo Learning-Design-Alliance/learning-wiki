@@ -12,7 +12,7 @@ generated:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 4 studies, `q1`–`q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Most children worldwide grow up bilingual or multilingual; the United States is unusual in its relative monolingualism and in schooling practices that sometimes implicitly treat a student's home language as an obstacle to English acquisition rather than an asset. Bilingual proficiency ranges from balanced fluency in both languages to more uneven competence across domains, and many bilingual students in U.S. schools are in the process of losing proficiency in a heritage language while still developing English — a pattern of language attrition that research links to *slower*, not faster, English development: a strong vocabulary base in a first language facilitates rather than competes with acquiring a second (Hansen, Umeda, & McKinney, 2002). Fully proficient bilingual learners also show cognitive advantages in metalinguistic awareness — the ability to reflect on language as an object, not just use it — and in flexibility of concept expression (Jimenez, Garcia, & Pearson, 1995; Francis, 2006).
@@ -46,6 +46,10 @@ Most children worldwide grow up bilingual or multilingual; the United States is 
 - [Constructivism](../theories/constructivism.md) [+M] — bilingual learners construct meaning across, and connect concepts between, multiple language systems
 
 ## Claims
+
+- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](../claims/heritage-language-preservation-supports-english-acquisition.md) [+M]
+- [Preservation of the mother tongue predicts second-language achievement among migrant children](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+W]
+- [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](../claims/l1-maintenance-supports-l2-without-cost.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

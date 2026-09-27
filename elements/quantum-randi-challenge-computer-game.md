@@ -17,7 +17,7 @@ sources:
 # Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The QRC is a computer game that anybody can modify, designed to reject hidden variable models by simply teaching quantum mechanics. Per the article, "there is no bet or interaction with challengers". The present version includes a simulation of true quantum behavior violating Bell 99% of the time, hidden variables violating Bell and CHSH with 50% probability, and ones violating Bell 85% of the time when missing 13% anti-correlation. The challenge is to modify the hidden variables so the predicted quantum behavior, including anti-correlation, arises.
@@ -43,7 +43,12 @@ The QRC is a computer game that anybody can modify, designed to reject hidden va
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation](../claims/cheating-hidden-variables-85-percent-lose-anticorrelation.md) [+W]
+- [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](../claims/anti-correlation-superior-to-chsh-didactically.md) [+W]
+- [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](../claims/qrc-simulation-violates-bell-99-percent-800-pairs.md) [+W]
+- [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](../claims/hidden-variables-violate-bell-50-percent.md) [+W]
+- [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](../claims/classical-indeterminism-model-fails-anticorrelation.md) [+W]
+- [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](../claims/qrc-deployment-terminated-online-debates.md) [+W]
 
 ## Related Elements
 - 

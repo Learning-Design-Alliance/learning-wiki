@@ -14,7 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 against) · 3 studies, `q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.
@@ -36,8 +36,13 @@ Game-Based Mastery Learning is the short-form canonical target for mastery desig
 
 ### Theory
 #### Supporting
+
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
+- [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+
+## Claims
+- [Rewards Undermine Intrinsic Motivation](../claims/rewards-undermine-intrinsic-motivation.md) [-S]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)

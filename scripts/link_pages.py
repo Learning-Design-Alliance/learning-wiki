@@ -280,7 +280,8 @@ def href(src: str, dst: str) -> str:
 
 def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
     """Append `bullet` to the first of `heads` present on the page (any level),
-    replacing an empty template placeholder; else add `## fallback` at the end."""
+    replacing an empty template placeholder; else add `## fallback` before the
+    page's Related/Examples/Key Sources tail, or at the end when it has none."""
     lines = path.read_text(encoding="utf-8").split("\n")
     at = None
     for want in heads:
@@ -288,9 +289,14 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
         if at is not None:
             break
     if at is None:
-        while lines and not lines[-1].strip():
-            lines.pop()
-        lines += ["", f"## {fallback}", "", bullet, ""]
+        tail = next((i for i, l in enumerate(lines) if (m := HEAD_RE.match(l)) and len(m.group(1)) == 2
+                     and (m.group(2).startswith("Related ") or m.group(2) in ("Examples", "Key Sources"))), None)
+        if tail is None:
+            while lines and not lines[-1].strip():
+                lines.pop()
+            lines += ["", f"## {fallback}", "", bullet, ""]
+        else:
+            lines[tail:tail] = [f"## {fallback}", "", bullet, ""]
     else:
         end = next((i for i in range(at + 1, len(lines)) if HEAD_RE.match(lines[i])), len(lines))
         body = [l for l in lines[at + 1:end] if l.strip() not in ("-",)]
@@ -298,7 +304,8 @@ def insert(path: Path, heads: list, bullet: str, fallback: str) -> None:
             body.pop()
         while body and not body[0].strip():
             body.pop(0)
-        lines[at + 1:end] = [""] + body + [bullet, ""]
+        lead = [] if body and body[0].lstrip().startswith("<!--") else [""]
+        lines[at + 1:end] = lead + body + [bullet, ""]
     path.write_text("\n".join(lines), encoding="utf-8")
 
 

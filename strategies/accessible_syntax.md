@@ -12,7 +12,7 @@ generated:
 # Accessible Syntax
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q4` · 0 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies, `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 Accessible syntax is the deliberate adjustment of sentence structure — length, embedding, voice, and connective density — in instructional materials, teacher talk, and learner-facing tasks so that language form does not become an extraneous source of cognitive load. In practice this means simplifying instructor syntax when presenting new content, and scaffolding learner production with sentence starters, frames, and progressively more complex target structures.

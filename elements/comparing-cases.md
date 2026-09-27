@@ -17,7 +17,7 @@ sources:
 # Comparing Cases
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies, `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles. It is useful when the goal is abstraction, discrimination, or transfer beyond a single instance.
@@ -43,7 +43,9 @@ Comparing cases is the element in which learners inspect two or more examples, s
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Comparing Contrasting Cases Improves Learning](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
+- [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- [Multiple Contrasting Cases Support Abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
 
 ## Related Elements
 - [Non-Examples](non-examples.md)

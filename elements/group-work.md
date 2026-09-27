@@ -12,7 +12,7 @@ generated:
 # Group Work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.
@@ -38,7 +38,9 @@ Group work is the element in which learners work together on a shared task, prod
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Well-defined tasks and accessible materials support shared creative influence in group work](../claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) [+W]
+- [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
+- [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
 
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md)

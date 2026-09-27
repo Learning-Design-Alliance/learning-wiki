@@ -12,7 +12,7 @@ generated:
 # Knowledge-Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 5 studies, `q1`–`q2` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them. It is useful when the goal is shared understanding that improves through contribution and revision.
@@ -35,7 +35,9 @@ Knowledge-building is the element in which learners collectively construct, refi
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]
+- [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W]
+- [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](../claims/student-understanding-alternates-between-local-coherences-tickertape.md) [+M]
 
 ## Related Elements
 - [Knowledge-Building Discourse](knowledge-building-discourse.md)

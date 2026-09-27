@@ -17,7 +17,7 @@ sources:
 # Interdisciplinary clue types for basic design studio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article defines a taxonomy of clue types borrowed from different disciplines to serve as design problems in the studio. The article states: "Clues are selected through books-publications, films-short films-cinema, painting, photography, music, dance, other visual arts (exhibitions, installations, video content), graphic design, fashion design, games, living, or inanimate objects." Each clue type carries discipline-specific concepts that form intersection sets with basic design concepts.
@@ -42,7 +42,7 @@ The article defines a taxonomy of clue types borrowed from different disciplines
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students exemplified discovered clues when explaining their designs orally](../claims/students-exemplified-clues-orally.md) [+W]
 
 ## Related Elements
 - 

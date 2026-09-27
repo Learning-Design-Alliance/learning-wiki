@@ -12,7 +12,7 @@ generated:
 # Guided Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 1 of 2 report an effect size
 
 ## Description
 Guided practice is the element in which learners attempt a task with active support before moving to independent work.
@@ -25,7 +25,7 @@ Guided practice is the element in which learners attempt a task with active supp
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Tutoring Effectiveness Comes From Scaffolding And Feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md)

@@ -17,7 +17,7 @@ sources:
 # Flipgrid-based technology-enhanced DCT (TE-DCT) for eliciting nonverbal pragmatic data
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A data-elicitation instrument in which each discourse completion scenario pairs a written description (in the participant's L1) with a 3–5 second video clip showing spatial elements such as "distance to interlocutor, bodily stance, and direction of gaze". Participants download the Flipgrid application, watch each prompt, and video-record their oral responses on their own phones, capturing nonverbal devices. Responses are coded in V-Note software using a feature-based gesture scheme. The article reports it was successful in capturing nonverbal attention-getters in the majority of responses.
@@ -40,7 +40,10 @@ A data-elicitation instrument in which each discourse completion scenario pairs 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Facial expression was the most common nonverbal attention-getting device, and the open hand the most common hand gesture](../claims/facial-expression-most-common-nonverbal-device.md) [+W]
+- [Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios](../claims/te-dct-mobile-captures-nonverbal-attention-getters.md) [+W]
+- [Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used](../claims/scenario-type-no-effect-device-count.md) [+W]
+- [L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups](../claims/l1-l2-nonverbal-device-type-differences.md) [+W]
 
 ## Related Elements
 - 

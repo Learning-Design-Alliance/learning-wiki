@@ -17,7 +17,7 @@ sources:
 # Digital video and Vernier force plates as low-setup measurement tools for dance motion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The course uses two measurement tools: digital video cameras, from which position vs. time data are extracted by hand against a calibrated background, and "force plates from Vernier Software & Technology that are similar to bathroom scales but read force vs. time at 50 readings/second", recorded with a handheld interface. Two plates, one under each foot, provide a safer jumping target and require only adding two data columns.
@@ -41,7 +41,9 @@ The course uses two measurement tools: digital video cameras, from which positio
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](../claims/ma-overlay-net-force-visual-connection-second-law.md) [+W]
+- [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](../claims/two-force-plate-impulse-asymmetry-student-project.md) [+W]
+- [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
 
 ## Related Elements
 - 

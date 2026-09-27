@@ -17,7 +17,7 @@ sources:
 # Precis summary notes placed alongside the basic text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Concise summary notes placed alongside the basic text that explain key concepts, key terminology, and key questions. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," making precis summaries one of the highest-rated aids in the study's student reactions.
@@ -38,7 +38,8 @@ Concise summary notes placed alongside the basic text that explain key concepts,
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](../claims/embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) [+W]
+- [Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.](../claims/students-adjust-easily-to-busier-text-pages.md) [+W]
 
 ## Related Elements
 

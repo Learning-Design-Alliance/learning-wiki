@@ -12,7 +12,7 @@ generated:
 # Learner Choice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Learner choice is the element in which learners are given meaningful options about task, process, product, or pathway.
@@ -25,7 +25,7 @@ Learner choice is the element in which learners are given meaningful options abo
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W]
 
 ## Related Elements
 - [Personalized Pacing](personalized-pacing.md)

@@ -17,7 +17,7 @@ sources:
 # Anchored Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Anchored instruction situates learning around a shared, meaningful scenario or "anchor" that gives learners a concrete context for inquiry, analysis, and problem solving.
@@ -52,7 +52,7 @@ Anchored instruction situates learning around a shared, meaningful scenario or "
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+M]
 
 ## Related Elements
 - [Case Study](case-study.md)

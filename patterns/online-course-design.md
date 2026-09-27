@@ -14,7 +14,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 4 studies, `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 Online learners routinely report a sense of psychological distance or isolation that face-to-face learners do not — Moore (1989) called this **transactional distance** and argued it is reduced by deliberately designing for three types of interaction: **learner-to-learner**, **learner-to-instructor**, and **learner-to-content**. A meta-analysis of 74 distance-education studies confirmed all three types matter for achievement (Bernard et al., 2009).
@@ -48,8 +48,16 @@ Course-design literature converges on a recurring set of moves that build these 
 
 ### Theory
 #### Supporting
+
 - [Community of Inquiry](../principles/community-of-inquiry.md) [+S] — the underlying principle this pattern operationalizes at course scale
 - Moore's transactional distance theory — names the problem (psychological distance) this pattern's interaction design is meant to solve
+- [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](../claims/co-regulation-stronger-presence-relationships-than-self-regulation.md) [+W]
+- [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](../claims/course-template-supports-learner-presence.md) [+W]
+- [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](../claims/mba-students-experience-courses-as-coi.md) [+W]
+- [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](../claims/online-community-requires-conscious-effort.md) [+W]
+- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](../claims/coi-presence-uneven-profile-mba.md) [+W]
+- [A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W]
+- [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](../claims/cognitive-presence-highest-least-variable-online-cbi.md) [+W]
 
 ### Claims
 

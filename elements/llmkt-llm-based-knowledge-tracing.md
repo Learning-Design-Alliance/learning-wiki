@@ -17,7 +17,7 @@ sources:
 # LLMKT: LLM-Based Knowledge Tracing for Dialogues
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 LLMKT is the article's knowledge tracing method: "a novel LLM-based KT method, LLMKT, that leverages the textual content in dialogues, by fine-tuning the open-source Llama 3 LLM" on the KT objective. Given the dialogue up to the target turn and a prompt about one KC, it estimates mastery from the logits of the True and False tokens, averages KC masteries into a correctness prediction, and is trained with binary cross entropy. The article reports that "averaging over KC masteries performed better than taking a product over them", and the authors publicly release their code.
@@ -43,7 +43,9 @@ LLMKT is the article's knowledge tracing method: "a novel LLM-based KT method, L
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [+W]
+- [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](../claims/llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) [+W]
+- [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](../claims/llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) [+W]
 
 ## Related Elements
 - [Adaptive Learning](adaptive-learning.md)

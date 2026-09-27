@@ -17,7 +17,7 @@ sources:
 # Easy Java Simulation one-dimensional collision carts virtual laboratory model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 against) · 1 study, `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 An Easy Java Simulation (EJS) computer model of idealized one-dimensional collision carts, built on Open Source Physics community code and released as a virtual laboratory with a world view and bottom control panel for student-directed inquiry activities. As the author writes, "the two-body collision carts model is simulated by both continuous dynamics and discrete transition, where the system dynamics change discretely and the state values jump when the two carts collide". Collision outcomes are set by a coefficient of restitution, and the model lets students see that total momentum is conserved while kinetic energy loss is zero only for perfectly elastic collisions. The equations are stated to be applicable to other modeling tools such as VPython or Modellus.
@@ -39,7 +39,9 @@ An Easy Java Simulation (EJS) computer model of idealized one-dimensional collis
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](../claims/students-criticize-inquiry-worksheets-low-thinking.md) [-W]
+- [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](../claims/students-report-simulation-lesson-fun-and-concept-figuring.md) [+W]
 
 ## Related Elements
 

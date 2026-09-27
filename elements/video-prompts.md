@@ -12,7 +12,7 @@ generated:
 # Video Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis. They are useful when a brief visual or narrative stimulus can focus learners on a question, problem, or phenomenon.
@@ -35,7 +35,7 @@ Video prompts are short video clips used to launch attention, curiosity, discuss
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W]
 
 ## Related Elements
 - [Gain Attention](gain-attention.md)

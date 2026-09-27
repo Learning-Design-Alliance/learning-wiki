@@ -17,7 +17,7 @@ sources:
 # Map set of Pearce and Garcia attendance zones documenting survey response, support, and respondent ethnicity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A set of six maps supplementing the Fall 2012 telephone survey of the Pearce and Garcia Middle School attendance zones. The maps show "the distribution and density of student households in the two attendance zones, the distribution of responses to the survey questions, as well as the proportion of ethnicities in the surveyed area." Pages cover parent response rate, three single-gender support questions, and percentages of African American and Hispanic respondents by elementary attendance zone.
@@ -38,7 +38,7 @@ A set of six maps supplementing the Fall 2012 telephone survey of the Pearce and
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Parental support for a neighborhood single-gender middle school varied across elementary attendance zones](../claims/parental-support-single-gender-middle-school-varies-by-attendance-zone.md) [+W]
 
 ## Related Elements
 - 

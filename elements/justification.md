@@ -12,7 +12,7 @@ generated:
 # Justification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 3 studies, `q1`–`q2` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence. It is useful when the instructional goal is to strengthen explanation quality rather than only reach an answer.
@@ -35,7 +35,10 @@ Justification is the element in which learners explain why a claim, choice, or s
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Trigg and O'Hear's argument that the justification demand is bogus is mistaken](../claims/trigg-ohear-bogus-demand-argument-rejected.md) [+W]
+- [The demand for a justification of rationality is a legitimate demand, not a bogus one](../claims/demand-for-justification-of-rationality-is-legitimate.md) [+W]
+- [Preschoolers' justifications split between true-constancy and pseudo-constant explanations](../claims/true-versus-pseudo-constancy-justifications-preschoolers.md) [+W]
+- [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](../claims/elementary-students-prefer-mechanistic-explanations.md) [+W]
 
 ## Related Elements
 - [Justification & Argumentation](justification-argumentation.md)

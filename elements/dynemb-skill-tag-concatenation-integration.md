@@ -17,7 +17,7 @@ sources:
 # Skill tag integration scheme: concatenating matrix-factorization question embeddings with one-hot skill tag embeddings, with l1-regularized tag-based initialization
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When manually labeled skill tags are available, DynEmb incorporates them by concatenating the latent question embedding learned via matrix factorization with a one-hot encoding of the question's skill tag, initializing the question embedding from its skill tag's one-hot encoding and adding an l1 regularization to promote sparsity; a fully connected ReLU layer controls the dimensionality of the concatenated embedding. The article says this scheme "enables easy incorporation of additional embeddings/ﬁelds, e.g., semantic embedding from question text", and the StudentDyn component then uses this modified question embedding as before.
@@ -38,7 +38,7 @@ When manually labeled skill tags are available, DynEmb incorporates them by conc
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The learned question embedding aligns with manually labeled skill categories, showing clear clustering of questions by skill in a multidimensional scaling visualization](../claims/dynemb-question-embedding-clusters-by-skill.md) [+W]
 
 ## Related Elements
 - 

@@ -17,7 +17,7 @@ sources:
 # Tracker: free video analysis and modeling tool built on the Open Source Physics Java framework
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Tracker is a "free video analysis and modeling tool built on the Open Source Physics (OSP) Java framework", downloadable from the OSP website or runnable via Webstart. It fits equations (e.g. parabola fits) to video data, displays world views comparing real data with dynamic particle models, and lets students build dynamic models by keying values such as vx and forces. The authors use it for falling-ball and projectile-motion activities and release all workshop materials on a blog for mass adoption.
@@ -40,7 +40,10 @@ Tracker is a "free video analysis and modeling tool built on the Open Source Phy
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Keying a constant-vx dynamic model against real video data helps students make sense of constant x-direction velocity in projectile motion](../claims/tracker-constant-vx-model-activity.md) [+W]
+- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](../claims/tracker-incorrect-fx-model-refutes-x-force.md) [+W]
+- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](../claims/tracker-parabola-fit-derives-gravitational-acceleration.md) [+W]
+- [Using video analysis data to set model parameters yields a more precise model than trial-and-error model building](../claims/data-driven-modeling-more-precise-than-trial-and-error.md) [+W]
 
 ## Related Elements
 

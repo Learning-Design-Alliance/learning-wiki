@@ -17,7 +17,7 @@ sources:
 # Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q4` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Revision should not be just a giver-receiver relationship with the teacher giving information and the student receiving it; instead it should be a collaborative endeavor. The article argues that involving students in revision stimulates engagement, helps them grow into independent learners who can reflect on their development, and may promote revision skills, motivation, and long-term improvement and cognitive change.
@@ -39,7 +39,9 @@ Revision should not be just a giver-receiver relationship with the teacher givin
 - student engagement in revision
 
 ### Claims
-- 
+
+- [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M]
 
 ## Related Principles
 

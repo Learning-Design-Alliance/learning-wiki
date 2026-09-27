@@ -12,7 +12,7 @@ generated:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -42,6 +42,8 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - Builds directly on Shulman's (1986, 1987) construct of Pedagogical Content Knowledge, extending it to include technology as a third interacting domain
 
 ## Claims
+
+- [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](../claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md) [+M]
 
 ## Related Principles
 - [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) — a complementary framework for judging the effect a specific technology choice is having, once a TPACK-informed choice has been made

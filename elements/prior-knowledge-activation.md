@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge Activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 3 studies, `q3` · 1 of 3 report an effect size
 
 ## Description
 Prior knowledge activation is the element in which learners recall, surface, or organize what they already know before engaging with new material. It is useful when new learning depends on connection to existing ideas or experiences.
@@ -36,7 +36,7 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Activation Improves Learning](../claims/activation-improves-learning.md) [+M]
 
 ## Related Elements
 - [Activation](activation.md)

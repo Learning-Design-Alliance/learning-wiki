@@ -17,7 +17,7 @@ sources:
 # Reflective culture assignments: Identity wheel, reflective description, professional development context, past products reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study's data-collection and instructional toolkit comprised four named assignments plus reflective journals, think-aloud protocols, and reflective reading and discussions. The "My identity wheel" activity asked students to draw their identity wheel and how it changed from high school to university; the "Reflective description" assignment described objects used in English classes or daily routine; the "Professional development context" assignment had students examine their professional identity from a distance; and "Past products reflection" asked for a holistic picture of past learning with future implications.
@@ -42,7 +42,9 @@ The study's data-collection and instructional toolkit comprised four named assig
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Metacognitive and reflective instruction through culture exploration was followed by considerable development of English communication competencies and a positive emotional group culture](../claims/ct-metacog-communication-competencies.md) [+W]
+- [Students showed gains in upper-level thought, including transfer of reflective skills to other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
+- [Metacognitive and reflective instruction through culture exploration is associated with increased student engagement in the EFL classroom](../claims/ct-metacog-culture-engagement.md) [+W]
 
 ## Related Elements
 - 

@@ -25,7 +25,7 @@ sources:
 # Peer Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies, `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Peer explanation asks learners to verbalize their reasoning, solution methods, or conceptual understanding to a classmate. The act of articulating forces learners to reconstruct, organize, and monitor their own understanding, while the listener's questions expose gaps the explainer did not know they had.

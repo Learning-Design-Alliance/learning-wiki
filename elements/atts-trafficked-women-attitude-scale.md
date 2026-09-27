@@ -17,7 +17,7 @@ sources:
 # Attitudes Toward Trafficked Women and Sex Trafficking Scale (ATTS)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The ATTS is a modified version of the 29-item APPS in which the first author collaborated with the original developers to reword items with person-first language such as 'human trafficking survivor' and 'sex trafficking'. It retains the APPS's four subscales (PSCV, PSND, PNND, PNCV) measuring attitudes on normative/deviant and choosing/victimized axes. In this study it served as the 'sex trafficking' label condition instrument, completed by 203 licensed counselors.
@@ -39,7 +39,8 @@ The ATTS is a modified version of the 29-item APPS in which the first author col
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](../claims/trafficking-labels-shift-counselor-attitudes-toward-victimization.md) [+W]
+- [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](../claims/lack-of-trafficking-training-linked-stigma-rape-myths.md) [+W]
 
 ## Related Elements
 - 

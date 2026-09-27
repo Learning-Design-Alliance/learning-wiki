@@ -17,7 +17,7 @@ sources:
 # Ames Philosophical Belief Inventory
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 6 claims (6 for) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The Ames Philosophical Belief Inventory is a forced-choice questionnaire measuring five philosophical beliefs: Realism, Idealism, Pragmatism, Existentialism, and Phenomenology. The article describes it as "a forced choice instrument with the possibility ofa range from 0100 in any one philosophical Lelief but witha total score of 250." It was administered to education students at Northern Illinois University to profile their philosophical beliefs and compare groups.
@@ -38,7 +38,12 @@ The Ames Philosophical Belief Inventory is a forced-choice questionnaire measuri
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates](../claims/elementary-grads-realism-up-existentialism-down.md) [+W]
+- [Elementary undergraduates show greater belief in Existentialism than secondary undergraduates](../claims/elementary-undergrads-higher-existentialism.md) [+W]
+- [Secondary education students show significantly higher belief in Realism than elementary education students](../claims/secondary-students-higher-realism-than-elementary.md) [+W]
+- [Several group comparisons show no statistically significant differences in philosophical belief](../claims/null-comparisons-philosophical-beliefs.md) [+W]
+- [Graduates differ from undergraduates across all five philosophical beliefs at the .20 level](../claims/graduates-vs-undergraduates-philosophical-profile.md) [+W]
+- [Elementary education students show higher Phenomenology belief and lower Realism belief than secondary students](../claims/elementary-higher-phenomenology-secondary-higher-realism.md) [+W]
 
 ## Related Elements
 - 

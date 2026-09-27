@@ -17,7 +17,7 @@ sources:
 # Semantic mapping as a pre- and post-reading comprehension technique
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Semantic mapping is a classroom technique for teaching reading comprehension that integrates new information with prior knowledge. Citing Heimlich and Pittelman, the article lists advantages: it "appears to motivate students of all age levels and to involve them actively in the thinking-reading process," integrates thinking with reading, integrates assessment with teaching, and helps teachers judge needed instruction based on what students demonstrate they know. Prior studies cited found semantic mapping groups outscored no-map controls on recall and comprehension tests.
@@ -41,7 +41,8 @@ Semantic mapping is a classroom technique for teaching reading comprehension tha
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](../claims/posttest-omnibus-anova-semantic-mapping-conditions.md) [+W]
+- [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](../claims/interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) [+W]
 
 ## Related Elements
 - 

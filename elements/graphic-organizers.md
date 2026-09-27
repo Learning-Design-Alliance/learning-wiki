@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies, `q1`–`q4` · 4 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Graphic organizers are visual structures that help learners sort, compare, and connect ideas.
@@ -25,7 +25,10 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
+- [Mismatched Graphic Organizers Increase Extraneous Load](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [~M]
+- [Story Mapping Improves Comprehension](../claims/story-mapping-improves-comprehension.md) [+M]
+- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M]
 
 ## Related Elements
 - [Concept Mapping](concept-mapping.md)

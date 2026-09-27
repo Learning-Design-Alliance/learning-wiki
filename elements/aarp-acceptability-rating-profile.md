@@ -17,7 +17,7 @@ sources:
 # Abbreviated Acceptability Rating Profile (AARP)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The AARP is the dependent measure used in this study to quantify treatment acceptability. The article describes it as "an eight item, Likert scaled instrument with a unitary factor structure of acceptability," with scores ranging from 8 to 48 where higher scores indicate greater acceptability (Tarnowski & Simonian, 1992). Participants completed it after reading descriptions of each treatment for the case scenario.
@@ -38,7 +38,7 @@ The AARP is the dependent measure used in this study to quantify treatment accep
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [No significant interaction between age group and treatment type in acceptability ratings](../claims/no-age-by-treatment-interaction-acceptability.md) [~W]
 
 ## Related Elements
 

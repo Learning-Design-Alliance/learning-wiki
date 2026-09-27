@@ -12,7 +12,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 2 studies, `q4` · 1 of 2 report an effect size
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -23,7 +23,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Rewards Undermine Intrinsic Motivation](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

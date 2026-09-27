@@ -17,7 +17,7 @@ sources:
 # Situational thinking styles scale for sixth grade students with computer program package and manual
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The developed instrument is a situational, multiple-choice thinking styles scale covering the five Theory of Mental Self-government dimensions. "The thinking styles scale to be created is in form of situational scale comprising developed questions to cover determined structure of thinking styles," with 2-4 choices per item alternated to prevent guessing. The article is internally inconsistent about final item counts: 12 items per dimension (60 total) were laid out at the design stage, but after item screening the article states 13 question items were kept in each dimension. After quality examination, "the author made the scale with manual in the form of computer program package."
@@ -43,7 +43,9 @@ The developed instrument is a situational, multiple-choice thinking styles scale
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](../claims/thinking-styles-scale-cfa-structural-validity.md) [+W]
+- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](../claims/thinking-styles-scale-reliability-nrm.md) [+W]
+- [Differential item functioning was found in four items across the function, form and level dimensions](../claims/thinking-styles-scale-dif-items.md) [~W]
 
 ## Related Elements
 - 

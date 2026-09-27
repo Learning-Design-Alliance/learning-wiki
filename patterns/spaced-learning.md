@@ -13,7 +13,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 7 claims (7 for) · 7 studies, `q2`–`q4` · 3 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
@@ -23,6 +23,15 @@ Spaced learning is the short-form canonical pattern for distributing study and r
 ### Elements Used
 - [Spaced Repetition](../elements/spaced-repetition.md)
 - [Retrieval Practice](../elements/retrieval-practice.md)
+
+## Claims
+- [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S]
+- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
+- [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M]
+- [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+M]
+- [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M]
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W]
 
 ## Related Patterns
 - [Game-Based Mastery Learning](game-based-mastery-learning.md)

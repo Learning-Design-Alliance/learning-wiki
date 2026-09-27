@@ -13,7 +13,7 @@ grain_size: lesson
 # Inquiry-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
@@ -24,6 +24,12 @@ Inquiry-based learning is the short-form canonical pattern for organizing learni
 - [Inquiry-Based Learning](../elements/inquiry-based-learning.md)
 - [Guided Inquiry](../elements/guided-inquiry.md)
 - [Problem Scenarios](../elements/problem-scenarios.md)
+
+## Claims
+- [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+S]
+- [Guided Discovery Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
+- [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
 
 ## Related Patterns
 - [Collaborative Inquiry](collaborative-inquiry.md)

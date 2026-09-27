@@ -17,7 +17,7 @@ sources:
 # Multilingual Assessment Instrument of Narratives (MAIN) used as a story retell task for bilingual narrative assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 MAIN is a tool "developed to assess narrative production and comprehension skills of children from 3- to 10-years-old," usable as a story tell, retell, or model story. In this study the dog and cat parallel stories were used as retells with 56 children, scored for story structure (17-point scale), structural complexity (3-point system), internal state terms, and comprehension questions, alongside SALT-coded microstructure measures. The authors note it supports ecologically valid identification of language disorders in bilingual children.
@@ -41,7 +41,11 @@ MAIN is a tool "developed to assess narrative production and comprehension skill
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](../claims/episode-one-most-complex-retell-pattern.md) [+W]
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](../claims/macrostructure-stable-across-language-groups.md) [+W]
+- [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](../claims/tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) [~W]
+- [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](../claims/ndw-only-language-group-difference-narrative-microstructure.md) [+W]
+- [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](../claims/bilingual-preschoolers-lowest-microstructure-interactions.md) [~W]
 
 ## Related Elements
 - 

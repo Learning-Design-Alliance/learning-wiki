@@ -12,7 +12,7 @@ generated:
 # Peer Feedback/Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 4 studies, `q2`–`q4` · 3 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 Peer feedback/peer review is the element in which learners evaluate one another's work against criteria and provide revision-oriented feedback.
@@ -35,7 +35,10 @@ Peer feedback/peer review is the element in which learners evaluate one another'
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M]
+- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M]
+- [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+M]
 
 ## Related Elements
 - [Peer Review](peer-review.md)

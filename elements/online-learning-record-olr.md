@@ -17,7 +17,7 @@ sources:
 # Online Learning Record (OLR): a portfolio record integrating classroom activity, assessment, and research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The OLR is described as "a portfolio record integrating classroom activity (teaching and learning), assessment, and research" (Syverson, 1995). It supports self-evaluation by requiring students to interview someone who knows them well, write their own reflection, make observations on class activities, select work samples, and interpret them. It structures evaluation through five dimensions of learning: confidence and independence, knowledge and understanding, skills and strategies, use of prior and emerging experience, and reflection. It also embodies rhetorical concepts, functioning as a written argument for a grade with claim, reasons, and evidence.
@@ -38,7 +38,9 @@ The OLR is described as "a portfolio record integrating classroom activity (teac
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](../claims/contradictions-transform-olr-into-reflection-instrument.md) [+W]
+- [Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress](../claims/olr-conflicts-drive-course-changes.md) [+W]
+- [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](../claims/participation-appropriates-olr-conceptual-underpinnings.md) [+W]
 
 ## Related Elements
 - 

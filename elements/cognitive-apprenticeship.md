@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 4 studies, `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Cognitive apprenticeship is the element in which learners observe expert thinking, practice with coaching, and gradually assume more responsibility.
@@ -23,7 +23,8 @@ Cognitive apprenticeship is the element in which learners observe expert thinkin
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Tutoring Effectiveness Comes From Scaffolding And Feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [+M]
+- [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md) [+W]
 
 ## Related Elements
 - [Modeling](modeling.md)

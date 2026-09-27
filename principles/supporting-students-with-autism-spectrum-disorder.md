@@ -12,7 +12,7 @@ generated:
 # Supporting Students with Autism Spectrum Disorder
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 **Autism spectrum disorder (ASD)** involves early-appearing, functionally impairing disturbances in three domains (APA, 2013): **social interaction** (not initiating conversation, avoiding eye contact, apparent preference for being alone); **communication** (ranging from absent speech to one-word responses, echoed speech, or difficulty reciprocating conversation and reading nonverbal cues like facial expression and gesture); and **repetitive behavior or interests** (stereotyped movements like rocking, marked distress at small changes in routine, or unusually intense, narrowly fixated interests). The "spectrum" qualifier reflects genuinely wide variation in severity — the DSM-5 dropped the earlier separate Asperger's disorder diagnosis (previously described as a milder form, with average-or-higher intelligence and strong vocabulary but social/communication impairment) once research failed to show it differed qualitatively from the broader autism spectrum. ASD is not the same condition as intellectual disability, though the two can co-occur, and the DSM-5 specifies ASD symptoms are not caused or explained by intellectual disability.
@@ -38,6 +38,8 @@ ASD affects an estimated 1 in 88 U.S. children, about 5 times more common in boy
 - Reduced disruption from changes in routine, where predictable structure is itself a support
 
 ## Claims
+
+- [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](../claims/aided-systems-advantage-over-manual-signs.md) [+M]
 
 ## Related Principles
 - [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) — a genuinely distinct condition that can co-occur with ASD but is not implied by it

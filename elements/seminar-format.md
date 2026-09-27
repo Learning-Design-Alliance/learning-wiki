@@ -12,7 +12,7 @@ generated:
 # Seminar Format
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (5 for) · 7 studies, `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Seminar format is the element in which learning is organized around sustained discussion of a shared text, question, or issue with facilitator support but strong learner participation. It is useful when interpretation, reasoning, and dialogue are central.
@@ -35,7 +35,11 @@ Seminar format is the element in which learning is organized around sustained di
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-approaches-improve-comprehension.md) [+S]
+- [Structured Discussion Methods Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- [Discussion Quality Drives Comprehension](../claims/discussion-quality-drives-comprehension.md) [+S]
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
 
 ## Related Elements
 - [Open-Ended Discussion](open-ended-discussion.md)

@@ -17,7 +17,7 @@ sources:
 # Concept/semantic map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 5 studies, `q1`–`q4` · 3 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 A graphic organizer in which concepts are represented as nodes and their relationships as labeled or positional links. In the article it appears as student frame maps and skeletal templates, and can be provided complete as an advance organizer or given partially completed for students to fill in during mapping exercises.
@@ -41,7 +41,10 @@ A graphic organizer in which concepts are represented as nodes and their relatio
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
+- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M]
+- [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [-W]
+- [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
 
 ## Related Elements
 

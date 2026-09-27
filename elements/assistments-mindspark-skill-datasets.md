@@ -17,7 +17,7 @@ sources:
 # Six skill-tagged response datasets from ASSISTments and Mindspark used for model comparison
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The study used "6 datasets across 2 different ITS" — ASSISTments (G6_207, G7_233, G6_217) and Mindspark (PER015, WNO021_57, WNO021_48) — consisting of student correct/incorrect responses to problems tagged by skill. Mindspark is described as an adaptive online tutor for Math and English with 80,000 users across India in grades 1 to 9; ASSISTments supports learning through scaffolding, hints, and immediate feedback. Datasets ranged from 126 to 171 students in the comparison (Table 4).
@@ -39,7 +39,8 @@ The study used "6 datasets across 2 different ITS" — ASSISTments (G6_207, G7_2
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large](../claims/ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data.md) [+W]
+- [No single learner model was best across the six datasets, justifying a broad multi-model approach](../claims/no-single-learner-model-best-across-datasets.md) [+W]
 
 ## Related Elements
 - 

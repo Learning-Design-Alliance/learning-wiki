@@ -17,7 +17,7 @@ sources:
 # Conceptual Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 6 studies, `q2`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently. It is useful when the challenge is conceptual complexity rather than only procedural execution.
@@ -40,7 +40,10 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
+- [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+W]
+- [Multiple Contrasting Cases Support Abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

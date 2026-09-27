@@ -17,7 +17,7 @@ sources:
 # Structured Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies, `q2`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open. It is useful when the goal is to make discussion more equitable, rigorous, and productive.
@@ -46,7 +46,8 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-approaches-improve-comprehension.md) [+M]
+- [Structured Discussion Methods Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md)

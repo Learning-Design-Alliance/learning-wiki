@@ -17,7 +17,7 @@ sources:
 # Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions. The guide specifies that "The instructional tasks within which the district-wide, grade levelassessment will occur should involve situations that will reflect ways in which mathematics is learnedand applied." A checklist maps each activity number to the critical objectives it assesses, and student pages are used at relevant times throughout the project rather than as a single test session.
@@ -37,7 +37,9 @@ The Type 3 assessment is organized as a project unit (a class Field Day, includi
 - Identifying needed information, using problem-solving strategies, skip counting, and developing addition and subtraction concepts from environmental situations
 
 ### Claims
+
 - [Embed Assessment In Ongoing Instruction](../principles/embed-assessment-in-ongoing-instruction.md) [+M]
+- [Project-based learning improves achievement](../claims/project-based-learning-improves-achievement.md) [+M]
 
 ## Related Patterns
 - 

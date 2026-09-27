@@ -17,7 +17,7 @@ sources:
 # GSA coding forms and teaching-behavior profiles for self-analysis of videotaped lessons
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Each GSA manual directs the teacher to code a videotaped lesson on a Coding Form, marking a square each time a categorized behavior occurs, producing a permanent written record of the pattern and frequency of behaviors. In implementation, "he converts his tallied frequencies of specific observed behaviors to simple percentages and graphs," yielding a profile that serves as a visual and quantitative reference for his habitual teaching behavior. Successive profiles can be compared with other teachers' profiles or with the teacher's own earlier profiles, letting teachers map their progress and identify strengths and areas needing change.
@@ -40,7 +40,8 @@ Each GSA manual directs the teacher to code a videotaped lesson on a Coding Form
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](../claims/self-analysis-knowledge-drives-teacher-change.md) [+W]
+- [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](../claims/performance-goal-discrepancy-motivates-teacher-change.md) [+W]
 
 ## Related Elements
 - 

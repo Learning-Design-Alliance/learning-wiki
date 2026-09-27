@@ -21,7 +21,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -50,7 +50,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome](../claims/hint-takers-spend-less-time-than-attempters.md) [~W]
 
 ## Related Elements
 - [Feedback](feedback.md)

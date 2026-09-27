@@ -12,7 +12,7 @@ generated:
 # Review And Summarizing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies, `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Review and summarizing is an instructional element in which learners revisit previously encountered content and condense it — orally, in writing, or graphically — into their own words. It functions both as a consolidation activity, strengthening and reorganizing memory traces, and as a formative check that surfaces misconceptions and gaps for the learner and instructor alike.
@@ -53,7 +53,7 @@ Summarizing is effective because it forces generative processing: learners must 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Summarization Improves Learning](../claims/summarization-improves-learning.md) [+M]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bookend: organizers structure material before learning; summaries consolidate it after

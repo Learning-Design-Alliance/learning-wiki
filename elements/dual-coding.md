@@ -12,7 +12,7 @@ generated:
 # Dual Coding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 5 studies, `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Dual coding is the element in which verbal and visual representations are used together to support understanding and memory.
@@ -25,7 +25,8 @@ Dual coding is the element in which verbal and visual representations are used t
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+S]
+- [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)

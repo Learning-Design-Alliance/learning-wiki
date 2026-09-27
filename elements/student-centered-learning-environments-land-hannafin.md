@@ -17,7 +17,7 @@ sources:
 # Student-centered learning environments
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 3 studies, `q1`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Student-centered learning environments provide "interactive, complimentary activities that enable individuals to address their unique learning interests and needs, examine content at multiple levels of complexity, and deepen understanding." They create multidimensional, ecologically valid systems where students access existing or build new conceptual linkages, using technology to support multiple methods of thinking and learning. The paper frames them as alternatives rooted in assumptions different from traditional instruction.
@@ -43,7 +43,7 @@ Student-centered learning environments provide "interactive, complimentary activ
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Elements
 - 

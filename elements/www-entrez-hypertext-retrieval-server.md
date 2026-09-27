@@ -17,7 +17,7 @@ sources:
 # WWW Entrez: a hypertext web interface to integrated molecular biology literature and sequence databases
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 WWW Entrez is a WWW server interface to NCBI's Entrez retrieval system, which provides "an integrated view of portions of MEDLINE, and all publically available nucleotide and protein databases, including GenBank". It was built from Bourne shell scripts and a C search engine (entrcmd) layered on the NCBI toolbox, supports Boolean queries with inter-database linking and intra-database neighboring, and offers both FORMS-based and non-FORMS interfaces. It serves vt100-class users and links to external web data sources.
@@ -40,7 +40,8 @@ WWW Entrez is a WWW server interface to NCBI's Entrez retrieval system, which pr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Some users prefer a single-form Boolean query interface to the original Entrez interface](../claims/single-form-boolean-query-preferred-by-some-users.md) [+W]
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](../claims/selection-mode-browsing-helps-uncertain-searchers.md) [+W]
 
 ## Related Elements
 - 

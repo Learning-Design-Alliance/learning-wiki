@@ -17,7 +17,7 @@ sources:
 # Index of instructional video styles (Table 2): a sampled classification of existing formats
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents Table 2, an index of instructional video styles compiled by breadth-first random sampling of available videos across major repositories and platforms (e.g., TED, iTunesU, Khan Academy, Udacity, Coursera, MIT OpenCourseware, YouTube, and research prototypes). Each entry carries an index symbol, a screenshot, and nominal coordinates on the two taxonomy dimensions, e.g., "instructor, audience" with animation for TED and "talking-head" with slides for Coursera. The article states: "We performed a breadth-first random sampling of the available instructional video styles, in order to classify them in Table 2 according to two factors: human embodiment and instructional media."
@@ -42,7 +42,7 @@ The article presents Table 2, an index of instructional video styles compiled by
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis](../claims/video-style-research-lacks-consistent-taxonomy.md) [+W]
 
 ## Related Elements
 

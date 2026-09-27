@@ -12,7 +12,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 against) · 2 studies, `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The MOOC combines several earlier innovations — open enrollment, video-based instruction, discussion-forum interaction, and open-content licensing — into a single, free, large-scale online course (Weller, 2018). The earliest MOOCs (Downes and Siemens's open courses in 2008–2009) were built around [Connectivism](../theories/connectivism.md): learning was meant to happen through learners forming and navigating their own network of connections across distributed content and peers, not through a fixed instructor-delivered sequence.
@@ -42,7 +42,12 @@ That original design was largely abandoned once the pattern scaled commercially.
 
 ### Theory
 #### Supporting
+
 - [Connectivism](../theories/connectivism.md) [~M] — the pattern's original design rationale, though largely abandoned in mainstream commercial implementations
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W]
+- [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](../claims/mooc-video-styles-discipline-clusters.md) [+W]
+- [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](../claims/connectivist-principles-positive-effect-achievement.md) [+W]
+
 #### Contradicting / Qualifying
 - [Open Educational Resources (5Rs)](../elements/open-educational-resources.md) — most commercial xMOOC content fails the 5R openness test (no free copying, translation, or redistribution), which Wiley (2014) argues undermines the "open" framing of the pattern's own name
 
@@ -65,6 +70,9 @@ That original design was largely abandoned once the pattern scaled commercially.
 ### Personalization
 - Some platforms allow self-paced progression through pre-recorded content rather than a fixed weekly schedule
 - Discussion forums allow learners to self-select which topics or peer discussions to engage with
+
+## Claims
+- [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](../claims/connectivist-courses-student-agency-problems.md) [-W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

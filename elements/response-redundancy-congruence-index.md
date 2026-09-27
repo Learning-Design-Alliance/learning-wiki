@@ -17,7 +17,7 @@ sources:
 # Response redundancy index of relational congruence based on information theory
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A quantitative index operationalizing relational congruence as patterning in verbal interaction, drawing on Shannon and Weaver's mathematical theory of communication. Entropy (H), maximum entropy (Hmax), and relative entropy (RE = H/Hmax) are computed over joint therapist-client response pairs, and redundancy (R = 1 - RE) serves as the primary index: "the last index of response redundancy served as the primary index response patterning/structure and so of relational congruence/incongruence." In the study it was computed per session for three VRM role dimensions.
@@ -38,6 +38,9 @@ A quantitative index operationalizing relational congruence as patterning in ver
 
 ### Affordances
 - [Interactional Theory Relational Congruence](../theories/interactional-theory-relational-congruence.md)
+
+## Claims
+- [Response redundancy (relational congruence) is not related to working alliance ratings](../claims/redundancy-unrelated-to-working-alliance.md) [-W]
 
 ## Related Elements
 - 

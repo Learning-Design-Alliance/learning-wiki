@@ -13,7 +13,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies, `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.
@@ -24,6 +24,11 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 - [Direct Instruction](../elements/direct-instruction.md)
 - [Modeling](../elements/modeling.md)
 - [Guided Practice](../elements/guided-practice.md)
+
+## Claims
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~W]
+- [Direct instruction improves learning outcomes](../claims/direct-instruction-improves-outcomes.md) [+M]
 
 ## Related Patterns
 - [Explicit Teaching](explicit-teaching.md)

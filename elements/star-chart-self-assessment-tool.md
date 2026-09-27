@@ -17,7 +17,7 @@ sources:
 # STaR Chart: a self-assessment tool for school technology and readiness
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The School Technology and Readiness (STaR) Chart, first released by the CEO Forum in October 1997 and updated in this Year 2 report, is a self-assessment tool that helps K-12 schools chart their readiness to use and integrate technology in teaching and learning. It identifies "a continuum of school profiles, from the 'Low Tech' school (with little or no technology in use) to the 'Target Tech' school (the model for innovative use of education technology)" and profiles professional development practices across content of training, professional development practices, and technology access and usage patterns. Educators have used it for setting benchmarks and goals, applying for grants, determining funding priorities, and creating state assessment tools.
@@ -38,7 +38,7 @@ The School Technology and Readiness (STaR) Chart, first released by the CEO Foru
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections](../claims/star-year2-technology-use-rise.md) [+W]
 
 ## Related Elements
 

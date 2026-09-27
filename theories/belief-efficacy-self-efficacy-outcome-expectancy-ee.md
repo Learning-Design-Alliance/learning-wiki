@@ -16,7 +16,7 @@ sources:
 # Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies, `q2`–`q4` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies, `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The article applies Bandura's (1977) self-efficacy construct to teaching environmental education, defining belief efficacy as comprising two components: "a person's perception of ability to perform the behavior (self-efficacy) and a person's expectation that a specific behavior will result in desirable outcomes (outcome expectancy)." The EEEBI operationalizes these as a Personal EE Teaching Efficacy Belief Scale and an EE Teaching Outcome Expectancy Scale. The article also cites Gibson and Dembo's (1984) prediction that teachers holding both beliefs should persist longer and provide greater academic focus.
