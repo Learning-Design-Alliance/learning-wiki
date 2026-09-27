@@ -36,6 +36,10 @@ Abraham, Stengel, and Welsh (2014) used a Web forum as a tool for facilitating p
 ### Target Learning Goals
 - peer feedback and cultural understanding
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

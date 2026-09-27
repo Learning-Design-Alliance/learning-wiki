@@ -36,6 +36,10 @@ The report identifies two classes of software needed for computer-based automate
 ### Target Learning Goals
 - automated scoring, reporting, and process analysis of assessment data
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](cresst-integrated-assessment-system.md)

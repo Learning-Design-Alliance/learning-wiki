@@ -36,6 +36,10 @@ RELAB (restricted-ELABorated code) is a classroom observation instrument combini
 ### Target Learning Goals
 - describing children's verbal code use (elaborated vs restricted coding) in classroom contexts
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -36,6 +36,10 @@ A series of six AI-generated, faculty-validated revision podcasts, each an 8–1
 ### Target Learning Goals
 - Revision of high-yield Community Medicine topics across recall, application, and analysis cognitive domains
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

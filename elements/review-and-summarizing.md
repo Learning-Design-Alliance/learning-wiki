@@ -51,6 +51,10 @@ Summarizing is effective because it forces generative processing: learners must 
 - [Active Learning](../principles/active-learning.md) — summarizing converts passive exposure (lecture, reading, video) into generative activity, and works as a low-cost active-learning closure routine
 - [Assessment for Learning](../principles/assessment-for-learning.md) — summaries are rapid formative evidence; a one-minute summary at the end of class reveals what stuck and what did not, informing the next session's review
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bookend: organizers structure material before learning; summaries consolidate it after
 - [Annotating](../principles/annotating.md) — a lighter-weight generative activity that can scaffold toward full summarization

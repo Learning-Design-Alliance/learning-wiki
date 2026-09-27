@@ -46,6 +46,10 @@ Video-based reflection is the element in which learners or practitioners review 
 - [Reflection](../principles/reflection.md)
 - [Video-Based Feedback Cycle for Teacher Teams](../strategies/video-based-feedback-cycle-for-teacher-teams.md) — a specific collaborative protocol built around this element for teacher PD
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - (none yet linked)

@@ -51,6 +51,10 @@ Perspective-taking deepens learning when learners must actively construct the ot
 - [Constructivism](../principles/constructivism.md) — learners actively construct and defend a position rather than receive a canonical account, forcing knowledge to be rebuilt from a different starting point
 - [Cognitive Conflict](cognitive-conflict.md) — encountering a defensible opposing view creates the conceptual disequilibrium that drives restructuring of prior beliefs
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Debate](debate.md) — the formalized contest format that operationalizes perspective-taking under time and role constraints
 - [Assigned Positions](assigned-positions.md) — role assignment that forces learners to argue a view they may not hold, the core move of perspective-taking

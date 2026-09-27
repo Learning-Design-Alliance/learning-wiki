@@ -68,6 +68,10 @@ Peer discussion improves conceptual understanding because verbalizing reasoning 
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-designed discussion prompts ask learners to justify, contrast, and evaluate rather than recall, triggering elaborative processing
 - [Constructivism](../principles/constructivism.md) — learners actively build understanding by reconciling their existing conceptions with peers' alternative framings rather than receiving expert knowledge wholesale
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Class Discussion](class-discussion.md) — the whole-group variant; peer discussion is typically nested inside it as a think stage
 - [Collaboration](collaboration.md) — the broader element; peer discussion is the conversational core of collaborative work

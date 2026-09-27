@@ -39,6 +39,10 @@ The Math Story Chart is a teacher-made graphic organizer based on Polya's four-s
 - interpreting the language of word problems
 - checking the reasonableness of answers
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

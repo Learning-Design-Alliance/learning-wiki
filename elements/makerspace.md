@@ -46,6 +46,10 @@ Learning in a makerspace is driven by a learner-centered, self-regulated dynamic
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Constructivism](../theories/constructivism.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Simulations](simulations.md)
 - [Role-Playing](role-playing.md)

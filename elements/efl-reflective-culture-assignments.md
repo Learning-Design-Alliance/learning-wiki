@@ -40,6 +40,10 @@ The study's data-collection and instructional toolkit comprised four named assig
 ### Affordances
 - [Myness Otherness Dialogical Culture Framework](../theories/myness-otherness-dialogical-culture-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

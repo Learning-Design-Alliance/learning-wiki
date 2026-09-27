@@ -39,6 +39,10 @@ The EEEBI is a 5-choice Likert-type instrument ranging from strongly agree to st
 ### Affordances
 - [Belief Efficacy Self Efficacy Outcome Expectancy Ee](../theories/belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

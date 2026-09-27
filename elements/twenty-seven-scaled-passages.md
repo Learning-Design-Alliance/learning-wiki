@@ -36,6 +36,10 @@ A normed corpus of 27 one-paragraph passages (nine narrative, nine factual, nine
 ### Target Learning Goals
 - study of passage attributes in comprehension and recall research
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

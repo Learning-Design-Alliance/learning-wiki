@@ -36,6 +36,10 @@ A questionnaire 'adapted from the validated questionnaire from Morais and Ogden 
 ### Target Learning Goals
 - measuring student perspectives toward global citizenship
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

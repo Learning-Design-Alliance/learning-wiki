@@ -40,6 +40,10 @@ CLASP (Collaborative Learning through Active Sense-making in Physics) is a three
 ### Affordances
 - [Clasp Models Based Organization](../theories/clasp-models-based-organization.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

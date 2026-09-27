@@ -1,0 +1,42 @@
+# Discovery topics for the adult language-learning deep dive (2026-09-29).
+# Chosen from the gaps the Italian A1 usage scenario exposed: adults, self-paced and mobile
+# study, speaking without a teacher, vocabulary and spacing in a second language, motivation
+# and dropout, and the theories second-language acquisition research rests on.
+adult second language acquisition
+adult foreign language learning beginners
+mobile assisted language learning
+language learning app effectiveness
+Duolingo learning outcomes
+gamification foreign language vocabulary
+spaced repetition second language vocabulary
+retrieval practice foreign language vocabulary
+second language vocabulary acquisition intentional learning
+incidental vocabulary learning second language
+self-directed language learning adults
+online language course dropout persistence
+motivation second language L2 motivational self system
+language learning anxiety adults
+willingness to communicate second language
+speaking practice second language without teacher
+automatic speech recognition pronunciation training
+pronunciation instruction second language
+listening comprehension second language instruction
+corrective feedback second language
+recasts second language acquisition
+task-based language teaching
+communicative language teaching effectiveness
+input hypothesis comprehensible input
+interaction hypothesis negotiation of meaning
+output hypothesis second language
+noticing hypothesis second language
+explicit versus implicit grammar instruction second language
+skill acquisition theory second language fluency
+usage-based second language acquisition
+sociocultural theory second language learning
+computer assisted language learning meta-analysis
+extensive reading second language
+multimedia glosses second language vocabulary
+language learning strategies adults
+heritage language learners
+older adult second language learning
+workplace language training immigrants

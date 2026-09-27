@@ -40,6 +40,10 @@ The authors release their model, evaluation and user-study code plus their exper
 ### Affordances
 - [Leitner Queue Network](../theories/leitner-queue-network.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Flashcards](../strategies/flashcards.md)
 

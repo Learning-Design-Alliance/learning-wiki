@@ -39,6 +39,10 @@ eSylvan was a 2001 online learning environment that transformed the Sylvan Learn
 ### Affordances
 - [Bandura Four Requirements Learn Model Behavior](../theories/bandura-four-requirements-learn-model-behavior.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

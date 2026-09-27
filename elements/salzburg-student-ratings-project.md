@@ -36,6 +36,10 @@ The concrete evaluation context used in the article is the project "Student Rati
 ### Target Learning Goals
 - evaluating teaching quality through student ratings
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

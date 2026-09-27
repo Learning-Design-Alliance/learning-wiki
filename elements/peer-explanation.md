@@ -63,6 +63,10 @@ Peer explanation converts passive comprehension into generative processing: expl
 - [Constructivism](../principles/constructivism.md) — verbalizing forces learners to rebuild knowledge in their own words, revealing and resolving inconsistencies between their mental model and the target concept
 - [Metacognition](../principles/metacognition.md) — the anticipation of explaining to a peer prompts self-monitoring during initial study, not just afterward
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Articulation](articulation.md) — the broader element of making thinking explicit; peer explanation is its social form
 - [Coaching](coaching.md) — the listener's probing questions function as peer-level coaching

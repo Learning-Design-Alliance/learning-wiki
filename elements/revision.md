@@ -50,6 +50,10 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Assessment for Learning](../principles/assessment-for-learning.md) — feedback used for revision makes assessment formative rather than merely evaluative
 - [Scaffolding](../principles/scaffolding.md) — instructor feedback functions as temporary external regulation that should fade as learners internalize criteria through [Self-Assessment](self-assessment.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork
 - [Self-Assessment](self-assessment.md) — the internal complement; learners must eventually generate their own feedback

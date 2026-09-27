@@ -49,6 +49,10 @@ Activating prior knowledge improves comprehension and retention because new info
 - [Scaffolding](../principles/scaffolding.md) — recall prompts provide temporary structure that bridges what learners know to what they are about to learn, and can be faded as learners internalize the habit of self-activating
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — [Analogies](analogies.md) are a special case of prior-knowledge recall in which a familiar domain is deliberately mapped onto an unfamiliar one
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Concept Mapping](concept-mapping.md) — a structured format for externalizing and organizing recalled knowledge
 - [Pre-Reading Questioning](pre-reading-questioning.md) — a lightweight activation technique used before text study

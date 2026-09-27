@@ -50,6 +50,10 @@ Epitomes give learners an organizing structure into which subsequent detail can 
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by front-loading structure, the epitome prevents learners from holding unorganized detail in working memory while simultaneously trying to infer how it fits together
 - [Advance Organizers](advance-organizers.md) — the epitome serves as a rich, content-embedded organizer that anchors new detail to an existing framework
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — a leaner sibling; the epitome is a fuller, content-based version of the same function
 - [Conceptual Overviews](conceptual-overviews.md) — the overview form of "present the whole first"

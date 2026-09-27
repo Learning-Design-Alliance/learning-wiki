@@ -36,6 +36,10 @@ The PSRBVBQ is a scenario-based measure built by Bush (2009) and developed by Ha
 ### Target Learning Goals
 - teachers' perceptions of bullying severity and their likelihood of responding to bullies and victims
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

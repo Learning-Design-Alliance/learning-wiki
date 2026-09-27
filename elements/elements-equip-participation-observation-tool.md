@@ -36,6 +36,10 @@ EQUIP is a classroom observation tool that counts relatively low-inference indic
 ### Target Learning Goals
 - equitable participation in whole-class discussion
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

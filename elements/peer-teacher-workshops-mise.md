@@ -39,6 +39,10 @@ Peer Teacher Workshops were week-long, module-based professional development ses
 - Use inquiry-centered curriculum modules effectively
 - Understand common student misconceptions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -37,6 +37,10 @@ Large-scale log data from the Mnemosyne flashcard software, used by the article 
 ### Target Learning Goals
 - Validating memory models of recall as a function of reinforcement and delay
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md)
 

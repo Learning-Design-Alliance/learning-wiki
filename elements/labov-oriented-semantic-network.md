@@ -39,6 +39,10 @@ The oriented semantic network is the second segment, produced when the semantic 
 ### Affordances
 - [Labov Style As Function Of Grammar Theory](../theories/labov-style-as-function-of-grammar-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Grammaticalization component: supplies function words and labeled bracketings that make utterances sound smooth](labov-grammaticalization-component.md)

@@ -49,6 +49,10 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Chunking](../principles/chunking.md) — sequencing determines chunk boundaries, grouping material into learnable units whose order respects prerequisite dependencies
 - [Mastery Learning](../principles/mastery-learning.md) — in cumulative domains, sequencing only works if each level is actually mastered; the two elements are mutually dependent
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — provides the gate that keeps sequencing sound; progression without mastery accumulates gaps
 - [Gradual Release](gradual-release.md) — the responsibility-fading counterpart to content sequencing: support decreases as complexity increases

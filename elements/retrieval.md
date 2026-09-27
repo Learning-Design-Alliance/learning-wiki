@@ -50,6 +50,10 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [Assessment for Learning](../principles/assessment-for-learning.md) — low-stakes retrieval quizzes function simultaneously as learning events and as formative assessment data about what needs reteaching
 - [Spacing](../principles/spacing.md) — retrieval opportunities scheduled at intervals enact spacing; the two effects compound, with spaced retrieval producing the largest durable gains
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — retrieval is the memory-consolidation component of practice; application tasks embed retrieval in use
 - [Feedback](feedback.md) — necessary follow-on so retrieval errors are corrected, not rehearsed

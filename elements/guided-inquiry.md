@@ -35,6 +35,10 @@ Guided inquiry is the element in which learners investigate questions or problem
 - [Scaffolding](../principles/scaffolding.md)
 - [Constructivist Learning](../principles/constructivist-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Guided Discovery](guided-discovery.md)
 - [Structured Questioning](structured-questioning.md)

@@ -44,6 +44,10 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - [Social Learning](../principles/social-learning.md)
 - [Constructivism](../principles/constructivism.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Conceptual Questioning](conceptual-questioning.md)
 - [Class Discussion](class-discussion.md)

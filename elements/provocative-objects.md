@@ -38,6 +38,10 @@ A provocative object is a digital environment (typically a game) designed with f
 ### Affordances
 - [Zones of Mathematical Play](../theories/zones-of-mathematical-play.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - (none yet linked)
 

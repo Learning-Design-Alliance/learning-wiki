@@ -50,6 +50,10 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - Can route learners to more practice, feedback, or challenge
 - Helps instructors manage variation when used transparently
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md)

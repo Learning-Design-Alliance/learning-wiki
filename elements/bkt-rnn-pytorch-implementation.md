@@ -36,6 +36,10 @@ The BKT RNN is a PyTorch recurrent neural network layer whose cell dynamics exac
 ### Target Learning Goals
 - inferring student knowledge states and predicting future performance from practice history
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

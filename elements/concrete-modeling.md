@@ -21,6 +21,10 @@ Concrete modeling is the element in which physical or tangible representations a
 - [Creating Visual Representations](../principles/creating-visual-representations.md)
 - [Dual Coding](../principles/dual-coding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)
 - [Representational Drawing](representational-drawing.md)

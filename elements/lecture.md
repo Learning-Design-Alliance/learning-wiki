@@ -53,6 +53,10 @@ Lectures are effective for introducing frameworks, modeling expert thinking, and
 - [Clear Structure](../principles/clear-structure.md) — lectures reward explicit organization: preview, segment, summarize, and signal transitions so listeners can build a mental outline in real time
 - [Chunking](../principles/chunking.md) — dividing a lecture into discrete segments with pauses aligns with the decay curve of listener attention
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — a framing device that gives listeners a structure to map the lecture onto
 - [Class Discussion](class-discussion.md) — the natural interactive counterweight to one-way presentation

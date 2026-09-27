@@ -38,6 +38,10 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 ### Affordances
 - [Massive Open Online Course (MOOC)](../patterns/massive-open-online-course.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Digital Open Badges](digital-open-badges.md)
 

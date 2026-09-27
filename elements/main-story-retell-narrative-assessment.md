@@ -39,6 +39,10 @@ MAIN is a tool "developed to assess narrative production and comprehension skill
 ### Affordances
 - [Microstructure Experience Macrostructure General Framework](../theories/microstructure-experience-macrostructure-general-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

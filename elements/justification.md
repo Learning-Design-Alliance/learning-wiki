@@ -33,6 +33,10 @@ Justification is the element in which learners explain why a claim, choice, or s
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
 - [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Justification & Argumentation](justification-argumentation.md)
 - [Argumentation](argumentation.md)

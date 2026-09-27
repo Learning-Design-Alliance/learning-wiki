@@ -52,6 +52,10 @@ Decision-making tasks support learning because they require learners to actively
 - [Case-Based Learning](../principles/case-studiescase-based-learning.md) — a case supplies the evidentiary base and constraint set that decision-making requires; the decision point is what converts a case from narrative into analysis
 - [Collaborative Learning](../principles/collaborative-learning.md) — requiring a group to commit to one decision forces negotiation of criteria and surfaces disagreements that individual work hides
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the group variant; negotiation of criteria is the added learning mechanism
 - [Role-Playing](role-playing.md) — assigns stakeholders and interests, giving each decision-maker a distinct evaluative lens

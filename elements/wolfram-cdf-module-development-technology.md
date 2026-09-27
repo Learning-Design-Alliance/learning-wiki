@@ -37,6 +37,10 @@ The Computable Document Format (CDF), designed by Wolfram Research, "takes inter
 ### Target Learning Goals
 - physics and astronomy concepts via interactive parameter exploration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)

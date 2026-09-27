@@ -38,6 +38,10 @@ A graphic organizer is a visual-spatial instructional tool that presents key con
 - Comprehension of expository text
 - Recall of key concepts and their relationships
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

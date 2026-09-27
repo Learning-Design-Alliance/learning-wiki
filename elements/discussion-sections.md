@@ -64,6 +64,10 @@ Discussion sections convert passive exposure into generative engagement; learner
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained dialogue builds the social and cognitive presence needed for deep inquiry
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer-to-peer exchange during discussion lets learners encounter diverse perspectives and co-construct explanations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the facilitation method that keeps discussion probing rather than presentational
 - [Peer Discussion](peer-discussion.md) — the learner-to-learner mode that drives much of the benefit

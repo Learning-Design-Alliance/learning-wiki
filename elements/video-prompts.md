@@ -33,6 +33,10 @@ Video prompts are short video clips used to launch attention, curiosity, discuss
 - [Engagement](../principles/engagement.md)
 - [Cognitive Activation](../principles/cognitive-activation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Gain Attention](gain-attention.md)
 - [Discussion Prompt](discussion-prompt.md)

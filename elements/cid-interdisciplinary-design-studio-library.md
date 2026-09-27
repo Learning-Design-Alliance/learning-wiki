@@ -41,6 +41,10 @@ The Creativity, Innovation, and Design (CID) studio was a space created in a uni
 ### Affordances
 - [Thick Authenticity Four Types Framework](../theories/thick-authenticity-four-types-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

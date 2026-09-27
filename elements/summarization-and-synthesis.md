@@ -50,6 +50,10 @@ Summarization is one of the most consistently supported study strategies, but on
 - [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — a good summary is a reduced-load artifact: learners and instructors can work from a condensed representation instead of the full source
 - [Annotating](../principles/annotating.md) — annotation during reading supplies the raw selections from which a summary is later composed; the two activities chain naturally
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Note-Taking](note-taking.md) — notes are the intermediate record; summarizing converts notes into organized knowledge
 - [Concept Mapping](concept-mapping.md) — a visual form of synthesis that makes relational structure explicit

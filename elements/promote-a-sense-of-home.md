@@ -20,3 +20,7 @@ Promote a sense of home is the element of creating belonging, familiarity, and s
 ## Affordances
 - [Holistic Learning](../principles/holistic-learning.md)
 - [Community-Based Learning](../principles/community-based-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 

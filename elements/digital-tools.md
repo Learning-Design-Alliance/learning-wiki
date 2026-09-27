@@ -33,6 +33,10 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Digital Learning](../principles/digital-learning.md)
 - [Engagement](../principles/engagement.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Digital Learning](digital-learning.md)
 - [Multimedia Learning](multimedia-learning.md)

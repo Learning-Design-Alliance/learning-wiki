@@ -50,6 +50,10 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Collaborative Learning](../principles/collaborative-learning.md) — structured peer interdependence creates repeated, purposeful social contact that builds belonging as a by-product of shared work
 - [Assessment for Learning](../principles/assessment-for-learning.md) — feedback framed as investment in the learner ("I'm giving these comments because I have high expectations") converts assessment from a judgment on fit into a signal of membership
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Check-In](check-in.md) — routine social-emotional temperature-taking that surfaces belonging problems early
 - [Class Discussion](class-discussion.md) — structured participation gives every learner a legitimate voice, a daily signal of membership

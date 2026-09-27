@@ -20,5 +20,9 @@ Public product is the element in which learners create work intended for real au
 ## Affordances
 - [Authentic Audiences/Purposes](../principles/authentic-audiences-purposes.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Public Display](public-display.md)

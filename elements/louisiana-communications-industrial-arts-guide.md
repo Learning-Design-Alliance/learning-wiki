@@ -38,6 +38,10 @@ A tentative state curriculum guide for grades 6-9 implementing career education 
 - Career awareness and tentative career decision-making in the communications cluster
 - Technical abilities and interests exploration in drafting, electricity, graphic arts, and photography
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

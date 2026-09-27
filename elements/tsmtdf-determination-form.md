@@ -36,6 +36,10 @@ The TSMTDF is a researcher-developed form with six open-ended tasks: choose at l
 ### Target Learning Goals
 - classifying science objectives by Bloom's taxonomy and matching strategies, methods, and techniques to objectives
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

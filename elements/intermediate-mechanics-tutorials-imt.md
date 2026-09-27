@@ -36,6 +36,10 @@ The Intermediate Mechanics Tutorials are a curriculum under ongoing development 
 ### Target Learning Goals
 - mathematical reasoning in physics, including solving differential equations and applying boundary conditions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

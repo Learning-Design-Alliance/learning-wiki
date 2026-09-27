@@ -39,6 +39,10 @@ A state standards publication issued by the Wisconsin Department of Public Instr
 ### Affordances
 - [Itl Unified Progression Framework](../theories/itl-unified-progression-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -36,6 +36,10 @@ The Dahmus Method (DM), based on Dahmus's DPPC Method (direct, pure, piece-meal,
 ### Target Learning Goals
 - translating verbal statements into mathematical symbols and solving verbal problems
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Polya Method: a six-step heuristic strategy for solving verbal problems](polya-method-six-step-verbal-problem-strategy.md)

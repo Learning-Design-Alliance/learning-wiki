@@ -68,6 +68,10 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reflective self-assessment lets learners locate gaps themselves, making subsequent feedback actionable rather than merely received
 - [Situated Learning](../theories/situated-learning.md) — reflection-on-action is how lessons from authentic, situated experience become portable knowledge rather than context-bound habit
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - Journaling — the most common written vehicle for structured reflection over time
 - Self-Assessment — reflection directed at evaluating one's own performance against criteria

@@ -50,6 +50,10 @@ Sentence starters lower the barrier to productive academic language, particularl
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — starters make the target register explicit and attainable rather than leaving learners to infer it from exposure alone
 - [Scaffolding](../principles/scaffolding.md) — a sentence starter is a temporary structure that must be faded; the design decision is the fading schedule, not the presence of the frame
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Articulation](articulation.md) — starters are a support for the articulation they are meant to elicit
 - [Coaching](coaching.md) — starters supply the language coaching often models

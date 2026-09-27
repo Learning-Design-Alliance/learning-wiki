@@ -39,6 +39,10 @@ Launched by Google in September 2015, the Google Expeditions Pioneer Program ena
 ### Affordances
 - [Dewey Experiential Learning Vr](../theories/dewey-experiential-learning-vr.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Google Cardboard and smartphone-based VR as an inexpensive classroom VR setup](google-cardboard-low-cost-vr-setup.md)

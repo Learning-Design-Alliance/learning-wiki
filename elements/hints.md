@@ -48,6 +48,10 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Immediate Feedback](../principles/immediate-feedback.md)
 - [Guided Practice](../principles/guided-practice.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md)
 - [Coaching](coaching.md)

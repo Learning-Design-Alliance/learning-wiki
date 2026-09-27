@@ -39,6 +39,10 @@ The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev
 ### Affordances
 - [Framework 35 Metacognitive Behaviors](../theories/framework-35-metacognitive-behaviors.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.)](metacognitive-interview-form-younger-students.md)

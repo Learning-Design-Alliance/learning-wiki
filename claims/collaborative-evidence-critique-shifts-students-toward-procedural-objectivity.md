@@ -25,9 +25,9 @@ sources:
 After a semester of collaboratively critiquing and redesigning flawed psychological studies, introductory psychology students significantly increased their use of disciplinary evidence-evaluation ideals (valid methods, replication, procedural objectivity) and significantly decreased reliance on personal experience and a naive, value-free notion of objectivity — while their evaluation of *lay* evidence sources (source credibility, outlet reliability) did not significantly change.
 
 ## Subclaims
-`q3 i3` The ideal of "valid methods" (whether a study actually measured what it claimed to) rose from 2% to 38% of students' pre/post written evidence evaluations (McNemar's test, p<.001) — a roughly 19-fold increase. [→ Dishon et al. 2024](#dishon-et-al-2024)
+`q3 i2` The ideal of "valid methods" (whether a study actually measured what it claimed to) rose from 2% to 38% of students' pre/post written evidence evaluations (McNemar's test, p<.001) — a roughly 19-fold increase. [→ Dishon et al. 2024](#dishon-et-al-2024)
 
-`q3 i3` Naive appeal to "objectivity" as researcher freedom from bias fell from 41% to 17% of responses (p<.001), while explicit appeal to replication rose from 24% to 55% (p<.001) — consistent with a shift from viewing objectivity as an individual, value-free stance toward viewing it as an emergent property of reliable, replicable procedure. [→ Dishon et al. 2024](#dishon-et-al-2024)
+`q3 i2` Naive appeal to "objectivity" as researcher freedom from bias fell from 41% to 17% of responses (p<.001), while explicit appeal to replication rose from 24% to 55% (p<.001) — consistent with a shift from viewing objectivity as an individual, value-free stance toward viewing it as an emergent property of reliable, replicable procedure. [→ Dishon et al. 2024](#dishon-et-al-2024)
 
 `q3 i2` Reliance on personal coherence (agreement with one's own experience/intuition as a basis for judging a claim) fell from 69% to 52% of responses (p=.005), though about half of students continued to invoke it post-instruction — suggesting students learned to coordinate personal and disciplinary knowledge rather than abandon the former. [→ Dishon et al. 2024](#dishon-et-al-2024)
 

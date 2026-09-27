@@ -50,6 +50,10 @@ Roles improve the quality of collaboration when they distribute *cognitive* work
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by pre-allocating coordination duties, roles free working memory for the task content rather than group logistics
 - [Assessment for Learning](../principles/assessment-for-learning.md) — role-based deliverables make each member's contribution observable, enabling formative feedback on both content and collaboration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the physical/positional counterpart used in whole-class and lab settings
 - [Coaching](coaching.md) — instructor role-monitoring during group work

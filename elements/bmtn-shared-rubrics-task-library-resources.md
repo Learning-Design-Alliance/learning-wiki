@@ -37,6 +37,10 @@ The network developed shared definitions of deep engagement with algebra and rub
 ### Target Learning Goals
 - deep engagement with algebra: connecting, justifying, and solving with depth
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

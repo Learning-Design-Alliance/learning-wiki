@@ -40,6 +40,10 @@ The paper describes Bruffee's sequence of written peer criticism: descriptive (s
 ### Affordances
 - [Social Constructionism In Composition](../theories/social-constructionism-in-composition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Feedback](peer-feedback.md)
 - [Peer Review](peer-review.md)

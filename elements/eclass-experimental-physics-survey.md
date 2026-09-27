@@ -36,6 +36,10 @@ E-CLASS is a pre/post epistemology and expectations survey for undergraduate phy
 ### Target Learning Goals
 - students' epistemology and expectations about experimental physics, including strategies, habits of mind, and attitudes
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -41,6 +41,10 @@ The article annotates each student turn with correctness and KC labels using GPT
 ### Affordances
 - [Dialogue Knowledge Tracing Framework](../theories/dialogue-knowledge-tracing-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Annotating](../principles/annotating.md)
 

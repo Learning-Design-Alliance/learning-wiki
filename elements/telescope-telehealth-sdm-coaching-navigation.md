@@ -36,6 +36,10 @@ The TELESCOPE intervention (TELEhealth Shared decision-making COaching and navig
 ### Target Learning Goals
 - Shared decision-making knowledge and guideline-concordant screening participation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

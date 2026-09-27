@@ -29,7 +29,7 @@ A longitudinal teaching experiment tracing one child's numerical development ove
 
 `q3 i?` Three additional children, tracked with the same method and coding scheme, showed the same qualitative sequence of routine types and vocabulary development despite individual variation in pace, supporting the sequence as a general mechanism rather than an idiosyncrasy of one case. [→ Lavie & Sfard 2019](#lavie-sfard-2019)
 
-`q2 i?` The focal child could count accurately well before using counting to answer a quantity-comparison question — accurate counting alone did not confer quantitative reasoning; only after horizontal bonding (recognizing that counting and estimation answer the same question) did the child spontaneously turn to counting for comparisons, a behavior otherwise reported as rare before ages 5-6. [→ Lavie & Sfard 2019](#lavie-sfard-2019)
+`q3 i?` The focal child could count accurately well before using counting to answer a quantity-comparison question — accurate counting alone did not confer quantitative reasoning; only after horizontal bonding (recognizing that counting and estimation answer the same question) did the child spontaneously turn to counting for comparisons, a behavior otherwise reported as rare before ages 5-6. [→ Lavie & Sfard 2019](#lavie-sfard-2019)
 
 ## Evidence
 

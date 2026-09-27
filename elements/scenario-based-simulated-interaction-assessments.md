@@ -36,6 +36,10 @@ ETS researchers developed technology-based assessments that emulate real interac
 ### Target Learning Goals
 - language proficiency assessment that also promotes learning through virtual interaction
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -39,6 +39,10 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Active Learning](../principles/active-learning.md)
 - [Problem-Based Learning](../principles/problem-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)
 - [Case Study](case-study.md)

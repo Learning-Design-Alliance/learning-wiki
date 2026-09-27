@@ -39,6 +39,10 @@ The study's data-gathering instrument is a semi-structured interview protocol co
 ### Affordances
 - [Mental Models Framework Day Night Cycle](../theories/mental-models-framework-day-night-cycle.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

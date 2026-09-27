@@ -36,6 +36,10 @@ The Polya Method (PM) is a heuristic instructional strategy derived from Polya's
 ### Target Learning Goals
 - solving verbal (word) problems in beginning algebra
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Dahmus DPPC Method: direct, pure, piece-meal, complete translation strategy](dahmus-dppc-translation-method.md)

@@ -38,6 +38,10 @@ The Tutoring Center at Western Washington University uses a model in which "stud
 ### Target Learning Goals
 - General university requirement coursework (mathematics, science, economics) and study skills
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

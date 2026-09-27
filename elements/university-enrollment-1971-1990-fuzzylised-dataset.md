@@ -36,6 +36,10 @@ The article uses real enrollment data for a United States university from 1971 t
 ### Target Learning Goals
 - benchmarking enrollment forecasting methods against actual enrollments
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

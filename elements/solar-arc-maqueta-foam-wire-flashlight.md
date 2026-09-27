@@ -38,6 +38,10 @@ Una maqueta de bajo costo construida con esferas de telgopor, alambres semirríg
 - variación estacional de los arcos solares
 - producción de sombras
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

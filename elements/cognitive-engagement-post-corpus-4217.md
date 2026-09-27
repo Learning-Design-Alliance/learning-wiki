@@ -39,6 +39,10 @@ A dataset of discussion forum posts from fully online graduate-level courses in 
 ### Affordances
 - [Icap Bloom Coding Scheme Discussion Posts](../theories/icap-bloom-coding-scheme-discussion-posts.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

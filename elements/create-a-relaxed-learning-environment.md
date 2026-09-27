@@ -20,5 +20,9 @@ Create a relaxed learning environment is the element of arranging social and phy
 ## Affordances
 - [Holistic Learning](../principles/holistic-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Create a Low-Stress Environment](create-a-low-stress-environment.md)

@@ -36,6 +36,10 @@ Chapter 3 of the report catalogs the available assessment instrumentation for me
 ### Target Learning Goals
 - assessment of emotional state and personal attitudes (affective development)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Bibliography of 29 curriculum materials for affective development](affective-development-curriculum-materials-bibliography.md)

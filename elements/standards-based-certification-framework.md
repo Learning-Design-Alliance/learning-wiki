@@ -36,6 +36,10 @@ The digest explains that the National Board rejected a single general certificat
 ### Target Learning Goals
 - demonstrate content knowledge and pedagogical knowledge appropriate to a specific subject and developmental level
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Performance Based Teacher Certification Assessment](../principles/performance-based-teacher-certification-assessment.md)
 

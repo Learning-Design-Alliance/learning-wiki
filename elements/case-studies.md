@@ -33,6 +33,10 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 - [Case Studies/Case-based Learning](../principles/case-studiescase-based-learning.md)
 - [Constructivist Learning](../principles/constructivist-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case Study](case-study.md)
 - [Problem Scenario](problem-scenario.md)

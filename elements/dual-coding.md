@@ -23,6 +23,10 @@ Dual coding is the element in which verbal and visual representations are used t
 - [Dual Coding](../principles/dual-coding.md)
 - [Dual Coding Theory](../theories/dual-coding-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)
 - [Multimedia Learning](multimedia-learning.md)

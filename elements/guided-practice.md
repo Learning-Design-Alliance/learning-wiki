@@ -23,6 +23,10 @@ Guided practice is the element in which learners attempt a task with active supp
 - [Guided Practice](../principles/guided-practice.md)
 - [Scaffolding](../principles/scaffolding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md)
 - [Immediate Feedback](immediate-feedback.md)

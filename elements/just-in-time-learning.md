@@ -44,6 +44,10 @@ Just-in-time learning is the element in which information, guidance, or resource
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 - [Immediate Feedback](../principles/immediate-feedback.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Just-in-Time Information](just-in-time-information.md)
 - [Hints](hints.md)

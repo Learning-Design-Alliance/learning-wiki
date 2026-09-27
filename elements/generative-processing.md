@@ -50,6 +50,10 @@ Learning improves when learners are prompted to generate content-relevant cognit
 - [Annotating](../principles/annotating.md) — annotation is a lightweight generative act, but only when learners transform (paraphrase, question, connect) rather than copy
 - [Clear Structure](../principles/clear-structure.md) — well-organized presentations lower extraneous load so generative prompts land on meaning rather than confusion
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — retrieval practice is a generative act; generation and retrieval reinforce each other
 - [Advance Organizers](advance-organizers.md) — provide the prior-knowledge scaffold that generative prompts connect to

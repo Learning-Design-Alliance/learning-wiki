@@ -21,5 +21,9 @@ Debriefing is the element in which learners reflect on an activity, simulation, 
 - [Debriefing](../principles/debriefing.md)
 - [Reflection](../principles/reflection.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)

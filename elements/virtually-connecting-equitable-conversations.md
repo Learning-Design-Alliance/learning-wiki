@@ -36,6 +36,10 @@ Virtually Connecting (VC) is "a process-centric, social justice oriented OEP tha
 ### Target Learning Goals
 - equitable access to scholarly conversation and network development
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent](collaborative-web-annotation-marginal-syllabus.md)

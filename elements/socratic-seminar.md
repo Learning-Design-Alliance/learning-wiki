@@ -20,3 +20,7 @@ Socratic seminar is the element in which learners build understanding through te
 ## Affordances
 - [Socratic Seminar](../patterns/socratic-seminar.md)
 - [Peer Discussion](../principles/peer-discussion.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 

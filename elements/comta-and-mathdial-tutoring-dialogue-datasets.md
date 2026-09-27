@@ -38,6 +38,10 @@ The article evaluates dialogueKT on two existing math tutoring dialogue datasets
 ### Target Learning Goals
 - Estimating student knowledge of math knowledge components (Common Core standards) and predicting student response correctness across dialogue turns
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

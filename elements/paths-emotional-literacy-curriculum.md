@@ -42,6 +42,10 @@ PATHS is an experimental-based emotional literacy curriculum initially designed 
 ### Affordances
 - [Abcd Model Paths Foundation](../theories/abcd-model-paths-foundation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

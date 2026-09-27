@@ -37,6 +37,10 @@ The integrated matrix is a framework described as an architectonics of the compe
 ### Target Learning Goals
 - integrating pedagogy and technology in teaching
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Technology Affordances Matrix: entry-point table of technology work forms and their learning opportunities](technology-affordances-matrix-entry-point.md)

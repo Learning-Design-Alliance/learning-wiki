@@ -41,6 +41,10 @@ SLAMs are undergraduate students with prior service-learning experience who serv
 ### Affordances
 - [Critical Service Learning Three Component Model](../theories/critical-service-learning-three-component-model.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

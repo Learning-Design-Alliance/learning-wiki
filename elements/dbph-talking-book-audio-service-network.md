@@ -36,6 +36,10 @@ A national free reading service for blind and physically handicapped readers, au
 ### Target Learning Goals
 - Access to recreational and informational reading through recorded books and magazines
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

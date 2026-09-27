@@ -44,6 +44,10 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Perspective-Taking](../principles/perspective-taking.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md)
 - [Peer Discussion](peer-discussion.md)

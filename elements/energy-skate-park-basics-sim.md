@@ -41,6 +41,10 @@ Energy Skate Park: Basics (ESPB) is a PhET interactive simulation aimed at middl
 ### Affordances
 - [Implicit Scaffolding Framework](../theories/implicit-scaffolding-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

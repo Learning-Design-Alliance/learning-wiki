@@ -38,6 +38,10 @@ Tracker is a "free video analysis and modeling tool built on the Open Source Phy
 - projectile motion
 - understanding of gravitational acceleration and air resistance
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Easy Java Simulation one-dimensional collision carts virtual laboratory model](ejs-1d-collision-carts-simulation.md)

@@ -49,6 +49,10 @@ Reassessment leverages the testing effect a second time: the initial response fu
 - [Active Learning](../principles/active-learning.md) — the revise-and-justify step requires learners to actively reconstruct their reasoning rather than passively receive the correct answer
 - [Constructivism](../principles/constructivism.md) — learners revise their own mental models in light of new evidence rather than overwriting them with transmitted answers
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — the initial response is a low-stakes assessment event; reassessment is its second act
 - [Metacognitive Reflection](metacognitive-reflection.md) — the comparison between first and second answers is a reflection prompt in itself

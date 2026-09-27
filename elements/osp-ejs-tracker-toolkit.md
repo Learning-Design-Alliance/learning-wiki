@@ -36,6 +36,10 @@ Open Source Physics (OSP) focuses on the design of computer models, such as Easy
 ### Target Learning Goals
 - investigating and understanding abstract physics concepts such as kinematics through modeling and video analysis
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Easy Java Simulation one-dimensional collision carts virtual laboratory model](ejs-1d-collision-carts-simulation.md)

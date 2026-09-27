@@ -40,6 +40,10 @@ Care-Giver Primacy is a component the article advances within the CMR model to r
 ### Affordances
 - [Cmr Context Metaphor Relationship Model](../theories/cmr-context-metaphor-relationship-model.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Metaphor anchors for supporting newly admitted youths](metaphor-anchors-admissions.md)

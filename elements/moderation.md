@@ -50,6 +50,10 @@ Well-moderated discussion converts unstructured peer talk into productive [Knowl
 - [Community of Inquiry](../principles/community-of-inquiry.md) — moderation supplies the "teaching presence" that the framework identifies as necessary to sustain social and cognitive presence
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by summarizing, redirecting, and pruning tangents, the moderator keeps working memory focused on the core question
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md) — the task that moderation operates on; prompt quality bounds what moderation can achieve
 - [Peer Interaction](peer-interaction.md) — the raw material moderation shapes into productive discourse

@@ -36,6 +36,10 @@ The ESOS is a structured-observation tool the authors developed to assess teache
 ### Target Learning Goals
 - emotional competence: understanding emotions, reading emotional signals, regulating emotions, understanding consequences of expression
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

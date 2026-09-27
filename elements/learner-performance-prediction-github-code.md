@@ -36,6 +36,10 @@ The article releases its experimental code and links to the nine public benchmar
 ### Target Learning Goals
 - accurate prediction of learner correctness in intelligent tutoring systems
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [EduData and EduKTM Open-Source Knowledge Tracing Libraries](edudata-and-eduktm-libraries.md)

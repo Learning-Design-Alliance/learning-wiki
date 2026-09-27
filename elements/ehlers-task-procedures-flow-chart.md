@@ -36,6 +36,10 @@ The report presents, in Figure III, a systems flow chart of task procedures for 
 ### Target Learning Goals
 - Systematic design of performance-oriented, self-paced instructional materials
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

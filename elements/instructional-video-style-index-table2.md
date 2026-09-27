@@ -40,6 +40,10 @@ The article presents Table 2, an index of instructional video styles compiled by
 ### Affordances
 - [Instructional Video Style Taxonomy Two Dimensions](../theories/instructional-video-style-taxonomy-two-dimensions.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Annotated resource list of books, videos and websites on cognitive learning styles for ELT](cognitive-learning-styles-resource-list.md)

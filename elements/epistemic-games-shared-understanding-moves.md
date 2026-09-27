@@ -49,6 +49,10 @@ These moves are not sequential steps; a team can enter, exit, and re-enter any o
 - [Epistemic Games](../theories/epistemic-games.md)
 - [Collaborative Learning](../principles/collaborative-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - (none yet linked)
 

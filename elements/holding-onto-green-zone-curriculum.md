@@ -39,6 +39,10 @@ A riparian education curriculum for learners in grades 5-8 or youth group member
 - science inquiry and critical thinking skills
 - environmental stewardship of local watersheds
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Zone Notebooks: learner journals for processing, assessment, and sharing](zone-notebooks-journals.md)

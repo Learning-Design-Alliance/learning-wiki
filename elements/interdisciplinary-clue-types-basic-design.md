@@ -40,6 +40,10 @@ The article defines a taxonomy of clue types borrowed from different disciplines
 ### Affordances
 - [Brt Clue Variable Paradigm Shift](../theories/brt-clue-variable-paradigm-shift.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

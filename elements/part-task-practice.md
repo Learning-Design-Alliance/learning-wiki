@@ -50,6 +50,10 @@ Part-task practice reduces the working-memory burden of complex task performance
 - [Deliberate Practice](../principles/deliberate-practice.md) — part-task practice operationalizes deliberate practice by isolating a specific sub-skill and providing immediate feedback against a fluency criterion
 - [Spaced Learning](../principles/spaced-learning.md) — distributing practice sessions exploits the spacing effect to maximize retention per unit of practice time
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — the general case; part-task practice is its automation-focused variant
 - [Fading](fading.md) — part-task practice is typically faded out once fluency criteria are met

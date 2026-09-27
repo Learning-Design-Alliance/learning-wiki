@@ -44,6 +44,10 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - [Worked Examples](../principles/worked-examples.md)
 - [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Worked Examples](worked-examples.md)
 - [Feedback](feedback.md)

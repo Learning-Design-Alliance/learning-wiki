@@ -34,6 +34,10 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 - [Metacognition](../principles/metacognition.md)
 - [Retrieval Practice](../principles/retrieval-practice.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Activation](activation.md)
 - [Concept Mapping](concept-mapping.md)

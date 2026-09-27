@@ -36,6 +36,10 @@ A tabletop Michelson interferometer used as a demonstration supplementing a modi
 ### Target Learning Goals
 - wave interference, interferometer design, and detector sensitivity
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

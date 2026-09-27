@@ -38,6 +38,10 @@ The TPI procedure includes three follow-up instruments developed "in the form of
 - documenting agreements and tasks
 - showing student achievements and learning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [TPI conceptual map with associated resources, published online for navigation](tpi-conceptual-map-artifact.md)

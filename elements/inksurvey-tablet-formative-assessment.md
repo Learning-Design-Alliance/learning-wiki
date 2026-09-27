@@ -36,6 +36,10 @@ InkSurvey is free web-based software used to collect real-time, open-format stud
 ### Target Learning Goals
 - real-time formative assessment and curiosity-driven question generation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [InkSurvey with pen-enabled mobile devices for anonymous real-time electronic brainstorming](inksurvey-pen-enabled-brainstorming.md)

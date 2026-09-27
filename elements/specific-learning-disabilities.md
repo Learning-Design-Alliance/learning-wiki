@@ -43,6 +43,10 @@ Because a specific learning disability affects one narrow academic area rather t
 ### Affordances
 - [Supporting Students with Intellectual Disabilities](../principles/supporting-students-with-intellectual-disabilities.md) — a useful contrast: intellectual disability affects general cognitive/adaptive functioning broadly, while a specific learning disability by definition does not
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 ## Examples

@@ -53,6 +53,10 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — peer [Articulation](articulation.md) and [Reflection](reflection.md) during group work make reasoning visible in the same way expert modeling does, but from near-peers
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — dividing the coordination of a complex task across members reduces individual working-memory burden on high-element-interactivity problems
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaboration](collaboration.md) — the general group-work element; CPS is its problem-anchored form
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the negotiation sub-process groups use to converge on an approach

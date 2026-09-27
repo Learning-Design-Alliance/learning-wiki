@@ -39,6 +39,10 @@ An author-developed inventory that tests the priority order of interaction eleme
 ### Affordances
 - [Interaction Equivalency Theorem](../theories/interaction-equivalency-theorem.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -51,6 +51,10 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the progression from modeling through coaching to independent exploration mirrors the apprenticeship sequence
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — early scaffolds offload task-structuring demands so working memory is spent on the science or reasoning itself
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Guided Discovery](guided-discovery.md) — the intermediate phase; scaffolded inquiry extends guided discovery toward full independence
 - [Coaching](coaching.md) — the instructor stance during the middle phases, providing hints and feedback as learners work

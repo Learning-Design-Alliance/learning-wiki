@@ -39,6 +39,10 @@ A 124-page educator's activity packet developed by a park superintendent for Ham
 - Endangered species and human impact
 - Resource management
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

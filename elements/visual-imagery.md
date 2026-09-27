@@ -49,6 +49,10 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Activation](../principles/activation.md) — asking learners to picture a scene or process draws on prior experience to build the image, connecting new content to existing knowledge structures
 - [Chunking](../principles/chunking.md) — a single integrated image can bind multiple verbal elements into one retrievable unit
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Analogies](analogies.md) — a verbal counterpart to imagery; both map new content onto a familiar structure
 - [Advance Organizers](advance-organizers.md) — often visual-skeletal structures that imagery then fleshes out

@@ -48,6 +48,10 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Feedback Loops](../principles/feedback-loops.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Reflection](reflection.md)
 - [Feedback](feedback.md)

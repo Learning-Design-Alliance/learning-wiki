@@ -36,6 +36,10 @@ The School Technology and Readiness (STaR) Chart, first released by the CEO Foru
 ### Target Learning Goals
 - Assessing and planning school technology integration and professional development
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Institutional benchmarking and career readiness tools built on the framework](ai-acumen-benchmarking-tool.md)

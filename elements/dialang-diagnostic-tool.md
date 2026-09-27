@@ -36,6 +36,10 @@ DIALANG is a free, adaptive diagnostic web-based assessment tool that "provides 
 ### Target Learning Goals
 - Diagnosing L2 English grammar ability and CEFR placement
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

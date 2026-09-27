@@ -36,6 +36,10 @@ LC101 is LaunchCode's flagship alternative STEM pathway: a part-time, evening pr
 ### Target Learning Goals
 - Foundational programming concepts in JavaScript and web application development in Java or C#
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

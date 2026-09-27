@@ -50,6 +50,10 @@ Anchored instruction situates learning around a shared, meaningful scenario or "
 - Supports repeated return to a common reference point
 - Creates a natural bridge between explanation and application
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case Study](case-study.md)
 - [Problem Scenario](problem-scenario.md)

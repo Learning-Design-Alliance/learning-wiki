@@ -40,6 +40,10 @@ An alternate assessment in which student portfolios—a purposeful and systemati
 ### Affordances
 - [Body Of Work Standard Setting Approach](../theories/body-of-work-standard-setting-approach.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

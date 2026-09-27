@@ -49,6 +49,10 @@ Cooperative learning reliably improves achievement when — and largely only whe
 - [Assessment for Learning](../principles/assessment-for-learning.md) — individual checks (quizzes, exit tickets, oral defenses) generate per-learner evidence within a group activity, so collaboration does not obscure who has learned what
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — assigning each member a distinct role or segment distributes the processing demands of a complex task across the group while keeping each member's portion tractable
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Assessment](peer-assessment.md) — a mechanism for making individual contributions visible to the group
 - [Check-In](check-in.md) — lightweight individual status reporting that surfaces who is and is not progressing

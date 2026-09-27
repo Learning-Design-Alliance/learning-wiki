@@ -51,6 +51,10 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a worked model externalizes intermediate steps so learners attend to understanding structure rather than generating solutions from scratch
 - [Worked Examples](../principles/worked-examples.md) — a worked example is modeling applied to problem solving: the expert solution, annotated with reasoning, studied before independent attempt
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; modeling without practice rarely transfers
 - [Think-Aloud](think-aloud.md) — the narration method that makes modeling effective

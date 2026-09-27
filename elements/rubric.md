@@ -50,6 +50,10 @@ Rubrics improve learning primarily by making quality criteria available *before*
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by specifying criteria in advance, rubrics free working memory from inferring expectations, letting learners devote capacity to the work itself
 - [Scaffolding](../principles/scaffolding.md) — rubrics function as temporary external evaluation criteria; as expertise develops, learners internalize the standards and the rubric can fade to a lighter checklist or be dropped
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — the rubric is the instrument that makes performance assessment transparent and consistent
 - [Feedback](feedback.md) — rubric descriptors give feedback a shared vocabulary; feedback that references criteria is more actionable

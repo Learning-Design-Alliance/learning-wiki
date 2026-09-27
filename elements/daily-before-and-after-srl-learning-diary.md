@@ -40,6 +40,10 @@ A daily online learning diary with two sections per learning day. "Before learni
 ### Affordances
 - [Process Model Of Self Regulated Learning Schmitz Wiese](../theories/process-model-of-self-regulated-learning-schmitz-wiese.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Journal_Reflections](../strategies/journal_reflections.md)
 - [Goal Setting](goal-setting.md)

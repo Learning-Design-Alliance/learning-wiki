@@ -39,6 +39,10 @@ The paper identifies scaffolding as a key teaching skill within the ZPD: "Scaffo
 ### Affordances
 - [Zpd Gap Independent Versus Assisted Problem Solving](../theories/zpd-gap-independent-versus-assisted-problem-solving.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

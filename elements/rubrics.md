@@ -23,6 +23,10 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Rubric Design](rubric-design.md)
 - [Criteria Development](criteria-development.md)

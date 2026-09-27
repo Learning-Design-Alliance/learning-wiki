@@ -51,6 +51,10 @@ Structured in-class activities improve exam performance and reduce failure rates
 - [Collaborative Learning](../principles/collaborative-learning.md) — pair and small-group activities structure peer explanation and negotiation, which elicits elaboration
 - [Assessment for Learning](../principles/assessment-for-learning.md) — in-class tasks double as low-stakes formative assessment, surfacing misconceptions the instructor can address immediately
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md) — the social structure most in-class activities run on; peer explanation drives elaboration
 - [Problem-Based Learning](problem-based-learning.md) — an extended activity format organized around an authentic problem

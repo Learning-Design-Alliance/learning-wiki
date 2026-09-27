@@ -33,6 +33,10 @@ Seminar format is the element in which learning is organized around sustained di
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Social Constructivism](../principles/social-constructivism.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Open-Ended Discussion](open-ended-discussion.md)
 - [Structured Discussion](structured-discussion.md)

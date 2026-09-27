@@ -23,6 +23,10 @@ Creating visual representations is the element in which learners externalize und
 - [Creating Visual Representations](../principles/creating-visual-representations.md)
 - [Dual Coding](../principles/dual-coding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Graphic Organizers](graphic-organizers.md)
 - [Concept Mapping](concept-mapping.md)

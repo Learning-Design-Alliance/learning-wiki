@@ -36,6 +36,10 @@ The Uzgiris-Hunt Scales are sequential ordinal assessment instruments for infant
 ### Target Learning Goals
 - sensorimotor and cognitive development, including object permanence, imitation, causality, spatial relations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

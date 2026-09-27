@@ -51,6 +51,10 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 - [Clear Structure](../principles/clear-structure-presentation.md) — lectures impose an expert-authored organization on material, giving learners a coherent schema for otherwise disconnected facts
 - [Advance Organizers](../principles/clear-structure-presentation.md) — the opening of a lecture can supply the framework into which subsequent detail is assimilated
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — pre-lecture readings free lecture time for explanation and application rather than first exposure
 - [Advance Organizers](advance-organizers.md) — framing devices that make lecture content more assimilable

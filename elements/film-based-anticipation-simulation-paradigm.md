@@ -39,6 +39,10 @@ A laboratory paradigm in which an action sequence (e.g., tennis serves) is filme
 ### Affordances
 - [Expert Performance Approach Three Stages](../theories/expert-performance-approach-three-stages.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

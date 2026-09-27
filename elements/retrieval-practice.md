@@ -33,6 +33,10 @@ Retrieval practice is the element in which learners recall information from memo
 - [Retrieval Practice](../principles/retrieval-practice.md)
 - [Memory Consolidation](../principles/memory-consolidation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Self-Testing](self-testing.md)
 - [Spaced Repetition](spaced-repetition.md)

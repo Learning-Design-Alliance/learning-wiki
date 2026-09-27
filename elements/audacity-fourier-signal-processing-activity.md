@@ -36,6 +36,10 @@ A classroom activity in which students used Audacity, an open-source audio editi
 ### Target Learning Goals
 - Fourier analysis, signal processing, detecting low-amplitude coherent signals buried in noise
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

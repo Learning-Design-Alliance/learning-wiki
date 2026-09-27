@@ -50,6 +50,10 @@ ConcepTests convert lecture time into [active learning](../principles/active-lea
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the anonymous vote distribution is real-time formative data that lets the instructor decide whether to move on, discuss, or re-teach
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — restricting each question to one concept keeps the discussion focused on a single schema rather than a multi-step problem that overloads working memory
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Class Discussion](class-discussion.md) — the peer discussion phase is a tightly structured, whole-class-simultaneous variant

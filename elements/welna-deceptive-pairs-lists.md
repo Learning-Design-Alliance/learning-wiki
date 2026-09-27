@@ -37,6 +37,10 @@ The article's core artifact is a representative selection of deceptive pairs org
 ### Target Learning Goals
 - Recognizing and avoiding deceptive cognates in translation and vocabulary use
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

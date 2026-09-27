@@ -36,6 +36,10 @@ The Classroom Organization and Management Program (COMP) is a manualized classro
 ### Target Learning Goals
 - Reducing problem classroom behavior
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

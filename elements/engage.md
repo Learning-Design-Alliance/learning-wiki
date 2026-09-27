@@ -21,5 +21,9 @@ Engage is the element in which instruction opens with an activity or prompt that
 - [Engagement](../principles/engagement.md)
 - [Activation](../principles/activation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Gain Attention](gain-attention.md)

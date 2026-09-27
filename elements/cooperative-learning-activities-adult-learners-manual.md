@@ -36,6 +36,10 @@ A cooperative learning manual developed through the project, containing activiti
 ### Target Learning Goals
 - Reading, writing, speaking, listening, mathematics, and science skills through cooperative learning activities
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

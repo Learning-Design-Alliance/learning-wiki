@@ -39,6 +39,10 @@ A 23-item, 5-point Likert questionnaire in Chinese, formulated on the basis of N
 ### Affordances
 - [Sdt Framework Esp Motivation](../theories/sdt-framework-esp-motivation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Mathematics-Related Beliefs Questionnaire (MRBQ), experimental version with 58 items on a 6-point Likert scale](mrbq-mathematics-related-beliefs-questionnaire.md)

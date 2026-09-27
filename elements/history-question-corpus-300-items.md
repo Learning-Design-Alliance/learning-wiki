@@ -36,6 +36,10 @@ The taxonomy was built from a question corpus assembled in two stages. An initia
 ### Target Learning Goals
 - answering textbook and test questions in history
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

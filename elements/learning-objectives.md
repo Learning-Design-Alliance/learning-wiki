@@ -50,6 +50,10 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a small number of well-chosen objectives tells learners what to prioritize, protecting working memory from irrelevant detail
 - [Scaffolding](../principles/scaffolding.md) — objectives define the trajectory along which support is faded, making the endpoint explicit
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Assessment](assessment.md) — objectives are only meaningful if assessment actually measures them

@@ -37,6 +37,10 @@ The handbook provides two ready-to-use evaluation instruments for cooperative le
 - Self-evaluation of participation and performance
 - Group reflection on collaborative behavior
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -38,6 +38,10 @@ An undergraduate laboratory apparatus combining an adjustable open-cavity HeNe l
 - measurement of the speed of light
 - uncertainty analysis and weighted regression
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

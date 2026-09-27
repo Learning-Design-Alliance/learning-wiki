@@ -37,6 +37,10 @@ The ATTS is a modified version of the 29-item APPS in which the first author col
 ### Target Learning Goals
 - measuring attitudes toward trafficked women and sex trafficking
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

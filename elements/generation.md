@@ -49,6 +49,10 @@ Generation reliably improves retention of the generated material relative to rea
 - [Annotating](../principles/annotating.md) — self-generated annotations, summaries, and margin notes are generation applied to text processing
 - [Activation](../principles/activation.md) — pretesting and prediction tasks are generation forms that activate prior knowledge and create readiness for corrective instruction
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — generation often precedes practice; practice then consolidates what generation constructed
 - [Analogies](analogies.md) — generating one's own analogy is a powerful generative task

@@ -52,6 +52,10 @@ Discussion supports learning primarily when learners are doing generative cognit
 - [Constructivism](../principles/constructivism.md) — learners confront their interpretations against alternatives, creating the [Cognitive Conflict](cognitive-conflict.md) that drives conceptual revision
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-facilitated discussion uses authentic questions and follow-ups that push learners beyond recall toward reasoning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the questioning technique that drives productive discussion
 - [Peer Discussion](peer-discussion.md) — the small-group variant that distributes participation

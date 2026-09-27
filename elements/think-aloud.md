@@ -39,6 +39,10 @@ Think-aloud is the element in which an instructor, peer, or learner verbalizes r
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 - [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md)
 - [Coaching](coaching.md)

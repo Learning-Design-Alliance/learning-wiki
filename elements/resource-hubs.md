@@ -33,6 +33,10 @@ Resource hubs are centralized collections of materials, links, tools, or referen
 - [Knowledge Organization](../principles/knowledge-organization.md)
 - [Self-Regulation](../principles/self-regulation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Task Management](task-management.md)
 - [Digital Learning](digital-learning.md)

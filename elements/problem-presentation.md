@@ -51,6 +51,10 @@ A well-presented problem engages learners in authentic problem-solving by making
 - [Activation](../principles/activation.md) — a well-chosen problem forces learners to retrieve and mobilize prior knowledge before new instruction begins
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the presenter controls complexity, scaffolds, and resource availability, shaping how much of the problem's load learners must carry unaided
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case Study](case-study.md) — a related element that presents an already-analyzed situation; problem presentation differs in that the resolution is unknown and learner-driven
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the questioning process the presented problem is meant to trigger

@@ -38,6 +38,10 @@ The final TPI model is materialized as a conceptual map whose key concepts have 
 - understanding and navigating the online tutoring procedure
 - organizing research project supervision
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Student follow-up instruments: initial card, follow-up card, and work diary](tpi-student-followup-instruments.md)

@@ -42,6 +42,10 @@ Study groups in which teacher-researchers and university-based researchers "disc
 ### Affordances
 - [Funds Of Knowledge](../theories/funds-of-knowledge.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Funds Of Knowledge Teacher Research Model](../patterns/funds-of-knowledge-teacher-research-model.md)
 

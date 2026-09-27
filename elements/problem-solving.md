@@ -33,6 +33,10 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Cognitive Activation](../principles/cognitive-activation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Solution Development](solution-development.md)
 - [Decision-Making](decision-making.md)

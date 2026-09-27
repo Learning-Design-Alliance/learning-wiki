@@ -39,6 +39,10 @@ The article describes a message design theory developed by Seels and colleagues 
 ### Affordances
 - New Directions To Close The Media Isd Gap
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

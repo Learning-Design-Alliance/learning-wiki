@@ -39,6 +39,10 @@ Figural response items are constructed-response items in which "examinees must c
 ### Affordances
 - [Rule Space Model Cognitive Diagnosis](../theories/rule-space-model-cognitive-diagnosis.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Constructed-Response Assessment Items](constructed-response-assessment-items.md)

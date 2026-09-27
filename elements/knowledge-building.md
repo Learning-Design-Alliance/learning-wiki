@@ -33,6 +33,10 @@ Knowledge-building is the element in which learners collectively construct, refi
 - [Social Constructivism](../principles/social-constructivism.md)
 - [Community of Inquiry](../principles/community-of-inquiry.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Knowledge-Building Discourse](knowledge-building-discourse.md)
 - [Reciprocal Teaching](reciprocal-teaching.md)

@@ -36,6 +36,10 @@ The monograph proposes that "Characteristics and composition of the labor forces
 ### Target Learning Goals
 - understanding of the labor force and occupational characteristics to inform youth about work
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

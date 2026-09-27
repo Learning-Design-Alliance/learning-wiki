@@ -36,6 +36,10 @@ A faculty-designed rubric that "makes visible the components of sound instructio
 ### Target Learning Goals
 - pedagogical judgment: interpreting classroom interactions and making responsive instructional decisions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

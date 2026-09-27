@@ -39,6 +39,10 @@ The LoU Chart (Figure 2) displays operational definitions of the eight Levels of
 ### Affordances
 - [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual](lou-focused-branching-interview.md)

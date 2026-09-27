@@ -56,6 +56,10 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 - [Clear Structure and Presentation](../principles/clear-structure-presentation.md) — organizes complex domain knowledge into hierarchical schemas that facilitate long-term retention.
 - [Explicit Instruction of Strategies](../principles/explicit-instruction-math-strategies.md) — makes tacit expert heuristics and reasoning paths visible for novice imitation.
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md) — provides the concrete instance for the abstract principles found in supportive information.
 - [Advance Organizers](advance-organizers.md) — primes the learner's cognitive architecture to receive incoming supportive information.

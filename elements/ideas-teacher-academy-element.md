@@ -39,6 +39,10 @@ The Initiative to Develop Education through Astronomy and Space Science (IDEAS) 
 ### Affordances
 - [Chat Six Element Activity Framework](../theories/chat-six-element-activity-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

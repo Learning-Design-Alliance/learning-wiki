@@ -38,6 +38,10 @@ VoiceThread is a web-based multimedia tool used in this study to deliver three c
 - willingness to communicate
 - spoken interaction in the L2
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

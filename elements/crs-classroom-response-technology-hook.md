@@ -40,6 +40,10 @@ The classroom response system is the technology component of the project's inter
 ### Affordances
 - [Tefa Four Principles Question Cycle](../theories/tefa-four-principles-question-cycle.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

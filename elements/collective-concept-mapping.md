@@ -38,6 +38,10 @@ A group activity in which members pool individual interpretations to construct s
 - shared conceptual understanding
 - negotiation of interpretations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Concept Mapping](concept-mapping.md)

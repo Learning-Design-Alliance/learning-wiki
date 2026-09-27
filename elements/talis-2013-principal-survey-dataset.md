@@ -38,6 +38,10 @@ The study analyzes the TALIS 2013 dataset collected by the OECD, which "provides
 ### Target Learning Goals
 - measuring school-level external and internal control across education systems
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

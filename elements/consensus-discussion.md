@@ -50,6 +50,10 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 - [Community of Inquiry](../principles/community-of-inquiry.md) — consensus tasks generate genuine cognitive disequilibrium and social negotiation, the teaching and social presence conditions this framework identifies as necessary for deep learning
 - [Argumentation](argumentation.md) — reaching consensus requires claims, evidence, warrants, and rebuttals; the discussion format gives argumentation an authentic purpose beyond display
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Debate](debate.md) — the adversarial counterpart; debate sharpens positions that consensus discussion then integrates
 - [Negotiation](negotiation.md) — consensus with stakes and interests; useful when positions carry implicit values or trade-offs

@@ -50,6 +50,10 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — explaining in one's own words forces chunking and reorganization of material into a coherent schema before delivery
 - [Assessment for Learning](../principles/assessment-for-learning.md) — peer questions function as formative assessment for the teacher, surfacing misconceptions in real time
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within
 - [Articulation](articulation.md) — the cognitive process teaching requires; explaining aloud is articulation under social pressure

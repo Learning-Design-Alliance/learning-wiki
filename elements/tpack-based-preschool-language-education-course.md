@@ -36,6 +36,10 @@ A 13-week course integrating the TPACK framework into Preschool Language Educati
 ### Target Learning Goals
 - instructional design competence for preschool language education activities, including TPACK-based technology integration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -23,6 +23,10 @@ Peer instruction is the element in which learners explain, compare, and revise a
 - [Peer Instruction](../patterns/peer-instruction.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Discussion](peer-discussion.md)
 - [Peer Collaboration](peer-collaboration.md)

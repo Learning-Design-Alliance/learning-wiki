@@ -33,6 +33,10 @@ Explicit teaching is the element in which instructors directly explain, model, a
 - [Explicit Instruction](../principles/explicit-instruction.md)
 - [Clear Structure](../principles/clear-structure.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Direct Instruction](direct-instruction.md)
 - [Demonstration](demonstration.md)

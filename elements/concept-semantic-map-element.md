@@ -39,6 +39,10 @@ A graphic organizer in which concepts are represented as nodes and their relatio
 ### Affordances
 - [Semantic Network Theory](../theories/semantic-network-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)

@@ -36,6 +36,10 @@ The Information Studies Taxonomy was developed to organize resources in a digita
 ### Target Learning Goals
 - locating information resources to accomplish tasks related to teaching, learning and research
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

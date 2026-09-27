@@ -39,6 +39,10 @@ The LoU Interview is a focused interview procedure that measures Levels of Use. 
 ### Affordances
 - [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [The LoU Chart: operational definitions of the eight levels across seven categories of user knowledge and activity](lou-chart-seven-categories-operational-definitions.md)

@@ -36,6 +36,10 @@ PeerWise is the technology platform used in this study's interventions. The arti
 ### Target Learning Goals
 - question authoring, peer answering, commenting and rating as formative assessment activity
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

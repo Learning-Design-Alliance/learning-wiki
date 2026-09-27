@@ -36,6 +36,10 @@ The AARP is the dependent measure used in this study to quantify treatment accep
 ### Target Learning Goals
 - rating the acceptability of proposed treatments
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Behavioral Relaxation Training (BRT)](behavioral-relaxation-training-brt.md)

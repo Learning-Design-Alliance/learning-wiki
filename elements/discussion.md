@@ -52,6 +52,10 @@ Discussion improves achievement when it is structured around a clear goal and re
 - [Autonomy](../principles/autonomy.md) — open discussion gives learners voice and ownership over the direction of inquiry, supporting intrinsic motivation
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — discussion framed as deliberation for a real decision or seminar gives talk a purpose beyond performance for the teacher
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Argumentation](argumentation.md) — the claim-evidence-reasoning structure that raises discussion quality
 - [Questioning](../strategies/questioning.md) — the facilitation moves that determine whether discussion elicits reasoning or recall

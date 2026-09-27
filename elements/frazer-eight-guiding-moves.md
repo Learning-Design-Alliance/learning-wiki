@@ -38,6 +38,10 @@ Through interviews and observations, Feiman-Nemser documented the strategies of 
 - connecting practice to theory
 - attending to student thinking
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Guided Practice Four Purposes](../patterns/guided-practice-four-purposes.md)
 

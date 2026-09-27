@@ -50,6 +50,10 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Spacing and Distributed Practice](../principles/spaced-practice.md) — tests are natural spacing events; scheduling retrieval at expanding intervals compounds the testing effect
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — self-testing gives learners accurate feedback on their own state of knowledge, driving better study decisions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — practice testing is the memory-focused subset of practice; both depend on active production rather than review
 - [Feedback](feedback.md) — corrects errors surfaced by retrieval; testing without feedback risks consolidating mistakes

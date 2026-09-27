@@ -239,6 +239,18 @@ def topics_from_wiki() -> list:
     return topics
 
 
+def topics_from_file(path) -> list:
+    """Search topics from a file, one per line; blank lines and lines starting with #
+    are skipped. For a deep dive in one area, where the wiki's own theory and
+    principle titles would spread a batch across every field it already covers."""
+    out = []
+    for line in Path(path).read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and line not in out:
+            out.append(line)
+    return out
+
+
 def _round_robin_counts(topics: list, total: int) -> list:
     """Per-topic result counts summing to ~total, spread evenly across
     however many topics there are, so one broad topic doesn't crowd out a
@@ -722,6 +734,8 @@ def main() -> None:
                               "https://www.kaggle.com/datasets/Cornell-University/arxiv). Omit to "
                               "have it auto-downloaded via kagglehub instead (needs KAGGLE_USERNAME/"
                               "KAGGLE_KEY — see deploy/eval-harness.env.example).")
+    parser.add_argument("--topics-file", default=None,
+                        help="search these topics (one per line) instead of the wiki's theory/principle titles")
     parser.add_argument("--out", default=str(EVAL_ROOT / "corpus" / "manifest_bulk.json"),
                          help="Output manifest path (default: eval/corpus/manifest_bulk.json — "
                               "deliberately NOT manifest.json, so the original 10-article benchmark stays intact)")
@@ -734,11 +748,12 @@ def main() -> None:
     print(f"Excluding {len(existing_ids)} already-known article id(s) "
           f"(benchmark manifest + processed-articles registry).")
 
-    topics = topics_from_wiki()
+    topics = topics_from_file(args.topics_file) if args.topics_file else topics_from_wiki()
     if not topics:
         print("[ERROR] No topics found in theories/ or principles/ — is this running from the wiki root?")
         sys.exit(1)
-    print(f"Seeded {len(topics)} search topics from theories/ + principles/.\n")
+    print(f"Seeded {len(topics)} search topics from "
+          f"{args.topics_file or 'theories/ + principles/'}.\n")
 
     targets = {"pmc": args.pmc, "eric": args.eric}
     manifest = build_manifest(targets, topics, existing_ids, use_cache=not args.refresh_cache)

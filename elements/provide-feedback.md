@@ -49,6 +49,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-targeted feedback reduces unproductive search by telling learners exactly where their model diverges from the target, rather than leaving them to diagnose errors unaided
 - [Active Learning](../principles/active-learning.md) — feedback closes the loop on practice; it converts output into a new learning event by prompting revision, self-explanation, or retry
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assess Performance](assess-performance.md) — assessment generates the information that feedback translates into guidance
 - [Coaching](coaching.md) — the ongoing delivery mode for feedback within guided practice

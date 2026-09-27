@@ -38,6 +38,10 @@ WWW Entrez is a WWW server interface to NCBI's Entrez retrieval system, which pr
 ### Target Learning Goals
 - retrieval of biological literature and sequence data to support experimental work
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

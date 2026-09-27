@@ -51,6 +51,10 @@ Persuasion tasks integrate knowledge by requiring learners to select, organize, 
 - [Constructivism](../principles/constructivism.md) — defending a position against live counterargument forces learners to reconstruct and test their understanding rather than retrieve it verbatim
 - [Argumentation](argumentation.md) — persuasion is argumentation with an added audience dimension; strong persuasive tasks inherit the claim–evidence–warrant structure of argumentation frameworks
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Argumentation](argumentation.md) — the reasoning backbone; persuasion without argumentation is mere assertion
 - [Class Discussion](class-discussion.md) — the broader interactional format persuasion episodes occur within

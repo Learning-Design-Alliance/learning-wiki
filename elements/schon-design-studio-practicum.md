@@ -43,6 +43,10 @@ The paper describes Schon's ideal learning environment, the practicum, in which 
 ### Affordances
 - [Schon Knowing In Action Reflection](../theories/schon-knowing-in-action-reflection.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

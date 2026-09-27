@@ -37,6 +37,10 @@ Developing Talkers is a supplemental academic language curriculum for pre-k and 
 ### Target Learning Goals
 - Academic language skills including sophisticated vocabulary and inferential language
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -36,6 +36,10 @@ The article defines the traditional multiple-choice test item as consisting 'of 
 ### Target Learning Goals
 - assessing students' learning efficiently over large numbers of students and many disciplines
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Enhanced multiple-choice (EMC) questions with up to ten answers, graded correctness, and partial credit](enhanced-mc-partial-credit-questions.md)

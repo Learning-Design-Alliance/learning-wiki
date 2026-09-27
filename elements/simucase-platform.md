@@ -39,6 +39,10 @@ Simucase is a computer-based simulation platform that "allows students to comple
 - case-history and collaboration skills
 - diagnostic reasoning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

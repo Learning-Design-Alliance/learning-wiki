@@ -41,6 +41,10 @@ The survey's authors released two open-source algorithm libraries: "EduData that
 ### Affordances
 - [Knowledge Tracing Model Taxonomy](../theories/knowledge-tracing-model-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Knowledge Tracing Learner Modeling Task](../theories/knowledge-tracing-learner-modeling-task.md)

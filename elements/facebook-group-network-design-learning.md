@@ -40,6 +40,10 @@ A network of five student-created and managed Facebook groups (three cohort-base
 - professional community building
 - peer critique and advice
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

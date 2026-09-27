@@ -36,6 +36,10 @@ A multivariate statistical technique (Wilks method) used to identify variables t
 ### Target Learning Goals
 - Identification of variables and dimensions discriminating among outcome groups
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

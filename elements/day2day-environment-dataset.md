@@ -40,6 +40,10 @@ The Day2Day Environment dataset is a dense longitudinal, multimodal dataset coll
 - Understanding how day-to-day environmental variability relates to brain structure, function, cognition, and affect
 - Estimating baseline within-person variability and reliability of MRI measures
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

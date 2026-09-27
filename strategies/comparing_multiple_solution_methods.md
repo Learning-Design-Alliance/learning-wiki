@@ -19,7 +19,7 @@ Learners compare and contrast multiple solution methods for the same problem, pr
 
 ## Design Implications
 
-Comparison is a powerful learning mechanism because it directs attention to deep structural features rather than surface procedures [Comparing multiple solution methods improves procedural flexibility and conceptual knowledge.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Side-by-side presentation is essential: studying methods sequentially forces learners to reconstruct the first method from memory, weakening the comparison [Comparing multiple solution methods improves procedural flexibility and conceptual knowledge.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Comparisons should be scaffolded with specific prompts ("Which method is more efficient here? Why?") — unguided comparison often fixates on surface features instead of underlying principles.
+Comparison is a powerful learning mechanism because it directs attention to deep structural features rather than surface procedures [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Side-by-side presentation is essential: studying methods sequentially forces learners to reconstruct the first method from memory, weakening the comparison [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Comparisons should be scaffolded with specific prompts ("Which method is more efficient here? Why?") — unguided comparison often fixates on surface features instead of underlying principles.
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Comparison is a powerful learning mechanism because it directs attention to deep
 ### Target Learning Goals
 - Procedural flexibility: knowing multiple methods and selecting appropriately among them [+M]
 - Conceptual knowledge: understanding *why* methods work and what features of the problem they exploit [+M]
-- Transfer: recognizing when a familiar method applies to structurally novel problems [Comparing multiple solution methods improves procedural flexibility and conceptual knowledge.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
+- Transfer: recognizing when a familiar method applies to structurally novel problems [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Select a target problem with at least two genuinely distinct, correct solution methods.

@@ -38,6 +38,10 @@ Beyond its four funding tools, EDA supported capacity-building activities for re
 ### Target Learning Goals
 - industrial development knowledge and skills
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

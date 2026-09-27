@@ -33,6 +33,10 @@ Observation/shadowing is the element in which learners watch practice in context
 - [Observation/Shadowing](../principles/observationshadowing.md)
 - [Metacognition](../principles/metacognition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Observation](observation.md)
 - [Demonstration](demonstration.md)

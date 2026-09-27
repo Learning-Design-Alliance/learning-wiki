@@ -50,6 +50,10 @@ Analogies support comprehension by letting learners import a known relational st
 - [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — a well-chosen analogy compresses a complex system into a familiar schema, freeing working memory for the genuinely new relations [Chunking familiar structure reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Cognitive Activation](../principles/cognitive-activation.md) — activation prompts require learners to retrieve and examine what they know, engaging deep processing before new content arrives
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Analogies](analogies.md) — the comparison mechanism itself, without the activation component
 - [Activation](activation.md) — the retrieval component, usable without an analogy

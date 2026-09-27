@@ -49,6 +49,10 @@ Expert groups promote deep processing because preparing to teach forces learners
 - [Constructivism](../principles/constructivism.md) — learners actively construct understanding by reorganizing source material into teachable form, consistent with social constructivist accounts of knowledge building through explanation
 - Distributed cognition — the structure distributes a knowledge domain across group members, so the group collectively knows more than any individual, and learning requires integrating distributed pieces
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaboration](collaboration.md) — the general element expert groups formalize with role-based expertise
 - [Articulation](articulation.md) — the teaching phase requires learners to verbalize their understanding

@@ -49,6 +49,10 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Attention](attention.md) — exercise breaks directly serve attention as an element by resetting the attentional resource that depletes across sustained instruction
 - [Active Learning](../principles/active-learning.md) — when break content is tied to material (movement-based retrieval, acting out concepts), the break doubles as retrieval practice rather than pure recovery
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone
 - [Chunking](../principles/chunking.md) — segmenting content into blocks creates the natural boundaries where breaks belong

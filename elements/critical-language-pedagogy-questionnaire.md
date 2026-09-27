@@ -36,6 +36,10 @@ The researchers developed a Critical Language Pedagogy questionnaire from a revi
 ### Target Learning Goals
 - Measuring teachers' beliefs and awareness of critical language pedagogy principles and practices
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](sdt-esp-motivation-questionnaire.md)

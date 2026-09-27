@@ -23,6 +23,10 @@ Learner choice is the element in which learners are given meaningful options abo
 - [Learner Choice](../principles/learner-choice.md)
 - [Self-Determination Theory](../principles/self-determination-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Personalized Pacing](personalized-pacing.md)
 - [Self-Assessment](self-assessment.md)

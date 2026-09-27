@@ -50,6 +50,10 @@ Conceptual questions work because generating an answer requires learners to elab
 - [Active Learning](../principles/active-learning.md) — every learner must generate an answer, not merely receive one; the question converts passive listening into retrieval and elaboration
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-placed questions create the productive struggle and cognitive conflict that predict deep learning outcomes
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, sequential form of conceptual questioning that probes assumptions and implications
 - [Peer Discussion](peer-discussion.md) — the standard mechanism for having learners compare and defend answers

@@ -40,6 +40,10 @@ Adapted from choreographer Liz Lerman's Critical Response Process, a listening p
 ### Affordances
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md) — valuing whatever mode of expression a learner brings treats their existing cultural and creative repertoire as a resource
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Embodied Choreographic Assessment](embodied-choreographic-assessment.md) — a more extended, iterative version of multimodal formative assessment from the same study
 

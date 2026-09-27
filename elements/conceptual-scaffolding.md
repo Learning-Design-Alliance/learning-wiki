@@ -38,6 +38,10 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 - [Scaffolding](../principles/scaffolding.md)
 - [Constructivist Learning](../principles/constructivist-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)
 - [Simple-to-Complex Sequencing](simple-to-complex-sequencing.md)

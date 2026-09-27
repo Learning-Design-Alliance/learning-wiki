@@ -51,6 +51,10 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — instructor modeling of expert evaluation moves (lateral reading, source triangulation) makes invisible disciplinary judgments observable before learners attempt their own
 - [Active Learning](../principles/active-learning.md) — learners produce verdicts and justifications rather than receiving a list of approved sources
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Research](research.md) — evaluation is the filtering stage within a research cycle
 - [Criteria Development](criteria-development.md) — co-constructing rubrics makes evaluation criteria explicit and owned by learners

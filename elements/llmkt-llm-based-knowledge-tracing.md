@@ -41,6 +41,10 @@ LLMKT is the article's knowledge tracing method: "a novel LLM-based KT method, L
 ### Affordances
 - [Dialogue Knowledge Tracing Framework](../theories/dialogue-knowledge-tracing-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Adaptive Learning](adaptive-learning.md)
 

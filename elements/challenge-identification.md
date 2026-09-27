@@ -20,5 +20,9 @@ Challenge identification is the element in which learners or instructors surface
 ## Affordances
 - [Problem-Based Learning](../principles/problem-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem Scenarios](problem-scenarios.md)

@@ -64,6 +64,10 @@ Solution development strengthens analytical reasoning by requiring learners to i
 - [Active Learning](../principles/active-learning.md) — learners produce an artifact and defend it, converting passive exposure into generative work
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — solutions gain meaning when presented to real or realistic stakeholders who evaluate them
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case-Based Learning](case-based-learning.md) — cases supply the authentic problem context from which solutions are developed
 - [Decision-Making](decision-making.md) — choosing among candidate solutions is the core cognitive move in this element

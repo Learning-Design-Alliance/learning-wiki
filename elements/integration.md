@@ -50,6 +50,10 @@ Integration activities convert learning from an isolated instructional event int
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the integration phase is where learners set future goals and adjust strategies, closing the self-regulation cycle of forethought, performance, and reflection
 - [Activation](../principles/activation.md) — integration re-activates prior knowledge on the way out of instruction, strengthening the links between new and existing schemas
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Reflection Activities](reflection-activities.md) — the primary vehicle for integration; structured prompts turn experience into learning
 - [Case-Based Learning](case-based-learning.md) — cases give learners concrete situations to connect new knowledge to

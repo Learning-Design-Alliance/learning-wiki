@@ -39,6 +39,10 @@ The SoCQ is a Likert-type instrument developed to measure the seven hypothesized
 ### Affordances
 - [Seven Stages Of Concern Innovation](../theories/seven-stages-of-concern-innovation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Stages of Concern Questionnaire (SoCQ)](stages-of-concern-questionnaire-socq.md)

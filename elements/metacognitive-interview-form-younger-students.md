@@ -36,6 +36,10 @@ The Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.) is 
 ### Target Learning Goals
 - assessing metacognitive strategy awareness during reading
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev. ed.)](metacognitive-interview-form-ncrel.md)

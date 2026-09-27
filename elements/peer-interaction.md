@@ -50,6 +50,10 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Active Learning](../principles/active-learning.md) — peer formats (think-pair-share, peer instruction) convert passive listening into generative activity, with consistent positive effects on achievement [~S]
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — exposure to peers' conflicting ideas creates the conceptual conflict that drives accommodation and deeper processing
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the strongest form of peer interaction; explaining to a peer forces the elaboration that produces learning
 - [Group Work](group-work.md) — the task-structured container for peer interaction

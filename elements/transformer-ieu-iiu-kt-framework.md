@@ -36,6 +36,10 @@ A deep knowledge tracing framework for the ASSISTments dataset that predicts stu
 ### Target Learning Goals
 - Predicting student performance on end-of-unit mathematics test problems from clickstream process data
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

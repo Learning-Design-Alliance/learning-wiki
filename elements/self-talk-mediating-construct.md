@@ -39,6 +39,10 @@ Self-talk is the internal verbalization by which students perceive, interpret, a
 ### Affordances
 - [Internal Mediation Model Teacher Statements](../theories/internal-mediation-model-teacher-statements.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Significant Others Statements Inventory (SOSI)](significant-others-statements-inventory.md)

@@ -10,7 +10,7 @@ sources:
     resource: "https://doi.org/10.1146/annurev-psych-010416-044022"
     title: "Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)"
     author: Metcalfe, J.
-    q: 4
+    q: 2
     i: "?"
     n: N/A
   - id: fazio-marsh-2009
@@ -27,12 +27,12 @@ evidence_strength: strong
 # High-confidence errors lead to better retention after correction than low-confidence errors.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4`
+> **Evidence** · 2 studies · `q2`–`q3`
 
 The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.
 
 ## Subclaims
-`q4 i?` Correcting high-confidence errors leads to superior long-term retention of the correct information compared to correcting low-confidence errors. [→ Metcalfe 2017](#metcalfe-2017)
+`q2 i?` Correcting high-confidence errors leads to superior long-term retention of the correct information compared to correcting low-confidence errors. [→ Metcalfe 2017](#metcalfe-2017)
 `q3 i?` The surprise of being wrong triggers deeper attention and memory reconsolidation for high-confidence errors. [→ Fazio & Marsh 2009](#fazio-marsh-2009)
 
 ## Evidence
@@ -43,7 +43,7 @@ Primary evidence link: https://doi.org/10.1146/annurev-psych-010416-044022
 
 Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
 
-`q4 · peer-reviewed theoretical synthesis` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
+`q2 · narrative review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
 
 This comprehensive review synthesizes decades of research on learning from errors. It identifies the hypercorrection effect as a robust finding across multiple domains and age groups, highlighting the importance of generating answers (even if wrong) and receiving immediate corrective feedback.
 

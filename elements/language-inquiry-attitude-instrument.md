@@ -39,6 +39,10 @@ The Language Inquiry is a collection of 100 statements about attitudes toward la
 - awareness of attitudes and concepts about language
 - alignment of language attitudes with current expert thought
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

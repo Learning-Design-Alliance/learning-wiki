@@ -37,6 +37,10 @@ The study used "6 datasets across 2 different ITS" — ASSISTments (G6_207, G7_2
 ### Target Learning Goals
 - Modelling student learning across practice problems for adaptive learning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -42,6 +42,10 @@ The project developed and tested tools for four types of mediation: epistemic me
 ### Affordances
 - [Trialogical Learning Framework](../theories/trialogical-learning-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Knowledge Practices Environment (KPE): a platform for object-centred collaborative knowledge creation](knowledge-practices-environment-kpe.md)

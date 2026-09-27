@@ -39,6 +39,10 @@ A five-level scheme for grading simultaneous-equation problems by the number of 
 ### Affordances
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)
 

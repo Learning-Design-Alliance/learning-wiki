@@ -34,6 +34,10 @@ Pre-reading activities are tasks completed before reading in order to activate p
 - [Retrieval Practice](../principles/retrieval-practice.md)
 - [Pre-Reading Questioning](../principles/pre-reading-questioning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)
 - [Assigned Readings](assigned-readings.md)

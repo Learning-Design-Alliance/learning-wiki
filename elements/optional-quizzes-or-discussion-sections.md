@@ -50,6 +50,10 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - [Active Learning](../principles/active-learning.md) — discussion sections convert lecture content into generative activity (arguing, explaining, applying) rather than re-exposure
 - [Spaced Practice](../principles/spaced-practice.md) — scheduling optional quizzes across the term, rather than clustering them before exams, converts them into spaced retrieval events
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the feedback function these activities serve; without feedback they are practice without correction
 - [Self-Testing](self-testing.md) — the individual, self-directed form of the quiz component

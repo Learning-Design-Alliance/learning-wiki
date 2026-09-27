@@ -37,6 +37,10 @@ EMC questions are the article's proposed modification of the traditional multipl
 - probing conceptual understanding at higher Bloom's cognitive levels
 - formative and summative assessment of student learning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Traditional multiple-choice test item structure: stem, alternatives, and plausible distractors](traditional-mc-item-stem-alternatives-distractors.md)

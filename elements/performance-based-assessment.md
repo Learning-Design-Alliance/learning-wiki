@@ -39,6 +39,10 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Competency-Based Assessment](../principles/competency-based-assessment.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Summative Assessment](summative-assessment.md)

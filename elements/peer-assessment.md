@@ -38,6 +38,10 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
 - [Metacognition](../principles/metacognition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Review](peer-review.md)
 - [Criteria Development](criteria-development.md)

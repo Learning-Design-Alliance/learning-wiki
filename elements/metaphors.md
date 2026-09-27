@@ -34,6 +34,10 @@ Metaphors are explanatory comparisons that map a less familiar concept onto a mo
 - [Analogical Reasoning](../principles/analogical-reasoning.md)
 - [Metaphors & Analogies](../principles/metaphors-analogies.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Analogies](analogies.md)
 - [Dual Coding](dual-coding.md)

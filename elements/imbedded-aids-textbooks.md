@@ -39,6 +39,10 @@ A proposed major modification summarized as "to put a teacher in every textbook 
 ### Affordances
 - [Languaging In Content Areas Thesis](../theories/languaging-in-content-areas-thesis.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [In-process comprehension checks embedded within the text](in-process-comprehension-checks.md)

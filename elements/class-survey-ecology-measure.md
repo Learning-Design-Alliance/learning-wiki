@@ -36,6 +36,10 @@ The study used the CLASS questionnaire, a standardised instrument that "has pass
 ### Target Learning Goals
 - Measuring engagement and applied conceptual understanding of ecological concepts
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

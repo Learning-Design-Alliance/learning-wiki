@@ -52,6 +52,10 @@ Emotion labeling supports self-regulation and communication, and affective granu
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — feelings vocabulary instruction is a direct application: deliberately teaching the words learners need before requiring them to use them
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a stable, shared lexicon removes the need to improvise descriptions of internal states during emotionally charged moments, freeing attention for the situation itself
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Check-In](check-in.md) — the routine that gives feelings vocabulary recurring, authentic use
 - [Act It Out](act-it-out.md) — embodied practice linking emotion words to facial, vocal, and postural cues

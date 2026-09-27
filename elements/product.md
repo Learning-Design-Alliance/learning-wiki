@@ -50,6 +50,10 @@ Defining the product up front gives learners a clear performance goal and gives 
 - [Active Learning](../principles/active-learning.md) — producing an artifact is among the strongest forms of generative engagement, requiring retrieval, decision-making, and synthesis rather than recognition
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — products designed for real audiences raise the stakes and the quality of learner effort
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — the product is the primary evidence assessment evaluates
 - [Practice](practice.md) — the supported activity that builds toward independent product creation

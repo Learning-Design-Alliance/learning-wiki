@@ -39,6 +39,10 @@ Real-world problems are tasks framed around authentic issues, needs, or dilemmas
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 - [Engagement](../principles/engagement.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem Presentation](problem-presentation.md)
 - [Scenario-Based Learning](scenario-based-learning.md)

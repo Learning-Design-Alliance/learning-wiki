@@ -50,6 +50,10 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [Metacognition](../principles/metacognition.md) — guidance can model self-monitoring (via [Think-Aloud](think-aloud.md)) and prompt learners to explain and evaluate their own reasoning
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — guidance makes inquiry productive: prompts, hints, and [Coaching](coaching.md) keep exploration oriented without eliminating the learner's own reasoning work
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the most heavily researched form of guidance; complete solution models for study
 - [Guided Discovery](guided-discovery.md) — inquiry with built-in prompts and hints, balancing exploration and support

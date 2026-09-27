@@ -36,6 +36,10 @@ Epistemological Move Analysis is an analytical approach that analyzes a teacher'
 ### Target Learning Goals
 - Understanding and developing how teachers direct children's learning during presentations and activities
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

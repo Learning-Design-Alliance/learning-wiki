@@ -39,6 +39,10 @@ Instrumental Enrichment is Feuerstein's major intervention program for creating 
 ### Affordances
 - [Structural Cognitive Modifiability Mle](../theories/structural-cognitive-modifiability-mle.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

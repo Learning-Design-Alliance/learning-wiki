@@ -39,6 +39,10 @@ The ACE in Higher Education (ACE-HE) is a survey measuring indicators of affecti
 ### Affordances
 - [Ace Framework Expanded Institutional Community](../theories/ace-framework-expanded-institutional-community.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

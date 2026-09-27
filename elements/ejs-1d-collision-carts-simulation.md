@@ -37,6 +37,10 @@ An Easy Java Simulation (EJS) computer model of idealized one-dimensional collis
 - conservation of linear momentum
 - elastic versus inelastic collisions and kinetic energy loss
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Open Source Physics toolkit: Easy Java Simulations and Tracker for creating and customising free physics computer models](osp-ejs-tracker-toolkit.md)

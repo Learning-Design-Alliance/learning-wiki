@@ -24,7 +24,7 @@ sources:
 
 ## Subclaims
 `q3 i?` Bilinguals' higher accuracy on the ToM2 question was not statistically significant. [→ Hayes 2026](#hayes-2026)
-`q2 i?` Comprehension scores approached ceiling by age four to five, suggesting the MAIN comprehension questions may be too easy. [→ Hayes 2026](#hayes-2026)
+`q3 i?` Comprehension scores approached ceiling by age four to five, suggesting the MAIN comprehension questions may be too easy. [→ Hayes 2026](#hayes-2026)
 
 ## Evidence
 

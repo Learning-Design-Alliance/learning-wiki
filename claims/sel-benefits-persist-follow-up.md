@@ -19,7 +19,7 @@ sources:
     resource: "https://doi.org/10.1037/amp0001765"
     title: "Bierman, K. L., Heinrichs, B. S., Welsh, J. A., Jones, D. E., & Crowley, D. M. (2026). Promoting resilience with social–emotional learning: Young adult follow-up of a preschool randomized-controlled trial. *American Psychologist*. Advance online publication. [doi:10.1037/amp0001765](https://doi.org/10.1037/amp0001765)"
     author: "Bierman, K. L., Heinrichs, B. S., Welsh, J. A., Jones, D. E., & Crowley, D. M."
-    q: 4
+    q: 3
     i: 1
     n: "356 randomized; 263 (74%) retained at follow-up"
 ---
@@ -27,7 +27,7 @@ sources:
 # Social-emotional learning benefits persist at follow-up
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q4` pre-registered or meta-analytic · `i1` small
+> **Evidence** · 2 studies · `q3`–`q4` · `i1` small
 
 Students who participate in social-emotional learning (SEL) programs retain gains in skills, attitudes, and behavior after the program ends, rather than showing only immediate post-intervention effects.
 
@@ -35,7 +35,7 @@ Students who participate in social-emotional learning (SEL) programs retain gain
 
 `q4 i?` A large meta-analysis of 82 school-based universal SEL interventions (N=97,406 students) found participants significantly outperformed controls on social-emotional skills, attitudes, and well-being at follow-up assessments ranging from 6 months to 18 years post-intervention, with benefits similar across race, socioeconomic status, and school location. [→ Taylor et al. 2017](#taylor-et-al-2017)
 
-`q4 i1` A randomized-controlled trial of an enriched Head Start preschool SEL/language curriculum found significant intervention-group advantages on 7 of 11 measures of well-being (small-to-moderate effects, d=.21 to .33) when participants were followed up as young adults, 17 years after the preschool intervention ended. [→ Bierman et al. 2026](#bierman-et-al-2026)
+`q3 i1` A randomized-controlled trial of an enriched Head Start preschool SEL/language curriculum found significant intervention-group advantages on 7 of 11 measures of well-being (small-to-moderate effects, d=.21 to .33) when participants were followed up as young adults, 17 years after the preschool intervention ended. [→ Bierman et al. 2026](#bierman-et-al-2026)
 
 ## Evidence
 
@@ -51,7 +51,7 @@ This meta-analysis pooled 82 school-based, universal SEL interventions (kinderga
 
 Bierman, K. L., Heinrichs, B. S., Welsh, J. A., Jones, D. E., & Crowley, D. M. (2026). Promoting resilience with social–emotional learning: Young adult follow-up of a preschool randomized-controlled trial. *American Psychologist*. Advance online publication. [doi:10.1037/amp0001765](https://doi.org/10.1037/amp0001765)
 
-`q4 · randomized-controlled trial, long-term follow-up` · `i1 · small-to-moderate effect, d=.21 to .33` · `n=356 randomized; 263 (74%) retained at follow-up`
+`q3 · randomized controlled trial, not stated as pre-registered` · `i1 · small-to-moderate effect, d=.21 to .33` · `n=356 randomized; 263 (74%) retained at follow-up`
 
 This RCT randomly assigned Head Start classrooms to receive an SEL- and language-enriched curriculum (Head Start REDI) or usual practice, enrolling 356 low-income preschoolers (mean age 4.49 years at entry). Outcomes were reassessed when participants were young adults, age 21–22 — roughly 17 years after the preschool intervention ended — with 74% of the original sample retained. The intervention group showed statistically significant advantages on 7 of 11 measures of young adult well-being (including conduct problems, depressive symptoms, loneliness, empathy, emotional support, and life satisfaction), with effect sizes in the small-to-moderate range, and the preschool intervention also buffered the negative impact of adverse childhood experiences on adult social adjustment.
 

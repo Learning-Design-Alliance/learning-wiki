@@ -39,6 +39,10 @@ The IF-AT is a commercially-available "scratch-and-reveal"-type MC answer form: 
 ### Affordances
 - [Integrated Testlet Framework](../theories/integrated-testlet-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

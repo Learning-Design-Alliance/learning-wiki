@@ -38,6 +38,10 @@ A data-elicitation instrument in which each discourse completion scenario pairs 
 - pragmatic ability in the speech act of attention-getting
 - nonverbal communication devices in L2 Spanish
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

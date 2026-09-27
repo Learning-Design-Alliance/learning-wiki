@@ -51,6 +51,10 @@ Role reversal counteracts biased assimilation — the tendency to evaluate evide
 - [Social Interdependence](../principles/social-interdependence.md) — in structured controversy formats, reversal converts opposition into a shared task (jointly reaching the best synthesis), harnessing cooperative goal structures
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — articulating the opposing case creates the conceptual conflict that triggers knowledge restructuring rather than simple accumulation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Perspective-Taking](perspective-taking.md) — the underlying skill; role reversal is its most demanding enactment
 - [Structured Debate](structured-debate.md) — the format that supplies the protocol and timing for reversal

@@ -39,6 +39,10 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 - characterizing emerging expertise as connections among skills, knowledge, identity, values, and epistemological reasoning elements
 - summarizing accumulated evidence of mastery across evidentiary segments
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

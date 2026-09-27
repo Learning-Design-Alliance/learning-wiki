@@ -51,6 +51,10 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 - [Self-Regulated Learning](../principles/self-regulated-learning.md) — the reflect-then-adjust cycle is the self-regulation loop in miniature; reflection supplies the monitoring and evaluation phases
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reflection gives learners evidence about their own progress, feeding self-assessment and goal-setting rather than external judgment
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Journaling](journaling.md) — the most common vehicle for individual reflection; sustained written reflection over time
 - [Self-Assessment](self-assessment.md) — reflection directed at evaluating one's own work against criteria

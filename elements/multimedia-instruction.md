@@ -33,6 +33,10 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Multimodal Instruction](../principles/multimodal-instruction.md)
 - [Dual Coding](../principles/dual-coding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Multimedia Learning](multimedia-learning.md)
 - [Direct Instruction](direct-instruction.md)

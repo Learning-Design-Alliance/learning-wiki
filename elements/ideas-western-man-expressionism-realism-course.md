@@ -37,6 +37,10 @@ This is an authorized course of instruction for the Dade County quinmester progr
 - understanding 19th and 20th century cultural movements
 - relating philosophical, scientific, and socio-economic theories to literature, art, and music
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [33-page annotated resource listing for students and teachers](expressionism-realism-resource-materials-listing.md)

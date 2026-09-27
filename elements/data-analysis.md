@@ -38,6 +38,10 @@ Data analysis is the element in which learners inspect, interpret, organize, or 
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Research](research.md)
 - [Scientific Reasoning](scientific-reasoning.md)

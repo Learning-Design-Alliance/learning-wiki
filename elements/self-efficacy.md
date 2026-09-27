@@ -50,6 +50,10 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Self-Determination Theory](../theories/self-determination-theory.md) — competence is one of three basic needs; efficacy-building task design simultaneously supports autonomy and relatedness
 - [Social Learning Theory](../theories/social-learning-theory.md) — vicarious experience through peer modeling is a core efficacy source and the theoretical bridge between observation and belief change
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md) — provides vicarious mastery experiences; near-peer models are more efficacy-building than expert models
 - [Coaching](coaching.md) — delivers the process-level feedback and attributional reframing that sustain efficacy through difficulty

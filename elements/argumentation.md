@@ -50,6 +50,10 @@ Argumentation supports learning by requiring learners to coordinate evidence wit
 - [Collaborative Learning](../principles/collaborative-learning.md) — structured argumentation with peers exposes learners to alternative reasoning they must engage with, not merely tolerate
 - [Perspective-Taking](../principles/perspective-taking.md) — constructing a rebuttal requires genuinely modeling the opposing position, which supports more nuanced understanding of the issue space
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Debate](debate.md) — a formalized, adversarial format for argumentation with assigned positions and timed turns
 - [Structured Discussion](structured-discussion.md) — conversational scaffolds that keep peer exchange argumentative rather than merely social

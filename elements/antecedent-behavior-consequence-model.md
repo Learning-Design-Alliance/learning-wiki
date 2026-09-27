@@ -46,6 +46,10 @@ Only observable actions qualify as "behaviors" in this sense — attitudes, valu
 - [Reinforcement Theory](../principles/reinforcement-theory.md) — the ABC model is the diagnostic front end that identifies what a reinforcement or punishment plan should actually target
 - [Functional Behavior Assessment](../principles/functional-behavior-assessment.md) — shares the antecedent-identification logic, organizing triggers into physiological, environmental, and instructional categories
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Fading Scaffolding](fading-scaffolding.md) — the ABA five-step procedure's step 5 (fading punishment/reinforcement once behavior change is established) parallels general fading logic elsewhere in instructional design
 

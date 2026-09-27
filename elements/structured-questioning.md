@@ -63,6 +63,10 @@ Structured questioning promotes deeper processing by requiring learners to gener
 - [Scaffolding](../principles/scaffolding.md) — a question sequence is scaffolding in dialogue form; the design decision is when to fade prompts toward learner-generated questions
 - [Active Learning](../principles/active-learning.md) — every learner response is generative cognitive work; questioning structures that work into a predictable routine
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, assumption-probing variant; structured questioning is the broader, more scaffolded family
 - [Coaching](coaching.md) — questioning is the coach's primary tool for eliciting and correcting reasoning

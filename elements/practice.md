@@ -51,6 +51,10 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — sequencing practice from worked examples to faded to independent problems keeps load within working memory limits as expertise grows
 - [Scaffolding](../principles/scaffolding.md) — practice difficulty and support should fade in step with demonstrated competence
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md) — the typical precursor; observation without follow-on practice rarely transfers
 - [Worked Examples](worked-examples.md) — the low-load alternative to early unguided practice

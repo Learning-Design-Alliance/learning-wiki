@@ -40,6 +40,10 @@ Three appended checklists (Appendices I–III) trace staged development of match
 ### Affordances
 - Zpd Social Constructivist Framework
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Selected-Response Assessment Items](selected-response-assessment-items.md)

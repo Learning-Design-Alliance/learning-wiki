@@ -42,6 +42,10 @@ This element names four proactive roles learners can take up when engaging with 
 - [Epistemic Injustice](../theories/epistemic-injustice.md) — names why legitimizing the analyst/author positions specifically (not just the researcher/consumer position) matters for equity
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - (none yet linked)
 

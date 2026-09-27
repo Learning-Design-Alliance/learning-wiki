@@ -39,6 +39,10 @@ A researcher-developed 29-item instrument with four dimensions: adults' levels o
 ### Affordances
 - [Epistemic Freedom Violence Framework](../theories/epistemic-freedom-violence-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

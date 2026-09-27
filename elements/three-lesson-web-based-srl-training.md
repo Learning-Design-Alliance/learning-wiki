@@ -43,6 +43,10 @@ A web-based training on self-regulated learning that "can be attended by virtual
 ### Affordances
 - [Process Model Of Self Regulated Learning Schmitz Wiese](../theories/process-model-of-self-regulated-learning-schmitz-wiese.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)
 - [Self Regulated Learning Strategy Instruction](../strategies/self-regulated-learning-strategy-instruction.md)

@@ -21,6 +21,10 @@ Cognitive apprenticeship is the element in which learners observe expert thinkin
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 - [Modeling](../principles/modeling.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Modeling](modeling.md)
 - [Coaching](coaching.md)

@@ -36,6 +36,10 @@ The singKT dataset is an openly released corpus of singing interactions collecte
 ### Target Learning Goals
 - Pitch-matching and note-level singing accuracy
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

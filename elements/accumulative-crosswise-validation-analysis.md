@@ -37,6 +37,10 @@ Crosswise-Validation is AMOVA's core analytic operation, yielding sequential ins
 ### Target Learning Goals
 - within-cluster and between-group instrument validity assessment
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [AMOVA Cluster Axiom for Manifold Consistency](amova-cluster-axiom-manifold-consistency.md)

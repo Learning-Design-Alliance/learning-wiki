@@ -40,6 +40,10 @@ Summative assessment is the element in which a learner's performance is judged a
 - [Summative Assessment](../principles/summative-assessment.md)
 - [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Final Exam](final-exam.md)
 - [Performance-Based Assessment](performance-based-assessment.md)

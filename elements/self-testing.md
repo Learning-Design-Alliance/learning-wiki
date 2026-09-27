@@ -38,6 +38,10 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Retrieval Practice](../principles/retrieval-practice.md)
 - [Self-Regulation](../principles/self-regulation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)
 - [Formative Assessment](formative-assessment.md)

@@ -52,6 +52,10 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - [Collaborative Learning](../principles/collaborative-learning.md) — argumentation gains force from social interaction; peer critique and disagreement expose gaps that solo justification hides
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — defending a recommendation to a real or simulated audience (a client, a review panel) gives justification an authentic purpose and raises the stakes for evidence quality
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Argument Construction](argument-construction.md) — the compositional skill this element depends on; learners must build arguments before defending them
 - [Class Discussion](class-discussion.md) — the common discourse venue; argumentation gives discussion a rigorous structure

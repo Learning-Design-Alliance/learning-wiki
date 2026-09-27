@@ -36,6 +36,10 @@ The proposed system is organized as a hierarchical four-layer architecture: Data
 ### Target Learning Goals
 - Oral proficiency diagnosis and personalized practice recommendation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -45,6 +45,10 @@ generated:
 - Increases authenticity and accountability
 - Creates conditions for reflection, debrief, and iteration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Application](application.md)
 - [Solution Development](solution-development.md)

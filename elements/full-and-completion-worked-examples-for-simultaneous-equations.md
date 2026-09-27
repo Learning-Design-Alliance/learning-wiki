@@ -41,6 +41,10 @@ Two versions of the same worked algebra problems used in the study. "The full- w
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md)
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Worked Examples](worked-examples.md)
 - [Completion Problems](../strategies/completion-problems.md)

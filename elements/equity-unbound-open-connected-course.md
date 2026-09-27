@@ -36,6 +36,10 @@ Equity Unbound is described as "an emergent, collaborative curriculum which aims
 ### Target Learning Goals
 - intercultural learning, critical consciousness, equity-focused open learning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent](collaborative-web-annotation-marginal-syllabus.md)

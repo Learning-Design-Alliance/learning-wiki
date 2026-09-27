@@ -36,6 +36,10 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 ### Target Learning Goals
 - understanding of difficult vocabulary in content-area text
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [In-process comprehension checks embedded within the text](in-process-comprehension-checks.md)

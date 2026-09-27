@@ -42,6 +42,10 @@ Learners work in small groups to create a dance or movement sequence that repres
 ### Affordances
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Listening Palette](listening-palette.md) — a lighter-weight multimodal reflection task from the same study, often used earlier in a unit
 

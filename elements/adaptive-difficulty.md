@@ -50,6 +50,10 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - Supports persistence by making progress visible
 - Can help systems respond to readiness without forcing a uniform pace
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md)
 - [Mastery Progression](mastery-progression.md)

@@ -36,6 +36,10 @@ The spup is a modified drinking utensil consisting of a large Maroon spoon taped
 ### Target Learning Goals
 - transitioning from spoon drinking to cup drinking
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

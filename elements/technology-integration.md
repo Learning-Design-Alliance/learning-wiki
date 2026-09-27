@@ -23,6 +23,10 @@ Technology integration is the element in which digital tools are used in direct 
 - [Digital Learning](../principles/digital-learning.md)
 - [Multimodal Instruction](../principles/multimodal-instruction.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Digital Tools](digital-tools.md)
 - [Digital Learning](digital-learning.md)

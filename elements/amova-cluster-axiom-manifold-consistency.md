@@ -38,6 +38,10 @@ The AMOVA Cluster Axiom for Manifold Consistency is a logical-mathematical rule 
 ### Target Learning Goals
 - establishing reliability of instrument item clustering
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Accumulative Crosswise-Validation Analysis: within-row and between-column validity measurement](accumulative-crosswise-validation-analysis.md)

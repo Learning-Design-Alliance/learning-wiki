@@ -50,6 +50,10 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 - [Active Learning](../principles/active-learning.md) — paired with annotation, self-explanation prompts, or social annotation, reading becomes a generative activity rather than passive exposure
 - [Activation](../principles/activation.md) — pre-reading questions and advance organizers activate relevant prior knowledge before learners encounter the text
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Lecture](lecture.md) — readings front-load content so lecture time can focus on elaboration and application
 - [Independent Study](independent-study.md) — assigned readings are the core material of self-directed study

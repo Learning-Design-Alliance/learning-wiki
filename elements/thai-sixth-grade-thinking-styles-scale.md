@@ -41,6 +41,10 @@ The developed instrument is a situational, multiple-choice thinking styles scale
 ### Affordances
 - [Mental Self Government Five Dimension Thinking Styles](../theories/mental-self-government-five-dimension-thinking-styles.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

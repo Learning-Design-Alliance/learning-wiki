@@ -50,6 +50,10 @@ Midterms leverage the testing effect — the act of retrieving information stren
 - [Clear Structure](../principles/clear-structure.md) — a predictable midterm schedule gives learners a milestone around which to organize review and self-regulation
 - [Active Learning](../principles/active-learning.md) — exam preparation itself is massed retrieval practice; cumulative item design extends this benefit across the whole course
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — the parent element; a midterm is a summative instance positioned mid-course
 - [Rubrics](rubrics.md) — necessary for reliable scoring of open-ended midterm items

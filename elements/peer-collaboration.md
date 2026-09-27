@@ -51,6 +51,10 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Community of Inquiry](../principles/community-of-inquiry.md) — sustained peer dialogue builds the cognitive and social presence needed for deep, sustained inquiry
 - [Active Learning](../principles/active-learning.md) — collaboration converts passive reception into generative activity: explaining, questioning, and deciding together
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader element; peer collaboration specifies the peer-to-peer (rather than learner–instructor) configuration
 - [Class Discussion](class-discussion.md) — whole-group counterpart; collaboration scales this to small groups where every voice must participate

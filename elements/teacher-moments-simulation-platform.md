@@ -41,6 +41,10 @@ Teacher Moments is "a free openly licensed teaching simulation platform develope
 ### Affordances
 - [Opportunity Centered Teaching Four Mindset Tensions](../theories/opportunity-centered-teaching-four-mindset-tensions.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

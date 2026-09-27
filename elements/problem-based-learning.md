@@ -44,6 +44,10 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [Active Learning](../principles/active-learning.md)
 - [Constructivism](../principles/constructivism.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)
 - [Scenario-Based Learning](scenario-based-learning.md)

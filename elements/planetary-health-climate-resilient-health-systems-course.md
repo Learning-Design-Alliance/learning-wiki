@@ -36,6 +36,10 @@ An interdisciplinary and international 6-week course at the intersection of glob
 ### Target Learning Goals
 - transformative competencies to tackle planetary health challenges
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

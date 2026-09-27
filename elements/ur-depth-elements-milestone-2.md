@@ -39,6 +39,10 @@ The research depth layer includes each step of the research process as an elemen
 ### Affordances
 - [Hip Ur Three Layer Taxonomy](../theories/hip-ur-three-layer-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

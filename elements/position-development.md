@@ -51,6 +51,10 @@ Position development works because it forces learners to retrieve, organize, and
 - [Collaborative Learning](../principles/collaborative-learning.md) — paired or opposed positions create genuine communicative purpose: persuasion of a real interlocutor, not a performance for a grader
 - [Assessment for Learning](../principles/assessment-for-learning.md) — peer and instructor critique of a draft position provides actionable feedback at the point where the argument can still be revised
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Argumentation](argumentation.md) — the skill component; position development is argumentation applied to a contested issue the learner owns
 - [Peer Review](peer-review.md) — the mechanism by which positions are stress-tested and refined before final commitment

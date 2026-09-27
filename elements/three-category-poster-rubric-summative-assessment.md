@@ -38,6 +38,10 @@ A rubric used to score individual poster presentations as a summative assessment
 - explaining image file formats
 - communication skills
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Performance-Based Assessment](performance-based-assessment.md)

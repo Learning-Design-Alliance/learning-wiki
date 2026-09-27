@@ -43,6 +43,10 @@ Khanmigo is a GenAI-based educational app launched in 2022 by Khan Academy, powe
 ### Affordances
 - [Chapelle 2001 Call Evaluation Framework Applied To Genai](../theories/chapelle-2001-call-evaluation-framework-applied-to-genai.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

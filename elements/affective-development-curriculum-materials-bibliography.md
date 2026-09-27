@@ -36,6 +36,10 @@ Chapter 4 of the report presents "a bibliography of 29 available curriculum mate
 ### Target Learning Goals
 - affective education, including self-concept and socialization
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Annotated bibliography of 27 instruments for assessing preschool affective development](affective-development-assessment-instrument-bibliography.md)

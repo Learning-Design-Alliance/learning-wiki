@@ -35,6 +35,10 @@ The authors created their own DKT implementation using PyTorch's LSTM module to 
 ### Target Learning Goals
 - Predicting student step correctness for mastery learning and problem selection
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

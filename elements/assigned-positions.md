@@ -50,6 +50,10 @@ Assigned positions work because arguing a case requires deeper processing than r
 - [Social Learning](../principles/social-learning.md) — learners observe peers constructing arguments for other positions, providing models of reasoning they can appropriate
 - [Argumentation](argumentation.md) — assigned positions give argumentation a concrete task structure: claim, evidence, warrant, rebuttal
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Debate](debate.md) — the most common delivery format; assigned positions are the role structure within it
 - [Structured Academic Controversy](structured-academic-controversy.md) — extends the element by requiring learners to switch sides and reach consensus, guarding against one-sided entrenchment

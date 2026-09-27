@@ -50,6 +50,10 @@ Automaticity of component skills is a precondition for complex performance: read
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — CLT treats automation of schemas as one of the two primary ways (alongside schema construction) to reduce working-memory burden
 - [Information Processing Theory](../theories/information-processing-theory.md) — automaticity corresponds to the shift from controlled to automatic processing, the theoretical basis for why practiced skills no longer compete for attention
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — the mechanism by which automaticity develops; automaticity is the *goal state* of well-designed practice
 - [Fading](fading.md) — support can be withdrawn as component skills become automatic

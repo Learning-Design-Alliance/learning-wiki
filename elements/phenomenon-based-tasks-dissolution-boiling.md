@@ -39,6 +39,10 @@ The study's assessment instruments were two open-response phenomenon-based tasks
 ### Affordances
 - [Three Tier Cmr Coding Scheme](../theories/three-tier-cmr-coding-scheme.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

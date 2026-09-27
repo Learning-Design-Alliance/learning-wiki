@@ -42,6 +42,10 @@ Second, and just as important: **treat students' existing beliefs with respect**
 ### Affordances
 - [Constructivism](../theories/constructivism.md) — misconceptions are a direct consequence of learners actively constructing understanding from incomplete or misleading everyday experience, rather than passively absorbing correct information
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)
 - [Concept Mapping](concept-mapping.md)

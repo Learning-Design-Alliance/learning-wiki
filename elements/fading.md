@@ -41,6 +41,10 @@ Fading is the element in which instructional support is deliberately reduced as 
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 - [Mastery Learning](../principles/mastery-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md)
 - [Worked Examples](worked-examples.md)

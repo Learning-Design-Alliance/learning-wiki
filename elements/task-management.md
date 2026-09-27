@@ -38,6 +38,10 @@ Task management is the element in which learners organize, track, assign, or seq
 - [Self-Regulation](../principles/self-regulation.md)
 - [Social Interdependence](../principles/social-interdependence.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaboration](collaboration.md)
 - [Group Work](group-work.md)

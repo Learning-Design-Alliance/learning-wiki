@@ -36,6 +36,10 @@ Comprehension checks embedded within the text at the point of reading, listed in
 ### Target Learning Goals
 - self-monitoring of comprehension during reading
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Precis summary notes placed alongside the basic text](precis-summary-notes.md)

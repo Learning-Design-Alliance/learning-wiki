@@ -36,6 +36,10 @@ The article constructs a schematic analysis (Table 2) dividing Philippine adult 
 ### Target Learning Goals
 - Vocational-technical skills, basic and functional literacy, livelihood skills, and political/counter education
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

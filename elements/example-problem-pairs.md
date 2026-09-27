@@ -50,6 +50,10 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 - [Scaffolding](../principles/scaffolding.md) — pairs are a starting point for a fading sequence: full example + problem → completion problem + problem → problem + problem as expertise grows ([Fading](fading.md))
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the worked example functions as a model of expert solution behavior that learners immediately imitate in the paired task
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the example component of the pair
 - [Fading](fading.md) — the natural next step once pairs have built initial competence

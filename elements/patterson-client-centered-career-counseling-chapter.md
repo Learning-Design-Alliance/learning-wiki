@@ -38,6 +38,10 @@ In the 1960s, Henry Borow commissioned Patterson to write a chapter for "Man in 
 ### Target Learning Goals
 - client-centered career counseling theory and practice
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -36,6 +36,10 @@ A low-cost experimental kit for physics demonstrations in which a tablet's magne
 ### Target Learning Goals
 - understanding dependencies of the magnetic field of a coil (on current and axial distance) and estimating air permeability
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

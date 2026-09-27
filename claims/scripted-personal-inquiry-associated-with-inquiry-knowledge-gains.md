@@ -31,7 +31,7 @@ Across two design-based-research implementations of a personal-inquiry toolkit, 
 
 `q2 i?` When collected data contradicted students' initial hypothesis (e.g., a noisier schoolyard location showing more bird-feeder visits than a quiet one), most students generated plausible explanations for the discrepancy rather than dismissing the result, though this was not evaluated against a criterion for scientific validity. [→ Sharples et al. 2015](#sharples-et-al-2015)
 
-`q1 i?` In an after-school sustainability-focused inquiry club, some students and parents reported in interviews that the investigation (into food packaging and decay) coincided with the student adopting or requesting more sustainable purchasing habits (e.g., declining shopping bags) — anecdotal, unmeasured, and explicitly flagged by the authors as not supporting a claim of durable attitude or behavior change. [→ Sharples et al. 2015](#sharples-et-al-2015)
+`q2 i?` In an after-school sustainability-focused inquiry club, some students and parents reported in interviews that the investigation (into food packaging and decay) coincided with the student adopting or requesting more sustainable purchasing habits (e.g., declining shopping bags) — anecdotal, unmeasured, and explicitly flagged by the authors as not supporting a claim of durable attitude or behavior change. [→ Sharples et al. 2015](#sharples-et-al-2015)
 
 ## Evidence
 

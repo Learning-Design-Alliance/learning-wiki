@@ -19,7 +19,7 @@ Gamification is the use of game design elements in non-game contexts (Deterding 
 
 ## Implications
 
-Gamification's effects on learning are real but conditional. Meta-analytic evidence shows small-to-medium positive effects on cognitive, motivational, and behavioral outcomes, with the largest gains when gamification includes collaboration and when it is applied in short-term or skill-based settings [Gamification improves learning outcomes, with effects moderated by context.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. The mechanism is primarily motivational: well-designed mechanics satisfy needs for competence (visible progress, achievable challenges) and autonomy (meaningful choice), consistent with [Self-Determination Theory](../theories/self-determination-theory.md) [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. But mechanics that reward mere activity rather than mastery, or that introduce social comparison through leaderboards, can backfire — undermining intrinsic motivation or demotivating lower-performing learners [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]. Effective designs treat gamification as a motivational layer on top of sound instruction ([Practice](../elements/practice.md), [Feedback](../elements/feedback.md)), not as a replacement for it.
+Gamification's effects on learning are real but conditional. Meta-analytic evidence shows small-to-medium positive effects on cognitive, motivational, and behavioral outcomes, with the largest gains when gamification includes collaboration and when it is applied in short-term or skill-based settings [Gamification improves learning outcomes, with effects moderated by context.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. The mechanism is primarily motivational: well-designed mechanics satisfy needs for competence (visible progress, achievable challenges) and autonomy (meaningful choice), consistent with [Self-Determination Theory](../theories/self-determination-theory.md) [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. But mechanics that reward mere activity rather than mastery, or that introduce social comparison through leaderboards, can backfire — undermining intrinsic motivation or demotivating lower-performing learners [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M]. Effective designs treat gamification as a motivational layer on top of sound instruction ([Practice](../elements/practice.md), [Feedback](../elements/feedback.md)), not as a replacement for it.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 
 #### Constraints
 - Leaderboards can demotivate learners who consistently rank low; team-based or self-referenced comparison (progress vs. one's own past performance) is safer [~M]
-- Extrinsic rewards for tasks learners already find interesting can reduce intrinsic motivation once rewards are removed [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]
+- Extrinsic rewards for tasks learners already find interesting can reduce intrinsic motivation once rewards are removed [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M]
 - Novelty effects inflate short-term results; gains often attenuate over long deployments [~W]
 - Rewarding speed or volume can encourage shallow, game-the-system behavior at the expense of deep processing
 - Poorly integrated mechanics add cognitive and attentional overhead, competing with learning content [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
@@ -58,7 +58,7 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 
 ### Claims
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — mechanics that preserve learner choice sustain motivation; controlling rewards do not
-- [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/autonomy-supports-intrinsic-motivation.md) [~M] — reward-based mechanics risk crowding out intrinsic interest
+- [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M] — reward-based mechanics risk crowding out intrinsic interest
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M] — poorly integrated game elements add extraneous load
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — team-based and community mechanics support relatedness and persistence
 

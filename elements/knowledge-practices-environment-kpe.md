@@ -40,6 +40,10 @@ KP-Lab technology provided a basic platform, the Knowledge Practices Environment
 ### Affordances
 - [Trialogical Learning Framework](../theories/trialogical-learning-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Cloud technology as information source and activity tool in the learning model](cloud-technology-information-source-and-tool.md)

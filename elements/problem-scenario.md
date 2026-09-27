@@ -51,6 +51,10 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - [Constructivism](../principles/constructivism.md) — scenarios create the conditions for learners to construct workable models through experience and feedback rather than transmission
 - [Collaborative Learning](../principles/collaborative-learning.md) — realistic problems are naturally too large for one perspective, making team roles and negotiated decisions authentic rather than artificial
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case Study](case-study.md) — the retrospective sibling; cases show how a situation resolved, while problem scenarios ask learners to resolve it themselves
 - [Coaching](coaching.md) — the feedback mechanism that keeps scenario exploration productive

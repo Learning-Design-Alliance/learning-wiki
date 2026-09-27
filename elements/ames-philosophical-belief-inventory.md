@@ -36,6 +36,10 @@ The Ames Philosophical Belief Inventory is a forced-choice questionnaire measuri
 ### Target Learning Goals
 - diagnosing philosophical beliefs (ontology, epistemology, axiology) of prospective teachers
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

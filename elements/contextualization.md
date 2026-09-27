@@ -34,6 +34,10 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 - [Constructivist Learning](../principles/constructivist-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)
 - [Problem Scenario](problem-scenario.md)

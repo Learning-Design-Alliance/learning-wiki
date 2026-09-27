@@ -24,7 +24,7 @@ sources:
 
 ## Subclaims
 `q2 i?` Discriminating value of an item equals the coefficient of variation of item scores, is bounded 0 ≤ Disci < 1, and decreases monotonically with increase in k, so its relationship with item difficulty value is negative. [→ Chakrabartty 2021](#chakrabartty-2021)
-`q1 i?` Analytically, the square of item discriminating value equals (1 − difficulty value) divided by the number of correct responses, implying a negative Diffi–Disci relationship. [→ Chakrabartty 2021](#chakrabartty-2021)
+`q2 i?` Analytically, the square of item discriminating value equals (1 − difficulty value) divided by the number of correct responses, implying a negative Diffi–Disci relationship. [→ Chakrabartty 2021](#chakrabartty-2021)
 
 ## Evidence
 

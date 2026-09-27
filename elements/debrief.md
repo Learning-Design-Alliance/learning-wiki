@@ -19,7 +19,7 @@ A debrief is a facilitated reflective conversation conducted after a learning ex
 
 ## Design Implications
 
-Debriefing is where much of the learning from experience is actually consolidated; without it, learners may complete an activity and extract little from it [Simulation-based education with deliberate practice dramatically improves outcomes compared with traditional clinical education.](../claims/simulation-based-education-improves-outcomes.md) [+M]. Effective debriefs are learner-centered and judgment-free: the facilitator uses open questions and [good judgment](../elements/coaching.md) approaches rather than lecture-style correction, helping learners surface their own reasoning and gaps [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Structure matters — phased models (e.g., reaction → analysis → synthesis) outperform unstructured "talking it through."
+Debriefing is where much of the learning from experience is actually consolidated; without it, learners may complete an activity and extract little from it [Simulation-based education with deliberate practice dramatically improves outcomes compared with traditional clinical education.](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]. Effective debriefs are learner-centered and judgment-free: the facilitator uses open questions and [good judgment](../elements/coaching.md) approaches rather than lecture-style correction, helping learners surface their own reasoning and gaps [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Structure matters — phased models (e.g., reaction → analysis → synthesis) outperform unstructured "talking it through."
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - Less effective when learners lack the vocabulary or prior knowledge to articulate what occurred; novices may need [Advance Organizers](../elements/advance-organizers.md) or framing questions to scaffold the reflection
 
 ### Target Learners
-- Learners in simulation, clinical, and professional education, where performance consequences make error analysis critical [Simulation-based education with deliberate practice dramatically improves outcomes compared with traditional clinical education.](../claims/simulation-based-education-improves-outcomes.md) [+M]
+- Learners in simulation, clinical, and professional education, where performance consequences make error analysis critical [Simulation-based education with deliberate practice dramatically improves outcomes compared with traditional clinical education.](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - Intermediate learners with enough experience to have something to analyze; complete novices often need more directive [Coaching](../elements/coaching.md) first
 - Groups with established trust; debrief quality degrades sharply in low-safety environments
 
@@ -51,6 +51,10 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the debrief is a formative-assessment conversation: facilitator questions surface misconceptions and learners receive process-level feedback while it is still actionable
 - [Collaborative Learning](../principles/collaborative-learning.md) — group debriefs expose learners to peers' interpretations of the same event, widening the set of perspectives available for sense-making
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — debriefing enacts the *reflection* and *articulation* phases, in which learners make their reasoning explicit and compare it to expert reasoning
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
 
 ## Related Elements
 - [Reflection](../elements/reflection.md) — the broader category; debrief is a facilitated, typically group-based, time-bounded form of it

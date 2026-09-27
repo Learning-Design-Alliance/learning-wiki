@@ -36,6 +36,10 @@ When manually labeled skill tags are available, DynEmb incorporates them by conc
 ### Target Learning Goals
 - predicting student responses by fusing question-level and skill-level information
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

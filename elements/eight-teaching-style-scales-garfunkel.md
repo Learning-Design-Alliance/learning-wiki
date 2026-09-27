@@ -42,6 +42,10 @@ The article presents eight behavioral scales for describing classroom atmosphere
 ### Affordances
 - [Teaching Style Intervening Variable Framework](../theories/teaching-style-intervening-variable-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Four standardized teaching tasks (masks, balloons, homes and families, games) plus snack-time observation, designed to elicit stylistic variation](garfunkel-head-start-teaching-tasks.md)

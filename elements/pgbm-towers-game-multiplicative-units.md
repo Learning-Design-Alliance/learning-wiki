@@ -40,6 +40,10 @@ PGBM is a paired game in which a Sender asks a Bringer to build and bring back s
 ### Affordances
 - [Dual Anticipation Start Stop Mdc Intermediate Stage](../theories/dual-anticipation-start-stop-mdc-intermediate-stage.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

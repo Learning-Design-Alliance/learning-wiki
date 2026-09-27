@@ -43,6 +43,10 @@ A two-day, paper-based inquiry for advanced high-school to senior college studen
 - scientific process skills
 - attitudes toward science
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

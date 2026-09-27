@@ -51,6 +51,10 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed application sequences (worked example → completion → full problem) manage intrinsic load so novices can apply knowledge without being overwhelmed
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — real-world problems and cases give application tasks genuine stakes and context, increasing task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Hands-on Learning](hands-on-learning.md) — the physical-manipulation form of application
 - [Problem-Based Learning](problem-based-learning.md) — organizes an entire curriculum around application problems

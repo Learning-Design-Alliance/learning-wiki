@@ -36,6 +36,10 @@ Reflection activities are structured tasks that ask learners to examine what the
 - [Self-Regulation](../principles/self-regulation.md)
 - [Metacognition](../principles/metacognition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Individual Reflection](individual-reflection.md)
 - [Journaling](journaling.md)

@@ -52,6 +52,10 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — presenting the same concept across varied cases and contexts prepares learners to restructure knowledge for novel situations
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — sequencing transfer tasks after consolidation, and fading support as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M], keeps extension activities within working-memory limits
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Analogies](analogies.md) — explicit mapping between domains is a primary mechanism for cross-context transfer
 - [Case Studies](case-studies.md) — varied cases train learners to abstract principles from surface detail

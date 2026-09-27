@@ -38,6 +38,10 @@ Progress tracking is the element in which learners or instructors monitor advanc
 - [Self-Regulation](../principles/self-regulation.md)
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Task Management](task-management.md)
 - [Goal Setting](goal-setting.md)

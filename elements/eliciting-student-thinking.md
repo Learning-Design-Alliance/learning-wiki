@@ -52,6 +52,10 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - [Cognitive Activation](../principles/cognitive-activation.md) — open reasoning prompts push learners beyond recall toward elaboration, comparison, and justification
 - [Active Learning](../principles/active-learning.md) — elicitation is a low-cost active-learning move; productive engagement (generating, explaining) predicts stronger outcomes than passive reception [~S]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Self-Explanation](self-explanation.md) — the individual, prompted form of eliciting one's own thinking
 - [Peer Discussion](peer-discussion.md) — socializes elicitation; students articulate and critique reasoning with each other

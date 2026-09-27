@@ -36,6 +36,10 @@ Figure 2 reproduces the author's 1977 Comparative Education Review typology, whi
 ### Target Learning Goals
 - typing theories of social and educational change
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

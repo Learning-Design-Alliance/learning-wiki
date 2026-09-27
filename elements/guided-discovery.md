@@ -44,6 +44,10 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 - [Scaffolding](../principles/scaffolding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scaffolded Inquiry](scaffolded-inquiry.md)
 - [Conceptual Questioning](conceptual-questioning.md)

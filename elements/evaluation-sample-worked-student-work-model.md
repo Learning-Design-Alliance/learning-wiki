@@ -36,6 +36,10 @@ The Evaluation Sample is a worked example showing teachers how to apply the Chec
 ### Target Learning Goals
 - Digital skills, media and meaning, point of view, and audience awareness in presentation work
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [The Evaluation Toolkit: a teacher-facing instrument for assessing technology-rich learning activities](evaluation-toolkit-technology-rich-activities.md)

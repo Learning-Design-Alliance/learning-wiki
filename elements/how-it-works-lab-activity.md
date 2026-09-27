@@ -38,6 +38,10 @@ A recurring laboratory activity type is planned in every lab edition: "it was al
 - discovering the physics underlying everyday devices
 - measurement and error evaluation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](pigelleto-summer-school-physics.md)

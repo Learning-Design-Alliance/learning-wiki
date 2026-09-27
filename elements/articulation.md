@@ -51,6 +51,10 @@ Articulation strengthens metacognition and conceptual clarity because converting
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — when used diagnostically, articulation lets instructors locate exactly where a learner's model breaks down, so support is targeted rather than blanket
 - [Collaborative Learning](../principles/collaborative-learning.md) — articulated reasoning becomes shared material that peers can question, extend, and correct
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Self-Explanation](self-explanation.md) — the private, prompted form of articulation; articulation adds a social or diagnostic audience
 - [Peer Discussion](peer-discussion.md) — the setting where articulated reasoning is tested against others' reasoning

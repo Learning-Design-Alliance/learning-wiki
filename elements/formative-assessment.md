@@ -49,6 +49,10 @@ Formative assessment closes the gap between current and desired performance by m
 - [Feedback Loops](../principles/feedback-loops.md) — each formative check is one iteration of a loop; shortening the delay between performance and feedback is the key design variable
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — frequent low-stakes checks let instructors calibrate task difficulty to current competence, avoiding overload from tasks pitched beyond readiness
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Quizzes](quizzes.md) — the most common low-stakes instrument; frequent quizzing doubles as retrieval practice
 - [Self-Assessment](self-assessment.md) — shifts evaluative judgment to the learner, a long-term goal of formative practice

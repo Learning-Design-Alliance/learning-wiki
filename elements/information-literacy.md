@@ -34,6 +34,10 @@ Information literacy is the element in which learners identify information needs
 - [Evaluating Sources](../principles/evaluating-sources.md)
 - [Explicit Instruction in Internet Search](../principles/explicit-instruction-internet-search.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)
 - [Research](research.md)

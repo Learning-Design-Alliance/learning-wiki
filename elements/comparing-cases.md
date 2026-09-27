@@ -41,6 +41,10 @@ Comparing cases is the element in which learners inspect two or more examples, s
 - [Worked Examples](../principles/worked-examples.md)
 - [Error Analysis](../principles/error-analysis.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Non-Examples](non-examples.md)
 - [Erroneous Examples](erroneous-examples.md)

@@ -52,6 +52,10 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Collaborative Learning](../principles/collaborative-learning.md) — investigation is naturally social; group inquiry exposes learners to alternative hypotheses and requires articulation and negotiation of ideas
 - [Scaffolding](../principles/scaffolding.md) — the central design problem of inquiry is calibrating guidance: enough structure to prevent unproductive search, faded progressively as learners develop investigative competence
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem Scenario](problem-scenario.md) — the designed problem that anchors and bounds the investigation
 - [Collaborative Problem-Solving](collaborative-problem-solving.md) — the social mode through which much inquiry happens

@@ -50,6 +50,10 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - [Self-Paced Learning](self-paced-learning.md) — learners control traversal speed and can revisit nodes as needed, aligning study time with individual needs
 - [Constructivism](../principles/constructivism.md) — learners actively assemble their own knowledge path rather than receiving a pre-sequenced presentation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the structural overview that prevents disorientation in a hypertext network
 - [Case Studies](case-studies.md) — hypertext nodes organized around cases suit ill-structured domains where multiple perspectives matter

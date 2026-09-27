@@ -36,6 +36,10 @@ Concise summary notes placed alongside the basic text that explain key concepts,
 ### Target Learning Goals
 - comprehension of key concepts, terminology, and questions in textual material
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [In-process comprehension checks embedded within the text](in-process-comprehension-checks.md)

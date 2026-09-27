@@ -50,6 +50,10 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 - [Comparing Cases](comparing-cases.md) — contrasting cases are the standard vehicle for invention tasks, making deep features discriminable
 - [Productive Failure](../strategies/productive-failure.md) — invention is the exploration phase of the productive failure sequence, followed by consolidation instruction
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md) — the canonical instruction that must follow invention; the pairing is what produces the effect
 - [Comparing Cases](comparing-cases.md) — the contrasting-case structure that makes invention tasks work

@@ -34,6 +34,10 @@ Metacognitive reflection is the element in which learners examine how they thoug
 - [Self-Regulation](../principles/self-regulation.md)
 - [Reflection](../principles/reflection.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)
 - [Self-Assessment](self-assessment.md)

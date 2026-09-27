@@ -36,6 +36,10 @@ The booklet defines and details the study carrel as a behaviour-support fixture:
 ### Target Learning Goals
 - sustained individual work relatively undisturbed by other children
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

@@ -63,6 +63,10 @@ Model revision supports conceptual change by forcing learners to compare their p
 - [Active Learning](../principles/active-learning.md) — revision requires learners to do evaluative work on their own output, not merely receive corrections
 - [Scaffolding](../principles/scaffolding.md) — the model–evidence link structure is a temporary frame that can be faded as learners internalize the evaluate-and-revise habit
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scientific Reasoning](scientific-reasoning.md) — supplies the evaluative standards learners apply when judging their model against evidence
 - [Justification](justification.md) — the written or oral warrant for *why* a revision was made; without it, revision becomes guesswork

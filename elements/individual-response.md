@@ -48,6 +48,10 @@ Requiring an independent answer before discussion converts passive listening int
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — a single well-scoped question focuses working memory on one retrieval or reasoning operation, unlike open-ended tasks
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the response distribution gives the instructor real-time evidence of understanding to adapt instruction
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Instruction](peer-instruction.md) — individual response is the mandatory first phase; without it, peer discussion degenerates into answer-sharing
 - [Retrieval Practice](retrieval-practice.md) — the cognitive mechanism the individual response enacts

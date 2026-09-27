@@ -39,6 +39,10 @@ The report implements all three models (the general polytomous testlet model, th
 ### Affordances
 - [General Polytomous Testlet Model](../theories/general-polytomous-testlet-model.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

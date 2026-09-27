@@ -23,6 +23,10 @@ Simulations are the element in which learners engage with realistic, model-based
 - [Simulations/Immersive Virtual Environments](../principles/simulations-immersive-virtual-environments.md)
 - [Experiential Learning](../principles/experiential-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md)
 - [Role-Playing](role-playing.md)

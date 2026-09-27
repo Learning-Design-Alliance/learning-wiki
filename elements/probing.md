@@ -51,6 +51,10 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 - [Cognitive Activation](../principles/cognitive-activation.md) — well-aimed probes ("Is that always true?", "What would happen if…") create the productive struggle this principle describes
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — counter-probes that expose contradictions between a learner's answer and their other beliefs trigger the impasse that drives conceptual change
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Articulation](articulation.md) — probing is the elicitation side; articulation is the learner's response side of the same exchange
 - [Check-In](check-in.md) — establishes the relational safety that probing requires

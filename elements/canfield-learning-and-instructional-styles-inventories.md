@@ -36,6 +36,10 @@ The review describes Canfield's multi-dimensional instruments, designed because 
 ### Target Learning Goals
 - individualized assessment of learning and instructional styles for instructional counselling
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

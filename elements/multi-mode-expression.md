@@ -37,6 +37,10 @@ Expressing understanding through combined modes of information (text, image, sou
 - expression
 - content learning
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

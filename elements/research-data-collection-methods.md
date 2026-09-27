@@ -36,6 +36,10 @@ People tend to change their behavior when they know they're being watched — th
 ### Affordances
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](../theories/research-design-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Observation](observation.md) — the classroom-assessment use of observation is a related but distinct application from the research-methodology use described here

@@ -38,6 +38,10 @@ The article's appendices compile suggested materials for ELT instructors: course
 - English vocabulary and language skills
 - Instructor knowledge of cognitive learning styles
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Index of instructional video styles (Table 2): a sampled classification of existing formats](instructional-video-style-index-table2.md)

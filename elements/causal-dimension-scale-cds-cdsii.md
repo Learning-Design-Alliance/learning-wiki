@@ -36,6 +36,10 @@ The Causal Dimension Scale, developed by Russell (1982), is a measure of how ind
 ### Target Learning Goals
 - accurate measurement of perceived causal attributions for performance outcomes
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

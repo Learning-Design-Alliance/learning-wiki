@@ -50,6 +50,10 @@ Attention-gaining events increase readiness to learn by creating an information 
 - [Clear Structure](../principles/clear-structure.md) — an attention event that previews the coming task doubles as an advance organizer, signaling what learners should attend to
 - [Active Learning](../principles/active-learning.md) — question- and scenario-based hooks pull learners into responding from the first minutes rather than receiving passively
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Activation](activation.md) — the natural follow-on; attention capture should lead into activating prior knowledge
 - [Cognitive Conflict](cognitive-conflict.md) — a specific attention-gaining mechanism built on discrepant events

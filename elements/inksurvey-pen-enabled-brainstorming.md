@@ -38,6 +38,10 @@ InkSurvey is "free, web-based software that allows students to use keyed input o
 - electronic brainstorming and group ideation
 - metacognition through open-format writing
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [InkSurvey real-time formative assessment with pen-enabled tablet computers](inksurvey-tablet-formative-assessment.md)

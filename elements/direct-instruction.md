@@ -50,6 +50,10 @@ Direct instruction reduces unguided search during initial learning, which is whe
 - [Clear Structure](../principles/clear-structure.md) — explicit signaling of goals, steps, and success criteria orients attention and supports schema formation
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the evidence base for direct instruction's advantage over minimal guidance for novices
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Explicit Teaching](explicit-teaching.md) — the closely aligned element emphasizing teacher-led explanation and modeling
 - [Worked Examples](worked-examples.md) — the example-based form of direct instruction for problem solving

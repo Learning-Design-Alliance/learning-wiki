@@ -50,6 +50,10 @@ Because working memory is severely limited and attention is selective, instructi
 - [Clear Structure & Presentation](../principles/clear-structure-presentation.md) — predictable structure tells learners where to allocate attention next, reducing effort spent on orientation
 - [Advance Organizers](advance-organizers.md) — organizers pre-direct attention to the relationships the upcoming material will present [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Chunking](../principles/chunking.md) — defines the unit of attention; attention management without chunking has nothing well-sized to point at
 - [Advance Organizers](advance-organizers.md) — orients attention before exposure begins

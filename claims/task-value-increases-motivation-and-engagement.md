@@ -10,7 +10,7 @@ sources:
     resource: "https://doi.org/10.1146/annurev.psych.53.100901.135153"
     title: "Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109–132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)"
     author: "Eccles, J. S., & Wigfield, A."
-    q: 4
+    q: 2
     i: "?"
     n: N/A
   - id: wigfield-cambria-2010
@@ -27,13 +27,13 @@ evidence_strength: strong
 # Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · `q3`–`q4`
+> **Evidence** · 2 studies · `q2`–`q3`
 
 Task value is the learner's subjective appraisal of why a task is worth doing. Expectancy-value theory identifies four components: intrinsic value (the task is inherently interesting or enjoyable), attainment value (success matters to the learner's identity or self-concept), utility value (the task is useful for future goals), and cost (what must be given up to do it). Perceived value, combined with expectancy of success, predicts choice, persistence, and quality of engagement — not just whether a learner participates, but how much they invest.
 
 ## Subclaims
 
-`q4 i?` Expectancy and task value are the two strongest proximal predictors of academic choices (course enrollment, major selection) and achievement-related effort, even after controlling for prior performance. [→ Eccles Wigfield 2002](#eccles-wigfield-2002)
+`q2 i?` Expectancy and task value are the two strongest proximal predictors of academic choices (course enrollment, major selection) and achievement-related effort, even after controlling for prior performance. [→ Eccles Wigfield 2002](#eccles-wigfield-2002)
 
 `q3 i?` Utility value (perceived usefulness for future goals) is a particularly reliable predictor of persistence in STEM fields; brief utility-value writing interventions increase engagement and grades in underrepresented groups. [→ Wigfield Cambria 2010](#wigfield-cambria-2010)
 
@@ -45,7 +45,7 @@ Task value is the learner's subjective appraisal of why a task is worth doing. E
 
 Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109–132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)
 
-`q4 · major theoretical review, summarizing 20+ years of empirical work` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
+`q2 · narrative review: theoretical synthesis` · `i? · the abstract prints no effect size; the full text may` · `n=N/A`
 
 Eccles and Wigfield present the expectancy-value framework as an integrated model of achievement motivation. They distinguish four value components and review longitudinal and experimental evidence showing these predict academic choices more reliably than prior performance alone. A key finding: value declines across schooling are steeper than ability declines, suggesting that motivation is a design problem (how we frame tasks) as much as a learning problem (whether students can do them). Design implication: learners need to understand not just how to do something but why it matters to them personally.
 

@@ -21,5 +21,9 @@ Jigsaw learning is the short-form canonical target for the jigsaw-style distribu
 - [Jigsaw Learning](../patterns/jigsaw-learning.md)
 - [Jigsaw](../patterns/jigsaw.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Jigsaw](jigsaw.md)

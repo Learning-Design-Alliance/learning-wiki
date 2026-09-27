@@ -52,6 +52,10 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Self-Determination Theory](../principles/self-determination-theory.md) — learner-paced progression and visible mastery support competence; systems that offer path choice also support autonomy
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the continuous performance data that drives adaptation doubles as formative assessment, making each item a diagnostic event
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the underlying model; adaptive systems automate its pacing and remediation decisions
 - [Spaced Repetition](spaced-repetition.md) — the scheduling mechanism for retention; adaptive systems decide *when* to resurface material

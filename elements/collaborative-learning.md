@@ -52,6 +52,10 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Constructivism](../principles/constructivism.md) — knowledge is built through negotiation of meaning; disagreement between peers creates the [Cognitive Conflict](cognitive-conflict.md) that prompts reorganization of understanding
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — dividing a complex task across members lets the group hold and process more than any individual could, provided the division of labor is well designed [~M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Collaboration](collaboration.md) — the broader element of joint work; collaborative learning is its structured, goal-directed form

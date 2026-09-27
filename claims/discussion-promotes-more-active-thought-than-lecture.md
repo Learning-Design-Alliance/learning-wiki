@@ -38,9 +38,9 @@ Lecture is not a uniformly inferior instructional method — reviews find it per
 
 ## Subclaims
 
-`q3 i?` Across more than ninety comparison studies, lecture was about as effective as other methods for helping learners acquire information, though programmed learning (small self-paced steps with early feedback and mastery-gated progression) showed some promise of being more effective specifically for this goal. [→ Dubin and Taveggia 1968](#dubin-and-taveggia-1968)
+`q2 i?` Across more than ninety comparison studies, lecture was about as effective as other methods for helping learners acquire information, though programmed learning (small self-paced steps with early feedback and mastery-gated progression) showed some promise of being more effective specifically for this goal. [→ Dubin and Taveggia 1968](#dubin-and-taveggia-1968)
 
-`q2 i2` Discussion students spent 8.3% of observed class time on active problem-solving/synthesis versus 1% for lecture students, while lecture students spent far more time in passive thought (36.8% vs. 20.3%) and irrelevant thought (31% vs. 14.5%). [→ Siegel et al 1963](#siegel-et-al-1963)
+`q3 i2` Discussion students spent 8.3% of observed class time on active problem-solving/synthesis versus 1% for lecture students, while lecture students spent far more time in passive thought (36.8% vs. 20.3%) and irrelevant thought (31% vs. 14.5%). [→ Siegel et al 1963](#siegel-et-al-1963)
 
 `q2 i?` Synthesizing this and related literature, lecture is not effective for promoting thought, changing attitudes, or teaching behavioral skills, even though it can be an effective way to transmit information — no single method emerged as superior across all four common instructional objectives (acquiring information, promoting thought, changing attitudes, teaching behavioral skills). [→ Bligh 2000](#bligh-2000)
 

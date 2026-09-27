@@ -50,6 +50,10 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — working across multiple perspectives and reorganizing knowledge for different purposes builds the flexible, multiple-representation understanding this principle targets
 - [Collaborative Learning](../principles/collaborative-learning.md) — when synthesis is distributed across group members holding different information, integration requires genuine interdependence
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Expert Groups](expert-groups.md) — each group becomes a source of partial expertise that must be integrated

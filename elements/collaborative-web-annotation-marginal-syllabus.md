@@ -36,6 +36,10 @@ Collaborative annotation with the open-source Hypothes.is tool engages learners 
 ### Target Learning Goals
 - deep critical reading and co-construction of knowledge
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Equity Unbound: an open connected course explicitly designed with social justice principles](equity-unbound-open-connected-course.md)

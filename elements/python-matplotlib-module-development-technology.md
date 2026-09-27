@@ -38,6 +38,10 @@ Python is an interpreted language typically used for desktop applications or ser
 - simulation of astrophysical processes
 - radio spectra interpretation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)

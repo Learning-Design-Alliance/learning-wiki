@@ -50,6 +50,10 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - Supports comprehension and retention through meaningful comparison
 - Helps instructors expose structure, not just vocabulary
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)
 - [Recall Prior Knowledge](recall-prior-knowledge.md)

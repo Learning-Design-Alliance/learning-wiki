@@ -21,5 +21,9 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [Holistic Learning](../principles/holistic-learning.md)
 - [Strengths-Based Approach](../principles/strengths-based-approach.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Create a Relaxed Learning Environment](create-a-relaxed-learning-environment.md)

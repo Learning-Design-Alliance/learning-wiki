@@ -39,6 +39,10 @@ Course Portal is a learning management system developed "by the use of MOODLE ve
 ### Affordances
 - [Utaut Four Constructs Lms Acceptance Framework](../theories/utaut-four-constructs-lms-acceptance-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [LMSAS: Learning Management System Acceptance Scale with four UTAUT dimensions](lmsas-acceptance-scale-four-dimensions.md)

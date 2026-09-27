@@ -184,7 +184,8 @@ def run(args) -> None:
         print(f"Excluding {len(existing_ids)} already-known article id(s) "
               f"(benchmark manifest + processed-articles registry).", flush=True)
 
-        topics = discover_articles.topics_from_wiki()
+        topics = (discover_articles.topics_from_file(args.topics_file) if args.topics_file
+                  else discover_articles.topics_from_wiki())
         state["discover"]["topics_seeded"] = len(topics)
         _save_state(state)
 
@@ -440,6 +441,8 @@ def main() -> None:
     parser.add_argument("--eric", type=int, default=discover_articles.DEFAULT_TARGETS["eric"])
     parser.add_argument("--arxiv", type=int, default=discover_articles.DEFAULT_TARGETS["arxiv"])
     parser.add_argument("--arxiv-snapshot", default=None)
+    parser.add_argument("--topics-file", default=None,
+                        help="search these topics (one per line) instead of the wiki's own theory/principle titles")
     parser.add_argument("--out", default=str(discover_articles.EVAL_ROOT / "corpus" / "manifest_bulk.json"))
     parser.add_argument("--label", default=None)
     parser.add_argument("--model", default=None,

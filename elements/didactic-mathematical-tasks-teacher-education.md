@@ -36,6 +36,10 @@ Didactic-mathematical tasks combine a professional activity of secondary teacher
 ### Target Learning Goals
 - analyzing pupils' mathematical productions and school mathematics problems
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

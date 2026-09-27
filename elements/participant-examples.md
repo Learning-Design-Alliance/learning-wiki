@@ -42,6 +42,10 @@ A participant example (Wortham, 2006) occurs when someone analyzing a case or ex
 - [Humanistic Knowledge Building Community](../strategies/humanistic-knowledge-building-community.md) — a knowledge-building design whose curated, deliberately contested materials created the conditions for this move to emerge
 - [Perspective-Taking](perspective-taking.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Perspective-Taking](perspective-taking.md) — both involve reasoning through another's position, though participant examples specifically fold the reasoner's own identity into that position
 - [Case Study](case-study.md)

@@ -51,6 +51,10 @@ Generating questions forces learners to surface gaps in their own understanding,
 - [Active Learning](../principles/active-learning.md) — question formulation replaces passive reception with generative cognitive work
 - [Cognitive Activation](../principles/cognitive-activation.md) — open, learner-owned questions provoke elaborated thinking rather than reproduction of taught content
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the instructor-led counterpart; Socratic sequences can model the question forms learners then generate themselves
 - [Research](research.md) — the typical downstream activity that learner-generated questions drive

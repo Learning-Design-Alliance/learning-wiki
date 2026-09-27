@@ -39,6 +39,10 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Model Revision](model-revision.md)
 - [Justification](justification.md)

@@ -39,6 +39,10 @@ The SoC Questionnaire is a 35-item self-report instrument for assessing individu
 ### Affordances
 - [Stages Of Concern Seven Stage Taxonomy](../theories/stages-of-concern-seven-stage-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Stages of Concern Questionnaire (SoCQ)](socq-stages-of-concern-questionnaire.md)

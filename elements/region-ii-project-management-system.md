@@ -36,6 +36,10 @@ To operate the project, a comprehensive management system was developed with an 
 ### Target Learning Goals
 - coordinated, step-by-step management of a multi-state staff development project
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

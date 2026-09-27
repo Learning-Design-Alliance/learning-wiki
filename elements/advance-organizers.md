@@ -68,6 +68,10 @@ Advance organizers improve comprehension and retention by giving learners a subs
 - [Activation](../principles/activation.md) — a comparative organizer explicitly surfaces relevant prior knowledge so new material has something to anchor to
 - [Clear Structure](../principles/clear-structure-presentation.md) — an organizer signals the macro-structure of a lesson before details arrive, supporting top-down processing
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Concept Mapping](concept-mapping.md) — a learner-generated organizer; the advance organizer is instructor-provided, the concept map learner-constructed
 - [Graphic Organizers](graphic-organizers.md) — the visual form of the same function, often used during rather than before instruction

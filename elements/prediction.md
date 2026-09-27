@@ -50,6 +50,10 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - [Active Learning](../principles/active-learning.md) — prediction converts passive reception (watching, reading) into a generative act, even within a lecture or video format
 - [Assessment for Learning](../principles/assessment-for-learning.md) — aggregated predictions give instructors a real-time map of misconceptions to address in the lesson
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Activation](activation.md) — prediction is a specific, commitment-forcing form of prior-knowledge activation
 - [Demonstration](demonstration.md) — pausing a demonstration to ask "what happens next?" interleaves prediction with modeling

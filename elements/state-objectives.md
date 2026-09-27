@@ -62,6 +62,10 @@ Stated objectives improve learning primarily by directing attention and supporti
 - [Clear Structure](../principles/clear-structure.md) — objectives are the opening move in making the shape of a lesson or course visible
 - [Understanding by Design](../processes/understanding-by-design.md) — UbD's Stage One prioritization is a structured way to decide which goals warrant the cognitive approach's enduring understandings versus more specific, behaviourally-stated objectives
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Learning Outcomes](learning-outcomes.md) — the formal, curriculum-level statements from which episode-level objectives are drawn

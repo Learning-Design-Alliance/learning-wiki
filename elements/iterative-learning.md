@@ -35,6 +35,10 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [Feedback Loops](../principles/feedback-loops.md)
 - [Mastery Learning](../principles/mastery-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Revision](revision.md)
 - [Feedback](feedback.md)

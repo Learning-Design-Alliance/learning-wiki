@@ -62,6 +62,10 @@ Procedural information reduces the working-memory burden of executing routine ta
 - [Worked Examples](../principles/worked-examples.md) — a worked example embeds procedural information in a demonstration; the annotated steps of the example *are* the procedure made visible [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - [Chunking](../principles/chunking.md) — effective procedural information groups steps into meaningful, ordered chunks matching the learner's processing capacity [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Worked Examples](worked-examples.md) — procedural information instantiated in a fully worked demonstration
 - [Practice](practice.md) — the application context in which guided steps become fluent, automated routines

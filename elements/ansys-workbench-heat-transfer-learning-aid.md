@@ -39,6 +39,10 @@ ANSYS Workbench, a commercial finite element analysis software, was linked with 
 ### Affordances
 - [Kolb Elt Cycle Engineering Module Basis](../theories/kolb-elt-cycle-engineering-module-basis.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

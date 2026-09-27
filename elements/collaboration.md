@@ -33,6 +33,10 @@ Collaboration is the short-form canonical target for learners working together t
 - [Social Learning](../principles/social-learning.md)
 - [Social Interdependence](../principles/social-interdependence.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md)
 - [Group Work](group-work.md)

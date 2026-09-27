@@ -39,6 +39,10 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Self-Regulated Learning](../principles/self-regulated-learning.md)
 - [Reflection](../principles/reflection.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Self-Assessment](self-assessment.md)
 - [Reflection](reflection.md)

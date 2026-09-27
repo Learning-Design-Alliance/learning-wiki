@@ -33,6 +33,10 @@ Small-group instruction is the element in which learners work with an instructor
 - [Flexible Grouping](../principles/flexible-grouping.md)
 - [Engagement](../principles/engagement.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Group Work](group-work.md)
 - [Peer Collaboration](peer-collaboration.md)

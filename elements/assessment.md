@@ -50,6 +50,10 @@ Assessment is the structured collection of evidence about learner understanding,
 - Supports both formative and summative decision making
 - Creates opportunities for self-assessment, peer review, and revision
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md)
 - [Quizzes](quizzes.md)

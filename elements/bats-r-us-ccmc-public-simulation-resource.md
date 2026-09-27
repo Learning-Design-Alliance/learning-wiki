@@ -36,6 +36,10 @@ BATS-R-US (Block-Adaptive-Tree-Solarwind-Roe-Upwind-Scheme) solves the 3D magnet
 ### Target Learning Goals
 - examining magnetopause location under varied solar wind conditions using research-grade simulation tools
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

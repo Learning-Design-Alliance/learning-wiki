@@ -52,6 +52,10 @@ Consensus building supports learning because articulating and defending a positi
 - [Cognitive Conflict](cognitive-conflict.md) — structured exposure to a peer's contradictory reasoning creates the disequilibrium that motivates re-examination of one's own position
 - [Argumentation](../elements/argumentation.md) — consensus building gives argumentation a purpose beyond winning: arguments must be good enough to be *incorporated*, which raises the standard of justification
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the decision-oriented variant; consensus building adds the requirement of a jointly reasoned rationale
 - [Class Discussion](class-discussion.md) — the looser whole-group form; consensus building structures it around a required joint outcome

@@ -49,6 +49,10 @@ Cumulative final exams leverage the testing effect: retrieving knowledge from ea
 - [Assessment for Learning](../principles/assessment-for-learning.md) — although summative in purpose, a final exam can be preceded by cumulative practice tests and post-exam item analysis, converting it from a pure judgment event into part of a feedback loop
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — distributing cumulative review across the term (via the exam's forward announcement) encourages spaced retrieval, which manages load better than massed pre-exam cramming
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Summative Assessment](summative-assessment.md) — the assessment category the final exam instantiates
 - [Formative Assessment](formative-assessment.md) — the necessary complement; final exams work best when learners arrive having received ongoing feedback

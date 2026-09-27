@@ -50,6 +50,10 @@ Learning contracts support learning primarily by forcing goal specification and 
 - [Clear Structure](../principles/clear-structure.md) — the written plan externalizes expectations, reducing ambiguity about what counts as done and well done
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — contracts tie evidence of accomplishment directly to demonstrated competence rather than seat time or uniform tasks
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Choice Boards](choice-boards.md) — a lighter-weight structure for offering learner choice without full contractual negotiation
 - [Assessment](assessment.md) — the contract's evidence section must connect to the course's assessment system

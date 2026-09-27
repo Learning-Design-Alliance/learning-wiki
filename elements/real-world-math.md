@@ -20,3 +20,7 @@ Real-world math is the element in which mathematical reasoning is embedded in pr
 ## Affordances
 - [Real-World Math](../principles/real-world-math.md)
 - [Problem-Based Learning](../principles/problem-based-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 

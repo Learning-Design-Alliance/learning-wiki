@@ -39,6 +39,10 @@ Semantic mapping is a classroom technique for teaching reading comprehension tha
 ### Affordances
 - [Three Semantic Mapping Strategy Variants](../theories/three-semantic-mapping-strategy-variants.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

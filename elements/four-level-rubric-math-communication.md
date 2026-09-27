@@ -39,6 +39,10 @@ An assessment instrument (Table 1) that scores students' mathematical communicat
 - mathematical representation
 - explanation and argumentation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

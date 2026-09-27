@@ -50,6 +50,10 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - [Active Learning](../principles/active-learning.md) — investigation requires learners to generate, evaluate, and revise ideas rather than passively receive them
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — research processes can be made visible through expert modeling of how investigators formulate and refine questions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Inquiry-Based Exploration](inquiry-based-exploration.md) — the exploratory phase; inquiry and research adds systematic evidence gathering and evaluation
 - [Knowledge-Building](knowledge-building.md) — the collaborative construction of explanations that inquiry findings feed into

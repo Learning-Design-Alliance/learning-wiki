@@ -23,6 +23,10 @@ Pre-reading questioning is the element in which learners preview a text through 
 - [Pre-Reading Questioning](../principles/pre-reading-questioning.md)
 - [Activation](../principles/activation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Pre-Reading Activities](pre-reading-activities.md)
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

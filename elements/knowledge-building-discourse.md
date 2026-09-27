@@ -50,6 +50,10 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [Collaborative Learning](../principles/collaborative-learning.md) — knowledge-building discourse is the talk-based engine of collaboration: the group's product is an improved explanation, not just a completed task
 - [Constructivism](../theories/constructivism.md) — learners actively construct understanding by reconciling their ideas with evidence and peers' counterarguments
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Socratic Seminar](socratic-seminar.md) — a formalized discourse structure built on questioning
 - [Peer Discussion](peer-discussion.md) — the small-group form of knowledge-building talk

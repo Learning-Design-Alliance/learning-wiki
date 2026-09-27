@@ -38,6 +38,10 @@ An instructional component patterned from the Singapore Polytechnic Design Think
 - critical thinking ability
 - teamwork and collaboration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

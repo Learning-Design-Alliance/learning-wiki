@@ -41,6 +41,10 @@ Student-centered learning environments provide "interactive, complimentary activ
 - [Five Foundations Learning Environments Framework](../theories/five-foundations-learning-environments-framework.md)
 - [Student Centered Environments Assumptions Framework](../theories/student-centered-environments-assumptions-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

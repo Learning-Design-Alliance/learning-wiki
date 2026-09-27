@@ -21,6 +21,10 @@ Cognitive load management is the element in which instruction is designed to red
 - [Cognitive Load Management](../principles/cognitive-load-management.md)
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Worked Examples](worked-examples.md)
 - [Scaffolding](scaffolding.md)

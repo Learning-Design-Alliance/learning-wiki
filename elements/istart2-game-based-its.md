@@ -37,6 +37,10 @@ iSTART-2 is "a game-based ITS designed to improve high school students' reading 
 - self-explanation strategy generation and identification
 - reading comprehension
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

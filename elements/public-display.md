@@ -20,5 +20,9 @@ Public display is the element in which learner work is made visible to a wider a
 ## Affordances
 - [Authentic Audiences/Purposes](../principles/authentic-audiences-purposes.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Public Product](public-product.md)

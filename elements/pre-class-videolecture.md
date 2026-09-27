@@ -52,6 +52,10 @@ Pre-class video works only when paired with accountability and application: stud
 - [Chunking](../principles/chunking.md) — short, single-objective videos enact chunking by presenting one concept per segment
 - [Clear Structure](../principles/clear-structure-presentation.md) — a video with explicit objectives, signaling, and a predictable format reduces extraneous processing
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — the text-based alternative for pre-class first exposure; video offers better control of pace and tone, text offers faster skimming and search
 - [Practice](practice.md) — the in-class activity the video should feed into

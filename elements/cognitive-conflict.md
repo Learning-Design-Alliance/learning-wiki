@@ -50,6 +50,10 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — confronting multiple contradictory framings of the same phenomenon trains learners to represent knowledge from more than one perspective, the core goal of [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
 - [Active Learning](../principles/active-learning.md) — conflict demands a response (prediction, argument, revision), making it a reliable generator of the engagement active learning requires
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Discrepant Events](discrepant-events.md) — the demonstration-based form: an observed outcome that violates prediction
 - [Debate](debate.md) — a social structure for sustained cognitive conflict between positions

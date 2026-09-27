@@ -21,6 +21,10 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [Jigsaw](../patterns/jigsaw.md)
 - [Collaborative Learning](../principles/collaborative-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Group Work](group-work.md)
 - [Peer Teaching](peer-teaching.md)

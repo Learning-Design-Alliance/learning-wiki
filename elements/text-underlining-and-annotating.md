@@ -64,6 +64,10 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [Chunking](../principles/chunking.md) — marking boundaries between ideas segments text into reviewable units, reducing the load of re-reading long passages
 - [Clear Structure](../principles/clear-structure.md) — consistent marking conventions (e.g., underline = claim, margin note = question) make a text's argumentative structure visible on re-reading
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the relevance framework novices need before marking selectively
 - [Summarization](../strategies/summarization.md) — the natural next step; annotations become the raw material for summaries

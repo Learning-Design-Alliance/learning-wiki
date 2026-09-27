@@ -50,6 +50,10 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Activation](../principles/activation.md) — analysis identifies the prior knowledge worth activating; you cannot design an effective activation activity without knowing what is already there
 - [Accommodations](accommodations.md) — analysis surfaces accessibility needs, language backgrounds, and processing differences that require designed-in flexibility rather than retrofitted fixes
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bridge built from what analysis reveals about prior knowledge to new content
 - [Analogies](analogies.md) — effective only when the source domain is genuinely familiar to the analyzed audience

@@ -39,6 +39,10 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Metacognition](../principles/metacognition.md)
 - [Creating Visual Representations](../principles/creating-visual-representations.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Graphic Organizers](graphic-organizers.md)

@@ -49,6 +49,10 @@ Peer review is the element in which learners examine and respond to one another'
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Feedback Loops](../principles/feedback-loops.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Feedback](feedback.md)
 - [Revision](revision.md)

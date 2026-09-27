@@ -36,6 +36,10 @@ An assessment method in which children are videotaped playing with opposite-sex-
 ### Target Learning Goals
 - understanding of gender identity and its constancy across transformations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

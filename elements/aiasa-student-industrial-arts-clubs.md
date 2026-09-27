@@ -36,6 +36,10 @@ The American Industrial Arts Student Association (AIASA) is a national student c
 ### Target Learning Goals
 - Familiarity with industrial and technical fields, leadership development, and improved attitudes toward industrial arts
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

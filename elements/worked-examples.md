@@ -33,6 +33,10 @@ Worked examples are the element in which learners study complete or partial solu
 - [Worked Examples](../principles/worked-examples.md)
 - [Scaffolding](../principles/scaffolding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md)
 - [Fading](fading.md)

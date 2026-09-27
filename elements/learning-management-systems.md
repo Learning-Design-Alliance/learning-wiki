@@ -20,6 +20,10 @@ Learning management systems are the element in which course organization, materi
 ## Affordances
 - [Digital Learning](../principles/digital-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)
 - [Progress Tracking](progress-tracking.md)

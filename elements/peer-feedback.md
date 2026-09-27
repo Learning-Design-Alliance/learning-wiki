@@ -20,6 +20,10 @@ Peer feedback is the element in which learners respond to one another's work wit
 ## Affordances
 - [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Feedback/Peer Review](peer-feedbackpeer-review.md)
 - [Peer Review](peer-review.md)

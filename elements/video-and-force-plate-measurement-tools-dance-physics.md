@@ -39,6 +39,10 @@ The course uses two measurement tools: digital video cameras, from which positio
 - measuring force and motion
 - data analysis skills
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

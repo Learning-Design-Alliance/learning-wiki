@@ -51,6 +51,10 @@ Accommodations improve access and performance for learners whose needs conflict 
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — plain-language rewrites of instructions are a linguistic accommodation that preserves content demands
 - [Assessment for Learning](../principles/assessment-for-learning.md) — accommodations keep formative assessment interpretable by ensuring performance reflects the target skill rather than the access barrier
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Choice Boards](choice-boards.md) — a structured way to offer response-format accommodations without individual negotiation
 - [Check-In](check-in.md) — the monitoring mechanism that reveals whether an accommodation is actually being used and working

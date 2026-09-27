@@ -33,6 +33,10 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Multimodal Instruction](../principles/multimodal-instruction.md)
 - [Active Learning](../principles/active-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Hypertext Navigation](hypertext-navigation.md)
 - [Multimedia Learning](multimedia-learning.md)

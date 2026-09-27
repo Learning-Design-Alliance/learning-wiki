@@ -36,6 +36,10 @@ This article adapts Dweck's four-item Goal Orientation Scale into Turkish, with 
 ### Target Learning Goals
 - measuring achievement goal orientation (learning vs performance)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

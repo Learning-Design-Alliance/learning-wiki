@@ -20,3 +20,7 @@ Social learning is the element in which interaction with peers, models, or commu
 ## Affordances
 - [Social Learning](../principles/social-learning.md)
 - [Collaborative Learning](../principles/collaborative-learning.md)
+
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 

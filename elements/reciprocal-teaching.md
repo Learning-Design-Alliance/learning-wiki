@@ -50,6 +50,10 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 - [Collaborative Learning](../principles/collaborative-learning.md) — comprehension is negotiated through dialogue; peers' questions and clarifications surface misunderstandings an individual reader would leave hidden
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the instructor's modeling phase makes invisible comprehension processes overt, then coaches students as they attempt the role
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the rotating leader role is a structured form of peer teaching with built-in expert modeling
 - [Coaching](coaching.md) — the instructor's role during student-led sessions is coaching, not observing

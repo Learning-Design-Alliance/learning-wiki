@@ -37,6 +37,10 @@ The Pigelleto's Summer School of Physics is a four-day full-immersion residentia
 - orientation toward physics degrees
 - scientific method and laboratory experience
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [How-it-works laboratory activities in which students discover underlying physics](how-it-works-lab-activity.md)

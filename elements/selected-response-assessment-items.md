@@ -57,6 +57,10 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 ### Affordances
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — selected-response items trade some validity (format constrains what can be assessed) for reliability (no scorer judgment involved)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Constructed-Response Assessment Items](constructed-response-assessment-items.md) — the complementary item family for goals selected-response can't reach

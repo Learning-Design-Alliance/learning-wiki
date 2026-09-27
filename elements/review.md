@@ -50,6 +50,10 @@ Review supports learning because evaluating work requires comparing it against a
 - [Assessment for Learning](../principles/assessment-for-learning.md) — learners internalize the criteria by which they will be judged, making assessment transparent rather than a black box
 - [Active Learning](../principles/active-learning.md) — reviewing is an generative act; learners construct judgments rather than passively receiving them
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - Peer Review — the social form of review; peers exchange work and apply criteria to each other's drafts
 - Self-Assessment — the internal form; learners judge their own work against the same criteria

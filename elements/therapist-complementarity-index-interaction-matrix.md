@@ -36,6 +36,10 @@ The article develops a quantification of therapist complementarity: a 4x4 Intera
 ### Target Learning Goals
 - quantifying and adjusting interpersonal complementarity in helping relationships
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

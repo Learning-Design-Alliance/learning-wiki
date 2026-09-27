@@ -23,6 +23,10 @@ Mastery learning is the element in which progression depends on demonstrated und
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Reassessment](reassessment.md)
 - [Formative Assessment](formative-assessment.md)

@@ -23,6 +23,10 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Graphic Organizers](../principles/graphic-organizers.md)
 - [Dual Coding](../principles/dual-coding.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Concept Mapping](concept-mapping.md)
 - [Creating Visual Representations](creating-visual-representations.md)

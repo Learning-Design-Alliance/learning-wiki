@@ -38,6 +38,10 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Metacognition](../principles/metacognition.md)
 - [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Articulation](articulation.md)
 - [Think-Aloud](think-aloud.md)

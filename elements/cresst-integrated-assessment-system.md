@@ -42,6 +42,10 @@ The Integrated Assessment System is CRESST's collective name for a suite of soft
 ### Affordances
 - [Cresst Model Of Learning Five Families](../theories/cresst-model-of-learning-five-families.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Application programming interfaces as shared infrastructure for automated assessment tools](assessment-tool-apis-shared-infrastructure.md)

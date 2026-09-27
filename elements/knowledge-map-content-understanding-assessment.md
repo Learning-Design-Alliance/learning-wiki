@@ -40,6 +40,10 @@ A knowledge mapping task in which participants build a map of the game's content
 ### Affordances
 - [Cresst Problem Solving Model](../theories/cresst-problem-solving-model.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

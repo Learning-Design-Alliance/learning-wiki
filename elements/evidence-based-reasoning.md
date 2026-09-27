@@ -50,6 +50,10 @@ Evidence-based reasoning supports conceptual change by requiring learners to con
 - [Active Learning](../principles/active-learning.md) — learners generate judgments and justifications rather than receiving conclusions, producing deeper processing than passive presentation of the correct model
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — making expert evidential reasoning visible (how a scientist weighs conflicting data) lets learners appropriate disciplinary norms of justification
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Argumentation](argumentation.md) — the discourse structure through which evidence-based reasoning is expressed and refined
 - [Cognitive Conflict](cognitive-conflict.md) — the mechanism by which evidence contradicting prior beliefs opens the door to conceptual change

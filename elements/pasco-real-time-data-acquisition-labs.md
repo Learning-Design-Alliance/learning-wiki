@@ -36,6 +36,10 @@ The technology intervention consisted of Pasco data acquisition hardware and dat
 ### Target Learning Goals
 - conceptual understanding of Newtonian mechanics, including momentum and collisions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

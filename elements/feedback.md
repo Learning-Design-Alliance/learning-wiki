@@ -50,6 +50,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Assessment for Learning](../principles/assessment-for-learning.md) — feedback converts assessment from measurement into instruction; the assessment itself becomes the feedback event
 - [Scaffolding](../principles/scaffolding.md) — feedback is a responsive scaffold that fades as learners internalize evaluative criteria [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the assessment structure that generates feedback while learning is still underway
 - [Coaching](coaching.md) — the delivery mode in which feedback is embedded in ongoing, situated guidance

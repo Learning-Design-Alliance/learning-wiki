@@ -50,6 +50,10 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — coaching is the second phase of this pattern, following [Demonstration](demonstration.md) (modeling) and preceding learner [Articulation](articulation.md) and reflection
 - [Assessment for Learning](../principles/assessment-for-learning.md) — continuous observation during coaching is formative assessment in its most direct form; feedback is immediate and tied to visible performance
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the structural principle coaching operationalizes; coaching is scaffolding delivered interactively
 - [Feedback](feedback.md) — the core intervention a coach delivers; coaching wraps feedback in diagnosis and relationship

@@ -39,6 +39,10 @@ The Learning Management System Acceptance Scale (LMSAS) by Sezer and Yilmaz (201
 ### Affordances
 - [Utaut Four Constructs Lms Acceptance Framework](../theories/utaut-four-constructs-lms-acceptance-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Course Portal: a Moodle-based LMS supporting blended instruction at a Turkish vocational school](course-portal-moodle-lms-vocational-school.md)

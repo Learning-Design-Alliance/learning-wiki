@@ -38,6 +38,10 @@ Each GSA manual directs the teacher to code a videotaped lesson on a Coding Form
 - objective self-assessment of teaching behaviors
 - tracking self-improvement over time
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

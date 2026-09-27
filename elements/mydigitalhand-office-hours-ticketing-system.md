@@ -36,6 +36,10 @@ MyDigitalHand (MDH) is "a ticketing system for help requests" used in the studie
 ### Target Learning Goals
 - Managing and tracking student help requests during office hours
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

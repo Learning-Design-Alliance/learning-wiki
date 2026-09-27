@@ -39,6 +39,10 @@ Four pilot multimedia learning modules (MLMs) were developed covering Coulomb's 
 ### Affordances
 - [Multimedia Learning Theory Dual Channel Limited Capacity](../theories/multimedia-learning-theory-dual-channel-limited-capacity.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

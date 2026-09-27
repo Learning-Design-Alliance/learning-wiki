@@ -37,6 +37,10 @@ A dataset from the 'Psychology MOOC GT - Spring 2013' course, accessed via DataS
 ### Target Learning Goals
 - student modeling and knowledge inference research on skill-tagged response data
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

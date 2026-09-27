@@ -38,6 +38,10 @@ The three classic Pippi Longstocking books by Astrid Lindgren (written in Swedis
 ### Target Learning Goals
 - understanding how educational philosophies manifest in practices and stakeholder roles
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

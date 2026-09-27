@@ -36,6 +36,10 @@ Each of the four units includes a common labor-management content strand. Studen
 ### Target Learning Goals
 - Understanding workplace labor-management relations as part of career education
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

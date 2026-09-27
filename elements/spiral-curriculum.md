@@ -33,6 +33,10 @@ Spiral curriculum is the element in which important ideas are revisited repeated
 - [Memory Consolidation](../principles/memory-consolidation.md)
 - [Spaced Learning](../principles/spaced-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Continuous Review](continuous-review.md)
 - [Spaced Repetition](spaced-repetition.md)

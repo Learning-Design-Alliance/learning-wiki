@@ -52,6 +52,10 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed application sequences (worked example → completion → independent problem) manage intrinsic load while preserving the generative effort that builds schemas
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — application tasks gain motivational force and transfer value when they serve a real purpose for a real audience
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — application at scale; repeated, spaced, and varied application constitutes practice
 - [Coaching](coaching.md) — supplies the feedback loop that makes application corrective rather than self-reinforcing of errors

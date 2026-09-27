@@ -36,6 +36,10 @@ A longitudinal data collection design in which randomly equivalent groups receiv
 ### Target Learning Goals
 - Establishing a common scale for measuring achievement growth across measurement occasions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

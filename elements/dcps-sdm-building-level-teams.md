@@ -36,6 +36,10 @@ The SDM is a District of Columbia Public Schools model that decentralizes identi
 ### Target Learning Goals
 - Analyzing learning and programming for students, early intervention in regular education, and planning appropriate education in the least restrictive environment
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

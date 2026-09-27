@@ -50,6 +50,10 @@ Involving learners in defining quality criteria converts assessment from an exte
 - [Assessment for Learning](../principles/assessment-for-learning.md) — criteria development makes learners participants in the assessment process rather than its objects, aligning with formative use of evaluation
 - [Active Learning](../principles/active-learning.md) — learners construct the evaluative framework rather than receiving it, producing deeper processing of quality dimensions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Rubric Design](rubric-design.md) — the instructor-facing counterpart; criteria development is learners doing it themselves
 - [Self-Assessment](self-assessment.md) — the primary application of learner-built criteria to one's own work

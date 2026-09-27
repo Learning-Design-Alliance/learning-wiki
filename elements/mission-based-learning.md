@@ -52,6 +52,10 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed missions sequence sub-goals and provide just-in-time resources so the whole task does not overwhelm working memory
 - [Scaffolding](../principles/scaffolding.md) — missions can embed graduated support: hints, tools, and coaching delivered as the learner progresses
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Problem-Based Learning](problem-based-learning.md) — the problem-driven cousin; missions add explicit goal framing and success criteria to an open problem
 - [Scenario-Based Learning](scenario-based-learning.md) — supplies the narrative context in which a mission is situated

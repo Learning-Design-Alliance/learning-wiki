@@ -37,6 +37,10 @@ Learner-authored texts used as supplementary reading resources in literacy instr
 - reading comprehension
 - conceptual understanding
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

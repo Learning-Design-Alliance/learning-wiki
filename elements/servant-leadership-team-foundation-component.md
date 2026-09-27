@@ -40,6 +40,10 @@ Servant leadership is the final component of the Team Learning Foundation, intro
 ### Affordances
 - [360 Team Learning Foundation Platform](../theories/360-team-learning-foundation-platform.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Collaborative Way teaming model (Fickett and Fickett)](collaborative-way-teaming-model.md)

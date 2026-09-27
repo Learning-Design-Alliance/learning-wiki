@@ -36,6 +36,10 @@ Within a research-practice partnership with a professional development organizat
 ### Target Learning Goals
 - developing pedagogical judgment through video-based debrief conversation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Video-Based Reflection](video-based-reflection.md)

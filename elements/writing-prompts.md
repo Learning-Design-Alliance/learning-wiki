@@ -51,6 +51,10 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 - [Assessment for Learning](../principles/assessment-for-learning.md) — prompts generate written evidence of thinking that instructors can diagnose and respond to, making them the raw material of formative feedback loops
 - [Autonomy](../principles/autonomy.md) — offering choice among prompts (or a constrained topic with free angle of attack) supports ownership without sacrificing task clarity
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Practice](practice.md) — prompts are a form of generative practice; the same fading logic applies (framed → scaffolded → open)
 - [Think-Aloud](think-aloud.md) — prompts can ask learners to write their reasoning, a written analogue of think-aloud protocols

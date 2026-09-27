@@ -51,6 +51,10 @@ Effective PE instruction sequences observation, guided practice, and application
 - [Active Learning](../principles/active-learning.md) — PE is inherently active, but design must ensure *cognitive* engagement (decision-making in games), not just physical activity
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — expert modeling of tactics and movement, followed by coached practice, mirrors the modeling–coaching–fading cycle
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md) — the primary means of conveying a movement model; silent or over-verbalized demonstrations are less effective
 - [Practice](practice.md) — distributed, high-volume trials with feedback are the engine of motor learning

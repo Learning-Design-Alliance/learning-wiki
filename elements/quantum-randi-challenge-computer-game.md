@@ -41,6 +41,10 @@ The QRC is a computer game that anybody can modify, designed to reject hidden va
 - understanding why local hidden variable models cannot reproduce quantum correlations
 - understanding randomness and Bell inequality violations
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

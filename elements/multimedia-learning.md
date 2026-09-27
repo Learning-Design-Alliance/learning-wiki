@@ -34,6 +34,10 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Dual Coding](../principles/dual-coding.md)
 - [Cognitive Load Management](../principles/cognitive-load-management.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Digital Learning](digital-learning.md)
 - [Hypertext Navigation](hypertext-navigation.md)

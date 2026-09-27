@@ -40,6 +40,10 @@ The article describes a set of teaching tasks developed to elicit variation in t
 ### Affordances
 - [Teaching Style Intervening Variable Framework](../theories/teaching-style-intervening-variable-framework.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)](eight-teaching-style-scales-garfunkel.md)

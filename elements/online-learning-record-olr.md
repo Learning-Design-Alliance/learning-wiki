@@ -36,6 +36,10 @@ The OLR is described as "a portfolio record integrating classroom activity (teac
 ### Target Learning Goals
 - self-evaluation, reflection, and development in rhetoric, research, and collaboration
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

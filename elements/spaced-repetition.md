@@ -39,6 +39,10 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Memory Consolidation](../principles/memory-consolidation.md)
 - [Retrieval Practice](../principles/retrieval-practice.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Continuous Review](continuous-review.md)
 - [Retrieval Practice](retrieval-practice.md)

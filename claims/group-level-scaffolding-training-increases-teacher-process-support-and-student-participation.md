@@ -29,11 +29,11 @@ Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed t
 
 `q3 i2` Trained teachers checked whether the group could continue independently significantly more often than untrained teachers (6.9%/15.6% vs. 3.2%/7.4% of utterances; p=.045), and provided process support (encouraging peer explanation) significantly more often (18.5%/14.7% vs. 5.3%/7.4%; p=.004). [→ Calor et al. 2022](#calor-et-al-2022)
 
-`q3 i3` Trained teachers gave direct mathematical content support in a substantially smaller share of utterances than untrained teachers (50.2% vs. 79.3%; p<.001), consistent with a shift toward more varied, less content-dominant scaffolding. [→ Calor et al. 2022](#calor-et-al-2022)
+`q3 i2` Trained teachers gave direct mathematical content support in a substantially smaller share of utterances than untrained teachers (50.2% vs. 79.3%; p<.001), consistent with a shift toward more varied, less content-dominant scaffolding. [→ Calor et al. 2022](#calor-et-al-2022)
 
 `q3 i0` The proportion of content support that was well-calibrated ("contingent") to the group's actual understanding did not differ significantly between trained and untrained teachers (61% vs. 49%; p=.134) — the tool changed which scaffolding moves teachers used, not the accuracy of the content support itself. [→ Calor et al. 2022](#calor-et-al-2022)
 
-`q3 i3` The average number of students actively participating in a teacher–small-group interaction was substantially higher for trained teachers (M=3.48, SD=0.71) than untrained teachers (M=1.96, SD=0.73); t(56)=7.96, p<.001. [→ Calor et al. 2022](#calor-et-al-2022)
+`q3 i2` The average number of students actively participating in a teacher–small-group interaction was substantially higher for trained teachers (M=3.48, SD=0.71) than untrained teachers (M=1.96, SD=0.73); t(56)=7.96, p<.001. [→ Calor et al. 2022](#calor-et-al-2022)
 
 ## Evidence
 

@@ -50,6 +50,10 @@ Experimentation supports learning by making learners active generators and teste
 - [Autonomy](../principles/autonomy.md) — letting learners choose what to vary and investigate supports intrinsic motivation, provided the choice space is bounded [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed simulations and structured lab templates offload procedural overhead so working memory is spent on the hypothesis–evidence relationship
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Application](application-of-knowledge.md) — experimentation is application with a hypothesis-testing structure layered on top
 - [Articulation](articulation.md) — learners must state predictions and interpretations for the cycle to produce conceptual change

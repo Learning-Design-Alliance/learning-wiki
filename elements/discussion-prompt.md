@@ -50,6 +50,10 @@ Discussion prompts convert passive content exposure into active knowledge constr
 - [Cognitive Activation](../principles/cognitive-activation.md) — a well-posed prompt creates the productive disequilibrium that drives deeper processing
 - [Communities of Practice](../principles/communities-of-practice.md) — recurring discussion prompts around authentic problems help learners adopt the discourse norms of a discipline
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Moderation](moderation.md) — the facilitation that keeps prompt-driven discussion substantive rather than performative
 - [Socratic Questioning](socratic-questioning.md) — a disciplined follow-up questioning style that deepens responses to a prompt

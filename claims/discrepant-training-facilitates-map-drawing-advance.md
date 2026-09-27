@@ -30,7 +30,7 @@ sources:
 
 ## Subclaims
 `q2 i2` The +1 and +2 external disequilibrium treatments together produced significantly higher adjusted posttest Map Drawing Mean scores than the 0 (own-level) treatment. [→ Snyder 1975](#snyder-1975)
-`q2 i2` The 0 treatment produced no significant pre-to-posttest change in Map Drawing Mean. [→ Snyder 1975 (2)](#snyder-1975-2)
+`q2 i0` The 0 treatment produced no significant pre-to-posttest change in Map Drawing Mean. [→ Snyder 1975 (2)](#snyder-1975-2)
 
 ## Evidence
 

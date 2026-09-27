@@ -23,6 +23,10 @@ Collaborative inquiry is the element in which learners investigate a question to
 - [Collaborative Learning](../principles/collaborative-learning.md)
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Group Work](group-work.md)
 - [Guided Inquiry](guided-inquiry.md)

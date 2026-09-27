@@ -36,6 +36,10 @@ CAI-Structured is the dissertation's experimental treatment: a computer assisted
 ### Target Learning Goals
 - recall and retention of instructional content
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

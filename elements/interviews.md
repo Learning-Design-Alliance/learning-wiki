@@ -51,6 +51,10 @@ Interviews make learning situated and purposeful: learners must activate prior k
 - [Building Empathy](../principles/building-empathy.md) — structured listening to personal narratives is a core mechanism of perspective-taking interventions; interviews operationalize it with real interlocutors
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — interviewing a practitioner exposes learners to how experts frame problems and narrate their own practice, a form of access to expert thinking that complements observation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Case Studies](case-studies.md) — interviews can supply primary material for cases; cases give interviews an analytical frame
 - [Coaching](coaching.md) — the interviewee functions as a one-shot coach; coaching extends that exchange over time

@@ -50,6 +50,10 @@ Continuous review counters the steep forgetting curve by re-exposing learners to
 - Memory Consolidation — each spaced retrieval reactivates and stabilizes memory traces during consolidation, which is why distributed review outperforms equivalent massed study time [+S]
 - [Active Learning](../principles/active-learning.md) — effective review is retrieval, not re-exposure; it enacts active learning by making learners reconstruct knowledge from memory
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md) — the scheduling algorithm that determines *when* review occurs
 - [Retrieval Practice](retrieval-practice.md) — the activity that makes review effective; review without retrieval is rereading

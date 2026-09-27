@@ -21,6 +21,10 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Flipped Learning](../principles/flipped-learning.md)
 - [Digital Learning](../principles/digital-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)
 - [In-Class Activities](in-class-activities.md)

@@ -36,6 +36,10 @@ A set of six maps supplementing the Fall 2012 telephone survey of the Pearce and
 ### Target Learning Goals
 - Informing district decisions about single-gender middle school options
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

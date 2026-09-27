@@ -36,6 +36,10 @@ A parent-reported questionnaire score measuring experiences during AAC implement
 ### Target Learning Goals
 - Assessing parent-reported quality of AAC implementation experiences, including professional support and family-centered service dimensions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

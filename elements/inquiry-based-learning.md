@@ -33,6 +33,10 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 - [Active Learning](../principles/active-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)
 - [Problem-Based Learning](problem-based-learning.md)

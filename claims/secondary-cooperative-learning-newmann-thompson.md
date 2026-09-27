@@ -30,7 +30,7 @@ sources:
 
 ## Subclaims
 `q3 i?` Newmann and Thompson's review of 27 high-quality secondary studies yielded 37 comparisons; cooperative learning was favored at the .05 level for 25 comparisons (68%), with effect sizes from .87 to 5.15. [→ Blosser 1993](#blosser-1993)
-`q2 i?` Success varied by method and context: STAD was the most consistently successful method and Jigsaw the least; greatest success was in grades 8 and 9, and only 33% of grade 10-12 studies were successful. [→ Blosser 1993 (2)](#blosser-1993-2)
+`q3 i?` Success varied by method and context: STAD was the most consistently successful method and Jigsaw the least; greatest success was in grades 8 and 9, and only 33% of grade 10-12 studies were successful. [→ Blosser 1993 (2)](#blosser-1993-2)
 
 ## Evidence
 

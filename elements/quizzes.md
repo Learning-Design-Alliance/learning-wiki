@@ -51,6 +51,10 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Mastery Learning](../principles/mastery-learning.md) — quizzes provide the checkpoint mechanism: learners advance only after demonstrating criterion performance
 - [Spaced Repetition](spaced-repetition.md) — quiz scheduling is the delivery vehicle for spacing; systems resurface items at expanding intervals
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md) — the underlying mechanism; a quiz is retrieval practice with assessment structure
 - [Formative Assessment](formative-assessment.md) — the broader function quizzes serve when results inform teaching

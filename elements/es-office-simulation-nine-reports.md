@@ -40,6 +40,10 @@ The report's central artifact is a computer simulation of a local office day, st
 ### Affordances
 - [Descriptive Simulation Modeling Framework Es Office](../theories/descriptive-simulation-modeling-framework-es-office.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

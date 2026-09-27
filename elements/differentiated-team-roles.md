@@ -51,6 +51,10 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — role rotation lets learners practice the articulation and [coaching](coaching.md) functions that experts perform, making tacit collaborative moves explicit
 - [Social Learning Theory](../theories/social-learning-theory.md) — observing peers competently enacting a role provides a model learners can later adopt when roles rotate
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assigned Positions](assigned-positions.md) — the more general mechanism of assigning seats or functions within group work
 - [Collaboration](collaboration.md) — the broader element that differentiated roles structure

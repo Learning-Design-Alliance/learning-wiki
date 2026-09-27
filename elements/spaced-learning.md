@@ -21,6 +21,10 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Spaced Learning](../principles/spaced-learning.md)
 - [Memory Consolidation](../principles/memory-consolidation.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md)
 - [Retrieval Practice](retrieval-practice.md)

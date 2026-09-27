@@ -21,6 +21,10 @@ Shared documents are the element in which multiple learners contribute to a comm
 - [Collaborative Learning](../principles/collaborative-learning.md)
 - [Digital Learning](../principles/digital-learning.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)
 - [Communication Channels](communication-channels.md)

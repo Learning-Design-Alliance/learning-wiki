@@ -53,6 +53,10 @@ Rebuttals deepen argumentation quality because constructing a counterargument re
 - [Collaborative Learning](../principles/collaborative-learning.md) — rebuttals are inherently dialogic; preparing and delivering them within teams distributes evidence-gathering and exposes learners to peers' reasoning
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — a well-formed rebuttal destabilizes a learner's current position, creating the conceptual conflict that drives accommodation
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Argumentation](argumentation.md) — the foundational skill; rebuttal is argumentation under opposition
 - [Perspective-Taking](perspective-taking.md) — accurate rebuttal presupposes representing the other side faithfully

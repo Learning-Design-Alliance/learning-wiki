@@ -35,6 +35,10 @@ Observation also functions as a teacher's primary *informal assessment* tool —
 - [Observation/Shadowing](../principles/observationshadowing.md)
 - [Metacognition](../principles/metacognition.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Demonstration](demonstration.md)
 - [Contextualization](contextualization.md)

@@ -50,6 +50,10 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 - [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the inquiry cycle enacts the exploration and articulation phases, with learners practicing expert investigative methods under coaching
 - [Collaborative Learning](../principles/collaborative-learning.md) — group investigation distributes evidence-gathering and forces learners to negotiate explanations, exposing reasoning to scrutiny
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Coaching](coaching.md) — instructor guidance during investigation is what separates effective scaffolded inquiry from ineffective discovery
 - [Case Studies](case-studies.md) — a structured inquiry format using authentic cases as the object of investigation

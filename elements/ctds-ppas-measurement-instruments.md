@@ -39,6 +39,10 @@ The study deploys two Likert-type instruments: the Critical Thinking Disposition
 ### Affordances
 - [Educational Philosophies Four Category Traditional Contemporary Taxonomy](../theories/educational-philosophies-four-category-traditional-contemporary-taxonomy.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

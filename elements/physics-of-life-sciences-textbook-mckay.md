@@ -37,6 +37,10 @@ A draft calculus-based textbook by Prof. Timothy McKay used as the core of the r
 - connecting fundamental physical principles to the form and function of organisms
 - applying physical scaling laws to living systems
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

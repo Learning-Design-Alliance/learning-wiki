@@ -50,6 +50,10 @@ Submission creates the accountability structure that makes practice productive: 
 - [Active Learning](../principles/active-learning.md) — a submission requirement converts passive consumption into production; learners must generate an artifact, not just attend or read
 - [Mastery Learning](../principles/mastery-learning.md) — paired with resubmission policies, submission enables the mastery cycle of attempt, feedback, correction, and re-attempt until proficiency is demonstrated
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Assessment](assessment.md) — the evaluative frame that gives submission its criteria and stakes
 - [Feedback](feedback.md) — the response that makes submission worth doing; submission without feedback is bookkeeping

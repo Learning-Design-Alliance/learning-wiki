@@ -33,6 +33,10 @@ Communication channels are the element in which learners use designated tools or
 - [Community of Inquiry](../principles/community-of-inquiry.md)
 - [Social Interdependence](../principles/social-interdependence.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Collaboration](collaboration.md)
 - [Task Management](task-management.md)

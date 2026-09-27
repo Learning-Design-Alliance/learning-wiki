@@ -29,9 +29,9 @@ A museum exhibit that adds computer-vision sensing and a real-time predict-obser
 
 `q3 i3` Children using the intelligent exhibit improved more on a subsequent, unguided tower-building task than children using the unfacilitated exhibit (M=+0.875 vs. M=−0.50; t(31)=2.44, p=.05; d=0.96) — despite building fewer towers overall, since the unfacilitated group spent more raw time on construction with no corresponding improvement. [→ Yannier et al. 2022](#yannier-et-al-2022)
 
-`q2 i3` In naturalistic museum-floor observation over two weeks, the intelligent exhibit was occupied 56% of open hours versus 27% for the unfacilitated exhibit, with average visit length 4.1 times longer (6.25 vs. 1.51 minutes; t(102)=5.29, p<.001). [→ Yannier et al. 2022](#yannier-et-al-2022)
+`q3 i3` In naturalistic museum-floor observation over two weeks, the intelligent exhibit was occupied 56% of open hours versus 27% for the unfacilitated exhibit, with average visit length 4.1 times longer (6.25 vs. 1.51 minutes; t(102)=5.29, p<.001). [→ Yannier et al. 2022](#yannier-et-al-2022)
 
-`q2 i0` Self-reported enjoyment did not differ between the intelligent and unfacilitated conditions (0.87 vs. 0.85 out of 1; p=.7), indicating the guidance did not come at a motivational cost. [→ Yannier et al. 2022](#yannier-et-al-2022)
+`q3 i0` Self-reported enjoyment did not differ between the intelligent and unfacilitated conditions (0.87 vs. 0.85 out of 1; p=.7), indicating the guidance did not come at a motivational cost. [→ Yannier et al. 2022](#yannier-et-al-2022)
 
 ## Evidence
 

@@ -29,7 +29,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
-`q2 i2` In the studies comparing SGD vs. PE, 50% of participants showed high preference for SGD versus 30% for PE; across three options, 67% preferred SGDs. [→ Nam 2018](#nam-2018)
+`q2 i?` In the studies comparing SGD vs. PE, 50% of participants showed high preference for SGD versus 30% for PE; across three options, 67% preferred SGDs. [→ Nam 2018](#nam-2018)
 `q2 i?` Lorah et al.'s review found the vast majority of participants preferred using the SGD to PE or manual signs. [→ Nam 2018 (2)](#nam-2018-2)
 
 ## Evidence

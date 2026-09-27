@@ -36,6 +36,10 @@ The evaluation corpus comprises four large-scale real-world sequential datasets:
 ### Target Learning Goals
 - predicting correctness of future exercise responses from interaction history
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [KDD Cup 2010 Bridge to Algebra dataset and the hmmsclbl fitting tool](kdd-cup-2010-bridge-to-algebra-dataset.md)

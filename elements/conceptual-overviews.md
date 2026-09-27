@@ -38,6 +38,10 @@ Conceptual overviews are elements that present the broad structure, central idea
 - [Holistic Learning](../principles/holistic-learning.md)
 - [Cognitive Load Management](../principles/cognitive-load-management.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md)
 - [Concept Mapping](concept-mapping.md)

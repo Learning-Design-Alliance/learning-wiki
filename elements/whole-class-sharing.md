@@ -52,6 +52,10 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 - [Assessment for Learning](../principles/assessment-for-learning.md) — public sharing gives the instructor a real-time window into class-wide understanding and misconceptions to guide next moves
 - [Communities of Practice](../principles/communities-of-practice.md) — regular sharing rituals socialize learners into norms of public reasoning and mutual critique
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - [Peer Discussion](peer-discussion.md) — the small-group phase that generates the ideas sharing makes public
 - [Class Discussion](class-discussion.md) — the broader discussion format of which sharing is one structured phase

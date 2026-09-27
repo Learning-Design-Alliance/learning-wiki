@@ -36,6 +36,10 @@ The ADK Program, instituted in Columbus Public Schools in January 1972, provides
 ### Target Learning Goals
 - Early concepts about print and language development to prepare for first grade
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Balloons: A Concepts About Print Assessment, a criterion-referenced 17-item measure from the Kindergarten Assessment Portfolio](balloons-concepts-about-print-assessment.md)

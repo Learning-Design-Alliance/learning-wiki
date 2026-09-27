@@ -41,6 +41,10 @@ The study implemented and tested three classroom strategies drawn from the SARHM
 ### Affordances
 - [Co Regulation Framework Three Support Domains](../theories/co-regulation-framework-three-support-domains.md)
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

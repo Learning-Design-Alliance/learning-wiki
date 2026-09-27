@@ -36,6 +36,10 @@ The study constructed a purpose-built oral English corpus for training and evalu
 ### Target Learning Goals
 - University English oral proficiency across pronunciation, fluency, vocabulary-grammar, and coherence dimensions
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 - 
 

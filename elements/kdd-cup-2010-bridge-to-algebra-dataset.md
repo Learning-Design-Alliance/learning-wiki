@@ -36,6 +36,10 @@ The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and dow
 ### Target Learning Goals
 - predicting student correctness on math problem steps and modeling skill mastery
 
+### Claims
+<!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+- 
+
 ## Related Elements
 
 - [Four large-scale real-world sequential knowledge tracing benchmark datasets used to evaluate Adaptive G-UKT](adaptive-g-ukt-benchmark-datasets.md)
