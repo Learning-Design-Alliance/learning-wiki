@@ -33,6 +33,10 @@ IGNORED_PROVIDERS = [p.strip() for p in
 # these fail or are down.
 PROVIDER_ORDER = [p.strip() for p in os.environ.get("OPENROUTER_PROVIDER_ORDER", "").split(",") if p.strip()]
 ALLOW_FALLBACKS = os.environ.get("OPENROUTER_ALLOW_FALLBACKS", "1") != "0"
+# The order applies only to models whose slug starts with this prefix (default: the GLM
+# extractor), so the GPT judge and the load-bearing check are never routed to a provider
+# that does not serve them, which with fallbacks off would fail every call.
+PROVIDER_ORDER_MODEL = os.environ.get("OPENROUTER_PROVIDER_ORDER_MODEL", "z-ai/glm")
 
 
 class GenerationError(RuntimeError):
@@ -108,7 +112,7 @@ def generate(
     provider = {}
     if IGNORED_PROVIDERS:
         provider["ignore"] = IGNORED_PROVIDERS
-    if PROVIDER_ORDER:
+    if PROVIDER_ORDER and model.startswith(PROVIDER_ORDER_MODEL):
         provider["order"] = PROVIDER_ORDER
         provider["allow_fallbacks"] = ALLOW_FALLBACKS
     if provider:
