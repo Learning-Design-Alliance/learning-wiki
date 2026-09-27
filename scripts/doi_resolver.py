@@ -316,6 +316,16 @@ def _title_prefix(line: str, year: str, registry_title: str) -> bool:
     return ":" in m.group(2) and reg == head
 
 
+def _translated(key: str, result: dict, line: str, year: str) -> bool:
+    """A registry record whose title is in another language, with author, year,
+    journal and a coordinate agreeing (resolve_doi_conflicts.translated_record)."""
+    import resolve_doi_conflicts as rdc
+    from citation_identity import identity_mismatch
+    if identity_mismatch(key, result):
+        return False
+    return bool(rdc.translated_record(result, cc._extract_title_text(line, year), line))
+
+
 def check_all(page_types=None, force: bool = False, errors: list = None) -> list:
     """Returns flagged issues: [{"doi", "file", "line", "issue": "not_found"
     or "title_mismatch", "resolved_title"}]. Uses/updates the on-disk cache.
@@ -366,7 +376,8 @@ def check_all(page_types=None, force: bool = False, errors: list = None) -> list
             line = entry.get("full_line") or entry["line"]
             cited_words = cc._title_words(line, year)
             resolved_words = cc._words_from_text(result["title"])
-            if not cc._same_paper(cited_words, resolved_words) and not _title_prefix(line, year, result["title"]):
+            if (not cc._same_paper(cited_words, resolved_words) and not _title_prefix(line, year, result["title"])
+                    and not _translated(entry["key"], result, line, year)):
                 issues.append({"doi": doi, "file": entry["source"], "line": entry["line"],
                                 "issue": "title_mismatch", "resolved_title": result["title"]})
 

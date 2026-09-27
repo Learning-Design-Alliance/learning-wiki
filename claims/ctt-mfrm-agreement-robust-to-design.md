@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ilhan-2018
-    resource: "https://eric.ed.gov/?id=EJ1181454"
-    title: "Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. https://eric.ed.gov/?id=EJ1181454"
+    resource: "https://doi.org/10.14689/ejer.2018.75.6"
+    title: "Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)"
     author: "Ilhan, M., & Guler, N."
     q: 2
     i: "?"
@@ -29,7 +29,7 @@ sources:
 
 ### Ilhan 2018
 
-Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. https://eric.ed.gov/?id=EJ1181454
+Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)
 
 `q2 · i?`
 

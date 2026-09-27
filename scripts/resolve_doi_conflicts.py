@@ -68,7 +68,49 @@ NEEDS_HUMAN_SNAPSHOT_PATH = WIKI_ROOT / "eval" / "health" / "doi_needs_human.jso
 ALLOW_SEARCH = False
 
 
-def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = None, key: str = None) -> dict:
+_OTHER_LANG = {"el", "la", "los", "las", "del", "una", "por", "para", "con", "que", "um", "uma", "dos",
+               "das", "der", "die", "und", "le", "les", "des", "et", "ile", "ve", "bir", "göre", "için",
+               "eğitim", "educação", "educación", "sobre", "entre", "estudo", "estudio", "zur", "und", "über"}
+
+
+def foreign_title(title: str) -> bool:
+    """True for a title plainly not in English: most of its words carry letters
+    English does not use (Turkish ı ğ ş, Portuguese ã õ, ...), or its function
+    words are another language's. "How do teachers..." is English; the Spanish
+    and Portuguese "do" and "da" are left out of the word list for that reason."""
+    words = re.findall(r"[^\W\d_]+", (title or "").lower())
+    if len(words) < 3:
+        return False
+    marked = sum(bool(re.search(r"[^a-z]", w)) for w in words)
+    other = sum(w in _OTHER_LANG for w in words)
+    english = sum(w in {"the", "of", "and", "to", "in", "for", "with", "on", "a", "an", "how", "what"} for w in words)
+    return marked / len(words) >= 0.3 or other > english
+
+
+def translated_record(result: dict, cited_title_text: str, cited_line: str):
+    """Why a DOI whose registry title is in another language is still the cited
+    article, or None. Ilhan & Guler (2018) is registered in Crossref under its
+    Turkish title only, and the gate stripped the correct DOI from seven pages
+    (batch 9, 2026-09-27). A translated title shares no words with the registry's,
+    so the title test cannot speak; the record's own coordinates must: its
+    journal named in the citation, and its volume, issue or first page printed
+    there too. The caller has already required first author and year to agree."""
+    if not (cited_line and foreign_title(result.get("title")) and not foreign_title(cited_title_text or "")):
+        return None
+    journal = cc._norm_title(result.get("journal") or "")
+    line = cc._norm_title(cited_line)
+    if len(journal.split()) < 2 or journal not in line:
+        return None
+    numbers = set(re.findall(r"\d+", cited_line))
+    hit = [f for f in ("volume", "issue", "first_page") if str(result.get(f) or "") in numbers]
+    if not hit:
+        return None
+    return (f"registry title is in another language; first author, year, journal and "
+            f"{', '.join(hit)} agree with the citation")
+
+
+def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = None, key: str = None,
+                 cited_line: str = None) -> dict:
     """Resolve `doi` against Crossref (cache-backed, same cache
     doi_resolver.py's own checks use) and classify it relative to this
     cluster's title: 'verified' (resolves, title matches), 'wrong_paper'
@@ -125,6 +167,12 @@ def classify_doi(doi: str, cluster_title_words: set, cited_title_text: str = Non
         c_norm, r_norm = cc._norm_title(cited_title_text), cc._norm_title(resolved_title)
         if len(r_norm.split()) >= 2 and (c_norm == r_norm or c_norm.startswith(r_norm + " ")):
             return {"status": "verified", "title": resolved_title}
+    # A registry record in another language: checked only with the author-year key
+    # (identity above) and the citation line, which carries the coordinates.
+    if key:
+        why = translated_record(result, cited_title_text, cited_line)
+        if why:
+            return {"status": "verified", "title": resolved_title, "why": why}
     return {"status": "wrong_paper", "title": resolved_title}
 
 

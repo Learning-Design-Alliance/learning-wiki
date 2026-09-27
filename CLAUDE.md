@@ -136,9 +136,13 @@ What the rehearsal found, all fixed:
   and every rewritten `resource:` matches its page's body citation.
 - **The gate left a stripped DOI in the `title:` mirror** on pages `sync_evidence_codes` does not rebuild
   (theories, strategies). `enrich.verify_page_citations` strips it there too. Ilhan & Guler (2018)'s
-  `10.14689/ejer.2018.75.6` was stripped from all seven pages because Crossref holds only its Turkish title;
-  authors, year, journal and pages agree, so it is almost certainly right, and restoring it is the
-  maintainer's call. The pages carry the ERIC link instead.
+  `10.14689/ejer.2018.75.6` was stripped from all seven pages because Crossref holds only its Turkish title.
+  **Restored on the maintainer's decision**, and the check now handles the case:
+  `resolve_doi_conflicts.translated_record` verifies a DOI whose registry title is in another language
+  (`foreign_title`) only when first author and year agree (the identity check), the registry journal is
+  named in the citation, and its volume, issue or first page is printed there. The ingest gate passes the
+  citation line (`cited_line=`) and `doi_resolver.check_all` applies the same rule. It was 1 of 2,644 cached
+  records here, but ERIC indexes many Turkish, Spanish and Portuguese journals registered that way.
 - **The load-bearing check missed the batch's own load-bearing claims**: `--top 200` stopped above the 13 new
   claims three pages from one source cite. `--min-designs 3` adds every claim at the threshold, and the batch
   passes it; only unjudged entries cost anything. One real failure: Armbruster's "most frame-slot questions
