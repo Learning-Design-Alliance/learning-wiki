@@ -60,9 +60,11 @@ Social interaction around text is a core driver of reading engagement and volume
 5. Close with next-step recommendations: students add peers' books to a to-read list, and take books home when possible
 
 ## Related Strategies
+
 - [Independent reading](independent-reading.md) — the prerequisite activity; sharing gives it a purpose and audience
 - [Literature circles](literature-circles.md) — a fully elaborated version of the book-club format
 - [Read-alouds](read-alouds.md) — a complementary whole-class text experience that seeds discussion
+- [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core interaction format for the sharing phase

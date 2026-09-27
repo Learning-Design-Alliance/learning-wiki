@@ -33,9 +33,11 @@ Presenting the same information simultaneously in multiple formats — such as o
 
 `q3 i?` Removing text that duplicated narration improved learning from a diagram-based multimedia lesson; the duplicate had to be processed and contributed nothing. [→ Kalyuga et al. 1999](#kalyuga-et-al-1999)
 
-`q4 i?` Meta-analysis found verbal redundancy is conditional rather than uniformly harmful: narration with on-screen text helped in some configurations and hurt in others, with the presence of competing visuals and the pacing of the presentation as moderators. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
+`q4 i?` A meta-analysis of 57 studies found verbal redundancy is not uniformly harmful: spoken–written presentations did not differ from written-only ones and outperformed spoken-only ones, an advantage found for low prior knowledge learners, system-paced materials and picture-free materials, with prior knowledge, pacing and the inclusion of animation or diagrams as moderators. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
 
-`q4 i?` The harmful case is specifically the one where a learner must split attention between two sources presenting the same information while a third source competes for the same channel. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
+`q4 i?` Displaying key terms extracted from the narration was associated with better learning than verbatim spoken–written text, and accounted for much of the advantage of spoken–written over spoken-only presentations. [→ Adesope & Nesbit 2012](#adesope-nesbit-2012)
+
+<!-- deprecated: `q4 i?` The harmful case is specifically the one where a learner must split attention between two sources presenting the same information while a third source competes for the same channel. (Not reported in Adesope & Nesbit's abstract; removed 2026-09-27 after the load-bearing check.) -->
 
 ## Evidence
 
@@ -53,7 +55,7 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal redundancy in multimedia learning
 
 `q4` · `i? · the abstract prints no effect size; the full text may`
 
-A meta-analysis of verbal redundancy that found the effect depends on conditions. Narration plus identical on-screen text was *beneficial* relative to narration alone in several configurations, and harmful where a picture competed for visual attention or where the presentation was system-paced. This is why the claim is rated moderate and should be cited with a contextual tag rather than a supporting one in most design contexts.
+A meta-analysis of 57 independent experimental studies, mostly with postsecondary students, comparing spoken-only, written-only and spoken–written (text plus verbatim speech) presentations on retention and transfer. Spoken–written and written-only presentations did not differ, and spoken–written presentations *outperformed* spoken-only ones. That advantage depended on prior knowledge, pacing and the inclusion of animation or diagrams: it was found for low prior knowledge learners, system-paced materials and picture-free materials. Presentations showing key terms extracted from the narration were associated with better outcomes than verbatim spoken–written ones. The abstract does not report verbal redundancy as harmful in any configuration, which is why this study qualifies the claim rather than supporting it and should be cited with a contextual tag.
 
 ## Discussion
 

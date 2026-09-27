@@ -37,7 +37,8 @@ The evaluation recommends that because a decentralized service model places nume
 - Understanding roles and responsibilities in student identification, assessment, and placement under the service delivery model
 
 ## Related Strategies
-- 
+
+- [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 
 ## Examples
 -

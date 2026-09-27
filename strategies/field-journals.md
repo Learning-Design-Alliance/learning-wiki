@@ -65,6 +65,7 @@ Field journals convert transient experience into durable, inspectable artifacts,
 - [Articulation](../elements/articulation.md) — journaling is a written form of articulating one's reasoning during practice
 - [Check-In](../elements/check-in.md) — brief structured reflection; a field journal entry is an extended, persistent check-in
 - [Use structured power-analysis journaling at the start and end of field placements to build critical consciousness](field-placement-power-analysis-journaling.md)
+- [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Examples
 - **Cornell Lab of Ornithology field notebook guides** (https://www.birds.cornell.edu) — protocols for dated observation and sketching used in citizen science and courses

@@ -64,6 +64,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 - Establish instructor presence in asynchronous channels (announcements, video feedback) so synchronous presence lands on an existing relationship
 - Pair synchronous sessions with structured pre-work so live time is spent interacting, not transmitting
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](student-co-facilitation-via-shared-chat-typing.md)
+- [Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction](regular-instructor-asynchronous-participation.md)
 
 ## Examples
 - **Zoom-based seminar courses** — instructor opens camera-on, runs a two-minute check-in, alternates mini-lectures with breakout discussions, and closes by naming student contributions.

@@ -69,3 +69,4 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
+- [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related

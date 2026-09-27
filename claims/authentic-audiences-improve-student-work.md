@@ -94,3 +94,4 @@ A review of research on the cognitive and social processes of writing, conceptio
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Students perceive computer-based simulation cases as lacking authenticity because behavioral modifications for young clients are absent](simucase-lacks-behavioral-authenticity.md) — related
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — a narrower finding that bears on this claim
+- [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related

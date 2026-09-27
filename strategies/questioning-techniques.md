@@ -61,10 +61,12 @@ Effective questioning converts passive reception into generative processing: ans
 7. **Close with consolidation questions** — ask learners to summarize, generate their own questions about the material, or predict applications.
 
 ## Related Strategies
+
 - [Class Discussion](../elements/class-discussion.md) — questioning is the primary engine that drives productive discussion
 - [Self-Explanation](../elements/articulation.md) — questioning turned inward; prompts asking "why does this work?" produce the same generative processing
 - [Check-In](../elements/check-in.md) — low-stakes questioning used to surface learner state and readiness
 - [Argumentation](../elements/argumentation.md) — sustained questioning of claims and evidence is the dialogic form of argumentation
+- [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](six-teacher-questioning-techniques-reading-discussion.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — conceptual questions posed via clickers, individual answer, peer discussion, re-answer; the question sequence is the core of the method ([https://blog.peerinstruction.net](https://blog.peerinstruction.net)).

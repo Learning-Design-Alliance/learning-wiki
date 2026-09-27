@@ -59,9 +59,11 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 6. Pair belief work with empathic, non-punitive responses to families and students, which measurably improves relational outcomes [Brief intervention in empathic discipline cuts suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
 
 ## Related Strategies
+
 - Building empathy — the broader intergroup mechanism this strategy applies to the specific case of class-based stereotypes
 - Funds-of-knowledge curriculum design — the instructional counterpart that turns asset-based beliefs into asset-based teaching
 - Family engagement redesign — the practice change that must accompany belief change
+- [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
 
 ## Examples
 - **Moll's funds of knowledge studies (Tucson, AZ)** — Researchers documented household knowledge (farming, mechanics, finance) among working-class Mexican-American families and trained teachers to build instruction on it, demonstrating concrete asset-based alternatives to deficit views.

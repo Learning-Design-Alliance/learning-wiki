@@ -45,3 +45,4 @@ Person-level RCI analysis of 304 prospective teachers identifying the no-change 
 - [Prospective teachers value constructivist teaching/learning and assessment for learning more than they practise, and practise traditional teaching and performance orientation more than they value](prospective-teachers-value-constructivist-more-than-practised.md) — related
 - [Consonance and dissonance patterns form four components, including a dominant pattern linking valuing constructivist teaching/assessment for learning with dissonance](four-patterns-consonance-dissonance-pca.md) — related
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related
+- [Teachers value pronunciation instruction highly but report seldom teaching it and low satisfaction with how they teach it](teachers-value-pronunciation-but-seldom-teach-it.md) — related

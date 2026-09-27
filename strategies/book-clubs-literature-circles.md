@@ -84,6 +84,7 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the small-group, role-rotating discussion structure but focuses narrowly on four comprehension strategies
 - [Socratic Seminar](socratic-seminar.md) — a whole-class, teacher-questioned variant of text-based discussion with less student choice
 - [Use a process-as-content seminar approach in which learners read, analyze, synthesize, apply, and evaluate individually chosen problems](process-as-content-seminar-approach.md)
+- [Use structured CL techniques such as Showdown and Trade-A-Problem when the whole class reads the same book](showdown-trade-a-problem-class-readers.md)
 
 ## Examples
 - **Collaborative Strategic Reading (CSR)** — Klingner, Vaughn, and Schumm's (1998) research program had heterogeneous middle school groups apply comprehension strategies to social studies text in literature-circle format, with documented comprehension gains ([CSR at Vanderbilt](https://crlte.vanderbilt.edu/csr/)).

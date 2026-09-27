@@ -76,7 +76,9 @@ While PI itself receded after the 1960s once most of its specific hypotheses (sm
 - Even linear programming personalizes pace, since every learner moves through the same steps but on their own schedule
 
 ## Related Patterns
+
 - [Game-Based Mastery Learning](game-based-mastery-learning.md) — a modern descendant that adds game mechanics (streaks, levels, adaptive difficulty) to the same small-step, immediate-feedback, self-paced core PI established
+- [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](tutor-led-strategies-adult-language-lessons.md)
 
 ## Examples
 - Skinner's original teaching-machine frames and linear programmed textbooks (e.g., *English 2600*)

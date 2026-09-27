@@ -45,3 +45,5 @@ Analytical comparison of the four relation types in the paper's own classificati
 - [In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense](overlap-degree-moderates-false-identification-risk.md) — related
 - [In contrast-type abstract-noun pairs, the Polish word's meaning is typically narrower, a generalization of the semantic element in the Polish word](polish-meanings-narrower-than-english-partners.md) — related
 - [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](morphological-interference-unidirectional-polish-to-english.md) — related
+- [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — related
+- [Translation accuracy rises with proficiency but varies substantially across individual constructions](translation-accuracy-varies-by-construction.md) — related

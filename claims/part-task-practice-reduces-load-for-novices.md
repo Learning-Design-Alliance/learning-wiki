@@ -46,3 +46,4 @@ This finding qualifies the whole-task approach, suggesting that [part-task pract
 - [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md)
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
+- [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — reports the opposite

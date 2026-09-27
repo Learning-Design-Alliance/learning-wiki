@@ -50,6 +50,11 @@ The article presents Krashen's theory of second language acquisition as an expla
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
 - [Krashen's Monitor Model: acquisition versus learning as separate internal rule systems](krashen-monitor-model-acquisition-learning.md)
 - [Linguistic Threshold Hypothesis versus Linguistic Interdependence Hypothesis for ELL reading comprehension](linguistic-threshold-vs-interdependence-hypotheses.md)
+- [Swain's Comprehensible Output Hypothesis with a circular input-output-intake model](comprehensible-output-hypothesis-liming-account.md)
+- [Similarity account: first and adult second language acquisition are neither wholly identical nor wholly different, but similar](first-second-language-acquisition-similarity.md)
+- [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md)
+- [Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics](sla-three-theory-comparison-framework.md)
+- [Two-faces framework: language acquisition as distinct mental representation and skill components](two-faces-sla-representation-and-skill-framework.md)
 
 ## Examples
 -

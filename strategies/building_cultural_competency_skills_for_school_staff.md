@@ -60,10 +60,12 @@ Cultural competency training works when it moves beyond awareness-raising toward
 7. Change structures — revise policies (communication timing, translation, event design) so that culturally responsive behavior is the default, and monitor progress with family feedback
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — the core conversational skill for family conferences and cross-cultural communication
 - [Activating Background Knowledge](activating_background_knowledge.md) — staff learn families' funds of knowledge before designing instruction and outreach
 - [Action Planning](action_planning.md) — converts training insights into concrete, scheduled relationship-building commitments
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — a concrete, observable application of competency training to school materials and messaging
+- [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
 
 ## Examples
 - **Bridging Cultures Project** (WestEd) — a research-based professional development program in which teachers examined conflicting frameworks (individualistic vs. collectivistic) and applied them to immigrant Latino family engagement; documented changes in teachers' interpretations of family behavior and in school practices (https://www.wested.org)

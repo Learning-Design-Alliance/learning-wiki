@@ -63,3 +63,4 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
+- [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — a narrower finding that bears on this claim

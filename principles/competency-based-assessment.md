@@ -68,9 +68,11 @@ The burden it creates is specification. Competencies, acceptable evidence, and m
 - [Formative Assessment](formative-assessment.md) — the feedback cycles that make a mastery threshold reachable rather than merely a sorting line
 
 ## Examples
+
 - A teacher preparation program assesses classroom facilitation through observed teaching, annotated lesson plans, and a rubric tied to explicit competencies instead of a single written final.
 - A cybersecurity course certifies learners on incident response only after they complete a live scenario within defined quality criteria, not merely explain the steps on paper.
 - [Standards-/Mastery-Based Grading](../strategies/standards-based_grading.md) — classroom grading organised around demonstrated standards rather than averaged scores.
+- [Frame course specifications in competencies and build in 'I can do...' benchmark tasks as informal assessment](../strategies/competency-course-specifications-benchmark-tasks.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

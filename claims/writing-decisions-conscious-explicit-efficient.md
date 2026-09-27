@@ -44,3 +44,4 @@ Theoretical argument in the paper: writers' decisions, unlike speakers', admit n
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — related
 - [The transition from mental to written medium involves reducing multivalence and arranging non-linearly stored elements in a linear mode](mental-to-written-reduction-of-multivalence.md) — related
 - [Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them](linguistics-lacks-workable-decision-criteria.md) — related
+- [Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency](conceptual-deviation-awareness-guides-teacher-attention.md) — related

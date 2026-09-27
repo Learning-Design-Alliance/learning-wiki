@@ -47,6 +47,7 @@ Vygotsky's approach treats higher mental processes as functions of mediated acti
 - [Interactionist vs. interventionist approaches to Dynamic Assessment](interactionist-interventionist-da-approaches.md)
 - [Vygotsky's distinction between lower and higher mental functions](vygotsky-lower-higher-mental-functions.md)
 - [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 -

@@ -64,6 +64,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Self-Determination Theory as a framework for L2/ESP motivation](sdt-framework-esp-motivation.md)
 - [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
 - [Self-determination theory: three basic psychological needs underpin intrinsic motivation](sdt-three-basic-needs-intrinsic-motivation.md)
+- [Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning](sdt-intrinsic-extrinsic-orientations-l2-motivation.md)
+- [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md)
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

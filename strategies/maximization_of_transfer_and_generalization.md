@@ -60,9 +60,11 @@ Transfer depends on learners encoding knowledge in a form that is abstract enoug
 6. Assess transfer directly with tasks learners have not seen, not with near-duplicates of practice items ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Spaced Repetition](spaced_repetition.md) — distributed, spaced retrieval strengthens the durable memory that transfer draws on
 - [Comparing Cases](comparing_cases.md) — the core mechanism for supporting abstraction across examples
 - [Authentic Learning Tasks](authentic_learning_tasks.md) — grounding practice in realistic contexts increases the likelihood of application beyond the classroom
+- [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based practice items vary numbers and contexts within a skill, requiring learners to apply the same procedure across surface variations before moving on.

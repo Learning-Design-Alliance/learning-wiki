@@ -57,8 +57,10 @@ Model drawing externalizes the problem structure, offloading quantitative relati
 5. Repeat across a sequence of problems with the same schema, fading support from worked models to independent drawing [Practice](../elements/practice.md) with [Provide Feedback](../elements/provide-feedback.md) on the diagram before the arithmetic
 
 ## Related Strategies
+
 - [Schema-Based Instruction](schema-based-instruction.md) — model drawing is the visual-representation component of the broader schema-based approach
 - [Cognitive Strategy Instruction](cognitive-strategy-instruction.md) — model drawing is typically embedded in a read–plan–solve–check strategy routine
+- [Teach prepositions by presenting the core spatial sense first, then deriving metaphoric senses, supported by diagrams and schemas](core-sense-first-diagram-preposition-teaching.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the instructor models the read-to-draw translation explicitly

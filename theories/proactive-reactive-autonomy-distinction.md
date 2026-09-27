@@ -40,7 +40,8 @@ The article adopts Littlewood's (1999) two-level account of learner autonomy for
 - 
 
 ## Related Theories
-- 
+
+- [Littlewood's division of advanced learners' communication needs into pragmatic and social needs](littlewood-pragmatic-social-needs-model.md)
 
 ## Examples
 -

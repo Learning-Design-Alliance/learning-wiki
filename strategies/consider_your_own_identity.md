@@ -58,8 +58,10 @@ Self-reflection on identity functions as a form of [Activation](../principles/ac
 5. Revisit and reassess periodically; treat identity reflection as ongoing inquiry rather than a completed credential.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the facilitation stance that identity reflection prepares educators to adopt
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the same surfacing-of-assumptions move, applied to learners rather than facilitators
+- [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — structured emotional entry point for reflection sessions

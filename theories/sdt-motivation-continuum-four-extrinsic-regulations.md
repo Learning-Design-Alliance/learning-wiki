@@ -47,6 +47,9 @@ The article describes SDT's motivational continuum ranging from externally regul
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
 - [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
 - [Self-Determination Theory](self-determination-theory.md)
+- [Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning](sdt-intrinsic-extrinsic-orientations-l2-motivation.md)
+- [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md)
+- [Social-psychological construct framework for Foreign Language Classroom Anxiety](social-psychological-constructs-flca-framework.md)
 
 ## Examples
 -

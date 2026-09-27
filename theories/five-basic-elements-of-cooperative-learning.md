@@ -44,6 +44,7 @@ The report presents five essential basic elements that must be "precisely struct
 
 - [Five basic elements must be structured into a cooperative learning activity: positive goal interdependence, face-to-face interaction, individual accountability, social skills, and group processing](five-basic-elements-cooperative-learning-adults.md)
 - [Johnson and Johnson's four basic elements of cooperative learning](four-basic-elements-cooperative-learning.md)
+- [Kagan's PIES principles of cooperative learning](kagan-pies-cooperative-learning-principles.md)
 
 ## Examples
 

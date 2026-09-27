@@ -46,7 +46,8 @@ A data-elicitation instrument in which each discourse completion scenario pairs 
 - [L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups](../claims/l1-l2-nonverbal-device-type-differences.md) [+W]
 
 ## Related Elements
-- 
+
+- [Reflective written journal plus semi-structured interview data collection instruments](reflective-journal-interview-flca-instruments.md)
 
 ## Examples
 

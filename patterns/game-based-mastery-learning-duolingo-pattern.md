@@ -42,8 +42,10 @@ This page is the short-form canonical target for Duolingo-style game-based maste
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 
 ## Related Patterns
+
 - [Game-Based Mastery Learning](game-based-mastery-learning.md)
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Scaffolding via level-gated progression and hearts in Duolingo](duolingo-scaffolding-hearts-progression.md)
 
 ## Key Sources
 - Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)

@@ -47,6 +47,8 @@ The article defines the zone of proximal development as "The range of task that 
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Internalization and appropriation: complex mental processes begin as social activities and are gradually internalized and adapted](vygotsky-internalization-appropriation.md)
 - [Vygotskian social-constructivist framework: mediated learning within the zone of proximal development guides preschool mathematical learning](zpd-mediated-early-math-framework.md)
+- [Sociocultural account of CALL feedback as scaffolding toward desired performance](sociocultural-feedback-scaffolding-account.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 

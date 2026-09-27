@@ -43,6 +43,7 @@ Each section of the FEA-based learning module followed a fixed internal structur
 - [Six-step engineering design process as the teaching and learning sequence](engineering-design-six-step-ict-sequence.md)
 - [Weekly dance-first-then-physics cycle with dual experimental and experiential records](dance-first-physics-weekly-cycle-dual-record.md)
 - [Performance-objective-driven curriculum pattern pairing each stated objective with matched student activities](objective-activity-matched-curriculum-guide-pattern.md)
+- [Blended off-the-job and on-the-job module structure for supervisor training](off-job-on-job-module-blend.md)
 
 ## Examples
 

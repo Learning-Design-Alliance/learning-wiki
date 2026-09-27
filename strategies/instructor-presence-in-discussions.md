@@ -59,9 +59,11 @@ Discussion without instructor facilitation tends to stall at opinion exchange; i
 6. Close with a summary post that models expert synthesis, and require learners to respond to it or revise their earlier position ([Assessment](../elements/assessment.md) of discussion quality).
 
 ## Related Strategies
+
 - [Structured Peer Discussion Roles](../strategies/structured-peer-discussion-roles.md) — distributes facilitation when instructor presence cannot scale
 - [Discussion Protocols](../strategies/discussion-protocols.md) — norms that make instructor facilitation moves predictable and teachable
 - [Timely Feedback](../strategies/timely-feedback.md) — instructor presence is a form of ongoing formative feedback
+- [Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction](regular-instructor-asynchronous-participation.md)
 
 ## Examples
 - **Online graduate seminars (e.g., Penn State World Campus courses)** — instructors post a required "synthesis" message mid-week that weaves student threads together, a practice associated with higher teaching-presence ratings in Community of Inquiry research.

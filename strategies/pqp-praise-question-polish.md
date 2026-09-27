@@ -62,9 +62,11 @@ PQP works because it scaffolds the peer-feedback genre: unstructured peer review
 6. **Provide feedback on the feedback.** Briefly review PQP forms and coach responders on specificity — the reviewing skill itself improves with [Feedback](../elements/feedback.md).
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — PQP is a scaffolded protocol within the broader practice of peer review
 - [Reciprocal Peer Feedback](reciprocal-peer-feedback.md) — structures two-way exchange; PQP supplies the comment format
 - [Writing Conferences](writing-conferences.md) — teacher-led one-to-one counterpart that can model the same P-Q-P moves
+- [Evaluate student contributions through praising, encouraging, quoting students' words, and gestures](four-teacher-evaluation-techniques-communicative-class.md)
 
 ## Examples
 - **ReadWriteThink — "Peer Review: Narrative"** ([readwritethink.org](https://www.readwritethink.org/classroom-resources/lesson-plans/peer-review-narrative)) — an IRA/NCTE lesson plan in which students exchange narrative drafts and use a PQP form to respond before revising.

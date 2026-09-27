@@ -52,3 +52,4 @@ The understanding measure is a single pre/post self-rating on a 7-point scale (a
 - (none yet linked)
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
+- [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — related

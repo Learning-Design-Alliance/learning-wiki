@@ -47,8 +47,10 @@ The study's session design: read a passage, do a distractor task, answer mixed-f
 - [Retrieval Practice Reading Comprehension No Significant Retention Interval Difference](../claims/retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) [~M]
 
 ## Related Patterns
+
 - Retrieval Practice
 - [Multiple Choice Retrieval Questions With Competitive Alternatives](../elements/multiple-choice-retrieval-questions-with-competitive-alternatives.md)
+- [Automated generation of seven vocabulary activity types with distractor collision prevention](generated-activity-types-collision-prevention.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
+- [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related

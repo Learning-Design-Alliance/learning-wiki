@@ -49,6 +49,7 @@ The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev
 ## Related Elements
 
 - [Metacognitive Interview Form for Younger Students (NCREL, 1995 rev. ed.)](metacognitive-interview-form-younger-students.md)
+- [Reflective written journal plus semi-structured interview data collection instruments](reflective-journal-interview-flca-instruments.md)
 
 ## Examples
 -

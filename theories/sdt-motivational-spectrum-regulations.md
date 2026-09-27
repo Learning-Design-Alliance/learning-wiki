@@ -50,6 +50,9 @@ The article describes SDT's motivational spectrum as a fine-grained alternative 
 - [ARCS Model of Motivational Design](arcs-model.md)
 - [Self-Determination Theory as a framework for L2/ESP motivation](sdt-framework-esp-motivation.md)
 - [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
+- [Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning](sdt-intrinsic-extrinsic-orientations-l2-motivation.md)
+- [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md)
+- [Social-psychological construct framework for Foreign Language Classroom Anxiety](social-psychological-constructs-flca-framework.md)
 
 ## Examples
 

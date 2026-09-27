@@ -46,3 +46,5 @@ This is the author's program-design argument in an opinion paper: in early-exit 
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related
 - [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — related
 - [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
+- [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
+- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related

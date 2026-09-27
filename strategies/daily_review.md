@@ -61,10 +61,12 @@ Daily review converts the lesson opening from administrative routine into distri
 6. Rotate formats (quiz, flashcards, oral chains, games) to sustain engagement without lowering retrieval demand.
 
 ## Related Strategies
+
 - [Spaced practice](../principles/cognitive-load-management.md) — daily review is the classroom implementation of spacing; expanding intervals outperform massed review
 - [Retrieval practice](../principles/active-learning.md) — the underlying mechanism; review must test recall, not re-present content
 - [Direct Instruction](../patterns/direct-instruction.md) — daily review is the opening event in the standard DI lesson cycle
 - [Formative Assessment](../patterns/formative-assessment.md) — review responses double as daily formative data on retention
+- [Deploy spaced-repetition vocabulary practice as a low-burden daily supplement of a few minutes without changing existing pedagogy](low-burden-daily-supplemental-vocabulary-practice.md)
 
 ## Examples
 - **Direct Instruction programs** (e.g., *Reading Mastery*, McGraw-Hill) open every lesson with scripted review of previously taught sounds, words, and facts — a core design feature, not an add-on.

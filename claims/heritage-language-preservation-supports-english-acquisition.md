@@ -84,3 +84,5 @@ The underlying mechanism these three findings share is that a heritage language,
 - [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally.](italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) — related
 - [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related
 - [Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over](rizal-experiment-local-language-faster-literacy.md) — related
+- [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related
+- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related

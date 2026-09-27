@@ -66,6 +66,7 @@ Retrieval practice is one of the most robustly supported learning strategies, pr
 - [Brain Dumps](brain_dumps.md)
 - [Retrieval Practice Activities](retrieval-practice-activities.md)
 - [Graphic Organizers for Note-Taking](graphic_organizers_for_note-taking.md)
+- [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Examples
 - **Science class (middle school):** after a unit on photosynthesis, students brain-dump everything they recall, arrange it into a flowchart linking sunlight, water, CO₂, glucose, and oxygen, then verify against their textbook and add missed inputs/outputs.

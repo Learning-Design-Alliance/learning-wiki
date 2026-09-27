@@ -90,6 +90,7 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - [Strengths-Based Approach](strengths-based-approach.md) — this principle treats learner background as an asset rather than a deficit.
 - [Instructor Accessibility](instructor-accessibility.md) — accessible relationships help learners contribute their own contexts to the work.
 - [Personalizing physics by making each student the object of study bridges science and everyday reality](personalization-making-student-the-object-bridges-science-and-reality.md)
+- [Make adult language materials relevant, immediately useful, and grounded in real-life experiences](relevant-immediately-useful-adult-materials.md)
 
 ## Examples
 - **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.

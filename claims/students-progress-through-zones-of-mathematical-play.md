@@ -49,3 +49,4 @@ The authors themselves are explicit that this is a conceptual/descriptive contri
 - [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — a broader claim this one bears on
 - [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — a broader claim this one bears on
+- [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related

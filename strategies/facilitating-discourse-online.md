@@ -59,8 +59,10 @@ Effective facilitation converts discussion from an assessment checkbox into a si
 6. Provide individual feedback on reasoning quality [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S], and close the discussion with a synthesis that articulates shared understanding.
 
 ## Related Strategies
+
 - [Debate](debate.md) — a structured discourse format where facilitation centers on managing adversarial argumentation
 - [Flipped Classroom](flipped-classroom.md) — frees synchronous online time for facilitated discussion rather than content delivery
+- [Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction](regular-instructor-asynchronous-participation.md)
 
 ## Examples
 - **Discussion protocols in online graduate courses** (e.g., the Community of Inquiry research tradition at Athabasca University) use instructor weaving posts every 2–3 days to sustain cognitive presence across multi-week threads.

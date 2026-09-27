@@ -44,7 +44,8 @@ The study's data-gathering instrument is a semi-structured interview protocol co
 - [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](../claims/model-tasks-overcome-verbal-explanation-limits.md) [+W]
 
 ## Related Elements
-- 
+
+- [Reflective written journal plus semi-structured interview data collection instruments](reflective-journal-interview-flca-instruments.md)
 
 ## Examples
 -

@@ -43,3 +43,4 @@ LRE analysis from DA1 shows Sarah noticed and corrected a modal error after red 
 ## Related Claims
 - [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](dialang-cefr-levels-miss-zpd-differences.md) — possibly the same claim (merge candidate)
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — a broader claim this one bears on
+- [The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies](zpd-not-equivalent-i-plus-one-or-scaffolding.md) — related

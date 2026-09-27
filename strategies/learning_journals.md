@@ -61,9 +61,11 @@ Learning journals work primarily by forcing elaboration and self-monitoring: tra
 6. Fade prompts over time as learners internalize the reflective routine, shifting toward self-generated questions.
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — pairs journal entries with brief individual feedback conversations
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — journal prompts that open a unit by surfacing what learners already believe
 - [Exit Tickets](exit-tickets.md) — a single-session, single-prompt micro-journal used for daily formative checks
+- [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Examples
 - **Exam wrappers** (widely used in postsecondary STEM, e.g., the Eberly Center at Carnegie Mellon: [https://www.cmu.edu/teaching/designteach/teach/examwrappers.html](https://www.cmu.edu/teaching/designteach/teach/examwrappers.html)) — post-exam reflection sheets asking students to categorize their errors and plan study changes.

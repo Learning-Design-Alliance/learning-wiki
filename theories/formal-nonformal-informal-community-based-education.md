@@ -45,6 +45,7 @@ The paper differentiates community-based education into three categories. Formal
 - [Framework connecting lifelong education and community through formal, nonformal, and informal providers](framework-connecting-lifelong-education-and-community.md)
 - [Three-type framework of informal, formal and non-formal education with non-formal education as bridge](three-types-education-nonformal-bridge-framework.md)
 - [Three dimensions of lifelong education: vertical integration, horizontal integration, and learning to learn](three-dimensions-of-lifelong-education.md)
+- [Coombs' three-category typology of formal, informal and non-formal education, with informal learning as an overarching concept including incidental learning](coombs-three-categories-learning-methods.md)
 
 ## Examples
 -

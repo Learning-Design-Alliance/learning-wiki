@@ -48,6 +48,8 @@ The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vy
 - [Interactionist dynamic assessment grounded in Vygotsky's ZPD](interactionist-da-zpd-framework.md)
 - [Interactionist vs. interventionist approaches to Dynamic Assessment](interactionist-interventionist-da-approaches.md)
 - [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
+- [Sociocultural account of CALL feedback as scaffolding toward desired performance](sociocultural-feedback-scaffolding-account.md)
+- [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 
 ## Examples
 

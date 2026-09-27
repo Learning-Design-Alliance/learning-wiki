@@ -43,7 +43,8 @@ The report argues that professional development remains a key issue for creating
 - 
 
 ## Examples
--
+
+- [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](../strategies/gamification-implementation-support-strategy.md)
 
 ## Key Sources
 - The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three. (2000). https://eric.ed.gov/?id=ED447781

@@ -59,9 +59,11 @@ Scenario-based discussion converts social-emotional competencies from declarativ
 5. Learners reflect individually on how their reasoning changed and what they would do differently ([Reflection](../elements/reflection.md))
 
 ## Related Strategies
+
 - [Role-Play](../strategies/acting-role-play.md) — enacting the scenario adds behavioral rehearsal to the reasoning practice
 - [Case-Based Learning](../patterns/case-based-learning.md) — the broader pattern this strategy instantiates with social-emotional content
 - [Debate](../patterns/debate.md) — formalizes the argumentation step when dilemmas have two defensible positions
+- [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 
 ## Related Elements
 - [Cognitive Conflict](../elements/cognitive-conflict.md) — genuine dilemmas create the disequilibrium that drives re-examination of reasoning

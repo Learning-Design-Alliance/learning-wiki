@@ -43,7 +43,8 @@ The OLR is described as "a portfolio record integrating classroom activity (teac
 - [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](../claims/participation-appropriates-olr-conceptual-underpinnings.md) [+W]
 
 ## Related Elements
-- 
+
+- [Reflective written journal plus semi-structured interview data collection instruments](reflective-journal-interview-flca-instruments.md)
 
 ## Examples
 
