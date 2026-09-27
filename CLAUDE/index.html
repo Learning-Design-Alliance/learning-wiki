@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-29 — cost: write the citation once (v136); an output-price ceiling backfires; search and study counts fixed
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-28-night-batch-9-the-droplet-dress-rehearsal" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1477,6 +1488,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-29 — cost: write the citation once (v136); an output-price ceiling backfires; search and study counts fixed
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-28-night-batch-9-the-droplet-dress-rehearsal" class="md-nav__link">
@@ -2381,6 +2403,49 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed">2026-09-29 — cost: write the citation once (v136); an output-price ceiling backfires; search and study counts fixed<a class="headerlink" href="#2026-09-29-cost-write-the-citation-once-v136-an-output-price-ceiling-backfires-search-and-study-counts-fixed" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Prompt v136 writes the source's citation once</strong>, as <code>article.citation</code>; every <code>evidence[].citation</code>
+  and <code>key_sources[]</code> entry is the token <code>L0b</code>, which <code>source_citation.expand_citation_token</code> (run inside
+  <code>repair()</code>, so on every attempt) replaces before validation. Ingest and the validator see what they
+  saw before. The repeated citation was a fifth of every output. <strong>Benchmark</strong> (10 articles, same
+  routing, <code>eval/runs/bench-cost-b</code> v135 against <code>bench-cost-c</code> v136): median first-attempt output 5,308
+  → 3,892 tokens, $0.0094 → $0.0068 an article billed, first-attempt passes 4 → 7, calls 19 → 15, GPT
+  judge 4.10 both (9/10 → 10/10 pass); strict audit 0 non-verbatim quotes, 0 wrong DOIs, 1 missing
+  statistic, as v135. <code>CURRENT</code> is still v135; moving it is the maintainer's call.</li>
+<li><strong><code>OPENROUTER_MAX_COMPLETION_PRICE</code> / <code>OPENROUTER_QUANTIZATIONS</code> exist and must stay unset for
+  batches.</strong> A $0.45/M output ceiling with 4-bit hosts excluded routed most calls to Inceptron, whose
+  input ($0.11/M) and cached input ($0.07/M) are dear, and cost rose 30% (bench-cost-a $0.0072, b
+  $0.0094). A call here is ~27k tokens in (about half cached) and ~4k out, so input price matters as
+  much as output; by list price the cheapest 8-bit host for that shape is GMICloud (~$0.0025 a call)
+  and default routing sent it nothing. Routing also moves day to day: arm A, default routing, went to
+  Inceptron too, and cost more than batch 9 ($0.0051).</li>
+<li><strong>Search</strong> (<code>mcp_server</code> over <code>search_index</code>): when every word finds fewer than the limit, pages
+  matching some words fill the rest, ranked by query words in title and description; titles that
+  differ only in case or punctuation show once, with the others listed as <code>duplicates</code>. A brief-style
+  query used to return nothing. Vocabulary is still a gap: "second language" does not find the "L2"
+  claims.</li>
+<li><strong>Claim evidence lines count distinct studies</strong>, with evidence_rollup's key, and show <code>(N entries)</code>
+  when one study backs several entries: 398 pages said "2 studies" or more for one article.</li>
+<li><strong>Usage simulation</strong> (six invented scenarios; wiki-only agents, a no-wiki baseline, a grader who
+  fetched 18 cited statements; scratch files, not committed). Overall usefulness, wiki against
+  baseline: Italian A1 3/3.5, nurse onboarding 3/3.5, algebra 3.5/3.5, retrieval lit review 4/4,
+  funder priorities <strong>4.5/3</strong>, feedback-timing gap 3.5/4. The wiki wins traceability everywhere by 2–3
+  points and honesty about gaps; the baseline wins relevance except for the funder, because it brings
+  domain literature the wiki lacks (medication safety, adult mobile language learning, EAL maths).
+  17 of 18 checked statements matched their page, so <strong>where the wiki fails, the pages are why</strong>.
+  Ready: evidence audits of practice (<code>evidence.md</code>'s citation load against studies), checking a design
+  rationale, stating gaps, a first pass at a core-topic lit review. Not ready: domain course builds,
+  pattern and element pages as evidence (canonical ones are stubs citing no claims), effect-size
+  comparison (most entries <code>i?</code>). About half of all searches found something useful. The grader's
+  ranked fixes: (1) design-page links that point at the wrong claim — <code>strategy/timely_feedback</code>,
+  <code>strategy/comparing_multiple_solution_methods</code>, <code>principle/gamification</code> (x3), <code>element/debrief</code>,
+  all open, since choosing the right claim is a reading, and a check that link text matches its target;
+  (2) study counts (done) and q4 codes on theoretical reviews, a book and Chi 1989 (n=10), open;
+  (3) merge duplicate families (expertise reversal x3, spacing x6, <code>timely_feedback</code>/<code>timely-feedback</code>
+  giving different advice) and let search favour claims. A subclaim coded <code>q4 i3</code> over its <code>q2 i?</code>
+  entry and four pages still saying they had no evidence were corrected.</li>
+</ul>
 <h3 id="2026-09-28-night-batch-9-the-droplet-dress-rehearsal">2026-09-28 (night) — batch 9, the droplet dress rehearsal<a class="headerlink" href="#2026-09-28-night-batch-9-the-droplet-dress-rehearsal" title="Permanent link">&para;</a></h3>
 <p>Run exactly as the droplet would: a venv built as <code>deploy/provision.sh</code> builds it, <code>deploy/dashboard_server.py</code>
 on 127.0.0.1:8080, the batch launched from its <code>/launch-scrape</code> form (10 PMC, 70 ERIC, GLM, <code>CURRENT</code> = v135,
