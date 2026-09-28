@@ -63,9 +63,14 @@ def entry_kinds(claim):
     return out
 
 
+FLIP = {"+": "-", "-": "+"}
+
+
 def load_cells(run="a"):
     by_claim = defaultdict(list)
     kinds = {}
+    cpath = RUNS / f"{run}-contrasts.json"
+    contrasts = json.loads(cpath.read_text(encoding="utf-8")) if cpath.exists() else {}
     for line in (RUNS / f"{run}.ndjson").read_text(encoding="utf-8").splitlines():
         if line.strip():
             r = json.loads(line)
@@ -76,6 +81,12 @@ def load_cells(run="a"):
                 res = c.setdefault("result", {})
                 if res.get("design") in (None, "?"):
                     res["design"] = KIND_DESIGN.get(kinds[r["claim"]].get(r["entry"]), "?")
+                d = c.get("D") or {}
+                lab = contrasts.get(f"{d.get('variable')}\t{d.get('treatment') or ''}\t{d.get('comparison') or ''}")
+                c["_contrast"] = (lab or {}).get("label") or f"{d.get('treatment')} vs {d.get('comparison')}"
+                if lab and not lab.get("treatment_is_a", True):
+                    res["direction"] = FLIP.get(res.get("direction"), res.get("direction"))
+                    c["_flipped"] = True
                 by_claim[r["claim"]].append(c)
     return by_claim
 
@@ -178,7 +189,7 @@ def render(page, profile, run="a"):
     for q, claims in decisions(page):
         rows = defaultdict(list)
         for c in (x for cl in claims for x in by_claim.get(cl, []) if usable(x)):
-            rows[c["D"]["variable"]].append(c)
+            rows[(c["D"]["variable"], c["_contrast"])].append(c)
         out += [f"## {q}", ""]
         if not rows:
             out += ["No coded cells: the claims this decision cites have no result quoted from a study's text.", ""]
@@ -187,9 +198,9 @@ def render(page, profile, run="a"):
                 if any(c["O"]["outcome"] in outs for cs in rows.values() for c in cs) or aim & set(outs)]
         head = [f"{name}{' ★' if aim & set(outs) else ''}" for name, outs in cols]
         out += ["| Option | " + " | ".join(head) + " |", "|---" * (len(cols) + 1) + "|"]
-        for var, cs in sorted(rows.items(), key=lambda kv: -len(kv[1])):
+        for (var, con), cs in sorted(rows.items(), key=lambda kv: -len(kv[1])):
             ex = Counter(f"{c['D'].get('treatment')} vs {c['D'].get('comparison')}" for c in cs).most_common(1)[0][0]
-            label = f"**{var}**<br><small>{ex[:90]}</small>"
+            label = f"**{con}**<br><small>{var} · e.g. {ex[:80]}</small>"
             out.append("| " + label + " | " + " | ".join(
                 cell_text([c for c in cs if c["O"]["outcome"] in outs], profile) for _, outs in cols) + " |")
         allc = [c for cs in rows.values() for c in cs]

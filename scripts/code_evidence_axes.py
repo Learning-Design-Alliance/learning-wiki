@@ -171,5 +171,66 @@ def main():
     print(f"coded {len(todo) - errors} (errors {errors}), ${spent:.3f} -> {out}")
 
 
+def _retry(call, tries=6):
+    import time
+    for i in range(tries):
+        try:
+            return call()
+        except Exception as e:  # noqa: BLE001
+            if "rate-limited" not in str(e) and "429" not in str(e) or i == tries - 1:
+                raise
+            time.sleep(10 * (i + 1))
+
+
+def assign_contrasts(run="a", model="openai/gpt-5.6-luna"):
+    """Name each cell's contrast canonically, per design variable, so a map row is one
+    contrast ("spaced vs massed") rather than a variable ("spacing"), and flag cells coded
+    the other way round (treatment and comparison swapped) so their direction can be read
+    against the canonical orientation. Written to <run>-contrasts.json, keyed by
+    variable and the exact treatment/comparison text."""
+    from scripts.eval import openrouter_client as oc
+    from scripts.eval.jsonutil import extract_json
+    recs = [json.loads(l) for l in (OUTDIR / f"{run}.ndjson").read_text(encoding="utf-8").splitlines() if l.strip()]
+    pairs = {}
+    for r in recs:
+        for c in r["cells"]:
+            d = c.get("D") or {}
+            pairs.setdefault(d.get("variable"), set()).add((d.get("treatment") or "", d.get("comparison") or ""))
+    path = OUTDIR / f"{run}-contrasts.json"
+    out = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    cost = 0.0
+    for var, ps in sorted(pairs.items(), key=lambda kv: str(kv[0])):
+        ps = sorted(p for p in ps if f"{var}\t{p[0]}\t{p[1]}" not in out)
+        if not ps:
+            continue
+        listing = "\n".join(f"{i + 1}. {t} VS {c}" for i, (t, c) in enumerate(ps))
+        prompt = f"""Design variable: {var}
+Below are contrasts coded from studies, each "treatment VS comparison".
+Group them into canonical contrasts a course designer would recognise as one choice, as "A vs B"
+with A the option the variable names or the more intensive one (e.g. "spaced vs massed",
+"longer vs shorter gaps", "expanding vs equal intervals", "immediate vs delayed feedback").
+Keep genuinely different choices apart; do not merge "spaced vs massed" with "longer vs shorter gaps".
+For each numbered contrast give its canonical label and whether its treatment is the A side
+(true) or the B side (false, i.e. coded the other way round).
+{listing}
+Reply: {{"items": [{{"n": 1, "label": "A vs B", "treatment_is_a": true}}]}}"""
+        g = _retry(lambda: oc.generate(model, SYSTEM, prompt, os.environ["OPENROUTER_API_KEY"], max_tokens=6000))
+        cost += g.cost_usd or 0
+        d = extract_json(g.raw_text) or {}
+        for it in d.get("items") or []:
+            try:
+                t, c = ps[int(it["n"]) - 1]
+            except (KeyError, ValueError, IndexError, TypeError):
+                continue
+            out[f"{var}\t{t}\t{c}"] = {"label": it.get("label"), "treatment_is_a": bool(it.get("treatment_is_a", True))}
+        path.write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"{len(out)} contrasts labelled across {len(pairs)} variables, ${cost:.3f} -> {path}")
+
+
+if __name__ == "__main__" and "--contrasts" in sys.argv:
+    assign_contrasts()
+    sys.exit(0)
+
+
 if __name__ == "__main__":
     main()
