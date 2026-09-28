@@ -26,13 +26,15 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q2` · `i3` large · n=48
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
-incidental finding about articles is the more transferable half of the paper.
+paper's note on articles is an implementation detail, not a finding: no article outcome was measured.
+<!-- deprecated (2026-09-30): "The incidental finding about articles is the more transferable half of the paper." -->
 
 ## Subclaims
 
 `q2 i3` Over four weeks, a game-based group went from 40.29 to 171.91 Italian words against 40.54 to 139.29 for a traditionally taught control, F(1,46) = 219.215, p < .05. [→ Frolli et al. 2023](#frolli-et-al-2023)
 
-`q2 i?` Italian articles were disproportionately hard for this group, which the authors attribute to articles being absent from Russian and Ukrainian grammar — a category the first language does not contain rather than a rule the learner has not yet met. [→ Frolli et al. 2023](#frolli-et-al-2023)
+`q2 i?` The authors report Italian articles as an instructional accommodation, the one topic that needed occasional explanation in Russian because articles are absent from Russian and Ukrainian grammar; no outcome was measured for articles, so this is an implementation note, not a finding. [→ Frolli et al. 2023](#frolli-et-al-2023)
+<!-- deprecated (2026-09-30; the paper measured no article outcome, see observations/frolli-2023.yaml): `q2 i?` Italian articles were disproportionately hard for this group, which the authors attribute to articles being absent from Russian and Ukrainian grammar — a category the first language does not contain rather than a rule the learner has not yet met. [→ Frolli et al. 2023](#frolli-et-al-2023) -->
 
 ## Evidence
 
@@ -42,7 +44,7 @@ Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learni
 
 `q2 · two-group controlled classroom comparison over four weeks` · `i3 · 171.91 vs 139.29 words, F(1,46) = 219.215` · `n=48` · `causal · r?`
 
-48 Ukrainian children aged 6–7 (mean 6.5), about one month resident in Italy, were taught basic Italian vocabulary for four weeks in two conditions: game-based (Kahoot! and outdoor games) or traditional instruction. Both groups started near 40 words. The authors attribute the difference to motivation and attention, noting that incentive systems fuelled the students' motivation to win. They separately record that articles were disproportionately difficult for these learners.
+48 Ukrainian children aged 6–7 (mean 6.5), about one month resident in Italy, were taught basic Italian vocabulary for four weeks in two conditions: game-based (Kahoot! and outdoor games) or traditional instruction. Both groups started near 40 words. The authors attribute the difference to motivation and attention, noting that incentive systems fuelled the students' motivation to win. They separately note that articles were the one topic taught partly in Russian, since neither Russian nor Ukrainian has them; no article-specific outcome was measured.
 
 ## Discussion
 
