@@ -107,6 +107,17 @@ work is done, not that the check is broken.
   They were removed (git history keeps them) and `.gitignore` now refuses them. Write run
   output to `eval/runs/`, which is ignored; never commit a log or a scratch report at the root.
 
+- **A pattern is a reusable, research-based design, general across domains and contexts** (maintainer,
+  2026-09-30). A course for a particular setting, such as a self-paced mobile language course or a clinical
+  onboarding programme, is a *design* that uses the patterns whose evidence fits its learning goals and
+  learners. It is never a pattern page. Context (mobile, no teacher, 10 minutes a day) is a requirement or
+  constraint a pattern's page speaks to, and a design scenario is at most an entry under that pattern's
+  `## Examples`. Do not create context- or domain-specific patterns, and do not report "no pattern for
+  this course" as a gap. Some existing `patterns/` pages are designs in this sense (the Duolingo pages,
+  `kindergarten-balance-scale-equal-sign-lesson-sequence`, `tutor-led-strategies-adult-language-lessons`,
+  `elderly-refugee-programs-beyond-language-learning`, among others); reclassifying them is open and
+  needs a decision on where designs live.
+
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
@@ -126,10 +137,14 @@ finds out.
   blind: S1 77 → 86% (baseline 87), S2 92 → 96% (81), S3 87 → 92% (84).** But the baseline still ranks
   first blind in all three and leads decision value (4.33–5 against 4.0–4.33), because it makes 28–31
   decisions to the wiki's 19–21: **the pages made the wiki's decisions better, not more numerous.** Two
-  runs a condition, so differences under ~0.3 are noise. What the after-answers still lacked: course-level
-  patterns (no self-paced mobile language course, no clinical onboarding programme) and domain claims
-  (medication safety, EAL maths). The next measurement is dose: decision sections on ~40 canonical pages
-  plus one or two course-level patterns, re-run on the same three scenarios.
+  runs a condition, so differences under ~0.3 are noise. What the after-answers still lacked was a way
+  to **select patterns by learning goal and learner conditions**: agents searched by context ("mobile",
+  "language", "algebra") and reported "no pattern for this course", while the one answer that did well (S2)
+  took 4C/ID, a general pattern, and built the course from it. Domain claims were also missing (medication
+  safety, EAL maths). The next measurement is dose: decision sections on ~40 canonical patterns and
+  elements, with their Target Goals, Target Learners and Requirements/Constraints backed by claims so a
+  pattern can be chosen for a goal, re-run on the same three scenarios. **Not** course- or context-level
+  patterns: see the settled item on what a pattern is.
 - **Cleanup in the same change.** Nine load-bearing failures fixed (0 open): D'Orazzi & Hajek 2022 is a
   student questionnaire study, not a teacher-and-learner one, so the Italian-motivation page's teacher clause
   is flagged as unconfirmed; Harkins et al. is **2020** (Crossref and ERIC), not 2021, on 9 pages, and a

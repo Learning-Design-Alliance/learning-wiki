@@ -45,6 +45,11 @@ A `## Design Decisions` section, placed immediately before the page's first `## 
   already there, as `- [title](../claims/<slug>.md) [marker]`, creating the list under the
   Implications/Design Implications section if the page has none.
 
+- **Keep the page general.** A pattern or element is reusable across domains and contexts; a course for a
+  particular setting is a design that uses it, not a variant of it. Write decisions keyed on the learning
+  goal and learner conditions (novices vs advanced learners, recall vs transfer, with or without an
+  instructor). Name a population under **Tested with**, never as the scope of the decision.
+
 ## Rules
 
 - Edit only the pages you are given. Change nothing else on them except the two additions above.
