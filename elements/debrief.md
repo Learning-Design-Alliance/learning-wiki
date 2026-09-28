@@ -54,7 +54,54 @@ Debriefing is where much of the learning from experience is actually consolidate
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]
+- [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+S]
+- [Feedback most effective at task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
+- [Feedback improves learning](../claims/feedback-improves-learning.md) [+S]
+- [Knowledge gained by self-analysis is more likely to produce constructive change than insights given by an observer](../claims/self-analysis-knowledge-drives-teacher-change.md) [+W]
+- [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
+- [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
+- [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
+
+## Design Decisions
+<!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
+     cites the claims that settle it, with markers capped by each claim's recorded evidence. -->
+
+### Does the debrief add anything to the experience it follows?
+- **Default:** treat the debrief as the feedback step of a deliberate-practice loop; simulation-based medical education with deliberate practice (repetition, mastery standards, immediate feedback) beat traditional clinical education (d = 0.71, 14 studies) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- **Changes when:** read against the largest simulation meta-analysis → its subgroup analyses found no consistent interaction between simulation effects and feedback as a design feature, so the debrief's own contribution is not isolated — [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]
+- **Tested with:** health-professions trainees, mostly on procedural and psychomotor skills.
+- **Not settled:** no wiki claim compares the same experience with and without a debrief; the claim that debriefing is "a key moderator" is stated in a Discussion, not in recorded evidence.
+
+### How structured should the debrief questions be?
+- **Default:** use specific, task-targeted prompts rather than "think about what happened"; metacognitive-reflection prompts were the strongest moderator across 48 writing-to-learn studies (b = 0.48), and specific prompts beat generic ones with the amount of reflection held constant (208 engineering students) — [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- **Default:** prompts to plan, monitor and evaluate improved learning outcomes (g = 0.40), more so when paired with feedback, task-specific and adaptive to the learner — [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+S]
+- **Tested with:** school writing-to-learn studies, a first-year engineering course, computer-based learning environments; none is a post-simulation debrief.
+- **Not settled:** which phased model (reaction → analysis → synthesis, What? So what? Now what?, after-action review) works best; no wiki claim compares them, so the Design Implications line above that phased models outperform unstructured talk rests on no recorded study.
+
+### What should the facilitator's feedback be about?
+- **Default:** the task and the process, not the person; high-information feedback addressing task and process gave d = 0.99 against d = 0.24 for reinforcement or punishment, and feedback lost effect as it turned attention toward the self — [Feedback most effective at task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
+- **Default:** give information the learner can act on; more than a third of feedback interventions made performance worse — [Feedback improves learning](../claims/feedback-improves-learning.md) [+S]
+- **Tested with:** 435 education studies (over 61,000 learners) and 607 effect sizes from laboratory and field settings.
+- **Not settled:** advocacy-inquiry or "good judgment" questioning against directive correction; no wiki claim tests facilitator style. One argument with no data holds that insight gained by self-analysis changes practice more than insight given by an observer — [Knowledge gained by self-analysis is more likely to produce constructive change than insights given by an observer](../claims/self-analysis-knowledge-drives-teacher-change.md) [+W].
+
+### Who explains: peers, the facilitator, or both?
+- **Default:** both, in sequence; peer discussion alone and instructor explanation alone gave similar gains, and combining them gave markedly larger gains for weak, medium and strong students — [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- **Changes when:** reflection is run as a recurring group routine across a course → former students rated group processing as a growing contribution to their learning (5.4 → 8.6 → 8.9 on a 10-point scale) — [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
+- **Tested with:** undergraduate genetics clicker questions (two classroom studies, no randomised control); 46 former seminar students' retrospective ratings.
+- **Not settled:** whether peers who share a misconception reinforce it in a debrief (raised in the peer-discussion Discussion, not tested).
+
+### How long should the debrief be, and in what setting?
+- **Default:** plan duration, peer interaction and the reflective activity deliberately; across 23 controlled studies (n = 2,010) reflection interventions averaged g = 0.56, and the effect depended on all three — [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
+- **Default:** allow enough time and lower the evaluative pressure; time for reflection, a high-pressure evaluative atmosphere, and dialogue with peers and mentors shaped the reflective judgment student teachers showed — [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
+- **Tested with:** higher-education reflection interventions; six student teachers in one urban school (a qualitative pilot).
+- **Not settled:** the direction of Guo's moderators (which durations and activities do better) is not given on the claim page, and no wiki claim sets a minimum debrief length.
+
+### When should the debrief happen?
+- **Not settled:** no wiki claim tests immediate against delayed debriefing. The feedback claims treat timing as a moderator, not a rule — feedback helps when the learner can still act on it — which argues for debriefing while the next attempt is still ahead, but that is a reading, not a finding — [Feedback improves learning](../claims/feedback-improves-learning.md) [~S].
 
 ## Related Elements
 - [Reflection](../elements/reflection.md) — the broader category; debrief is a facilitated, typically group-based, time-bounded form of it
