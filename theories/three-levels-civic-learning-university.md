@@ -16,7 +16,7 @@ sources:
 # Three levels of educational influence for civic learning in the university: formal, informal, and non-formal
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 associational, 1 theoretical), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes that universities can foster civic competence through three levels of action: formal (subjects and curricular themes), informal (mentoring, role models, service-learning, student associations, volunteering), and non-formal (student representation and participation structures). The authors state that "where citizenship education is most effective is in the non-formal and informal areas and this is where the most valuable, experiential, and long-lasting learning has been achieved". The framework organizes their recommendations for leaders and professors.
@@ -42,7 +42,7 @@ The article proposes that universities can foster civic competence through three
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](../claims/civic-subject-alone-insufficient.md) [+M]
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](../claims/service-learning-improves-civic-and-personal-outcomes.md) [+M]
 - [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](../claims/traditional-student-participation-inefficient-spain.md) [+M]
-- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](../claims/peer-mentoring-increases-civic-action-service-learning.md) [+W]
+- [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](../claims/peer-mentoring-increases-civic-action-service-learning.md) [+W]
 
 ## Related Theories
 

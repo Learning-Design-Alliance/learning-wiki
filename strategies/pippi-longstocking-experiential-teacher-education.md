@@ -9,8 +9,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: ozturk-2023
-    resource: "https://www.youtube.com/watch?v=Cl2Fao763ms"
-    title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms"
+    resource: "https://eric.ed.gov/?id=ED638455"
+    title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing, pp. 366–382. https://eric.ed.gov/?id=ED638455"
     author: Ozturk, N
 ---
 
@@ -45,4 +45,4 @@ The article recommends that instead of studying educational philosophies as abst
 -
 
 ## Key Sources
-- Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms
+- Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing, pp. 366–382. https://eric.ed.gov/?id=ED638455

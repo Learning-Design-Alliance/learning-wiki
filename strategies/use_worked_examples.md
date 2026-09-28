@@ -45,7 +45,7 @@ By externalizing the solution process, worked examples let novices study task st
 - Optional: [self-explanation prompts](../elements/eliciting-student-thinking.md) ("Why did we do this step?") before moving to independent practice
 
 #### Constraints
-- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Less effective for open-ended or design tasks where there is no single correct approach
 - Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

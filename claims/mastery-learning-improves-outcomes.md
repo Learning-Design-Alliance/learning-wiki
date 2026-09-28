@@ -50,7 +50,8 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 
 **Feedback and correction quality.** The corrective loop is the active ingredient, not the gate itself. Mastery variants that pair retesting with targeted, differentiated corrective instruction outperform those that simply recycle learners through the same material [~M]; without corrective feedback, repeated attempts mostly re-expose learners to failure. This connects to the broader evidence on [Assessment for Learning Improves Achievement](assessment-for-learning-improves-achievement.md).
 
-**Open questions.** Evidence entries are still needed here to establish effect sizes, compare group-based versus individually paced variants, and test durability of gains over time. This page should not be treated as evidentially supported until those entries are added.
+**Open questions.** One meta-analysis is recorded (Kulik et al. 1990, 108 studies). Still open: effect sizes for group-based versus individually paced variants, and how durable the gains are.
+<!-- deprecated (2026-09-30, stale once evidence was recorded): **Open questions.** Evidence entries are still needed here to establish effect sizes, compare group-based versus individually paced variants, and test durability of gains over time. This page should not be treated as evidentially supported until those entries are added. -->
 
 ## Related Claims
 

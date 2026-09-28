@@ -47,4 +47,4 @@ Chi-square analysis of negotiation frequencies across the same 36-learner counte
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use](task-condition-did-not-moderate-strategy-use.md) — related
 - [Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners](unfocused-tasks-elicited-more-meaning-negotiation.md) — related
 - [Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks](unfocused-tasks-more-confirmation-and-clarification-strategies.md) — related
-- [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
+- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related

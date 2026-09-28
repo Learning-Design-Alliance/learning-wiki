@@ -43,7 +43,7 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 
 
 ## Related Claims
-- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — a narrower finding that bears on this claim
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related

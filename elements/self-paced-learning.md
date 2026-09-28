@@ -35,7 +35,7 @@ Self-paced learning is the element in which learners control the rate or sequenc
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Learner Paced Beats System Paced Complex Material](../claims/learner-paced-beats-system-paced-complex-material.md) [+W]
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [+W]
 
 ## Related Elements
 - [Digital Learning](digital-learning.md)

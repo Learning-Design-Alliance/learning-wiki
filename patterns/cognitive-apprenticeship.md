@@ -70,7 +70,7 @@ Course or unit — the full modeling → coaching → fading arc typically unfol
 ### Claims
 #### Supporting
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — worked examples (the modeling phase) reduce unnecessary search for novices
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — pairing demonstration with practice supports transfer
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — pairing demonstration with practice supports transfer
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — example–problem sequences outperform problem-only practice
 
 #### Contradicting

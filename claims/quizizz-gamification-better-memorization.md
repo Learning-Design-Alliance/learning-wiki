@@ -43,5 +43,5 @@ The review reports, citing Mirzoyeva and Gurbanova (2021), a study of an online 
 
 
 ## Related Claims
-- [Gamification raises motivation, satisfaction, and test performance in vocabulary learning](gamification-raises-motivation-satisfaction.md) — related
+- [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related

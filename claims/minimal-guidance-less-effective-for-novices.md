@@ -131,7 +131,7 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-example-problem-sequences.md) — worked examples as the guided alternative to unguided problem-solving
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — the specific guidance mechanism this claim generalizes
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — how guidance should be faded rather than removed
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — how guidance should be faded rather than removed
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the expertise-reversal boundary condition in claim form
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — mechanism by which guidance eases novice cognitive load
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the broader load-reduction principle behind explicit guidance

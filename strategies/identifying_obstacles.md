@@ -12,14 +12,14 @@ generated:
 # Identifying Obstacles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Identifying obstacles is a self-regulatory strategy in which learners systematically anticipate the challenges — gaps in knowledge, skills, resources, time, or motivation — that could block progress toward a goal. It is typically carried out through structured reflection (e.g., listing barriers, "premortem" analysis, or mental contrasting) and paired with concrete if-then plans for overcoming each anticipated barrier. The strategy converts vague optimism about a goal into a realistic implementation plan.
 
 ## Design Implications
 
-Anticipating obstacles is most effective when it is tied to specific response plans rather than left as open-ended worry. Implementation intentions — "if situation X arises, I will do Y" — reliably increase goal attainment by delegating action control to anticipated cues [Gollwitzer & Sheeran's meta-analysis found medium-to-large effects of if-then planning on goal attainment.](https://doi.org/10.1016/S0065-2601(06)36002-1) [+S]. Mental contrasting, which pairs a positive visualization of goal attainment with a deliberate inventory of present obstacles, outperforms positive fantasizing alone, which can actually reduce effort [~S]. The strategy draws on [Self-Regulated Learning](../theories/self-regulated-learning.md): obstacle identification is the forethought-phase step that makes monitoring and strategy adjustment during performance possible.
+Anticipating obstacles is most effective when it is tied to specific response plans rather than left as open-ended worry. Implementation intentions — "if situation X arises, I will do Y" — reliably increase goal attainment by delegating action control to anticipated cues [Gollwitzer & Sheeran's meta-analysis found medium-to-large effects of if-then planning on goal attainment.](../claims/implementation-intentions-improve-goal-attainment.md) [+S]. Mental contrasting, which pairs a positive visualization of goal attainment with a deliberate inventory of present obstacles, outperforms positive fantasizing alone, which can actually reduce effort [~S]. The strategy draws on [Self-Regulated Learning](../theories/self-regulated-learning.md): obstacle identification is the forethought-phase step that makes monitoring and strategy adjustment during performance possible.
 
 ### Context
 #### Requirements

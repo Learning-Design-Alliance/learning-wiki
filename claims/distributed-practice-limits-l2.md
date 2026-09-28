@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months
-description: Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months
+title: Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months
+description: Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months
 id: distributed-practice-limits-l2
 status: draft
 generated:
@@ -28,10 +28,11 @@ sources:
     rigour: "?"
 ---
 
-# Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months
+# Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=48 experiments (98 effect sizes, N=3,411)
+<!-- deprecated title (2026-09-30, overstated its evidence): Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months -->
 
 ## Subclaims
 `q2 i?` Distributing a given amount of practice over larger stretches of time is beneficial, but there are limits: spreading practice over a couple of years may be worse than spreading it over a couple of months. [→ Robert DeKeyser 2010](#robert-dekeyser-2010)

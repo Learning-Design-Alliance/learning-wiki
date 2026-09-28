@@ -79,7 +79,7 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the expertise reversal boundary condition on load-reducing scaffolds
 - [Activation improves learning](activation-improves-learning.md) — activated prior knowledge supplies schemas that lower intrinsic load
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — possibly the same claim (merge candidate)
-- [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md) — related
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related

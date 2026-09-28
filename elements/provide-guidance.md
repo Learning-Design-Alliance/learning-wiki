@@ -32,7 +32,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - Unguided or minimally guided discovery is less effective for novices than explicit guidance, particularly for complex content [~S] — inquiry works best *after* foundational guidance, not instead of it
 - Over-guidance for learners with prior knowledge wastes capacity and can depress performance [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Static, one-size-fits-all guidance ignores the expertise-reversal effect; support calibrated for the middle of a group helps no one at the extremes
-- Guidance that does the cognitive work for the learner (e.g., fully completed solutions with no [Self-Explanation](self-explanation.md) prompts) yields shallow encoding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Guidance that does the cognitive work for the learner (e.g., fully completed solutions with no [Self-Explanation](self-explanation.md) prompts) yields shallow encoding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 
 ### Target Learners
 - Novices acquiring complex concepts or procedural knowledge, who lack schemas to organize unguided search [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]

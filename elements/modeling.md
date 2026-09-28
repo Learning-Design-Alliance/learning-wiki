@@ -19,7 +19,7 @@ Modeling is the instructional element in which an instructor, expert, or advance
 
 ## Design Implications
 
-Modeling provides structured exposure to expert-level reasoning, reducing the unguided search novices would otherwise face when approaching a new task [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on making cognition visible: models that verbalize decisions, monitoring, and revision ("I'm stuck here, so I'll try…") outperform silent demonstrations of correct output. Modeling must be paired with [Practice](practice.md) and [Coaching](coaching.md); observation alone produces familiarity without competence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Modeling provides structured exposure to expert-level reasoning, reducing the unguided search novices would otherwise face when approaching a new task [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on making cognition visible: models that verbalize decisions, monitoring, and revision ("I'm stuck here, so I'll try…") outperform silent demonstrations of correct output. Modeling must be paired with [Practice](practice.md) and [Coaching](coaching.md); observation alone produces familiarity without competence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - A model whose skill level is attainable; observing far-out-of-reach experts can depress rather than raise confidence
 
 #### Constraints
-- Observation without application creates illusions of competence — learners judge modeled performance easier to reproduce than it is [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Observation without application creates illusions of competence — learners judge modeled performance easier to reproduce than it is [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Flawless expert models can intimidate learners or seem unattainable; models that show coping and error-recovery better support self-efficacy [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~M]
 - A single model can anchor learners to one solution path; contrasting multiple models or including [Non-Examples](non-examples.md) mitigates this
 - Less useful for learners with strong prior knowledge, for whom explicit modeling is redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]

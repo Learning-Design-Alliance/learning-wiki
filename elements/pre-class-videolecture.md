@@ -19,7 +19,7 @@ Instructional content — exposition, worked demonstrations, or recorded lecture
 
 ## Design Implications
 
-Pre-class video works only when paired with accountability and application: students who watch without a follow-up task learn little, and class time that merely re-lectures the video undermines the design [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Videos should be short, segmentable, and aligned to specific in-class activities; multimedia design principles (signaling, segmenting, conversational narration) measurably improve learning from video [Media presentations combining narration and relevant visuals affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
+Pre-class video works only when paired with accountability and application: students who watch without a follow-up task learn little, and class time that merely re-lectures the video undermines the design [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Videos should be short, segmentable, and aligned to specific in-class activities; multimedia design principles (signaling, segmenting, conversational narration) measurably improve learning from video [Media presentations combining narration and relevant visuals affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ### Context
 #### Requirements

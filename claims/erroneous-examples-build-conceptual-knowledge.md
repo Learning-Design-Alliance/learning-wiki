@@ -37,7 +37,8 @@ Studying a hypothetical peer's incorrect solution and being prompted to find, ex
 
 ## Subclaims
 `q3 i?` Analyzing and explaining errors in erroneous examples improves conceptual knowledge and procedural transfer more than studying correct examples alone. [→ Rittle-Johnson 2017](#rittle-johnson-2017)
-`q3 i?` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
+`q3 i?` Comparing correct and erroneous examples helped middle-school students' decimal-magnitude learning more than studying correct examples only, especially on transfer. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
+<!-- deprecated (2026-09-30, the study's comparison condition was correct examples only, not erroneous examples alone): `q3 i?` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012) -->
 
 ## Evidence
 

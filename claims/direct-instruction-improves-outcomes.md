@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Direct instruction improves learning outcomes
+title: Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,11 @@ sources:
     rigour: "?"
 ---
 
-# Direct instruction improves learning outcomes
+# Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=328 studies / ~4,000 effects
+<!-- deprecated title (2026-09-30, overstated its evidence): Direct instruction improves learning outcomes -->
 
 Explicit, teacher-led instruction — clear objectives, modeling, guided practice with feedback, and independent practice — produces stronger learning outcomes than discovery-only approaches, particularly for novices and structured domains.
 

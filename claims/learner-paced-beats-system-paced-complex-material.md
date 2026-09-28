@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Learner Paced Beats System Paced Complex Material
+title: "Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: "?"
 ---
 
-# Learner Paced Beats System Paced Complex Material
+# Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
+<!-- deprecated title (2026-09-30, did not say it rests on one experiment): Learner Paced Beats System Paced Complex Material -->
 
 For complex material, allowing learners to control the pace of instruction (pause, replay, slow down) produces better learning than a fixed, system-controlled pace, because pacing control lets learners manage cognitive load.
 

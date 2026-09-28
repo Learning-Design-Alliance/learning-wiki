@@ -48,7 +48,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 
 ## Claims
 
-- [Learner Paced Beats System Paced Complex Material](../claims/learner-paced-beats-system-paced-complex-material.md) [+M]
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [+M]
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](../claims/rl-sequencing-beats-fixed-oral-curriculum.md) [+M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 

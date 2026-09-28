@@ -19,7 +19,7 @@ Explicit teacher modeling involves the teacher both describing and demonstrating
 
 ## Design Implications
 
-Explicit modeling gives novices a complete expert performance to study, reducing unguided search and the working-memory burden of figuring out *what to do* before *how to do it* [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness hinges on making reasoning visible, not just actions: silent demonstration leaves learners to infer intent, while narrated modeling converts tacit expertise into learnable steps [van Gog & Rummel, 2010](#key-sources) [+M]. Modeling must be paired with practice and feedback; observation alone produces illusions of competence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S].
+Explicit modeling gives novices a complete expert performance to study, reducing unguided search and the working-memory burden of figuring out *what to do* before *how to do it* [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness hinges on making reasoning visible, not just actions: silent demonstration leaves learners to infer intent, while narrated modeling converts tacit expertise into learnable steps [van Gog & Rummel, 2010](#key-sources) [+M]. Modeling must be paired with practice and feedback; observation alone produces illusions of competence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S].
 
 ### Context
 #### Requirements
@@ -32,7 +32,7 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 #### Constraints
 - Ineffective if students lack prerequisite skills or vocabulary — modeling of a composite skill outstrips learners missing its components [-M]
 - Over-modeling for learners with prior knowledge wastes time and can reduce engagement [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
-- Watching without subsequent application yields shallow encoding and overconfidence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Watching without subsequent application yields shallow encoding and overconfidence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Time-intensive: preparation and live modeling consume substantial instructional time, limiting coverage [-W]
 
 #### Implementation Variability

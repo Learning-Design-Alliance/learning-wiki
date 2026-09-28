@@ -45,4 +45,4 @@ Quasi-experiment with 10 NNS-NNS dyads (5 per condition, intact sections randoml
 ## Related Claims
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — related
 - [Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference](task-familiarity-negotiation-prior-research-inconsistent.md) — related
-- [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
+- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related

@@ -19,7 +19,7 @@ Metacognitive strategy instruction explicitly teaches learners *how* to approach
 
 ## Design Implications
 
-Strategy instruction produces reliable but moderate gains, strongest when instruction covers not just the strategy itself but its conditional application — when, where, and why to use it [~S]. Teaching strategies as decontextualized procedures yields far weaker effects than embedding them in authentic subject-matter tasks [~S]. Sustained practice with feedback is essential: strategies must become self-initiated habits, not just performed on demand [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Strategy instruction produces reliable but moderate gains, strongest when instruction covers not just the strategy itself but its conditional application — when, where, and why to use it [~S]. Teaching strategies as decontextualized procedures yields far weaker effects than embedding them in authentic subject-matter tasks [~S]. Sustained practice with feedback is essential: strategies must become self-initiated habits, not just performed on demand [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements

@@ -19,7 +19,7 @@ This routine provides a structured approach to using worked examples in teaching
 
 ## Design Implications
 
-The routine addresses the central failure mode of example-based learning: learners skim a completed solution, experience fluency, and mistake recognition for understanding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]. By inserting discussion and self-explanation prompts between reading and independent practice, the routine forces learners to reconstruct the reasoning behind each step, which builds schemas more effectively than silent study [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+The routine addresses the central failure mode of example-based learning: learners skim a completed solution, experience fluency, and mistake recognition for understanding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]. By inserting discussion and self-explanation prompts between reading and independent practice, the routine forces learners to reconstruct the reasoning behind each step, which builds schemas more effectively than silent study [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements

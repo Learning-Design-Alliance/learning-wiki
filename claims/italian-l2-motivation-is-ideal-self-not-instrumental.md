@@ -24,7 +24,7 @@ sources:
     author: "D'Orazzi, G., & Hajek, J."
     q: 2
     i: "?"
-    n: not reported here
+    n: not reported in the abstract
     kind: associational
     rigour: "?"
 ---
@@ -41,9 +41,9 @@ motivation dominates, so design advice transferred from those contexts points th
 
 `q2 i?` A survey of 211 US university learners of Italian, analysed through Dörnyei's L2 Motivational Self System, found a dominant ideal self, with a *multilingual* self also emerging — learners placing Italian inside a broader plural identity rather than treating it as a discrete skill. [→ Ferronato 2026](#ferronato-2026)
 
-`q2 i?` Australian university learners across four language programmes "did not make much reference to instrumental motivation factors, as opposed to their teachers, who mentioned more examples of industries where Italian is in high demand." [→ D'Orazzi & Hajek 2022](#dorazzi-hajek-2022)
+`q2 i?` Australian university learners "did not make much reference to instrumental motivation factors, as opposed to their teachers, who mentioned more examples of industries where Italian is in high demand." [→ D'Orazzi & Hajek 2022](#dorazzi-hajek-2022)
 
-`q2 i?` Motivation operated at three levels — micro psychological, meso pedagogical, macro social — and changed over the course of study rather than holding fixed. [→ D'Orazzi & Hajek 2022](#dorazzi-hajek-2022)
+`q2 i?` Motivation operated at three levels — micro psychological, meso pedagogical, macro social — and changed over the first year of study rather than holding fixed. [→ D'Orazzi & Hajek 2022](#dorazzi-hajek-2022)
 
 ## Evidence
 
@@ -59,9 +59,11 @@ Ferronato, M. (2026). Motivation, L2 Selves, and Experience of University Studen
 
 D'Orazzi, G., & Hajek, J. (2022). A Multidimensional Understanding of Italian L2 Learner Motivation among University Students in a Predominantly English-Speaking Environment. *Italica, 99*(3), 350–375. [doi:10.5406/23256672.99.3.04](https://doi.org/10.5406/23256672.99.3.04)
 
-`q2 · qualitative and survey study across four university language programmes` · `i? · a reported asymmetry between two groups, not a measured effect` · `n=not reported here` · `associational · r?`
+`q2 · quantitative survey: two online questionnaires, 51 Likert items, over one year (abstract only)` · `i? · no effect size in the abstract` · `n=not reported in the abstract` · `associational · r?`
 
-Australian university learners and their teachers were asked about motivation for studying Italian. Learners rarely raised usefulness; teachers raised it often, citing industries where Italian is in demand. The study models motivation at three levels and finds it shifts over time rather than being set at enrolment.
+Beginner students of Italian at a selection of Australian universities answered two online questionnaires of 51 Likert items about their first year of study. The study analyses motivation at three levels (micro psychological and cognitive, meso pedagogical, macro social) and reports that it is multidimensional and changes over time. The abstract describes the study as strongly quantitative and as building on, and possibly contrasting with, the authors' earlier qualitative study; it does not mention teachers, so the learner–teacher contrast quoted in the subclaim above could not be checked against the text available here and may belong to that earlier study.
+
+<!-- deprecated (2026-09-30, the abstract shows a student survey, not a teacher-and-learner study): Australian university learners and their teachers were asked about motivation for studying Italian. Learners rarely raised usefulness; teachers raised it often, citing industries where Italian is in demand. The study models motivation at three levels and finds it shifts over time rather than being set at enrolment. -->
 
 ## Discussion
 
@@ -79,6 +81,8 @@ both are university learners in predominantly English-speaking countries, self-r
 covers school-age learners, adults outside formal study, heritage learners, or learners resident in
 Italy — for whom instrumental motivation is plainly present. Splitting this into one claim per
 source would be reasonable if a third study disagreed.
+
+**The teacher half of the title rests on one quotation that could not be checked here.** D'Orazzi & Hajek (2022) is recorded from its abstract, which describes a student questionnaire study and mentions no teachers. The quoted contrast with teachers may come from the article's discussion of the authors' earlier qualitative study. Until the article's text is read, treat "their teachers assume the reverse" as unconfirmed; the learner half is supported by Ferronato (2026) as well.
 
 ## Related Claims
 

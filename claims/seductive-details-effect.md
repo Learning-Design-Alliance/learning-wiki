@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Interesting but irrelevant details impair learning
+title: Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner
 status: draft
 generated:
   by: claude/unspecified
@@ -38,10 +38,11 @@ sources:
     rigour: 2
 ---
 
-# Interesting but irrelevant details impair learning
+# Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3` · `i1` small
+<!-- deprecated title (2026-09-30, overstated its evidence): Interesting but irrelevant details impair learning -->
 
 Interesting but irrelevant text, pictures, or audio added to instructional materials impairs learning by diverting attention and working-memory resources away from the essential content. This is the "seductive details effect" — the general learning-science formulation of what multimedia researchers call the coherence principle.
 

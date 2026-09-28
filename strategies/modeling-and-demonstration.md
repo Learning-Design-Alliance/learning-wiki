@@ -19,7 +19,7 @@ Modeling and demonstration involve an expert performing a task — solving a pro
 
 ## Design Implications
 
-Observing a model reduces the unguided search that overwhelms novices during initial skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M], and demonstrations that verbalize the reasoning behind actions produce better learning than silent ones [van Gog & Rummel, 2010]. Demonstration must be paired with opportunities to apply what was observed; observation alone yields shallow encoding and overconfidence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Observing a model reduces the unguided search that overwhelms novices during initial skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M], and demonstrations that verbalize the reasoning behind actions produce better learning than silent ones [van Gog & Rummel, 2010]. Demonstration must be paired with opportunities to apply what was observed; observation alone yields shallow encoding and overconfidence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Observing a model reduces the unguided search that overwhelms novices during ini
 - Segmented presentation — pausing, chunking, or replay controls — so learners can process each step ([Chunking](../principles/chunking.md))
 
 #### Constraints
-- Watching without applying creates an illusion of competence; learners systematically overestimate what they learned from observation [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Watching without applying creates an illusion of competence; learners systematically overestimate what they learned from observation [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Overly fluent, error-free demonstrations can make performance look easier than it is; showing productive struggle and self-correction improves learners' persistence and self-efficacy [-M]
 - Less effective for open-ended or creative tasks with no single correct approach
 - Can anchor learners to one solution method; contrasting multiple models or including flawed examples reduces this risk

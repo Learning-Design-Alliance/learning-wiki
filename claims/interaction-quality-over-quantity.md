@@ -43,7 +43,7 @@ The review reports their comparison of eight NS-NS with eight NS-NNS dyads in an
 
 
 ## Related Claims
-- [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
+- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](negotiation-benefit-limited-lower-ability-learners.md) — related
 - [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](pairing-language-interaction-nom-l2-only.md) — related
 - [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language](mixed-dyads-negotiate-more-than-matched.md) — related

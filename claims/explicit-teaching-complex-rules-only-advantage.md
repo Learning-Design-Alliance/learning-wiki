@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules
+title: "Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too"
 description: Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules
 id: explicit-teaching-complex-rules-only-advantage
 status: draft
@@ -28,14 +28,15 @@ sources:
     rigour: "?"
 ---
 
-# Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules
+# Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=41 studies
+<!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules -->
 
 ## Subclaims
 `q2 i?` Explicit teaching of grammar resulted in better learner performance particularly with complex rules, while no difference was found for simple rules. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)
-`q3 i?` Contrary to this claim's simple-rule null, a meta-analysis of 41 studies found larger effect sizes for explicit than implicit instruction for simple as well as complex English grammatical features; the abstract prints no effect size. [→ Spada & Tomita 2010](#spada-tomita-2010)
+`q3 i?` Contrary to the review's simple-rule null, a meta-analysis of 41 studies found larger effect sizes for explicit than implicit instruction for simple as well as complex English grammatical features; the abstract prints no effect size. [→ Spada & Tomita 2010](#spada-tomita-2010)
 
 ## Evidence
 
@@ -55,13 +56,13 @@ Spada, N., & Tomita, Y. (2010). Interactions between type of instruction and typ
 
 `q3 · meta-analysis (abstract only)` · `i?` · `n=41 studies` · `quant-synthesis · r?`
 
-Meta-analysis of 41 studies of explicit and implicit instruction on simple and complex grammatical features in English, with features classed by the number of criteria applied to arrive at the correct form (Hulstijn & de Graaff, 1994) and treatments classed following Norris and Ortega (2000). It found larger effect sizes for explicit over implicit instruction for both simple and complex features, which contradicts this claim's second half (no difference for simple rules). Only the abstract was read: it prints no effect sizes, so whether the explicit advantage is smaller for simple features is not established here.
+Meta-analysis of 41 studies of explicit and implicit instruction on simple and complex grammatical features in English, with features classed by the number of criteria applied to arrive at the correct form (Hulstijn & de Graaff, 1994) and treatments classed following Norris and Ortega (2000). It found larger effect sizes for explicit over implicit instruction for both simple and complex features, which contradicts the review's finding of no difference for simple rules. Only the abstract was read: it prints no effect sizes, so whether the explicit advantage is smaller for simple features is not established here.
 
 > "The results indicate larger effect sizes for explicit over implicit instruction for simple and complex features."
 
 ## Discussion
 
-Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for explicit than implicit instruction for simple as well as complex English grammatical features, which contradicts this claim's "equals implicit teaching for simple rules". The claim rests on one primary study (Andrews, 2007) reported second-hand, so the title likely overstates the simple-rule null; renaming is the maintainer's call.
+Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for explicit than implicit instruction for simple as well as complex English grammatical features, which contradicts the earlier title's "equals implicit teaching for simple rules". That rested on one primary study (Andrews, 2007) reported second-hand, so the title now states both findings and gives the meta-analysis its weight.
 
 ## Related Claims
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — possibly the same claim (merge candidate)

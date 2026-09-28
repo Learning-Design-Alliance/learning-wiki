@@ -19,7 +19,7 @@ Scaffolded practice sequences arrange a set of practice tasks along a planned gr
 
 ## Design Implications
 
-Sequenced practice with fading outperforms both unsupported practice and practice that never lets go, because it manages working memory load early while still forcing independent performance later [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design problem is calibration: support that persists too long produces passive completion, while support withdrawn too early produces failure and floundering [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+M]. Task difficulty and support level should be varied independently — a harder task may need *more* scaffolding than an easier one, not less.
+Sequenced practice with fading outperforms both unsupported practice and practice that never lets go, because it manages working memory load early while still forcing independent performance later [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design problem is calibration: support that persists too long produces passive completion, while support withdrawn too early produces failure and floundering [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+M]. Task difficulty and support level should be varied independently — a harder task may need *more* scaffolding than an easier one, not less.
 
 ### Context
 #### Requirements

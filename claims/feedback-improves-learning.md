@@ -102,4 +102,4 @@ A meta-analysis of feedback interventions on task performance in laboratory and 
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a narrower finding that bears on this claim
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
-- [Feedback Use Improves Learning](feedback-use-improves-learning.md) — related
+- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — related

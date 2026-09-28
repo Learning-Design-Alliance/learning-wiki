@@ -62,5 +62,5 @@ Comparing the study's strategy classification with Cumming (1989) and Swain and 
 
 
 ## Related Claims
-- [Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules](explicit-teaching-complex-rules-only-advantage.md) — related
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants](syntax-outweighs-morphology-in-grammar-noticing.md) — related

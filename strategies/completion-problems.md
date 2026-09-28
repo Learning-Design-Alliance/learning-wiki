@@ -19,7 +19,7 @@ A completion problem (also called a completion strategy or fade-in problem) pres
 
 ## Design Implications
 
-Completion problems reduce the unguided search that overwhelms novices while still requiring generative processing — the learner must actually execute part of the solution rather than merely study one [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. This makes them more effective than worked examples alone at producing transferable skill, because the completion requirement combats the passive "illusion of understanding" that pure example study can induce [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design decision is the *completion ratio*: how much is given versus left to the learner, and how that ratio shifts across a task sequence.
+Completion problems reduce the unguided search that overwhelms novices while still requiring generative processing — the learner must actually execute part of the solution rather than merely study one [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. This makes them more effective than worked examples alone at producing transferable skill, because the completion requirement combats the passive "illusion of understanding" that pure example study can induce [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design decision is the *completion ratio*: how much is given versus left to the learner, and how that ratio shifts across a task sequence.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Completion problems reduce the unguided search that overwhelms novices while sti
 
 #### Constraints
 - For learners with high prior knowledge, the provided portion is redundant and adds extraneous load rather than reducing it [Guidance becomes less effective — and can reverse in benefit — as expertise grows.](../claims/expertise-reversal-effect.md) [-M]
-- If the completed portion is too large for too long, learners engage in shallow copy-and-continue behavior instead of reasoning [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-M]
+- If the completed portion is too large for too long, learners engage in shallow copy-and-continue behavior instead of reasoning [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-M]
 - Poorly aligned given/learner portions (e.g., giving the conceptually hard steps and asking for mechanical ones) undermine the intended scaffolding
 - In ill-structured domains with no canonical solution path, a "partial solution" may mislead learners about the nature of the task
 

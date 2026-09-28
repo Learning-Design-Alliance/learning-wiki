@@ -110,6 +110,39 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-30 (late night) — design decisions on 10 canonical pages: more sound decisions, not yet more of them
+
+- **`## Design Decisions`** (brief: `eval/design-decisions/BRIEF.md`) now sits on elements/feedback, practice,
+  spaced-repetition, simulation, debrief, worked-examples, principles/retrieval-practice, gamification,
+  patterns/direct-instruction and formative-assessment: about 64 decisions, each a designer's question with a
+  Default, Changes when, Tested with and Not settled line, every choice citing a claim page, markers under
+  `strength_cap`, cited claims added to the page's Claims list. **To extend it, give an agent the brief and
+  a list of pages; do not write decisions a claim page does not state.**
+- **Measured on S1–S3** (Italian A1, nurse onboarding, algebra), two wiki-only answers before and two after
+  on a frozen pre-pilot checkout, one length-matched no-wiki baseline each, a GPT grader (anchored rubric
+  ×3, plus a blind decisions-only test over three orders; $0.08; scratch files, not committed).
+  Rubric mean before → after (baseline): S1 4.4 → 4.5 (4.33), S2 4.2 → 4.7 (4.33), S3 4.7 → 4.77 (4.4).
+  Relevance S2 3.67 → 5; accuracy S2 4.17 → 5 (baseline 3 everywhere). **Share of decisions judged sound,
+  blind: S1 77 → 86% (baseline 87), S2 92 → 96% (81), S3 87 → 92% (84).** But the baseline still ranks
+  first blind in all three and leads decision value (4.33–5 against 4.0–4.33), because it makes 28–31
+  decisions to the wiki's 19–21: **the pages made the wiki's decisions better, not more numerous.** Two
+  runs a condition, so differences under ~0.3 are noise. What the after-answers still lacked: course-level
+  patterns (no self-paced mobile language course, no clinical onboarding programme) and domain claims
+  (medication safety, EAL maths). The next measurement is dose: decision sections on ~40 canonical pages
+  plus one or two course-level patterns, re-run on the same three scenarios.
+- **Cleanup in the same change.** Nine load-bearing failures fixed (0 open): D'Orazzi & Hajek 2022 is a
+  student questionnaire study, not a teacher-and-learner one, so the Italian-motivation page's teacher clause
+  is flagged as unconfirmed; Harkins et al. is **2020** (Crossref and ERIC), not 2021, on 9 pages, and a
+  non-randomised q2 with `i?`; Ozturk (2023)'s link was the YouTube film it analyses, now its ERIC record;
+  Gil's Table 10 contradicts its own prose; KOKU's focus group was staff; three titles retitled
+  (Harkins, Ellis 1991, funds-of-knowledge labs). Fourteen other titles that overstated their evidence were
+  rewritten in text (interleaving, seductive details, rewards, feedback use, structured peer assessment,
+  and others; slugs unchanged, old titles in comments, link text updated). The three van Gog et al. (2011)
+  pages now agree (n=96; problem–example pairs did not beat problems only); two unresolvable Gollwitzer &
+  Sheeran DOIs in prose now point at the implementation-intentions claim; 17 bare evidence markers with no
+  claim behind them were removed on the DragonBox, simulation-based medical training and after-action review
+  pages; stale "no evidence yet" text on five claims describes what is recorded.
+
 ### 2026-09-30 (night) — named syntheses attached; S1 re-graded properly; where the wiki's value is and is not
 
 - **Targeted pass** (`eval/deep-dive/adult-language-learning/SYNTHESES.md`): candidates from two signals,

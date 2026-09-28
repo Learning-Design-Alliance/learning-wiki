@@ -59,6 +59,6 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — peer feedback is a structured form of peer collaboration
 - [Rubrics improve student work quality.](rubrics-improve-student-work.md) — rubrics scaffold the criteria peers use when reviewing
 - [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — possibly the same claim (merge candidate)
-- [Peer Assessment Structured Criteria Improve Learning](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — a narrower finding that bears on this claim

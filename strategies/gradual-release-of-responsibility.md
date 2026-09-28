@@ -26,7 +26,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 - A clear model of expert performance ([Demonstration](../elements/demonstration.md), ideally with [Think-Aloud](../elements/think-aloud.md) narration of reasoning)
 - Structured joint-practice activities with instructor monitoring and immediate feedback
 - Criteria for judging readiness to release — typically accuracy or fluency thresholds, not time elapsed
-- Independent tasks that are isomorphic to (not easier than) the modeled task [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Independent tasks that are isomorphic to (not easier than) the modeled task [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 #### Constraints
 - Releasing responsibility on a fixed schedule rather than in response to learner performance undermines the model's benefit [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [-M] — non-contingent help is either redundant or insufficient
@@ -48,7 +48,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 ### Target Learning Goals
 - Procedural skills and strategies: reading comprehension strategies, mathematical procedures, writing processes, lab techniques
 - Strategy use and self-regulation: the explicit goal of the original Pearson–Gallagher model was independent strategic reading
-- Transfer of modeled procedures to novel tasks, contingent on faded practice [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Transfer of modeled procedures to novel tasks, contingent on faded practice [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 ### Instructions
 1. **Model ("I do"):** Demonstrate the skill while verbalizing expert reasoning and decision points ([Demonstration](../elements/demonstration.md), [Think-Aloud](../elements/think-aloud.md)).

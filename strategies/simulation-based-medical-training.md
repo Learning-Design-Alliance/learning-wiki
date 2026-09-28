@@ -19,7 +19,7 @@ Simulation based medical training places learners in replicated clinical situati
 
 ## Design Implications
 
-Simulation works because it allows deliberate practice with immediate feedback â€” repeated, effortful rehearsal of specific skills at the edge of competence, which is difficult to arrange safely in live clinical care [Simulation improves clinical knowledge, skills, and behaviors compared with no intervention.](https://jamanetwork.com/journals/jama/fullarticle/1104489) [+S]. Its effectiveness depends on scenario design that manages cognitive load: novices overwhelmed by full-fidelity environments learn less than those who start with part-task trainers isolating one skill [Part-task practice reduces working memory load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]. Debriefing quality is a stronger predictor of learning outcomes than simulator fidelity; learner-centered, facilitated reflection outperforms instructor-led lecturing about what went wrong [Debriefing with good judgment improves learning from simulation.](https://onlinelibrary.wiley.com/doi/10.1111/medu.12775) [+M].
+Simulation works because it allows deliberate practice with immediate feedback â€” repeated, effortful rehearsal of specific skills at the edge of competence, which is difficult to arrange safely in live clinical care [Simulation improves clinical knowledge, skills, and behaviors compared with no intervention.](https://jamanetwork.com/journals/jama/fullarticle/1104489). Its effectiveness depends on scenario design that manages cognitive load: novices overwhelmed by full-fidelity environments learn less than those who start with part-task trainers isolating one skill [Part-task practice reduces working memory load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]. Debriefing quality is a stronger predictor of learning outcomes than simulator fidelity; learner-centered, facilitated reflection outperforms instructor-led lecturing about what went wrong [Debriefing with good judgment improves learning from simulation.](https://onlinelibrary.wiley.com/doi/10.1111/medu.12775).
 
 ### Context
 #### Requirements
@@ -29,9 +29,9 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - Psychological safety: learners must believe errors in simulation carry no professional penalty, or they will not attempt difficult tasks
 
 #### Constraints
-- High physical fidelity without instructional alignment wastes resources; low-fidelity models often teach the underlying skill as well as expensive simulators [~M]
-- Skills learned in simulation do not automatically transfer to clinical practice without deliberate curriculum integration and follow-up practice in context [-M]
-- Simulation without debriefing produces substantially weaker learning than simulation with structured reflection [-S]
+- High physical fidelity without instructional alignment wastes resources; low-fidelity models often teach the underlying skill as well as expensive simulators
+- Skills learned in simulation do not automatically transfer to clinical practice without deliberate curriculum integration and follow-up practice in context
+- Simulation without debriefing produces substantially weaker learning than simulation with structured reflection
 - Overly complex scenarios for novices trigger extraneous load and performance collapse; expertise-appropriate complexity is required [Guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 
 #### Implementation Variability
@@ -43,8 +43,8 @@ Simulation works because it allows deliberate practice with immediate feedback â
 
 ### Target Learners
 - Novices and trainees acquiring procedures and clinical reasoning before patient contact [Part-task practice reduces working memory load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
-- Experienced clinicians maintaining rare, high-stakes skills (e.g., crisis resource management) where real-case volume is insufficient [+M]
-- Interprofessional teams practicing communication and role coordination under stress [+M]
+- Experienced clinicians maintaining rare, high-stakes skills (e.g., crisis resource management) where real-case volume is insufficient
+- Interprofessional teams practicing communication and role coordination under stress
 
 ### Target Learning Goals
 - Procedural and psychomotor skill acquisition with accuracy and speed benchmarks

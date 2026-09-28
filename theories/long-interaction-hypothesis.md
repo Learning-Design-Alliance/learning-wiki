@@ -40,7 +40,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - Grammatical development through interactional feedback such as recasts. Here the fetched studies are quasi-experiments with short delays.
 
 ## Claims
-- [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
+- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](../claims/interactionally-modified-input-aids-comprehension-not-retention.md) [~M]
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](../claims/negotiation-benefit-limited-lower-ability-learners.md) [~M]
 - [Conversational interaction may facilitate acquisition of some grammatical structures but not others](../claims/interaction-facilitates-some-structures-not-others.md) [~M]
@@ -48,7 +48,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~M]
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
 - [Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons](../claims/recasts-facilitate-child-efl-third-person-s-development.md) [+M]
-- [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [+M]
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [+M]
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [~M]
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [~M]
 - [Higher task complexity is associated with lower written production of the target form among child learners receiving recasts](../claims/task-complexity-negatively-related-child-written-production.md) [~M]

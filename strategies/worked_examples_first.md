@@ -32,7 +32,7 @@ Worked_Examples_First sequences instruction so that learners encounter one or mo
 
 ## Design Implications
 
-Studying worked examples reduces the extraneous cognitive load of unguided search, freeing working memory for schema construction [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]. The strategy works only when learners actually process examples deeply — self-explanation prompts, [Fading](../elements/fading.md) to completion problems, and alternating example–problem pairs all substantially improve outcomes over examples alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. As expertise grows, the same support becomes redundant and can actively impair learning [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S].
+Studying worked examples reduces the extraneous cognitive load of unguided search, freeing working memory for schema construction [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]. The strategy works only when learners actually process examples deeply — self-explanation prompts, [Fading](../elements/fading.md) to completion problems, and alternating example–problem pairs all substantially improve outcomes over examples alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. As expertise grows, the same support becomes redundant and can actively impair learning [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Studying worked examples reduces the extraneous cognitive load of unguided searc
 
 #### Constraints
 - For learners with substantial prior knowledge, worked examples impose redundancy and slow learning relative to problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [-S] — the [expertise reversal effect](../theories/expertise-reversal-effect.md)
-- Passive reading of examples produces an illusion of competence; without self-explanation prompts or paired problems, learners recognize solutions they cannot generate [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Passive reading of examples produces an illusion of competence; without self-explanation prompts or paired problems, learners recognize solutions they cannot generate [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Ill-structured or open-ended tasks (design, argumentation) lack a single canonical solution, limiting the strategy's applicability [~M]
 - Splitting attention between a problem statement, diagram, and solution steps degrades the benefit; integrate text and visuals physically ([Cognitive Load Management](../principles/cognitive-load-management.md))
 

@@ -44,7 +44,7 @@ Study groups in which teacher-researchers and university-based researchers "disc
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [+W]
+- [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [+W]
 
 ## Related Elements
 - [Funds Of Knowledge Teacher Research Model](../patterns/funds-of-knowledge-teacher-research-model.md)

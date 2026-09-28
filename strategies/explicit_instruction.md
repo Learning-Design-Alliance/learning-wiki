@@ -19,7 +19,7 @@ Explicit instruction is a structured, teacher-directed approach in which the ins
 
 ## Design Implications
 
-Explicit instruction is grounded in cognitive load theory: novices lack the schemas to benefit from unguided exploration, so directly presenting procedures and strategies reduces unproductive search [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on pairing modeling with guided practice and timely feedback, then fading support as competence develops [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Instruction should be sequenced from simple to complex, with each step building on the last, and should include frequent checks for understanding so errors are corrected before they consolidate.
+Explicit instruction is grounded in cognitive load theory: novices lack the schemas to benefit from unguided exploration, so directly presenting procedures and strategies reduces unproductive search [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on pairing modeling with guided practice and timely feedback, then fading support as competence develops [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Instruction should be sequenced from simple to complex, with each step building on the last, and should include frequent checks for understanding so errors are corrected before they consolidate.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Explicit instruction is grounded in cognitive load theory: novices lack the sche
 - A plan for [Fading](../elements/fading.md) support as accuracy and fluency grow
 
 #### Constraints
-- Sustained explicit instruction without independent practice produces weak retention [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — teacher talk crowds out the responding that drives encoding
+- Sustained explicit instruction without independent practice produces weak retention [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — teacher talk crowds out the responding that drives encoding
 - Less effective for learners with strong prior knowledge, who experience redundancy and disengagement [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Poorly suited to ill-structured, open-ended goals (creative writing, open inquiry) where no single expert procedure exists to model
 - Over-scripted delivery can suppress learner [Autonomy](../principles/autonomy.md) and reduce motivation over time [~W]

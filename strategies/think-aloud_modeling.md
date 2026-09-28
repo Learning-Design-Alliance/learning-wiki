@@ -29,7 +29,7 @@ Think-aloud modeling converts tacit expert knowledge into observable, learnable 
 - Deliberate selection of which cognitive moves to expose; trying to narrate everything produces noise [Irrelevant material hurts learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S]
 
 #### Constraints
-- Observation without subsequent practice or self-verbalization yields shallow learning and illusions of competence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Observation without subsequent practice or self-verbalization yields shallow learning and illusions of competence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Overly fluent, error-free modeling can mislead learners about the effortful, iterative nature of real performance; showing productive struggle is often more useful [~W]
 - For learners with strong prior knowledge, expert narration can be redundant and slow [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Verbalizing highly automatic or visual-spatial processes can distort or disrupt them; think-alouds suit deliberate reasoning better than automatized skill execution [~M]

@@ -6177,7 +6177,7 @@
    "id": "direct-instruction-improves-outcomes",
    "path": "claims/direct-instruction-improves-outcomes.md",
    "status": "draft",
-   "title": "Direct instruction improves learning outcomes",
+   "title": "Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling",
    "type": "claim"
   },
   {
@@ -6324,12 +6324,12 @@
    "type": "claim"
   },
   {
-   "description": "Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months",
+   "description": "Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months",
    "evidence_strength": "weak",
    "id": "distributed-practice-limits-l2",
    "path": "claims/distributed-practice-limits-l2.md",
    "status": "draft",
-   "title": "Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months",
+   "title": "Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months",
    "type": "claim"
   },
   {
@@ -8135,7 +8135,7 @@
    "id": "explicit-communicative-pronunciation-instruction-works",
    "path": "claims/explicit-communicative-pronunciation-instruction-works.md",
    "status": "draft",
-   "title": "Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus",
+   "title": "Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech",
    "type": "claim"
   },
   {
@@ -8216,7 +8216,7 @@
    "id": "explicit-teaching-complex-rules-only-advantage",
    "path": "claims/explicit-teaching-complex-rules-only-advantage.md",
    "status": "draft",
-   "title": "Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules",
+   "title": "Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too",
    "type": "claim"
   },
   {
@@ -8243,7 +8243,7 @@
    "id": "exposure-frequency-predicts-incidental-gains",
    "path": "claims/exposure-frequency-predicts-incidental-gains.md",
    "status": "draft",
-   "title": "Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading",
+   "title": "The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies",
    "type": "claim"
   },
   {
@@ -8789,7 +8789,7 @@
    "id": "feedback-use-improves-learning",
    "path": "claims/feedback-use-improves-learning.md",
    "status": "draft",
-   "title": "Feedback Use Improves Learning",
+   "title": "Feedback improves learning, with a medium average effect that varies widely by feedback type",
    "type": "claim"
   },
   {
@@ -9588,12 +9588,12 @@
    "type": "claim"
   },
   {
-   "description": "Gamification raises motivation, satisfaction, and test performance in vocabulary learning",
+   "description": "In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction",
    "evidence_strength": "weak",
    "id": "gamification-raises-motivation-satisfaction",
    "path": "claims/gamification-raises-motivation-satisfaction.md",
    "status": "draft",
-   "title": "Gamification raises motivation, satisfaction, and test performance in vocabulary learning",
+   "title": "In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction",
    "type": "claim"
   },
   {
@@ -12269,7 +12269,7 @@
    "id": "interleaved-practice-improves-retention",
    "path": "claims/interleaved-practice-improves-retention.md",
    "status": "draft",
-   "title": "Interleaved Practice Improves Retention",
+   "title": "Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories",
    "type": "claim"
   },
   {
@@ -13480,7 +13480,7 @@
    "id": "learner-paced-beats-system-paced-complex-material",
    "path": "claims/learner-paced-beats-system-paced-complex-material.md",
    "status": "draft",
-   "title": "Learner Paced Beats System Paced Complex Material",
+   "title": "Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies",
    "type": "claim"
   },
   {
@@ -18153,7 +18153,7 @@
    "id": "peer-assessment-structured-criteria-improve-learning",
    "path": "claims/peer-assessment-structured-criteria-improve-learning.md",
    "status": "draft",
-   "title": "Peer Assessment Structured Criteria Improve Learning",
+   "title": "Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review",
    "type": "claim"
   },
   {
@@ -18249,12 +18249,12 @@
    "type": "claim"
   },
   {
-   "description": "Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses",
+   "description": "Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison",
    "evidence_strength": "moderate",
    "id": "peer-mentoring-increases-civic-action-service-learning",
    "path": "claims/peer-mentoring-increases-civic-action-service-learning.md",
    "status": "draft",
-   "title": "Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses",
+   "title": "Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison",
    "type": "claim"
   },
   {
@@ -20442,12 +20442,12 @@
    "type": "claim"
   },
   {
-   "description": "Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay",
+   "description": "Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different",
    "evidence_strength": "moderate",
    "id": "recasts-more-enduring-than-metalinguistic-feedback",
    "path": "claims/recasts-more-enduring-than-metalinguistic-feedback.md",
    "status": "draft",
-   "title": "Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay",
+   "title": "Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different",
    "type": "claim"
   },
   {
@@ -21441,7 +21441,7 @@
    "id": "rewards-undermine-intrinsic-motivation",
    "path": "claims/rewards-undermine-intrinsic-motivation.md",
    "status": "draft",
-   "title": "Rewards Undermine Intrinsic Motivation",
+   "title": "Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not",
    "type": "claim"
   },
   {
@@ -22043,7 +22043,7 @@
    "id": "seductive-details-effect",
    "path": "claims/seductive-details-effect.md",
    "status": "draft",
-   "title": "Interesting but irrelevant details impair learning",
+   "title": "Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner",
    "type": "claim"
   },
   {
@@ -25787,12 +25787,12 @@
    "type": "claim"
   },
   {
-   "description": "Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.",
+   "description": "Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.",
    "evidence_strength": "weak",
    "id": "teacher-researcher-difficulties-eased-by-reflective-labs",
    "path": "claims/teacher-researcher-difficulties-eased-by-reflective-labs.md",
    "status": "draft",
-   "title": "Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.",
+   "title": "Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.",
    "type": "claim"
   },
   {
@@ -27143,12 +27143,12 @@
    "type": "claim"
   },
   {
-   "description": "Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange",
+   "description": "Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange",
    "evidence_strength": "weak",
    "id": "two-way-tasks-promote-interactional-restructuring",
    "path": "claims/two-way-tasks-promote-interactional-restructuring.md",
    "status": "draft",
-   "title": "Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange",
+   "title": "Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange",
    "type": "claim"
   },
   {
@@ -28197,7 +28197,7 @@
    "id": "worked-examples-with-practice-improve-transfer",
    "path": "claims/worked-examples-with-practice-improve-transfer.md",
    "status": "review",
-   "title": "Pairing worked examples with practice or fading supports transfer better than examples alone.",
+   "title": "Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer",
    "type": "claim"
   },
   {

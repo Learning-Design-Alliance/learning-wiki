@@ -66,7 +66,7 @@ The current page supports a moderate claim about mathematics performance, not a 
 
 ## Related Claims
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md)
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
 - [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) — related
 - [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related

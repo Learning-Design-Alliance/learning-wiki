@@ -40,7 +40,7 @@ The article adopts Lyster and Ranta's classification of corrective feedback, whi
 
 - [Metalinguistic Beats Recasts Immediate Not Delayed](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [+M]
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [+W]
-- [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [+W]
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [+W]
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](../claims/time-treatment-interaction-corrective-feedback.md) [+W]
 
 ## Related Theories

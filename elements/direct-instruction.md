@@ -19,7 +19,7 @@ Direct instruction presents new content through explicit explanations, lectures,
 
 ## Design Implications
 
-Direct instruction reduces unguided search during initial learning, which is where novice working memory is most easily overloaded [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on structure: sequenced examples, chunked content, and frequent checks for understanding, followed by supervised practice with feedback [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Explanation alone is insufficient — the practice and feedback components carry much of the effect.
+Direct instruction reduces unguided search during initial learning, which is where novice working memory is most easily overloaded [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on structure: sequenced examples, chunked content, and frequent checks for understanding, followed by supervised practice with feedback [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Explanation alone is insufficient — the practice and feedback components carry much of the effect.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Direct instruction reduces unguided search during initial learning, which is whe
 
 #### Constraints
 - Guidance that persists too long becomes redundant and can depress learning as expertise grows [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — support must fade with competence
-- Pure lecture without practice or checks produces shallow encoding and an illusion of understanding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Pure lecture without practice or checks produces shallow encoding and an illusion of understanding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Less effective for open-ended, ill-structured goals (design, argumentation, negotiation) where no single expert procedure exists to demonstrate
 - Sustained teacher-led segments without learner activity reduce engagement compared with interleaved participation [~M]
 
@@ -42,7 +42,7 @@ Direct instruction reduces unguided search during initial learning, which is whe
 ### Target Learning Goals
 - Procedural skill acquisition: explicit step-by-step methods
 - Foundational declarative knowledge: facts, definitions, conventions
-- Schema construction for well-structured problems, as a precursor to transfer tasks [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Schema construction for well-structured problems, as a precursor to transfer tasks [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 ### Affordances
 - [Direct Instruction](../principles/direct-instruction.md) — the element is the operational form of this principle: explicit explanation, modeling, and guided practice in a teacher-directed sequence

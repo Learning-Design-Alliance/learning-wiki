@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus
+title: "Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech"
 description: Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus
 id: explicit-communicative-pronunciation-instruction-works
 status: draft
@@ -37,10 +37,11 @@ sources:
     rigour: "?"
 ---
 
-# Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus
+# Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
+<!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus -->
 
 ## Subclaims
 `q2 i?` The article states that the general consensus of pronunciation research is that clear and demonstrable results are obtained when teachers have students pay explicit attention to pronunciation features and dedicate class time to meaningful and communicative practice. [→ Darcy 2018](#darcy-2018)
@@ -81,7 +82,7 @@ A re-analysis of 77 L2 pronunciation teaching studies (1982–2017), coding each
 
 ## Discussion
 
-The two meta-analyses support the first half of this claim, that explicit attention to pronunciation produces demonstrable improvement, and qualify the rest. Saito & Plonsky (2019) find the improvement is clear for learners' controlled production of targeted sounds and prosodic features, and unclear when measured as global comprehensibility or in spontaneous speech, which is the speech communicative practice is meant to develop. Neither synthesis, as read here, compares instruction with and without communicative practice, so "with communicative practice" in the title is the source article's framing, not something these studies establish, and "clear and demonstrable" overstates the evidence for spontaneous speech.
+The two meta-analyses support the first half of this claim, that explicit attention to pronunciation produces demonstrable improvement, and qualify the rest. Saito & Plonsky (2019) find the improvement is clear for learners' controlled production of targeted sounds and prosodic features, and unclear when measured as global comprehensibility or in spontaneous speech, which is the speech communicative practice is meant to develop. Neither synthesis, as read here, compares instruction with and without communicative practice, so the earlier title's "with communicative practice" was the source article's framing, not something these studies establish, and its "clear and demonstrable" overstated the evidence for spontaneous speech; the title now states what the syntheses show.
 
 ## Related Claims
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related

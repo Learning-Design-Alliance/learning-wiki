@@ -19,7 +19,7 @@ Mentor text analysis asks learners to read an exemplary published or peer text n
 
 ## Design Implications
 
-Mentor texts function as worked examples for writing: they reduce the search problem novices face when facing a blank page by supplying a concrete reference model [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Their effectiveness depends on guided noticing — unstructured reading of a model produces far less transfer than analysis that directs attention to specific craft moves and requires learners to articulate them [Annotating](../principles/annotating.md) and structured discussion serve this role. Analysis must be paired with composing; studying models without immediate application yields shallow, declarative knowledge of technique rather than usable skill [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Mentor texts function as worked examples for writing: they reduce the search problem novices face when facing a blank page by supplying a concrete reference model [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Their effectiveness depends on guided noticing — unstructured reading of a model produces far less transfer than analysis that directs attention to specific craft moves and requires learners to articulate them [Annotating](../principles/annotating.md) and structured discussion serve this role. Analysis must be paired with composing; studying models without immediate application yields shallow, declarative knowledge of technique rather than usable skill [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Mentor texts function as worked examples for writing: they reduce the search pro
 - An immediate composing task that invites imitation or adaptation of the analyzed move
 
 #### Constraints
-- Analysis without a follow-on composing task produces recognition without production [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Analysis without a follow-on composing task produces recognition without production [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Over-imitation: learners may copy surface features (topic, vocabulary) rather than the underlying move, especially when only one mentor text is used; multiple contrasting models reduce this
 - Published "professional" models can be too distant from novice capability, discouraging rather than guiding; peer-written mentor texts at a reachable standard often work better for struggling writers
 - Less useful for learners who already control the target craft move, for whom the analysis is redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]

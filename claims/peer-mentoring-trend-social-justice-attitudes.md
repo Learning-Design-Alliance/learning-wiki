@@ -9,9 +9,9 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 sources:
-  - id: harkins-2021
+  - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
-    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
+    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: 0
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Students mentored by a SLAM showed a non-significant trend toward higher posttest social justice attitudes (M = 4.06, SD = .54) compared to non-mentored students (M = 3.84, SD = .60), F(1) = 2.80, p = .098. [→ Harkins 2021](#harkins-2021)
+`q3 i?` Students mentored by a SLAM showed a non-significant trend toward higher posttest social justice attitudes (M = 4.06, SD = .54) compared to non-mentored students (M = 3.84, SD = .60), F(1) = 2.80, p = .098. [→ Harkins 2020](#harkins-2020)
 
 ## Evidence
 
-### Harkins 2021
+### Harkins 2020
 
-Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
+Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
 `q3 · i0` · `associational · r1`
 
@@ -43,5 +43,5 @@ The same MANOVA on CASQ posttest scores found the social justice attitudes subsc
 
 
 ## Related Claims
-- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](peer-mentoring-increases-civic-action-service-learning.md) — related
+- [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](peer-mentoring-increases-civic-action-service-learning.md) — related
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related

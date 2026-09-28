@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Gamification raises motivation, satisfaction, and test performance in vocabulary learning
-description: Gamification raises motivation, satisfaction, and test performance in vocabulary learning
+title: In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction
+description: In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction
 id: gamification-raises-motivation-satisfaction
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Gamification raises motivation, satisfaction, and test performance in vocabulary learning
+# In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+<!-- deprecated title (2026-09-30, generalised one review-reported study to vocabulary learning at large): Gamification raises motivation, satisfaction, and test performance in vocabulary learning -->
 
 ## Subclaims
 `q2 i?` In a mixed-methods university study reported by the review, gamified English vocabulary learning yielded better learning results, higher motivation, and greater satisfaction than traditional instruction. [→ A. Pradheepa 2025](#a-pradheepa-2025)

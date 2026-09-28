@@ -45,7 +45,7 @@ The article organizes its study around Long's interaction hypothesis, under whic
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](../claims/negotiation-frequency-correlates-vocabulary-high-school.md) [+M]
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](../claims/negotiation-meaning-improves-vocabulary-scores-both-levels.md) [+M]
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](../claims/interaction-quality-over-quantity.md) [+M]
-- [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
+- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
 
 ## Related Theories
 - [Long's interaction hypothesis](long-interaction-hypothesis.md) — the canonical page for this theory

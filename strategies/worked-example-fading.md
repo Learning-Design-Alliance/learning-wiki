@@ -19,7 +19,7 @@ Worked example fading begins instruction with complete worked examples, then sys
 
 ## Design Implications
 
-Fading resolves the central tension of example-based learning: full examples are efficient for novices but become redundant as expertise grows, while unsupported problems overload beginners [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. By matching support level to current ability, fading keeps learners in their zone of proximal development and avoids the [expertise reversal effect](../theories/expertise-reversal-effect.md) [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. Fading works best when paired with completion demands — learners must actively produce the missing steps, not merely observe their absence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Fading resolves the central tension of example-based learning: full examples are efficient for novices but become redundant as expertise grows, while unsupported problems overload beginners [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. By matching support level to current ability, fading keeps learners in their zone of proximal development and avoids the [expertise reversal effect](../theories/expertise-reversal-effect.md) [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. Fading works best when paired with completion demands — learners must actively produce the missing steps, not merely observe their absence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Fading resolves the central tension of example-based learning: full examples are
 ### Target Learning Goals
 - Procedural fluency: executing multi-step solution procedures accurately
 - Schema acquisition: recognizing which solution method fits which problem structure
-- Transfer to near problems: applying learned procedures to isomorphic variants [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Transfer to near problems: applying learned procedures to isomorphic variants [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 ### Instructions
 1. Analyze the target procedure and segment it into discrete, orderable solution steps ([Procedural Information](../elements/procedural-information.md))

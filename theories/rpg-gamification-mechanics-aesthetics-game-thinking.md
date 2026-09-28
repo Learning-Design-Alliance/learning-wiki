@@ -41,7 +41,7 @@ The article adopts Kapp's (2012) gamification framework and Crocco's (2016) RPG 
 
 - [Rpg Mechanics Not Yet Serve Autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [~M]
 - [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
-- [Gamification raises motivation, satisfaction, and test performance in vocabulary learning](../claims/gamification-raises-motivation-satisfaction.md) [+W]
+- [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
 
 ## Related Theories
 - 

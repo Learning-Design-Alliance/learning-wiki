@@ -30,13 +30,13 @@ Sequencing works because it keeps each task within working memory limits while s
 
 #### Constraints
 - Sequences calibrated for novices misfire for learners with prior knowledge, who perform worse with high support than with independent practice [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [-M]
-- Overly gradual sequences can promote passive pattern-matching on worked examples rather than genuine problem solving [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — learners may imitate surface procedures without forming schemas
+- Overly gradual sequences can promote passive pattern-matching on worked examples rather than genuine problem solving [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — learners may imitate surface procedures without forming schemas
 - Fixed linear sequences ignore between-learner variance; without diagnosis or [adaptive difficulty](../elements/adaptive-difficulty.md), a large fraction of the class is mis-placed at any given step [~M]
 - Sequencing by surface difficulty (problem "size") rather than by conceptual feature can leave core misconceptions untouched until late in the sequence
 
 #### Implementation Variability
 - **Completion problems**: each task omits part of the solution, so support fades within the task itself rather than across tasks
-- **Alternation**: worked example → isomorphic problem pairs, rather than blocks of examples then blocks of problems [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- **Alternation**: worked example → isomorphic problem pairs, rather than blocks of examples then blocks of problems [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 - **Backwards fading**: begin with full examples and remove the last step first, then earlier steps
 - **Learner-controlled**: learners choose when to see a worked example (e.g., on-demand hints in Khan Academy), trading calibration demands for autonomy
 - **Multiple-case sequences**: varying surface features across isomorphic problems to support abstraction [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]

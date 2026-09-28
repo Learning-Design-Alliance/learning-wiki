@@ -76,5 +76,5 @@ Two experiments had college students read expository text with or without organi
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework explaining why structure reduces extraneous load
 - [Signaling Improves Learning](signaling-improves-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
-- [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md) — related
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
