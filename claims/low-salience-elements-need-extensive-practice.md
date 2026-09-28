@@ -43,7 +43,7 @@ Theoretical argument citing SLA research (e.g. DeKeyser 2005; Pica 2009). The ar
 
 
 ## Related Claims
-- [Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — a narrower finding that bears on this claim
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related

@@ -44,6 +44,6 @@ Sequential multiple regression (N = 33) entered word-frequency levels in order o
 
 ## Related Claims
 - [Adding the 10000-word frequency level does not significantly improve prediction of listening comprehension](10000-word-level-negligible-listening-variance.md) — related
-- [Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
 - [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](receptive-vocabulary-moderately-correlates-advanced-listening.md) — related
 - [Vocabulary test means decrease as word-frequency level rises, but learners scored better on academic vocabulary than the 3000 level](vocabulary-means-decrease-with-frequency-level.md) — related

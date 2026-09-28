@@ -44,6 +44,6 @@ Survey Section 3 items on beliefs about inductive versus deductive effectiveness
 
 ## Related Claims
 - [All student groups preferred deductive over inductive grammar instruction](efl-students-prefer-deductive-over-inductive-grammar-instruction.md) — related
-- [Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules](explicit-teaching-complex-rules-only-advantage.md) — related
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Conversational interaction may facilitate acquisition of some grammatical structures but not others](interaction-facilitates-some-structures-not-others.md) — related
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — a broader claim this one bears on

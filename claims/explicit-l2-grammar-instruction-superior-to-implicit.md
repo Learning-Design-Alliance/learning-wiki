@@ -104,7 +104,7 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 
 ## Related Claims
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — a broader claim this one bears on
-- [Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules](explicit-teaching-complex-rules-only-advantage.md) — related
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — a narrower finding that bears on this claim
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
 - [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite

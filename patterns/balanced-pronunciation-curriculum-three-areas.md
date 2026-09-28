@@ -39,7 +39,7 @@ The article proposes that a pronunciation curriculum balance three areas — sup
 
 ### Claims
 
-- [Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus](../claims/explicit-communicative-pronunciation-instruction-works.md) [+W]
+- [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](../claims/explicit-communicative-pronunciation-instruction-works.md) [+W]
 - [Learners receiving both form- and meaning-focused instruction improved more than a form-focused group (attributed to Park, 2000)](../claims/form-and-meaning-focus-beats-form-only.md) [~W]
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](../claims/capt-strong-segmentals-weak-prosody.md) [~W]
 - [The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on phoneme production but poor results overall for advanced learners seeking fluency](../claims/fluspeak-good-beginners-poor-advanced.md) [~W]

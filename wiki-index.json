@@ -8135,7 +8135,7 @@
    "id": "explicit-communicative-pronunciation-instruction-works",
    "path": "claims/explicit-communicative-pronunciation-instruction-works.md",
    "status": "draft",
-   "title": "Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus",
+   "title": "Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech",
    "type": "claim"
   },
   {
@@ -8216,7 +8216,7 @@
    "id": "explicit-teaching-complex-rules-only-advantage",
    "path": "claims/explicit-teaching-complex-rules-only-advantage.md",
    "status": "draft",
-   "title": "Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules",
+   "title": "Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too",
    "type": "claim"
   },
   {
@@ -8243,7 +8243,7 @@
    "id": "exposure-frequency-predicts-incidental-gains",
    "path": "claims/exposure-frequency-predicts-incidental-gains.md",
    "status": "draft",
-   "title": "Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading",
+   "title": "The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies",
    "type": "claim"
   },
   {

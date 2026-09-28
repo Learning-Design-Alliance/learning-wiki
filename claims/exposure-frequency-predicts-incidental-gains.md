@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading
+title: "The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies"
 description: Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading
 id: exposure-frequency-predicts-incidental-gains
 status: draft
@@ -36,10 +36,11 @@ sources:
     rigour: "?"
 ---
 
-# Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading
+# The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2` medium · n=26 studies (45 effect sizes, N=1,918)
+<!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading -->
 
 ## Subclaims
 `q2 i?` Words appearing more frequently in a text are gained by more learners, and repeated exposures raise gains especially in the first few exposures. [→ Zou 2019](#zou-2019)
