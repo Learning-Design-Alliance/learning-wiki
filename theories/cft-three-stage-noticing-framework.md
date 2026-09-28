@@ -43,7 +43,7 @@ The article proposes a framework in which noticing in EFL writing is promoted th
 - [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](../claims/noticing-with-understanding-improves-l2-writing.md) [+W]
 
 ## Related Theories
-- 
+- [Schmidt's noticing hypothesis](schmidt-noticing-hypothesis.md) — the canonical page for this theory
 
 ## Examples
 

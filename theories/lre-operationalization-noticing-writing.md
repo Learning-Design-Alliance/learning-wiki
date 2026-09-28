@@ -46,7 +46,7 @@ The article situates its method within research that operationalizes noticing an
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](../claims/output-noticing-predominantly-lexical.md) [+W]
 
 ## Related Theories
-- 
+- [Schmidt's noticing hypothesis](schmidt-noticing-hypothesis.md) — the canonical page for this theory
 
 ## Examples
 

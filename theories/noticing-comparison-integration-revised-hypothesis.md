@@ -48,6 +48,7 @@ Ellis proposes that L2 acquisition involves three basic procedures: "noticing", 
 - [Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning](krashen-monitor-model-five-hypotheses.md)
 - [Swain's output hypothesis with three functions of output in second-language acquisition](output-hypothesis-three-functions.md)
 - [Output-driven, input-enabled hypothesis: output as both driving force and objective of EFL teaching](output-driven-input-enabled-hypothesis.md)
+- [Long's interaction hypothesis](long-interaction-hypothesis.md) — the canonical page for this theory
 
 ## Examples
 -
