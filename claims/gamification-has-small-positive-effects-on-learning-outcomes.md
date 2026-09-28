@@ -55,4 +55,4 @@ gamified vocabulary practice.
 
 - [Gamification raises motivation, satisfaction, and test performance in vocabulary learning](gamification-raises-motivation-satisfaction.md) — more specific: gamified vocabulary learning
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — more specific
-- [Game design moderates DGBL effectiveness](game-design-moderates-dgbl-effectiveness.md) — related: full digital games rather than game elements
+- [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related: full digital games rather than game elements

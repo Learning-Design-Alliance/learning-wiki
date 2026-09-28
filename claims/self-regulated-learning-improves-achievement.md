@@ -42,6 +42,8 @@ Learners who plan, monitor, and evaluate their own learning — and who are expl
 
 `q3 i1` In elementary and secondary students, measured self-regulated learning is only weakly correlated with academic achievement (metacognitive processes r = 0.20; cognitive strategies r = 0.11), and the correlation varies by process, subject, grade level and how SRL and achievement are measured. [→ Dent & Koenka 2016](#dent-koenka-2016)
 
+`q3 i?` In online learning environments, a systematic review of 35 studies found that most supports for self-regulated learning (prompts, integrated support systems, prompts combined with feedback) improved learner performance, while the two studies of feedback alone did not, integrated systems helped only when learners actually used them, and no pooled effect was computed. [→ Wong et al. 2019](#wong-et-al-2019)
+
 ## Evidence
 
 ### Dignath & Büttner 2008
@@ -59,6 +61,16 @@ Dent, A. L., & Koenka, A. C. (2016). The relation between self-regulated learnin
 `q3 · meta-analysis of correlational studies` · `i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies)` · `n=?` · `quant-synthesis · r?`
 
 Two meta-analyses of elementary and secondary school students related achievement to (1) metacognitive processes of self-regulated learning and (2) use of cognitive strategies. Both overall correlations were small: r = 0.20 for metacognitive processes and r = 0.11 for cognitive strategies. The correlations differed significantly by the specific process or strategy, academic subject, grade level, type of SRL measure and type of achievement measure. This is the correlational arm of the claim. It supports a real but modest association, not a causal effect. The number of studies was not in the abstract. Read as abstract only.
+
+### Wong et al. 2019
+
+Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)
+
+`q3 · systematic review, narrative synthesis, no pooled estimate` · `i? · no pooled effect size reported` · `n=35 studies`
+
+A systematic review of 35 studies of approaches to support self-regulated learning in online learning environments, from seventh graders to working adults (23 at undergraduate level), grouped as prompts (14), integrated support systems (10), feedback (2), prompts with feedback (4) and other approaches (5). Most studies found positive effects on learner performance; neither feedback-only study found an effect on learning performance, and in one integrated-system study learners performed better only when they used the support provided. Few studies examined learner differences, and those that did suggest learners with lower prior knowledge, cognitive ability or metacognitive ability need additional or differentiated support. Very few experimental studies had been run in MOOCs themselves. Read in full (open access, Erasmus University repository).
+
+> "Most of the studies found positive effects on learner performance."
 
 ## Discussion
 
@@ -136,6 +148,8 @@ The theoretical grounding is [self-regulated learning](../theories/self-regulate
 Several boundary conditions are plausible from general reasoning about scope. First, strategy instruction should interact with learner expertise: novices may benefit from tightly scaffolded, domain-specific strategies, while more advanced learners may find prescriptive strategy routines redundant, consistent with the [expertise reversal effect](../theories/expertise-reversal-effect.md) documented for other scaffolds. Second, generic study-skill training delivered outside any content domain has historically shown weaker effects than strategies embedded in authentic academic tasks — the strategy must be practiced on the material learners are actually trying to master. Third, benefits likely depend on learners actually adopting the strategies; instruction that produces knowledge about strategies without sustained practice in using them should not be expected to improve performance.
 
 Open questions that evidence entries should address include: which strategy families (cognitive, metacognitive, resource management) drive the largest gains; how durable the effects are after instruction ends; and how effects vary by age band and subject domain.
+
+**Online and self-paced settings (Wong et al. 2019).** The two meta-analyses above are of primary and secondary school students. The online-learning review extends the direction of the claim to online environments but qualifies it: providing support is not sufficient on its own (learners gained only when they used the support), feedback alone showed no effect on performance, and the review computed no effect size, so it cannot say how large the gain is.
 
 ## Related Claims
 
