@@ -120,7 +120,9 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
     fetch_url = entry["fetch_url"]
 
     try:
-        if source in ("arxiv", "eric"):
+        # "oa": an open-access PDF found through OpenAlex's best_oa_location for a
+        # named synthesis (the targeted pass, 2026-09-30); fetched like arXiv/ERIC.
+        if source in ("arxiv", "eric", "oa"):
             resp = _get(fetch_url)
             text = _extract_pdf_text(resp.content)
         elif source == "pubmed":
