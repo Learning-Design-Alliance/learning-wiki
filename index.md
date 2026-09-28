@@ -30,7 +30,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (17)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Theories](theories/index.md) (882)
+### [Theories](theories/index.md) (883)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (12)

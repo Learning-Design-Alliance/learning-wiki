@@ -11,7 +11,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (3 for, 12 mixed, 1 against) · 5 studies (3 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 5 report an effect size · 16 claims rest on one study
+> **Evidence** · 30 claims (8 for, 21 mixed, 1 against) · 8 studies (6 causal, 1 review, 1 associational), `q1`–`q3` · 2 of 8 report an effect size · 30 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -55,6 +55,20 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1](../claims/efl-child-nom-low-l2-higher-than-l1.md) [~M]
 - [Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners](../claims/unfocused-tasks-elicited-more-meaning-negotiation.md) [~M]
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate the amount of meaning negotiation](../claims/task-condition-did-not-moderate-meaning-negotiation.md) [~M]
+- [In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only](../claims/negotiation-meaning-raises-comprehensible-input-high-school.md) [+M]
+- [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](../claims/negotiation-meaning-improves-vocabulary-scores-both-levels.md) [+M]
+- [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](../claims/negotiation-frequency-correlates-vocabulary-high-school.md) [+M]
+- [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](../claims/college-no-comprehensible-input-difference.md) [~M]
+- [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](../claims/college-no-negotiation-vocabulary-correlation.md) [~M]
+- [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](../claims/age-moderates-negotiation-benefit.md) [~M]
+- [Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos](../claims/subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) [~M]
+- [Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference](../claims/task-familiarity-negotiation-prior-research-inconsistent.md) [~W]
+- [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](../claims/cmc-meaning-focused-tasks-foster-negotiated-interactions.md) [+M]
+- [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](../claims/closed-tasks-foster-more-negotiation-than-open-tasks.md) [+M]
+- [Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns](../claims/videoconferencing-more-negotiated-turns-than-chat-and-board.md) [~M]
+- [Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback](../claims/discussion-board-no-negative-feedback-synchrony-required.md) [~M]
+- [Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference](../claims/self-correction-dominates-negative-feedback-face-saving.md) [~M]
+- [Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short](../claims/content-triggers-dominate-syntactic-triggers-absent-text-chat.md) [~M]
 
 ## Related Theories
 
@@ -68,6 +82,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Ellis's revised Interaction Hypothesis: acquisition via noticing, comparison and integration](ellis-revised-interaction-hypothesis.md)
 - [Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition](interaction-hypothesis-negotiation-comprehensible-input.md)
 - [Varonis and Gass four-phase model of negotiation of meaning routines](varonis-gass-four-phase-negotiation-model.md)
+- [Negotiation of meaning sequences model (Varonis & Gass, revised by Smith) with trigger and resolution parts](negotiation-of-meaning-sequences-model-smith.md)
 
 ## Examples
 

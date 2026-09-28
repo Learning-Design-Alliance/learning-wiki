@@ -55,13 +55,13 @@
   "strategies->principles": 1752,
   "strategies->processes": 9,
   "strategies->theories": 624,
-  "theories->claims": 707,
+  "theories->claims": 708,
   "theories->elements": 142,
   "theories->methods": 4,
-  "theories->patterns": 119,
+  "theories->patterns": 120,
   "theories->principles": 210,
   "theories->processes": 3,
-  "theories->theories": 627
+  "theories->theories": 628
  },
  "edges": {
   "claims": {
@@ -4826,6 +4826,11 @@
       "polarity": "~",
       "slug": "interaction-hypothesis-negotiation-comprehensible-input",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -9901,6 +9906,11 @@
       "polarity": "+",
       "slug": "instance-theory-memory-retrieval-automaticity",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
      }
     ]
    },
@@ -23652,6 +23662,13 @@
      {
       "slug": "unfocused-tasks-more-confirmation-and-clarification-strategies"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     }
     ]
    },
    "clt-china-1990s-initial-weak-adoption": {
@@ -23707,6 +23724,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "negotiation-of-meaning-sequences-model-smith",
@@ -28871,6 +28893,11 @@
       "polarity": "-",
       "slug": "interaction-hypothesis-negotiation-comprehensible-input",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -28894,6 +28921,11 @@
       "polarity": "-",
       "slug": "interaction-hypothesis-negotiation-comprehensible-input",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -31247,6 +31279,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "negotiation-of-meaning-sequences-model-smith",
@@ -36919,6 +36956,13 @@
       "slug": "establish-meaningful-communication-before-correction",
       "strength": "W"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "W"
+     }
     ]
    },
    "dialogue-kt-performance-is-relatively-low-compared-to-standard-kt": {
@@ -37542,6 +37586,13 @@
      },
      {
       "slug": "videoconferencing-more-negotiated-turns-than-chat-and-board"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -45218,6 +45269,13 @@
      {
       "slug": "rule-oriented-explicit-outperforms-implicit"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
+     }
     ]
    },
    "explicit-strategy-instruction-no-significant-gain": {
@@ -51084,6 +51142,13 @@
       "slug": "input-processing-focus-on-form-over-focus-on-forms",
       "strength": "M"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
+     }
     ]
    },
    "formal-discipline-plan-increases-teacher-control-and-competence": {
@@ -53702,6 +53767,11 @@
      {
       "polarity": "-",
       "slug": "skill-acquisition-theory-l2-practice",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "skill-acquisition-theory-second-language",
       "strength": "W"
      },
      {
@@ -57328,6 +57398,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "task-repetition-slightly-altered-tasks",
@@ -65529,7 +65604,12 @@
      {
       "polarity": "+",
       "slug": "skill-acquisition-theory-l2-practice",
-      "strength": "M"
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "W"
      }
     ]
    },
@@ -67164,7 +67244,12 @@
      {
       "polarity": "+",
       "slug": "skill-acquisition-theory-l2-practice",
-      "strength": "M"
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "W"
      }
     ]
    },
@@ -67302,6 +67387,13 @@
       "polarity": "+",
       "slug": "practice-spectrum-drills-to-task-based",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "W"
      }
     ]
    },
@@ -72708,6 +72800,11 @@
       "polarity": "+",
       "slug": "interaction-hypothesis-negotiation-comprehensible-input",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -72734,6 +72831,11 @@
       "polarity": "+",
       "slug": "interaction-hypothesis-negotiation-comprehensible-input",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -72756,6 +72858,11 @@
      {
       "polarity": "+",
       "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
       "strength": "M"
      }
     ]
@@ -79134,6 +79241,11 @@
       "polarity": "+",
       "slug": "automaticity-theory-phonological-component-processing",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
      }
     ]
    },
@@ -81990,6 +82102,11 @@
       "polarity": "+",
       "slug": "proactive-reactive-fof-distinction",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -82182,6 +82299,11 @@
      {
       "polarity": "+",
       "slug": "dp-model-regular-irregular-past-tense-memory-systems",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "skill-acquisition-theory-second-language",
       "strength": "M"
      }
     ]
@@ -90476,6 +90598,13 @@
      },
      {
       "slug": "discussion-board-no-negative-feedback-synchrony-required"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -98855,6 +98984,11 @@
     ],
     "theories": [
      {
+      "polarity": "~",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "two-faces-sla-representation-and-skill-framework",
       "strength": "W"
@@ -98917,6 +99051,11 @@
       "polarity": "+",
       "slug": "instance-theory-memory-retrieval-automaticity",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
      }
     ]
    },
@@ -103644,6 +103783,11 @@
       "polarity": "+",
       "slug": "deliberate-practice-second-language-learning-framework",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
      }
     ]
    },
@@ -105373,6 +105517,11 @@
     ],
     "theories": [
      {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "negotiation-of-meaning-sequences-model-smith",
       "strength": "M"
@@ -106455,6 +106604,13 @@
      {
       "slug": "teach-lexical-procedures-not-only-definitions"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "W"
+     }
     ]
    },
    "task-instruction-shifts-learner-tblt-views": {
@@ -106524,6 +106680,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "task-planning-taxonomy-ellis",
@@ -111986,6 +112147,11 @@
     ],
     "theories": [
      {
+      "polarity": "-",
+      "slug": "skill-acquisition-theory-second-language",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "two-faces-sla-representation-and-skill-framework",
       "strength": "W"
@@ -112594,6 +112760,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "negotiation-of-meaning-sequences-model-smith",
@@ -113569,6 +113740,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "-",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "-",
       "slug": "structure-building-trigger-model-l2-german",
@@ -161965,6 +162141,13 @@
      }
     ]
    },
+   "practice-spectrum-drills-to-task-based": {
+    "theories": [
+     {
+      "slug": "skill-acquisition-theory-second-language"
+     }
+    ]
+   },
    "pre-visit-onsite-post-visit-field-trip-arc": {
     "patterns": [
      {
@@ -183408,6 +183591,9 @@
      },
      {
       "slug": "skill-acquisition-theory-l2-practice"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -183415,6 +183601,9 @@
     "theories": [
      {
       "slug": "act-proceduralization-automatization"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -183849,6 +184038,9 @@
     "theories": [
      {
       "slug": "ef-components-early-decoding-framework"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -187225,6 +187417,9 @@
     "theories": [
      {
       "slug": "four-practice-types-taxonomy"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -187520,6 +187715,9 @@
      },
      {
       "slug": "skill-acquisition-theory-l2-practice"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -189616,6 +189814,9 @@
      },
      {
       "slug": "expert-performance-approach-three-stages"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -190650,6 +190851,11 @@
     "strategies": [
      {
       "slug": "supplement-tblt-with-grammar-instruction-communicative-drills"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -192206,6 +192412,9 @@
      },
      {
       "slug": "skill-acquisition-theory-l2-practice"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -192509,6 +192718,9 @@
    },
    "negotiation-of-meaning-sequences-model-smith": {
     "theories": [
+     {
+      "slug": "long-interaction-hypothesis"
+     },
      {
       "slug": "varonis-gass-four-phase-negotiation-model"
      }
@@ -193177,6 +193389,9 @@
      },
      {
       "slug": "procedural-lexical-word-clines"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
      }
     ]
    },
@@ -195908,6 +196123,16 @@
      },
      {
       "slug": "metacognitive-knowledge-declarative-procedural-conditional"
+     },
+     {
+      "slug": "skill-acquisition-theory-second-language"
+     }
+    ]
+   },
+   "skill-acquisition-theory-second-language": {
+    "theories": [
+     {
+      "slug": "skill-acquisition-theory-l2-practice"
      }
     ]
    },
@@ -197543,6 +197768,9 @@
       "slug": "krashen-monitor-model-five-hypotheses"
      },
      {
+      "slug": "skill-acquisition-theory-second-language"
+     },
+     {
       "slug": "structure-building-trigger-model-l2-german"
      }
     ]
@@ -198178,6 +198406,6 @@
   "principles": 520,
   "processes": 12,
   "strategies": 3127,
-  "theories": 882
+  "theories": 883
  }
 }

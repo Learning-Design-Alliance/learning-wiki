@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**882 entries** · 0 stable · 12 in review · 870 drafts
+**883 entries** · 0 stable · 12 in review · 871 drafts
 
 ---
 
@@ -744,6 +744,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Six-component taxonomy of evidence synthesis skills based on the JBI Manual](six-component-evidence-synthesis-skills-taxonomy.md) - The protocol defines the core evidence synthesis skills to be explored, identified based on the JBI Manual for Evidence Synthesis.
 * [Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development](skehan-limited-attention-capacity-child-task-recasts.md) - Skehan's limited attention capacity model holds that learners have finite attentional resources, so increasing the cognitive demands of a task shifts attention toward task content and away from linguistic form.
 * [Skill acquisition theory applied to second language learning: declarative knowledge first, then proceduralization and partial automatization](skill-acquisition-theory-l2-practice.md) - The article's central explanatory framework is skill acquisition theory, which it describes as stressing \"the role of declar ative knowledge in the development of procedural and eventually la rgely automatized knowled...
+* [Skill acquisition theory in second language learning](skill-acquisition-theory-second-language.md) - DeKeyser's application of cognitive skill-learning theory to second languages: explicit declarative knowledge is proceduralized through practice and then, with much more practice, partly automatized, so that L2 use becomes fast, accurate and low in effort.
 * [Skill discovery BKT: end-to-end stochastic learning of the problem-KC assignment matrix with Gumbel-Softmax](skill-discovery-bkt-gumbel-softmax.md) - This model estimates the binary problem-to-KC assignment matrix within a neural network framework by sampling each problem's KC assignment from a categorical distribution and backpropagating through samples using the...
 * [Social cartography as a postmodern methodology for excavating dispersed knowledge in educational policy discourse](social-cartography-postmodern-methodology.md) - Social cartography is a methodology, grounded in an anti-foundational perspective and Foucault's notion of spatial dispersion, for representing the interrelations of discourse communities in educational policy studies.
 * [Social cartography as heterotopic mapping of perspectival difference](social-cartography-heterotopic-mapping.md) - Social cartography is the paper's own methodological contribution: a spatial, postmodern mapping practice that juxtaposes in one intertextual field all knowledge positions in a debate, including outlying ones, rather...

@@ -37,8 +37,8 @@ The article's central explanatory framework is skill acquisition theory, which i
 
 ### Claims
 
-- [Meaningful Effortful Practice Beneficial Essential L2](../claims/meaningful-effortful-practice-beneficial-essential-l2.md) [+M]
-- [Low Salience Elements Need Extensive Practice](../claims/low-salience-elements-need-extensive-practice.md) [+M]
+- [Meaningful Effortful Practice Beneficial Essential L2](../claims/meaningful-effortful-practice-beneficial-essential-l2.md) [+W]
+- [Low Salience Elements Need Extensive Practice](../claims/low-salience-elements-need-extensive-practice.md) [+W]
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [-W]
 
 ## Related Theories
@@ -46,6 +46,7 @@ The article's central explanatory framework is skill acquisition theory, which i
 - [ACT* (Adaptive Control of Thought): automatization as proceduralization of declarative knowledge through practice](act-proceduralization-automatization.md)
 - [Metacognitive knowledge framework: knowledge of cognition divided into declarative, procedural, and conditional knowledge](metacognitive-knowledge-declarative-procedural-conditional.md)
 - [Declarative/procedural (D/P) model of L2 morphological learning](dp-model-regular-irregular-past-tense-memory-systems.md)
+- [Skill acquisition theory in second language learning](skill-acquisition-theory-second-language.md) — the canonical page for this theory
 
 ## Examples
 -

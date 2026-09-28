@@ -11,7 +11,7 @@ generated:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 5 studies (2 review, 2 qualitative, 1 theoretical), `q2` · 0 of 5 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (7 for, 6 mixed, 2 against) · 8 studies (3 review, 2 qualitative, 2 theoretical, 1 causal), `q1`–`q2` · 0 of 8 report an effect size · 15 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -48,6 +48,10 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](../claims/grammar-lres-solved-with-own-resources-not-external.md) [~M]
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](../claims/output-noticing-predominantly-lexical.md) [~M]
 - [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](../claims/model-comparison-noticing-lexical.md) [~W]
+- [Proactive FOF improved grammar more than reactive FOF at both beginner and upper-intermediate proficiency levels](../claims/proactive-fof-advantage-both-proficiency-levels.md) [~M]
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W]
+- [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [-M]
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
 
 ## Related Theories
 

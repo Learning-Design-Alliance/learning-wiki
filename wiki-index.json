@@ -8,7 +8,7 @@
   "principle": 520,
   "process": 12,
   "strategy": 3127,
-  "theory": 882
+  "theory": 883
  },
  "kinds": [
   "claim",
@@ -71640,6 +71640,14 @@
    "type": "theory"
   },
   {
+   "description": "DeKeyser's application of cognitive skill-learning theory to second languages: explicit declarative knowledge is proceduralized through practice and then, with much more practice, partly automatized, so that L2 use becomes fast, accurate and low in effort.",
+   "id": "skill-acquisition-theory-second-language",
+   "path": "theories/skill-acquisition-theory-second-language.md",
+   "status": "draft",
+   "title": "Skill acquisition theory in second language learning",
+   "type": "theory"
+  },
+  {
    "description": "This model estimates the binary problem-to-KC assignment matrix within a neural network framework by sampling each problem's KC assignment from a categorical distribution and backpropagating through samples using the...",
    "id": "skill-discovery-bkt-gumbel-softmax",
    "path": "theories/skill-discovery-bkt-gumbel-softmax.md",
@@ -81490,6 +81498,7 @@
    "six-theories-of-anthropomorphism": "six-theories-of-anthropomorphism",
    "skehan-limited-attention-capacity-child-task-recasts": "skehan-limited-attention-capacity-child-task-recasts",
    "skill-acquisition-theory-l2-practice": "skill-acquisition-theory-l2-practice",
+   "skill-acquisition-theory-second-language": "skill-acquisition-theory-second-language",
    "skill-discovery-bkt-gumbel-softmax": "skill-discovery-bkt-gumbel-softmax",
    "skill-theory-optimal-real-performance": "skill-theory-optimal-real-performance",
    "sla-three-theory-comparison-framework": "sla-three-theory-comparison-framework",
