@@ -27,6 +27,8 @@ sources:
 ## Subclaims
 `q2 i?` Extensive reading for meaning and form is the primary way incidental vocabulary learning occurs, though success depends on context quality, learner attention, and task demands. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
 
+`q3 i3` A meta-analysis of 24 controlled second-language studies found incidental vocabulary learning from meaning-focused input with a large effect against controls, and similar proportions of words learned from reading, listening and reading while listening. [→ Webb et al. 2023](#webb-et-al-2023)
+
 ## Evidence
 
 ### Restrepo Ramos 2015
@@ -39,8 +41,19 @@ The review reports, citing Huckin and Coady (1999), that their survey of empiric
 
 > "Extensive reading for meaning and form was found as the primary way incidental learning occurs. However, several variables affect its success as suggested by the authors: mainly, the appropriate context surrounding each word, and the nature of the learners' attention and the task demands"
 
+### Webb et al. 2023
+
+Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)
+
+`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)`
+
+This meta-analysis (open-access full text read) pooled 24 studies of second-language vocabulary learned incidentally from meaning-focused input, 29 effect sizes and 2,771 participants (1,517 in experimental and 1,254 in control groups); studies without a control group were excluded. Against controls, the mean effect was large on first posttests (g = 1.14, 95% CI [0.86, 1.41], k = 28) and on follow-up posttests (g = 0.93, 95% CI [0.44, 1.42], k = 9), and fail-safe N and trim-and-fill showed little concern about publication bias. Proportions of target words learned on immediate posttests were similar across reading (17%), listening (15%) and reading while listening (13%), and lower for viewing (7%); as effect sizes, reading was largest (g = 1.45) and mode was a significant moderator on first posttests (p = .023) but not on follow-up posttests. This supports incidental learning from informative input and qualifies "primarily via extensive reading": reading is the most-studied mode (k = 16 on first posttests, against 5 for listening) and has the largest effect, but listening yielded similar proportions of words learned. The studies are short treatments, not extensive reading programmes.
+
+> "Mean proportions of target words learned ranged from 9–18% on immediate posttests, and 6–17% on delayed posttests."
+
 ## Discussion
 
+Webb et al. (2023) support the first half of this claim and qualify the second: second-language learners do learn vocabulary incidentally from meaning-focused input, with a large effect against controls, but listening and reading while listening yielded proportions of words learned similar to reading, so reading's primacy is a matter of effect size and of how much it has been studied rather than of other modes producing little. The pooled studies are short experimental treatments, not extensive reading programmes.
 
 ## Related Claims
 - [Extensive reading improves reading comprehension and reading fluency](extensive-reading-improves-comprehension-and-fluency.md) — related

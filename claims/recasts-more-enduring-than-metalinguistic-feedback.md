@@ -26,6 +26,7 @@ sources:
 
 ## Subclaims
 `q2 i?` The metalinguistic group's performance declined sharply from post-test to delayed post-test, while the recast group's gains held, making the recast effect more stable. [→ Ehsan Rassaei 2011](#ehsan-rassaei-2011)
+`q3 i?` A meta-analysis of 33 corrective-feedback studies found the effect of implicit feedback better maintained over time than that of explicit feedback; the abstract prints no effect size and does not say how recasts and metalinguistic feedback were classed. [→ Li 2010](#li-2010)
 
 ## Evidence
 
@@ -38,6 +39,16 @@ Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types
 Figure 1 plots mean total grammaticality judgment performance across the three testing periods for the four groups; the text reports "a sharp decline in metalinguistic group's test performance from post-test to delayed post-test" while recast gains held (delayed means 15.31 recasts vs 15.44 metalinguistic).
 
 > "Figure1 provides a visual representation of learners' performance in three testing periods across four treatment  groups. The figure shows that there is a sharp decline in metalinguistic group's test performance from post-test to delayed post-test resulting in no significant difference between metalinguisitc and recast groups."
+
+### Li 2010
+
+Li, S. (2010). The effectiveness of corrective feedback in SLA: A meta-analysis. *Language Learning, 60*(2), 309–365. [doi:10.1111/j.1467-9922.2010.00561.x](https://doi.org/10.1111/j.1467-9922.2010.00561.x)
+
+`q3 · meta-analysis (abstract only)` · `i?` · `n=33 studies`
+
+Meta-analysis of 33 primary studies of corrective feedback in second language acquisition (22 published studies and 11 Ph.D. dissertations), coded for 17 features of which 14 were treated as independent and moderator variables. Among its findings, the effect of implicit feedback was better maintained over time than that of explicit feedback, which is this claim's direction at the level of feedback type. Only the abstract was read: it prints no effect sizes and does not say which feedback types were coded implicit or explicit, so that recasts and metalinguistic feedback fall on the two sides as this claim assumes is not established from what was read, and nothing here concerns wh-questions or a ten-day delay specifically.
+
+> "the effect of implicit feedback was better maintained than that of explicit feedback"
 
 ## Discussion
 
