@@ -68,7 +68,7 @@ Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early scienc
 
 `q3 · peer-reviewed experiment` · `i? · no effect size in the abstract read` · `n=112 children` · `causal · r?`
 
-In this experiment, 112 third- and fourth-grade children, who were novices at the control-of-variables strategy for experimental design, learned it either by discovery or by [direct instruction](../patterns/direct-instruction.md). Many more children mastered the procedure under direct instruction. On a later transfer task that asked them to evaluate science-fair posters, children taught directly performed as well as the few who had discovered the method on their own. This challenges the assumption that self-discovered knowledge transfers better.
+In this experiment, 112 third- and fourth-grade children, who were novices at the control-of-variables strategy for experimental design, learned it either by discovery or by [direct instruction](../patterns/direct-instruction.md). Many more children mastered the procedure under direct instruction. On a later transfer task that asked them to evaluate science-fair posters, children taught directly performed as well as the few who had discovered the method on their own. This challenges the assumption that self-discovered knowledge transfers better. The study compares direct instruction, the fully guided end of the continuum, with discovery; it does not test guided inquiry itself, so it bears on this claim as evidence that guidance beats unguided discovery, not that guided inquiry does.
 
 ### Kirschner et al. 2006
 
