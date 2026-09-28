@@ -46,3 +46,6 @@ Independent-samples t-tests on MSLQ learning-strategy factors comparing the 67-s
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
+- [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
+- [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — related
+- [Successful readers out-use less successful readers on global and support strategies but not problem-solving strategies](successful-readers-global-support-strategy-difference.md) — related

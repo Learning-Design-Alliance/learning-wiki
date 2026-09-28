@@ -46,3 +46,4 @@ Narrative review of research on age effects in pronunciation acquisition, citing
 - [Adults learn languages more quickly than children in the early stages of second language acquisition](adults-faster-early-stage-language-learning.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
 - [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
+- [The article reports, citing Graham (1985), that teenagers' superiority in language acquisition over adults is due to social factors and peer group influence rather than physiological limits or a critical period](teenage-language-advantage-social-not-physiological.md) — related

@@ -61,9 +61,11 @@ Self correction works because it activates self-monitoring during learning: lear
 6. **Fade the scaffold.** Reduce the checklist to a brief self-prompt ("Did I check units? Did I answer the question asked?") as monitoring becomes habitual.
 
 ## Related Strategies
+
 - [Error analysis](../principles/error-analysis.md) — the diagnostic cousin: classifying *why* errors occurred rather than only fixing them
 - [Self-assessment](../elements/self-assessment.md) — the broader judgment-of-own-work practice; self correction routines operationalize it at the task level
 - [Retrieval practice](retrieval-practice.md) — self-testing with an answer key is a self correction routine applied to memory rather than to drafts
+- [Put students in charge of soliciting grammatical feedback through pre-taught correction questions](student-initiated-correction-questions.md)
 
 ## Examples
 - **Writing revision checklists** — Students use a COPS-style checklist (Capitalization, Organization, Punctuation, Spelling) to self-edit drafts before peer or teacher review; the routine is taught with modeled think-alouds first.

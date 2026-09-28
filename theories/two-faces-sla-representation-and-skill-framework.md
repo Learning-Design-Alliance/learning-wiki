@@ -48,6 +48,7 @@ The article proposes that language is not monolithic but consists of two broad d
 ## Related Theories
 
 - [Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning](krashen-monitor-model-five-hypotheses.md)
+- [Structure-building trigger model: adult L2 learners scan input for cues but use different triggers than children](structure-building-trigger-model-l2-german.md)
 
 ## Examples
 

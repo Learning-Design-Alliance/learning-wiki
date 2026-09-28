@@ -11,6 +11,7 @@ generated:
 # Swain's output hypothesis
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 11 claims (5 for, 6 mixed) · 5 studies (4 qualitative, 1 review), `q1`–`q2` · 0 of 5 report an effect size · 11 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej1095572, eric-ej1195386, eric-ej420159, eric-ed338037, eric-ej1155586, eric-ej1208383, eric-ej1144345, eric-ej1071042, eric-ej912912. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -51,6 +52,7 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](../claims/lexical-lres-dominate-grammar-lres-l2-writing.md) [~M]
 
 ## Related Theories
+
 - [Swain's output hypothesis with three functions of output in second-language acquisition](output-hypothesis-three-functions.md)
 - [Swain's Comprehensible Output Hypothesis with a circular input-output-intake model](comprehensible-output-hypothesis-liming-account.md)
 - [Output-driven, input-enabled hypothesis: output as both driving force and objective of EFL teaching](output-driven-input-enabled-hypothesis.md) — a teaching hypothesis built on this one
@@ -58,6 +60,9 @@ The articles do not agree on how well the hypothesis is supported. Ellis (eric-e
 - [Long's interaction hypothesis](long-interaction-hypothesis.md)
 - [Schmidt's noticing hypothesis](schmidt-noticing-hypothesis.md) — the noticing function carries noticing from input to output
 - [Language related episodes (LREs) as the operationalization of noticing in L2 writing](lre-operationalization-noticing-writing.md)
+- [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
+- [Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition](interaction-hypothesis-negotiation-comprehensible-input.md)
+- [Structure-building trigger model: adult L2 learners scan input for cues but use different triggers than children](structure-building-trigger-model-l2-german.md)
 
 ## Examples
 - [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)

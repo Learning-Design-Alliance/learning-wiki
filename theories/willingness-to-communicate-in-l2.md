@@ -11,6 +11,7 @@ generated:
 # Willingness to Communicate in a Second Language
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 associational, 1 qualitative), `q1`–`q2` · 1 of 4 report an effect size · 6 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1080097, eric-ej1080228, eric-ej1208383 (eric-ed537603 and eric-ej1288838 were also read; neither discusses the model, and eric-ej1288838 only cites a WTC study in its references). The primary works in Key Sources were verified against Crossref but not read. -->
 

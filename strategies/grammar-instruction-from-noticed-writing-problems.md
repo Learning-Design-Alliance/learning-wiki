@@ -37,7 +37,8 @@ The article proposes building grammar teaching on the grammatical features learn
 - grammar features learners notice in writing, such as modal verb use and clause connection
 
 ## Related Strategies
-- 
+
+- [Design class-wide grammar lessons from common journal errors, and let students catalogue their own errors](class-wide-error-lessons-and-error-cataloguing.md)
 
 ## Examples
 -

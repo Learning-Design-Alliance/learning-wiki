@@ -52,6 +52,7 @@ The packet operationalizes Cummins's and Canale & Swain's theories using Steve K
 - [Similarity account: first and adult second language acquisition are neither wholly identical nor wholly different, but similar](first-second-language-acquisition-similarity.md)
 - [Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics](sla-three-theory-comparison-framework.md)
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — the canonical page for this theory
+- [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
 
 ## Examples
 

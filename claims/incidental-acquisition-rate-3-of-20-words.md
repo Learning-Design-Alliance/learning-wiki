@@ -49,3 +49,4 @@ Descriptive statistics from the unannounced 20-item vocabulary test administered
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](marginal-glosses-most-beneficial-task.md) — related
 - [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
 - [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](strategy-mastery-predicts-incidental-vocabulary-acquisition.md) — related
+- [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related

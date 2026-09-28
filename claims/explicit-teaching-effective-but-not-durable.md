@@ -48,3 +48,5 @@ The review reports Tode (2007), a seven-month experimental study of 89 Japanese 
 - [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](time-treatment-interaction-corrective-feedback.md) — related
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related
+- [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related

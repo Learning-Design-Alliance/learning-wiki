@@ -11,6 +11,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 16 claims (3 for, 12 mixed, 1 against) · 5 studies (3 causal, 1 review, 1 associational), `q2`–`q3` · 0 of 5 report an effect size · 16 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -56,15 +57,22 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate the amount of meaning negotiation](../claims/task-condition-did-not-moderate-meaning-negotiation.md) [~M]
 
 ## Related Theories
+
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md) — Ellis's revision of this hypothesis
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — the source of the hypothesis's first claim
 - [Swain's output hypothesis](swain-output-hypothesis.md) — which Long and Pica later took in
 - [Schmidt's noticing hypothesis](schmidt-noticing-hypothesis.md)
 - [Lyster and Ranta's taxonomy of corrective feedback types](lyster-ranta-corrective-feedback-taxonomy.md)
 - [Skehan's limited attention capacity model applied to child learners' uptake of recasts](skehan-limited-attention-capacity-child-task-recasts.md)
+- [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
+- [Ellis's revised Interaction Hypothesis: acquisition via noticing, comparison and integration](ellis-revised-interaction-hypothesis.md)
+- [Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition](interaction-hypothesis-negotiation-comprehensible-input.md)
+- [Varonis and Gass four-phase model of negotiation of meaning routines](varonis-gass-four-phase-negotiation-model.md)
 
 ## Examples
+
 - [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/low-task-complexity-child-learners-recasts.md)
+- [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
 
 ## Key Sources
 - Long, M. H. (1983). Native speaker/non-native speaker conversation and the negotiation of comprehensible input. *Applied Linguistics, 4*(2), 126–141. [doi:10.1093/applin/4.2.126](https://doi.org/10.1093/applin/4.2.126)

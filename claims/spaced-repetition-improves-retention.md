@@ -103,3 +103,4 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim

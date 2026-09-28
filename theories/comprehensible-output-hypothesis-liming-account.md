@@ -53,6 +53,7 @@ The Comprehensible Output Hypothesis, advanced by Swain in deliberate contrast t
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md)
 - [Output-driven, input-enabled hypothesis: output as both driving force and objective of EFL teaching](output-driven-input-enabled-hypothesis.md)
 - [Swain's output hypothesis](swain-output-hypothesis.md) — the canonical page for this theory
+- [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
 
 ## Examples
 

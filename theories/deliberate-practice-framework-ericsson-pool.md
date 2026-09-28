@@ -43,6 +43,7 @@ The deliberate practice framework, drawn from Ericsson and Pool, holds that expe
 ## Related Theories
 
 - [The expert performance approach as a three-stage framework for studying expertise](expert-performance-approach-three-stages.md)
+- [Four types of practice: deliberate, purposeful, structured, and naive](four-practice-types-taxonomy.md)
 
 ## Examples
 -

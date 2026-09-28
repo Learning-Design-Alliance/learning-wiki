@@ -47,3 +47,4 @@ Randomized five-month experiment with 187 Egyptian EFL freshmen (62 interactive,
 - [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — a broader claim this one bears on
 - [The three treatment groups were equivalent in reading comprehension at pretest](semantic-mapping-groups-equivalent-at-pretest.md) — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
+- [Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment](esp-groups-homogeneous-pretest-reading-comprehension.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis of video responses from 13 participants (8 L1, 5 L2 Spanish
 - [L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups](l1-l2-nonverbal-device-type-differences.md) — related
 - [Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall](limited-metapragmatic-awareness-nonverbals.md) — related
 - [Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used](scenario-type-no-effect-device-count.md) — related
+- [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](attention-builds-task-relevant-knowledge-base.md) — related

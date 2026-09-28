@@ -11,6 +11,7 @@ generated:
 # L2 Motivational Self System
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 associational, 1 qualitative), `q2` · 2 of 4 report an effect size · 5 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1165192, eric-ej1288838, eric-ej1508788. The primary works in Key Sources were verified against Crossref but not read. -->
 

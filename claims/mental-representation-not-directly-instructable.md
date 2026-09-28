@@ -47,3 +47,4 @@ Theoretical argument in section I.3: the author reasons that UG and parsers/proc
 - [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — a broader claim this one bears on
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](white-adverb-placement-negative-evidence-failed.md) — a narrower finding that bears on this claim

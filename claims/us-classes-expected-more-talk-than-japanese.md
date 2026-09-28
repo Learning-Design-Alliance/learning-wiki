@@ -44,3 +44,4 @@ In the results for the second research aim comparing domestic (Japan) and intern
 
 ## Related Claims
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
+- [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — related

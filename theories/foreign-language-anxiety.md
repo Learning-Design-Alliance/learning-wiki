@@ -11,6 +11,7 @@ generated:
 # Foreign Language Anxiety
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 6 claims (5 for, 1 against) · 3 studies (2 associational, 1 qualitative), `q1`–`q2` · 1 of 3 report an effect size · 6 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1182973, eric-ed537603, eric-ej1117239. The primary works in Key Sources were verified against Crossref but not read. -->
 

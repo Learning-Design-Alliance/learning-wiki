@@ -47,3 +47,4 @@ Chi-square test on strategy frequencies (confirmation checks, clarification requ
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate the amount of meaning negotiation](task-condition-did-not-moderate-meaning-negotiation.md) — related
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate negotiation strategy use](task-condition-did-not-moderate-strategy-use.md) — related
 - [Unfocused communicative tasks elicit significantly more meaning negotiation than focused tasks among intermediate EFL learners](unfocused-tasks-elicited-more-meaning-negotiation.md) — a broader claim this one bears on
+- [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](closed-tasks-foster-more-negotiation-than-open-tasks.md) — reports the opposite

@@ -156,3 +156,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
+- [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related

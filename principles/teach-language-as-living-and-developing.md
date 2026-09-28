@@ -43,6 +43,7 @@ The report closes by endorsing the attitude Jespersen expressed in his 1909 gram
 ## Related Principles
 
 - [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](learning-activities-legitimate-place-syllabus.md)
+- [Base decisions about teaching grammar primarily on learner needs and variables (Celce-Murcia)](grammar-decisions-based-on-learner-variables.md)
 
 ## Examples
 -

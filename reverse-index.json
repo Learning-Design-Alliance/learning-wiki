@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 3020,
+  "claims->claims": 3123,
   "claims->elements": 118,
   "claims->learner-variables": 1,
   "claims->methods": 3,
@@ -8,14 +8,14 @@
   "claims->principles": 124,
   "claims->processes": 3,
   "claims->theories": 221,
-  "elements->claims": 451,
-  "elements->elements": 446,
+  "elements->claims": 459,
+  "elements->elements": 452,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 245,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 150,
+  "elements->theories": 159,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -28,17 +28,17 @@
   "methods->principles": 8,
   "methods->processes": 4,
   "methods->theories": 3,
-  "patterns->claims": 228,
+  "patterns->claims": 231,
   "patterns->elements": 115,
   "patterns->methods": 2,
   "patterns->patterns": 161,
   "patterns->principles": 86,
   "patterns->theories": 55,
-  "principles->claims": 420,
-  "principles->elements": 86,
+  "principles->claims": 428,
+  "principles->elements": 88,
   "principles->methods": 2,
   "principles->patterns": 85,
-  "principles->principles": 311,
+  "principles->principles": 313,
   "principles->processes": 3,
   "principles->theories": 143,
   "processes->claims": 11,
@@ -54,14 +54,14 @@
   "strategies->patterns": 816,
   "strategies->principles": 1752,
   "strategies->processes": 9,
-  "strategies->theories": 616,
-  "theories->claims": 673,
-  "theories->elements": 132,
+  "strategies->theories": 624,
+  "theories->claims": 707,
+  "theories->elements": 142,
   "theories->methods": 4,
-  "theories->patterns": 116,
-  "theories->principles": 199,
+  "theories->patterns": 119,
+  "theories->principles": 210,
   "theories->processes": 3,
-  "theories->theories": 590
+  "theories->theories": 627
  },
  "edges": {
   "claims": {
@@ -3977,6 +3977,9 @@
      },
      {
       "slug": "no-l1-transfer-manner-adverb-positions"
+     },
+     {
+      "slug": "white-adverb-placement-negative-evidence-failed"
      }
     ],
     "theories": [
@@ -4100,6 +4103,9 @@
      },
      {
       "slug": "mere-exposure-insufficient-advanced-l2-communicative-competence"
+     },
+     {
+      "slug": "teenage-language-advantage-social-not-physiological"
      }
     ],
     "principles": [
@@ -4715,6 +4721,11 @@
      },
      {
       "polarity": "+",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "krashen-monitor-model-five-hypotheses",
       "strength": "W"
      }
@@ -4786,6 +4797,35 @@
      },
      {
       "slug": "openness-mediates-personality-wellbeing-pathways"
+     }
+    ]
+   },
+   "age-moderates-negotiation-benefit": {
+    "claims": [
+     {
+      "slug": "college-no-comprehensible-input-difference"
+     },
+     {
+      "slug": "college-no-negotiation-vocabulary-correlation"
+     },
+     {
+      "slug": "negotiation-frequency-correlates-vocabulary-high-school"
+     },
+     {
+      "slug": "negotiation-meaning-improves-vocabulary-scores-both-levels"
+     },
+     {
+      "slug": "negotiation-meaning-raises-comprehensible-input-high-school"
+     },
+     {
+      "slug": "young-readers-rely-on-semantic-syntactic-context-for-word-analysis"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "W"
      }
     ]
    },
@@ -5819,6 +5859,27 @@
      {
       "polarity": "+",
       "slug": "utaut-four-constructs-lms-acceptance-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "annotated-videodisc-beats-videotape-retention-recall": {
+    "claims": [
+     {
+      "slug": "videodisc-combines-books-movies-cai-capabilities"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "annotated-videodisc-authoring-template",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "learner-control-information-flow-with-on-demand-tools",
       "strength": "M"
      }
     ]
@@ -8224,6 +8285,65 @@
      }
     ]
    },
+   "attention-builds-task-relevant-knowledge-base": {
+    "claims": [
+     {
+      "slug": "incidental-vocabulary-exposure-limited"
+     },
+     {
+      "slug": "te-dct-mobile-captures-nonverbal-attention-getters"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "act-proceduralization-automatization",
+      "strength": "W"
+     }
+    ]
+   },
+   "attention-shift-meaning-to-form-over-cycles": {
+    "claims": [
+     {
+      "slug": "mechanical-drills-limited-use-meaning-form"
+     },
+     {
+      "slug": "novice-idc-growth-simplification-linearity-dogmatism"
+     },
+     {
+      "slug": "structured-repetition-fluency-task-specific"
+     },
+     {
+      "slug": "subsystems-show-supportive-competitive-precursor-relationships"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "anecdote-treasured-possession-task",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "travel-fair-carousel-task",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "post-task-phase-focus-on-form",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "task-repetition-slightly-altered-tasks",
+      "strength": "W"
+     }
+    ]
+   },
    "attentive-knowledge-tracing-benefits-from-repeated-interactions": {
     "claims": [
      {
@@ -8382,6 +8502,11 @@
       "polarity": "~",
       "slug": "macintyre-situational-wtc-model",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "willingness-to-communicate-in-l2",
+      "strength": "M"
      }
     ]
    },
@@ -8726,6 +8851,9 @@
      },
      {
       "slug": "phonological-awareness-training-improves-reading"
+     },
+     {
+      "slug": "phonological-orthographic-efficiency-predicts-esl-reading"
      },
      {
       "slug": "reading-strategy-instruction-improves-comprehension"
@@ -9733,6 +9861,46 @@
       "polarity": "+",
       "slug": "word_walls",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "automaticity-theory-phonological-component-processing",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "automaticity-theory-reading-fluency",
+      "strength": "W"
+     }
+    ]
+   },
+   "automatization-requires-practice-consistent-environment": {
+    "claims": [
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "explicit-rules-learned-faster-in-communicative-tasks"
+     },
+     {
+      "slug": "mere-exposure-insufficient-advanced-l2-communicative-competence"
+     },
+     {
+      "slug": "skill-specificity-l2-grammar-practice"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "act-proceduralization-automatization",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "instance-theory-memory-retrieval-automaticity",
+      "strength": "W"
      }
     ]
    },
@@ -12498,6 +12666,9 @@
     "claims": [
      {
       "slug": "contiguity-alone-fails-in-cognitive-learning"
+     },
+     {
+      "slug": "mechanical-drills-limited-use-meaning-form"
      }
     ],
     "patterns": [
@@ -13888,6 +14059,33 @@
      }
     ]
    },
+   "bi-weak-effect-actual-mall-use": {
+    "claims": [
+     {
+      "slug": "measurement-model-reliability-mall-efl"
+     },
+     {
+      "slug": "meta-utaut-hypotheses-accepted-mall-efl"
+     },
+     {
+      "slug": "social-influence-modest-attitude-mall"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-mall-survey-instrument",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "meta-utaut-model-mall-efl",
+      "strength": "M"
+     }
+    ]
+   },
    "bics-acquired-faster-than-calc-immigrant-children": {
     "claims": [
      {
@@ -14302,6 +14500,46 @@
      }
     ]
    },
+   "bilingual-education-reasons-internationalization-law": {
+    "claims": [
+     {
+      "slug": "bilingual-education-three-aims-internationalization"
+     },
+     {
+      "slug": "bilingual-policy-fosters-multicultural-pedagogical-interaction"
+     },
+     {
+      "slug": "bilingual-policy-preserves-local-national-identity-indonesia"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bilingual-language-policy-framework-spolsky",
+      "strength": "W"
+     }
+    ]
+   },
+   "bilingual-education-three-aims-internationalization": {
+    "claims": [
+     {
+      "slug": "bilingual-education-reasons-internationalization-law"
+     },
+     {
+      "slug": "bilingual-policy-fosters-multicultural-pedagogical-interaction"
+     },
+     {
+      "slug": "bilingual-policy-preserves-local-national-identity-indonesia"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bilingual-language-policy-framework-spolsky",
+      "strength": "W"
+     }
+    ]
+   },
    "bilingual-evaluations-ignore-interactions": {
     "claims": [
      {
@@ -14353,8 +14591,53 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "gombert-epilinguistic-metalinguistic-stages",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "metacognition",
       "strength": "M"
+     }
+    ]
+   },
+   "bilingual-policy-fosters-multicultural-pedagogical-interaction": {
+    "claims": [
+     {
+      "slug": "bilingual-education-reasons-internationalization-law"
+     },
+     {
+      "slug": "bilingual-education-three-aims-internationalization"
+     },
+     {
+      "slug": "bilingual-policy-preserves-local-national-identity-indonesia"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bilingual-language-policy-framework-spolsky",
+      "strength": "W"
+     }
+    ]
+   },
+   "bilingual-policy-preserves-local-national-identity-indonesia": {
+    "claims": [
+     {
+      "slug": "bilingual-education-reasons-internationalization-law"
+     },
+     {
+      "slug": "bilingual-education-three-aims-internationalization"
+     },
+     {
+      "slug": "bilingual-policy-fosters-multicultural-pedagogical-interaction"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bilingual-language-policy-framework-spolsky",
+      "strength": "W"
      }
     ]
    },
@@ -16659,6 +16942,42 @@
      }
     ]
    },
+   "carousel-task-immediate-repetition-benefits": {
+    "claims": [
+     {
+      "slug": "ideation-discussion-speaking-gains-not-grammar"
+     },
+     {
+      "slug": "immediate-repetition-benefits-oral-performance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "anecdote-treasured-possession-task",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "travel-fair-carousel-task",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "post-task-phase-focus-on-form",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "task-repetition-slightly-altered-tasks",
+      "strength": "W"
+     }
+    ]
+   },
    "carroll-data-support-hierarchical-g-model": {
     "claims": [
      {
@@ -17096,6 +17415,11 @@
       "polarity": "+",
       "slug": "semantic-diversity-graded-measure",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "usage-based-second-language-acquisition",
+      "strength": "M"
      }
     ]
    },
@@ -17177,6 +17501,26 @@
      }
     ]
    },
+   "cf-treatment-improves-irregular-past-tense-gjt-eit": {
+    "claims": [
+     {
+      "slug": "cf-treatment-improves-regular-past-tense-gjt-eit"
+     },
+     {
+      "slug": "pretest-scores-predict-posttest-scores"
+     }
+    ]
+   },
+   "cf-treatment-improves-regular-past-tense-gjt-eit": {
+    "claims": [
+     {
+      "slug": "cf-treatment-improves-irregular-past-tense-gjt-eit"
+     },
+     {
+      "slug": "pretest-scores-predict-posttest-scores"
+     }
+    ]
+   },
    "cfts-improved-writing-accuracy-tang-tithecott": {
     "claims": [
      {
@@ -17196,6 +17540,13 @@
      {
       "polarity": "+",
       "slug": "cft-while-noticing-tasks-pattern",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
       "strength": "W"
      }
     ]
@@ -17226,6 +17577,11 @@
      {
       "polarity": "+",
       "slug": "cft-three-stage-noticing-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
       "strength": "W"
      }
     ]
@@ -22121,6 +22477,11 @@
       "polarity": "+",
       "slug": "cognitive-linguistics-usage-based-meaning-motivates-form",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "usage-based-second-language-acquisition",
+      "strength": "M"
      }
     ]
    },
@@ -22602,6 +22963,11 @@
       "polarity": "+",
       "slug": "social-psychological-constructs-flca-framework",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "willingness-to-communicate-in-l2",
+      "strength": "W"
      }
     ]
    },
@@ -22615,6 +22981,11 @@
      {
       "polarity": "+",
       "slug": "macintyre-situational-wtc-model",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "willingness-to-communicate-in-l2",
       "strength": "M"
      }
     ]
@@ -23018,6 +23389,20 @@
      }
     ]
    },
+   "classroom-sla-studies-basic-statistics": {
+    "claims": [
+     {
+      "slug": "sla-studies-rarely-classroom-based"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "nunan-five-research-design-points",
+      "strength": "M"
+     }
+    ]
+   },
    "classroom-teachers-mostly-adopt-experimentalism": {
     "claims": [
      {
@@ -23250,6 +23635,25 @@
      }
     ]
    },
+   "closed-tasks-foster-more-negotiation-than-open-tasks": {
+    "claims": [
+     {
+      "slug": "cmc-meaning-focused-tasks-foster-negotiated-interactions"
+     },
+     {
+      "slug": "content-triggers-dominate-syntactic-triggers-absent-text-chat"
+     },
+     {
+      "slug": "discussion-board-no-negative-feedback-synchrony-required"
+     },
+     {
+      "slug": "self-correction-dominates-negative-feedback-face-saving"
+     },
+     {
+      "slug": "unfocused-tasks-more-confirmation-and-clarification-strategies"
+     }
+    ]
+   },
    "clt-china-1990s-initial-weak-adoption": {
     "claims": [
      {
@@ -23271,6 +23675,47 @@
       "polarity": "~",
       "slug": "communicative-approach-language-as-interaction-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "cmc-meaning-focused-tasks-foster-negotiated-interactions": {
+    "claims": [
+     {
+      "slug": "closed-tasks-foster-more-negotiation-than-open-tasks"
+     },
+     {
+      "slug": "content-triggers-dominate-syntactic-triggers-absent-text-chat"
+     },
+     {
+      "slug": "discussion-board-no-negative-feedback-synchrony-required"
+     },
+     {
+      "slug": "self-correction-dominates-negative-feedback-face-saving"
+     },
+     {
+      "slug": "subtitled-videos-increase-negotiation-of-meaning-online-tbll"
+     },
+     {
+      "slug": "videoconferencing-more-negotiated-turns-than-chat-and-board"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-tbll-environment-subtitled-videos-arslanyilmaz",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "negotiation-of-meaning-sequences-model-smith",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "varonis-gass-four-phase-negotiation-model",
+      "strength": "M"
      }
     ]
    },
@@ -28403,6 +28848,55 @@
      }
     ]
    },
+   "college-no-comprehensible-input-difference": {
+    "claims": [
+     {
+      "slug": "age-moderates-negotiation-benefit"
+     },
+     {
+      "slug": "college-no-negotiation-vocabulary-correlation"
+     },
+     {
+      "slug": "negotiation-benefit-limited-lower-ability-learners"
+     },
+     {
+      "slug": "negotiation-frequency-correlates-vocabulary-high-school"
+     },
+     {
+      "slug": "negotiation-meaning-raises-comprehensible-input-high-school"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
+     }
+    ]
+   },
+   "college-no-negotiation-vocabulary-correlation": {
+    "claims": [
+     {
+      "slug": "age-moderates-negotiation-benefit"
+     },
+     {
+      "slug": "college-no-comprehensible-input-difference"
+     },
+     {
+      "slug": "negotiation-frequency-correlates-vocabulary-high-school"
+     },
+     {
+      "slug": "negotiation-meaning-improves-vocabulary-scores-both-levels"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "W"
+     }
+    ]
+   },
    "college-students-average-reflective-judgment-3-8": {
     "claims": [
      {
@@ -28589,6 +29083,12 @@
    },
    "combined-intentional-incidental-greater-gains": {
     "claims": [
+     {
+      "slug": "incidental-reading-enables-productive-word-use"
+     },
+     {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
+     },
      {
       "slug": "incidental-vocabulary-retention-problems"
      },
@@ -29375,7 +29875,16 @@
       "slug": "affective-variables-facilitate-l2-acquisition"
      },
      {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
       "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "input-processing-insufficient-for-adult-competence-terrell"
+     },
+     {
+      "slug": "meaningful-effortful-practice-beneficial-essential-l2"
      },
      {
       "slug": "mental-representation-not-directly-instructable"
@@ -29393,7 +29902,17 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "horning-basic-writers-second-language-theory",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "krashen-input-hypothesis-monitor-model",
       "strength": "W"
      },
      {
@@ -29411,7 +29930,13 @@
    "comprehensible-input-insufficient-grammar-acquisition": {
     "claims": [
      {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
       "slug": "extensive-reading-improves-grammar-and-writing-style"
+     },
+     {
+      "slug": "form-focused-input-manipulation-illusory-for-competence"
      },
      {
       "slug": "grammar-not-focus-of-sla-synthesis"
@@ -29420,7 +29945,19 @@
       "slug": "immersion-esl-greater-communication-progress"
      },
      {
+      "slug": "input-processing-insufficient-for-adult-competence-terrell"
+     },
+     {
+      "slug": "instruction-little-effect-on-route-of-acquisition"
+     },
+     {
       "slug": "no-direct-evidence-input-hypothesis"
+     },
+     {
+      "slug": "spada-listening-practice-paradox"
+     },
+     {
+      "slug": "white-adverb-placement-negative-evidence-failed"
      }
     ],
     "principles": [
@@ -29428,9 +29965,29 @@
       "polarity": "-",
       "slug": "comprehensible-input-communicative-reading-activities",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "input-processing-focus-on-form-over-focus-on-forms",
+      "strength": "W"
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "ellis-revised-interaction-hypothesis",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "noticing-comparison-integration-revised-hypothesis",
@@ -29439,6 +29996,21 @@
      {
       "polarity": "+",
       "slug": "output-hypothesis-three-functions",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "swain-output-hypothesis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "tripart-grammar-framework-form-meaning-pragmatics",
       "strength": "W"
      }
     ]
@@ -30421,6 +30993,11 @@
       "polarity": "+",
       "slug": "usage-based-constructional-development",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "usage-based-second-language-acquisition",
+      "strength": "M"
      }
     ]
    },
@@ -30654,6 +31231,31 @@
       "polarity": "+",
       "slug": "peer-teacher-workshops-mise",
       "strength": "W"
+     }
+    ]
+   },
+   "content-triggers-dominate-syntactic-triggers-absent-text-chat": {
+    "claims": [
+     {
+      "slug": "closed-tasks-foster-more-negotiation-than-open-tasks"
+     },
+     {
+      "slug": "cmc-meaning-focused-tasks-foster-negotiated-interactions"
+     },
+     {
+      "slug": "videoconferencing-more-negotiated-turns-than-chat-and-board"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "negotiation-of-meaning-sequences-model-smith",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "varonis-gass-four-phase-negotiation-model",
+      "strength": "M"
      }
     ]
    },
@@ -34503,6 +35105,13 @@
      }
     ]
    },
+   "deaf-students-reading-plateau-fourth-grade": {
+    "claims": [
+     {
+      "slug": "incidental-vocabulary-exposure-limited"
+     }
+    ]
+   },
    "debriefing-psychometric-instruction-valued": {
     "claims": [
      {
@@ -34552,6 +35161,52 @@
       "polarity": "+",
       "slug": "welna-four-type-deceptive-pair-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "declarative-memory-null-regular-past-tense": {
+    "claims": [
+     {
+      "slug": "declarative-memory-predicts-irregular-past-ugjt-recasts"
+     },
+     {
+      "slug": "pretest-scores-predict-posttest-scores"
+     },
+     {
+      "slug": "procedural-memory-null-irregular-past-tense"
+     },
+     {
+      "slug": "procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dp-model-regular-irregular-past-tense-memory-systems",
+      "strength": "M"
+     }
+    ]
+   },
+   "declarative-memory-predicts-irregular-past-ugjt-recasts": {
+    "claims": [
+     {
+      "slug": "declarative-memory-null-regular-past-tense"
+     },
+     {
+      "slug": "pretest-scores-predict-posttest-scores"
+     },
+     {
+      "slug": "procedural-memory-null-irregular-past-tense"
+     },
+     {
+      "slug": "recasts-supported-but-effectiveness-varies"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dp-model-regular-irregular-past-tense-memory-systems",
+      "strength": "M"
      }
     ]
    },
@@ -35134,6 +35789,13 @@
      {
       "slug": "deliberate-practice-hours-differentiate-musicians"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-practice-types-taxonomy",
+      "strength": "W"
+     }
     ]
    },
    "deliberate-practice-hours-differentiate-musicians": {
@@ -35169,6 +35831,9 @@
      },
      {
       "slug": "early-training-adaptations-misread-as-talent"
+     },
+     {
+      "slug": "education-dp-4-5-percent-variance"
      },
      {
       "slug": "historical-improvements-reject-immutable-limits"
@@ -35415,6 +36080,33 @@
      }
     ]
    },
+   "depth-of-processing-improves-l2-retention": {
+    "claims": [
+     {
+      "slug": "desirable-difficulty-enhances-long-term-retention"
+     },
+     {
+      "slug": "task-essentialness-goal-directed-vocabulary-retention"
+     },
+     {
+      "slug": "task-value-increases-motivation-and-engagement"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-phase-dp-pp-practice-protocol",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-second-language-learning-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "descriptive-profile-esos-ecers-groups": {
     "claims": [
      {
@@ -35508,6 +36200,9 @@
    "desirable-difficulties-enhance-learning": {
     "claims": [
      {
+      "slug": "desirable-difficulty-enhances-long-term-retention"
+     },
+     {
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
@@ -35561,6 +36256,42 @@
     "theories": [
      {
       "slug": "strength-and-retrieval-effort-account-of-retrieval-practice"
+     }
+    ]
+   },
+   "desirable-difficulty-enhances-long-term-retention": {
+    "claims": [
+     {
+      "slug": "depth-of-processing-improves-l2-retention"
+     },
+     {
+      "slug": "desirable-difficulties-enhance-learning"
+     },
+     {
+      "slug": "goldlist-method-improves-l2-vocabulary-retention"
+     },
+     {
+      "slug": "learning-rate-retention-tradeoff"
+     },
+     {
+      "slug": "retrieval-practice-improves-retention"
+     },
+     {
+      "slug": "spaced-practice-improves-retention"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-phase-dp-pp-practice-protocol",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-second-language-learning-framework",
+      "strength": "W"
      }
     ]
    },
@@ -35741,6 +36472,9 @@
      },
      {
       "slug": "incidental-vocabulary-retention-problems"
+     },
+     {
+      "slug": "meaningful-effortful-practice-beneficial-essential-l2"
      },
      {
       "slug": "task-essentialness-goal-directed-vocabulary-retention"
@@ -36148,6 +36882,41 @@
      {
       "polarity": "+",
       "slug": "dialogism-intertextuality-utterance-context",
+      "strength": "W"
+     }
+    ]
+   },
+   "dialogue-journals-meet-sla-conditions": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-essential-l2-acquisition"
+     },
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "khanmigo-language-learning-potential-fully-supported"
+     },
+     {
+      "slug": "meaningful-effortful-practice-beneficial-essential-l2"
+     },
+     {
+      "slug": "no-direct-evidence-input-hypothesis"
+     },
+     {
+      "slug": "pushing-output-drives-input-assimilation"
+     },
+     {
+      "slug": "student-centered-environments-lower-anxiety-increase-confidence"
+     },
+     {
+      "slug": "syntactic-processing-corrects-incomprehensible-output"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "establish-meaningful-communication-before-correction",
       "strength": "W"
      }
     ]
@@ -36757,6 +37526,25 @@
      }
     ]
    },
+   "discussion-board-no-negative-feedback-synchrony-required": {
+    "claims": [
+     {
+      "slug": "closed-tasks-foster-more-negotiation-than-open-tasks"
+     },
+     {
+      "slug": "cmc-meaning-focused-tasks-foster-negotiated-interactions"
+     },
+     {
+      "slug": "self-correction-dominates-negative-feedback-face-saving"
+     },
+     {
+      "slug": "teachers-unaware-ocf-strategies-cognition-absent"
+     },
+     {
+      "slug": "videoconferencing-more-negotiated-turns-than-chat-and-board"
+     }
+    ]
+   },
    "discussion-common-race-political-topics-underused": {
     "claims": [
      {
@@ -36993,6 +37781,9 @@
    },
    "distributed-practice-improves-retention": {
     "claims": [
+     {
+      "slug": "distributed-practice-limits-l2"
+     },
      {
       "slug": "learners-misjudge-spacing-benefits"
      },
@@ -37396,6 +38187,22 @@
      }
     ]
    },
+   "distributed-practice-limits-l2": {
+    "claims": [
+     {
+      "slug": "distributed-practice-improves-retention"
+     },
+     {
+      "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     },
+     {
+      "slug": "spaced-practice-improves-retention"
+     },
+     {
+      "slug": "spaced-repetition-improves-retention"
+     }
+    ]
+   },
    "disturbances-crucial-expansive-learning-dynamics": {
     "claims": [
      {
@@ -37770,6 +38577,9 @@
    "drill-and-grammar-focus-ineffective-for-l2-acquisition": {
     "claims": [
      {
+      "slug": "automatization-requires-practice-consistent-environment"
+     },
+     {
       "slug": "china-middle-school-teachers-used-traditional-methods-late-1980s"
      },
      {
@@ -37779,13 +38589,31 @@
       "slug": "error-analysis-limitations"
      },
      {
+      "slug": "explicit-l2-grammar-instruction-superior-to-implicit"
+     },
+     {
+      "slug": "explicit-rules-learned-faster-in-communicative-tasks"
+     },
+     {
+      "slug": "form-focused-input-manipulation-illusory-for-competence"
+     },
+     {
       "slug": "grammar-not-focus-of-sla-synthesis"
+     },
+     {
+      "slug": "input-processing-insufficient-for-adult-competence-terrell"
+     },
+     {
+      "slug": "instruction-little-effect-on-route-of-acquisition"
      },
      {
       "slug": "mental-representation-not-directly-instructable"
      },
      {
       "slug": "monitoring-improves-learnable-rule-accuracy"
+     },
+     {
+      "slug": "skill-specificity-l2-grammar-practice"
      },
      {
       "slug": "student-centered-environments-lower-anxiety-increase-confidence"
@@ -37795,6 +38623,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "interactive-oral-grammar-exercise-five-qualities",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "open-ended-scenario-three-phase-structure",
@@ -37812,6 +38645,11 @@
      {
       "polarity": "+",
       "slug": "krashen-five-hypotheses-l2-acquisition",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "krashen-input-hypothesis-monitor-model",
       "strength": "W"
      },
      {
@@ -38996,6 +39834,35 @@
      }
     ]
    },
+   "education-dp-4-5-percent-variance": {
+    "claims": [
+     {
+      "slug": "deliberate-practice-improves-performance"
+     },
+     {
+      "slug": "meta-analysis-variation-from-methodological-choices"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-phase-dp-pp-practice-protocol",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-second-language-learning-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "four-practice-types-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
    "education-level-internationalization-perceptions": {
     "claims": [
      {
@@ -39308,6 +40175,13 @@
      {
       "slug": "sdt-path-strengths-effort"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "l2-motivational-self-system",
+      "strength": "M"
+     }
     ]
    },
    "effort-requires-task-value-and-expectation-of-success-arcs-rationale": {
@@ -39367,6 +40241,41 @@
      },
      {
       "slug": "strategy-profiles-l2-other-repetition-l1-clarification"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     }
+    ]
+   },
+   "efl-learners-above-average-metacognitive-strategy-use": {
+    "claims": [
+     {
+      "slug": "metacognitive-strategy-use-reading-achievement-correlation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "marsi-vietnamese-adapted-questionnaire",
+      "strength": "W"
+     }
+    ]
+   },
+   "efl-learners-positive-perceptions-readers-theater": {
+    "claims": [
+     {
+      "slug": "readers-theater-improves-efl-reading-fluency"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reading-fluency-three-components-accuracy-automaticity-prosody",
+      "strength": "W"
      }
     ]
    },
@@ -39472,6 +40381,9 @@
    },
    "efl-teachers-prefer-implicit-ocf-strategies": {
     "claims": [
+     {
+      "slug": "recasts-supported-but-effectiveness-varies"
+     },
      {
       "slug": "student-feelings-guide-ocf-attitudes"
      },
@@ -41241,6 +42153,9 @@
       "slug": "posttest-omnibus-anova-semantic-mapping-conditions"
      },
      {
+      "slug": "repeated-listening-improves-oral-reading-fluency"
+     },
+     {
       "slug": "semantic-mapping-groups-equivalent-at-pretest"
      },
      {
@@ -41808,6 +42723,9 @@
      },
      {
       "slug": "four-stage-syntax-acquisition-sequence"
+     },
+     {
+      "slug": "proactive-fof-reduces-error-fossilization"
      }
     ]
    },
@@ -41851,6 +42769,9 @@
      },
      {
       "slug": "l1-interference-errors-fossilization-risk"
+     },
+     {
+      "slug": "proactive-fof-reduces-error-fossilization"
      },
      {
       "slug": "self-discovery-incompatible-with-error-minimization"
@@ -41907,6 +42828,22 @@
      }
     ]
    },
+   "esp-groups-homogeneous-pretest-reading-comprehension": {
+    "claims": [
+     {
+      "slug": "gloss-study-groups-equivalent-at-pretest"
+     },
+     {
+      "slug": "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated"
+     },
+     {
+      "slug": "no-pretest-listening-difference-groups"
+     },
+     {
+      "slug": "posttest-omnibus-anova-semantic-mapping-conditions"
+     }
+    ]
+   },
    "esp-learners-mixed-motivational-propensities": {
     "claims": [
      {
@@ -41914,6 +42851,9 @@
      },
      {
       "slug": "mixed-motivation-certificate-not-supported"
+     },
+     {
+      "slug": "problems-hindering-metacognitive-strategy-use"
      },
      {
       "slug": "sdt-seven-factor-esp-motivation-structure"
@@ -44212,6 +45152,9 @@
    "explicit-instruction-context-dependent-synthesis": {
     "claims": [
      {
+      "slug": "explicit-l2-grammar-instruction-superior-to-implicit"
+     },
+     {
       "slug": "explicit-teaching-complex-rules-only-advantage"
      },
      {
@@ -44219,6 +45162,25 @@
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
+     }
+    ]
+   },
+   "explicit-l2-grammar-instruction-superior-to-implicit": {
+    "claims": [
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "explicit-instruction-context-dependent-synthesis"
+     },
+     {
+      "slug": "explicit-teaching-complex-rules-only-advantage"
+     },
+     {
+      "slug": "explicit-teaching-effective-but-not-durable"
+     },
+     {
+      "slug": "rule-oriented-explicit-outperforms-implicit"
      }
     ]
    },
@@ -44239,6 +45201,22 @@
       "polarity": "+",
       "slug": "scientific-reasoning",
       "strength": "W"
+     }
+    ]
+   },
+   "explicit-rules-learned-faster-in-communicative-tasks": {
+    "claims": [
+     {
+      "slug": "automatization-requires-practice-consistent-environment"
+     },
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "explicit-teaching-complex-rules-only-advantage"
+     },
+     {
+      "slug": "rule-oriented-explicit-outperforms-implicit"
      }
     ]
    },
@@ -44274,6 +45252,12 @@
       "slug": "explicit-instruction-context-dependent-synthesis"
      },
      {
+      "slug": "explicit-l2-grammar-instruction-superior-to-implicit"
+     },
+     {
+      "slug": "explicit-rules-learned-faster-in-communicative-tasks"
+     },
+     {
       "slug": "explicit-teaching-effective-but-not-durable"
      },
      {
@@ -44299,6 +45283,9 @@
    "explicit-teaching-effective-but-not-durable": {
     "claims": [
      {
+      "slug": "explicit-l2-grammar-instruction-superior-to-implicit"
+     },
+     {
       "slug": "explicit-teaching-complex-rules-only-advantage"
      },
      {
@@ -44306,6 +45293,9 @@
      },
      {
       "slug": "recasts-more-enduring-than-metalinguistic-feedback"
+     },
+     {
+      "slug": "recasts-supported-but-effectiveness-varies"
      },
      {
       "slug": "rule-oriented-explicit-outperforms-implicit"
@@ -44348,10 +45338,16 @@
       "slug": "extensive-reading-improves-vocabulary-and-spelling"
      },
      {
+      "slug": "fast-mapping-full-mapping-word-learning"
+     },
+     {
       "slug": "incidental-vocabulary-exposure-limited"
      },
      {
       "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
+     },
+     {
+      "slug": "low-salience-elements-need-extensive-practice"
      },
      {
       "slug": "marginal-glosses-dictionary-recurrence-improve-incidental-learning"
@@ -44561,6 +45557,9 @@
      },
      {
       "slug": "extensive-reading-improves-comprehension-and-fluency"
+     },
+     {
+      "slug": "fast-mapping-full-mapping-word-learning"
      },
      {
       "slug": "incidental-vocabulary-exposure-limited"
@@ -44814,6 +45813,9 @@
      },
      {
       "slug": "game-design-moderates-dgbl-effectiveness"
+     },
+     {
+      "slug": "meaningful-effortful-practice-beneficial-essential-l2"
      }
     ]
    },
@@ -46260,6 +47262,32 @@
      }
     ]
    },
+   "fast-mapping-full-mapping-word-learning": {
+    "claims": [
+     {
+      "slug": "exposure-frequency-predicts-incidental-gains"
+     },
+     {
+      "slug": "extensive-reading-improves-vocabulary-and-spelling"
+     },
+     {
+      "slug": "incidental-vocabulary-exposure-limited"
+     },
+     {
+      "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
+     },
+     {
+      "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
+     }
+    ]
+   },
    "fci-change-score-curves-diagnose-processes": {
     "claims": [
      {
@@ -46383,6 +47411,11 @@
       "polarity": "+",
       "slug": "attachment-theory-social-anxiety-efl",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "foreign-language-anxiety",
+      "strength": "M"
      }
     ]
    },
@@ -46411,6 +47444,13 @@
      },
      {
       "slug": "probing-feedback-revise-resubmit-evidence"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "dp-feedback-feedforward-typology",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -49629,6 +50669,11 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "foreign-language-anxiety",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "social-psychological-constructs-flca-framework",
       "strength": "M"
      }
@@ -49665,6 +50710,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "foreign-language-anxiety",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "social-psychological-constructs-flca-framework",
@@ -50010,6 +51060,32 @@
      }
     ]
    },
+   "form-focused-input-manipulation-illusory-for-competence": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "input-processing-insufficient-for-adult-competence-terrell"
+     },
+     {
+      "slug": "instruction-little-effect-on-route-of-acquisition"
+     },
+     {
+      "slug": "white-adverb-placement-negative-evidence-failed"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "input-processing-focus-on-form-over-focus-on-forms",
+      "strength": "M"
+     }
+    ]
+   },
    "formal-discipline-plan-increases-teacher-control-and-competence": {
     "claims": [
      {
@@ -50072,6 +51148,23 @@
      {
       "polarity": "+",
       "slug": "four-imperatives-conceptual-framework-building",
+      "strength": "W"
+     }
+    ]
+   },
+   "formulaic-utterances-dominate-early-immersion-speech": {
+    "claims": [
+     {
+      "slug": "immersion-esl-greater-communication-progress"
+     },
+     {
+      "slug": "situational-exercises-significant-progress"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "transparency-theory-learning-skill-acquisition",
       "strength": "W"
      }
     ]
@@ -51966,6 +53059,9 @@
       "slug": "global-competence-model-ic-items-removed"
      },
      {
+      "slug": "measurement-model-reliability-mall-efl"
+     },
+     {
       "slug": "social-responsibility-model-items-removed-vietnam"
      }
     ],
@@ -51996,6 +53092,9 @@
       "slug": "global-civic-activism-model-fully-valid"
      },
      {
+      "slug": "measurement-model-reliability-mall-efl"
+     },
+     {
       "slug": "social-responsibility-model-items-removed-vietnam"
      }
     ],
@@ -52011,6 +53110,9 @@
     "claims": [
      {
       "slug": "error-sources-interlingual-intralingual-cultural"
+     },
+     {
+      "slug": "skilled-writers-planning-revising-strategies"
      },
      {
       "slug": "students-agree-with-unintelligible-messages"
@@ -52070,6 +53172,9 @@
     "claims": [
      {
       "slug": "baseline-equality-four-da-age-groups"
+     },
+     {
+      "slug": "esp-groups-homogeneous-pretest-reading-comprehension"
      },
      {
       "slug": "l1-glosses-no-reading-comprehension-gain"
@@ -52251,6 +53356,9 @@
    },
    "goldlist-method-improves-l2-vocabulary-retention": {
     "claims": [
+     {
+      "slug": "desirable-difficulty-enhances-long-term-retention"
+     },
      {
       "slug": "goldlist-implementation-pitfalls-observed"
      },
@@ -52592,6 +53700,11 @@
     ],
     "theories": [
      {
+      "polarity": "-",
+      "slug": "skill-acquisition-theory-l2-practice",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "two-faces-sla-representation-and-skill-framework",
       "strength": "W"
@@ -52605,6 +53718,13 @@
      },
      {
       "slug": "syntax-outweighs-morphology-in-grammar-noticing"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -54368,10 +55488,19 @@
    "high-proficiency-learners-use-more-strategies": {
     "claims": [
      {
+      "slug": "metacognitive-strategy-use-reading-achievement-correlation"
+     },
+     {
       "slug": "motivational-factors-correlate-not-predict-efl-proficiency"
      },
      {
+      "slug": "problems-hindering-metacognitive-strategy-use"
+     },
+     {
       "slug": "proficiency-groups-differ-motivational-factors"
+     },
+     {
+      "slug": "successful-readers-global-support-strategy-difference"
      },
      {
       "slug": "three-srl-strategy-factors-predict-efl-proficiency"
@@ -54784,6 +55913,11 @@
      {
       "polarity": "+",
       "slug": "expert-performance-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "four-practice-types-taxonomy",
       "strength": "W"
      }
     ]
@@ -55607,6 +56741,11 @@
       "polarity": "+",
       "slug": "l2-motivational-self-system-framework",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "l2-motivational-self-system",
+      "strength": "M"
      }
     ]
    },
@@ -55690,6 +56829,9 @@
    },
    "ideation-discussion-speaking-gains-not-grammar": {
     "claims": [
+     {
+      "slug": "carousel-task-immediate-repetition-benefits"
+     },
      {
       "slug": "ideation-discussion-creative-thought-gains-not-logic"
      },
@@ -56154,10 +57296,52 @@
      }
     ]
    },
+   "immediate-repetition-benefits-oral-performance": {
+    "claims": [
+     {
+      "slug": "carousel-task-immediate-repetition-benefits"
+     },
+     {
+      "slug": "speaking-practice-reduced-flca-increased-self-efficacy"
+     },
+     {
+      "slug": "structured-repetition-fluency-task-specific"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "anecdote-treasured-possession-task",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "travel-fair-carousel-task",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "post-task-phase-focus-on-form",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "task-repetition-slightly-altered-tasks",
+      "strength": "W"
+     }
+    ]
+   },
    "immersion-esl-greater-communication-progress": {
     "claims": [
      {
       "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "formulaic-utterances-dominate-early-immersion-speech"
      },
      {
       "slug": "situational-exercises-significant-progress"
@@ -56361,10 +57545,77 @@
       "slug": "marginal-glosses-most-beneficial-task"
      },
      {
+      "slug": "single-novel-reading-incidental-vocabulary-gains"
+     },
+     {
       "slug": "strategy-mastery-predicts-incidental-vocabulary-acquisition"
      },
      {
       "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ]
+   },
+   "incidental-reading-enables-productive-word-use": {
+    "claims": [
+     {
+      "slug": "combined-intentional-incidental-greater-gains"
+     },
+     {
+      "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
+     },
+     {
+      "slug": "incidental-vocabulary-retained-intentional-forgotten"
+     },
+     {
+      "slug": "involvement-load-tasks-improve-word-retention"
+     },
+     {
+      "slug": "marginal-glosses-most-beneficial-task"
+     },
+     {
+      "slug": "single-novel-reading-incidental-vocabulary-gains"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
+     }
+    ]
+   },
+   "incidental-vocabulary-acquisition-more-powerful-than-intentional": {
+    "claims": [
+     {
+      "slug": "combined-intentional-incidental-greater-gains"
+     },
+     {
+      "slug": "incidental-vocabulary-exposure-limited"
+     },
+     {
+      "slug": "incidental-vocabulary-retained-intentional-forgotten"
+     },
+     {
+      "slug": "lwpa-by-exam-subsection-interaction"
+     },
+     {
+      "slug": "lwpa-outperforms-traditional-vocabulary-learning"
+     },
+     {
+      "slug": "reading-versus-listening-incidental-vocabulary-gains"
+     },
+     {
+      "slug": "svas-advantage-across-test-rubrics"
+     },
+     {
+      "slug": "svas-spaced-listening-outperforms-comparison-end-of-experiment"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
      }
     ]
    },
@@ -56395,6 +57646,11 @@
     ],
     "theories": [
      {
+      "polarity": "-",
+      "slug": "foreign-language-anxiety",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "word-text-learner-incidental-factors-framework",
       "strength": "W"
@@ -56404,16 +57660,28 @@
    "incidental-vocabulary-exposure-limited": {
     "claims": [
      {
+      "slug": "attention-builds-task-relevant-knowledge-base"
+     },
+     {
+      "slug": "deaf-students-reading-plateau-fourth-grade"
+     },
+     {
       "slug": "exposure-frequency-predicts-incidental-gains"
      },
      {
       "slug": "extensive-reading-improves-vocabulary-and-spelling"
      },
      {
+      "slug": "fast-mapping-full-mapping-word-learning"
+     },
+     {
       "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction"
      },
      {
       "slug": "incidental-acquisition-rate-3-of-20-words"
+     },
+     {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
      },
      {
       "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
@@ -56437,10 +57705,16 @@
       "slug": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone"
      },
      {
+      "slug": "proficiency-level-moderates-incidental-vocabulary-gains"
+     },
+     {
       "slug": "proficiency-motivation-involvement-gains"
      },
      {
       "slug": "reading-versus-listening-incidental-vocabulary-gains"
+     },
+     {
+      "slug": "single-novel-reading-incidental-vocabulary-gains"
      },
      {
       "polarity": "-",
@@ -56496,7 +57770,13 @@
       "slug": "extensive-reading-improves-vocabulary-and-spelling"
      },
      {
+      "slug": "fast-mapping-full-mapping-word-learning"
+     },
+     {
       "slug": "incidental-acquisition-rate-3-of-20-words"
+     },
+     {
+      "slug": "incidental-reading-enables-productive-word-use"
      },
      {
       "slug": "incidental-vocabulary-exposure-limited"
@@ -56511,10 +57791,30 @@
       "slug": "proficiency-motivation-involvement-gains"
      },
      {
+      "slug": "single-novel-reading-incidental-vocabulary-gains"
+     },
+     {
       "slug": "svas-spaced-listening-outperforms-comparison-end-of-experiment"
      },
      {
       "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ]
+   },
+   "incidental-vocabulary-retained-intentional-forgotten": {
+    "claims": [
+     {
+      "slug": "incidental-reading-enables-productive-word-use"
+     },
+     {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
      }
     ]
    },
@@ -56940,6 +58240,23 @@
      }
     ]
    },
+   "infant-verbal-memory-retention": {
+    "claims": [
+     {
+      "slug": "infants-preword-linguistic-attention"
+     },
+     {
+      "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     }
+    ]
+   },
+   "infants-preword-linguistic-attention": {
+    "claims": [
+     {
+      "slug": "infant-verbal-memory-retention"
+     }
+    ]
+   },
    "informal-agreements-less-disintegrating-than-formal": {
     "claims": [
      {
@@ -57021,6 +58338,41 @@
     "claims": [
      {
       "slug": "students-create-21-educational-innovations"
+     }
+    ]
+   },
+   "input-processing-insufficient-for-adult-competence-terrell": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-essential-l2-acquisition"
+     },
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "form-focused-input-manipulation-illusory-for-competence"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "interactive-oral-grammar-exercise-five-qualities",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "grammar-decisions-based-on-learner-variables",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "input-processing-focus-on-form-over-focus-on-forms",
+      "strength": "W"
      }
     ]
    },
@@ -57170,6 +58522,29 @@
      {
       "polarity": "+",
       "slug": "moral-dimensions-of-instructional-design",
+      "strength": "W"
+     }
+    ]
+   },
+   "instruction-little-effect-on-route-of-acquisition": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "form-focused-input-manipulation-illusory-for-competence"
+     },
+     {
+      "slug": "no-direct-evidence-input-hypothesis"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "input-processing-focus-on-form-over-focus-on-forms",
       "strength": "W"
      }
     ]
@@ -57728,6 +59103,16 @@
     ],
     "theories": [
      {
+      "polarity": "~",
+      "slug": "ellis-revised-interaction-hypothesis",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "noticing-comparison-integration-revised-hypothesis",
       "strength": "M"
@@ -57836,6 +59221,23 @@
      {
       "slug": "two-way-tasks-promote-interactional-restructuring"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ellis-revised-interaction-hypothesis",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     }
     ]
    },
    "interactional-structures-shape-content-processing": {
@@ -57862,6 +59264,9 @@
       "slug": "prior-practices-mediate-class-interaction-appropriation"
      },
      {
+      "slug": "process-studies-no-gain-link"
+     },
+     {
       "slug": "relevancy-of-emphasis-directs-attention"
      },
      {
@@ -57885,6 +59290,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "noticing-comparison-integration-revised-hypothesis",
@@ -57954,6 +59364,9 @@
     "claims": [
      {
       "slug": "er-peer-interaction-greater-achievement-gains"
+     },
+     {
+      "slug": "esp-groups-homogeneous-pretest-reading-comprehension"
      },
      {
       "slug": "posttest-omnibus-anova-semantic-mapping-conditions"
@@ -58666,6 +60079,9 @@
       "slug": "combined-intentional-incidental-greater-gains"
      },
      {
+      "slug": "incidental-reading-enables-productive-word-use"
+     },
+     {
       "slug": "intentional-beats-incidental-vocabulary-gains"
      },
      {
@@ -58922,6 +60338,11 @@
       "polarity": "~",
       "slug": "gardner-integrative-instrumental-model-context-limits",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "l2-motivational-self-system",
+      "strength": "M"
      }
     ]
    },
@@ -59110,6 +60531,26 @@
      }
     ]
    },
+   "japanese-english-instruction-inverts-stage-sequence": {
+    "claims": [
+     {
+      "slug": "reverse-transfer-literacy-to-oral-unsupported"
+     },
+     {
+      "slug": "sticht-law-reading-cannot-exceed-listening"
+     },
+     {
+      "slug": "us-classes-expected-more-talk-than-japanese"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "oral-aural-before-literacy-foreign-language",
+      "strength": "M"
+     }
+    ]
+   },
    "jeremy-journal-topics-track-equality-equity-mindsets": {
     "claims": [
      {
@@ -59194,6 +60635,9 @@
      },
      {
       "slug": "oral-language-emphasis-program-led-cognitive-gains"
+     },
+     {
+      "slug": "oral-language-predicts-reading-achievement"
      },
      {
       "slug": "parent-coaching-outperforms-information-only"
@@ -59511,6 +60955,9 @@
    },
    "khanmigo-language-learning-potential-fully-supported": {
     "claims": [
+     {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
      {
       "slug": "feedback-makes-behaviour-seen-asynchronous"
      },
@@ -60342,6 +61789,9 @@
      },
      {
       "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonological-orthographic-efficiency-predicts-esl-reading"
      }
     ],
     "learner-variables": [
@@ -60393,6 +61843,9 @@
    "l2-fluency-gains-persist-weeks-without-practice": {
     "claims": [
      {
+      "slug": "distributed-practice-limits-l2"
+     },
+     {
       "slug": "explicit-strategy-instruction-no-significant-gain"
      },
      {
@@ -60405,6 +61858,9 @@
       "slug": "ideation-discussion-speaking-gains-not-grammar"
      },
      {
+      "slug": "infant-verbal-memory-retention"
+     },
+     {
       "slug": "listening-first-outperforms-intensive-oral-practice"
      },
      {
@@ -60414,10 +61870,16 @@
       "slug": "podcast-retention-divergence-massed-vs-distributed"
      },
      {
+      "slug": "repeated-listening-improves-oral-reading-fluency"
+     },
+     {
       "slug": "retrieval-practice-improves-retention"
      },
      {
       "slug": "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference"
+     },
+     {
+      "slug": "structured-repetition-fluency-task-specific"
      },
      {
       "slug": "task-repetition-fluency-complexity-same-task-only"
@@ -60443,6 +61905,13 @@
      {
       "polarity": "+",
       "slug": "foster-enjoyment-and-l2-learning-experience",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "l2-motivational-self-system",
       "strength": "M"
      }
     ]
@@ -60531,6 +62000,9 @@
     "claims": [
      {
       "slug": "adults-find-pronunciation-harder-than-children"
+     },
+     {
+      "slug": "low-salience-elements-need-extensive-practice"
      },
      {
       "slug": "mere-exposure-insufficient-advanced-l2-communicative-competence"
@@ -61593,6 +63065,9 @@
      },
      {
       "slug": "syntax-outweighs-morphology-in-grammar-noticing"
+     },
+     {
+      "slug": "white-adverb-placement-negative-evidence-failed"
      }
     ],
     "theories": [
@@ -62207,6 +63682,9 @@
       "slug": "desirable-difficulties-enhance-learning"
      },
      {
+      "slug": "desirable-difficulty-enhances-long-term-retention"
+     },
+     {
       "slug": "interleaved-practice-improves-retention"
      },
      {
@@ -62731,6 +64209,16 @@
       "polarity": "+",
       "slug": "lre-operationalization-noticing-writing",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "swain-output-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -62784,6 +64272,11 @@
      {
       "polarity": "+",
       "slug": "usage-based-constructional-development",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "usage-based-second-language-acquisition",
       "strength": "M"
      }
     ]
@@ -63054,6 +64547,11 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "listening-active-meaning-construction",
       "strength": "W"
      },
@@ -63071,6 +64569,9 @@
      },
      {
       "slug": "listening-transfer-to-other-language-skills"
+     },
+     {
+      "slug": "spada-listening-practice-paradox"
      }
     ],
     "theories": [
@@ -63135,6 +64636,9 @@
      },
      {
       "slug": "listening-most-used-language-skill"
+     },
+     {
+      "slug": "oral-language-predicts-reading-achievement"
      },
      {
       "slug": "speaking-dominates-concurrent-oral-scale"
@@ -63999,6 +65503,36 @@
      }
     ]
    },
+   "low-salience-elements-need-extensive-practice": {
+    "claims": [
+     {
+      "slug": "exposure-frequency-predicts-incidental-gains"
+     },
+     {
+      "slug": "l2-skill-never-fully-native-like"
+     },
+     {
+      "slug": "skill-specificity-l2-grammar-practice"
+     },
+     {
+      "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "practice-spectrum-drills-to-task-based",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-l2-practice",
+      "strength": "M"
+     }
+    ]
+   },
    "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples": {
     "claims": [
      {
@@ -64182,6 +65716,9 @@
    "lwpa-by-exam-subsection-interaction": {
     "claims": [
      {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
+     },
+     {
       "slug": "l1-to-l2-audio-training-improves-translation"
      },
      {
@@ -64199,6 +65736,9 @@
     "claims": [
      {
       "slug": "combined-intentional-incidental-greater-gains"
+     },
+     {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
      },
      {
       "slug": "l1-to-l2-audio-training-improves-translation"
@@ -64929,6 +66469,9 @@
       "slug": "incidental-acquisition-rate-3-of-20-words"
      },
      {
+      "slug": "incidental-reading-enables-productive-word-use"
+     },
+     {
       "slug": "incidental-vocabulary-exposure-limited"
      },
      {
@@ -65592,6 +67135,39 @@
      }
     ]
    },
+   "meaningful-effortful-practice-beneficial-essential-l2": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-essential-l2-acquisition"
+     },
+     {
+      "slug": "dgbl-long-term-vocabulary-retention"
+     },
+     {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
+      "slug": "extramural-gaming-vocabulary-effects-mixed"
+     },
+     {
+      "slug": "student-centered-environments-lower-anxiety-increase-confidence"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "practice-spectrum-drills-to-task-based",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "skill-acquisition-theory-l2-practice",
+      "strength": "M"
+     }
+    ]
+   },
    "meanings-grow-out-of-social-intercourse": {
     "claims": [
      {
@@ -65647,6 +67223,42 @@
      }
     ]
    },
+   "measurement-model-reliability-mall-efl": {
+    "claims": [
+     {
+      "slug": "bi-weak-effect-actual-mall-use"
+     },
+     {
+      "slug": "global-civic-activism-model-fully-valid"
+     },
+     {
+      "slug": "global-competence-model-ic-items-removed"
+     },
+     {
+      "slug": "meta-utaut-hypotheses-accepted-mall-efl"
+     },
+     {
+      "slug": "six-factor-governance-model-convergent-validity"
+     },
+     {
+      "slug": "social-responsibility-model-items-removed-vietnam"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-mall-survey-instrument",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-model-mall-efl",
+      "strength": "W"
+     }
+    ]
+   },
    "measurement-noise-negative-gain-pretest-correlation": {
     "claims": [
      {
@@ -65673,6 +67285,23 @@
       "polarity": "+",
       "slug": "two-level-dynamic-learning-model-bao",
       "strength": "W"
+     }
+    ]
+   },
+   "mechanical-drills-limited-use-meaning-form": {
+    "claims": [
+     {
+      "slug": "attention-shift-meaning-to-form-over-cycles"
+     },
+     {
+      "slug": "behaviorism-fails-linguistic-generativity"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "practice-spectrum-drills-to-task-based",
+      "strength": "M"
      }
     ]
    },
@@ -66421,6 +68050,9 @@
      },
      {
       "slug": "structured-input-alone-sufficient-for-acquisition"
+     },
+     {
+      "slug": "white-adverb-placement-negative-evidence-failed"
      }
     ],
     "principles": [
@@ -66431,6 +68063,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "structure-building-trigger-model-l2-german",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "two-faces-sla-representation-and-skill-framework",
@@ -66730,6 +68367,9 @@
       "slug": "adults-find-pronunciation-harder-than-children"
      },
      {
+      "slug": "automatization-requires-practice-consistent-environment"
+     },
+     {
       "slug": "incidental-vocabulary-exposure-limited"
      },
      {
@@ -66752,9 +68392,19 @@
       "strength": "W"
      },
      {
+      "polarity": "-",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "littlewood-pragmatic-social-needs-model",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "swain-output-hypothesis",
+      "strength": "W"
      }
     ]
    },
@@ -66833,6 +68483,9 @@
      },
      {
       "slug": "call-meta-analyses-mean-effect-d-064"
+     },
+     {
+      "slug": "education-dp-4-5-percent-variance"
      }
     ],
     "principles": [
@@ -66866,6 +68519,33 @@
      {
       "polarity": "+",
       "slug": "latent-versus-component-ef-math-models",
+      "strength": "M"
+     }
+    ]
+   },
+   "meta-utaut-hypotheses-accepted-mall-efl": {
+    "claims": [
+     {
+      "slug": "bi-weak-effect-actual-mall-use"
+     },
+     {
+      "slug": "measurement-model-reliability-mall-efl"
+     },
+     {
+      "slug": "social-influence-modest-attitude-mall"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-mall-survey-instrument",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-model-mall-efl",
       "strength": "M"
      }
     ]
@@ -67018,6 +68698,23 @@
      }
     ]
    },
+   "metacognitive-strategy-use-reading-achievement-correlation": {
+    "claims": [
+     {
+      "slug": "efl-learners-above-average-metacognitive-strategy-use"
+     },
+     {
+      "slug": "high-proficiency-learners-use-more-strategies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "marsi-vietnamese-adapted-questionnaire",
+      "strength": "W"
+     }
+    ]
+   },
    "metalinguistic-beats-recasts-immediate-not-delayed": {
     "claims": [
      {
@@ -67031,6 +68728,9 @@
      },
      {
       "slug": "recasts-more-enduring-than-metalinguistic-feedback"
+     },
+     {
+      "slug": "recasts-supported-but-effectiveness-varies"
      }
     ],
     "principles": [
@@ -67041,6 +68741,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "lyster-ranta-corrective-feedback-taxonomy",
@@ -67060,6 +68765,9 @@
       "slug": "recasts-more-enduring-than-metalinguistic-feedback"
      },
      {
+      "slug": "recasts-supported-but-effectiveness-varies"
+     },
+     {
       "slug": "time-treatment-interaction-corrective-feedback"
      }
     ],
@@ -67071,6 +68779,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "lyster-ranta-corrective-feedback-taxonomy",
@@ -67188,6 +68901,9 @@
    },
    "mics-pre-post-no-group-differential-effect": {
     "claims": [
+     {
+      "slug": "repeated-listening-improves-oral-reading-fluency"
+     },
      {
       "slug": "video-narration-text-improves-immediate-macs-comprehension"
      },
@@ -67939,6 +69655,13 @@
      {
       "slug": "pairing-language-interaction-nom-l2-only"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     }
     ]
    },
    "mixed-effects-across-experiments-criterion-failures": {
@@ -68420,6 +70143,16 @@
       "polarity": "+",
       "slug": "output-hypothesis-three-functions",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "swain-output-hypothesis",
+      "strength": "W"
      }
     ]
    },
@@ -68634,6 +70367,11 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "krashen-monitor-model-acquisition-learning",
       "strength": "W"
      }
@@ -68655,6 +70393,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "krashen-monitor-model-acquisition-learning",
@@ -68678,6 +70421,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "-",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "krashen-monitor-model-acquisition-learning",
@@ -68807,8 +70555,26 @@
      },
      {
       "polarity": "+",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "krashen-monitor-model-five-hypotheses",
       "strength": "W"
+     }
+    ]
+   },
+   "morphological-awareness-contributes-reading-development": {
+    "claims": [
+     {
+      "slug": "morphological-instruction-improves-literacy"
+     },
+     {
+      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonological-awareness-training-improves-reading"
      }
     ]
    },
@@ -68818,7 +70584,13 @@
       "slug": "automatic-word-recognition-frees-resources-for-comprehension"
      },
      {
+      "slug": "morphological-awareness-contributes-reading-development"
+     },
+     {
       "slug": "morphological-instruction-improves-vocabulary"
+     },
+     {
+      "slug": "reverse-transfer-literacy-to-oral-unsupported"
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
@@ -69061,6 +70833,11 @@
       "polarity": "+",
       "slug": "macintyre-situational-wtc-model",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "willingness-to-communicate-in-l2",
+      "strength": "M"
      }
     ]
    },
@@ -70845,6 +72622,11 @@
       "polarity": "+",
       "slug": "attachment-theory-social-anxiety-efl",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "foreign-language-anxiety",
+      "strength": "M"
      }
     ]
    },
@@ -70878,6 +72660,9 @@
    "negotiation-benefit-limited-lower-ability-learners": {
     "claims": [
      {
+      "slug": "college-no-comprehensible-input-difference"
+     },
+     {
       "slug": "interaction-quality-over-quantity"
      },
      {
@@ -70887,8 +72672,91 @@
     "theories": [
      {
       "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "noticing-comparison-integration-revised-hypothesis",
       "strength": "W"
+     }
+    ]
+   },
+   "negotiation-frequency-correlates-vocabulary-high-school": {
+    "claims": [
+     {
+      "slug": "age-moderates-negotiation-benefit"
+     },
+     {
+      "slug": "college-no-comprehensible-input-difference"
+     },
+     {
+      "slug": "college-no-negotiation-vocabulary-correlation"
+     },
+     {
+      "slug": "negotiation-meaning-improves-vocabulary-scores-both-levels"
+     },
+     {
+      "slug": "negotiation-meaning-raises-comprehensible-input-high-school"
+     },
+     {
+      "slug": "quality-ocll-meaning-form-synergy-higher-grades"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
+     }
+    ]
+   },
+   "negotiation-meaning-improves-vocabulary-scores-both-levels": {
+    "claims": [
+     {
+      "slug": "age-moderates-negotiation-benefit"
+     },
+     {
+      "slug": "college-no-negotiation-vocabulary-correlation"
+     },
+     {
+      "slug": "negotiation-frequency-correlates-vocabulary-high-school"
+     },
+     {
+      "slug": "negotiation-meaning-raises-comprehensible-input-high-school"
+     },
+     {
+      "slug": "teach-lexical-procedures-not-only-definitions"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
+     }
+    ]
+   },
+   "negotiation-meaning-raises-comprehensible-input-high-school": {
+    "claims": [
+     {
+      "slug": "age-moderates-negotiation-benefit"
+     },
+     {
+      "slug": "college-no-comprehensible-input-difference"
+     },
+     {
+      "slug": "negotiation-frequency-correlates-vocabulary-high-school"
+     },
+     {
+      "slug": "negotiation-meaning-improves-vocabulary-scores-both-levels"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
      }
     ]
    },
@@ -71312,6 +73180,12 @@
       "slug": "comprehensible-input-insufficient-grammar-acquisition"
      },
      {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
+      "slug": "instruction-little-effect-on-route-of-acquisition"
+     },
+     {
       "slug": "interactionally-modified-input-aids-comprehension-not-retention"
      },
      {
@@ -71325,6 +73199,16 @@
      {
       "polarity": "-",
       "slug": "comprehensible-output-hypothesis-liming-account",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "krashen-input-hypothesis-monitor-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "long-interaction-hypothesis",
       "strength": "W"
      },
      {
@@ -71731,6 +73615,9 @@
       "slug": "baseline-equality-four-da-age-groups"
      },
      {
+      "slug": "esp-groups-homogeneous-pretest-reading-comprehension"
+     },
+     {
       "slug": "ielts-task-instruction-outperforms-toefl-listening"
      },
      {
@@ -71758,6 +73645,13 @@
      },
      {
       "slug": "worked-examples-improve-math-performance"
+     }
+    ]
+   },
+   "no-research-aptitude-form-practice-interaction": {
+    "claims": [
+     {
+      "slug": "recasts-supported-but-effectiveness-varies"
      }
     ]
    },
@@ -72296,6 +74190,11 @@
       "polarity": "+",
       "slug": "output-hypothesis-three-functions",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "swain-output-hypothesis",
+      "strength": "W"
      }
     ]
    },
@@ -72315,6 +74214,13 @@
      {
       "polarity": "+",
       "slug": "cft-while-noticing-tasks-pattern",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
       "strength": "W"
      }
     ]
@@ -72341,6 +74247,11 @@
      {
       "polarity": "+",
       "slug": "lre-operationalization-noticing-writing",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
       "strength": "W"
      }
     ]
@@ -72373,6 +74284,9 @@
    },
    "novice-idc-growth-simplification-linearity-dogmatism": {
     "claims": [
+     {
+      "slug": "attention-shift-meaning-to-form-over-cycles"
+     },
      {
       "slug": "chat-richer-understanding-pilot-caveats"
      },
@@ -73184,6 +75098,50 @@
      }
     ]
    },
+   "oral-language-predicts-reading-achievement": {
+    "claims": [
+     {
+      "slug": "joint-book-reading-predicts-literacy-success"
+     },
+     {
+      "slug": "listening-transfer-to-other-language-skills"
+     },
+     {
+      "slug": "sticht-law-reading-cannot-exceed-listening"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sticht-three-positions-oral-written-language",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "oral-aural-before-literacy-foreign-language",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "two-stage-natural-nonnatural-language-acquisition",
+      "strength": "W"
+     }
+    ]
+   },
+   "oral-proficiency-predicts-l2-reading-comprehension": {
+    "claims": [
+     {
+      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonological-automatization-improves-esp-reading-comprehension"
+     }
+    ]
+   },
    "ordered-portfolio-presentation-contamination": {
     "claims": [
      {
@@ -73613,6 +75571,16 @@
       "polarity": "+",
       "slug": "output-hypothesis-three-functions",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "swain-output-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -73925,6 +75893,9 @@
      },
      {
       "slug": "morphological-instruction-improves-vocabulary"
+     },
+     {
+      "slug": "teach-lexical-procedures-not-only-definitions"
      },
      {
       "slug": "vocabulary-instruction-improves-comprehension"
@@ -76516,6 +78487,13 @@
      {
       "slug": "teacher-educator-coaching-reflective-practice-methods"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "anecdote-treasured-possession-task",
+      "strength": "W"
+     }
     ]
    },
    "personalized-learning-effects-vary-with-fidelity": {
@@ -76828,10 +78806,22 @@
       "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency"
      },
      {
+      "slug": "morphological-awareness-contributes-reading-development"
+     },
+     {
+      "slug": "oral-proficiency-predicts-l2-reading-comprehension"
+     },
+     {
       "slug": "phonemic-awareness-training-improves-reading"
      },
      {
+      "slug": "phonological-automatization-improves-esp-reading-comprehension"
+     },
+     {
       "slug": "phonological-awareness-training-improves-reading"
+     },
+     {
+      "slug": "rhyming-poetry-improves-reading-fluency"
      }
     ],
     "strategies": [
@@ -76858,6 +78848,12 @@
      },
      {
       "slug": "phonological-awareness-training-improves-reading"
+     },
+     {
+      "slug": "reverse-transfer-literacy-to-oral-unsupported"
+     },
+     {
+      "slug": "rhyming-poetry-improves-reading-fluency"
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
@@ -77114,10 +79110,40 @@
      }
     ]
    },
+   "phonological-automatization-improves-esp-reading-comprehension": {
+    "claims": [
+     {
+      "slug": "oral-proficiency-predicts-l2-reading-comprehension"
+     },
+     {
+      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonological-orthographic-efficiency-predicts-esl-reading"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "devote-reading-class-time-to-phonological-practice",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "automaticity-theory-phonological-component-processing",
+      "strength": "M"
+     }
+    ]
+   },
    "phonological-awareness-training-improves-reading": {
     "claims": [
      {
       "slug": "cf-training-may-strengthen-early-literacy-instruction"
+     },
+     {
+      "slug": "morphological-awareness-contributes-reading-development"
      },
      {
       "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
@@ -77127,6 +79153,9 @@
      },
      {
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
+     },
+     {
+      "slug": "rhyming-poetry-improves-reading-fluency"
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
@@ -77145,6 +79174,26 @@
       "polarity": "+",
       "slug": "phonological_awareness_development_through_rhyming",
       "strength": "S"
+     }
+    ]
+   },
+   "phonological-orthographic-efficiency-predicts-esl-reading": {
+    "claims": [
+     {
+      "slug": "automatic-word-recognition-frees-resources-for-comprehension"
+     },
+     {
+      "slug": "l1-predicts-l2-phoneme-perception-more-than-proficiency"
+     },
+     {
+      "slug": "phonological-automatization-improves-esp-reading-comprehension"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "devote-reading-class-time-to-phonological-practice",
+      "strength": "W"
      }
     ]
    },
@@ -78718,6 +80767,9 @@
       "slug": "er-peer-interaction-greater-achievement-gains"
      },
      {
+      "slug": "esp-groups-homogeneous-pretest-reading-comprehension"
+     },
+     {
       "slug": "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated"
      },
      {
@@ -79320,6 +81372,28 @@
      }
     ]
    },
+   "pretest-scores-predict-posttest-scores": {
+    "claims": [
+     {
+      "slug": "cf-treatment-improves-irregular-past-tense-gjt-eit"
+     },
+     {
+      "slug": "cf-treatment-improves-regular-past-tense-gjt-eit"
+     },
+     {
+      "slug": "declarative-memory-null-regular-past-tense"
+     },
+     {
+      "slug": "declarative-memory-predicts-irregular-past-ugjt-recasts"
+     },
+     {
+      "slug": "procedural-memory-null-irregular-past-tense"
+     },
+     {
+      "slug": "procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts"
+     }
+    ]
+   },
    "pretesting-can-harm-motivation": {
     "claims": [
      {
@@ -79896,6 +81970,104 @@
      }
     ]
    },
+   "proactive-fof-advantage-both-proficiency-levels": {
+    "claims": [
+     {
+      "slug": "proactive-fof-beats-reactive-beginners-grammar"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-upper-intermediate-grammar"
+     },
+     {
+      "slug": "proactive-fof-reduces-error-fossilization"
+     },
+     {
+      "slug": "reactive-fof-time-cost-fewer-opportunities"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "proactive-reactive-fof-distinction",
+      "strength": "M"
+     }
+    ]
+   },
+   "proactive-fof-beats-reactive-beginners-grammar": {
+    "claims": [
+     {
+      "slug": "proactive-fof-advantage-both-proficiency-levels"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-upper-intermediate-grammar"
+     },
+     {
+      "slug": "proactive-fof-reduces-error-fossilization"
+     },
+     {
+      "slug": "reactive-fof-time-cost-fewer-opportunities"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "proactive-reactive-fof-distinction",
+      "strength": "W"
+     }
+    ]
+   },
+   "proactive-fof-beats-reactive-upper-intermediate-grammar": {
+    "claims": [
+     {
+      "slug": "proactive-fof-advantage-both-proficiency-levels"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-beginners-grammar"
+     },
+     {
+      "slug": "proactive-fof-reduces-error-fossilization"
+     },
+     {
+      "slug": "reactive-fof-time-cost-fewer-opportunities"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "proactive-reactive-fof-distinction",
+      "strength": "W"
+     }
+    ]
+   },
+   "proactive-fof-reduces-error-fossilization": {
+    "claims": [
+     {
+      "slug": "error-versus-mistake-analysis-procedure"
+     },
+     {
+      "slug": "errors-as-feedback-fossilization-risk"
+     },
+     {
+      "slug": "proactive-fof-advantage-both-proficiency-levels"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-beginners-grammar"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-upper-intermediate-grammar"
+     },
+     {
+      "slug": "reactive-fof-time-cost-fewer-opportunities"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "proactive-reactive-fof-distinction",
+      "strength": "W"
+     }
+    ]
+   },
    "probing-feedback-revise-resubmit-evidence": {
     "claims": [
      {
@@ -79958,6 +82130,59 @@
       "polarity": "+",
       "slug": "rule-based-heuristic-model-fault-diagnosis",
       "strength": "W"
+     }
+    ]
+   },
+   "problems-hindering-metacognitive-strategy-use": {
+    "claims": [
+     {
+      "slug": "esp-learners-mixed-motivational-propensities"
+     },
+     {
+      "slug": "high-proficiency-learners-use-more-strategies"
+     }
+    ]
+   },
+   "procedural-memory-null-irregular-past-tense": {
+    "claims": [
+     {
+      "slug": "declarative-memory-null-regular-past-tense"
+     },
+     {
+      "slug": "declarative-memory-predicts-irregular-past-ugjt-recasts"
+     },
+     {
+      "slug": "pretest-scores-predict-posttest-scores"
+     },
+     {
+      "slug": "procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dp-model-regular-irregular-past-tense-memory-systems",
+      "strength": "M"
+     }
+    ]
+   },
+   "procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts": {
+    "claims": [
+     {
+      "slug": "declarative-memory-null-regular-past-tense"
+     },
+     {
+      "slug": "pretest-scores-predict-posttest-scores"
+     },
+     {
+      "slug": "procedural-memory-null-irregular-past-tense"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dp-model-regular-irregular-past-tense-memory-systems",
+      "strength": "M"
      }
     ]
    },
@@ -80584,6 +82809,23 @@
      }
     ]
    },
+   "process-studies-no-gain-link": {
+    "claims": [
+     {
+      "slug": "interactional-structures-shape-content-processing"
+     },
+     {
+      "slug": "sla-studies-rarely-classroom-based"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "ellis-revised-interaction-hypothesis",
+      "strength": "W"
+     }
+    ]
+   },
    "process-tracing-measures-for-learning": {
     "claims": [
      {
@@ -80951,6 +83193,11 @@
       "polarity": "+",
       "slug": "usage-based-constructional-development",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "usage-based-second-language-acquisition",
+      "strength": "M"
      }
     ]
    },
@@ -80986,6 +83233,29 @@
      }
     ]
    },
+   "proficiency-level-moderates-incidental-vocabulary-gains": {
+    "claims": [
+     {
+      "slug": "incidental-vocabulary-exposure-limited"
+     },
+     {
+      "slug": "proficiency-moderates-gloss-vocabulary-effects"
+     },
+     {
+      "slug": "proficiency-motivation-involvement-gains"
+     },
+     {
+      "slug": "single-novel-reading-incidental-vocabulary-gains"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
+     }
+    ]
+   },
    "proficiency-moderates-gloss-vocabulary-effects": {
     "claims": [
      {
@@ -80999,6 +83269,9 @@
      },
      {
       "slug": "l1-glosses-no-reading-comprehension-gain"
+     },
+     {
+      "slug": "proficiency-level-moderates-incidental-vocabulary-gains"
      },
      {
       "slug": "vocabulary-forgetting-pattern-decline-then-rise"
@@ -81027,6 +83300,9 @@
      },
      {
       "slug": "motivation-null-predictor-incidental-vocabulary"
+     },
+     {
+      "slug": "proficiency-level-moderates-incidental-vocabulary-gains"
      },
      {
       "slug": "reading-versus-listening-incidental-vocabulary-gains"
@@ -81513,6 +83789,9 @@
    "pushing-output-drives-input-assimilation": {
     "claims": [
      {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
       "slug": "no-direct-evidence-input-hypothesis"
      },
      {
@@ -81527,6 +83806,11 @@
       "polarity": "+",
       "slug": "comprehensible-output-hypothesis-liming-account",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "swain-output-hypothesis",
+      "strength": "W"
      }
     ]
    },
@@ -81544,6 +83828,11 @@
       "polarity": "+",
       "slug": "comprehensible-output-hypothesis-liming-account",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "swain-output-hypothesis",
+      "strength": "W"
      }
     ]
    },
@@ -81669,6 +83958,27 @@
      {
       "polarity": "+",
       "slug": "lc101-launchcode-coding-apprenticeship-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "quality-ocll-meaning-form-synergy-higher-grades": {
+    "claims": [
+     {
+      "slug": "negotiation-frequency-correlates-vocabulary-high-school"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-phase-dp-pp-practice-protocol",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-second-language-learning-framework",
       "strength": "W"
      }
     ]
@@ -81973,6 +84283,29 @@
      }
     ]
    },
+   "reactive-fof-time-cost-fewer-opportunities": {
+    "claims": [
+     {
+      "slug": "proactive-fof-advantage-both-proficiency-levels"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-beginners-grammar"
+     },
+     {
+      "slug": "proactive-fof-beats-reactive-upper-intermediate-grammar"
+     },
+     {
+      "slug": "proactive-fof-reduces-error-fossilization"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "proactive-reactive-fof-distinction",
+      "strength": "W"
+     }
+    ]
+   },
    "reactive-more-prevalent-than-proactive-aggression-girls": {
     "claims": [
      {
@@ -82026,6 +84359,20 @@
      {
       "polarity": "+",
       "slug": "social-cartography-postmodern-methodology",
+      "strength": "W"
+     }
+    ]
+   },
+   "readers-theater-improves-efl-reading-fluency": {
+    "claims": [
+     {
+      "slug": "efl-learners-positive-perceptions-readers-theater"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reading-fluency-three-components-accuracy-automaticity-prosody",
       "strength": "W"
      }
     ]
@@ -82143,6 +84490,9 @@
    },
    "reading-versus-listening-incidental-vocabulary-gains": {
     "claims": [
+     {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
+     },
      {
       "slug": "incidental-vocabulary-exposure-limited"
      },
@@ -82406,6 +84756,9 @@
       "slug": "recasts-more-enduring-than-metalinguistic-feedback"
      },
      {
+      "slug": "recasts-supported-but-effectiveness-varies"
+     },
+     {
       "slug": "task-complexity-negatively-related-child-written-production"
      },
      {
@@ -82417,6 +84770,13 @@
       "polarity": "+",
       "slug": "three-tier-task-set-child-efl-complexity",
       "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -82435,6 +84795,9 @@
       "slug": "recasts-facilitate-child-efl-third-person-s-development"
      },
      {
+      "slug": "recasts-supported-but-effectiveness-varies"
+     },
+     {
       "slug": "time-treatment-interaction-corrective-feedback"
      }
     ],
@@ -82448,8 +84811,44 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "lyster-ranta-corrective-feedback-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "recasts-supported-but-effectiveness-varies": {
+    "claims": [
+     {
+      "slug": "declarative-memory-predicts-irregular-past-ugjt-recasts"
+     },
+     {
+      "slug": "efl-teachers-prefer-implicit-ocf-strategies"
+     },
+     {
+      "slug": "explicit-teaching-effective-but-not-durable"
+     },
+     {
+      "slug": "metalinguistic-beats-recasts-immediate-not-delayed"
+     },
+     {
+      "slug": "metalinguistic-recasts-effective-immediate-wh-questions"
+     },
+     {
+      "slug": "no-research-aptitude-form-practice-interaction"
+     },
+     {
+      "slug": "recasts-facilitate-child-efl-third-person-s-development"
+     },
+     {
+      "slug": "recasts-more-enduring-than-metalinguistic-feedback"
+     },
+     {
+      "slug": "teachers-unaware-ocf-strategies-cognition-absent"
      }
     ]
    },
@@ -84055,6 +86454,26 @@
      }
     ]
    },
+   "repeated-listening-improves-oral-reading-fluency": {
+    "claims": [
+     {
+      "slug": "er-peer-interaction-greater-achievement-gains"
+     },
+     {
+      "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     },
+     {
+      "slug": "mics-pre-post-no-group-differential-effect"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reading-fluency-three-components-accuracy-automaticity-prosody",
+      "strength": "W"
+     }
+    ]
+   },
    "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes": {
     "claims": [
      {
@@ -85063,6 +87482,9 @@
       "slug": "desirable-difficulties-enhance-learning"
      },
      {
+      "slug": "desirable-difficulty-enhances-long-term-retention"
+     },
+     {
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
@@ -85444,6 +87866,43 @@
      }
     ]
    },
+   "reverse-transfer-literacy-to-oral-unsupported": {
+    "claims": [
+     {
+      "slug": "japanese-english-instruction-inverts-stage-sequence"
+     },
+     {
+      "slug": "morphological-instruction-improves-literacy"
+     },
+     {
+      "slug": "phonemic-awareness-training-improves-reading"
+     },
+     {
+      "slug": "sticht-law-reading-cannot-exceed-listening"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "sticht-three-positions-oral-written-language",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "oral-aural-before-literacy-foreign-language",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "two-stage-natural-nonnatural-language-acquisition",
+      "strength": "W"
+     }
+    ]
+   },
    "reversed-perceptions-textbook-listening-activities": {
     "claims": [
      {
@@ -85637,6 +88096,31 @@
       "polarity": "+",
       "slug": "output-hypothesis-three-functions",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "swain-output-hypothesis",
+      "strength": "M"
+     }
+    ]
+   },
+   "rhyming-poetry-improves-reading-fluency": {
+    "claims": [
+     {
+      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonemic-awareness-training-improves-reading"
+     },
+     {
+      "slug": "phonological-awareness-training-improves-reading"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reading-fluency-three-components-accuracy-automaticity-prosody",
+      "strength": "W"
      }
     ]
    },
@@ -86110,6 +88594,12 @@
     "claims": [
      {
       "slug": "efl-students-prefer-explicit-over-implicit-grammar-instruction"
+     },
+     {
+      "slug": "explicit-l2-grammar-instruction-superior-to-implicit"
+     },
+     {
+      "slug": "explicit-rules-learned-faster-in-communicative-tasks"
      },
      {
       "slug": "explicit-teaching-complex-rules-only-advantage"
@@ -86843,6 +89333,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "l2-motivational-self-system",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "sdt-l2mss-internalization-mapping",
@@ -87968,6 +90463,19 @@
      },
      {
       "slug": "motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups"
+     }
+    ]
+   },
+   "self-correction-dominates-negative-feedback-face-saving": {
+    "claims": [
+     {
+      "slug": "closed-tasks-foster-more-negotiation-than-open-tasks"
+     },
+     {
+      "slug": "cmc-meaning-focused-tasks-foster-negotiated-interactions"
+     },
+     {
+      "slug": "discussion-board-no-negative-feedback-synchrony-required"
      }
     ]
    },
@@ -94820,6 +97328,9 @@
       "slug": "self-regulated-learning-improves-achievement"
      },
      {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     },
+     {
       "slug": "strategy-instruction-improves-writing-quality"
      }
     ],
@@ -94991,6 +97502,16 @@
       "polarity": "+",
       "slug": "tsmtdf-determination-form",
       "strength": "W"
+     }
+    ]
+   },
+   "sense-relations-negotiated-in-discourse": {
+    "claims": [
+     {
+      "slug": "task-familiarity-negotiation-prior-research-inconsistent"
+     },
+     {
+      "slug": "teach-lexical-procedures-not-only-definitions"
      }
     ]
    },
@@ -96045,6 +98566,35 @@
      }
     ]
    },
+   "single-novel-reading-incidental-vocabulary-gains": {
+    "claims": [
+     {
+      "slug": "incidental-acquisition-rate-3-of-20-words"
+     },
+     {
+      "slug": "incidental-reading-enables-productive-word-use"
+     },
+     {
+      "slug": "incidental-vocabulary-exposure-limited"
+     },
+     {
+      "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
+     },
+     {
+      "slug": "proficiency-level-moderates-incidental-vocabulary-gains"
+     },
+     {
+      "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
+     }
+    ]
+   },
    "single-theoretical-frame-limits-l2-writing-research": {
     "claims": [
      {
@@ -96152,6 +98702,9 @@
    "situational-exercises-significant-progress": {
     "claims": [
      {
+      "slug": "formulaic-utterances-dominate-early-immersion-speech"
+     },
+     {
       "slug": "immersion-esl-greater-communication-progress"
      },
      {
@@ -96172,6 +98725,9 @@
      },
      {
       "slug": "leadership-strongest-predictor-vietnamese-governance"
+     },
+     {
+      "slug": "measurement-model-reliability-mall-efl"
      },
      {
       "slug": "policy-legal-second-predictor-governance"
@@ -96339,6 +98895,31 @@
      }
     ]
    },
+   "skill-specificity-l2-grammar-practice": {
+    "claims": [
+     {
+      "slug": "automatization-requires-practice-consistent-environment"
+     },
+     {
+      "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
+     },
+     {
+      "slug": "low-salience-elements-need-extensive-practice"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "act-proceduralization-automatization",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "instance-theory-memory-retrieval-automaticity",
+      "strength": "W"
+     }
+    ]
+   },
    "skill-training-effective-techniques": {
     "claims": [
      {
@@ -96365,16 +98946,221 @@
      }
     ]
    },
+   "skilled-efl-writers-recursive-writing-process": {
+    "claims": [
+     {
+      "slug": "skilled-writers-coherence-continuity-awareness"
+     },
+     {
+      "slug": "skilled-writers-planning-revising-strategies"
+     },
+     {
+      "slug": "skilled-writers-rhetoric-conventions-knowledge"
+     },
+     {
+      "slug": "skilled-writers-self-awareness-strength-weakness"
+     },
+     {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     },
+     {
+      "slug": "strategy-instruction-improves-writing-quality"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
    "skilled-reader-estimate-audience-effect": {
     "claims": [
      {
       "slug": "expansion-generalization-beyond-classroom"
      },
      {
+      "slug": "skilled-writers-audience-awareness"
+     },
+     {
       "slug": "student-writing-only-as-good-as-conversation-about-writing"
      },
      {
       "slug": "writing-decisions-conscious-explicit-efficient"
+     }
+    ]
+   },
+   "skilled-writers-audience-awareness": {
+    "claims": [
+     {
+      "slug": "skilled-reader-estimate-audience-effect"
+     },
+     {
+      "slug": "skilled-writers-coherence-continuity-awareness"
+     },
+     {
+      "slug": "skilled-writers-self-awareness-strength-weakness"
+     },
+     {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
+   "skilled-writers-coherence-continuity-awareness": {
+    "claims": [
+     {
+      "slug": "skilled-efl-writers-recursive-writing-process"
+     },
+     {
+      "slug": "skilled-writers-audience-awareness"
+     },
+     {
+      "slug": "skilled-writers-planning-revising-strategies"
+     },
+     {
+      "slug": "skilled-writers-self-awareness-strength-weakness"
+     },
+     {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
+   "skilled-writers-planning-revising-strategies": {
+    "claims": [
+     {
+      "slug": "global-versus-local-errors-correction"
+     },
+     {
+      "slug": "skilled-efl-writers-recursive-writing-process"
+     },
+     {
+      "slug": "skilled-writers-coherence-continuity-awareness"
+     },
+     {
+      "slug": "skilled-writers-self-awareness-strength-weakness"
+     },
+     {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
+   "skilled-writers-rhetoric-conventions-knowledge": {
+    "claims": [
+     {
+      "slug": "skilled-efl-writers-recursive-writing-process"
+     },
+     {
+      "slug": "skilled-writers-self-awareness-strength-weakness"
+     },
+     {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
+   "skilled-writers-self-awareness-strength-weakness": {
+    "claims": [
+     {
+      "slug": "skilled-efl-writers-recursive-writing-process"
+     },
+     {
+      "slug": "skilled-writers-audience-awareness"
+     },
+     {
+      "slug": "skilled-writers-coherence-continuity-awareness"
+     },
+     {
+      "slug": "skilled-writers-planning-revising-strategies"
+     },
+     {
+      "slug": "skilled-writers-rhetoric-conventions-knowledge"
+     },
+     {
+      "slug": "skilled-writers-topic-familiarity-knowledge"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
+   "skilled-writers-topic-familiarity-knowledge": {
+    "claims": [
+     {
+      "slug": "self-regulated-learning-strategies-improve-writing"
+     },
+     {
+      "slug": "skilled-efl-writers-recursive-writing-process"
+     },
+     {
+      "slug": "skilled-writers-audience-awareness"
+     },
+     {
+      "slug": "skilled-writers-coherence-continuity-awareness"
+     },
+     {
+      "slug": "skilled-writers-planning-revising-strategies"
+     },
+     {
+      "slug": "skilled-writers-rhetoric-conventions-knowledge"
+     },
+     {
+      "slug": "skilled-writers-self-awareness-strength-weakness"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional",
+      "strength": "M"
+     }
+    ]
+   },
+   "sla-studies-rarely-classroom-based": {
+    "claims": [
+     {
+      "slug": "classroom-sla-studies-basic-statistics"
+     },
+     {
+      "slug": "process-studies-no-gain-link"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "nunan-five-research-design-points",
+      "strength": "M"
      }
     ]
    },
@@ -96782,6 +99568,30 @@
      }
     ]
    },
+   "social-influence-modest-attitude-mall": {
+    "claims": [
+     {
+      "slug": "bi-weak-effect-actual-mall-use"
+     },
+     {
+      "slug": "meta-utaut-hypotheses-accepted-mall-efl"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-mall-survey-instrument",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "meta-utaut-model-mall-efl",
+      "strength": "W"
+     }
+    ]
+   },
    "social-interaction-precedes-self-consciousness": {
     "claims": [
      {
@@ -96908,6 +99718,9 @@
      },
      {
       "slug": "global-competence-model-ic-items-removed"
+     },
+     {
+      "slug": "measurement-model-reliability-mall-efl"
      },
      {
       "slug": "six-factor-governance-model-convergent-validity"
@@ -97235,7 +100048,13 @@
       "slug": "deliberate-practice-improves-performance"
      },
      {
+      "slug": "desirable-difficulty-enhances-long-term-retention"
+     },
+     {
       "slug": "distributed-practice-improves-retention"
+     },
+     {
+      "slug": "distributed-practice-limits-l2"
      },
      {
       "slug": "feedback-enhances-retrieval-practice"
@@ -97375,6 +100194,9 @@
      },
      {
       "slug": "distributed-practice-improves-retention"
+     },
+     {
+      "slug": "distributed-practice-limits-l2"
      },
      {
       "slug": "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules"
@@ -98222,6 +101044,16 @@
      }
     ]
    },
+   "spada-listening-practice-paradox": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "listening-most-used-language-skill"
+     }
+    ]
+   },
    "spatial-skills-improve-through-block-building": {
     "claims": [
      {
@@ -98317,6 +101149,9 @@
       "slug": "flca-linked-with-oral-performance-japanese-efl"
      },
      {
+      "slug": "immediate-repetition-benefits-oral-performance"
+     },
+     {
       "slug": "lack-of-practice-teacher-centered-anxiety"
      },
      {
@@ -98331,6 +101166,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "foreign-language-anxiety",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "social-psychological-constructs-flca-framework",
@@ -99769,6 +102609,33 @@
      }
     ]
    },
+   "sticht-law-reading-cannot-exceed-listening": {
+    "claims": [
+     {
+      "slug": "japanese-english-instruction-inverts-stage-sequence"
+     },
+     {
+      "slug": "oral-language-predicts-reading-achievement"
+     },
+     {
+      "slug": "reverse-transfer-literacy-to-oral-unsupported"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "oral-aural-before-literacy-foreign-language",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "two-stage-natural-nonnatural-language-acquisition",
+      "strength": "W"
+     }
+    ]
+   },
    "stimulus-change-reinforces-exploratory-behavior": {
     "claims": [
      {
@@ -100079,6 +102946,9 @@
      },
      {
       "slug": "self-regulated-learning-strategies-improve-writing"
+     },
+     {
+      "slug": "skilled-efl-writers-recursive-writing-process"
      },
      {
       "slug": "spontaneous-sentence-production-in-synthetic-planning-increases-understanding"
@@ -100747,6 +103617,36 @@
      }
     ]
    },
+   "structured-repetition-fluency-task-specific": {
+    "claims": [
+     {
+      "slug": "attention-shift-meaning-to-form-over-cycles"
+     },
+     {
+      "slug": "immediate-repetition-benefits-oral-performance"
+     },
+     {
+      "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     },
+     {
+      "slug": "task-repetition-fluency-complexity-same-task-only"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-phase-dp-pp-practice-protocol",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-second-language-learning-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "struggling-readers-use-context-clues-compensatorily": {
     "claims": [
      {
@@ -100795,6 +103695,9 @@
       "slug": "comprehensible-input-essential-l2-acquisition"
      },
      {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
       "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
      },
      {
@@ -100807,6 +103710,9 @@
       "slug": "learning-is-natural-enjoyable-process-argument"
      },
      {
+      "slug": "meaningful-effortful-practice-beneficial-essential-l2"
+     },
+     {
       "slug": "student-writing-only-as-good-as-conversation-about-writing"
      },
      {
@@ -100817,6 +103723,13 @@
      {
       "polarity": "+",
       "slug": "create-a-low-stress-environment",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "establish-meaningful-communication-before-correction",
       "strength": "W"
      }
     ],
@@ -102413,6 +105326,9 @@
       "slug": "agency-subsystems-dominate-temporally"
      },
      {
+      "slug": "attention-shift-meaning-to-form-over-cycles"
+     },
+     {
       "slug": "cdst-research-gaps-learner-environment-system-definition"
      },
      {
@@ -102433,6 +105349,33 @@
       "polarity": "+",
       "slug": "cdst-interdependent-language-subsystems-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "subtitled-videos-increase-negotiation-of-meaning-online-tbll": {
+    "claims": [
+     {
+      "slug": "cmc-meaning-focused-tasks-foster-negotiated-interactions"
+     },
+     {
+      "slug": "task-familiarity-negotiation-prior-research-inconsistent"
+     },
+     {
+      "slug": "two-way-tasks-promote-interactional-restructuring"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-tbll-environment-subtitled-videos-arslanyilmaz",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "negotiation-of-meaning-sequences-model-smith",
+      "strength": "M"
      }
     ]
    },
@@ -102494,6 +105437,20 @@
      {
       "polarity": "+",
       "slug": "understanding-cultivated-not-described",
+      "strength": "W"
+     }
+    ]
+   },
+   "successful-readers-global-support-strategy-difference": {
+    "claims": [
+     {
+      "slug": "high-proficiency-learners-use-more-strategies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "marsi-vietnamese-adapted-questionnaire",
       "strength": "W"
      }
     ]
@@ -102708,6 +105665,9 @@
    "svas-advantage-across-test-rubrics": {
     "claims": [
      {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
+     },
+     {
       "slug": "l1-to-l2-audio-training-improves-translation"
      },
      {
@@ -102730,6 +105690,9 @@
    },
    "svas-spaced-listening-outperforms-comparison-end-of-experiment": {
     "claims": [
+     {
+      "slug": "incidental-vocabulary-acquisition-more-powerful-than-intentional"
+     },
      {
       "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
      },
@@ -102930,6 +105893,9 @@
       "slug": "combined-semantic-syntactic-context-expedites-word-recognition"
      },
      {
+      "slug": "dialogue-journals-meet-sla-conditions"
+     },
+     {
       "slug": "no-direct-evidence-input-hypothesis"
      },
      {
@@ -102947,6 +105913,11 @@
       "polarity": "+",
       "slug": "comprehensible-output-hypothesis-liming-account",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "swain-output-hypothesis",
+      "strength": "W"
      }
     ]
    },
@@ -102987,6 +105958,11 @@
       "polarity": "+",
       "slug": "lre-operationalization-noticing-writing",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -103315,6 +106291,9 @@
      },
      {
       "slug": "task-complexity-no-effect-child-oral-production"
+     },
+     {
+      "slug": "three-patterns-oral-development"
      }
     ],
     "elements": [
@@ -103333,6 +106312,11 @@
     ],
     "theories": [
      {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "skehan-limited-attention-capacity-child-task-recasts",
       "strength": "M"
@@ -103346,6 +106330,9 @@
      },
      {
       "slug": "task-complexity-negatively-related-child-written-production"
+     },
+     {
+      "slug": "three-patterns-oral-development"
      }
     ],
     "elements": [
@@ -103386,6 +106373,13 @@
      },
      {
       "slug": "unfocused-tasks-more-confirmation-and-clarification-strategies"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -103434,6 +106428,9 @@
    "task-essentialness-goal-directed-vocabulary-retention": {
     "claims": [
      {
+      "slug": "depth-of-processing-improves-l2-retention"
+     },
+     {
       "slug": "dgbl-long-term-vocabulary-retention"
      },
      {
@@ -103444,6 +106441,19 @@
      },
      {
       "slug": "marginal-glosses-dictionary-recurrence-improve-incidental-learning"
+     }
+    ]
+   },
+   "task-familiarity-negotiation-prior-research-inconsistent": {
+    "claims": [
+     {
+      "slug": "sense-relations-negotiated-in-discourse"
+     },
+     {
+      "slug": "subtitled-videos-increase-negotiation-of-meaning-online-tbll"
+     },
+     {
+      "slug": "teach-lexical-procedures-not-only-definitions"
      }
     ]
    },
@@ -103508,6 +106518,9 @@
      },
      {
       "slug": "l2-fluency-gains-persist-weeks-without-practice"
+     },
+     {
+      "slug": "structured-repetition-fluency-task-specific"
      }
     ],
     "theories": [
@@ -103586,6 +106599,9 @@
      },
      {
       "slug": "congruence-varies-with-situation-importance-and-relationship"
+     },
+     {
+      "slug": "depth-of-processing-improves-l2-retention"
      },
      {
       "slug": "effort-requires-task-value-and-expectation-of-success-arcs-rationale"
@@ -104409,6 +107425,9 @@
    "te-dct-mobile-captures-nonverbal-attention-getters": {
     "claims": [
      {
+      "slug": "attention-builds-task-relevant-knowledge-base"
+     },
+     {
       "slug": "facial-expression-most-common-nonverbal-device"
      },
      {
@@ -104432,6 +107451,34 @@
      {
       "polarity": "+",
       "slug": "kendon-gesture-continuum-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "teach-lexical-procedures-not-only-definitions": {
+    "claims": [
+     {
+      "slug": "negotiation-meaning-improves-vocabulary-scores-both-levels"
+     },
+     {
+      "slug": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone"
+     },
+     {
+      "slug": "sense-relations-negotiated-in-discourse"
+     },
+     {
+      "slug": "task-familiarity-negotiation-prior-research-inconsistent"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "canale-swain-four-dimensions-lexical-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "procedural-declarative-lexical-knowledge-distinction",
       "strength": "W"
      }
     ]
@@ -105504,6 +108551,9 @@
    "teachers-unaware-ocf-strategies-cognition-absent": {
     "claims": [
      {
+      "slug": "discussion-board-no-negative-feedback-synchrony-required"
+     },
+     {
       "slug": "efl-teachers-prefer-implicit-ocf-strategies"
      },
      {
@@ -105511,6 +108561,9 @@
      },
      {
       "slug": "ocf-focused-pronunciation-grammar-communication-impeding"
+     },
+     {
+      "slug": "recasts-supported-but-effectiveness-varies"
      },
      {
       "slug": "student-feelings-guide-ocf-attitudes"
@@ -105837,6 +108890,20 @@
      }
     ]
    },
+   "teenage-language-advantage-social-not-physiological": {
+    "claims": [
+     {
+      "slug": "adults-find-pronunciation-harder-than-children"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "transparency-theory-learning-skill-acquisition",
+      "strength": "W"
+     }
+    ]
+   },
    "tefa-formative-information-changed-lessons": {
     "claims": [
      {
@@ -106099,6 +109166,11 @@
       "polarity": "+",
       "slug": "l2-motivational-self-system-framework",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "l2-motivational-self-system",
+      "strength": "M"
      }
     ]
    },
@@ -106231,6 +109303,20 @@
       "polarity": "+",
       "slug": "physics-of-life-sciences-textbook-mckay",
       "strength": "W"
+     }
+    ]
+   },
+   "textbook-grammar-accuracy-improvable-via-linguistic-insight": {
+    "claims": [
+     {
+      "slug": "textbook-grammar-mismatches-native-spoken-grammar"
+     }
+    ]
+   },
+   "textbook-grammar-mismatches-native-spoken-grammar": {
+    "claims": [
+     {
+      "slug": "textbook-grammar-accuracy-improvable-via-linguistic-insight"
      }
     ]
    },
@@ -106570,6 +109656,16 @@
       "polarity": "+",
       "slug": "belief-sources-and-levels-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "three-patterns-oral-development": {
+    "claims": [
+     {
+      "slug": "task-complexity-negatively-related-child-written-production"
+     },
+     {
+      "slug": "task-complexity-no-effect-child-oral-production"
      }
     ]
    },
@@ -107745,6 +110841,11 @@
       "polarity": "+",
       "slug": "usage-based-constructional-development",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "usage-based-second-language-acquisition",
+      "strength": "M"
      }
     ]
    },
@@ -107767,6 +110868,11 @@
      {
       "polarity": "+",
       "slug": "usage-based-constructional-development",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "usage-based-second-language-acquisition",
       "strength": "M"
      }
     ]
@@ -108327,7 +111433,29 @@
       "slug": "situational-exercises-significant-progress"
      },
      {
+      "slug": "subtitled-videos-increase-negotiation-of-meaning-online-tbll"
+     },
+     {
       "slug": "task-condition-did-not-moderate-meaning-negotiation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-tbll-environment-subtitled-videos-arslanyilmaz",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -108592,11 +111720,19 @@
       "polarity": "+",
       "slug": "focused-unfocused-task-distinction-tblt",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "long-interaction-hypothesis",
+      "strength": "M"
      }
     ]
    },
    "unfocused-tasks-more-confirmation-and-clarification-strategies": {
     "claims": [
+     {
+      "slug": "closed-tasks-foster-more-negotiation-than-open-tasks"
+     },
      {
       "slug": "strategy-specific-factor-effects"
      },
@@ -108780,6 +111916,11 @@
     "theories": [
      {
       "polarity": "+",
+      "slug": "schmidt-noticing-hypothesis",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "task-planning-taxonomy-ellis",
       "strength": "M"
      }
@@ -108934,6 +112075,9 @@
     "claims": [
      {
       "slug": "flca-linked-with-oral-performance-japanese-efl"
+     },
+     {
+      "slug": "japanese-english-instruction-inverts-stage-sequence"
      }
     ]
    },
@@ -109437,13 +112581,43 @@
      }
     ]
    },
+   "videoconferencing-more-negotiated-turns-than-chat-and-board": {
+    "claims": [
+     {
+      "slug": "cmc-meaning-focused-tasks-foster-negotiated-interactions"
+     },
+     {
+      "slug": "content-triggers-dominate-syntactic-triggers-absent-text-chat"
+     },
+     {
+      "slug": "discussion-board-no-negative-feedback-synchrony-required"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "negotiation-of-meaning-sequences-model-smith",
+      "strength": "W"
+     }
+    ]
+   },
    "videodisc-combines-books-movies-cai-capabilities": {
     "claims": [
+     {
+      "slug": "annotated-videodisc-beats-videotape-retention-recall"
+     },
      {
       "slug": "consumer-vs-ie-player-cost-capability-tradeoff"
      },
      {
       "slug": "videodisc-storage-packs-army-training-materials"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "annotated-videodisc-authoring-template",
+      "strength": "W"
      }
     ]
    },
@@ -109629,6 +112803,9 @@
       "slug": "extensive-reading-improves-vocabulary-and-spelling"
      },
      {
+      "slug": "fast-mapping-full-mapping-word-learning"
+     },
+     {
       "slug": "incidental-acquisition-rate-3-of-20-words"
      },
      {
@@ -109638,10 +112815,16 @@
       "slug": "incidental-vocabulary-learning-through-reading-for-meaning"
      },
      {
+      "slug": "low-salience-elements-need-extensive-practice"
+     },
+     {
       "slug": "mere-exposure-insufficient-advanced-l2-communicative-competence"
      },
      {
       "slug": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone"
+     },
+     {
+      "slug": "single-novel-reading-incidental-vocabulary-gains"
      },
      {
       "slug": "vocabulary-coverage-thresholds-for-inference"
@@ -109659,6 +112842,13 @@
       "polarity": "+",
       "slug": "vocabulary-in-context",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "usage-based-second-language-acquisition",
+      "strength": "M"
      }
     ]
    },
@@ -110350,6 +113540,39 @@
      },
      {
       "slug": "retrieval-practice-improves-final-inference-and-transfer-questions"
+     }
+    ]
+   },
+   "white-adverb-placement-negative-evidence-failed": {
+    "claims": [
+     {
+      "slug": "adult-l2-learners-judge-adverb-positions-acceptability"
+     },
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "form-focused-input-manipulation-illusory-for-competence"
+     },
+     {
+      "slug": "learners-acquire-adverb-positions-and-scope"
+     },
+     {
+      "slug": "mental-representation-not-directly-instructable"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "input-processing-focus-on-form-over-focus-on-forms",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "structure-building-trigger-model-l2-german",
+      "strength": "W"
      }
     ]
    },
@@ -113051,6 +116274,11 @@
       "polarity": "+",
       "slug": "macintyre-situational-wtc-model",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "willingness-to-communicate-in-l2",
+      "strength": "M"
      }
     ]
    },
@@ -113086,6 +116314,11 @@
       "polarity": "+",
       "slug": "macintyre-situational-wtc-model",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "willingness-to-communicate-in-l2",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -113172,6 +116405,9 @@
    "young-readers-rely-on-semantic-syntactic-context-for-word-analysis": {
     "claims": [
      {
+      "slug": "age-moderates-negotiation-benefit"
+     },
+     {
       "slug": "combined-semantic-syntactic-context-expedites-word-recognition"
      },
      {
@@ -113212,6 +116448,13 @@
      },
      {
       "slug": "rewriting-solves-more-lexical-gaps"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "swain-output-hypothesis",
+      "strength": "M"
      }
     ]
    },
@@ -117781,6 +121024,36 @@
      },
      {
       "slug": "use_current_events_and_fictional_characters_to_teach_social_awareness"
+     }
+    ]
+   },
+   "anecdote-treasured-possession-task": {
+    "elements": [
+     {
+      "slug": "decision-making-restaurant-task"
+     },
+     {
+      "slug": "travel-fair-carousel-task"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "post-task-phase-focus-on-form"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "task-repetition-slightly-altered-tasks"
+     }
+    ]
+   },
+   "annotated-videodisc-authoring-template": {
+    "elements": [
+     {
+      "slug": "flight-sos-interactive-video"
+     },
+     {
+      "slug": "montevidisco-conversational-simulator"
      }
     ]
    },
@@ -133456,6 +136729,26 @@
      }
     ]
    },
+   "decision-making-restaurant-task": {
+    "elements": [
+     {
+      "slug": "anecdote-treasured-possession-task"
+     },
+     {
+      "slug": "travel-fair-carousel-task"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "post-task-phase-focus-on-form"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "task-repetition-slightly-altered-tasks"
+     }
+    ]
+   },
    "demonstration": {
     "claims": [
      {
@@ -134947,6 +138240,13 @@
      }
     ]
    },
+   "dp-feedback-feedforward-typology": {
+    "theories": [
+     {
+      "slug": "four-practice-types-taxonomy"
+     }
+    ]
+   },
    "drawing-lab-time-lapse-photography": {
     "elements": [
      {
@@ -135461,6 +138761,16 @@
     "strategies": [
      {
       "slug": "parental_involvement_in_physical_activity"
+     }
+    ]
+   },
+   "exmaralda-negotiation-annotation-scheme": {
+    "theories": [
+     {
+      "slug": "negotiation-of-meaning-sequences-model-smith"
+     },
+     {
+      "slug": "varonis-gass-four-phase-negotiation-model"
      }
     ]
    },
@@ -137026,6 +140336,21 @@
      }
     ]
    },
+   "flight-sos-interactive-video": {
+    "elements": [
+     {
+      "slug": "annotated-videodisc-authoring-template"
+     },
+     {
+      "slug": "montevidisco-conversational-simulator"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "learner-control-information-flow-with-on-demand-tools"
+     }
+    ]
+   },
    "flipgrid-te-dct-instrument": {
     "elements": [
      {
@@ -138348,6 +141673,13 @@
      }
     ]
    },
+   "indonesian-bilingual-policy-document-corpus": {
+    "theories": [
+     {
+      "slug": "bilingual-language-policy-framework-spolsky"
+     }
+    ]
+   },
    "information-literacy": {
     "elements": [
      {
@@ -139243,6 +142575,13 @@
      }
     ]
    },
+   "meta-utaut-mall-survey-instrument": {
+    "theories": [
+     {
+      "slug": "meta-utaut-model-mall-efl"
+     }
+    ]
+   },
    "metacognition": {
     "elements": [
      {
@@ -139528,10 +142867,35 @@
      }
     ]
    },
+   "modeling-feedback-native-speaker-text": {
+    "theories": [
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
+     }
+    ]
+   },
    "moderation": {
     "elements": [
      {
       "slug": "discussion-prompt"
+     }
+    ]
+   },
+   "montevidisco-conversational-simulator": {
+    "elements": [
+     {
+      "slug": "annotated-videodisc-authoring-template"
+     },
+     {
+      "slug": "flight-sos-interactive-video"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "learner-control-information-flow-with-on-demand-tools"
      }
     ]
    },
@@ -146013,6 +149377,11 @@
      {
       "slug": "mivls-ivlas-mivlss-instruments"
      }
+    ],
+    "theories": [
+     {
+      "slug": "foreign-language-anxiety"
+     }
     ]
    },
    "revision": {
@@ -149450,6 +152819,26 @@
      }
     ]
    },
+   "travel-fair-carousel-task": {
+    "elements": [
+     {
+      "slug": "anecdote-treasured-possession-task"
+     },
+     {
+      "slug": "decision-making-restaurant-task"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "post-task-phase-focus-on-form"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "task-repetition-slightly-altered-tasks"
+     }
+    ]
+   },
    "tsmtdf-determination-form": {
     "theories": [
      {
@@ -149596,6 +152985,9 @@
      }
     ],
     "theories": [
+     {
+      "slug": "willingness-to-communicate-in-l2"
+     },
      {
       "slug": "wtc-model-l2-pronunciation-framework"
      }
@@ -151733,6 +155125,9 @@
       "polarity": "+",
       "slug": "cft-three-stage-noticing-framework",
       "strength": "M"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
      }
     ]
    },
@@ -159695,6 +163090,16 @@
      },
      {
       "slug": "three-practices-for-ontological-alignment-in-computational-modeling"
+     }
+    ]
+   },
+   "three-phase-dp-pp-practice-protocol": {
+    "theories": [
+     {
+      "slug": "deliberate-practice-second-language-learning-framework"
+     },
+     {
+      "slug": "four-practice-types-taxonomy"
      }
     ]
    },
@@ -172450,6 +175855,9 @@
       "slug": "krashen-five-hypotheses-l2-acquisition"
      },
      {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
       "slug": "krashen-monitor-model-acquisition-learning"
      }
     ]
@@ -173114,6 +176522,13 @@
      }
     ]
    },
+   "devote-reading-class-time-to-phonological-practice": {
+    "theories": [
+     {
+      "slug": "automaticity-theory-phonological-component-processing"
+     }
+    ]
+   },
    "diagnostic-prescriptive-change-facilitation": {
     "principles": [
      {
@@ -173309,6 +176724,9 @@
      },
      {
       "slug": "krashen-five-hypotheses-l2-acquisition"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
      }
     ]
    },
@@ -174302,6 +177720,9 @@
    "foster-enjoyment-and-l2-learning-experience": {
     "theories": [
      {
+      "slug": "l2-motivational-self-system"
+     },
+     {
       "slug": "sdt-l2mss-internalization-mapping"
      }
     ]
@@ -174591,6 +178012,21 @@
     "theories": [
      {
       "slug": "cmr-context-metaphor-relationship-model"
+     }
+    ]
+   },
+   "grammar-decisions-based-on-learner-variables": {
+    "principles": [
+     {
+      "slug": "teach-language-as-living-and-developing"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "grammar-as-mediator-words-context-widdowson"
+     },
+     {
+      "slug": "tripart-grammar-framework-form-meaning-pragmatics"
      }
     ]
    },
@@ -175028,6 +178464,13 @@
      }
     ]
    },
+   "input-processing-focus-on-form-over-focus-on-forms": {
+    "principles": [
+     {
+      "slug": "integrate-explicit-correction-with-meaningful-activities"
+     }
+    ]
+   },
    "inquiry-based-learning": {
     "elements": [
      {
@@ -175217,6 +178660,9 @@
     "principles": [
      {
       "slug": "flexible-error-treatment-strategies"
+     },
+     {
+      "slug": "input-processing-focus-on-form-over-focus-on-forms"
      }
     ]
    },
@@ -175470,6 +178916,9 @@
     ],
     "theories": [
      {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
       "slug": "krashen-monitor-model-acquisition-learning"
      }
     ]
@@ -175527,6 +178976,12 @@
    },
    "low-task-complexity-child-learners-recasts": {
     "theories": [
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
      {
       "slug": "skehan-limited-attention-capacity-child-task-recasts"
      }
@@ -176218,6 +179673,13 @@
      }
     ]
    },
+   "oral-aural-before-literacy-foreign-language": {
+    "theories": [
+     {
+      "slug": "two-stage-natural-nonnatural-language-acquisition"
+     }
+    ]
+   },
    "pairing-non-examples-with-examples": {
     "elements": [
      {
@@ -176896,6 +180358,11 @@
     "principles": [
      {
       "slug": "scaffolding-fading"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "act-proceduralization-automatization"
      }
     ]
    },
@@ -178863,11 +182330,17 @@
     "theories": [
      {
       "slug": "cognitive-linguistics-usage-based-meaning-motivates-form"
+     },
+     {
+      "slug": "usage-based-second-language-acquisition"
      }
     ]
    },
    "teach-language-as-living-and-developing": {
     "principles": [
+     {
+      "slug": "grammar-decisions-based-on-learner-variables"
+     },
      {
       "slug": "learning-activities-legitimate-place-syllabus"
      }
@@ -179063,6 +182536,9 @@
     "theories": [
      {
       "slug": "attachment-theory-social-anxiety-efl"
+     },
+     {
+      "slug": "foreign-language-anxiety"
      }
     ]
    },
@@ -179917,6 +183393,31 @@
      }
     ]
    },
+   "act-proceduralization-automatization": {
+    "strategies": [
+     {
+      "slug": "supplement-tblt-with-grammar-instruction-communicative-drills"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "act-theory-propositional-network-spread-of-activation"
+     },
+     {
+      "slug": "dp-model-regular-irregular-past-tense-memory-systems"
+     },
+     {
+      "slug": "skill-acquisition-theory-l2-practice"
+     }
+    ]
+   },
+   "act-theory-propositional-network-spread-of-activation": {
+    "theories": [
+     {
+      "slug": "act-proceduralization-automatization"
+     }
+    ]
+   },
    "active-ingredients-coaching-conceptual-framework": {
     "theories": [
      {
@@ -180308,6 +183809,13 @@
      }
     ]
    },
+   "attachment-theory-social-anxiety-efl": {
+    "theories": [
+     {
+      "slug": "foreign-language-anxiety"
+     }
+    ]
+   },
    "attribution-theory": {
     "learner-variables": [
      {
@@ -180334,6 +183842,13 @@
      },
      {
       "slug": "weiner-attribution-dimensions-locus-stability-control"
+     }
+    ]
+   },
+   "automaticity-theory-phonological-component-processing": {
+    "theories": [
+     {
+      "slug": "ef-components-early-decoding-framework"
      }
     ]
    },
@@ -181110,6 +184625,9 @@
    "canale-swain-communicative-competence-framework": {
     "theories": [
      {
+      "slug": "canale-swain-four-dimensions-lexical-framework"
+     },
+     {
       "slug": "krashen-five-hypotheses-l2-acquisition"
      },
      {
@@ -181117,6 +184635,19 @@
      },
      {
       "slug": "strategic-interaction-method-dimensions"
+     }
+    ]
+   },
+   "canale-swain-four-dimensions-lexical-framework": {
+    "theories": [
+     {
+      "slug": "canale-swain-communicative-competence-framework"
+     },
+     {
+      "slug": "multidimensional-oral-proficiency-framework-chai"
+     },
+     {
+      "slug": "procedural-declarative-lexical-knowledge-distinction"
      }
     ]
    },
@@ -181205,6 +184736,9 @@
      },
      {
       "slug": "teacher-agency-system-framework-cdst"
+     },
+     {
+      "slug": "usage-based-second-language-acquisition"
      }
     ]
    },
@@ -181214,6 +184748,11 @@
       "polarity": "+",
       "slug": "cft-while-noticing-tasks-pattern",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "schmidt-noticing-hypothesis"
      }
     ]
    },
@@ -181624,6 +185163,9 @@
     "theories": [
      {
       "slug": "cdst-interdependent-language-subsystems-framework"
+     },
+     {
+      "slug": "usage-based-second-language-acquisition"
      }
     ]
    },
@@ -182583,6 +186125,9 @@
     ],
     "theories": [
      {
+      "slug": "comprehension-hypothesis-comprehensible-input-sla"
+     },
+     {
       "slug": "krashen-five-hypotheses-l2-acquisition"
      },
      {
@@ -182596,6 +186141,31 @@
      },
      {
       "slug": "output-hypothesis-three-functions"
+     },
+     {
+      "slug": "swain-output-hypothesis"
+     }
+    ]
+   },
+   "comprehension-hypothesis-comprehensible-input-sla": {
+    "theories": [
+     {
+      "slug": "comprehensible-output-hypothesis-liming-account"
+     },
+     {
+      "slug": "krashen-five-hypotheses-l2-acquisition"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
+      "slug": "krashen-monitor-model-acquisition-learning"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
      }
     ]
    },
@@ -183640,6 +187210,21 @@
     "theories": [
      {
       "slug": "expert-performance-approach-three-stages"
+     },
+     {
+      "slug": "four-practice-types-taxonomy"
+     }
+    ]
+   },
+   "deliberate-practice-second-language-learning-framework": {
+    "elements": [
+     {
+      "slug": "dp-feedback-feedforward-typology"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-practice-types-taxonomy"
      }
     ]
    },
@@ -183925,6 +187510,16 @@
       "polarity": "+",
       "slug": "dl2f-teacher-development-sustainability-principle",
       "strength": "M"
+     }
+    ]
+   },
+   "dp-model-regular-irregular-past-tense-memory-systems": {
+    "theories": [
+     {
+      "slug": "act-proceduralization-automatization"
+     },
+     {
+      "slug": "skill-acquisition-theory-l2-practice"
      }
     ]
    },
@@ -184398,6 +187993,9 @@
    "ef-components-early-decoding-framework": {
     "theories": [
      {
+      "slug": "automaticity-theory-phonological-component-processing"
+     },
+     {
       "slug": "preschool-ef-five-dimension-framework"
      }
     ]
@@ -184427,6 +188025,22 @@
     "theories": [
      {
       "slug": "six-staff-development-models-taxonomy"
+     }
+    ]
+   },
+   "ellis-revised-interaction-hypothesis": {
+    "theories": [
+     {
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "noticing-comparison-integration-revised-hypothesis"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
      }
     ]
    },
@@ -184762,6 +188376,9 @@
      },
      {
       "slug": "semantic-diversity-graded-measure"
+     },
+     {
+      "slug": "usage-based-second-language-acquisition"
      }
     ]
    },
@@ -184867,6 +188484,9 @@
      },
      {
       "slug": "expert-performance-framework"
+     },
+     {
+      "slug": "four-practice-types-taxonomy"
      }
     ]
    },
@@ -185645,6 +189265,9 @@
      },
      {
       "slug": "language-acquisition-theory"
+     },
+     {
+      "slug": "usage-based-second-language-acquisition"
      }
     ]
    },
@@ -185823,7 +189446,20 @@
    "focused-unfocused-task-distinction-tblt": {
     "theories": [
      {
+      "slug": "proactive-reactive-fof-distinction"
+     },
+     {
       "slug": "tblt-components-framework-panahi"
+     }
+    ]
+   },
+   "foreign-language-anxiety": {
+    "theories": [
+     {
+      "slug": "social-psychological-constructs-flca-framework"
+     },
+     {
+      "slug": "willingness-to-communicate-in-l2"
      }
     ]
    },
@@ -185967,6 +189603,19 @@
     "strategies": [
      {
       "slug": "recommendations-foster-math-communication"
+     }
+    ]
+   },
+   "four-practice-types-taxonomy": {
+    "theories": [
+     {
+      "slug": "deliberate-practice-framework-ericsson-pool"
+     },
+     {
+      "slug": "deliberate-practice-second-language-learning-framework"
+     },
+     {
+      "slug": "expert-performance-approach-three-stages"
      }
     ]
    },
@@ -186156,6 +189805,9 @@
    },
    "gardner-integrative-instrumental-model-context-limits": {
     "theories": [
+     {
+      "slug": "l2-motivational-self-system"
+     },
      {
       "slug": "sdt-framework-esp-motivation"
      }
@@ -186397,6 +190049,23 @@
     "theories": [
      {
       "slug": "role-distance-dimension-of-authenticity"
+     }
+    ]
+   },
+   "gombert-epilinguistic-metalinguistic-stages": {
+    "theories": [
+     {
+      "slug": "metacognition"
+     }
+    ]
+   },
+   "grammar-as-mediator-words-context-widdowson": {
+    "theories": [
+     {
+      "slug": "procedural-declarative-lexical-knowledge-distinction"
+     },
+     {
+      "slug": "tripart-grammar-framework-form-meaning-pragmatics"
      }
     ]
    },
@@ -186765,6 +190434,13 @@
      }
     ]
    },
+   "indigenous-hl2-motivation-framework-te-huia": {
+    "theories": [
+     {
+      "slug": "l2-motivational-self-system"
+     }
+    ]
+   },
    "industrial-technology-content-base-industrial-arts": {
     "theories": [
      {
@@ -186970,6 +190646,13 @@
      }
     ]
    },
+   "instance-theory-memory-retrieval-automaticity": {
+    "strategies": [
+     {
+      "slug": "supplement-tblt-with-grammar-instruction-communicative-drills"
+     }
+    ]
+   },
    "instinct-drive-and-arousal-theories": {
     "theories": [
      {
@@ -187023,6 +190706,25 @@
     "theories": [
      {
       "slug": "anderson-six-modes-interaction-online-education"
+     }
+    ]
+   },
+   "interaction-hypothesis-negotiation-comprehensible-input": {
+    "theories": [
+     {
+      "slug": "ellis-revised-interaction-hypothesis"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "noticing-comparison-integration-revised-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
      }
     ]
    },
@@ -187498,6 +191200,9 @@
       "slug": "comprehensible-output-hypothesis-liming-account"
      },
      {
+      "slug": "comprehension-hypothesis-comprehensible-input-sla"
+     },
+     {
       "slug": "cummins-bics-calp-distinction"
      },
      {
@@ -187510,6 +191215,9 @@
       "slug": "horning-basic-writers-second-language-theory"
      },
      {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
       "slug": "krashen-monitor-model-acquisition-learning"
      },
      {
@@ -187520,16 +191228,59 @@
      }
     ]
    },
+   "krashen-input-hypothesis-monitor-model": {
+    "theories": [
+     {
+      "slug": "comprehension-hypothesis-comprehensible-input-sla"
+     },
+     {
+      "slug": "foreign-language-anxiety"
+     },
+     {
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input"
+     },
+     {
+      "slug": "krashen-five-hypotheses-l2-acquisition"
+     },
+     {
+      "slug": "krashen-monitor-model-acquisition-learning"
+     },
+     {
+      "slug": "krashen-monitor-model-five-hypotheses"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
+     },
+     {
+      "slug": "tripart-grammar-framework-form-meaning-pragmatics"
+     },
+     {
+      "slug": "two-stage-natural-nonnatural-language-acquisition"
+     }
+    ]
+   },
    "krashen-monitor-model-acquisition-learning": {
     "theories": [
      {
       "slug": "bruner-language-acquisition-cognitive-development"
      },
      {
+      "slug": "comprehension-hypothesis-comprehensible-input-sla"
+     },
+     {
       "slug": "horning-basic-writers-second-language-theory"
      },
      {
       "slug": "krashen-five-hypotheses-l2-acquisition"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
      },
      {
       "slug": "krashen-monitor-model-five-hypotheses"
@@ -187557,6 +191308,9 @@
       "slug": "krashen-five-hypotheses-l2-acquisition"
      },
      {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
       "slug": "krashen-monitor-model-acquisition-learning"
      },
      {
@@ -187573,10 +191327,28 @@
      }
     ]
    },
+   "l2-motivational-self-system": {
+    "theories": [
+     {
+      "slug": "l2-motivational-self-system-framework"
+     },
+     {
+      "slug": "sdt-l2mss-internalization-mapping"
+     },
+     {
+      "slug": "willingness-to-communicate-in-l2"
+     }
+    ]
+   },
    "l2-motivational-self-system-framework": {
     "strategies": [
      {
       "slug": "teachers-identify-motivating-factors-design-challenging-activities"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "l2-motivational-self-system"
      }
     ]
    },
@@ -187595,6 +191367,9 @@
    },
    "labov-monitor-model-attention-continuum": {
     "theories": [
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
      {
       "slug": "krashen-monitor-model-acquisition-learning"
      },
@@ -187851,6 +191626,9 @@
      },
      {
       "slug": "semantic-diversity-graded-measure"
+     },
+     {
+      "slug": "usage-based-second-language-acquisition"
      }
     ]
    },
@@ -188009,6 +191787,34 @@
      }
     ]
    },
+   "long-interaction-hypothesis": {
+    "theories": [
+     {
+      "slug": "comprehension-hypothesis-comprehensible-input-sla"
+     },
+     {
+      "slug": "ellis-revised-interaction-hypothesis"
+     },
+     {
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
+      "slug": "noticing-comparison-integration-revised-hypothesis"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
+     },
+     {
+      "slug": "varonis-gass-four-phase-negotiation-model"
+     }
+    ]
+   },
    "loosely-coupled-educational-organizations": {
     "theories": [
      {
@@ -188035,6 +191841,16 @@
      }
     ]
    },
+   "lre-operationalization-noticing-writing": {
+    "theories": [
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
+     }
+    ]
+   },
    "ludic-symbolism-make-believe-play": {
     "theories": [
      {
@@ -188051,6 +191867,13 @@
      }
     ]
    },
+   "lyster-ranta-corrective-feedback-taxonomy": {
+    "theories": [
+     {
+      "slug": "long-interaction-hypothesis"
+     }
+    ]
+   },
    "machine-controlled-adaptive-training-concept": {
     "theories": [
      {
@@ -188064,6 +191887,9 @@
       "slug": "macintyre-situational-wtc-model"
      },
      {
+      "slug": "willingness-to-communicate-in-l2"
+     },
+     {
       "slug": "wtc-model-l2-pronunciation-framework"
      }
     ]
@@ -188072,6 +191898,9 @@
     "theories": [
      {
       "slug": "macintyre-heuristic-pyramid-model-l2-wtc"
+     },
+     {
+      "slug": "willingness-to-communicate-in-l2"
      },
      {
       "slug": "wtc-model-l2-pronunciation-framework"
@@ -188307,6 +192136,26 @@
      }
     ]
    },
+   "meta-utaut-model-mall-efl": {
+    "elements": [
+     {
+      "slug": "meta-utaut-mall-survey-instrument"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "positive-community-support-mall-adoption"
+     },
+     {
+      "slug": "workshops-training-mall-familiarization"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "utaut-four-constructs-lms-acceptance-framework"
+     }
+    ]
+   },
    "metacognition": {
     "claims": [
      {
@@ -188338,7 +192187,25 @@
       "slug": "critical-thinking"
      },
      {
+      "slug": "gombert-epilinguistic-metalinguistic-stages"
+     },
+     {
       "slug": "information-processing-theory"
+     }
+    ]
+   },
+   "metacognitive-knowledge-declarative-procedural-conditional": {
+    "strategies": [
+     {
+      "slug": "efl-writing-instruction-strengthen-metacognitive-models"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "procedural-declarative-lexical-knowledge-distinction"
+     },
+     {
+      "slug": "skill-acquisition-theory-l2-practice"
      }
     ]
    },
@@ -188523,6 +192390,9 @@
     "theories": [
      {
       "slug": "canale-swain-communicative-competence-framework"
+     },
+     {
+      "slug": "canale-swain-four-dimensions-lexical-framework"
      }
     ]
    },
@@ -188637,6 +192507,13 @@
      }
     ]
    },
+   "negotiation-of-meaning-sequences-model-smith": {
+    "theories": [
+     {
+      "slug": "varonis-gass-four-phase-negotiation-model"
+     }
+    ]
+   },
    "nested-contexts-of-reception-framework": {
     "theories": [
      {
@@ -188671,13 +192548,25 @@
       "slug": "comprehensible-output-hypothesis-liming-account"
      },
      {
+      "slug": "ellis-revised-interaction-hypothesis"
+     },
+     {
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input"
+     },
+     {
       "slug": "krashen-monitor-model-five-hypotheses"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
      },
      {
       "slug": "output-driven-input-enabled-hypothesis"
      },
      {
       "slug": "output-hypothesis-three-functions"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
      }
     ]
    },
@@ -188796,6 +192685,9 @@
      },
      {
       "slug": "output-hypothesis-three-functions"
+     },
+     {
+      "slug": "swain-output-hypothesis"
      }
     ]
    },
@@ -188817,6 +192709,9 @@
      },
      {
       "slug": "output-driven-input-enabled-hypothesis"
+     },
+     {
+      "slug": "swain-output-hypothesis"
      }
     ]
    },
@@ -189177,6 +193072,13 @@
      }
     ]
    },
+   "prabhu-learner-effort-typology": {
+    "theories": [
+     {
+      "slug": "social-learning-theory"
+     }
+    ]
+   },
    "pragmatism-and-progressivism-educational-philosophy": {
     "theories": [
      {
@@ -189223,6 +193125,18 @@
      }
     ]
    },
+   "proactive-reactive-fof-distinction": {
+    "strategies": [
+     {
+      "slug": "planned-proactive-grammar-instruction-efl-low-exposure"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "focused-unfocused-task-distinction-tblt"
+     }
+    ]
+   },
    "problem-solution-frame-history": {
     "strategies": [
      {
@@ -189247,6 +193161,29 @@
     "strategies": [
      {
       "slug": "failure-driven-scaffolding"
+     }
+    ]
+   },
+   "procedural-declarative-lexical-knowledge-distinction": {
+    "theories": [
+     {
+      "slug": "canale-swain-four-dimensions-lexical-framework"
+     },
+     {
+      "slug": "grammar-as-mediator-words-context-widdowson"
+     },
+     {
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional"
+     },
+     {
+      "slug": "procedural-lexical-word-clines"
+     }
+    ]
+   },
+   "procedural-lexical-word-clines": {
+    "theories": [
+     {
+      "slug": "procedural-declarative-lexical-knowledge-distinction"
      }
     ]
    },
@@ -189698,6 +193635,28 @@
      }
     ]
    },
+   "schmidt-noticing-hypothesis": {
+    "theories": [
+     {
+      "slug": "cft-three-stage-noticing-framework"
+     },
+     {
+      "slug": "ellis-revised-interaction-hypothesis"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "lre-operationalization-noticing-writing"
+     },
+     {
+      "slug": "swain-output-hypothesis"
+     }
+    ]
+   },
    "schon-knowing-in-action-reflection": {
     "elements": [
      {
@@ -189824,6 +193783,9 @@
    "sdt-intrinsic-extrinsic-orientations-l2-motivation": {
     "theories": [
      {
+      "slug": "l2-motivational-self-system"
+     },
+     {
       "slug": "sdt-framework-esp-motivation"
      },
      {
@@ -189837,11 +193799,17 @@
      },
      {
       "slug": "social-psychological-constructs-flca-framework"
+     },
+     {
+      "slug": "willingness-to-communicate-in-l2"
      }
     ]
    },
    "sdt-l2mss-internalization-mapping": {
     "theories": [
+     {
+      "slug": "l2-motivational-self-system"
+     },
      {
       "slug": "sdt-basic-psychological-needs-framework"
      },
@@ -190230,6 +194198,9 @@
       "slug": "kohlberg-moral-development"
      },
      {
+      "slug": "l2-motivational-self-system"
+     },
+     {
       "slug": "maslow-hierarchy-of-needs"
      },
      {
@@ -190313,6 +194284,9 @@
      },
      {
       "slug": "expectancy-value-theory"
+     },
+     {
+      "slug": "foreign-language-anxiety"
      },
      {
       "slug": "locus-of-control"
@@ -191915,6 +195889,25 @@
      },
      {
       "slug": "executive-function-development"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     }
+    ]
+   },
+   "skill-acquisition-theory-l2-practice": {
+    "theories": [
+     {
+      "slug": "act-proceduralization-automatization"
+     },
+     {
+      "slug": "dp-model-regular-irregular-past-tense-memory-systems"
+     },
+     {
+      "slug": "metacognitive-knowledge-declarative-procedural-conditional"
      }
     ]
    },
@@ -191944,7 +195937,13 @@
       "slug": "krashen-five-hypotheses-l2-acquisition"
      },
      {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
       "slug": "krashen-monitor-model-five-hypotheses"
+     },
+     {
+      "slug": "tripart-grammar-framework-form-meaning-pragmatics"
      }
     ]
    },
@@ -192331,6 +196330,9 @@
       "slug": "bioecological-model-of-human-development"
      },
      {
+      "slug": "prabhu-learner-effort-typology"
+     },
+     {
       "polarity": "+",
       "slug": "self-efficacy-theory",
       "strength": "S"
@@ -192345,6 +196347,9 @@
    },
    "social-psychological-constructs-flca-framework": {
     "theories": [
+     {
+      "slug": "foreign-language-anxiety"
+     },
      {
       "slug": "maslow-hierarchy-of-needs"
      },
@@ -192503,6 +196508,9 @@
      },
      {
       "slug": "stages-of-cognitive-development"
+     },
+     {
+      "slug": "transparency-theory-learning-skill-acquisition"
      },
      {
       "slug": "vygotsky-genetic-method-four-time-scales"
@@ -192832,6 +196840,16 @@
      }
     ]
    },
+   "structure-building-trigger-model-l2-german": {
+    "theories": [
+     {
+      "slug": "swain-output-hypothesis"
+     },
+     {
+      "slug": "two-faces-sla-representation-and-skill-framework"
+     }
+    ]
+   },
    "student-centered-environments-assumptions-framework": {
     "elements": [
      {
@@ -192872,6 +196890,34 @@
     "theories": [
      {
       "slug": "goal-orientation-theory"
+     }
+    ]
+   },
+   "swain-output-hypothesis": {
+    "theories": [
+     {
+      "slug": "comprehensible-output-hypothesis-liming-account"
+     },
+     {
+      "slug": "comprehension-hypothesis-comprehensible-input-sla"
+     },
+     {
+      "slug": "interaction-hypothesis-negotiation-comprehensible-input"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "output-hypothesis-three-functions"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
+     {
+      "slug": "structure-building-trigger-model-l2-german"
      }
     ]
    },
@@ -192930,6 +196976,24 @@
     "theories": [
      {
       "slug": "utaut-four-constructs-lms-acceptance-framework"
+     }
+    ]
+   },
+   "task-repetition-slightly-altered-tasks": {
+    "elements": [
+     {
+      "slug": "anecdote-treasured-possession-task"
+     },
+     {
+      "slug": "decision-making-restaurant-task"
+     },
+     {
+      "slug": "travel-fair-carousel-task"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "convert-speaking-tasks-to-immediate-repetition"
      }
     ]
    },
@@ -193312,6 +197376,29 @@
      }
     ]
    },
+   "transparency-theory-learning-skill-acquisition": {
+    "elements": [
+     {
+      "slug": "annotated-videodisc-authoring-template"
+     },
+     {
+      "slug": "flight-sos-interactive-video"
+     },
+     {
+      "slug": "montevidisco-conversational-simulator"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "adapt-existing-footage-for-simulation-practice"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "sociocultural-theory"
+     }
+    ]
+   },
    "transspection-beyond-empathy": {
     "theories": [
      {
@@ -193402,6 +197489,19 @@
      }
     ]
    },
+   "tripart-grammar-framework-form-meaning-pragmatics": {
+    "theories": [
+     {
+      "slug": "grammar-as-mediator-words-context-widdowson"
+     },
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
+     },
+     {
+      "slug": "sla-three-theory-comparison-framework"
+     }
+    ]
+   },
    "turiels-social-domain-theory": {
     "principles": [
      {
@@ -193441,6 +197541,9 @@
     "theories": [
      {
       "slug": "krashen-monitor-model-five-hypotheses"
+     },
+     {
+      "slug": "structure-building-trigger-model-l2-german"
      }
     ]
    },
@@ -193465,6 +197568,18 @@
     "theories": [
      {
       "slug": "non-constant-alpha-error-reduction-model"
+     }
+    ]
+   },
+   "two-stage-natural-nonnatural-language-acquisition": {
+    "strategies": [
+     {
+      "slug": "concentrate-beginning-instruction-listening-speaking"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "krashen-input-hypothesis-monitor-model"
      }
     ]
    },
@@ -193494,6 +197609,21 @@
      {
       "slug": "prioritize-difficult-constructions-and-light-verbs"
      }
+    ],
+    "theories": [
+     {
+      "slug": "usage-based-second-language-acquisition"
+     }
+    ]
+   },
+   "usage-based-second-language-acquisition": {
+    "theories": [
+     {
+      "slug": "cognitive-linguistics-usage-based-meaning-motivates-form"
+     },
+     {
+      "slug": "usage-based-constructional-development"
+     }
     ]
    },
    "utaut-four-constructs-lms-acceptance-framework": {
@@ -193512,6 +197642,9 @@
     ],
     "theories": [
      {
+      "slug": "meta-utaut-model-mall-efl"
+     },
+     {
       "slug": "mobile-user-typology-adoption-predictor-framework"
      },
      {
@@ -193523,6 +197656,21 @@
     "theories": [
      {
       "slug": "hermeneutical-injustice-incidental-and-systematic"
+     }
+    ]
+   },
+   "varonis-gass-four-phase-negotiation-model": {
+    "elements": [
+     {
+      "slug": "exmaralda-negotiation-annotation-scheme"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "negotiation-of-meaning-sequences-model-smith"
      }
     ]
    },
@@ -193798,6 +197946,25 @@
      }
     ]
    },
+   "willingness-to-communicate-in-l2": {
+    "theories": [
+     {
+      "slug": "foreign-language-anxiety"
+     },
+     {
+      "slug": "l2-motivational-self-system"
+     },
+     {
+      "slug": "macintyre-heuristic-pyramid-model-l2-wtc"
+     },
+     {
+      "slug": "macintyre-situational-wtc-model"
+     },
+     {
+      "slug": "wtc-model-l2-pronunciation-framework"
+     }
+    ]
+   },
    "womanist-restorying": {
     "claims": [
      {
@@ -193848,6 +198015,9 @@
      },
      {
       "slug": "macintyre-situational-wtc-model"
+     },
+     {
+      "slug": "willingness-to-communicate-in-l2"
      }
     ]
    },
@@ -194000,14 +198170,14 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3036,
-  "elements": 675,
+  "claims": 3139,
+  "elements": 688,
   "learner-variables": 12,
   "methods": 17,
-  "patterns": 281,
-  "principles": 511,
+  "patterns": 284,
+  "principles": 520,
   "processes": 12,
-  "strategies": 3103,
-  "theories": 844
+  "strategies": 3127,
+  "theories": 882
  }
 }

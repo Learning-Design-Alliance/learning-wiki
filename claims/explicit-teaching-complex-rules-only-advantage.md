@@ -52,3 +52,5 @@ The review reports Andrews (2007), a quantitative study of 70 teenage ESL learne
 - [Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences](prep-undergrad-belief-differences-mixed-across-constructs.md) — related
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related
+- [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related

@@ -49,3 +49,5 @@ The review describes Guo's (2010) study in which "Ninety-three students were ass
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
+- [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
+- [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — reports the opposite

@@ -66,3 +66,4 @@ Author's interpretation (type e) of why the intercultural adaptation items under
 - [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — a broader claim this one bears on
 - [The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts](global-civic-activism-model-fully-valid.md) — related
 - [The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context](social-responsibility-model-items-removed-vietnam.md) — related
+- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](measurement-model-reliability-mall-efl.md) — related

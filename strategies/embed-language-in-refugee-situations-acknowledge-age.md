@@ -40,6 +40,7 @@ The digest recommends basing teaching on needs analyses and learner consultation
 
 - [Increase dialogue between aging and refugee service organizations and address depression in elderly refugees](aging-refugee-service-dialogue-and-depression-response.md)
 - [Favor learning strategies that rely on long-term memory and integrate new material with existing cognitive structures](long-term-memory-strategies-older-learners.md)
+- [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Mixed-factors repeated measures ANOVA on percentage-correct sub-section scores (
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](listening-time-not-significantly-related-to-exam-score.md) — related
 - [The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores](lwpa-advantage-persists-without-oral-comprehension.md) — related
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
+- [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related

@@ -11,6 +11,7 @@ generated:
 # Krashen's input hypothesis and Monitor Model of second language acquisition
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 11 claims (6 for, 1 mixed, 4 against) · 6 studies (3 review, 2 theoretical, 1 qualitative), `q1`–`q2` · 1 of 6 report an effect size · 11 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed226607, eric-ed294203, eric-ed242194, eric-ej1071042, eric-ed338037, eric-ed367161, eric-ej1095572, eric-ej420159, eric-ej912917, eric-ed512082, eric-ej1051487. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -51,6 +52,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [-W]
 
 ## Related Theories
+
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
 - [Krashen's Monitor Model: acquisition versus learning as separate internal rule systems](krashen-monitor-model-acquisition-learning.md)
 - [Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning](krashen-monitor-model-five-hypotheses.md)
@@ -59,6 +61,10 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Long's interaction hypothesis](long-interaction-hypothesis.md) — takes the input hypothesis as its first claim
 - [Schmidt's noticing hypothesis](schmidt-noticing-hypothesis.md) — makes conscious attention a condition of acquisition
 - [Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics](sla-three-theory-comparison-framework.md)
+- [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
+- [Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition](interaction-hypothesis-negotiation-comprehensible-input.md)
+- [Larsen-Freeman's tri-part grammatical framework: form, meaning, and pragmatics](tripart-grammar-framework-form-meaning-pragmatics.md)
+- [Two-stage model of native language acquisition: natural oral-aural stage followed by nonnatural literacy stage](two-stage-natural-nonnatural-language-acquisition.md)
 
 ## Examples
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/comprehensible-input-communicative-reading-activities.md)

@@ -76,3 +76,4 @@ some configurations.
 - [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](morpheme-order-similarity-across-l1-backgrounds.md) — related
 - [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](mother-tongue-affects-sla-production.md) — related
+- [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related

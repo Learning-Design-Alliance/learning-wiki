@@ -45,3 +45,4 @@ A small judgment study in which ten second-year college students (six non-Englis
 ## Related Claims
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related
 - [The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope](learners-acquire-adverb-positions-and-scope.md) — a broader claim this one bears on
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](white-adverb-placement-negative-evidence-failed.md) — related

@@ -58,3 +58,4 @@ This meta-analysis of the adolescent (Grades 4–12) writing-intervention litera
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
 - [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
+- [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related

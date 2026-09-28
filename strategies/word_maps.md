@@ -62,6 +62,7 @@ Word maps work because they force elaborative processing: learners must connect 
 - [Word Walls](word-walls.md) — completed maps become the durable, revisitable display that keeps target words active
 - [Read-Alouds](read-alouds.md) — provide the meaningful context from which target words and their usage examples are drawn
 - [Use a word chart combining descriptive words and a drawn picture to build vocabulary knowledge](word-chart-vocabulary-activity.md)
+- [Word-net exercises linking lexical knowledge to grammatical awareness](word-net-grammar-via-lexis.md)
 
 ## Examples
 - A student fills out a word map for "harbor," including its definition, synonyms (port, anchorage), antonyms, characteristics, and a picture. Resource: [Reading Rockets — Word Maps](https://www.readingrockets.org/classroom/classroom-strategies/word-maps).

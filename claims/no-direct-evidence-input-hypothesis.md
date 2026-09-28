@@ -48,3 +48,5 @@ The review reports, quoting Long (1983), that the input hypothesis has not been 
 - [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](pushing-output-drives-input-assimilation.md) — related
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](interactionally-modified-input-aids-comprehension-not-retention.md) — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — reports the opposite
+- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — related

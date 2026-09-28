@@ -70,3 +70,4 @@ The review reports a meta-analysis of twelve studies (six published, six unpubli
 - [Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading](exposure-frequency-predicts-incidental-gains.md) — related
 - [Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
+- [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — possibly the same claim (merge candidate)

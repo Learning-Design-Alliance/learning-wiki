@@ -49,3 +49,4 @@ Vidal's (2011) comparison assigned 248 first-year ESL undergraduates in Madrid t
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) — related
+- [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related

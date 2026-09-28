@@ -61,9 +61,11 @@ Video's learning value comes from how well its design manages [Cognitive Load Ma
 6. Assess comprehension through embedded questions or quizzes, and track engagement during and after viewing
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — video as the pre-class direct-instruction component
 - [Demonstration](../elements/demonstration.md) — the most common instructional use of video: modeling a skill or process
 - [Chunking](../principles/chunking.md) — segmented video respects working memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
+- [Use pre-task subtitled videos of similar (not identical) tasks to build familiarity while preserving cognitive complexity](pre-task-similar-task-subtitled-videos-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — video is a scalable delivery vehicle for expert modeling

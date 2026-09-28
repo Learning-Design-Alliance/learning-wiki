@@ -65,3 +65,4 @@ Paired t-tests on RC MICS pre- and post-scores: VNT t = -5.45, p = .000; NT t = 
 - [Video with concurrent narration and on-screen text yields higher immediate microstructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-mics-comprehension.md) — related
 - [Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-macs-comprehension.md) — related
 - [Video-based treatment produces significant macrostructure gains over five weeks, with a significant Group x Test interaction](video-treatment-significant-macs-pre-post-gain.md) — related
+- [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related

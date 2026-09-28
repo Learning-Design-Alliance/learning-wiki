@@ -11,6 +11,7 @@ generated:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
+> **Evidence** · 11 claims (6 for, 5 mixed) · 5 studies (2 review, 2 qualitative, 1 theoretical), `q2` · 0 of 5 report an effect size · 11 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -49,6 +50,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](../claims/model-comparison-noticing-lexical.md) [~W]
 
 ## Related Theories
+
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md)
 - [Language related episodes (LREs) as the operationalization of noticing in L2 writing](lre-operationalization-noticing-writing.md)
 - [A three-stage framework for promoting noticing through collaborative feedback tasks (pre-noticing, while-noticing, post-noticing)](cft-three-stage-noticing-framework.md)
@@ -56,6 +58,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Long's interaction hypothesis](long-interaction-hypothesis.md) — later accounts give recasts a noticing role
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — acquisition as subconscious, the view noticing opposes
 - [Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development](skehan-limited-attention-capacity-child-task-recasts.md)
+- [Ellis's revised Interaction Hypothesis: acquisition via noticing, comparison and integration](ellis-revised-interaction-hypothesis.md)
 
 ## Examples
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](../strategies/three-stage-noticing-writing-task.md)

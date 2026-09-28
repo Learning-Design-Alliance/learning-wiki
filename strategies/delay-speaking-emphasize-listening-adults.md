@@ -39,6 +39,7 @@ The digest's conclusion recommends an approach stressing receptive skills, parti
 ## Related Strategies
 
 - [Reduce anxiety and build self-confidence in older language learners](reduce-anxiety-build-confidence-older-learners.md)
+- [Concentrate beginning foreign language instruction on listening and speaking](concentrate-beginning-instruction-listening-speaking.md)
 
 ## Examples
 -

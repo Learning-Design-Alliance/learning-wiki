@@ -42,6 +42,7 @@ The article recommends indirect correction: teachers "either encourage students 
 - [Use "I" Statements to Avoid Blame](use_i_statements_to_avoid_blame.md)
 - [Normalizing Trouble](normalizing_trouble.md)
 - [Evaluate student contributions through praising, encouraging, quoting students' words, and gestures](four-teacher-evaluation-techniques-communicative-class.md)
+- [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](incidental-corrective-feedback-in-dialogue-journals.md)
 
 ## Examples
 -

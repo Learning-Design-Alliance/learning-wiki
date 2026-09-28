@@ -83,3 +83,7 @@ Nothing here says where retention falls off.
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
 - [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
+- [Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months](distributed-practice-limits-l2.md) — related
+- [Infants retain verbal material over delays, indicating adult-like storage of speech](infant-verbal-memory-retention.md) — related
+- [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related
+- [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — reports the opposite

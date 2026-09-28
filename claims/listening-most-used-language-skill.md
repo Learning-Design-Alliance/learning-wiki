@@ -45,3 +45,4 @@ The review cites Rivers and Temperly (1978) on adult communication-time percenta
 ## Related Claims
 - [Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills](hlls-rate-listening-easiest-nhlls-challenging.md) — related
 - [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](listening-transfer-to-other-language-skills.md) — related
+- [In Spada's study, classes with less form-based listening practice improved listening significantly more than the class with the most](spada-listening-practice-paradox.md) — related

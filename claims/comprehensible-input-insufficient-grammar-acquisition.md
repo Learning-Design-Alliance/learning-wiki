@@ -47,3 +47,9 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 - [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — reports the opposite
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — reports the opposite
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related
+- [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — related
+- [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
+- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — related
+- [In Spada's study, classes with less form-based listening practice improved listening significantly more than the class with the most](spada-listening-practice-paradox.md) — related
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](white-adverb-placement-negative-evidence-failed.md) — related
