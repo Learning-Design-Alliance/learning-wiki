@@ -19,7 +19,7 @@ An example problem pair pairs a fully worked example with a structurally identic
 
 ## Design Implications
 
-Example problem pairs reduce unguided search during early skill acquisition while guaranteeing that every example is followed by active application [Example–problem pairs lower cognitive load compared with solving all problems independently.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. The pairing is the critical design feature: examples alone produce passive study and illusions of competence, while problems alone impose search costs on novices; the alternation captures the benefit of both [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Pairs should be structurally similar but superficially varied so learners abstract the underlying procedure rather than surface features.
+Example problem pairs reduce unguided search during early skill acquisition while guaranteeing that every example is followed by active application [Example–problem pairs lower cognitive load compared with solving all problems independently.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. The pairing is the critical design feature: examples alone produce passive study and illusions of competence, while problems alone impose search costs on novices; the alternation captures the benefit of both [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Pairs should be structurally similar but superficially varied so learners abstract the underlying procedure rather than surface features.
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 #### Constraints
 - For learners with substantial prior knowledge, studying a full example is redundant and slows them relative to plain problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the [expertise reversal effect](../theories/expertise-reversal-effect.md) applies directly to pair sequences
 - If the follow-up problem is too dissimilar, learners cannot map the example onto it and revert to guessing
-- Long uninterrupted example sequences without problems reduce engagement and processing depth [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Long uninterrupted example sequences without problems reduce engagement and processing depth [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Less suited to ill-structured domains where no single solution procedure transfers across problems
 
 ### Target Learners

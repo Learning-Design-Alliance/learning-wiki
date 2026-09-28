@@ -45,7 +45,7 @@ The fishbowl makes discussion itself the object of study: the inner circle model
 - Can be intimidating for shy or reluctant speakers placed in the inner circle; participation structures that allow entry through the outer circle first reduce this threat [-M]
 - Requires careful facilitation to prevent dominance by a few learners and to keep feedback respectful [-M]
 - Time-consuming relative to whole-class discussion; the observation and debrief cycle can consume an entire session for a conversation involving only a few speakers [-W]
-- Observers without a concrete analytic task learn little from watching alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Observers without a concrete analytic task learn little from watching alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 
 #### Implementation Variability
 - **Relay fishbowl**: outer-circle learners periodically swap into the inner circle, keeping the conversation going while broadening participation

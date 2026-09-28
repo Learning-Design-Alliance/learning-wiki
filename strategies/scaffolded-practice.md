@@ -19,7 +19,7 @@ Scaffolded practice structures repeated application of a skill so that support i
 
 ## Design Implications
 
-Scaffolded practice operationalizes the expertise-reversal logic: guidance that helps novices hinders experts, so support must track current competence rather than stay fixed [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. The evidence base is strongest for example-based gradients: pairing worked examples with practice and fading them over time produces better transfer than either examples alone or unsupported problem solving from the start [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Task sequencing also manages working memory load — early tasks should be simplified or chunked so intrinsic load stays within capacity [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]; unmanaged complexity degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Scaffolded practice operationalizes the expertise-reversal logic: guidance that helps novices hinders experts, so support must track current competence rather than stay fixed [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. The evidence base is strongest for example-based gradients: pairing worked examples with practice and fading them over time produces better transfer than either examples alone or unsupported problem solving from the start [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Task sequencing also manages working memory load — early tasks should be simplified or chunked so intrinsic load stays within capacity [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]; unmanaged complexity degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Scaffolded practice operationalizes the expertise-reversal logic: guidance that 
 
 #### Constraints
 - Fading too early leaves learners in unguided search, which is inefficient for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-M]
-- Fading too late or never produces over-reliance; learners who always see the model struggle on independent tasks [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Fading too late or never produces over-reliance; learners who always see the model struggle on independent tasks [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - A fixed scaffold for all learners misfires in both directions — too much for some, too little for others; adaptive sequencing mitigates this [Adaptive learning improves outcomes.](../claims/adaptive-learning-improves-outcomes.md) [~M]
 - Scaffolds that reduce task complexity but also reduce the *quality* of engagement (e.g., multiple-choice substitutes for constructed responses) can undercut the practice effect
 
@@ -48,7 +48,7 @@ Scaffolded practice operationalizes the expertise-reversal logic: guidance that 
 ### Target Learning Goals
 - Procedural fluency: building accurate, automatic execution of multi-step skills
 - Schema construction: forming organized mental models of problem types
-- Transfer: applying learned procedures to novel variants [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Transfer: applying learned procedures to novel variants [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 ### Instructions
 1. Analyze the skill into sub-skills and order tasks from simple to complex ([Cognitive Load Management](../principles/cognitive-load-management.md))

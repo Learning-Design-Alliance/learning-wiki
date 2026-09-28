@@ -80,7 +80,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md) — reports the opposite
-- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — reports the opposite
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — reports the opposite
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related
 - [Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).](teacher-attainment-value-increases-motivation-to-use-ai.md) — a narrower finding that bears on this claim
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — a narrower finding that bears on this claim

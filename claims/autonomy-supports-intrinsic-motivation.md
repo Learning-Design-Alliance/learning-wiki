@@ -88,7 +88,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — task value and autonomy often compound: learners who see a task as valuable are more likely to experience autonomous motivation toward it
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — competence (one of SDT's three needs) links autonomy to efficacy: learners need to believe they can succeed before autonomy feels enabling rather than threatening
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — self-monitoring is a key mechanism through which autonomous learners regulate their own progress
-- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
 - [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
 - [Learner-centered teacher–student relationships are associated with better student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related

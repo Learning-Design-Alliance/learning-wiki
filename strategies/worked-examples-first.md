@@ -32,7 +32,7 @@ Worked Examples First is a sequencing strategy: before learners attempt problems
 
 ## Design Implications
 
-For novices, unguided problem solving forces working memory to be spent on search — trying solution paths, backtracking, and holding partial results — rather than on building a schema for the problem type [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]. Studying a worked example externalizes those intermediate states, letting learners attend to *why* each step follows from the last. The strategy works best when learners actively self-explain the steps rather than passively read them [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-learning.md) [+S], and when each example is immediately paired with a problem to solve [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+For novices, unguided problem solving forces working memory to be spent on search — trying solution paths, backtracking, and holding partial results — rather than on building a schema for the problem type [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]. Studying a worked example externalizes those intermediate states, letting learners attend to *why* each step follows from the last. The strategy works best when learners actively self-explain the steps rather than passively read them [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-learning.md) [+S], and when each example is immediately paired with a problem to solve [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 - A plan for fading: alternating example–problem pairs, then completion problems, then full problems ([Fading](../elements/fading.md))
 
 #### Constraints
-- Examples alone, without paired practice, produce strong illusions of competence and poor transfer [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Examples alone, without paired practice, produce strong illusions of competence and poor transfer [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - For learners with substantial prior knowledge, worked examples are redundant and can *impair* learning relative to problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S] — the expertise reversal effect
 - Splitting an example across a diagram and separate text forces split attention and degrades learning [Split-attention from separated sources degrades worked-example learning.](../claims/split-attention-effect-degrades-learning.md) [+S] — integrate steps with the diagram
 - A single example can anchor learners to one solution method; multiple contrasting examples reduce this [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
@@ -66,7 +66,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 ### Instructions
 1. Select or write a fully solved example isomorphic to the target problem type, with each step annotated with its rationale.
 2. Present the example first, integrated with any diagram, and prompt learners to self-explain key steps [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-learning.md) [+S].
-3. Immediately follow with an isomorphic problem the learner solves alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+3. Immediately follow with an isomorphic problem the learner solves alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 4. Fade support across the sequence: full example → completion problem → full problem ([Fading](../elements/fading.md)).
 5. As expertise grows, drop examples and shift to unsupported problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S].
 

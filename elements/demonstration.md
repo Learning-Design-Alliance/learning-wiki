@@ -32,7 +32,7 @@ A demonstration presents a complete or partial model of a skill, process, or sol
 
 ## Design Implications
 
-Demonstrations reduce the cognitive burden of initial skill acquisition by giving learners a reference model to study and imitate [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Their value depends heavily on how thinking is made visible: narrated or annotated demonstrations that explain reasoning produce better learning than silent ones. Demonstrations should be followed by practice opportunities, since passive observation without application leads to shallow encoding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Demonstrations reduce the cognitive burden of initial skill acquisition by giving learners a reference model to study and imitate [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Their value depends heavily on how thinking is made visible: narrated or annotated demonstrations that explain reasoning produce better learning than silent ones. Demonstrations should be followed by practice opportunities, since passive observation without application leads to shallow encoding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - A follow-on activity that requires learners to apply what they observed ([Practice](practice.md))
 
 #### Constraints
-- Passive observation without prompts or practice creates illusions of understanding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — learners often overestimate how much they have learned from watching alone
+- Passive observation without prompts or practice creates illusions of understanding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — learners often overestimate how much they have learned from watching alone
 - Less effective for open-ended or creative tasks where there is no single correct approach
 - Can anchor learners to a single solution method; pairing with [Non-Examples](non-examples.md) or [Comparing Cases](comparing-cases.md) reduces this risk
 

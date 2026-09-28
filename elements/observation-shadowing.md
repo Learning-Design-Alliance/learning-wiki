@@ -19,7 +19,7 @@ Observation shadowing pairs watching with immediate imitation: the learner obser
 
 ## Design Implications
 
-Shadowing converts passive observation into an active reproduction attempt, which strengthens encoding far more than watching alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The immediacy matters: the shorter the interval between observing and imitating, the better learners retain the modeled sequence, because the model serves as a retrieval scaffold rather than a memory test. Models should be slightly above the learner's current level — capable enough to show correct technique, close enough to be imitable.
+Shadowing converts passive observation into an active reproduction attempt, which strengthens encoding far more than watching alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The immediacy matters: the shorter the interval between observing and imitating, the better learners retain the modeled sequence, because the model serves as a retrieval scaffold rather than a memory test. Models should be slightly above the learner's current level — capable enough to show correct technique, close enough to be imitable.
 
 ### Context
 #### Requirements
@@ -28,7 +28,7 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 - Feedback on the learner's shadow attempt, so discrepancies between model and copy are detected ([Practice](practice.md) with corrective information)
 
 #### Constraints
-- Observation alone produces overconfidence: learners who only watch rate their own ability far higher than tested performance warrants [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — shadowing must include the reproduction step, not just the watching step
+- Observation alone produces overconfidence: learners who only watch rate their own ability far higher than tested performance warrants [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — shadowing must include the reproduction step, not just the watching step
 - Ineffective when the model's skill is far above the learner's; novices cannot extract imitable structure from expert performance that is too fluent or too fast
 - Poor fit for tasks where the observable surface does not reveal the underlying decisions (e.g., strategic or diagnostic reasoning), unless the model verbalizes those decisions
 - Imitating a flawed or idiosyncratic model transmits the flaws; model quality is a hard prerequisite

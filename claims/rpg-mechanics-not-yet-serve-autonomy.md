@@ -44,7 +44,7 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 
 ## Related Claims
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
-- [Gamification raises motivation, satisfaction, and test performance in vocabulary learning](gamification-raises-motivation-satisfaction.md) — related
+- [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
 - [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on

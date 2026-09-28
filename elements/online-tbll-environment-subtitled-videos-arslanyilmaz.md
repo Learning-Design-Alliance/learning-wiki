@@ -40,7 +40,7 @@ A purpose-built online task-based language learning environment presenting four 
 
 - [Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos](../claims/subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) [+W]
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](../claims/cmc-meaning-focused-tasks-foster-negotiated-interactions.md) [+W]
-- [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+W]
+- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+W]
 
 ## Related Elements
 - 

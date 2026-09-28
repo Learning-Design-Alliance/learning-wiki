@@ -25,7 +25,7 @@ Audio books exploit the modality effect: presenting verbal material through the 
 #### Requirements
 - Curated audio content aligned to curriculum goals and learner interest, at appropriate complexity
 - Playback devices and headphones; reliable connectivity for digital formats
-- A purpose for listening (guiding questions, discussion prompts, response tasks) — unstructured listening rarely produces durable learning [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [~M]
+- A purpose for listening (guiding questions, discussion prompts, response tasks) — unstructured listening rarely produces durable learning [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [~M]
 - Optional synchronized text for learners building decoding skills
 
 #### Constraints

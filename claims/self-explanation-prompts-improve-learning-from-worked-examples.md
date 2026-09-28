@@ -89,7 +89,7 @@ Fourteen eighth-grade students were asked, with no extensive training, to self-e
 ## Related Claims
 
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — self-explanation is a key mechanism for extracting principles from examples
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — prompts can be faded alongside example–problem transitions
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — prompts can be faded alongside example–problem transitions
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal likely applies to self-explanation prompts as well
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — the population where self-explanation prompts are most often studied
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — well-chunked examples keep self-explanation demands within capacity

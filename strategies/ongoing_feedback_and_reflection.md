@@ -49,7 +49,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - Reflection required at fixed intervals without genuine content becomes a compliance genre: learners produce the expected register and learn nothing [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - Grading reflections corrupts them — learners write what scores well rather than what is true, which is precisely the wrong direction for a self-assessment instrument [-M]
 - Learners lacking domain knowledge cannot judge their own work reliably, so early cycles must lean on instructor judgement [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M]
-- Feedback with no opportunity to act before the next feedback point breaks the loop and turns the reflection into commentary [Feedback Use Improves Learning](../claims/feedback-use-improves-learning.md) [-M]
+- Feedback with no opportunity to act before the next feedback point breaks the loop and turns the reflection into commentary [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-use-improves-learning.md) [-M]
 - Sustained cost to both parties; feedback fatigue on the instructor side and reflection fatigue on the learner's are the usual reasons the rhythm collapses mid-term [-M]
 - Written reflection disadvantages learners for whom writing is itself the barrier; the modality should not be the assessment [-W]
 

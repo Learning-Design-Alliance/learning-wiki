@@ -19,7 +19,7 @@ In a demonstration-based flipped classroom, the instructor records narrated demo
 
 ## Design Implications
 
-The strategy combines two evidence-backed mechanisms: observing a modeled performance before attempting it, and relocating first-pass instruction outside class so contact time is spent applying rather than receiving. Pre-class demonstrations function as [worked examples](../claims/worked-examples-reduce-novice-search.md) [+M], reducing unguided search for novices, while in-class [practice](../elements/practice.md) converts observation into transferable skill [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Video's pause-and-rewind affordance lets learners self-pace through high-precision steps that a live demonstration would expose only once.
+The strategy combines two evidence-backed mechanisms: observing a modeled performance before attempting it, and relocating first-pass instruction outside class so contact time is spent applying rather than receiving. Pre-class demonstrations function as [worked examples](../claims/worked-examples-reduce-novice-search.md) [+M], reducing unguided search for novices, while in-class [practice](../elements/practice.md) converts observation into transferable skill [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Video's pause-and-rewind affordance lets learners self-pace through high-precision steps that a live demonstration would expose only once.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ The strategy combines two evidence-backed mechanisms: observing a modeled perfor
 - In-class activities that require applying what the demonstration showed, with instructor circulation for [feedback](../elements/provide-feedback.md)
 
 #### Constraints
-- Watching a demonstration without an application task creates illusions of understanding; learners overestimate what they learned from viewing alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Watching a demonstration without an application task creates illusions of understanding; learners overestimate what they learned from viewing alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Producing high-quality demonstrations is time-intensive; poorly paced or overloaded videos degrade learning [Cognitive overload impairs learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Requires reliable access to devices and connectivity outside class; inequitable access undermines the model
 - Less effective for open-ended, discussion-based, or ill-structured goals where there is no single correct procedure to model

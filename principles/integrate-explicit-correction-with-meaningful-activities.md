@@ -40,7 +40,7 @@ The article concludes that L2 classrooms aiming at both accuracy and fluency sho
 
 - [Metalinguistic Recasts Effective Immediate Wh Questions](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [+M]
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [+W]
-- [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~W]
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~W]
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](../claims/time-treatment-interaction-corrective-feedback.md) [+W]
 
 ## Related Principles

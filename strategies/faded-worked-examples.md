@@ -19,7 +19,7 @@ Faded worked examples present a series of problems in which the expert's solutio
 
 ## Design Implications
 
-Fading combines the working-memory benefits of [Worked Examples](../principles/worked-examples.md) for novices with the practice benefits of problem solving, avoiding the pitfalls of either alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Completion problems — where learners fill in the missing steps — force active processing of the faded portion rather than passive reading [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Fading should be calibrated to expertise: fading too slowly wastes time for fast learners, too quickly reintroduces unguided search [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M].
+Fading combines the working-memory benefits of [Worked Examples](../principles/worked-examples.md) for novices with the practice benefits of problem solving, avoiding the pitfalls of either alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Completion problems — where learners fill in the missing steps — force active processing of the faded portion rather than passive reading [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Fading should be calibrated to expertise: fading too slowly wastes time for fast learners, too quickly reintroduces unguided search [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Fading combines the working-memory benefits of [Worked Examples](../principles/w
 ### Target Learning Goals
 - Procedural fluency in well-structured domains (mathematics, science, programming)
 - Schema acquisition: recognizing which solution method applies to which problem
-- Transfer to near problems with changed surface features [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Transfer to near problems with changed surface features [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 ### Instructions
 1. Select a problem sequence of increasing complexity within one solution schema.

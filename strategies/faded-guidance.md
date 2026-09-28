@@ -19,7 +19,7 @@ Faded guidance sequences instruction so that support is high at the start and is
 
 ## Design Implications
 
-Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle: support should be calibrated to current expertise and removed as internal schemas develop. Fixed levels of guidance are suboptimal at both ends — too much support for advanced learners and too little for novices both impair learning [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. Faded example–problem pairs produce better transfer than example–problem pairs with unfaded examples [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle: support should be calibrated to current expertise and removed as internal schemas develop. Fixed levels of guidance are suboptimal at both ends — too much support for advanced learners and too little for novices both impair learning [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. Faded example–problem pairs produce better transfer than example–problem pairs with unfaded examples [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Fading operationalizes the [Scaffolding](../principles/scaffolding.md) principle
 
 ### Target Learning Goals
 - Procedural skill acquisition in well-structured domains (mathematics, programming, science problem solving)
-- Transfer to structurally similar but novel problems [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Transfer to structurally similar but novel problems [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 - Self-regulated problem solving, when combined with faded [Self-Explanation](../elements/self-explanation.md) prompts
 
 ### Instructions

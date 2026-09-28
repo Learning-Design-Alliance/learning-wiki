@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 sources:
-  - id: harkins-2021
+  - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
-    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
+    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M"
 ---
 
@@ -50,4 +50,4 @@ The article recommends that nurturing critical interpersonal relationships requi
 -
 
 ## Key Sources
-- Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
+- Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202

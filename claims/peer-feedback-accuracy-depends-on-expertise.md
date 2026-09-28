@@ -79,7 +79,7 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md) — surface-level evaluation supports do not compensate for missing criterion knowledge.
 - [Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific](expertise-domain-specific-not-general.md) — related
 - [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
-- [Peer Assessment Structured Criteria Improve Learning](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related
 - [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related
 - [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md) — related

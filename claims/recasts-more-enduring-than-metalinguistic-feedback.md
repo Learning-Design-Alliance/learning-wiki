@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay
-description: Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay
+title: Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
+description: Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
 id: recasts-more-enduring-than-metalinguistic-feedback
 status: draft
 generated:
@@ -28,10 +28,11 @@ sources:
     rigour: "?"
 ---
 
-# Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay
+# Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q2`–`q3` · n=33 studies
+<!-- deprecated title (2026-09-30, overstated its evidence): Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay -->
 
 ## Subclaims
 `q2 i?` The metalinguistic group's performance declined sharply from post-test to delayed post-test, while the recast group's gains held, making the recast effect more stable. [→ Ehsan Rassaei 2011](#ehsan-rassaei-2011)

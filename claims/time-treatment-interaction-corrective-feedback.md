@@ -45,4 +45,4 @@ Two-way repeated measures ANOVA on total grammaticality judgment scores with tim
 ## Related Claims
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — a narrower finding that bears on this claim
-- [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](recasts-more-enduring-than-metalinguistic-feedback.md) — a narrower finding that bears on this claim
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — a narrower finding that bears on this claim

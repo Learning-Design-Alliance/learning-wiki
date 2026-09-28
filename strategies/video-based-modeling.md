@@ -19,7 +19,7 @@ Video based modeling presents learners with recorded demonstrations of expert pe
 
 ## Design Implications
 
-Video modeling draws on observational learning research: learners extract a symbolic representation of the modeled behavior and later reproduce it [Bandura, A. (1977)](https://psycnet.apa.org/record/1977-25837-000) [+M]. It works best when the model is competent, the narration makes expert decisions explicit, and viewing is followed by immediate practice [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Video's replayability is its distinctive advantage over live demonstration, particularly for complex motor skills where a single observation is insufficient.
+Video modeling draws on observational learning research: learners extract a symbolic representation of the modeled behavior and later reproduce it [Bandura, A. (1977)](https://psycnet.apa.org/record/1977-25837-000) [+M]. It works best when the model is competent, the narration makes expert decisions explicit, and viewing is followed by immediate practice [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Video's replayability is its distinctive advantage over live demonstration, particularly for complex motor skills where a single observation is insufficient.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Video modeling draws on observational learning research: learners extract a symb
 
 #### Constraints
 - Extraneous video content — irrelevant visuals, background music, decorative motion — impairs learning [Irrelevant material hurts learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]
-- Uninterrupted long videos overload working memory; learners who passively binge-watch without practice overestimate their competence [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Uninterrupted long videos overload working memory; learners who passively binge-watch without practice overestimate their competence [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Less effective for open-ended tasks with no single correct performance to model
 - Learners with strong prior knowledge gain little and may find detailed modeling redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

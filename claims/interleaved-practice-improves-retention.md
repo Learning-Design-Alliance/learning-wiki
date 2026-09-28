@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Interleaved Practice Improves Retention
+title: Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,11 @@ sources:
     rigour: "?"
 ---
 
-# Interleaved Practice Improves Retention
+# Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=59 studies (238 effect sizes, 158 samples)
+<!-- deprecated title (2026-09-30, overstated its evidence): Interleaved Practice Improves Retention -->
 
 Interleaving — mixing different problem types or categories within a practice session rather than blocking them by type — improves long-term retention and discrimination between concepts, even though learners often feel it is less effective during practice.
 

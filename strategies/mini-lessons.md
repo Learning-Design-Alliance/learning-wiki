@@ -19,7 +19,7 @@ A mini lesson is a deliberately brief, tightly focused teaching segment that int
 
 ## Design Implications
 
-Mini lessons manage attention and cognitive load by limiting the amount of new information presented before learners apply it [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their brevity is only effective when the scope is genuinely singular: a mini lesson that smuggles in three ideas becomes a lecture. The structure pairs a short [Demonstration](../elements/demonstration.md) or explanation with immediate learner application, so the teaching moment stays adjacent to use [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Mini lessons manage attention and cognitive load by limiting the amount of new information presented before learners apply it [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their brevity is only effective when the scope is genuinely singular: a mini lesson that smuggles in three ideas becomes a lecture. The structure pairs a short [Demonstration](../elements/demonstration.md) or explanation with immediate learner application, so the teaching moment stays adjacent to use [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements

@@ -79,7 +79,7 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Social learning theory](../theories/social-learning-theory.md) — social accountability and modeling explain tutor-side motivation gains
 - [Constructivism](../theories/constructivism.md) — knowledge consolidation through explanation and use
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling, coaching, and fading map onto the tutor's role progression
-- [Direct instruction improves learning outcomes](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
 - [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related

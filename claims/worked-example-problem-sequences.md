@@ -64,5 +64,5 @@ A key boundary condition is the [expertise reversal effect](../theories/expertis
 - [Interleaving Improves Learning](interleaving-improves-learning.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — related
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — related
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on

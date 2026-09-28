@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.
-description: Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.
+title: Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.
+description: Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.
 id: teacher-researcher-difficulties-eased-by-reflective-labs
 status: draft
 generated:
@@ -35,10 +35,11 @@ sources:
     rigour: 1
 ---
 
-# Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile.
+# Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q1`
+<!-- deprecated title (2026-09-30, overstated its evidence): Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands, which reflective after-school labs helped them overcome; they judged the process worthwhile. -->
 
 ## Subclaims
 `q1 i?` Realising the formidable social and structural limitations families face can produce helpless pessimism, which the digest says can be dispelled as teachers know families better and engage in reflective discourse in after-school labs. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)

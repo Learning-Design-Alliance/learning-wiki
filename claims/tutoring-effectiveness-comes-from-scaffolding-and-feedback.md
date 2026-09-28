@@ -23,7 +23,7 @@ sources:
     author: VanLehn, K.
     q: 3
     i: 2
-    n: "not stated in the abstract (full text is paywalled; abstract reports \"6 figures, 11 tables\" of synthesized comparisons but not a pooled study/effect count)"
+    n: not stated in the abstract (full text is paywalled; the abstract gives no study or effect count)
     kind: quant-synthesis
     rigour: "?"
 ---
@@ -39,7 +39,7 @@ The learning benefits of tutoring are attributed to the tutor's ability to scaff
 
 `q2 i?` In naturalistic human tutoring of 8th-graders, tutor explanations and students' scaffolded responses each correlated with shallow learning gains beyond prior knowledge and reading ability, but suppressing tutor feedback and explanations in favor of pure scaffolding prompts did not reduce learning — students learned just as well from scaffolding-only tutoring. [→ Chi et al. 2001](#chi-et-al-2001)
 
-`q3 i2` Across the tutoring-research literature, human tutoring produces a medium-sized learning advantage over no-tutoring instruction (d = 0.79), a substantially smaller benchmark than the often-cited two-sigma (d = 2.0) figure, and close in magnitude to the best intelligent tutoring systems (d = 0.76). [→ VanLehn 2011](#vanlehn-2011)
+`q3 i2` Across the tutoring-research literature, human tutoring produces a medium-sized learning advantage over no-tutoring instruction (d = 0.79), a substantially smaller benchmark than the often-cited two-sigma (d = 2.0) figure, and close in magnitude to intelligent tutoring systems (d = 0.76). [→ VanLehn 2011](#vanlehn-2011)
 
 ## Evidence
 
@@ -55,7 +55,7 @@ Two studies of one-to-one human tutoring on the human circulatory system with 8t
 
 VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist, 46*(4), 197–221. [doi:10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369)
 
-`q3 · systematic review synthesizing effect sizes across tutoring experiments` · `i2 · medium effect, d=0.79 (human tutoring vs. no tutoring)` · `n=not stated in the abstract (full text is paywalled; abstract reports "6 figures, 11 tables" of synthesized comparisons but not a pooled study/effect count)` · `quant-synthesis · r?`
+`q3 · systematic review synthesizing effect sizes across tutoring experiments` · `i2 · medium effect, d=0.79 (human tutoring vs. no tutoring)` · `n=not stated in the abstract (full text is paywalled; the abstract gives no study or effect count)` · `quant-synthesis · r?`
 
 A review of experiments comparing human tutoring, several classes of computer tutoring systems (answer-based, step-based, substep-based), and no-tutoring instruction on the same content. Contrary to the widely repeated belief that human tutoring produces very large gains (d = 2.0, per Bloom's two-sigma figure) far beyond intelligent tutoring systems (believed d = 1.0), the review found human tutoring's actual effect size relative to no tutoring was much lower (d = 0.79) and that intelligent tutoring systems (d = 0.76) were nearly as effective. Read from the publisher/ERIC abstract only, since the full text sits behind a paywall with no open-access copy found via Unpaywall.
 

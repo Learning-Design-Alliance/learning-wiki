@@ -29,7 +29,7 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 - A follow-on opportunity for learners to imitate and receive [Coaching](../elements/coaching.md) or [Feedback](../elements/feedback.md)
 
 #### Constraints
-- Watching without doing produces illusions of competence; observation alone rarely transfers without practice [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Watching without doing produces illusions of competence; observation alone rarely transfers without practice [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Complex demonstrations can overload novices when every movement is visible at once; segmenting or highlighting the critical action is needed [Chunking reduces extraneous load.](../claims/chunking-reduces-working-memory-load.md) [-M]
 - Fine-grained or invisible processes (internal reasoning, sub-microscopic phenomena) cannot be demonstrated physically and require other representations
 - Demonstrations can anchor learners to one way of performing; contrasting variants mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]

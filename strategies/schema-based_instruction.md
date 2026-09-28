@@ -36,7 +36,7 @@ Schema-based instruction works because expert problem solving is schema-driven: 
 
 #### Implementation Variability
 - **Schema-based transfer instruction** (Jitendra): emphasizes the diagram (schema map) as the central representation
-- **Schema-broadening instruction** (Cooper & Sweller): uses [Worked Examples](../principles/worked-examples.md) and faded practice to automate schema application [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- **Schema-broadening instruction** (Cooper & Sweller): uses [Worked Examples](../principles/worked-examples.md) and faded practice to automate schema application [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 - **Cross-domain variants**: the same logic underlies [Case-Based Learning](../patterns/case-based-learning.md) in professional education, where multiple cases build a flexible schema [Cognitive flexibility theory prescribes multiple representations and cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+W]
 
 ### Target Learners

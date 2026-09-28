@@ -42,7 +42,7 @@ Game-Based Mastery Learning is the short-form canonical target for mastery desig
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 
 ## Claims
-- [Rewards Undermine Intrinsic Motivation](../claims/rewards-undermine-intrinsic-motivation.md) [-S]
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-S]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)

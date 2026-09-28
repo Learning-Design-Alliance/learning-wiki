@@ -19,7 +19,7 @@ When teaching a new technique, providing multiple examples helps students unders
 
 ## Design Implications
 
-Multiple examples work because comparing across cases directs attention to the structural features shared by examples rather than their idiosyncratic details [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The benefit depends on variation: examples differing in surface context but sharing the target structure produce better transfer than near-duplicates [Gick & Holyoak, 1983](https://doi.org/10.1016/0010-0285(83)90003-6) [+M]. Examples are most powerful when paired with prompts to explain why the technique works in each case [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and when followed by practice rather than presented alone [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Multiple examples work because comparing across cases directs attention to the structural features shared by examples rather than their idiosyncratic details [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The benefit depends on variation: examples differing in surface context but sharing the target structure produce better transfer than near-duplicates [Gick & Holyoak, 1983](https://doi.org/10.1016/0010-0285(83)90003-6) [+M]. Examples are most powerful when paired with prompts to explain why the technique works in each case [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and when followed by practice rather than presented alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Multiple examples work because comparing across cases directs attention to the s
 #### Constraints
 - May be time-consuming; each additional example competes for instructional time
 - Students may become overwhelmed by too many examples or by examples with high extraneous load [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
-- Unprompted passive reading of examples produces shallow processing and illusions of understanding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Unprompted passive reading of examples produces shallow processing and illusions of understanding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Requires careful selection: examples that are irrelevant or inaccessible to students waste the variation advantage
 - Learners with strong prior knowledge may find extensive example sets redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

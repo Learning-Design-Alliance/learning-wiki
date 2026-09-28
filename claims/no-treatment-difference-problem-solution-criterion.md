@@ -35,7 +35,7 @@ Bassler, O. C.; Beers, M. I.; Richardson, L. I. (1972). Comparison of Two Instru
 
 `q2 · i?` · `causal · r2`
 
-ANOVA on the problem solution criterion (same 48-student design) found the strategy main effect non-significant (F = 1.07): "There was no significant effect due_to treatment." Posttest solution means ranged from 6.8 to 12.5 across cells.
+ANOVA on the problem solution criterion (same 48-student design) found the strategy main effect non-significant (F = 1.07): "There was no significant effect due_to treatment." Posttest cell means were highest (12.5) for high-ability students under both treatments; the scanned table is too degraded to read the lowest cell reliably. <!-- deprecated (2026-09-30, the lower bound is not legible in the scanned Table 4): Posttest solution means ranged from 6.8 to 12.5 across cells. -->
 
 > "There was no significant effect due_to treatment."
 

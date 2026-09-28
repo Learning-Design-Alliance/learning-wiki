@@ -10,16 +10,16 @@ generated:
 evidence_strength: weak
 sources:
   - id: ozturk-2023
-    resource: "https://www.youtube.com/watch?v=Cl2Fao763ms"
-    title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms"
+    resource: "https://eric.ed.gov/?id=ED638455"
+    title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing, pp. 366–382. https://eric.ed.gov/?id=ED638455"
     author: Ozturk, N.
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
   - id: ozturk-2023-2
-    resource: "https://www.youtube.com/watch?v=Cl2Fao763ms"
-    title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms"
+    resource: "https://eric.ed.gov/?id=ED638455"
+    title: "Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing, pp. 366–382. https://eric.ed.gov/?id=ED638455"
     author: Ozturk, N.
     q: 2
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Ozturk 2023
 
-Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms
+Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing, pp. 366–382. https://eric.ed.gov/?id=ED638455
 
 `q2 · i?` · `qualitative · r2`
 
@@ -50,7 +50,7 @@ Authors' interpretation (discussion section) of coded episodes, e.g., Pippi aski
 
 ### Ozturk 2023 (2)
 
-Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing. https://www.youtube.com/watch?v=Cl2Fao763ms
+Ozturk, N. (2023). Clash of Traditional and Contemporary Educational Philosophies in Pippi Longstocking. EJER Congress 2023 International Eurasian Educational Research Congress Conference Proceedings, Ani Publishing, pp. 366–382. https://eric.ed.gov/?id=ED638455
 
 `q2 · i?` · `qualitative · r2`
 

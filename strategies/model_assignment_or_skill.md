@@ -19,7 +19,7 @@ Modeling a skill or assignment means the instructor (or a recorded expert) works
 
 ## Design Implications
 
-Modeling works because it converts tacit expert knowledge into explicit, observable steps, reducing the unguided search novices would otherwise undertake [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The verbalization is the active ingredient: silent demonstration of the end product teaches far less than narration of the decisions along the way. Modeling must be paired with independent practice, since observation alone produces fluency illusions rather than transferable skill [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Modeling works because it converts tacit expert knowledge into explicit, observable steps, reducing the unguided search novices would otherwise undertake [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The verbalization is the active ingredient: silent demonstration of the end product teaches far less than narration of the decisions along the way. Modeling must be paired with independent practice, since observation alone produces fluency illusions rather than transferable skill [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 
 #### Constraints
 - Ineffective if learners lack the background knowledge to parse the modeled task — the model becomes noise rather than guidance [~M]
-- Over-reliance on modeling without fading into independent practice hinders problem-solving development [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Over-reliance on modeling without fading into independent practice hinders problem-solving development [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Learners systematically overestimate how much they learned from watching, so models should not substitute for doing
 - For learners with strong prior knowledge, explicit modeling can be redundant and even depress performance [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

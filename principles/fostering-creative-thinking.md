@@ -46,7 +46,7 @@ This creates a genuine tension for teachers, who must evaluate students' learnin
 - [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](../claims/functional-fixedness-limits-problem-solving.md) [+M]
 - [Short-term creativity interventions can be effective in changing creativity positively](../claims/short-term-interventions-change-creativity.md) [+W]
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
-- [Rewards Undermine Intrinsic Motivation](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
 
 ## Related Principles
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer

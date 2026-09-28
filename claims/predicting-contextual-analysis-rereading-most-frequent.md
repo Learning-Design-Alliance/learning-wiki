@@ -54,7 +54,7 @@ Gil, A., Osiecki, N., & Juarez, A. (2001). Students Reflecting on What They Know
 
 `q2 · i?` · `associational · r1`
 
-Results section, Table 10 discussion: least frequent behaviors across the sample were "deciding when to stop the activity if a difficulty arises (2), time for independent reading (3), and summarizing (30)." No effect size printed.
+Results section, Table 10 discussion: least frequent behaviors across the sample were "deciding when to stop the activity if a difficulty arises (2), time for independent reading (3), and summarizing (30)." Table 10 itself gives testing 30 and summarizing 235, so the prose names the wrong behavior; the subclaim follows the table. No effect size printed.
 
 > "The opposite, the least frequently metacognitive behaviors reported were: deciding when to stop the activity if a difficulty arises (2), time for independent reading (3), and summarizing (30)."
 

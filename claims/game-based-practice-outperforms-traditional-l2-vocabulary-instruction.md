@@ -53,6 +53,15 @@ month after arrival are an unusual population on every axis, four weeks is a sho
 "game-based" confounds format, novelty, competition and being outdoors. It motivates building a
 game; it does not evidence that a given game will work.
 
+**The note on articles is a hypothesis, not a finding.** The paper reports that articles needed
+explanation in Russian because neither Russian nor Ukrainian has them, and measured no article
+outcome. That learners from article-less first languages find the article system hard is plausible,
+and fits what
+[A learner's first language predicts L2 phoneme perception more strongly than their proficiency
+level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) shows in phonology, but this
+study does not test it, so it cannot justify moving articles in a difficulty ordering.
+
+<!-- deprecated (2026-09-30; the paper measured no article outcome, see observations/frolli-2023.yaml):
 **The article finding is the transferable one.** For learners from article-less first languages, the
 article system is a first-order difficulty and belongs high in a difficulty ordering, not among the
 beginner content where curricula usually place it. That is the same effect
@@ -60,6 +69,7 @@ beginner content where curricula usually place it. That is the same effect
 level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [+S] measures in phonology:
 what the first language does not encode is what the second language will be hard at, independent of
 level.
+-->
 
 **On the vocabulary numbers themselves.** Both groups roughly tripled or quadrupled their word
 count, which is what an immersion context does; the comparison is between two rates inside that, not

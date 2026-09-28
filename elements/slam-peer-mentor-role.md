@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 sources:
-  - id: harkins-2021
+  - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
-    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
+    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M"
 ---
 
@@ -44,7 +44,7 @@ SLAMs are undergraduate students with prior service-learning experience who serv
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Peer mentoring shows a trend toward higher posttest social justice attitudes](../claims/peer-mentoring-trend-social-justice-attitudes.md) [+W]
-- [Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses](../claims/peer-mentoring-increases-civic-action-service-learning.md) [+W]
+- [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](../claims/peer-mentoring-increases-civic-action-service-learning.md) [+W]
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](../claims/positive-relationships-increase-civic-engagement-intention.md) [+W]
 - [Positive SLAM-student relationship qualities correlate with civic action](../claims/slam-relationship-quality-correlates-civic-action.md) [+W]
 
@@ -55,4 +55,4 @@ SLAMs are undergraduate students with prior service-learning experience who serv
 -
 
 ## Key Sources
-- Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
+- Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202

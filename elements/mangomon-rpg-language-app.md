@@ -44,7 +44,7 @@ Mangomon is a gamified mobile application developed by a Thai software company w
 - [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](../claims/moderate-motivation-imi-mangomon.md) [+W]
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [-W]
-- [Gamification raises motivation, satisfaction, and test performance in vocabulary learning](../claims/gamification-raises-motivation-satisfaction.md) [+W]
+- [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
 
 ## Related Elements
 - 

@@ -45,7 +45,7 @@ The review reports Tode (2007), a seven-month experimental study of 89 Japanese 
 ## Related Claims
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — related
-- [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](recasts-more-enduring-than-metalinguistic-feedback.md) — related
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](time-treatment-interaction-corrective-feedback.md) — related
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related

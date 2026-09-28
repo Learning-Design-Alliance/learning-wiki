@@ -19,7 +19,7 @@ Completion problems first is a sequencing strategy in which learners' earliest p
 
 ## Design Implications
 
-Completion problems reduce the unguided search that makes early problem solving inefficient for novices, while requiring more generative processing than passive example study [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Because learners must actively complete steps, the strategy avoids the shallow encoding and illusion of understanding that full-example study alone can produce [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design task is choosing *which* steps to omit: omit steps that isolate the goal-rule or decision being taught, and fade progressively as performance improves.
+Completion problems reduce the unguided search that makes early problem solving inefficient for novices, while requiring more generative processing than passive example study [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Because learners must actively complete steps, the strategy avoids the shallow encoding and illusion of understanding that full-example study alone can produce [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. The design task is choosing *which* steps to omit: omit steps that isolate the goal-rule or decision being taught, and fade progressively as performance improves.
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 ### Target Learning Goals
 - Procedural skill acquisition in well-structured domains (algebra, programming, statistics)
 - Schema construction for recurring problem types
-- Bridging toward transfer: faded completion supports application to novel variants [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Bridging toward transfer: faded completion supports application to novel variants [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
 
 ### Instructions
 1. Present a fully worked example with reasoning made visible ([Think-Aloud](../elements/think-aloud.md) or annotated steps).

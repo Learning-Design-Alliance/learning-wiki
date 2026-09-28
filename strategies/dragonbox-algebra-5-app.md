@@ -19,7 +19,7 @@ DragonBox Algebra 5+ (WeWantToKnow AS) is a commercial game-based learning app t
 
 ## Design Implications
 
-The app exemplifies *implicit scaffolding through representational sequencing*: it teaches the structure of equation solving before the symbol system, reducing the simultaneous demands of learning procedures and decoding notation [Cognitive load theory: novices fail when intrinsic element interactivity is compounded by unfamiliar representations.](../theories/cognitive-load-theory.md) [+S]. The card-manipulation rules are discovered through play rather than stated, which works here because the rule space is small, deterministic, and immediately consequential — conditions under which guided discovery outperforms pure exposition [Unguided discovery is ineffective for novices, but constrained environments with immediate feedback narrow the gap.](../patterns/direct-instruction.md) [~M]. The progressive substitution of formal symbols for game objects is a form of fading the concrete representation, analogous to fading worked-example support [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+The app exemplifies *implicit scaffolding through representational sequencing*: it teaches the structure of equation solving before the symbol system, reducing the simultaneous demands of learning procedures and decoding notation [Cognitive load theory: novices fail when intrinsic element interactivity is compounded by unfamiliar representations.](../theories/cognitive-load-theory.md). The card-manipulation rules are discovered through play rather than stated, which works here because the rule space is small, deterministic, and immediately consequential — conditions under which guided discovery outperforms pure exposition [Unguided discovery is ineffective for novices, but constrained environments with immediate feedback narrow the gap.](../patterns/direct-instruction.md). The progressive substitution of formal symbols for game objects is a form of fading the concrete representation, analogous to fading worked-example support [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,8 +30,8 @@ The app exemplifies *implicit scaffolding through representational sequencing*: 
 
 #### Constraints
 - Learning the game mechanics is not the same as learning algebra; learners can become fluent at isolating the box without ever verbalizing the underlying principle, producing shallow encoding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [-M] — the app's implicit design provides no prompt for learners to articulate the rule
-- Transfer to standard symbolic notation is limited if the notation-substitution phase is rushed or skipped; some studies of DragonBox-style apps find game performance does not predict paper-and-pencil equation solving without supplementary instruction [-M]
-- The discovery-based mechanics demand more time than explicit instruction for equivalent procedural coverage, and weaker players can stall on game fluency rather than algebraic reasoning [~W]
+- Transfer to standard symbolic notation is limited if the notation-substitution phase is rushed or skipped; some studies of DragonBox-style apps find game performance does not predict paper-and-pencil equation solving without supplementary instruction
+- The discovery-based mechanics demand more time than explicit instruction for equivalent procedural coverage, and weaker players can stall on game fluency rather than algebraic reasoning
 - Effectiveness declines for learners who already know symbolic manipulation; the concrete game layer becomes redundant [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 
 #### Implementation Variability
@@ -41,7 +41,7 @@ The app exemplifies *implicit scaffolding through representational sequencing*: 
 
 ### Target Learners
 - Young learners (ages 5–12) encountering equation structure for the first time, for whom simultaneous notation decoding would overload working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
-- Novices who benefit from concrete, manipulable representations before abstract ones [~M]
+- Novices who benefit from concrete, manipulable representations before abstract ones
 - Older learners with existing symbolic fluency gain little and may find the game layer inefficient [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals

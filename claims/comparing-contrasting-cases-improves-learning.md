@@ -89,7 +89,8 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 **Expertise considerations.** As with worked examples, the value of guided comparison likely follows an expertise-reversal pattern: novices benefit from explicit prompts naming the contrasting dimensions, while advanced learners may compare spontaneously and find such scaffolding redundant. See [expertise reversal effect](../theories/expertise-reversal-effect.md).
 
-**Open questions.** The evidence base for this page has not yet been populated; the strength of the claim, its moderators (novice vs. advanced learners, domain, case format), and its effect sizes need to be established from the literature before the claim can be rated.
+**Open questions.** Three studies are recorded (Gentner et al. 2003, Rittle-Johnson & Star 2007, and the Alfieri et al. 2013 meta-analysis, coded medium). Still open: how learner expertise, domain and case format moderate the effect.
+<!-- deprecated (2026-09-30, stale once evidence was recorded): **Open questions.** The evidence base for this page has not yet been populated; the strength of the claim, its moderators (novice vs. advanced learners, domain, case format), and its effect sizes need to be established from the literature before the claim can be rated. -->
 
 *Merged from “Comparing contrasting cases improves learning” (comparing-contrasting-cases-improve-learning):* **Mechanism.** Contrasting cases work by making discriminating features visible. When two cases differ on exactly the dimension the designer wants learned, learners' attention is drawn to that dimension in a way that studying a single case cannot achieve [+W]. This aligns with the broader claim that [analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) [+M]: comparison invites learners to map structure from one case onto another, and the mapping process surfaces the relational schema that supports transfer.
 
@@ -99,7 +100,8 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 **Design implications.** Effective comparisons tend to (a) vary on one or few dimensions at a time, (b) present cases side by side or in immediate succession rather than spaced apart, (c) prompt learners to state what differs and why rather than leaving comparison implicit, and (d) align case surface features so that the intended deep structure is the salient difference. These follow directly from the mechanism above: anything that obscures the discriminating dimension — extra differences, temporal separation, or unprompted comparison — weakens the effect [~W]. Prompts to articulate differences can be treated as a form of [self-explanation](../elements/self-explanation.md) layered onto the comparison itself.
 
-**Open questions.** The evidence base for this claim has not yet been populated on this page; studies still need to be added before an evidence strength can be assigned. Key open questions include how the number of cases, the similarity of the cases, and the amount of guidance during comparison moderate the effect.
+**Open questions.** How the number of cases, their similarity and the amount of guidance during comparison moderate the effect is not settled by the entries recorded here.
+<!-- deprecated (2026-09-30, stale once evidence was recorded): **Open questions.** The evidence base for this claim has not yet been populated on this page; studies still need to be added before an evidence strength can be assigned. Key open questions include how the number of cases, the similarity of the cases, and the amount of guidance during comparison moderate the effect. -->
 
 ## Related Claims
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Rewards Undermine Intrinsic Motivation
+title: Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not
 status: draft
 generated:
   by: claude/unspecified
@@ -29,10 +29,11 @@ sources:
     rigour: "?"
 ---
 
-# Rewards Undermine Intrinsic Motivation
+# Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i1` small
+<!-- deprecated title (2026-09-30, overstated its evidence): Rewards Undermine Intrinsic Motivation -->
 
 Extrinsic rewards — particularly tangible, expected rewards offered contingent on task engagement or completion — can reduce learners' intrinsic motivation for activities they initially found interesting.
 

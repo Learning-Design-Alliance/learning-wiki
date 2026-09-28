@@ -113,7 +113,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 3 | 162 | 11 | 1 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 6 | 4 | 10 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |
-| [Pairing worked examples with practice or fading supports transfer better than examples …](claims/worked-examples-with-practice-improve-transfer.md) | 47 | 1 | 9 | 2 |
+| [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 47 | 1 | 9 | 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 291 | 22 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 11 | 7 | 1 |
 | [Rewarding an already-intrinsically-motivating activity can reduce future engagement with …](claims/overjustification-effect-reduces-intrinsic-motivation.md) | 1 | 1 | 4 | 4 |
@@ -136,7 +136,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 520 | 428 | 1 | 0 |
 | [elements](elements/index.md) | 688 | 459 | 2 | 0 |
 | [patterns](patterns/index.md) | 284 | 231 | 1 | 0 |
-| [strategies](strategies/index.md) | 3,127 | 2,319 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,127 | 2,320 | 6 | 0 |
 | [processes](processes/index.md) | 12 | 11 | 6 | 0 |
 | [methods](methods/index.md) | 17 | 11 | 3 | 0 |
 | [theories](theories/index.md) | 883 | 708 | 1 | 0 |

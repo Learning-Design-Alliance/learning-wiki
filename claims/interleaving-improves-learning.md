@@ -60,7 +60,7 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — same expertise-reversal boundary applies to interleaving schedules
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — supports that fade with expertise may reverse; interleaving benefits likely depend on learner skill level
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework within which interleaving's costs and benefits are usually analyzed
-- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
 - [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related

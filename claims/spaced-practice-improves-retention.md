@@ -181,7 +181,7 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — manageable load per session is a precondition for spacing to help
 - [Interleaving improves discrimination and learning.](interleaving-improves-learning.md) — a related scheduling manipulation that mixes rather than repeats content
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — possibly the same claim (merge candidate)
-- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — related
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
@@ -191,4 +191,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
-- [Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim
+- [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim

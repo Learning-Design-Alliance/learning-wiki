@@ -43,7 +43,7 @@ Because attendance and engagement are entirely voluntary, with no external accou
 
 ## Claims
 
-- [Rewards Undermine Intrinsic Motivation](../claims/rewards-undermine-intrinsic-motivation.md) [+M]
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+M]
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Principles

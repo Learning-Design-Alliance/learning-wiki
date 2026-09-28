@@ -44,4 +44,4 @@ The article's authors' assertion in the Formulating a Question element descripti
 
 ## Related Claims
 - [Generative processing improves learning](generative-processing-improves-learning.md) — related
-- [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related

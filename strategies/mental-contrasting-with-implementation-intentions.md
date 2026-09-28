@@ -12,14 +12,14 @@ generated:
 # Mental Contrasting With Implementation Intentions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 1 of 2 report an effect size
 
 ## Description
 Mental Contrasting With Implementation Intentions (MCII) is a two-step self-regulation strategy. First, learners mentally contrast a valued goal with the internal obstacles standing in its way — vividly imagining both the desired outcome and the present hindrance. Second, they form implementation intentions: if-then plans ("If situation X arises, then I will do Y") that link anticipated obstacles to specific responses. The combined procedure is sometimes taught under the name WOOP (Wish, Outcome, Obstacle, Plan).
 
 ## Design Implications
 
-MCII converts goal intentions into behavior by addressing two documented failures of goal setting alone: goals without obstacle-anticipation collapse when difficulties arise, and abstract intentions fail to cue action at the right moment [Gollwitzer's meta-analysis shows if-then planning reliably increases goal attainment across domains.](https://doi.org/10.1016/S0065-2601(06)39002-1) [+S]. The mental-contrasting step matters because it creates a necessity to act — contrasting the future with the present obstacle energizes commitment, whereas positive-fantasy-only visualization actually reduces effort and achievement [Positive fantasies predict lower effort and achievement than mental contrasting.](https://doi.org/10.1037/0003-066X.54.7.493) [-S]. The if-then structure delegates action initiation to environmental cues, making goal pursuit less dependent on in-the-moment willpower or working memory.
+MCII converts goal intentions into behavior by addressing two documented failures of goal setting alone: goals without obstacle-anticipation collapse when difficulties arise, and abstract intentions fail to cue action at the right moment [Gollwitzer's meta-analysis shows if-then planning reliably increases goal attainment across domains.](../claims/implementation-intentions-improve-goal-attainment.md) [+S]. The mental-contrasting step matters because it creates a necessity to act — contrasting the future with the present obstacle energizes commitment, whereas positive-fantasy-only visualization actually reduces effort and achievement [Positive fantasies predict lower effort and achievement than mental contrasting.](https://doi.org/10.1037/0003-066X.54.7.493) [-S]. The if-then structure delegates action initiation to environmental cues, making goal pursuit less dependent on in-the-moment willpower or working memory.
 
 ### Context
 #### Requirements

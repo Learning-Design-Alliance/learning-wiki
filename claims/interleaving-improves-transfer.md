@@ -59,7 +59,7 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — both effects show that optimal practice difficulty shifts with expertise, supporting faded schedules
 - [Cognitive load management](cognitive-load-management.md) — interleaving is a load-management decision: it trades reduced load during acquisition for greater load during practice
 - [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md) — related
-- [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
 - [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Learning](interleaving-improves-learning.md) — related

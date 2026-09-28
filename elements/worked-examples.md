@@ -40,7 +40,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+W]
 - [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+M]
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
 - [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
@@ -61,7 +61,7 @@ Worked examples are the element in which learners study complete or partial solu
 - **Not settled:** no study in the wiki sets worked examples directly against a productive-failure sequence, and the productive-failure comparisons are against instruction first, not against studying examples. Whether a problem followed by an example helps more than problems alone is also unclear: the two wiki pages on van Gog et al. (2011) disagree, one saying all example-based conditions beat problems only, the other that problem–example pairs did not differ from problems only.
 
 ### Are examples enough on their own, or must they be paired with practice?
-- **Default:** follow examples with structurally similar problems and move learners toward solving on their own — [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
+- **Default:** follow examples with structurally similar problems and move learners toward solving on their own — [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
 - **Changes when:** the target is problems of a different structure → examples alone did not carry over. Sweller and Cooper's gains held only for problems identical in structure to the examples, and the authors argue general rules take practice across a wider range of problems — [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [~S]
 - **Tested with:** secondary-school novices in circuit troubleshooting; school and university students in algebra.
 - **Not settled:** the claim page's title says pairing beats examples alone, but its evidence compares example-based sequences with problems only, and the fuller page on the same experiment found examples only and example–problem pairs did not differ on the post-test. The number of examples per problem, and how many pairs a topic needs, have no wiki evidence.

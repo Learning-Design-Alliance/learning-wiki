@@ -19,7 +19,7 @@ I Do, We Do, You Do (gradual release of responsibility) is a three-phase instruc
 
 ## Design Implications
 
-The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](../elements/fading.md): each phase removes support as learners demonstrate readiness. The "I do" phase works best as a [Demonstration](../elements/demonstration.md) with [Think-Aloud](../elements/think-aloud.md) narration, since silent modeling leaves learners to infer the reasoning [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The "we do" phase is where most designs fail — it must involve genuine learner attempts with responsive feedback, not a second teacher-led explanation [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](../elements/fading.md): each phase removes support as learners demonstrate readiness. The "I do" phase works best as a [Demonstration](../elements/demonstration.md) with [Think-Aloud](../elements/think-aloud.md) narration, since silent modeling leaves learners to infer the reasoning [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The "we do" phase is where most designs fail — it must involve genuine learner attempts with responsive feedback, not a second teacher-led explanation [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](.
 
 #### Constraints
 - Treating the sequence as rigid and linear wastes time for learners who already have partial expertise — they sit through redundant modeling [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
-- A weak "we do" phase (teacher re-explains instead of learners attempting) produces passive learners who fail at independent work [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- A weak "we do" phase (teacher re-explains instead of learners attempting) produces passive learners who fail at independent work [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Poorly matched independent tasks (too different from the model) break the transfer bridge; too similar and learners copy mechanically [~M]
 - Ill-suited to open-ended, ill-structured tasks with no single expert approach; modeling one path can anchor learners to it
 
@@ -68,7 +68,7 @@ The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](.
 
 ## Examples
 - **Explicit writing instruction:** Teacher models writing a persuasive paragraph aloud (I do), the class co-constructs the next one on the board (we do), students write their own (you do) — the standard structure of [The Writing Revolution](https://www.thewritingrevolution.org) method.
-- **Mathematics:** A teacher works a ratio problem with full reasoning, pairs solve a near-transfer problem while the teacher circulates, then students solve independently — consistent with worked-example practice research [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+- **Mathematics:** A teacher works a ratio problem with full reasoning, pairs solve a near-transfer problem while the teacher circulates, then students solve independently — consistent with worked-example practice research [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 - **Khan Academy** ([khanacademy.org](https://www.khanacademy.org)) — narrated video models (I do), hint-scaffolded exercises approximating guided attempts (we do), then independent mastery practice (you do).
 
 ## Key Sources

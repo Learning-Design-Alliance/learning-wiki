@@ -14,7 +14,7 @@ sources:
     title: "Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951"
     author: Zhang Beibei et al
     q: 2
-    i: 1
+    i: 2
     kind: design
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i1` Self-reported purposefulness scores after VS were significantly higher than after AV (medium effect). [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
+`q2 i2` Self-reported purposefulness scores after VS were significantly higher than after AV (medium effect). [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i1` · `design · r2`
+`q2 · i2 · medium effect, Cohen's d = 0.507` · `design · r2`
 
 Paired comparison of questionnaire purposefulness scores from the 34-student core sample after Workshop 1 (VS) and Workshop 2 (AV); Wilcoxon check consistent (z = −2.668, p = 0.008). The authors attribute this to VS's simplified context freeing attentional resources for reflection.
 

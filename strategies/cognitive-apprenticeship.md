@@ -29,7 +29,7 @@ Cognitive apprenticeship works because it externalizes the tacit decision-making
 - Structures that push learners to explain and justify their own strategies ([Articulation](../elements/articulation.md), [Self-Explanation](../elements/self-explanation.md))
 
 #### Constraints
-- Modeling without subsequent coached practice produces illusory competence — learners who watch an expert solve problems often believe they could do the same [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Modeling without subsequent coached practice produces illusory competence — learners who watch an expert solve problems often believe they could do the same [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Full expert modeling can impose extraneous load or become redundant for learners with substantial prior knowledge [Worked-example guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M] — the modeling phase must fade quickly for advanced learners
 - Requires deep task expertise from the instructor; a teacher who cannot articulate *why* they make decisions cannot model effectively, and scripted imitation of expert moves without reasoning produces brittle knowledge [~M]
 - In large or asynchronous settings, genuine responsive coaching is hard to sustain; peer coaching and structured reciprocal teaching are partial substitutes with weaker effects [~W]

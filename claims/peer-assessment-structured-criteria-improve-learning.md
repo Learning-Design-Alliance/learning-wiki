@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Peer Assessment Structured Criteria Improve Learning
+title: Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Peer Assessment Structured Criteria Improve Learning
+# Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i0` negligible · n=54 studies, k=141 effect sizes
+<!-- deprecated title (2026-09-30, overstated its evidence): Peer Assessment Structured Criteria Improve Learning -->
 
 Peer assessment produces more reliable judgments and better learning outcomes when reviewers are given explicit, structured criteria (rubrics, checklists, or sentence stems) rather than asked to evaluate open-endedly. The mechanism is attentional: criteria direct reviewers to specific dimensions of quality rather than leaving them to rely on general impressions.
 

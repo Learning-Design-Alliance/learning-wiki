@@ -19,7 +19,7 @@ Explicit routine instruction is the deliberate, step-by-step teaching of recurri
 
 ## Design Implications
 
-Routines reduce the working-memory demands of recurring tasks by making the sequence automatic, freeing capacity for content and higher-order decisions [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Effectiveness depends on unambiguous wording, consistent step order, and immediate guided practice — vague or inconsistent routines produce fragile execution [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Because routines are procedural, they must be rehearsed to fluency, not merely explained [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Routines reduce the working-memory demands of recurring tasks by making the sequence automatic, freeing capacity for content and higher-order decisions [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Effectiveness depends on unambiguous wording, consistent step order, and immediate guided practice — vague or inconsistent routines produce fragile execution [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Because routines are procedural, they must be rehearsed to fluency, not merely explained [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements

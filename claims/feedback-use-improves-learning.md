@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Feedback Use Improves Learning
+title: Feedback improves learning, with a medium average effect that varies widely by feedback type
 status: draft
 generated:
   by: claude/unspecified
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Feedback Use Improves Learning
+# Feedback improves learning, with a medium average effect that varies widely by feedback type
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=994 effect sizes, N>61,000
+<!-- deprecated title (2026-09-30, overstated its evidence): Feedback Use Improves Learning -->
 
 Learners benefit when they receive feedback on their performance and actively use it to revise their understanding or work. The claim centers on feedback **use** — revision, re-attempt, strategy adjustment — not merely feedback delivery.
 

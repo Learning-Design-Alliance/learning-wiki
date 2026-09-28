@@ -19,7 +19,7 @@ Explicit teaching is a structured approach in which the teacher clearly shows st
 
 ## Design Implications
 
-Explicit teaching works because it reduces unguided search and manages working memory load during initial skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on sequencing: modelling must be followed by guided practice with feedback, then independent practice, since explanation alone produces shallow encoding [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Meta-analytic evidence shows strong positive effects on achievement, particularly for foundational skills [Stockard et al. (2018) meta-analysis of Direct Instruction] [+S].
+Explicit teaching works because it reduces unguided search and manages working memory load during initial skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. Its effectiveness depends on sequencing: modelling must be followed by guided practice with feedback, then independent practice, since explanation alone produces shallow encoding [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Meta-analytic evidence shows strong positive effects on achievement, particularly for foundational skills [Stockard et al. (2018) meta-analysis of Direct Instruction] [+S].
 
 ### Context
 #### Requirements

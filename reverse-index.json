@@ -1,7 +1,7 @@
 {
  "coverage": {
   "claims->claims": 3127,
-  "claims->elements": 118,
+  "claims->elements": 119,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 96,
@@ -48,7 +48,7 @@
   "processes->principles": 10,
   "processes->processes": 9,
   "processes->theories": 10,
-  "strategies->claims": 2319,
+  "strategies->claims": 2320,
   "strategies->elements": 2393,
   "strategies->methods": 10,
   "strategies->patterns": 816,
@@ -57820,6 +57820,20 @@
      }
     ]
    },
+   "implementation-intentions-improve-goal-attainment": {
+    "strategies": [
+     {
+      "polarity": "+",
+      "slug": "identifying_obstacles",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "mental-contrasting-with-implementation-intentions",
+      "strength": "S"
+     }
+    ]
+   },
    "implicit-scaffolding-supports-immediate-exploration": {
     "claims": [
      {
@@ -62181,9 +62195,7 @@
       "slug": "adults-superior-vocabulary-structure-learning"
      },
      {
-      "polarity": "+",
-      "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
-      "strength": "S"
+      "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction"
      },
      {
       "polarity": "+",
@@ -114759,7 +114771,7 @@
      {
       "polarity": "+",
       "slug": "4cid-four-component-instructional-design",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -137839,6 +137851,9 @@
       "slug": "direct-instruction-improves-outcomes"
      },
      {
+      "slug": "example-problem-sequences-reduce-cognitive-load"
+     },
+     {
       "slug": "expertise-reversal-guidance-hurts-experts"
      },
      {
@@ -145554,6 +145569,9 @@
     "claims": [
      {
       "slug": "direct-instruction-improves-outcomes"
+     },
+     {
+      "slug": "example-problem-sequences-reduce-cognitive-load"
      },
      {
       "slug": "fluent-illusions-mislead-self-assessment"
@@ -159343,9 +159361,7 @@
       "slug": "doubles-minus-one"
      },
      {
-      "polarity": "~",
-      "slug": "dragonbox-algebra-5-app",
-      "strength": "M"
+      "slug": "dragonbox-algebra-5-app"
      },
      {
       "slug": "dynamically_introduce_academic_vocabulary"
@@ -186924,9 +186940,7 @@
       "slug": "direct_instruction-spelling"
      },
      {
-      "polarity": "+",
-      "slug": "dragonbox-algebra-5-app",
-      "strength": "S"
+      "slug": "dragonbox-algebra-5-app"
      },
      {
       "slug": "establishing_classroom_routines"

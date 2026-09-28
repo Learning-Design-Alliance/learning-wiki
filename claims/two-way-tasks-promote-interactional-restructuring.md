@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange
-description: Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange
+title: Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange
+description: Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange
 id: two-way-tasks-promote-interactional-restructuring
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange
+# Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+<!-- deprecated title (2026-09-30, overstated its evidence): Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange -->
 
 ## Subclaims
 `q2 i?` Long (1980) found a statistically significant higher frequency of interactional features in NS-NNS than NS-NS conversations in two-way/jigsaw tasks but not in one-way or decision-making tasks. [→ Ellis 1991](#ellis-1991)
@@ -35,7 +36,7 @@ Ellis, Rod. (1991). The Interaction Hypothesis; A Critical Evaluation. ERIC Docu
 
 `q2 · i?` · `review · r3`
 
-The review reports Long's (1980) observational study of native-speaker talk to sixteen non-native speakers in interview-type situations, comparing NS-NNS with NS-NS baseline conversations across task types. The contrast between task types was statistically significant for interactional features; no effect size is printed.
+The review reports Long's (1980) observational study of native-speaker talk to sixteen non-native speakers in interview-type situations, comparing NS-NNS with NS-NS baseline conversations across task types. Interactional features were significantly more frequent in NS-NNS than NS-NS conversations in information-exchange tasks, and not in tasks without information exchange; the review reports no direct test between task types, and no effect size is printed.
 
 > "he found a statistically significant higher frequency of various interactional features in NS-NNS as oppoaed to NS-NS conversations in tasks which required information axchange (i.e. two-way or jigsaw tasks) but not in tasks which did not require any iuformation exchange"
 

@@ -9,9 +9,9 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 sources:
-  - id: harkins-2021
+  - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
-    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
+    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
     q: 3
     i: 1
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i1` Positive professor relationship qualities (guidance, satisfaction, nurturance, reassurance of competence, power) correlated with civic action, diversity, and political awareness, while conflict and antagonism negatively correlated with social justice and diversity attitudes. [→ Harkins 2021](#harkins-2021)
+`q3 i1` Positive professor relationship qualities (guidance, satisfaction, nurturance, reassurance of competence, power) correlated with civic action, diversity, and political awareness, while conflict and antagonism negatively correlated with social justice and diversity attitudes. [→ Harkins 2020](#harkins-2020)
 
 ## Evidence
 
-### Harkins 2021
+### Harkins 2020
 
-Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
+Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
 `q3 · i1` · `associational · r2`
 

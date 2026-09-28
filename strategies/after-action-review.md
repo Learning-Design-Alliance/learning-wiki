@@ -29,9 +29,9 @@ AARs work because they force comparison between expected and observed outcomes, 
 - A record of lessons learned that feeds into the next attempt or [Practice](../elements/practice.md) cycle
 
 #### Constraints
-- In low-trust or hierarchically charged environments, learners underreport errors and the review produces sanitized lessons [-M]
-- Reviews of rare or ambiguous events can entrench wrong causal explanations when groups settle on a plausible-but-incorrect "why" without evidence [~M]
-- AARs conducted long after the event lose accuracy as memory reconstructs; immediate or same-day review is substantially more diagnostic [~M]
+- In low-trust or hierarchically charged environments, learners underreport errors and the review produces sanitized lessons
+- Reviews of rare or ambiguous events can entrench wrong causal explanations when groups settle on a plausible-but-incorrect "why" without evidence
+- AARs conducted long after the event lose accuracy as memory reconstructs; immediate or same-day review is substantially more diagnostic
 - Overuse on routine tasks breeds ritual compliance — the format adds value only when outcomes were uncertain or performance fell short
 
 #### Implementation Variability
@@ -41,8 +41,8 @@ AARs work because they force comparison between expected and observed outcomes, 
 - **Written AAR logs**: asynchronous versions in online courses, ideally paired with instructor [Feedback](../elements/feedback.md) on the causal analysis itself
 
 ### Target Learners
-- Learners in simulation, clinical, or performance-based settings where errors carry diagnostic information [+M]
-- Intermediate learners who have enough experience to generate causal hypotheses; pure novices often lack the knowledge to explain *why* outcomes diverged and need expert modeling of the causal analysis [~M]
+- Learners in simulation, clinical, or performance-based settings where errors carry diagnostic information
+- Intermediate learners who have enough experience to generate causal hypotheses; pure novices often lack the knowledge to explain *why* outcomes diverged and need expert modeling of the causal analysis
 - Teams, where shared review builds a common model of what "good" looks like
 
 ### Target Learning Goals

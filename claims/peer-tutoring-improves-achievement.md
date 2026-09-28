@@ -78,7 +78,7 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — tutoring is an active-learning format; effects should be interpreted against that baseline.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why explaining to a peer can benefit the tutor through germane elaboration, and why overloaded tutors may fail.
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
-- [Direct instruction improves learning outcomes](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
+- [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related

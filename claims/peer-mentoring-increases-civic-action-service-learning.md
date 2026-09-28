@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses
-description: Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses
+title: Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison
+description: Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison
 id: peer-mentoring-increases-civic-action-service-learning
 status: draft
 generated:
@@ -9,33 +9,34 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 sources:
-  - id: harkins-2021
+  - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
-    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
+    title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
-    q: 3
-    i: 1
-    kind: causal
-    rigour: 1
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
 ---
 
-# Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses
+# Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
+> **Evidence** · 1 study · associational `r2` · `q2`
+<!-- deprecated title (2026-09-30, overstated its evidence): Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses -->
 
 ## Subclaims
-`q3 i1` Students with a SLAM peer mentor had significantly higher posttest civic action scores (M = 4.20, SD = .52) than students without mentoring support (M = 3.93, SD = .62), F(1) = 4.51, p = .037. [→ Harkins 2021](#harkins-2021)
+`q2 i?` Students with a SLAM peer mentor had significantly higher posttest civic action scores (M = 4.20, SD = .52) than students without mentoring support (M = 3.93, SD = .62), F(1) = 4.51, p = .037. [→ Harkins 2020](#harkins-2020)
 
 ## Evidence
 
-### Harkins 2021
+### Harkins 2020
 
-Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2021). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
+Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i1` · `causal · r1`
+`q2 · quasi-experimental comparison of course groups formed by course structure, not randomised` · `i? · F and group means printed, no effect size` · `associational · r2`
 
-A MANOVA compared posttest CASQ scores between mentored (n = 60) and non-mentored (n = 65) service-learning groups after confirming no pretest differences. The article reports "a significant difference for civic action, F(1) = 4.51, p = .037" favoring the mentored group.
+A MANOVA compared posttest CASQ scores between mentored (n = 60) and non-mentored (n = 65) service-learning groups after confirming no pretest differences. The article reports "a significant difference for civic action, F(1) = 4.51, p = .037" favoring the mentored group. Groups were set by which courses had a SLAM, not by random assignment, so the difference is an association the design cannot attribute to mentoring alone.
 
 > "we examined posttest scores and found a significant difference for civic action, F(1) = 4.51, p = .037, such that students with a SLAM had higher posttest civic action scores (M = 4.20, SD = .52) than students who received no mentoring support (M = 3.93, SD = .62)"
 

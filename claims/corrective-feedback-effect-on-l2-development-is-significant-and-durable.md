@@ -68,7 +68,7 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 
 ## Related Claims
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a narrower claim about one feedback type
-- [Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay](recasts-more-enduring-than-metalinguistic-feedback.md) — a narrower finding that bears on this claim
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — a narrower finding that bears on this claim
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — a narrower finding that bears on this claim
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](time-treatment-interaction-corrective-feedback.md) — related
 - [Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies](call-feedback-medium-positive-effect.md) — related

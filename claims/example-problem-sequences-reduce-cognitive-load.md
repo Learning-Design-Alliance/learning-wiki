@@ -12,7 +12,7 @@ sources:
     author: "Van Gog, T., Kester, L., & Paas, F."
     q: 3
     i: "?"
-    n: 48
+    n: 96 analysed (103 randomised)
     kind: causal
     rigour: "?"
 id: example-problem-sequences-reduce-cognitive-load
@@ -22,14 +22,16 @@ evidence_strength: moderate
 # Example-problem sequences reduce cognitive load and improve learning outcomes.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3` · n=48
+> **Evidence** · 1 study · causal `r?` · `q3` · n=96 analysed (103 randomised)
 
 Learners who study worked examples before or interleaved with practice problems tend to learn more efficiently than learners who only solve problems.
 
 ## Subclaims
-`q3 i?` Example-based sequences produce lower cognitive load than problem-only practice for novices. [→ van Gog et al. 2011](#van-gog-et-al-2011)
+`q3 i?` Sequences that begin with a worked example (examples only, or example–problem pairs) produce lower invested mental effort than problems only for novices; problem–example pairs do not. [→ van Gog et al. 2011](#van-gog-et-al-2011)
+<!-- deprecated (2026-09-30): `q3 i?` Example-based sequences produce lower cognitive load than problem-only practice for novices. [→ van Gog et al. 2011](#van-gog-et-al-2011) -->
 
-`q3 i?` Example-based sequences produce better transfer performance than problem-only practice for novices. [→ van Gog et al. 2011](#van-gog-et-al-2011)
+`q3 i?` Sequences that begin with a worked example produce higher test performance than problems only for novices; problem–example pairs do not outperform problems only. [→ van Gog et al. 2011](#van-gog-et-al-2011)
+<!-- deprecated (2026-09-30): `q3 i?` Example-based sequences produce better transfer performance than problem-only practice for novices. [→ van Gog et al. 2011](#van-gog-et-al-2011) -->
 
 ## Evidence
 
@@ -39,9 +41,11 @@ Primary evidence link: https://doi.org/10.1016/j.cedpsych.2010.10.004
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 
-`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=48` · `causal · r?`
+`q3 · peer-reviewed experiment` · `i? · partial η² reported (.20–.23), no d/g/r/OR` · `n=96 analysed (103 randomised)` · `causal · r?`
 
-Novices in all example-based conditions outperformed the problem-only condition and reported lower cognitive load. The result supports using sequences that mix modeled solutions and independent attempts instead of starting with unsupported problem solving.
+103 Dutch secondary-school novices in electrical-circuit troubleshooting were randomly assigned to four training conditions: worked examples only, [example](../elements/demonstration.md)–[problem](../elements/practice.md) pairs, problem–example pairs, or problems only; 96 were analysed. The two example-first conditions (examples only, and example–problem pairs) produced higher test performance (F(3,91) = 9.00, p < .001, ηp² = .23) and lower invested mental effort (F(3,91) = 7.78, p < .001, ηp² = .20) than the two problem-first conditions. Problem–example pairs did not outperform problems only, so what mattered was starting with an example, not merely including one. The full text was not reachable here (the repository PDF returns 403); these figures follow the full-text reading recorded on [the sibling page](worked-example-problem-sequences.md).
+
+<!-- deprecated (2026-09-30, contradicted the full-text reading of the same study): Novices in all example-based conditions outperformed the problem-only condition and reported lower cognitive load. The result supports using sequences that mix modeled solutions and independent attempts instead of starting with unsupported problem solving. -->
 
 ## Discussion
 
@@ -49,6 +53,6 @@ This page exists because multiple principle and index pages reference `[Example-
 
 ## Related Claims
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — a narrower finding that bears on this claim
