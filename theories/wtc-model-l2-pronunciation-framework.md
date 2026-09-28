@@ -43,6 +43,7 @@ The article uses the WTC model (MacIntyre et al., 1998) as its organizing framew
 - [Communicative-cognitive framework for teaching pronunciation: description and analysis, listening discrimination, controlled practice, guided practice, communicative practice](communicative-cognitive-pronunciation-teaching-framework.md)
 - [MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2](macintyre-heuristic-pyramid-model-l2-wtc.md)
 - [MacIntyre et al.'s situational model of willingness to communicate in L2](macintyre-situational-wtc-model.md)
+- [Willingness to Communicate in a Second Language](willingness-to-communicate-in-l2.md) — the canonical page for this theory
 
 ## Examples
 

@@ -46,6 +46,7 @@ The article describes the comprehensive 1998 model of L2 willingness to communic
 
 - [MacIntyre et al.'s situational model of willingness to communicate in L2](macintyre-situational-wtc-model.md)
 - [MacIntyre et al.'s willingness-to-communicate (WTC) model as a framework linking pronunciation and affective variables](wtc-model-l2-pronunciation-framework.md)
+- [Willingness to Communicate in a Second Language](willingness-to-communicate-in-l2.md) — the canonical page for this theory
 
 ## Examples
 

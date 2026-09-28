@@ -46,6 +46,7 @@ The article presents Dörnyei's (2005) L2 Motivational Self System as a comprehe
 
 ## Related Theories
 - 
+- [L2 Motivational Self System](l2-motivational-self-system.md) — the canonical page for this theory
 
 ## Examples
 

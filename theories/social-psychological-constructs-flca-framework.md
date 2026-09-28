@@ -50,6 +50,7 @@ The article grounds its study of Foreign Language Classroom Anxiety in four soci
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
 - [Self-Determination Theory as a framework for L2/ESP motivation](sdt-framework-esp-motivation.md)
 - [SDT motivation continuum: four forms of extrinsic motivation varying in autonomy](sdt-motivation-continuum-four-extrinsic-regulations.md)
+- [Foreign Language Anxiety](foreign-language-anxiety.md) — the canonical page for this theory
 
 ## Examples
 -

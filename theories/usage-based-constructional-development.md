@@ -45,6 +45,7 @@ Usage-based approaches explain language development as a gradual process of gene
 
 ## Related Theories
 - 
+- [Usage-Based Second Language Acquisition](usage-based-second-language-acquisition.md) — the canonical page for this theory
 
 ## Examples
 

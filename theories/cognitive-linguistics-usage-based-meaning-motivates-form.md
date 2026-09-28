@@ -44,6 +44,7 @@ The article presents Cognitive Linguistics (CL) as a framework in which "languag
 ## Related Theories
 
 - [Complex Dynamic Systems Theory frames learner language as hierarchical, interdependent subsystems in dynamic relations over time](cdst-interdependent-language-subsystems-framework.md)
+- [Usage-Based Second Language Acquisition](usage-based-second-language-acquisition.md) — the canonical page for this theory
 
 ## Examples
 
