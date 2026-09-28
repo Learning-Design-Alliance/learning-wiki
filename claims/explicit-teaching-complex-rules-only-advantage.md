@@ -17,15 +17,25 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: spada-tomita-2010
+    resource: "https://doi.org/10.1111/j.1467-9922.2010.00562.x"
+    title: "Spada, N., & Tomita, Y. (2010). Interactions between type of instruction and type of language feature: A meta-analysis. *Language Learning, 60*(2), 263–308. [doi:10.1111/j.1467-9922.2010.00562.x](https://doi.org/10.1111/j.1467-9922.2010.00562.x)"
+    author: "Spada, N., & Tomita, Y."
+    q: 3
+    i: "?"
+    n: 41 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=41 studies
 
 ## Subclaims
 `q2 i?` Explicit teaching of grammar resulted in better learner performance particularly with complex rules, while no difference was found for simple rules. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)
+`q3 i?` Contrary to this claim's simple-rule null, a meta-analysis of 41 studies found larger effect sizes for explicit than implicit instruction for simple as well as complex English grammatical features; the abstract prints no effect size. [→ Spada & Tomita 2010](#spada-tomita-2010)
 
 ## Evidence
 
@@ -39,8 +49,19 @@ The review reports Andrews (2007), a quantitative study of 70 teenage ESL learne
 
 > "the method of teaching did make a difference indicating that explicit teaching of grammar resulted in better learners performance particularly with complex rules"
 
+### Spada & Tomita 2010
+
+Spada, N., & Tomita, Y. (2010). Interactions between type of instruction and type of language feature: A meta-analysis. *Language Learning, 60*(2), 263–308. [doi:10.1111/j.1467-9922.2010.00562.x](https://doi.org/10.1111/j.1467-9922.2010.00562.x)
+
+`q3 · meta-analysis (abstract only)` · `i?` · `n=41 studies` · `quant-synthesis · r?`
+
+Meta-analysis of 41 studies of explicit and implicit instruction on simple and complex grammatical features in English, with features classed by the number of criteria applied to arrive at the correct form (Hulstijn & de Graaff, 1994) and treatments classed following Norris and Ortega (2000). It found larger effect sizes for explicit over implicit instruction for both simple and complex features, which contradicts this claim's second half (no difference for simple rules). Only the abstract was read: it prints no effect sizes, so whether the explicit advantage is smaller for simple features is not established here.
+
+> "The results indicate larger effect sizes for explicit over implicit instruction for simple and complex features."
+
 ## Discussion
 
+Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for explicit than implicit instruction for simple as well as complex English grammatical features, which contradicts this claim's "equals implicit teaching for simple rules". The claim rests on one primary study (Andrews, 2007) reported second-hand, so the title likely overstates the simple-rule null; renaming is the maintainer's call.
 
 ## Related Claims
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — possibly the same claim (merge candidate)

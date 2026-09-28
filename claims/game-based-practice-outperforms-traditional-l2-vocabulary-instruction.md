@@ -17,13 +17,13 @@ sources:
     i: 3
     n: 48
     kind: causal
-    rigour: "?"
+    rigour: 1
 ---
 
 # Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q2` · `i3` large · n=48
+> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=48
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
 paper's note on articles is an implementation detail, not a finding: no article outcome was measured.
@@ -42,7 +42,7 @@ paper's note on articles is an implementation detail, not a finding: no article 
 
 Frolli, A., Cerciello, F., Esposito, C., Russo, M., & Bisogni, F. (2023). Learning Italian as a second language in a sample of Ukrainian children: A game-based learning approach. *Pediatric Reports, 15*(3), 502–511. [doi:10.3390/pediatric15030046](https://doi.org/10.3390/pediatric15030046)
 
-`q2 · two-group controlled classroom comparison over four weeks` · `i3 · 171.91 vs 139.29 words, F(1,46) = 219.215` · `n=48` · `causal · r?`
+`q2 · two-group controlled classroom comparison over four weeks` · `i3 · 171.91 vs 139.29 words, F(1,46) = 219.215` · `n=48` · `causal · r1`
 
 48 Ukrainian children aged 6–7 (mean 6.5), about one month resident in Italy, were taught basic Italian vocabulary for four weeks in two conditions: game-based (Kahoot! and outdoor games) or traditional instruction. Both groups started near 40 words. The authors attribute the difference to motivation and attention, noting that incentive systems fuelled the students' motivation to win. They separately note that articles were the one topic taught partly in Russian, since neither Russian nor Ukrainian has them; no article-specific outcome was measured.
 

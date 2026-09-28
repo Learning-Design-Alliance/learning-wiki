@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3139,
+  "claim": 3143,
   "element": 688,
   "learner-variable": 12,
   "method": 17,
@@ -5032,6 +5032,15 @@
    "type": "claim"
   },
   {
+   "description": "Meta-analyses of corrective-feedback studies find a significant effect of correcting learners' L2 errors on target-language development, still present at delayed posttests.",
+   "evidence_strength": "moderate",
+   "id": "corrective-feedback-effect-on-l2-development-is-significant-and-durable",
+   "path": "claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md",
+   "status": "draft",
+   "title": "Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests",
+   "type": "claim"
+  },
+  {
    "description": "The study's correlational, cross-sectional design limits internal validity and causal interpretation",
    "evidence_strength": "weak",
    "id": "correlational-design-limits-epistemic-freedom-study",
@@ -9193,6 +9202,15 @@
    "type": "claim"
   },
   {
+   "description": "Review evidence that L2 learners gain from knowing many formulaic sequences yet lag native speakers in them, with instruction aimed at noticing, reference-tool lookups and memorising sequences",
+   "evidence_strength": "weak",
+   "id": "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire",
+   "path": "claims/formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md",
+   "status": "draft",
+   "title": "A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language",
+   "type": "claim"
+  },
+  {
    "description": "Children acquiring a second language through immersion begin with formulaic utterances used as wholes, which are gradually analyzed into component words",
    "evidence_strength": "weak",
    "id": "formulaic-utterances-dominate-early-immersion-speech",
@@ -9559,6 +9577,14 @@
    "path": "claims/games-relaxing-fun-confidence.md",
    "status": "draft",
    "title": "Students view games as relaxing and fun, building confidence for speaking",
+   "type": "claim"
+  },
+  {
+   "description": "Adding game design elements to instruction produced small positive pooled effects on cognitive, motivational and behavioral learning outcomes; only the cognitive effect held among the more rigorous studies.",
+   "id": "gamification-has-small-positive-effects-on-learning-outcomes",
+   "path": "claims/gamification-has-small-positive-effects-on-learning-outcomes.md",
+   "status": "draft",
+   "title": "Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes",
    "type": "claim"
   },
   {
@@ -11408,6 +11434,14 @@
    "type": "claim"
   },
   {
+   "description": "Adding an if-then plan that says when, where and how to act to a goal intention raises goal attainment, with a medium-to-large pooled effect across 94 tests; in online courses a brief planning activity raised completion only for some learners.",
+   "id": "implementation-intentions-improve-goal-attainment",
+   "path": "claims/implementation-intentions-improve-goal-attainment.md",
+   "status": "draft",
+   "title": "Forming implementation intentions (if-then plans) improves goal attainment",
+   "type": "claim"
+  },
+  {
    "description": "A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance",
    "evidence_strength": "weak",
    "id": "implicit-scaffolding-supports-immediate-exploration",
@@ -11605,7 +11639,7 @@
    "id": "individual-work-best-asr-pronunciation-training",
    "path": "claims/individual-work-best-asr-pronunciation-training.md",
    "status": "draft",
-   "title": "Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions",
+   "title": "Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects",
    "type": "claim"
   },
   {
@@ -20296,7 +20330,7 @@
    "id": "reading-versus-listening-incidental-vocabulary-gains",
    "path": "claims/reading-versus-listening-incidental-vocabulary-gains.md",
    "status": "draft",
-   "title": "Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners",
+   "title": "Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests",
    "type": "claim"
   },
   {
@@ -73457,6 +73491,7 @@
    "cooperative-learning-versus-individual-endeavors": "cooperative-learning-versus-individual-endeavors",
    "coordination-dominates-communication-rare": "coordination-dominates-communication-rare",
    "cop-nonparticipation-invalidates-learner-identities": "cop-nonparticipation-invalidates-learner-identities",
+   "corrective-feedback-effect-on-l2-development-is-significant-and-durable": "corrective-feedback-effect-on-l2-development-is-significant-and-durable",
    "correlational-design-limits-epistemic-freedom-study": "correlational-design-limits-epistemic-freedom-study",
    "course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks": "course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks",
    "course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances": "course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances",
@@ -73928,6 +73963,7 @@
    "formative-assessment-produces-substantial-learning-gains-cited": "formative-assessment-produces-substantial-learning-gains-cited",
    "formatted-problem-solving-plan-posttest-advantage": "formatted-problem-solving-plan-posttest-advantage",
    "forming-focus-main-task-information-seeking": "forming-focus-main-task-information-seeking",
+   "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire": "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire",
    "formulaic-utterances-dominate-early-immersion-speech": "formulaic-utterances-dominate-early-immersion-speech",
    "foundation-integration-predicts-environment-success": "foundation-integration-predicts-environment-success",
    "four-contexts-influential-preservice-philosophy": "four-contexts-influential-preservice-philosophy",
@@ -73969,6 +74005,7 @@
    "games-fun-atmosphere-participation": "games-fun-atmosphere-participation",
    "games-reduce-speaking-stress-improve-skills": "games-reduce-speaking-stress-improve-skills",
    "games-relaxing-fun-confidence": "games-relaxing-fun-confidence",
+   "gamification-has-small-positive-effects-on-learning-outcomes": "gamification-has-small-positive-effects-on-learning-outcomes",
    "gamification-raises-motivation-satisfaction": "gamification-raises-motivation-satisfaction",
    "gamma-process-positive-gain-pretest-correlation": "gamma-process-positive-gain-pretest-correlation",
    "gap-between-media-theory-and-isd-steps": "gap-between-media-theory-and-isd-steps",
@@ -74180,6 +74217,7 @@
    "immigration-discussion-hope-immigrant-origin-only": "immigration-discussion-hope-immigrant-origin-only",
    "immigration-discussion-in-gsas-predicts-peer-validation": "immigration-discussion-in-gsas-predicts-peer-validation",
    "immigration-discussion-null-critical-consciousness": "immigration-discussion-null-critical-consciousness",
+   "implementation-intentions-improve-goal-attainment": "implementation-intentions-improve-goal-attainment",
    "implicit-scaffolding-supports-immediate-exploration": "implicit-scaffolding-supports-immediate-exploration",
    "improvised-prayer-theory-of-mind-network": "improvised-prayer-theory-of-mind-network",
    "inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence": "inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence",

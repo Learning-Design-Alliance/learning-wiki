@@ -17,18 +17,29 @@ sources:
     n: unreported in abstract (full text access-gated; k not stated)
     kind: quant-synthesis
     rigour: "?"
+  - id: wong-et-al-2019
+    resource: "https://doi.org/10.1080/10447318.2018.1543084"
+    title: "Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)"
+    author: "Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F."
+    q: 3
+    i: "?"
+    n: 35 studies
+    kind: review
+    rigour: 2
 ---
 
 # Metacognitive prompts improve learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=unreported in abstract (full text access-gated; k not stated)
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i2` medium
 
 Prompts that direct learners' attention to planning, monitoring, and evaluating their own thinking can improve learning outcomes, particularly when embedded in structured learning tasks.
 
 ## Subclaims
 
 `q4 i2` A meta-analysis of experimental studies in computer-based learning environments finds that metacognitive prompts (planning/monitoring/evaluation cues) produce a medium-sized improvement in learning outcomes relative to no-prompt control conditions, and a larger improvement in self-regulated-learning activity itself. [→ Guo 2022](#guo-2022)
+
+`q3 i?` A systematic review of 35 studies of self-regulated-learning support in online learning environments judged prompting (14 studies) an effective way to enhance SRL strategies and learning performance, but reported no pooled effect, found that effectiveness varied with how prompts were implemented and with learners' prior knowledge, and did not examine publication bias. [→ Wong et al. 2019](#wong-et-al-2019)
 
 ## Evidence
 
@@ -39,6 +50,16 @@ Guo, L. (2022). Using metacognitive prompts to enhance self‐regulated learning
 `q4 · meta-analysis of experimental studies` · `i2 · medium effect, g=0.40, 95% CI [0.31, 0.49]` · `n=unreported in abstract (full text access-gated; k not stated)` · `quant-synthesis · r?`
 
 A random-effects meta-analysis of experimental studies conducted in computer-based learning environments (CBLEs) tested whether prompting learners to plan, monitor, and evaluate their own thinking during a task improves outcomes relative to unprompted control conditions. Metacognitive prompts significantly raised both self-regulated-learning activity (Hedges' g = 0.50, 95% CI [0.37, 0.63]) and learning outcomes (g = 0.40, 95% CI [0.31, 0.49]) compared to control. Moderator analyses found the effect varied with three features of the prompts themselves: whether they were paired with feedback, how task-specific they were, and whether they adapted to the individual learner — directly supporting this page's "prompt specificity" and "support fading/adaptability" moderator notes in the Discussion section below. The authors frame task-specific, individually adaptive prompting (with feedback) as the design implication for CBLEs.
+
+### Wong et al. 2019
+
+Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)
+
+`q3 · systematic review, narrative synthesis, no pooled estimate` · `i? · no pooled effect size reported` · `n=35 studies` · `review · r2`
+
+A systematic review of 35 studies of approaches to support self-regulated learning in online learning environments (23 of them at undergraduate level; searched April 2016), grouped by approach: 14 on prompts, 10 on integrated support systems, 2 on feedback, 4 on prompts combined with feedback. The prompting studies found more SRL activity (planning, goal specification, monitoring, evaluation) and better transfer, factual and problem-solving performance in several studies, but the authors say effectiveness "cannot be simply defined by one effect size" because prompts differed in form, intention, specificity and timing. In one study reviewed, lower-prior-knowledge learners benefited from prompts only once they had been trained to use them. Read in full (open access, Erasmus University repository).
+
+> "The evidence indicates that prompting is an effective way to enhance SRL and learning performance. However, the results should be interpreted with caution as publication bias was not examined."
 
 ## Discussion
 
@@ -52,6 +73,8 @@ A random-effects meta-analysis of experimental studies conducted in computer-bas
 - *Support fading.* Sustained benefits plausibly depend on gradually removing prompts as learners internalize the strategies; permanent prompting risks dependence rather than strategy acquisition — the same fading logic that governs [Worked examples can become redundant or counterproductive for advanced learners](worked-examples-less-effective-with-expertise.md).
 
 **Open questions.** Whether effects persist after prompts are removed (i.e., whether learners internalize the strategies), whether effects transfer beyond the prompted task, and how prompt benefits interact with [Activation](activation-improves-learning.md) of prior knowledge all remain to be established from the evidence base. A further open question is whether prompted reflection must be overt (written or spoken) to be effective, or whether covert cueing suffices — a distinction that matters for designs like [Annotating improves learning](annotating-improves-learning.md) and [3-2-1 reflection](../strategies/3-2-1_reflection.md).
+
+**Online environments (Wong et al. 2019).** The online-learning review supports the direction of this claim but qualifies it: prompt effects depended on implementation and on learners' prior knowledge, and in the study it describes, lower-prior-knowledge learners needed training before prompts helped them. It pooled no effect, so it adds a second source for the direction, not for the size.
 
 ## Related Claims
 

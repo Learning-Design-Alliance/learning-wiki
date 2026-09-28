@@ -12,7 +12,7 @@ generated:
 # Usage-Based Second Language Acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 5 report an effect size · 7 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1266918, eric-ej1176947, eric-ej1435677, eric-ed600054 (the last is about first-language lexical organisation and does not use the term "usage-based"; it is used only for its argument about frequency). The primary works in Key Sources were verified against Crossref but not read. -->
 

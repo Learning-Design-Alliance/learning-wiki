@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 3123,
+  "claims->claims": 3127,
   "claims->elements": 118,
   "claims->learner-variables": 1,
   "claims->methods": 3,
@@ -10307,7 +10307,7 @@
      {
       "polarity": "+",
       "slug": "gamification",
-      "strength": "M"
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -16658,6 +16658,9 @@
    },
    "call-feedback-medium-positive-effect": {
     "claims": [
+     {
+      "slug": "corrective-feedback-effect-on-l2-development-is-significant-and-durable"
+     },
      {
       "slug": "prior-feedback-meta-analyses-gap-call"
      },
@@ -51220,6 +51223,9 @@
    "formulaic-utterances-dominate-early-immersion-speech": {
     "claims": [
      {
+      "slug": "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire"
+     },
+     {
       "slug": "immersion-esl-greater-communication-progress"
      },
      {
@@ -52183,6 +52189,9 @@
       "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction"
      },
      {
+      "slug": "gamification-has-small-positive-effects-on-learning-outcomes"
+     },
+     {
       "slug": "students-progress-through-zones-of-mathematical-play"
      }
     ]
@@ -52291,8 +52300,20 @@
      }
     ]
    },
+   "gamification-has-small-positive-effects-on-learning-outcomes": {
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "M"
+     }
+    ]
+   },
    "gamification-raises-motivation-satisfaction": {
     "claims": [
+     {
+      "slug": "gamification-has-small-positive-effects-on-learning-outcomes"
+     },
      {
       "slug": "quizizz-gamification-better-memorization"
      },
@@ -53319,6 +53340,9 @@
    },
    "goal-setting-improves-performance": {
     "claims": [
+     {
+      "slug": "implementation-intentions-improve-goal-attainment"
+     },
      {
       "slug": "italian-l2-motivation-is-ideal-self-not-instrumental"
      },
@@ -60152,6 +60176,9 @@
      },
      {
       "slug": "combined-intentional-incidental-greater-gains"
+     },
+     {
+      "slug": "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire"
      },
      {
       "slug": "incidental-reading-enables-productive-word-use"
@@ -68462,6 +68489,9 @@
       "slug": "automatization-requires-practice-consistent-environment"
      },
      {
+      "slug": "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire"
+     },
+     {
       "slug": "incidental-vocabulary-exposure-limited"
      },
      {
@@ -68809,6 +68839,9 @@
    },
    "metalinguistic-beats-recasts-immediate-not-delayed": {
     "claims": [
+     {
+      "slug": "corrective-feedback-effect-on-l2-development-is-significant-and-durable"
+     },
      {
       "slug": "explicit-teaching-effective-but-not-durable"
      },
@@ -84219,6 +84252,9 @@
       "slug": "game-based-practice-outperforms-traditional-l2-vocabulary-instruction"
      },
      {
+      "slug": "gamification-has-small-positive-effects-on-learning-outcomes"
+     },
+     {
       "slug": "gamification-raises-motivation-satisfaction"
      }
     ]
@@ -84905,6 +84941,9 @@
    "recasts-more-enduring-than-metalinguistic-feedback": {
     "claims": [
      {
+      "slug": "corrective-feedback-effect-on-l2-development-is-significant-and-durable"
+     },
+     {
       "slug": "explicit-teaching-effective-but-not-durable"
      },
      {
@@ -84945,6 +84984,9 @@
    },
    "recasts-supported-but-effectiveness-varies": {
     "claims": [
+     {
+      "slug": "corrective-feedback-effect-on-l2-development-is-significant-and-durable"
+     },
      {
       "slug": "declarative-memory-predicts-irregular-past-ugjt-recasts"
      },
@@ -97240,6 +97282,9 @@
      },
      {
       "slug": "cognitive-engagement-least-well-defined"
+     },
+     {
+      "slug": "implementation-intentions-improve-goal-attainment"
      },
      {
       "slug": "metacognitive-strategies-improve-learning"
@@ -110064,6 +110109,9 @@
    "time-treatment-interaction-corrective-feedback": {
     "claims": [
      {
+      "slug": "corrective-feedback-effect-on-l2-development-is-significant-and-durable"
+     },
+     {
       "slug": "explicit-teaching-effective-but-not-durable"
      },
      {
@@ -110109,6 +110157,9 @@
    },
    "tipping-point-hypothesis-insufficient-online-dropout": {
     "claims": [
+     {
+      "slug": "implementation-intentions-improve-goal-attainment"
+     },
      {
       "slug": "momentum-graph-shapes-vary-by-subject"
      },
@@ -198398,7 +198449,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3139,
+  "claims": 3143,
   "elements": 688,
   "learner-variables": 12,
   "methods": 17,

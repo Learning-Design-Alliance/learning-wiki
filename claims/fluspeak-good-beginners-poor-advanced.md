@@ -45,5 +45,5 @@ The article reports, citing Kim (2006), that Fluspeak was tested with 36 univers
 ## Related Claims
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — a broader claim this one bears on
-- [Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions](individual-work-best-asr-pronunciation-training.md) — related
+- [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects](individual-work-best-asr-pronunciation-training.md) — related
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related

@@ -17,7 +17,7 @@ sources:
 # Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 2 studies (2 review), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 5 studies (3 quant-synthesis, 2 review), `q1`–`q3` · 3 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes that a pronunciation curriculum balance three areas — suprasegmentals, segmentals, and fluency — because research has uncovered speech dimensions in all three that affect intelligibility and comprehensibility. It lists seven central features for English (word stress, natural intonation and thought groups, connected speech/linking, syllable timing and vowel reduction, pausing and fluency, final and important consonants, vowel duration) and stresses that these features are likely to matter for most learners regardless of L1 background. Because there is no one-size-fits-all priority list, teachers should diagnose learners' spontaneous production and perception, and consider functional load when selecting contrasts.

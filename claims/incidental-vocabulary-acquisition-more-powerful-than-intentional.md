@@ -49,5 +49,5 @@ Narrative review of incidental vocabulary acquisition research (Krashen 2004; Le
 - [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — a narrower finding that bears on this claim
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — reports the opposite
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — related
-- [Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners](reading-versus-listening-incidental-vocabulary-gains.md) — related
+- [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](lwpa-by-exam-subsection-interaction.md) — related

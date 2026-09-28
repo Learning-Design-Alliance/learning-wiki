@@ -68,4 +68,4 @@ Questionnaire items on technical aspects showed middling means: ease of studying
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](no-dose-response-asr-practice-time.md) — related
 - [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](asr-diagnostic-identification-pronunciation-errors.md) — related
-- [Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions](individual-work-best-asr-pronunciation-training.md) — related
+- [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects](individual-work-best-asr-pronunciation-training.md) — related

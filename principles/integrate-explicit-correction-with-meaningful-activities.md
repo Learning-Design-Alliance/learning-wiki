@@ -17,7 +17,7 @@ sources:
 # Integrate explicit error correction with meaningful activities when developing both accuracy and fluency
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article concludes that L2 classrooms aiming at both accuracy and fluency should combine form-focused work, including explicit error correction, with meaning-focused activity. It states there is consensus that "form-focused activities including explicit error correction must be integrat ed with meaningful activities." In the study this took the form of corrective feedback delivered during a spot-the-difference task rather than in isolated grammar practice.

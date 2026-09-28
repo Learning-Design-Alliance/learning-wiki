@@ -16,7 +16,7 @@ sources:
 # Future Directions for Retrieval-Based Learning Research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter closes by "highlighting four possible avenues": deepening understanding of mechanisms and linking them to global models of memory; resolving how to balance retrieval success and effort; adopting a contextual perspective that tests whether effects interact with learners, materials, and assessments; and integrating retrieval practice into educational activities beyond classroom quizzing.

@@ -21,7 +21,7 @@ sources:
     resource: "https://doi.org/10.1111/lang.12343"
     title: "Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)"
     author: "Uchihara, T., Webb, S., & Yanagisawa, A."
-    q: 4
+    q: 3
     i: 2
     n: 26 studies (45 effect sizes, N=1,918)
     kind: quant-synthesis
@@ -31,7 +31,7 @@ sources:
 # Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i2` medium
 
 Word knowledge is not acquired all-at-once; it accumulates gradually across multiple exposures, with each encounter in a different context adding a facet of meaning, usage, and collocation.
 
@@ -39,7 +39,7 @@ Word knowledge is not acquired all-at-once; it accumulates gradually across mult
 
 `q3 i?` Across 20 experiments on incidental word learning during normal reading, students learned around 15% of the unknown words they encountered, with the rate varying by grade level, reading ability, text length around the target word and how sensitive the test was to partial knowledge. [→ Swanborn & de Glopper 1999](#swanborn-de-glopper-1999)
 
-`q4 i2` In second-language incidental vocabulary learning, the number of encounters with a word correlates moderately with learning it (r = .34 over 26 studies), and learner, treatment and method variables moderate the size of that relationship. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
+`q3 i2` In second-language incidental vocabulary learning, the number of encounters with a word correlates moderately with learning it (r = .34 over 26 studies), and learner, treatment and method variables moderate the size of that relationship. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
 
 ## Evidence
 
@@ -55,9 +55,9 @@ This meta-analysis pooled 20 experiments that measured how many unknown words st
 
 Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)
 
-`q4 · meta-analysis of correlational studies, open data` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)` · `quant-synthesis · r?`
+`q3 · meta-analysis of correlational studies, open data` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)` · `quant-synthesis · r?`
 
-This meta-analysis synthesised 45 correlations from 26 second-language studies (1,918 learners) between how often a word was encountered and whether it was learned incidentally. The mean relationship was medium (r = .34): more encounters go with more learning, which supports the claim that word learning from context builds over repeated encounters. The size of the effect varied with learner variables (age, vocabulary knowledge), treatment variables (spaced encounters, visual support, engagement, the range of encounter counts) and method (nonwords, warning learners about a comprehension test, test format). It speaks to second-language learners, and the design is correlational rather than experimental. (Read from the abstract only.)
+This meta-analysis synthesised 45 correlations from 26 second-language studies (1,918 learners) between how often a word was encountered and whether it was learned incidentally. The mean relationship was medium (r = .34): more encounters go with more learning, which is consistent with the claim that word learning from context builds over repeated encounters, though as a correlation it does not show that the encounters cause the learning. The size of the effect varied with learner variables (age, vocabulary knowledge), treatment variables (spaced encounters, visual support, engagement, the range of encounter counts) and method (nonwords, warning learners about a comprehension test, test format). It speaks to second-language learners, and the design is correlational rather than experimental. (Read from the abstract only.)
 
 ## Discussion
 

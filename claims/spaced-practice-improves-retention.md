@@ -36,12 +36,30 @@ sources:
     n: 1354
     kind: causal
     rigour: 2
+  - id: kim-and-webb-2022
+    resource: "https://doi.org/10.1111/lang.12479"
+    title: "Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)"
+    author: "Kim, S. K., & Webb, S."
+    q: 3
+    i: "?"
+    n: 48 experiments (98 effect sizes, N=3,411)
+    kind: quant-synthesis
+    rigour: "?"
+  - id: nakata-2015
+    resource: "https://doi.org/10.1017/s0272263114000825"
+    title: "Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)"
+    author: Nakata, T.
+    q: 3
+    i: "?"
+    n: 128
+    kind: causal
+    rigour: "?"
 ---
 
 # Spaced Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r2` · `q3`–`q4` · `i2`–`i3`
+> **Evidence** · 5 studies · 3 quant-synthesis `r?`, 2 causal `r2` · `q3`–`q4` · `i2`–`i3`
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 
@@ -52,6 +70,10 @@ Practicing or reviewing material across multiple sessions separated in time prod
 `q3 i2` A meta-analysis of 63 studies spanning verbal, cognitive and motor tasks found spaced practice outperformed massed practice with a mean weighted effect size of 0.46, but the effect was moderated by task type and inter-trial interval, and was larger in low-rigour studies. [→ Donovan and Radosevich 1999](#donovan-and-radosevich-1999)
 
 `q3 i3` In a randomised experiment with 1,354 adults learning trivia facts, the best gap between two study sessions beat a same-session review by d = 1.1 on recall tested up to a year later, and the best gap grew with the delay to the test. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
+
+`q3 i?` Across 48 second-language experiments, spacing had what the authors call a medium-to-large effect, and longer spacing beat shorter spacing on delayed but not immediate posttests; the abstract prints no effect sizes. [→ Kim and Webb 2022](#kim-and-webb-2022)
+
+`q3 i?` With 128 Japanese college students learning 20 English–Japanese word pairs, the amount of spacing (massed, short, medium or long) had a significant main effect that the author reports as producing large effect sizes. [→ Nakata 2015](#nakata-2015)
 
 ## Evidence
 
@@ -78,6 +100,22 @@ Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing
 `q3 · randomised between-subjects experiment` · `i3 · large effect, d=1.1 recall (optimal gap vs zero gap)` · `n=1354` · `causal · r2`
 
 1,354 adults from an online research panel (mean age 34) learned 32 obscure trivia facts and reviewed them once, after a gap of up to 3.5 months. Each person was randomly assigned to one of 26 combinations of gap and test delay, and the final test came up to a year after the review. At every test delay, recall first rose as the gap grew and then declined. With study time held fixed, the best gap raised final recall by 64% (d = 1.1) and recognition by 26% (d = 1.5), compared with reviewing in the same session. The best gap was about 20% of the test delay when the test came a few weeks later, falling to about 5% for a one-year delay. The reported d values compare the post hoc best gap with a zero gap, so they are an upper bound for any single chosen schedule, and fewer people completed the longer conditions.
+
+### Kim and Webb 2022
+
+Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)
+
+`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)` · `quant-synthesis · r?`
+
+This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3,411 participants) on spaced practice, comparing spaced with massed practice, longer with shorter spacing, and equal with expanding spacing on immediate and delayed posttests. The authors report that spacing had a medium-to-large effect on second language learning; that shorter spacing was as effective as longer spacing on immediate posttests but less effective on delayed posttests; and that equal and expanding spacing were statistically equivalent. Differences in the spacing effect across studies were explained by the learning target, number of sessions, type of practice, activity type, feedback timing and retention interval. Read from the abstract only: it prints no pooled effect sizes, confidence intervals or spacing intervals, so the size of each comparison, the gaps the studies used and the learners' ages and proficiency are not established here.
+
+### Nakata 2015
+
+Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)
+
+`q3 · peer-reviewed experiment (abstract only)` · `i? · no effect size printed in the abstract` · `n=128` · `causal · r?`
+
+128 Japanese college students studied 20 English–Japanese word pairs under expanding or equal spacing, with the amount of spacing set at massed, short, medium or long. The main effect of the amount of spacing was significant and, in the author's words, produced large effect sizes; the author concludes that introducing spacing may matter more than whether it expands. Read from the abstract only: it prints no effect sizes, retention intervals or group sizes, and does not say how learners were assigned to conditions.
 
 ## Discussion
 
@@ -124,6 +162,8 @@ Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing
 **Design implications.** Schedule review of key content across at least two sessions separated by days rather than embedding all practice in one block; expand gaps as retention intervals lengthen [+S]. Because learners systematically prefer massing despite its inferior outcomes, course structures that mandate spaced review (cumulative quizzes, recurring retrieval of earlier units) are more reliable than leaving scheduling to learner choice [+M]. Adaptive scheduling systems that tune gaps to individual forgetting rates are a promising but still-developing application [+W].
 
 **Open questions.** Most laboratory evidence uses verbal paired-associate or vocabulary materials; the magnitude of spacing benefits for complex skill acquisition and classroom learning over months-long intervals remains less firmly established [~W].
+
+**Second-language vocabulary and learning.** Two second-language sources extend the claim beyond the verbal-recall laboratory literature above: Kim and Webb (2022) pooled 48 L2 experiments and report a medium-to-large spacing effect, with longer spacing better than shorter spacing on delayed posttests only, and Nakata (2015) found a large effect of the amount of spacing on L2 word-pair learning. Both entries rest on abstracts that print no effect sizes, so they support the direction for L2 learners, not a size.
 
 ## Related Claims
 

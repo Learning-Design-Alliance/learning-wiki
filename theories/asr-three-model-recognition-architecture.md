@@ -16,7 +16,7 @@ sources:
 # Three-model architecture of automatic speech recognition (acoustic, phonetic and language models)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 design), `q2`–`q3` · 2 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article describes how ASR recognizes speech: a waveform is split into utterances by silences, and all possible word combinations are tested and matched against the audio. Three models complete the matching: "the acoustic model (acoustic properties for each phoneme of the target language), the phonetic model or phonetic dictionary (with the mapping from word to phone) and a language model (defining which word can follow another and restrict possible combinations)." This architecture is the base the project intends to enrich with prosodic information at the acoustic-model level.
@@ -41,7 +41,7 @@ The article describes how ASR recognizes speech: a waveform is split into uttera
 
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](../claims/capt-strong-segmentals-weak-prosody.md) [+W]
 - [The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on phoneme production but poor results overall for advanced learners seeking fluency](../claims/fluspeak-good-beginners-poor-advanced.md) [+W]
-- [Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions](../claims/individual-work-best-asr-pronunciation-training.md) [+W]
+- [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects](../claims/individual-work-best-asr-pronunciation-training.md) [+W]
 - [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](../claims/asr-diagnostic-identification-pronunciation-errors.md) [+W]
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](../claims/asr-guided-practice-improves-overall-pronunciation-accuracy.md) [+W]
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](../claims/asr-specific-error-types-no-significant-gains.md) [~W]

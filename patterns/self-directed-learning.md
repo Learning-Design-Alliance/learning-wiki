@@ -14,7 +14,7 @@ grain_size: course
 # Self-Directed Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.
