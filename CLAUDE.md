@@ -110,6 +110,26 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-30 (later) — did the deep dive make the wiki more useful? Scenario S1 says: barely
+
+Usage scenario S1 (Italian A1, adults, self-paced mobile) was re-run with the same brief after batches 10
+and 11 and the nine hubs, and graded with the same rubric (scratch files, not committed). Overall
+usefulness **3 → 3**, against the no-wiki baseline's 3.5; relevance 3 → 3.5; traceability 5, accuracy
+4 and gap honesty 5 unchanged; every spot-checked statement matched its page. **The hubs changed no
+design decision** (their "input first, then output" is what the baseline already says); two new claims
+did (a realistic daily dose, 174 s against the 10 minutes asked; metalinguistic feedback better at once,
+recasts more durable), each one study. The ~100 articles mostly added one-study `q2` claims on
+mismatched populations (children, EFL cadets, undergraduates) and second-hand claims from reviews.
+**What the baseline has and the wiki lacks is a handful of named syntheses** (Norris & Ortega on
+explicit instruction, implementation-intention meta-analyses for dropout, ASR pronunciation feedback),
+which an ERIC topic sweep does not reach: its open full text in this area is small classroom studies.
+So depth by topic sweep adds volume, not decisions. The next test is a targeted pass on named
+syntheses, attached to existing claims so they gain second studies. The first S1 run also found
+**search ranked each hub below its fragments** (drafts are penalised); hubs now carry
+`canonical: true`, rank first when the query names them, and fragments' results carry `canonical_page`.
+Also fixed: the Frolli et al. (2023) subclaim still said articles were "disproportionately hard",
+which the observation record had already shown the paper never measured.
+
 ### 2026-09-30 — the deep dive's theory layer: nine SLA hubs, batch 11, and a stale-verdict bug
 
 - **Theory pages are framed one source at a time**, so the wiki had three fragments of Krashen, three
