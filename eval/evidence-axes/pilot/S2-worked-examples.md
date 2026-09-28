@@ -10,8 +10,8 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Time / load | Other |
 |---|---|---|---|---|---|---|
-| **problem-first**<br><small>problem solving followed by instruction vs instruction followed by problem solving</small> | · | ◇ extrap. · +1 · 1 exp ◐ | · | ◇ extrap. · +3 -1 i1 · 4 exp ◐◐○? | · | ◇ extrap. · +1 -1 i1 · 2 exp ◎? |
-| **worked-examples**<br><small>studying worked-out algebra solutions vs solving conventional algebra problems</small> | · | ◆ known · +3 · 3 exp ●◎◎ | ◆ known · +1 · 1 exp ● | · | ◆ known · +2 · 2 exp ●◎ | · |
+| **problem solving before instruction vs instruction before problem solving**<br><small>problem-first · e.g. problem solving followed by instruction vs instruction followed by problem solvi</small> | · | ◇ extrap. · +1 · 1 exp ◐ | · | ◇ extrap. · +3 -1 i1 · 4 exp ◐◐○? | · | ◇ extrap. · +1 -1 i1 · 2 exp ◎? |
+| **studying worked-out examples vs solving conventional problems**<br><small>worked-examples · e.g. studying worked-out algebra solutions vs solving conventional algebra problems</small> | · | ◆ known · +3 · 3 exp ●◎◎ | ◆ known · +1 · 1 exp ● | · | ◆ known · +2 · 2 exp ●◎ | · |
 
 *Who was studied* (13 results): expertise: novice 6 (not reported 7); age: mixed 6, child 1 (not reported 6); knowledge type: procedure 6, concept 4 (not reported 3); setting: — (not reported 13).
 
@@ -19,7 +19,8 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Time / load |
 |---|---|---|---|---|---|
-| **worked-examples**<br><small>studying worked-out algebra solutions vs solving conventional algebra problems</small> | · | ◆ known · +1 · 1 exp ● | ◆ known · +1 · 1 exp ● | ◌ hyp. · +2 · 0 exp ?? | ◆ known · +1 · 1 exp ● |
+| **studying worked-out examples vs solving conventional problems**<br><small>worked-examples · e.g. studying worked-out algebra solutions vs solving conventional algebra problems</small> | · | ◆ known · +1 · 1 exp ● | ◆ known · +1 · 1 exp ● | · | ◆ known · +1 · 1 exp ● |
+| **worked-out examples vs problem solving**<br><small>worked-examples · e.g. worked-out examples vs problem solving</small> | · | · | · | ◌ hyp. · +1 -1 · 0 exp ?? | · |
 
 *Who was studied* (5 results): expertise: novice 3 (not reported 2); age: mixed 3 (not reported 2); knowledge type: procedure 3 (not reported 2); setting: — (not reported 5).
 
@@ -27,11 +28,16 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|
-| **fading**<br><small>fading from worked examples to problem solving vs traditional example-problem pairs</small> | · | ◇ extrap. · +2 · 2 exp ◎◎ | △ assoc. · +1 · 0 exp ◎ | · | · |
-| **other**<br><small>working-memory-reducing instructional techniques vs not stated</small> | · | · | · | · | ◇ extrap. · +1 -1 mixed1 · 3 exp ◎◎◐ |
-| **media-design**<br><small>diagram-only with text eliminated vs diagram with text physically integrated</small> | · | · | · | ◇ extrap. · +1 · 1 exp ? | ◇ extrap. · mixed2 · 2 exp ◎◎ |
-| **worked-examples**<br><small>worked-out example study vs problem solving</small> | · | · | △ assoc. · -1 · 0 exp ◎ | · | △ assoc. · +1 · 0 exp ◎ |
-| **scaffolding**<br><small>scaffolding vs not specified</small> | · | · | · | · | ◌ hyp. · +1 · 0 exp ? |
+| **Working-memory-reducing instructional techniques vs unspecified comparison**<br><small>other · e.g. working-memory-reducing instructional techniques vs not stated</small> | · | · | · | · | ◇ extrap. · +1 -1 · 2 exp ◎◐ |
+| **worked-out examples vs problem solving**<br><small>worked-examples · e.g. worked-out example study vs problem solving</small> | · | · | △ assoc. · -1 · 0 exp ◎ | · | △ assoc. · +1 · 0 exp ◎ |
+| **fading from worked examples to problem solving vs traditional example-problem pairs**<br><small>fading · e.g. fading from worked examples to problem solving vs traditional example-problem pa</small> | · | ◇ extrap. · +1 · 1 exp ◎ | · | · | · |
+| **backward fading vs forward fading**<br><small>fading · e.g. backward fading vs forward fading</small> | · | ◇ extrap. · +1 · 1 exp ◎ | · | · | · |
+| **scaffolding vs unspecified comparison**<br><small>scaffolding · e.g. scaffolding vs not specified</small> | · | · | · | · | ◌ hyp. · +1 · 0 exp ? |
+| **fading vs no fading**<br><small>fading · e.g. successively integrating problem-solving elements into example study vs not stat</small> | · | · | △ assoc. · +1 · 0 exp ◎ | · | · |
+| **integrated text-and-diagram vs diagram only**<br><small>media-design · e.g. diagram-only with text eliminated vs diagram with text physically integrated</small> | · | · | · | ◇ extrap. · -1 · 1 exp ? | · |
+| **split-attention/redundancy guidance vs less or nonredundant guidance**<br><small>media-design · e.g. split-attention or redundant guidance vs less or nonredundant guidance</small> | · | · | · | · | ◇ extrap. · mixed1 · 1 exp ◎ |
+| **modality/redundancy guidance vs less or nonredundant guidance**<br><small>media-design · e.g. modality or redundancy guidance vs less or nonredundant guidance</small> | · | · | · | · | ◇ extrap. · mixed1 · 1 exp ◎ |
+| **Additional schema-support guidance vs less or no additional guidance**<br><small>other · e.g. additional schema-support guidance vs less guidance or no additional guidance</small> | · | · | · | · | ◇ extrap. · mixed1 · 1 exp ◎ |
 
 *Who was studied* (12 results): expertise: mixed 6, novice 1, advanced 1 (not reported 4); age: — (not reported 12); knowledge type: procedure 5 (not reported 7); setting: mixed 2 (not reported 10).
 
@@ -39,7 +45,7 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Immediate | Transfer / understanding ★ | Skill ★ |
 |---|---|---|---|---|
-| **worked-examples**<br><small>full-worked examples vs completion-worked examples</small> | · | ◇ extrap. · +1 ns1 · 2 exp ◎◐ | · | · |
+| **full-worked examples vs completion-worked examples**<br><small>worked-examples · e.g. full-worked examples vs completion-worked examples</small> | · | ◇ extrap. · +1 ns1 · 2 exp ◎◐ | · | · |
 
 *Who was studied* (2 results): expertise: novice 1, advanced 1; age: adult 1 (not reported 1); knowledge type: procedure 2; setting: — (not reported 2).
 
@@ -47,7 +53,8 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Immediate | Transfer / understanding ★ | Skill ★ |
 |---|---|---|---|---|
-| **self-explanation**<br><small>many self-explanations vs few self-explanations</small> | · | △ assoc. · +1 · 0 exp ○ | △ assoc. · +2 · 0 exp ○○ | · |
+| **many self-explanations vs few self-explanations**<br><small>self-explanation · e.g. many self-explanations vs few self-explanations</small> | · | · | △ assoc. · +2 · 0 exp ○○ | · |
+| **prompted self-explanation after each line vs rereading the text twice**<br><small>self-explanation · e.g. prompted self-explanation after each line vs reading the text twice without prom</small> | · | △ assoc. · +1 · 0 exp ○ | · | · |
 
 *Who was studied* (3 results): expertise: — (not reported 3); age: adolescent 3; knowledge type: principle 3; setting: — (not reported 3).
 
@@ -55,7 +62,14 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) |
 |---|---|---|---|---|
-| **case-comparison**<br><small>comparing and contrasting alternative solution methods vs reflecting on the same solution </small> | · | ◇ extrap. · +3 ns1 · 4 exp ◐◐◐○ | ◇ extrap. · +2 · 2 exp ◐◐ | ◇ extrap. · +4 i2 · 4 exp ◎◎◎◎ |
+| **comparing alternative solution methods vs reflecting on methods one at a time**<br><small>case-comparison · e.g. comparing and contrasting alternative solution methods vs reflecting on the same</small> | · | ◇ extrap. · ns1 · 1 exp ○ | ◇ extrap. · +2 · 2 exp ◐◐ | · |
+| **analogical comparison vs no case study**<br><small>case-comparison · e.g. analogical learning by comparing examples vs no case study</small> | · | ◇ extrap. · +1 · 1 exp ◐ | · | · |
+| **comparing two cases vs studying the cases separately**<br><small>case-comparison · e.g. comparing two cases vs studying the two cases separately</small> | · | ◇ extrap. · +1 · 1 exp ◐ | · | · |
+| **increased comparison support vs less comparison support**<br><small>case-comparison · e.g. increased comparison support vs less comparison support</small> | · | ◇ extrap. · +1 · 1 exp ◐ | · | · |
+| **case comparison vs other instruction or case-study forms**<br><small>case-comparison · e.g. case comparisons vs other case-study forms, traditional instruction, or control</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ◎ |
+| **comparisons focused on similarities vs comparisons with other objectives**<br><small>case-comparison · e.g. comparisons asking learners to find similarities vs comparisons with other objec</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ◎ |
+| **principles provided after comparisons vs principles provided at another time or condition**<br><small>case-comparison · e.g. principles provided after the comparisons vs principles provided at another time</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ◎ |
+| **perceptual content with immediate testing vs other content with delayed testing**<br><small>case-comparison · e.g. perceptual content and immediate testing vs other content and testing after a lo</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ◎ |
 
 *Who was studied* (10 results): expertise: mixed 4, novice 3 (not reported 3); age: adolescent 3 (not reported 7); knowledge type: principle 3, procedure 2, concept 1 (not reported 4); setting: mixed 4 (not reported 6).
 

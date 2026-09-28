@@ -10,7 +10,12 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Immediate | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|---|
-| **spacing**<br><small>spaced practice vs massed practice</small> | ◇ extrap. · +3 -3 mixed1 i3 · 7 exp ◐◐◐◐◐◐? | ◇ extrap. · ns1 · 1 exp ? | · | ◇ extrap. · +1 mixed1 i2 · 2 exp ?? | ◇ extrap. · +3 01 · 4 exp ◐◐?? | ◇ extrap. · +1 mixed1 i2 · 2 exp ◐? |
+| **longer vs shorter gaps**<br><small>spacing · e.g. shorter spacing vs longer spacing</small> | ◇ extrap. · +3 -1 mixed1 i3 · 5 exp ◐◐◐◐? | ◇ extrap. · ns1 · 1 exp ? | · | · | · | ◇ extrap. · mixed1 · 1 exp ◐ |
+| **spaced vs massed practice**<br><small>spacing · e.g. spaced practice vs massed practice</small> | · | · | · | ◇ extrap. · +1 mixed1 i2 · 2 exp ?? | ◇ extrap. · +1 · 1 exp ? | ◇ extrap. · +1 i2 · 1 exp ? |
+| **expanding vs equal intervals**<br><small>spacing · e.g. equal spacing vs expanding spacing</small> | · | · | · | · | ◇ extrap. · +1 01 · 2 exp ◐? | · |
+| **beyond-optimal vs near-optimal gaps**<br><small>spacing · e.g. interstudy gap beyond the optimal gap vs near-optimal interstudy gap</small> | ◇ extrap. · -1 i3 · 1 exp ◐ | · | · | · | · | · |
+| **spaced vs massed schedules**<br><small>spacing · e.g. spaced schedules vs massed schedule</small> | · | · | · | · | ◇ extrap. · +1 · 1 exp ◐ | · |
+| **longer vs shorter ISIs matched to retention interval**<br><small>spacing · e.g. longer ISI when the retention interval is longer vs shorter ISI when the retenti</small> | ◇ extrap. · +1 · 1 exp ◐ | · | · | · | · | · |
 
 *Who was studied* (16 results): expertise: — (not reported 16); age: adult 2 (not reported 14); knowledge type: verbal-association 9 (not reported 7); setting: — (not reported 16).
 
@@ -18,7 +23,13 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Immediate | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|---|
-| **spacing**<br><small>spaced practice vs massed practice</small> | ◇ extrap. · +2 -3 i3 · 5 exp ◐◐◐◐? | ◇ extrap. · ns1 · 1 exp ? | · | · | ◇ extrap. · +4 01 · 5 exp ◐◐??? | ◇ extrap. · +2 -2 mixed1 i2 · 2 exp ◐???? |
+| **longer vs shorter gaps**<br><small>spacing · e.g. shorter spacing vs longer spacing</small> | ◇ extrap. · +3 -1 i3 · 4 exp ◐◐◐? | ◇ extrap. · ns1 · 1 exp ? | · | · | · | ◇ extrap. · mixed1 · 1 exp ◐ |
+| **spaced vs massed practice**<br><small>spacing · e.g. spaced practice vs massed practice</small> | · | · | · | · | ◇ extrap. · +2 · 2 exp ?? | ◇ extrap. · +1 i2 · 1 exp ? |
+| **expanding vs equal intervals**<br><small>spacing · e.g. equal spacing vs expanding spacing</small> | · | · | · | · | ◇ extrap. · +1 01 · 2 exp ◐? | · |
+| **longer vs shorter practice span**<br><small>spacing · e.g. practice spread over a couple of years vs practice spread over a couple of month</small> | · | · | · | · | · | ◌ hyp. · -2 · 0 exp ?? |
+| **beyond-optimal vs near-optimal gaps**<br><small>spacing · e.g. interstudy gap beyond the optimal gap vs near-optimal interstudy gap</small> | ◇ extrap. · -1 i3 · 1 exp ◐ | · | · | · | · | · |
+| **spaced vs massed schedules**<br><small>spacing · e.g. spaced schedules vs massed schedule</small> | · | · | · | · | ◇ extrap. · +1 · 1 exp ◐ | · |
+| **distributed vs massed practice**<br><small>spacing · e.g. practice distributed over larger stretches of time vs less-distributed or massed</small> | · | · | · | · | · | ◌ hyp. · +1 · 0 exp ? |
 
 *Who was studied* (16 results): expertise: — (not reported 16); age: adult 2 (not reported 14); knowledge type: verbal-association 7 (not reported 9); setting: — (not reported 16).
 
@@ -26,7 +37,11 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Immediate | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|---|
-| **spacing**<br><small>shorter spacing vs longer spacing</small> | ◇ extrap. · -1 ns1 mixed1 · 1 exp ??? | ◇ extrap. · ns1 · 1 exp ? | · | · | ◇ extrap. · +1 01 · 2 exp ?? | ◇ extrap. · +2 · 2 exp ◐◐ |
+| **expanding vs equal intervals**<br><small>spacing · e.g. expanding retrieval schedule (2-6-19 days) vs equally spaced retrieval schedule </small> | ◌ hyp. · ns1 · 0 exp ? | · | · | · | ◇ extrap. · 01 · 1 exp ? | ◇ extrap. · +1 · 1 exp ◐ |
+| **longer vs shorter gaps**<br><small>spacing · e.g. shorter spacing vs longer spacing</small> | ◇ extrap. · +1 · 1 exp ? | ◇ extrap. · ns1 · 1 exp ? | · | · | · | · |
+| **expanding vs contracting intervals**<br><small>spacing · e.g. expanding retrieval schedule vs contracting retrieval schedule</small> | ◌ hyp. · mixed1 · 0 exp ? | · | · | · | · | · |
+| **spaced vs massed practice**<br><small>spacing · e.g. spaced practice vs massed practice</small> | · | · | · | · | ◇ extrap. · +1 · 1 exp ? | · |
+| **spaced vs massed schedules**<br><small>spacing · e.g. spaced schedules (short, medium, and long) vs massed schedule</small> | · | · | · | · | · | ◇ extrap. · +1 · 1 exp ◐ |
 
 *Who was studied* (8 results): expertise: — (not reported 8); age: adult 2 (not reported 6); knowledge type: verbal-association 2 (not reported 6); setting: — (not reported 8).
 
@@ -34,8 +49,11 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Immediate | Transfer / understanding ★ | Skill ★ | Other |
 |---|---|---|---|---|---|
-| **spacing**<br><small>spaced retrieval with five intervening items vs massed retrieval with lag 0</small> | ◌ hyp. · +2 ns1 · 0 exp ◐◐? | ◌ hyp. · -1 · 0 exp ◐ | · | · | ◌ hyp. · +1 · 0 exp ? |
-| **retrieval-practice**<br><small>more initial retrieval cues during retrieval practice vs fewer initial retrieval cues</small> | · | · | · | · | ◌ hyp. · -1 · 0 exp ? |
+| **spaced vs massed retrieval**<br><small>spacing · e.g. spaced retrieval with five intervening items vs massed retrieval with lag 0</small> | ◌ hyp. · +1 · 0 exp ◐ | ◌ hyp. · -1 · 0 exp ◐ | · | · | · |
+| **greater vs less total spacing across retrieval trials**<br><small>spacing · e.g. greater absolute or total spacing across repeated retrieval trials vs less spaci</small> | ◌ hyp. · +1 · 0 exp ? | · | · | · | · |
+| **repeated retrieval vs dropping items after one correct recall**<br><small>spacing · e.g. massed repeated retrieval vs dropping items after one correct recall</small> | ◌ hyp. · ns1 · 0 exp ◐ | · | · | · | · |
+| **more retrieval cues vs fewer retrieval cues**<br><small>retrieval-practice · e.g. more initial retrieval cues during retrieval practice vs fewer initial retrieval</small> | · | · | · | · | ◌ hyp. · -1 · 0 exp ? |
+| **spaced vs massed retrieval practice**<br><small>spacing · e.g. spaced retrieval practice vs massed retrieval immediately after study</small> | · | · | · | · | ◌ hyp. · +1 · 0 exp ? |
 
 *Who was studied* (6 results): expertise: — (not reported 6); age: — (not reported 6); knowledge type: verbal-association 3 (not reported 3); setting: — (not reported 6).
 
@@ -43,7 +61,10 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Other |
 |---|---|---|---|---|
-| **spacing**<br><small>spaced/interleaved exemplars vs massed exemplars</small> | ◇ extrap. · +1 · 1 exp ○ | ◇ extrap. · +1 · 1 exp ◐ | · | ◇ extrap. · +2 -2 · 4 exp ◐◐◐◐ |
+| **spaced/interleaved vs massed exemplars**<br><small>spacing · e.g. spaced/interleaved exemplars vs massed exemplars</small> | · | ◇ extrap. · +1 · 1 exp ◐ | · | ◇ extrap. · -1 · 1 exp ◐ |
+| **one large stack vs multiple smaller stacks**<br><small>spacing · e.g. one large flashcard stack vs four smaller stacks studied separately</small> | · | · | · | ◇ extrap. · +1 -1 · 2 exp ◐◐ |
+| **spaced vs massed study**<br><small>spacing · e.g. spaced study across sessions vs massed study on the last day before the test</small> | · | · | · | ◇ extrap. · +1 · 1 exp ◐ |
+| **spaced-repetition activities vs no spaced-repetition activities**<br><small>spacing · e.g. automatically generated spaced-repetition vocabulary activities vs control condi</small> | ◇ extrap. · +1 · 1 exp ○ | · | · | · |
 
 *Who was studied* (6 results): expertise: novice 1 (not reported 5); age: adult 1 (not reported 5); knowledge type: verbal-association 3, concept 1, metacognitive-strategy 1; setting: online-self-paced 3, classroom 1 (not reported 2).
 
@@ -51,7 +72,7 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Time / load |
 |---|---|---|---|---|
-| **spacing**<br><small>allocate more review time to lower decks vs allocate more review time to higher decks</small> | · | · | · | ◌ hyp. · +1 · 0 exp ◐ |
+| **more review for lower decks vs more review for higher decks**<br><small>spacing · e.g. allocate more review time to lower decks vs allocate more review time to higher </small> | · | · | · | ◌ hyp. · +1 · 0 exp ◐ |
 
 *Who was studied* (1 results): expertise: — (not reported 1); age: — (not reported 1); knowledge type: metacognitive-strategy 1; setting: — (not reported 1).
 

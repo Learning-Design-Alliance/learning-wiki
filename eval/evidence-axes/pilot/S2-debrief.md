@@ -10,7 +10,8 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|
-| **simulation**<br><small>technology-enhanced simulation training vs no intervention</small> | · | · | ◇ extrap. · +2 i2–3 · 1 exp ◎? | △ assoc. · +1 i3 · 0 exp ? | △ assoc. · +2 i3 · 0 exp ◎◎ |
+| **simulation vs no intervention**<br><small>simulation · e.g. technology-enhanced simulation training vs no intervention</small> | · | · | △ assoc. · +1 i3 · 0 exp ◎ | △ assoc. · +1 i3 · 0 exp ? | △ assoc. · +2 i3 · 0 exp ◎◎ |
+| **simulation vs traditional clinical education**<br><small>simulation · e.g. SBME with deliberate practice vs traditional clinical medical education</small> | · | · | ◇ extrap. · +1 i2 · 1 exp ? | · | · |
 
 *Who was studied* (5 results): expertise: — (not reported 5); age: — (not reported 5); knowledge type: complex-skill 3 (not reported 2); setting: — (not reported 5).
 
@@ -18,8 +19,10 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|
-| **prompts**<br><small>specific reflection prompts vs generic reflection prompts</small> | · | · | · | ◇ extrap. · +5 i2 · 2 exp ◐◐◐○? | ◇ extrap. · +1 i2 · 1 exp ◐ |
-| **other**<br><small>school-based writing-to-learn programs vs control conditions</small> | · | · | · | ◇ extrap. · +2 i2 · 2 exp ◐◐ | · |
+| **specific reflection prompts vs generic reflection prompts**<br><small>prompts · e.g. specific reflection prompts vs generic reflection prompts</small> | · | · | · | △ assoc. · +3 · 0 exp ◐◐◐ | · |
+| **metacognitive prompts vs no metacognitive prompts**<br><small>prompts · e.g. metacognitive prompts vs control conditions</small> | · | · | · | ◇ extrap. · +2 i2 · 2 exp ○? | ◇ extrap. · +1 i2 · 1 exp ◐ |
+| **School-based writing-to-learn programs vs control conditions**<br><small>other · e.g. school-based writing-to-learn programs vs control conditions</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ◐ | · |
+| **Longer writing-to-learn treatment vs shorter writing-to-learn treatment**<br><small>other · e.g. longer writing-to-learn treatment vs shorter writing-to-learn treatment</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ◐ | · |
 
 *Who was studied* (8 results): expertise: — (not reported 8); age: adult 3 (not reported 5); knowledge type: metacognitive-strategy 2 (not reported 6); setting: classroom 6 (not reported 2).
 
@@ -27,8 +30,9 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) | Other |
 |---|---|---|---|---|---|
-| **feedback-presence**<br><small>feedback interventions vs comparison conditions</small> | · | · | · | ◇ extrap. · +1 i3 · 1 exp ? | ◇ extrap. · +2 -1 i2 · 3 exp ??? |
-| **other**<br><small>feedback directing attention toward task learning vs feedback directing attention toward s</small> | · | · | · | · | ◇ extrap. · +2 i2 · 2 exp ?? |
+| **feedback vs no feedback/control**<br><small>feedback-presence · e.g. feedback interventions vs comparison conditions</small> | · | · | · | ◇ extrap. · +1 i3 · 1 exp ? | ◇ extrap. · +2 -1 i2 · 3 exp ??? |
+| **Task-learning-focused feedback vs self-focused meta-task feedback**<br><small>other · e.g. feedback directing attention toward task learning vs feedback directing attentio</small> | · | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
+| **Task-focused feedback vs self-focused feedback**<br><small>other · e.g. task-focused feedback vs self-focused feedback</small> | · | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
 
 *Who was studied* (6 results): expertise: — (not reported 6); age: — (not reported 6); knowledge type: — (not reported 6); setting: — (not reported 6).
 
@@ -36,8 +40,9 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ |
 |---|---|---|---|
-| **active-learning**<br><small>peer discussion followed by instructor explanation vs instructor explanation only</small> | · | ◇ extrap. · +2 · 2 exp ○○ | · |
-| **explicit-instruction**<br><small>peer discussion followed by instructor explanation vs peer discussion only</small> | · | ◇ extrap. · +1 · 1 exp ○ | · |
+| **Instructor explanation after peer discussion vs peer discussion only**<br><small>explicit-instruction · e.g. peer discussion followed by instructor explanation vs peer discussion only</small> | · | ◇ extrap. · +1 · 1 exp ○ | · |
+| **peer discussion plus explanation vs explanation without peer discussion**<br><small>active-learning · e.g. peer discussion followed by instructor explanation vs instructor explanation onl</small> | · | ◇ extrap. · +1 · 1 exp ○ | · |
+| **peer discussion vs no peer discussion**<br><small>active-learning · e.g. peer discussion before answering the isomorphic question vs individual answering</small> | · | ◇ extrap. · +1 · 1 exp ○ | · |
 
 *Who was studied* (3 results): expertise: mixed 2 (not reported 1); age: adult 3; knowledge type: concept 3; setting: classroom 3.
 
@@ -45,7 +50,7 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Achievement (pooled) |
 |---|---|---|---|---|
-| **other**<br><small>reflective interventions vs controlled comparison conditions</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
+| **Reflective interventions vs controlled comparison conditions**<br><small>other · e.g. reflective interventions vs controlled comparison conditions</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
 
 *Who was studied* (1 results): expertise: — (not reported 1); age: — (not reported 1); knowledge type: — (not reported 1); setting: — (not reported 1).
 
@@ -53,8 +58,8 @@ Status: ◆ known (experimental, and it matches your learners) · ◇ extrapolat
 
 | Option | Retention ★ | Transfer / understanding ★ | Skill ★ | Other |
 |---|---|---|---|---|
-| **feedback-presence**<br><small>feedback intervention vs comparison condition, not specified</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
-| **other**<br><small>task-focused feedback vs self-focused feedback</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
+| **feedback vs no feedback/control**<br><small>feedback-presence · e.g. feedback intervention vs comparison condition, not specified</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
+| **Task-focused feedback vs self-focused feedback**<br><small>other · e.g. task-focused feedback vs self-focused feedback</small> | · | · | · | ◇ extrap. · +1 i2 · 1 exp ? |
 
 *Who was studied* (2 results): expertise: — (not reported 2); age: — (not reported 2); knowledge type: — (not reported 2); setting: — (not reported 2).
 
