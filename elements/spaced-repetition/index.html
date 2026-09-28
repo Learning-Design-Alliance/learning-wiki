@@ -734,6 +734,89 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#design-decisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Design Decisions
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Design Decisions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#should-review-be-spread-across-sessions-or-done-in-one-block" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Should review be spread across sessions or done in one block?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-long-should-the-gap-between-reviews-be" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How long should the gap between reviews be?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#should-intervals-expand-or-stay-equal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Should intervals expand, or stay equal?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-should-happen-at-each-review-recall-or-rereading" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What should happen at each review: recall or rereading?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#who-sets-the-schedule-the-learner-or-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Who sets the schedule: the learner or the system?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#should-harder-items-get-more-reviews" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Should harder items get more reviews?
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#related-elements" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -805,7 +888,7 @@
 <h1 id="spaced-repetition">Spaced Repetition<a class="headerlink" href="#spaced-repetition" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Element</strong> · <a href="../">All elements</a>
-<strong>Evidence</strong> · 7 claims (7 for) · 10 studies (5 causal, 4 quant-synthesis, 1 review), <code>q1</code>–<code>q4</code> · 3 of 10 report an effect size · 3 claims rest on one study</p>
+<strong>Evidence</strong> · 13 claims (12 for, 1 mixed) · 12 studies (5 causal, 4 quant-synthesis, 2 review, 1 theoretical), <code>q1</code>–<code>q4</code> · 3 of 12 report an effect size · 7 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.</p>
@@ -840,6 +923,61 @@
 <li><a href="../../claims/spaced-retrieval-improves-retention/">Spaced Retrieval Improves Retention</a> [+W]</li>
 <li><a href="../../claims/optimal-leitner-schedule-expands-intervals-between-reviews/">Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.</a> [+W]</li>
 <li><a href="../../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall/">Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention</a> [+W]</li>
+<li><a href="../../claims/expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules/">Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing</a> [+M]</li>
+<li><a href="../../claims/distributed-practice-limits-l2/">Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months</a> [~M]</li>
+<li><a href="../../claims/spaced-repetition-supplement-triples-vocabulary-retention/">Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone</a> [+M]</li>
+<li><a href="../../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty/">Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.</a> [+W]</li>
+<li><a href="../../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent/">Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects</a> [+M]</li>
+<li><a href="../../claims/optimal-leitner-schedule-reviews-lower-decks-more-often/">Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.</a> [+W]</li>
+</ul>
+<h2 id="design-decisions">Design Decisions<a class="headerlink" href="#design-decisions" title="Permanent link">&para;</a></h2>
+<!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
+     cites the claims that settle it, with markers capped by each claim's recorded evidence. -->
+
+<h3 id="should-review-be-spread-across-sessions-or-done-in-one-block">Should review be spread across sessions or done in one block?<a class="headerlink" href="#should-review-be-spread-across-sessions-or-done-in-one-block" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Default:</strong> spread the same study time over several sessions separated by days rather than one block; across 271 comparisons in verbal recall, spacing raised final recall from 36.7% to 47.3% at equal study time — <a href="../../claims/distributed-practice-improves-retention/">Distributed Practice Improves Retention</a> [+S], <a href="../../claims/spaced-practice-improves-retention/">Spaced Practice Improves Retention</a> [+S]</li>
+<li><strong>Changes when:</strong> the task is a complex or motor skill rather than verbal recall → expect a smaller benefit; a meta-analysis across task types put the effect at d = 0.46 and found it smaller for complex tasks — <a href="../../claims/spaced-repetition-improves-retention/">Spaced Repetition Improves Retention</a> [~S]</li>
+<li><strong>Changes when:</strong> only an immediate test matters → spacing's advantage is uneven at short delays and shows mainly on delayed tests, so judge the schedule on a delayed test — <a href="../../claims/distributed-practice-improves-retention/">Distributed Practice Improves Retention</a> [~S]</li>
+<li><strong>Tested with:</strong> mostly young adults on verbal material (714 of 839 performance differences in Cepeda et al. 2006), an online adult panel learning trivia facts, and L2 learners in 48 experiments.</li>
+<li><strong>Not settled:</strong> the evidence for children's long-term retention is thin (the Cepeda synthesis says it "cannot say for certain"); no wiki claim sizes the benefit for multi-step procedures.</li>
+</ul>
+<h3 id="how-long-should-the-gap-between-reviews-be">How long should the gap between reviews be?<a class="headerlink" href="#how-long-should-the-gap-between-reviews-be" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Default:</strong> set the gap from how long the material must be remembered: the best gap was about 20% of the test delay for a test a few weeks away, falling to about 5% for a one-year delay; there is an optimum, not "longer is always better" — <a href="../../claims/spaced-practice-improves-retention/">Spaced Practice Improves Retention</a> [+S], <a href="../../claims/distributed-practice-improves-retention/">Distributed Practice Improves Retention</a> [+S]</li>
+<li><strong>Changes when:</strong> second-language learning with a delayed test → longer spacing beat shorter spacing on delayed posttests, but was no better on immediate ones — <a href="../../claims/spaced-practice-improves-retention/">Spaced Practice Improves Retention</a> [+S]</li>
+<li><strong>Changes when:</strong> practice would be spread over years → one narrative review reports that spreading over a couple of years may be worse than over a couple of months — <a href="../../claims/distributed-practice-limits-l2/">Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months</a> [~M]</li>
+<li><strong>Tested with:</strong> 1,354 adults learning trivia facts with tests up to a year later (Cepeda et al. 2008); L2 vocabulary experiments.</li>
+<li><strong>Not settled:</strong> the d = 1.1 for the best gap compares the post hoc best gap with a zero gap, so it is an upper bound for any single schedule; the gaps used in the L2 meta-analysis are not given on the claim pages, and the years-versus-months limit rests on one review of two studies.</li>
+</ul>
+<h3 id="should-intervals-expand-or-stay-equal">Should intervals expand, or stay equal?<a class="headerlink" href="#should-intervals-expand-or-stay-equal" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Default:</strong> do not rely on an expanding schedule for extra benefit; equal and expanding spacing were statistically equivalent in 48 L2 experiments, and expanding against uniform spacing of retrieval gave g = 0.034 — <a href="../../claims/expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules/">Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing</a> [+M], <a href="../../claims/spaced-retrieval-improves-retention/">Spaced Retrieval Improves Retention</a> [+M]</li>
+<li><strong>Changes when:</strong> a single L2 vocabulary study (128 Japanese college students) found a limited but significant advantage for expanding spacing, with the amount of spacing mattering more than its shape — <a href="../../claims/expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules/">Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing</a> [~M]</li>
+<li><strong>Changes when:</strong> an item-level scheduler (Leitner decks) is used → a scheduling model's optimum lengthens the delay as an item moves up the decks, a model result rather than a test with learners — <a href="../../claims/optimal-leitner-schedule-expands-intervals-between-reviews/">Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases the expected delay between reviews as an item moves up through the decks.</a> [~W]</li>
+<li><strong>Tested with:</strong> lab word pairs and vocabulary, Japanese college students learning English words, second-language experiments.</li>
+<li><strong>Not settled:</strong> the L2 meta-analysis's abstract does not say whether its expanding and equal conditions were matched on total spacing.</li>
+</ul>
+<h3 id="what-should-happen-at-each-review-recall-or-rereading">What should happen at each review: recall or rereading?<a class="headerlink" href="#what-should-happen-at-each-review-recall-or-rereading" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Default:</strong> make each review a retrieval attempt, and space those attempts rather than repeating them back to back; spaced beat massed retrieval practice at g = 0.74 across 29 studies — <a href="../../claims/spaced-retrieval-improves-retention/">Spaced Retrieval Improves Retention</a> [+M]</li>
+<li><strong>Changes when:</strong> retrievals are repeated within one sitting → massed repeated retrieval gave no benefit over dropping an item after one recall on a one-week test, while more total spacing across trials helped — <a href="../../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall/">Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention</a> [+M]</li>
+<li><strong>Changes when:</strong> gaps make recall fail often → effects are more robust when initial retrieval succeeds, especially above 75%; expect spacing to cut recall during practice (by about 25% in one experiment) and do not read that drop as failure — <a href="../../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent/">Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects</a> [~M], <a href="../../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall/">Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention</a> [~M]</li>
+<li><strong>Tested with:</strong> the 29 studies of the Latimier et al. meta-analysis; lab vocabulary and word-pair experiments reported in one review chapter.</li>
+<li><strong>Not settled:</strong> Latimier et al. compare spaced with massed retrieval, not spaced retrieval with spaced rereading, so no claim here sizes that contrast.</li>
+</ul>
+<h3 id="who-sets-the-schedule-the-learner-or-the-system">Who sets the schedule: the learner or the system?<a class="headerlink" href="#who-sets-the-schedule-the-learner-or-the-system" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Default:</strong> build the schedule into the course or tool rather than leaving it to learners; spacing beat massing for 90% of participants in a flashcard study, yet 72% judged massing more effective — <a href="../../claims/learners-misjudge-spacing-benefits/">Learners Misjudge Spacing Benefits</a> [+S]</li>
+<li><strong>Changes when:</strong> a computer-based spaced-repetition system can supplement class → items practised in the system were credited on a delayed test at almost three times the rate of items taught only in class (50.1% vs 16.9%), in one study of 22 cadets — <a href="../../claims/spaced-repetition-supplement-triples-vocabulary-retention/">Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone</a> [+M]</li>
+<li><strong>Tested with:</strong> undergraduate lab studies of painting-style induction and GRE-type vocabulary; EFL cadets.</li>
+<li><strong>Not settled:</strong> whether teaching learners about the spacing effect changes their own scheduling; the claim pages say so only in Discussion, with no study recorded.</li>
+</ul>
+<h3 id="should-harder-items-get-more-reviews">Should harder items get more reviews?<a class="headerlink" href="#should-harder-items-get-more-reviews" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Default:</strong> give harder items more review time on the lower (less-known) decks; for easy items spread time roughly evenly — <a href="../../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty/">Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.</a> [+W], <a href="../../claims/optimal-leitner-schedule-reviews-lower-decks-more-often/">Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.</a> [+W]</li>
+<li><strong>Tested with:</strong> a scheduling model's optimisation only (Reddy et al. 2016); no learners.</li>
+<li><strong>Not settled:</strong> no wiki claim tests item-level allocation with learners, and none compares adaptive with fixed schedules.</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
