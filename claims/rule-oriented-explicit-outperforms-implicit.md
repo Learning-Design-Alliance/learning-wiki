@@ -46,3 +46,5 @@ The review reports Radwan (2005), a study of 42 randomly selected EFL participan
 - [Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules](explicit-teaching-complex-rules-only-advantage.md) — related
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — a broader claim this one bears on
+- [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related

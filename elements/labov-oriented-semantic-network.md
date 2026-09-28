@@ -50,7 +50,8 @@ The oriented semantic network is the second segment, produced when the semantic 
 - [Phonologization: final segment applying phonology to the bracketed utterance](labov-phonologization-segment.md)
 
 ## Examples
--
+
+- [Word-net exercises linking lexical knowledge to grammatical awareness](../strategies/word-net-grammar-via-lexis.md)
 
 ## Key Sources
 - Legum, Stanley E. (1970). On the Facts of the Language in Question or a Conversation with W. Labov. Southwest Regional Laboratory Technical Note TN-2-70-47. https://eric.ed.gov/?id=ED108215

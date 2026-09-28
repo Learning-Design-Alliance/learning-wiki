@@ -43,6 +43,7 @@ The expert performance approach, first presented by Ericsson and Smith in 1991, 
 - [Expert-performance framework: reproducible superior performance on representative tasks as the object of explanation](expert-performance-framework.md)
 - [Five-stage developmental theory of pedagogical expertise: novice, advanced beginner, competent, proficient, expert](berliner-five-stage-teacher-expertise-theory.md)
 - [Deliberate practice framework](deliberate-practice-framework-ericsson-pool.md)
+- [Four types of practice: deliberate, purposeful, structured, and naive](four-practice-types-taxonomy.md)
 
 ## Examples
 

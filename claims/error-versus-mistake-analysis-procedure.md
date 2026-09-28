@@ -49,3 +49,4 @@ Definitional/theoretical statement in §3, attributed to Brown (2000). The artic
 - [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
 - [Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage](four-stage-syntax-acquisition-sequence.md) — related
 - [Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency](conceptual-deviation-awareness-guides-teacher-attention.md) — related
+- [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related

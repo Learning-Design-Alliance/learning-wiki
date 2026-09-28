@@ -120,3 +120,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
+- [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related

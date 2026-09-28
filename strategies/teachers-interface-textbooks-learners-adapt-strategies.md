@@ -39,6 +39,7 @@ The article recommends that because learners within one educational level differ
 ## Related Strategies
 
 - [Educators should internalize individual differences and consider the advantages and disadvantages of students' learning styles](educators-consider-learning-style-differences.md)
+- [Incorporate explicit direct instruction of metacognitive reading strategies into the reading curriculum](direct-metacognitive-strategy-instruction-reading-curriculum.md)
 
 ## Examples
 -

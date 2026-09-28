@@ -58,8 +58,10 @@ Peer review of writing improves both writing quality and evaluative skill when f
 5. **Transfer to self-editing** — students apply the same checklist to their own drafts, converting peer-editing criteria into revision moves.
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — the broader family of structured peer-mediated instruction
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — same gradual-release logic applied to comprehension strategies
+- [Design class-wide grammar lessons from common journal errors, and let students catalogue their own errors](class-wide-error-lessons-and-error-cataloguing.md)
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — marking up the shared draft is the core physical activity of the routine

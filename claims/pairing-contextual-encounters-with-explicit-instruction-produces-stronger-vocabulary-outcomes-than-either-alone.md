@@ -71,3 +71,4 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — possibly the same claim (merge candidate)
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — related
 - [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
+- [Vocabulary instruction should focus on procedures of meaning negotiation as much as on declarative word meanings](teach-lexical-procedures-not-only-definitions.md) — a narrower finding that bears on this claim

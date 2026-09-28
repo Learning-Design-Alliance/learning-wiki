@@ -110,6 +110,35 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-30 — the deep dive's theory layer: nine SLA hubs, batch 11, and a stale-verdict bug
+
+- **Theory pages are framed one source at a time**, so the wiki had three fragments of Krashen, three
+  of Swain and none that said what either theory claims. **Nine canonical hubs** now exist, each
+  linking its source-framed variants (which stay) and the claims that test it, with markers under
+  `strength_cap`: `krashen-input-hypothesis-monitor-model`, `swain-output-hypothesis`,
+  `long-interaction-hypothesis`, `schmidt-noticing-hypothesis`, `skill-acquisition-theory-second-language`,
+  `l2-motivational-self-system`, `willingness-to-communicate-in-l2`,
+  `usage-based-second-language-acquisition`, `foreign-language-anxiety`. Descriptions are compiled
+  **only from the fetched articles** that discuss each theory (listed in an HTML comment on the page),
+  primary works are Crossref-verified but unread, and every hub is `status: draft` for that reason.
+  The brief is `eval/deep-dive/adult-language-learning/HUBS.md`; use it for the next area's hubs.
+  Variants that are rivals or descendants (Labov's monitor model, Wen's output-driven hypothesis,
+  ACT*) are linked as neighbours, not called variants.
+- **Batch 11** (`topics-gaps.txt`, ERIC 30): 24 generated, 23 ingested (182 pages), 1 validation
+  failure, 14 first time, about $0.11. It supplied skill-acquisition, negotiation and focus-on-form
+  sources batch 10 had not reached. **It stopped at verify, falsely**: the hubs had been committed
+  mid-batch without their `> **Evidence** ·` lines, and the batch's profile step added them, which
+  verify rightly refuses as non-citation edits. **Do not commit hand-written pages while a batch is
+  running.** The post-verify steps were run by hand.
+- **Adding the kind span in #134 made every load-bearing verdict stale**, so the check re-judged
+  entries that had passed and spent its budget doing it. `check_load_bearing.units()` now strips the
+  span before judging and hashing, and the earlier verdicts apply again. The re-judge's 9 failures
+  were read anyway: 4 real and corrected (Kuhn & Crowell 2011's "do not develop on their own";
+  Klahr & Nigam 2004 bears on guidance vs discovery, not guided inquiry; Cornelius-White 2007's
+  correlational evidence, so the claim now reads "are associated with"; Wood et al. 1987's "in every
+  set"), 5 the judge's (truncated author lists twice, an online-first year, two fair readings). **A
+  field added to the codes line must be left out of every digest that keys a verdict.**
+
 ### 2026-09-29 (night) — every evidence entry carries a kind and a rigour; `q` is the design tier
 
 - **Maintainer's decision, after the 38-entry pilot**: `q` ranked every study on the causal-design

@@ -43,10 +43,12 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]
 
 ## Related Theories
+
 - [Executive Function Development](executive-function-development.md) — the underlying self-regulatory capacity that metacognitive knowledge is applied through
 - [Information Processing Theory](information-processing-theory.md) — metacognitive strategy use directly targets the working-memory and encoding bottlenecks central to information-processing accounts
 - [Self-Regulated Learning](self-regulated-learning.md) — metacognitive monitoring is one of the core components of self-regulation
 - [Critical Thinking](critical-thinking.md) — what makes thinking "critical" rather than merely correct is largely the metacognitive monitoring of one's own thinking
+- [Gombert's stage model: metalinguistic awareness develops after linguistic competence, via epilinguistic awareness](gombert-epilinguistic-metalinguistic-stages.md)
 
 ## Examples
 

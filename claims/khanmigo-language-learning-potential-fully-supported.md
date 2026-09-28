@@ -49,3 +49,4 @@ Qualitative case-study evaluation based on the author's 17.5 hours of interactio
 - [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](khanmigo-positive-impact-not-supported.md) — related
 - [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](khanmigo-practicality-partially-supported.md) — related
 - [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](khanmigo-learner-fit-not-supported.md) — related
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related

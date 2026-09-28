@@ -44,7 +44,7 @@ Usage-based approaches explain language development as a gradual process of gene
 - [The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners](../claims/transitive-earliest-resultative-hardest.md) [+W]
 
 ## Related Theories
-- 
+- [Usage-Based Second Language Acquisition](usage-based-second-language-acquisition.md) — the canonical page for this theory
 
 ## Examples
 

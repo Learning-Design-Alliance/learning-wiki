@@ -49,3 +49,4 @@ In the results for the first research aim, Student A reported losing her "fear o
 - [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
 - [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — related
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
+- [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related

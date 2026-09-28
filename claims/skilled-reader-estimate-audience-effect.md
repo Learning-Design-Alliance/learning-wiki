@@ -46,3 +46,4 @@ Theoretical argument in the paper: decision-making criteria for writing must be 
 - [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — related
 - [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
 - [Writing programs should move decision-making from intuition and chance to conscious, explicit, efficient deciding, at the cost of slower early production](writing-decisions-conscious-explicit-efficient.md) — related
+- [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — a narrower finding that bears on this claim

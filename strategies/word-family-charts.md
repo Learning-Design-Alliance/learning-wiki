@@ -61,9 +61,11 @@ Word family charts exploit the consistency of English rime units, letting learne
 6. Retire charts once the pattern is automatic, replacing them with new families.
 
 ## Related Strategies
+
 - Word sorting and pattern-based spelling instruction — the sorting activity that typically precedes or accompanies chart construction
 - [Chunking](../principles/chunking.md) — the general mechanism; the rime is the instructional chunk
 - [Automaticity](../elements/automaticity.md) — the fluency outcome the charts build toward
+- [Teach phonics and fluency together through a three-step rhyming poetry sequence](rhyming-poetry-three-step-instruction-sequence.md)
 
 ## Examples
 - **Four Blocks / Making Words framework** (Cunningham & Hall) — teachers and students manipulate letter cards to build word families, then transfer them to a posted chart used all week for reading and writing.

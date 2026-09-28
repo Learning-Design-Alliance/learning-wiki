@@ -46,3 +46,4 @@ The article's concluding statement of its two central findings, drawn from the j
 - [Adult L2 learners can generally judge which English adverb placements are acceptable, based on true/false judgment data from ten college students](adult-l2-learners-judge-adverb-positions-acceptability.md) — a narrower finding that bears on this claim
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related
 - [Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants](syntax-outweighs-morphology-in-grammar-noticing.md) — related
+- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](white-adverb-placement-negative-evidence-failed.md) — related

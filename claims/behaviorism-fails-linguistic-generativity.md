@@ -44,3 +44,4 @@ The review's critique section states that "Behaviorism is unable to deal with co
 
 ## Related Claims
 - [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — related
+- [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](mechanical-drills-limited-use-meaning-form.md) — a narrower finding that bears on this claim

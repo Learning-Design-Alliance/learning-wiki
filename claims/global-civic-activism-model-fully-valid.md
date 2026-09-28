@@ -65,3 +65,4 @@ Conclusion-level statement comparing this validation with prior developed-countr
 - [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — a broader claim this one bears on
 - [The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context](social-responsibility-model-items-removed-vietnam.md) — related
 - [Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure](global-competence-model-ic-items-removed.md) — related
+- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](measurement-model-reliability-mall-efl.md) — related

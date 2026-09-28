@@ -157,6 +157,7 @@ def ranking(pages: dict) -> list:
 
 DOI_RE = re.compile(r"10\.\d{4,9}/[^\s)\]>]+", re.I)
 ENTRY_RE = re.compile(r"(?m)^### ")
+KIND_SPAN = re.compile(r"\s*·\s*`(?:" + "|".join(okf_lib.EVIDENCE_KINDS) + r")\s*·\s*r\s*[1-3?]`")
 _WORD = re.compile(r"[a-z0-9]+")
 
 
@@ -172,7 +173,10 @@ def units(path: Path) -> tuple:
         heading, _, rest = chunk.partition("\n")
         anchor = okf_lib.slugify(heading.strip())
         subs = [l.strip() for l in subclaims if f"(#{anchor})" in l]
-        out.append((anchor, ("### " + chunk).strip(), subs))
+        # The kind/rigour span (code_kind_rigour.py) is left out: it is not what the
+        # judge checks, and leaving it in made every verdict stale when it was added.
+        block = KIND_SPAN.sub("", ("### " + chunk).strip())
+        out.append((anchor, block, subs))
     return title, out
 
 

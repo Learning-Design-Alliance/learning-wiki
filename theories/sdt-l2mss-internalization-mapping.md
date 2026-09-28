@@ -46,6 +46,7 @@ The article organizes the two motivation theories along a shared internalization
 - [Self-Determination Theory as a framework for L2/ESP motivation](sdt-framework-esp-motivation.md)
 - [Self-determination theory: a motivation and personality theory built on three basic psychological needs](sdt-basic-psychological-needs-framework.md)
 - [Self-Determination Theory](self-determination-theory.md)
+- [L2 Motivational Self System](l2-motivational-self-system.md) — the canonical page for this theory
 
 ## Examples
 

@@ -40,7 +40,8 @@ The article recommends that culturally adapted shared decision-making interventi
 - [Cultural Appropriateness Framework Four Domains](../theories/cultural-appropriateness-framework-four-domains.md)
 
 ## Related Strategies
-- 
+
+- [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md)
 
 ## Examples
 -

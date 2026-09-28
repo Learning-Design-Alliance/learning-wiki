@@ -40,7 +40,8 @@ The article recommends that instructors teach the three strategy factors that pr
 - Help-seeking
 
 ## Related Strategies
-- 
+
+- [Incorporate explicit direct instruction of metacognitive reading strategies into the reading curriculum](direct-metacognitive-strategy-instruction-reading-curriculum.md)
 
 ## Examples
 -

@@ -65,3 +65,4 @@ The review reports, citing Calafato and Clausen (2024), positive relations betwe
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
+- [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related

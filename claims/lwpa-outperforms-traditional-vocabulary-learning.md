@@ -50,3 +50,4 @@ Experimental design with N = 51 first-year Ukrainian ESL students randomly assig
 - [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) — related
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — related
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
+- [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related

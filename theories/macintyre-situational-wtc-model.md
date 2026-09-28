@@ -49,6 +49,7 @@ The article describes WTC in a second language via the model of MacIntyre et al.
 
 - [MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2](macintyre-heuristic-pyramid-model-l2-wtc.md)
 - [MacIntyre et al.'s willingness-to-communicate (WTC) model as a framework linking pronunciation and affective variables](wtc-model-l2-pronunciation-framework.md)
+- [Willingness to Communicate in a Second Language](willingness-to-communicate-in-l2.md) — the canonical page for this theory
 
 ## Examples
 -

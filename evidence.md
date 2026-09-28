@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,036 |
-| Evidence entries | 3,786 |
-| Distinct studies | 1,070 |
-| Claims resting on one study | 2,839 (94%) |
+| Claims | 3,139 |
+| Evidence entries | 3,892 |
+| Distinct studies | 1,093 |
+| Claims resting on one study | 2,942 (94%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 306 of 1,070 (29%) |
+| Studies reporting an effect size | 310 of 1,093 (28%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 73 | 58 | 96 | 233 |
+| causal | 6 | 74 | 63 | 96 | 239 |
 | quant-synthesis | 8 | 32 | 2 | 105 | 147 |
-| review | 9 | 56 | 24 | 42 | 131 |
-| associational | 0 | 52 | 79 | 15 | 146 |
-| qualitative | 37 | 67 | 11 | 8 | 123 |
-| design | 8 | 88 | 35 | 1 | 132 |
-| theoretical | 20 | 107 | 12 | 19 | 158 |
+| review | 9 | 61 | 26 | 42 | 138 |
+| associational | 0 | 54 | 79 | 15 | 148 |
+| qualitative | 37 | 68 | 11 | 8 | 124 |
+| design | 8 | 88 | 36 | 1 | 133 |
+| theoretical | 21 | 112 | 12 | 19 | 164 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 198 (19%) | 528 (49%) | 262 (24%) | 82 (8%) |
+| 203 (19%) | 545 (50%) | 263 (24%) | 82 (8%) |
 
-**Studies per claim:** 0: 0, 1: 2,839, 2: 145, 3: 50, 4 or more: 2.
+**Studies per claim:** 0: 0, 1: 2,942, 2: 145, 3: 50, 4 or more: 2.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -81,7 +81,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 234 pages | 2 | q3 | 0 of 2 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 227 pages | 3 | q2–q3 | 2 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 206 pages | 5 | q3–q4 | 0 of 5 |
-| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 196 pages | 2 | q1–q2 | 0 of 2 |
+| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 185 pages | 2 | q3 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 180 pages | 1 | q3 | 0 of 1 |
 | [Activation Improves Learning](claims/activation-improves-learning.md) | 169 pages | 3 | q3 | 1 of 3 |
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **8 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-88 claims are cited both ways.
+97 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -120,12 +120,12 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 232 | 2 | 3 | 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 221 | 8 | 3 | 2 |
+| [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
 | [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 1 | 3 | 2 |
 | [Social media tools plugged into learning management systems are presented as "social …](claims/social-media-tools-misappropriated-as-social-learning.md) | 1 | 0 | 3 | 1 |
-| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 182 | 10 | 2 | 2 |
+| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 184 | 10 | 2 | 2 |
 | [The complexity of coaching responsibilities may fragment the coaching process and reduce …](claims/coaching-complexity-may-fragment-impact.md) | 1 | 1 | 2 | 1 |
-| [Example-problem sequences reduce cognitive load and improve learning outcomes.](claims/example-problem-sequences-reduce-cognitive-load.md) | 48 | 17 | 2 | 1 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 417 | 7 | 2 | 2 |
+| [Comprehensible input alone is insufficient for acquisition of high levels of grammatical …](claims/comprehensible-input-insufficient-grammar-acquisition.md) | 6 | 2 | 2 | 1 |
 
 ## Evidence by kind of page
 
@@ -133,13 +133,13 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 511 | 420 | 1 | 0 |
-| [elements](elements/index.md) | 675 | 451 | 2 | 0 |
-| [patterns](patterns/index.md) | 281 | 228 | 1 | 0 |
-| [strategies](strategies/index.md) | 3,103 | 2,319 | 6 | 0 |
+| [principles](principles/index.md) | 520 | 428 | 1 | 0 |
+| [elements](elements/index.md) | 688 | 459 | 2 | 0 |
+| [patterns](patterns/index.md) | 284 | 231 | 1 | 0 |
+| [strategies](strategies/index.md) | 3,127 | 2,319 | 6 | 0 |
 | [processes](processes/index.md) | 12 | 11 | 6 | 0 |
 | [methods](methods/index.md) | 17 | 11 | 3 | 0 |
-| [theories](theories/index.md) | 844 | 673 | 1 | 0 |
+| [theories](theories/index.md) | 883 | 708 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 8.5 | 0 |
 
 ## Toward pooled estimates

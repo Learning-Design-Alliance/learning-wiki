@@ -106,3 +106,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
+- [Oral language competence predicts subsequent reading achievement](oral-language-predicts-reading-achievement.md) — related

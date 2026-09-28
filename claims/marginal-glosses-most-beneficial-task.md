@@ -49,3 +49,4 @@ The review reports Xu's (2010) study of "125 ESL freshm en" reading a passage wi
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
+- [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related

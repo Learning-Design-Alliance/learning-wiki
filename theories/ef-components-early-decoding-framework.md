@@ -42,6 +42,7 @@ The article frames early decoding as drawing on executive function, defined as "
 ## Related Theories
 
 - [Five-dimension framework of preschool executive function with three core components advancing ages 3 to 5](preschool-ef-five-dimension-framework.md)
+- [Automaticity theory: automatizing component subskills frees controlled processing for higher-order functions such as comprehension](automaticity-theory-phonological-component-processing.md)
 
 ## Examples
 -

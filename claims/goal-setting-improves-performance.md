@@ -37,7 +37,7 @@ The claim is currently a placeholder: no scope or mechanism has been specified a
 
 ## Subclaims
 
-`q3 i2` Across 125 goal-setting studies on task performance, specific difficult (and hard vs. easy) goals raised performance, but the effect shrank with task complexity, from d = .76 on simple tasks to d = .42 on complex ones. [→ Wood et al. 1987](#wood-et-al-1987)
+`q3 i2` Across 125 goal-setting studies on task performance, specific difficult (and hard vs. easy) goals raised performance, but the effect was generally smaller on more complex tasks, from d = .76 on easy tasks to d = .42 on the most complex ones. [→ Wood et al. 1987](#wood-et-al-1987)
 
 `q4 i1` Across 141 papers of randomized trials (384 effect sizes, N = 16,523), setting a goal had a small unique effect on behavior change, d = .34, which was larger when goals were difficult, set publicly, or set for a group. The behaviors studied were mostly health and everyday behaviors, not academic learning outcomes. [→ Epton et al. 2017](#epton-et-al-2017)
 
@@ -49,7 +49,7 @@ Wood, R. E., Mento, A. J., & Locke, E. A. (1987). Task complexity as a moderator
 
 `q3 · meta-analysis (1987, not pre-registered)` · `i2 · medium effect, d=.42 (complex tasks) to d=.76 (simple tasks)` · `n=125 studies` · `quant-synthesis · r?`
 
-A meta-analysis of goal-setting studies published from 1966 to 1985 on how task complexity changes the effect of goals. The authors ran three sets of analyses: hard versus easy goals, specific difficult goals versus "do your best" or no goal, and all studies combined. Goals improved performance in every set, but most on simple tasks such as reaction time and brainstorming (d = .76) and least on complex tasks such as business simulations, scientific and engineering work, and faculty research productivity (d = .42). Read as abstract only. It supports the claim for specific, challenging goals, and says the effect is weaker on the complex, novel work that learning often involves.
+A meta-analysis of goal-setting studies published from 1966 to 1985 on how task complexity changes the effect of goals. The authors ran three sets of analyses: hard versus easy goals, specific difficult goals versus "do your best" or no goal, and all studies combined. The authors report that goal effects were generally strongest on easy tasks such as reaction time and brainstorming (d = .76) and weakest on more complex tasks such as business game simulations, scientific and engineering work, and faculty research productivity (d = .42); the abstract does not give results for each set separately. Read as abstract only. It supports the claim for specific, challenging goals, and shows the effect is weaker on more complex tasks. The tasks studied are work and laboratory tasks, not learning tasks, so how far this applies to complex learning is an inference.
 
 ### Epton et al. 2017
 

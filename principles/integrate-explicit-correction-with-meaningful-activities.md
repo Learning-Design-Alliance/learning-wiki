@@ -46,6 +46,7 @@ The article concludes that L2 classrooms aiming at both accuracy and fluency sho
 ## Related Principles
 
 - [Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness](flexible-error-treatment-strategies.md)
+- [Favor input processing and focus on form over focus on forms in adult L2 teaching](input-processing-focus-on-form-over-focus-on-forms.md)
 
 ## Examples
 

@@ -65,3 +65,4 @@ Diary self-study: although "take somebody's call" had been heard and seen on a d
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
 - [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related

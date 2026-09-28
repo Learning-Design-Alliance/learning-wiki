@@ -104,3 +104,4 @@ Descriptive item analysis of intrinsic subtypes: "all Intrinsic Motivati on-Know
 - [Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item](low-introjected-regulation-esp-learners.md) — related
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — related
 - [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
+- [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — related

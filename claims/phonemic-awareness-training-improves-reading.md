@@ -65,3 +65,5 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
 - [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Reverse transfer from literacy to oral skills is unsupported by research](reverse-transfer-literacy-to-oral-unsupported.md) — related
+- [Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness](rhyming-poetry-improves-reading-fluency.md) — a narrower finding that bears on this claim

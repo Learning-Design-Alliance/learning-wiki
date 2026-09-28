@@ -59,9 +59,11 @@ Rhyming games work because they direct attention to the rime unit (vowel + final
 5. Revisit rhymes in short spaced sessions across weeks rather than one intensive block [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Phonics Instruction](phonics-instruction.md) — the print-focused instruction that rhyme games should feed into
 - [Word Family Charts](word-family-charts.md) — the print bridge from oral rhyme to spelling patterns
 - [Phonemic Awareness Drills](phonemic-awareness-drills.md) — the next developmental step after rhyme, moving to individual phonemes
+- [Teach phonics and fluency together through a three-step rhyming poetry sequence](rhyming-poetry-three-step-instruction-sequence.md)
 
 ## Examples
 - **Rhyming bingo** — children cover pictures that rhyme with a called word; combines recognition practice with peer play in small groups

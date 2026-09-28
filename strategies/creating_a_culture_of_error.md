@@ -60,9 +60,11 @@ A culture of error changes what learners do with mistakes: instead of concealing
 6. **Protect belonging.** Monitor for ridicule or status loss; intervene immediately, since a single public shaming can undo weeks of norm-building [Belonging interventions improve outcomes for at-risk students.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ## Related Strategies
+
 - **Formative assessment** — error surfacing is the raw material of formative feedback loops
 - **Productive failure** — a task-sequencing variant in which errors precede instruction by design
 - **Growth mindset framing** — the belief component; effective only when paired with structural changes described here
+- [Design class-wide grammar lessons from common journal errors, and let students catalogue their own errors](class-wide-error-lessons-and-error-cataloguing.md)
 
 ## Examples
 - **My Favorite Mistake routine** (widely used in math classrooms, popularized by Teach Like a Champion practice): the teacher selects an anonymous student error and leads the class in analyzing what the error reveals and how to fix it, positioning the error-maker as having contributed something valuable.

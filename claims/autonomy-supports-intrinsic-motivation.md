@@ -91,7 +91,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md) — related
 - [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
 - [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
-- [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
+- [Learner-centered teacher–student relationships are associated with better student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — related
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related

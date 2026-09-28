@@ -38,7 +38,7 @@ The article argues teaching should move from authoritative conducting to equal a
 
 ### Claims
 
-- [Learner-centered teacher–student relationships improve student outcomes](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M]
+- [Learner-centered teacher–student relationships are associated with better student outcomes](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M]
 
 ## Related Principles
 

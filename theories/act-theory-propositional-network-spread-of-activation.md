@@ -40,7 +40,8 @@ The report describes Anderson's ACT theory as a general theory of the architectu
 - [Elaborative Processing Enhances Retrieval](../claims/elaborative-processing-enhances-retrieval.md) [+M]
 
 ## Related Theories
-- 
+
+- [ACT* (Adaptive Control of Thought): automatization as proceduralization of declarative knowledge through practice](act-proceduralization-automatization.md)
 
 ## Examples
 -

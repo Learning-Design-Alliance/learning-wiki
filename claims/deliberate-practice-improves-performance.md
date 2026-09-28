@@ -68,3 +68,4 @@ A meta-analysis covering all major domains in which deliberate practice has been
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — a narrower finding that bears on this claim
 - [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
 - [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related
+- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](education-dp-4-5-percent-variance.md) — possibly the same claim (merge candidate)

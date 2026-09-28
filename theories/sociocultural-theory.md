@@ -82,6 +82,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
 - [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
 - [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
+- [Transparency theory: a holistic, tacit-skill account of learning and language acquisition](transparency-theory-learning-skill-acquisition.md)
 
 ## Examples
 

@@ -66,3 +66,4 @@ Author's interpretation of the removed items: students did not appear to believe
 - [The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts](global-civic-activism-model-fully-valid.md) — related
 - [Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure](global-competence-model-ic-items-removed.md) — related
 - [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related
+- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](measurement-model-reliability-mall-efl.md) — related

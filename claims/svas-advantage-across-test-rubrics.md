@@ -47,3 +47,4 @@ Comparative analysis of percentage scores from the second stage of the experimen
 - [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](svas-spaced-listening-outperforms-comparison-end-of-experiment.md) — a broader claim this one bears on
 - [Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training](l1-to-l2-audio-training-improves-translation.md) — a narrower finding that bears on this claim
 - [The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores](lwpa-advantage-persists-without-oral-comprehension.md) — a narrower finding that bears on this claim
+- [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related

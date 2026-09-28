@@ -43,6 +43,7 @@ The packet presents Canale and Swain's (1980) framework as an integrative theory
 - [Multidimensional oral proficiency assessment framework grounded in communicative competence theory](multidimensional-oral-proficiency-framework-chai.md)
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
 - [DiPietro's Strategic-Interaction Method: equal weight to form and function across three dimensions of conversational discourse](strategic-interaction-method-dimensions.md)
+- [Canale and Swain's four dimensions of communicative competence as a lexical exercise framework](canale-swain-four-dimensions-lexical-framework.md)
 
 ## Examples
 

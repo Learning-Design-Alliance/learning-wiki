@@ -67,3 +67,4 @@ Diary self-study enumerating four situations for eliminating incomprehensible ou
 - [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — related
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — related
+- [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related

@@ -91,3 +91,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — a narrower finding that bears on this claim
+- [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](skilled-efl-writers-recursive-writing-process.md) — related

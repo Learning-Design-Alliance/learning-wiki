@@ -45,3 +45,4 @@ In the Brigham Young University Hawaii experiment, thirty adult multi-national s
 ## Related Claims
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — a broader claim this one bears on
 - [Situational communication exercises alone produced statistically significant progress in both structural and communication skills](situational-exercises-significant-progress.md) — related
+- [Children acquiring a second language through immersion begin with formulaic utterances used as wholes, which are gradually analyzed into component words](formulaic-utterances-dominate-early-immersion-speech.md) — related

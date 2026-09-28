@@ -50,3 +50,4 @@ Xu's (2010) study assigned 125 ESL freshmen from a Chinese university, divided i
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
+- [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related

@@ -150,3 +150,5 @@ Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — possibly the same claim (merge candidate)
 - [Spaced Retrieval Outperforms Restudy](spaced-retrieval-outperforms-restudy.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
+- [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
+- [Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim

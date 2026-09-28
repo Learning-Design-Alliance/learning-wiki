@@ -46,3 +46,4 @@ This is the reviewer's own narrative synthesis of the four studies (Andrews 2007
 - [Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules](explicit-teaching-complex-rules-only-advantage.md) — possibly the same claim (merge candidate)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — a narrower finding that bears on this claim
