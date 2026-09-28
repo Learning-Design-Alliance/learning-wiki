@@ -110,6 +110,40 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-09-30 (night) — named syntheses attached; S1 re-graded properly; where the wiki's value is and is not
+
+- **Targeted pass** (`eval/deep-dive/adult-language-learning/SYNTHESES.md`): candidates from two signals,
+  OpenAlex's citation-ranked meta-analyses per topic (`title_and_abstract.search:<topic>` plus a synthesis
+  filter; free-text `search=` with a citation sort returns noise) and syntheses a model names (a recall aid
+  only). Four agents attached **15 syntheses to 25 claims** (Norris & Ortega 2000, Spada & Tomita 2010, Goo et
+  al. 2015, Lyster & Saito 2010, Li 2010, Lee, Jang & Plonsky 2015, Saito & Plonsky 2019, Ngo et al. 2024, Kim &
+  Webb 2022, Webb et al. 2023, Uchihara et al. 2019, Nakata 2015, Boers & Lindstromberg 2012, Gollwitzer &
+  Sheeran 2006, Kizilcec & Cohen 2017, Wong et al. 2019, Sailer & Homner 2020) and created four claims
+  (corrective feedback overall, implementation intentions, gamification, formulaic sequences). Most were read
+  as **abstracts only: publishers' robots.txt and 403s block their PDFs**, and the pipeline respects both;
+  `fetch_article.py` gained an `oa` source for the open-access copies that are reachable. Five were dropped
+  for having no readable text. Several syntheses **contradict or narrow** the claim they joined (ASR practice
+  alone vs with peers; reading vs listening; explicit teaching for simple rules), and two titles were
+  corrected in text. Uchihara et al. 2019 is q3 (a meta-analysis of correlational studies), not q4.
+- **The first S1 grading was not sound, and the numbers above it should not be quoted.** Its "overall" was
+  a holistic judgment the rubric never defined, the grader shared a model with the baseline, and the baseline
+  answer was 387 words against ~1,050. Re-graded with a GPT grader, anchored criteria, overall as the mean of
+  five, three repeats, and a **length-matched baseline** (`scratchpad` only, not committed):
+  rubric mean — wiki before the deep dive 4.4, after it 4.6, after the syntheses 4.6, wiki + live search 4.2,
+  no-wiki baseline 4.27. The baseline leads on relevance (5 against 4.3) and decision value (4.3 against 4.0);
+  the wiki leads on accuracy (5 against 3) and traceability.
+- **Blind, decisions only** (citations stripped, six plans, three orders): the length-matched baseline ranks
+  first on breadth (30 decisions), but only **70% of its decisions are sound, against 84–89% for the wiki**
+  plans, and the syntheses pass cut the wiki's questionable decisions to the fewest of any plan. **Checked
+  against registries, the baseline's citations** exist (45 of 47) but 11 of the 29 checkable ones carry a
+  detail the abstract lacks or contradicts, and 16 cannot be checked. A short baseline invented two.
+- **So the wiki's value is precision and verification, and its gap is breadth of decisions.** The evidence
+  exists; the design pages do not turn it into decisions: element/practice (915 inbound links) cites 6 claims,
+  element/feedback 4, and no design page links the new syntheses. **Next: a design-decision layer on the
+  canonical pattern and element pages**, built from the claims they should cite, and measured with the blind
+  decision test. Live search at answer time did not beat the wiki alone (4.2); it is more useful as an
+  ingest-queue generator, and its queue overlapped this pass.
+
 ### 2026-09-30 (later) — did the deep dive make the wiki more useful? Scenario S1 says: barely
 
 Usage scenario S1 (Italian A1, adults, self-paced mobile) was re-run with the same brief after batches 10
