@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-09-30-the-deep-dives-theory-layer-nine-sla-hubs-batch-11-and-a-stale-verdict-bug" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-30 — the deep dive's theory layer: nine SLA hubs, batch 11, and a stale-verdict bug
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1521,6 +1532,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-09-30-the-deep-dives-theory-layer-nine-sla-hubs-batch-11-and-a-stale-verdict-bug" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-09-30 — the deep dive's theory layer: nine SLA hubs, batch 11, and a stale-verdict bug
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier" class="md-nav__link">
@@ -2469,6 +2491,35 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-09-30-the-deep-dives-theory-layer-nine-sla-hubs-batch-11-and-a-stale-verdict-bug">2026-09-30 — the deep dive's theory layer: nine SLA hubs, batch 11, and a stale-verdict bug<a class="headerlink" href="#2026-09-30-the-deep-dives-theory-layer-nine-sla-hubs-batch-11-and-a-stale-verdict-bug" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Theory pages are framed one source at a time</strong>, so the wiki had three fragments of Krashen, three
+  of Swain and none that said what either theory claims. <strong>Nine canonical hubs</strong> now exist, each
+  linking its source-framed variants (which stay) and the claims that test it, with markers under
+  <code>strength_cap</code>: <code>krashen-input-hypothesis-monitor-model</code>, <code>swain-output-hypothesis</code>,
+  <code>long-interaction-hypothesis</code>, <code>schmidt-noticing-hypothesis</code>, <code>skill-acquisition-theory-second-language</code>,
+  <code>l2-motivational-self-system</code>, <code>willingness-to-communicate-in-l2</code>,
+  <code>usage-based-second-language-acquisition</code>, <code>foreign-language-anxiety</code>. Descriptions are compiled
+  <strong>only from the fetched articles</strong> that discuss each theory (listed in an HTML comment on the page),
+  primary works are Crossref-verified but unread, and every hub is <code>status: draft</code> for that reason.
+  The brief is <code>eval/deep-dive/adult-language-learning/HUBS.md</code>; use it for the next area's hubs.
+  Variants that are rivals or descendants (Labov's monitor model, Wen's output-driven hypothesis,
+  ACT*) are linked as neighbours, not called variants.</li>
+<li><strong>Batch 11</strong> (<code>topics-gaps.txt</code>, ERIC 30): 24 generated, 23 ingested (182 pages), 1 validation
+  failure, 14 first time, about $0.11. It supplied skill-acquisition, negotiation and focus-on-form
+  sources batch 10 had not reached. <strong>It stopped at verify, falsely</strong>: the hubs had been committed
+  mid-batch without their <code>&gt; **Evidence** ·</code> lines, and the batch's profile step added them, which
+  verify rightly refuses as non-citation edits. <strong>Do not commit hand-written pages while a batch is
+  running.</strong> The post-verify steps were run by hand.</li>
+<li><strong>Adding the kind span in #134 made every load-bearing verdict stale</strong>, so the check re-judged
+  entries that had passed and spent its budget doing it. <code>check_load_bearing.units()</code> now strips the
+  span before judging and hashing, and the earlier verdicts apply again. The re-judge's 9 failures
+  were read anyway: 4 real and corrected (Kuhn &amp; Crowell 2011's "do not develop on their own";
+  Klahr &amp; Nigam 2004 bears on guidance vs discovery, not guided inquiry; Cornelius-White 2007's
+  correlational evidence, so the claim now reads "are associated with"; Wood et al. 1987's "in every
+  set"), 5 the judge's (truncated author lists twice, an online-first year, two fair readings). <strong>A
+  field added to the codes line must be left out of every digest that keys a verdict.</strong></li>
+</ul>
 <h3 id="2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier">2026-09-29 (night) — every evidence entry carries a kind and a rigour; <code>q</code> is the design tier<a class="headerlink" href="#2026-09-29-night-every-evidence-entry-carries-a-kind-and-a-rigour-q-is-the-design-tier" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Maintainer's decision, after the 38-entry pilot</strong>: <code>q</code> ranked every study on the causal-design
