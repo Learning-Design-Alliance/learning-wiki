@@ -2,6 +2,7 @@
 type: theory
 title: Willingness to Communicate in a Second Language
 description: "MacIntyre et al.'s (1998) model of L2 willingness to communicate: the situational readiness to speak, shaped by a pyramid of enduring and momentary influences such as confidence, anxiety and motivation."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

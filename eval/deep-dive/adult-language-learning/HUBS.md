@@ -34,6 +34,8 @@ to `title:`, the banner `> **Theory** · [All theories](index.md)` under the H1)
 - An HTML comment right after the banner:
   `<!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
   theory: <ids>. The primary works in Key Sources were verified against Crossref but not read. -->`
+- `canonical: true` in the frontmatter, which search uses to rank the hub above its fragments, and
+  `wiki-index.json` records (with `canonical_page` on each fragment that names it).
 - `status: draft` (the description is secondhand), `generated: {by: claude/unspecified, at: 2026-09-30}`,
   and a one-sentence `description:`.
 

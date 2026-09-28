@@ -48,6 +48,7 @@ The article organizes its study around Long's interaction hypothesis, under whic
 - [Two-way information-exchange tasks promote more interactional restructuring than tasks without information exchange](../claims/two-way-tasks-promote-interactional-restructuring.md) [+M]
 
 ## Related Theories
+- [Long's interaction hypothesis](long-interaction-hypothesis.md) — the canonical page for this theory
 
 - [Long's interaction hypothesis](long-interaction-hypothesis.md)
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md)

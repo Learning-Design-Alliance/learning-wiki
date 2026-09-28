@@ -2,6 +2,7 @@
 type: theory
 title: "Swain's output hypothesis"
 description: "Swain's claim that comprehensible input is not enough for second language acquisition: learners must be pushed to produce precise, coherent and appropriate output, which serves noticing, hypothesis-testing and metalinguistic functions."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

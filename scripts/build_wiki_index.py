@@ -41,6 +41,7 @@ left out is a kind nobody can point at until somebody notices.
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -70,6 +71,7 @@ KINDS = {
 # not a mirror of the wiki. `grain_size` earns its place because a profile
 # realizing a pattern cares whether that pattern is a lesson or a course.
 EXTRA_FIELDS = ("status", "grain_size", "evidence_strength")
+CANONICAL_LINK = re.compile(r"^- \[[^\]]+\]\(([^)/]+)\.md\) — the canonical page for this theory", re.M)
 
 
 def build() -> tuple[dict, list]:
@@ -110,6 +112,15 @@ def build() -> tuple[dict, list]:
             for key in EXTRA_FIELDS:
                 if fm.get(key):
                     entry[key] = fm[key]
+            # A hub (`canonical: true`) is the one page for an idea the wiki
+            # otherwise holds as several source-framed fragments; a fragment names
+            # its hub in Related Theories. Both are recorded so search can put the
+            # hub first and point a reader who lands on a fragment to it.
+            if str(fm.get("canonical", "")).lower() == "true":
+                entry["canonical"] = True
+            m = CANONICAL_LINK.search(body)
+            if m and not entry.get("canonical"):
+                entry["canonical_page"] = f"{kind}/{m.group(1)}"
             pages.append(entry)
 
             for name in [slug, *aliases]:

@@ -43,6 +43,7 @@ Rod Ellis critically evaluates the Interaction Hypothesis and argues that becaus
 - [The quality rather than the quantity of interactional modifications predicts comprehensible input](../claims/interaction-quality-over-quantity.md) [+W]
 
 ## Related Theories
+- [Long's interaction hypothesis](long-interaction-hypothesis.md) — the canonical page for this theory
 
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md)
 - [Long's interaction hypothesis](long-interaction-hypothesis.md)

@@ -201,7 +201,14 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             score = -100 + 3 * covered + min(score, 10) / 10
         else:
             score += 3 * covered
-        if status == "draft":
+        if wiki.pages[pid].get("canonical") and covered == len(terms):
+            # The hub for an idea outranks its fragments, draft or not, when the
+            # query names that idea (every word in its title or description); a
+            # hub that merely mentions the words in its body gets no lift.
+            score += 15
+        elif wiki.pages[pid].get("canonical"):
+            pass
+        elif status == "draft":
             score *= 0.8 if score > 0 else 1.2
         scored.append((score, pid, sorted(fields or {"body"}), mode))
     scored.sort(key=lambda x: (-x[0], x[1]))
@@ -218,6 +225,10 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
              "kind": p["type"], "status": p.get("status"),
              "description": p.get("description") or "", "matched": fields,
              "matched_words": mode}
+        if p.get("canonical"):
+            r["canonical"] = True
+        elif p.get("canonical_page"):
+            r["canonical_page"] = p["canonical_page"]
         by_title[key] = r
         results.append(r)
     return {"query": query, "total_matches": total, "results": results, "engine": "fts5"}

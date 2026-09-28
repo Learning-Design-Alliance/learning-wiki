@@ -66552,6 +66552,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/schmidt-noticing-hypothesis",
    "description": "The article proposes a framework in which noticing in EFL writing is promoted through three sequenced, interrelated collaborative feedback task (CFT) stages.",
    "id": "cft-three-stage-noticing-framework",
    "path": "theories/cft-three-stage-noticing-framework.md",
@@ -66760,6 +66761,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/usage-based-second-language-acquisition",
    "description": "The article presents Cognitive Linguistics (CL) as a framework in which \\\"language is a dynamic interplay of complex subsystems composed of symbolic units, and meaning is the driving force behind form\\\".",
    "id": "cognitive-linguistics-usage-based-meaning-motivates-form",
    "path": "theories/cognitive-linguistics-usage-based-meaning-motivates-form.md",
@@ -66904,6 +66906,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/swain-output-hypothesis",
    "description": "The Comprehensible Output Hypothesis, advanced by Swain in deliberate contrast to Krashen's Comprehensible Input Hypothesis, holds that learners must be \\\"pushed toward the delivery of a message that is not only convey...",
    "id": "comprehensible-output-hypothesis-liming-account",
    "path": "theories/comprehensible-output-hypothesis-liming-account.md",
@@ -66912,6 +66915,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/krashen-input-hypothesis-monitor-model",
    "description": "The Comprehension Hypothesis (CH) states that language is acquired when learners understand messages, i.e.",
    "id": "comprehension-hypothesis-comprehensible-input-sla",
    "path": "theories/comprehension-hypothesis-comprehensible-input-sla.md",
@@ -67784,6 +67788,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/long-interaction-hypothesis",
    "description": "Rod Ellis critically evaluates the Interaction Hypothesis and argues that because teaching can be viewed as interaction providing learners with opportunities for learning, studying the interaction-SLA relationship con...",
    "id": "ellis-revised-interaction-hypothesis",
    "path": "theories/ellis-revised-interaction-hypothesis.md",
@@ -68360,6 +68365,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "Horwitz, Horwitz and Cope's (1986) account of foreign language classroom anxiety as a situation-specific anxiety, built from communication apprehension, test anxiety and fear of negative evaluation, that can impair L2 learning and performance.",
    "id": "foreign-language-anxiety",
    "path": "theories/foreign-language-anxiety.md",
@@ -69240,6 +69246,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/long-interaction-hypothesis",
    "description": "The article organizes its study around Long's interaction hypothesis, under which modification of interaction in NNS-NS encounters keeps interaction going and provides comprehensible input.",
    "id": "interaction-hypothesis-negotiation-comprehensible-input",
    "path": "theories/interaction-hypothesis-negotiation-comprehensible-input.md",
@@ -69544,6 +69551,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/krashen-input-hypothesis-monitor-model",
    "description": "The packet operationalizes Cummins's and Canale & Swain's theories using Steve Krashen's (1981) five hypotheses: the acquisition-learning hypothesis (two separate processes, acquisition resembling L1 development and l...",
    "id": "krashen-five-hypotheses-l2-acquisition",
    "path": "theories/krashen-five-hypotheses-l2-acquisition.md",
@@ -69552,6 +69560,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "Krashen's account of second language acquisition: subconscious acquisition from comprehensible input a little beyond the learner's current level, with consciously learned rules usable only as a monitor that edits output.",
    "id": "krashen-input-hypothesis-monitor-model",
    "path": "theories/krashen-input-hypothesis-monitor-model.md",
@@ -69560,6 +69569,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/krashen-input-hypothesis-monitor-model",
    "description": "Krashen's Monitor Model divides classroom activities into acquisition activities, which expose students to comprehensible target language samples, and learning activities, which focus on particular language forms thro...",
    "id": "krashen-monitor-model-acquisition-learning",
    "path": "theories/krashen-monitor-model-acquisition-learning.md",
@@ -69568,6 +69578,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/krashen-input-hypothesis-monitor-model",
    "description": "The article presents Krashen's theory of second language acquisition as an explanatory framework built on five hypotheses: the Acquisition-Learning distinction, the Natural Order Hypothesis, the Monitor Hypothesis, th...",
    "id": "krashen-monitor-model-five-hypotheses",
    "path": "theories/krashen-monitor-model-five-hypotheses.md",
@@ -69576,6 +69587,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "D\u00f6rnyei's account of second-language motivation as the pull of an ideal L2 self, the pressure of an ought-to L2 self, and the learner's immediate L2 learning experience.",
    "id": "l2-motivational-self-system",
    "path": "theories/l2-motivational-self-system.md",
@@ -69584,6 +69596,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/l2-motivational-self-system",
    "description": "The article presents D\u00f6rnyei's (2005) L2 Motivational Self System as a comprehensive framework for L2 learning motivation, derived from Higgins' Self-Discrepancy Theory.",
    "id": "l2-motivational-self-system-framework",
    "path": "theories/l2-motivational-self-system-framework.md",
@@ -69912,6 +69925,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "Long's claim that comprehensible input drives second language acquisition and that negotiating communication problems in conversation, through clarification requests, confirmation checks and recasts, is what makes input comprehensible and draws attention to form.",
    "id": "long-interaction-hypothesis",
    "path": "theories/long-interaction-hypothesis.md",
@@ -69952,6 +69966,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/schmidt-noticing-hypothesis",
    "description": "The article situates its method within research that operationalizes noticing and related concepts as language related episodes (LREs), citing studies such as Qi & Lapkin (2001) and Swain & Lapkin (1995).",
    "id": "lre-operationalization-noticing-writing",
    "path": "theories/lre-operationalization-noticing-writing.md",
@@ -69984,6 +69999,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/willingness-to-communicate-in-l2",
    "description": "The article describes the comprehensive 1998 model of L2 willingness to communicate by MacIntyre, Clement, D\u00f6rnyei and Noels, which treats WTC as a situational rather than trait-like variable.",
    "id": "macintyre-heuristic-pyramid-model-l2-wtc",
    "path": "theories/macintyre-heuristic-pyramid-model-l2-wtc.md",
@@ -69992,6 +70008,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/willingness-to-communicate-in-l2",
    "description": "The article describes WTC in a second language via the model of MacIntyre et al.",
    "id": "macintyre-situational-wtc-model",
    "path": "theories/macintyre-situational-wtc-model.md",
@@ -70520,6 +70537,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/long-interaction-hypothesis",
    "description": "Ellis proposes that L2 acquisition involves three basic procedures: \\\"noticing\\\", \\\"comparison\\\", and \\\"integration\\\".",
    "id": "noticing-comparison-integration-revised-hypothesis",
    "path": "theories/noticing-comparison-integration-revised-hypothesis.md",
@@ -70616,6 +70634,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/swain-output-hypothesis",
    "description": "The article's theoretical framework presents Swain's output hypothesis, which assigns production of language a significant role in second-language acquisition alongside comprehensible input.",
    "id": "output-hypothesis-three-functions",
    "path": "theories/output-hypothesis-three-functions.md",
@@ -71232,6 +71251,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "Schmidt's claim that second language acquisition requires conscious noticing of features in the input, that learners who notice more learn more, and that noticing the gap between one's own output and the target is a route to change.",
    "id": "schmidt-noticing-hypothesis",
    "path": "theories/schmidt-noticing-hypothesis.md",
@@ -71296,6 +71316,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/l2-motivational-self-system",
    "description": "The article organizes the two motivation theories along a shared internalization continuum.",
    "id": "sdt-l2mss-internalization-mapping",
    "path": "theories/sdt-l2mss-internalization-mapping.md",
@@ -71632,6 +71653,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/skill-acquisition-theory-second-language",
    "description": "The article's central explanatory framework is skill acquisition theory, which it describes as stressing \\\"the role of declar ative knowledge in the development of procedural and eventually la rgely automatized knowled...",
    "id": "skill-acquisition-theory-l2-practice",
    "path": "theories/skill-acquisition-theory-l2-practice.md",
@@ -71640,6 +71662,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "DeKeyser's application of cognitive skill-learning theory to second languages: explicit declarative knowledge is proceduralized through practice and then, with much more practice, partly automatized, so that L2 use becomes fast, accurate and low in effort.",
    "id": "skill-acquisition-theory-second-language",
    "path": "theories/skill-acquisition-theory-second-language.md",
@@ -71728,6 +71751,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/foreign-language-anxiety",
    "description": "The article grounds its study of Foreign Language Classroom Anxiety in four social-psychological constructs: goal-centred theory (Dreikurs, 1972), motivation as extrinsic and intrinsic forces (Maslow, 1943), self-effi...",
    "id": "social-psychological-constructs-flca-framework",
    "path": "theories/social-psychological-constructs-flca-framework.md",
@@ -71960,6 +71984,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "Swain's claim that comprehensible input is not enough for second language acquisition: learners must be pushed to produce precise, coherent and appropriate output, which serves noticing, hypothesis-testing and metalinguistic functions.",
    "id": "swain-output-hypothesis",
    "path": "theories/swain-output-hypothesis.md",
@@ -72568,6 +72593,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/usage-based-second-language-acquisition",
    "description": "Usage-based approaches explain language development as a gradual process of generalizing constructions through language experience.",
    "id": "usage-based-constructional-development",
    "path": "theories/usage-based-constructional-development.md",
@@ -72576,6 +72602,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "The usage-based account of second language learning: grammar develops gradually from experience of the language, as learners generalise from frequent, concrete item-based patterns to abstract form-meaning constructions.",
    "id": "usage-based-second-language-acquisition",
    "path": "theories/usage-based-second-language-acquisition.md",
@@ -72784,6 +72811,7 @@
    "type": "theory"
   },
   {
+   "canonical": true,
    "description": "MacIntyre et al.'s (1998) model of L2 willingness to communicate: the situational readiness to speak, shaped by a pyramid of enduring and momentary influences such as confidence, anxiety and motivation.",
    "id": "willingness-to-communicate-in-l2",
    "path": "theories/willingness-to-communicate-in-l2.md",
@@ -72816,6 +72844,7 @@
    "type": "theory"
   },
   {
+   "canonical_page": "theory/willingness-to-communicate-in-l2",
    "description": "The article uses the WTC model (MacIntyre et al., 1998) as its organizing framework, which takes into account the many variables present when initiating a communicative exchange in the L2.",
    "id": "wtc-model-l2-pronunciation-framework",
    "path": "theories/wtc-model-l2-pronunciation-framework.md",
