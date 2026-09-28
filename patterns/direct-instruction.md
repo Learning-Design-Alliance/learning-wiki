@@ -79,7 +79,7 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 - **Not settled:** no pooled effect size is recorded. The Stockard meta-analysis reports that Direct Instruction effects grew with more program exposure — [Direct instruction improves learning outcomes](../claims/direct-instruction-improves-outcomes.md) [+M] — but gives no dose that a lesson designer could use.
 
 ### Script the lesson, or leave the responsive parts to the teacher?
-- **Default:** expect scripted components to be delivered more faithfully than responsive ones. Across three studies of an early-childhood language curriculum, teachers adhered to the scaffolding approach 62–76% of the time, against 73–96% for scripted vocabulary instruction and inferential questions — [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M]
+- **Default:** expect scripted components to be delivered more faithfully than responsive ones. Across three studies of an early-childhood language curriculum, teachers adhered to the scaffolding approach 62.46% to 76.00% of the time, against 72.50% to 95.76% for scripted vocabulary instruction and inferential questions — [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M]
 - **Tested with:** early-childhood teachers, one curriculum.
 - **Not settled:** whether scripting improves learning outcomes; the claim measures adherence, not learning, and no wiki claim compares scripted with unscripted direct instruction.
 
