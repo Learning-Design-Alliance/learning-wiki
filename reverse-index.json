@@ -35,7 +35,7 @@
   "patterns->principles": 86,
   "patterns->theories": 55,
   "principles->claims": 428,
-  "principles->elements": 88,
+  "principles->elements": 89,
   "principles->methods": 2,
   "principles->patterns": 85,
   "principles->principles": 313,
@@ -2199,6 +2199,11 @@
      {
       "polarity": "+",
       "slug": "cooperative-learning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
       "strength": "S"
      },
      {
@@ -7008,6 +7013,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "learning-contracts",
       "strength": "M"
      },
@@ -7051,6 +7061,11 @@
      {
       "polarity": "+",
       "slug": "experiential-learning-cycle",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "S"
      },
      {
@@ -9896,6 +9911,13 @@
       "slug": "skill-specificity-l2-grammar-practice"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -12321,6 +12343,13 @@
      },
      {
       "slug": "vs-higher-purposefulness-reflection"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "simulation",
+      "strength": "M"
      }
     ]
    },
@@ -16669,6 +16698,13 @@
      },
      {
       "slug": "six-significant-moderators-call-feedback"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -23400,6 +23436,13 @@
      {
       "slug": "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
+      "strength": "M"
+     }
     ]
    },
    "classroom-sla-studies-basic-statistics": {
@@ -29423,6 +29466,11 @@
       "polarity": "+",
       "slug": "transfer-tasks",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "patterns": [
@@ -31379,6 +31427,13 @@
       "slug": "uncertainty-preparation-neglected-in-teacher-education"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "debrief",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -33091,6 +33146,13 @@
       "strength": "S"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -33595,6 +33657,15 @@
       "polarity": "+",
       "slug": "sociocultural-theory-lens-sla-learners",
       "strength": "W"
+     }
+    ]
+   },
+   "corrective-feedback-effect-on-l2-development-is-significant-and-durable": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "S"
      }
     ]
    },
@@ -35172,6 +35243,11 @@
       "polarity": "+",
       "slug": "debriefing",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "M"
      }
     ]
    },
@@ -35889,6 +35965,13 @@
      },
      {
       "slug": "task-complexity-and-difficulty-dominate-wd-variance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -38254,6 +38337,18 @@
      },
      {
       "slug": "spaced-repetition-improves-retention"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "spaced-repetition",
+      "strength": "M"
      }
     ]
    },
@@ -42315,6 +42410,11 @@
       "polarity": "~",
       "slug": "sentence-starters",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "principles": [
@@ -43538,6 +43638,18 @@
     "claims": [
      {
       "slug": "spaced-retrieval-improves-retention"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "spaced-repetition",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -44963,6 +45075,28 @@
       "polarity": "+",
       "slug": "fading",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "simulation",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "worked-examples",
+      "strength": "S"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -45236,6 +45370,13 @@
      {
       "slug": "rule-oriented-explicit-outperforms-implicit"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
+      "strength": "S"
+     }
     ]
    },
    "explicit-reasoning-instruction-preliminary-large-gains": {
@@ -45339,6 +45480,13 @@
      {
       "slug": "student-beliefs-inductive-effectiveness-structure-complexity"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
+      "strength": "S"
+     }
     ]
    },
    "explicit-teaching-effective-but-not-durable": {
@@ -45363,6 +45511,13 @@
      },
      {
       "slug": "time-treatment-interaction-corrective-feedback"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "M"
      }
     ]
    },
@@ -46226,6 +46381,11 @@
      },
      {
       "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "procedural-information",
       "strength": "M"
      },
@@ -46266,6 +46426,11 @@
       "polarity": "+",
       "slug": "student-led-ieps",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "patterns": [
@@ -47536,6 +47701,20 @@
      {
       "slug": "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
     ]
    },
    "feedback-answers-three-questions": {
@@ -47618,8 +47797,27 @@
     "elements": [
      {
       "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "selected-response-assessment-items",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "retrieval-practice",
+      "strength": "M"
      }
     ]
    },
@@ -47653,8 +47851,27 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "feedback",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "self-testing",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -47741,10 +47958,32 @@
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "debrief",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "S"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
       "slug": "authentic-assessment",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "S"
      }
     ],
@@ -47879,6 +48118,11 @@
      },
      {
       "polarity": "+",
+      "slug": "feedback",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "generative-processing",
       "strength": "S"
      },
@@ -47965,6 +48209,11 @@
       "polarity": "+",
       "slug": "cooperative-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -50032,6 +50281,13 @@
      },
      {
       "slug": "technology-use-right-tool-right-objective"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "feedback",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -52328,6 +52584,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -54180,6 +54443,13 @@
       "slug": "group-processing-skills-transferable-to-other-contexts"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "debrief",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -54431,6 +54701,11 @@
      {
       "polarity": "+",
       "slug": "guided-inquiry",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
       "strength": "S"
      }
     ],
@@ -55170,6 +55445,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "W"
+     },
+     {
       "polarity": "~",
       "slug": "model-revision",
       "strength": "M"
@@ -55741,6 +56021,13 @@
     "claims": [
      {
       "slug": "relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "retrieval-practice",
+      "strength": "M"
      }
     ]
    },
@@ -57932,6 +58219,13 @@
       "slug": "reading-versus-listening-incidental-vocabulary-gains"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -59761,6 +60055,13 @@
       "slug": "worked-example-problem-sequences"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -59792,6 +60093,13 @@
      },
      {
       "slug": "learners-misjudge-spacing-benefits"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -60705,6 +61013,13 @@
      },
      {
       "slug": "cooperative-learning-improves-achievement"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -64212,6 +64527,11 @@
       "polarity": "+",
       "slug": "balance-retrieval-success-and-retrieval-effort",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "retrieval-practice",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -65657,6 +65977,11 @@
       "polarity": "+",
       "slug": "full-and-completion-worked-examples-for-simultaneous-equations",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "worked-examples",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -66350,6 +66675,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -66703,6 +67035,11 @@
       "polarity": "+",
       "slug": "mastery-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
      }
     ],
     "methods": [
@@ -66713,6 +67050,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "game-based-mastery-learning-duolingo-pattern",
@@ -67407,6 +67749,13 @@
      },
      {
       "slug": "behaviorism-fails-linguistic-generativity"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "practice",
+      "strength": "W"
      }
     ],
     "patterns": [
@@ -68696,6 +69045,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "debrief",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "metacognition",
       "strength": "W"
      },
@@ -68856,6 +69210,13 @@
      },
      {
       "slug": "recasts-supported-but-effectiveness-varies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -69217,6 +69578,11 @@
      {
       "polarity": "+",
       "slug": "guided-discovery",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
       "strength": "S"
      }
     ],
@@ -71582,8 +71948,20 @@
     "elements": [
      {
       "polarity": "-",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
       "slug": "selected-response-assessment-items",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "retrieval-practice",
+      "strength": "M"
      }
     ]
    },
@@ -73376,6 +73754,13 @@
       "slug": "teachers-blame-instruction-over-learners-for-progress"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -75089,6 +75474,13 @@
      {
       "slug": "optimal-leitner-schedule-reviews-lower-decks-more-often"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spaced-repetition",
+      "strength": "W"
+     }
     ]
    },
    "optimal-leitner-schedule-expands-intervals-between-reviews": {
@@ -75134,6 +75526,13 @@
      },
      {
       "slug": "rl-sequencing-beats-fixed-oral-curriculum"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spaced-repetition",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -75877,6 +76276,11 @@
       "polarity": "-",
       "slug": "effective-classroom-management-plan",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "gamification",
+      "strength": "S"
      },
      {
       "polarity": "-",
@@ -77596,6 +78000,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -77625,6 +78036,13 @@
      },
      {
       "slug": "rubrics-improve-peer-feedback-quality"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -77766,6 +78184,11 @@
      },
      {
       "polarity": "+",
+      "slug": "debrief",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "peer-instruction",
       "strength": "M"
      },
@@ -77820,6 +78243,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "peer-assessment",
@@ -77945,6 +78373,11 @@
      },
      {
       "polarity": "+",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "peer-assessment",
       "strength": "M"
      },
@@ -77998,6 +78431,11 @@
      {
       "polarity": "+",
       "slug": "assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "feedback",
       "strength": "M"
      },
      {
@@ -79349,6 +79787,13 @@
      },
      {
       "slug": "hands-on-learning-improves-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "simulation",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -81039,6 +81484,13 @@
       "slug": "students-notice-missing-practice-and-examples"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -81597,6 +82049,13 @@
       "slug": "self-testing",
       "strength": "M"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
+     }
     ]
    },
    "pretraining-improves-transfer": {
@@ -81615,6 +82074,13 @@
      },
      {
       "slug": "whole-task-performance-improves-transfer"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -81886,6 +82352,13 @@
       "polarity": "~",
       "slug": "self-monitoring",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -83118,6 +83591,11 @@
       "polarity": "+",
       "slug": "problem-solving",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "learner-variables": [
@@ -83125,6 +83603,13 @@
       "polarity": "~",
       "slug": "affect-regulation",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -84257,6 +84742,13 @@
      {
       "slug": "gamification-raises-motivation-satisfaction"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "W"
+     }
     ]
    },
    "racism-shapes-resolve-to-teach-childrens-cultures": {
@@ -84962,6 +85454,13 @@
       "slug": "time-treatment-interaction-corrective-feedback"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -85013,6 +85512,13 @@
      },
      {
       "slug": "teachers-unaware-ocf-strategies-cognition-absent"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
      }
     ]
    },
@@ -85652,6 +86158,13 @@
       "slug": "reflective-practice-improves-outcomes-when-structured"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "debrief",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "~",
@@ -85700,6 +86213,18 @@
      },
      {
       "slug": "writing-to-learn-improves-understanding"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "debrief",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "S"
      }
     ],
     "patterns": [
@@ -87243,6 +87768,11 @@
     ],
     "elements": [
      {
+      "polarity": "-",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "retrieval-practice",
       "strength": "M"
@@ -87250,6 +87780,13 @@
      {
       "polarity": "+",
       "slug": "self-testing",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
       "strength": "M"
      }
     ],
@@ -87400,6 +87937,13 @@
       "slug": "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "-",
@@ -87438,6 +87982,13 @@
      },
      {
       "slug": "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
+      "strength": "M"
      }
     ]
    },
@@ -87479,6 +88030,13 @@
      {
       "slug": "retrieval-practice-outperforms-repeated-study-rowland-meta-analysis"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
+      "strength": "M"
+     }
     ]
    },
    "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent": {
@@ -87499,10 +88057,27 @@
       "slug": "retrieval-practice-outperforms-repeated-study-rowland-meta-analysis"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "spaced-repetition",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
       "slug": "balance-retrieval-success-and-retrieval-effort",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
       "strength": "M"
      }
     ],
@@ -87614,12 +88189,24 @@
      },
      {
       "polarity": "+",
+      "slug": "practice",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "retrieval-practice",
       "strength": "S"
      },
      {
       "polarity": "+",
       "slug": "self-testing",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
       "strength": "S"
      }
     ],
@@ -87763,11 +88350,21 @@
     ],
     "elements": [
      {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "S"
+     },
+     {
       "slug": "multiple-choice-retrieval-questions-with-competitive-alternatives"
      },
      {
       "polarity": "+",
       "slug": "practice-testing",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "practice",
       "strength": "S"
      },
      {
@@ -87783,6 +88380,20 @@
      {
       "polarity": "+",
       "slug": "self-testing",
+      "strength": "S"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
       "strength": "S"
      }
     ],
@@ -87905,9 +88516,21 @@
     ],
     "elements": [
      {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "retrieval-practice",
       "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "retrieval-practice",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -88617,6 +89240,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "gamification",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -88692,6 +89322,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "peer-assessment",
@@ -88999,6 +89634,13 @@
       "polarity": "-",
       "slug": "developing-talkers-academic-language-curriculum",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "M"
      }
     ]
    },
@@ -89770,6 +90412,13 @@
       "strength": "S"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "gamification",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -90200,6 +90849,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "debrief",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "gsa-coding-forms-teaching-profiles",
       "strength": "W"
      }
@@ -90269,6 +90923,11 @@
     ],
     "elements": [
      {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "self-monitoring",
       "strength": "M"
@@ -90279,6 +90938,13 @@
       "polarity": "-",
       "slug": "self-regulation",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -90329,6 +90995,13 @@
      {
       "polarity": "+",
       "slug": "self-assessment",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "M"
      }
     ],
@@ -90497,6 +91170,13 @@
       "slug": "self-controlled-learners-do-not-show-lower-error-on-requested-kr-trials"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -90567,6 +91247,13 @@
      },
      {
       "slug": "self-controlled-kr-groups-estimate-transfer-outcomes-more-accurately-than-yoked"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -95321,6 +96008,11 @@
       "polarity": "+",
       "slug": "self-explanation",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -98149,6 +98841,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "retrieval-practice",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -98341,8 +99040,18 @@
     "elements": [
      {
       "polarity": "-",
+      "slug": "feedback",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
       "slug": "simucase-platform",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "M"
      }
     ]
    },
@@ -98434,6 +99143,11 @@
       "polarity": "+",
       "slug": "simucase-platform",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "M"
      }
     ]
    },
@@ -98506,8 +99220,23 @@
     ],
     "elements": [
      {
+      "polarity": "~",
+      "slug": "debrief",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "simucase-platform",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
       "strength": "M"
      },
      {
@@ -98536,6 +99265,21 @@
      {
       "polarity": "+",
       "slug": "debrief",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
       "strength": "M"
      },
      {
@@ -98951,6 +99695,13 @@
      {
       "slug": "seven-nonsignificant-moderators-call-feedback"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "M"
+     }
     ]
    },
    "sixth-graders-prevalent-thinking-styles": {
@@ -99084,6 +99835,13 @@
      },
      {
       "slug": "low-salience-elements-need-extensive-practice"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -100303,6 +101061,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "practice",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "spaced-learning",
       "strength": "S"
      },
@@ -101036,6 +101799,16 @@
       "polarity": "+",
       "slug": "linguatorium-spaced-repetition-vocabulary-system",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "spaced-repetition",
+      "strength": "M"
      }
     ],
     "patterns": [
@@ -101111,6 +101884,13 @@
      {
       "polarity": "+",
       "slug": "spaced-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
       "strength": "M"
      }
     ],
@@ -106724,6 +107504,13 @@
       "slug": "structured-repetition-fluency-task-specific"
      }
     ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -108061,9 +108848,19 @@
       "polarity": "+",
       "slug": "inquiry-based-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "S"
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
+      "strength": "S"
+     },
      {
       "polarity": "+",
       "slug": "inquiry-based-learning",
@@ -109124,6 +109921,13 @@
       "polarity": "+",
       "slug": "crs-classroom-response-technology-hook",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -111413,6 +112217,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "feedback",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "guided-practice",
       "strength": "M"
@@ -113191,6 +114000,13 @@
      {
       "slug": "vs-av-no-difference-observation-dimension"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simulation",
+      "strength": "M"
+     }
     ]
    },
    "vygotsky-challenging-tasks-promote-growth": {
@@ -113762,6 +114578,13 @@
      },
      {
       "slug": "retrieval-practice-improves-final-inference-and-transfer-questions"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "retrieval-practice",
+      "strength": "M"
      }
     ]
    },
@@ -114506,6 +115329,11 @@
      },
      {
       "polarity": "+",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "worked-examples",
       "strength": "W"
      }
@@ -114698,6 +115526,11 @@
      {
       "polarity": "+",
       "slug": "full-and-completion-worked-examples-for-simultaneous-equations",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "practice",
       "strength": "M"
      },
      {
@@ -114991,6 +115824,11 @@
       "polarity": "~",
       "slug": "structured-questioning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "methods": [
@@ -115951,6 +116789,11 @@
       "polarity": "-",
       "slug": "provide-guidance",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "M"
      }
     ],
     "patterns": [
@@ -136891,6 +137734,11 @@
     ]
    },
    "debrief": {
+    "elements": [
+     {
+      "slug": "simulation"
+     }
+    ],
     "strategies": [
      {
       "slug": "case-based-learning"
@@ -151369,6 +152217,9 @@
     "principles": [
      {
       "slug": "memory-consolidation"
+     },
+     {
+      "slug": "retrieval-practice"
      }
     ],
     "strategies": [

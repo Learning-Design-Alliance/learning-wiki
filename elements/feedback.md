@@ -12,7 +12,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (2 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 8 report an effect size
+> **Evidence** · 32 claims (18 for, 11 mixed, 3 against) · 42 studies (16 quant-synthesis, 12 causal, 8 review, 3 associational, 2 theoretical, 1 qualitative), `q2`–`q4` · 16 of 42 report an effect size · 14 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).

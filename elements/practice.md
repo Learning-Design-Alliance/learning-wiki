@@ -12,14 +12,14 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 6 studies (3 causal, 2 theoretical, 1 review), `q2`–`q3` · 0 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 34 studies (15 causal, 11 quant-synthesis, 6 review, 2 theoretical), `q1`–`q4` · 10 of 34 report an effect size · 17 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
 
 ## Design Implications
 
-Practice is one of the most consistently supported instructional elements: active application produces better retention and transfer than re-reading or re-watching [Testing effect: retrieval practice improves long-term retention.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Its effectiveness depends on structure — early practice should reduce unnecessary search for novices, for example by following worked examples [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M], and part-task practice can isolate difficult components before whole-task integration [Part-task practice reduces cognitive load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]. Practice should be distributed over time and interleaved with feedback; massed, uncorrected repetition builds fluency in errors as readily as in correct performance.
+Practice is one of the most consistently supported instructional elements: active application produces better retention and transfer than re-reading or re-watching [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]. Its effectiveness depends on structure — early practice should reduce unnecessary search for novices, for example by following worked examples [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M], and part-task practice can isolate difficult components before whole-task integration [Part-task practice reduces cognitive load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]. Practice should be distributed over time and interleaved with feedback; massed, uncorrected repetition builds fluency in errors as readily as in correct performance.
 
 ### Context
 #### Requirements

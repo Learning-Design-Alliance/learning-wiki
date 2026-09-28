@@ -72,24 +72,24 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 |---|---|---|---|---|
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 643 pages | 3 | q2–q3 | 0 of 3 |
 | [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 510 pages | 2 | q2–q3 | 0 of 2 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 429 pages | 2 | q4 | 2 of 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 431 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 421 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 365 pages | 2 | q3–q4 | 1 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 347 pages | 2 | q3 | 0 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 337 pages | 2 | q2 | 0 of 2 |
-| [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 237 pages | 2 | q3–q4 | 2 of 2 |
+| [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 238 pages | 2 | q3–q4 | 2 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 234 pages | 2 | q3 | 0 of 2 |
-| [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 227 pages | 3 | q2–q3 | 2 of 3 |
+| [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 229 pages | 3 | q2–q3 | 2 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 206 pages | 5 | q3–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
-| [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 185 pages | 2 | q3 | 0 of 2 |
+| [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 187 pages | 2 | q3 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 180 pages | 1 | q3 | 0 of 1 |
 | [Activation Improves Learning](claims/activation-improves-learning.md) | 169 pages | 3 | q3 | 1 of 3 |
 | [Multiple Contrasting Cases Support Abstraction](claims/multiple-contrasting-cases-support-abstraction.md) | 162 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 125 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 113 pages | 2 | q3 | 0 of 2 |
-| [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 101 pages | 2 | q3 | 0 of 2 |
+| [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 102 pages | 2 | q3 | 0 of 2 |
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 93 pages | 1 | q3 | 0 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 89 pages | 3 | q3 | 0 of 3 |
 | [Dual Coding Improves Recall](claims/dual-coding-improves-recall.md) | 88 pages | 3 | q2–q4 | 1 of 3 |
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **8 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-97 claims are cited both ways.
+100 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -111,17 +111,17 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 354 | 44 | 22 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 552 | 67 | 19 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 3 | 162 | 11 | 1 |
-| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 5 | 4 | 10 | 3 |
+| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 6 | 4 | 10 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |
-| [Pairing worked examples with practice or fading supports transfer better than examples …](claims/worked-examples-with-practice-improve-transfer.md) | 46 | 1 | 9 | 2 |
+| [Pairing worked examples with practice or fading supports transfer better than examples …](claims/worked-examples-with-practice-improve-transfer.md) | 47 | 1 | 9 | 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 291 | 22 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 11 | 7 | 1 |
-| [Rewarding an already-intrinsically-motivating activity can reduce future engagement with …](claims/overjustification-effect-reduces-intrinsic-motivation.md) | 1 | 0 | 4 | 4 |
+| [Rewarding an already-intrinsically-motivating activity can reduce future engagement with …](claims/overjustification-effect-reduces-intrinsic-motivation.md) | 1 | 1 | 4 | 4 |
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
-| [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 232 | 2 | 3 | 2 |
+| [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 233 | 2 | 3 | 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 221 | 8 | 3 | 2 |
 | [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
-| [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 1 | 3 | 2 |
+| [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 3 | 3 | 2 |
 | [Social media tools plugged into learning management systems are presented as "social …](claims/social-media-tools-misappropriated-as-social-learning.md) | 1 | 0 | 3 | 1 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 184 | 10 | 2 | 2 |
 | [The complexity of coaching responsibilities may fragment the coaching process and reduce …](claims/coaching-complexity-may-fragment-impact.md) | 1 | 1 | 2 | 1 |

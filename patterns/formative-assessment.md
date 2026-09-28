@@ -23,7 +23,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (2 causal, 2 review, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 27 studies (11 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 13 of 27 report an effect size · 7 claims rest on one study
 
 ## Description
 Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation. It is a practical pattern for embedding low-stakes checkpoints into a lesson or unit.

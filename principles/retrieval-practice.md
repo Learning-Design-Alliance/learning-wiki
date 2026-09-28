@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 11 studies (5 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 7 of 11 report an effect size · 13 claims rest on one study
 
 ## Description
 Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them. It is useful when the goal is durable retention and easier future access.
