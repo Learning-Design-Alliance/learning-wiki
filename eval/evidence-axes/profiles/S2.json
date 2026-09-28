@@ -1,0 +1,5 @@
+{"name": "S2 (nurse onboarding, medication checks)",
+ "L": {"expertise": ["novice", "intermediate"], "age": "adult"},
+ "G": {"knowledge_type": ["procedure", "complex-skill"]},
+ "C": {"setting": ["workplace-clinical", "online-self-paced"], "duration": "single-session"},
+ "O": ["skill-performance", "delayed-retention", "near-transfer"]}

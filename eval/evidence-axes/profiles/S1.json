@@ -1,0 +1,5 @@
+{"name": "S1 (Italian A1, adults, self-paced mobile)",
+ "L": {"expertise": "novice", "age": "adult"},
+ "G": {"knowledge_type": ["verbal-association", "complex-skill"]},
+ "C": {"setting": "online-self-paced", "duration": "days-weeks"},
+ "O": ["delayed-retention", "skill-performance", "persistence"]}

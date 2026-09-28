@@ -1,0 +1,5 @@
+{"name": "S3 (algebra, ages 11-13, classroom)",
+ "L": {"expertise": "novice", "age": "adolescent"},
+ "G": {"knowledge_type": ["procedure", "principle"]},
+ "C": {"setting": "classroom", "duration": "days-weeks"},
+ "O": ["near-transfer", "conceptual-understanding", "delayed-retention"]}
