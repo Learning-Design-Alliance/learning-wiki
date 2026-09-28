@@ -25,18 +25,27 @@ sources:
     i: "?"
     kind: review
     rigour: "?"
+  - id: uchihara-et-al-2019
+    resource: "https://doi.org/10.1111/lang.12343"
+    title: "Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)"
+    author: "Uchihara, T., Webb, S., & Yanagisawa, A."
+    q: 3
+    i: 2
+    n: 26 studies (45 effect sizes, N=1,918)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2` medium · n=26 studies (45 effect sizes, N=1,918)
 
 ## Subclaims
 `q2 i?` Words appearing more frequently in a text are gained by more learners, and repeated exposures raise gains especially in the first few exposures. [→ Zou 2019](#zou-2019)
 `q2 i?` Eye-tracking studies confirm repetition of target words contributes to form recognition, meaning recall and meaning recognition, with exposure most influencing form recognition. [→ Zou 2019 (2)](#zou-2019-2)
 
-`q4 i2` Across 26 second-language studies, the number of encounters with a word correlated moderately with incidental learning of it (r = .34); the meta-analysis did not compare frequency with other predictors, so it does not show frequency is the strongest. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
+`q3 i2` Across 26 second-language studies, the number of encounters with a word correlated moderately with incidental learning of it (r = .34); the meta-analysis did not compare frequency with other predictors, so it does not show frequency is the strongest. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
 
 ## Evidence
 
@@ -64,7 +73,7 @@ The review reports, citing Godfroid (2018), an eye-tracking study confirming rep
 
 Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)
 
-`q4 · meta-analysis of correlational studies, open data (abstract only)` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)`
+`q3 · meta-analysis of correlational studies, open data (abstract only)` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)` · `quant-synthesis · r?`
 
 This meta-analysis synthesised 45 correlations from 26 second-language studies (1,918 learners) between the number of encounters with a word and incidental learning of it. The mean relationship was medium (r = .34), and its size varied with learner variables (age, vocabulary knowledge), treatment variables (spaced learning, visual support, engagement, range in number of encounters) and method (nonword use, forewarning of a comprehension test, vocabulary test format). It supports frequency as a predictor, but it pooled only frequency–learning correlations and did not rank frequency against other predictors, so it does not test "strongest"; the abstract also does not say that all studies involved reading. Read from the abstract only; the design is correlational.
 

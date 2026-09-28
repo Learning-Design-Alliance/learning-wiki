@@ -13,7 +13,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (7 for) · 7 studies (3 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 9 studies (4 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 3 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.

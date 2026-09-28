@@ -12,14 +12,14 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies (4 quant-synthesis, 3 causal, 1 review, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Gamification is the use of game design elements in non-game contexts (Deterding et al., 2011). In learning design, it means structuring learning activities with mechanics such as points, badges, levels, progress indicators, narratives, and leaderboards. The recommendation is not to decorate learning with rewards, but to align game mechanics with genuine learning behaviors — effortful practice, mastery, collaboration — so that motivational dynamics support rather than substitute for learning.
 
 ## Implications
 
-Gamification's effects on learning are real but conditional. Meta-analytic evidence shows small-to-medium positive effects on cognitive, motivational, and behavioral outcomes, with the largest gains when gamification includes collaboration and when it is applied in short-term or skill-based settings [Gamification improves learning outcomes, with effects moderated by context.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. The mechanism is primarily motivational: well-designed mechanics satisfy needs for competence (visible progress, achievable challenges) and autonomy (meaningful choice), consistent with [Self-Determination Theory](../theories/self-determination-theory.md) [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. But mechanics that reward mere activity rather than mastery, or that introduce social comparison through leaderboards, can backfire — undermining intrinsic motivation or demotivating lower-performing learners [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M]. Effective designs treat gamification as a motivational layer on top of sound instruction ([Practice](../elements/practice.md), [Feedback](../elements/feedback.md)), not as a replacement for it.
+Gamification's effects on learning are real but conditional. Meta-analytic evidence shows small-to-medium positive effects on cognitive, motivational, and behavioral outcomes, with the largest gains when gamification includes collaboration and when it is applied in short-term or skill-based settings [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [+M]. The mechanism is primarily motivational: well-designed mechanics satisfy needs for competence (visible progress, achievable challenges) and autonomy (meaningful choice), consistent with [Self-Determination Theory](../theories/self-determination-theory.md) [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. But mechanics that reward mere activity rather than mastery, or that introduce social comparison through leaderboards, can backfire — undermining intrinsic motivation or demotivating lower-performing learners [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M]. Effective designs treat gamification as a motivational layer on top of sound instruction ([Practice](../elements/practice.md), [Feedback](../elements/feedback.md)), not as a replacement for it.
 
 ### Context
 #### Requirements
@@ -57,6 +57,7 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - [Self-Determination Theory](../theories/self-determination-theory.md) — the same theory warns that controlling extrinsic rewards can crowd out intrinsic motivation, especially for tasks learners already value
 
 ### Claims
+- [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [+M] — cognitive g = .49 held in the more rigorous studies; motivational and behavioural effects did not
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — mechanics that preserve learner choice sustain motivation; controlling rewards do not
 - [Extrinsic rewards can undermine intrinsic motivation for interesting tasks.](../claims/rewards-undermine-intrinsic-motivation.md) [~M] — reward-based mechanics risk crowding out intrinsic interest
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M] — poorly integrated game elements add extraneous load

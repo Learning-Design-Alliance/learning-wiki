@@ -25,7 +25,7 @@ sources:
 # Individual Rotation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (8 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 9 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies (8 quant-synthesis, 3 review, 1 causal, 1 theoretical), `q1`–`q4` · 9 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Individual rotation is a blended learning model in which each student follows an individually assigned, often algorithm-generated, schedule or playlist that rotates among learning modalities — online adaptive software, teacher-led small-group instruction, collaborative activities, and independent work. Unlike [Station Rotation](station-rotation.md), the rotation is customized per learner rather than fixed for the whole class; unlike [Flipped Classroom](flipped-classroom.md), it governs the entire learning pathway rather than the homework/class split.

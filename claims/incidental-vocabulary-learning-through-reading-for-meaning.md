@@ -17,12 +17,21 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: webb-et-al-2023
+    resource: "https://doi.org/10.1017/s0261444822000507"
+    title: "Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)"
+    author: "Webb, S., Uchihara, T., & Yanagisawa, A."
+    q: 3
+    i: 3
+    n: 24 studies (29 effect sizes, N=2,771)
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i3` large · n=24 studies (29 effect sizes, N=2,771)
 
 ## Subclaims
 `q2 i?` Extensive reading for meaning and form is the primary way incidental vocabulary learning occurs, though success depends on context quality, learner attention, and task demands. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -45,7 +54,7 @@ The review reports, citing Huckin and Coady (1999), that their survey of empiric
 
 Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)
 
-`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)`
+`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)` · `quant-synthesis · r2`
 
 This meta-analysis (open-access full text read) pooled 24 studies of second-language vocabulary learned incidentally from meaning-focused input, 29 effect sizes and 2,771 participants (1,517 in experimental and 1,254 in control groups); studies without a control group were excluded. Against controls, the mean effect was large on first posttests (g = 1.14, 95% CI [0.86, 1.41], k = 28) and on follow-up posttests (g = 0.93, 95% CI [0.44, 1.42], k = 9), and fail-safe N and trim-and-fill showed little concern about publication bias. Proportions of target words learned on immediate posttests were similar across reading (17%), listening (15%) and reading while listening (13%), and lower for viewing (7%); as effect sizes, reading was largest (g = 1.45) and mode was a significant moderator on first posttests (p = .023) but not on follow-up posttests. This supports incidental learning from informative input and qualifies "primarily via extensive reading": reading is the most-studied mode (k = 16 on first posttests, against 5 for listening) and has the largest effect, but listening yielded similar proportions of words learned. The studies are short treatments, not extensive reading programmes.
 

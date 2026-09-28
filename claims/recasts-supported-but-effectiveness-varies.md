@@ -17,12 +17,21 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: lyster-saito-2010
+    resource: "https://doi.org/10.1017/S0272263109990520"
+    title: "Lyster, R., & Saito, K. (2010). Oral feedback in classroom SLA: A meta-analysis. *Studies in Second Language Acquisition, 32*(2), 265–302. [doi:10.1017/S0272263109990520](https://doi.org/10.1017/S0272263109990520)"
+    author: "Lyster, R., & Saito, K."
+    q: 3
+    i: 2
+    n: 15 studies (N=827); recasts n=7 studies, k=13
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2` medium · n=15 studies (N=827); recasts n=7 studies, k=13
 
 ## Subclaims
 `q2 i?` The corrective-feedback literature is overall supportive of recasts because they provide positive evidence when the learner is maximally receptive, yet recast effectiveness varies by language area and learner variables. [→ Robert DeKeyser 2010](#robert-dekeyser-2010)
@@ -44,7 +53,7 @@ Narrative review of corrective-feedback research, citing multiple studies and me
 
 Lyster, R., & Saito, K. (2010). Oral feedback in classroom SLA: A meta-analysis. *Studies in Second Language Acquisition, 32*(2), 265–302. [doi:10.1017/S0272263109990520](https://doi.org/10.1017/S0272263109990520)
 
-`q3 · meta-analysis of classroom quasi-experimental studies` · `i2 · medium effect, d=0.53 for recasts (between-group)` · `n=15 studies (N=827); recasts n=7 studies, k=13`
+`q3 · meta-analysis of classroom quasi-experimental studies` · `i2 · medium effect, d=0.53 for recasts (between-group)` · `n=15 studies (N=827); recasts n=7 studies, k=13` · `quant-synthesis · r?`
 
 Meta-analysis restricted to 15 classroom-based quasi-experimental studies of oral corrective feedback in teacher–student interaction (N = 827). In between-group contrasts recasts had a medium effect of 0.53 (7 studies, k = 13, CI ± 0.21), against 0.83 for prompts and 0.84 for explicit correction; in within-group contrasts recasts had 0.70 against 1.14 for prompts, and prompts proved significantly more effective than recasts there. So recasts are supported in classrooms, but they had the smallest between-group effect of the three feedback types. The authors note that the standard deviations and confidence intervals of all three types are widely ranged, and they attribute Mackey and Goo's (2007) much larger recast effect to that synthesis including laboratory studies. Full text read.
 

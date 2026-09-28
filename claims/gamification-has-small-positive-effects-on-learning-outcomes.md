@@ -8,11 +8,22 @@ generated:
   by: claude/unspecified
   at: 2026-09-30
 evidence_strength:
+sources:
+  - id: sailer-homner-2020
+    resource: "https://doi.org/10.1007/s10648-019-09498-w"
+    title: "Sailer, M., & Homner, L. (2020). The Gamification of Learning: a Meta-analysis. *Educational Psychology Review, 32*(1), 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)"
+    author: "Sailer, M., & Homner, L."
+    q: 3
+    i: 1
+    n: 38 publications, 40 experiments (cognitive k = 19, N = 1686)
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small · n=38 publications, 40 experiments (cognitive k = 19, N = 1686)
 
 Gamification here means the use of game design elements (points, badges, leaderboards, game
 fiction, competition or collaboration) in non-game instruction, as distinct from learning through
@@ -28,7 +39,7 @@ a full game.
 
 Sailer, M., & Homner, L. (2020). The Gamification of Learning: a Meta-analysis. *Educational Psychology Review, 32*(1), 77–112. [doi:10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w)
 
-`q3 · meta-analysis (random effects), power not established` · `i1 · small effects, g = .25 (behavioral) to g = .49 (cognitive)` · `n=38 publications, 40 experiments (cognitive k = 19, N = 1686)`
+`q3 · meta-analysis (random effects), power not established` · `i1 · small effects, g = .25 (behavioral) to g = .49 (cognitive)` · `n=38 publications, 40 experiments (cognitive k = 19, N = 1686)` · `quant-synthesis · r3`
 
 A meta-analysis of 38 publications reporting 40 experiments compared gamified instruction with non-gamified comparison conditions on three kinds of outcome. All three pooled effects were significant and heterogeneous (I² = 72.21%, 75.13% and 63.80%), and funnel plots and a selection model showed no publication bias. In a subsplit restricted to experimental designs and quasi-experiments with pre- and posttests, the cognitive effect held (g = .42, 95% CI [0.14, 0.68], k = 9, N = 686) while the motivational (g = .22, 95% CI [−0.11, 0.56]) and behavioral (g = .27, 95% CI [−0.16, 0.70]) effects were no longer significant. Game fiction, and competition combined with collaboration, moderated behavioral outcomes; duration did not moderate cognitive or behavioral outcomes. Read in full (open access, Springer).
 

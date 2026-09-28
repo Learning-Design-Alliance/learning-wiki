@@ -8,11 +8,22 @@ generated:
   by: claude/unspecified
   at: 2026-09-30
 evidence_strength: weak
+sources:
+  - id: boers-and-lindstromberg-2012
+    resource: "https://doi.org/10.1017/s0267190512000050"
+    title: "Boers, F., & Lindstromberg, S. (2012). Experimental and intervention studies on formulaic sequences in a second language. *Annual Review of Applied Linguistics, 32*, 83–110. [doi:10.1017/s0267190512000050](https://doi.org/10.1017/s0267190512000050)"
+    author: "Boers, F., & Lindstromberg, S."
+    q: 2
+    i: "?"
+    n: "?"
+    kind: review
+    rigour: "?"
 ---
 
 # A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r?` · `q2` · n=?
 
 Formulaic sequences are multiword units such as collocations and fixed expressions. This claim concerns second-language learners of any age; the one source here is a review of experimental and intervention studies published since 2004.
 
@@ -26,7 +37,7 @@ Formulaic sequences are multiword units such as collocations and fixed expressio
 
 Boers, F., & Lindstromberg, S. (2012). Experimental and intervention studies on formulaic sequences in a second language. *Annual Review of Applied Linguistics, 32*, 83–110. [doi:10.1017/s0267190512000050](https://doi.org/10.1017/s0267190512000050)
 
-`q2 · narrative review (abstract only)` · `i? · no effect size reported in the abstract` · `n=?`
+`q2 · narrative review (abstract only)` · `i? · no effect size reported in the abstract` · `n=?` · `review · r?`
 
 A review of experimental and intervention studies on formulaic sequences in a second language published since 2004. The authors state that there is plenty of evidence that learners have a lot to gain from building a sizable repertoire of L2 formulaic sequences, and that formulaicity is an area where learners are known to be slow to close the gap on native speakers. They group the pedagogical treatments proposed into three kinds: drawing learners' attention to formulaic sequences as they are encountered, stimulating lookups in dictionaries and corpus tools, and helping learners commit particular sequences to memory, and they gauge each against the (quasi-)experimental studies that tested it, framed by Laufer and Hulstijn's involvement load hypothesis. Read from the abstract only: it does not say how many studies were reviewed, what the evidence for the benefit of a large repertoire is, or which of the three kinds of treatment the review found most effective, so this entry supports the claim only as the review's stated premise.
 

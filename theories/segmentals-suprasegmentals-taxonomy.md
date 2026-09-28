@@ -16,7 +16,7 @@ sources:
 # Segmentals and suprasegmentals: two groups of language features involved in pronunciation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest organizes pronunciation features into two groups: "segmentals" (the basic inventory of distinctive sounds, 40 phonemes in North American English) and "suprasegmentals" (stress, rhythm, adjustments in connected speech, prominence, and intonation), which "transcend the level of individual sound production" and "provide crucial context and support" for segmental production. The taxonomy is used to describe what pronunciation instruction must cover and to note suprasegmentals' growing prominence.

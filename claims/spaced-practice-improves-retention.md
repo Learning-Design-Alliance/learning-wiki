@@ -36,12 +36,30 @@ sources:
     n: 1354
     kind: causal
     rigour: 2
+  - id: kim-and-webb-2022
+    resource: "https://doi.org/10.1111/lang.12479"
+    title: "Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)"
+    author: "Kim, S. K., & Webb, S."
+    q: 3
+    i: "?"
+    n: 48 experiments (98 effect sizes, N=3,411)
+    kind: quant-synthesis
+    rigour: "?"
+  - id: nakata-2015
+    resource: "https://doi.org/10.1017/s0272263114000825"
+    title: "Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)"
+    author: Nakata, T.
+    q: 3
+    i: "?"
+    n: 128
+    kind: causal
+    rigour: "?"
 ---
 
 # Spaced Practice Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r2` · `q3`–`q4` · `i2`–`i3`
+> **Evidence** · 5 studies · 3 quant-synthesis `r?`, 2 causal `r2` · `q3`–`q4` · `i2`–`i3`
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 
@@ -87,7 +105,7 @@ Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing
 
 Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)
 
-`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)`
+`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)` · `quant-synthesis · r?`
 
 This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3,411 participants) on spaced practice, comparing spaced with massed practice, longer with shorter spacing, and equal with expanding spacing on immediate and delayed posttests. The authors report that spacing had a medium-to-large effect on second language learning; that shorter spacing was as effective as longer spacing on immediate posttests but less effective on delayed posttests; and that equal and expanding spacing were statistically equivalent. Differences in the spacing effect across studies were explained by the learning target, number of sessions, type of practice, activity type, feedback timing and retention interval. Read from the abstract only: it prints no pooled effect sizes, confidence intervals or spacing intervals, so the size of each comparison, the gaps the studies used and the learners' ages and proficiency are not established here.
 
@@ -95,7 +113,7 @@ This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3
 
 Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)
 
-`q3 · peer-reviewed experiment (abstract only)` · `i? · no effect size printed in the abstract` · `n=128`
+`q3 · peer-reviewed experiment (abstract only)` · `i? · no effect size printed in the abstract` · `n=128` · `causal · r?`
 
 128 Japanese college students studied 20 English–Japanese word pairs under expanding or equal spacing, with the amount of spacing set at massed, short, medium or long. The main effect of the amount of spacing was significant and, in the author's words, produced large effect sizes; the author concludes that introducing spacing may matter more than whether it expands. Read from the abstract only: it prints no effect sizes, retention intervals or group sizes, and does not say how learners were assigned to conditions.
 

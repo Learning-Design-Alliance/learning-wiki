@@ -8,20 +8,20 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,139 |
-| Evidence entries | 3,892 |
-| Distinct studies | 1,093 |
-| Claims resting on one study | 2,942 (94%) |
+| Claims | 3,143 |
+| Evidence entries | 3,922 |
+| Distinct studies | 1,109 |
+| Claims resting on one study | 2,928 (93%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 310 of 1,093 (28%) |
+| Studies reporting an effect size | 317 of 1,109 (29%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 74 | 63 | 96 | 239 |
-| quant-synthesis | 8 | 32 | 2 | 105 | 147 |
-| review | 9 | 61 | 26 | 42 | 138 |
+| causal | 6 | 74 | 64 | 97 | 241 |
+| quant-synthesis | 9 | 36 | 2 | 112 | 159 |
+| review | 9 | 62 | 26 | 43 | 140 |
 | associational | 0 | 54 | 79 | 15 | 148 |
 | qualitative | 37 | 68 | 11 | 8 | 124 |
 | design | 8 | 88 | 36 | 1 | 133 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 203 (19%) | 545 (50%) | 263 (24%) | 82 (8%) |
+| 203 (18%) | 546 (49%) | 279 (25%) | 81 (7%) |
 
-**Studies per claim:** 0: 0, 1: 2,942, 2: 145, 3: 50, 4 or more: 2.
+**Studies per claim:** 0: 0, 1: 2,928, 2: 158, 3: 53, 4 or more: 4.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -43,7 +43,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 
 | Study | q | Claims citing it | Resting on it alone |
 |---|---|---|---|
-| [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 34 |
+| [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 33 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 | [Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of …](claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) | q3 | 10 | 10 |
@@ -55,7 +55,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper …](claims/consensus-eleven-core-id-tasks.md) | q2 | 8 | 8 |
 | [Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent …](claims/cap-clinic-adolescent-registrations-increased.md) | q2 | 8 | 8 |
 | [Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions …](claims/four-difficulty-themes-textbook-listening.md) | q2 | 8 | 8 |
-| [Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature …](claims/incidental-vocabulary-learning-through-reading-for-meaning.md) | q2 | 8 | 8 |
+| [Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature …](claims/incidental-vocabulary-learning-through-reading-for-meaning.md) | q2 | 8 | 6 |
 | [Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of …](claims/clarification-requests-three-way-interaction.md) | q3 | 8 | 8 |
 | [Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, …](claims/efl-students-prefer-deductive-over-inductive-grammar-instruction.md) | q2 | 8 | 8 |
 | [Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: …](claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) | q3 | 8 | 8 |
@@ -140,7 +140,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [processes](processes/index.md) | 12 | 11 | 6 | 0 |
 | [methods](methods/index.md) | 17 | 11 | 3 | 0 |
 | [theories](theories/index.md) | 883 | 708 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 8.5 | 0 |
+| [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
 
 ## Toward pooled estimates
 

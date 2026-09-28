@@ -22,17 +22,26 @@ sources:
     resource: "https://doi.org/10.1111/lang.12343"
     title: "Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)"
     author: "Uchihara, T., Webb, S., & Yanagisawa, A."
-    q: 4
+    q: 3
     i: 2
     n: 26 studies (45 effect sizes, N=1,918)
     kind: quant-synthesis
     rigour: "?"
+  - id: webb-et-al-2023
+    resource: "https://doi.org/10.1017/s0261444822000507"
+    title: "Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)"
+    author: "Webb, S., Uchihara, T., & Yanagisawa, A."
+    q: 3
+    i: 3
+    n: 24 studies (29 effect sizes, N=2,771)
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Incidental Vocabulary Exposure Limited
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Evidence** · 3 studies · 3 quant-synthesis `r2` · `q3` · `i2`–`i3`
 
 Learners acquire very few word meanings from a single incidental exposure during reading or listening; substantial word learning from context requires multiple encounters over time.
 
@@ -40,7 +49,7 @@ Learners acquire very few word meanings from a single incidental exposure during
 
 `q3 i?` Across 20 experiments on incidental word learning during normal reading, students learned around 15% of the unknown words they encountered, with the rate varying by grade level, reading ability, text length around the target word and how sensitive the test was to partial knowledge. [→ Swanborn & de Glopper 1999](#swanborn-de-glopper-1999)
 
-`q4 i2` In second-language incidental vocabulary learning, the number of encounters with a word correlates moderately with learning it (r = .34 over 26 studies), and learner, treatment and method variables moderate the size of that relationship. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
+`q3 i2` In second-language incidental vocabulary learning, the number of encounters with a word correlates moderately with learning it (r = .34 over 26 studies), and learner, treatment and method variables moderate the size of that relationship. [→ Uchihara et al. 2019](#uchihara-et-al-2019)
 
 `q3 i3` Across 24 controlled second-language studies, incidental learning from meaning-focused input had a large effect against controls (g = 1.14), yet learners picked up only 9–18% of target words on immediate posttests and 6–17% on delayed ones. [→ Webb et al. 2023](#webb-et-al-2023)
 
@@ -58,7 +67,7 @@ This meta-analysis pooled 20 experiments that measured how many unknown words st
 
 Uchihara, T., Webb, S., & Yanagisawa, A. (2019). The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies. *Language Learning, 69*(3), 559–599. [doi:10.1111/lang.12343](https://doi.org/10.1111/lang.12343)
 
-`q4 · meta-analysis of correlational studies, open data` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)` · `quant-synthesis · r?`
+`q3 · meta-analysis of correlational studies, open data` · `i2 · medium effect, r=.34` · `n=26 studies (45 effect sizes, N=1,918)` · `quant-synthesis · r?`
 
 This meta-analysis synthesised 45 correlations from 26 second-language studies (1,918 learners) between how often a word was encountered and whether it was learned incidentally. The mean relationship was medium (r = .34): more encounters go with more learning, which is consistent with word learning from context building over repeated encounters, though correlations cannot show that the encounters cause the learning. The size of the effect varied with learner variables (age, vocabulary knowledge), treatment variables (spaced encounters, visual support, engagement, the range of encounter counts) and method (nonwords, warning learners about a comprehension test, test format). It speaks to second-language learners, and the design is correlational rather than experimental. (Read from the abstract only.)
 
@@ -66,7 +75,7 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 
 Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)
 
-`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)`
+`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)` · `quant-synthesis · r2`
 
 This meta-analysis (open-access full text read) pooled 24 studies of second-language vocabulary learned incidentally from meaning-focused input, 29 effect sizes and 2,771 participants (1,517 in experimental and 1,254 in control groups); studies without a control group were excluded. Against controls, the mean effect was large on first posttests (g = 1.14, 95% CI [0.86, 1.41], k = 28) and on follow-up posttests (g = 0.93, 95% CI [0.44, 1.42], k = 9), and fail-safe N and trim-and-fill showed little concern about publication bias. The proportion of target words learned was small: about 18% for form recognition, 15% for meaning recognition and 9% for meaning recall on first posttests. Both halves bear on this claim: incidental exposure reliably produces some learning compared with none, but the share of words learned is low. Spaced encounters produced larger effects than massed ones (g = 1.51 against 0.97 on first posttests, p = .080; g = 1.71 against 0.58 on follow-up posttests, p = .013).
 
@@ -116,7 +125,7 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](marginal-glosses-most-beneficial-task.md) — a narrower finding that bears on this claim
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — a broader claim this one bears on
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
-- [Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners](reading-versus-listening-incidental-vocabulary-gains.md) — related
+- [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families](vocabulary-coverage-thresholds-for-inference.md) — related
 - [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](attention-builds-task-relevant-knowledge-base.md) — related
 - [Deaf students plateau at fourth-grade reading skill despite prolonged schooling](deaf-students-reading-plateau-fourth-grade.md) — related

@@ -17,12 +17,21 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: kim-and-webb-2022
+    resource: "https://doi.org/10.1111/lang.12479"
+    title: "Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)"
+    author: "Kim, S. K., & Webb, S."
+    q: 3
+    i: "?"
+    n: 48 experiments (98 effect sizes, N=3,411)
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=48 experiments (98 effect sizes, N=3,411)
 
 ## Subclaims
 `q2 i?` Distributing a given amount of practice over larger stretches of time is beneficial, but there are limits: spreading practice over a couple of years may be worse than spreading it over a couple of months. [→ Robert DeKeyser 2010](#robert-dekeyser-2010)
@@ -45,7 +54,7 @@ Narrative review of educational psychology and L2 studies. The article reports t
 
 Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)
 
-`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)`
+`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)` · `quant-synthesis · r?`
 
 This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3,411 participants) on spaced practice, comparing spaced with massed practice, longer with shorter spacing, and equal with expanding spacing on immediate and delayed posttests. The authors report that spacing had a medium-to-large effect on second language learning; that shorter spacing was as effective as longer spacing on immediate posttests but less effective on delayed posttests; and that equal and expanding spacing were statistically equivalent. Differences in the spacing effect across studies were explained by the learning target, number of sessions, type of practice, activity type, feedback timing and retention interval. Read from the abstract only: it prints no pooled effect sizes, confidence intervals or spacing intervals, so the size of each comparison, the gaps the studies used and the learners' ages and proficiency are not established here. It supports the first half of this claim, that distributed practice benefits L2 learning; it does not bear on the second half, since nothing in the abstract concerns practice spread over years, and within the ranges its studies used, which the abstract does not give, longer spacing did better than shorter on delayed tests.
 

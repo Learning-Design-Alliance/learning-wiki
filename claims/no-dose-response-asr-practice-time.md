@@ -17,12 +17,21 @@ sources:
     i: "?"
     kind: causal
     rigour: 2
+  - id: ngo-et-al-2024
+    resource: "https://doi.org/10.1017/S0958344023000113"
+    title: "Ngo, T. T.-N., Chen, H. H.-J., & Lai, K. K.-W. (2024). The effectiveness of automatic speech recognition in ESL/EFL pronunciation: A meta-analysis. *ReCALL, 36*(1), 4–21. [doi:10.1017/S0958344023000113](https://doi.org/10.1017/S0958344023000113)"
+    author: "Ngo, T. T.-N., Chen, H. H.-J., & Lai, K. K.-W."
+    q: 3
+    i: 2
+    n: 15 studies (38 effect sizes)
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r2` · `q2`–`q3` · `i2` medium · n=15 studies (38 effect sizes)
 
 ## Subclaims
 `q2 i?` Self-reported practice frequency and session length were not associated with observable improvement in pronunciation. [→ Dillon 2023](#dillon-2023)
@@ -44,7 +53,7 @@ Questionnaire-based analysis of the treatment group (27 respondents, of whom 15 
 
 Ngo, T. T.-N., Chen, H. H.-J., & Lai, K. K.-W. (2024). The effectiveness of automatic speech recognition in ESL/EFL pronunciation: A meta-analysis. *ReCALL, 36*(1), 4–21. [doi:10.1017/S0958344023000113](https://doi.org/10.1017/S0958344023000113)
 
-`q3 · meta-analysis (three-level, random effects)` · `i2 · medium effect, g=0.69` · `n=15 studies (38 effect sizes)`
+`q3 · meta-analysis (three-level, random effects)` · `i2 · medium effect, g=0.69` · `n=15 studies (38 effect sizes)` · `quant-synthesis · r2`
 
 A meta-analysis of 15 studies (2008–2021, 38 effect sizes) comparing ESL/EFL learners who practised pronunciation with automatic speech recognition (ASR) against a non-ASR condition. The pooled effect was g = 0.69 (95% CI 0.31 to 1.08), with substantial heterogeneity (Q = 227.70; I² 56.56% between studies). The authors did not test for publication bias, and name the small number of primary studies as the main limitation. Read from the publisher's open-access full text; the article was published online in 2023. By treatment duration, short programmes (one to four weeks) gave g = 0.07 (3 studies, 95% CI −1.02 to 1.15), medium ones (five to eight weeks) g = 1.01 (4 studies, 95% CI 0.12 to 1.89) and long ones (nine weeks or more) g = 0.72 (8 studies, 95% CI 0.23 to 1.21). The synthesis codes total programme length, not practice frequency or session length.
 

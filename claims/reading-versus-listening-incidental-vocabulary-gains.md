@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners
+title: "Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests"
 description: Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners
 id: reading-versus-listening-incidental-vocabulary-gains
 status: draft
@@ -17,12 +17,22 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: webb-et-al-2023
+    resource: "https://doi.org/10.1017/s0261444822000507"
+    title: "Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)"
+    author: "Webb, S., Uchihara, T., & Yanagisawa, A."
+    q: 3
+    i: 3
+    n: 24 studies (29 effect sizes, N=2,771)
+    kind: quant-synthesis
+    rigour: 3
 ---
 
-# Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners
+# Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q3`
+> **Evidence** · 2 studies · 1 quant-synthesis `r3`, 1 review `r2` · `q3` · `i3` large · n=24 studies (29 effect sizes, N=2,771)
+<!-- deprecated title (2026-09-30, contradicted by the synthesis added below): Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners -->
 
 ## Subclaims
 `q3 i?` In Vidal's study, reading subjects made greater vocabulary gains and retention than listening subjects, though higher-proficiency students showed slightly higher retention from listening. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)
@@ -37,7 +47,7 @@ Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language 
 
 `q3 · i?` · `review · r2`
 
-Vidal's (2011) comparison assigned 248 first-year ESL undergraduates in Madrid to a listening condition (112 students), a reading condition (80 students), or a control group (38 subjects), testing 36 target words over four weeks; the review reports reading subjects made greater gains.
+Vidal's (2011) comparison assigned 248 first-year ESL undergraduates in Madrid to a listening condition (112 students), a reading condition (80 students), or a control group (38 subjects) (the article's group sizes sum to 230, not 248), testing 36 target words over four weeks; the review reports reading subjects made greater gains.
 
 > "Results showed that the reading subjects made greater vocabulary gains and retention than the listening subjects, which suggests that reading is a more effective source of vocabulary acquisition"
 
@@ -45,7 +55,7 @@ Vidal's (2011) comparison assigned 248 first-year ESL undergraduates in Madrid t
 
 Webb, S., Uchihara, T., & Yanagisawa, A. (2023). How effective is second language incidental vocabulary learning? A meta-analysis. *Language Teaching, 56*(2), 161–180. [doi:10.1017/s0261444822000507](https://doi.org/10.1017/s0261444822000507)
 
-`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)`
+`q3 · meta-analysis` · `i3 · large effect, g = 1.14 on first posttests` · `n=24 studies (29 effect sizes, N=2,771)` · `quant-synthesis · r3`
 
 This meta-analysis (open-access full text read) pooled 24 studies of second-language vocabulary learned incidentally from meaning-focused input, 29 effect sizes and 2,771 participants (1,517 in experimental and 1,254 in control groups); studies without a control group were excluded. Against controls, the mean effect was large on first posttests (g = 1.14, 95% CI [0.86, 1.41], k = 28) and on follow-up posttests (g = 0.93, 95% CI [0.44, 1.42], k = 9), and fail-safe N and trim-and-fill showed little concern about publication bias. On first posttests, mode of input was a significant moderator (p = .023): reading g = 1.45 (k = 16), listening g = 0.97 (k = 5), reading while listening g = 0.78, viewing g = 0.60. On follow-up posttests the between-mode variation was not significant, and the authors caution that few delayed-test studies of listening, reading while listening and viewing exist. Proportions of words learned were similar for reading (17%, 15%) and listening (15%, 13%) on immediate and delayed posttests. Vidal (2011), the study behind this page's other entry, was excluded as an outlier more than three SDs above the mean effect sizes.
 
@@ -53,7 +63,7 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 
 ## Discussion
 
-**The meta-analytic picture is narrower than one study's.** Webb et al. (2023) support reading's advantage over listening as an effect size on immediate posttests, but not as a clear advantage in words learned or retained: proportions were similar across the two modes, and mode did not moderate follow-up effects. The study this claim was first drawn from, Vidal (2011), was excluded from that meta-analysis as an outlier. The title's "greater gains and retention" therefore overstates what the pooled evidence shows for retention.
+**The meta-analytic picture is narrower than one study's.** Webb et al. (2023) support reading's advantage over listening as an effect size on immediate posttests, but not as a clear advantage in words learned or retained: proportions were similar across the two modes, and mode did not moderate follow-up effects. The study this claim was first drawn from, Vidal (2011), was excluded from that meta-analysis as an outlier. The page's earlier title, "greater gains and retention", therefore overstated what the pooled evidence shows for retention, and the title now follows the meta-analysis; Vidal's single study, reported through Restrepo Ramos (2015), is the dissenting entry.
 
 ## Related Claims
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related

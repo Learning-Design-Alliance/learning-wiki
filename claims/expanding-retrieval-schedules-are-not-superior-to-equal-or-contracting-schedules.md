@@ -33,12 +33,30 @@ sources:
     i: "?"
     kind: review
     rigour: 3
+  - id: kim-and-webb-2022
+    resource: "https://doi.org/10.1111/lang.12479"
+    title: "Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)"
+    author: "Kim, S. K., & Webb, S."
+    q: 3
+    i: "?"
+    n: 48 experiments (98 effect sizes, N=3,411)
+    kind: quant-synthesis
+    rigour: "?"
+  - id: nakata-2015
+    resource: "https://doi.org/10.1017/s0272263114000825"
+    title: "Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)"
+    author: Nakata, T.
+    q: 3
+    i: "?"
+    n: 128
+    kind: causal
+    rigour: "?"
 ---
 
 # Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · review `r3` · `q2`
+> **Evidence** · 3 studies (5 entries) · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q2`–`q3`
 
 ## Subclaims
 `q2 i?` The chapter reports that Karpicke and Bauernschmidt (2011) found no discernable difference among expanding, equally spaced, and contracting relative spacing conditions. [→ Karpicke 2017](#karpicke-2017)
@@ -84,7 +102,7 @@ The chapter reports Kupper-Tetzel et al. (2014), with relearning sessions expand
 
 Kim, S. K., & Webb, S. (2022). The effects of spaced practice on second language learning: A meta-analysis. *Language Learning, 72*(1), 269–319. [doi:10.1111/lang.12479](https://doi.org/10.1111/lang.12479)
 
-`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)`
+`q3 · meta-analysis (abstract only)` · `i? · no effect size printed in the abstract; spacing effect described as medium-to-large` · `n=48 experiments (98 effect sizes, N=3,411)` · `quant-synthesis · r?`
 
 This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3,411 participants) on spaced practice, comparing spaced with massed practice, longer with shorter spacing, and equal with expanding spacing on immediate and delayed posttests. The authors report that spacing had a medium-to-large effect on second language learning; that shorter spacing was as effective as longer spacing on immediate posttests but less effective on delayed posttests; and that equal and expanding spacing were statistically equivalent. Differences in the spacing effect across studies were explained by the learning target, number of sessions, type of practice, activity type, feedback timing and retention interval. Read from the abstract only: it prints no pooled effect sizes, confidence intervals or spacing intervals, so the size of each comparison, the gaps the studies used and the learners' ages and proficiency are not established here. The abstract does not say whether the expanding and equal conditions it compared were matched on total spacing, which this claim requires.
 
@@ -94,7 +112,7 @@ This meta-analysis pooled 98 effect sizes from 48 second-language experiments (3
 
 Nakata, T. (2015). Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning? *Studies in Second Language Acquisition, 37*(4), 677–711. [doi:10.1017/s0272263114000825](https://doi.org/10.1017/s0272263114000825)
 
-`q3 · peer-reviewed experiment (abstract only)` · `i? · no effect size printed in the abstract` · `n=128`
+`q3 · peer-reviewed experiment (abstract only)` · `i? · no effect size printed in the abstract` · `n=128` · `causal · r?`
 
 128 Japanese college students studied 20 English–Japanese word pairs; the type of spacing (expanding or equal) and the amount of spacing (massed, short, medium, long) were both manipulated. Expanding spacing had a limited, yet statistically significant, advantage over equal spacing, which the author calls the first L2 study to find expanding superior; the main effect of the amount of spacing was also significant, with large effect sizes, and the author suggests introducing spacing may have a larger effect than its shape. This qualifies the claim: here expanding did beat equal spacing, if modestly. Read from the abstract only: it prints no effect sizes or retention intervals, does not say whether the advantage held at every amount of spacing, and does not say how learners were assigned.
 

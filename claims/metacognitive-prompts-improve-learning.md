@@ -17,12 +17,21 @@ sources:
     n: unreported in abstract (full text access-gated; k not stated)
     kind: quant-synthesis
     rigour: "?"
+  - id: wong-et-al-2019
+    resource: "https://doi.org/10.1080/10447318.2018.1543084"
+    title: "Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)"
+    author: "Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F."
+    q: 3
+    i: "?"
+    n: 35 studies
+    kind: review
+    rigour: 2
 ---
 
 # Metacognitive prompts improve learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=unreported in abstract (full text access-gated; k not stated)
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i2` medium
 
 Prompts that direct learners' attention to planning, monitoring, and evaluating their own thinking can improve learning outcomes, particularly when embedded in structured learning tasks.
 
@@ -46,7 +55,7 @@ A random-effects meta-analysis of experimental studies conducted in computer-bas
 
 Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)
 
-`q3 · systematic review, narrative synthesis, no pooled estimate` · `i? · no pooled effect size reported` · `n=35 studies`
+`q3 · systematic review, narrative synthesis, no pooled estimate` · `i? · no pooled effect size reported` · `n=35 studies` · `review · r2`
 
 A systematic review of 35 studies of approaches to support self-regulated learning in online learning environments (23 of them at undergraduate level; searched April 2016), grouped by approach: 14 on prompts, 10 on integrated support systems, 2 on feedback, 4 on prompts combined with feedback. The prompting studies found more SRL activity (planning, goal specification, monitoring, evaluation) and better transfer, factual and problem-solving performance in several studies, but the authors say effectiveness "cannot be simply defined by one effect size" because prompts differed in form, intention, specificity and timing. In one study reviewed, lower-prior-knowledge learners benefited from prompts only once they had been trained to use them. Read in full (open access, Erasmus University repository).
 

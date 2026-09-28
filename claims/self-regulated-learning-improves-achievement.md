@@ -27,12 +27,21 @@ sources:
     n: "?"
     kind: quant-synthesis
     rigour: "?"
+  - id: wong-et-al-2019
+    resource: "https://doi.org/10.1080/10447318.2018.1543084"
+    title: "Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)"
+    author: "Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F."
+    q: 3
+    i: "?"
+    n: 35 studies
+    kind: review
+    rigour: 3
 ---
 
 # Self-regulated learning improves achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1`–`i2`
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r3` · `q3`–`q4` · `i1`–`i2`
 
 Learners who plan, monitor, and evaluate their own learning — and who are explicitly taught to do so — achieve better outcomes than learners who study the same material without these self-regulatory processes.
 
@@ -66,7 +75,7 @@ Two meta-analyses of elementary and secondary school students related achievemen
 
 Wong, J., Baars, M., Davis, D., Van Der Zee, T., Houben, G.-J., & Paas, F. (2019). Supporting Self-Regulated Learning in Online Learning Environments and MOOCs: A Systematic Review. *International Journal of Human–Computer Interaction, 35*(4–5), 356–373. [doi:10.1080/10447318.2018.1543084](https://doi.org/10.1080/10447318.2018.1543084)
 
-`q3 · systematic review, narrative synthesis, no pooled estimate` · `i? · no pooled effect size reported` · `n=35 studies`
+`q3 · systematic review, narrative synthesis, no pooled estimate` · `i? · no pooled effect size reported` · `n=35 studies` · `review · r3`
 
 A systematic review of 35 studies of approaches to support self-regulated learning in online learning environments, from seventh graders to working adults (23 at undergraduate level), grouped as prompts (14), integrated support systems (10), feedback (2), prompts with feedback (4) and other approaches (5). Most studies found positive effects on learner performance; neither feedback-only study found an effect on learning performance, and in one integrated-system study learners performed better only when they used the support provided. Few studies examined learner differences, and those that did suggest learners with lower prior knowledge, cognitive ability or metacognitive ability need additional or differentiated support. Very few experimental studies had been run in MOOCs themselves. Read in full (open access, Erasmus University repository).
 

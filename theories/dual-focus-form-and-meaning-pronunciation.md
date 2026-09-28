@@ -16,7 +16,7 @@ sources:
 # Dual-focus approach to pronunciation instruction combining simultaneous attention to form and communicative intent
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (2 quant-synthesis, 1 review), `q1`–`q3` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The dual-focus approach holds that effective pronunciation teaching must combine a simultaneous focus on form (accuracy) and meaning (communicative context) to promote transfer to spontaneous speech. The article argues that repetition-oriented drills build automaticity but fail to generalize because they are decontextualized, while purely meaning-oriented activities fail to provide the repetition automatization requires. It names three exemplary frameworks implementing this progression: the communicative framework by Celce-Murcia et al. (2010), the ACCESS framework (Gatbonton & Segalowitz, 2005), and Morley's (1991) micro- and macrofocus framework, all of which progressively guide learners from attention to form toward combined form and meaning using communicative, authentic tasks.

@@ -17,12 +17,30 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: lee-et-al-2015
+    resource: "https://doi.org/10.1093/applin/amu040"
+    title: "Lee, J., Jang, J., & Plonsky, L. (2015). The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis. *Applied Linguistics, 36*(3), 345–366. [doi:10.1093/applin/amu040](https://doi.org/10.1093/applin/amu040)"
+    author: "Lee, J., Jang, J., & Plonsky, L."
+    q: 3
+    i: 3
+    n: 86 reports
+    kind: quant-synthesis
+    rigour: "?"
+  - id: saito-plonsky-2019
+    resource: "https://doi.org/10.1111/lang.12345"
+    title: "Saito, K., & Plonsky, L. (2019). Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework and Meta‐Analysis. *Language Learning, 69*(3), 652–708. [doi:10.1111/lang.12345](https://doi.org/10.1111/lang.12345)"
+    author: "Saito, K., & Plonsky, L."
+    q: 3
+    i: 2
+    n: 77 studies
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
 
 ## Subclaims
 `q2 i?` The article states that the general consensus of pronunciation research is that clear and demonstrable results are obtained when teachers have students pay explicit attention to pronunciation features and dedicate class time to meaningful and communicative practice. [→ Darcy 2018](#darcy-2018)
@@ -45,7 +63,7 @@ Narrative synthesis of prior studies and meta-analyses (e.g., Lee, Jang, & Plons
 
 Lee, J., Jang, J., & Plonsky, L. (2015). The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis. *Applied Linguistics, 36*(3), 345–366. [doi:10.1093/applin/amu040](https://doi.org/10.1093/applin/amu040)
 
-`q3 · meta-analysis (abstract only)` · `i3 · large effect, d=0.80 between-group` · `n=86 reports`
+`q3 · meta-analysis (abstract only)` · `i3 · large effect, d=0.80 between-group` · `n=86 reports` · `quant-synthesis · r?`
 
 A meta-analysis of 86 unique reports testing second-language pronunciation instruction, coded for study features and outcomes as Cohen's d. Instruction had a generally large effect: d = 0.89 for N-weighted within-group (pre-post) contrasts and d = 0.80 for between-group contrasts. Effects were larger for longer interventions, for treatments that provided feedback, and on more controlled outcome measures. Read from the abstract only: the abstract does not say whether the instruction studied included communicative practice, does not give confidence intervals, and does not report how large the effects were on spontaneous or communicative speech, so it supports "pronunciation instruction improves pronunciation" rather than the communicative half of this claim.
 
@@ -55,7 +73,7 @@ A meta-analysis of 86 unique reports testing second-language pronunciation instr
 
 Saito, K., & Plonsky, L. (2019). Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework and Meta‐Analysis. *Language Learning, 69*(3), 652–708. [doi:10.1111/lang.12345](https://doi.org/10.1111/lang.12345)
 
-`q3 · meta-analysis` · `i2 · medium effect, d=0.68 between-group` · `n=77 studies`
+`q3 · meta-analysis` · `i2 · medium effect, d=0.68 between-group` · `n=77 studies` · `quant-synthesis · r?`
 
 A re-analysis of 77 L2 pronunciation teaching studies (1982–2017), coding each outcome by what it measured (global impressions such as comprehensibility vs specific segmental and suprasegmental accuracy), how it was scored (human raters vs acoustic analysis) and what speech it elicited (controlled vs spontaneous). Overall, instruction helped: d = 0.68 (95% CI 0.49–0.86) for between-group contrasts and d = 0.73 (95% CI 0.69–0.78) for within-group contrasts, against d = 0.31 for control groups simply retested. But the gains were reliable only for controlled production of specific features (between-group, expert-rated d = 0.75, CI 0.42–1.07; acoustically measured d = 0.84, CI 0.45–1.24). For global measures and for spontaneous speech, every between-group confidence interval crossed zero (e.g. global, controlled d = 0.33, CI −0.18 to 0.85). Read from the authors' accepted manuscript (UCL Discovery), whose numbers the published abstract's conclusions match.
 
