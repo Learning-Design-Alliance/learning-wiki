@@ -37,20 +37,32 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (3 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (4 for, 2 mixed, 2 unmarked) · 8 studies (5 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
 
 ## Implications
 
-Worked examples are most effective when learners are new to a task or domain. By externalizing problem structure, they reduce the unproductive search that novices would otherwise spend on unguided problem solving [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. A meta-analysis of mathematics outcomes confirms medium performance benefits across grade levels [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S]. These benefits are not automatic: examples must be paired with practice, fading, or reflection to support transfer [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S], and prompting learners to explain a solution to themselves amplifies learning beyond passive study. As expertise grows, explicit guidance becomes redundant and can impede performance [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M], shifting the design challenge from providing structure to progressively removing it.
+Worked examples can help learners who are new to a task or domain. By externalizing problem structure, they may reduce unproductive search during initial acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. A meta-analysis reports benefits for mathematics performance [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S]. Subsequent practice, fading, and explanation are design options for moving toward independent performance, but their relative contribution depends on the comparison and outcome: one four-arm experiment found no detected immediate-test difference between examples only and example–problem pairs [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [~M]. As expertise grows, guidance may become redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. These relationships do not establish a universal schedule for fading or a delayed transfer effect.
+
+### Conditional Model
+
+**Proposed activity-to-learning relationship.** For a learner without a usable solution schema facing a structured task, studying a solution *before* attempting a similar problem may reduce search-heavy effort and improve subsequent performance. This is a theoretical explanation; lower effort and higher test performance are observations in particular studies, while schema formation is an inferred process. The [worked-examples pattern](../patterns/worked-examples.md) turns this conditional relationship into a sequence of design choices.
+
+| Condition that may change the choice | Observation recorded in this wiki | Design implication and uncertainty |
+|---|---|---|
+| Novices; structured circuit troubleshooting; immediate test | Example-only and example→problem groups outperformed problem-only and problem→example groups. Example-only and example→problem were not detectably different on that test [~M]. [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) | Put the example first for a similar initial task. This does not establish that alternating pairs outperform examples only or that the benefit lasts or transfers far. |
+| Prior knowledge, example type, **and task difficulty** considered together in college algebra | A three-way interaction appeared on the immediate posttest; the simpler prior-knowledge × example-type posttest interaction was not significant [~M]. [Three-way interaction claim](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) | Assess the actual task demand before choosing full versus completion examples. A high-prior-knowledge learner alone is insufficient to prescribe completion examples. |
+| Goal is conceptual understanding or transfer from a novel concept | In a synthesis, problem solving before instruction beat instruction before problem solving on these outcomes; the procedural result was not detectably different [~S]. [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) | Consider a problem-first sequence with consolidation as a competing design model. This is **not** a direct comparison with the specific example-first circuit lesson. |
+
+**Discriminating observations.** Record prior knowledge *for the target task*, task demand, exact order and amount of help, the learner's attempts, immediate procedural performance, later conceptual/transfer performance, and mental effort where measured. If the task or intended outcome is missing, preserve that absence and qualify the recommendation. Reduced search, productive struggle, and schema acquisition are rival or complementary mechanism hypotheses; an outcome alone cannot identify which occurred.
 
 ### Context
 #### Requirements
-- An explicit demonstration element ([Demonstration](../elements/demonstration.md) or [Procedural Information](../elements/procedural-information.md)) — learners need a complete model to study before attempting problems on their own
+- A solved demonstration ([Demonstration](../elements/demonstration.md) or [Procedural Information](../elements/procedural-information.md)) when this example-first approach is selected
 - Prompts that surface reasoning ([Eliciting Student Thinking](../elements/eliciting-student-thinking.md) or [Articulation](../elements/articulation.md)) — passive reading of examples produces weaker learning than active explanation
-- A way to follow examples with application ([Practice](../elements/practice.md)) — without subsequent problem-solving, knowledge stays inert
+- A way to check and eventually support independent application ([Practice](../elements/practice.md)); the amount and timing of practice remain design decisions
 
 #### Constraints
 - Less effective when the main goal is open-ended generation or creative exploration
@@ -81,10 +93,12 @@ Worked examples are most effective when learners are new to a task or domain. By
 
 ### Claims
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — worked examples reduce unnecessary search for novices
-- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — pairing examples with practice or fading supports transfer
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M] — example-based sequences outperform problem-only practice in the recorded novice comparison; the fading argument is from a separate synthesis
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — guidance becomes redundant as expertise grows (expertise reversal)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — example–problem sequences reduce cognitive load and improve outcomes vs. problem-only practice
 - [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S] — worked examples improve math performance across grades (meta-analysis)
+- [Prior knowledge, worked-example type, and task difficulty interact on an algebra posttest](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [~M] — a three-way condition that limits simple matching rules
+- [Productive failure improves conceptual learning](../claims/productive-failure-improves-conceptual-learning.md) [~S] — a competing sequence for some conceptual and transfer goals
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — worked examples gain power when paired with structured prompts to reflect on why each step was taken
@@ -95,7 +109,7 @@ Worked examples are most effective when learners are new to a task or domain. By
 ## Examples
 
 ### Validated
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — Van Gog, Kester & Paas (2011) showed that sequences of [worked examples](../elements/demonstration.md) and [practice problems](../elements/practice.md) reduced cognitive load and improved transfer scores compared to problem-only practice in secondary circuits troubleshooting (n=48).
+- [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [~M] — van Gog, Kester & Paas (2011) randomized 103 secondary students in circuit troubleshooting; 96 were analyzed. Example-only and example→problem conditions outperformed problem-only and problem→example on the immediate test, while example-only and example→problem did not differ detectably. This experiment does not establish a delayed or far-transfer effect.
 
 ### Illustrative
 

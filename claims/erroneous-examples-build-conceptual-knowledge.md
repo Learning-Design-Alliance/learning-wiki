@@ -21,7 +21,7 @@ sources:
     author: "Durkin, K., & Rittle-Johnson, B."
     q: 3
     i: "?"
-    n: 116
+    n: 74 fourth- and fifth-grade students
     kind: causal
     rigour: "?"
 id: erroneous-examples-build-conceptual-knowledge
@@ -56,9 +56,9 @@ The meta-analysis highlights erroneous examples as a key instructional tool for 
 
 Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect examples to support learning about decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)
 
-`q3 · peer-reviewed experimental study` · `i? · no source text available to check; the entry prints no effect size` · `n=116` · `causal · r?`
+`q3 · peer-reviewed experimental study` · `i? · no effect size in the abstract` · `n=74 fourth- and fifth-grade students` · `causal · r?`
 
-Researchers studied middle-schoolers learning decimal magnitudes. Students who compared correct and erroneous examples performed better than those who only studied correct examples, especially on transfer tasks and in terms of their ability to correctly reason about decimal magnitudes.
+Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tutoring session. Comparing correct and incorrect examples improved correct procedures and key concepts relative to comparing correct examples only; the published abstract reports no interaction with prior knowledge. This page's earlier `n=116` and “middle-schoolers” descriptions do not match the source abstract.
 
 ## Discussion
 Erroneous examples are most effective for learners with at least some prior knowledge; they can be confusing or lead to cognitive overload for absolute novices.
