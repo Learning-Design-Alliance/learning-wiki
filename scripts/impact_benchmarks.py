@@ -16,6 +16,8 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
+KRAFT_TIERS = json.loads((ROOT / "evidence-scales.json").read_text(encoding="utf-8"))[
+    "impact_reference"]["kraft_2020"]["tiers"]
 REQUIRED = (
     "verified_against_source", "unit", "population", "assignment",
     "comparator", "learner_start", "objective", "outcome_measure",
@@ -50,7 +52,10 @@ def kraft_tier(context):
     # These are signed effects.  A harmful effect is not a 'small benefit'.
     if value < 0:
         return None, "negative effect; report direction and magnitude separately"
-    return ("small" if value < .05 else "medium" if value < .20 else "large"), None
+    for tier in KRAFT_TIERS:
+        if value >= tier["lower_inclusive"] and value < tier.get("upper_exclusive", float("inf")):
+            return tier["label"], None
+    return None, "effect is outside defined benchmark tiers"
 
 
 def audit(root=ROOT):
