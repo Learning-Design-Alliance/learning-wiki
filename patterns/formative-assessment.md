@@ -77,6 +77,16 @@ Formative Assessment is a pattern in which instruction repeatedly cycles through
 
 ## Design
 
+### State to specify before using the pattern
+The syntheses linked here summarize average achievement across varied K–12 interventions. They do not identify a particular learner's initial state or a target state for a new design. For a local use of this pattern, record:
+
+- **Learner:** whose response is being interpreted, prior performance on the target task, and any known support needs. A grade band or course label alone is not an initial learning state.
+- **Context and activity:** the actual task and evidence prompt, when it occurs, who interprets the response, what feedback or instructional change follows, and whether the learner can retry.
+- **Objective:** the knowledge or skill the task is intended to change, stated at the level the learner will demonstrate it (for example, recall, explanation, application, or transfer).
+- **Goal state:** an observable criterion for that objective, the measure used to check it, and when it will be checked. “Improved achievement” or a pooled effect size is not a local goal state.
+
+At each checkpoint, preserve the learner response, the interpretation, the resulting change to instruction or learner activity, and the next response. If an input or follow-up observation is unavailable, mark it unknown; the linked syntheses cannot supply a learner-level prediction from the missing state.
+
 ### Sequence
 1. Elicit evidence of current understanding.
 2. Interpret the evidence against criteria.

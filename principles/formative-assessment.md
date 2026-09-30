@@ -35,6 +35,8 @@ Formative assessment improves learning when checkpoints produce evidence that ch
 
 **Evidence-to-design boundary:** [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) summarizes K–12 achievement syntheses and the published correction to a science subgroup estimate. The claim supports testing a usable feedback loop, while its averages and moderators do not predict a specific gain or prove that choosing one cycle length causes a larger effect. For the sequence and conditional choices, see the [Formative Assessment pattern](../patterns/formative-assessment.md).
 
+To apply the principle to a particular learner, specify their starting performance, the task and setting, the capability to change, and an observable target with a time of measurement. The syntheses below do not supply those learner-level states; the [pattern's state inputs](../patterns/formative-assessment.md#state-to-specify-before-using-the-pattern) distinguish what must be observed locally from what the general evidence can justify.
+
 ### Context
 #### Requirements
 - **Clear success criteria**: Learners need to know what counts as good performance before a checkpoint can guide improvement.
