@@ -31,13 +31,18 @@ ELIGIBLE = {
     "outcome_measure": {"standardized-achievement"},
     "effect_metric": {"d", "g", "smd"},
 }
+UNKNOWN = {"", "unknown", "unreported", "not reported", "n/a", "not assessed"}
+
+
+def missing_value(value):
+    return value is None or isinstance(value, str) and value.strip().lower() in UNKNOWN
 
 
 def kraft_tier(context):
     """Return (tier, reason); absent fields and unreviewed sources are not eligible."""
     if context.get("verified_against_source") is not True:
         return None, "source context unverified"
-    missing = [key for key in REQUIRED if context.get(key) in (None, "", "unknown")]
+    missing = [key for key in REQUIRED if missing_value(context.get(key))]
     if missing:
         return None, "missing: " + ", ".join(missing)
     for key, allowed in ELIGIBLE.items():
@@ -72,7 +77,7 @@ def audit(root=ROOT):
             tier, reason = kraft_tier(context)
             rows.append({"page": str(path.relative_to(root)), "source": source.get("id"),
                          "legacy_i": source["i"], "kraft_tier": tier, "reason": reason,
-                         "missing": [k for k in REQUIRED if context.get(k) in (None, "", "unknown")]})
+                         "missing": [k for k in REQUIRED if missing_value(context.get(k))]})
     return rows
 
 
