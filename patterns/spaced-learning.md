@@ -33,7 +33,7 @@ Spaced learning is a reusable way to distribute repeated encounters with the sam
 
 ### Prediction Contract
 
-**State and target.** For the specific material and learner, record current success on a representative recall or application task, the study/retrieval/feedback at each encounter, the gap in its actual units, and the intended final-test delay. State a measurable target (for example, a chosen proportion correct on a named assessment at a named time). The studies below report group comparisons; they do not supply a learner's starting performance, an individual optimum, or a universal target criterion. If any of these inputs is absent, report it as unknown rather than turning a pooled effect into an individual forecast.
+**State and target.** For the specific material and learner, record current success on a representative recall or application task, the study/retrieval/feedback at each encounter, the gap in its actual units, and the intended final-test delay. State a measurable target (for example, a chosen proportion correct on a named assessment at a named time). Record whether that delayed goal matters to the learner when known; a course's target and the learner's own goal need not coincide. The cited spacing comparisons did not measure the learner's valuation of the goal, starting performance for a new design, an individual optimum, or a universal target criterion. If any input is absent, report it as unknown rather than turning a pooled effect into an individual forecast. A retrieval response is an observation bearing on learning state, not a direct readout of that state.
 
 | Conditional forecast from recorded evidence | Response and next-action hypothesis to test locally | Diagnostic alternatives if the target is missed |
 |---|---|---|
