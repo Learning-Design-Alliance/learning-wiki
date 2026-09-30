@@ -87,7 +87,7 @@
   },
   "impact": {
     "field": "i",
-    "means": "How big the effect is, in the study's own terms.",
+    "means": "A legacy bin for a reported statistic, in the study's own terms. These Cohen-like thresholds do not measure educational importance or forecast an individual learner's gain; compare effects only after checking the population and starting state, assignment and comparator, intended outcome and measure alignment, score range and denominator, follow-up time, and uncertainty. For causal K-12 interventions on standardized achievement tests, Kraft (2020) offers a different, empirical reference distribution; do not apply it to every outcome or silently recode these bins. See https://doi.org/10.3102/0013189X20912798.",
     "ordinal": "higher is larger",
     "tiers": [
       {
