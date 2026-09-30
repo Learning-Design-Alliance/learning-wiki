@@ -33,6 +33,8 @@ Formative assessment is the instructional principle of embedding low-stakes chec
 ## Implications
 Formative assessment improves learning when checkpoints produce evidence that changes instruction or strategy before misunderstandings harden. Frequent low-stakes checks help instructors calibrate support [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] and help learners notice where their current approach is failing [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], which is why formative assessment is tightly linked to self-regulation. Errors are not a side effect to hide here; they are useful signals, especially when feedback is timely enough that learners can revise while the task is still alive [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
 
+**Evidence-to-design boundary:** [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) summarizes K–12 achievement syntheses and the published correction to a science subgroup estimate. The claim supports testing a usable feedback loop, while its averages and moderators do not predict a specific gain or prove that choosing one cycle length causes a larger effect. For the sequence and conditional choices, see the [Formative Assessment pattern](../patterns/formative-assessment.md).
+
 ### Context
 #### Requirements
 - **Clear success criteria**: Learners need to know what counts as good performance before a checkpoint can guide improvement.
