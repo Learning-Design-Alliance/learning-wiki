@@ -82,6 +82,19 @@ A narrative review of the classroom formative assessment literature, the source 
 
 ## Discussion
 
+### Comparability of the pooled effects
+
+The `i1` label is a legacy Cohen-like bin for the reported statistic, not a judgment that d = .20 or .29 is educationally trivial. [Kraft's education benchmarks](https://doi.org/10.3102/0013189X20912798) concern causal K–12 interventions on standardized achievement outcomes. The two pooled estimates cannot be placed in that reference class without checking the included measures and designs. Neither mean predicts a transition for an individual learner.
+
+| Needed for comparison | Established here | Unknown at this level |
+|---|---|---|
+| Learners and initial state | US K–12 in Lee; K–12 in Kingston and Nash | Prior capability, subgroup distributions and baseline balance of the comparison arms |
+| Assignment and comparator | Lee required a control condition; the Kingston and Nash correction removed one inappropriate comparison | Assignment method, attrition, residual imbalance and a common comparator across effects |
+| Objective and instrument | Student learning or achievement; estimates by subject | The capability each instrument detects, proximity to instruction, broad versus specialized tests, score ceiling/floor or range restriction, and standardization denominator |
+| Timing and uncertainty | Corrected science estimate .19 (95% CI .06–.31) | Common outcome horizon, overall pooled intervals on this page and learner-level uncertainty |
+
+Unknown here does not imply that every primary study omitted the detail. A usable design comparison would extract those study-level fields where reported, keep unlike measures and contrasts separate, and state which dimensions remain unresolved. A local target needs a learner's initial state, specific task and intended capability, observable criterion, instrument and time point. [IES guidance](https://ies.ed.gov/sites/default/files/migrated/nces_pubs/ncser/pubs/20133000/pdf/20133000.pdf) documents differing effect distributions for broad standardized versus specialized researcher-developed tests.
+
 The claim traces to Black & Wiliam's influential review, which argued that formative assessment practices produce some of the largest learning gains in the educational literature, particularly for lower-achieving students. The mechanism is a feedback loop: assessment tasks surface gaps between current and desired performance, [feedback](../elements/feedback.md) closes those gaps, and instruction adjusts accordingly. This aligns with feedback research showing that feedback is most effective when it addresses the task and process rather than the self, and with [constructive alignment](../patterns/constructive-alignment.md), which ties [assessment](../elements/assessment.md) tasks to intended outcomes.
 
 Boundary conditions matter. Gains depend on the *use* of assessment information — assessment that is collected but not acted on, or that primarily serves grading and accountability, shows much weaker effects. Overly frequent or evaluative assessment can shift students toward performance goals and undermine the [self-regulated learning](../theories/self-regulated-learning.md) that formative assessment is meant to build. Peer- and self-assessment are key vehicles: they require students to internalize quality criteria, which is where much of the achievement benefit appears to originate. Studies still need to be added to substantiate the subclaims above.
