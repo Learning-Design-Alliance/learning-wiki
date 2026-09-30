@@ -113,6 +113,19 @@
       }
     ]
   },
+  "impact_reference": {
+    "kraft_2020": {
+      "scope": "Source-verified causal pre-K-12 education intervention effects on standardized achievement measures; a synthesis must establish this for the pooled effect, not merely contain some eligible studies",
+      "metric": "Signed standardized mean difference (d, g, or SMD)",
+      "tiers": [
+        {"label": "small", "lower_inclusive": 0, "upper_exclusive": 0.05},
+        {"label": "medium", "lower_inclusive": 0.05, "upper_exclusive": 0.20},
+        {"label": "large", "lower_inclusive": 0.20}
+      ],
+      "source": "https://doi.org/10.3102/0013189X20912798",
+      "rule": "Classify only after source-verified impact_context fields meet the eligibility gate in scripts/impact_benchmarks.py; keep the legacy i code distinct. Negative effects require a separate direction statement."
+    }
+  },
   "sample": {
     "field": "n",
     "means": "Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.",

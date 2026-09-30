@@ -3259,15 +3259,6 @@ from 143/22/22 to 149/149/143.
 | 0 | Negligible: an effect size is reported and it is below d 0.2 |
 | ? | No effect size reported: someone looked and the source does not say. Never read as 0 |
 
-These are legacy Cohen-like bins for a reported statistic, **not an educational-value scale**. A `d=.19` in `i0` is not evidence of a negligible change for a learner; a `d=.29` in `i1` does not by itself mean a trivial intervention. Do not rank designs or transport a pooled number to a learner from the bin. Preserve the raw estimate and uncertainty. Before interpreting or comparing impacts, record (or explicitly mark unreported):
-
-1. The intended learning objective and observable target, the sampled learners' starting state and relevant characteristics, and whether assignment made comparison groups exchangeable (including attrition and baseline imbalance).
-2. The intervention, comparison condition, implementation, and setting; what changed between conditions and what each group actually received.
-3. The outcome instrument, its proximity to the taught task, sensitivity to the intended capability, possible ceiling/floor or restricted score range, the standardization denominator, and the measurement horizon.
-4. The estimate and interval, study design and risk of bias, and whether the compared estimates use compatible populations, outcomes, measures, comparators, and follow-up times. Missing detail is **unknown**, not assumed equal.
-
-Kraft's [empirical benchmarks for education interventions](https://doi.org/10.3102/0013189X20912798) address causal K–12 studies with standardized achievement outcomes; they are a more relevant reference in that defined class, alongside study features, cost and scale. Do not apply Kraft's cutoffs to a researcher-written near-transfer test, a non-achievement outcome, or an unverified meta-analytic mixture just because its statistic is named `d`. [IES guidance](https://ies.ed.gov/sites/default/files/migrated/nces_pubs/ncser/pubs/20133000/pdf/20133000.pdf) likewise recommends comparison with similar samples, interventions and outcomes and documents systematic differences between broad standardized and specially developed tests. The `q`/`r` codes alone cannot establish baseline equivalence or repair a mismatched measure. The current validator still bins by raw statistic for backward compatibility; changing the thresholds requires a separately versioned migration and a review of affected entries.
-
 ---
 
 ## Ingest notes for agents
