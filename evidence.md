@@ -8,18 +8,18 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,144 |
-| Evidence entries | 3,923 |
-| Distinct studies | 1,110 |
-| Claims resting on one study | 2,929 (93%) |
+| Claims | 3,146 |
+| Evidence entries | 3,925 |
+| Distinct studies | 1,112 |
+| Claims resting on one study | 2,931 (93%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 317 of 1,110 (29%) |
+| Studies reporting an effect size | 317 of 1,112 (29%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 74 | 64 | 98 | 242 |
+| causal | 6 | 74 | 64 | 100 | 244 |
 | quant-synthesis | 9 | 36 | 2 | 112 | 159 |
 | review | 9 | 62 | 26 | 43 | 140 |
 | associational | 0 | 54 | 79 | 15 | 148 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 203 (18%) | 546 (49%) | 280 (25%) | 81 (7%) |
+| 203 (18%) | 546 (49%) | 282 (25%) | 81 (7%) |
 
-**Studies per claim:** 0: 0, 1: 2,929, 2: 158, 3: 53, 4 or more: 4.
+**Studies per claim:** 0: 0, 1: 2,931, 2: 158, 3: 53, 4 or more: 4.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

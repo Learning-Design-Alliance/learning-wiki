@@ -1,13 +1,13 @@
 {
  "coverage": {
-  "claims->claims": 3128,
-  "claims->elements": 119,
+  "claims->claims": 3130,
+  "claims->elements": 118,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 96,
   "claims->principles": 124,
   "claims->processes": 3,
-  "claims->theories": 221,
+  "claims->theories": 220,
   "elements->claims": 459,
   "elements->elements": 452,
   "elements->learner-variables": 1,
@@ -18858,9 +18858,6 @@
       "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      },
      {
@@ -25531,9 +25528,6 @@
       "slug": "vocabulary-instruction-improves-comprehension"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -25954,9 +25948,6 @@
      },
      {
       "slug": "user-goals-contradict-educational-objectives"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "polarity": "-",
@@ -43174,9 +43165,6 @@
       "slug": "scaffolding-improves-learning"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      },
      {
@@ -46281,6 +46269,23 @@
       "polarity": "+",
       "slug": "four-factor-teaching-compatibility",
       "strength": "W"
+     }
+    ]
+   },
+   "fading-and-principle-prompts-improve-probability-transfer": {
+    "claims": [
+     {
+      "slug": "worked-example-problem-sequences"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "worked-examples"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "worked-examples"
      }
     ]
    },
@@ -57178,6 +57183,23 @@
      }
     ]
    },
+   "identical-example-problem-order-advantage-not-detected-at-final-test": {
+    "claims": [
+     {
+      "slug": "worked-example-problem-sequences"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "worked-examples"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "worked-examples"
+     }
+    ]
+   },
    "identical-item-difficulty-ranking-ctt-mfrm": {
     "claims": [
      {
@@ -60004,9 +60026,6 @@
      },
      {
       "slug": "task-repetition-fluency-complexity-same-task-only"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ],
     "elements": [
@@ -60107,9 +60126,6 @@
      },
      {
       "slug": "spaced-practice-improves-retention"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ],
     "learner-variables": [
@@ -83480,9 +83496,6 @@
       "slug": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -89512,9 +89525,6 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ]
    },
@@ -90814,9 +90824,6 @@
      },
      {
       "slug": "self-regulated-learning-improves-achievement"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ],
     "elements": [
@@ -115146,6 +115153,12 @@
       "slug": "example-problem-sequences-reduce-cognitive-load"
      },
      {
+      "slug": "fading-and-principle-prompts-improve-probability-transfer"
+     },
+     {
+      "slug": "identical-example-problem-order-advantage-not-detected-at-final-test"
+     },
+     {
       "slug": "interleaved-practice-improves-retention"
      },
      {
@@ -115208,9 +115221,6 @@
      },
      {
       "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "slug": "worked-examples-reduce-novice-search"
@@ -116541,9 +116551,6 @@
      },
      {
       "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -137747,9 +137754,6 @@
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -145402,9 +145406,6 @@
       "slug": "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -145586,6 +145587,9 @@
      },
      {
       "slug": "reigeluths-elaboration-theory"
+     },
+     {
+      "slug": "worked-examples"
      }
     ],
     "principles": [
@@ -186410,9 +186414,6 @@
       "slug": "vocabulary-instruction-improves-comprehension"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      },
      {
@@ -189715,9 +189716,6 @@
      },
      {
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -199029,7 +199027,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3144,
+  "claims": 3146,
   "elements": 688,
   "learner-variables": 12,
   "methods": 17,

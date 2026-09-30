@@ -2,80 +2,65 @@
 type: principle
 id: worked-examples
 title: Worked Examples
-description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
+description: "An example-first relationship qualified by task knowledge, representation, configuration and assessment horizon."
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-04-06
+  by: codex/unspecified
+  at: 2026-09-30
 sources:
-  - id: sweller-2010
-    resource: "https://doi.org/10.1007/s10648-010-9128-5"
-    title: "Sweller, J. (2010). Element interactivity and intrinsic, extraneous, and germane cognitive load. *Educational Psychology Review, 22*(2), 123–138"
-    author: Sweller, J
-  - id: tuovinen-1999
-    resource: "https://doi.org/10.1037/0022-0663.91.2.334"
-    title: "Tuovinen, J. E., & Sweller, J. (1999). A comparison of cognitive load associated with discovery learning and worked examples. *Journal of Educational Psychology, 91*(2), 334–341"
-    author: "Tuovinen, J. E., & Sweller, J"
-  - id: van-gog-2010
-    resource: "https://doi.org/10.1007/s10648-010-9134-7"
-    title: "van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174"
-    author: "van Gog, T., & Rummel, N"
   - id: van-gog-2011
     resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
-    title: "van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example–problem, and problem–example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218"
-    author: "van Gog, T., Kester, L., & Paas, F"
-  - id: barbieri-2016
-    resource: "https://doi.org/10.1016/j.lindif.2016.04.001"
-    title: "Barbieri, C., & Booth, J. L. (2016). Support for struggling students in algebra: Contributions of incorrect worked examples. *Learning and Individual Differences, 48*, 36–44"
-    author: "Barbieri, C., & Booth, J. L"
-  - id: heffernan-2014
-    resource: "https://doi.org/10.1007/s40593-014-0024-x"
-    title: "Heffernan, N. T., & Heffernan, C. L. (2014). The ASSISTments ecosystem: Building a platform that brings scientists and teachers together for minimally invasive research on human learning and teaching. *International Journal of Artificial Intelligence in Education, 24*(4), 470–497"
-    author: "Heffernan, N. T., & Heffernan, C. L"
+    title: "Effects of worked examples, example-problem, and problem-example pairs on novices' learning"
+    author: "van Gog, T.; Kester, L.; Paas, F."
+  - id: van-gog-identical-2011
+    resource: "https://doi.org/10.1016/j.compedu.2011.03.019"
+    title: "Effects of identical example-problem and problem-example pairs on learning"
+    author: "van Gog, T."
+  - id: atkinson-renkl-merrill-2003
+    resource: "https://doi.org/10.1037/0022-0663.95.4.774"
+    title: "Transitioning From Studying Examples to Solving Problems: Effects of Self-Explanation Prompts and Fading Worked-Out Steps"
+    author: "Atkinson, R. K.; Renkl, A.; Merrill, M. M."
 ---
 
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
 
-## Description
-
-A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
-
 ## Conditional relationship
 
-When a learner lacks a usable schema for a structured task, studying a solution before a similar attempt may reduce search and support initial performance; task knowledge, representation and intended outcome can change the choice. This is a conditional explanatory model, not a universal individual forecast. The [worked examples pattern](../patterns/worked-examples.md) supplies a reusable observation and design policy. Specific local examples below illustrate it rather than define its scope.
+For an initial structured task, a learner without an applicable solution schema may benefit from studying a correct solution before attempting a comparable problem. Available task knowledge, representation, help conditions, example/problem identity, intended capability and assessment horizon constrain this relationship. The [pattern](../patterns/worked-examples.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
 
-## Learner state, objective and valued goal
+## Observation, state and explanation
 
-This is a reusable design model. A study result supplies a bounded observation; it does not reveal the state or future outcome of a new learner.
+Record a response **under stated conditions**, not a context-free learner trait. Copying, choosing a step, explaining a relation and adapting it are different performances. “Novice” refers to the particular task; experience in the wider domain does not settle it. A formula sheet or calculator may be compatible with independence from a worked solution, but not with unaided recall. Define which capability matters before interpreting help dependence.
 
-Before selecting a configuration, record the target task and representation, task-specific prior experience, access and language constraints, time available, observed responses and the exact help provided. Preserve an unknown rather than replacing it with a generic label such as novice. Ask the learner what they want to accomplish and why it matters. Record that **valued goal** separately from the designer's **learning objective**; agreement is an observation to elicit, not an assumption. If they diverge, negotiate the task or purpose and retain the unresolved difference.
+Reduced search and schema acquisition are explanatory hypotheses. Accuracy, reported effort, response time and confidence are observations; none directly measures the schema. Lower effort could also reflect disengagement. A learner's goal and its significance may alter participation and interpretation, but the studies linked here do not validate that causal mechanism.
 
-Define the intended capability, a representative assessment task and scoring instrument, the criterion chosen for this design, and the assessment horizon. Agree what response would warrant changing support and how to check later independent performance. Criteria are local decisions, not universal mastery thresholds. If the brief only asks for better learning, elicit these fields before selecting an exact dose or forecasting a gain.
-
-Keep the record in this form: **response under stated conditions → uncertain state hypotheses → discriminating observation → next activity → response at the stated horizon**. Difficulty, accuracy, speed, confidence and engagement are different observations. None alone proves learning. Record a learner's changed purpose or constraints as well as a changed performance.
-
-## Observation and adaptation
-
-The following diagnostic policy is a **design proposal, not a tested fading algorithm**. Elicit an independent first step and its justification on a structurally similar task before showing a solution. Then compare a supported attempt with an unassisted attempt on a changed surface representation. Record which decisions are correct, the explanation, prompts used, confidence and any access difficulty.
-
-| Observation | Rival interpretations and discriminating observation | Proposed next action |
+| Response | Plausible explanations | Observation that could change the interpretation |
 |---|---|---|
-| Correct copying but no independent first step | The learner may lack a usable solution schema, or may know the relation but fail to recognize it in this representation. Ask for a justification with the familiar representation and then with a changed one, without exposing the answer. | If both fail, model the decision and ask the learner to explain it before a new attempt. If only the changed representation fails, compare representations explicitly rather than repeat the entire solution. |
-| Correct supported steps, incorrect independent ones | Help dependence and a language/access barrier are distinct possibilities. Compare an unassisted response in an accessible format with the same demand in the original format. | Retain or reduce the relevant support according to the observed barrier; do not infer expertise from hint-assisted accuracy. |
-| Correct independent solution and reasoning | A memorized sequence may mimic structural understanding. Change surface details and a relevant condition, and ask what changes and why. | Propose a completion problem or less guidance when the changed task is handled independently; restore targeted support if it fails. This threshold requires local testing. |
+| Copies accurately, cannot start a changed problem | Missing task relation; failure to recognize it; inaccessible prompt | Elicit first-step reasoning on matched familiar/changed representations and accessible response modes, recording every hint. |
+| Succeeds with an aid, fails without it | Tool-supported capability; aid dependence; increased memory demand | Hold the target reasoning constant and vary the named aid. Decide whether aid removal belongs to the objective. |
+| Explains correctly but fails in a whole task | Local relation available; integration/working-memory demand; task change | Compare a component probe and a representative whole task, including the omitted conditions. |
+| Improves after instruction and repeated probes | Learning from example, from probes, from feedback, or their combination | Preserve all exposures. Only a defensible comparison can attribute the gain to one component. |
 
-For a learner who wants to repair equipment safely, explain why diagnosing and justifying the first step supports that purpose, and assess safety-critical choices separately. Choosing steps tomorrow is a delayed target; the source below does not forecast that target. Negotiate a representative changed-circuit task, a locally chosen reasoning/safety criterion and an unassisted check tomorrow. For an unspecified learner, first elicit this purpose and target; do not prescribe completion steps from the novice label alone.
+These probes can shift confidence among hypotheses; a single contrast does not identify a cause. Match demands and repeat where feasible. Probe exposure itself can change the state. Record what remains unresolved rather than selecting an explanation because its name fits.
 
-## Evidence-bounded expectation
+## Evidence and qualifications
 
-In a secondary-school circuit-troubleshooting experiment, example-only and example→problem conditions had better learning outcomes and lower cognitive load than problem-only and problem→example conditions. Example-only versus example→problem and problem-only versus problem→example did not differ detectably: [four-arm sequencing observation](../claims/worked-example-problem-sequences.md). This supports an example-first candidate for a comparable initial task. It does not establish equivalence of the null contrasts, a universal need to alternate practice, the proposed diagnostic policy, or delayed independent performance and safety. The source's accessible abstract confirms the group contrasts; detailed procedure and test interpretation here additionally rely on the wiki's study extraction.
+- [Initial circuit-task ordering](../claims/worked-example-problem-sequences.md): example-first conditions supported better immediate performance in a bounded novice comparison. Its full manuscript is checked; the aligned paper test is not evidence of delayed safe repair.
+- [Identical-pair qualification](../claims/identical-example-problem-order-advantage-not-detected-at-final-test.md): an early order advantage did not persist detectably at the final test. Abstract checked; no equivalence or fully verified method claim follows.
+- [Transition configuration](../claims/fading-and-principle-prompts-improve-probability-transfer.md): backward fading and principle prompts have evidence in probability learning. This supplies a distinct candidate configuration, not a universal individual readiness threshold or proven combined synergy.
 
-Treat reduced search or schema formation as explanatory hypotheses, not directly observed learner states. Compare observations under retained configurations rather than attributing any later improvement to the example alone.
+Retain learner/sample, assignment, exclusions, baseline assessment, help, dose, comparator, instrument alignment, score range and horizon when transporting these observations. Random assignment is not proof that the realized groups were equal. An omnibus partial η² is neither a pairwise d nor a learner's probability of success. Do not rank these studies by an effect label while their comparisons differ.
 
-## Source verification and open tests
+## Objective and learner-valued goal
 
-van Gog, Kester & Paas (2011), [author institutional abstract](https://repub.eur.nl/pub/26205). Abstract verification of group contrasts; full-source procedure verification remains incomplete in this run.
+Ask what the learner wants to accomplish and why, separately from the designer's objective. Agreement, divergence and uncertainty are observations. Negotiate a meaningful task when possible; do not infer motivation from compliance. Choose a representative instrument, local criterion, permitted aids and horizon. Speed, explanation, recall, transfer and safety require different evidence.
 
-The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.
+For example, a learner may value explaining an equipment fault while a designer seeks fast routine diagnosis. A timed score alone cannot establish agreement or explanatory competence. The pattern shows how to preserve both aims and test the intended capability.
+
+## What would revise this model?
+
+A bounded example-first expectation should weaken if comparable learners, configurations and aligned outcomes fail to reproduce it under defensible comparisons. If matched access changes explain performance better than schema support, revise the local state interpretation. If independent procedural success fails to predict later conceptual application, retain that distinction rather than calling both mastery. Do not protect the model by retrospectively relabelling every failure as low motivation or insufficient prior knowledge.
+
+A learning-phase advantage, immediate changed-task success, delayed retention and valued real-world use are separate claims. The present evidence does not establish an optimal fading policy, a numerical individual forecast or universal benefit across domains.

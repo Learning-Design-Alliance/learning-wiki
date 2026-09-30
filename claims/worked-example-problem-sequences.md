@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Sequencing worked examples with practice problems improves learning for novices
+title: Example-first conditions outperformed problem-first conditions on an immediate circuit test
 status: draft
 generated:
   by: claude/unspecified
@@ -19,50 +19,31 @@ sources:
     rigour: "?"
 ---
 
-# Sequencing worked examples with practice problems improves learning for novices
+# Example-first conditions outperformed problem-first conditions on an immediate circuit test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3` · n=96 (secondary education students, novices)
-
-This claim concerns how [worked examples](../elements/demonstration.md) and [practice problems](../elements/practice.md) should be ordered and combined — e.g., example–problem pairs, faded examples, or example-first sequences — rather than whether examples help at all.
 
 ## Subclaims
 
-`q3 i?` A randomized experiment with secondary-school novices found that sequences beginning with a worked example (examples-only, and example-then-problem pairs) produced higher test performance and lower invested mental effort than sequences beginning with a problem (problems-only, and problem-then-example pairs); example-first and example-problem-pairs conditions did not differ from each other, nor did problem-only and problem-example-pairs conditions. [→ van Gog et al. 2011](#van-gog-et-al-2011)
+`q3 i?` In this novice circuit experiment, WE and WE–PS outperformed PS and PS–WE on the immediate test and had lower reported training effort. Neither within-pair contrast was detected; equivalence was not tested.
 
 ## Evidence
 
 ### van Gog et al. 2011
 
-Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices’ learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
+[Peer-reviewed author manuscript](https://research.ou.nl/ws/portalfiles/portal/1026339/Van%20Gog_%20Kester%20_%20Paas%20-%20CEDPSYCH%202010.pdf), Methods/Results and Table 1, manuscript pp. 10–16, 26. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004). Full method/result verification by the editing agent; not independent human verification.
 
-`q3 · peer-reviewed randomized experiment (not pre-registered)` · `i? · partial η² reported (.20–.23) but not a d/g/r/OR effect size` · `n=96 (secondary education students, novices)` · `causal · r?`
+103 Dutch secondary students were randomized within sessions; 96 were analyzed. Seven missing-test exclusions occurred in PS (4) and WE–PS (3). Prior knowledge was a covariate. Four paper tasks varied example/problem format; calculators and formula sheets were allowed, previous solutions unavailable. Two same-session test problems varied surface details or fault complexity; total score range was 0–8. One author scored blind to condition. Effort was self-reported on a nine-point scale.
 
-103 Dutch secondary-education students, novices at electrical-circuit troubleshooting, were randomly assigned to one of four training conditions: worked-examples-only (WE), example-then-problem pairs (WE-PS), problem-then-example pairs (PS-WE), or problems-only (PS); 96 were retained for analysis after exclusions for missing data. On a post-test, WE and WE-PS (both example-first) significantly outperformed PS and PS-WE (both problem-first) on test performance, F(3,91) = 9.00, p < .001, ηp² = .23, while also requiring significantly less invested mental effort during training, F(3,91) = 7.78, p < .001, ηp² = .20. WE and WE-PS did not differ from each other, and PS and PS-WE did not differ from each other — i.e., whether examples were paired with problems mattered less than whether the sequence started with an example or a problem. The authors conclude it is not necessary to alternate example study and problem solving, but that when [pairs](../elements/practice.md) are used, [example](../elements/demonstration.md)-before-problem should be used rather than problem-before-example.
+Test ANCOVA: F(3,91)=9.00, partial η²=.23; training effort: F(3,91)=7.78, partial η²=.20. Bonferroni contrasts supported the stated ordering. These are omnibus effects, not pairwise standardized gains or individual probabilities. Randomization does not ensure exact baseline equivalence; differential exclusions and narrow, instruction-aligned tests constrain interpretation.
 
 ## Discussion
 
-The core design question is sequencing: whether examples should precede problems, alternate with them in pairs, or fade from full worked solutions to independent problem-solving. Reasoning from [cognitive load theory](../theories/cognitive-load-theory.md), novices benefit when early steps in a sequence impose less search-heavy load, so example-first or example–problem pairings are typically recommended over problem-first orderings [+M]; this connects to the broader claim that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) and that [cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
+The comparison supports a bounded example-first choice for similar initial tasks. It does not test an adaptive fading policy, a mandatory alternation rule, delayed retention, live repair safety or open-ended creativity. Mental effort is an observed report; schema acquisition is an explanation, not a direct measurement. No learner-valued goal mechanism was measured.
 
-A key boundary condition is the [expertise reversal effect](../theories/expertise-reversal-effect.md): as learners gain skill, studying examples becomes redundant and problem-solving becomes the more productive activity [~M], so sequences should fade support over time. Sequencing also interacts with [chunking](chunking-reduces-working-memory-load.md) — examples are most useful when each demonstrates one manageable step or solution stage.
-
-**Design implications.** For novice-facing instruction, start with fully worked examples, move to example–problem pairs (completion problems) where learners finish partially worked solutions, and fade to independent problems as performance improves. Alternating pairs are commonly recommended because the example is studied immediately before the learner attempts a structurally similar problem, minimizing the gap between studying a solution strategy and applying it [~M]. Faded examples operationalize this progression within a single sequence.
-
-**Constraints.** Problem-first sequencing (problem–example pairs) can force novices into means–ends search before they have a solution schema available, imposing extraneous load precisely when they are least equipped to handle it [-M]. The same example-first sequencing that helps novices can hurt more advanced learners, for whom worked solutions are redundant with existing schemas and displace productive practice [-M]. Sequences that fade too slowly waste advanced learners' time; sequences that fade too quickly reintroduce search-heavy load before schemas are consolidated [~M]. These effects have been documented primarily in well-structured domains (mathematics, science, troubleshooting); sequencing recommendations for ill-structured domains remain an open question.
-
-**Open questions.** Whether alternating pairs outperform blocked example-then-problem sequences, how quickly support should be faded, and how these effects transfer across domains. The one experiment recorded above found sequences starting with a worked example beat problem-first sequences for novices; studies of fading worked-out steps are not yet recorded here.
+Do not conflate example→problem pairs with completion problems: the latter omit solution steps within a task. Do not substitute this study's task count, timing or test threshold as universal requirements. A short diagnostic attempt before instruction is also distinct from a sustained problem-first learning design.
 
 ## Related Claims
 
-- [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the mechanism through which example-based sequences are expected to help novices
-- [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — problem-only practice can overload novices, motivating example support
-- [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — examples should present solutions in manageable steps
-- [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the main boundary condition on sequencing examples before problems
-- [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — a broader claim this one bears on
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md) — possibly the same claim (merge candidate)
-- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
-- [Interleaving Improves Learning](interleaving-improves-learning.md) — related
-- [Scaffolding improves learning](scaffolding-improves-learning.md) — related
-- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — related
-- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on
+- [Identical pairs qualify an example-first final-test advantage](identical-example-problem-order-advantage-not-detected-at-final-test.md)
+- [Fading and principle prompts in probability learning](fading-and-principle-prompts-improve-probability-transfer.md)

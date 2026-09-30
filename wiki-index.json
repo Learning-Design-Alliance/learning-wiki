@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3144,
+  "claim": 3146,
   "element": 688,
   "learner-variable": 12,
   "method": 17,
@@ -8507,6 +8507,15 @@
    "type": "claim"
   },
   {
+   "description": "Backward fading and principle prompts supported transfer in probability learning",
+   "evidence_strength": "moderate",
+   "id": "fading-and-principle-prompts-improve-probability-transfer",
+   "path": "claims/fading-and-principle-prompts-improve-probability-transfer.md",
+   "status": "draft",
+   "title": "Backward fading and principle prompts supported transfer in probability learning",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "strong",
    "id": "fading-support-promotes-transfer-of-responsibility",
@@ -11197,6 +11206,15 @@
    "path": "claims/ideation-discussion-speaking-gains-not-grammar.md",
    "status": "draft",
    "title": "Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar",
+   "type": "claim"
+  },
+  {
+   "description": "Identical example\u2013problem pairs showed an early order advantage but no detected final-test difference",
+   "evidence_strength": "moderate",
+   "id": "identical-example-problem-order-advantage-not-detected-at-final-test",
+   "path": "claims/identical-example-problem-order-advantage-not-detected-at-final-test.md",
+   "status": "draft",
+   "title": "Identical example\u2013problem pairs showed an early order advantage but no detected final-test difference",
    "type": "claim"
   },
   {
@@ -28128,7 +28146,7 @@
    "id": "worked-example-problem-sequences",
    "path": "claims/worked-example-problem-sequences.md",
    "status": "draft",
-   "title": "Sequencing worked examples with practice problems improves learning for novices",
+   "title": "Example-first conditions outperformed problem-first conditions on an immediate circuit test",
    "type": "claim"
   },
   {
@@ -40703,7 +40721,7 @@
    "type": "principle"
   },
   {
-   "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
+   "description": "An example-first relationship qualified by task knowledge, representation, configuration and assessment horizon.",
    "id": "worked-examples",
    "path": "principles/worked-examples.md",
    "status": "review",
@@ -73892,6 +73910,7 @@
    "faculty-contact-part-time-and-interaction-retention": "faculty-contact-part-time-and-interaction-retention",
    "faculty-student-learning-style-mismatch": "faculty-student-learning-style-mismatch",
    "faculty-uniform-ideal-learning-style": "faculty-uniform-ideal-learning-style",
+   "fading-and-principle-prompts-improve-probability-transfer": "fading-and-principle-prompts-improve-probability-transfer",
    "fading-support-promotes-transfer-of-responsibility": "fading-support-promotes-transfer-of-responsibility",
    "failsafe-n-publication-bias-not-a-threat": "failsafe-n-publication-bias-not-a-threat",
    "false-beginners-backsliding-comprehension-decoding": "false-beginners-backsliding-comprehension-decoding",
@@ -74199,6 +74218,7 @@
    "ideation-discussion-improves-efl-critical-thinking-scores": "ideation-discussion-improves-efl-critical-thinking-scores",
    "ideation-discussion-improves-efl-speaking-scores": "ideation-discussion-improves-efl-speaking-scores",
    "ideation-discussion-speaking-gains-not-grammar": "ideation-discussion-speaking-gains-not-grammar",
+   "identical-example-problem-order-advantage-not-detected-at-final-test": "identical-example-problem-order-advantage-not-detected-at-final-test",
    "identical-item-difficulty-ranking-ctt-mfrm": "identical-item-difficulty-ranking-ctt-mfrm",
    "identity-centered-making-supports-stem-engagement-and-identity-affirmation": "identity-centered-making-supports-stem-engagement-and-identity-affirmation",
    "ie-city-wide-nce-mixed-outcomes": "ie-city-wide-nce-mixed-outcomes",
