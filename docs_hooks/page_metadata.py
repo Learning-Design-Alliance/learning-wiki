@@ -129,7 +129,7 @@ def _first_sentence(text: str) -> str:
     return head if head.endswith(".") else head + "."
 
 
-def _evidence_legend() -> str:
+def _evidence_legend(meta=None) -> str:
     """A collapsed key to `q3 i2`, placed where the bare codes appear.
 
     An evidence entry spells its own codes out — `q3 · quasi-experimental
@@ -154,6 +154,15 @@ def _evidence_legend() -> str:
     r_rows = [f"    | `{code}` | {meaning} |" for code, meaning in RIGOUR_TIERS]
     r_means = _first_sentence(SCALES["rigour"]["means"])
     unknown = SCALES["unknown"]["means"]
+    coded_sources = [s for s in (meta or {}).get("sources", [])
+                     if isinstance(s, dict) and type(s.get("i")) is int and s["i"] in (0, 1, 2, 3)]
+    reviewed = sum(1 for s in coded_sources
+                   if isinstance(s.get("impact_context"), dict)
+                   and s["impact_context"].get("verified_against_source") is True)
+    context_status = (f"    **This claim:** {reviewed} of {len(coded_sources)} coded source records "
+                      "have source-verified comparison context recorded. "
+                      "A recorded context still needs the benchmark eligibility check."
+                      if coded_sources else "    **This claim:** No numeric impact source records to audit.")
     return "\n".join([
         "", '??? info "Reading the evidence codes"', "",
         "    The letters are abbreviations:", "",
@@ -183,6 +192,7 @@ def _evidence_legend() -> str:
         "    for the particular effect. Where no `impact_context` is recorded, its eligibility",
         "    and comparability remain unreviewed; see [Comparing learning intervention effects]",
         "    (../methods/impact-evidence-comparison.md).", "",
+        context_status, "",
         f"    A `?` in place of a digit — `q?`, `i?` — {unknown[0].lower()}{unknown[1:]}", "",
         "    Strength here describes the *research*. Whether anyone has checked that this",
         "    page reports it faithfully is a separate axis — see `trust` in the page",
@@ -202,7 +212,7 @@ def on_page_markdown(markdown: str, page, config, files) -> str:
     # explanation after every use of the thing it explains.
     if meta.get("type") == "claim" and "## Subclaims" in markdown:
         head, sep, tail = markdown.partition("## Subclaims")
-        markdown = head + sep + "\n" + _evidence_legend() + tail
+        markdown = head + sep + "\n" + _evidence_legend(meta) + tail
 
     rows = _rows(meta)
     lines = ["", "", '??? info "Page metadata"', "", "    | Field | Value |",
