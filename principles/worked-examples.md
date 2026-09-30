@@ -2,7 +2,7 @@
 type: principle
 id: worked-examples
 title: Worked Examples
-description: Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
+description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
 status: review
 generated:
   by: claude/unspecified
@@ -37,84 +37,45 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (3 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
-Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
 
-## Implications
+A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
 
-Worked examples are most effective when learners are new to a task or domain. By externalizing problem structure, they reduce the unproductive search that novices would otherwise spend on unguided problem solving [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. A meta-analysis of mathematics outcomes confirms medium performance benefits across grade levels [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S]. These benefits are not automatic: examples must be paired with practice, fading, or reflection to support transfer [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S], and prompting learners to explain a solution to themselves amplifies learning beyond passive study. As expertise grows, explicit guidance becomes redundant and can impede performance [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M], shifting the design challenge from providing structure to progressively removing it.
+## Conditional relationship
 
-### Context
-#### Requirements
-- An explicit demonstration element ([Demonstration](../elements/demonstration.md) or [Procedural Information](../elements/procedural-information.md)) — learners need a complete model to study before attempting problems on their own
-- Prompts that surface reasoning ([Eliciting Student Thinking](../elements/eliciting-student-thinking.md) or [Articulation](../elements/articulation.md)) — passive reading of examples produces weaker learning than active explanation
-- A way to follow examples with application ([Practice](../elements/practice.md)) — without subsequent problem-solving, knowledge stays inert
+When a learner lacks a usable schema for a structured task, studying a solution before a similar attempt may reduce search and support initial performance; task knowledge, representation and intended outcome can change the choice. This is a conditional explanatory model, not a universal individual forecast. The [worked examples pattern](../patterns/worked-examples.md) supplies a reusable observation and design policy. Specific local examples below illustrate it rather than define its scope.
 
-#### Constraints
-- Less effective when the main goal is open-ended generation or creative exploration
-- Can create illusions of understanding if used without prompts or practice
-- Benefits drop when examples are not aligned with later transfer tasks
-- Effectiveness diminishes as learner expertise grows; continued use with advanced learners may become counterproductive
+## Learner state, objective and valued goal
 
-### Target Learners
-- Novice learners encountering a domain or representation for the first time
-- Learners at risk of cognitive overload during unguided problem solving
-- Learners acquiring procedural skills that have clear correct steps
-- Effects diminish as expertise increases [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — reduce or fade examples as competence develops
+This is a reusable design model. A study result supplies a bounded observation; it does not reveal the state or future outcome of a new learner.
 
-### Target Learning Objectives
-- Early schema formation: building a mental model of task structure
-- Procedural fluency with explanation, not just rote execution
-- Recognizing structural similarity across problem types
-- Transitioning from guided to independent performance
+Before selecting a configuration, record the target task and representation, task-specific prior experience, access and language constraints, time available, observed responses and the exact help provided. Preserve an unknown rather than replacing it with a generic label such as novice. Ask the learner what they want to accomplish and why it matters. Record that **valued goal** separately from the designer's **learning objective**; agreement is an observation to elicit, not an assumption. If they diverge, negotiate the task or purpose and retain the unresolved difference.
 
-### Theory
-#### Supporting
-- [Cognitive Load Theory](../theories/cognitive-load-theory.md) (Sweller) — worked examples reduce extraneous cognitive load by making problem structure explicit, freeing working memory for schema formation
-- [Information Processing Theory](../theories/information-processing-theory.md) — examples externalize solution steps, reducing the working-memory demand of holding intermediate states in mind
-- [Self-Regulated Learning](../theories/self-regulated-learning.md) — prompts and example fading support monitoring and adaptive control of learning
+Define the intended capability, a representative assessment task and scoring instrument, the criterion chosen for this design, and the assessment horizon. Agree what response would warrant changing support and how to check later independent performance. Criteria are local decisions, not universal mastery thresholds. If the brief only asks for better learning, elicit these fields before selecting an exact dose or forecasting a gain.
 
-#### Contradicting / Qualifying
-- [Constructivism](../theories/constructivism.md) — emphasizes that learners build understanding through active generation and exploration; over-reliance on worked examples may reduce generative processing and limit transfer to novel problems
+Keep the record in this form: **response under stated conditions → uncertain state hypotheses → discriminating observation → next activity → response at the stated horizon**. Difficulty, accuracy, speed, confidence and engagement are different observations. None alone proves learning. Record a learner's changed purpose or constraints as well as a changed performance.
 
-### Claims
-- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — worked examples reduce unnecessary search for novices
-- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — pairing examples with practice or fading supports transfer
-- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — guidance becomes redundant as expertise grows (expertise reversal)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — example–problem sequences reduce cognitive load and improve outcomes vs. problem-only practice
-- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S] — worked examples improve math performance across grades (meta-analysis)
+## Observation and adaptation
 
-## Related Principles
-- [Purposeful Reflection](purposeful-reflection.md) — worked examples gain power when paired with structured prompts to reflect on why each step was taken
-- [Guided Practice](guided-practice.md) — provides the scaffolded practice phase that converts example study into transferable performance
-- [Explaining Their Thinking](explaining-their-thinking.md) — self-explanation of worked examples is one of the strongest amplifiers of example-based learning
-- [Pairing Non-Examples With Examples](pairing-non-examples-with-examples.md) — extends worked examples by contrasting correct solutions with common errors, sharpening discrimination
+The following diagnostic policy is a **design proposal, not a tested fading algorithm**. Elicit an independent first step and its justification on a structurally similar task before showing a solution. Then compare a supported attempt with an unassisted attempt on a changed surface representation. Record which decisions are correct, the explanation, prompts used, confidence and any access difficulty.
 
-## Examples
+| Observation | Rival interpretations and discriminating observation | Proposed next action |
+|---|---|---|
+| Correct copying but no independent first step | The learner may lack a usable solution schema, or may know the relation but fail to recognize it in this representation. Ask for a justification with the familiar representation and then with a changed one, without exposing the answer. | If both fail, model the decision and ask the learner to explain it before a new attempt. If only the changed representation fails, compare representations explicitly rather than repeat the entire solution. |
+| Correct supported steps, incorrect independent ones | Help dependence and a language/access barrier are distinct possibilities. Compare an unassisted response in an accessible format with the same demand in the original format. | Retain or reduce the relevant support according to the observed barrier; do not infer expertise from hint-assisted accuracy. |
+| Correct independent solution and reasoning | A memorized sequence may mimic structural understanding. Change surface details and a relevant condition, and ask what changes and why. | Propose a completion problem or less guidance when the changed task is handled independently; restore targeted support if it fails. This threshold requires local testing. |
 
-### Validated
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — Van Gog, Kester & Paas (2011) showed that sequences of [worked examples](../elements/demonstration.md) and [practice problems](../elements/practice.md) reduced cognitive load and improved transfer scores compared to problem-only practice in secondary circuits troubleshooting (n=48).
+For a learner who wants to repair equipment safely, explain why diagnosing and justifying the first step supports that purpose, and assess safety-critical choices separately. Choosing steps tomorrow is a delayed target; the source below does not forecast that target. Negotiate a representative changed-circuit task, a locally chosen reasoning/safety criterion and an unassisted check tomorrow. For an unspecified learner, first elicit this purpose and target; do not prescribe completion steps from the novice label alone.
 
-### Illustrative
+## Evidence-bounded expectation
 
-**[Worked Example Routine](../strategies/worked_example_routine.md)** — A classroom instructional routine in which the teacher presents a fully solved problem, thinks aloud through each step using [explicit modeling](../elements/demonstration.md), then immediately asks learners to solve a near-transfer problem. The routine builds in [self-explanation prompts](../elements/eliciting-student-thinking.md) before the independent attempt.
+In a secondary-school circuit-troubleshooting experiment, example-only and example→problem conditions had better learning outcomes and lower cognitive load than problem-only and problem→example conditions. Example-only versus example→problem and problem-only versus problem→example did not differ detectably: [four-arm sequencing observation](../claims/worked-example-problem-sequences.md). This supports an example-first candidate for a comparable initial task. It does not establish equivalence of the null contrasts, a universal need to alternate practice, the proposed diagnostic policy, or delayed independent performance and safety. The source's accessible abstract confirms the group contrasts; detailed procedure and test interpretation here additionally rely on the wiki's study extraction.
 
-**[Comparing Multiple Solution Methods](../strategies/comparing_multiple_solution_methods.md)** — Learners study two or more [worked examples](../elements/demonstration.md) of the same problem solved differently, then compare and explain which method is more efficient or generalizable. Particularly effective for building flexible procedural knowledge in mathematics.
+Treat reduced search or schema formation as explanatory hypotheses, not directly observed learner states. Compare observations under retained configurations rather than attributing any later improvement to the example alone.
 
-**[ASSISTments](https://www.assistments.org)** — A free web-based math platform (grades 6–12) that delivers [practice problems](../elements/practice.md) with on-demand [worked example hints](../elements/demonstration.md) that walk through solution steps. Learners can request a hint at any step, receiving targeted procedural guidance rather than the full solution. Heffernan & Heffernan (2014) report learning gains relative to homework-only conditions across several randomized school studies.
+## Source verification and open tests
 
-**[Carnegie Learning MATHia](https://www.carnegielearning.com/solutions/math/mathia/)** — An adaptive intelligent tutoring system for middle and high school math that combines [worked examples](../elements/demonstration.md), [mastery-based problem sets](../elements/practice.md), and [step-level hints](../elements/eliciting-student-thinking.md) that prompt learners to explain their reasoning before providing guidance. Mastery gating ensures learners do not advance until they demonstrate independent performance.
+van Gog, Kester & Paas (2011), [author institutional abstract](https://repub.eur.nl/pub/26205). Abstract verification of group contrasts; full-source procedure verification remains incomplete in this run.
 
-**Code walkthroughs with commentary** — A common pattern in programming instruction: an instructor or tutorial presents annotated [worked code](../elements/demonstration.md) explaining *why* each line exists, then immediately assigns a [coding exercise](../elements/practice.md) that requires adapting or extending the example. Widely used in MOOCs (e.g., Codecademy, CS50) and textbooks.
-
-**Annotated reading comprehension walkthroughs** — A teacher reads a complex text aloud, using [think-aloud](../elements/demonstration.md) to make comprehension strategies visible (identifying main idea, inferencing, monitoring confusion), then asks learners to apply the same strategies to a new passage with [structured annotation prompts](../elements/eliciting-student-thinking.md).
-
-## Key Sources
-- Sweller, J. (2010). Element interactivity and intrinsic, extraneous, and germane cognitive load. *Educational Psychology Review, 22*(2), 123–138. [doi:10.1007/s10648-010-9128-5](https://doi.org/10.1007/s10648-010-9128-5)
-- Tuovinen, J. E., & Sweller, J. (1999). A comparison of cognitive load associated with discovery learning and worked examples. *Journal of Educational Psychology, 91*(2), 334–341. [doi:10.1037/0022-0663.91.2.334](https://doi.org/10.1037/0022-0663.91.2.334)
-- van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
-- van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example–problem, and problem–example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
-- Barbieri, C., & Booth, J. L. (2016). Support for struggling students in algebra: Contributions of incorrect worked examples. *Learning and Individual Differences, 48*, 36–44. [doi:10.1016/j.lindif.2016.04.001](https://doi.org/10.1016/j.lindif.2016.04.001)
-- Heffernan, N. T., & Heffernan, C. L. (2014). The ASSISTments ecosystem: Building a platform that brings scientists and teachers together for minimally invasive research on human learning and teaching. *International Journal of Artificial Intelligence in Education, 24*(4), 470–497. [doi:10.1007/s40593-014-0024-x](https://doi.org/10.1007/s40593-014-0024-x)
+The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.

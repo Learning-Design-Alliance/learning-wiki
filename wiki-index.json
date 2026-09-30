@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3143,
+  "claim": 3144,
   "element": 688,
   "learner-variable": 12,
   "method": 17,
@@ -26668,6 +26668,15 @@
    "type": "claim"
   },
   {
+   "description": "One learn-to-criterion word-pair experiment separated total intervening trials from the expanding, equal, or contracting arrangement of those trials.",
+   "evidence_strength": "moderate",
+   "id": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
+   "path": "claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md",
+   "status": "draft",
+   "title": "Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished",
+   "type": "claim"
+  },
+  {
    "description": "Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each",
    "evidence_strength": "moderate",
    "id": "tough-1967-adults-self-teach-with-helpers",
@@ -35019,7 +35028,7 @@
    "type": "pattern"
   },
   {
-   "description": "Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.",
+   "description": "A reusable elicit\u2013interpret\u2013act\u2013reobserve policy, qualified by what a response can establish and by whether a relevant next action is available.",
    "grain_size": "lesson",
    "id": "formative-assessment",
    "path": "patterns/formative-assessment.md",
@@ -36238,7 +36247,7 @@
    "type": "pattern"
   },
   {
-   "description": "Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.",
+   "description": "A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.",
    "grain_size": "course",
    "id": "spaced-learning",
    "path": "patterns/spaced-learning.md",
@@ -36507,7 +36516,7 @@
    "type": "pattern"
   },
   {
-   "description": "Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.",
+   "description": "A reusable example-first policy for a structured task, qualified by task-specific knowledge, representation and intended outcome.",
    "grain_size": "lesson",
    "id": "worked-examples",
    "path": "patterns/worked-examples.md",
@@ -38006,7 +38015,7 @@
    "type": "principle"
   },
   {
-   "description": "Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment.",
+   "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
    "id": "formative-assessment",
    "path": "principles/formative-assessment.md",
    "status": "review",
@@ -40062,7 +40071,7 @@
    "type": "principle"
   },
   {
-   "description": "Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.",
+   "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
    "id": "spaced-learning",
    "path": "principles/spaced-learning.md",
    "status": "review",
@@ -40694,7 +40703,7 @@
    "type": "principle"
   },
   {
-   "description": "Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.",
+   "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
    "id": "worked-examples",
    "path": "principles/worked-examples.md",
    "status": "review",
@@ -75958,6 +75967,7 @@
    "top-down-education-method-contradicts-dewey": "top-down-education-method-contradicts-dewey",
    "topical-pair-minimum-unit-analysis-scmd": "topical-pair-minimum-unit-analysis-scmd",
    "topics-document-types-highest-precision-research-groups-zero": "topics-document-types-highest-precision-research-groups-zero",
+   "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
    "tough-1967-adults-self-teach-with-helpers": "tough-1967-adults-self-teach-with-helpers",
    "tough-1971-learning-projects-prevalence-self-planned": "tough-1971-learning-projects-prevalence-self-planned",
    "toxic-stress-disrupts-self-regulation-development": "toxic-stress-disrupts-self-regulation-development",
