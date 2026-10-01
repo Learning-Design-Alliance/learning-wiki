@@ -62,6 +62,14 @@ Kingston and Nash's corrected synthesis reports a science mean of 0.19 with 95% 
 
 Before comparing another synthesis or applying an effect-size label, record assignment and baseline comparability, learner/context characteristics, exact treatment and control, outcome alignment and independence, score-range/standardization constraints, horizon and uncertainty. Preserve **unknown** fields. A correction removes one known error; it does not establish that all included estimates are comparable. Report raw magnitude alongside a justified context-sensitive interpretation; do not rank interventions or infer individual probabilities from these pooled values. The formative loop's causal pathway remains a hypothesis to test against subsequent responses.
 
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the abstract available could not confirm the entries
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the abstract available could not confirm the entries
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the abstract available could not confirm the entries
+
 ## Source verification and open tests
 
 Kingston & Nash (2011), [2015 publisher erratum](https://onlinelibrary.wiley.com/doi/10.1111/emip.12075). Corrected content-area table checked; full primary-study assignment and measurement details remain unverified in this run.

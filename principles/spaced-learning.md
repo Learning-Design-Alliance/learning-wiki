@@ -70,6 +70,15 @@ A word-pair experiment separated total retrieval spacing from its relative arran
 
 An equal schedule may be selected for practical reasons while this exact comparison remains unresolved; do not predict a gain from changing only equal to expanding gaps on this evidence. Calendar timing and the dose needed for a particular learner remain local questions. Lower practice fluency can coexist with better delayed performance, but difficulty alone does not identify the cause or predict the outcome.
 
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~W] — not settled: the abstract available could not confirm the entries
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~W] — not settled: the abstract available could not confirm the entries
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~W] — not settled: the abstract available could not confirm the entries
+- [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](../claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md) [~M] — full source read when the claim was written (Kapler et al. 2015); not re-read for this page
+
 ## Source verification and open tests
 
 Karpicke & Bauernschmidt (2011), [author-hosted full text](https://learninglab.psych.purdue.edu/downloads/2011/2011_Karpicke_Bauernschmidt_JEPLMC.pdf). Method and results checked for the bounded contrast above.

@@ -50,6 +50,18 @@ A word-pair experiment separated total retrieval spacing from its relative arran
 
 An equal schedule may be selected for practical reasons while this exact comparison remains unresolved; do not predict a gain from changing only equal to expanding gaps on this evidence. Calendar timing and the dose needed for a particular learner remain local questions. Lower practice fluency can coexist with better delayed performance, but difficulty alone does not identify the cause or predict the outcome.
 
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Spaced Repetition Improves Retention](../claims/spaced-repetition-improves-retention.md) [+S] — not settled: the abstract available could not confirm the entries
+- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M] — not yet checked against its sources
+- [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+M] — checked by the judge: all 2 entries pass (abstract)
+- [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — partly checked: 2 of 5 entries pass; the rest could not be settled from the text available
+- [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+M] — partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
+- [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — not yet checked against its sources
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W] — checked by the judge: all 3 entries pass (full text)
+
 ## Elements
 
 - [spaced repetition](../elements/spaced-repetition.md)

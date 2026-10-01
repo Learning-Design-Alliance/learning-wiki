@@ -54,6 +54,14 @@ A request for “better learning” does not specify these inputs. Ask for them 
 
 Do not convert reported partial η² into a probability, rank unlike comparators using Cohen/Kraft labels, or predict delayed repair from immediate paper-task scores. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
 
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W] — not settled: the abstract available could not confirm the entries
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+W] — not yet checked against its sources
+- [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W] — not yet checked against its sources
+
 ## Illustrative design instance and observation record
 
 A learner wants to explain equipment faults; the designer initially requests speed. Elicit the difference, agree whether explanation and/or timing matter, and choose a representative simulated diagnosis. Define an agreed reasoning rubric and permitted aids; assess delayed application separately if it is a target. This is an illustrative proposal, not a tested repair lesson.

@@ -53,6 +53,16 @@ These probes can shift confidence among hypotheses; a single contrast does not i
 
 Retain learner/sample, assignment, exclusions, baseline assessment, help, dose, comparator, instrument alignment, score range and horizon when transporting these observations. Random assignment is not proof that the realized groups were equal. An omnibus partial η² is neither a pairwise d nor a learner's probability of success. Do not rank these studies by an effect label while their comparisons differ.
 
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — not settled: the abstract available could not confirm the entries
+- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S] — checked by the judge: all 1 entries pass (abstract)
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the abstract available could not confirm the entries
+- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the abstract available could not confirm the entries
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M] — not yet checked against its sources
+
 ## Objective and learner-valued goal
 
 Ask what the learner wants to accomplish and why, separately from the designer's objective. Agreement, divergence and uncertainty are observations. Negotiate a meaningful task when possible; do not infer motivation from compliance. Choose a representative instrument, local criterion, permitted aids and horizon. Speed, explanation, recall, transfer and safety require different evidence.
