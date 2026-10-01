@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit coded claim sources and compute a Kraft benchmark only when verified.
+"""Audit observations/ effects and compute a Kraft benchmark only when verified.
 
 This does not change the legacy ``i`` field.  A positive eligibility decision
 requires source-checked, structured context for the particular effect, not a
@@ -63,22 +63,67 @@ def kraft_tier(context):
     return None, "effect is outside defined benchmark tiers"
 
 
+METRIC = {"cohens_d": "d", "hedges_g": "g", "standardized_mean_difference": "smd"}
+
+
+def derived_context(rec, obs):
+    """The benchmark's inputs for one observation: the explicit `impact_context` block
+    (what the record does not otherwise carry) merged with fields DERIVED from the
+    record itself, so assignment, metric, value, interval, horizon, comparator and
+    objective are never written twice and cannot disagree with the result they describe."""
+    ctx = dict(obs.get("impact_context") or {})
+    family = ((rec.get("study") or {}).get("design") or {}).get("family")
+    if "assignment" not in ctx:
+        ctx["assignment"] = ("randomized" if family in ("randomized-controlled-trial",
+                                                       "cluster-randomized-controlled-trial") else None)
+    res = obs.get("result") or {}
+    ctx["effect_metric"] = METRIC.get(res.get("measure_type"))
+    ctx["effect_value"] = res.get("estimate")
+    ci = (res.get("ci_lower"), res.get("ci_upper"))
+    ctx["uncertainty"] = (f"CI {ci[0]} to {ci[1]}" if None not in ci else
+                          f"SE {res['standard_error']}" if res.get("standard_error") is not None else None)
+    ctx["horizon"] = (obs.get("time") or {}).get("label")
+    ctx["objective"] = (obs.get("outcome") or {}).get("construct")
+    comp = {c.get("id"): c for c in rec.get("comparisons") or []}.get(obs.get("comparison_ref")) or {}
+    ctx["comparator"] = comp.get("description")
+    ctx["population"] = ctx.get("population_band")
+    ctx["outcome_measure"] = ctx.get("outcome_class")
+    return ctx
+
+
 def audit(root=ROOT):
+    """One row per observation reporting a standardized mean difference. Claim pages are
+    not read: per-effect context belongs to the observation, which is where population,
+    arms, outcome and timing already live (CLAUDE.md, 'The record is NOT in the claim's
+    frontmatter'), and a claim's `sources[]` is rebuilt by sync_evidence_codes.py."""
     rows = []
-    for path in sorted((root / "claims").glob("*.md")):
-        text = path.read_text(encoding="utf-8")
-        if not text.startswith("---\n"):
+    for path in sorted((root / "observations").glob("*.yaml")):
+        rec = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        if ((rec.get("provenance") or {}).get("source_type")) != "research":
             continue
-        front = yaml.safe_load(text.split("---\n", 2)[1]) or {}
-        for source in front.get("sources") or []:
-            if not isinstance(source, dict) or source.get("i") not in (0, 1, 2, 3):
+        for obs in rec.get("observations") or []:
+            if (obs.get("result") or {}).get("measure_type") not in METRIC:
                 continue
-            context = source.get("impact_context") or {}
-            tier, reason = kraft_tier(context)
-            rows.append({"page": str(path.relative_to(root)), "source": source.get("id"),
-                         "legacy_i": source["i"], "kraft_tier": tier, "reason": reason,
-                         "missing": [k for k in REQUIRED if missing_value(context.get(k))]})
+            ctx = derived_context(rec, obs)
+            tier, reason = kraft_tier(ctx)
+            rows.append({"record": f"{path.stem}/{obs.get('id')}",
+                         "claims": [a.get("claim") for a in rec.get("appears_in") or []],
+                         "has_context": "impact_context" in obs,
+                         "kraft_tier": tier, "reason": reason,
+                         "missing": [k for k in REQUIRED if missing_value(ctx.get(k))]})
     return rows
+
+
+def claims_with_numeric_i(root=ROOT):
+    """How much of the corpus a benchmark could not yet read: claim evidence entries with
+    a numeric `i` code. They are counted, never classified from the page."""
+    n = 0
+    for path in (root / "claims").glob("*.md"):
+        text = path.read_text(encoding="utf-8")
+        if text.startswith("---\n"):
+            front = yaml.safe_load(text.split("---\n", 2)[1]) or {}
+            n += sum(1 for s in front.get("sources") or [] if isinstance(s, dict) and s.get("i") in (0, 1, 2, 3))
+    return n
 
 
 def main():
@@ -93,7 +138,10 @@ def main():
     else:
         counts = Counter("Kraft " + r["kraft_tier"] if r["kraft_tier"] else r["reason"].split(":")[0]
                          for r in rows)
-        print(f"Coded source records: {len(rows)}")
+        print(f"Claim evidence entries with a numeric i code: {claims_with_numeric_i()} "
+              "(none is classified from the page)")
+        print(f"Observations reporting a standardized mean difference: {len(rows)}; "
+              f"with impact_context: {sum(r['has_context'] for r in rows)}")
         for label, count in sorted(counts.items()):
             print(f"{label}: {count}")
 
