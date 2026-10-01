@@ -121,6 +121,33 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions
+
+- **`run_scrape_batch.py` now runs `code_evidence_axes.py --new --code` then `--contrasts`** after kind and
+  rigour: each new evidence entry becomes up to four cells (learners, goal, conditions, the contrast, outcome,
+  direction, design; `evidence-dimensions.json`), coded from the article the batch fetched, in a call
+  separate from extraction (a study record in the same call cost GLM most of its passes). The store is
+  `eval/runs/evidence-axes/cells.ndjson` (ignored; the pilot's run `a`, renamed), read by
+  `render_evidence_map.py`. Writes no page; about $0.0025 an entry, $3 cap.
+- **A cell's quote is checked against the whole article**, not the 30,000 characters the coder sees: the
+  entry's own verbatim quote often sits in a Results section past that cut, and the coder reuses it. The cut
+  check had failed 35 of the pilot's 528 cells, now 434 verified.
+- **Prompt v137 (contrast and direction on every evidence entry) is benchmarked, not adopted; `CURRENT`
+  is v136.** Same day, same flags (`eval/runs/bench-axes-v136`, `-v137`): validation 9/10 both, first-attempt
+  passes 6 and 5, GPT judge 9/10 (4.28) against 10/10 (4.20), $0.0088 against $0.0095 a passed article,
+  output JSON 5–10% longer, all within this benchmark's noise. 65 of 65 entries carry both fields and none
+  trips the validator's warnings. Against GPT coding the same entries from the articles: the two agree on
+  whether an entry has a contrast in 57 of 65 cases and on direction in 43 of the 57 where both name one. GLM
+  wrote `0` never, and 12 of its 13 `ns` were `ns` for the reference too. Most of the 14 disagreements are
+  omnibus or interaction results (`+` against `mixed`) or the same finding framed from the other side, not
+  errors. The post-batch coder (above) records the same two fields with learners, goal, conditions and
+  outcome as well, so v137 adds only having them in the extraction itself, for about $0.0007 an article.
+  Adopt it only if they are to be written onto the claim page, which needs an ingest change and a decision
+  on where on the page they go.
+- **The docs site's search index is one entry per page** (`docs_hooks/search_trim.py`, #147): 91,222
+  entries and 66 MB (12.8 MB gzipped) became 8,691 and 9.2 MB (1.7 MB). Section-level search is the MCP
+  server's.
+
 ### 2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format
 
 - **`evidence-dimensions.json`** (root, beside `evidence-scales.json`) defines once the dimensions three works

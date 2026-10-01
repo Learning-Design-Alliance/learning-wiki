@@ -68,7 +68,7 @@ def entry_kinds(claim):
 FLIP = {"+": "-", "-": "+"}
 
 
-def load_cells(run="a"):
+def load_cells(run="cells"):
     by_claim = defaultdict(list)
     kinds = {}
     cpath = RUNS / f"{run}-contrasts.json"
@@ -172,7 +172,7 @@ def describe_sample(cells):
     return "; ".join(parts)
 
 
-def render(page, profile, run="a"):
+def render(page, profile, run="cells"):
     by_claim = load_cells(run)
     title = re.search(r"^title: (.*)$", (WIKI_ROOT / f"{page}.md").read_text(encoding="utf-8"), re.M).group(1)
     title = title.strip().strip('"')
@@ -218,7 +218,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("page")
     ap.add_argument("--profile")
-    ap.add_argument("--run", default="a")
+    ap.add_argument("--run", default="cells")
     ap.add_argument("--out")
     a = ap.parse_args()
     profile = json.loads(Path(a.profile).read_text(encoding="utf-8")) if a.profile else None
