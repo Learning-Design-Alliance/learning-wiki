@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3143,
+  "claim": 3147,
   "element": 688,
   "learner-variable": 12,
   "method": 17,
@@ -7034,6 +7034,15 @@
    "type": "claim"
   },
   {
+   "description": "In one simulated undergraduate science lecture, reviewing after eight days rather than one day improved delayed factual scores; the higher-level result depended on analysis choice.",
+   "evidence_strength": "moderate",
+   "id": "eight-day-review-improves-five-week-science-test-versus-one-day-review",
+   "path": "claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md",
+   "status": "draft",
+   "title": "Eight-day review improved a five-week science test versus one-day review in a simulated university classroom",
+   "type": "claim"
+  },
+  {
    "description": "Elaborated coding was associated with higher reading scores among the observed children",
    "evidence_strength": "weak",
    "id": "elaborated-coding-higher-reading-scores",
@@ -8504,6 +8513,15 @@
    "path": "claims/faculty-uniform-ideal-learning-style.md",
    "status": "draft",
    "title": "Faculty across departments describe the same ideal learning style for students",
+   "type": "claim"
+  },
+  {
+   "description": "Backward fading and principle prompts supported transfer in probability learning",
+   "evidence_strength": "moderate",
+   "id": "fading-and-principle-prompts-improve-probability-transfer",
+   "path": "claims/fading-and-principle-prompts-improve-probability-transfer.md",
+   "status": "draft",
+   "title": "Backward fading and principle prompts supported transfer in probability learning",
    "type": "claim"
   },
   {
@@ -11197,6 +11215,15 @@
    "path": "claims/ideation-discussion-speaking-gains-not-grammar.md",
    "status": "draft",
    "title": "Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar",
+   "type": "claim"
+  },
+  {
+   "description": "Identical example\u2013problem pairs showed an early order advantage but no detected final-test difference",
+   "evidence_strength": "moderate",
+   "id": "identical-example-problem-order-advantage-not-detected-at-final-test",
+   "path": "claims/identical-example-problem-order-advantage-not-detected-at-final-test.md",
+   "status": "draft",
+   "title": "Identical example\u2013problem pairs showed an early order advantage but no detected final-test difference",
    "type": "claim"
   },
   {
@@ -26668,6 +26695,15 @@
    "type": "claim"
   },
   {
+   "description": "One learn-to-criterion word-pair experiment separated total intervening trials from the expanding, equal, or contracting arrangement of those trials.",
+   "evidence_strength": "moderate",
+   "id": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
+   "path": "claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md",
+   "status": "draft",
+   "title": "Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished",
+   "type": "claim"
+  },
+  {
    "description": "Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each",
    "evidence_strength": "moderate",
    "id": "tough-1967-adults-self-teach-with-helpers",
@@ -28119,7 +28155,7 @@
    "id": "worked-example-problem-sequences",
    "path": "claims/worked-example-problem-sequences.md",
    "status": "draft",
-   "title": "Sequencing worked examples with practice problems improves learning for novices",
+   "title": "Example-first conditions outperformed problem-first conditions on an immediate circuit test",
    "type": "claim"
   },
   {
@@ -35019,7 +35055,7 @@
    "type": "pattern"
   },
   {
-   "description": "Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.",
+   "description": "A reusable elicit\u2013interpret\u2013act\u2013reobserve policy, qualified by what a response can establish and by whether a relevant next action is available.",
    "grain_size": "lesson",
    "id": "formative-assessment",
    "path": "patterns/formative-assessment.md",
@@ -36238,7 +36274,7 @@
    "type": "pattern"
   },
   {
-   "description": "Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.",
+   "description": "A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.",
    "grain_size": "course",
    "id": "spaced-learning",
    "path": "patterns/spaced-learning.md",
@@ -36507,7 +36543,7 @@
    "type": "pattern"
   },
   {
-   "description": "Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.",
+   "description": "A reusable example-first policy for a structured task, qualified by task-specific knowledge, representation and intended outcome.",
    "grain_size": "lesson",
    "id": "worked-examples",
    "path": "patterns/worked-examples.md",
@@ -38006,7 +38042,7 @@
    "type": "principle"
   },
   {
-   "description": "Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment.",
+   "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
    "id": "formative-assessment",
    "path": "principles/formative-assessment.md",
    "status": "review",
@@ -40062,7 +40098,7 @@
    "type": "principle"
   },
   {
-   "description": "Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.",
+   "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
    "id": "spaced-learning",
    "path": "principles/spaced-learning.md",
    "status": "review",
@@ -40694,7 +40730,7 @@
    "type": "principle"
   },
   {
-   "description": "Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.",
+   "description": "An example-first relationship qualified by task knowledge, representation, configuration and assessment horizon.",
    "id": "worked-examples",
    "path": "principles/worked-examples.md",
    "status": "review",
@@ -73715,6 +73751,7 @@
    "egalitarian-program-design-supports-culturally-responsive-leadership": "egalitarian-program-design-supports-culturally-responsive-leadership",
    "egocentric-speech-attaches-words-to-actions": "egocentric-speech-attaches-words-to-actions",
    "egyptian-curriculum-quasi-pedagogical-dominance": "egyptian-curriculum-quasi-pedagogical-dominance",
+   "eight-day-review-improves-five-week-science-test-versus-one-day-review": "eight-day-review-improves-five-week-science-test-versus-one-day-review",
    "elaborated-coding-higher-reading-scores": "elaborated-coding-higher-reading-scores",
    "elaborated-discussion-of-narrated-emotions-supports-teacher-learning": "elaborated-discussion-of-narrated-emotions-supports-teacher-learning",
    "elaboration-strategy-affects-posttest-performance": "elaboration-strategy-affects-posttest-performance",
@@ -73883,6 +73920,7 @@
    "faculty-contact-part-time-and-interaction-retention": "faculty-contact-part-time-and-interaction-retention",
    "faculty-student-learning-style-mismatch": "faculty-student-learning-style-mismatch",
    "faculty-uniform-ideal-learning-style": "faculty-uniform-ideal-learning-style",
+   "fading-and-principle-prompts-improve-probability-transfer": "fading-and-principle-prompts-improve-probability-transfer",
    "fading-support-promotes-transfer-of-responsibility": "fading-support-promotes-transfer-of-responsibility",
    "failsafe-n-publication-bias-not-a-threat": "failsafe-n-publication-bias-not-a-threat",
    "false-beginners-backsliding-comprehension-decoding": "false-beginners-backsliding-comprehension-decoding",
@@ -74190,6 +74228,7 @@
    "ideation-discussion-improves-efl-critical-thinking-scores": "ideation-discussion-improves-efl-critical-thinking-scores",
    "ideation-discussion-improves-efl-speaking-scores": "ideation-discussion-improves-efl-speaking-scores",
    "ideation-discussion-speaking-gains-not-grammar": "ideation-discussion-speaking-gains-not-grammar",
+   "identical-example-problem-order-advantage-not-detected-at-final-test": "identical-example-problem-order-advantage-not-detected-at-final-test",
    "identical-item-difficulty-ranking-ctt-mfrm": "identical-item-difficulty-ranking-ctt-mfrm",
    "identity-centered-making-supports-stem-engagement-and-identity-affirmation": "identity-centered-making-supports-stem-engagement-and-identity-affirmation",
    "ie-city-wide-nce-mixed-outcomes": "ie-city-wide-nce-mixed-outcomes",
@@ -75958,6 +75997,7 @@
    "top-down-education-method-contradicts-dewey": "top-down-education-method-contradicts-dewey",
    "topical-pair-minimum-unit-analysis-scmd": "topical-pair-minimum-unit-analysis-scmd",
    "topics-document-types-highest-precision-research-groups-zero": "topics-document-types-highest-precision-research-groups-zero",
+   "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
    "tough-1967-adults-self-teach-with-helpers": "tough-1967-adults-self-teach-with-helpers",
    "tough-1971-learning-projects-prevalence-self-planned": "tough-1971-learning-projects-prevalence-self-planned",
    "toxic-stress-disrupts-self-regulation-development": "toxic-stress-disrupts-self-regulation-development",

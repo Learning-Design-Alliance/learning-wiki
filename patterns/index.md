@@ -57,7 +57,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Flipped Classroom](flipped-classroom.md) - Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback.
 * [Flipped Learning](flipped-learning.md) - Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback.
-* [Formative Assessment](formative-assessment.md) - Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.
+* [Formative Assessment](formative-assessment.md) - A reusable elicit–interpret–act–reobserve policy, qualified by what a response can establish and by whether a relevant next action is available.
 * [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md) - Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners.
 
 #### G {: #letter-g }
@@ -125,7 +125,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Self-Regulated Learning](self-regulated-learning.md) - Self-Regulated Learning is the pattern-level target for designs that explicitly cycle planning, monitoring, feedback, and revision so learners can manage their own learning more effectively.
 * [Social Emotional Learning](social-emotional-learning.md) - Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.
 * [Socratic Seminar](socratic-seminar.md) - Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
-* [Spaced Learning](spaced-learning.md) - Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
+* [Spaced Learning](spaced-learning.md) - A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.
 * [Structured Academic Controversy](structured-academic-controversy.md) - Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
 * [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md) - Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared…
 * [Structured Peer Review](structured-peer-review.md) - Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise.
@@ -140,7 +140,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### W {: #letter-w }
 
-* [Worked Examples](worked-examples.md) - Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.
+* [Worked Examples](worked-examples.md) - A reusable example-first policy for a structured task, qualified by task-specific knowledge, representation and intended outcome.
 * [Workshop Model](workshop-model.md) - The workshop model structures lessons as a short focused mini-lesson followed by an extended block of independent student work with conferring and small-group support, closing with shared reflection.
 * [Writing Workshop](writing-workshop.md) - Writing Workshop structures writing instruction as a sustained writing time in which students draft, receive feedback, revise, and publish within a predictable mini-lesson → writing → sharing routine.
 

@@ -121,6 +121,29 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays
+
+- **#144 rewrote three principle–pattern pairs** (worked examples, spaced learning, formative assessment) as
+  conditional models (`principle-pattern-authoring.md`): observed response → uncertain state hypotheses →
+  discriminating observation → next activity → response at a stated horizon, with the learner's valued goal kept
+  apart from the designer's objective. Its own audits were the author scoring known cases. **An independent test**
+  (scratch only, not committed, so the briefs stay unseen): 12 new briefs, 4 per topic, half complete and half
+  sparse; Kimi K3 answered each from one version's two pages only; Gemini 3.8 Flash and DeepSeek V4 Pro graded
+  blind against one shared reference (every claim either version cites), on #144's six affordances plus
+  accuracy, decision value and brief fit, and in pairs, both orders. About $5.6 in all.
+- **Result.** Affordances 7.0 → 12.0 of 12 (by construction, the rubric is the format's own); accuracy 3.71 →
+  4.83; decision value 4.21 → 4.88; blind pairs **38–10 for the new format**, unanimous on worked examples and
+  spacing. But it **lost formative assessment 7–9**, the page the rewrite cut from 17 claims to 1: graders called
+  its answers abstract, and the old ones concrete and better evidenced.
+- **So the removed claims are restored** (maintainer's decision), below each page's own evidence, markers capped,
+  each labelled with how far its sources have been checked, and the formative-assessment pattern's Design
+  Decisions are back. Re-tested as a third arm: it **beats the old pages 35–13 and wins formative assessment
+  9–7**, ties the pruned version 25–23, and lifts brief fit 4.12 → 4.50. Restoring evidence did not dilute the model.
+- **The format is the direction, and learning-design-spec must be updated to read it** (maintainer's rule: adopt
+  it if it serves the theoretical goals better). These pages no longer carry `### Target Learners`,
+  `### Target Learning Goals` or `#### Requirements`/`#### Constraints`, which the spec reads. Caveats: one
+  answerer, two graders, 12 briefs; on worked examples part of the gain is #144's source corrections, not format.
+  The cleanest format test, formative assessment, is the narrowest win.
 ### 2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
 
 - **`eval/evidence-axes/`** codes evidence entries as **cells** on five axes, learners (L), goal properties

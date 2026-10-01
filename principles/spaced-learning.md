@@ -2,7 +2,7 @@
 type: principle
 id: spaced-learning
 title: Spaced Learning
-description: Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.
+description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
 status: review
 generated:
   by: claude/unspecified
@@ -25,7 +25,7 @@ sources:
     title: "Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 37*(5), 1250–1257"
     author: "Karpicke, J. D., & Bauernschmidt, A"
   - id: logan-2012
-    resource: "https://doi.org/10.1007/s11409-012-9090-2"
+    resource: "https://doi.org/10.1007/s11409-012-9090-3"
     title: "Logan, J. M., Castel, A. D., Haber, S., & Viehman, E. J. (2012). Metacognition and the spacing effect: The role of repetition, feedback, and instruction on judgments of learning for massed and spaced rehearsal. *Metacognition and Learning, 7*(3), 175–195"
     author: "Logan, J. M., Castel, A. D., Haber, S., & Viehman, E. J"
 ---
@@ -33,66 +33,54 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 unmarked) · 7 studies (4 review, 2 causal, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size
 
 ## Description
-Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block. The spacing effect — among the most replicated findings in memory research — produces substantially better long-term retention and transfer than massed practice for a wide range of content types and learner populations.
 
-## Implications
+A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
 
-Distributing practice across sessions strengthens long-term retention by forcing retrieval from a partially decayed memory trace, which deepens encoding more effectively than re-studying immediately after learning. This page does not yet have dedicated spacing claim pages, but the current claim inventory still supports several parts of the design logic. [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) suggests that spaced review is easier to sustain when material is organized into manageable units rather than revisited as an undifferentiated mass. [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) also supports using spaced review sessions for active recall with correction rather than passive rereading, because memorable correction depends on retrieval and feedback. Learners often underestimate spaced practice because it feels harder than massed study, so [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) is relevant for making schedules, progress, and forgetting visible enough that learners keep using the routine.
+## Conditional relationship
 
-### Context
-#### Requirements
-- A schedule that distributes practice across multiple sessions with meaningful inter-session gaps (days to weeks, not hours).
-- Retrieval practice embedded within spaced sessions — re-reading alone produces weak spacing effects; low-stakes quizzes, recall prompts, or application tasks are required.
-- Curriculum-level planning that reserves time for revisiting earlier material, rather than treating each session as a discrete unit.
+When later retrieval is the target, distributing comparable learning opportunities can improve delayed performance relative to massing; gap, prior learning, retrieval conditions and assessment horizon constrain the relationship. This is a conditional explanatory model, not a universal individual forecast. The [spaced learning pattern](../patterns/spaced-learning.md) supplies a reusable observation and design policy. Specific local examples below illustrate it rather than define its scope.
 
-#### Constraints
-- Learners consistently prefer massed practice because spaced practice feels less fluent and more effortful, leading to underuse without external structure [-M].
-- Optimal spacing intervals are content- and learner-dependent; a fixed schedule may over-space for complex material or under-space for simple facts [-W].
-- Coordination overhead is high in institutional settings: scheduling spaced review requires deliberate curriculum design that conflicts with standard weekly topic-by-topic pacing [~M].
+## Learner state, objective and valued goal
 
-### Target Learners
-- Adult learners in high-retention domains (healthcare, law, language learning) where durable recall under time pressure is essential.
-- Learners with limited study time who need efficient encoding — spacing increases yield per hour of study.
-- Learners with TBI or memory impairments, where spacing has demonstrated benefits for procedural and factual encoding.
-- Language learners at any level, where vocabulary and grammar benefit strongly from distributed practice.
+This is a reusable design model. A study result supplies a bounded observation; it does not reveal the state or future outcome of a new learner.
 
-### Target Learning Objectives
-- Long-term retention of factual, procedural, and conceptual knowledge.
-- Transfer of learned skills to novel contexts encountered days or weeks after initial instruction.
-- Development of durable recall that holds under time pressure or interference.
-- Metacognitive awareness of the difference between feeling-of-knowing and actual retention.
+Before selecting a configuration, record the target task and representation, task-specific prior experience, access and language constraints, time available, observed responses and the exact help provided. Preserve an unknown rather than replacing it with a generic label such as novice. Ask the learner what they want to accomplish and why it matters. Record that **valued goal** separately from the designer's **learning objective**; agreement is an observation to elicit, not an assumption. If they diverge, negotiate the task or purpose and retain the unresolved difference.
 
-### Theory
-#### Supporting
-- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — retrieval from a partially decayed trace requires effortful reconstruction, which strengthens the memory encoding more than reviewing recently-studied material (desirable difficulty)
-- [Information Processing Theory](../theories/information-processing-theory.md) — repeated activation of memory traces across longer intervals produces stronger, more elaborated encodings than massed activation
-- Distributed practice / spacing effect (Ebbinghaus, 1885) — the empirical foundation; forgetting curves show that memory decays predictably and that re-study at the point of near-forgetting is maximally efficient
+Define the intended capability, a representative assessment task and scoring instrument, the criterion chosen for this design, and the assessment horizon. Agree what response would warrant changing support and how to check later independent performance. Criteria are local decisions, not universal mastery thresholds. If the brief only asks for better learning, elicit these fields before selecting an exact dose or forecasting a gain.
 
-#### Contradicting / Qualifying
-- Massed practice may be preferred when the goal is immediate performance (e.g., a demonstration the next day) — spacing trades short-term fluency for long-term retention
+Keep the record in this form: **response under stated conditions → uncertain state hypotheses → discriminating observation → next activity → response at the stated horizon**. Difficulty, accuracy, speed, confidence and engagement are different observations. None alone proves learning. Record a learner's changed purpose or constraints as well as a changed performance.
 
-### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — Organizing review into meaningful units helps learners revisit important material without overloading working memory each time.
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — Spaced review is especially useful when it requires retrieval and then corrects confident mistakes clearly.
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — Learners are more likely to sustain spaced study when they can monitor schedules, performance, and forgetting over time.
+## Observation and adaptation
 
-## Related Principles
-- [Formative Assessment](formative-assessment.md) — low-stakes assessments are the natural delivery mechanism for spaced retrieval; quizzes and checks serve both assessment and spacing functions
-- [Goal Setting & Monitoring](goal-setting-monitoring.md) — self-monitoring study schedules makes spacing explicit and sustains learner adherence
-- [Worked Examples](worked-examples.md) — spacing review of worked examples across sessions improves transfer more than massing the same examples in a single session
+This diagnostic policy is a **design proposal, not a validated scheduling algorithm**. Start with an unassisted sample of the target items, record item-level errors and the time since last exposure, then separate cued recognition, recall and meaningful use. Record restudy, corrective feedback, retrieval opportunities and actual gaps; changing them together changes the intervention.
 
-## Examples
+| Observation | Rival interpretations and discriminating observation | Proposed next action |
+|---|---|---|
+| An item is not recalled | Weak initial encoding and loss of access across the gap are different possibilities. Check comprehension/recognition with a cue and whether the learner can explain the association; retest unassisted after relearning and an interval. | If the association is not understood, clarify and re-encode it. If understood but inaccessible, use corrective feedback and another separated retrieval. Do not optimize the gap from a single failure. |
+| Immediate recall is fluent | Recent repetition and durable retrieval both predict this. Use an unassisted check after the target delay. | Maintain the delayed check rather than count fluency as retained learning; revise the schedule only after collecting later evidence. |
+| Words are recalled but not used appropriately | Item retrieval and contextual language use are different capabilities; ask for meaning and use in a new conversational context. | Add contextual practice if recall succeeds but use fails. Do not claim that a word-pair recall study validates conversation transfer. |
 
-- **[Anki](https://apps.ankiweb.net)** — A free flashcard application that implements spaced repetition via the SM-2 algorithm, scheduling each card for review at the estimated point of near-forgetting. Widely used in medical education (USMLE preparation) and language learning.
-- **[Duolingo](https://www.duolingo.com)** — Spaced repetition drives the vocabulary review schedule; previously learned items resurface at algorithmically timed intervals within the daily lesson flow.
-- **Interleaved unit reviews** — A classroom pattern where the first 5–10 minutes of each session revisit material from 1–3 sessions prior via retrieval questions before introducing new content. Low implementation cost; no technology required.
+If six of ten words are recalled today, that is a sample response, not a calibrated probability of recall next week. For a learner valuing conversation, record the designer's recall criterion (for example eight of ten is a local choice), the sampled prompts and the one-week horizon; also agree how appropriate use will be judged in a representative conversation. Do not silently substitute recall for that valued goal. If these fields are missing, elicit them before choosing a calendar schedule.
 
-## Key Sources
-- Benjamin, A. S., & Tullis, J. (2010). What makes distributed practice effective? *Cognitive Psychology, 61*(3), 228–247. [doi:10.1016/j.cogpsych.2010.05.004](https://doi.org/10.1016/j.cogpsych.2010.05.004)
-- Carpenter, S. K. (2012). Testing enhances the transfer of learning. *Current Directions in Psychological Science, 21*(5), 369–373. [doi:10.1177/0963721412452728](https://doi.org/10.1177/0963721412452728)
-- Kapler, I. V., Weston, T., & Wiseheart, M. (2015). Spacing in a simulated undergraduate classroom: Long-term benefits for factual and higher-level learning. *Learning and Instruction, 36*, 38–45. [doi:10.1016/j.learninstruc.2014.11.001](https://doi.org/10.1016/j.learninstruc.2014.11.001)
-- Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 37*(5), 1250–1257. [doi:10.1037/a0023436](https://doi.org/10.1037/a0023436)
-- Logan, J. M., Castel, A. D., Haber, S., & Viehman, E. J. (2012). Metacognition and the spacing effect: The role of repetition, feedback, and instruction on judgments of learning for massed and spaced rehearsal. *Metacognition and Learning, 7*(3), 175–195. [doi:10.1007/s11409-012-9090-3](https://doi.org/10.1007/s11409-012-9090-3)
+## Evidence-bounded expectation
+
+A word-pair experiment separated total retrieval spacing from its relative arrangement: after first correct recall, repeated retrievals with intervening trials improved one-week recall relative to massed retrieval. At matched total nominal spacing, expanding, equal and contracting arrangements did not differ detectably: [absolute versus relative spacing observation](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md). The full source was checked. This does not establish equivalence or an advantage for expanding gaps, a universal calendar gap, or conversational use. Retain total practice, corrective feedback, initial learning criterion, actual gaps and final-test horizon when comparing schedules.
+
+An equal schedule may be selected for practical reasons while this exact comparison remains unresolved; do not predict a gain from changing only equal to expanding gaps on this evidence. Calendar timing and the dose needed for a particular learner remain local questions. Lower practice fluency can coexist with better delayed performance, but difficulty alone does not identify the cause or predict the outcome.
+
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~W] — not settled: the abstract available could not confirm the entries
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~W] — not settled: the abstract available could not confirm the entries
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~W] — not settled: the abstract available could not confirm the entries
+- [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](../claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md) [~M] — full source read when the claim was written (Kapler et al. 2015); not re-read for this page
+
+## Source verification and open tests
+
+Karpicke & Bauernschmidt (2011), [author-hosted full text](https://learninglab.psych.purdue.edu/downloads/2011/2011_Karpicke_Bauernschmidt_JEPLMC.pdf). Method and results checked for the bounded contrast above.
+
+The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.

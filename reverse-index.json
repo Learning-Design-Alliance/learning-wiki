@@ -1,13 +1,13 @@
 {
  "coverage": {
-  "claims->claims": 3127,
-  "claims->elements": 119,
+  "claims->claims": 3131,
+  "claims->elements": 118,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 96,
   "claims->principles": 124,
   "claims->processes": 3,
-  "claims->theories": 221,
+  "claims->theories": 220,
   "elements->claims": 459,
   "elements->elements": 452,
   "elements->learner-variables": 1,
@@ -31,16 +31,16 @@
   "patterns->claims": 231,
   "patterns->elements": 115,
   "patterns->methods": 2,
-  "patterns->patterns": 161,
-  "patterns->principles": 86,
-  "patterns->theories": 55,
+  "patterns->patterns": 158,
+  "patterns->principles": 88,
+  "patterns->theories": 54,
   "principles->claims": 428,
-  "principles->elements": 89,
+  "principles->elements": 87,
   "principles->methods": 2,
-  "principles->patterns": 85,
-  "principles->principles": 313,
+  "principles->patterns": 88,
+  "principles->principles": 310,
   "principles->processes": 3,
-  "principles->theories": 143,
+  "principles->theories": 140,
   "processes->claims": 11,
   "processes->elements": 10,
   "processes->methods": 6,
@@ -7064,9 +7064,7 @@
       "strength": "S"
      },
      {
-      "polarity": "+",
-      "slug": "formative-assessment",
-      "strength": "S"
+      "slug": "formative-assessment"
      },
      {
       "polarity": "+",
@@ -7077,6 +7075,11 @@
       "polarity": "+",
       "slug": "team-based-learning",
       "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "formative-assessment"
      }
     ],
     "processes": [
@@ -18855,9 +18858,6 @@
       "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      },
      {
@@ -19245,7 +19245,9 @@
       "slug": "sequencing"
      },
      {
-      "slug": "spaced-learning"
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -25531,9 +25533,6 @@
       "slug": "vocabulary-instruction-improves-comprehension"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -25954,9 +25953,6 @@
      },
      {
       "slug": "user-goals-contradict-educational-objectives"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "polarity": "-",
@@ -37922,6 +37918,9 @@
       "slug": "distributed-practice-limits-l2"
      },
      {
+      "slug": "eight-day-review-improves-five-week-science-test-versus-one-day-review"
+     },
+     {
       "slug": "learners-misjudge-spacing-benefits"
      },
      {
@@ -37944,6 +37943,9 @@
      },
      {
       "slug": "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall"
+     },
+     {
+      "slug": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished"
      }
     ],
     "elements": [
@@ -40602,6 +40604,15 @@
      }
     ]
    },
+   "eight-day-review-improves-five-week-science-test-versus-one-day-review": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "M"
+     }
+    ]
+   },
    "elaborated-coding-higher-reading-scores": {
     "claims": [
      {
@@ -43186,9 +43197,6 @@
      },
      {
       "slug": "scaffolding-improves-learning"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -46302,6 +46310,23 @@
       "polarity": "+",
       "slug": "four-factor-teaching-compatibility",
       "strength": "W"
+     }
+    ]
+   },
+   "fading-and-principle-prompts-improve-probability-transfer": {
+    "claims": [
+     {
+      "slug": "worked-example-problem-sequences"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "worked-examples"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "worked-examples"
      }
     ]
    },
@@ -55562,7 +55587,9 @@
       "strength": "S"
      },
      {
-      "slug": "spaced-learning"
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "W"
      }
     ],
     "strategies": [
@@ -57235,6 +57262,23 @@
       "polarity": "+",
       "slug": "design-thinking-four-phase-sp-toolkit",
       "strength": "W"
+     }
+    ]
+   },
+   "identical-example-problem-order-advantage-not-detected-at-final-test": {
+    "claims": [
+     {
+      "slug": "worked-example-problem-sequences"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "worked-examples"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "worked-examples"
      }
     ]
    },
@@ -60064,9 +60108,6 @@
      },
      {
       "slug": "task-repetition-fluency-complexity-same-task-only"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ],
     "elements": [
@@ -60167,9 +60208,6 @@
      },
      {
       "slug": "spaced-practice-improves-retention"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ],
     "learner-variables": [
@@ -83587,9 +83625,6 @@
       "slug": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -89626,9 +89661,6 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ]
    },
@@ -90928,9 +90960,6 @@
      },
      {
       "slug": "self-regulated-learning-improves-achievement"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      }
     ],
     "elements": [
@@ -96694,7 +96723,9 @@
       "strength": "M"
      },
      {
-      "slug": "spaced-learning"
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -101840,6 +101871,9 @@
       "slug": "distributed-practice-improves-retention"
      },
      {
+      "slug": "eight-day-review-improves-five-week-science-test-versus-one-day-review"
+     },
+     {
       "slug": "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules"
      },
      {
@@ -101868,6 +101902,9 @@
      },
      {
       "slug": "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness"
+     },
+     {
+      "slug": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished"
      }
     ],
     "elements": [
@@ -111248,6 +111285,18 @@
      }
     ]
    },
+   "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished": {
+    "patterns": [
+     {
+      "slug": "spaced-learning"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "spaced-learning"
+     }
+    ]
+   },
    "tough-1967-adults-self-teach-with-helpers": {
     "claims": [
      {
@@ -115309,6 +115358,12 @@
       "slug": "example-problem-sequences-reduce-cognitive-load"
      },
      {
+      "slug": "fading-and-principle-prompts-improve-probability-transfer"
+     },
+     {
+      "slug": "identical-example-problem-order-advantage-not-detected-at-final-test"
+     },
+     {
       "slug": "interleaved-practice-improves-retention"
      },
      {
@@ -115349,6 +115404,16 @@
       "slug": "worked-examples",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "worked-examples"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "worked-examples"
+     }
     ]
    },
    "worked-examples-example-problem-sequences": {
@@ -115361,9 +115426,6 @@
      },
      {
       "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "slug": "worked-examples-reduce-novice-search"
@@ -115440,7 +115502,7 @@
      {
       "polarity": "+",
       "slug": "worked-examples",
-      "strength": "S"
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -116724,9 +116786,6 @@
      },
      {
       "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
-     },
-     {
-      "slug": "worked-example-problem-sequences"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -123968,9 +124027,6 @@
      },
      {
       "slug": "elaborative-reasoning"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -137940,9 +137996,6 @@
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -138100,9 +138153,6 @@
      },
      {
       "slug": "phonics"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -139483,6 +139533,9 @@
      },
      {
       "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "formative-assessment"
      }
     ],
     "principles": [
@@ -139491,9 +139544,6 @@
      },
      {
       "slug": "responsive-teaching"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -139533,11 +139583,6 @@
     "elements": [
      {
       "slug": "listening-palette"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "formative-assessment"
      }
     ]
    },
@@ -140833,9 +140878,6 @@
       "slug": "ask-experts"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "foster-growth-mindset"
      },
      {
@@ -141514,9 +141556,6 @@
      },
      {
       "slug": "flipped-learning"
-     },
-     {
-      "slug": "formative-assessment"
      },
      {
       "slug": "fostering-communities-of-learning-fcl"
@@ -143503,11 +143542,6 @@
      {
       "slug": "embodied-choreographic-assessment"
      }
-    ],
-    "patterns": [
-     {
-      "slug": "formative-assessment"
-     }
     ]
    },
    "literature-review": {
@@ -144436,11 +144470,6 @@
     "patterns": [
      {
       "slug": "traditional-lecture-reading-midterm-final-assessment"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "formative-assessment"
      }
     ]
    },
@@ -145619,9 +145648,6 @@
       "slug": "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -145803,6 +145829,9 @@
      },
      {
       "slug": "reigeluths-elaboration-theory"
+     },
+     {
+      "slug": "worked-examples"
      }
     ],
     "principles": [
@@ -145826,9 +145855,6 @@
      },
      {
       "slug": "spacing"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -148716,9 +148742,6 @@
     "principles": [
      {
       "slug": "procedural-learning"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -149630,11 +149653,6 @@
      {
       "slug": "assessment"
      },
-     {
-      "slug": "formative-assessment"
-     }
-    ],
-    "principles": [
      {
       "slug": "formative-assessment"
      }
@@ -151194,9 +151212,6 @@
      }
     ],
     "patterns": [
-     {
-      "slug": "formative-assessment"
-     },
      {
       "slug": "self-regulated-learning"
      }
@@ -157347,9 +157362,6 @@
      },
      {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -161103,6 +161115,9 @@
     ],
     "principles": [
      {
+      "slug": "formative-assessment"
+     },
+     {
       "slug": "responsive-teaching"
      }
     ],
@@ -161769,9 +161784,6 @@
      },
      {
       "slug": "programmed-instruction"
-     },
-     {
-      "slug": "spaced-learning"
      }
     ],
     "principles": [
@@ -162560,9 +162572,6 @@
      },
      {
       "slug": "competency-based-learning"
-     },
-     {
-      "slug": "formative-assessment"
      },
      {
       "slug": "hunters-effective-teaching-model"
@@ -163655,6 +163664,11 @@
      {
       "slug": "spaced-repetition"
      }
+    ],
+    "principles": [
+     {
+      "slug": "spaced-learning"
+     }
     ]
    },
    "starter-stations-rotation-pattern": {
@@ -164351,6 +164365,11 @@
     "patterns": [
      {
       "slug": "worked-examples-for-game-based-puzzle-problem-solving"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "worked-examples"
      }
     ]
    },
@@ -168211,9 +168230,6 @@
       "slug": "experiential-learning-cycle"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "professional-development"
      },
      {
@@ -170740,9 +170756,6 @@
      },
      {
       "slug": "flexible-grouping"
-     },
-     {
-      "slug": "formative-assessment"
      },
      {
       "slug": "foster-growth-mindset"
@@ -178153,9 +178166,6 @@
       "slug": "explicit-instruction-math-strategies"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "foster-growth-mindset"
      },
      {
@@ -178430,9 +178440,6 @@
      },
      {
       "slug": "metaphors-analogies"
-     },
-     {
-      "slug": "worked-examples"
      }
     ]
    },
@@ -178780,9 +178787,6 @@
       "slug": "self-monitoring"
      },
      {
-      "slug": "spaced-learning"
-     },
-     {
       "slug": "spaced-practice"
      },
      {
@@ -179052,9 +179056,6 @@
       "slug": "feedback-loops"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "foster-growth-mindset"
      },
      {
@@ -179089,9 +179090,6 @@
      },
      {
       "slug": "skills-sprint"
-     },
-     {
-      "slug": "spaced-learning"
      }
     ],
     "theories": [
@@ -179291,9 +179289,6 @@
      },
      {
       "slug": "simulations-immersive-virtual-environments"
-     },
-     {
-      "slug": "worked-examples"
      }
     ]
    },
@@ -179430,9 +179425,6 @@
       "slug": "flipped-learning"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "gagnes-9-events-of-instruction"
      },
      {
@@ -179469,9 +179461,6 @@
      },
      {
       "slug": "feedback-loops"
-     },
-     {
-      "slug": "formative-assessment"
      },
      {
       "slug": "game-based-learning"
@@ -180790,9 +180779,6 @@
     "principles": [
      {
       "slug": "considering-the-opposite"
-     },
-     {
-      "slug": "worked-examples"
      }
     ]
    },
@@ -181615,9 +181601,6 @@
      },
      {
       "slug": "video-replay-analysis"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "processes": [
@@ -183048,6 +183031,11 @@
       "slug": "spiral-curriculum"
      }
     ],
+    "patterns": [
+     {
+      "slug": "spaced-learning"
+     }
+    ],
     "principles": [
      {
       "slug": "maximize-learning-rate-when-calibrating-leitner-schedules"
@@ -184017,6 +184005,9 @@
      },
      {
       "slug": "reigeluths-elaboration-theory"
+     },
+     {
+      "slug": "worked-examples"
      }
     ],
     "principles": [
@@ -184055,9 +184046,6 @@
      },
      {
       "slug": "scaffolding-and-fading"
-     },
-     {
-      "slug": "spaced-learning"
      },
      {
       "slug": "spaced-practice"
@@ -186668,9 +186656,6 @@
       "slug": "vocabulary-instruction-improves-comprehension"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      },
      {
@@ -186838,9 +186823,6 @@
       "slug": "explicit-instruction-phonics"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "guided-practice"
      },
      {
@@ -186886,9 +186868,6 @@
       "slug": "social-constructivism"
      },
      {
-      "slug": "spaced-learning"
-     },
-     {
       "slug": "spaced-practice"
      },
      {
@@ -186899,9 +186878,6 @@
      },
      {
       "slug": "user-centered-design-for-learning"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "processes": [
@@ -187541,9 +187517,6 @@
      },
      {
       "slug": "universal-design-for-learning"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "processes": [
@@ -189987,9 +189960,6 @@
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
      },
      {
-      "slug": "worked-example-problem-sequences"
-     },
-     {
       "slug": "worked-examples-example-problem-sequences"
      }
     ],
@@ -191623,9 +191593,6 @@
     "patterns": [
      {
       "slug": "concept-attainment"
-     },
-     {
-      "slug": "formative-assessment"
      }
     ],
     "principles": [
@@ -191692,16 +191659,10 @@
       "slug": "situated-learning"
      },
      {
-      "slug": "spaced-learning"
-     },
-     {
       "slug": "spaced-practice"
      },
      {
       "slug": "spacing"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "processes": [
@@ -195685,9 +195646,6 @@
       "slug": "experiential-learning-cycle"
      },
      {
-      "slug": "formative-assessment"
-     },
-     {
       "slug": "mastery-learning"
      },
      {
@@ -195779,9 +195737,6 @@
      },
      {
       "slug": "universal-design-for-learning"
-     },
-     {
-      "slug": "worked-examples"
      }
     ],
     "strategies": [
@@ -199314,7 +199269,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3143,
+  "claims": 3147,
   "elements": 688,
   "learner-variables": 12,
   "methods": 17,

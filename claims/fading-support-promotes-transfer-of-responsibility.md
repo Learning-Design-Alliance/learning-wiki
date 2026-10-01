@@ -21,7 +21,7 @@ sources:
     author: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R."
     q: 3
     i: "?"
-    n: 71
+    n: 20 ninth graders, 54 college students, and 45 college students across three experiments
     kind: causal
     rigour: "?"
 id: fading-support-promotes-transfer-of-responsibility
@@ -33,11 +33,11 @@ evidence_strength: strong
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q3`
 
-Fading, or the systematic withdrawal of scaffolding as competence increases, is essential for internalizing new skills and preventing long-term dependence on external aids.
+Fading, or the gradual withdrawal of support, is one way to move from studying examples to independent problem solving. The recorded experiments support this transition at least for near transfer; they do not establish that every scaffold must fade at one rate or that fading prevents long-term dependence.
 
 ## Subclaims
 `q3 i?` The gradual removal of support is a core component of effective scaffolding that allows learners to take responsibility for their own learning. [→ van de Pol et al. 2010](#van-de-pol-et-al-2010)
-`q3 i?` Fading worked examples into completion problems and then independent problems leads to better schema acquisition than full problem-solving or full worked examples. [→ Renkl et al. 2002](#renkl-et-al-2002)
+`q3 i?` Across three experiments, fading worked examples into increasingly incomplete examples and then independent problems favored near-transfer performance over static example–problem arrangements; learning-phase errors and the direction of fading also mattered. [→ Renkl et al. 2002](#renkl-et-al-2002)
 
 ## Evidence
 
@@ -55,9 +55,9 @@ This review confirms that fading is one of the three essential characteristics o
 
 Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 
-`q3 · peer-reviewed experimental study` · `i? · the abstract prints no effect size; the full text may` · `n=71` · `causal · r?`
+`q3 · three experiments (one field, two laboratory)` · `i? · no common pooled effect reported here` · `n=20 ninth graders, 54 college students, and 45 college students across three experiments` · `causal · r?`
 
-The authors studied different ways of transitioning from worked examples to problem-solving. They found that a "fading" approach—where steps are gradually removed from a worked example—led to better learning outcomes and less mental effort than either full problem-solving or a traditional block of examples followed by a block of problems.
+Across a field experiment and two laboratory experiments, the authors compared a gradual transition from complete examples to increasingly incomplete examples and independent problems with static example–problem arrangements. Their results favored fading at least for **near transfer**; learning-phase errors played a role in mediating the effect, and removing the last worked-out steps first was more favorable than removing the first steps first. This is a report of three experiments, not one experiment with 71 participants, and it does not establish a universal far-transfer or fading-rate effect.
 
 ## Discussion
 This is sometimes called the "completion effect" in cognitive load literature. However, fading must be carefully timed; removing support too early can cause cognitive overload.

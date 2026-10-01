@@ -93,7 +93,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Feedback Loops](feedback-loops.md) - Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system.
 * [Flexible Grouping](flexible-grouping.md) - Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities.
 * [Flipped Learning](flipped-learning.md) - Flipped learning is the principle of shifting initial content exposure outside class so that live time can be used for application, coaching, and discussion.
-* [Formative Assessment](formative-assessment.md) - Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment.
+* [Formative Assessment](formative-assessment.md) - A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
 * [Foster Growth Mindset](foster-growth-mindset.md) - Fostering a growth mindset means designing instruction so that effort, revision, and strategic improvement are treated as normal parts of learning rather than as signs of low ability.
 
 #### G {: #letter-g }
@@ -204,7 +204,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social Interdependence](social-interdependence.md) - Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning.
 * [Social Learning](social-learning.md) - Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.
 * [Social Presence](social-presence.md) - Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
-* [Spaced Learning](spaced-learning.md) - Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.
+* [Spaced Learning](spaced-learning.md) - A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
 * [Spaced Practice](spaced-practice.md) - Distribute practice of a skill or retrieval of content across multiple sessions separated in time rather than massing it into one block, because spaced exposure produces markedly stronger long-term retention.
 * [Spacing](spacing.md) - Distribute learning episodes and practice over time rather than massing them together, so that partial forgetting between sessions triggers effortful retrieval and strengthens long-term retention.
 * [Speech-to-text](speech-to-text.md) - Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments.
@@ -227,7 +227,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### W {: #letter-w }
 
-* [Worked Examples](worked-examples.md) - Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
+* [Worked Examples](worked-examples.md) - An example-first relationship qualified by task knowledge, representation, configuration and assessment horizon.
 
 
 ## Draft
