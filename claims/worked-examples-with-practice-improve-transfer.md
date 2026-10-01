@@ -12,7 +12,7 @@ sources:
     author: "Van Gog, T., Kester, L., & Paas, F."
     q: 3
     i: "?"
-    n: 48
+    n: 103 randomized; 96 analyzed
     kind: causal
     rigour: "?"
   - id: renkl-atkinson-2003
@@ -49,9 +49,9 @@ Primary evidence link: https://doi.org/10.1016/j.cedpsych.2010.10.004
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
 
-`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=48` · `causal · r?`
+`q3 · peer-reviewed randomized experiment` · `i? · partial η² reported for omnibus results` · `n=103 randomized; 96 analyzed` · `causal · r?`
 
-Novices in electrical-circuits troubleshooting learned more and reported lower cognitive load in all example-based conditions than in the problem-only condition. The result supports the value of combining examples and problems rather than relying on unguided solving from the outset.
+Novices in electrical-circuits troubleshooting were assigned to examples only, example–problem pairs, problem–example pairs, or problems only. The examples-only and example–problem groups outperformed the problem–example and problems-only groups on the immediate test, while examples only and example–problem pairs did not differ detectably. Problem–example pairs did not outperform problems only. This supports an example-first sequence in this short task; it does not show that pairing examples with problems beats examples alone, nor establish delayed transfer. The original article reports 103 randomized and 96 analyzed.
 
 ### Renkl & Atkinson 2003
 

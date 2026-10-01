@@ -8,18 +8,18 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,143 |
-| Evidence entries | 3,922 |
-| Distinct studies | 1,109 |
-| Claims resting on one study | 2,928 (93%) |
+| Claims | 3,147 |
+| Evidence entries | 3,926 |
+| Distinct studies | 1,113 |
+| Claims resting on one study | 2,932 (93%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 317 of 1,109 (29%) |
+| Studies reporting an effect size | 317 of 1,113 (28%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 74 | 64 | 97 | 241 |
+| causal | 6 | 74 | 64 | 101 | 245 |
 | quant-synthesis | 9 | 36 | 2 | 112 | 159 |
 | review | 9 | 62 | 26 | 43 | 140 |
 | associational | 0 | 54 | 79 | 15 | 148 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 203 (18%) | 546 (49%) | 279 (25%) | 81 (7%) |
+| 203 (18%) | 546 (49%) | 283 (25%) | 81 (7%) |
 
-**Studies per claim:** 0: 0, 1: 2,928, 2: 158, 3: 53, 4 or more: 4.
+**Studies per claim:** 0: 0, 1: 2,932, 2: 158, 3: 53, 4 or more: 4.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -79,7 +79,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 337 pages | 2 | q2 | 0 of 2 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 238 pages | 2 | q3–q4 | 2 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 234 pages | 2 | q3 | 0 of 2 |
-| [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 229 pages | 3 | q2–q3 | 2 of 3 |
+| [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 230 pages | 3 | q2–q3 | 2 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 206 pages | 5 | q3–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 187 pages | 2 | q3 | 0 of 2 |
@@ -109,7 +109,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 135 | 83 | 146 | 2 |
 | [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 20 | 8 | 45 | 3 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 354 | 44 | 22 | 3 |
-| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 552 | 67 | 19 | 3 |
+| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 552 | 68 | 19 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 3 | 162 | 11 | 1 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 6 | 4 | 10 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |

@@ -2,7 +2,7 @@
 type: principle
 id: formative-assessment
 title: Formative Assessment
-description: Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment.
+description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
 status: review
 generated:
   by: codex/unspecified
@@ -25,66 +25,53 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
 
 ## Description
-Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment. Its value is not the checkpoint itself, but the feedback loop it creates: learners compare their current performance to a target, explain errors, and revise strategies, while instructors adjust support and pacing in response. In practice, formative assessment works best when it is frequent, interpretable, and directly tied to the next instructional move.
 
-## Implications
-Formative assessment improves learning when checkpoints produce evidence that changes instruction or strategy before misunderstandings harden. Frequent low-stakes checks help instructors calibrate support [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] and help learners notice where their current approach is failing [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], which is why formative assessment is tightly linked to self-regulation. Errors are not a side effect to hide here; they are useful signals, especially when feedback is timely enough that learners can revise while the task is still alive [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
+A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
 
-### Context
-#### Requirements
-- **Clear success criteria**: Learners need to know what counts as good performance before a checkpoint can guide improvement.
-- **Actionable feedback**: Checks for understanding need to produce information that changes the next step, not just a score or completion mark [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
-- **Opportunities to revise**: Formative assessment only functions as "assessment for learning" when learners can use the result to retry, refine, or seek support.
-- **Low-stakes design**: The environment must make it safe to reveal partial understanding, confusion, or error [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
-#### Constraints
-- **Over-assessment**: Too many checks can fragment attention and turn learning into constant compliance.
-- **Weak alignment**: If prompts do not reflect the actual target skill, the resulting feedback misdirects effort.
-- **Feedback delay**: Long delays between attempt and response weaken the instructional value of the checkpoint.
-- **Unclear interpretation**: Learners cannot regulate from feedback they do not understand or know how to act on.
+## Conditional relationship
 
-### Target Learners
-- **Novice learners**: Benefit when checkpoints expose misunderstandings early and support targeted next steps before errors compound.
-- **Learners building self-regulation**: Frequent feedback supports monitoring, strategy adjustment, and more accurate self-assessment.
-- **Learners returning after interruption or low confidence**: Low-stakes checks reduce the cost of being wrong and can normalize revision as part of progress.
-- **Instructors managing diverse readiness levels**: Formative assessment helps differentiate pacing, grouping, and support rather than teaching to an assumed average.
+When an aligned response supplies interpretable evidence and is used to select a relevant next action, assessment can support a learning transition; the response does not directly reveal the underlying state, and an unused checkpoint does not instantiate this mechanism. This is a conditional explanatory model, not a universal individual forecast. The [formative assessment pattern](../patterns/formative-assessment.md) supplies a reusable observation and design policy. Specific local examples below illustrate it rather than define its scope.
 
-### Target Learning Objectives
-- **Monitoring understanding**: Determining whether learners can explain, apply, or transfer what was just taught.
-- **Improving performance during instruction**: Using evidence from practice to adjust supports before summative evaluation.
-- **Building revision habits**: Helping learners treat feedback as input for the next attempt rather than as judgment of fixed ability.
-- **Strengthening metacognition**: Helping learners identify what they know, what they misunderstand, and what to do next.
+## Learner state, objective and valued goal
 
-### Theory
-#### Supporting
-- Self-Regulated Learning (Zimmerman) — formative assessment provides the external feedback and reflection prompts that support self-monitoring and strategy adjustment.
-- Instructional scaffolding — checks for understanding help instructors calibrate when to add, maintain, or fade support [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
-- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — brief diagnostic checks can surface overload or missing schema before learners continue into more complex work.
-#### Contradicting / Qualifying
-- High-frequency testing can become counterproductive when it interrupts whole-task flow or narrows learning to what is easiest to measure.
-- Formative assessment improves learning only when evidence is interpreted correctly and used to change instruction or learner strategy.
+This is a reusable design model. A study result supplies a bounded observation; it does not reveal the state or future outcome of a new learner.
 
-### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — formative evidence matters when it triggers responsive instructional adjustment
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — low-stakes formative checks can make important misconceptions visible while they are still revisable
-- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices benefit when formative checkpoints guide what to do next, not just whether they were right
+Before selecting a configuration, record the target task and representation, task-specific prior experience, access and language constraints, time available, observed responses and the exact help provided. Preserve an unknown rather than replacing it with a generic label such as novice. Ask the learner what they want to accomplish and why it matters. Record that **valued goal** separately from the designer's **learning objective**; agreement is an observation to elicit, not an assumption. If they diverge, negotiate the task or purpose and retain the unresolved difference.
 
-## Related Principles
-- [Immediate Feedback](immediate-feedback.md) — formative assessment becomes instructionally useful when learners receive information they can act on quickly.
-- [Check-ins](check-ins.md) — frequent low-stakes check-ins are one common implementation pattern for formative assessment.
-- [Error Analysis](error-analysis.md) — formative checkpoints can surface misconceptions that are then analyzed and corrected.
-- [Goal Setting & Monitoring](goal-setting-monitoring.md) — targets and progress markers make formative evidence interpretable.
+Define the intended capability, a representative assessment task and scoring instrument, the criterion chosen for this design, and the assessment horizon. Agree what response would warrant changing support and how to check later independent performance. Criteria are local decisions, not universal mastery thresholds. If the brief only asks for better learning, elicit these fields before selecting an exact dose or forecasting a gain.
 
-## Examples
-- **Exit tickets**: A short end-of-session prompt asking learners to explain the main idea, identify a confusion point, or solve one transfer item before the next lesson is planned.
-- **In-lesson polls or quizzes**: Brief checks using [quizzes](../elements/quizzes.md) or [optional quizzes or discussion sections](../elements/optional-quizzes-or-discussion-sections.md) to decide whether to reteach, continue, or regroup.
-- **Draft feedback cycles**: Learners submit partial work, receive [feedback](../elements/feedback.md), and revise before the task becomes summative.
-- **Think-aloud checkpoints**: Learners explain a step or reasoning path mid-task so the instructor can catch misconceptions before they solidify.
+Keep the record in this form: **response under stated conditions → uncertain state hypotheses → discriminating observation → next activity → response at the stated horizon**. Difficulty, accuracy, speed, confidence and engagement are different observations. None alone proves learning. Record a learner's changed purpose or constraints as well as a changed performance.
 
-## Key Sources
-- Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
-- Hawe, E., & Dixon, H. (2017). Assessment for learning: A catalyst for student self-regulation. *Assessment & Evaluation in Higher Education, 42*(8), 1181-1192. [https://doi.org/10.1080/02602938.2016.1236360](https://doi.org/10.1080/02602938.2016.1236360)
-- Cross, T., & Palese, K. (2015). Increasing learning: Classroom assessment techniques in the online classroom. *American Journal of Distance Education, 29*(2), 98-108. [https://doi.org/10.1080/08923647.2015.1023594](https://doi.org/10.1080/08923647.2015.1023594)
-- Elmahdi, I., Al-Hattami, A., & Fawzi, H. (2018). Using technology for formative assessment to improve students' learning. *Turkish Online Journal of Educational Technology, 17*(2), 182-188.
+## Observation and adaptation
+
+This diagnostic policy is a **design proposal; synthesis-level effects do not validate its specific branches**. Elicit an unassisted explanation or application aligned with the intended capability, plus the learner's reasoning and confidence. Record the prompt, response mode, language demand, stakes and assistance. Interpret the response using explicit rival hypotheses before selecting feedback; a checkpoint without a usable next action is not this pattern.
+
+| Observation | Rival interpretations and discriminating observation | Proposed next action |
+|---|---|---|
+| An explanation omits an important relation | A conceptual misconception and an expression/language barrier can produce this. Compare two cases varying one relevant quantity, ask for a prediction and justification, and allow a diagram or accessible oral response. | If the relation still fails across response modes, give a targeted contrast and invite revision. If reasoning is coherent in another mode, address expression/access rather than reteach the concept wholesale. |
+| A revised answer becomes correct | Answer copying and revised understanding both fit. Ask for a new unassisted case and justification, then repeat at the intended delay. | If only the feedback example succeeds, retain targeted support and another independent attempt. If the new case succeeds, reduce that support provisionally and check later. |
+| A learner stays silent or guesses | Uncertainty about the concept and evaluative threat/disengagement are different possibilities. Ask privately about purpose and constraints and compare a low-stakes accessible attempt with the original response. | Adjust the conditions when they obstruct expression; negotiate purpose when the task lacks learner significance. Do not interpret participation alone as competence. |
+
+For repeated force-only explanations, ask how acceleration changes when mass varies at the same force, and ask why. Connect the task to a learner-valued aim such as explaining bicycle braking while separating the teacher's conceptual target. Agree a reasoning rubric for the relation, an unassisted new braking example after feedback today and another next week. Those are local design choices; the source does not establish their optimality. If the target, purpose or starting explanation is missing, elicit it before declaring a misconception or choosing feedback.
+
+## Evidence-bounded expectation
+
+Kingston and Nash's corrected synthesis reports a science mean of 0.19 with 95% CI 0.06–0.31 across 17 effects; the erratum supersedes the original 0.09 science estimate: [assessment-for-learning observation and comparison frame](../claims/assessment-for-learning-improves-achievement.md). It also removes an inappropriate comparison between two formative approaches. The synthesis supports a bounded program-level expectation and a need for better research; it cannot forecast this learner's response, distinguish these diagnostic branches or establish next-week transfer.
+
+Before comparing another synthesis or applying an effect-size label, record assignment and baseline comparability, learner/context characteristics, exact treatment and control, outcome alignment and independence, score-range/standardization constraints, horizon and uncertainty. Preserve **unknown** fields. A correction removes one known error; it does not establish that all included estimates are comparable. Report raw magnitude alongside a justified context-sensitive interpretation; do not rank interventions or infer individual probabilities from these pooled values. The formative loop's causal pathway remains a hypothesis to test against subsequent responses.
+
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the abstract available could not confirm the entries
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the abstract available could not confirm the entries
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the abstract available could not confirm the entries
+
+## Source verification and open tests
+
+Kingston & Nash (2011), [2015 publisher erratum](https://onlinelibrary.wiley.com/doi/10.1111/emip.12075). Corrected content-area table checked; full primary-study assignment and measurement details remain unverified in this run.
+
+The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.

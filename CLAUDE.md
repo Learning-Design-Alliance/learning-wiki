@@ -121,6 +121,68 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format
+
+- **`evidence-dimensions.json`** (root, beside `evidence-scales.json`) defines once the dimensions three works
+  had named separately: the evidence-axes coder's L, G, C, D and O, the impact comparison record
+  (`methods/impact-evidence-comparison.md`, observations' `impact_context`) and the six principle–pattern
+  affordances (`principle-pattern-authoring.md`). Nine dimensions (learner state, goal, valued goal,
+  conditions, design variable, assignment, outcome, effect, diagnosis), each with its controlled values and its
+  name in each work. `scripts/evidence_dimensions.py` is its only reader; `eval/evidence-axes/axes.json` is
+  gone. "randomized" is canonical, "randomised" an alias, so cells coded before still read. `lint.py --type
+  dimensions` fails on a value defined twice, an alias or crosswalk naming a value that does not exist, or a
+  guide affordance no dimension maps (both verified by mutation). Two dimensions have **no evidence side**:
+  the learner's valued goal and diagnosis are design-only, since studies rarely report either.
+- **learning-design-spec reads the conditional-model format** (that repo's decision 0020, finding 0032):
+  `planning-patterns` reads a principle or pattern page by the role of each section, either shape, and takes
+  a page's observation-and-adaptation table into its phases. #144 merged after it, and #140–#142 are closed.
+
+### 2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays
+
+- **#144 rewrote three principle–pattern pairs** (worked examples, spaced learning, formative assessment) as
+  conditional models (`principle-pattern-authoring.md`): observed response → uncertain state hypotheses →
+  discriminating observation → next activity → response at a stated horizon, with the learner's valued goal kept
+  apart from the designer's objective. Its own audits were the author scoring known cases. **An independent test**
+  (scratch only, not committed, so the briefs stay unseen): 12 new briefs, 4 per topic, half complete and half
+  sparse; Kimi K3 answered each from one version's two pages only; Gemini 3.8 Flash and DeepSeek V4 Pro graded
+  blind against one shared reference (every claim either version cites), on #144's six affordances plus
+  accuracy, decision value and brief fit, and in pairs, both orders. About $5.6 in all.
+- **Result.** Affordances 7.0 → 12.0 of 12 (by construction, the rubric is the format's own); accuracy 3.71 →
+  4.83; decision value 4.21 → 4.88; blind pairs **38–10 for the new format**, unanimous on worked examples and
+  spacing. But it **lost formative assessment 7–9**, the page the rewrite cut from 17 claims to 1: graders called
+  its answers abstract, and the old ones concrete and better evidenced.
+- **So the removed claims are restored** (maintainer's decision), below each page's own evidence, markers capped,
+  each labelled with how far its sources have been checked, and the formative-assessment pattern's Design
+  Decisions are back. Re-tested as a third arm: it **beats the old pages 35–13 and wins formative assessment
+  9–7**, ties the pruned version 25–23, and lifts brief fit 4.12 → 4.50. Restoring evidence did not dilute the model.
+- **The format is the direction, and learning-design-spec must be updated to read it** (maintainer's rule: adopt
+  it if it serves the theoretical goals better). These pages no longer carry `### Target Learners`,
+  `### Target Learning Goals` or `#### Requirements`/`#### Constraints`, which the spec reads. Caveats: one
+  answerer, two graders, 12 briefs; on worked examples part of the gain is #144's source corrections, not format.
+  The cleanest format test, formative assessment, is the narrowest win.
+### 2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
+
+- **`eval/evidence-axes/`** codes evidence entries as **cells** on five axes, learners (L), goal properties
+  (G), conditions (C), the design variable changed (D) and outcome (O), each with a result direction and
+  design (then `axes.json`, now `evidence-dimensions.json`; ΔO = f(L, G, C, do(D))). `scripts/code_evidence_axes.py` codes from the study's text,
+  with a verbatim-checked quote per cell; `--contrasts` names each cell's contrast canonically ("spaced vs
+  massed", "longer vs shorter gaps") and flags cells coded the other way round. `scripts/render_evidence_map.py
+  <page> --profile <designer>` renders one table per Design Decision: contrasts as rows, outcomes as columns,
+  each cell keeping status (known / extrapolated / associational / hypothesized), directions, impact bin,
+  experimental count and fit to the designer's learners apart, and **no score or ranking**, so the designer
+  makes the outcome weighting and extrapolation calls. Nothing writes to a wiki page.
+- **Pilot on the 10 Design Decision pages** (226 entries, 528 cells, $0.56): **learner expertise is not reported
+  in 78% of results**, element interactivity in 80%, setting in 60%; only 2 cells are a powered null against
+  34 inconclusive `ns`; the commonest outcome is pooled "general achievement". Against S1–S3's learners, 1, 12
+  and 15 cells are known and about 300 extrapolated, mostly because the axes are unreported. Known limits:
+  verbatim quotes that are not findings, misfiled design variables, fragmented contrast labels, no agreement
+  check yet, not yet tried by a designer.
+- **Three pieces of work now name the same dimensions**: this pilot's axes, #143's comparison record
+  (`methods/impact-evidence-comparison.md`: learner state, assignment, activity and context, objective, outcome
+  instrument, effect construction, horizon) and #144's page affordances (`principle-pattern-authoring.md`:
+  initial state, transition, target, expectation, diagnosis, significance). **They should become one vocabulary**,
+  held once as data like `evidence-scales.json`, before any of them is written into pages at scale.
+
 ### 2026-09-30 (late night) — design decisions on 10 canonical pages: more sound decisions, not yet more of them
 
 - **`## Design Decisions`** (brief: `eval/design-decisions/BRIEF.md`) now sits on elements/feedback, practice,
@@ -2596,6 +2658,7 @@ ld-wiki/
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
   wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
+  evidence-dimensions.json ← the shared dimensions of evidence and design (learner state, goal, outcome, ...)
   evidence.md        ← generated: the state of the wiki's evidence (build_evidence_report.py)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)

@@ -31,3 +31,7 @@ The short version: bypassing review is for changes where an automated check can 
 2. Make sure `scripts/lint.py` passes locally before pushing — `python3 scripts/lint.py`.
 3. For a new or updated page, follow the template for its type in [CLAUDE.md](CLAUDE.md).
 4. See [README.md](README.md) for the `/ingest-article` skill, which automates turning a source article into wiki pages and opening a PR.
+
+## Principle and pattern authoring
+
+Use the [observation and design authoring guide](principle-pattern-authoring.md) and its three exemplar pairs when developing reusable principles and patterns. Preserve source boundaries, learner-valued goals, state uncertainty and explicitly labelled diagnostic proposals. Assess new pages with both a complete brief and a brief missing local learner and target information.

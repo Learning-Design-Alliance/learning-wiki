@@ -2,7 +2,7 @@
 type: pattern
 id: formative-assessment
 title: Formative Assessment
-description: Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.
+description: "A reusable elicit–interpret–act–reobserve policy, qualified by what a response can establish and by whether a relevant next action is available."
 status: review
 generated:
   by: claude/unspecified
@@ -23,78 +23,66 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (11 for, 6 mixed) · 27 studies (11 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 13 of 27 report an effect size · 7 claims rest on one study
 
 ## Description
-Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation. It is a practical pattern for embedding low-stakes checkpoints into a lesson or unit.
 
-## Implications
+A reusable elicit–interpret–act–reobserve policy, qualified by what a response can establish and by whether a relevant next action is available.
 
-### Context
-#### Requirements
-- **Clear success criteria**
-- **Low-stakes evidence collection**
-- **Actionable follow-up for learners or instructors**
-#### Constraints
-- **Can become compliance-oriented if nothing changes**
-- **Weak evidence yields weak instructional decisions**
-#### Grain Size
-- Lesson
-- Unit
+## Principle
 
-### Target Goals
-- Diagnose understanding during instruction.
-- Support timely adjustment and revision.
+This reusable policy instantiates the [formative assessment principle](../principles/formative-assessment.md).
 
-### Target Learners
-- Learners who benefit from frequent feedback and revision opportunities.
+## Learner state, objective and valued goal
 
-### Theory
-#### Supporting
-- [Self-Regulated Learning](../theories/self-regulated-learning.md)
-- [Information Processing Theory](../theories/information-processing-theory.md)
-#### Contradicting / Qualifying
-- Frequent checks do not help if they interrupt meaningful task flow without improving the next step.
+This is a reusable design model. A study result supplies a bounded observation; it does not reveal the state or future outcome of a new learner.
 
-### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Multimodal, culturally grounded formative assessment supports engagement and agency](../claims/multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) [~W] — extends the elicit-interpret-adjust cycle with embodied and creative response modes (e.g., [Listening Palette](../elements/listening-palette.md), [Embodied Choreographic Assessment](../elements/embodied-choreographic-assessment.md)); contextual because the evidence is from informal, culturally-specific settings, not yet a general classroom finding
-- [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]
-- [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S]
-- [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
-- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
-- [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
-- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](../claims/feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) [~M]
-- [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]
-- [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](../claims/feedback-after-multiple-choice-tests-halves-lure-intrusions.md) [~M]
-- [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
-- [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~S]
-- [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~S]
-- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M]
-- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](../claims/peer-assessment-structured-criteria-improve-learning.md) [~M]
-- [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](../claims/tefa-formative-information-changed-lessons.md) [+M]
+Before selecting a configuration, record the target task and representation, task-specific prior experience, access and language constraints, time available, observed responses and the exact help provided. Preserve an unknown rather than replacing it with a generic label such as novice. Ask the learner what they want to accomplish and why it matters. Record that **valued goal** separately from the designer's **learning objective**; agreement is an observation to elicit, not an assumption. If they diverge, negotiate the task or purpose and retain the unresolved difference.
 
-## Design
+Define the intended capability, a representative assessment task and scoring instrument, the criterion chosen for this design, and the assessment horizon. Agree what response would warrant changing support and how to check later independent performance. Criteria are local decisions, not universal mastery thresholds. If the brief only asks for better learning, elicit these fields before selecting an exact dose or forecasting a gain.
 
-### Sequence
-1. Elicit evidence of current understanding.
-2. Interpret the evidence against criteria.
-3. Give feedback or re-teaching.
-4. Let learners revise or retry.
+Keep the record in this form: **response under stated conditions → uncertain state hypotheses → discriminating observation → next activity → response at the stated horizon**. Difficulty, accuracy, speed, confidence and engagement are different observations. None alone proves learning. Record a learner's changed purpose or constraints as well as a changed performance.
 
-### Elements Used
-- [Formative Assessment](../elements/formative-assessment.md)
-- [Feedback](../elements/feedback.md)
-- [Self-Assessment](../elements/self-assessment.md)
+## Observation and adaptation
 
-### Affordances
-- [Formative Assessment](../principles/formative-assessment.md)
-- [Assessment for Learning](../principles/assessment-for-learning.md)
-- [Immediate Feedback](../principles/immediate-feedback.md)
+This diagnostic policy is a **design proposal; synthesis-level effects do not validate its specific branches**. Elicit an unassisted explanation or application aligned with the intended capability, plus the learner's reasoning and confidence. Record the prompt, response mode, language demand, stakes and assistance. Interpret the response using explicit rival hypotheses before selecting feedback; a checkpoint without a usable next action is not this pattern.
+
+| Observation | Rival interpretations and discriminating observation | Proposed next action |
+|---|---|---|
+| An explanation omits an important relation | A conceptual misconception and an expression/language barrier can produce this. Compare two cases varying one relevant quantity, ask for a prediction and justification, and allow a diagram or accessible oral response. | If the relation still fails across response modes, give a targeted contrast and invite revision. If reasoning is coherent in another mode, address expression/access rather than reteach the concept wholesale. |
+| A revised answer becomes correct | Answer copying and revised understanding both fit. Ask for a new unassisted case and justification, then repeat at the intended delay. | If only the feedback example succeeds, retain targeted support and another independent attempt. If the new case succeeds, reduce that support provisionally and check later. |
+| A learner stays silent or guesses | Uncertainty about the concept and evaluative threat/disengagement are different possibilities. Ask privately about purpose and constraints and compare a low-stakes accessible attempt with the original response. | Adjust the conditions when they obstruct expression; negotiate purpose when the task lacks learner significance. Do not interpret participation alone as competence. |
+
+For repeated force-only explanations, ask how acceleration changes when mass varies at the same force, and ask why. Connect the task to a learner-valued aim such as explaining bicycle braking while separating the teacher's conceptual target. Agree a reasoning rubric for the relation, an unassisted new braking example after feedback today and another next week. Those are local design choices; the source does not establish their optimality. If the target, purpose or starting explanation is missing, elicit it before declaring a misconception or choosing feedback.
+
+## Evidence-bounded expectation
+
+Kingston and Nash's corrected synthesis reports a science mean of 0.19 with 95% CI 0.06–0.31 across 17 effects; the erratum supersedes the original 0.09 science estimate: [assessment-for-learning observation and comparison frame](../claims/assessment-for-learning-improves-achievement.md). It also removes an inappropriate comparison between two formative approaches. The synthesis supports a bounded program-level expectation and a need for better research; it cannot forecast this learner's response, distinguish these diagnostic branches or establish next-week transfer.
+
+Before comparing another synthesis or applying an effect-size label, record assignment and baseline comparability, learner/context characteristics, exact treatment and control, outcome alignment and independence, score-range/standardization constraints, horizon and uncertainty. Preserve **unknown** fields. A correction removes one known error; it does not establish that all included estimates are comparable. Report raw magnitude alongside a justified context-sensitive interpretation; do not rank interventions or infer individual probabilities from these pooled values. The formative loop's causal pathway remains a hypothesis to test against subsequent responses.
+
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-09-30 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the abstract available could not confirm the entries
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the abstract available could not confirm the entries
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](../claims/multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) [~W] — not settled: the abstract available could not confirm the entries
+- [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S] — not settled: the abstract available could not confirm the entries
+- [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — not settled: the abstract available could not confirm the entries
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S] — not settled: the abstract available could not confirm the entries
+- [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S] — partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](../claims/feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) [~M] — checked by the judge: all 3 entries pass (full text)
+- [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S] — not yet checked against its sources
+- [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](../claims/feedback-after-multiple-choice-tests-halves-lure-intrusions.md) [~M] — not yet checked against its sources
+- [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M] — not yet checked against its sources
+- [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~S] — not settled: the abstract available could not confirm the entries
+- [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~S] — not settled: the abstract available could not confirm the entries
+- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M] — not settled: the abstract available could not confirm the entries
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](../claims/peer-assessment-structured-criteria-improve-learning.md) [~M] — not yet checked against its sources
+- [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](../claims/tefa-formative-information-changed-lessons.md) [+M] — checked by the judge: all 1 entries pass (full text)
 
 ## Design Decisions
-<!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
+<!-- Restored 2026-10-01 with the claims above; written 2026-09-30 for the earlier version of this page, so its decisions predate the conditional model. Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
      cites the claims that settle it, with markers capped by each claim's recorded evidence. -->
 
 ### How large a gain should a designer plan for, and over what cycle?
@@ -136,13 +124,14 @@ Formative Assessment is a pattern in which instruction repeatedly cycles through
 - **Tested with:** K-12 teachers; one-to-one tutoring studies for contingent support.
 - **Not settled:** whether the benefit comes through teachers adapting instruction or learners acting on feedback, as the assessment-for-learning page notes; the teacher-report evidence is qualitative and self-reported.
 
-## Related Patterns
-- [Mastery Learning](mastery-learning.md)
 
-## Examples
-- Exit-ticket-driven reteaching decisions.
-- Draft-review-revision cycles before final submission.
+## Elements
 
-## Key Sources
-- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7-74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
-- Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
+- [feedback](../elements/feedback.md)
+- [eliciting student thinking](../elements/eliciting-student-thinking.md)
+
+## Source verification and open tests
+
+Kingston & Nash (2011), [2015 publisher erratum](https://onlinelibrary.wiley.com/doi/10.1111/emip.12075). Corrected content-area table checked; full primary-study assignment and measurement details remain unverified in this run.
+
+The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.
