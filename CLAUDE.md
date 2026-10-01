@@ -121,6 +121,22 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format
+
+- **`evidence-dimensions.json`** (root, beside `evidence-scales.json`) defines once the dimensions three works
+  had named separately: the evidence-axes coder's L, G, C, D and O, the impact comparison record
+  (`methods/impact-evidence-comparison.md`, observations' `impact_context`) and the six principle–pattern
+  affordances (`principle-pattern-authoring.md`). Nine dimensions (learner state, goal, valued goal,
+  conditions, design variable, assignment, outcome, effect, diagnosis), each with its controlled values and its
+  name in each work. `scripts/evidence_dimensions.py` is its only reader; `eval/evidence-axes/axes.json` is
+  gone. "randomized" is canonical, "randomised" an alias, so cells coded before still read. `lint.py --type
+  dimensions` fails on a value defined twice, an alias or crosswalk naming a value that does not exist, or a
+  guide affordance no dimension maps (both verified by mutation). Two dimensions have **no evidence side**:
+  the learner's valued goal and diagnosis are design-only, since studies rarely report either.
+- **learning-design-spec reads the conditional-model format** (that repo's decision 0020, finding 0032):
+  `planning-patterns` reads a principle or pattern page by the role of each section, either shape, and takes
+  a page's observation-and-adaptation table into its phases. #144 merged after it, and #140–#142 are closed.
+
 ### 2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays
 
 - **#144 rewrote three principle–pattern pairs** (worked examples, spaced learning, formative assessment) as
@@ -148,7 +164,7 @@ finds out.
 
 - **`eval/evidence-axes/`** codes evidence entries as **cells** on five axes, learners (L), goal properties
   (G), conditions (C), the design variable changed (D) and outcome (O), each with a result direction and
-  design (`axes.json`; ΔO = f(L, G, C, do(D))). `scripts/code_evidence_axes.py` codes from the study's text,
+  design (then `axes.json`, now `evidence-dimensions.json`; ΔO = f(L, G, C, do(D))). `scripts/code_evidence_axes.py` codes from the study's text,
   with a verbatim-checked quote per cell; `--contrasts` names each cell's contrast canonically ("spaced vs
   massed", "longer vs shorter gaps") and flags cells coded the other way round. `scripts/render_evidence_map.py
   <page> --profile <designer>` renders one table per Design Decision: contrasts as rows, outcomes as columns,
@@ -2642,6 +2658,7 @@ ld-wiki/
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
   wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
+  evidence-dimensions.json ← the shared dimensions of evidence and design (learner state, goal, outcome, ...)
   evidence.md        ← generated: the state of the wiki's evidence (build_evidence_report.py)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)

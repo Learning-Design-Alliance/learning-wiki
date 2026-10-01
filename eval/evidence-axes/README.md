@@ -12,8 +12,8 @@ experiments, says what *changing* D does; a correlational or non-random result s
 
 ## Files
 
-- `axes.json` — the closed vocabularies. `?` always means "the study's text available here does not say".
-- `profiles/S1.json` … — a designer's learners, goal and conditions on the same axes, plus the outcomes aimed at.
+- The closed vocabularies are in `evidence-dimensions.json` at the wiki root, shared with the impact comparison record and the principle–pattern affordances, read through `scripts/evidence_dimensions.py`. `?` always means "the study's text available here does not say".
+- `profiles/S1.json` … — a designer's learners, goal and conditions on the same dimensions, plus the outcomes aimed at.
 - `scripts/code_evidence_axes.py` — codes each evidence entry into up to four cells, from the study's own
   text (fetched article, else OpenAlex abstract, else the entry, flagged). Runs go to
   `eval/runs/evidence-axes/<run>.ndjson` (ignored).

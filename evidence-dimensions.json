@@ -1,0 +1,149 @@
+{
+  "version": "1",
+  "about": "The dimensions a learning-design decision and the evidence for it are described on, defined once. Three works named them separately: the evidence-axes coder (eval/evidence-axes/, L G C D O), the comparison record for interpreting an effect (methods/impact-evidence-comparison.md and observations' impact_context) and the principle-pattern affordances (principle-pattern-authoring.md). Each dimension says what it is called in each, so a page section, a coded cell and a benchmark check about the same thing use the same values. Read through scripts/evidence_dimensions.py. '?' means the text available does not say; it is never a default and never read as any other value.",
+  "unknown": ["?", "unknown"],
+  "dimensions": [
+    {
+      "id": "learner-state",
+      "question": "Who is learning, and from what observed starting point?",
+      "names": {"evidence_axes": "L", "comparison_record": "Learner state", "affordance": "initial_state",
+                "page_section": "Learner state, objective and valued goal", "impact_context": ["population_band", "learner_start"]},
+      "fields": {
+        "expertise": {"novice": "little or no prior knowledge of the target", "intermediate": "some prior knowledge",
+                      "advanced": "substantial prior knowledge, or experts", "mixed": "spans levels, or results reported across levels", "?": "not stated"},
+        "age": {"child": "under 12", "adolescent": "12 to 17", "adult": "18 and over, including university students", "mixed": "spans bands", "?": "not stated"},
+        "population_band": {"pre-k-12": "school, pre-kindergarten to grade 12", "postsecondary": "college or university",
+                            "adult-workplace": "adults outside formal education", "mixed": "spans bands", "unknown": "not stated"},
+        "learner_start": "free text: the task-specific starting response or baseline, and whether arms were comparable"
+      },
+      "note": "age is developmental; population_band is the education system Kraft (2020) benchmarks against. A page asks for the observed starting response, not a label such as novice: the label is what a study reports, the response is what a design elicits."
+    },
+    {
+      "id": "goal",
+      "question": "What capability is intended, on what kind of knowledge?",
+      "names": {"evidence_axes": "G", "comparison_record": "Objective and target", "affordance": "target",
+                "page_section": "Learner state, objective and valued goal"},
+      "fields": {
+        "knowledge_type": {"verbal-association": "facts, vocabulary, paired associates, names", "concept": "categories and their features",
+                           "procedure": "a step sequence to carry out", "principle": "rules, causal models, explanations to be understood to be applied",
+                           "complex-skill": "whole-task performance integrating several of the above", "metacognitive-strategy": "planning, monitoring, self-regulation",
+                           "attitude-motivation": "interest, beliefs, self-efficacy as the target", "?": "not stated"},
+        "element_interactivity": {"low": "elements can be learned one at a time", "high": "elements must be processed together", "?": "not stated"}
+      }
+    },
+    {
+      "id": "valued-goal",
+      "question": "What does the learner want to accomplish, and why does it matter to them?",
+      "names": {"affordance": "significance", "page_section": "Learner state, objective and valued goal"},
+      "fields": {"valued_goal": "free text, elicited from the learner and kept apart from the designer's objective; agreement is an observation, not an assumption"},
+      "note": "No coded evidence carries this yet: studies rarely report what learners valued. The axes coder does not code it, and the comparison record has no row for it."
+    },
+    {
+      "id": "conditions",
+      "question": "Under what conditions does the relationship hold?",
+      "names": {"evidence_axes": "C", "comparison_record": "Activity and context", "page_section": "Conditional relationship"},
+      "fields": {
+        "setting": {"lab": "laboratory or one-off experimental session", "classroom": "school or university class with a teacher",
+                    "online-self-paced": "digital, learner-paced, no live instructor", "online-instructor-led": "digital with a live instructor or cohort",
+                    "workplace-clinical": "workplace, clinical or professional training", "mixed": "several settings pooled", "?": "not stated"},
+        "duration": {"single-session": "one sitting", "days-weeks": "several sessions over up to about two months",
+                     "term-plus": "a term, semester or longer", "mixed": "pooled across durations", "?": "not stated"}
+      }
+    },
+    {
+      "id": "design-variable",
+      "question": "What was changed, against what comparison, and what activity follows a response?",
+      "names": {"evidence_axes": "D", "comparison_record": "Activity and context", "affordance": "transition",
+                "page_section": "Observation and adaptation"},
+      "fields": {
+        "variable": {"worked-examples": "studying worked-out solutions", "example-problem-sequencing": "order or pairing of examples and problems",
+                     "fading": "gradually removing worked steps or support", "self-explanation": "prompting learners to explain",
+                     "scaffolding": "support adjusted to the learner, other than fading", "feedback-presence": "feedback versus none",
+                     "feedback-timing": "immediate versus delayed feedback", "feedback-type": "what the feedback says",
+                     "retrieval-practice": "testing or recall practice versus restudy or none", "spacing": "spaced or expanding versus massed schedule",
+                     "interleaving": "mixed versus blocked practice", "practice-amount": "more versus less practice",
+                     "gamification": "game elements", "simulation": "simulation-based practice", "debriefing": "structured reflection after an activity",
+                     "explicit-instruction": "explicit or direct instruction versus discovery or implicit", "guided-discovery": "discovery with guidance versus unguided",
+                     "formative-assessment": "assessment used to adjust teaching or learning", "problem-first": "problem solving before instruction versus after",
+                     "case-comparison": "comparing contrasting cases, solution methods, or correct and erroneous examples",
+                     "prompts": "metacognitive, reflection or explanation prompts other than self-explanation of examples",
+                     "active-learning": "active or peer-discussion formats versus lecture or passive study", "rewards-incentives": "tangible or expected rewards",
+                     "praise": "praise, and what it targets", "autonomy-support": "choice and autonomy-supportive versus controlling conditions",
+                     "media-design": "pictures, seductive details, multimedia presentation choices", "test-format": "format of a practice test",
+                     "mastery-learning": "mastery criteria with corrective loops versus fixed pacing", "technology-tool": "a specific tool or medium",
+                     "learner-difference": "NOT a design choice: a comparison between kinds of learners, kept so it is not lost",
+                     "other": "none of the above; named in the treatment"},
+        "treatment": "free text", "comparison": "free text"
+      }
+    },
+    {
+      "id": "assignment",
+      "question": "How were the conditions assigned, and so what kind of claim can the result support?",
+      "names": {"evidence_axes": "result.design", "comparison_record": "Assignment", "affordance": "expectation",
+                "impact_context": ["assignment", "unit"], "evidence_scales": "kind"},
+      "fields": {
+        "design": {"randomized": "random assignment to conditions", "controlled-nonrandom": "comparison groups not randomly assigned",
+                   "within-subject": "each learner in every condition, counterbalanced", "correlational": "measured association, no manipulation",
+                   "synthesis-experimental": "meta-analysis or systematic review of experiments", "synthesis-mixed": "synthesis mixing experimental and non-experimental studies",
+                   "qualitative": "interviews, observation, case", "argument": "theoretical or narrative, no new data", "?": "not stated"},
+        "assignment": {"randomized": "random assignment", "credible-quasi-experiment": "non-random, with a design that supports a causal reading",
+                       "weak-quasi-experiment": "non-random, without that", "non-experimental": "no manipulation", "unknown": "not stated"},
+        "unit": {"single-study": "one study's estimate", "homogeneous-synthesis": "a pooled estimate over comparable studies",
+                 "heterogeneous-synthesis": "a pooled estimate over unlike studies", "unknown": "not stated"}
+      },
+      "aliases": {"design": {"randomised": "randomized"}},
+      "crosswalk": {"design->assignment": {"randomized": "randomized", "within-subject": "randomized",
+                                           "controlled-nonrandom": ["credible-quasi-experiment", "weak-quasi-experiment"],
+                                           "correlational": "non-experimental", "qualitative": "non-experimental", "argument": "non-experimental"}},
+      "note": "design is the coarse grain the axes coder reads from a text; assignment is the per-effect judgement a benchmark needs, and a non-random design needs a reader to say which of the two quasi-experimental values it is. Randomized and within-subject results, and syntheses of experiments, support do(D); the rest support an association."
+    },
+    {
+      "id": "outcome",
+      "question": "What was measured, with what instrument, and when?",
+      "names": {"evidence_axes": "O", "comparison_record": ["Outcome instrument", "Horizon"], "affordance": "target",
+                "impact_context": ["outcome_class", "measure_alignment", "score_range"]},
+      "fields": {
+        "outcome": {"immediate-performance": "test right after learning", "delayed-retention": "the same material after a day or more",
+                    "near-transfer": "similar problems not practised", "far-transfer": "different context or structure",
+                    "conceptual-understanding": "explanation, principles, concept tests", "skill-performance": "performing the task",
+                    "learning-time": "time or effort to reach a level", "cognitive-load": "rated or measured load",
+                    "motivation-affect": "interest, enjoyment, self-efficacy, anxiety", "persistence": "continued engagement, completion, dropout",
+                    "general-achievement": "a course, unit or standardised test, or a pooled outcome that does not separate retention from transfer",
+                    "assessment-accuracy": "accuracy or validity of self-, peer- or teacher assessment", "other": "named in the detail"},
+        "timing": {"immediate": "same session", "delayed": "a day or more later", "?": "not stated"},
+        "outcome_class": {"standardized-achievement": "a standardized achievement test", "researcher-designed": "a test built for the study",
+                          "course-assessment": "a course's own assessment", "self-report": "a questionnaire", "behavioural": "observed behaviour",
+                          "other": "none of the above", "unknown": "not stated"},
+        "measure_alignment": "free text: how close the instrument is to the taught task",
+        "score_range": "free text: ceiling, floor or range restriction"
+      }
+    },
+    {
+      "id": "effect",
+      "question": "What was found, how big, how certain, and what does it not predict?",
+      "names": {"evidence_axes": "result.direction", "comparison_record": "Effect construction", "affordance": "expectation",
+                "page_section": "Evidence-bounded expectation", "impact_context": ["standardization_denominator"], "evidence_scales": "i"},
+      "fields": {
+        "direction": {"+": "better than the comparison (for time and load, less), significant or with an interval excluding zero",
+                      "-": "worse (for time and load, more)", "0": "no difference AND an equivalence test or adequate power is reported",
+                      "ns": "no significant difference and no power or equivalence reported: inconclusive, never read as no effect",
+                      "mixed": "differs across subgroups or measures", "?": "the text does not show it"},
+        "standardization_denominator": "free text: the SD the effect is scaled by"
+      }
+    },
+    {
+      "id": "diagnosis",
+      "question": "Which explanations of a learner's response are live, and what observation would tell them apart?",
+      "names": {"affordance": "diagnosis", "page_section": "Observation and adaptation"},
+      "fields": {"rival_explanations": "free text", "discriminating_observation": "free text"},
+      "note": "Design-side only: no study record carries it, which is why a page's diagnostic branches are proposals until learner responses test them."
+    }
+  ],
+  "evidence_status": {
+    "known": "at least one randomized, within-subject or synthesis-of-experiments result for these learners, goal and conditions",
+    "extrapolated": "experimental results exist, for learners, goals or conditions that differ on at least one dimension or are not reported",
+    "associational": "only correlational, qualitative or non-random evidence",
+    "hypothesized": "only argument or theory",
+    "unknown": "no result"
+  }
+}

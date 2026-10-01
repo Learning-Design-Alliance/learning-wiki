@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 code_evidence_axes.py — PILOT. Code claim evidence entries as cells on five axes
-(eval/evidence-axes/axes.json): learners L, goal properties G, conditions C, the
+(evidence-dimensions.json, through scripts/evidence_dimensions.py): learners L, goal properties G, conditions C, the
 design variable changed D, and outcome O, each with a result direction and design.
 
 One entry can give several cells (one per contrast x outcome it reports, at most 4).
@@ -33,7 +33,8 @@ import check_load_bearing as clb  # noqa: E402
 import code_kind_rigour as ckr  # noqa: E402
 import okf_lib  # noqa: E402
 
-AXES = json.loads((WIKI_ROOT / "eval" / "evidence-axes" / "axes.json").read_text(encoding="utf-8"))
+import evidence_dimensions as dims  # noqa: E402
+AXES = dims.axes()
 OUTDIR = WIKI_ROOT / "eval" / "runs" / "evidence-axes"
 SYSTEM = "You code research evidence for a learning-design wiki. Reply with JSON only."
 
@@ -98,7 +99,7 @@ def valid(cell: dict) -> list:
                          ("result", ("direction", "design"))):
         for f in fields:
             v = (cell.get(axis) or {}).get(f)
-            if v not in AXES[axis][f]:
+            if dims.normalize(f, v) not in AXES[axis][f]:
                 bad.append(f"{axis}.{f}={v!r}")
     return bad
 
