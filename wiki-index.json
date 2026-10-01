@@ -3,7 +3,7 @@
   "claim": 3147,
   "element": 688,
   "learner-variable": 12,
-  "method": 17,
+  "method": 18,
   "pattern": 284,
   "principle": 520,
   "process": 12,
@@ -34084,6 +34084,14 @@
    "path": "methods/family-interview-based-assessment-task-design.md",
    "status": "draft",
    "title": "Family-Interview-Based Assessment Task Design",
+   "type": "method"
+  },
+  {
+   "description": "Check the learner, contrast, intended outcome, instrument and timing before interpreting or comparing a reported effect size.",
+   "id": "impact-evidence-comparison",
+   "path": "methods/impact-evidence-comparison.md",
+   "status": "draft",
+   "title": "Comparing learning intervention effects",
    "type": "method"
   },
   {
@@ -76907,6 +76915,7 @@
    "cognitive-task-analysis": "cognitive-task-analysis",
    "evidence-centered-design": "evidence-centered-design",
    "family-interview-based-assessment-task-design": "family-interview-based-assessment-task-design",
+   "impact-evidence-comparison": "impact-evidence-comparison",
    "learner-analysis": "learner-analysis",
    "learner-and-context-analysis": "learner-and-context-analysis",
    "learner-personas": "learner-personas",

@@ -919,12 +919,17 @@ def _validate_observation(o, key, i, comp_ids, arm_ids, subject_ids, seen, famil
 # scripts/impact_benchmarks.py, so they are never written twice. Optional, because an
 # observation is complete without a benchmark reading; when present, every field is
 # validated and "unknown" is a legal, honest value.
-IMPACT_POPULATION_BANDS = {"pre-k-12", "postsecondary", "adult-workplace", "mixed", "unknown"}
-IMPACT_OUTCOME_CLASSES = {"standardized-achievement", "researcher-designed", "course-assessment",
-                          "self-report", "behavioural", "other", "unknown"}
-IMPACT_UNITS = {"single-study", "homogeneous-synthesis", "heterogeneous-synthesis", "unknown"}
-IMPACT_ASSIGNMENT = {"randomized", "credible-quasi-experiment", "weak-quasi-experiment",
-                     "non-experimental", "unknown"}
+# The values come from evidence-dimensions.json, the one definition shared with the
+# evidence-axes coder and the principle-pattern affordances.
+try:
+    import evidence_dimensions as _dims  # noqa: E402
+except ModuleNotFoundError:  # imported as scripts.observation_lib, or from scripts/eval
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import evidence_dimensions as _dims  # noqa: E402
+IMPACT_POPULATION_BANDS = set(_dims.values("population_band"))
+IMPACT_OUTCOME_CLASSES = set(_dims.values("outcome_class"))
+IMPACT_UNITS = set(_dims.values("unit"))
+IMPACT_ASSIGNMENT = set(_dims.values("assignment"))
 
 
 def _validate_impact_context(ctx, where, issues):
