@@ -121,6 +121,29 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
+
+- **`eval/evidence-axes/`** codes evidence entries as **cells** on five axes, learners (L), goal properties
+  (G), conditions (C), the design variable changed (D) and outcome (O), each with a result direction and
+  design (`axes.json`; ΔO = f(L, G, C, do(D))). `scripts/code_evidence_axes.py` codes from the study's text,
+  with a verbatim-checked quote per cell; `--contrasts` names each cell's contrast canonically ("spaced vs
+  massed", "longer vs shorter gaps") and flags cells coded the other way round. `scripts/render_evidence_map.py
+  <page> --profile <designer>` renders one table per Design Decision: contrasts as rows, outcomes as columns,
+  each cell keeping status (known / extrapolated / associational / hypothesized), directions, impact bin,
+  experimental count and fit to the designer's learners apart, and **no score or ranking**, so the designer
+  makes the outcome weighting and extrapolation calls. Nothing writes to a wiki page.
+- **Pilot on the 10 Design Decision pages** (226 entries, 528 cells, $0.56): **learner expertise is not reported
+  in 78% of results**, element interactivity in 80%, setting in 60%; only 2 cells are a powered null against
+  34 inconclusive `ns`; the commonest outcome is pooled "general achievement". Against S1–S3's learners, 1, 12
+  and 15 cells are known and about 300 extrapolated, mostly because the axes are unreported. Known limits:
+  verbatim quotes that are not findings, misfiled design variables, fragmented contrast labels, no agreement
+  check yet, not yet tried by a designer.
+- **Three pieces of work now name the same dimensions**: this pilot's axes, #143's comparison record
+  (`methods/impact-evidence-comparison.md`: learner state, assignment, activity and context, objective, outcome
+  instrument, effect construction, horizon) and #144's page affordances (`principle-pattern-authoring.md`:
+  initial state, transition, target, expectation, diagnosis, significance). **They should become one vocabulary**,
+  held once as data like `evidence-scales.json`, before any of them is written into pages at scale.
+
 ### 2026-09-30 (late night) — design decisions on 10 canonical pages: more sound decisions, not yet more of them
 
 - **`## Design Decisions`** (brief: `eval/design-decisions/BRIEF.md`) now sits on elements/feedback, practice,
