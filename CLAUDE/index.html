@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1598,6 +1609,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format" class="md-nav__link">
@@ -2635,6 +2657,33 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions">2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions<a class="headerlink" href="#2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>run_scrape_batch.py</code> now runs <code>code_evidence_axes.py --new --code</code> then <code>--contrasts</code></strong> after kind and
+  rigour: each new evidence entry becomes up to four cells (learners, goal, conditions, the contrast, outcome,
+  direction, design; <code>evidence-dimensions.json</code>), coded from the article the batch fetched, in a call
+  separate from extraction (a study record in the same call cost GLM most of its passes). The store is
+  <code>eval/runs/evidence-axes/cells.ndjson</code> (ignored; the pilot's run <code>a</code>, renamed), read by
+  <code>render_evidence_map.py</code>. Writes no page; about $0.0025 an entry, $3 cap.</li>
+<li><strong>A cell's quote is checked against the whole article</strong>, not the 30,000 characters the coder sees: the
+  entry's own verbatim quote often sits in a Results section past that cut, and the coder reuses it. The cut
+  check had failed 35 of the pilot's 528 cells, now 434 verified.</li>
+<li><strong>Prompt v137 (contrast and direction on every evidence entry) is benchmarked, not adopted; <code>CURRENT</code>
+  is v136.</strong> Same day, same flags (<code>eval/runs/bench-axes-v136</code>, <code>-v137</code>): validation 9/10 both, first-attempt
+  passes 6 and 5, GPT judge 9/10 (4.28) against 10/10 (4.20), $0.0088 against $0.0095 a passed article,
+  output JSON 5–10% longer, all within this benchmark's noise. 65 of 65 entries carry both fields and none
+  trips the validator's warnings. Against GPT coding the same entries from the articles: the two agree on
+  whether an entry has a contrast in 57 of 65 cases and on direction in 43 of the 57 where both name one. GLM
+  wrote <code>0</code> never, and 12 of its 13 <code>ns</code> were <code>ns</code> for the reference too. Most of the 14 disagreements are
+  omnibus or interaction results (<code>+</code> against <code>mixed</code>) or the same finding framed from the other side, not
+  errors. The post-batch coder (above) records the same two fields with learners, goal, conditions and
+  outcome as well, so v137 adds only having them in the extraction itself, for about $0.0007 an article.
+  Adopt it only if they are to be written onto the claim page, which needs an ingest change and a decision
+  on where on the page they go.</li>
+<li><strong>The docs site's search index is one entry per page</strong> (<code>docs_hooks/search_trim.py</code>, #147): 91,222
+  entries and 66 MB (12.8 MB gzipped) became 8,691 and 9.2 MB (1.7 MB). Section-level search is the MCP
+  server's.</li>
+</ul>
 <h3 id="2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format">2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format<a class="headerlink" href="#2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>evidence-dimensions.json</code></strong> (root, beside <code>evidence-scales.json</code>) defines once the dimensions three works
