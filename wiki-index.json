@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3146,
+  "claim": 3147,
   "element": 688,
   "learner-variable": 12,
   "method": 17,
@@ -7031,6 +7031,15 @@
    "path": "claims/egyptian-curriculum-quasi-pedagogical-dominance.md",
    "status": "draft",
    "title": "The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks",
+   "type": "claim"
+  },
+  {
+   "description": "In one simulated undergraduate science lecture, reviewing after eight days rather than one day improved delayed factual scores; the higher-level result depended on analysis choice.",
+   "evidence_strength": "moderate",
+   "id": "eight-day-review-improves-five-week-science-test-versus-one-day-review",
+   "path": "claims/eight-day-review-improves-five-week-science-test-versus-one-day-review.md",
+   "status": "draft",
+   "title": "Eight-day review improved a five-week science test versus one-day review in a simulated university classroom",
    "type": "claim"
   },
   {
@@ -73742,6 +73751,7 @@
    "egalitarian-program-design-supports-culturally-responsive-leadership": "egalitarian-program-design-supports-culturally-responsive-leadership",
    "egocentric-speech-attaches-words-to-actions": "egocentric-speech-attaches-words-to-actions",
    "egyptian-curriculum-quasi-pedagogical-dominance": "egyptian-curriculum-quasi-pedagogical-dominance",
+   "eight-day-review-improves-five-week-science-test-versus-one-day-review": "eight-day-review-improves-five-week-science-test-versus-one-day-review",
    "elaborated-coding-higher-reading-scores": "elaborated-coding-higher-reading-scores",
    "elaborated-discussion-of-narrated-emotions-supports-teacher-learning": "elaborated-discussion-of-narrated-emotions-supports-teacher-learning",
    "elaboration-strategy-affects-posttest-performance": "elaboration-strategy-affects-posttest-performance",

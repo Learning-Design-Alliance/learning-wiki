@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 3130,
+  "claims->claims": 3131,
   "claims->elements": 118,
   "claims->learner-variables": 1,
   "claims->methods": 3,
@@ -19246,6 +19246,11 @@
      },
      {
       "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
       "slug": "text-to-speech",
       "strength": "S"
      },
@@ -31738,6 +31743,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "fostering-communities-of-learning-fcl",
       "strength": "M"
@@ -32037,6 +32047,11 @@
      {
       "polarity": "~",
       "slug": "flipped-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "M"
      },
      {
@@ -37903,6 +37918,9 @@
       "slug": "distributed-practice-limits-l2"
      },
      {
+      "slug": "eight-day-review-improves-five-week-science-test-versus-one-day-review"
+     },
+     {
       "slug": "learners-misjudge-spacing-benefits"
      },
      {
@@ -37947,6 +37965,13 @@
       "polarity": "+",
       "slug": "time-and-continuity",
       "strength": "S"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -40576,6 +40601,15 @@
       "polarity": "+",
       "slug": "realistic-contexts-elicit-subjective-probability",
       "strength": "W"
+     }
+    ]
+   },
+   "eight-day-review-improves-five-week-science-test-versus-one-day-review": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "M"
      }
     ]
    },
@@ -43225,6 +43259,13 @@
       "slug": "provide-guidance",
       "strength": "M"
      },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
      {
       "polarity": "+",
       "slug": "worked-examples",
@@ -47692,6 +47733,13 @@
       "slug": "feedback",
       "strength": "M"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
     ]
    },
    "feedback-answers-three-questions": {
@@ -47783,6 +47831,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -47828,6 +47883,13 @@
       "polarity": "+",
       "slug": "self-testing",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
      }
     ],
     "principles": [
@@ -47942,6 +48004,11 @@
      {
       "polarity": "+",
       "slug": "authentic-assessment",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "S"
      }
     ],
@@ -48167,6 +48234,11 @@
       "polarity": "+",
       "slug": "cooperative-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -55481,6 +55553,11 @@
      },
      {
       "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "foster-growth-mindset",
       "strength": "S"
      },
@@ -55508,6 +55585,11 @@
       "polarity": "~",
       "slug": "retrieval-practice",
       "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "W"
      }
     ],
     "strategies": [
@@ -63627,6 +63709,13 @@
      {
       "polarity": "-",
       "slug": "time-and-continuity",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ],
@@ -71847,6 +71936,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -77954,6 +78050,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -77983,6 +78086,13 @@
      },
      {
       "slug": "rubrics-improve-peer-feedback-quality"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -81989,6 +82099,13 @@
       "slug": "self-testing",
       "strength": "M"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
+     }
     ]
    },
    "pretraining-improves-transfer": {
@@ -82285,6 +82402,13 @@
       "polarity": "~",
       "slug": "self-monitoring",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -82931,6 +83055,11 @@
      {
       "polarity": "+",
       "slug": "explicit-instruction-vocabulary",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "M"
      },
      {
@@ -88301,6 +88430,13 @@
       "strength": "S"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "S"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -90845,6 +90981,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "formative-assessment",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -90893,6 +91036,13 @@
      {
       "polarity": "+",
       "slug": "self-assessment",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
       "strength": "M"
      }
     ],
@@ -96258,6 +96408,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "fostering-communities-of-learning-fcl",
       "strength": "M"
@@ -96566,6 +96721,11 @@
       "polarity": "~",
       "slug": "social-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "spaced-learning",
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -100965,6 +101125,13 @@
       "strength": "S"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "S"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -101096,6 +101263,13 @@
      {
       "polarity": "+",
       "slug": "spaced-repetition",
+      "strength": "S"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
       "strength": "S"
      }
     ],
@@ -101697,6 +101871,9 @@
       "slug": "distributed-practice-improves-retention"
      },
      {
+      "slug": "eight-day-review-improves-five-week-science-test-versus-one-day-review"
+     },
+     {
       "slug": "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules"
      },
      {
@@ -101750,6 +101927,13 @@
       "polarity": "+",
       "slug": "spaced-repetition",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -101819,6 +102003,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -101840,6 +102031,13 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
      {
       "polarity": "+",
       "slug": "spaced-learning",
@@ -109774,6 +109972,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "formative-assessment",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -115261,6 +115466,11 @@
       "polarity": "+",
       "slug": "merrills-first-principles-of-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -115288,6 +115498,11 @@
       "polarity": "~",
       "slug": "pairing-non-examples-with-examples",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -115401,6 +115616,11 @@
     "principles": [
      {
       "slug": "social-interdependence"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ]
    },
@@ -115748,6 +115968,11 @@
      },
      {
       "slug": "social-interdependence"
+     },
+     {
+      "polarity": "~",
+      "slug": "worked-examples",
+      "strength": "M"
      }
     ],
     "processes": [
@@ -116260,6 +116485,11 @@
       "polarity": "+",
       "slug": "cognitive-apprenticeship",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -116310,6 +116540,11 @@
      },
      {
       "slug": "scaffolding-fading"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -116636,6 +116871,13 @@
      {
       "polarity": "+",
       "slug": "cognitive-apprenticeship",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
       "strength": "S"
      }
     ],
@@ -199027,7 +199269,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3146,
+  "claims": 3147,
   "elements": 688,
   "learner-variables": 12,
   "methods": 17,
