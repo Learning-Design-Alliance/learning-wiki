@@ -398,6 +398,32 @@ def _check_cross_links(c: _Checker, contrib: dict, known_slugs: set, list_field:
                                 f"sibling contribution in this output — possible hallucinated link.")
 
 
+
+DIRECTIONS = {"+", "-", "0", "ns", "mixed"}
+POWER_RE = re.compile(r"equivalen|\bpower(ed)?\b|\bTOST\b|Bayes factor|\bBF01\b", re.I)
+
+
+def _check_contrast(c, j: int, ev: dict) -> None:
+    """Prompt v137's `contrast` and `direction`. Checked only when the entry carries
+    either key, so earlier prompt versions are unaffected, and only as warnings:
+    the fields are measured before anything is made to depend on them."""
+    if "contrast" not in ev and "direction" not in ev:
+        return
+    con, d = ev.get("contrast"), ev.get("direction")
+    if con is None:
+        c.check(d is None, f"evidence[{j}].direction", "direction must be null when contrast is null.", "warning")
+        return
+    sides = con if isinstance(con, dict) else {}
+    t, k = str(sides.get("treatment") or "").strip(), str(sides.get("comparison") or "").strip()
+    c.check(bool(t and k) and t.lower() != k.lower(), f"evidence[{j}].contrast",
+            "contrast needs a treatment and a comparison, two different names.", "warning")
+    if c.check(d in DIRECTIONS, f"evidence[{j}].direction",
+               "direction must be one of + - 0 ns mixed when a contrast is named.", "warning") and d == "0":
+        named = f"{ev.get('description') or ''} {ev.get('source_quote') or ''}"
+        c.check(bool(POWER_RE.search(named)), f"evidence[{j}].direction",
+                "direction 0 needs a printed equivalence test or power; a non-significant result is ns.", "warning")
+
+
 def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
     # A warning, not an error: ingest_extractions sets every claim's id to its
     # slug and never reads this field (CLAUDE.md, Page identity), so a malformed
@@ -454,6 +480,7 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
                     severity="warning")
             c.check_source_quote(f"evidence[{j}].source_quote", ev.get("source_quote"))
             c.check_consistency(f"evidence[{j}].source_quote", ev.get("source_quote"))
+            _check_contrast(c, j, ev)
 
     if isinstance(subclaims, list):
         for j, sc in enumerate(subclaims):
