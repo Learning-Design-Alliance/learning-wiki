@@ -21,6 +21,8 @@ These are authoring exemplars with explicit evidence limits. Their proposed diag
 | Diagnosis | Separate at least two explanations of the same response using observations that could discriminate them. |
 | Significance | Ask what the learner values, distinguish it from the designer objective, and use agreement or divergence in design. |
 
+Each affordance is one of the shared dimensions in [`evidence-dimensions.json`](evidence-dimensions.json), where its controlled values live and where it meets the same dimension's name in a coded evidence cell and in an effect's comparison record: initial state is `learner-state`, target is `goal` and `outcome`, transition is `design-variable`, expectation is `effect` and `assignment`, significance is `valued-goal`, and diagnosis is `diagnosis`. Use those values where a page names a learner's expertise, a knowledge type, a setting or an outcome, so a page, an evidence map and a benchmark check about the same thing say it the same way.
+
 A general page need not provide a universal test score or schedule. It must show how the relevant local information will be established. A useful abstention identifies the missing observation or unsupported comparison and its consequence for the decision.
 
 ## Evidence boundaries

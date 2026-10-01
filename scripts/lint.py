@@ -796,6 +796,49 @@ def check_embargo(pages: dict[str, Path]) -> list[dict]:
             for rel in ce.scan_tracked()]
 
 
+def check_evidence_dimensions(pages: dict[str, Path]) -> list[dict]:
+    """evidence-dimensions.json is well formed and still covers the authoring guide.
+
+    It is the one definition of the dimensions three works used to name separately
+    (the evidence-axes coder, the impact comparison record, the principle-pattern
+    affordances). A value defined twice, an alias or crosswalk pointing at a value that
+    does not exist, or an affordance in principle-pattern-authoring.md that no
+    dimension maps, is how they would start to drift apart again."""
+    import re as _re
+    import evidence_dimensions as ed
+    issues, f = [], "evidence-dimensions.json"
+    try:
+        data = ed.load()
+    except Exception as e:  # noqa: BLE001 — a malformed file is the finding
+        return [{"type": "evidence_dimensions", "file": f, "detail": str(e)}]
+    for d in data["dimensions"]:
+        for key in ("id", "question", "names", "fields"):
+            if not d.get(key):
+                issues.append({"type": "evidence_dimensions", "file": f, "detail": f"{d.get('id', '?')}: missing {key}"})
+        for field, alias in (d.get("aliases") or {}).items():
+            for a, canon in alias.items():
+                if canon not in (d["fields"].get(field) or {}):
+                    issues.append({"type": "evidence_dimensions", "file": f,
+                                   "detail": f"{d['id']}: alias {a!r} points at {canon!r}, not a value of {field}"})
+        for pair, mapping in (d.get("crosswalk") or {}).items():
+            src, dst = pair.split("->")
+            for k, v in mapping.items():
+                for t in (v if isinstance(v, list) else [v]):
+                    if k not in d["fields"].get(src, {}) or t not in d["fields"].get(dst, {}):
+                        issues.append({"type": "evidence_dimensions", "file": f,
+                                       "detail": f"{d['id']}: crosswalk {pair} {k!r} -> {t!r} names a value that does not exist"})
+    guide = WIKI_ROOT / "principle-pattern-authoring.md"
+    if guide.exists():
+        named = {_re.sub(r"[^a-z]+", "_", m.lower()).strip("_")
+                 for m in _re.findall(r"^\| ([A-Z][a-z]+(?: [a-z]+)?) \|", guide.read_text(encoding="utf-8"), _re.M)}
+        named.discard("affordance")
+        mapped = {d["names"].get("affordance") for d in data["dimensions"]}
+        for a in sorted(named - mapped):
+            issues.append({"type": "evidence_dimensions", "file": f,
+                           "detail": f"the authoring guide's affordance {a!r} is mapped by no dimension"})
+    return issues
+
+
 CHECKS = {
     "broken_links":  check_broken_links,
     "embargo":       check_embargo,
@@ -815,6 +858,7 @@ CHECKS = {
     "nav_coverage":  check_nav_coverage,
     "observations":  check_observations,
     "research":      check_research,
+    "dimensions":    check_evidence_dimensions,
 }
 
 

@@ -10,7 +10,7 @@ outcomes; a trade-off stays visible as + in one column and - in another.
     python3 scripts/render_evidence_map.py elements/worked-examples [--profile P.json]
 
 A profile names the designer's learners, goal and conditions on the same axes
-(eval/evidence-axes/axes.json), plus the outcomes they are aiming at, e.g.
+(evidence-dimensions.json), plus the outcomes they are aiming at, e.g.
     {"name": "S1", "L": {"expertise": "novice", "age": "adult"},
      "G": {"knowledge_type": ["verbal-association", "complex-skill"]},
      "C": {"setting": "online-self-paced", "duration": "days-weeks"},
@@ -26,7 +26,9 @@ from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 RUNS = WIKI_ROOT / "eval" / "runs" / "evidence-axes"
-AXES = json.loads((WIKI_ROOT / "eval" / "evidence-axes" / "axes.json").read_text(encoding="utf-8"))
+sys.path.insert(0, str(WIKI_ROOT / "scripts"))
+import evidence_dimensions as dims  # noqa: E402
+AXES = dims.axes()
 
 COLUMNS = [  # outcome groups, in the order a designer usually weighs them
     ("Retention", ("delayed-retention",)),
@@ -38,14 +40,14 @@ COLUMNS = [  # outcome groups, in the order a designer usually weighs them
     ("Motivation / persistence", ("motivation-affect", "persistence")),
     ("Other", ("assessment-accuracy", "other", "?")),
 ]
-EXPERIMENTAL = {"randomised", "within-subject", "synthesis-experimental", "randomised?", "synthesis-experimental?"}
+EXPERIMENTAL = {"randomized", "within-subject", "synthesis-experimental", "randomized?", "synthesis-experimental?"}
 ASSOC = {"controlled-nonrandom", "correlational", "synthesis-mixed", "qualitative"}
 ARGUMENT = {"argument"}
 MATCH_AXES = (("L", "expertise"), ("L", "age"), ("G", "knowledge_type"), ("C", "setting"))
 
 
 KIND_DESIGN = {  # the entry's recorded kind, used only where the coder could not read the design
-    "causal": "randomised?", "quant-synthesis": "synthesis-experimental?", "associational": "correlational",
+    "causal": "randomized?", "quant-synthesis": "synthesis-experimental?", "associational": "correlational",
     "qualitative": "qualitative", "review": "argument", "theoretical": "argument", "design": "argument"}
 
 
@@ -79,6 +81,8 @@ def load_cells(run="a"):
                 if r["claim"] not in kinds:
                     kinds[r["claim"]] = entry_kinds(r["claim"])
                 res = c.setdefault("result", {})
+                if res.get("design"):
+                    res["design"] = dims.normalize("design", res["design"])
                 if res.get("design") in (None, "?"):
                     res["design"] = KIND_DESIGN.get(kinds[r["claim"]].get(r["entry"]), "?")
                 d = c.get("D") or {}
