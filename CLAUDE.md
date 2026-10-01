@@ -121,6 +121,21 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions
+
+- **`run_scrape_batch.py` now runs `code_evidence_axes.py --new --code` then `--contrasts`** after kind and
+  rigour: each new evidence entry becomes up to four cells (learners, goal, conditions, the contrast, outcome,
+  direction, design; `evidence-dimensions.json`), coded from the article the batch fetched, in a call
+  separate from extraction (a study record in the same call cost GLM most of its passes). The store is
+  `eval/runs/evidence-axes/cells.ndjson` (ignored; the pilot's run `a`, renamed), read by
+  `render_evidence_map.py`. Writes no page; about $0.0025 an entry, $3 cap.
+- **A cell's quote is checked against the whole article**, not the 30,000 characters the coder sees: the
+  entry's own verbatim quote often sits in a Results section past that cut, and the coder reuses it. The cut
+  check had failed 35 of the pilot's 528 cells, now 434 verified.
+- **The docs site's search index is one entry per page** (`docs_hooks/search_trim.py`, #147): 91,222
+  entries and 66 MB (12.8 MB gzipped) became 8,691 and 9.2 MB (1.7 MB). Section-level search is the MCP
+  server's.
+
 ### 2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format
 
 - **`evidence-dimensions.json`** (root, beside `evidence-scales.json`) defines once the dimensions three works

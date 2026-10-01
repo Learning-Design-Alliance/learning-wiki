@@ -13,10 +13,14 @@ as known. Nothing here writes to a wiki page.
 
     python3 scripts/code_evidence_axes.py --pages elements/worked-examples ... --check
     python3 scripts/code_evidence_axes.py --pages ... --code [--run b] [--budget 1]
+    python3 scripts/code_evidence_axes.py --new --code       # claims added in the working tree (the batch)
+    python3 scripts/code_evidence_axes.py --contrasts [--run cells]
 
-Cells go to eval/runs/evidence-axes/<run>.ndjson, keyed like code_kind_rigour.py, so
+Cells go to eval/runs/evidence-axes/<run>.ndjson (default run "cells", the store the
+batch adds to and render_evidence_map.py reads), keyed like code_kind_rigour.py, so
 an unchanged entry is not paid for twice within a run. --run b codes the same entries
-again independently, for the agreement check.
+again independently, for the agreement check. --contrasts names each new cell's
+contrast; only contrasts not yet named are sent.
 """
 import argparse
 import concurrent.futures
@@ -112,15 +116,18 @@ def code_one(job, api_key, model, run):
         text = clb.openalex_abstract(source[4:])
         if not text:
             basis = "entry"
+    full = text
     if text and len(text) > 30000:
         text = text[:30000] + "\n[TRUNCATED]"
-    gen = oc.generate(model, SYSTEM, prompt_for(block, basis, source, text if basis != "entry" else None),
-                      api_key, max_tokens=4000)
+    gen = _retry(lambda: oc.generate(model, SYSTEM, prompt_for(block, basis, source, text if basis != "entry" else None),
+                                     api_key, max_tokens=4000))
     d = extract_json(gen.raw_text) or {}
     cells = []
     for c in (d.get("cells") or [])[:4]:
         q = c.get("quote") or ""
-        c["quote_ok"] = bool(text) and len(norm(q)) >= 16 and norm(q) in norm(text)
+        # checked against the whole article: the entry carries its own verbatim quote,
+        # often from a Results section past the truncation, and the coder may reuse it
+        c["quote_ok"] = bool(full) and len(norm(q)) >= 16 and norm(q) in norm(full)
         c["invalid"] = valid(c)
         cells.append(c)
     return {"key": ckr.key(r["claim"], anchor, block), "claim": r["claim"], "entry": anchor, "run": run,
@@ -130,15 +137,22 @@ def code_one(job, api_key, model, run):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    ap.add_argument("--pages", nargs="+", required=True)
+    src = ap.add_mutually_exclusive_group(required=True)
+    src.add_argument("--pages", nargs="+", help="the claims these pages' Design Decisions cite")
+    src.add_argument("--new", action="store_true", help="claim pages added in the working tree")
+    src.add_argument("--claims", nargs="+", help="these claim slugs")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--code", action="store_true")
-    ap.add_argument("--run", default="a")
+    ap.add_argument("--run", default="cells")
     ap.add_argument("--model", default="openai/gpt-5.6-luna")
     ap.add_argument("--budget", type=float, default=1.0)
     ap.add_argument("--workers", type=int, default=8)
     a = ap.parse_args()
-    claims = decision_claims(a.pages)
+    if a.new:
+        from link_claims import new_claims
+        claims = set(new_claims())
+    else:
+        claims = set(a.claims) if a.claims else decision_claims(a.pages)
     out = OUTDIR / f"{a.run}.ndjson"
     have = set()
     if out.exists():
@@ -183,7 +197,7 @@ def _retry(call, tries=6):
             time.sleep(10 * (i + 1))
 
 
-def assign_contrasts(run="a", model="openai/gpt-5.6-luna"):
+def assign_contrasts(run="cells", model="openai/gpt-5.6-luna"):
     """Name each cell's contrast canonically, per design variable, so a map row is one
     contrast ("spaced vs massed") rather than a variable ("spacing"), and flag cells coded
     the other way round (treatment and comparison swapped) so their direction can be read
@@ -229,7 +243,11 @@ Reply: {{"items": [{{"n": 1, "label": "A vs B", "treatment_is_a": true}}]}}"""
 
 
 if __name__ == "__main__" and "--contrasts" in sys.argv:
-    assign_contrasts()
+    _run = sys.argv[sys.argv.index("--run") + 1] if "--run" in sys.argv else "cells"
+    if (OUTDIR / f"{_run}.ndjson").exists():
+        assign_contrasts(_run)
+    else:
+        print(f"no cells in run {_run}; nothing to name")
     sys.exit(0)
 
 

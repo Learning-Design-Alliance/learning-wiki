@@ -398,6 +398,17 @@ def run(args) -> None:
         print(f"\n=== coding evidence kind and rigour for new entries ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/code_kind_rigour.py", "--code", "--apply",
                            "--new", "--budget", "2"], SCRAPE_CONSOLE_LOG_PATH)
+        # The dimensions each new entry reports (learners, goal, conditions, the
+        # contrast, outcome, direction, design; evidence-dimensions.json), coded
+        # from the same article as cells, then each new contrast named. A separate
+        # call, not the extraction prompt: asking GLM for structure in the same call
+        # cost it most of its passes. Writes no page; render_evidence_map.py reads
+        # eval/runs/evidence-axes/cells.ndjson. About $0.0025 an entry.
+        print(f"\n=== coding the dimensions of new evidence entries ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/code_evidence_axes.py", "--new", "--code",
+                           "--budget", "3"], SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/code_evidence_axes.py", "--contrasts"],
+                          SCRAPE_CONSOLE_LOG_PATH)
         for step in (["scripts/sync_evidence_codes.py", "--apply"],
                      ["scripts/add_evidence_summary.py", "--apply"]):
             _run_chained_step([sys.executable, "-u", *step], SCRAPE_CONSOLE_LOG_PATH)
