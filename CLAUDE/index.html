@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1565,6 +1576,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them" class="md-nav__link">
@@ -2569,6 +2591,29 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners">2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners<a class="headerlink" href="#2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>eval/evidence-axes/</code></strong> codes evidence entries as <strong>cells</strong> on five axes, learners (L), goal properties
+  (G), conditions (C), the design variable changed (D) and outcome (O), each with a result direction and
+  design (<code>axes.json</code>; ΔO = f(L, G, C, do(D))). <code>scripts/code_evidence_axes.py</code> codes from the study's text,
+  with a verbatim-checked quote per cell; <code>--contrasts</code> names each cell's contrast canonically ("spaced vs
+  massed", "longer vs shorter gaps") and flags cells coded the other way round. <code>scripts/render_evidence_map.py
+  &lt;page&gt; --profile &lt;designer&gt;</code> renders one table per Design Decision: contrasts as rows, outcomes as columns,
+  each cell keeping status (known / extrapolated / associational / hypothesized), directions, impact bin,
+  experimental count and fit to the designer's learners apart, and <strong>no score or ranking</strong>, so the designer
+  makes the outcome weighting and extrapolation calls. Nothing writes to a wiki page.</li>
+<li><strong>Pilot on the 10 Design Decision pages</strong> (226 entries, 528 cells, $0.56): <strong>learner expertise is not reported
+  in 78% of results</strong>, element interactivity in 80%, setting in 60%; only 2 cells are a powered null against
+  34 inconclusive <code>ns</code>; the commonest outcome is pooled "general achievement". Against S1–S3's learners, 1, 12
+  and 15 cells are known and about 300 extrapolated, mostly because the axes are unreported. Known limits:
+  verbatim quotes that are not findings, misfiled design variables, fragmented contrast labels, no agreement
+  check yet, not yet tried by a designer.</li>
+<li><strong>Three pieces of work now name the same dimensions</strong>: this pilot's axes, #143's comparison record
+  (<code>methods/impact-evidence-comparison.md</code>: learner state, assignment, activity and context, objective, outcome
+  instrument, effect construction, horizon) and #144's page affordances (<code>principle-pattern-authoring.md</code>:
+  initial state, transition, target, expectation, diagnosis, significance). <strong>They should become one vocabulary</strong>,
+  held once as data like <code>evidence-scales.json</code>, before any of them is written into pages at scale.</li>
+</ul>
 <h3 id="2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them">2026-09-30 (late night) — design decisions on 10 canonical pages: more sound decisions, not yet more of them<a class="headerlink" href="#2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>## Design Decisions</code></strong> (brief: <code>eval/design-decisions/BRIEF.md</code>) now sits on elements/feedback, practice,
