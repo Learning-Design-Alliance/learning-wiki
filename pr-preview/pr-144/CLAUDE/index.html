@@ -661,6 +661,28 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1565,6 +1587,28 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them" class="md-nav__link">
@@ -2569,6 +2613,53 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays">2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays<a class="headerlink" href="#2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>#144 rewrote three principle–pattern pairs</strong> (worked examples, spaced learning, formative assessment) as
+  conditional models (<code>principle-pattern-authoring.md</code>): observed response → uncertain state hypotheses →
+  discriminating observation → next activity → response at a stated horizon, with the learner's valued goal kept
+  apart from the designer's objective. Its own audits were the author scoring known cases. <strong>An independent test</strong>
+  (scratch only, not committed, so the briefs stay unseen): 12 new briefs, 4 per topic, half complete and half
+  sparse; Kimi K3 answered each from one version's two pages only; Gemini 3.8 Flash and DeepSeek V4 Pro graded
+  blind against one shared reference (every claim either version cites), on #144's six affordances plus
+  accuracy, decision value and brief fit, and in pairs, both orders. About $5.6 in all.</li>
+<li><strong>Result.</strong> Affordances 7.0 → 12.0 of 12 (by construction, the rubric is the format's own); accuracy 3.71 →
+  4.83; decision value 4.21 → 4.88; blind pairs <strong>38–10 for the new format</strong>, unanimous on worked examples and
+  spacing. But it <strong>lost formative assessment 7–9</strong>, the page the rewrite cut from 17 claims to 1: graders called
+  its answers abstract, and the old ones concrete and better evidenced.</li>
+<li><strong>So the removed claims are restored</strong> (maintainer's decision), below each page's own evidence, markers capped,
+  each labelled with how far its sources have been checked, and the formative-assessment pattern's Design
+  Decisions are back. Re-tested as a third arm: it <strong>beats the old pages 35–13 and wins formative assessment
+  9–7</strong>, ties the pruned version 25–23, and lifts brief fit 4.12 → 4.50. Restoring evidence did not dilute the model.</li>
+<li><strong>The format is the direction, and learning-design-spec must be updated to read it</strong> (maintainer's rule: adopt
+  it if it serves the theoretical goals better). These pages no longer carry <code>### Target Learners</code>,
+  <code>### Target Learning Goals</code> or <code>#### Requirements</code>/<code>#### Constraints</code>, which the spec reads. Caveats: one
+  answerer, two graders, 12 briefs; on worked examples part of the gain is #144's source corrections, not format.
+  The cleanest format test, formative assessment, is the narrowest win.</li>
+</ul>
+<h3 id="2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners">2026-10-01 — evidence axes, a pilot: what the evidence can say for a given designer's learners<a class="headerlink" href="#2026-10-01-evidence-axes-a-pilot-what-the-evidence-can-say-for-a-given-designers-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>eval/evidence-axes/</code></strong> codes evidence entries as <strong>cells</strong> on five axes, learners (L), goal properties
+  (G), conditions (C), the design variable changed (D) and outcome (O), each with a result direction and
+  design (<code>axes.json</code>; ΔO = f(L, G, C, do(D))). <code>scripts/code_evidence_axes.py</code> codes from the study's text,
+  with a verbatim-checked quote per cell; <code>--contrasts</code> names each cell's contrast canonically ("spaced vs
+  massed", "longer vs shorter gaps") and flags cells coded the other way round. <code>scripts/render_evidence_map.py
+  &lt;page&gt; --profile &lt;designer&gt;</code> renders one table per Design Decision: contrasts as rows, outcomes as columns,
+  each cell keeping status (known / extrapolated / associational / hypothesized), directions, impact bin,
+  experimental count and fit to the designer's learners apart, and <strong>no score or ranking</strong>, so the designer
+  makes the outcome weighting and extrapolation calls. Nothing writes to a wiki page.</li>
+<li><strong>Pilot on the 10 Design Decision pages</strong> (226 entries, 528 cells, $0.56): <strong>learner expertise is not reported
+  in 78% of results</strong>, element interactivity in 80%, setting in 60%; only 2 cells are a powered null against
+  34 inconclusive <code>ns</code>; the commonest outcome is pooled "general achievement". Against S1–S3's learners, 1, 12
+  and 15 cells are known and about 300 extrapolated, mostly because the axes are unreported. Known limits:
+  verbatim quotes that are not findings, misfiled design variables, fragmented contrast labels, no agreement
+  check yet, not yet tried by a designer.</li>
+<li><strong>Three pieces of work now name the same dimensions</strong>: this pilot's axes, #143's comparison record
+  (<code>methods/impact-evidence-comparison.md</code>: learner state, assignment, activity and context, objective, outcome
+  instrument, effect construction, horizon) and #144's page affordances (<code>principle-pattern-authoring.md</code>:
+  initial state, transition, target, expectation, diagnosis, significance). <strong>They should become one vocabulary</strong>,
+  held once as data like <code>evidence-scales.json</code>, before any of them is written into pages at scale.</li>
+</ul>
 <h3 id="2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them">2026-09-30 (late night) — design decisions on 10 canonical pages: more sound decisions, not yet more of them<a class="headerlink" href="#2026-09-30-late-night-design-decisions-on-10-canonical-pages-more-sound-decisions-not-yet-more-of-them" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>## Design Decisions</code></strong> (brief: <code>eval/design-decisions/BRIEF.md</code>) now sits on elements/feedback, practice,
