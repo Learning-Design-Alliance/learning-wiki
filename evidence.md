@@ -138,7 +138,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [patterns](patterns/index.md) | 284 | 231 | 1 | 0 |
 | [strategies](strategies/index.md) | 3,127 | 2,320 | 6 | 0 |
 | [processes](processes/index.md) | 12 | 11 | 6 | 0 |
-| [methods](methods/index.md) | 17 | 11 | 3 | 0 |
+| [methods](methods/index.md) | 18 | 11 | 3 | 0 |
 | [theories](theories/index.md) | 883 | 708 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
 

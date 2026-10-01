@@ -87,7 +87,7 @@
   },
   "impact": {
     "field": "i",
-    "means": "How big the effect is, in the study's own terms.",
+    "means": "A legacy bin for a reported statistic, in the study's own terms. These Cohen-like thresholds do not measure educational importance or forecast an individual learner's gain; compare effects only after checking the population and starting state, assignment and comparator, intended outcome and measure alignment, score range and denominator, follow-up time, and uncertainty. For causal K-12 interventions on standardized achievement tests, Kraft (2020) offers a different, empirical reference distribution; do not apply it to every outcome or silently recode these bins. See https://doi.org/10.3102/0013189X20912798.",
     "ordinal": "higher is larger",
     "tiers": [
       {
@@ -112,6 +112,19 @@
         "history": "Until 2026-09-24 this tier read 'negligible or unclear', and the extraction prompt wrote i0 whenever an article printed no effect size. So an i0 written before then may mean either; read the entry's own text. An unreported effect size is now i? (see unknown)."
       }
     ]
+  },
+  "impact_reference": {
+    "kraft_2020": {
+      "scope": "Source-verified causal pre-K-12 education intervention effects on standardized achievement measures; a synthesis must establish this for the pooled effect, not merely contain some eligible studies",
+      "metric": "Signed standardized mean difference (d, g, or SMD)",
+      "tiers": [
+        {"label": "small", "lower_inclusive": 0, "upper_exclusive": 0.05},
+        {"label": "medium", "lower_inclusive": 0.05, "upper_exclusive": 0.20},
+        {"label": "large", "lower_inclusive": 0.20}
+      ],
+      "source": "https://doi.org/10.3102/0013189X20912798",
+      "rule": "Classify only after source-verified impact_context fields meet the eligibility gate in scripts/impact_benchmarks.py; keep the legacy i code distinct. Negative effects require a separate direction statement."
+    }
   },
   "sample": {
     "field": "n",

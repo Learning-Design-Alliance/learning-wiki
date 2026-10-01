@@ -906,8 +906,48 @@ def _validate_observation(o, key, i, comp_ids, arm_ids, subject_ids, seen, famil
         _err(issues, where, "observability.effect_size says 'unreported' but result.estimate "
                             "carries an effect estimate")
 
+    _validate_impact_context(o.get("impact_context"), where, issues)
+
     _str(issues, where, o.get("source_quote"), "source_quote", required=True)
     return issues
+
+
+# What a reported effect needs, beyond the record, before it can be read against an
+# external benchmark such as Kraft (2020). Only fields the record does not already
+# carry live here: assignment, metric, value, interval, horizon, comparator and
+# objective are derived from study.design, result, time, comparisons and outcome by
+# scripts/impact_benchmarks.py, so they are never written twice. Optional, because an
+# observation is complete without a benchmark reading; when present, every field is
+# validated and "unknown" is a legal, honest value.
+# The values come from evidence-dimensions.json, the one definition shared with the
+# evidence-axes coder and the principle-pattern affordances.
+try:
+    import evidence_dimensions as _dims  # noqa: E402
+except ModuleNotFoundError:  # imported as scripts.observation_lib, or from scripts/eval
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import evidence_dimensions as _dims  # noqa: E402
+IMPACT_POPULATION_BANDS = set(_dims.values("population_band"))
+IMPACT_OUTCOME_CLASSES = set(_dims.values("outcome_class"))
+IMPACT_UNITS = set(_dims.values("unit"))
+IMPACT_ASSIGNMENT = set(_dims.values("assignment"))
+
+
+def _validate_impact_context(ctx, where, issues):
+    if ctx is None:
+        return
+    w = f"{where}.impact_context"
+    if not isinstance(ctx, dict):
+        _err(issues, w, "must be a mapping")
+        return
+    if not isinstance(ctx.get("verified_against_source"), bool):
+        _err(issues, w, "verified_against_source is required and must be true or false: a context "
+                        "nobody checked against the source is not one a benchmark may read")
+    _enum(issues, w, ctx.get("population_band"), IMPACT_POPULATION_BANDS, "population_band", required=True)
+    _enum(issues, w, ctx.get("outcome_class"), IMPACT_OUTCOME_CLASSES, "outcome_class", required=True)
+    _enum(issues, w, ctx.get("unit"), IMPACT_UNITS, "unit", required=True)
+    _enum(issues, w, ctx.get("assignment"), IMPACT_ASSIGNMENT, "assignment")
+    for f in ("learner_start", "measure_alignment", "score_range", "standardization_denominator"):
+        _str(issues, w, ctx.get(f), f, required=True)
 
 
 def _validate_result(o, where, family) -> list:

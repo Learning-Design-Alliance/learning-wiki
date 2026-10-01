@@ -129,7 +129,32 @@ def _first_sentence(text: str) -> str:
     return head if head.endswith(".") else head + "."
 
 
-def _evidence_legend() -> str:
+_IMPACT = None
+
+
+def _impact_contexts() -> dict:
+    """claim slug -> (standardized effects recorded in observations/, of which source-verified
+    impact_context). Read once per build; per-effect context lives on the observation."""
+    global _IMPACT
+    if _IMPACT is None:
+        import yaml
+        _IMPACT = {}
+        root = Path(__file__).resolve().parent.parent / "observations"
+        for path in root.glob("*.yaml"):
+            try:
+                rec = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+            except Exception:  # noqa: BLE001 — a malformed record is lint's job, not the docs build's
+                continue
+            obs = [o for o in rec.get("observations") or [] if (o.get("result") or {}).get("measure_type")
+                   in ("cohens_d", "hedges_g", "standardized_mean_difference")]
+            ok = sum(1 for o in obs if (o.get("impact_context") or {}).get("verified_against_source") is True)
+            for a in rec.get("appears_in") or []:
+                e, c = _IMPACT.get(a.get("claim"), (0, 0))
+                _IMPACT[a.get("claim")] = (e + len(obs), c + ok)
+    return _IMPACT
+
+
+def _evidence_legend(meta=None) -> str:
     """A collapsed key to `q3 i2`, placed where the bare codes appear.
 
     An evidence entry spells its own codes out — `q3 · quasi-experimental
@@ -154,6 +179,12 @@ def _evidence_legend() -> str:
     r_rows = [f"    | `{code}` | {meaning} |" for code, meaning in RIGOUR_TIERS]
     r_means = _first_sentence(SCALES["rigour"]["means"])
     unknown = SCALES["unknown"]["means"]
+    effects, checked = _impact_contexts().get((meta or {}).get("id"), (0, 0))
+    context_status = (f"    **This claim:** {checked} of {effects} standardized effects recorded in "
+                      "`observations/` have source-verified comparison context. "
+                      "A recorded context still needs the benchmark eligibility check."
+                      if effects else "    **This claim:** no standardized effect is recorded in "
+                      "`observations/` for it yet, so no benchmark reading is possible.")
     return "\n".join([
         "", '??? info "Reading the evidence codes"', "",
         "    The letters are abbreviations:", "",
@@ -173,6 +204,17 @@ def _evidence_legend() -> str:
         "    | Code | Criteria |", "    |---|---|", *q_rows, "",
         "    **`i` — impact magnitude**", "",
         "    | Code | Rough effect size |", "    |---|---|", *i_rows, "",
+        "    These legacy bins describe a reported statistic, not educational importance.",
+        "    Compare effects only with the learner population, assignment and comparator,",
+        "    outcome measure and its alignment, score range, follow-up, and uncertainty in view.",
+        "    [Kraft's education benchmarks](https://doi.org/10.3102/0013189X20912798)",
+        "    concern causal K–12 interventions measured on standardized achievement tests;",
+        "    they do not automatically replace these bins for other outcomes.", "",
+        "    A Kraft tier requires source-verified learner, design and measurement context",
+        "    for the particular effect, recorded as `impact_context` on its `observations/` record. Where none is recorded, its eligibility",
+        "    and comparability remain unreviewed;",
+        "    see [Comparing learning intervention effects](../methods/impact-evidence-comparison.md).", "",
+        context_status, "",
         f"    A `?` in place of a digit — `q?`, `i?` — {unknown[0].lower()}{unknown[1:]}", "",
         "    Strength here describes the *research*. Whether anyone has checked that this",
         "    page reports it faithfully is a separate axis — see `trust` in the page",
@@ -192,7 +234,7 @@ def on_page_markdown(markdown: str, page, config, files) -> str:
     # explanation after every use of the thing it explains.
     if meta.get("type") == "claim" and "## Subclaims" in markdown:
         head, sep, tail = markdown.partition("## Subclaims")
-        markdown = head + sep + "\n" + _evidence_legend() + tail
+        markdown = head + sep + "\n" + _evidence_legend(meta) + tail
 
     rows = _rows(meta)
     lines = ["", "", '??? info "Page metadata"', "", "    | Field | Value |",

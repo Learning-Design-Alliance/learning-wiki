@@ -484,6 +484,23 @@ observations:                # required, non-empty
       population_detail: | implementation_detail: | outcome_timing: | effect_size:
                              # observed | partial | unreported
     observability_notes:
+    impact_context:          # OPTIONAL — what a standardized effect needs, beyond the
+                             # record, before an external benchmark (Kraft 2020) may
+                             # read it. Holds ONLY what the record lacks; assignment,
+                             # metric, value, interval, horizon, comparator and
+                             # objective are derived by scripts/impact_benchmarks.py.
+      verified_against_source:   # REQUIRED true|false — checked against the source?
+      population_band:       # required — pre-k-12 | postsecondary | adult-workplace
+                             # | mixed | unknown
+      outcome_class:         # required — standardized-achievement | researcher-designed
+                             # | course-assessment | self-report | behavioural | other | unknown
+      unit:                  # required — single-study | homogeneous-synthesis
+                             # | heterogeneous-synthesis | unknown
+      assignment:            # only when the design family does not settle it:
+                             # randomized | credible-quasi-experiment
+                             # | weak-quasi-experiment | non-experimental | unknown
+      learner_start: | measure_alignment: | score_range: | standardization_denominator:
+                             # all required, free text; "unknown" is a legal answer
     source_quote:            # required
     source_location:
 
