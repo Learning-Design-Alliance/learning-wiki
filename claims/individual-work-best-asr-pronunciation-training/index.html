@@ -743,7 +743,7 @@
 <p>The letters are abbreviations:</p>
 <ul>
 <li><strong><code>q</code> — design tier.</strong> Where the study sits on the causal-design ladder: 4 a pre-registered trial or strong meta-analysis, 1 a case study, qualitative study or argument.</li>
-<li><strong><code>i</code> — impact.</strong> How big the effect is, in the study's own terms.</li>
+<li><strong><code>i</code> — impact.</strong> A legacy bin for a reported statistic, in the study's own terms.</li>
 <li><strong><code>n</code> — sample.</strong> Sample size, free text — often a description ('large (multiple course sections)') rather than a number, because a meta-analysis and a classroom study do not count the same thing.</li>
 <li><strong>kind and <code>r</code> — rigour.</strong> How well the study does what its kind can do, judged against that kind's own standard and never another's (criteria in eval/kind-rigor/RUBRIC.md).</li>
 </ul>
@@ -867,6 +867,17 @@ code and adds <code>n=</code> and the study's kind with its rigour, <code>qualit
 </tr>
 </tbody>
 </table>
+<p>These legacy bins describe a reported statistic, not educational importance.
+Compare effects only with the learner population, assignment and comparator,
+outcome measure and its alignment, score range, follow-up, and uncertainty in view.
+<a href="https://doi.org/10.3102/0013189X20912798">Kraft's education benchmarks</a>
+concern causal K–12 interventions measured on standardized achievement tests;
+they do not automatically replace these bins for other outcomes.</p>
+<p>A Kraft tier requires source-verified learner, design and measurement context
+for the particular effect, recorded as <code>impact_context</code> on its <code>observations/</code> record. Where none is recorded, its eligibility
+and comparability remain unreviewed;
+see <a href="../../methods/impact-evidence-comparison/">Comparing learning intervention effects</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 <p>A <code>?</code> in place of a digit — <code>q?</code>, <code>i?</code> — written but not yet established. <code>q?</code> is not the same as an absent q: it says someone looked and could not say, which is a finding rather than a gap.</p>
 <p>Strength here describes the <em>research</em>. Whether anyone has checked that this
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
