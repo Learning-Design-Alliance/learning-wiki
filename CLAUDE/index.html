@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1587,6 +1598,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays" class="md-nav__link">
@@ -2613,6 +2635,22 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format">2026-10-01 (later) — one vocabulary for the evidence and design dimensions; the spec reads the new format<a class="headerlink" href="#2026-10-01-later-one-vocabulary-for-the-evidence-and-design-dimensions-the-spec-reads-the-new-format" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>evidence-dimensions.json</code></strong> (root, beside <code>evidence-scales.json</code>) defines once the dimensions three works
+  had named separately: the evidence-axes coder's L, G, C, D and O, the impact comparison record
+  (<code>methods/impact-evidence-comparison.md</code>, observations' <code>impact_context</code>) and the six principle–pattern
+  affordances (<code>principle-pattern-authoring.md</code>). Nine dimensions (learner state, goal, valued goal,
+  conditions, design variable, assignment, outcome, effect, diagnosis), each with its controlled values and its
+  name in each work. <code>scripts/evidence_dimensions.py</code> is its only reader; <code>eval/evidence-axes/axes.json</code> is
+  gone. "randomized" is canonical, "randomised" an alias, so cells coded before still read. <code>lint.py --type
+  dimensions</code> fails on a value defined twice, an alias or crosswalk naming a value that does not exist, or a
+  guide affordance no dimension maps (both verified by mutation). Two dimensions have <strong>no evidence side</strong>:
+  the learner's valued goal and diagnosis are design-only, since studies rarely report either.</li>
+<li><strong>learning-design-spec reads the conditional-model format</strong> (that repo's decision 0020, finding 0032):
+  <code>planning-patterns</code> reads a principle or pattern page by the role of each section, either shape, and takes
+  a page's observation-and-adaptation table into its phases. #144 merged after it, and #140–#142 are closed.</li>
+</ul>
 <h3 id="2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays">2026-10-01 — the conditional-model page format, tested independently: it helps, if the evidence stays<a class="headerlink" href="#2026-10-01-the-conditional-model-page-format-tested-independently-it-helps-if-the-evidence-stays" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>#144 rewrote three principle–pattern pairs</strong> (worked examples, spaced learning, formative assessment) as
@@ -2641,7 +2679,7 @@ finds out.</p>
 <ul>
 <li><strong><code>eval/evidence-axes/</code></strong> codes evidence entries as <strong>cells</strong> on five axes, learners (L), goal properties
   (G), conditions (C), the design variable changed (D) and outcome (O), each with a result direction and
-  design (<code>axes.json</code>; ΔO = f(L, G, C, do(D))). <code>scripts/code_evidence_axes.py</code> codes from the study's text,
+  design (then <code>axes.json</code>, now <code>evidence-dimensions.json</code>; ΔO = f(L, G, C, do(D))). <code>scripts/code_evidence_axes.py</code> codes from the study's text,
   with a verbatim-checked quote per cell; <code>--contrasts</code> names each cell's contrast canonically ("spaced vs
   massed", "longer vs shorter gaps") and flags cells coded the other way round. <code>scripts/render_evidence_map.py
   &lt;page&gt; --profile &lt;designer&gt;</code> renders one table per Design Decision: contrasts as rows, outcomes as columns,
@@ -5070,6 +5108,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
   wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
+  evidence-dimensions.json ← the shared dimensions of evidence and design (learner state, goal, outcome, ...)
   evidence.md        ← generated: the state of the wiki's evidence (build_evidence_report.py)
   log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)
