@@ -207897,6 +207897,7 @@
  },
  "kinds": {
   "claims": "claim",
+  "designs": "design",
   "elements": "element",
   "learner-variables": "learner-variable",
   "methods": "method",
@@ -207908,6 +207909,7 @@
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
   "claims": 3423,
+  "designs": 0,
   "elements": 727,
   "learner-variables": 12,
   "methods": 18,

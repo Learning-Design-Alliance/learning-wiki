@@ -62,6 +62,7 @@ TYPE_TO_FOLDER = {
     "principle": "principles",
     "element": "elements",
     "pattern": "patterns",
+    "design": "designs",
     "strategy": "strategies",
     "theory": "theories",
     "learner-variable": "learner-variables",
@@ -375,7 +376,7 @@ def _render_other(contrib: dict, ctype: str, actor: str, slug: str) -> tuple[dic
         # freshly ingested element resolves without a backfill pass. Strategies
         # and theories are reached through the reverse index, never named.
         **({"id": slug} if folder in ("elements", "principles", "patterns",
-                                      "learner-variables", "strategies") else {}),
+                                      "learner-variables", "strategies", "designs") else {}),
         "title": title,
         "description": _one_sentence(description, title or "Untitled"),
         "status": "draft",

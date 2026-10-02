@@ -54,19 +54,19 @@ sys.path.insert(0, str(WIKI_ROOT))
 import okf_lib  # noqa: E402
 import search_index  # noqa: E402
 
-KIND = {"principles": "principle", "elements": "element", "patterns": "pattern",
+KIND = {"principles": "principle", "elements": "element", "patterns": "pattern", "designs": "design",
         "strategies": "strategy", "processes": "process", "methods": "method",
         "theories": "theory", "learner-variables": "learner variable", "claims": "claim"}
 RELATED_HEAD = {"principles": "Related Principles", "elements": "Related Elements",
-                "patterns": "Related Patterns", "strategies": "Related Strategies",
+                "patterns": "Related Patterns", "designs": "Related Designs", "strategies": "Related Strategies",
                 "processes": "Related Processes", "methods": "Related Methods",
                 "theories": "Related Theories", "learner-variables": "Related Learner Variables",
                 "claims": "Related Claims"}
 # How abstract a kind is. `applies` needs the other page strictly more abstract,
 # except that a strategy or method may use an element.
 RANK = {"theories": 4, "learner-variables": 4, "principles": 3, "patterns": 2, "processes": 2,
-        "elements": 1, "strategies": 1, "methods": 1, "claims": 0}
-CLAIMS_ON = {"theories", "principles", "patterns", "processes", "learner-variables", "elements"}
+        "designs": 1, "elements": 1, "strategies": 1, "methods": 1, "claims": 0}
+CLAIMS_ON = {"theories", "principles", "patterns", "processes", "learner-variables", "elements", "designs"}
 MARKER_RE = re.compile(r"^[+~-][SMW]$")
 LINK_RE = re.compile(r"\]\(<?([^)>\s#]+\.md)")
 HEAD_RE = re.compile(r"^(#{2,4}) +(.+?)\s*$")

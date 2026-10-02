@@ -406,6 +406,7 @@ BANNER_TYPES = {
     "theories": ("Theory", "theory"),
     "processes": ("Design Process", "process"),
     "methods": ("Design Method", "method"),
+    "designs": ("Design", "design"),
     "learner-variables": ("Learner Variable", "learner-variable"),
     "claims": ("Claim", "claim"),
 }

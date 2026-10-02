@@ -58,6 +58,7 @@ TYPE_LABELS = {
     "principles": ("Principle", "principle"),
     "elements": ("Element", "element"),
     "patterns": ("Pattern", "pattern"),
+    "designs": ("Design", "design"),
     "strategies": ("Strategy", "strategy"),
     "theories": ("Theory", "theory"),
     "processes": ("Design Process", "process"),

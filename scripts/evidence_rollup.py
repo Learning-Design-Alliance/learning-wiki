@@ -46,7 +46,7 @@ import okf_lib  # noqa: E402
 # Kinds whose pages cite claims and get a profile. Claims have their own header
 # (add_evidence_summary.py): a claim linking a claim is a relation, not a citation.
 PROFILE_KINDS = ["principles", "elements", "patterns", "strategies", "processes", "methods",
-                 "theories", "learner-variables"]
+                 "theories", "learner-variables", "designs"]
 
 _DOI = re.compile(r"10\.\d{4,9}/[^\s\"<>]+", re.I)
 _YEAR_TITLE = re.compile(r"\((\d{4})[a-z]?\)\.?\s*(.+)")

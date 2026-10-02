@@ -78,6 +78,7 @@ nav:
   - Principles: principles/index.md
   - Elements: elements/index.md
   - Patterns: patterns/index.md
+  - Designs: designs/index.md
   - Strategies: strategies/index.md
   - Design Processes: processes/index.md
   - Design Methods: methods/index.md
