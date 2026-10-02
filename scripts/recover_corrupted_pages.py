@@ -52,6 +52,7 @@ TYPE_SINGULAR = {
     "principles": "principle",
     "elements": "element",
     "patterns": "pattern",
+    "designs": "design",
     "strategies": "strategy",
     "theories": "theory",
     "claims": "claim",

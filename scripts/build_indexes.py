@@ -57,6 +57,12 @@ PAGE_TYPES = {
                        "rather than anything a learner meets.",
         "status_field": True,
     },
+    "designs": {
+        "label": "Designs",
+        "description": "Designs for a particular setting, course, population or product: what a design uses "
+                       "the general patterns for. A pattern is general across contexts; a design is not.",
+        "status_field": True,
+    },
     "methods": {
         "label": "Design Methods",
         "description": "The practices a design process is made of — analysis, elicitation, mapping "
@@ -92,7 +98,7 @@ PAGE_TYPES = {
     },
 }
 
-ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies",
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "designs", "strategies",
                     "processes", "methods",
                     "theories", "learner-variables", "claims"]
 

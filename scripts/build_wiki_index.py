@@ -59,6 +59,7 @@ KINDS = {
     "principles": "principle",
     "elements": "element",
     "patterns": "pattern",
+    "designs": "design",
     "strategies": "strategy",
     "processes": "process",
     "methods": "method",

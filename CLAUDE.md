@@ -115,8 +115,11 @@ work is done, not that the check is broken.
   `## Examples`. Do not create context- or domain-specific patterns, and do not report "no pattern for
   this course" as a gap. Some existing `patterns/` pages are designs in this sense (the Duolingo pages,
   `kindergarten-balance-scale-equal-sign-lesson-sequence`, `tutor-led-strategies-adult-language-lessons`,
-  `elderly-refugee-programs-beyond-language-learning`, among others); reclassifying them is open and
-  needs a decision on where designs live.
+  `elderly-refugee-programs-beyond-language-learning`, among others). **Designs live in `designs/`**
+  (maintainer, 2026-10-02), a kind of their own, with `id:` like the other identified kinds: the
+  triaged ones move there from `patterns/`, and Lazuli-generated design descriptions are added there.
+  A design page says which patterns it uses and for what (`## Patterns Used`); the evidence stays on
+  the patterns and claims it links.
 
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
@@ -137,6 +140,15 @@ finds out.
   of `cognitive-load-management`, `scaffolding-and-fading`, `self-regulated-learning`, `cooperative-learning`,
   `direct-instruction`, `peer-discussion`, `patterns/team-based-learning`): fold their siblings into them or
   port the conversion before the next wave.
+
+### 2026-10-02 (night) — a `designs/` kind
+
+- **`designs/` is the tenth content kind** (maintainer's decision): a design for one setting, course,
+  population or product, which the settled rule says is never a pattern. It carries `id:`, resolves in
+  `wiki-index.json` as `design`, takes the Design template below, and Lazuli-generated design
+  descriptions go there. Every kind list knows it, and `check_nav_coverage` passes. The triage's design
+  pages move in a separate change, by `scripts/move_pages_kind.py`, which repoints their links (a move
+  across kinds cannot be carried by an alias).
 
 ### 2026-10-02 (evening) — batch 12 landed; the PBL pair reworked and re-tested
 
@@ -2616,11 +2628,11 @@ Always link the tag to a claim page: `[Claim statement](../claims/example-claim.
 
 ## Frontmatter fields
 
-Every content page (principle, element, pattern, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
+Every content page (principle, element, pattern, design, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
 
 | Field | Required | Meaning |
 |-------|----------|---------|
-| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `process` \| `method` \| `theory` \| `learner-variable` \| `claim` |
+| `type` | Yes | `principle` \| `element` \| `pattern` \| `design` \| `strategy` \| `process` \| `method` \| `theory` \| `learner-variable` \| `claim` |
 | `title` | Recommended | Display name — normally matches the page's `# H1` |
 | `description` | Recommended | One-sentence summary, used in index listings |
 | `status` | Recommended | See Status values above |
@@ -2778,6 +2790,7 @@ ld-wiki/
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
+  designs/           ← designs for one setting, course, population or product, using patterns
   strategies/        ← teaching strategies (concrete activity recipes)
   processes/         ← design processes: how a course gets made (ADDIE, SAM, design thinking, UbD)
   methods/           ← design methods: the practices a process is made of (task analysis, personas, crosswalks)
@@ -3120,6 +3133,64 @@ grain_size:
 
 ## Examples
 <!-- Links to products / lessons / courses with ratings -->
+- 
+
+## Key Sources
+- 
+```
+
+---
+
+### Design
+
+A design for one setting, course, population or product: a self-paced mobile Italian A1 course, a
+clinical onboarding programme, one study's lesson sequence. It is never general (that is a pattern);
+it says what it uses the general patterns for, given its learners, goals and constraints.
+
+```markdown
+---
+type: design
+id: [design-slug]      # equal to the filename
+title: [Design Name]
+description: [One sentence: for whom, in what setting, to what end]
+status: draft
+generated:
+  by: <actor>
+  at: YYYY-MM-DD
+author:
+grain_size:            # program / course / unit / lesson
+---
+
+# [Design Name]
+
+> **Design** · [All designs](index.md)
+
+## Description
+[What the design is, who it is for and where it runs.]
+
+## Context
+### Learners
+- 
+### Learning Goals
+- 
+#### Requirements
+- 
+#### Constraints
+- 
+
+## Patterns Used
+<!-- Each pattern the design applies, and what for: [Pattern Name](../patterns/pattern-slug.md): ... -->
+- 
+
+## Sequence
+<!-- Steps with links to elements and strategies -->
+1. 
+
+### Claims
+<!-- Claims bearing on this design's choices, with evidence tags -->
+- 
+
+## Related Designs
 - 
 
 ## Key Sources

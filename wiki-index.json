@@ -1,6 +1,7 @@
 {
  "counts": {
   "claim": 3423,
+  "design": 0,
   "element": 727,
   "learner-variable": 12,
   "method": 18,
@@ -12,6 +13,7 @@
  },
  "kinds": [
   "claim",
+  "design",
   "element",
   "learner-variable",
   "method",
@@ -80165,6 +80167,7 @@
    "zhao-ping-output-functions-writing-experiment": "zhao-ping-output-functions-writing-experiment",
    "zpd-not-equivalent-i-plus-one-or-scaffolding": "zpd-not-equivalent-i-plus-one-or-scaffolding"
   },
+  "design": {},
   "element": {
    "3d-model-interview-protocol-day-night": "3d-model-interview-protocol-day-night",
    "3d-participatory-simulation-il": "3d-participatory-simulation-il",
