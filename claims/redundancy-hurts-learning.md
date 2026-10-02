@@ -92,3 +92,7 @@ A meta-analysis of 57 independent experimental studies, mostly with postsecondar
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — a broader claim this one bears on
 - [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim
+- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related

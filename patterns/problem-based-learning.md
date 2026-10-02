@@ -2,7 +2,7 @@
 type: pattern
 id: problem-based-learning
 title: Problem-Based Learning
-description: "A reusable policy for a problem-centred unit: elicit each learner's framing, set guidance by task-specific starting knowledge, facilitate contingently, consolidate the target content explicitly, and reobserve individually."
+description: "A reusable policy for problem-centred units: establish what learners already know of the target content, guide novices explicitly, use a problem-first phase only where learners can generate partial solutions and instruction follows, and judge the unit on individual outcomes."
 status: review
 generated:
   by: claude/unspecified
@@ -19,7 +19,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 13 studies (5 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 2 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (2 for, 6 mixed, 1 against) · 14 studies (5 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 2 of 14 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -42,7 +42,7 @@ A request for "more engaging, real-world learning" does not specify these inputs
 ## Sequence and conditional policy
 
 1. **Elicit briefly.** Present the problem and ask each learner (not only the group) for a first framing: what is the question, what do they already know, what do they need to learn. Keep this short; record it as a learning exposure.
-2. **Choose the guidance level provisionally.** If learners are task-specific novices and the target content cannot be reached from what they know, plan explicit guidance (resources that carry the content, prompts, worked or modelled steps) rather than leaving the content to be discovered. If learners can generate several partial solutions, a bounded problem-first phase followed by consolidating instruction is a candidate.
+2. **Choose the guidance level provisionally.** Default for task-specific novices on the target content: make the content explicit (a short explanation, a worked or modelled example, resources that carry it) before or alongside the problem, and use the problem to apply and connect it. A problem-first phase is a narrower candidate, for learners who can generate several partial solutions from what they already know, always followed by consolidating instruction. Do not adopt PBL on its label: the average curriculum-level effect is small and varies widely, so the configuration decides.
 3. **Run the problem phase with contingent facilitation.** Increase support when a learner or group is stuck, reduce it when they progress; record each intervention. Ask learners to make their solutions visible, including flawed ones.
 4. **Consolidate.** Teach the canonical idea explicitly, building on and contrasting with the solutions learners produced. Do not treat the consolidation as optional: the problem-first evidence concerns problem solving *followed by* instruction.
 5. **Reobserve individually.** Use a new problem or a changed condition, scored separately for concept, transfer and procedure, at the agreed horizon. If the response disagrees with the expectation, revise the interpretation or the configuration.
@@ -57,8 +57,10 @@ A request for "more engaging, real-world learning" does not specify these inputs
 
 ## Choosing configurations from evidence
 
-- **Order of problem and instruction.** For conceptual and transfer outcomes, [a problem-first phase followed by instruction](../claims/productive-failure-improves-conceptual-learning.md) [~S] has meta-analytic support over the same instruction taught first, with no procedural difference and a reversal for second to fifth graders and for domain-general skills. Choose it only with a consolidation phase, for learners old enough, and judge it on conceptual and transfer measures. The claim page reports no delayed-horizon breakdown.
+- **Whether to expect anything from the PBL label.** [The overall effect in a 353-outcome re-analysis is modest (g = 0.27)](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M], [ranges from g = −1.26 to 1.91](../claims/massive-range-pbl-outcome-effect-sizes.md) [~M] and [may be inflated by publication bias (g = 0.103 after trim-and-fill)](../claims/publication-bias-pbl-tutor-meta-analysis.md) [~M]. Plan and evaluate the specific configuration; do not promise a gain from the format.
+- **Who facilitates.** [Tutor background did not predict learning](../claims/tutor-background-meta-regression-not-predictive.md) [~M] in the same data. Prepare facilitators in the guidance and consolidation moves below rather than relying on content expertise or its absence; whether facilitation training itself changes outcomes is not recorded in the wiki.
 - **Amount of guidance.** For novices, [unassisted discovery underperforms explicit instruction, while enhanced discovery outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. This rules out a configuration in which essential content is left for novices to find unsupported; it does not rule out guided problem work. The meta-analysis is not broken down by prior knowledge on the claim page.
+- **Order of problem and instruction.** For conceptual and transfer outcomes, [a problem-first phase followed by instruction](../claims/productive-failure-improves-conceptual-learning.md) [~S] has meta-analytic support over the same instruction taught first, with no procedural difference and a reversal for second to fifth graders and for domain-general skills. Choose it only with a consolidation phase, for learners old enough, and judge it on conceptual and transfer measures. The claim page reports no delayed-horizon breakdown.
 - **Facilitation.** [Contingent scaffolding](../claims/contingent-scaffolding-improves-learning.md) [+M] (support raised after failure, lowered after success) outperformed fixed or absent support in small one-to-one tutoring studies, with better transfer in one. It is a candidate rule for a facilitator, not a tested result in PBL groups.
 - **Case-based formats.** [Case-based learning](../claims/case-based-learning-improves-exam-performance.md) [~M] raised exam scores in one non-randomized biology cohort, while a systematic review in health professional education found the evidence on learning inconclusive and noted that gains may come from group work. Do not expect a case or problem format alone to carry the effect.
 
@@ -140,4 +142,9 @@ Problem-Based Learning uses an authentic or ill-structured problem to drive inqu
 ### Affordances
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Active Learning](../principles/active-learning.md)
+-->
+
+<!-- deprecated 2026-10-02: superseded after the brief test, which found answers following the previous version into problem-first designs for novices.
+
+2. **Choose the guidance level provisionally.** If learners are task-specific novices and the target content cannot be reached from what they know, plan explicit guidance (resources that carry the content, prompts, worked or modelled steps) rather than leaving the content to be discovered. If learners can generate several partial solutions, a bounded problem-first phase followed by consolidating instruction is a candidate.
 -->

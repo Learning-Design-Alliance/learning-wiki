@@ -77,3 +77,5 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
+- [Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related
+- [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — a narrower finding that bears on this claim

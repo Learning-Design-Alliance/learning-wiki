@@ -52,6 +52,7 @@ A proposed major modification summarized as "to put a teacher in every textbook 
 - [In-process comprehension checks embedded within the text](in-process-comprehension-checks.md)
 - [Vocabulary assistance embedded directly in the text](vocabulary-assistance-in-text.md)
 - [Precis summary notes placed alongside the basic text](precis-summary-notes.md)
+- [Ad hoc instructional strategy integrating deep- or shallow-processing cognitive prompts into a psychology coursebook chapter](cognitive-prompt-integration-strategy-psychology-course.md)
 
 ## Examples
 

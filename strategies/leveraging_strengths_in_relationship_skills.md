@@ -85,12 +85,14 @@ Two evidential caveats matter. Social-emotional learning as a whole is well supp
 8. **Rotate roles over time.** Do not let the strength become a permanent assignment that excuses the learner from practising the harder thing.
 
 ## Related Strategies
+
 - [Identifying and Supporting Learners with Relationship Skills](identifying_and_supporting_learners_with_relationship_skills.md) — the assessment side: working out what a learner can already do
 - [Creating a Strengths-Based Culture](creating_a_strengths-based_culture.md) — the classroom-wide version of the same framing
 - [Leveraging Strengths for Emotional Regulation](leveraging_strengths_for_emotional_regulation.md) — the same approach applied to a different SEL competency
 - [Asset-Based Teaching](asset-based_teaching.md) — the broader stance of designing from what learners bring
 - [Acting / Role Play](acting-role-play.md) — rehearsal space for the target interaction before it happens for real
 - [Building Trusting Relationships](building_trusting_relationships.md) — the teacher–learner relationship that makes this kind of feedback receivable
+- [Combine needs-based and pre-taught approaches when introducing social skills to cooperative groups](mixed-approach-teaching-social-skills.md)
 
 ## Examples
 

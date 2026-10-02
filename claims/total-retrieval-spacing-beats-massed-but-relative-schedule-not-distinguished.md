@@ -11,7 +11,7 @@ generated:
 sources:
   - id: karpicke-bauernschmidt-2011
     resource: "https://doi.org/10.1037/a0023436"
-    title: "Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37(5), 1250–1257."
+    title: "Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 37*(5), 1250–1257. [doi:10.1037/a0023436](https://doi.org/10.1037/a0023436)"
     author: "Karpicke, J. D., & Bauernschmidt, A."
     q: 3
     i: "?"

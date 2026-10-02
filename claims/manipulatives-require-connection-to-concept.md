@@ -85,3 +85,5 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — a narrower finding that bears on this claim
 - [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related
+- [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — a narrower finding that bears on this claim
+- [The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions](fading-condition-outperformed-generic-and-concrete.md) — a narrower finding that bears on this claim

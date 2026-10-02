@@ -54,7 +54,7 @@ Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Cle
 
 `q2 · i?` · `review · r2`
 
-Qualitative finding from the same study's analysis of individual verbal behavior during small-group work, identifying a boundary condition on the method's effectiveness within the same experimental setting.
+Reported second-hand: Blosser's bulletin summarizes Basili and Sanford's (1991) investigation in community-college chemistry, whose analysis of individual verbal behavior during small-group work identified this boundary condition. Blosser did not conduct the study; the primary report has not been read here.
 
 > "poor group leaders prevented effective discussion by rushing through questions and imposing their views of the purpose of the task"
 

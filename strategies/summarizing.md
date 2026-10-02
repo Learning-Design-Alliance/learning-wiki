@@ -61,10 +61,12 @@ Summarizing works because it requires learners to reconstruct meaning — identi
 6. Follow with [practice](../elements/practice.md) — apply the summarized understanding to a new problem or discussion, converting the summary into use.
 
 ## Related Strategies
+
 - **Self-Explanation** — the underlying mechanism; summarizing is self-explanation applied to whole texts and solution processes
 - **Annotating** — a precursor skill; margin notes and highlighting identify the material summaries will draw from
 - **Retrieval Practice** — summarizing from memory combines generation with retrieval for stronger retention
 - **Concept Mapping** — an alternative synthesis format that makes relationships explicit rather than prose-based
+- [Foster articulation by having students build testable artifacts and explain ideas to other students](articulation-through-buildable-artifacts.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small groups take turns summarizing a text segment as one of four strategies, with the teacher modeling and fading support over sessions.

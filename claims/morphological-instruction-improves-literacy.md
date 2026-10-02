@@ -80,3 +80,4 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
 - [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
 - [Reverse transfer from literacy to oral skills is unsupported by research](reverse-transfer-literacy-to-oral-unsupported.md) — related
+- [Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related

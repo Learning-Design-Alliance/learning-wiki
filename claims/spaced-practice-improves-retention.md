@@ -192,3 +192,5 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim
+- [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
+- [Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions](spaced-retrieval-practice-improves-financial-knowledge-retention.md) — a narrower finding that bears on this claim

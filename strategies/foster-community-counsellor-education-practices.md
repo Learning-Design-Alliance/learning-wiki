@@ -45,6 +45,7 @@ The Community component holds that developing counsellor skills within a support
 - [Common Ground Group Assignments](common_ground_group_assignments.md)
 - [Peer Coaching](peer_coaching.md)
 - [Encourage unstructured verbal communication between cooperating and student teachers during student teaching](unstructured-verbal-communication-cooperating-student-teachers.md)
+- [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](cooperative-learning-group-work-recommendation.md)
 
 ## Examples
 -

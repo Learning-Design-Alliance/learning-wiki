@@ -42,7 +42,8 @@ The authors recommend that "discussions with CREACT can be conducted" in classro
 - [Creact Teaching Tool](../theories/creact-teaching-tool.md)
 
 ## Related Strategies
-- 
+
+- [Give creativity greater importance in teaching environments, especially in the application dimension, and conduct more experimental studies](prioritize-creativity-in-teaching-environments.md)
 
 ## Examples
 -

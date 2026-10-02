@@ -95,3 +95,4 @@ The canonical paradigm (Pennebaker's expressive writing paradigm) asks participa
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related
 - [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — a narrower finding that bears on this claim
 - [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related

@@ -56,9 +56,11 @@ Segmenting works because working memory is severely limited; when a continuous a
 5. Check that the full sequence still communicates the whole process — add an advance organizer or overview if segmentation obscures global structure ([Advance Organizers](../elements/advance-organizers.md))
 
 ## Related Strategies
+
 - [Pre-training](pre-training.md) — teaching names and characteristics of key concepts before the segmented presentation reduces load further; the two principles are complementary
 - [Signaling](signaling.md) — cues highlight what matters *within* each segment; segmenting manages load *between* segments
 - [Modality](modality.md) — narrating segments offloads visual working memory; frequently combined with segmenting in multimedia design
+- [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md)
 
 ## Examples
 - **Mayer & Chandler (2001)** — the canonical experiment: a lightning-formation animation split into user-paced segments produced substantially better transfer than the continuous version.

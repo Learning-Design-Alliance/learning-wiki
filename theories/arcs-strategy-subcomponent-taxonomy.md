@@ -41,12 +41,14 @@ The digest presents ARCS as a two-level taxonomy for designing motivating instru
 - [Arcs Model Increases Motivational Appeal Assertion](../claims/arcs-model-increases-motivational-appeal-assertion.md) [+W]
 
 ## Related Theories
+
 - [Arcs Model](arcs-model.md)
 - [Expectancy Value Theory](expectancy-value-theory.md)
 - [Arcs Attention Strategies](../strategies/arcs-attention-strategies.md)
 - [Arcs Relevance Strategies](../strategies/arcs-relevance-strategies.md)
 - [Arcs Confidence Strategies](../strategies/arcs-confidence-strategies.md)
 - [Arcs Satisfaction Strategies](../strategies/arcs-satisfaction-strategies.md)
+- [ARCS Motivational Design Model as a diagnostic framework for computer-based learning motivation](arcs-model-motivational-design-framework-m-tutor.md)
 
 ## Examples
 -

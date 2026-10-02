@@ -44,7 +44,8 @@ A design recommendation for research synthesis methodology: because bias is inhe
 - 
 
 ## Examples
--
+
+- [Follow transparent, replicable meta-analysis practices tailored to PBL: multiple databases, gray literature, full heterogeneity reporting, funnel plots with Egger's test, and RVE for dependent outcomes](../strategies/pbl-meta-analysis-best-practices.md)
 
 ## Key Sources
 - Boulton, A. (2016). Quantifying CALL: significance, effect size and variation. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 55-60). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.538

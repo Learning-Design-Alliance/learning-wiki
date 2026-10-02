@@ -45,3 +45,4 @@ Report card marks (converted to a numerical scale) were tracked for 115 students
 ## Related Claims
 - [IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests](ie-city-wide-nce-mixed-outcomes.md) — related
 - [More Instrumental Enrichment sessions predicted higher Raven posttest scores for regular education middle-grade students](ie-sessions-predict-higher-raven-posttest-regular-students.md) — related
+- [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related

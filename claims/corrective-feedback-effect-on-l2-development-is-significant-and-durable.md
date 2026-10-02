@@ -72,3 +72,5 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — a narrower finding that bears on this claim
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](time-treatment-interaction-corrective-feedback.md) — related
 - [Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies](call-feedback-medium-positive-effect.md) — related
+- [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related
+- [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](prompts-beat-explicit-feedback-refusal-awareness.md) — related

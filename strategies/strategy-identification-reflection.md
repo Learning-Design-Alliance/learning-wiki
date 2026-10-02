@@ -61,9 +61,11 @@ Naming strategies converts tacit, in-the-moment decisions into explicit, transfe
 6. **Revisit and evaluate** — periodically ask which strategies earned their place and which apply only in narrow situations, deepening conditional knowledge.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the instructor-side counterpart: modeling strategy use aloud so learners have names to adopt
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — strategy reflection is itself a form of activation, surfacing prior procedures before new learning
 - [Learning-by-Teaching](../strategies/learning-by-teaching.md) — explaining strategies to peers strengthens the explainer's own conditional knowledge
+- [Give students explicit prompts to think about group processes during PBL](explicit-prompts-group-processes-pbl.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI) math classrooms** — after children solve word problems, teachers publicly name and chart the strategies children used (direct modeling, counting on, derived facts), building a shared repertoire the class references in later problems ([CGI for Math](../patterns/cgi-for-math.md)).

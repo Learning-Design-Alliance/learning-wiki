@@ -47,3 +47,4 @@ Theoretical argument in this essay, not an empirical test: the author contends c
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](johnson-meta-analysis-cooperative-achievement.md) — related
+- [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — related

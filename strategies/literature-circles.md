@@ -68,6 +68,7 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 - [Jigsaw](jigsaw.md) — an alternative cooperative structure with interdependent expertise roles rather than shared text discussion
 - [Socratic Seminar](socratic-seminar.md) — whole-class, teacher-facilitated discussion; a common next step once literature circle discussion skills mature
 - [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
+- [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 
 ## Examples
 - A sixth-grade teacher offers six novel choices; students pick a book, a discussion theme, and a final project — producing maps, acrostic poems, and timelines tied to their texts

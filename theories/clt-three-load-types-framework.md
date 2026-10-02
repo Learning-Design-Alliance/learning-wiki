@@ -48,6 +48,7 @@ The article presents Cognitive Load Theory as a psychological theory from cognit
 
 - [Cognitive Load Theory](cognitive-load-theory.md)
 - [Information Processing Theory](information-processing-theory.md)
+- [Element interactivity as the CLT criterion of subject complexity](element-interactivity-complexity-criterion-clt.md)
 
 ## Examples
 

@@ -65,3 +65,4 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
+- [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](mastery-control-no-entry-differences.md) — related

@@ -11,7 +11,7 @@ generated:
 sources:
   - id: kapler-et-al-2015
     resource: "https://doi.org/10.1016/j.learninstruc.2014.11.001"
-    title: "Kapler, I. V., Weston, T., & Wiseheart, M. (2015). Spacing in a simulated undergraduate classroom: Long-term benefits for factual and higher-level learning. Learning and Instruction, 36, 38–45."
+    title: "Kapler, I. V., Weston, T., & Wiseheart, M. (2015). Spacing in a simulated undergraduate classroom: Long-term benefits for factual and higher-level learning. *Learning and Instruction, 36*, 38–45. [doi:10.1016/j.learninstruc.2014.11.001](https://doi.org/10.1016/j.learninstruc.2014.11.001)"
     author: "Kapler, I. V., Weston, T., & Wiseheart, M."
     q: 3
     i: "?"

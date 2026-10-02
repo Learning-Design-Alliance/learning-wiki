@@ -95,3 +95,6 @@ Signaling is one of the most consistently supported principles in multimedia lea
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — signaling helps prevent overload by focusing attention on essential processing
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — both provide structural guidance about what matters in a lesson
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — headings and structural cues are a common signaling device that organizes attention across a whole lesson
+- [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — a narrower finding that bears on this claim
+- [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](signaling-principle-increased-learning-outcomes.md) — a narrower finding that bears on this claim
+- [The change on the object that was both signalled and visually cued was the most detected change (83.33%)](signalled-and-cued-object-change-most-detected.md) — a narrower finding that bears on this claim

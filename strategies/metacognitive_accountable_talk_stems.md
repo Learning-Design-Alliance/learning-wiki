@@ -60,9 +60,11 @@ Structured talk prompts convert discussion from unguided conversation into elabo
 6. Debrief the discussion itself, asking students which moves helped their thinking ([Reassessment](../elements/reassessment.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a parallel structured-dialogue routine; talk stems can scaffold its predict-clarify-question-summarize roles
 - [Think-Pair-Share](../patterns/think-pair-share.md) — stems give the "pair" phase a reasoning structure
 - [Socratic Seminar](../strategies/socratic-seminar.md) — a discussion format that accountable talk stems make accessible to students new to seminar norms
+- [Give students explicit prompts to think about group processes during PBL](explicit-prompts-group-processes-pbl.md)
 
 ## Examples
 - **Institute for Learning, University of Pittsburgh** — the source Accountable Talk sourcebook and talk-toolkit ([ifl.pitt.edu](https://ifl.pitt.edu)) used district-wide in the Pittsburgh Public Schools literacy reform.

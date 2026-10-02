@@ -48,3 +48,4 @@ This is a single-session collaborative task in one academic context (pre-service
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related
 - [Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design](language-clique-segregation-peer-choice.md) — related
+- [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — reports the opposite

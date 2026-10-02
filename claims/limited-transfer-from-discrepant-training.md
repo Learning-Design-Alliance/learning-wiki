@@ -47,3 +47,4 @@ Individual transfer measures showed nonsignificant treatment contrasts. When sam
 - [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — related
 - [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
+- [All learners, regardless of condition, showed a floor effect on far-transfer problems, and instructional time did not differ between treatment groups](far-transfer-floor-effect-and-equal-time.md) — related

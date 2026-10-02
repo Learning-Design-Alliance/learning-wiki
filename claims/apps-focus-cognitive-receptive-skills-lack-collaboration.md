@@ -48,3 +48,4 @@ Narrative review, section 2.1. The review attributes this finding to Kim and Kwo
 - [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) — related
 - [Language-learning app design is criticized as basic, replicating earlier technologies with limited instruction and feedback](mall-app-design-basic-limited-feedback-criticism.md) — related
 - [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](mall-vocabulary-most-supported-skill.md) — related
+- [Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking](youth-knowhow-springboard-indigenous-knowledge-gap.md) — related

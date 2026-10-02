@@ -59,12 +59,16 @@ The **problem-centered** principle further restructures the typical topic-by-top
 - [Cognitive Load Theory](cognitive-load-theory.md) ~ whole-task, problem-centered sequencing must still be paced to avoid overwhelming novices' working memory
 - [Constructivism](constructivism.md) + shares an emphasis on authentic, whole tasks and learner integration of new knowledge into existing mental models
 - [Merrill's First Principles of Instruction: four phases revolving around a problem](merrill-first-principles-four-phases-problem.md)
+- [First principles of instruction: a cycle of activation, demonstration, application, and integration in the context of real-world tasks](merrill-first-principles-instruction-cycle.md)
 
 ## Examples
+
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Demonstration](../elements/demonstration.md)
 - [Practice](../elements/practice.md)
 - [Worked Examples](../elements/worked-examples.md)
+- [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](../patterns/tell-show-do-distributed-across-whole-tasks.md)
+- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](../patterns/whole-task-progression-increasing-complexity.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)

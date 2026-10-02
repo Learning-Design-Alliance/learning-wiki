@@ -99,3 +99,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
+- [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related

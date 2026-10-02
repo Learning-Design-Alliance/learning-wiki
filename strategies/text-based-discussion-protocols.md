@@ -60,9 +60,11 @@ Structured discussion improves comprehension and reasoning more reliably than re
 5. Debrief both the content and the quality of the talk, then fade the protocol scaffolds as norms internalize ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](reciprocal_teaching.md) — a role-rotation protocol specifically for reading comprehension
 - [Socratic Seminar](socratic_seminar.md) — the most widely used whole-class variant
 - [Accountable Talk](accountable_talk.md) — a talk-moves framework from the Institute for Learning
+- [Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback](structure-online-group-interactions-roles-feedback.md)
 
 ## Examples
 - **Accountable Talk** (University of Pittsburgh Institute for Learning, https://ifl.pitt.edu) — teacher training in talk moves such as revoicing and pressing for reasoning, implemented across district-wide literacy programs.

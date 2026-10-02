@@ -47,3 +47,5 @@ Retention Test administered about two weeks after the lessons to the same 45 com
 - [The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups](mlm-group-prefers-study-materials-over-textbook.md) — related
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
+- [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — reports the opposite

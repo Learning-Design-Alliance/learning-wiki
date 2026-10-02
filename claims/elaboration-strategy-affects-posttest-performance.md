@@ -66,3 +66,4 @@ Univariate posttest comparison from Table 3: the self-generated group (mean 3.89
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related
 - [Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
 - [Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
+- [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](prompt-presentation-no-performance-effect.md) — related

@@ -51,6 +51,7 @@ The article concludes that L2 classrooms aiming at both accuracy and fluency sho
 ## Examples
 
 - [Process Writing (Journals)](../strategies/process-writing-journals.md)
+- [Design explicit pragmatic instruction with practice opportunities, feedback addressing both form and meaning, and authentic input models](../strategies/explicit-pragmatic-instruction-authentic-models-strategy.md)
 
 ## Key Sources
 - Ehsan Rassaei, Ahmad Moinzadeh. (2011). Investigating the Effects of Three Types of Corrective Feedback on the Acquisition of English Wh-question Forms by Iranian EFL Learners. English Language Teaching, 4(2). https://doi.org/10.5539/elt.v4n2p97

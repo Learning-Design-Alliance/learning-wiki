@@ -65,3 +65,4 @@ Program director interview: high attrition and student mobility kept numbers in 
 - [Typical Chinese classes of about 50 students made group work difficult to organize](china-class-size-50-students-hinders-group-work.md) — related
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
 - [Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses](heterogeneous-backgrounds-homogeneous-id-practice.md) — related
+- [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related

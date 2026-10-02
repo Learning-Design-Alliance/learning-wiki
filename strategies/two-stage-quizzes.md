@@ -60,9 +60,11 @@ The strategy combines two well-supported mechanisms: retrieval practice from the
 6. Follow up with targeted re-teaching or practice on items where group answers still diverged from correct ones.
 
 ## Related Strategies
+
 - Peer Instruction — the in-class questioning routine that two-stage quizzes generalize to full assessments
 - Immediate Feedback Assessment Technique (IF-AT) — scratch-card format delivering answer revelation within the quiz itself
 - Team-Based Learning — uses the same individual-then-team Readiness Assurance sequence as its backbone
+- [Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations](irat-as-subsequent-assessment-indicator-strategy.md)
 
 ## Examples
 - **University of British Columbia / Carl Wieman Science Education Initiative** — two-stage midterm and final exams adopted across physics, chemistry, and biology courses; group stages typically worth 15–25% ([cwsei.ubc.ca](https://cwsei.ubc.ca)).

@@ -44,3 +44,4 @@ Self-report survey question administered at the end of the retention session to 
 
 ## Related Claims
 - [The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups](mlm-group-prefers-study-materials-over-textbook.md) — related
+- [Students rate clicker questions and lecture as more helpful than the textbook](clickers-and-lecture-rated-above-textbook.md) — related

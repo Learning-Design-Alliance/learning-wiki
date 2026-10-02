@@ -100,3 +100,4 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms](constructivist-kindergarten-greater-conflict-resolution-effort.md) — related
 - [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — a narrower finding that bears on this claim
 - [Change in new teachers requires a restructuring of their prior beliefs](new-teacher-change-requires-restructuring-prior-beliefs.md) — related
+- [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — a narrower finding that bears on this claim

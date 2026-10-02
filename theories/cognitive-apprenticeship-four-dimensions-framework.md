@@ -49,6 +49,7 @@ Cognitive apprenticeship is defined as learning through guided experience on cog
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Guided participation and traditional apprenticeship as core CA concepts](guided-participation-and-traditional-apprenticeship-concepts.md)
 - [Zone of Proximal Development as an assessment and instruction tool](zpd-assessment-instruction-tool-gifted.md)
+- [Situated learning: knowledge and skills are learned in contexts that reflect how the knowledge will be used in real life](situated-learning-contexts-of-use.md)
 
 ## Examples
 -

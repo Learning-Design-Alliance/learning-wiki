@@ -105,3 +105,6 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
 - [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) — related
 - [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](retrieval-practice-benefits-persist-six-to-nine-months.md) — related
+- [Students rate clicker questions and lecture as more helpful than the textbook](clickers-and-lecture-rated-above-textbook.md) — related
+- [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — a narrower finding that bears on this claim
+- [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related

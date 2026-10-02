@@ -108,3 +108,5 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related
+- [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](spatial-contiguity-meta-analysis-36-studies.md) — possibly the same claim (merge candidate)
+- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related

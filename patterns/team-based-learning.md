@@ -96,6 +96,8 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 **Business education — management courses:** Michaelsen's original context: teams of 5–7 in large organizational-behavior courses work through group-dynamics cases, with peer evaluation feeding into grades each unit.
 
 **Large undergraduate STEM courses:** Introductory biology and chemistry courses at research universities have adopted TBL to convert lecture halls into team-application sessions, using digital tRAT tools such as [ InteDashboard](https://intedashboard.com) or [Top Hat](https://tophat.com) for immediate team feedback.
+- [Two-week fruitless gene TBL laboratory module on aggression and courtship in Drosophila melanogaster](../elements/fruitless-gene-tbl-laboratory-module.md)
+- [Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations](../strategies/irat-as-subsequent-assessment-indicator-strategy.md)
 
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)

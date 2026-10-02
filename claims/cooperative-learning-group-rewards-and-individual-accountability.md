@@ -108,3 +108,6 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
+- [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
+- [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
+- [Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related

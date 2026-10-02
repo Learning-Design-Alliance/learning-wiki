@@ -47,3 +47,6 @@ Pre-test comparison of the two randomly assigned groups (n = 30 each) on a TOEFL
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
+- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](emi-groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)
+- [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related
+- [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](teacher-modeling-internalizes-reading-strategies.md) — related

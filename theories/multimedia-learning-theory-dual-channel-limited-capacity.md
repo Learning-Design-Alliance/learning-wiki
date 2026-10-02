@@ -40,7 +40,8 @@ The article draws on multimedia learning research (Mayer, Sweller) to explain wh
 - Mlm Outperforms Textbook Post Lesson Assessments [+M]
 
 ## Related Theories
-- 
+
+- [Cognitive Theory of Multimedia Learning (CTML) as applied to emergent bilingual instruction](ctml-for-emergent-bilinguals.md)
 
 ## Examples
 -

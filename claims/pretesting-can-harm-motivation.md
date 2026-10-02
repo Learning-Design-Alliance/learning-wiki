@@ -60,3 +60,4 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Retrieval Fails Without Encoding](retrieval-fails-without-encoding.md) — related
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
+- [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related

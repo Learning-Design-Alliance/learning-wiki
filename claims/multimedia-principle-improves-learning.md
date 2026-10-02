@@ -128,3 +128,5 @@ Open questions include how the effect scales across media formats (static illust
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a narrower finding that bears on this claim
 - [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](seductive-details-effect.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
+- [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
+- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related

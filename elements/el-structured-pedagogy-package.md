@@ -41,7 +41,8 @@ The brief describes structured pedagogy as "a coordinated approach to improving 
 - 
 
 ## Related Elements
-- 
+
+- [Short-story-based explicit strategy instruction package (strategy presentations, in-class examples, and student products)](short-story-explicit-strategy-instruction-package.md)
 
 ## Examples
 -

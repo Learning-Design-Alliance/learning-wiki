@@ -118,3 +118,5 @@ Both subclaims currently lack Evidence entries; the classic experimental and met
 - [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](seductive-details-effect.md) — related
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related
 - [Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)](bimodal-captioned-input-improves-segmentation.md) — related
+- [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim
+- [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related

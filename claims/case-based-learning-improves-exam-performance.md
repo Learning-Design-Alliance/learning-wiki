@@ -82,3 +82,4 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 - [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](nvcc-bridge-program-full-retention.md) — related
+- [Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)](cft-hypertext-design-higher-achievement-scores.md) — related

@@ -59,8 +59,10 @@ Technology unfamiliarity imposes extraneous [cognitive load](../principles/cogni
 6. **Fade supports**: withdraw step-by-step guidance as learners demonstrate fluency, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md).
 
 ## Related Strategies
+
 - [Address Digital Literacy](address_digital_literacy.md) — the broader skill-building counterpart; this strategy removes immediate barriers while that one develops durable fluency
 - [Activating Background Knowledge](activating_background_knowledge.md) — technology experience is a form of prior knowledge that must be surfaced, not assumed
+- [Guide adult students through self-regulated learning skills within the course of study using educational technology](guide-adult-students-srl-skills-within-course-via-technology.md)
 
 ## Examples
 - **Open University (UK)** — provides structured "Skills for OU Study" resources including optional digital-skills modules before distance learners encounter the virtual learning environment (https://www.open.ac.uk/skillsforstudy).

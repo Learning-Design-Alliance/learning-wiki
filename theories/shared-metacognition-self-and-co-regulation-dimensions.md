@@ -40,7 +40,8 @@ Within the online CoI, metacognition is defined as higher knowledge and skills t
 - [Co Regulation Stronger Presence Relationships Than Self Regulation](../claims/co-regulation-stronger-presence-relationships-than-self-regulation.md) [+M]
 
 ## Related Theories
-- 
+
+- [Metaconceptual processes framework: metacognitive knowledge and processes specific to concept learning, classified as knowledge, awareness, monitoring, and evaluation](metaconceptual-processes-framework.md)
 
 ## Examples
 -

@@ -66,3 +66,5 @@ Table III of the Results section prints effect sizes and p-values for all pairwi
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) — related
+- [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
+- [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related

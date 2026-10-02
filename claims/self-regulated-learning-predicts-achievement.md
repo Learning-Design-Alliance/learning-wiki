@@ -88,3 +88,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — a narrower finding that bears on this claim
+- [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related

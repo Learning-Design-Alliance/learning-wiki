@@ -47,3 +47,5 @@ The review reports Johnson and Johnson's meta-analysis of 122 studies done betwe
 - [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a narrower finding that bears on this claim
 - [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](cooperative-learning-gifted-students.md) — a narrower finding that bears on this claim
+- [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — possibly the same claim (merge candidate)
+- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-meta-analysis-higher-achievement.md) — related

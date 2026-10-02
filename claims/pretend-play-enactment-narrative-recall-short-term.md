@@ -67,3 +67,4 @@ The same study's null findings: no difference in recall at a later unprompted ti
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — related
+- [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompting-insufficient-long-term-retention.md) — related

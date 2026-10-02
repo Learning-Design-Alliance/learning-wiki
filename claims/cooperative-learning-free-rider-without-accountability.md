@@ -104,3 +104,5 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
+- [Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related

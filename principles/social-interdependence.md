@@ -52,8 +52,10 @@ Johnson and Johnson (1998; see also Smith et al., 2005) operationalize the requi
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — students from cultures emphasizing an interdependent self-concept may find cooperative structures an especially natural fit, while students expecting individual, competitive evaluation may need more explicit orientation to it
 
 ## Examples
+
 - In a jigsaw discussion, each learner becomes responsible for one source and the final synthesis depends on every member bringing that expertise back to the group.
 - In an engineering design sprint, teams submit one shared prototype score plus a short reflection on how each role contributed to tradeoff decisions.
+- [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](../strategies/cooperative-learning-group-work-recommendation.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [https://doi.org/10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

@@ -64,10 +64,12 @@ Role assignment converts unstructured "discussion" — which often devolves into
 6. Debrief both content and process: what did each role surface? Rotate roles for the next cycle
 
 ## Related Strategies
+
 - [Jigsaw](jigsaw.md) — role structure where each member owns unique content
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a minimal two-role precursor to full role structures
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the canonical four-role reading discussion protocol
 - [Debate Format](../patterns/debate.md) — roles defined by assigned positions rather than functions
+- [Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback](structure-online-group-interactions-roles-feedback.md)
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown, 1984) — students rotate through summarizer, questioner, clarifier, and predictor roles when reading expository text; one of the best-validated comprehension interventions.

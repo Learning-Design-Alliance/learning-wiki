@@ -68,3 +68,4 @@ Separate multilevel logistic regression models for each Experiment 2 session; th
 - [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — related
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
+- [Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual)](successful-difficult-retrieval-greater-future-success.md) — related

@@ -47,3 +47,4 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 - [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
 - [SEL Programs Improve Academic Achievement](sel-programs-improve-academic-achievement.md) — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related

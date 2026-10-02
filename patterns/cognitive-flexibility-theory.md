@@ -97,8 +97,10 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - Advanced learners can handle more independent cross-case navigation than novices.
 
 ## Related Patterns
+
 - [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
 - [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Flexible hypertext-based online course design with hierarchical navigation and multiple representations](flexible-hypertext-course-design-pattern.md)
 
 ## Examples
 - Legal reasoning sequences where the same doctrine is interpreted across multiple precedents.

@@ -62,6 +62,7 @@ SRL instruction works because learners who monitor their understanding and adapt
 - [Formative Feedback](../strategies/formative-feedback.md) — supplies the external accuracy signal that makes self-monitoring trainable
 - [Goal Setting](../elements/goal-setting.md) — the forethought phase operationalized
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
+- [Complement deep-processing cognitive prompts with practice testing, distributed practice, and metacognitive or motivational prompts to support long-term retention](complement-deep-prompts-with-testing-spacing-and-other-prompts.md)
 
 ## Examples
 - **Zimmerman & Campillo's cycle** — classroom routines in which students plan before problem solving, self-record progress, and self-evaluate afterward, applied in math and writing.

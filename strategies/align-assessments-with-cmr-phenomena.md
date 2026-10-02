@@ -37,7 +37,8 @@ The article recommends aligning assessments with instruction by including free-r
 - constructing causal mechanistic explanations on assessments
 
 ## Related Strategies
-- 
+
+- [Incorporate practical and procedural knowledge into the Readiness Assessment Test](include-procedural-knowledge-in-rat.md)
 
 ## Examples
 -

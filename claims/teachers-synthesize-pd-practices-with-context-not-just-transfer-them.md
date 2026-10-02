@@ -49,3 +49,4 @@ This is a two-case ethnographic study (n=2 intensive focal cases) selected from 
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
+- [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related

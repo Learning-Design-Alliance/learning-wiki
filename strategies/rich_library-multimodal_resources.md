@@ -58,8 +58,10 @@ Access to varied, interest-relevant texts increases reading engagement and volum
 5. Assess through the product and a brief comprehension or reflection check, not through resource-selection data alone.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — primes learners to extract relevant content from self-selected resources
 - [Independent Reading](independent-reading.md) — the sustained-reading practice a rich library supports *(page pending)*
+- [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 
 ## Examples
 - **[Epic!](https://www.getepic.com)** — K–5 digital library of ebooks, audiobooks, and read-to-me titles; teachers assign collections or allow free browsing, with logs tracking reading volume.

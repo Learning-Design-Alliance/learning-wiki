@@ -80,3 +80,4 @@ Three experiments taught novice undergraduates negotiation strategies (trade-off
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
+- [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related

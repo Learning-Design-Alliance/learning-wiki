@@ -37,7 +37,8 @@ Based on the finding that about 21% of teachers still hold teacher-centered expe
 - aligning teaching styles with constructivist, student-centered curricula
 
 ## Related Strategies
-- 
+
+- [Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons](teacher-professional-development-srl-strategies.md)
 
 ## Examples
 -

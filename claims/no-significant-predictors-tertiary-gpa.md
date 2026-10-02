@@ -50,3 +50,4 @@ Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). T
 - [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related
 - [Work-avoidant orientation correlates negatively with GPA in the project-based course](gpa-negative-correlation-work-avoidant.md) — related
 - [Stimulus change can selectively reinforce behaviors that produce change and elicit exploratory behavior](stimulus-change-reinforces-exploratory-behavior.md) — related
+- [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related

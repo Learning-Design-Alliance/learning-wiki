@@ -121,6 +121,30 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (evening) — batch 12 landed; the PBL pair reworked and re-tested
+
+- **Batch 12** (`eval/deep-dive/principle-pattern-pairs/topics.txt`): re-run on a new key from the cached
+  articles; 63 fetched, 57 ingested, 4 validation failures, 2 out of scope, $0.33 (v136). 276 claims, 852 new
+  files. Verify stopped on three generated header lines (below); the post-verify steps were run by hand: 593
+  claim links, 150 page links, kind/rigour and dimension cells for the new entries. **The load-bearing check's
+  10 failures are settled, 0 open**: Metin (2022)'s prose t = 6.964 is the control SD in its own Table 5
+  (t = 6.678), now said on the entry; Blosser (1993) reports Basili & Sanford's (1991) study second-hand;
+  Ceballos & Nutta (2022) is a practice-to-theory article, not a review; Clinton et al. (2017)'s "did not
+  affect" time is now "no reliable difference". Seven dismissed as judge errors, chiefly **a manuscript's
+  "please cite as" line is not the registry**: Crossref records Clinton et al.'s chapter
+  (10.4018/978-1-5225-1005-5.ch010) under the title the pages give.
+- **#144's three claim pages had no citation or codes line in the body**, so every batch wrote "none recorded
+  yet" on them, and `sync_evidence_codes` would have replaced their DOI resources with manuscript links. Each
+  entry now opens with a Crossref-checked APA citation and a codes line matching its frontmatter. **An evidence
+  entry must open with its citation line**: the tools take the first link in the entry as its resource.
+- **The PBL pair is reworked** from batch 12's re-analysis of a PBL meta-analysis (Walker & Leary 2023; 353
+  outcomes): as a curriculum format PBL's average effect is modest (g = 0.27), ranges from −1.26 to 1.91, may
+  be inflated by publication bias (g = 0.103 after trim-and-fill), and is not predicted by tutor background;
+  guidance for novices leads, and productive failure is a narrower configuration. **Re-tested on the same two
+  briefs: it beats the old pages 7–1 and #149's version 8–0** (decision value 4.75 → 5.0, brief fit 4.25 →
+  5.0, $0.33). Part of the gain is the new evidence rather than the rework: the shared reference now holds the
+  Walker & Leary claims, which the earlier versions could not cite.
+
 ### 2026-10-02 (later) — the ten new pairs, tested with briefs: they help, except problem-based learning
 
 - **Same design as the 2026-10-01 format study** (scratch only, briefs unseen by the page writers): 20 new

@@ -48,7 +48,8 @@ The IF-AT is a commercially-available "scratch-and-reveal"-type MC answer form: 
 - [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](../claims/if-at-partial-credit-discriminating.md) [+M]
 
 ## Related Elements
-- 
+
+- [IF-AT scratch-off lottery response cards for immediate team feedback in tRAT sessions](if-at-scratch-off-feedback-cards.md)
 
 ## Examples
 -

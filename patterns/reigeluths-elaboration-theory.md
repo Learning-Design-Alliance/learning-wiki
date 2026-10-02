@@ -97,8 +97,10 @@ It is especially useful for curriculum-scale design where content complexity is 
 - Analogies and examples can be chosen to fit learner background and domain familiarity.
 
 ## Related Patterns
+
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](whole-task-progression-increasing-complexity.md)
 
 ## Examples
 - Anatomy curricula that begin with major systems before elaborating organs, tissues, and specialized cases.

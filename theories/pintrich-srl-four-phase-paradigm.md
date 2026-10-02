@@ -47,6 +47,7 @@ The article adopts self-regulated learning as a comprehensive framework includin
 
 - [Self-regulated learning as a motivational, cyclical process of goal setting, monitoring, and control](srl-motivational-goal-setting-monitoring-control-framework.md)
 - [Self-Regulated Learning](self-regulated-learning.md)
+- [Pintrich's four-category model of self-regulated learning strategies](pintrich-four-category-srl-strategy-model.md)
 
 ## Examples
 

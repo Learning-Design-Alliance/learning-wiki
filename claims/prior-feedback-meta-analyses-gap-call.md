@@ -47,3 +47,4 @@ and random- effects (RE) model  d= 0.64."
 - [Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies](call-feedback-medium-positive-effect.md) — related
 - [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md) — related
 - [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related
+- [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — possibly the same claim (merge candidate)

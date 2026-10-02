@@ -59,9 +59,11 @@ Strategy instruction works because it converts tacit expert procedures into expl
 6. **Assess transfer** — check application in new contexts and learners' articulation of when and how to use each strategy
 
 ## Related Strategies
+
 - Reciprocal Teaching — a canonical strategy-instruction program for reading comprehension that cycles modeling, guided group practice, and independent use
 - Self-Questioning — a specific comprehension-monitoring strategy frequently taught through this approach
 - Spaced Practice — a learning strategy whose instruction benefits from the same modeling-and-fading sequence
+- [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown, 1984) — seventh graders with poor comprehension learned four strategies (summarizing, questioning, clarifying, predicting) through instructor modeling then student-led group practice; gains of roughly two standard deviations on comprehension assessments
