@@ -78,3 +78,5 @@ Two experiments had college students read expository text with or without organi
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
+- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](signaling-effect-abstract-only.md) — a narrower finding that bears on this claim
+- [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](signaling-principle-increased-learning-outcomes.md) — related

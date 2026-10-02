@@ -99,6 +99,7 @@ The pattern can work reasonably well for broad content coverage and for learners
 - [Flipped Classroom](flipped-classroom.md)
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)
 - [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](constructivist-model-reconstruction-course-pattern.md)
+- [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](modeling-lectures-plus-collaborative-workshop-sessions.md)
 
 ## Examples
 - Large introductory survey courses organized around lectures, textbook reading, and two major exams.

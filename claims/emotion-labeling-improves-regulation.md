@@ -61,3 +61,4 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 - [Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions](adolescents-amygdala-driven-emotion-processing.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [The affective component is suggested to contribute at least as much to language learning as cognitive skills](affective-component-contributes-as-much-as-cognitive.md) — related
+- [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related

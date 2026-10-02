@@ -58,8 +58,10 @@ Explicit instruction works because it manages working memory load during initial
 4. Fade support through [Fading](../elements/fading.md) into independent [Practice](../elements/practice.md), ideally spaced over time [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the opening move that links new content to existing schemas
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the corrective mechanism during guided practice
+- [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 
 ## Examples
 - **National Institute for Direct Instruction (NIFDI)** — implements the Engelmann-style DI programs (e.g., *Reading Mastery*) with scripted lessons, choral responding, and continuous assessment ([https://www.nifdi.org](https://www.nifdi.org))

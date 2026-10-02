@@ -82,3 +82,5 @@ Three experiments with trainees learning to read electrical/circuit diagrams com
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — possibly the same claim (merge candidate)
 - [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
+- [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
+- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related

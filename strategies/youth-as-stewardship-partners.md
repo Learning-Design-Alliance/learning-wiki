@@ -45,6 +45,7 @@ The guide promotes a partnership approach in which young people lead their own l
 - [Student Voice In Curriculum Planning](student-voice-in-curriculum-planning.md)
 - [Racial Equity in PBL - Focus Projects on Issues of Justice](racial_equity_in_pbl_-_focus_projects_on_issues_of_justice.md)
 - [Community Involvement](community_involvement.md)
+- [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
 
 ## Examples
 -

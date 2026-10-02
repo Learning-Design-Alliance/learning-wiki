@@ -44,6 +44,7 @@ The principle, drawn from the APA Task Force on Statistical Inference report, is
 ## Related Principles
 
 - [Designing a Valid Experiment](designing-a-valid-experiment.md)
+- [Report effect sizes alongside p values when evaluating instructional interventions](report-effect-sizes-with-p-values.md)
 
 ## Examples
 -

@@ -115,3 +115,4 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related

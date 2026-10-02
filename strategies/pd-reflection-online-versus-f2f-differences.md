@@ -41,6 +41,7 @@ Based on their findings, the authors recommend that e-teachers need opportunitie
 ## Related Strategies
 
 - [Develop ICAP-based activity prompts, revise templates, and provide professional development for online course designers](icap-prompts-template-professional-development.md)
+- [Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons](teacher-professional-development-srl-strategies.md)
 
 ## Examples
 -

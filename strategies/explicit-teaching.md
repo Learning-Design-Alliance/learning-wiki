@@ -58,9 +58,11 @@ Explicit teaching reduces ambiguity about what success looks like and lowers the
 5. Close the lesson by revisiting what was covered and connecting it to the success criteria and prior learning.
 
 ## Related Strategies
+
 - [Direct Instruction](../patterns/direct-instruction.md) — the highly scripted pattern that explicit teaching generalizes from
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — situates modelling within a broader modelling–coaching–fading sequence
 - [4C/ID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — embeds explicit supportive information within whole learning tasks
+- [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 
 ## Examples
 - **Explicit Direct Instruction (EDI)** — a widely implemented lesson structure (activate prior knowledge → explain → model → guided practice → closure) used across thousands of schools; see [DataWORKS Educational Research](https://dataworks-ed.com/about-explicit-direct-instruction/).

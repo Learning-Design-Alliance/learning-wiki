@@ -68,3 +68,4 @@ The authors' comparison of achievement across gender groups in the same test fou
 - [Rapid responding was rare (0.3% of responses under 5 seconds) on this instructed low-stakes test, far below previously reported low-stakes levels](rapid-responding-rare-under-non-answer-instruction.md) — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
 - [No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation](no-gender-difference-animistic-explanations.md) — related
+- [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related

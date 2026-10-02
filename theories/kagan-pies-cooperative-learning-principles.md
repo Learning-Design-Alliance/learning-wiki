@@ -43,6 +43,7 @@ The article adopts Kagan's (1994) four basic principles of cooperative learning,
 
 - [Johnson and Johnson's four basic elements of cooperative learning](four-basic-elements-cooperative-learning.md)
 - [Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing](five-basic-elements-of-cooperative-learning.md)
+- [Cooperative learning as socially structured, mutually accountable group learning](cooperative-learning-definition-olsen-kagan.md)
 
 ## Examples
 

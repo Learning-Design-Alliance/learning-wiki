@@ -89,3 +89,5 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related
 - [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](cfts-improved-writing-accuracy-tang-tithecott.md) — a narrower finding that bears on this claim
+- [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — a broader claim this one bears on
+- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-meta-analysis-higher-achievement.md) — related

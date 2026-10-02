@@ -65,6 +65,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Relevance and Confidence categories directly operationalize task value and expectancy for success
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
 - [Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)](belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
+- [ARCS Motivational Design Model as a diagnostic framework for computer-based learning motivation](arcs-model-motivational-design-framework-m-tutor.md)
 
 ## Examples
 

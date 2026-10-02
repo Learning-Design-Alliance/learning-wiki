@@ -60,3 +60,4 @@ In an extended in-class experiment, 37 students studied the same content present
 - [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
 - [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a narrower finding that bears on this claim
+- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related

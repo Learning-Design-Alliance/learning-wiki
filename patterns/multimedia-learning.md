@@ -78,6 +78,10 @@ Record: **material and its configuration (picture, placement, channel, pacing, s
 
 This pattern is scoped to explanations of structures, processes and relations presented through words and pictures. Learner-made representations, interactive simulations, video modelling of skills and language-learning glosses need their own configurations and evidence. Most of the recorded evidence comes from short lab lessons with university students; the policy supports observation and design reasoning, and its predictive accuracy and the learner-significance mechanism remain to be tested with actual learners.
 
+## Related Patterns
+
+- [SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences](sol-multimedia-lesson-sequence-eb.md)
+
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
 

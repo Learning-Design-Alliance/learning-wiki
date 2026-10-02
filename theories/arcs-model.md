@@ -63,12 +63,14 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [Self-Determination Theory](self-determination-theory.md) — ARCS's emphasis on autonomy-supportive framing and personally meaningful tasks parallels SDT's autonomy and relatedness needs
 - [First Principles of Instruction](first-principles-of-instruction.md) — both are practitioner-facing syntheses that integrate multiple underlying theories into a compact, actionable design framework; Merrill explicitly treated motivation as an *outcome* of effective instruction rather than a separate design target, a direct point of contrast with ARCS's treatment of motivation as its own diagnosable, designable condition
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
+- [ARCS Motivational Design Model as a diagnostic framework for computer-based learning motivation](arcs-model-motivational-design-framework-m-tutor.md)
 
 ## Examples
 
 - A Motivational Animated Pedagogical Agent (MAPA) embedded in a physics simulation, delivering audio messages designed specifically around ARCS's Relevance and Confidence tactics, which produced a measurable increase in students' self-efficacy (van der Meij, van der Meij, & Harmsen, 2015)
 - A Virtual Tutee System where students teach a virtual character what they've read, applying Confidence- and Relevance-building tactics through the "learning by teaching" effect
 - [General principles for selecting learning activities](../principles/learning-activity-selection-principles.md)
+- [Use a systematic instructional design process (ADDIE) with a motivational model to diagnose and address motivational problems](../principles/addie-arcs-systematic-motivational-intervention-process.md)
 
 ## Key Sources
 - Keller, J. M. (1987). Development and use of the ARCS model of instructional design. *Journal of Instructional Development, 10*(3), 2–10. [doi:10.1007/bf02905780](https://doi.org/10.1007/bf02905780)

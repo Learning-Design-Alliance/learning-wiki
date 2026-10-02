@@ -69,6 +69,7 @@ Relationship skills are teachable: meta-analytic evidence shows that sequenced, 
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking underlies conflict resolution and repair
 - [Check-Ins](../principles/check-ins.md) — a low-cost routine for surfacing relational states that observation alone misses
 - [Implement cooperative learning with extended training, direct social-skills teaching, and small initial groups](staff-development-for-cooperative-learning.md)
+- [Combine needs-based and pre-taught approaches when introducing social skills to cooperative groups](mixed-approach-teaching-social-skills.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — uses daily morning meetings and structured partner activities as the universal Tier 1 context in which teachers observe and coach relationship skills.

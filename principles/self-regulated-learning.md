@@ -72,8 +72,10 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 
 ## Examples
+
 - A writing course uses planning checklists, mid-draft self-ratings, and revision memos so learners can monitor progress against clear criteria.
 - An online math platform asks learners to predict difficulty, check performance after practice, and choose the next support option based on that reflection.
+- [MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system](../elements/metatutor-srl-prompting-its.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

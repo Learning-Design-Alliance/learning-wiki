@@ -48,3 +48,4 @@ The author's position paper argues against all-day heterogeneous grouping, conte
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — related
 - [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](balance-whole-language-and-phonics.md) — related
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
+- [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related

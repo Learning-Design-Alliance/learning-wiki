@@ -79,6 +79,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Constructivism](constructivism.md) — tension point: constructivist approaches favor active discovery, which can impose high extraneous load; CLT favors explicit instruction for novices, but converges with constructivism for more expert learners (see expertise reversal)
 - [Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types](clt-three-load-types-framework.md)
 - [Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development](skehan-limited-attention-capacity-child-task-recasts.md)
+- [Element interactivity as the CLT criterion of subject complexity](element-interactivity-complexity-criterion-clt.md)
+- [Expertise reversal effect applied to multi-principle visual revisions](expertise-reversal-multimedia-revisions.md)
 
 ## Examples
 
@@ -90,6 +92,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 
 **[User-Centered Design for Learning](../principles/user-centered-design-for-learning.md)** — applies CLT's extraneous-load concept to interface design: confusing navigation and inconsistent terminology impose extraneous load exactly as an unnecessarily split-attention diagram does.
 - [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/reduce-extraneous-optimize-intrinsic-increase-germane.md)
+- [Teachers should determine a topic's element interactivity level and develop an instructional design appropriate to it](../principles/determine-element-interactivity-before-designing-instruction.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

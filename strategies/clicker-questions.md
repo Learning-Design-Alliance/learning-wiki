@@ -59,9 +59,11 @@ Clicker questions are a core implementation of [Active Learning](../principles/a
 6. Adjust subsequent instruction based on the final distribution — high error rates signal the need for reteaching rather than moving on.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the same discuss-then-commit structure without the response technology
 - [Two-Stage Exams](two-stage-exams.md) — extends the individual-then-group logic to assessment itself
 - [Retrieval Practice](retrieval-practice.md) — each clicker vote is a low-stakes retrieval event
+- [Combine HOCS clicker questions with other critical-thinking techniques rather than relying on them alone](combine-hocs-clickers-with-critical-thinking-techniques.md)
 
 ## Examples
 - **[Peer Instruction](https://www.peerinstruction.net)** — Eric Mazur's method, originated in Harvard physics (ConcepTests), now used across STEM disciplines; question banks are published through the [Peer Instruction Network](https://blog.peerinstruction.net).

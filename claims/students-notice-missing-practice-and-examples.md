@@ -48,3 +48,4 @@ Scheffe follow-ups on attitude Items 7 and 8 (practice helpfulness and opportuni
 - [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) — related
 - [Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next](cbi-version-affects-attitudes-lean-most-negative.md) — a broader claim this one bears on
 - [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related
+- [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](external-prompt-regulation-more-positive-attitudes.md) — related

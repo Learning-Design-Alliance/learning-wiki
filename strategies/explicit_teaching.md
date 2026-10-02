@@ -59,9 +59,11 @@ Explicit teaching works because it reduces unguided search and manages working m
 6. Close by reviewing and connecting the lesson's content to prior learning.
 
 ## Related Strategies
+
 - [Worked Examples](../strategies/use_worked_examples.md) — a demonstration format central to the modelling phase of explicit teaching
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes modelling effective
 - [Scaffolded Questioning](../strategies/scaffolded-questioning.md) — the primary check-for-understanding technique during guided practice
+- [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 
 ## Examples
 - **[Direct Instruction](../patterns/direct-instruction.md)** — the full instructional pattern; explicit teaching is its core delivery method

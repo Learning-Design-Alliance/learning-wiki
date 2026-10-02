@@ -46,3 +46,5 @@ Normal-curve equivalent scores on the City-wide Testing Program were tracked for
 - [Up to about 35 IE sessions moderated the decline of report card marks in language-based subjects, but IE did not affect mathematics grades](ie-sessions-moderate-decline-in-language-marks-not-math.md) — related
 - [More Instrumental Enrichment sessions predicted higher Raven posttest scores for regular education middle-grade students](ie-sessions-predict-higher-raven-posttest-regular-students.md) — reports the opposite
 - [In Brownsville's primary schools, no school had more than 30% of students reading at or above grade level](brownsville-primary-reading-below-grade-level.md) — related
+- [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related
+- [Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed](target-teach-gains-across-all-subjects.md) — related

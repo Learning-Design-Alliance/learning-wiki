@@ -48,7 +48,8 @@ The bulletin organizes the main cooperative learning methods: Circles of Learnin
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](../claims/secondary-cooperative-learning-newmann-thompson.md) [+M]
 
 ## Related Theories
-- 
+
+- [Five common models of cooperative learning](five-models-cooperative-learning-taxonomy.md)
 
 ## Examples
 

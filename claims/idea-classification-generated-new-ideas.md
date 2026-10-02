@@ -44,3 +44,4 @@ Case illustration (type c/d): after students devised classification schemes A, B
 
 ## Related Claims
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related
+- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](sound-wave-display-prompts-louder-speech-and-sound-noticing.md) — related

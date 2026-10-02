@@ -50,3 +50,4 @@ Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three gro
 - [Dual Coding Improves Recall](dual-coding-improves-recall.md) — a broader claim this one bears on
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related
+- [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related

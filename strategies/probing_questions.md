@@ -64,6 +64,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - [Active Listening](../strategies/active-listening.md) — the facilitator skill that makes probes contingent rather than scripted
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases give probes a concrete, shared object of analysis
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](six-teacher-questioning-techniques-reading-discussion.md)
+- [Foster articulation by having students build testable artifacts and explain ideas to other students](articulation-through-buildable-artifacts.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary setting where probing questions operate

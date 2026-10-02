@@ -47,3 +47,4 @@ Analysis of a prompted segment of the same October 15, 2014 episode (task 5T6): 
 - [Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues](conceptual-factors-beyond-memory-underlie-sld-mdc-challenges.md) — related
 - [The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers](mdc-stop-anticipation-remains-prompt-dependent.md) — related
 - [A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers](sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) — related
+- [Students transferred cube-based permutation reasoning to permutation tasks not involving cubes](cube-reasoning-transfers-to-non-cube-permutation-tasks.md) — related

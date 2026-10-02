@@ -58,8 +58,10 @@ Culturally responsive texts raise engagement and comprehension by connecting new
 5. Involve learners in ongoing curation — book reviews, wish lists, and recommendations — so the collection evolves with the class
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — culturally responsive texts work by connecting to what learners already know and have lived
 - [Building Empathy](../principles/building-empathy.md) — windows texts are a primary vehicle for perspective-taking goals
+- [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the instructional vehicle for core texts

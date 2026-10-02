@@ -59,10 +59,12 @@ Discussion works because articulating ideas to a peer forces retrieval and elabo
 5. Reconvene for whole-group synthesis in which the instructor names the key ideas and resolves remaining misconceptions ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Peer Instruction](peer-instruction.md) — a tightly scripted vote-discuss-revote implementation of peer discussion
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the minimal structured variant
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — peer discussion organized around comprehension roles
 - [Jigsaw](jigsaw.md) — interdependent group structures that make each peer's contribution necessary
+- [Foster articulation by having students build testable artifacts and explain ideas to other students](articulation-through-buildable-artifacts.md)
 
 ## Examples
 - **[Peer Instruction](https://peerinstruction4seers.github.io)** (Eric Mazur, Harvard) — ConcepTest questions in physics: individual clicker vote, peer discussion, revote, instructor explanation. Replicated learning gains across many STEM disciplines.

@@ -58,10 +58,12 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 7. Reintroduce richness selectively — authentic contexts and [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — once core content is secured.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — reduces intrinsic load per unit; complements distraction reduction by shrinking what must be held at once
 - [Signaling and Highlighting](../strategies/signaling_and_highlighting.md) — guides attention to relevant content rather than only removing irrelevant content
 - [Segmenting](../strategies/segmenting.md) — pacing control prevents overload from continuous streams
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the physical-environment arm of the same goal
+- [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](focused-more-is-more-generative-processing.md)
 
 ## Examples
 - **Multimedia course design:** applying the coherence principle by replacing decorative stock photos in an online biology module with diagrams tied to the explained process (Clark & Mayer, 2016).

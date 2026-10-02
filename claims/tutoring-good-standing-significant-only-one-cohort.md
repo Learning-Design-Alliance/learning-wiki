@@ -47,3 +47,4 @@ Proportion comparisons across visit categories for both cohorts at 200840. Table
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
 - [Retention programs interpreted as meeting all three SDT needs show higher persistence and standing](retention-programs-meeting-all-three-needs-higher-persistence.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
+- [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related

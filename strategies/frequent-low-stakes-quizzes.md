@@ -69,6 +69,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - Formative feedback loops — the quiz is only half the intervention; the feedback completes it
 - Flipped classroom — pre-class quizzes enforce the preparation the flipped model depends on
 - [Increase the use of feedback and correctives through mastery learning procedures](formative-tests-with-corrective-feedback.md)
+- [Reduce stakes, align question difficulty with exams, and add game-like feedback when implementing TBL to lower student stress](low-stress-tbl-implementation-changes.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

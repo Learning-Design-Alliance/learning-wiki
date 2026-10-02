@@ -58,9 +58,11 @@ Multimedia design is grounded in Cognitive Theory of Multimedia Learning: learne
 5. Pilot with representative learners and check for overload using [Check-ins](../principles/check-ins.md) or embedded questions.
 
 ## Related Strategies
+
 - [Segmenting](segmenting.md) — the pacing strategy that operationalizes multimedia design for video
 - [Signaling](signaling.md) — cueing essential information within multimedia materials
 - [Worked Examples](worked-examples.md) — multimedia design principles apply directly to narrated solution videos
+- [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](focused-more-is-more-generative-processing.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated, segmented problem-solving videos with minimal on-screen text, consistent with modality and coherence principles.

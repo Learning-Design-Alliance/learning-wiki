@@ -98,10 +98,12 @@ Lesson (the daily arc) and unit (a cycle of mini-lessons building toward a publi
 **Learners with language or learning differences:** Anchor mini-lessons with visual anchor charts that persist during the work session; allow oral rehearsal before writing; extend work sessions across days so processing speed is not penalized.
 
 ## Related Patterns
+
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the workshop arc (model → coach → fade) is a classroom-scale version of the apprenticeship sequence
 - [Direct Instruction](direct-instruction.md) — shares explicit modeling but allocates most time to teacher-led practice rather than independent work; useful contrast for deciding how much release a cohort can handle
 - [Flipped Classroom](flipped-classroom.md) — moves the mini-lesson outside class time, maximizing the workshop's work session
 - [Formative Assessment](formative-assessment.md) — conferring and the closing share are embedded formative-assessment structures
+- [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](modeling-lectures-plus-collaborative-workshop-sessions.md)
 
 ## Examples
 **Writing workshop — Teachers College Reading & Writing Project:** Calkins' [Units of Study](https://www.unitsofstudy.com) curriculum structures daily writing workshops: a 10-minute mini-lesson on a craft move, 30–40 minutes of student writing with teacher conferring, and an author's share.

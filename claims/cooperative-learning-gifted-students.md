@@ -64,3 +64,5 @@ Slavin's stated evidence gap in the controversy section on cooperative learning 
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](johnson-meta-analysis-cooperative-achievement.md) — a broader claim this one bears on
+- [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — a broader claim this one bears on
+- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-meta-analysis-higher-achievement.md) — related

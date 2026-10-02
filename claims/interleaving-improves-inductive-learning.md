@@ -62,3 +62,4 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Interleaving Improves Learning](interleaving-improves-learning.md) — possibly the same claim (merge candidate)
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — possibly the same claim (merge candidate)
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
+- [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](task-variety-enables-transfer-same-task-type.md) — related

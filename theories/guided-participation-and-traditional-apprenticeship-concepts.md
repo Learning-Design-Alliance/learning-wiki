@@ -46,6 +46,7 @@ Guided participation refers to the processes and systems of involvement between 
 - [Cognitive Apprenticeship Four Dimensions Framework](cognitive-apprenticeship-four-dimensions-framework.md)
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
+- [Situated learning: knowledge and skills are learned in contexts that reflect how the knowledge will be used in real life](situated-learning-contexts-of-use.md)
 
 ## Examples
 -

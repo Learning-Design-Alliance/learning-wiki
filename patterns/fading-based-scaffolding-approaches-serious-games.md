@@ -45,7 +45,8 @@ The paper enumerates three scaffolding approaches based on fading, drawn from Ja
 - [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](../claims/expertise-reversal-effect-redundant-support-harms-experts.md) [~W]
 
 ## Related Patterns
-- 
+
+- [Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification](four-reflection-methods-reification.md)
 
 ## Examples
 

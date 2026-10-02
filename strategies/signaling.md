@@ -58,9 +58,11 @@ Signaling improves learning outcomes across media, with meta-analytic evidence o
 6. Test with a novice: if they still miss the essential element, add a cue; if they notice the cues more than the content, remove some.
 
 ## Related Strategies
+
 - [Segmenting](segmenting.md) — breaking continuous media into learner-paced pieces; signaling marks what matters within each segment
 - [Pretraining](pretraining.md) — teaching names and characteristics of key concepts beforehand so cues land on familiar referents
 - [Weeding](weeding.md) — removing irrelevant material entirely; signaling is the lighter-touch alternative when content cannot be cut
+- [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](focused-more-is-more-generative-processing.md)
 
 ## Examples
 - **Mautone & Mayer's signaling experiments** — Adding headings, bolded key terms, and signposting to a NASA multimedia lesson on how airplanes achieve lift improved retention and transfer.

@@ -52,3 +52,4 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
 - [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](local-indigenous-culture-student-interest.md) — related
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — related
+- [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](entrepreneur-course-trial-matches-business-majors.md) — related

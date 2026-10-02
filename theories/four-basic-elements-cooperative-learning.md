@@ -43,6 +43,7 @@ The review presents the Johnsons' account of what distinguishes cooperative lear
 
 - [Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing](five-basic-elements-of-cooperative-learning.md)
 - [Kagan's PIES principles of cooperative learning](kagan-pies-cooperative-learning-principles.md)
+- [Cooperative learning as socially structured, mutually accountable group learning](cooperative-learning-definition-olsen-kagan.md)
 
 ## Examples
 -

@@ -68,3 +68,5 @@ Meta-analysis comparing project-based learning against traditional, teacher-led 
 - [Activation improves learning](../claims/activation-improves-learning.md) — project launches that activate prior knowledge are a plausible on-ramp to achievement gains.
 - [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — a narrower finding that bears on this claim
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — a narrower finding that bears on this claim
+- [A scoping review of a 2% sample of search returns can estimate the scope of a PBL meta-analysis, including projected studies, outcomes, and exclusion reasons](scoping-review-estimates-meta-analysis-scope.md) — related
+- [Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed](target-teach-gains-across-all-subjects.md) — related

@@ -47,6 +47,7 @@ This reversibility at the ENS stage is the conceptual prerequisite for **multipl
 
 - (none yet linked)
 - [The number sequence hierarchy (INS, TNS, aTNS, ENS, GNS) defined by units coordination and splitting](cl-number-sequence-hierarchy-defined-by-units-coordination-and-splitting-models-students-algebraic-reasoning.md)
+- [S*NLS as the linking mechanism between spatial structuring and numerical structuring](s-nls-spatial-numerical-linked-structuring.md)
 
 ## Examples
 - A child solving 8+7 by counting-on ("8; 9-10-11...15") is inferred to be at the Initial Number Sequence — reasoning on units of one.

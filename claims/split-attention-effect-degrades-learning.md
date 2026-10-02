@@ -112,3 +112,5 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](teachers-report-simultaneous-words-graphics-presentation.md) — related
+- [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](spatial-contiguity-meta-analysis-36-studies.md) — possibly the same claim (merge candidate)
+- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related

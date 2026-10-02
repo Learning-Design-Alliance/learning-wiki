@@ -56,9 +56,11 @@ Pacing works by aligning presentation rate with working memory limits: content d
 5. Signal structure in advance so learners know where they are ([Advance Organizers](../elements/advance-organizers.md)).
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — the segmentation logic that pacing operationalizes in time
 - [Mastery Learning](../strategies/mastery-learning.md) — pacing gated on demonstrated competence rather than time
 - [Retrieval Practice](../strategies/retrieval-practice.md) — the pause-point activity that makes pacing pauses productive
+- [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — learner-paced videos with pause/scrub control, followed by exercises that gate progression on mastery.

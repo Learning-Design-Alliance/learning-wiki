@@ -60,9 +60,11 @@ PBL aims to build flexible, usable knowledge by anchoring it in the context of a
 5. **Reflect** — close with structured reflection on both the solution and the group's learning process, connecting to [Assessment for Learning](../principles/assessment-for-learning.md).
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — uses cases as illustrations *after* content teaching, whereas PBL puts the problem first; the two are often hybridized
 - [Project Based Learning](project-based-learning.md) — similar authentic framing but culminates in a concrete artifact rather than a diagnostic solution
 - [Jigsaw Method](../patterns/jigsaw-method.md) — a complementary structure for distributing the self-directed inquiry across group members
+- [Prepare students for collaborative learning before PBL cases and require reflection on the PBL process as assessment](prepare-and-assess-pbl-process-reflection.md)
 
 ## Examples
 - **McMaster University Medical School** — the original PBL curriculum (1969), in which small tutorial groups work through patient problems; adopted widely, notably at Maastricht University ([https://www.maastrichtuniversity.nl](https://www.maastrichtuniversity.nl))

@@ -57,6 +57,7 @@ A web-based training on self-regulated learning that "can be attended by virtual
 ## Examples
 
 - [Use computer-based instruction with observation, collaboration, and semi-structured guidance, plus online metacognitive guidance, to enhance SRL in mathematics](../strategies/computer-based-metacognitive-instruction-enhances-srl-in-maths.md)
+- [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](../strategies/explicit-teaching-srl-methods-online-blended.md)
 
 ## Key Sources
 - Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381

@@ -50,3 +50,4 @@ Case study observations (Theme 1) of two teachers selected for maximal variety f
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](increased-web-technology-use-over-project.md) — related
 - [After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves](epistemological-moves-shift-after-intervention.md) — related
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
+- [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — related

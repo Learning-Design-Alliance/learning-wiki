@@ -69,3 +69,4 @@ ANOVA on 1-7 Likert difficulty self-ratings after the lesson. The elaborative-in
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
 - [Open-ended responses rank the review section and practice questions as the most-liked lesson features](open-ended-likes-review-and-practice-top.md) — related
+- [Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity](mental-effort-study-time-indicate-element-interactivity.md) — related

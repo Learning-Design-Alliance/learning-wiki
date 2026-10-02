@@ -64,3 +64,4 @@ Paired t-tests on RC MACS pre- and post-scores for each group. "the VNT group ac
 ## Related Claims
 - [Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-macs-comprehension.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
+- [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — related

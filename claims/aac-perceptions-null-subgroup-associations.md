@@ -68,3 +68,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md)
 - [No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation](mdc-articulation-null-correlates-paternal-factors.md)
+- [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related

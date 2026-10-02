@@ -40,7 +40,8 @@ The article recommends LoU Interview data as a practical tool for change agents:
 - [Levels Of Use Innovation Eight Level Framework](../theories/levels-of-use-innovation-eight-level-framework.md)
 
 ## Related Strategies
-- 
+
+- [Use value-added school ratings for low-cost ex post facto evaluation of district programs](value-added-ratings-for-ex-post-facto-program-evaluation.md)
 
 ## Examples
 -

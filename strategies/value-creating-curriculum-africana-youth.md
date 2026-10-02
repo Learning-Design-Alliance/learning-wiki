@@ -45,7 +45,8 @@ The article recommends designing curriculum and extra-curricular activities that
 - [Soka Value Creating Education Happiness Aim](../theories/soka-value-creating-education-happiness-aim.md)
 
 ## Related Strategies
-- 
+
+- [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
 
 ## Examples
 -

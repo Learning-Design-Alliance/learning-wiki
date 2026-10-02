@@ -42,6 +42,7 @@ The article recommends that instructors teach the three strategy factors that pr
 ## Related Strategies
 
 - [Incorporate explicit direct instruction of metacognitive reading strategies into the reading curriculum](direct-metacognitive-strategy-instruction-reading-curriculum.md)
+- [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](explicit-teaching-srl-methods-online-blended.md)
 
 ## Examples
 -

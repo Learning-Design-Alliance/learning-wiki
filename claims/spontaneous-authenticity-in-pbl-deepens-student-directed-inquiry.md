@@ -52,3 +52,4 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — a broader claim this one bears on
 - [Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values](spontaneous-reactions-draw-on-internalised-values.md) — related
 - [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- [Students in PBL experimental groups reported positive views of problem-based learning in qualitative follow-up interviews](pbl-students-positive-views-interviews.md) — related

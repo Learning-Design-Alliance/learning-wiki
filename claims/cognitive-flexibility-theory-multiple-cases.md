@@ -81,3 +81,4 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md) — a broader claim this one bears on
 - [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md) — a broader claim this one bears on
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)](cft-hypertext-design-higher-achievement-scores.md) — a narrower finding that bears on this claim

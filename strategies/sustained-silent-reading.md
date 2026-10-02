@@ -61,9 +61,11 @@ SSR rests on the premise that reading volume drives vocabulary growth, fluency, 
 6. **Monitor and adjust.** Watch for fake-reading; confer individually with students who stall, and adjust text access rather than imposing requirements.
 
 ## Related Strategies
+
 - [Assigned Readings](../elements/assigned-readings.md) — the teacher-controlled counterpart; SSR trades instructional control for motivation
 - [Annotating](../principles/annotating.md) — active text engagement that SSR deliberately omits; the two serve different goals
 - [Independent reading conferences](../strategies/reading-conferences.md) — a light-accountability variant that preserves choice
+- [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 
 ## Examples
 - **DEAR (Drop Everything and Read)** — a widely adopted school-wide variant in which the entire school pauses for scheduled silent reading; see [https://www.readingrockets.org](https://www.readingrockets.org/topics/assessment-and-evaluation/articles/sustained-silent-reading)

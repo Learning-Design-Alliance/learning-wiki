@@ -40,7 +40,8 @@ The article applies the cognitive theory of multimedia learning (Mayer & Moreno)
 - [Enhancing Features Increase Attention Single Language E Books](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+M]
 
 ## Related Theories
-- 
+
+- [Cognitive Theory of Multimedia Learning (CTML) as applied to emergent bilingual instruction](ctml-for-emergent-bilinguals.md)
 
 ## Examples
 -

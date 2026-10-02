@@ -62,3 +62,4 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related
 - [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related
+- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](pretraining-principle-increased-learning-outcomes.md) — a broader claim this one bears on

@@ -50,3 +50,4 @@ The authors' own limitations section for this correlational, cross-sectional stu
 - [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
+- [Overlapping confidence intervals of Japanese math performance and mastery learning effects indicate a potential relationship, not a causal conclusion](overlapping-ci-potential-relationship.md) — a narrower finding that bears on this claim
