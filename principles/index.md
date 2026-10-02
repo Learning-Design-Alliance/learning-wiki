@@ -12,37 +12,37 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### A {: #letter-a }
 
-* [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) - Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty.
-* [Activation](activation.md) - Activation is the principle of prompting learners to surface prior knowledge, experiences, or related schemas before new instruction.
-* [Active Learning](active-learning.md) - Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it.
+* [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) - For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention.
+* [Activation](activation.md) - For learners whose relevant prior knowledge is accurate and is then used by the instruction that follows, an activity that makes it visible before instruction may improve comprehension or retention, while activating topic knowledge alone has often shown little effect and activated misconceptions need confronting.
+* [Active Learning](active-learning.md) - For learners meeting new material in a course, class time spent generating, explaining or applying the content with feedback, rather than only listening, is expected to raise course-end exam and concept-inventory scores, qualified by guidance for novices, the kind of engagement and what else changed with the format.
 * [Adaptive Learning](adaptive-learning.md) - Adaptive learning systems and designs continuously adjust task difficulty, sequencing, and support based on each learner's ongoing performance, so every learner works at the edge of their current competence.
 * [Analogical Reasoning](analogical-reasoning.md) - Analogical reasoning is the principle of using relational similarity between a familiar case and a new case to support understanding, inference, and transfer.
-* [Annotating](annotating.md) - Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading.
+* [Annotating](annotating.md) - For readers of a demanding text, marking it may improve later performance on what was marked, while gains in comprehension are expected only from annotations that make the reader select, explain or question, and remain largely untested.
 * [Ask Experts](ask-experts.md) - Give learners structured access to people with deeper domain expertise so they can ask questions, hear expert reasoning, receive targeted feedback, and compare their own thinking to more mature practice.
-* [Assessment for Learning](assessment-for-learning.md) - Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it.
+* [Assessment for Learning](assessment-for-learning.md) - Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged.
 * [Audiobooks](audiobooks.md) - Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently.
-* [Authentic Audiences & Purposes](authentic-audiences-purposes.md) - Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader.
+* [Authentic Audiences & Purposes](authentic-audiences-purposes.md) - For writing and project work, addressing a genuine reader beyond the teacher-as-grader is associated with higher-rated products in small comparisons, conditional on the audience being credible, the criteria explicit and support for revision present.
 * [Autonomy](autonomy.md) - Autonomy in learning design means giving learners meaningful ownership over how, when, and why they engage — supporting their sense of volition rather than controlling their behavior.
 
 #### B {: #letter-b }
 
 * [Behaviorism](behaviorism.md) - Behaviorism, as an instructional principle, emphasizes observable performance, repeated practice, feedback, and reinforcement in shaping learning.
-* [Building Empathy](building-empathy.md) - Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation.
+* [Building Empathy](building-empathy.md) - For a learner forming an interpretation of another person or group, structured perspective-taking with concrete accounts and comparison of interpretations may improve attitudes towards that group, a relationship qualified by outcome, dose, target and horizon.
 
 #### C {: #letter-c }
 
 * [Case Studies/Case-based Learning](case-studiescase-based-learning.md) - Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action.
-* [Check-ins](check-ins.md) - Check-ins are brief, recurring opportunities for learners to signal how they are doing, what they understand, and what kind of support they need.
-* [Chunking](chunking.md) - Chunking is the instructional design strategy of breaking complex information or tasks into smaller, more manageable units (chunks) to align with the limited capacity of human working memory.
-* [Clear Structure](clear-structure.md) - Clear structure is the short-form canonical target for designs that make the organization, sequence, and expectations of learning visible and easy to follow.
+* [Check-ins](check-ins.md) - A brief, recurring prompt for learners to report their state can guide the next instructional move, but only when the report is read as uncertain evidence, checked against performance where accuracy matters, and acted on.
+* [Chunking](chunking.md) - For a learner who cannot yet treat a task's elements as familiar units, presenting the material in meaningful units with boundaries at conceptual breaks, then recombining them, is expected to ease processing and may improve immediate performance; what counts as a unit depends on that learner's prior knowledge.
+* [Clear Structure](clear-structure.md) - For learners without an organization of their own for unfamiliar material, making its organization explicit (signals, lean organizers, graphics that match the content and task) may improve what they select and recall on immediate tests, an effect qualified by prior knowledge, structural match and outcome.
 * [Cognitive Activation](cognitive-activation.md) - Cognitive activation is the principle of prompting learners to think deeply, make connections, explain reasoning, and grapple with ideas rather than merely recall or comply.
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.
 * [Cognitive Disequilibrium](cognitive-disequilibrium.md) - Cognitive disequilibrium is the principle of using mismatch, surprise, or contradiction to unsettle an existing mental model and create readiness for revision.
 * [Cognitive Flexibility](cognitive-flexibility.md) - Cognitive flexibility is the principle of helping learners represent, interpret, and apply knowledge in more than one way rather than locking it into a single rigid schema.
-* [Cognitive Load Management](cognitive-load-management.md) - Cognitive load management is the short-form canonical target for instructional choices that reduce extraneous processing, sequence support, and calibrate task demands to learner expertise.
+* [Cognitive Load Management](cognitive-load-management.md) - Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need.
 * [Cognitive Load Reduction](cognitive-load-reduction.md) - Cognitive load reduction is the short-form canonical target for instructional moves that simplify presentation, reduce extraneous processing, and make initial learning more manageable.
 * [Cognitive Load Theory](cognitive-load-theory.md) - For a task-specific novice on high-element-interactivity material, reducing avoidable processing is expected to improve performance or efficiency, a relationship that weakens or reverses as task-specific expertise grows.
-* [Collaborative Learning](collaborative-learning.md) - Collaborative learning is the principle of designing tasks so learners build understanding through shared work, dialogue, and interdependence rather than isolated effort alone.
+* [Collaborative Learning](collaborative-learning.md) - For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it.
 * [Communities of Practice](communities-of-practice.md) - Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession.
 * [Community of Inquiry](community-of-inquiry.md) - Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence.
 * [Community-Based Learning](community-based-learning.md) - Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context.
@@ -182,7 +182,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### S {: #letter-s }
 
-* [Scaffolding](scaffolding.md) - Scaffolding is the principle of providing temporary support that helps learners perform beyond what they could do independently.
+* [Scaffolding](scaffolding.md) - Temporary support given while a learner attempts a task they cannot yet complete alone may improve later cognitive outcomes compared with unsupported attempts, qualified by the learner's task-specific starting response, the kind of support, the setting and whether the outcome is measured without the support.
 * [Scaffolding and Fading](scaffolding-and-fading.md) - Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon.
 * [Self Affirmation](self-affirmation.md) - Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.
 * [Self-Determination Theory](self-determination-theory.md) - Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.

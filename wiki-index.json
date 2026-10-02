@@ -38208,7 +38208,7 @@
    "type": "pattern"
   },
   {
-   "description": "Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.",
+   "description": "A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall.",
    "grain_size": "lesson",
    "id": "case-based-learning",
    "path": "patterns/case-based-learning.md",
@@ -39352,7 +39352,7 @@
    "type": "pattern"
   },
   {
-   "description": "Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group.",
+   "description": "A reusable think, pair, share policy for open questions, in which protected individual think time and a partner exchange of reasoning are expected to widen and improve public responses, conditional on the prompt, pair dynamics, individual accountability and an immediate horizon.",
    "grain_size": "lesson",
    "id": "think-pair-share",
    "path": "patterns/think-pair-share.md",
@@ -39430,7 +39430,7 @@
    "type": "principle"
   },
   {
-   "description": "Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty.",
+   "description": "For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention.",
    "id": "accessible-vocabulary-syntax",
    "path": "principles/accessible-vocabulary-syntax.md",
    "status": "review",
@@ -39454,7 +39454,7 @@
    "type": "principle"
   },
   {
-   "description": "Activation is the principle of prompting learners to surface prior knowledge, experiences, or related schemas before new instruction.",
+   "description": "For learners whose relevant prior knowledge is accurate and is then used by the instruction that follows, an activity that makes it visible before instruction may improve comprehension or retention, while activating topic knowledge alone has often shown little effect and activated misconceptions need confronting.",
    "id": "activation",
    "path": "principles/activation.md",
    "status": "review",
@@ -39462,7 +39462,7 @@
    "type": "principle"
   },
   {
-   "description": "Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it.",
+   "description": "For learners meeting new material in a course, class time spent generating, explaining or applying the content with feedback, rather than only listening, is expected to raise course-end exam and concept-inventory scores, qualified by guidance for novices, the kind of engagement and what else changed with the format.",
    "id": "active-learning",
    "path": "principles/active-learning.md",
    "status": "review",
@@ -39574,7 +39574,7 @@
    "type": "principle"
   },
   {
-   "description": "Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading.",
+   "description": "For readers of a demanding text, marking it may improve later performance on what was marked, while gains in comprehension are expected only from annotations that make the reader select, explain or question, and remain largely untested.",
    "id": "annotating",
    "path": "principles/annotating.md",
    "status": "review",
@@ -39638,7 +39638,7 @@
    "type": "principle"
   },
   {
-   "description": "Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it.",
+   "description": "Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged.",
    "id": "assessment-for-learning",
    "path": "principles/assessment-for-learning.md",
    "status": "review",
@@ -39662,7 +39662,7 @@
    "type": "principle"
   },
   {
-   "description": "Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader.",
+   "description": "For writing and project work, addressing a genuine reader beyond the teacher-as-grader is associated with higher-rated products in small comparisons, conditional on the audience being credible, the criteria explicit and support for revision present.",
    "id": "authentic-audiences-purposes",
    "path": "principles/authentic-audiences-purposes.md",
    "status": "review",
@@ -39774,7 +39774,7 @@
    "type": "principle"
   },
   {
-   "description": "Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation.",
+   "description": "For a learner forming an interpretation of another person or group, structured perspective-taking with concrete accounts and comparison of interpretations may improve attitudes towards that group, a relationship qualified by outcome, dose, target and horizon.",
    "id": "building-empathy",
    "path": "principles/building-empathy.md",
    "status": "review",
@@ -39830,7 +39830,7 @@
    "type": "principle"
   },
   {
-   "description": "Check-ins are brief, recurring opportunities for learners to signal how they are doing, what they understand, and what kind of support they need.",
+   "description": "A brief, recurring prompt for learners to report their state can guide the next instructional move, but only when the report is read as uncertain evidence, checked against performance where accuracy matters, and acted on.",
    "id": "check-ins",
    "path": "principles/check-ins.md",
    "status": "review",
@@ -39838,7 +39838,7 @@
    "type": "principle"
   },
   {
-   "description": "Chunking is the instructional design strategy of breaking complex information or tasks into smaller, more manageable units (chunks) to align with the limited capacity of human working memory.",
+   "description": "For a learner who cannot yet treat a task's elements as familiar units, presenting the material in meaningful units with boundaries at conceptual breaks, then recombining them, is expected to ease processing and may improve immediate performance; what counts as a unit depends on that learner's prior knowledge.",
    "id": "chunking",
    "path": "principles/chunking.md",
    "status": "review",
@@ -39857,7 +39857,7 @@
    "aliases": [
     "clear-structure-presentation"
    ],
-   "description": "Clear structure is the short-form canonical target for designs that make the organization, sequence, and expectations of learning visible and easy to follow.",
+   "description": "For learners without an organization of their own for unfamiliar material, making its organization explicit (signals, lean organizers, graphics that match the content and task) may improve what they select and recall on immediate tests, an effect qualified by prior knowledge, structural match and outcome.",
    "id": "clear-structure",
    "path": "principles/clear-structure.md",
    "status": "review",
@@ -39913,7 +39913,7 @@
    "type": "principle"
   },
   {
-   "description": "Cognitive load management is the short-form canonical target for instructional choices that reduce extraneous processing, sequence support, and calibrate task demands to learner expertise.",
+   "description": "Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need.",
    "id": "cognitive-load-management",
    "path": "principles/cognitive-load-management.md",
    "status": "review",
@@ -39953,7 +39953,7 @@
    "type": "principle"
   },
   {
-   "description": "Collaborative learning is the principle of designing tasks so learners build understanding through shared work, dialogue, and interdependence rather than isolated effort alone.",
+   "description": "For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it.",
    "id": "collaborative-learning",
    "path": "principles/collaborative-learning.md",
    "status": "review",
@@ -42490,7 +42490,7 @@
    "type": "principle"
   },
   {
-   "description": "Scaffolding is the principle of providing temporary support that helps learners perform beyond what they could do independently.",
+   "description": "Temporary support given while a learner attempts a task they cannot yet complete alone may improve later cognitive outcomes compared with unsupported attempts, qualified by the learner's task-specific starting response, the kind of support, the setting and whether the outcome is measured without the support.",
    "id": "scaffolding",
    "path": "principles/scaffolding.md",
    "status": "review",

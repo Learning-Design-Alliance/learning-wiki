@@ -22,7 +22,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### C {: #letter-c }
 
-* [Case-Based Learning](case-based-learning.md) - Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.
+* [Case-Based Learning](case-based-learning.md) - A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall.
 * [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md) - Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making.
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal.
 * [Cognitive Flexibility Theory](cognitive-flexibility-theory.md) - Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
@@ -119,7 +119,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### T {: #letter-t }
 
 * [Team Based Learning](team-based-learning.md) - A unit-level readiness-assurance policy (individual closed-book test, team retest with immediate feedback, appeals, targeted clarification, then team application) whose test-and-feedback steps rest on retrieval evidence and whose team formation, application exercises and peer evaluation do not.
-* [Think-Pair-Share](think-pair-share.md) - Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group.
+* [Think-Pair-Share](think-pair-share.md) - A reusable think, pair, share policy for open questions, in which protected individual think time and a partner exchange of reasoning are expected to widen and improve public responses, conditional on the prompt, pair dynamics, individual accountability and an immediate horizon.
 * [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md) - This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final…
 * [Traditional Lecture-Based Instruction](traditional-lecture-based-instruction.md) - Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
 
