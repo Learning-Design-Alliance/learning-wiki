@@ -185,6 +185,22 @@ def run(name: str, model: str, workers: int, limit: int):
     print(f"run {name}: ${cost:.3f} -> {out}")
 
 
+def combine(a: dict, b: dict) -> tuple:
+    """(verdict, canonical, needs_review). Read from a sample of the two runs' disagreements
+    (2026-10-02): GPT (run a) draws the design and misfiled lines where the settled rules
+    do, DeepSeek (run b) calls most single-setting pages variants and most recommendation
+    pages canonical. So agreement stands; design against variant is a design (both say it
+    is not a general page); anything else is the GPT verdict, flagged for a person."""
+    ca, cb = a.get("class"), b.get("class")
+    target = a.get("canonical") if a.get("canonical") else b.get("canonical")
+    if ca == cb:
+        same = a.get("canonical") == b.get("canonical") or ca not in ("duplicate", "variant")
+        return ca, target if ca in ("duplicate", "variant") else "", not same
+    if {ca, cb} == {"design", "variant"}:
+        return "design", "", False
+    return ca or cb, target if (ca or cb) in ("duplicate", "variant") else "", True
+
+
 def table():
     allp = pages()
     runs = {}
@@ -199,7 +215,7 @@ def table():
     cols = ["key", "title", "status", "inbound", "claims", "sources", "converted"]
     for n in names:
         cols += [f"{n}_class", f"{n}_canonical", f"{n}_kind", f"{n}_reason"]
-    cols += ["agree"]
+    cols += ["agree", "verdict", "verdict_canonical", "suggested_kind", "review"]
     lines = ["\t".join(cols)]
     tally = collections.Counter()
     for key, r in sorted(allp.items(), key=lambda kv: (-kv[1]["inbound"], kv[0])):
@@ -213,7 +229,11 @@ def table():
             verdicts.append((d.get("class"), d.get("canonical") if d.get("class") in ("duplicate", "variant") else None))
         agree = "yes" if len(verdicts) > 1 and len(set(verdicts)) == 1 else ("class" if len(verdicts) > 1 and len({v[0] for v in verdicts}) == 1 else "no")
         row.append(agree if len(names) > 1 else "")
-        tally[(r["kind"], verdicts[0][0] if verdicts else None, agree)] += 1
+        a, b = runs.get("a", {}).get(key, {}), runs.get("b", {}).get(key, {})
+        v, tgt, rev = combine(a, b)
+        row += [v or "", tgt or "", a.get("suggested_kind") or b.get("suggested_kind") or "" if v == "misfiled" else "",
+                "yes" if rev else ""]
+        tally[(r["kind"], v, "review" if rev else "settled")] += 1
         lines.append("\t".join(row))
     TABLE.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"{len(allp)} rows -> {TABLE}")

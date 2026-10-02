@@ -121,6 +121,23 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (night) — every principle and pattern triaged; nothing moved yet
+
+- **`eval/page-triage/triage.tsv`** (`scripts/triage_design_pages.py`, README beside it) classes all 837
+  principle and pattern pages as canonical, duplicate, variant, design or misfiled, from two model runs
+  (GPT 5.6 Luna and DeepSeek V4 Pro, $1.80), each page shown with its ten nearest same-kind pages. They agree
+  on 64% of principles and 48% of patterns, systematically: DeepSeek calls single-setting designs "variants"
+  and recommendation pages "canonical", GPT draws those lines where the settled rules do, so the verdict is
+  agreement, else design-over-variant, else GPT with a review flag. **Writes no page; every move is a
+  maintainer decision** (where designs live; merging duplicates; moving misfiled pages).
+- **Results**: canonical 197 principles and 64 patterns (64% of inbound links each); 121 patterns are
+  designs; 46 duplicates (20 point at a target with fewer inbound links, so direction is decided at merge);
+  138 misfiled. **The conversion core is ~100 pages**: 106 canonical pages have 5+ inbound links, 15 already
+  converted. **Seven converted pages are classed as variants or duplicates** (`principles/cognitive-load-theory`
+  of `cognitive-load-management`, `scaffolding-and-fading`, `self-regulated-learning`, `cooperative-learning`,
+  `direct-instruction`, `peer-discussion`, `patterns/team-based-learning`): fold their siblings into them or
+  port the conversion before the next wave.
+
 ### 2026-10-02 (evening) — batch 12 landed; the PBL pair reworked and re-tested
 
 - **Batch 12** (`eval/deep-dive/principle-pattern-pairs/topics.txt`): re-run on a new key from the cached
