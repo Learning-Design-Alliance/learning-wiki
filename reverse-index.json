@@ -39,19 +39,20 @@
   "methods->theories": 7,
   "patterns->claims": 117,
   "patterns->designs": 18,
-  "patterns->elements": 76,
-  "patterns->methods": 3,
-  "patterns->patterns": 87,
-  "patterns->principles": 71,
-  "patterns->theories": 30,
+  "patterns->elements": 78,
+  "patterns->methods": 4,
+  "patterns->patterns": 88,
+  "patterns->principles": 73,
+  "patterns->processes": 1,
+  "patterns->theories": 28,
   "principles->claims": 399,
   "principles->designs": 34,
   "principles->elements": 88,
   "principles->methods": 3,
-  "principles->patterns": 64,
+  "principles->patterns": 69,
   "principles->principles": 269,
   "principles->processes": 2,
-  "principles->theories": 114,
+  "principles->theories": 107,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -307,6 +308,13 @@
      },
      {
       "slug": "organization-task-match-determines-benefit"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "elaboration-theory",
+      "strength": "M"
      }
     ]
    },
@@ -2252,6 +2260,11 @@
       "polarity": "+",
       "slug": "5e-learning-cycle",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "blended-learning",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -4487,6 +4500,11 @@
       "polarity": "+",
       "slug": "concept-attainment",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "elaboration-theory",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -4755,6 +4773,13 @@
      },
      {
       "slug": "glossing-medium-large-effects-l2-vocabulary"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "game-based-learning",
+      "strength": "W"
      }
     ]
    },
@@ -6587,12 +6612,22 @@
       "polarity": "~",
       "slug": "debate",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
+      "strength": "M"
      }
     ],
     "principles": [
      {
       "polarity": "+",
       "slug": "disciplinary-literacy",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "epistemic-cognition",
       "strength": "M"
      }
     ],
@@ -7292,7 +7327,7 @@
      {
       "polarity": "+",
       "slug": "constructive-alignment",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -15536,9 +15571,9 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "blended-learning",
-      "strength": "W"
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -18141,6 +18176,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-flexibility",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -18667,6 +18709,13 @@
      {
       "polarity": "~",
       "slug": "authentic-assessment",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-cognition",
       "strength": "M"
      }
     ],
@@ -19691,7 +19740,7 @@
      {
       "polarity": "~",
       "slug": "elaboration-theory",
-      "strength": "S"
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -23052,6 +23101,11 @@
       "polarity": "+",
       "slug": "disciplinary-literacy",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "epistemic-cognition",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -26093,6 +26147,11 @@
      {
       "polarity": "~",
       "slug": "analogical-reasoning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "cognitive-flexibility",
       "strength": "M"
      }
     ],
@@ -29426,7 +29485,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "epistemic-cognition",
       "strength": "M"
      }
@@ -30626,13 +30685,23 @@
      {
       "polarity": "+",
       "slug": "concept-attainment",
-      "strength": "S"
+      "strength": "M"
      }
     ],
     "principles": [
      {
       "polarity": "~",
       "slug": "analogical-reasoning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "cognitive-activation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "cognitive-flexibility",
       "strength": "M"
      },
      {
@@ -31062,6 +31131,13 @@
      },
      {
       "slug": "nonassessment-unacceptable-alternative"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "constructive-alignment",
+      "strength": "W"
      }
     ]
    },
@@ -31747,6 +31823,13 @@
       "slug": "mofacts-online-tutoring-system",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "error-analysis",
+      "strength": "W"
+     }
     ]
    },
    "congenitally-blind-imagery-task-performance": {
@@ -32167,6 +32250,11 @@
       "polarity": "~",
       "slug": "debate",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
+      "strength": "W"
      }
     ],
     "strategies": [
@@ -32329,6 +32417,11 @@
      {
       "polarity": "~",
       "slug": "active-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "cognitive-activation",
       "strength": "M"
      }
     ]
@@ -33262,7 +33355,7 @@
      {
       "polarity": "+",
       "slug": "guided-practice",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -34275,6 +34368,11 @@
     "patterns": [
      {
       "polarity": "~",
+      "slug": "structured-academic-controversy",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "think-pair-share",
       "strength": "M"
      }
@@ -34871,6 +34969,13 @@
      {
       "polarity": "+",
       "slug": "social-learning",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
       "strength": "M"
      }
     ],
@@ -39674,6 +39779,11 @@
       "polarity": "~",
       "slug": "debate",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -40812,6 +40922,13 @@
      {
       "polarity": "+",
       "slug": "multimedia-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multimodal-instruction",
       "strength": "M"
      }
     ],
@@ -43071,7 +43188,7 @@
      {
       "polarity": "+",
       "slug": "epistemic-cognition",
-      "strength": "M"
+      "strength": "W"
      }
     ],
     "theories": [
@@ -43850,6 +43967,13 @@
      },
      {
       "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-flexibility",
+      "strength": "W"
      }
     ]
    },
@@ -45078,6 +45202,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "error-analysis",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "teach-conceptual-underpinnings-of-l2-forms",
       "strength": "W"
@@ -45446,6 +45575,13 @@
      },
      {
       "slug": "teacher-questions-low-bloom-levels-cooperative-dialogue"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "constructive-alignment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -46048,6 +46184,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "kolb-derived-curriculum-guidelines",
@@ -48990,7 +49131,7 @@
      {
       "polarity": "+",
       "slug": "guided-practice",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -50221,6 +50362,11 @@
     ],
     "principles": [
      {
+      "polarity": "+",
+      "slug": "error-analysis",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "immediate-feedback",
       "strength": "M"
@@ -50386,6 +50532,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "error-analysis",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "immediate-feedback",
@@ -54061,6 +54212,11 @@
       "polarity": "+",
       "slug": "formative-assessment-embedded-explicit-reflective-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "reflection",
+      "strength": "W"
      }
     ]
    },
@@ -55137,6 +55293,13 @@
      {
       "slug": "teaching-games-for-understanding-improves-tactical-decision-making"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "game-based-learning",
+      "strength": "W"
+     }
     ]
    },
    "game-design-moderates-dgbl-effectiveness": {
@@ -55158,6 +55321,13 @@
      },
      {
       "slug": "students-progress-through-zones-of-mathematical-play"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "W"
      }
     ]
    },
@@ -55270,6 +55440,11 @@
    },
    "gamification-has-small-positive-effects-on-learning-outcomes": {
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "gamification",
@@ -56396,6 +56571,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "goal-setting-monitoring",
+      "strength": "M"
+     }
+    ],
     "processes": [
      {
       "polarity": "+",
@@ -57485,6 +57667,11 @@
     ],
     "patterns": [
      {
+      "polarity": "~",
+      "slug": "concept-attainment",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "inquiry-based-learning",
       "strength": "S"
@@ -57576,6 +57763,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "experiential-learning",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
       "slug": "inquiry-based-learning",
       "strength": "S"
      }
@@ -57656,6 +57848,13 @@
      },
      {
       "slug": "students-progress-through-zones-of-mathematical-play"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "W"
      }
     ],
     "strategies": [
@@ -57741,6 +57940,11 @@
       "polarity": "+",
       "slug": "guided-prompts-and-faculty-involvement-encourage-integrative-reflection",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "reflection",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -57873,6 +58077,13 @@
      {
       "polarity": "+",
       "slug": "concrete-modeling",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning",
       "strength": "M"
      }
     ],
@@ -58219,6 +58430,13 @@
       "slug": "strong-acquisition-tasks-improve-internalization"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "elaboration-theory",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -58407,7 +58625,7 @@
      {
       "polarity": "+",
       "slug": "error-analysis",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -59008,6 +59226,13 @@
       "slug": "summarization-improves-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "elaboration-theory",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -59452,6 +59677,13 @@
      },
      {
       "slug": "students-perceive-clicker-levels-equally-helpful"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "constructive-alignment",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -60878,6 +61110,13 @@
     ]
    },
    "implementation-intentions-improve-goal-attainment": {
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "goal-setting-monitoring",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -62152,6 +62391,13 @@
       "slug": "selecting-an-instructional-design-model",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "constructive-alignment",
+      "strength": "W"
+     }
     ]
    },
    "instructions-increase-learning-time-allocation": {
@@ -62499,6 +62745,13 @@
       "slug": "bkt-sequence-recommendation-students-solved-harder-exercises"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -62672,6 +62925,13 @@
      {
       "polarity": "+",
       "slug": "interaction-equivalency-theorem-indicator",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "blended-learning",
       "strength": "W"
      }
     ],
@@ -63272,6 +63532,13 @@
      {
       "polarity": "~",
       "slug": "practice",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "concept-attainment",
       "strength": "M"
      }
     ],
@@ -66219,6 +66486,13 @@
       "strength": "S"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "epistemic-cognition",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -67659,6 +67933,11 @@
       "polarity": "-",
       "slug": "adaptive-learning",
       "strength": "S"
+     },
+     {
+      "polarity": "-",
+      "slug": "multimodal-instruction",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -73585,6 +73864,11 @@
       "strength": "S"
      },
      {
+      "polarity": "~",
+      "slug": "cognitive-activation",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "direct-instruction",
       "strength": "S"
@@ -74724,6 +75008,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "multimodal-instruction",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "prefer-narration-over-on-screen-text-middle-school",
@@ -76373,6 +76662,11 @@
     ],
     "principles": [
      {
+      "polarity": "+",
+      "slug": "guided-practice",
+      "strength": "W"
+     },
+     {
       "polarity": "-",
       "slug": "retrieval-practice",
       "strength": "M"
@@ -77297,6 +77591,18 @@
      {
       "polarity": "+",
       "slug": "multimedia-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-flexibility",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "multimodal-instruction",
       "strength": "M"
      }
     ],
@@ -78774,6 +79080,13 @@
      {
       "slug": "hierarchical-organization-improves-complex-task-performance"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "elaboration-theory",
+      "strength": "M"
+     }
     ]
    },
    "no-posttest-differences-between-practice-conditions": {
@@ -79436,6 +79749,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "error-analysis",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -79605,6 +79925,13 @@
      },
      {
       "slug": "preoperational-judgment-by-appearance-clay-task"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "game-based-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -80055,6 +80382,13 @@
      {
       "polarity": "+",
       "slug": "dropout-timing-stage-definitions",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "blended-learning",
       "strength": "W"
      }
     ]
@@ -80530,6 +80864,13 @@
      },
      {
       "slug": "strong-acquisition-tasks-improve-internalization"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "elaboration-theory",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -81142,6 +81483,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "error-analysis",
+      "strength": "W"
+     },
      {
       "polarity": "~",
       "slug": "minimize-errors-for-precision-and-associations",
@@ -84943,6 +85289,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "experiential-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -86708,11 +87061,21 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "constructive-alignment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "gagnes-9-events-of-instruction",
       "strength": "M"
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "guided-practice",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "include-aligned-practice-in-cbi",
@@ -89124,6 +89487,11 @@
      },
      {
       "polarity": "~",
+      "slug": "error-analysis",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "inquiry-based-learning",
       "strength": "M"
      },
@@ -89795,6 +90163,13 @@
      {
       "slug": "teacher-self-efficacy-achievement-and-implementation"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "goal-setting-monitoring",
+      "strength": "W"
+     }
     ]
    },
    "psat-national-merit-awards-skew-male": {
@@ -89936,6 +90311,13 @@
      {
       "slug": "self-efficacy-dimension-differences-ptfc-cfc"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "blended-learning",
+      "strength": "W"
+     }
     ]
    },
    "ptfc-beats-cfc-self-efficacy": {
@@ -90040,6 +90422,11 @@
      {
       "polarity": "~",
       "slug": "authentic-audiences-purposes",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "reflection",
       "strength": "W"
      }
     ],
@@ -91827,6 +92214,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "multimodal-instruction",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -92039,6 +92433,18 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "experiential-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "reflection",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -92098,6 +92504,18 @@
      {
       "polarity": "+",
       "slug": "experiential-learning-cycle",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "reflection",
       "strength": "M"
      }
     ],
@@ -94014,6 +94432,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "guided-practice",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "retrieval-practice",
       "strength": "M"
@@ -95637,6 +96060,13 @@
     "claims": [
      {
       "slug": "minimal-guidance-less-effective-for-novices"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "concept-attainment",
+      "strength": "W"
      }
     ]
    },
@@ -97343,6 +97773,11 @@
      },
      {
       "polarity": "~",
+      "slug": "reflection",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "self-regulated-learning",
       "strength": "M"
      }
@@ -98113,6 +98548,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "goal-setting-monitoring",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "motivation",
@@ -100340,6 +100780,11 @@
      },
      {
       "polarity": "+",
+      "slug": "error-analysis",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "evaluating-sources",
       "strength": "S"
      },
@@ -102462,6 +102907,13 @@
       "strength": "S"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-activation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -102620,6 +103072,13 @@
       "polarity": "+",
       "slug": "self-monitoring",
       "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "goal-setting-monitoring",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -104791,6 +105250,13 @@
      {
       "slug": "locs-exam-questions-outperform-hocs"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "constructive-alignment",
+      "strength": "M"
+     }
     ]
    },
    "semilingualism-associated-with-negative-cognitive-effects": {
@@ -105017,6 +105483,11 @@
      {
       "polarity": "+",
       "slug": "community-based-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "experiential-learning",
       "strength": "W"
      }
     ],
@@ -105908,6 +106379,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -106093,6 +106571,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "constructive-alignment",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "gagnes-9-events-of-instruction",
@@ -109183,7 +109666,7 @@
      {
       "polarity": "~",
       "slug": "structured-academic-controversy",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -109255,7 +109738,7 @@
      {
       "polarity": "+",
       "slug": "goal-setting-monitoring",
-      "strength": "S"
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -109949,6 +110432,13 @@
       "slug": "srl-interventions-moderate-effect-online-blended"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "blended-learning",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -110144,6 +110634,13 @@
      },
      {
       "slug": "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "blended-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -111480,6 +111977,13 @@
      {
       "slug": "organization-task-match-determines-benefit"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "elaboration-theory",
+      "strength": "M"
+     }
     ]
    },
    "strong-feelings-about-problem-influence-group-growth": {
@@ -111772,6 +112276,13 @@
      {
       "polarity": "+",
       "slug": "structured-discussion",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
       "strength": "M"
      }
     ],
@@ -113110,6 +113621,13 @@
      },
      {
       "slug": "teachers-struggle-designing-interactive-activities"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-activation",
+      "strength": "M"
      }
     ]
    },
@@ -115185,6 +115703,13 @@
      },
      {
       "slug": "student-beliefs-inductive-effectiveness-structure-complexity"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "concept-attainment",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -117407,6 +117932,13 @@
      },
      {
       "slug": "uneven-icap-mode-distribution-across-units"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-activation",
+      "strength": "M"
      }
     ]
    },
@@ -120528,6 +121060,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "guided-practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "scaffolding",
       "strength": "M"
      }
@@ -121859,6 +122396,11 @@
      {
       "polarity": "+",
       "slug": "integrate-video-narration-text-for-l2-macs-comprehension",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multimodal-instruction",
       "strength": "M"
      }
     ],
@@ -123307,7 +123849,7 @@
      {
       "polarity": "~",
       "slug": "elaboration-theory",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -123359,7 +123901,7 @@
      {
       "polarity": "~",
       "slug": "cognitive-flexibility",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -123389,7 +123931,7 @@
      {
       "polarity": "+",
       "slug": "experiential-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -123790,6 +124332,13 @@
       "slug": "worked-examples-for-game-based-puzzle-problem-solving",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "M"
+     }
     ]
    },
    "worked-example-problem-sequences": {
@@ -123932,12 +124481,12 @@
      {
       "polarity": "+",
       "slug": "game-based-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "guided-practice",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -124007,6 +124556,11 @@
      {
       "polarity": "+",
       "slug": "add-worked-examples-to-commercial-off-the-shelf-games-for-training",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
       "strength": "M"
      }
     ]
@@ -124081,6 +124635,13 @@
       "slug": "worked-examples-for-game-based-puzzle-problem-solving",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "M"
+     }
     ]
    },
    "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game": {
@@ -124106,6 +124667,11 @@
      {
       "polarity": "+",
       "slug": "add-worked-examples-to-commercial-off-the-shelf-games-for-training",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "game-based-learning",
       "strength": "M"
      }
     ]
@@ -128400,6 +128966,9 @@
       "slug": "develop-understanding"
      },
      {
+      "slug": "elaboration-theory"
+     },
+     {
       "slug": "gagnes-9-events-of-instruction"
      },
      {
@@ -129516,6 +130085,9 @@
     "patterns": [
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "elaboration-theory"
      },
      {
       "slug": "herbarts-formal-steps"
@@ -131034,6 +131606,9 @@
     "patterns": [
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "elaboration-theory"
      }
     ],
     "principles": [
@@ -133081,6 +133656,9 @@
       "slug": "debate"
      },
      {
+      "slug": "structured-academic-controversy"
+     },
+     {
       "slug": "team-based-learning"
      }
     ],
@@ -133090,6 +133668,9 @@
      },
      {
       "slug": "disciplinary-literacy"
+     },
+     {
+      "slug": "epistemic-cognition"
      }
     ],
     "strategies": [
@@ -136388,6 +136969,9 @@
     "patterns": [
      {
       "slug": "debate"
+     },
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "strategies": [
@@ -139111,6 +139695,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -139132,6 +139719,9 @@
     "principles": [
      {
       "slug": "check-ins"
+     },
+     {
+      "slug": "goal-setting-monitoring"
      },
      {
       "slug": "personalization"
@@ -146702,6 +147292,9 @@
      },
      {
       "slug": "case-based-learning"
+     },
+     {
+      "slug": "concept-attainment"
      }
     ],
     "strategies": [
@@ -146967,6 +147560,11 @@
       "slug": "concept-semantic-map-element"
      }
     ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
+     }
+    ],
     "strategies": [
      {
       "slug": "prewriting_activities"
@@ -147143,6 +147741,11 @@
      {
       "slug": "epitome-elaboration-theory"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
+     }
     ]
    },
    "conceptual-questioning": {
@@ -147236,6 +147839,11 @@
      },
      {
       "slug": "collaborative-discussion"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "strategies": [
@@ -149063,6 +149671,11 @@
       "slug": "argumentation-improves-reasoning"
      }
     ],
+    "patterns": [
+     {
+      "slug": "blended-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "case-based-learning"
@@ -149482,6 +150095,11 @@
      {
       "slug": "conceptual-overviews"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
+     }
     ]
    },
    "equity-unbound-open-connected-course": {
@@ -149669,6 +150287,11 @@
     "elements": [
      {
       "slug": "rubric"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "constructive-alignment"
      }
     ],
     "strategies": [
@@ -150594,10 +151217,19 @@
       "slug": "authentic-assessment"
      },
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "cognitive-apprenticeship"
      },
      {
       "slug": "competency-based-learning"
+     },
+     {
+      "slug": "concept-attainment"
+     },
+     {
+      "slug": "constructive-alignment"
      },
      {
       "slug": "cooperative-learning"
@@ -151357,6 +151989,9 @@
       "slug": "competency-based-learning"
      },
      {
+      "slug": "constructive-alignment"
+     },
+     {
       "slug": "develop-understanding"
      },
      {
@@ -151799,6 +152434,9 @@
      },
      {
       "slug": "problem-based-learning"
+     },
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "strategies": [
@@ -152069,6 +152707,11 @@
     ]
    },
    "hypothesis-testing": {
+    "patterns": [
+     {
+      "slug": "concept-attainment"
+     }
+    ],
     "strategies": [
      {
       "slug": "science_through_inquiry"
@@ -152214,6 +152857,11 @@
      },
      {
       "slug": "vocabulary-assistance-in-text"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "blended-learning"
      }
     ]
    },
@@ -153146,6 +153794,11 @@
       "slug": "concept-mapping"
      }
     ],
+    "patterns": [
+     {
+      "slug": "structured-academic-controversy"
+     }
+    ],
     "strategies": [
      {
       "slug": "culturally-responsive-teaching"
@@ -153360,6 +154013,9 @@
       "slug": "competency-based-learning"
      },
      {
+      "slug": "constructive-alignment"
+     },
+     {
       "slug": "gagnes-9-events-of-instruction"
      }
     ],
@@ -153405,6 +154061,11 @@
     "elements": [
      {
       "slug": "assigned-readings"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "blended-learning"
      }
     ]
    },
@@ -154083,6 +154744,11 @@
       "slug": "modeling"
      }
     ],
+    "patterns": [
+     {
+      "slug": "concept-attainment"
+     }
+    ],
     "strategies": [
      {
       "slug": "activating_and_using_background_knowledge"
@@ -154448,6 +155114,9 @@
      },
      {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
+     },
+     {
+      "slug": "elaboration-theory"
      }
     ],
     "processes": [
@@ -155782,6 +156451,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "cognitive-apprenticeship"
      },
      {
@@ -155791,10 +156463,16 @@
       "slug": "competency-based-learning"
      },
      {
+      "slug": "constructive-alignment"
+     },
+     {
       "slug": "develop-understanding"
      },
      {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "elaboration-theory"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -158380,6 +159058,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "flipped-classroom"
      }
     ],
@@ -158788,6 +159469,11 @@
      },
      {
       "slug": "self-monitoring"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "goal-setting-monitoring"
      }
     ]
    },
@@ -159657,6 +160343,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "cooperative-learning"
      },
      {
@@ -160116,6 +160805,9 @@
      },
      {
       "slug": "collaborative-inquiry"
+     },
+     {
+      "slug": "elaboration-theory"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -160619,6 +161311,9 @@
     "patterns": [
      {
       "slug": "debate"
+     },
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "strategies": [
@@ -160640,6 +161335,9 @@
      },
      {
       "slug": "self-regulated-learning"
+     },
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "strategies": [
@@ -160706,6 +161404,9 @@
     "patterns": [
      {
       "slug": "authentic-assessment"
+     },
+     {
+      "slug": "constructive-alignment"
      }
     ],
     "strategies": [
@@ -161861,6 +162562,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "self-regulated-learning"
      }
     ],
@@ -161910,6 +162614,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "programmed-instruction"
      }
     ],
@@ -161956,6 +162663,9 @@
    },
    "sentence-starters": {
     "patterns": [
+     {
+      "slug": "structured-academic-controversy"
+     },
      {
       "slug": "think-pair-share"
      }
@@ -162037,6 +162747,11 @@
     "methods": [
      {
       "slug": "cognitive-task-analysis"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
      }
     ],
     "processes": [
@@ -162481,6 +163196,11 @@
       "slug": "continuous-review"
      }
     ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
+     }
+    ],
     "strategies": [
      {
       "slug": "chunking_instruction"
@@ -162659,6 +163379,11 @@
      {
       "slug": "position-development"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "structured-academic-controversy"
+     }
     ]
    },
    "structured-debate": {
@@ -162757,6 +163482,11 @@
       "slug": "note-taking"
      }
     ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
+     }
+    ],
     "strategies": [
      {
       "slug": "brain_dumps"
@@ -162800,6 +163530,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "constructive-alignment"
+     },
      {
       "slug": "summative-assessment"
      }
@@ -164529,6 +165262,11 @@
       "slug": "worked-examples"
      }
     ],
+    "principles": [
+     {
+      "slug": "error-analysis"
+     }
+    ],
     "strategies": [
      {
       "slug": "concrete-examples"
@@ -164688,6 +165426,11 @@
      },
      {
       "slug": "theory-of-change"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "constructive-alignment"
      }
     ],
     "processes": [
@@ -165993,6 +166736,9 @@
     "principles": [
      {
       "slug": "analogical-reasoning"
+     },
+     {
+      "slug": "cognitive-flexibility"
      }
     ],
     "processes": [
@@ -166712,6 +167458,9 @@
     "principles": [
      {
       "slug": "ask-experts"
+     },
+     {
+      "slug": "guided-practice"
      },
      {
       "slug": "modeling"
@@ -168530,6 +169279,9 @@
       "slug": "social-emotional-learning"
      },
      {
+      "slug": "structured-academic-controversy"
+     },
+     {
       "slug": "team-based-learning"
      }
     ],
@@ -169113,6 +169865,9 @@
     "principles": [
      {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "guided-practice"
      },
      {
       "slug": "phonics"
@@ -170225,6 +170980,9 @@
     ],
     "principles": [
      {
+      "slug": "game-based-learning"
+     },
+     {
       "slug": "learning-embedded-in-the-core-mechanic"
      }
     ],
@@ -170262,6 +171020,11 @@
     "elements": [
      {
       "slug": "hypothesis-testing"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "experiential-learning"
      }
     ],
     "strategies": [
@@ -170693,6 +171456,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "constructive-alignment"
+     },
      {
       "slug": "social-emotional-learning"
      },
@@ -171367,6 +172133,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "game-based-learning"
+     },
      {
       "slug": "learning-embedded-in-the-core-mechanic"
      }
@@ -172151,6 +172920,9 @@
     "principles": [
      {
       "slug": "multimedia-learning"
+     },
+     {
+      "slug": "multimodal-instruction"
      }
     ]
    },
@@ -172628,6 +173400,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "goal-setting-monitoring"
+     },
      {
       "slug": "self-regulated-learning"
      }
@@ -174787,6 +175562,9 @@
       "slug": "authentic-assessment"
      },
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "concept-attainment"
      },
      {
@@ -175639,6 +176417,12 @@
      }
     ],
     "principles": [
+     {
+      "slug": "cognitive-activation"
+     },
+     {
+      "slug": "cognitive-flexibility"
+     },
      {
       "slug": "elaborative-reasoning"
      },
@@ -177182,6 +177966,9 @@
      },
      {
       "slug": "authentic-assessment"
+     },
+     {
+      "slug": "constructive-alignment"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -180731,6 +181518,9 @@
     "patterns": [
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "elaboration-theory"
      }
     ],
     "principles": [
@@ -181847,6 +182637,9 @@
       "slug": "concept-attainment"
      },
      {
+      "slug": "elaboration-theory"
+     },
+     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -182616,6 +183409,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "cognitive-activation"
+     },
      {
       "slug": "cognitive-flexibility"
      },
@@ -185280,6 +186076,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "online-course-design"
      },
      {
@@ -185520,6 +186319,9 @@
     "patterns": [
      {
       "slug": "competency-based-learning"
+     },
+     {
+      "slug": "constructive-alignment"
      }
     ],
     "principles": [
@@ -185854,9 +186656,6 @@
       "slug": "analogical-reasoning"
      },
      {
-      "slug": "cognitive-activation"
-     },
-     {
       "slug": "cognitive-flexibility"
      },
      {
@@ -185905,6 +186704,9 @@
     "patterns": [
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "principles": [
@@ -185958,6 +186760,9 @@
      },
      {
       "slug": "develop-understanding"
+     },
+     {
+      "slug": "elaboration-theory"
      },
      {
       "slug": "model-evidence-link-mel-reasoning-pattern"
@@ -186430,6 +187235,9 @@
     "principles": [
      {
       "slug": "activation"
+     },
+     {
+      "slug": "guided-practice"
      },
      {
       "slug": "modeling"
@@ -187625,6 +188433,11 @@
     ]
    },
    "gamification": {
+    "principles": [
+     {
+      "slug": "game-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "positive-reinforcement-schedules"
@@ -187837,6 +188650,9 @@
      },
      {
       "slug": "develop-understanding"
+     },
+     {
+      "slug": "elaboration-theory"
      },
      {
       "slug": "flipped-classroom"
@@ -188069,6 +188885,9 @@
       "slug": "direct-instruction"
      },
      {
+      "slug": "error-analysis"
+     },
+     {
       "slug": "feedback-loops"
      },
      {
@@ -188203,6 +189022,9 @@
       "slug": "collaborative-inquiry"
      },
      {
+      "slug": "concept-attainment"
+     },
+     {
       "slug": "data-storytelling-forage-remix-diy"
      },
      {
@@ -188247,7 +189069,13 @@
       "slug": "case-studiescase-based-learning"
      },
      {
+      "slug": "epistemic-cognition"
+     },
+     {
       "slug": "evaluating-sources"
+     },
+     {
+      "slug": "experiential-learning"
      },
      {
       "slug": "explicit-instruction-internet-search"
@@ -188797,6 +189625,11 @@
       "slug": "metaphors"
      }
     ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
+     }
+    ],
     "principles": [
      {
       "slug": "analogical-reasoning"
@@ -188922,6 +189755,9 @@
     "principles": [
      {
       "slug": "digital-learning"
+     },
+     {
+      "slug": "multimodal-instruction"
      }
     ]
    },
@@ -190954,6 +191790,9 @@
       "slug": "clear-structure"
      },
      {
+      "slug": "cognitive-activation"
+     },
+     {
       "slug": "communities-of-practice"
      },
      {
@@ -191174,6 +192013,9 @@
     ],
     "patterns": [
      {
+      "slug": "blended-learning"
+     },
+     {
       "slug": "journaling"
      },
      {
@@ -191188,7 +192030,7 @@
       "slug": "autonomy"
      },
      {
-      "slug": "cognitive-activation"
+      "slug": "goal-setting-monitoring"
      },
      {
       "slug": "knowledge-organization"
@@ -191278,6 +192120,11 @@
     "methods": [
      {
       "slug": "task-analysis"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "elaboration-theory"
      }
     ],
     "principles": [
@@ -192443,6 +193290,9 @@
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
      },
      {
+      "slug": "elaboration-theory"
+     },
+     {
       "slug": "merrills-first-principles-demonstration"
      },
      {
@@ -192460,6 +193310,9 @@
       "slug": "chunking"
      },
      {
+      "slug": "cognitive-activation"
+     },
+     {
       "slug": "cognitive-load-theory"
      },
      {
@@ -192473,6 +193326,9 @@
      },
      {
       "slug": "explicit-instruction-math-strategies"
+     },
+     {
+      "slug": "game-based-learning"
      },
      {
       "slug": "guided-practice"
@@ -192868,6 +193724,11 @@
      },
      {
       "slug": "theory-of-change"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "constructive-alignment"
      }
     ],
     "processes": [
@@ -193572,9 +194433,6 @@
     ],
     "patterns": [
      {
-      "slug": "constructive-alignment"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -193590,9 +194448,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "epistemic-cognition"
-     },
      {
       "slug": "gamification"
      },
@@ -195412,12 +196267,6 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "concept-attainment"
-     },
-     {
-      "slug": "constructive-alignment"
-     },
-     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -195438,12 +196287,6 @@
      },
      {
       "slug": "autonomy"
-     },
-     {
-      "slug": "cognitive-activation"
-     },
-     {
-      "slug": "cognitive-flexibility"
      },
      {
       "slug": "cognitive-load-management"
@@ -195480,9 +196323,6 @@
      },
      {
       "slug": "explicit-instruction-phonics"
-     },
-     {
-      "slug": "guided-practice"
      },
      {
       "slug": "handoutsonline-guidesvisual-reading-aids"
@@ -196065,12 +196905,6 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "concept-attainment"
-     },
-     {
-      "slug": "constructive-alignment"
-     },
-     {
       "polarity": "+",
       "slug": "emergent-curriculum",
       "strength": "M"
@@ -196101,9 +196935,6 @@
       "slug": "behaviorism"
      },
      {
-      "slug": "cognitive-flexibility"
-     },
-     {
       "slug": "considering-the-opposite"
      },
      {
@@ -196114,9 +196945,6 @@
      },
      {
       "slug": "elaborative-reasoning"
-     },
-     {
-      "slug": "error-analysis"
      },
      {
       "slug": "growth-mindset"
@@ -197918,11 +198746,6 @@
      {
       "slug": "heterogeneity-seeking-modeling-curriculum"
      }
-    ],
-    "principles": [
-     {
-      "slug": "epistemic-cognition"
-     }
     ]
    },
    "epistemic-frame-hypothesis-skive": {
@@ -197953,11 +198776,6 @@
     "elements": [
      {
       "slug": "epistemic-games-shared-understanding-moves"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "epistemic-cognition"
      }
     ],
     "theories": [
@@ -198226,13 +199044,6 @@
     ]
    },
    "experiential-learning-theory": {
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "experiential-learning",
-      "strength": "S"
-     }
-    ],
     "theories": [
      {
       "slug": "dewey-experiential-learning-vr"
@@ -198688,9 +199499,6 @@
      }
     ],
     "patterns": [
-     {
-      "slug": "concept-attainment"
-     },
      {
       "slug": "professional-development"
      }
@@ -200372,15 +201180,7 @@
       "slug": "automaticity"
      }
     ],
-    "patterns": [
-     {
-      "slug": "concept-attainment"
-     }
-    ],
     "principles": [
-     {
-      "slug": "cognitive-activation"
-     },
      {
       "slug": "considering-the-opposite"
      },
@@ -200394,9 +201194,6 @@
       "polarity": "+",
       "slug": "elaborative-reasoning",
       "strength": "S"
-     },
-     {
-      "slug": "error-analysis"
      },
      {
       "slug": "explaining-their-thinking"
@@ -201947,11 +202744,6 @@
     "elements": [
      {
       "slug": "evaluating-and-justifying-mechanistic-explanations"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "epistemic-cognition"
      }
     ]
    },
@@ -204025,9 +204817,6 @@
       "slug": "gamification"
      },
      {
-      "slug": "goal-setting-monitoring"
-     },
-     {
       "slug": "growth-mindset"
      },
      {
@@ -204548,9 +205337,6 @@
       "slug": "5e-learning-cycle"
      },
      {
-      "slug": "constructive-alignment"
-     },
-     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -204586,9 +205372,6 @@
       "slug": "flipped-learning"
      },
      {
-      "slug": "goal-setting-monitoring"
-     },
-     {
       "slug": "growth-mindset"
      },
      {
@@ -204596,9 +205379,6 @@
      },
      {
       "slug": "personalization"
-     },
-     {
-      "slug": "reflection"
      },
      {
       "slug": "responsive-teaching"

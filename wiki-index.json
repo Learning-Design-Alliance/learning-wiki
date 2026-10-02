@@ -38199,7 +38199,7 @@
    "type": "pattern"
   },
   {
-   "description": "Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not.",
+   "description": "A reusable course-level policy that assigns each part of a course to online or in-person work by what that mode does that the other does not, with the in-person time spent on practice and interaction and the online part supported for self-regulation and persistence; the wiki holds no test of the blend itself apart from the extra time and materials it usually brings.",
    "grain_size": "course",
    "id": "blended-learning",
    "path": "patterns/blended-learning.md",
@@ -38317,7 +38317,7 @@
    "type": "pattern"
   },
   {
-   "description": "Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.",
+   "description": "A reusable policy in which learners infer a concept's defining attributes by comparing labelled examples and non-examples, then classify new instances; expected to improve classification of new instances where the concept has identifiable attributes, the examples are chosen to contrast on them, guidance and a stated rule follow the induction, and learners can already interpret the instances.",
    "grain_size": "lesson, unit",
    "id": "concept-attainment",
    "path": "patterns/concept-attainment.md",
@@ -38326,7 +38326,7 @@
    "type": "pattern"
   },
   {
-   "description": "Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.",
+   "description": "Constructive alignment is expected to raise performance on the intended capability when the stated outcome, the practised activities and the assessed task demand the same performance at the outcome's level, with practice and feedback before assessment; no claim here tests alignment itself, and one study found practice above the assessed level served a lower-level exam better.",
    "grain_size": "course, program",
    "id": "constructive-alignment",
    "path": "patterns/constructive-alignment.md",
@@ -38426,7 +38426,7 @@
    "aliases": [
     "reigeluths-elaboration-theory"
    ],
-   "description": "Elaboration Theory is the short-form canonical target for Reigeluth's elaboration pattern, which sequences from simple, inclusive ideas toward more complex detail.",
+   "description": "A reusable course-level sequencing policy: an epitome of the most general ideas, elaborated level by level toward detail and tied back to the whole by learner-built synthesis; one small study of hierarchical knowledge organisation bears on it, and no claim tests the sequence itself.",
    "grain_size": "course",
    "id": "elaboration-theory",
    "path": "patterns/elaboration-theory.md",
@@ -39265,7 +39265,7 @@
    "aliases": [
     "structured-academic-controversy-sac"
    ],
-   "description": "Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.",
+   "description": "A reusable policy for cooperative argument on a contested question, in which pairs argue assigned positions, restate and then reverse them, and write a joint conclusion, expected to support each learner's reasoned, individually checked position, conditional on an arguable question, evidence for both sides, an individual check and a stated horizon; untested as a whole.",
    "grain_size": "lesson",
    "id": "structured-academic-controversy",
    "path": "patterns/structured-academic-controversy.md",
@@ -39855,7 +39855,7 @@
    "type": "principle"
   },
   {
-   "description": "Cognitive activation is the principle of prompting learners to think deeply, make connections, explain reasoning, and grapple with ideas rather than merely recall or comply.",
+   "description": "For learners working toward a concept or principle, tasks that require them to explain, compare, predict or justify beyond what was presented, with enough guidance to produce something correct, are expected to improve immediate understanding and near transfer more than tasks completed by recall or copying, with weak evidence for classroom and delayed outcomes and no claim testing cognitive activation as a dimension of teaching quality.",
    "id": "cognitive-activation",
    "path": "principles/cognitive-activation.md",
    "status": "review",
@@ -39871,7 +39871,7 @@
    "type": "principle"
   },
   {
-   "description": "Cognitive flexibility is the principle of helping learners represent, interpret, and apply knowledge in more than one way rather than locking it into a single rigid schema.",
+   "description": "Revisiting the same concepts across several cases, perspectives or representations that differ in how the concept applies, with explicit prompts to compare them, is expected to help learners with some but rigid knowledge of an ill-structured domain transfer it to a new case at a short horizon; it may cost factual recall, novices may need a simpler start, and delayed effects are untested here.",
    "id": "cognitive-flexibility",
    "path": "principles/cognitive-flexibility.md",
    "status": "review",
@@ -40565,7 +40565,7 @@
    "type": "principle"
   },
   {
-   "description": "Epistemic cognition is the principle of helping learners reason about knowledge itself: what counts as evidence, how claims are justified, how certainty should be calibrated, and how knowledge is constructed or revised.",
+   "description": "When learners must judge claims, explicit teaching and practice of the standards for a particular kind of evidence (checking who is behind a web source, judging a study's methods, justifying an argument with evidence) is associated with better judgments of that kind, measured up to five weeks later; the gains have not been shown to carry over to other kinds of evidence.",
    "id": "epistemic-cognition",
    "path": "principles/epistemic-cognition.md",
    "status": "review",
@@ -40581,7 +40581,7 @@
    "type": "principle"
   },
   {
-   "description": "Error analysis is an instructional principle that treats learner errors as valuable opportunities for deepening conceptual understanding and improving long-term retention.",
+   "description": "For a learner who can already follow a correct solution, comparing an incorrect solution with a correct one, explaining the error and seeing the correction is expected to improve conceptual understanding, and correcting errors (confident ones first) to improve later recall, but the evidence is a few short studies, mostly children in mathematics and adults on recall items.",
    "id": "error-analysis",
    "path": "principles/error-analysis.md",
    "status": "review",
@@ -40645,7 +40645,7 @@
    "type": "principle"
   },
   {
-   "description": "Experiential learning is learning by doing, which may include self-directed learning activities.",
+   "description": "For learners building applied, professional or interpersonal capability, an experience followed by structured reflection and a further attempt with feedback is expected to improve performance and transfer, while unguided experience for novices learns less than guided instruction.",
    "id": "experiential-learning",
    "path": "principles/experiential-learning.md",
    "status": "review",
@@ -40909,7 +40909,7 @@
    "type": "principle"
   },
   {
-   "description": "Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes.",
+   "description": "For a learner who has not yet reached a stated capability, a game whose winning move is the target reasoning, with modelling for novices and a debrief that asks for the reasoning outside the game, is expected to improve aligned outside-game performance; enjoyment and game score are separate outcomes, and no claim here tests games as a whole against non-game instruction.",
    "id": "game-based-learning",
    "path": "principles/game-based-learning.md",
    "status": "review",
@@ -40941,7 +40941,7 @@
    "type": "principle"
   },
   {
-   "description": "Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets.",
+   "description": "When a learner holds a specific, challenging goal for a task, with a plan for reaching it and feedback to check progress against it, effort and task performance may rise, qualified by task complexity and the learner's expertise (process goals before outcome goals for novices), commitment and self-efficacy, and whether the outcome measured is behaviour, regulation or learning.",
    "id": "goal-setting-monitoring",
    "path": "principles/goal-setting-monitoring.md",
    "status": "review",
@@ -41008,7 +41008,7 @@
    "type": "principle"
   },
   {
-   "description": "Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available.",
+   "description": "For a learner who has seen a model but cannot yet perform a structured task alone, several practice attempts with support and feedback still available, reduced as unaided success appears, are expected to produce more accurate independent performance than no practice or unsupported practice, though no claim here tests guided against independent practice directly.",
    "id": "guided-practice",
    "path": "principles/guided-practice.md",
    "status": "review",
@@ -41672,7 +41672,7 @@
    "type": "principle"
   },
   {
-   "description": "Multimodal instruction presents and develops learning through more than one representational mode, such as text, speech, image, gesture, diagram, demonstration, or interactive media.",
+   "description": "For a learner who cannot yet explain a structure that one mode shows poorly, coordinated modes that each carry part of the meaning, with the learner translating between them, may improve immediate comprehension over a single mode, qualified by representational competence, pacing, redundancy and access; matching modes to learning styles does not.",
    "id": "multimodal-instruction",
    "path": "principles/multimodal-instruction.md",
    "status": "review",
@@ -42307,7 +42307,7 @@
    "aliases": [
     "reflective-practice"
    ],
-   "description": "Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action.",
+   "description": "For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on.",
    "id": "reflection",
    "path": "principles/reflection.md",
    "status": "review",

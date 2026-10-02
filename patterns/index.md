@@ -18,7 +18,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### B {: #letter-b }
 
-* [Blended Learning](blended-learning.md) - Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not.
+* [Blended Learning](blended-learning.md) - A reusable course-level policy that assigns each part of a course to online or in-person work by what that mode does that the other does not, with the in-person time spent on practice and interaction and the online part supported for self-regulation and persistence; the wiki holds no test of the blend itself apart from the extra time and materials it usually brings.
 
 #### C {: #letter-c }
 
@@ -31,8 +31,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Collaborative Inquiry](collaborative-inquiry.md) - Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.
 * [Collaborative Learning](collaborative-learning.md) - A reusable policy for joint work that elicits each member's starting response, chooses a task that needs the members' reasoning, and uses individual checks rather than the group's product or self-report to choose the next activity.
 * [Competency-Based Learning](competency-based-learning.md) - A reusable course-level policy that maps a course to stated competencies, places each learner by a criterion-referenced response, lets pace vary and advances on demonstrated competence, with the validity of the evidence, the support offered, time and completion stated as conditions.
-* [Concept Attainment](concept-attainment.md) - Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.
-* [Constructive Alignment](constructive-alignment.md) - Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.
+* [Concept Attainment](concept-attainment.md) - A reusable policy in which learners infer a concept's defining attributes by comparing labelled examples and non-examples, then classify new instances; expected to improve classification of new instances where the concept has identifiable attributes, the examples are chosen to contrast on them, guidance and a stated rule follow the induction, and learners can already interpret the instances.
+* [Constructive Alignment](constructive-alignment.md) - Constructive alignment is expected to raise performance on the intended capability when the stated outcome, the practised activities and the assessed task demand the same performance at the outcome's level, with practice and feedback before assessment; no claim here tests alignment itself, and one study found practice above the assessed level served a lower-level exam better.
 * [Cooperative Learning](cooperative-learning.md) - A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity.
 
 #### D {: #letter-d }
@@ -44,7 +44,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### E {: #letter-e }
 
-* [Elaboration Theory](elaboration-theory.md) - Elaboration Theory is the short-form canonical target for Reigeluth's elaboration pattern, which sequences from simple, inclusive ideas toward more complex detail.
+* [Elaboration Theory](elaboration-theory.md) - A reusable course-level sequencing policy: an epitome of the most general ideas, elaborated level by level toward detail and tied back to the whole by learner-built synthesis; one small study of hierarchical knowledge organisation bears on it, and no claim tests the sequence itself.
 * [Experiential Learning Cycle](experiential-learning-cycle.md) - The experiential learning cycle organizes learning as a repeating four-stage sequence — concrete experience, reflective observation, abstract conceptualization, and active experimentation — that turns raw experience into tested knowledge.
 
 #### F {: #letter-f }
@@ -110,7 +110,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social Emotional Learning](social-emotional-learning.md) - Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.
 * [Socratic Seminar](socratic-seminar.md) - Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
 * [Spaced Learning](spaced-learning.md) - A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.
-* [Structured Academic Controversy](structured-academic-controversy.md) - Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
+* [Structured Academic Controversy](structured-academic-controversy.md) - A reusable policy for cooperative argument on a contested question, in which pairs argue assigned positions, restate and then reverse them, and write a joint conclusion, expected to support each learner's reasoned, individually checked position, conditional on an arguable question, evidence for both sides, an individual check and a stated horizon; untested as a whole.
 * [Structured Peer Review](structured-peer-review.md) - Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise.
 * [Summative Assessment](summative-assessment.md) - Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
 
