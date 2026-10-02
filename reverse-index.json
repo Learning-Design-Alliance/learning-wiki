@@ -42,16 +42,16 @@
   "patterns->elements": 77,
   "patterns->methods": 3,
   "patterns->patterns": 89,
-  "patterns->principles": 70,
+  "patterns->principles": 71,
   "patterns->theories": 31,
   "principles->claims": 404,
   "principles->designs": 34,
-  "principles->elements": 87,
+  "principles->elements": 89,
   "principles->methods": 3,
-  "principles->patterns": 60,
+  "principles->patterns": 64,
   "principles->principles": 274,
   "principles->processes": 2,
-  "principles->theories": 131,
+  "principles->theories": 122,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -1158,6 +1158,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "activation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "graphic-organizers-scaffold-comprehension-principle",
       "strength": "W"
      }
@@ -1979,6 +1984,13 @@
       "slug": "time-on-task-unequal-in-active-learning-comparisons"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "active-learning",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -2279,6 +2291,13 @@
      {
       "polarity": "+",
       "slug": "workshop-model",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "active-learning",
       "strength": "S"
      }
     ],
@@ -4449,6 +4468,18 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "activation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "clear-structure",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -6163,6 +6194,13 @@
      {
       "slug": "writing-to-learn-improves-understanding"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "annotating",
+      "strength": "M"
+     }
     ]
    },
    "anonymity-mitigates-evaluation-apprehension": {
@@ -7250,6 +7288,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "assessment-for-learning",
+      "strength": "M"
+     },
      {
       "slug": "formative-assessment"
      },
@@ -8827,6 +8870,13 @@
      {
       "polarity": "+",
       "slug": "authentic-assessment",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "authentic-audiences-purposes",
       "strength": "M"
      }
     ],
@@ -13152,6 +13202,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "check-ins",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "cooperative-learning",
       "strength": "M"
@@ -16467,6 +16522,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "building-empathy",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -17433,6 +17495,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "case-based-learning",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "problem-based-learning",
@@ -19638,7 +19705,7 @@
      {
       "polarity": "+",
       "slug": "chunking",
-      "strength": "S"
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -24229,6 +24296,13 @@
      {
       "slug": "teacher-student-relationships-improve-engagement"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "clear-structure",
+      "strength": "M"
+     }
     ]
    },
    "clear-variable-coordinate-beats-unclear": {
@@ -25955,7 +26029,7 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "case-based-learning",
       "strength": "M"
      }
@@ -26271,6 +26345,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "cognitive-load-management",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "reduce-extraneous-optimize-intrinsic-increase-germane",
       "strength": "M"
      }
@@ -26488,6 +26567,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-management",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "learning-embedded-in-the-core-mechanic",
@@ -29149,6 +29233,11 @@
     ],
     "principles": [
      {
+      "polarity": "-",
+      "slug": "accessible-vocabulary-syntax",
+      "strength": "W"
+     },
+     {
       "polarity": "~",
       "slug": "teach-information-with-prior-related-knowledge",
       "strength": "M"
@@ -29408,6 +29497,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-learning",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "laboratories-satisfying-cooperative-learning-conditions",
@@ -30439,6 +30533,11 @@
      {
       "polarity": "+",
       "slug": "5e-learning-cycle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "case-based-learning",
       "strength": "M"
      },
      {
@@ -32121,6 +32220,13 @@
      {
       "polarity": "+",
       "slug": "knowledge-building",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "active-learning",
       "strength": "M"
      }
     ]
@@ -34060,6 +34166,13 @@
      },
      {
       "slug": "small-group-learning-improves-stem-achievement"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "think-pair-share",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -37886,6 +37999,11 @@
       "slug": "balance-retrieval-success-and-retrieval-effort"
      },
      {
+      "polarity": "~",
+      "slug": "cognitive-load-management",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "learning-embedded-in-the-core-mechanic",
       "strength": "M"
@@ -39365,6 +39483,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "think-pair-share",
+      "strength": "W"
+     },
+     {
       "polarity": "-",
       "slug": "traditional-lecture-based-instruction",
       "strength": "M"
@@ -39372,7 +39495,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "active-learning",
       "strength": "M"
      }
@@ -43036,6 +43159,13 @@
       "slug": "imbedded-aids-textbooks",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "accessible-vocabulary-syntax",
+      "strength": "W"
+     }
     ]
    },
    "embedded-aids-increase-reading-time-modestly": {
@@ -45852,6 +45982,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "annotating",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -46275,6 +46412,11 @@
      {
       "polarity": "~",
       "slug": "scaffolding-and-fading",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ],
@@ -52787,6 +52929,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "building-empathy",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -58368,6 +58517,13 @@
       "slug": "force-and-motion-microworld-fmm",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
+     }
     ]
    },
    "high-fantasy-boys-wait-longer-than-low-fantasy": {
@@ -58718,6 +58874,13 @@
      },
      {
       "slug": "relevancy-of-emphasis-directs-attention"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "annotating",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -59246,7 +59409,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "collaborative-learning",
       "strength": "M"
      }
@@ -61076,6 +61239,13 @@
       "slug": "questioning-strategies-improve-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "think-pair-share",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -62438,6 +62608,13 @@
       "slug": "no-direct-evidence-input-hypothesis"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "accessible-vocabulary-syntax",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -62505,6 +62682,13 @@
      {
       "polarity": "+",
       "slug": "concept-mapping",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-learning",
       "strength": "W"
      }
     ]
@@ -62614,6 +62798,13 @@
       "polarity": "~",
       "slug": "nine-types-positive-interdependence",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
      }
     ]
    },
@@ -64088,6 +64279,13 @@
      },
      {
       "slug": "video-self-observation-powerful-coaching-component"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "check-ins",
+      "strength": "M"
      }
     ]
    },
@@ -66358,6 +66556,13 @@
       "polarity": "+",
       "slug": "self-paced-learning",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "chunking",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -68973,6 +69178,13 @@
      },
      {
       "slug": "tbl-trat-isat-improve-over-irat"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "assessment-for-learning",
+      "strength": "W"
      }
     ]
    },
@@ -73091,6 +73303,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "active-learning",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "direct-instruction",
       "strength": "S"
@@ -73546,6 +73763,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "activation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -73570,6 +73794,13 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "clear-structure",
       "strength": "M"
      }
     ],
@@ -74863,6 +75094,13 @@
      },
      {
       "slug": "time-on-task-unequal-in-active-learning-comparisons"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "active-learning",
+      "strength": "M"
      }
     ]
    },
@@ -77085,6 +77323,13 @@
      },
      {
       "slug": "interactionally-modified-input-aids-comprehension-not-retention"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "accessible-vocabulary-syntax",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -79979,6 +80224,13 @@
       "slug": "strong-acquisition-tasks-improve-internalization"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "clear-structure",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -80742,6 +80994,13 @@
      {
       "polarity": "+",
       "slug": "stellar-populations-inquiry-activity",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "think-pair-share",
       "strength": "W"
      }
     ]
@@ -82667,6 +82926,11 @@
       "polarity": "+",
       "slug": "team-based-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "think-pair-share",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -83503,7 +83767,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "authentic-audiences-purposes",
       "strength": "W"
      }
@@ -83536,6 +83800,13 @@
       "polarity": "~",
       "slug": "force-and-motion-microworld-fmm",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -86718,6 +86989,13 @@
       "slug": "formative-assessment",
       "strength": "S"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "activation",
+      "strength": "M"
+     }
     ]
    },
    "pretraining-improves-transfer": {
@@ -86745,6 +87023,13 @@
      {
       "polarity": "+",
       "slug": "simulation",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ],
@@ -86980,6 +87265,13 @@
      {
       "slug": "belief-consistent-facts-better-recognized"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "activation",
+      "strength": "M"
+     }
     ]
    },
    "prior-knowledge-by-worked-example-type-interaction-on-germane-load": {
@@ -87033,6 +87325,13 @@
      },
      {
       "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "activation",
+      "strength": "M"
      }
     ],
     "processes": [
@@ -87127,6 +87426,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "assessment-for-learning",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "self-regulated-learning",
@@ -88427,6 +88731,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "cognitive-load-management",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "direct-instruction",
       "strength": "S"
      },
@@ -89315,6 +89624,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "authentic-audiences-purposes",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -89330,6 +89646,13 @@
      },
      {
       "slug": "guided-reflection-yields-more-higher-order-paragraphs-than-free"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "authentic-audiences-purposes",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -90140,6 +90463,13 @@
      },
      {
       "slug": "fiction-reading-improves-empathy"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "building-empathy",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -91920,6 +92250,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "annotating",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -92421,6 +92758,13 @@
      },
      {
       "slug": "interactional-structures-shape-content-processing"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "scaffolding",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -95148,6 +95492,11 @@
       "polarity": "~",
       "slug": "scaffolding-and-fading",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "scaffolding",
+      "strength": "M"
      }
     ]
    },
@@ -96013,6 +96362,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "chunking",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "cognitive-load-theory",
       "strength": "M"
      },
@@ -96100,6 +96454,13 @@
      {
       "polarity": "+",
       "slug": "cognitive-load-theory",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "chunking",
       "strength": "M"
      }
     ],
@@ -96295,6 +96656,13 @@
      },
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "building-empathy",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -96542,6 +96910,16 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "assessment-for-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "check-ins",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "self-regulated-learning",
       "strength": "M"
      }
@@ -96601,6 +96979,13 @@
      {
       "polarity": "+",
       "slug": "formative-assessment",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "assessment-for-learning",
       "strength": "M"
      }
     ],
@@ -102080,7 +102465,7 @@
      {
       "polarity": "+",
       "slug": "check-ins",
-      "strength": "M"
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -103567,6 +103952,13 @@
       "slug": "self-monitoring-comprehension-improves-learning"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "annotating",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -104523,6 +104915,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "chunking",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "keep-chunking-study-outlines-short",
       "strength": "M"
      }
@@ -104670,6 +105067,13 @@
      {
       "polarity": "+",
       "slug": "attention",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "clear-structure",
       "strength": "M"
      }
     ],
@@ -108339,7 +108743,7 @@
      {
       "polarity": "+",
       "slug": "authentic-audiences-purposes",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -108349,7 +108753,7 @@
      {
       "polarity": "+",
       "slug": "clear-structure",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -108840,7 +109244,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "authentic-audiences-purposes",
       "strength": "W"
      },
@@ -112192,6 +112596,13 @@
      {
       "polarity": "+",
       "slug": "social-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "building-empathy",
       "strength": "W"
      }
     ],
@@ -118080,6 +118491,13 @@
      {
       "slug": "studies-still-compare-active-learning-versus-lecture"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "active-learning",
+      "strength": "M"
+     }
     ]
    },
    "time-reallocated-across-instructional-functions": {
@@ -119612,6 +120030,13 @@
      {
       "polarity": "+",
       "slug": "guided-practice",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ],
@@ -121246,6 +121671,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "accessible-vocabulary-syntax",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "graphic-organizers-scaffold-comprehension-principle",
       "strength": "M"
      }
@@ -122427,7 +122857,7 @@
      {
       "polarity": "+",
       "slug": "authentic-audiences-purposes",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -128612,6 +129042,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "activation"
+     },
      {
       "slug": "clear-structure"
      },
@@ -136194,6 +136627,11 @@
       "slug": "authentic-audiences-improve-student-work"
      }
     ],
+    "principles": [
+     {
+      "slug": "authentic-audiences-purposes"
+     }
+    ],
     "processes": [
      {
       "slug": "behavior-analysis-first-instructional-design"
@@ -136769,6 +137207,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "case-based-learning"
+     },
      {
       "slug": "cognitive-flexibility-theory"
      },
@@ -138082,6 +138523,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "check-ins"
+     },
      {
       "slug": "personalization"
      },
@@ -140626,6 +141070,9 @@
      },
      {
       "slug": "team-based-learning"
+     },
+     {
+      "slug": "think-pair-share"
      },
      {
       "slug": "workshop-model"
@@ -145637,6 +146084,11 @@
       "slug": "invention"
      }
     ],
+    "patterns": [
+     {
+      "slug": "case-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "block_play"
@@ -148231,6 +148683,9 @@
      },
      {
       "slug": "formative-assessment"
+     },
+     {
+      "slug": "think-pair-share"
      }
     ],
     "principles": [
@@ -159752,6 +160207,9 @@
       "slug": "authentic-assessment"
      },
      {
+      "slug": "case-based-learning"
+     },
+     {
       "slug": "cognitive-apprenticeship"
      },
      {
@@ -160280,6 +160738,9 @@
     ],
     "patterns": [
      {
+      "slug": "case-based-learning"
+     },
+     {
       "slug": "multimedia-learning"
      }
     ],
@@ -160792,6 +161253,11 @@
     ]
    },
    "sentence-starters": {
+    "patterns": [
+     {
+      "slug": "think-pair-share"
+     }
+    ],
     "strategies": [
      {
       "slug": "shared_reflection"
@@ -161765,6 +162231,11 @@
     "designs": [
      {
       "slug": "threading-weaving-patternmaking"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "annotating"
      }
     ]
    },
@@ -163338,6 +163809,9 @@
       "slug": "authentic-assessment"
      },
      {
+      "slug": "case-based-learning"
+     },
+     {
       "slug": "cognitive-apprenticeship"
      },
      {
@@ -164087,6 +164561,9 @@
     ],
     "principles": [
      {
+      "slug": "cognitive-load-management"
+     },
+     {
       "slug": "cognitive-load-theory"
      }
     ],
@@ -164551,6 +165028,11 @@
     "learner-variables": [
      {
       "slug": "domain-context"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "authentic-audiences-purposes"
      }
     ],
     "processes": [
@@ -165519,6 +166001,9 @@
      },
      {
       "slug": "scaffolding-and-fading"
+     },
+     {
+      "slug": "scaffolding"
      },
      {
       "slug": "situated-learning"
@@ -169634,6 +170119,9 @@
     ],
     "principles": [
      {
+      "slug": "assessment-for-learning"
+     },
+     {
       "slug": "formative-assessment"
      },
      {
@@ -170928,6 +171416,13 @@
      }
     ]
    },
+   "merrills-first-principles-activation": {
+    "principles": [
+     {
+      "slug": "activation"
+     }
+    ]
+   },
    "merrills-first-principles-application": {
     "elements": [
      {
@@ -171293,6 +171788,9 @@
      },
      {
       "slug": "case-based-learning-harvard-method"
+     },
+     {
+      "slug": "case-based-learning"
      },
      {
       "slug": "cognitive-flexibility-theory"
@@ -174534,13 +175032,13 @@
     ],
     "patterns": [
      {
+      "slug": "case-based-learning"
+     },
+     {
       "slug": "concept-attainment"
      }
     ],
     "principles": [
-     {
-      "slug": "activation"
-     },
      {
       "slug": "elaborative-reasoning"
      },
@@ -178493,6 +178991,9 @@
       "slug": "case-based-learning-harvard-method"
      },
      {
+      "slug": "case-based-learning"
+     },
+     {
       "slug": "cognitive-flexibility-theory"
      }
     ],
@@ -181549,9 +182050,6 @@
     ],
     "principles": [
      {
-      "slug": "activation"
-     },
-     {
       "slug": "autonomy"
      },
      {
@@ -181901,6 +182399,11 @@
      },
      {
       "slug": "transfer-tasks"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "case-based-learning"
      }
     ],
     "principles": [
@@ -183296,6 +183799,9 @@
     ],
     "principles": [
      {
+      "slug": "chunking"
+     },
+     {
       "slug": "cognitive-load-management"
      },
      {
@@ -184410,9 +184916,6 @@
     ],
     "principles": [
      {
-      "slug": "collaborative-learning"
-     },
-     {
       "slug": "community-based-learning"
      },
      {
@@ -184974,9 +185477,6 @@
     ],
     "principles": [
      {
-      "slug": "active-learning"
-     },
-     {
       "slug": "analogical-reasoning"
      },
      {
@@ -185037,6 +185537,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "collaborative-learning"
+     },
      {
       "slug": "laboratories-satisfying-cooperative-learning-conditions"
      }
@@ -187542,6 +188045,13 @@
      }
     ]
    },
+   "keep-chunking-study-outlines-short": {
+    "principles": [
+     {
+      "slug": "chunking"
+     }
+    ]
+   },
    "knowledge-organization": {
     "elements": [
      {
@@ -188494,6 +189004,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "active-learning"
+     },
      {
       "slug": "building-empathy"
      },
@@ -189554,6 +190067,9 @@
     ],
     "principles": [
      {
+      "slug": "active-learning"
+     },
+     {
       "slug": "balance-retrieval-success-and-retrieval-effort"
      },
      {
@@ -190482,9 +190998,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "collaborative-learning"
-     },
      {
       "polarity": "~",
       "slug": "culturally-responsive-classroom-norms",
@@ -194376,13 +194889,7 @@
     ],
     "principles": [
      {
-      "slug": "accessible-vocabulary-syntax"
-     },
-     {
       "slug": "adaptive-learning"
-     },
-     {
-      "slug": "annotating"
      },
      {
       "slug": "ask-experts"
@@ -194392,12 +194899,6 @@
      },
      {
       "slug": "autonomy"
-     },
-     {
-      "slug": "chunking"
-     },
-     {
-      "slug": "clear-structure"
      },
      {
       "slug": "cognitive-activation"
@@ -194412,10 +194913,10 @@
       "slug": "cognitive-flexibility"
      },
      {
-      "slug": "cognitive-load-theory"
+      "slug": "cognitive-load-management"
      },
      {
-      "slug": "collaborative-learning"
+      "slug": "cognitive-load-theory"
      },
      {
       "slug": "community-based-learning"
@@ -194482,9 +194983,6 @@
      },
      {
       "slug": "phonics"
-     },
-     {
-      "slug": "scaffolding"
      },
      {
       "slug": "self-directed-learning"
@@ -195068,9 +195566,6 @@
     ],
     "principles": [
      {
-      "slug": "activation"
-     },
-     {
       "slug": "adaptive-learning"
      },
      {
@@ -195081,9 +195576,6 @@
      },
      {
       "slug": "behaviorism"
-     },
-     {
-      "slug": "clear-structure"
      },
      {
       "slug": "cognitive-apprenticeship"
@@ -195689,11 +196181,6 @@
     "patterns": [
      {
       "slug": "socratic-seminar"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "annotating"
      }
     ],
     "theories": [
@@ -197701,6 +198188,9 @@
       "slug": "adaptive-learning"
      },
      {
+      "slug": "cognitive-load-management"
+     },
+     {
       "slug": "cognitive-load-theory"
      }
     ],
@@ -198843,11 +199333,6 @@
       "slug": "motivation"
      }
     ],
-    "principles": [
-     {
-      "slug": "assessment-for-learning"
-     }
-    ],
     "strategies": [
      {
       "slug": "traffic-lights-self-assessment"
@@ -199385,22 +199870,10 @@
     ],
     "principles": [
      {
-      "slug": "activation"
-     },
-     {
-      "slug": "active-learning"
-     },
-     {
       "slug": "adaptive-learning"
      },
      {
       "slug": "analogical-reasoning"
-     },
-     {
-      "slug": "chunking"
-     },
-     {
-      "slug": "clear-structure"
      },
      {
       "slug": "cognitive-activation"
@@ -201819,9 +202292,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "building-empathy"
-     },
      {
       "slug": "discussing-race"
      }

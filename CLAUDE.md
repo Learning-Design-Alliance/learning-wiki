@@ -124,6 +124,18 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (late night) — conversion wave 1: the 15 most-linked canonical pages
+
+- **Fifteen single pages converted** to the conditional-model format (`eval/page-triage/wave-1.md`): thirteen
+  principles (cognitive-load management, annotating, check-ins, chunking, assessment for learning, active
+  learning, clear structure, collaborative learning, building empathy, accessible vocabulary, authentic
+  audiences, activation, scaffolding) and two patterns (case-based learning, think-pair-share), 113 to 395
+  inbound links each. One agent each from a single-page brief; where a converted sibling exists the page owns
+  the more general relationship and places the sibling inside it. Checked by script as the pairs were, plus
+  every quoted number found on a cited claim page. **Not yet tested with briefs.**
+- **Most of these pages have no claim that tests their own relationship**, and say so; the wave's list of
+  overstated claim titles, stale claim text, two citation mismatches and merge candidates is in `wave-1.md`.
+
 ### 2026-10-02 (night) — every principle and pattern triaged; nothing moved yet
 
 - **`eval/page-triage/triage.tsv`** (`scripts/triage_design_pages.py`, README beside it) classes all 837
