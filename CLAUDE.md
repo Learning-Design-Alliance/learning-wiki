@@ -121,6 +121,33 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 — ten more principle–pattern pairs in the conditional format; batch 12 blocked on an expired key
+
+- **Ten pairs rewritten as conditional models** (`principle-pattern-authoring.md` lists them): cooperative
+  learning, direct instruction, mastery learning, multimedia learning, problem-based learning, self-regulated
+  learning, peer discussion / peer instruction, scaffolding and fading / cognitive apprenticeship, cognitive
+  load / 4C/ID, retrieval practice / team-based learning. One agent per pair from a brief (scratch, not
+  committed): 3–6 core claims read in full and described only from their claim pages, at least one limiting
+  claim, markers under `strength_cap`, every claim either page cited kept (in the model or under Further
+  evidence, labelled with its current load-bearing status), the old body verbatim in a `<!-- deprecated -->`
+  block, and Design Decisions, Related, Examples and Key Sources kept. Checked by script against each old page:
+  no old line lost, no frontmatter key changed but description/status/generated, no live claim dropped, no
+  marker above cap, no broken link. Not yet tested with briefs as #144's three were; that is the next step.
+- **What the agents found, open:** no claim tests 4C/ID, team-based learning or whole PBL curricula as a
+  whole; `whole-task-performance-improves-transfer` is a design argument titled as an effect; the
+  cooperative-learning free-rider and group-rewards claims share three entries and overstate them; the
+  direct-instruction claim's opening still says "particularly for novices"; `self-regulated-learning-improves-
+  achievement` pools performance, strategy use and motivation; several claims still say "no evidence yet"
+  beside entries; Roediger & Karpicke 2006 is n=180 on one claim and n=300 on another; the #144 claim pages
+  (`fading-and-principle-prompts-…`, `worked-example-problem-sequences`) have no parseable codes line, so their
+  headers read "none recorded yet" and their cap is W.
+- **Links inside HTML comments no longer count.** `build_reverse_index.py` and `check_evidence_markers.py`
+  strip `<!-- -->` first, so text kept in a deprecated block is not a citation, an edge or an evidence-profile
+  entry (11 edges dropped from two gap-fill pages that already had such blocks).
+- **Batch 12** (`eval/deep-dive/principle-pattern-pairs/topics.txt`, 63 articles fetched) **produced nothing:
+  the OpenRouter key in `/etc/eval-harness.env` has expired** (HTTP 401 on every call). Its writes were
+  reverted. With a new key, re-run generation for `--label batch-12`; the articles are cached.
+
 ### 2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions
 
 - **`run_scrape_batch.py` now runs `code_evidence_axes.py --new --code` then `--contrasts`** after kind and

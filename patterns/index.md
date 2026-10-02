@@ -25,7 +25,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Case-Based Learning](case-based-learning.md) - Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.
 * [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md) - Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making.
 * [CGI for Math](cgi-for-math.md) - CGI for Math is the short-form canonical target for Cognitively Guided Instruction in mathematics, where instruction is built around learners' informal strategies and explanation of problem solving.
-* [Cognitive Apprenticeship](cognitive-apprenticeship.md) - Cognitive apprenticeship adapts the structure of traditional craft apprenticeship to the teaching of complex cognitive skills.
+* [Cognitive Apprenticeship](cognitive-apprenticeship.md) - A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal.
 * [Cognitive Flexibility Theory](cognitive-flexibility-theory.md) - Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
 * [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md) - This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning.
 * [Cognitive Load Theory](cognitive-load-theory.md) - Cognitive Load Theory is the short-form canonical target for CLT-informed instructional patterns that reduce extraneous load and calibrate support to expertise.
@@ -36,14 +36,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Competency-Based Learning](competency-based-learning.md) - Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.
 * [Concept Attainment](concept-attainment.md) - Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.
 * [Constructive Alignment](constructive-alignment.md) - Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.
-* [Cooperative Learning](cooperative-learning.md) - Cooperative learning structures small-group work so that members are positively interdependent, individually accountable, and taught explicit collaborative skills.
+* [Cooperative Learning](cooperative-learning.md) - A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity.
 
 #### D {: #letter-d }
 
 * [Debate](debate.md) - Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
 * [Debate Format](debate-format.md) - Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence.
 * [Develop Understanding](develop-understanding.md) - Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then…
-* [Direct Instruction](direct-instruction.md) - Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.
+* [Direct Instruction](direct-instruction.md) - A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon.
 * [Discussion Group](discussion-group.md) - Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem.
 * [Discussion-Based Learning](discussion-based-learning.md) - Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone.
 
@@ -90,7 +90,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### M {: #letter-m }
 
-* [Mastery Learning](mastery-learning.md) - Mastery Learning is a pattern in which instruction is organized around clear criteria, formative checks, corrective support, and reassessment before progression.
+* [Mastery Learning](mastery-learning.md) - A reusable gate-correct-recheck policy for cumulative units: elicit a criterion-referenced response, interpret a shortfall, give responsive correction and recheck on a parallel task before advancing, with time, attempts and the outcome horizon stated.
 * [MEL Reasoning Pattern](mel-reasoning-pattern.md) - MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.
 * [Merrill's First Principles](merrills-first-principles.md) - Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration.
 * [Merrill's First Principles (Activation)](merrills-first-principles-activation.md) - This page is the short-form canonical target for the activation move within Merrill's First Principles: prompting learners to recall or connect relevant prior knowledge before new instruction or application.
@@ -99,15 +99,15 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Merrill's First Principles (Integration)](merrills-first-principles-integration.md) - This page is the short-form canonical target for the integration move within Merrill's First Principles: learners connect new learning to their own contexts, explain it to others, or use it in a novel setting.
 * [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md) - Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration.
 * [Model-Evidence Link (MEL) Reasoning Pattern](model-evidence-link-mel-reasoning-pattern.md) - The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly.
-* [Multimedia Learning](multimedia-learning.md) - Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.
+* [Multimedia Learning](multimedia-learning.md) - A reusable policy for pairing an explanation's words with an informative picture, choosing placement, channel, pacing and segmentation from the learner's observed response and the intended outcome.
 
 #### P {: #letter-p }
 
-* [Peer Instruction](peer-instruction.md) - Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.
+* [Peer Instruction](peer-instruction.md) - A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.
 * [Peer Teaching](peer-teaching.md) - Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
 * [POGIL](pogil.md) - POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning.
 * [Positive Behavioral Interventions And Supports](positive-behavioral-interventions-and-supports.md) - PBIS is a school-wide framework that teaches and reinforces expected behavior through tiered prevention rather than reactive punishment.
-* [Problem-Based Learning](problem-based-learning.md) - Problem-Based Learning uses an authentic or ill-structured problem to drive inquiry, knowledge building, and solution development.
+* [Problem-Based Learning](problem-based-learning.md) - A reusable policy for a problem-centred unit: elicit each learner's framing, set guidance by task-specific starting knowledge, facilitate contingently, consolidate the target content explicitly, and reobserve individually.
 * [Problem-Based Learning (PBL)](problem-based-learning-pbl.md) - Problem-Based Learning is a pattern that organizes a course, unit, or module around a complex problem that learners must investigate and respond to.
 * [Process-Oriented Guided Inquiry Learning (POGIL)](process-oriented-guided-inquiry-learning-pogil.md) - POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application.
 * [Professional Development](professional-development.md) - Professional development (PD) is the structured, sustained process by which educators build the knowledge, skills, and dispositions needed to improve their teaching practice.
@@ -122,7 +122,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### S {: #letter-s }
 
 * [Self-Directed Learning](self-directed-learning.md) - Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.
-* [Self-Regulated Learning](self-regulated-learning.md) - Self-Regulated Learning is the pattern-level target for designs that explicitly cycle planning, monitoring, feedback, and revision so learners can manage their own learning more effectively.
+* [Self-Regulated Learning](self-regulated-learning.md) - A reusable plan–monitor–act policy that makes regulation explicit with task-specific prompts, modelled self-assessment and a usable next action, then reads the response before handing regulation to the learner.
 * [Social Emotional Learning](social-emotional-learning.md) - Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.
 * [Socratic Seminar](socratic-seminar.md) - Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
 * [Spaced Learning](spaced-learning.md) - A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.
@@ -133,7 +133,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### T {: #letter-t }
 
-* [Team Based Learning](team-based-learning.md) - Team-Based Learning (TBL) is a structured instructional sequence in which stable small teams repeatedly apply course content to significant problems, with individual accountability enforced through readiness assurance testing.
+* [Team Based Learning](team-based-learning.md) - A unit-level readiness-assurance policy (individual closed-book test, team retest with immediate feedback, appeals, targeted clarification, then team application) whose test-and-feedback steps rest on retrieval evidence and whose team formation, application exercises and peer evaluation do not.
 * [Think-Pair-Share](think-pair-share.md) - Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group.
 * [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md) - This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final…
 * [Traditional Lecture-Based Instruction](traditional-lecture-based-instruction.md) - Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
@@ -146,7 +146,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### 0-9 & Other {: #letter-num }
 
-* [4C/ID (Four-Component Instructional Design)](4cid-four-component-instructional-design.md) - 4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice.
+* [4C/ID (Four-Component Instructional Design)](4cid-four-component-instructional-design.md) - A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals.
 * [5E Learning Cycle](5e-learning-cycle.md) - The 5E Learning Cycle organizes instruction into five phases — Engage, Explore, Explain, Elaborate, Evaluate — sequencing hands-on exploration before formal explanation.
 
 

@@ -61,6 +61,7 @@ LINK_RE = re.compile(r"\]\(<?(?:\.\./)?(?:/)?([a-z-]+/)?([^)>#]+?)\.md(?:#[^)>]*
 # requirement 3). Captured here rather than in a second pass so the index can
 # carry polarity and strength on the edge itself, which is what makes an
 # evidence-weighted check possible on the design side.
+COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
 MARKER_RE = re.compile(r"\A\s*\[([+~-])([SMW])\]")
 
 
@@ -79,7 +80,9 @@ def build() -> dict:
 
     for src_kind in SOURCE_KINDS:
         for path in pages_of(src_kind):
-            text = path.read_text(encoding="utf-8")
+            # A link inside an HTML comment is not on the page: superseded text kept in a
+            # <!-- deprecated --> block must not count as a citation or an edge.
+            text = COMMENT_RE.sub("", path.read_text(encoding="utf-8"))
             for m in LINK_RE.finditer(text):
                 folder = (m.group(1) or "").rstrip("/") or src_kind
                 slug = m.group(2).split("/")[-1]

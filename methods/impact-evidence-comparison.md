@@ -18,6 +18,7 @@ sources:
 # Comparing learning intervention effects
 
 > **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
 
 The wiki's `i0`–`i3` codes are legacy Cohen-like bins for a printed statistic. They are not a scale of educational value or a prediction for an individual learner. In particular, an effect below d = .20 is not necessarily negligible for a broad achievement measure. Preserve the estimate, direction and uncertainty alongside its code.
 

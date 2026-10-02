@@ -2,11 +2,11 @@
 type: principle
 id: self-regulated-learning
 title: Self-Regulated Learning
-description: Self-regulated learning is the principle of designing instruction so learners can plan, monitor, adjust, and reflect on their own learning processes.
+description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-10-01
 sources:
   - id: zimmerman-2002
     resource: "https://doi.org/10.1207/s15430421tip4102_2"
@@ -17,7 +17,68 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
+
+## Conditional relationship
+
+For a learner working on a task with an available goal or criterion, explicit instruction and prompts to plan, monitor progress against that criterion, and choose a next action (change strategy, seek help, review, continue) may increase regulation activity and, less consistently, task performance. The relationship is conditional on whether the learner's monitoring is accurate enough to act on, on task-specific prior knowledge, on whether the learner actually uses the support offered, and on which outcome is measured: gains in self-reported regulation, strategy knowledge or self-efficacy do not imply gains in subject achievement. The evidence linked here is mostly from school and university learners (`adolescent`, `adult`), in `classroom` and `online-self-paced` settings, targeting a `metacognitive-strategy` alongside subject content; horizons are mostly `immediate` or pre–post over a few weeks. The [self-regulated learning pattern](../patterns/self-regulated-learning.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
+
+## Observation, state and explanation
+
+"Self-regulation" is inferred, not observed. What can be recorded is a plan written before a task, a self-rating or prediction set against a scored result, a choice of next activity, a help request, a diary entry, logged time, or a questionnaire response. Each is a performance under stated conditions (with or without a prompt, a rubric, a model, peer feedback). A questionnaire score of regulation is a self-report about regulation, not a trace of it, and a learner who reports planning may not plan. Record which observation was made, under which support, and what remains unknown.
+
+The proposed mechanism (accurate monitoring against a criterion lets the learner detect a gap and change what they do) is a hypothesis drawn from the theoretical syntheses below. The studies linked here do not isolate it.
+
+| Response | Plausible explanations | Observation that could change the interpretation |
+|---|---|---|
+| Confident self-rating, low scored result | Miscalibration from fluency or familiarity; too little task knowledge to judge the work; criterion unclear or not understood | Ask for a prediction after a retrieval attempt rather than after rereading; ask the learner to score a worked exemplar against the same criterion; compare ratings on a familiar and an unfamiliar item. |
+| Accurate self-rating, no change in what the learner does next | No control strategy available; no time or option to act; the learner does not value the target; acting carries a cost (help-seeking stigma) | Offer a named set of next actions and record which is chosen; ask what the learner would do with more time; ask what the learner is trying to achieve. |
+| Prompts completed, diary filled, performance unchanged | Compliance without regulation; prompts too generic for this task; support not used in the task itself; outcome measure not aligned with what was regulated | Compare the content of entries with task traces (time, revisions, help requests); replace a generic prompt with a task-specific one; check the outcome against the chapters or tasks the learner chose to work on. |
+| Questionnaire regulation rises, achievement does not | Learned vocabulary of regulation without changed behaviour; real behaviour change too short to show on a broad test; instrument too distant from the regulated work | Add a behavioural trace (planning documents, logged study, revision history); use an outcome aligned with the learner's chosen focus; reobserve at a later horizon. |
+| Does not start or abandons the plan | Missing task knowledge rather than missing regulation; goal not valued; overload from content plus regulation demands | Give a short content probe with support; ask what would make the task worth doing; reduce one demand (supply the plan) and observe whether execution follows. |
+
+These rows are proposals and have not been tested with learners. A single contrast shifts confidence among explanations; it does not identify a cause. Probes are themselves learning events (a prediction or a retrieval attempt can change what is learned), so record every exposure.
+
+## Evidence and qualifications
+
+- [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+M]: a meta-analysis of 84 intervention studies in primary and secondary school pooled training against comparison conditions at an average effect of 0.69, but that figure combines academic performance, strategy use and motivation, and was larger when researchers rather than regular teachers delivered the training; a correlational meta-analysis found only small associations between measured SRL and achievement (r = 0.20 and 0.11), and an online-learning review found most supports helped performance only when learners used them, with no pooled effect. Not settled: the abstract available could not confirm the entries. It does not predict the effect of a teacher-delivered programme on achievement alone, or durability after training ends.
+- [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M]: a meta-analysis of experiments in computer-based learning environments compared planning, monitoring and evaluation prompts with no-prompt controls and reported g = 0.40 on learning outcomes and g = 0.50 on SRL activity, with effects varying by whether prompts were paired with feedback, task-specific, and adaptive; the number of studies, learners and horizon are not reported on the claim page. An online review adds that lower-prior-knowledge learners in one study benefited only once trained to use the prompts. Not settled: 1 of 2 entries pass, the rest could not be confirmed (abstract). It does not show that gains persist once prompts are removed.
+- [Self-assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [~M]: in a randomized 2×2 experiment with 80 Dutch pre-university students (`adolescent`) solving genetics problems, those who studied modelling examples of self-assessment rated their own posttest performance more accurately than those who did not (ηp² = .10); a meta-analysis of 51 higher-education studies found self–teacher agreement inconsistent and closer in advanced courses. Not settled: 0 of 1 entries pass, the rest could not be confirmed (abstract). This qualifies the model: monitoring is a condition, not a given. It does not show that more accurate self-assessment improved later learning.
+- [Prior knowledge is needed for accurate self-assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M]: a synthesis of 22 meta-analyses found self-evaluation and measured performance correlated only moderately (mean r = .29), more closely for domain-specific, familiar tasks; in one undergraduate course the lowest scorers were grossly overconfident before and after exams (associational, n = 96). Not settled: 0 of 1 entries pass, the rest could not be confirmed (abstract). It identifies who is least able to act on their own monitoring; it does not test an intervention.
+- [Web-based SRL training with a diary raised SRL knowledge and self-efficacy, not mathematics](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [~M]: in a randomized four-group trial in an online mathematics preparation course for prospective university students (`adult`, `online-self-paced`), training plus a learning diary produced pre–post gains in SRL knowledge, a self-reported SRL score (planning and metacognition subscales) and self-efficacy, but not in mathematics scores; group sizes and effect sizes beyond the reported β values are not on the claim page. Checked by the judge: all 2 entries pass (full text). It limits the model: regulation measures can move while the subject outcome does not, over this short horizon.
+
+Retain learners, delivery agent, comparator, whether support was used, outcome type and horizon when transporting these findings. A pooled average over performance, strategy use and motivation is not an achievement effect; a non-significant difference is not evidence of no effect; and a self-report of regulation is not regulation.
+
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+
+## Objective and learner-valued goal
+
+Ask what the learner wants to accomplish and why, separately from the designer's objective. A designer may want learners to regulate independently; a learner may want only to pass the next exam, or to stop feeling lost. Agreement, divergence and uncertainty are observations. Regulation is effortful, and the studies linked here do not show it is deployed for goals the learner does not value; do not read a blank plan or an unopened diary as a regulation deficit before asking.
+
+For example, in an online preparation course a learner may value catching up on two chapters they found hard, while the designer's objective is a higher overall placement score and a habit of weekly planning. A diary completion rate establishes neither. Agree which outcome counts (the chosen chapters, the overall score, the planning habit), record each separately, and keep the learner's stated purpose with the record.
+
+## What would revise this model?
+
+The expectation should weaken if comparable learners given explicit, task-specific planning and monitoring support, which they demonstrably use, show no gain over a defensible comparison on an aligned subject outcome. It should be revised if gains appear only on self-report regulation scales and never on behaviour traces or subject outcomes. If monitoring accuracy does not predict whether a learner's next choice helps, the proposed mechanism is wrong for that task. If prompts help only while present, the model describes scaffolded performance, not acquired regulation, and should say so.
+
+Gains in strategy knowledge, self-reported regulation, self-efficacy, study time, immediate task performance and delayed achievement are separate claims. The present evidence does not establish an optimal prompt schedule, a fading criterion, a durable transfer effect across subjects, or benefit for every learner.
+
+## Related Principles
+- [Metacognition](metacognition.md)
+- [Goal Setting & Monitoring](goal-setting-monitoring.md)
+
+## Examples
+- A writing course uses planning checklists, mid-draft self-ratings, and revision memos so learners can monitor progress against clear criteria.
+- An online math platform asks learners to predict difficulty, check performance after practice, and choose the next support option based on that reflection.
+
+## Key Sources
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+
+<!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
 
 ## Description
 Self-regulated learning is the principle of designing instruction so learners can plan, monitor, adjust, and reflect on their own learning processes. This page serves as the principle-level target for references that emphasize learner control and strategic regulation.
@@ -42,14 +103,4 @@ Self-regulated learning improves when instruction makes planning, monitoring, an
 
 ### Claims
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — Explicit progress checks and comparison to criteria improve learners’ ability to adjust strategy, effort, and help-seeking.
-
-## Related Principles
-- [Metacognition](metacognition.md)
-- [Goal Setting & Monitoring](goal-setting-monitoring.md)
-
-## Examples
-- A writing course uses planning checklists, mid-draft self-ratings, and revision memos so learners can monitor progress against clear criteria.
-- An online math platform asks learners to predict difficulty, check performance after practice, and choose the next support option based on that reflection.
-
-## Key Sources
-- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+-->

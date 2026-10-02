@@ -34194,7 +34194,7 @@
    "aliases": [
     "4cid"
    ],
-   "description": "4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice.",
+   "description": "A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals.",
    "grain_size": "unit",
    "id": "4cid-four-component-instructional-design",
    "path": "patterns/4cid-four-component-instructional-design.md",
@@ -34462,7 +34462,7 @@
    "type": "pattern"
   },
   {
-   "description": "Cognitive apprenticeship adapts the structure of traditional craft apprenticeship to the teaching of complex cognitive skills.",
+   "description": "A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal.",
    "grain_size": "course, unit",
    "id": "cognitive-apprenticeship",
    "path": "patterns/cognitive-apprenticeship.md",
@@ -34610,7 +34610,7 @@
    "type": "pattern"
   },
   {
-   "description": "Cooperative learning structures small-group work so that members are positively interdependent, individually accountable, and taught explicit collaborative skills.",
+   "description": "A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity.",
    "grain_size": "lesson, unit",
    "id": "cooperative-learning",
    "path": "patterns/cooperative-learning.md",
@@ -34737,7 +34737,7 @@
    "type": "pattern"
   },
   {
-   "description": "Direct instruction is the short-form canonical pattern for explicit explanation, modeling, guided practice, and feedback.",
+   "description": "A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon.",
    "grain_size": "lesson",
    "id": "direct-instruction",
    "path": "patterns/direct-instruction.md",
@@ -35632,7 +35632,7 @@
    "type": "pattern"
   },
   {
-   "description": "Mastery Learning is a pattern in which instruction is organized around clear criteria, formative checks, corrective support, and reassessment before progression.",
+   "description": "A reusable gate-correct-recheck policy for cumulative units: elicit a criterion-referenced response, interpret a shortfall, give responsive correction and recheck on a parallel task before advancing, with time, attempts and the outcome horizon stated.",
    "grain_size": "unit",
    "id": "mastery-learning",
    "path": "patterns/mastery-learning.md",
@@ -35786,7 +35786,7 @@
    "type": "pattern"
   },
   {
-   "description": "Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.",
+   "description": "A reusable policy for pairing an explanation's words with an informative picture, choosing placement, channel, pacing and segmentation from the learner's observed response and the intended outcome.",
    "grain_size": "lesson",
    "id": "multimedia-learning",
    "path": "patterns/multimedia-learning.md",
@@ -35878,7 +35878,7 @@
    "type": "pattern"
   },
   {
-   "description": "Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.",
+   "description": "A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.",
    "grain_size": "lesson",
    "id": "peer-instruction",
    "path": "patterns/peer-instruction.md",
@@ -35986,7 +35986,7 @@
    "type": "pattern"
   },
   {
-   "description": "Problem-Based Learning uses an authentic or ill-structured problem to drive inquiry, knowledge building, and solution development.",
+   "description": "A reusable policy for a problem-centred unit: elicit each learner's framing, set guidance by task-specific starting knowledge, facilitate contingently, consolidate the target content explicitly, and reobserve individually.",
    "grain_size": "unit",
    "id": "problem-based-learning",
    "path": "patterns/problem-based-learning.md",
@@ -36191,7 +36191,7 @@
    "type": "pattern"
   },
   {
-   "description": "Self-Regulated Learning is the pattern-level target for designs that explicitly cycle planning, monitoring, feedback, and revision so learners can manage their own learning more effectively.",
+   "description": "A reusable plan\u2013monitor\u2013act policy that makes regulation explicit with task-specific prompts, modelled self-assessment and a usable next action, then reads the response before handing regulation to the learner.",
    "grain_size": "unit",
    "id": "self-regulated-learning",
    "path": "patterns/self-regulated-learning.md",
@@ -36401,7 +36401,7 @@
    "type": "pattern"
   },
   {
-   "description": "Team-Based Learning (TBL) is a structured instructional sequence in which stable small teams repeatedly apply course content to significant problems, with individual accountability enforced through readiness assurance testing.",
+   "description": "A unit-level readiness-assurance policy (individual closed-book test, team retest with immediate feedback, appeals, targeted clarification, then team application) whose test-and-feedback steps rest on retrieval evidence and whose team formation, application exercises and peer evaluation do not.",
    "grain_size": "unit, course",
    "id": "team-based-learning",
    "path": "patterns/team-based-learning.md",
@@ -37122,7 +37122,7 @@
    "type": "principle"
   },
   {
-   "description": "Cognitive Load Theory, as a design principle, emphasizes managing the demands placed on working memory so learners can devote more capacity to schema construction rather than avoidable confusion.",
+   "description": "For a task-specific novice on high-element-interactivity material, reducing avoidable processing is expected to improve performance or efficiency, a relationship that weakens or reverses as task-specific expertise grows.",
    "id": "cognitive-load-theory",
    "path": "principles/cognitive-load-theory.md",
    "status": "review",
@@ -37346,7 +37346,7 @@
    "type": "principle"
   },
   {
-   "description": "Learners work in small, structured groups with positive interdependence and individual accountability, so that success requires every member to learn and contribute.",
+   "description": "For learners who can take part in the task, structured small-group work in which each member's learning is individually checked and counts toward the group's success is expected to raise individually measured achievement over several weeks, more than individualistic or competitive work; grouping alone is not expected to.",
    "id": "cooperative-learning",
    "path": "principles/cooperative-learning.md",
    "status": "review",
@@ -37602,7 +37602,7 @@
    "type": "principle"
   },
   {
-   "description": "Direct instruction is the principle of teaching explicitly through clear explanation, modeling, guided practice, and feedback.",
+   "description": "For a learner with no working method for a structured target, explicit explanation, modelling and guided practice with checks is expected to beat minimally guided discovery on near-term performance, qualified by task-specific expertise, age, outcome type and horizon.",
    "id": "direct-instruction",
    "path": "principles/direct-instruction.md",
    "status": "review",
@@ -38842,7 +38842,7 @@
    "type": "principle"
   },
   {
-   "description": "Mastery learning is the principle that progression should depend on demonstrated competence rather than time spent, first exposure, or one-shot performance.",
+   "description": "When a learner's response on a unit check falls short of a stated criterion, corrective support and a further check before advancing may raise later unit and course performance, qualified by the validity of the check, the quality of the correction, the time it costs and the horizon assessed.",
    "id": "mastery-learning",
    "path": "principles/mastery-learning.md",
    "status": "review",
@@ -39034,7 +39034,7 @@
    "type": "principle"
   },
   {
-   "description": "Multimedia learning is the principle of combining words, visuals, and other media in ways that support understanding without overloading attention.",
+   "description": "For a learner without a working model of a structure or process, a relevant picture placed with the words that explain it may improve a learning test over words alone, qualified by redundancy, decorative additions, pacing, prior knowledge and assessment horizon.",
    "id": "multimedia-learning",
    "path": "principles/multimedia-learning.md",
    "status": "review",
@@ -39290,7 +39290,7 @@
    "type": "principle"
   },
   {
-   "description": "Peer discussion is the instructional principle of using structured talk among learners to deepen interpretation, explanation, and understanding.",
+   "description": "When learners commit an individual answer to a conceptual question and then discuss their reasoning with peers, later independent answers to a new isomorphic question may improve, conditional on the question, group dynamics, instructor follow-up and an immediate horizon.",
    "id": "peer-discussion",
    "path": "principles/peer-discussion.md",
    "status": "review",
@@ -39570,7 +39570,7 @@
    "type": "principle"
   },
   {
-   "description": "Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer.",
+   "description": "For learners who must integrate knowledge to act on an authentic problem, problem-centred work may improve conceptual understanding and transfer when guidance and consolidating instruction accompany it, but unguided discovery underperforms explicit instruction for novices and no procedural advantage is recorded.",
    "id": "problem-based-learning",
    "path": "principles/problem-based-learning.md",
    "status": "review",
@@ -39850,7 +39850,7 @@
    "type": "principle"
   },
   {
-   "description": "Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them.",
+   "description": "For learners who have studied material, recalling it from memory rather than restudying tends to raise delayed retention when initial retrieval mostly succeeds or is corrected by feedback; restudy can lead at a few minutes, transfer gains are smaller and conditional, and high element-interactivity material is contested.",
    "id": "retrieval-practice",
    "path": "principles/retrieval-practice.md",
    "status": "review",
@@ -39890,7 +39890,7 @@
    "type": "principle"
   },
   {
-   "description": "Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge.",
+   "description": "Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon.",
    "id": "scaffolding-and-fading",
    "path": "principles/scaffolding-and-fading.md",
    "status": "review",
@@ -39954,7 +39954,7 @@
    "type": "principle"
   },
   {
-   "description": "Self-regulated learning is the principle of designing instruction so learners can plan, monitor, adjust, and reflect on their own learning processes.",
+   "description": "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured.",
    "id": "self-regulated-learning",
    "path": "principles/self-regulated-learning.md",
    "status": "review",

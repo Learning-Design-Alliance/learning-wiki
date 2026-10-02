@@ -1,0 +1,24 @@
+# Discovery topics for batch 12 (2026-10-01): evidence for the ten principle-pattern pairs being
+# converted to the conditional-model format (cooperative learning, direct instruction, mastery
+# learning, multimedia, problem-based learning, self-regulated learning, peer instruction,
+# scaffolding and cognitive apprenticeship, cognitive load and 4C/ID, retrieval practice and TBL).
+cooperative learning meta-analysis
+structured cooperative learning positive interdependence
+direct instruction effectiveness
+explicit instruction experimental study
+mastery learning meta-analysis
+mastery learning corrective feedback
+multimedia learning principles experiment
+signaling segmenting multimedia instruction
+problem-based learning meta-analysis
+problem-based learning knowledge application
+self-regulated learning intervention meta-analysis
+self-regulated learning prompts
+peer instruction conceptual understanding
+peer discussion clicker questions
+scaffolding fading experiment
+cognitive apprenticeship modeling coaching
+four-component instructional design whole-task
+element interactivity cognitive load expertise reversal
+retrieval practice classroom experiment
+team-based learning readiness assurance

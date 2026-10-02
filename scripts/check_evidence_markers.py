@@ -63,7 +63,8 @@ def scan() -> list:
         for path in sorted(folder.glob("*.md")):
             if path.stem == "index":
                 continue
-            text = path.read_text(encoding="utf-8")
+            # links inside an HTML comment (a <!-- deprecated --> block) are not citations
+            text = re.sub(r"<!--.*?-->", "", path.read_text(encoding="utf-8"), flags=re.S)
             for m in CLAIM_LINK_RE.finditer(text):
                 if m.group(1).split("/")[-1] not in known:
                     continue

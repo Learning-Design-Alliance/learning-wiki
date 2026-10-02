@@ -2,11 +2,11 @@
 type: principle
 id: retrieval-practice
 title: Retrieval Practice
-description: Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them.
+description: "For learners who have studied material, recalling it from memory rather than restudying tends to raise delayed retention when initial retrieval mostly succeeds or is corrected by feedback; restudy can lead at a few minutes, transfer gains are smaller and conditional, and high element-interactivity material is contested."
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-10-01
 sources:
   - id: roediger-2006
     resource: "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
@@ -17,50 +17,69 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 11 studies (5 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 7 of 11 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (9 for, 8 mixed, 1 against) · 11 studies (5 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 7 of 11 report an effect size · 13 claims rest on one study
 
-## Description
-Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them. It is useful when the goal is durable retention and easier future access.
+## Conditional relationship
 
-## Implications
-Retrieval practice works because the act of remembering strengthens future access better than passive review alone. The design implication is to build in frequent recall opportunities, preferably spaced over time and followed by feedback when correctness matters. Difficult retrieval can be productive, and even high-confidence errors can improve retention once corrected [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S], but retrieval demands need to stay calibrated so learners are challenged without getting lost or simply rehearsing mistakes.
+For a learner who has already studied some material, recalling it from memory, rather than restudying it or not being tested, tends to raise performance on a **delayed** test of that material. The best-supported cases are adults and university students learning prose, word pairs and facts (`verbal-association`, `concept`), compared with restudy at a horizon of a day or more (`delayed-retention`). Two conditions bound the relationship. The initial retrieval has to mostly succeed, or be followed by corrective feedback; repeated failure with no feedback has shown about no benefit. And the horizon matters: on a test minutes after study, restudy has been ahead. Transfer to new questions (`near-transfer`) is smaller and depends on how the retrieval and the later task are configured. Whether the benefit holds for material high in element interactivity is contested. This is a bounded expectation for groups under stated conditions, not a forecast for one learner.
 
-### Context
-#### Requirements
-- **Questions or prompts that require recall**
-- **Sufficient spacing or repetition for retrieval to matter**
-- **Feedback when accuracy is important**
-#### Constraints
-- **Retrieval without feedback can reinforce errors**
-- **Very difficult retrieval can become discouraging if learners lack enough support**
+The [Team-Based Learning pattern](../patterns/team-based-learning.md) is one reusable design that puts this relationship to work: its individual readiness test is a retrieval attempt, and its team retest supplies immediate feedback. The retrieval evidence bears on those steps, not on the team formation, application exercises or peer evaluation around them. The pattern's response-dependent branches are design proposals, untested with learners.
 
-### Target Learning Objectives
-- Improve retention, fluency of recall, and transfer through repeated remembering.
+## Observation, state and explanation
 
-### Theory
-#### Supporting
-- Testing-effect research.
-- [Metacognition](metacognition.md)
+Record a response **under stated conditions**: the item format (free recall, cued recall, short answer, multiple choice), cues and notes allowed, the time since study, the stakes, and whether feedback followed. A score on a quiz is an observation. "Has a durable, retrievable memory" is an inferred state, and so is "studied the reading". Correct recognition of an option is a different performance from producing the answer, and an answer given two minutes after reading says little about one given a week later. Confidence is a separate observation; learners who restudied in the cited experiment were more confident and did worse at a week, so confidence alone does not settle the state.
 
-### Claims
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — retrieval becomes especially memorable when confident mistakes are corrected clearly after recall
-- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
-- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
-- [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
-- [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
-- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
-- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [~M]
-- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
-- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](../claims/feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) [~M]
-- [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](../claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) [-M]
-- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
-- [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](../claims/retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) [+M]
-- [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
-- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](../claims/retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) [+M]
-- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M]
-- [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](../claims/retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) [+M]
-- [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M]
-- [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](../claims/whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) [~M]
+Strengthened memory access is the explanation the claim pages give for the effect. It is a mechanism hypothesis; no observation in a single quiz measures it.
+
+| Response | Plausible explanations | Observation that could change the interpretation |
+|---|---|---|
+| Recalls well right after studying, poorly a week later | Fluent restudy created short-lived access; the material was never well encoded; later learning interfered | Compare an unaided recall probe at the delay with the immediate one, on matched items; ask for a prediction of later recall first, and record whether any retrieval or feedback came between. |
+| Fails most items on a first unaided attempt | The material was not studied or not encoded; the cues on the probe do not match how it was learned; the stakes or anxiety suppressed responding | Re-present the material, then probe again after a short gap; compare a cued with a free-recall version; compare a low-stakes attempt with a graded one. |
+| Correct on multiple choice, wrong on short answer for the same content | Recognition without recall; a lure picked earlier has been learned as the answer; unfamiliarity with the response format | Give a short-answer version of the items; check whether wrong answers repeat options the learner selected before; note whether feedback followed the earlier test. |
+| Recalls the fact, cannot use it on an application question | The retrieved item is not connected to the principle the question needs; the question demands knowledge that was never practised; reading or language load | Ask the application question with the fact supplied and without it; ask the learner to explain the relation; vary the wording of the question. |
+| Scores rise across repeated quizzes but not on the later exam | Item-specific memory of the quiz questions; the exam measures something else; the gap before the exam was longer than any practised one | Probe with new items on the quizzed topics, at a delay like the exam's; compare the quiz and exam blueprints. |
+
+These are proposals for telling explanations apart, untested with learners. A probe is itself a retrieval attempt and can change what it measures; record it as an exposure. One contrast shifts confidence among the explanations; it does not identify a cause.
+
+## Evidence and qualifications
+
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]: a meta-analysis of 159 effect sizes from 61 studies compared tested with restudied material (g = 0.50, 95% CI 0.42 to 0.58, heterogeneity high), larger at retention intervals of a day or more (0.69) than below a day (0.41), with feedback (0.73 against 0.39) and with cued recall rather than recognition (0.61 against 0.29); with no feedback and initial success at or below 50% it was about zero (0.03). Published studies showed larger effects than unpublished ones (0.58 against 0.25). An experiment with undergraduates reading science passages found restudy ahead at five minutes (81% against 75%) and testing ahead at two days and one week. Not settled: the abstracts available could not confirm the entries. It does not predict an individual's gain or the size of an effect on complex skills.
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]: adds a second meta-analysis of practice testing across education levels (g = 0.51), with multiple-choice and constructed-response practice tests both effective. Its comparators mix rereading, filler tasks and no treatment, which is not the same contrast as testing against restudy. Not settled on the abstracts. The two pages record the same 2006 experiment with different counts (n=180 here; 120 + 180 across two experiments there), so read the full entry before quoting a sample size.
+- [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]: in a review of classroom studies (222 in the published abstract; 48,478 students), quizzing beat restudy and other controls overall (g = 0.499), and quizzes with corrective feedback produced g = 0.537 against 0.374 without. That is a between-study comparison, and another meta-analysis found no moderation (0.63 against 0.60). A word-pair experiment (258 participants, Luganda–English, final test one week later) found that supplying the answer after an error raised retention, while feedback after a correct response made little difference. One of two entries passes the judge; the other could not be confirmed. Feedback timing and elaborated against answer-only feedback are not tested here.
+- [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [~M]: in the same 61-study meta-analysis, no-feedback studies whose initial recall was at or below 50% showed g = 0.03, and those above 75% showed g = 0.56. This is a moderator analysis across groups of studies, not a manipulation of success, so it gives no threshold for one learner. Not settled on the abstract. Pretesting studies, where failure followed by feedback helps, are a counterpoint the page records.
+- [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]: a meta-analysis of 122 experiments (192 effect sizes, N = 10,382) found transfer from practice testing against non-testing re-exposure (d = 0.40, 95% CI 0.31 to 0.50), strongest to application and inference questions and across test formats, weakest to rearranged items, untested material and worked-example problems; bias corrections often left no positive transfer when the favourable moderators were absent. Four prose-passage experiments found repeated testing ahead of repeated study on new inferential questions a week later. Both entries pass the judge (abstracts). It does not establish far transfer to new problem structures.
+- [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested](../claims/whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) [~M]: second-hand, from one review chapter: one study found effects with a randomly ordered text but not an intact one, another found them for both, and the chapter judges the limiting argument not convincing. Not yet checked against its sources. For `high` element-interactivity material or a `complex-skill` goal, treat the relationship as unsettled.
+
+Retain the comparator (restudy, rereading, filler or nothing), the item format, feedback, initial success, the horizon and the learners when transporting these results. The pooled values come from different comparisons and should not be ranked against one another or read as an individual's expected gain.
+
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M] — checked by the judge: all 2 entries pass (full text)
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [~M] — checked by the judge: all 4 entries pass (full text)
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M] — checked by the judge: all 5 entries pass (full text)
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](../claims/feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) [~M] — checked by the judge: all 3 entries pass (full text)
+- [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](../claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) [-M] — partly checked: 1 of 2 entries pass, the rest could not be confirmed (full text)
+- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M] — not yet checked against its sources
+- [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](../claims/retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) [+M] — not yet checked against its sources
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](../claims/retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) [+M] — not yet checked against its sources
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M] — not yet checked against its sources
+- [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](../claims/retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) [+M] — not yet checked against its sources
+- [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M] — not yet checked against its sources
+
+## Objective and learner-valued goal
+
+Ask what the learner wants to be able to do with the material and why, and record it apart from the designer's objective. Agreement, divergence and uncertainty are observations, not assumptions. Then fix the target: the capability (recall a term, explain a relation, apply it to a case), a representative instrument, a criterion chosen locally, the aids permitted, and the horizon. Retrieval evidence is mostly about delayed recall of studied material; if the target is application or a whole skill, say so, because the expectation is weaker there.
+
+For example, a nursing student may value being able to answer a patient's question about a medication on placement, while the designer's objective is one-week cued recall of drug classes and their actions. A recall quiz serves the designer's objective directly and the learner's only in part: answering a patient is an application to a new question, which is where the transfer evidence is conditional. Keep both aims, and assess the application at its own horizon rather than inferring it from quiz scores.
+
+## What would revise this model?
+
+The delayed-retention expectation should weaken if comparable learners, at equal time, on aligned delayed outcomes, show no advantage for retrieval over restudy in defensible comparisons, including unpublished ones; the publication-bias gap already recorded is a reason to watch for this. If within-study manipulations of feedback or of initial success fail to reproduce the between-study moderators, the conditions above should be restated. If retrieval on `high` element-interactivity material or `complex-skill` goals is shown, under controlled comparisons, to help or not to help, replace the "contested" line with that finding. Do not protect the model by relabelling every null as too little feedback or too low success after the fact.
+
+A within-session quiz score, delayed recall, transfer to new questions and valued use are separate claims. The present evidence does not establish an optimal success rate for an individual, an optimal schedule, or a benefit across all domains.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -122,3 +141,48 @@ Retrieval practice works because the act of remembering strengthens future acces
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255. [https://doi.org/10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+
+<!-- deprecated 2026-10-01: superseded by the conditional model above; the earlier body is kept for history.
+## Description
+Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them. It is useful when the goal is durable retention and easier future access.
+
+## Implications
+Retrieval practice works because the act of remembering strengthens future access better than passive review alone. The design implication is to build in frequent recall opportunities, preferably spaced over time and followed by feedback when correctness matters. Difficult retrieval can be productive, and even high-confidence errors can improve retention once corrected [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S], but retrieval demands need to stay calibrated so learners are challenged without getting lost or simply rehearsing mistakes.
+
+### Context
+#### Requirements
+- **Questions or prompts that require recall**
+- **Sufficient spacing or repetition for retrieval to matter**
+- **Feedback when accuracy is important**
+#### Constraints
+- **Retrieval without feedback can reinforce errors**
+- **Very difficult retrieval can become discouraging if learners lack enough support**
+
+### Target Learning Objectives
+- Improve retention, fluency of recall, and transfer through repeated remembering.
+
+### Theory
+#### Supporting
+- Testing-effect research.
+- [Metacognition](metacognition.md)
+
+### Claims
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — retrieval becomes especially memorable when confident mistakes are corrected clearly after recall
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
+- [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
+- [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [~M]
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](../claims/feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) [~M]
+- [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](../claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) [-M]
+- [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
+- [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](../claims/retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) [+M]
+- [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
+- [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](../claims/retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) [+M]
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M]
+- [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](../claims/retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) [+M]
+- [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M]
+- [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](../claims/whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) [~M]
+-->

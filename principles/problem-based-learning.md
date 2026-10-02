@@ -2,11 +2,11 @@
 type: principle
 id: problem-based-learning
 title: Problem-based Learning
-description: Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer.
+description: "For learners who must integrate knowledge to act on an authentic problem, problem-centred work may improve conceptual understanding and transfer when guidance and consolidating instruction accompany it, but unguided discovery underperforms explicit instruction for novices and no procedural advantage is recorded."
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-08-29
+  at: 2026-10-01
 sources:
   - id: thorndahl-2020
     resource: "https://doi.org/10.14434/ijpbl.v14i1.28773"
@@ -21,7 +21,76 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (4 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 16 studies (7 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 2 of 16 report an effect size · 2 claims rest on one study
+
+## Conditional relationship
+
+For a learner who must integrate knowledge to act on an ill-structured or authentic problem (a `complex-skill` or `principle` goal, not a `verbal-association` one), starting work from a problem *may* support conceptual understanding and transfer, provided the problem phase is followed or accompanied by guidance that connects the learner's attempts to the canonical ideas. The relationship is conditional on the learner's task-specific starting knowledge (`novice` learners left to discover essential content without support learn less), on age (in the one synthesis recorded here the problem-first advantage reversed for `child` learners in second to fifth grade), on the outcome chosen (no advantage is recorded for procedural fluency) and on the horizon at which it is measured. The wiki holds no direct comparison of whole problem-based curricula with conventional instruction; the evidence below concerns components of the relationship: problem-first sequencing, the amount of guidance, contingent support and case-based formats. The [pattern](../patterns/problem-based-learning.md) specifies a reusable design policy; its local diagnostic branches remain proposals.
+
+## Observation, state and explanation
+
+Record what the learner does with a stated problem **under stated conditions**: what they identify as the question, what they say they need to know, which resources they consult, which solutions they generate, what help they receive and from whom, and what they produce. "Ready for open problems" is an inferred state, not an observation. Activity, talk volume and enthusiasm are observations of participation; none directly measures whether the target concept was learned. In a group, a shared product does not show what each member can do.
+
+Activation of prior knowledge, noticing gaps and comparing one's own solutions with the canonical one are explanatory hypotheses offered by the claims below; they have not been observed directly in the studies the wiki records.
+
+| Response | Plausible explanations | Observation that could change the interpretation |
+|---|---|---|
+| Cannot start: no question framed, no learning issues listed | Missing task-specific knowledge to enter the problem; problem framed in unfamiliar language or representation; unclear what a product should look like | Ask for a first decision with a short prompt in a familiar representation; show the form of a finished product without its content; record whether either releases a start. |
+| Busy and engaged, but the product shows little use of the target concept | Productive generation that awaits consolidation; floundering search without schema; target concept not actually needed by the problem as posed | Ask the learner to name the idea their solution depends on; check whether a correct solution to the problem as written requires the target concept at all. |
+| Group product strong, individual explanation weak | Work carried by one or two members; learning distributed but not yet individually consolidated; explanation probe harder than the task | Ask each learner for an individual explanation or a changed-condition problem under matched conditions; record who did what during the problem phase. |
+| Generates several flawed solutions, then learns quickly from instruction | Problem-first preparation, as productive-failure accounts propose; instruction alone would have sufficed; extra time on task | Only a comparison with an instruction-first condition of matched time can attribute the gain; a single learner's trajectory cannot. |
+| Succeeds on a conceptual probe, fails a routine procedure (or the reverse) | Different outcomes from the same sequence; procedure not practised; probe misaligned with what was taught | Score procedural and conceptual items separately, at the same horizon, and preserve both. |
+
+These rows are proposals, untested with learners. A probe can shift confidence among the explanations; it does not identify a cause on its own. The probe itself is a learning exposure and should be recorded as one.
+
+## Evidence and qualifications
+
+- [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]: a three-level meta-analysis (`synthesis-mixed`: experimental and quasi-experimental comparisons, 53 studies, 166 comparisons) set problem solving followed by instruction against the same instruction taught first. It favoured problem-first on conceptual knowledge and transfer (g = 0.36) and found no difference on procedural knowledge (g = −0.03); the advantage was larger for implementations following productive-failure design criteria (generating multiple solutions, group work, instruction building on student solutions) and reversed for second to fifth graders and for domain-general skills. One entry passes the judge on its abstract; the synthesis entry is unsettled on its abstract. It does not predict an advantage for problem-first work with no subsequent instruction, for young children, or on procedural fluency, and the claim page reports no delayed-horizon breakdown. Marked `~` because its support for problem-first work is conditional on instruction following and on learner age.
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]: a meta-analysis of 580 comparisons found explicit instruction outperformed unassisted discovery (d = 0.38 favouring explicit instruction), while 360 comparisons found enhanced or assisted discovery (feedback, worked examples, scaffolding, elicited explanations) outperformed other instruction. An experiment with 112 third- and fourth-grade `novice` children (the claim page does not say how they were assigned) found many more mastered the control-of-variables procedure under direct instruction, and those taught directly did as well on a later transfer task as the few who discovered it. The Klahr & Nigam entry passes the judge; the registry attaches the wrong abstract to the meta-analysis (recorded as a registry problem), and the narrative review is unsettled. This bounds the principle: it predicts poor learning when PBL means leaving novices to discover essential content unsupported, not that guided problem work fails. The claim page does not break the meta-analytic result down by prior knowledge.
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]: one-to-one tutoring studies in which support was adjusted to each learner response outperformed fixed, moderate or no support on immediate and one-month tests of long division (N = 8 per condition), and interactive tutoring gave similar immediate learning but better transfer; a dynamic-assessment synthesis ranked scaffolding above coaching but below explicit strategy training. None of its three judged entries passes; they could not be confirmed on their abstracts. Its evidence comes mostly from one-to-one tutoring, not from facilitated PBL groups, so it supplies a candidate facilitation policy rather than a tested PBL result.
+- [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M]: in one community-college biology cohort (n = 56; a non-randomized within-cohort comparison of matched topics), case-taught topics scored higher on course exams; a systematic review of 104 papers in health professional education (it passes the judge) concluded that students enjoy case-based learning but the evidence on learning compared with other activities is inconclusive, and that any benefit of small-group case work may come from the group work rather than the cases. It does not establish an advantage for authentic-problem formats in general and does not report delayed outcomes.
+
+Retain learner age and starting knowledge, the exact comparator (instruction-first, lecture, unassisted discovery), the amount and timing of guidance, time on task, outcome type and horizon when transporting these results. A pooled g over unlike implementations is not a forecast for one class or one learner, and a nonsignificant procedural difference does not establish equivalence.
+
+## Further evidence, not yet read against this model
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
+
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+
+## Objective and learner-valued goal
+
+Ask what the learner wants from the problem, and why, separately from the designer's objective. A problem chosen for its authenticity to the designer may not be one the learner cares about, and a learner's interest in solving the problem may diverge from the designer's interest in a concept the problem is meant to carry. Agreement, divergence and uncertainty are observations; engagement during the problem phase does not establish that the learner values the target capability. Choose a representative instrument, criterion, permitted resources and horizon for each outcome that matters: conceptual understanding, transfer, procedural fluency and the quality of the product are different claims.
+
+For example, a nursing student may value making a safe decision for the patient in a case, while the designer's objective is that the student can explain the physiological principle the case was built around. A correct group care plan cannot establish either the individual decision or the explanation. The pattern shows how to record both aims and test the one each party cares about.
+
+## What would revise this model?
+
+The problem-first expectation should weaken if comparable learners, with comparable consolidation instruction and time, fail to show a conceptual or transfer advantage over instruction-first sequences on aligned measures, or if the advantage disappears at a delayed horizon. If younger learners, domain-general skills or other populations repeatedly show the reversal recorded in the synthesis, narrow the principle to the populations where it holds. If matched-time comparisons attribute PBL gains to group work, feedback or extra time rather than to the problem-first order, revise the explanation. Do not protect the model by relabelling every failure as poor facilitation or insufficient authenticity after the fact.
+
+An engaging problem phase, an immediate conceptual gain, delayed retention, transfer to practice and the learner's valued use are separate claims. The evidence recorded here does not establish an optimal amount of guidance, a readiness threshold for open problems, or the effect of whole PBL curricula against conventional instruction.
+
+## Related Principles
+- [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
+- [Experiential Learning](experiential-learning.md) — problem-centered work often provides the concrete experience that later reflection builds on.
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — real stakeholders or consequences often strengthen PBL design.
+- [Guided Practice](guided-practice.md) — novices often need coached practice with inquiry and problem-solving moves inside PBL.
+
+## Examples
+- **Community issue investigation**: Learners analyze a local problem, gather evidence, and propose responses.
+- **Case-based team problem solving**: Small groups work through a realistic professional dilemma with incomplete information.
+- **Design challenge**: Learners create and defend a solution to a practical constraint-based problem.
+- **Cross-disciplinary PBL module**: Learners integrate literacy, numeracy, and research skills to address a shared problem.
+
+## Key Sources
+- Marra, R. M., Jonassen, D. H., Palmer, B., & Luft, S. (2014). Why problem-based learning works: Theoretical foundations. *Journal on Excellence in College Teaching, 25*(3-4), 221-238.
+- Thorndahl, K., & Stentoft, D. (2020). Thinking critically about critical thinking and problem-based learning in higher education: A scoping review. *The Interdisciplinary Journal of Problem-Based Learning, 14*(1). [https://doi.org/10.14434/ijpbl.v14i1.28773](https://doi.org/10.14434/ijpbl.v14i1.28773)
+- Lin, L. F. (2017). Impacts of the problem-based learning pedagogy on English learners' reading comprehension, strategy use, and active learning attitudes. *Journal of Education and Training Studies, 5*(6), 109-125. [https://doi.org/10.11114/jets.v5i6.2320](https://doi.org/10.11114/jets.v5i6.2320)
+- Savery, J. R. (2019). Overview of problem-based learning: Definitions and distinctions. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning](https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning)
+
+<!-- deprecated 2026-10-01: superseded by the conditional model above. Old body kept verbatim.
 
 ## Description
 Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer. Learners investigate the problem, identify what they need to know, gather evidence, propose solutions, and revise their thinking as they work. The strength of PBL is that it ties knowledge to use and makes learning purposeful, but it is not equivalent to leaving learners on their own. Strong PBL depends on careful facilitation, scaffolds for inquiry and collaboration, and enough domain grounding that the problem is challenging without becoming chaotic.
@@ -69,21 +138,4 @@ Problem-based learning is strongest when the problem requires learners to integr
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — learners benefit when facilitation responds to where their inquiry or reasoning is actually breaking down
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need explicit investigation and decision routines before open-ended success criteria become productive
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — beginners can waste effort on unguided search unless the problem space is structured well enough to support learning
-
-## Related Principles
-- [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
-- [Experiential Learning](experiential-learning.md) — problem-centered work often provides the concrete experience that later reflection builds on.
-- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — real stakeholders or consequences often strengthen PBL design.
-- [Guided Practice](guided-practice.md) — novices often need coached practice with inquiry and problem-solving moves inside PBL.
-
-## Examples
-- **Community issue investigation**: Learners analyze a local problem, gather evidence, and propose responses.
-- **Case-based team problem solving**: Small groups work through a realistic professional dilemma with incomplete information.
-- **Design challenge**: Learners create and defend a solution to a practical constraint-based problem.
-- **Cross-disciplinary PBL module**: Learners integrate literacy, numeracy, and research skills to address a shared problem.
-
-## Key Sources
-- Marra, R. M., Jonassen, D. H., Palmer, B., & Luft, S. (2014). Why problem-based learning works: Theoretical foundations. *Journal on Excellence in College Teaching, 25*(3-4), 221-238.
-- Thorndahl, K., & Stentoft, D. (2020). Thinking critically about critical thinking and problem-based learning in higher education: A scoping review. *The Interdisciplinary Journal of Problem-Based Learning, 14*(1). [https://doi.org/10.14434/ijpbl.v14i1.28773](https://doi.org/10.14434/ijpbl.v14i1.28773)
-- Lin, L. F. (2017). Impacts of the problem-based learning pedagogy on English learners' reading comprehension, strategy use, and active learning attitudes. *Journal of Education and Training Studies, 5*(6), 109-125. [https://doi.org/10.11114/jets.v5i6.2320](https://doi.org/10.11114/jets.v5i6.2320)
-- Savery, J. R. (2019). Overview of problem-based learning: Definitions and distinctions. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning](https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning)
+-->

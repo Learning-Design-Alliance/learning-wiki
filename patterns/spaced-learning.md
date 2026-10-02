@@ -13,6 +13,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
+> **Evidence** · 8 claims (7 for, 1 unmarked) · 10 studies (5 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 3 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 
