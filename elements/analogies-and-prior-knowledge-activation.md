@@ -63,8 +63,8 @@ Analogies support comprehension by letting learners import a known relational st
 
 ## Patterns That Use This Element
 - [Elaboration Theory](../patterns/elaboration-theory.md) — analogies serve as elaborative anchors that tie new content to existing knowledge structures
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — multiple analogies across contexts build flexible, multi-perspective understanding of complex concepts
-- [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — familiar schemas imported via analogy reduce intrinsic load for novices
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple analogies across contexts build flexible, multi-perspective understanding of complex concepts
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — familiar schemas imported via analogy reduce intrinsic load for novices
 
 ## Examples
 

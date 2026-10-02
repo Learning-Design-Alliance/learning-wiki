@@ -45,7 +45,7 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md) — a shadowed performance is a worked example enacted in real time; the learner studies the complete solution and immediately produces a parallel one
-- [Explicit Instruction](../principles/explicit-instruction.md) — when the model narrates decisions while performing, shadowing converts tacit expertise into imitable steps rather than leaving learners to infer intent from outcomes
+- [Explicit Instruction](../principles/direct-instruction.md) — when the model narrates decisions while performing, shadowing converts tacit expertise into imitable steps rather than leaving learners to infer intent from outcomes
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the model externalizes the solution structure, freeing working memory to attend to matching one's own execution to the observed one instead of planning from scratch
 - [Scaffolding](../principles/scaffolding.md) — shadowing is a temporary support that should fade: full imitation → partial imitation with learner decisions → independent performance
 

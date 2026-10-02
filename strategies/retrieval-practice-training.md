@@ -60,7 +60,7 @@ Retrieval practice produces large, durable gains in retention and transfer relat
 7. **Follow up.** Check-in on study habits over subsequent weeks; strategy adoption decays without accountability ([Check-Ins](../elements/check-in.md)).
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — retrieval gains compound when attempts are distributed over time
+- [Spaced Practice](../principles/spaced-learning.md) — retrieval gains compound when attempts are distributed over time
 - [Interleaving](interleaving.md) — mixing retrieval across topics increases discrimination between problem types
 - [Metacognitive Strategy Instruction](metacognitive-strategy-instruction.md) — the broader family of training learners to select and monitor study strategies
 - [Self-Explanation](../elements/self-explanation.md) — a complementary generative strategy that pairs well with retrieval prompts

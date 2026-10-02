@@ -50,7 +50,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Active Learning](../principles/active-learning.md) — debriefing makes learners, not the instructor, do the cognitive work of explaining outcomes, converting an activity into elaborated understanding
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the debrief is a formative-assessment conversation: facilitator questions surface misconceptions and learners receive process-level feedback while it is still actionable
 - [Collaborative Learning](../principles/collaborative-learning.md) — group debriefs expose learners to peers' interpretations of the same event, widening the set of perspectives available for sense-making
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — debriefing enacts the *reflection* and *articulation* phases, in which learners make their reasoning explicit and compare it to expert reasoning
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — debriefing enacts the *reflection* and *articulation* phases, in which learners make their reasoning explicit and compare it to expert reasoning
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

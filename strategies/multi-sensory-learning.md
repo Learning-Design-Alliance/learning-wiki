@@ -36,7 +36,7 @@ The evidence base is narrower than the popular "learning styles" framing suggest
 #### Implementation Variability
 - Visual + auditory: narrated diagrams, animations with voiceover (multimedia learning)
 - Visual + kinesthetic: manipulatives, [Act It Out](../elements/act-it-out.md), gesture-enriched explanation
-- Auditory + textual: [Audiobooks](../principles/audiobooks.md) paired with follow-along text for developing readers
+- Auditory + textual: [Audiobooks](../elements/audiobooks.md) paired with follow-along text for developing readers
 - Tactile: sand-paper letters and letter-tracing in Orton-Gillingham–style literacy instruction
 
 ### Target Learners

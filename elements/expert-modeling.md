@@ -31,7 +31,7 @@ Expert modeling is the element in which a skilled performer demonstrates not onl
 
 ### Affordances
 - [Social Learning](../principles/social-learning.md)
-- [Explicit Instruction](../principles/explicit-instruction.md)
+- [Explicit Instruction](../principles/direct-instruction.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

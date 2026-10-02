@@ -37,7 +37,7 @@ Processing speed is a bottleneck resource: slow execution of basic operations co
 #### Implementation Variability
 - **Assessment:** extended time (typically 1.5×), reduced item sets, or separate quiet settings
 - **Instruction:** increased wait time after questions — extending teacher wait time from ~1 second to 3+ seconds lengthens and improves student responses [Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50](https://doi.org/10.1177/002248718603700110) [+S]
-- **Materials:** guided or partially completed notes, audio versions of text ([audiobooks](../principles/audiobooks.md)), text-to-speech tools
+- **Materials:** guided or partially completed notes, audio versions of text ([audiobooks](../elements/audiobooks.md)), text-to-speech tools
 - **Output:** speech-to-text, scribing, or oral responses in place of timed written output
 
 ### Target Learners

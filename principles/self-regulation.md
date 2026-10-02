@@ -44,7 +44,7 @@ Self-regulation becomes more likely when learners have clear goals, usable feedb
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — Prompting learners to monitor progress against goals improves adaptive adjustment and strategic control.
 
 ## Related Principles
-- [Metacognition](metacognition.md)
+- [Metacognition](self-regulated-learning.md)
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 
 ## Examples

@@ -38,7 +38,7 @@ Independent reading provides the volume of practice that builds fluency, vocabul
 - **Reading workshop**: mini-lesson → sustained independent reading → individual conferences → share session
 - **Choice boards / structured choice**: students choose within teacher-curated text sets, balancing autonomy with level-appropriateness
 - **Home reading programs**: take-home books with family guidance; effective for reducing summer reading loss
-- **Audiobook-supported reading**: pairing [audiobooks](../principles/audiobooks.md) with print for striving readers to access higher-interest texts
+- **Audiobook-supported reading**: pairing [audiobooks](../elements/audiobooks.md) with print for striving readers to access higher-interest texts
 
 ### Target Learners
 - K–12 students, with the strongest documented payoff in elementary grades where fluency is still developing [~M]

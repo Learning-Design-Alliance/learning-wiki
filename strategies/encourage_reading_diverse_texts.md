@@ -31,7 +31,7 @@ Exposure to varied text structures builds the genre knowledge and vocabulary tha
 #### Constraints
 - Unstructured independent reading of diverse texts produces weak vocabulary gains without discussion or accountability; talk is the active ingredient, not volume alone [-M]
 - Learners may choose texts well below or above their instructional level without guidance; free choice improves motivation but can reduce comprehension growth when text difficulty is unmanaged [~M]
-- Text difficulty that exceeds learners' decoding or background knowledge consumes working memory needed for comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [-M] — scaffolding or accessible alternatives (e.g., [Audiobooks](../principles/audiobooks.md)) are needed
+- Text difficulty that exceeds learners' decoding or background knowledge consumes working memory needed for comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [-M] — scaffolding or accessible alternatives (e.g., [Audiobooks](../elements/audiobooks.md)) are needed
 - Diverse texts without discussion of differing perspectives can leave stereotypes unexamined rather than challenged [-W]
 
 #### Implementation Variability

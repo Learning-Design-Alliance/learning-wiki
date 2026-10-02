@@ -38,7 +38,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 - **Reading workshop**: mini-lesson → independent reading → [check-in](../elements/check-in.md) conference → share
 - **Choice boards or genre challenges**: structure selection without dictating titles ([Choice Boards](../elements/choice-boards.md))
 - **Annotated reading**: learners mark texts or keep response journals during reading ([Annotating](../principles/annotating.md))
-- **Audiobook pairing**: audio-supported reading lets striving readers access higher-interest texts ([Audiobooks](../principles/audiobooks.md))
+- **Audiobook pairing**: audio-supported reading lets striving readers access higher-interest texts ([Audiobooks](../elements/audiobooks.md))
 
 ### Target Learners
 - Developing readers who have basic decoding skills and need volume to build fluency and vocabulary [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
@@ -57,7 +57,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 3. **Protect the reading block**: 10–30 minutes of uninterrupted reading on a predictable schedule; the teacher reads or confers, not grades papers.
 4. **Confer briefly**: hold 1–2 minute [check-ins](../elements/check-in.md) with a few learners per session, focusing on comprehension and next-text selection.
 5. **Add light accountability**: reading logs, partner shares, or book talks — enough to sustain engagement without converting reading into an assessment task.
-6. **Support striving readers**: pair texts with [audiobooks](../principles/audiobooks.md) or adjust text difficulty ([Accommodations](../elements/accommodations.md)) so all learners experience successful reading.
+6. **Support striving readers**: pair texts with [audiobooks](../elements/audiobooks.md) or adjust text difficulty ([Accommodations](../elements/accommodations.md)) so all learners experience successful reading.
 
 ## Related Strategies
 - [Reading conferences](5-minute_writing_conferences.md) — the individualized teacher interaction that makes independent time instructional

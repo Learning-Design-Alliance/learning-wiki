@@ -61,7 +61,7 @@ Deliberate practice differs from mere repetition: it targets identified weakness
 6. Gradually reintegrate sub-skills into whole-task performance and raise the difficulty criterion
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — the scheduling principle that makes repeated practice durable
+- [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that makes repeated practice durable
 - [Retrieval Practice](retrieval-practice.md) — testing-based practice that strengthens long-term memory
 - [Formative Feedback](formative-feedback.md) — the feedback engine that directs each practice cycle
 

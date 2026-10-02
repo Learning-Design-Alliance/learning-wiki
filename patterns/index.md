@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**143 entries** · 0 stable · 73 in review · 70 drafts
+**141 entries** · 0 stable · 71 in review · 70 drafts
 
 ---
 
@@ -25,9 +25,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Case-Based Learning](case-based-learning.md) - A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall.
 * [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md) - Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making.
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal.
-* [Cognitive Flexibility Theory](cognitive-flexibility-theory.md) - Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
 * [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md) - This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning.
-* [Cognitive Load Theory](cognitive-load-theory.md) - Cognitive Load Theory is the short-form canonical target for CLT-informed instructional patterns that reduce extraneous load and calibrate support to expertise.
 * [Cognitively Guided Instruction (CGI) for Math](cognitively-guided-instruction-cgi-for-math.md) - CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method.
 * [Collaborative Evaluation](collaborative-evaluation.md) - Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria.
 * [Collaborative Inquiry](collaborative-inquiry.md) - Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.

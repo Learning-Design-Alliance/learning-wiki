@@ -38,7 +38,7 @@ Reading aloud exposes learners to language and text structures above their indep
 - **Dialogic reading** (Whitehurst's PEER sequence): learner becomes the teller; suited to small groups and pre-K–1
 - **Interactive read aloud** (e.g., Fountas & Pinnell): whole-class, teacher-led with planned think-alouds and turn-and-talk
 - **World read alouds / text sets**: repeated readings on one topic to build background knowledge for [Case-Based Learning](../patterns/case-based-learning.md) or inquiry units
-- **Audio-supported read aloud** ([Audiobooks](../principles/audiobooks.md)): recorded narration paired with text for independent practice or accommodation use
+- **Audio-supported read aloud** ([Audiobooks](../elements/audiobooks.md)): recorded narration paired with text for independent practice or accommodation use
 
 ### Target Learners
 - Emergent and early readers (pre-K–grade 2), who gain vocabulary, print concepts, and narrative structure [Joint book reading predicts later literacy success.](../claims/joint-book-reading-predicts-literacy-success.md) [+M]

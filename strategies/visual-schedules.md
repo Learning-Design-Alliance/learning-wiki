@@ -54,7 +54,7 @@ Visual schedules externalize temporal structure, reducing the working-memory and
 ### Instructions
 1. Identify the sequence to be represented (day, task, or routine) and break it into discrete, observable activities, applying [Chunking](../principles/chunking.md) so no step is lost in the display.
 2. Select a representation format matched to the learner's literacy and vision ([Accommodations](../elements/accommodations.md)).
-3. Introduce the schedule with [Explicit Instruction](../principles/explicit-instruction.md): model checking it, completing an item, marking it done, and transitioning.
+3. Introduce the schedule with [Explicit Instruction](../principles/direct-instruction.md): model checking it, completing an item, marking it done, and transitioning.
 4. Fade adult prompting systematically so the schedule itself gains stimulus control; use a brief [Check-In](../elements/check-in.md) at transitions to confirm the learner is self-managing.
 5. Review and revise the schedule with the learner, adding choice points and "change" cards to build flexibility.
 

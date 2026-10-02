@@ -19,7 +19,7 @@ Schema-based instruction teaches learners to recognize and reason about the unde
 
 ## Design Implications
 
-Schema-based instruction works because expert problem solving is schema-driven: experts classify problems by structure and retrieve a solution method, while novices sort by surface features [Marshall's schema theory of problem solving.](https://doi.org/10.1017/CBO9780511527890) [+M]. Explicitly teaching the classification step converts what experts do tacitly into a learnable procedure, consistent with [Explicit Instruction](../principles/explicit-instruction.md) and [Cognitive Load Management](../principles/cognitive-load-management.md) — a shared schema reduces the working-memory demand of treating every problem as new [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Schema-based instruction works because expert problem solving is schema-driven: experts classify problems by structure and retrieve a solution method, while novices sort by surface features [Marshall's schema theory of problem solving.](https://doi.org/10.1017/CBO9780511527890) [+M]. Explicitly teaching the classification step converts what experts do tacitly into a learnable procedure, consistent with [Explicit Instruction](../principles/direct-instruction.md) and [Cognitive Load Management](../principles/cognitive-load-management.md) — a shared schema reduces the working-memory demand of treating every problem as new [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements

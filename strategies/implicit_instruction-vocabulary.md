@@ -37,7 +37,7 @@ Incidental acquisition is the primary source of vocabulary growth in first and s
 #### Implementation Variability
 - **Wide reading / free voluntary reading** — high-volume self-selected reading with no targeted words; builds general vocabulary breadth slowly
 - **Seeded read-alouds** — teacher pre-selects texts containing target words and briefly gestures to meaning in the moment, as in [Dialogic Reading](../elements/class-discussion.md) routines
-- **Incidental multimedia exposure** — captioned video and [audiobooks](../principles/audiobooks.md) supply spoken-form encounters that reinforce printed-form learning
+- **Incidental multimedia exposure** — captioned video and [audiobooks](../elements/audiobooks.md) supply spoken-form encounters that reinforce printed-form learning
 - **Hybrid implicit-explicit** — implicit exposure as the base, with a small set of high-value words pulled out for brief explicit attention; this hybrid consistently outperforms either mode alone [+M]
 
 ### Target Learners

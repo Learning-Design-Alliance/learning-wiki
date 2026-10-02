@@ -38,7 +38,7 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 - **Paired texts:** the same book in two editions, read first in L1 then in L2
 - **Embedded bilingual format:** side-by-side or interlinear dual-language texts
 - **Preview–View–Review:** content previewed in L1, taught in L2, reviewed in L1
-- **Digital audio support:** [Audiobooks](../principles/audiobooks.md) in the L1 paired with L2 print to decouple decoding from comprehension
+- **Digital audio support:** [Audiobooks](../elements/audiobooks.md) in the L1 paired with L2 print to decouple decoding from comprehension
 - **Family engagement:** sending bilingual books home extends L1 literacy development beyond the classroom
 
 ### Target Learners
@@ -69,7 +69,7 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — bilingual editions can serve as the assigned text with L2 follow-up
-- [Audiobooks](../principles/audiobooks.md) — L1 audio paired with L2 print decouples decoding from comprehension
+- [Audiobooks](../elements/audiobooks.md) — L1 audio paired with L2 print decouples decoding from comprehension
 - [Annotating](../principles/annotating.md) — marking cognates and dual-language notes makes cross-linguistic transfer explicit
 - [Accommodations](../elements/accommodations.md) — L1 assessment responses are an accommodation this strategy enables
 

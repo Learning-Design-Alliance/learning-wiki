@@ -36,7 +36,7 @@ Adding spoken narration to educational content draws on the modality principle: 
 
 #### Implementation Variability
 - **Static pre-generation**: narrate fixed course content at build time for maximum voice quality control
-- **Dynamic generation**: synthesize narration on demand for user-generated text (e.g., reading fluency practice, pronunciation models, or [Audiobooks](../principles/audiobooks.md)-style scaffolds for struggling readers)
+- **Dynamic generation**: synthesize narration on demand for user-generated text (e.g., reading fluency practice, pronunciation models, or [Audiobooks](../elements/audiobooks.md)-style scaffolds for struggling readers)
 - **Multilingual localization**: one source text rendered in many languages and accents
 - **Voice choice**: consistent single voice across a course reduces extraneous processing; voice similarity to the learner can affect social response and engagement [~W]
 

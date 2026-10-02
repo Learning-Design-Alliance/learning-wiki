@@ -26,7 +26,7 @@ The rationale is that automatic recognition of high-frequency words frees workin
 - A curated subset of the Dolch list appropriate to the learner's current level (pre-primer through grade 3 bands)
 - Grids where target words are visually salient and distractor letters do not accidentally form other words
 - A follow-on activity requiring learners to *read or write* the located words, not just circle them ([Practice](../elements/practice.md))
-- Prior or concurrent explicit instruction on the words — puzzles reinforce, they do not teach ([Explicit Instruction](../principles/explicit-instruction.md))
+- Prior or concurrent explicit instruction on the words — puzzles reinforce, they do not teach ([Explicit Instruction](../principles/direct-instruction.md))
 
 #### Constraints
 - Word searches require letter-by-letter scanning, which can encourage decoding-like attention to letters rather than whole-word recognition — the opposite of the fluency goal [~W]
@@ -51,7 +51,7 @@ The rationale is that automatic recognition of high-frequency words frees workin
 - Reading fluency: reducing pauses at common words in connected text
 
 ### Instructions
-1. Select 5–8 Dolch words from the learner's current band; pre-teach each word explicitly ([Explicit Instruction](../principles/explicit-instruction.md)).
+1. Select 5–8 Dolch words from the learner's current band; pre-teach each word explicitly ([Explicit Instruction](../principles/direct-instruction.md)).
 2. Have learners read each target word aloud before searching ([Activation](../elements/activation.md)).
 3. Learners locate the words in the grid ([Practice](../elements/practice.md)).
 4. Learners write each found word from memory, then read it in a short sentence ([Application](../elements/application.md)).

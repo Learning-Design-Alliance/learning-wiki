@@ -39,7 +39,7 @@ Rereading works because repetition drives words toward automatic recognition, wh
 - **Paired/fluent-partner reading**: learners reread with a more fluent peer or adult who models expression
 - **Echo and choral reading**: teacher or audio models a line or page; learners reread it immediately in unison
 - **Rereading for meaning**: older students revisit complex passages (e.g., primary sources, dense expository text) with a new comprehension question each pass
-- **Audio-assisted rereading**: recorded models ([Audiobooks](../principles/audiobooks.md)) let learners reread independently with accurate prosody support
+- **Audio-assisted rereading**: recorded models ([Audiobooks](../elements/audiobooks.md)) let learners reread independently with accurate prosody support
 
 ### Target Learners
 - Beginning and struggling readers building decoding accuracy and automaticity [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]

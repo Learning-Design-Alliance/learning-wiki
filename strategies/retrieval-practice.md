@@ -61,7 +61,7 @@ Retrieval is a learning event, not merely an assessment event: the effort of rec
 6. Use the results to adjust instruction and learner self-study plans.
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — spacing multiplies retrieval's retention benefit; the two are usually designed together
+- [Spaced Practice](../principles/spaced-learning.md) — spacing multiplies retrieval's retention benefit; the two are usually designed together
 - [Interleaving](interleaving.md) — mixing problem types forces retrieval of the appropriate strategy, not just the answer
 - [Low-Stakes Quizzing](low-stakes-quizzing.md) — the most common classroom vehicle for retrieval practice
 

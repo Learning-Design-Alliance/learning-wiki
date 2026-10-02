@@ -43,7 +43,7 @@ Collaboration improves outcomes when it is structured — with assigned roles, i
 ### Target Learners
 - Learners with some prior knowledge, who can contribute to and benefit from peer explanation [Collaboration benefits are strongest when group members have complementary partial knowledge.](../claims/active-learning-improves-exam-performance.md) [~M]
 - Anxious or low-status learners benefit from structured low-stakes participation before whole-class discussion
-- Less effective for complete novices on complex material, who need [Explicit Instruction](../principles/explicit-instruction.md) first [~S]
+- Less effective for complete novices on complex material, who need [Explicit Instruction](../principles/direct-instruction.md) first [~S]
 
 ### Target Learning Goals
 - Conceptual understanding and conceptual change through [Argumentation](../elements/argumentation.md) and [Class Discussion](../elements/class-discussion.md)

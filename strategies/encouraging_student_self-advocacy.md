@@ -19,7 +19,7 @@ Self-advocacy instruction teaches learners to understand their own learning need
 
 ## Design Implications
 
-Self-advocacy functions as a bridge between metacognition and action: learners must first accurately self-assess, then act on that assessment by seeking help or negotiating conditions. Self-monitoring of progress improves self-regulation, which is the foundation on which advocacy requests rest [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Because advocacy is a performance skill, it must be modeled and practiced — not merely encouraged — following the same logic as [Coaching](../elements/coaching.md) and [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md).
+Self-advocacy functions as a bridge between metacognition and action: learners must first accurately self-assess, then act on that assessment by seeking help or negotiating conditions. Self-monitoring of progress improves self-regulation, which is the foundation on which advocacy requests rest [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Because advocacy is a performance skill, it must be modeled and practiced — not merely encouraged — following the same logic as [Coaching](../elements/coaching.md) and [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md).
 
 ### Context
 #### Requirements

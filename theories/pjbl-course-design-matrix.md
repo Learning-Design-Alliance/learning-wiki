@@ -39,7 +39,7 @@ The article proposes a 2x2 matrix for describing variations in project-based cou
 - [Flexible Problem Solving Supports Cooperative Learning](../claims/flexible-problem-solving-supports-cooperative-learning.md) [+M]
 
 ## Related Theories
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- [Cognitive Flexibility Theory](cognitive-flexibility-theory.md)
 
 ## Examples
 -

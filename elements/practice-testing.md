@@ -26,7 +26,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - Questions that require genuine retrieval (recall, application), not recognition of recently seen text
 - Feedback or answer-checking so errors are corrected rather than consolidated
 - Sufficient delay between study and test that retrieval is effortful but achievable — "desirable difficulty"
-- Repeated retrieval opportunities distributed over time ([Spaced Practice](../principles/spaced-practice.md) where available)
+- Repeated retrieval opportunities distributed over time ([Spaced Practice](../principles/spaced-learning.md) where available)
 
 #### Constraints
 - Testing before any instruction produces weak or negative effects when retrieval failure rates are high [~M] — pretesting helps mainly when learners can make plausible partial attempts
@@ -47,7 +47,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 ### Affordances
 - [Assessment for Learning](../principles/assessment-for-learning.md) — low-stakes testing is the core mechanism: it generates evidence about learning while simultaneously producing learning
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — successful retrieval consolidates information so it no longer competes for working memory, freeing capacity for harder material
-- [Spacing and Distributed Practice](../principles/spaced-practice.md) — tests are natural spacing events; scheduling retrieval at expanding intervals compounds the testing effect
+- [Spacing and Distributed Practice](../principles/spaced-learning.md) — tests are natural spacing events; scheduling retrieval at expanding intervals compounds the testing effect
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — self-testing gives learners accurate feedback on their own state of knowledge, driving better study decisions
 
 ### Claims

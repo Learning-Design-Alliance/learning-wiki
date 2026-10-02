@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (2 for, 1 against) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
-Metacognitive strategy instruction explicitly teaches learners *how* to approach tasks — planning, monitoring comprehension, selecting and adjusting strategies, and evaluating outcomes — rather than only teaching content. Effective programs combine declarative knowledge (what the strategy is), procedural knowledge (how to execute it), and conditional knowledge (when and why it works), typically through [Explicit Instruction](../principles/explicit-instruction.md), [Think-Aloud](../elements/think-aloud.md) modeling, and guided practice with [Fading](../elements/fading.md).
+Metacognitive strategy instruction explicitly teaches learners *how* to approach tasks — planning, monitoring comprehension, selecting and adjusting strategies, and evaluating outcomes — rather than only teaching content. Effective programs combine declarative knowledge (what the strategy is), procedural knowledge (how to execute it), and conditional knowledge (when and why it works), typically through [Explicit Instruction](../principles/direct-instruction.md), [Think-Aloud](../elements/think-aloud.md) modeling, and guided practice with [Fading](../elements/fading.md).
 
 ## Design Implications
 
@@ -62,7 +62,7 @@ Strategy instruction produces reliable but moderate gains, strongest when instru
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the canonical reading-comprehension implementation, alternating modeling and student-led practice
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the primary modeling method for making strategies visible
 - [Self-Assessment](../elements/self-assessment.md) — trains the monitoring and evaluating components
-- [Spaced Practice](../principles/spaced-practice.md) — a study strategy whose value learners systematically misjudge, making it a prime target for instruction
+- [Spaced Practice](../principles/spaced-learning.md) — a study strategy whose value learners systematically misjudge, making it a prime target for instruction
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown, 1984) — small-group reading instruction cycling through predicting, questioning, clarifying, and summarizing, with teacher modeling fading to student leadership.

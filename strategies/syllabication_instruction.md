@@ -25,7 +25,7 @@ Syllabication gives learners a structural schema for attacking multisyllable wor
 #### Requirements
 - A planned sequence introducing syllable types cumulatively, not all at once ([Direct Instruction](../elements/direct-instruction.md))
 - Word lists and syllable charts selected to contain only previously taught patterns
-- Repeated, distributed practice reading and spelling words with each syllable type ([Practice](../elements/practice.md), [Spaced Practice](../principles/spaced-practice.md))
+- Repeated, distributed practice reading and spelling words with each syllable type ([Practice](../elements/practice.md), [Spaced Practice](../principles/spaced-learning.md))
 - Immediate corrective feedback during word reading and spelling attempts ([Provide Feedback](../elements/provide-feedback.md))
 
 #### Constraints

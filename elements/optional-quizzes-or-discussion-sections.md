@@ -48,7 +48,7 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - [Retrieval Practice](../principles/retrieval-practice.md) — quizzes are the canonical enactment: each question is a retrieval attempt that strengthens memory more than restudying the same material
 - [Formative Assessment](../principles/formative-assessment.md) — low-stakes format makes errors safe and informative, letting both learner and instructor adjust before graded assessment
 - [Active Learning](../principles/active-learning.md) — discussion sections convert lecture content into generative activity (arguing, explaining, applying) rather than re-exposure
-- [Spaced Practice](../principles/spaced-practice.md) — scheduling optional quizzes across the term, rather than clustering them before exams, converts them into spaced retrieval events
+- [Spaced Practice](../principles/spaced-learning.md) — scheduling optional quizzes across the term, rather than clustering them before exams, converts them into spaced retrieval events
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

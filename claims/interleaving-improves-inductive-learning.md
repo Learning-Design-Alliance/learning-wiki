@@ -42,7 +42,7 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 
 ## Discussion
 
-**Mechanism.** Interleaving is thought to work through two complementary routes. First, when different problem types are juxtaposed, learners must discriminate between them and identify which strategy each requires — a discriminative-contrast process that supports inductive learning of category boundaries. Second, interleaving inherently spaces repeated exposure to each problem type, so part of the benefit may be attributable to [spacing](../principles/spaced-practice.md) rather than mixing per se; studies that control for spacing typically find interleaving still adds a discriminative advantage, though the two are difficult to fully disentangle.
+**Mechanism.** Interleaving is thought to work through two complementary routes. First, when different problem types are juxtaposed, learners must discriminate between them and identify which strategy each requires — a discriminative-contrast process that supports inductive learning of category boundaries. Second, interleaving inherently spaces repeated exposure to each problem type, so part of the benefit may be attributable to [spacing](../principles/spaced-learning.md) rather than mixing per se; studies that control for spacing typically find interleaving still adds a discriminative advantage, though the two are difficult to fully disentangle.
 
 **Perceived difficulty.** A recurring boundary condition is that interleaved practice feels harder and produces worse practice-session performance than blocked practice, even though it yields better delayed test performance. Learners and instructors therefore often judge interleaving to be less effective — a metacognitive illusion that can lead to it being abandoned prematurely. Designers should expect lower in-practice accuracy and communicate the delayed benefit explicitly.
 
@@ -54,7 +54,7 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — interleaving only helps when mixed items remain within working memory capacity
 - [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) — interleaving supports the same contrastive comparison process across examples
-- [Cognitive flexibility theory: multiple cases.](../patterns/cognitive-flexibility-theory.md) — varied, interleaved cases build flexible, transferable knowledge
+- [Cognitive flexibility theory: multiple cases.](../theories/cognitive-flexibility-theory.md) — varied, interleaved cases build flexible, transferable knowledge
 - [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) — the productive difficulty of interleaving can drive reevaluation of strategies
 - [Cognitive load reduction improves learning.](../claims/cognitive-load-reduction-improves-learning.md) — interleaving imposes load that must be managed for the discriminative benefit to emerge
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — possibly the same claim (merge candidate)

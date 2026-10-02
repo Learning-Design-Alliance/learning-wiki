@@ -39,7 +39,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 - **Interest-first curation**: student surveys and request systems drive acquisition; strongest for reluctant readers
 - **Themed collections**: bins rebuilt around curriculum units, connecting independent reading to content instruction
 - **Student curators**: rotating committees select and display books, building ownership and autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
-- **Digital + audio pairing**: pairing print titles with [Audiobooks](../principles/audiobooks.md) extends access for readers whose decoding lags comprehension
+- **Digital + audio pairing**: pairing print titles with [Audiobooks](../elements/audiobooks.md) extends access for readers whose decoding lags comprehension
 
 ### Target Learners
 - Reluctant and developing readers, who are most sensitive to whether appealing, accessible books are visibly available [+M]
@@ -55,7 +55,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 ### Instructions
 1. **Audit the current collection** — inventory levels, genres, and whose identities are represented; identify gaps against the actual students in the room.
 2. **Survey students' interests** — use reading interest inventories or quick polls; let demand drive acquisition priorities.
-3. **Acquire across a level range** — include graphic novels, magazines, and informational titles, not only novels; pair print with [Audiobooks](../principles/audiobooks.md) where possible.
+3. **Acquire across a level range** — include graphic novels, magazines, and informational titles, not only novels; pair print with [Audiobooks](../elements/audiobooks.md) where possible.
 4. **Organize for browsing** — face covers outward, bin by genre/interest/author, and avoid level labels on bins.
 5. **Schedule access and time** — predictable checkout routines plus protected in-class reading time; the library only pays off if used during the school day.
 6. **Refresh and involve students** — rotate displays monthly, add student-requested titles, and invite student curators to feature books.

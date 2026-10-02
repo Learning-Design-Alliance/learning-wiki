@@ -48,7 +48,7 @@ Self-determination theory is most useful in learning design when motivation, per
 - [Engagement](engagement.md) — SDT helps explain why some learners invest effort and others withdraw or comply minimally
 
 #### Contradicting / Qualifying
-- [Explicit Instruction](explicit-instruction.md) — qualifies that structure is not the opposite of autonomy; clear guidance can support competence when it is not controlling
+- [Explicit Instruction](direct-instruction.md) — qualifies that structure is not the opposite of autonomy; clear guidance can support competence when it is not controlling
 
 ### Claims
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — competence grows when goals are clear and challenging, but the motivational effect depends on learner commitment and support

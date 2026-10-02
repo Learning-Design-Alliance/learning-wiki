@@ -5,11 +5,11 @@
   "element": 733,
   "learner-variable": 12,
   "method": 38,
-  "pattern": 143,
-  "principle": 484,
+  "pattern": 141,
+  "principle": 479,
   "process": 18,
   "strategy": 3184,
-  "theory": 945
+  "theory": 946
  },
  "kinds": [
   "claim",
@@ -38251,30 +38251,12 @@
    "type": "pattern"
   },
   {
-   "description": "Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.",
-   "grain_size": "unit",
-   "id": "cognitive-flexibility-theory",
-   "path": "patterns/cognitive-flexibility-theory.md",
-   "status": "review",
-   "title": "Cognitive Flexibility Theory",
-   "type": "pattern"
-  },
-  {
    "description": "This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning.",
    "grain_size": "lesson",
    "id": "cognitive-load-reduction-clt-scaffolding-approach",
    "path": "patterns/cognitive-load-reduction-clt-scaffolding-approach.md",
    "status": "review",
    "title": "Cognitive Load Reduction (CLT Scaffolding Approach)",
-   "type": "pattern"
-  },
-  {
-   "description": "Cognitive Load Theory is the short-form canonical target for CLT-informed instructional patterns that reduce extraneous load and calibrate support to expertise.",
-   "grain_size": "lesson",
-   "id": "cognitive-load-theory",
-   "path": "patterns/cognitive-load-theory.md",
-   "status": "review",
-   "title": "Cognitive Load Theory",
    "type": "pattern"
   },
   {
@@ -39646,14 +39628,6 @@
    "type": "principle"
   },
   {
-   "description": "Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently.",
-   "id": "audiobooks",
-   "path": "principles/audiobooks.md",
-   "status": "review",
-   "title": "Audiobooks",
-   "type": "principle"
-  },
-  {
    "description": "The article recommends that educators augment one-time financial education workshops by creating opportunities for participants to retrieve and use what they learned, not immediately after the workshop but several day...",
    "id": "augment-single-session-workshop-with-spaced-retrieval",
    "path": "principles/augment-single-session-workshop-with-spaced-retrieval.md",
@@ -39886,14 +39860,6 @@
    "path": "principles/cognitive-activation.md",
    "status": "review",
    "title": "Cognitive Activation",
-   "type": "principle"
-  },
-  {
-   "description": "Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.",
-   "id": "cognitive-apprenticeship",
-   "path": "principles/cognitive-apprenticeship.md",
-   "status": "review",
-   "title": "Cognitive Apprenticeship",
    "type": "principle"
   },
   {
@@ -40396,6 +40362,9 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "explicit-instruction"
+   ],
    "description": "For a learner with no working method for a structured target, explicit explanation, modelling and guided practice with checks is expected to beat minimally guided discovery on near-term performance, qualified by task-specific expertise, age, outcome type and horizon.",
    "id": "direct-instruction",
    "path": "principles/direct-instruction.md",
@@ -40697,14 +40666,6 @@
    "path": "principles/explaining-their-thinking.md",
    "status": "review",
    "title": "Explaining Their Thinking",
-   "type": "principle"
-  },
-  {
-   "description": "Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit.",
-   "id": "explicit-instruction",
-   "path": "principles/explicit-instruction.md",
-   "status": "review",
-   "title": "Explicit Instruction",
    "type": "principle"
   },
   {
@@ -41580,14 +41541,6 @@
    "path": "principles/mentoringcoaching.md",
    "status": "review",
    "title": "Mentoring/Coaching",
-   "type": "principle"
-  },
-  {
-   "description": "Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking.",
-   "id": "metacognition",
-   "path": "principles/metacognition.md",
-   "status": "review",
-   "title": "Metacognition",
    "type": "principle"
   },
   {
@@ -42499,7 +42452,8 @@
   },
   {
    "aliases": [
-    "scaffolding-fading"
+    "scaffolding-fading",
+    "cognitive-apprenticeship"
    ],
    "description": "Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon.",
    "id": "scaffolding-and-fading",
@@ -42549,6 +42503,9 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "metacognition"
+   ],
    "description": "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured.",
    "id": "self-regulated-learning",
    "path": "principles/self-regulated-learning.md",
@@ -42701,22 +42658,15 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "spacing",
+    "spaced-practice"
+   ],
    "description": "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.",
    "id": "spaced-learning",
    "path": "principles/spaced-learning.md",
    "status": "review",
    "title": "Spaced Learning",
-   "type": "principle"
-  },
-  {
-   "aliases": [
-    "spacing"
-   ],
-   "description": "Distribute practice of a skill or retrieval of content across multiple sessions separated in time rather than massing it into one block, because spaced exposure produces markedly stronger long-term retention.",
-   "id": "spaced-practice",
-   "path": "principles/spaced-practice.md",
-   "status": "review",
-   "title": "Spaced Practice",
    "type": "principle"
   },
   {
@@ -69933,6 +69883,15 @@
    "type": "theory"
   },
   {
+   "description": "Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.",
+   "grain_size": "unit",
+   "id": "cognitive-flexibility-theory",
+   "path": "theories/cognitive-flexibility-theory.md",
+   "status": "review",
+   "title": "Cognitive Flexibility Theory",
+   "type": "theory"
+  },
+  {
    "description": "The article draws on Spiro, Vispoel, Schmitz, Samarapungavan, and Boerger's (1987) cognitive flexibility theory, which \\\"propose[s] that information from different knowledge sources is needed to construct meaning in a...",
    "id": "cognitive-flexibility-theory-early-literacy",
    "path": "theories/cognitive-flexibility-theory-early-literacy.md",
@@ -80961,9 +80920,7 @@
    "coaching-level-2-necessary-supports-implementation-and-dialogue": "coaching-level-2-necessary-supports-implementation-and-dialogue",
    "coaching-level-3-sustaining-efforts-coach-learning-and-independence": "coaching-level-3-sustaining-efforts-coach-learning-and-independence",
    "cognitive-apprenticeship": "cognitive-apprenticeship",
-   "cognitive-flexibility-theory": "cognitive-flexibility-theory",
    "cognitive-load-reduction-clt-scaffolding-approach": "cognitive-load-reduction-clt-scaffolding-approach",
-   "cognitive-load-theory": "cognitive-load-theory",
    "cognitively-guided-instruction-cgi-for-math": "cognitively-guided-instruction-cgi-for-math",
    "collaborative-evaluation": "collaborative-evaluation",
    "collaborative-inquiry": "collaborative-inquiry",
@@ -81138,7 +81095,6 @@
    "assess-hll-nhll-listening-differences-first": "assess-hll-nhll-listening-differences-first",
    "assess-process-over-product-maker-education": "assess-process-over-product-maker-education",
    "assessment-for-learning": "assessment-for-learning",
-   "audiobooks": "audiobooks",
    "augment-single-session-workshop-with-spaced-retrieval": "augment-single-session-workshop-with-spaced-retrieval",
    "authentic-audiences-purposes": "authentic-audiences-purposes",
    "autonomy": "autonomy",
@@ -81169,7 +81125,7 @@
    "co-create-environments-with-experienced-inequity-groups": "co-create-environments-with-experienced-inequity-groups",
    "coach-advocates-for-teachers-purposeful-change": "coach-advocates-for-teachers-purposeful-change",
    "cognitive-activation": "cognitive-activation",
-   "cognitive-apprenticeship": "cognitive-apprenticeship",
+   "cognitive-apprenticeship": "scaffolding-and-fading",
    "cognitive-disequilibrium": "cognitive-disequilibrium",
    "cognitive-flexibility": "cognitive-flexibility",
    "cognitive-load-management": "cognitive-load-management",
@@ -81271,7 +81227,7 @@
    "experiential-learning": "experiential-learning",
    "experiential-learning-as-program-philosophy": "experiential-learning-as-program-philosophy",
    "explaining-their-thinking": "explaining-their-thinking",
-   "explicit-instruction": "explicit-instruction",
+   "explicit-instruction": "direct-instruction",
    "explicit-instruction-computer-basics": "explicit-instruction-computer-basics",
    "explicit-instruction-internet-search": "explicit-instruction-internet-search",
    "explicit-instruction-math-strategies": "explicit-instruction-math-strategies",
@@ -81382,7 +81338,7 @@
    "mediate-cultural-choices-with-personal-meanings": "mediate-cultural-choices-with-personal-meanings",
    "memory-consolidation": "memory-consolidation",
    "mentoringcoaching": "mentoringcoaching",
-   "metacognition": "metacognition",
+   "metacognition": "self-regulated-learning",
    "metacognition-prompts-in-inquiry-introduction": "metacognition-prompts-in-inquiry-introduction",
    "metaphors-analogies": "metaphors-analogies",
    "mindfulness-activities": "mindfulness-activities",
@@ -81524,8 +81480,8 @@
    "social-learning": "social-learning",
    "social-presence": "social-presence",
    "spaced-learning": "spaced-learning",
-   "spaced-practice": "spaced-practice",
-   "spacing": "spaced-practice",
+   "spaced-practice": "spaced-learning",
+   "spacing": "spaced-learning",
    "special-classrooms-within-regular-schools-for-integration": "special-classrooms-within-regular-schools-for-integration",
    "stage-matched-therapist-complementarity": "stage-matched-therapist-complementarity",
    "standardized-test-fairness-and-bias": "standardized-test-fairness-and-bias",
@@ -84932,6 +84888,7 @@
    "cognitive-apprenticeship-four-dimensions-framework": "cognitive-apprenticeship-four-dimensions-framework",
    "cognitive-apprenticeship-hybrid-model-six-strategies": "cognitive-apprenticeship-hybrid-model-six-strategies",
    "cognitive-apprenticeship-technology-framework": "cognitive-apprenticeship-technology-framework",
+   "cognitive-flexibility-theory": "cognitive-flexibility-theory",
    "cognitive-flexibility-theory-early-literacy": "cognitive-flexibility-theory-early-literacy",
    "cognitive-flexibility-theory-five-principles-barhoumi": "cognitive-flexibility-theory-five-principles-barhoumi",
    "cognitive-framework-hierarchical-navigation": "cognitive-framework-hierarchical-navigation",

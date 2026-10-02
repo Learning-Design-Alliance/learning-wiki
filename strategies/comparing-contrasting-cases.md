@@ -38,7 +38,7 @@ Comparison is one of the most consistently supported learning strategies: contra
 - **Problem-solution comparison**: two worked solutions to the same problem, compared for efficiency or generality (Rittle-Johnson & Star's approach)
 - **Preparation for future learning**: contrasting cases explored *before* instruction, to make learners ready to understand the lecture that follows
 - **Non-example contrast**: one correct and one flawed case, sharpening discrimination of error conditions ([Non-Examples](../elements/non-examples.md))
-- **Multiple varied cases**: three or more cases across contexts, supporting flexible abstraction ([Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md))
+- **Multiple varied cases**: three or more cases across contexts, supporting flexible abstraction ([Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md))
 
 ### Target Learners
 - Novices who cannot yet distinguish deep from surface features [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]

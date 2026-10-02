@@ -47,7 +47,7 @@ Exemplars make quality criteria concrete: learners calibrate their own standards
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md) — an exemplar applied to problem solving *is* a worked example; both give learners a complete model to study before producing their own
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — studying a finished model removes the burden of generating structure and content simultaneously, freeing working memory for understanding quality criteria
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — exemplars make expert products visible, the artifact-level counterpart to modeling expert process
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — exemplars make expert products visible, the artifact-level counterpart to modeling expert process
 - [Scaffolding](../principles/scaffolding.md) — an exemplar is temporary support; it should be faded as learners internalize criteria and can self-evaluate
 
 ### Claims

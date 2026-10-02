@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (1 for, 1 against) · 5 studies (3 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
-Interleaving arranges practice so that different problem categories, skills, or task types are mixed within a session (ABCBCA) instead of blocked (AAABBBCCC). Learners must first identify *which kind* of problem they face before selecting a solution strategy, rather than applying the same procedure repeatedly. It is typically combined with [Spaced Practice](../principles/spaced-practice.md), since interleaved schedules naturally distribute exposure over time.
+Interleaving arranges practice so that different problem categories, skills, or task types are mixed within a session (ABCBCA) instead of blocked (AAABBBCCC). Learners must first identify *which kind* of problem they face before selecting a solution strategy, rather than applying the same procedure repeatedly. It is typically combined with [Spaced Practice](../principles/spaced-learning.md), since interleaved schedules naturally distribute exposure over time.
 
 ## Design Implications
 
@@ -59,7 +59,7 @@ Interleaving works because it trains problem *identification* alongside problem 
 6. Return to each type repeatedly across sessions, spacing exposure over days or weeks.
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — interleaving's natural companion; both trade short-term fluency for long-term retention
+- [Spaced Practice](../principles/spaced-learning.md) — interleaving's natural companion; both trade short-term fluency for long-term retention
 - [Retrieval Practice](retrieval-practice.md) — interleaved items double as spaced retrieval attempts
 - [Comparing Cases](../elements/comparing-cases.md) — side-by-side contrast trains the same discrimination skill with more scaffolding
 - [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md) — sequencing within a type, complementary to sequencing across types

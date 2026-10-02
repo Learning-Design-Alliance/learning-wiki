@@ -59,7 +59,7 @@ Routines reduce the working-memory demands of recurring tasks by making the sequ
 
 ## Related Strategies
 - [Worked Examples](../strategies/use_worked_examples.md) — a worked example is a routine demonstrated on a concrete case
-- [Spaced Practice](../principles/spaced-practice.md) — distributed rehearsal is what drives routines to fluency
+- [Spaced Practice](../principles/spaced-learning.md) — distributed rehearsal is what drives routines to fluency
 - [Modeling](../strategies/think-aloud-modeling.md) — the narration method that makes routine steps learnable
 
 ## Examples

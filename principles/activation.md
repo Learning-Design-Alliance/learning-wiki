@@ -72,7 +72,7 @@ The present evidence does not establish an optimal activation format or duration
 
 ## Related Principles
 - [Pre-Reading Questioning](pre-reading-questioning.md) — one of the most direct operationalizations of activation before reading or explanation
-- [Explicit Instruction](explicit-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
+- [Explicit Instruction](direct-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
 - [Knowledge Organization](knowledge-organization.md) — activation helps learners fit new information into a meaningful structure
 
 ## Examples

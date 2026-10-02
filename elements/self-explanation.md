@@ -35,7 +35,7 @@ Self-explanation is the element in which learners explain to themselves why some
 - Strengthen conceptual understanding, integration, and transfer.
 
 ### Affordances
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 - [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
 ### Claims

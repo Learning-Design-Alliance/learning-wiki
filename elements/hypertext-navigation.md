@@ -19,7 +19,7 @@ Hypertext navigation presents content as a network of linked nodes — pages, se
 
 ## Design Implications
 
-Hypertext supports flexible, non-linear exploration and can help learners build richly connected knowledge structures, particularly when content is genuinely multi-dimensional and ill-structured [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) [~M]. But navigation freedom imposes costs: deciding where to go next consumes working-memory resources that would otherwise support comprehension, and disorientation ("lost in hyperspace") reliably degrades learning when structure is weak [DeStefano & LeFevre's review of hypertext cognitive load.](https://doi.org/10.1016/j.chb.2006.05.019) [-M]. Effective hypertext design therefore pairs learner control with strong orientation aids — maps, breadcrumbs, clear node titles — rather than treating freedom as an end in itself.
+Hypertext supports flexible, non-linear exploration and can help learners build richly connected knowledge structures, particularly when content is genuinely multi-dimensional and ill-structured [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) [~M]. But navigation freedom imposes costs: deciding where to go next consumes working-memory resources that would otherwise support comprehension, and disorientation ("lost in hyperspace") reliably degrades learning when structure is weak [DeStefano & LeFevre's review of hypertext cognitive load.](https://doi.org/10.1016/j.chb.2006.05.019) [-M]. Effective hypertext design therefore pairs learner control with strong orientation aids — maps, breadcrumbs, clear node titles — rather than treating freedom as an end in itself.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 
 ### Target Learning Goals
 - Research and information-literacy skills: locating, evaluating, and synthesizing distributed sources
-- Complex, ill-structured domains where multiple perspectives and criss-crossing routes build flexible knowledge [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) [~M]
+- Complex, ill-structured domains where multiple perspectives and criss-crossing routes build flexible knowledge [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) [~M]
 - Self-regulated learning: planning, monitoring, and evaluating one's own path through material
 
 ### Affordances
@@ -59,7 +59,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 - [Case Studies](case-studies.md) — hypertext nodes organized around cases suit ill-structured domains where multiple perspectives matter
 
 ## Patterns That Use This Element
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — hypertext as the delivery mechanism for criss-crossing complex content
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — hypertext as the delivery mechanism for criss-crossing complex content
 - [Adaptive Learning](../patterns/adaptive-learning.md) — hypertext networks whose links are selected based on learner model or learner choice
 - [Blended Learning](../patterns/blended-learning.md) — online hypertext resources complementing face-to-face instruction
 

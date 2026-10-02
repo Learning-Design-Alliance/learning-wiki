@@ -61,7 +61,7 @@ Retrieval practice is among the most robustly supported learning strategies in t
 6. Fade support over time: move from cued recall to free recall as mastery grows.
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — spacing multiplies retrieval benefits; the two combine into the strongest known retention schedule
+- [Spaced Practice](../principles/spaced-learning.md) — spacing multiplies retrieval benefits; the two combine into the strongest known retention schedule
 - [Interleaving](interleaving.md) — mixing retrieval targets across topics adds desirable difficulty
 - [Elaborative Interrogation](elaborative-interrogation.md) — complementary "why" questioning that adds depth to recalled content
 - [Self-Testing](../elements/self-testing.md) — the learner-directed version of this strategy

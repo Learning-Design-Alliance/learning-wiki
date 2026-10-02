@@ -59,7 +59,7 @@ Self monitoring only improves learning when the monitoring is *accurate* and whe
 ## Related Strategies
 - [Self-Evaluation](self-evaluation.md) — the terminal reflection that closes the monitoring loop at the end of a task
 - [Goal Setting](../elements/goal-setting.md) — supplies the standard against which monitoring judgments are made
-- [Spaced Practice](../principles/spaced-practice.md) — monitoring determines *what* to space; the two strategies compound
+- [Spaced Practice](../principles/spaced-learning.md) — monitoring determines *what* to space; the two strategies compound
 
 ## Examples
 - **Khan Academy mastery tracking** — learners see per-skill mastery bars and are prompted to continue or revisit skills, externalizing the monitoring judgment.

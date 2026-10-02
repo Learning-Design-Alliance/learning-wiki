@@ -25,7 +25,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 #### Requirements
 - Questions or prompts that can actually be answered from memory (not recognition-only formats exclusively)
 - Feedback or access to correct answers after retrieval, so errors are corrected rather than consolidated [Feedback following retrieval enhances its benefits.](../claims/feedback-enhances-retrieval-practice.md) [+M]
-- Distribution across time; a single massed retrieval session forfeits most of the benefit ([Spaced Practice](../principles/spaced-practice.md))
+- Distribution across time; a single massed retrieval session forfeits most of the benefit ([Spaced Practice](../principles/spaced-learning.md))
 - Low-stakes framing so retrieval functions as learning, not merely assessment ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 #### Constraints
@@ -37,7 +37,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 #### Implementation Variability
 - **Free recall / brain dumps**: learners write everything they remember; cheap and format-agnostic
 - **Low-stakes quizzing**: short ungraded or lightly graded quizzes at the start or end of class
-- **[Flashcards](flashcards.md) with spaced repetition**: individual study, ideally with expanding intervals ([Spaced Repetition](../principles/spaced-practice.md))
+- **[Flashcards](flashcards.md) with spaced repetition**: individual study, ideally with expanding intervals ([Spaced Repetition](../principles/spaced-learning.md))
 - **Retrieval-based discussion**: pairs reconstruct material from memory before consulting notes
 - **Interleaved retrieval**: mixing question types or topics, which adds discrimination benefits [Interleaving improves discrimination between problem types.](../claims/interleaving-improves-discrimination.md) [+M]
 
@@ -56,7 +56,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 2. **Design retrieval prompts** that match the target goal — recall prompts for retention, application prompts for transfer.
 3. **Run the retrieval activity** with materials put away: brain dump, quiz, or pair-reconstruction. Keep it low-stakes.
 4. **Provide feedback** immediately after retrieval, correcting errors and filling gaps.
-5. **Schedule repeated retrievals** at spaced intervals, expanding the gap as mastery grows ([Spaced Practice](../principles/spaced-practice.md)).
+5. **Schedule repeated retrievals** at spaced intervals, expanding the gap as mastery grows ([Spaced Practice](../principles/spaced-learning.md)).
 6. **Interleave** topics or problem types once basic mastery is reached.
 7. **Explain the effect to learners** so they persist through the effortful feeling rather than reverting to re-reading.
 

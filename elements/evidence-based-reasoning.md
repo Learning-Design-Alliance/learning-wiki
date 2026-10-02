@@ -48,7 +48,7 @@ Evidence-based reasoning supports conceptual change by requiring learners to con
 ### Affordances
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — competing-model tasks must be designed so data interpretation is manageable; chunking evidence and providing interpretive schemas preserves working memory for the reasoning that matters
 - [Active Learning](../principles/active-learning.md) — learners generate judgments and justifications rather than receiving conclusions, producing deeper processing than passive presentation of the correct model
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — making expert evidential reasoning visible (how a scientist weighs conflicting data) lets learners appropriate disciplinary norms of justification
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — making expert evidential reasoning visible (how a scientist weighs conflicting data) lets learners appropriate disciplinary norms of justification
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

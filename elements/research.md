@@ -48,7 +48,7 @@ Research tasks build analytical and information literacy skills by requiring lea
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — research is the fullest enactment of inquiry: learners generate questions, gather evidence, and form conclusions rather than following a scripted investigation
 - [Constructivism](../principles/constructivism.md) — learners actively construct knowledge from evidence they have gathered themselves, producing more durable and better-organized schemas than transmission alone
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — research tasks position learners in authentic disciplinary practice, with instructor coaching and articulation mirroring the apprenticeship cycle
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — research tasks position learners in authentic disciplinary practice, with instructor coaching and articulation mirroring the apprenticeship cycle
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — framing research for a real audience (a report, poster, or proposal) raises task value and quality of effort
 
 ### Claims

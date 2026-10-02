@@ -70,7 +70,7 @@ The strategy treats mode selection as a learnable design decision rather than a 
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — exploration approximates the exploration phase in which learners try methods before formal instruction
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — revisiting the same content across multiple modes builds flexible, criss-crossed understanding
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — revisiting the same content across multiple modes builds flexible, criss-crossed understanding
 
 ## Examples
 - A middle-grade English class uses a two-machine station during writing workshop: students record an audio "pitch" of a personal narrative, then decide whether sound, image, or prose should lead their final piece.

@@ -37,7 +37,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 #### Implementation Variability
 - **Themed/rotating displays** tied to curriculum units or seasons to renew interest
 - **Student-curated shelves** where learners recommend and shelve books, building ownership
-- **Multilingual and audiobook corners** — pairing print with [Audiobooks](../principles/audiobooks.md) supports striving readers and multilingual learners
+- **Multilingual and audiobook corners** — pairing print with [Audiobooks](../elements/audiobooks.md) supports striving readers and multilingual learners
 - **Choice boards** ([Choice Boards](../elements/choice-boards.md)) structuring how students respond to self-selected books
 
 ### Target Learners

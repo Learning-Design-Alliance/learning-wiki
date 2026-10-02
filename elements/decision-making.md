@@ -47,7 +47,7 @@ Decision-making tasks support learning because they require learners to actively
 - Process skill over outcome: for novices, emphasizing *how* the decision was reasoned outperforms emphasizing whether it was "right" [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 
 ### Affordances
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — decision tasks create the occasion for expert modeling of judgment: comparing learner decisions against expert decisions and articulated heuristics makes tacit professional reasoning visible
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — decision tasks create the occasion for expert modeling of judgment: comparing learner decisions against expert decisions and articulated heuristics makes tacit professional reasoning visible
 - [Situated Learning](../theories/situated-learning.md) — decisions embedded in realistic scenarios with consequences situate reasoning in the context of use, supporting transfer to professional practice
 - [Case-Based Learning](../principles/case-studiescase-based-learning.md) — a case supplies the evidentiary base and constraint set that decision-making requires; the decision point is what converts a case from narrative into analysis
 - [Collaborative Learning](../principles/collaborative-learning.md) — requiring a group to commit to one decision forces negotiation of criteria and surfaces disagreements that individual work hides

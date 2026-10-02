@@ -61,7 +61,7 @@ Immersion can increase engagement and situational interest, but engagement is no
 - [Simulation-Based Training](simulation-based-training.md) — the broader category; VR is the immersive end of the simulation spectrum
 - [Role-Play](acting-role-play.md) — the non-digital analogue; VR can scaffold toward live role-play
 - [Flipped Classroom](flipped-classroom.md) — VR practice sessions can occupy the in-class active slot
-- [Spaced Practice](../principles/spaced-practice.md) — repeated short VR sessions outperform massed immersion
+- [Spaced Practice](../principles/spaced-learning.md) — repeated short VR sessions outperform massed immersion
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — hands-on surgical training simulations with performance analytics used in medical device training and residency preparation.

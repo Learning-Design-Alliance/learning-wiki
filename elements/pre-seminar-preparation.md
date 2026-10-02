@@ -46,7 +46,7 @@ Preparation before discussion raises the quality of seminar talk because learner
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — by moving first exposure outside class, preparation frees the seminar for interactive modes of engagement rather than passive listening
-- [Metacognition](../principles/metacognition.md) — preparation tasks such as self-quizzing and reflective annotation ask learners to assess their own understanding before discussion exposes gaps
+- [Metacognition](../principles/self-regulated-learning.md) — preparation tasks such as self-quizzing and reflective annotation ask learners to assess their own understanding before discussion exposes gaps
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — distributing first exposure across time and letting learners pace themselves reduces the load of processing new material in a live group setting
 - [Activation](../principles/activation.md) — preparation prompts can surface prior knowledge and predictions that the seminar then tests
 

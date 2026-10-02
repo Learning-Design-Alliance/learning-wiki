@@ -37,7 +37,7 @@ Disciplinary literacy works because it makes the hidden conventions of expert te
 #### Implementation Variability
 - **Read–write–think–discuss cycles**: students read a mentor text, analyze its disciplinary moves, discuss, then produce their own text — reduces anxiety through collaborative engagement
 - **Cognitive Apprenticeship framing**: instructor models, coaches, then fades support as students appropriate disciplinary practices [Scaffolding](../principles/scaffolding.md)
-- **Multiple contrasting cases** of disciplinary texts (e.g., a news article vs. a research report on the same event) to make genre conventions visible [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- **Multiple contrasting cases** of disciplinary texts (e.g., a news article vs. a research report on the same event) to make genre conventions visible [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ### Target Learners
 - Adolescent and post-secondary students who decode adequately but struggle with discipline-specific text structures and conventions [Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.n77784r701489l70) [+M]

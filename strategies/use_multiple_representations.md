@@ -36,7 +36,7 @@ Multiple representations support learning when learners actively integrate them:
 - **Sequential**: introduce one representation, then a second after the first is secure — appropriate for novices
 - **Simultaneous with linking**: side-by-side formats with explicit mapping prompts — appropriate once basic fluency exists
 - **Learner-generated**: students produce a second representation themselves (draw the graph, build the model), which strengthens integration more than passive viewing [+M]
-- **Multiple cases + representations**: varying both surface form and content to build flexible schemas, as in [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- **Multiple cases + representations**: varying both surface form and content to build flexible schemas, as in [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ### Target Learners
 - Novices benefit most when representations are sequenced and linked, since they cannot yet self-manage multiple formats [~M]
@@ -60,7 +60,7 @@ Multiple representations support learning when learners actively integrate them:
 - [Use Worked Examples](use_worked_examples.md) — worked examples often embed multiple representations (figure + symbolic solution) that learners must integrate
 
 ## Examples
-- **[Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)** — ill-structured domains are taught by revisiting the same concepts from multiple thematic and representational perspectives
+- **[Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)** — ill-structured domains are taught by revisiting the same concepts from multiple thematic and representational perspectives
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — learning tasks present supportive information in multiple formats (concept maps, procedure displays, worked examples) coordinated with task progression
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — physics and chemistry simulations that simultaneously display dynamic visuals, symbolic values, and graphs, with controls letting learners connect the views
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** — K–12 curriculum built on the concrete–pictorial–abstract progression, requiring students to move among representations of the same mathematical idea

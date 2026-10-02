@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 7 studies (5 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 18 studies (7 causal, 5 quant-synthesis, 4 review, 1 design, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -59,6 +59,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - Novices with limited prior knowledge in the domain benefit most from CLT-informed design
 - Experts may find the same scaffolds redundant or distracting — what reduces load for a novice can introduce it for an expert
 - Learners with limited working memory capacity (e.g., younger children, learners under high cognitive stress) are most sensitive to extraneous load
+- Especially useful for novices in complex domains.
 
 ### Target Learning Objectives
 - Procedural skill acquisition: learning to execute multi-step processes
@@ -70,6 +71,13 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — example-based sequences reduce load compared to problem-only practice for novices; provides direct experimental evidence for the worked example effect as a CLT application
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — worked examples reduce unnecessary search load, freeing working memory for schema construction
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — expertise reversal: as schemas develop, the same guidance that reduced load for novices begins to impose redundancy load on more experienced learners
+- [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+W]
+- [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+M]
+- [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]
+- [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
+- [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
+- [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 
 ## Related Theories
 
@@ -101,3 +109,52 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - Paas, F., Renkl, A., & Sweller, J. (2003). Cognitive load theory and instructional design: Recent developments. *Educational Psychologist, 38*(1), 1–4. [doi:10.1207/S15326985EP3801_1](https://doi.org/10.1207/S15326985EP3801_1)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
+- Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
+
+<!-- merged 2026-10-02 from patterns/cognitive-load-theory ("Cognitive Load Theory"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Cognitive Load Theory
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 review, 2 causal, 1 design), `q2`–`q4` · 3 of 11 report an effect size · 3 claims rest on one study
+
+## Description
+Cognitive Load Theory is the short-form canonical target for CLT-informed instructional patterns that reduce extraneous load and calibrate support to expertise.
+
+## Implications
+
+### Context
+#### Requirements
+- **Attention to working-memory limits**
+- **Instructional supports that reduce unnecessary processing**
+#### Constraints
+- **Novice-oriented supports may hinder experts**
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Improve comprehension and early schema acquisition.
+
+### Target Learners
+- Especially useful for novices in complex domains.
+
+### Theory
+#### Supporting
+
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+W]
+- [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+M]
+- [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]
+- [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
+- [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [+M]
+- [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+
+## Claims
+- [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
+
+## Related Patterns
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
+
+## Key Sources
+- Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
+-->

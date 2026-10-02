@@ -57,7 +57,7 @@ Word sorts turn spelling and vocabulary instruction into guided [active learning
 1. **Model a closed sort** with a small set of words, thinking aloud about the features you are comparing ([Demonstration](../elements/demonstration.md)).
 2. **Distribute the word set** and have learners sort individually or in pairs, reading each word aloud as they place it ([Practice](../elements/practice.md)).
 3. **Check and discuss** — compare sorts with a key or partner and have learners state the generalization in their own words ([Class Discussion](../elements/class-discussion.md)).
-4. **Re-sort across days** — add speed sorts and blind sorts to build automaticity, then a writing sort to transfer the pattern to production ([Spaced Practice](../principles/spaced-practice.md)).
+4. **Re-sort across days** — add speed sorts and blind sorts to build automaticity, then a writing sort to transfer the pattern to production ([Spaced Practice](../principles/spaced-learning.md)).
 5. **Hunt for the pattern** in authentic texts, extending the sort beyond the card set ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies

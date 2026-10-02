@@ -36,7 +36,7 @@ Access to varied, interest-relevant texts increases reading engagement and volum
 
 #### Implementation Variability
 - **Curated playlists vs. open browsing:** tightly themed collections (e.g., all resources on ecosystems) suit goal-directed units; open libraries suit interest-driven reading time
-- **Format balance:** audiobooks extend access for striving readers [Audiobooks](../principles/audiobooks.md); video suits procedural content; text remains superior for dense conceptual material
+- **Format balance:** audiobooks extend access for striving readers [Audiobooks](../elements/audiobooks.md); video suits procedural content; text remains superior for dense conceptual material
 - **Structured vs. free choice:** offering a constrained set of 5–10 vetted options captures most motivational benefits while reducing mismatch risk
 
 ### Target Learners

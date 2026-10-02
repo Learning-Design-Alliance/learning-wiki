@@ -55,7 +55,7 @@ Authentic audiences change how students write: they attend more to audience need
 ### Instructions
 1. Identify a real or plausible audience and a purpose they hold — not "demonstrate learning."
 2. Select the genre that audience would actually read, and show models of it ([Mentor Texts](mentor-texts.md)).
-3. Teach the genre's conventions explicitly before drafting ([Explicit Instruction](../principles/explicit-instruction.md)).
+3. Teach the genre's conventions explicitly before drafting ([Explicit Instruction](../principles/direct-instruction.md)).
 4. Have students draft with the audience specified in the prompt ("readers who will decide whether to fund…").
 5. Arrange structured peer or external response on audience-relevant criteria ([Peer Review](../elements/peer-review.md)).
 6. Deliver the writing to its audience and have students observe the response; debrief what the audience reaction revealed about the text.

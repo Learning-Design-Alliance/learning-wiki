@@ -58,7 +58,7 @@ TTS offloads decoding work so that limited working-memory resources can be direc
 
 ## Related Strategies
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — TTS is a primary tool for learners who process print slowly
-- [Audiobooks](../principles/audiobooks.md) — the pre-recorded counterpart; TTS generalizes it to any text
+- [Audiobooks](../elements/audiobooks.md) — the pre-recorded counterpart; TTS generalizes it to any text
 
 ## Examples
 - **[Read&Write (Texthelp)](https://www.texthelp.com/products/readwrite/)** — toolbar-based TTS with word highlighting, dictionary, and translation, widely deployed in K–12 and higher education.

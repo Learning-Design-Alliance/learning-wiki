@@ -73,7 +73,7 @@ Presenting concepts through multiple representations and inviting learners to co
 - [Class Discussion](../elements/class-discussion.md) — dialogic validation of diverse perspectives
 
 ## Patterns That Use This Strategy
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — multiple representations and cases as the core mechanism for ill-structured domains
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple representations and cases as the core mechanism for ill-structured domains
 - [Community-Based Learning](../principles/community-based-learning.md) — community knowledge as a legitimate instructional source
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured exchange of differing ways of making meaning
 

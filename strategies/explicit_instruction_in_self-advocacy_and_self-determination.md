@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (2 for, 1 against) · 7 studies (2 quant-synthesis, 2 review, 2 theoretical, 1 causal), `q1`–`q4` · 1 of 7 report an effect size
 
 ## Description
-This strategy applies the structure of [Explicit Instruction](../principles/explicit-instruction.md) to the personal and interpersonal skills of self-determination: understanding one's disability, strengths, and needs; knowing one's legal rights; communicating needs to others; setting and pursuing goals; solving problems; and participating in decisions about one's own education. Rather than hoping students will absorb these skills implicitly, the instructor names the skill, models it, provides guided practice with feedback, and supports independent application in authentic settings.
+This strategy applies the structure of [Explicit Instruction](../principles/direct-instruction.md) to the personal and interpersonal skills of self-determination: understanding one's disability, strengths, and needs; knowing one's legal rights; communicating needs to others; setting and pursuing goals; solving problems; and participating in decisions about one's own education. Rather than hoping students will absorb these skills implicitly, the instructor names the skill, models it, provides guided practice with feedback, and supports independent application in authentic settings.
 
 ## Design Implications
 

@@ -45,7 +45,7 @@ Defining the product up front gives learners a clear performance goal and gives 
 - Performance competence: demonstrating skill at the level at which it will be used professionally or civically
 
 ### Affordances
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the product is the artifact through which expert modeling, coaching, and articulation become concrete; apprenticeship sequences culminate in independent production
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — the product is the artifact through which expert modeling, coaching, and articulation become concrete; apprenticeship sequences culminate in independent production
 - [Assessment for Learning](../principles/assessment-for-learning.md) — a product gives formative assessment something substantive to act on; feedback on drafts improves the final product and the underlying learning
 - [Active Learning](../principles/active-learning.md) — producing an artifact is among the strongest forms of generative engagement, requiring retrieval, decision-making, and synthesis rather than recognition
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — products designed for real audiences raise the stakes and the quality of learner effort

@@ -64,7 +64,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 - [Retrieval Practice](retrieval-practice.md) — activation is a retrieval event; spaced retrieval of prior units doubles as review
 - [Pretesting](pretesting.md) — asking questions about not-yet-learned material, a related "forward" activation that primes attention
 - [Misconception Repair](misconception-repair.md) — the necessary follow-through when activation surfaces errors
-- [Spaced Practice](../principles/spaced-practice.md) — activation prompts at lesson openings can implement spacing of earlier content
+- [Spaced Practice](../principles/spaced-learning.md) — activation prompts at lesson openings can implement spacing of earlier content
 - [Verify Prerequisite Knowledge Before Audiovisual Presentations](prerequisite-checks-before-audiovisual-presentations.md)
 
 ## Examples

@@ -32,7 +32,7 @@ Choice reliably increases intrinsic motivation and engagement, consistent with s
 - Choice can impose decision-making load on novices who lack the knowledge to evaluate options; too many options or too much ambiguity reduces its motivational benefit and can degrade performance [~M]
 - Learners unfamiliar with autonomy may default to the easiest option or flounder; choice works better after [Scaffolding](../elements/scaffolding.md) has built self-regulatory routines
 - Choice effects shrink or reverse when options differ in difficulty and learners systematically avoid challenge [~M] — instructors must ensure all paths are comparably demanding
-- In high-stakes or tightly sequenced domains (e.g., early literacy skills), free choice time supplements but cannot replace [Explicit Instruction](../principles/explicit-instruction.md)
+- In high-stakes or tightly sequenced domains (e.g., early literacy skills), free choice time supplements but cannot replace [Explicit Instruction](../principles/direct-instruction.md)
 
 #### Implementation Variability
 - **Topic choice** — learners pick the subject of inquiry (research topic, case, reading)

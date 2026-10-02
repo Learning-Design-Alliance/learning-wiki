@@ -101,7 +101,7 @@ evidence_base:
       elements:
         - term: "narrative intervention with explicit instruction on the use of story grammar icons"
           anchors:
-            - principles/explicit-instruction
+            - principles/direct-instruction
         - term: "story grammar icons available during assessment"
     - id: icons-removed
       description: >-

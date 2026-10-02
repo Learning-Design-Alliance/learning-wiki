@@ -39,7 +39,7 @@ Independent reading works as a strategy only when it functions as *supported pra
 - **Reading Workshop** (Fountas & Pinnell; Calkins' Units of Study): mini-lesson → independent reading with conferring → mid-workshop teaching → share
 - **Concept-Oriented Reading Instruction (CORI)**: independent reading embedded in a thematic science/social studies unit with explicit strategy instruction and autonomy supports [+S]
 - **Scaffolded silent reading (ScSR)** (Reutzel et al.): structured silent reading with teacher-student conferences and goal setting, replacing round-robin accountability
-- **Audiobook-supported reading**: non-fluent readers listen to an [audiobook](../principles/audiobooks.md) while following text, extending access to age-appropriate content
+- **Audiobook-supported reading**: non-fluent readers listen to an [audiobook](../elements/audiobooks.md) while following text, extending access to age-appropriate content
 
 ### Target Learners
 - Developing readers in K–8 who have decoding skills but need volume to build fluency and stamina

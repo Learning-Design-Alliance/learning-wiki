@@ -5899,10 +5899,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Correction**: 17 pages — repaired all 20 broken cross-links: percent-encoded punctuation in slugs (14), over-deep `../../` paths (3), a filename truncated at its closing paren (2), a `principions/` typo, and two links retargeted to pages that exist
 * **Correction**: 12 pages — replaced citations of the placeholder `claims/claim-slug.md` with real claim links or plain prose; the link text stated a specific claim but resolved to a stub marked "should not be cited"
 * **Deprecate**: `claims/claim-slug.md` — removed; template example slug materialised as a page, cited by 11 pages as if it were evidence
-* **Deprecate**: `principles/principle-slug.md` — removed; duplicate Spaced Practice content at a template placeholder filename, merged into [principles/spacing](principles/spaced-practice.md)
+* **Deprecate**: `principles/principle-slug.md` — removed; duplicate Spaced Practice content at a template placeholder filename, merged into [principles/spacing](principles/spaced-learning.md)
 * **Deprecate**: `strategies/slug.md` — removed; a strategy confabulated from the placeholder filename "slug", with real citations attached to a strategy that does not exist
 * **Correction**: `scripts/enrich.py` — added `repair_encoded_links()` (percent-decoding and path-depth repair, applied only when the corrected target exists) and a `PLACEHOLDER_SLUGS` guard stopping `create_missing_stubs()` from materialising template example links
-* **Correction**: [principles/spacing](principles/spaced-practice.md) — Absorbed the duplicate at principles/principle-slug.md: linked Related Principles and Claims, fixed an internal Rohrer & Taylor DOI conflict
+* **Correction**: [principles/spacing](principles/spaced-learning.md) — Absorbed the duplicate at principles/principle-slug.md: linked Related Principles and Claims, fixed an internal Rohrer & Taylor DOI conflict
 * **Correction**: [strategies/puppet_shows_to_explore_emotions](strategies/puppet_shows_to_explore_emotions.md) — Replaced unfilled blank-template body with a sourced strategy page; set real title
 * **Correction**: [strategies/promoting_belonging_through_cues_and_representations](strategies/promoting_belonging_through_cues_and_representations.md) — Replaced unfilled blank-template body with a sourced strategy page; set real title
 * **Correction**: [strategies/teaching-as-learning](strategies/teaching-as-learning.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page

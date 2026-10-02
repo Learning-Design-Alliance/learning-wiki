@@ -37,7 +37,7 @@ Reading aloud converts reading from a purely visual task into a multimodal one; 
 - **Whisper-reading to self** during exams or independent work — catches errors without social exposure
 - **Partner reading with feedback roles** — one reads, one listens for a named criterion, then swap
 - **Teacher read-alouds of model texts** — builds an internalized "ear" for genre conventions before students write
-- **Text-to-speech or recorded reading** — [Audiobooks](../principles/audiobooks.md) and screen readers extend the same auditory channel to learners who cannot easily vocalize or who benefit from hearing complex text
+- **Text-to-speech or recorded reading** — [Audiobooks](../elements/audiobooks.md) and screen readers extend the same auditory channel to learners who cannot easily vocalize or who benefit from hearing complex text
 
 ### Target Learners
 - Developing writers who need to externalize and diagnose their own prose [~M]

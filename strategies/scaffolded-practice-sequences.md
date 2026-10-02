@@ -38,7 +38,7 @@ Sequenced practice with fading outperforms both unsupported practice and practic
 - **Whole-task to part-task:** begin with simplified whole tasks (4C/I/D approach) rather than isolated subskills
 - **Learner-controlled fading:** learners choose when to drop supports, trading calibration accuracy for autonomy
 - **Hint ladders:** within a single task, hints escalate from generic to specific on demand (e.g., Khan Academy's hint system)
-- **Spaced re-encounter:** return to earlier task types at increasing intervals to consolidate ([Spaced Practice](../principles/spaced-practice.md))
+- **Spaced re-encounter:** return to earlier task types at increasing intervals to consolidate ([Spaced Practice](../principles/spaced-learning.md))
 
 ### Target Learners
 - Novices, who benefit most from high initial support and structured progression [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]

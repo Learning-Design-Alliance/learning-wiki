@@ -64,7 +64,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 
 ### Instructions
 1. **Screen universally.** Administer brief validated screeners to all students 2–3×/year; establish cut scores in advance ([Assessment](../elements/assessment.md)).
-2. **Strengthen Tier 1.** Verify that core instruction is explicit and well-structured before adding tiers; weak core instruction invalidates the whole system ([Explicit Instruction](../principles/explicit-instruction.md)).
+2. **Strengthen Tier 1.** Verify that core instruction is explicit and well-structured before adding tiers; weak core instruction invalidates the whole system ([Explicit Instruction](../principles/direct-instruction.md)).
 3. **Deliver Tier 2 in small groups.** Provide supplemental targeted instruction 3–5×/week in groups of 3–5, using an evidence-based program delivered with fidelity ([Coaching](../elements/coaching.md)).
 4. **Monitor progress weekly.** Graph student data and review at regular team meetings; adjust groupings based on trend lines, not impressions ([Assess Performance](../elements/assess-performance.md)).
 5. **Escalate non-responders to Tier 3.** Provide individualized, more frequent, or more intensive intervention; use [Fading](../principles/scaffolding.md) to return students to lower tiers as they respond, since gradually withdrawing support promotes transfer of responsibility [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]

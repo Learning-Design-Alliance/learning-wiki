@@ -48,7 +48,7 @@ Resource evaluation works when learners actively apply criteria to real, contras
 ### Affordances
 - **Metacognition** — evaluating sources forces learners to monitor their own reasoning ("Why do I trust this?"), and articulating those judgments improves conceptual understanding of both the criteria and the content [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - **Inquiry-Based Learning** — evaluation is the quality-control step of inquiry; without it, learner-generated questions lead to uncritical source dumping
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — instructor modeling of expert evaluation moves (lateral reading, source triangulation) makes invisible disciplinary judgments observable before learners attempt their own
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — instructor modeling of expert evaluation moves (lateral reading, source triangulation) makes invisible disciplinary judgments observable before learners attempt their own
 - [Active Learning](../principles/active-learning.md) — learners produce verdicts and justifications rather than receiving a list of approved sources
 
 ### Claims

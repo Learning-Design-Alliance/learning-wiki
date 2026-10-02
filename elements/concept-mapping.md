@@ -36,7 +36,7 @@ Concept mapping is the element in which learners represent concepts and their re
 
 ### Affordances
 - [Dual Coding](../principles/dual-coding.md)
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 - [Creating Visual Representations](../principles/creating-visual-representations.md)
 
 ### Claims

@@ -45,7 +45,7 @@ Involving learners in defining quality criteria converts assessment from an exte
 - Self-regulation: internalizing standards for monitoring and revising one's own work [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ### Affordances
-- [Metacognition](../principles/metacognition.md) — drafting criteria forces learners to make their implicit notions of quality explicit, then test and revise them against real work
+- [Metacognition](../principles/self-regulated-learning.md) — drafting criteria forces learners to make their implicit notions of quality explicit, then test and revise them against real work
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — owning the criteria gives learners the standards they need for self-monitoring and self-directed revision cycles
 - [Assessment for Learning](../principles/assessment-for-learning.md) — criteria development makes learners participants in the assessment process rather than its objects, aligning with formative use of evaluation
 - [Active Learning](../principles/active-learning.md) — learners construct the evaluative framework rather than receiving it, producing deeper processing of quality dimensions

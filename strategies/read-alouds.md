@@ -65,7 +65,7 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the pre-reading discussion that primes comprehension during a read-aloud
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the mechanism by which read-alouds make comprehension strategies visible
-- [Audiobooks](../principles/audiobooks.md) — the asynchronous, technology-mediated form of the same decoding-offload function
+- [Audiobooks](../elements/audiobooks.md) — the asynchronous, technology-mediated form of the same decoding-offload function
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — a read-aloud is a demonstration of expert reading and thinking behavior

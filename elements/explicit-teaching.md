@@ -30,7 +30,7 @@ Explicit teaching is the element in which instructors directly explain, model, a
 - Accelerate early understanding and reduce ambiguity for novices.
 
 ### Affordances
-- [Explicit Instruction](../principles/explicit-instruction.md)
+- [Explicit Instruction](../principles/direct-instruction.md)
 - [Clear Structure](../principles/clear-structure.md)
 
 ### Claims

@@ -31,7 +31,7 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 
 ### Affordances
 - [Activation](../principles/activation.md)
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 - [Retrieval Practice](../principles/retrieval-practice.md)
 
 ### Claims

@@ -35,7 +35,7 @@ A rich library works because choice and relevance drive reading engagement: when
 
 #### Implementation Variability
 - Curated playlists or [Choice Boards](../elements/choice-boards.md) that structure selection around a theme, form, or era
-- Audio-first entry: learners listen to a performed poem before reading it ([Audiobooks](../principles/audiobooks.md))
+- Audio-first entry: learners listen to a performed poem before reading it ([Audiobooks](../elements/audiobooks.md))
 - Library as mentor-text source for writing: poems studied as models, then imitated ([Application](../elements/application.md))
 - Physical, print-based libraries function equally well where technology access is limited
 

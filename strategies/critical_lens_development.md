@@ -64,7 +64,7 @@ Critical analysis works best when learners compare multiple contrasting cases ra
 
 - [Case-based learning](../patterns/case-based-learning.md) — authentic cases give critical analysis real stakes and situated complexity
 - [Debate](../patterns/debate.md) — assigned positions force learners to argue readings they did not initially hold, exposing interpretive assumptions
-- [Cognitive flexibility theory](../patterns/cognitive-flexibility-theory.md) — multiple representations and criss-crossing of the same content domain support flexible, transferable analysis
+- [Cognitive flexibility theory](../theories/cognitive-flexibility-theory.md) — multiple representations and criss-crossing of the same content domain support flexible, transferable analysis
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](multiliteracies-video-comprehension-activities.md)
 
 ## Examples

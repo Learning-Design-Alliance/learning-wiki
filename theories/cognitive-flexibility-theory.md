@@ -1,5 +1,5 @@
 ---
-type: pattern
+type: theory
 id: cognitive-flexibility-theory
 title: Cognitive Flexibility Theory
 description: Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
@@ -18,7 +18,7 @@ grain_size: unit
 
 # Cognitive Flexibility Theory
 
-> **Pattern** · [All patterns](index.md)
+> **Theory** · [All theories](index.md)
 > **Evidence** · 4 claims (4 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
@@ -98,8 +98,8 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ## Related Patterns
 
-- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
-- [Problem-Based Learning (PBL)](problem-based-learning.md)
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
 - [Flexible hypertext-based online course design with hierarchical navigation and multiple representations](../designs/flexible-hypertext-course-design-pattern.md)
 
 ## Examples

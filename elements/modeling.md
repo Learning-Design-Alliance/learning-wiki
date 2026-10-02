@@ -47,7 +47,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 
 ### Affordances
 - [Social Learning Theory](../theories/social-learning-theory.md) — modeling is the core mechanism of observational learning; attention, retention, reproduction, and motivation are all driven by observing a model
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — modeling is the first phase of the sequence (modeling → coaching → fading), making expert processes visible before learners take over
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — modeling is the first phase of the sequence (modeling → coaching → fading), making expert processes visible before learners take over
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a worked model externalizes intermediate steps so learners attend to understanding structure rather than generating solutions from scratch
 - [Worked Examples](../principles/worked-examples.md) — a worked example is modeling applied to problem solving: the expert solution, annotated with reasoning, studied before independent attempt
 

@@ -48,7 +48,7 @@ Situated learning is strongest where knowledge is inseparable from the settings,
 #### Supporting
 - [Situated Learning](../theories/situated-learning.md) — provides the primary explanatory basis for learning through participation in social practice
 - [Community-Based Learning](community-based-learning.md) — community contexts can provide the authentic participation structures that situated learning values
-- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — makes situated participation teachable through modeling, coaching, and scaffolding
+- [Cognitive Apprenticeship](scaffolding-and-fading.md) — makes situated participation teachable through modeling, coaching, and scaffolding
 
 #### Contradicting / Qualifying
 - [Information Processing Theory](../theories/information-processing-theory.md) — some abstraction and decontextualized practice still matter, especially when learners need generalized schemas that can travel across contexts
@@ -60,7 +60,7 @@ Situated learning is strongest where knowledge is inseparable from the settings,
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — experiential tasks are often the vehicle through which situated participation occurs
-- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — provides an instructional bridge between observation and authentic participation
+- [Cognitive Apprenticeship](scaffolding-and-fading.md) — provides an instructional bridge between observation and authentic participation
 - [Communities of Practice](communities-of-practice.md) — highlights the social dimension of becoming a participant in a practice
 
 ## Examples

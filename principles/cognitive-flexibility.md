@@ -47,7 +47,7 @@ Cognitive flexibility matters most in ill-structured domains where oversimplifie
 
 ### Theory
 #### Supporting
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — the most direct pattern-level expression of this principle
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — the most direct pattern-level expression of this principle
 - [Perspective-Taking](perspective-taking.md) — shifting viewpoint is one of the mechanisms by which flexibility develops
 - [Constructivism](../theories/constructivism.md) — knowledge is reorganized through active interpretation across contexts
 
@@ -68,7 +68,7 @@ Cognitive flexibility matters most in ill-structured domains where oversimplifie
 
 ### Illustrative
 
-**[Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)** — Learners revisit concepts across multiple cases, perspectives, and representations instead of mastering one linear explanation.
+**[Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)** — Learners revisit concepts across multiple cases, perspectives, and representations instead of mastering one linear explanation.
 
 **Cross-case comparison in medicine or law** — Students compare superficially similar cases with different underlying structures, then explain why the same rule cannot be applied mechanically.
 

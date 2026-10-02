@@ -59,7 +59,7 @@ Dual color highlighting reduces the working memory demand of visual tracking by 
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — sentence-level highlighting groups text into meaningful units, the same principle applied to reading units
 - [Annotating](../principles/annotating.md) — highlighting is a system-driven form of text marking; learner-driven marking complements it
-- [Audiobooks](../principles/audiobooks.md) — dual color highlighting adds synchronized visual tracking to audio-only reading
+- [Audiobooks](../elements/audiobooks.md) — dual color highlighting adds synchronized visual tracking to audio-only reading
 
 ## Examples
 - **[Read&Write (Texthelp)](https://www.texthelp.com/products/readwrite/)** — toolbar for docs and web with configurable dual-color highlighting; widely used in K-12 special education and UDL implementations.

@@ -62,7 +62,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [Application of Knowledge](application-of-knowledge.md) — the broader element family; transfer tasks are the variant emphasizing novelty of context
 
 ## Patterns That Use This Element
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — ill-structured domains are taught through criss-crossing cases and transfer demands
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — ill-structured domains are taught through criss-crossing cases and transfer demands
 - [4C/ID](../patterns/4cid-four-component-instructional-design.md) — learning tasks sequenced from simple to complex with increasing context variation
 - [Authentic Assessment](../patterns/authentic-assessment.md) — transfer tasks double as assessments of applied competence
 - [Case-Based Learning](../patterns/case-based-learning.md) — successive cases function as near-transfer opportunities [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]

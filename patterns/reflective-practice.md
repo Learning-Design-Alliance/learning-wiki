@@ -42,7 +42,7 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 ### Theory
 #### Supporting
 - [Reflection](../principles/reflection.md)
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]

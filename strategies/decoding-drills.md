@@ -23,7 +23,7 @@ Decoding drills convert explicit phonics instruction into the distributed, repea
 
 ### Context
 #### Requirements
-- Prior explicit teaching of the target letter–sound correspondences ([Explicit Instruction](../principles/explicit-instruction.md))
+- Prior explicit teaching of the target letter–sound correspondences ([Explicit Instruction](../principles/direct-instruction.md))
 - Decodable word lists and texts containing only taught patterns, plus a small review set of previously learned patterns
 - A routine for immediate corrective feedback: model the correct response, have the learner repeat it, then return to the item later in the drill
 - Progress monitoring (e.g., words-correct-per-minute probes) to pace advancement
@@ -52,10 +52,10 @@ Decoding drills convert explicit phonics instruction into the distributed, repea
 - Freed cognitive capacity for comprehension-level goals
 
 ### Instructions
-1. **Teach first.** Introduce the target correspondences through [Explicit Instruction](../principles/explicit-instruction.md) with teacher modeling of sound–symbol mapping and blending.
+1. **Teach first.** Introduce the target correspondences through [Explicit Instruction](../principles/direct-instruction.md) with teacher modeling of sound–symbol mapping and blending.
 2. **Drill at the word level.** Lead a short, brisk round of decodable words containing the new pattern plus review items; correct errors immediately by modeling and eliciting the correct response.
 3. **Build to connected text.** Have learners reread a decodable passage containing the pattern, applying the skill in context.
-4. **Distribute and monitor.** Repeat briefly across days ([Spaced Practice](../principles/spaced-practice.md)), tracking words-correct-per-minute and retiring patterns once automatic.
+4. **Distribute and monitor.** Repeat briefly across days ([Spaced Practice](../principles/spaced-learning.md)), tracking words-correct-per-minute and retiring patterns once automatic.
 5. **Reinforce.** Add game or partner formats to sustain engagement while keeping the repetition structure intact.
 
 ## Related Strategies

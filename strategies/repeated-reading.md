@@ -26,7 +26,7 @@ Repeated reading builds fluency by strengthening the orthographic representation
 - Short passages (roughly 50–200 words) at the learner's instructional reading level (90–95% word accuracy)
 - A fluency criterion or fixed number of repetitions to define "done"
 - Error correction and feedback during or after each reading ([Feedback](../elements/feedback.md))
-- Ideally, a fluent model — teacher read-aloud, peer model, or recorded audio ([Audiobooks](../principles/audiobooks.md))
+- Ideally, a fluent model — teacher read-aloud, peer model, or recorded audio ([Audiobooks](../elements/audiobooks.md))
 
 #### Constraints
 - Rereading texts well above a learner's accuracy level produces frustration and minimal fluency gain [-M] — decoding errors get practiced rather than eliminated

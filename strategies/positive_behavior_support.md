@@ -53,7 +53,7 @@ PBS treats behavior as a learned, communicative act shaped by its environment, a
 
 ### Instructions
 1. Define 3–5 positively stated expectations with staff and, where possible, student input.
-2. Teach expectations directly in every setting using [Modeling](../elements/modeling.md), rehearsal, and feedback — treat behavior like any other skill ([Explicit Instruction](../principles/explicit-instruction.md)).
+2. Teach expectations directly in every setting using [Modeling](../elements/modeling.md), rehearsal, and feedback — treat behavior like any other skill ([Explicit Instruction](../principles/direct-instruction.md)).
 3. Establish a high-frequency acknowledgment system with at least a 4:1 positive-to-corrective interaction ratio; plan for fading toward natural reinforcement.
 4. Respond to minor problem behavior with brief, calm, instructional corrections; reserve exclusionary discipline for safety-critical situations.
 5. For persistent cases, conduct a functional behavioral assessment, hypothesize the behavior's function, and teach a functionally equivalent replacement behavior with [Fading](../elements/fading.md) of supports.

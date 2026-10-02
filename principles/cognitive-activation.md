@@ -48,7 +48,7 @@ Cognitive activation is strongest when instruction asks learners to interpret, c
 ### Theory
 #### Supporting
 - [Constructivist Learning](constructivism.md) — learners build stronger understanding when they actively process and connect ideas
-- [Metacognition](metacognition.md) — cognitively activating tasks often require learners to notice and explain their own reasoning
+- [Metacognition](self-regulated-learning.md) — cognitively activating tasks often require learners to notice and explain their own reasoning
 - [Information Processing Theory](../theories/information-processing-theory.md) — deeper processing and organization improve learning quality
 
 #### Contradicting / Qualifying

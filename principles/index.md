@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**484 entries** · 0 stable · 142 in review · 342 drafts
+**479 entries** · 0 stable · 137 in review · 342 drafts
 
 ---
 
@@ -20,7 +20,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Annotating](annotating.md) - For readers of a demanding text, marking it may improve later performance on what was marked, while gains in comprehension are expected only from annotations that make the reader select, explain or question, and remain largely untested.
 * [Ask Experts](ask-experts.md) - Give learners structured access to people with deeper domain expertise so they can ask questions, hear expert reasoning, receive targeted feedback, and compare their own thinking to more mature practice.
 * [Assessment for Learning](assessment-for-learning.md) - Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged.
-* [Audiobooks](audiobooks.md) - Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently.
 * [Authentic Audiences & Purposes](authentic-audiences-purposes.md) - For writing and project work, addressing a genuine reader beyond the teacher-as-grader is associated with higher-rated products in small comparisons, conditional on the audience being credible, the criteria explicit and support for revision present.
 * [Autonomy](autonomy.md) - Autonomy in learning design means giving learners meaningful ownership over how, when, and why they engage — supporting their sense of volition rather than controlling their behavior.
 
@@ -36,7 +35,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Chunking](chunking.md) - For a learner who cannot yet treat a task's elements as familiar units, presenting the material in meaningful units with boundaries at conceptual breaks, then recombining them, is expected to ease processing and may improve immediate performance; what counts as a unit depends on that learner's prior knowledge.
 * [Clear Structure](clear-structure.md) - For learners without an organization of their own for unfamiliar material, making its organization explicit (signals, lean organizers, graphics that match the content and task) may improve what they select and recall on immediate tests, an effect qualified by prior knowledge, structural match and outcome.
 * [Cognitive Activation](cognitive-activation.md) - Cognitive activation is the principle of prompting learners to think deeply, make connections, explain reasoning, and grapple with ideas rather than merely recall or comply.
-* [Cognitive Apprenticeship](cognitive-apprenticeship.md) - Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.
 * [Cognitive Disequilibrium](cognitive-disequilibrium.md) - Cognitive disequilibrium is the principle of using mismatch, surprise, or contradiction to unsettle an existing mental model and create readiness for revision.
 * [Cognitive Flexibility](cognitive-flexibility.md) - Cognitive flexibility is the principle of helping learners represent, interpret, and apply knowledge in more than one way rather than locking it into a single rigid schema.
 * [Cognitive Load Management](cognitive-load-management.md) - Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need.
@@ -77,7 +75,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Expanding Social Networks](expanding-social-networks.md) - Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation.
 * [Experiential Learning](experiential-learning.md) - Experiential learning is learning by doing, which may include self-directed learning activities.
 * [Explaining Their Thinking](explaining-their-thinking.md) - Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
-* [Explicit Instruction](explicit-instruction.md) - Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit.
 * [Explicit Instruction: Computer Basics](explicit-instruction-computer-basics.md) - In an increasingly digital world, adults who struggle with using technology can benefit from direct instruction for an array of digital tools.
 * [Explicit Instruction: Internet Search](explicit-instruction-internet-search.md) - Teaching learners how to effectively search the internet is critical for helping them learn how to find accurate and relevant information and aids in developing information literacy.
 * [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) - Direct instruction in math strategies may support some adult learners once conceptual understanding is in place.
@@ -130,7 +127,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mastery Learning](mastery-learning.md) - When a learner's response on a unit check falls short of a stated criterion, corrective support and a further check before advancing may raise later unit and course performance, qualified by the validity of the check, the quality of the correction, the time it costs and the horizon assessed.
 * [Memory Consolidation](memory-consolidation.md) - Memory consolidation is the principle of designing instruction so that learning is stabilized across time rather than treated as secure after one exposure.
 * [Mentoring/Coaching](mentoringcoaching.md) - Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge.
-* [Metacognition](metacognition.md) - Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking.
 * [Metaphors & Analogies](metaphors-analogies.md) - Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images.
 * [Mindfulness Activities](mindfulness-activities.md) - Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting.
 * [Mnemonic Device](mnemonic-device.md) - Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently.
@@ -199,7 +195,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social Learning](social-learning.md) - Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.
 * [Social Presence](social-presence.md) - Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
 * [Spaced Learning](spaced-learning.md) - A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
-* [Spaced Practice](spaced-practice.md) - Distribute practice of a skill or retrieval of content across multiple sessions separated in time rather than massing it into one block, because spaced exposure produces markedly stronger long-term retention.
 * [Strengths-based Approach](strengths-based-approach.md) - A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.
 * [Summative Assessment](summative-assessment.md) - Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached.
 

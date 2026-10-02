@@ -36,7 +36,7 @@ Pairing words with meaningful graphics improves learning because verbal and visu
 
 #### Implementation Variability
 - Static (diagrams, graphs, concept maps) vs. dynamic (animations, simulations) visuals — animation is not uniformly superior; static frames can allow learner pacing
-- Multiple *external* representations (text + diagram) vs. multiple *cases* in one format, as in [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- Multiple *external* representations (text + diagram) vs. multiple *cases* in one format, as in [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 - Learner-constructed representations (drawing, graphing) vs. instructor-provided ones — construction adds generative processing but requires more support
 
 ### Target Learners

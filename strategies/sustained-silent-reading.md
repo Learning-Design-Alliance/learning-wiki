@@ -38,7 +38,7 @@ SSR rests on the premise that reading volume drives vocabulary growth, fluency, 
 #### Implementation Variability
 - **Accountability-light conferencing**: brief one-to-one conversations about what students are reading, preserving choice while adding social accountability
 - **Structured choice**: teacher-curated book bins or genre rotations that constrain choice to appropriate difficulty ranges
-- **Audiobook-supported reading**: pairing print with narration for striving readers ([Audiobooks](../principles/audiobooks.md)) so they access age-appropriate content while decoding develops
+- **Audiobook-supported reading**: pairing print with narration for striving readers ([Audiobooks](../elements/audiobooks.md)) so they access age-appropriate content while decoding develops
 - **School-wide models**: programs like DEAR or schoolwide silent reading blocks that extend SSR across all classrooms
 
 ### Target Learners

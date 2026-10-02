@@ -63,7 +63,7 @@ Instruction is more durable when it helps learners construct a coherent causal m
 
 ## Patterns That Use This Element
 - [Anchored Instruction](../patterns/anchored-instruction.md) — models are built in the service of solving a rich, situated problem
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — multiple criss-crossed cases build models that survive transfer
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple criss-crossed cases build models that survive transfer
 - [4CID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — supportive information explicitly targets mental models of the task domain
 
 ## Examples

@@ -47,7 +47,7 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — inquiry is a canonical enactment: learners generate and manipulate ideas rather than receive them, producing the engagement and retrieval conditions active learning research identifies
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — structured inquiry manages load by constraining the question, providing procedures, and sequencing evidence so novices investigate without unguided search
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the inquiry cycle enacts the exploration and articulation phases, with learners practicing expert investigative methods under coaching
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — the inquiry cycle enacts the exploration and articulation phases, with learners practicing expert investigative methods under coaching
 - [Collaborative Learning](../principles/collaborative-learning.md) — group investigation distributes evidence-gathering and forces learners to negotiate explanations, exposing reasoning to scrutiny
 
 ### Claims

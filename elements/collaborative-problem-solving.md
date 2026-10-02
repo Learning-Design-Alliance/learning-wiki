@@ -50,7 +50,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — CPS is the problem-centered enactment of this principle: the group structure exists to serve joint reasoning about a task, not just discussion
 - [Constructivism](../principles/constructivism.md) — learners actively construct solutions through negotiation and consensus-building rather than receiving expert solutions
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — peer [Articulation](articulation.md) and [Reflection](reflection.md) during group work make reasoning visible in the same way expert modeling does, but from near-peers
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — peer [Articulation](articulation.md) and [Reflection](reflection.md) during group work make reasoning visible in the same way expert modeling does, but from near-peers
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — dividing the coordination of a complex task across members reduces individual working-memory burden on high-element-interactivity problems
 
 ### Claims
