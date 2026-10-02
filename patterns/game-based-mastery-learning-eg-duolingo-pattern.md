@@ -96,7 +96,7 @@ This pattern can be highly effective for incremental skill development, especial
 - [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
 - [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
 - [Mastery learning cycle of formative tests, correctives, and relearning](mastery-learning-formative-corrective-cycle.md)
-- [Scaffolding via level-gated progression and hearts in Duolingo](duolingo-scaffolding-hearts-progression.md)
+- [Scaffolding via level-gated progression and hearts in Duolingo](../designs/duolingo-scaffolding-hearts-progression.md)
 
 ## Examples
 - Duolingo-style language progression with retries, streaks, and review loops.

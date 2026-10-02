@@ -58,7 +58,7 @@ Visual clutter imposes measurable costs on attention: laboratory work shows that
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the auditory counterpart; both reduce extraneous load from the physical environment
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — the same decluttering logic applied to instructional materials and slides
+- [Clear Structure Presentation](../principles/clear-structure.md) — the same decluttering logic applied to instructional materials and slides
 
 ## Related Elements
 - [Cognitive Load Management](../elements/cognitive-load-management.md) — the uncluttered environment is the physical-space enactment of reducing extraneous load

@@ -66,7 +66,6 @@ The activity targets the part–whole schema — the understanding that a whole 
 
 ## Patterns That Use This Strategy
 - [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — the activity elicits children's informal strategies, which the teacher builds on rather than replacing
-- [CGI for Math](../patterns/cgi-for-math.md) — same tradition; hiding problems are a canonical missing-part problem type in CGI problem taxonomy
 
 ## Examples
 - **Investigations in Number, Data, and Space (TERC)** — Grade K/1 units include "how many are hiding"-style games (e.g., "Peek-a-Plus," "Counters in a Cup") as core number-composition activities. [https://investigations.terc.edu](https://investigations.terc.edu)

@@ -48,7 +48,7 @@ In morning lectures the school implements active learning by having students do 
 ## Examples
 
 - [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
-- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../patterns/full-immersion-lecture-lab-day-structure.md)
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
 - [I Notice I Wonder](../strategies/i-notice-i-wonder.md)
 - [Logic Puzzles](../strategies/logic_puzzles.md)
 - [Electricity and Circuit Tasks](../strategies/electricity_and_circuit_tasks.md)

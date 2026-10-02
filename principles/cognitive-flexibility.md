@@ -61,7 +61,7 @@ Cognitive flexibility matters most in ill-structured domains where oversimplifie
 
 ## Related Principles
 - [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation
-- [Constructivist Learning](constructivist-learning.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
+- [Constructivist Learning](constructivism.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — contradiction and instability can sometimes trigger the need for more flexible models
 
 ## Examples

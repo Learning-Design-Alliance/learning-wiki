@@ -19,7 +19,7 @@ Keep Instructions Concise means delivering directions in the fewest words needed
 
 ## Design Implications
 
-Concise instructions reduce extraneous cognitive load, freeing limited working-memory capacity for the learning task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. This is especially consequential for learners processing in a second language or with attention difficulties, for whom verbose multi-step directions impose a double burden of comprehension and execution. Sequencing instructions by task phase also supports [Clear Structure](../principles/clear-structure-presentation.md) by making the task's progression visible.
+Concise instructions reduce extraneous cognitive load, freeing limited working-memory capacity for the learning task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. This is especially consequential for learners processing in a second language or with attention difficulties, for whom verbose multi-step directions impose a double burden of comprehension and execution. Sequencing instructions by task phase also supports [Clear Structure](../principles/clear-structure.md) by making the task's progression visible.
 
 ### Context
 #### Requirements

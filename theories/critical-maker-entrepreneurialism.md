@@ -42,7 +42,7 @@ Critical maker-entrepreneurialism names an identity and practice that emerges wh
 - [Epistemic Injustice](epistemic-injustice.md) — judges' dismissal of youths' high-tech nonprofit projects as lacking market "polish" is a form of the credibility-related harm this theory describes
 
 ## Examples
-- [Critical Maker-Entrepreneurialism Program](../patterns/critical-maker-entrepreneurialism-program.md)
+- [Critical Maker-Entrepreneurialism Program](../designs/critical-maker-entrepreneurialism-program.md)
 
 ## Key Sources
 - Greenberg, D., Calabrese Barton, A., Tan, E., & Archer, L. (2020). Redefining entrepreneurialism in the maker movement: A critical youth approach. *Journal of the Learning Sciences, 29*(4-5), 471-510. [https://doi.org/10.1080/10508406.2020.1749633](https://doi.org/10.1080/10508406.2020.1749633)

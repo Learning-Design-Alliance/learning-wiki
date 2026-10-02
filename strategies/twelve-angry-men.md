@@ -61,7 +61,7 @@ The film works as a compact, information-dense case that lets learners observe a
 
 ## Related Strategies
 - [Case-Based Learning](case-based-learning.md) — the film functions as a narrative case; this strategy is a specific, widely used instantiation
-- [Debate Format](../patterns/debate-format.md) — re-deliberation variants convert analysis into participatory practice
+- [Debate Format](../patterns/debate.md) — re-deliberation variants convert analysis into participatory practice
 - [Assigned Positions](../elements/assigned-positions.md) — role-based viewing and re-voting assign learners stakeholder positions to argue from
 
 ## Examples

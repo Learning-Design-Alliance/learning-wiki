@@ -25,7 +25,7 @@ Multisensory instruction is best understood through dual coding: pairing verbal 
 #### Requirements
 - Each modality must carry the *same* conceptual content, not competing information ([Dual Coding Theory](../theories/dual-coding-theory.md))
 - Manipulatives, gestures, or movement must be integral to the concept, not decorative
-- Explicit, systematic sequencing — multisensory delivery does not substitute for clear instructional structure ([Clear Structure](../principles/clear-structure-presentation.md))
+- Explicit, systematic sequencing — multisensory delivery does not substitute for clear instructional structure ([Clear Structure](../principles/clear-structure.md))
 
 #### Constraints
 - Adding a second channel with redundant or irrelevant material increases extraneous cognitive load rather than supporting encoding [~M] — see [Cognitive Load Management](../principles/cognitive-load-management.md)

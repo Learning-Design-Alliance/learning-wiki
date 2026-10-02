@@ -36,7 +36,7 @@ Signaling works by guiding selective attention and reducing extraneous processin
 #### Implementation Variability
 - **Visual cues**: bolding, color, underlining, arrows, circles on diagrams, motion in animation
 - **Verbal cues**: voice emphasis in narration, signposting phrases ("the key point is…"), preview statements ([Advance Organizers](../elements/advance-organizers.md))
-- **Structural cues**: headings, numbered steps, and outlines that signal organization ([Clear Structure](../principles/clear-structure-presentation.md))
+- **Structural cues**: headings, numbered steps, and outlines that signal organization ([Clear Structure](../principles/clear-structure.md))
 - **Learner-generated marking**: teaching students to highlight strategically, which converts a passive act into an active comprehension strategy ([Annotating](../principles/annotating.md))
 
 ### Target Learners

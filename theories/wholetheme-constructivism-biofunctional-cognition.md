@@ -48,7 +48,7 @@ Wholetheme constructivism is the paper's organizing framework, derived from biof
 
 ## Examples
 
-- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](../patterns/wholetheme-k12-action-research-cycle.md)
+- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](../designs/wholetheme-k12-action-research-cycle.md)
 - [Organize instruction thematically with a thematic organizer rather than presenting knowledge piecemeal](../strategies/wholetheme-thematic-organizer-teaching.md)
 
 ## Key Sources

@@ -41,7 +41,7 @@ Transcription fluency is a bottleneck for written composition: children who labo
 - **Sentence copying** — copying short sentences under time pressure; bridges to text-level fluency
 - **Timed free writing** — "write as much as you can in 5 minutes" prompts; integrates spelling retrieval with motor execution
 - **Keyboarding fluency** — the same automaticity logic applied to touch-typing (e.g., structured programs with speed-accuracy targets)
-- **Combined handwriting–spelling instruction** — integrating letter formation with orthographic patterns, as in [Explicit Teaching](../patterns/explicit-teaching.md) routines
+- **Combined handwriting–spelling instruction** — integrating letter formation with orthographic patterns, as in [Explicit Teaching](../patterns/direct-instruction.md) routines
 
 ### Target Learners
 - Early elementary writers (K–3) still mastering letter formation [+S]

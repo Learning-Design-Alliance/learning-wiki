@@ -92,7 +92,7 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 
 ## Related Patterns
 - [Peer Instruction](peer-instruction.md)
-- [Discussion Group](discussion-group.md)
+- [Discussion Group](discussion-based-learning.md)
 
 ## Examples
 - A class concept question answered silently, discussed in pairs, and then synthesized whole-group.

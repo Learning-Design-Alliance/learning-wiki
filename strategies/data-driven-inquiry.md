@@ -66,7 +66,7 @@ Data driven inquiry operationalizes [Assessment for Learning](../principles/asse
 ## Examples
 - **[Data Wise](https://www.gse.harvard.edu/data-wise)** (Harvard Graduate School of Education) — an eight-step protocol used by schools and districts to organize faculty data inquiry, emphasizing "creating a climate for data use" before analysis begins.
 - **PLC common assessment cycles** (Solution Tree / AllThingsPLC, https://www.allthingsplc.info) — grade-level teams administer common formative assessments, analyze item-level results by student group, and plan tiered reteaching.
-- **[Cognitively Guided Instruction](../patterns/cgi-for-math.md)** — teachers analyze student strategy data on math problems to infer children's informal reasoning and adapt instruction accordingly.
+- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers analyze student strategy data on math problems to infer children's informal reasoning and adapt instruction accordingly.
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

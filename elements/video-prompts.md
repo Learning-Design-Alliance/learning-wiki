@@ -44,7 +44,7 @@ Video prompts are short video clips used to launch attention, curiosity, discuss
 
 ## Patterns That Use This Element
 - [Anchored Instruction](../patterns/anchored-instruction.md)
-- [Flipped Learning](../patterns/flipped-learning.md)
+- [Flipped Learning](../patterns/flipped-classroom.md)
 
 ## Examples
 - A short clip introduces a dilemma or phenomenon that learners must explain or discuss.

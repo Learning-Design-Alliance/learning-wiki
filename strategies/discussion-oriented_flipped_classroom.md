@@ -61,7 +61,7 @@ Pre-class exposure frees class time for the interactive, generative processing t
 ## Related Strategies
 - [Flipped Learning](flipped-learning.md) — the broader pattern; this variant specifies discussion as the in-class modality
 - [Case-Based Learning](case-based-learning.md) — a common in-class engine for flipped discussion sessions
-- [Debate Format](../patterns/debate-format.md) — a highly structured discussion variant well suited to flipped class time
+- [Debate Format](../patterns/debate.md) — a highly structured discussion variant well suited to flipped class time
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — an alternative or supplement to video for first exposure

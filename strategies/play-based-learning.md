@@ -62,7 +62,7 @@ Play based learning leverages intrinsic motivation and active exploration, align
 
 ## Related Strategies
 
-- Guided play sits between free play and [Explicit Instruction](../patterns/explicit-teaching.md) — knowing when to shift between them is the core teacher skill in play-based settings
+- Guided play sits between free play and [Explicit Instruction](../patterns/direct-instruction.md) — knowing when to shift between them is the core teacher skill in play-based settings
 - [Act It Out](../elements/act-it-out.md) — dramatic enactment is a play-based form that supports comprehension and empathy
 - Simulation and role-play at older ages serves the same intrinsic-engagement function in adult-appropriate form
 - [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)

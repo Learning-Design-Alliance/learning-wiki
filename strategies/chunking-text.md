@@ -24,7 +24,7 @@ Chunking works because working memory can hold only a small number of meaningful
 ### Context
 #### Requirements
 - Analysis of the text's conceptual structure so chunk boundaries match idea boundaries
-- Signaling between chunks — headings, transitions, or numbered steps — that makes the overall structure visible ([Clear Structure Presentation](../principles/clear-structure-presentation.md))
+- Signaling between chunks — headings, transitions, or numbered steps — that makes the overall structure visible ([Clear Structure Presentation](../principles/clear-structure.md))
 - A way for learners to see the whole (an overview, map, or summary) so chunks are integrated, not encountered as disconnected fragments
 
 #### Constraints
@@ -51,7 +51,7 @@ Chunking works because working memory can hold only a small number of meaningful
 ### Instructions
 1. Map the text's core ideas and their relationships before deciding on boundaries.
 2. Divide the text so each chunk expresses one complete idea or one step, sized to be processed in a single reading pass.
-3. Add a heading or signal to each chunk that states its role in the whole ([Clear Structure Presentation](../principles/clear-structure-presentation.md)).
+3. Add a heading or signal to each chunk that states its role in the whole ([Clear Structure Presentation](../principles/clear-structure.md)).
 4. Provide an overview or advance organizer showing how chunks fit together ([Advance Organizers](../elements/advance-organizers.md)).
 5. Insert a brief activity between chunks — a recall prompt, question, or application task ([Practice](../elements/practice.md)) — to consolidate each unit before loading the next.
 6. Fade chunking as learners gain expertise: move toward longer, denser passages so they develop independent text-handling stamina.

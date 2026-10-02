@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: model-evidence-link-mel-reasoning-pattern
+aliases: [mel-reasoning-pattern]
 title: Model-Evidence Link (MEL) Reasoning Pattern
 description: The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly.
 status: review
@@ -38,11 +39,15 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - **A usable evidence set**: The evidence should support analysis rather than simply reveal the answer immediately.
 - **Reasoning scaffolds**: Learners need prompts or structures that help them articulate how evidence supports or challenges each model.
 - **Revision opportunities**: The pattern is strongest when learners can update their explanations after discussion.
+- **A model, claim, or explanation to evaluate**
+- **Evidence that can be linked explicitly to that model**
+- **Prompts that ask learners to explain the quality of the link**
 #### Constraints
 - **Weak evidence design**: If the evidence is misleading or too sparse, the reasoning exercise becomes arbitrary.
 - **Overload risk**: Too many models or too much data can swamp novices.
 - **False balance**: Not all competing models are equally plausible, so the task needs careful framing.
 - **Requires explicit debrief**: Learners may compare models superficially without teacher-supported synthesis.
+- **Learners may describe evidence without explaining how it connects**
 #### Grain Size
 - Lesson
 - Unit
@@ -51,6 +56,7 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - **Scientific or disciplinary reasoning**: Using evidence to evaluate explanatory claims.
 - **Conceptual change**: Revising understanding when evidence better fits an alternative model.
 - **Argumentation with evidence**: Justifying interpretations explicitly.
+- Improve evidence-based reasoning and explanation revision.
 
 ### Target Learners
 - **Learners in science and evidence-rich disciplines**: Strong fit where model comparison is part of expert reasoning.
@@ -62,6 +68,8 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - Inquiry-oriented perspectives — learners deepen understanding by evaluating evidence against explanations.
 - Epistemic cognition perspectives — knowledge improves when learners examine how claims are warranted.
 - Conceptual change traditions — comparing competing explanations can destabilize misconceptions and support revision.
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Constructivism](../principles/constructivism.md)
 #### Contradicting / Qualifying
 - Learners often need substantial scaffolding to reason well with competing models.
 - The pattern supports explanation and evidence use but is less suited to rote foundational coverage.
@@ -88,6 +96,8 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - [Peer Discussion](../elements/peer-discussion.md)
 - [Formative Assessment](../elements/formative-assessment.md)
 - [Reflection](../elements/reflection.md)
+- [Justification & Argumentation](../elements/justification-argumentation.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
 
 ### Affordances
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
@@ -102,7 +112,7 @@ It is particularly useful when learners need to evaluate explanations in the fac
 
 ## Related Patterns
 - [Collaborative Inquiry](collaborative-inquiry.md)
-- [Discussion Group](discussion-group.md)
+- [Discussion Group](discussion-based-learning.md)
 
 ## Examples
 - Earth science learners comparing climate explanations against observational data.
@@ -116,3 +126,47 @@ It is particularly useful when learners need to evaluate explanations in the fac
 ## Key Sources
 - Chinn, C. A., & Malhotra, B. A. (2002). Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks. *Science Education, 86*(2), 175-218. [https://doi.org/10.1002/sce.10001](https://doi.org/10.1002/sce.10001)
 - Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility reappraisals and shifts in middle school students' climate change conceptions. *Learning and Instruction, 27*, 50-62. [https://doi.org/10.1016/j.learninstruc.2013.03.001](https://doi.org/10.1016/j.learninstruc.2013.03.001)
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2015.1113134](https://doi.org/10.1080/00461520.2015.1113134)
+
+<!-- merged 2026-10-02 from patterns/mel-reasoning-pattern ("MEL Reasoning Pattern"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# MEL Reasoning Pattern
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.
+
+## Implications
+
+### Context
+#### Requirements
+- **A model, claim, or explanation to evaluate**
+- **Evidence that can be linked explicitly to that model**
+- **Prompts that ask learners to explain the quality of the link**
+#### Constraints
+- **Learners may describe evidence without explaining how it connects**
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Improve evidence-based reasoning and explanation revision.
+
+### Theory
+#### Supporting
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Constructivism](../principles/constructivism.md)
+
+## Design
+
+### Elements Used
+- [Justification & Argumentation](../elements/justification-argumentation.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
+
+## Related Patterns
+- [Model-Evidence-Link (MEL) Reasoning Pattern](model-evidence-link-mel-reasoning-pattern.md)
+
+## Key Sources
+- Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2015.1113134](https://doi.org/10.1080/00461520.2015.1113134)
+-->

@@ -54,7 +54,7 @@ Attention is one of the most powerful reinforcers in a classroom; planned ignori
 
 ### Instructions
 1. Identify the behavior and hypothesize its function; confirm it is attention-maintained and minor enough to ignore safely.
-2. Define the replacement behavior explicitly and teach it ([Explicit Instruction](../patterns/explicit-teaching.md)).
+2. Define the replacement behavior explicitly and teach it ([Explicit Instruction](../patterns/direct-instruction.md)).
 3. Pre-teach or privately explain the plan to the student where appropriate ("When I don't answer right away, raise your hand and I'll call on you").
 4. When the behavior occurs, withhold all attention — no eye contact, pause, sigh, or verbal response — and immediately attend to a nearby student displaying the replacement behavior.
 5. Reinforce the replacement behavior promptly and generously when it appears.

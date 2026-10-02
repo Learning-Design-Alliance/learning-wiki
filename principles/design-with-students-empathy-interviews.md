@@ -44,7 +44,7 @@ The article argues that designers "tend to unconsciously default to imagined use
 
 ## Examples
 
-- [Begin inclusive design work with teacher self-reflection on intersecting identities](../patterns/identity-reflection-before-empathy-interviews.md)
+- [Begin inclusive design work with teacher self-reflection on intersecting identities](../designs/identity-reflection-before-empathy-interviews.md)
 - [Extend empathy interviews to students' caregivers for an additional perspective](../strategies/caregiver-empathy-interview-extension.md)
 - [Observe the classroom for dissonance between what students say and what teachers see](../strategies/classroom-observation-dissonance-inclusive-design.md)
 - [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](../strategies/empathy-exercise-reflection-and-forward-planning.md)

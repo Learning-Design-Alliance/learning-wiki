@@ -50,7 +50,7 @@ Group work is the element in which learners work together on a shared task, prod
 ## Patterns That Use This Element
 - [Jigsaw Method](../patterns/jigsaw-method.md)
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
-- [Organization Simulation for Interdisciplinary Learning](../patterns/organization-simulation-for-interdisciplinary-learning.md)
+- [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md)
 
 ## Examples
 - Small groups producing a joint explanation, solution, or artifact.

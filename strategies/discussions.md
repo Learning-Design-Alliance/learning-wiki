@@ -74,7 +74,6 @@ Structured discussion improves comprehension and literacy outcomes when it goes 
 
 ## Patterns That Use This Strategy
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the parent pattern for talk-centered instruction
-- [Discussion Group](../patterns/discussion-group.md) — small-group variant with defined roles
 - [Community of Inquiry](../principles/community-of-inquiry.md) — discussion as the vehicle for cognitive and social presence
 
 ## Examples

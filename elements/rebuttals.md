@@ -66,7 +66,6 @@ Rebuttals deepen argumentation quality because constructing a counterargument re
 
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md) — rebuttal rounds are the core adversarial exchange
-- [Debate Format](../patterns/debate-format.md) — structures timing and turn-taking for rebuttal delivery
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md) — Johnson & Johnson's sequence, in which learners argue one side, then reverse positions and reach consensus
 
 ## Examples

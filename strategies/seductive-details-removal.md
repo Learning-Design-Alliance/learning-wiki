@@ -49,7 +49,7 @@ The strategy enacts the coherence principle of [Cognitive Load Management](../pr
 - Less applicable to goals where breadth, motivation, or affective engagement is itself the objective
 
 ### Instructions
-1. Define the learning objective and identify the essential content elements ([Clear Structure](../principles/clear-structure-presentation.md))
+1. Define the learning objective and identify the essential content elements ([Clear Structure](../principles/clear-structure.md))
 2. Audit each text passage, image, audio track, and animation: does it support the objective, or merely entertain?
 3. Remove or relocate decorative and tangential material; where removal would harm motivation, apply [Signaling](../elements/advance-organizers.md) or move the material after core instruction
 4. Retain all relevant visuals and examples that support [Dual Coding](../theories/dual-coding-theory.md) — the goal is coherence, not austerity

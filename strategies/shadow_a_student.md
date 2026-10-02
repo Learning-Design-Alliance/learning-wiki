@@ -62,7 +62,7 @@ Shadowing functions as professional learning through perspective-taking: direct,
 6. **Reflect and commit.** Within 48 hours, complete structured [Individual Reflection](../elements/individual-reflection.md): What surprised me? What assumptions were challenged? What one change will I make? Share commitments with colleagues and follow up with [Check-ins](../principles/check-ins.md) to assess whether changes stick.
 
 ## Related Strategies
-- [Empathy Interviews](../principles/empathy-interviews.md) — a shorter, conversation-based complement when a full day of shadowing is impractical
+- [Empathy Interviews](../methods/empathy-interviews.md) — a shorter, conversation-based complement when a full day of shadowing is impractical
 - [Learning Walks](learning-walks.md) — observation of classrooms rather than a single student's experience
 - [Action Research](action-research.md) — shadowing findings can seed a systematic inquiry cycle
 

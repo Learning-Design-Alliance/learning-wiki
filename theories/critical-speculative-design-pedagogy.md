@@ -43,7 +43,7 @@ Critical Speculative Design Pedagogy (CSDP) integrates Cultural Learning Pathway
 - [Funds of Knowledge](funds-of-knowledge.md) — "constellar youth knowledges" extends the same basic move (treating learners' out-of-school knowledge as a legitimate resource) to intergenerational and felt/affective knowledge specifically
 
 ## Examples
-- [Threading, Weaving, Patternmaking](../patterns/threading-weaving-patternmaking.md) — the three-phase instructional sequence that operationalizes CSDP's commitments into a teachable unit design
+- [Threading, Weaving, Patternmaking](../designs/threading-weaving-patternmaking.md) — the three-phase instructional sequence that operationalizes CSDP's commitments into a teachable unit design
 
 ## Key Sources
 - Arad, K., Sanchez, A., & Bell, P. (2023). Youth as pattern makers for racial justice: How speculative design pedagogy in science can promote restorative futures through radical care practices. *Journal of the Learning Sciences, 32*(1), 76-109. [https://doi.org/10.1080/10508406.2022.2154158](https://doi.org/10.1080/10508406.2022.2154158)

@@ -39,13 +39,13 @@ Philosopher Karl Popper proposed the criterion that separates scientific from un
 
 ### Theory
 #### Supporting
-- [Educational Psychology as Both Art and Science](educational-psychology-as-art-and-science.md) — this principle is the epistemic half of that same art/science relationship: what makes the "science" side trustworthy in the first place
+- [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md) — this principle is the epistemic half of that same art/science relationship: what makes the "science" side trustworthy in the first place
 
 ## Claims
 - [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](../claims/illusory-correlations-persist-through-confirmation-bias.md) [+M]
 
 ## Related Principles
-- [Educational Psychology as Both Art and Science](educational-psychology-as-art-and-science.md)
+- [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)
 
 ## Examples
 - A teacher who notices a technique "worked great" for one class and, before adopting it broadly, checks whether a controlled study backs the impression or looks for a colleague who tried it and got a different result

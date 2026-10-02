@@ -46,7 +46,7 @@ The article states that instructional material is most effective when no load ty
 
 ## Examples
 
-- [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../patterns/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
+- [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
 
 ## Key Sources
 - Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8

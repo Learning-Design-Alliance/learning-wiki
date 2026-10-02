@@ -57,8 +57,8 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 5. Provide immediate corrective [feedback](../elements/provide-feedback.md) at each level and [assess performance](../elements/assess-performance.md) against a mastery criterion before advancing
 
 ## Related Strategies
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cgi-for-math.md) — shares CRA's commitment to grounding symbols in learners' own models of quantities
-- [Explicit Teaching](../patterns/explicit-teaching.md) — CRA is typically delivered through explicit modeling, guided practice, and independent practice
+- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares CRA's commitment to grounding symbols in learners' own models of quantities
+- [Explicit Teaching](../patterns/direct-instruction.md) — CRA is typically delivered through explicit modeling, guided practice, and independent practice
 - [Manipulative-Based Instruction](../strategies/activating-prior-knowledge.md) — the concrete phase generalizes beyond mathematics to science and other domains
 
 ## Examples

@@ -46,7 +46,7 @@ Justification is the element in which learners explain why a claim, choice, or s
 - [Evidence-Based Reasoning](evidence-based-reasoning.md)
 
 ## Patterns That Use This Element
-- [MEL Reasoning Pattern](../patterns/mel-reasoning-pattern.md)
+- [MEL Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples

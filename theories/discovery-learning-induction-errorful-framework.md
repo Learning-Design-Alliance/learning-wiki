@@ -46,7 +46,7 @@ Glaser's conceptual framework decomposes the label "discovery learning" into two
 
 ## Examples
 
-- [Analyze terminal behavior and objectives before manipulating teaching methods in instructional design](../principles/behavior-analysis-first-instructional-design.md)
+- [Analyze terminal behavior and objectives before manipulating teaching methods in instructional design](../processes/behavior-analysis-first-instructional-design.md)
 
 ## Key Sources
 - Glaser, Robert. (1966). Variables in "Discovery Learning." Learning Research and Development Center, University of Pittsburgh. https://eric.ed.gov/?id=ED010518

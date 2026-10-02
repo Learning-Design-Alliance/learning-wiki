@@ -24,7 +24,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 ### Context
 #### Requirements
 - Ability to plan ahead and anticipate learner needs
-- A clear structure for the upcoming task so the preview is accurate ([Clear Structure Presentation](../principles/clear-structure-presentation.md))
+- A clear structure for the upcoming task so the preview is accurate ([Clear Structure Presentation](../principles/clear-structure.md))
 - Follow-through: the task must deliver what the preview promised, or trust and orientation break down
 
 #### Constraints
@@ -56,7 +56,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 2. [Gain attention](../elements/gain-attention.md) with a brief framing statement: what the task is, why it matters, what it will look like.
 3. [Recall prior knowledge](../elements/recall-prior-knowledge.md) by connecting the preview to what learners already know ([Activation](../principles/activation.md)).
 4. Present key vocabulary or an advance organizer — a short summary, outline, or set of guiding questions ([Advance Organizers](../elements/advance-organizers.md)).
-5. State expectations and success criteria explicitly ([Clear Structure Presentation](../principles/clear-structure-presentation.md)).
+5. State expectations and success criteria explicitly ([Clear Structure Presentation](../principles/clear-structure.md)).
 6. Follow through: deliver the task as previewed, and revisit the preview's guiding questions during or after the task.
 
 ## Related Strategies
@@ -68,7 +68,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 - [Gain attention](../elements/gain-attention.md) — the preview's opening function
 - [Recall prior knowledge](../elements/recall-prior-knowledge.md) — the preview's connective function
 - [Advance Organizers](../elements/advance-organizers.md) — a structured artifact form of previewing
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — the structural clarity a preview depends on
+- [Clear Structure Presentation](../principles/clear-structure.md) — the structural clarity a preview depends on
 
 ## Patterns That Use This Element
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "inform learners of objectives" and "gain attention" events

@@ -54,7 +54,7 @@ Curation reduces extraneous cognitive load: every navigation decision, broken li
 1. Define the learning path for the unit and select only resources that serve a named purpose in it; cut anything that is merely "nice to have."
 2. Structure the collection into [chunked](../principles/chunking.md) sections that mirror the instructional sequence, using [advance organizers](../elements/advance-organizers.md) at the top of each section to state what the resources are for.
 3. Annotate every resource with a one-line purpose and, where relevant, how it connects to an upcoming [practice](../elements/practice.md) activity or assessment.
-4. Apply [clear structure and presentation](../principles/clear-structure-presentation.md): consistent naming, visible hierarchy, and scannable layout so learners can locate an item in seconds.
+4. Apply [clear structure and presentation](../principles/clear-structure.md): consistent naming, visible hierarchy, and scannable layout so learners can locate an item in seconds.
 5. Pilot the collection with a learner, observe where they hesitate or ask "which one do I use?", and prune or relabel accordingly.
 6. Schedule recurring maintenance to verify links and retire outdated materials.
 

@@ -60,7 +60,6 @@ The model combines two well-supported mechanisms: shifting passive content deliv
 
 ## Related Strategies
 - See the broader [Flipped Classroom](../patterns/flipped-classroom.md) pattern — the group-based variant is one implementation of it, distinguished by cooperative structure rather than individual in-class practice
-- [Flipped Learning](../patterns/flipped-learning.md) — the general framework this variant instantiates
 
 ## Examples
 - **Process-Oriented Guided Inquiry Learning (POGIL)** — [https://pogil.org](https://pogil.org) — students complete pre-class preparation, then work in role-assigned teams on guided-inquiry worksheets; widely used in undergraduate chemistry

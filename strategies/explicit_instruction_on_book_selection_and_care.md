@@ -19,7 +19,7 @@ This strategy teaches the procedural and self-regulatory skills of independent r
 
 ## Design Implications
 
-Independent reading only produces growth when students actually read text they can access and sustain engagement with; explicit teaching of selection and management routines removes the procedural friction that otherwise consumes reading time and produces off-task behavior. Modeling each routine — including the decision points (abandoning a book, choosing a "just-right" text) — converts tacit expectations into observable steps, consistent with the broader principle of [Explicit Teaching](../patterns/explicit-teaching.md) [+M]. Because these are procedures rather than concepts, brief repeated practice with feedback is more effective than a single long explanation [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Independent reading only produces growth when students actually read text they can access and sustain engagement with; explicit teaching of selection and management routines removes the procedural friction that otherwise consumes reading time and produces off-task behavior. Modeling each routine — including the decision points (abandoning a book, choosing a "just-right" text) — converts tacit expectations into observable steps, consistent with the broader principle of [Explicit Teaching](../patterns/direct-instruction.md) [+M]. Because these are procedures rather than concepts, brief repeated practice with feedback is more effective than a single long explanation [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

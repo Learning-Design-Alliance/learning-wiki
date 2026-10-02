@@ -54,7 +54,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 ### Instructions
 1. **Set the reflective target.** Choose one focus — a strategy, a misconception, a decision point — rather than asking for general reflection.
 2. **Prime individually.** Give 2–3 minutes of silent writing or thinking so every learner arrives with something to say; this protects against dominance effects.
-3. **Structure the talk.** Use pairs or small groups ([Discussion Group](../patterns/discussion-group.md)) with assigned roles or a visible protocol (e.g., "describe your approach → compare with your partner → agree on what made the difference").
+3. **Structure the talk.** Use pairs or small groups ([Discussion Group](../patterns/discussion-based-learning.md)) with assigned roles or a visible protocol (e.g., "describe your approach → compare with your partner → agree on what made the difference").
 4. **Facilitate with process questions.** Probe reasoning and self-monitoring ("How did you decide?", "When did you realize you were off track?") rather than confirming answers; treat the discussion as [Coaching](../elements/coaching.md), not evaluation.
 5. **Surface and examine disagreement.** Where approaches differ, make the contrast explicit — productive [Cognitive Conflict](../elements/cognitive-conflict.md) is the engine of conceptual change.
 6. **Close with a commitment.** Ask learners to name one thing they will do differently next time, converting reflection into an actionable plan ([Action Planning](action_planning.md)).

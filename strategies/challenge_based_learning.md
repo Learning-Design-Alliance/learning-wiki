@@ -39,7 +39,7 @@ CBL situates learning in authentic problems, which raises perceived task value a
 - **Scale**: full-semester challenges vs. short 2–3 week mini-challenges
 - **Locus of the challenge**: teacher-nominated big idea with learner-defined challenge questions (typical entry point) vs. fully learner-generated challenges
 - **Domain**: science (environmental audits), civics (community campaigns), media/technology (app or prototype design)
-- **Hybrid forms**: CBL phases interleaved with direct instruction on needed concepts, blending [Explicit Teaching](../patterns/explicit-teaching.md) with inquiry
+- **Hybrid forms**: CBL phases interleaved with direct instruction on needed concepts, blending [Explicit Teaching](../patterns/direct-instruction.md) with inquiry
 
 ### Target Learners
 - Learners with moderate prior knowledge who can conduct guided investigation without drowning in search [Whole-task practice improves transfer of complex skills.](../claims/whole-task-performance-improves-transfer.md) [~M]

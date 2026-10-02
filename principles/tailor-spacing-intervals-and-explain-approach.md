@@ -45,7 +45,7 @@ Drawing on Toppino and Cohen (2010), the article states that introducing a space
 
 ## Examples
 
-- [Expanding then maintenance repetition schedule for audio vocabulary lessons](../patterns/expanding-then-monthly-repetition-schedule.md)
+- [Expanding then maintenance repetition schedule for audio vocabulary lessons](../designs/expanding-then-monthly-repetition-schedule.md)
 - [Build regular reiteration of previously covered vocabulary topics into the EFL curriculum](../strategies/curriculum-reiteration-one-step-forward-two-steps-back.md)
 
 ## Key Sources

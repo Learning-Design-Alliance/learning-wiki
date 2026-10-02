@@ -23,7 +23,7 @@ Lectures are effective for introducing frameworks, modeling expert thinking, and
 
 ### Context
 #### Requirements
-- A clear organizational structure with explicit signposting ([Clear Structure](../principles/clear-structure-presentation.md))
+- A clear organizational structure with explicit signposting ([Clear Structure](../principles/clear-structure.md))
 - Segmentation into chunks of roughly 10–15 minutes, with breaks or transitions between them
 - Visuals that complement rather than duplicate the spoken narration, per multimedia principles [Redundant on-screen text duplicating narration impairs learning compared with complementary visuals.](https://doi.org/10.1207/S15326985EP3801_6) [-M]
 - Embedded opportunities for learners to process content — questions, [Class Discussion](class-discussion.md), think-pair-share, or short problems

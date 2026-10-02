@@ -73,7 +73,7 @@ Positive self-talk helps when internal language changes what the learner does ne
 The current claim inventory supports regulation and process-focused guidance mechanisms more directly than self-talk as a standalone intervention.
 
 ## Related Principles
-- [Foster Growth Mindset](foster-growth-mindset.md) — self-talk often shapes whether challenge is interpreted as growth or failure.
+- [Foster Growth Mindset](growth-mindset.md) — self-talk often shapes whether challenge is interpreted as growth or failure.
 - [Mindfulness Activities](mindfulness-activities.md) — both principles can support more deliberate response to stress and difficulty.
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — self-talk becomes more effective when it refers to concrete goals and next steps.
 - [Check-ins](check-ins.md) — brief self-check prompts can help learners notice and redirect internal dialogue.

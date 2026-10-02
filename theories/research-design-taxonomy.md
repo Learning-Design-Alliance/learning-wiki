@@ -20,7 +20,7 @@ A separate dimension classifies research by what kind of conclusion the design c
 
 People also perceive relationships between variables that don't actually exist at all — **illusory correlations**. The persistent belief that a full moon affects human behavior is a textbook case: a meta-analysis of nearly 40 studies found no such relationship (Rotton & Kelly, 1985), yet the belief persists because people notice and remember odd behavior during a full moon while failing to notice that odd behavior occurs at a constant rate throughout the lunar cycle — the same confirmation-bias mechanism (see [Evidence-Based Teaching and Scientific Reasoning](../principles/evidence-based-teaching-and-scientific-reasoning.md)) that makes personal inquiry generally unreliable. Illusory correlations are not merely a curiosity: research suggests they are involved in forming the prejudicial attitudes toward particular groups that can escalate into discriminatory behavior (Fiedler, 2004).
 
-**Experimental research** goes further still, randomly assigning participants to conditions so that hypothesis testing can support inferences about causal relationships — see [Designing a Valid Experiment](../principles/designing-a-valid-experiment.md) for the mechanics. Descriptive, correlational, and experimental research form a genuine hierarchy of what a design can conclude, not a hierarchy of rigor or value: a descriptive study of what a phenomenon even looks like is often the necessary first step before a correlational study is worth running, which in turn can motivate a specific causal hypothesis worth testing experimentally.
+**Experimental research** goes further still, randomly assigning participants to conditions so that hypothesis testing can support inferences about causal relationships — see [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md) for the mechanics. Descriptive, correlational, and experimental research form a genuine hierarchy of what a design can conclude, not a hierarchy of rigor or value: a descriptive study of what a phenomenon even looks like is often the necessary first step before a correlational study is worth running, which in turn can motivate a specific causal hypothesis worth testing experimentally.
 
 ## Implications
 
@@ -41,7 +41,7 @@ People also perceive relationships between variables that don't actually exist a
 - [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](../claims/illusory-correlations-persist-through-confirmation-bias.md) [X]
 
 ## Related Theories
-- [Designing a Valid Experiment](../principles/designing-a-valid-experiment.md) — the design that actually supports causal conclusions, and the mechanics of running one properly
+- [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md) — the design that actually supports causal conclusions, and the mechanics of running one properly
 - [Developmental Research Designs](developmental-research-designs.md) — a further, orthogonal set of design choices specific to studying change over time
 
 ## Examples

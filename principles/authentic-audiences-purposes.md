@@ -69,16 +69,16 @@ Authentic audiences and purposes improve learning when they change the quality o
 - [Inquiry-based Learning](inquiry-based-learning.md) — authentic audiences often emerge from real questions and investigations
 - [Competency-based Learning & Assessment](competency-based-learning-assessment.md) — authentic products can serve as demonstrations of competence
 - [Learner Choice](learner-choice.md) — choice over topic, format, or audience can amplify authenticity when still aligned to goals
-- [Clear Structure & Presentation](clear-structure-presentation.md) — real-world work still needs explicit expectations and supports
+- [Clear Structure & Presentation](clear-structure.md) — real-world work still needs explicit expectations and supports
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - [Digital Publishing](../strategies/digital_publishing.md) — student work is shared with real readers beyond the classroom
 - [Student Blogging](../strategies/student_blogging.md) — learners document process and communicate to peers or wider audiences
 - [Project-Based Learning (PBL)](../strategies/project-based-learning-pbl.md) — projects framed around real community or workplace problems
-- [Identity-Centered e-Textile Making](../patterns/identity-centered-e-textile-making.md) — youth-authored, identity-expressive e-textile projects made and shared within an affirming making community
+- [Identity-Centered e-Textile Making](../designs/identity-centered-e-textile-making.md) — youth-authored, identity-expressive e-textile projects made and shared within an affirming making community
 - Reports for community partners, public explainers, policy briefs, exhibitions, or client-facing presentations are all viable forms when the audience actually matters
-- [Organization Simulation for Interdisciplinary Learning](../patterns/organization-simulation-for-interdisciplinary-learning.md) — student teams compete for a real external client's business, with an authentic evaluator selecting the winning offer
+- [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — student teams compete for a real external client's business, with an authentic evaluator selecting the winning offer
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — students write papers connected to real external research networks and mentors, not just the instructor
 
 ## Key Sources

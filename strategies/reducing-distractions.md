@@ -24,7 +24,7 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 ### Context
 #### Requirements
 - A clear analysis of which stimuli are *relevant* to the learning goal — reduction requires knowing what to keep
-- Control over the presentation layer: clean slides, legible layout, purposeful media ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- Control over the presentation layer: clean slides, legible layout, purposeful media ([Clear Structure & Presentation](../principles/clear-structure.md))
 - For digital environments: notification management, single-task task design, and device policies agreed with learners rather than imposed unilaterally
 
 #### Constraints

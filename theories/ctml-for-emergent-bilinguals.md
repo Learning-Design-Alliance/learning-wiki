@@ -54,7 +54,7 @@ CTML (Mayer, 2014) holds that learners process multimedia messages through two c
 
 ## Examples
 
-- [SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences](../patterns/sol-multimedia-lesson-sequence-eb.md)
+- [SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences](../designs/sol-multimedia-lesson-sequence-eb.md)
 - [Multimedia Design](../strategies/multimedia-design.md)
 
 ## Key Sources

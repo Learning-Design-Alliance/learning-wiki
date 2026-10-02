@@ -49,7 +49,7 @@ The framework nominates a set of broad interdisciplinary concepts—citizenship,
 ## Examples
 
 - [Use studies of human experience across world societies with an interdisciplinary focus through grade eight](../strategies/interdisciplinary-human-experience-studies-strategy.md)
-- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../principles/materials-reflect-principles-of-learning.md)
+- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../designs/materials-reflect-principles-of-learning.md)
 
 ## Key Sources
 - Social Sciences Education Framework for California Public Schools, Kindergarten and Grades One through Twelve. (1975). California State Department of Education. https://eric.ed.gov/?id=ED120079

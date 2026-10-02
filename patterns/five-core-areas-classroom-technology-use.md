@@ -41,8 +41,8 @@ The Toolkit structures its materials around five recurring forms of student work
 
 ## Related Patterns
 
-- [Four-piece toolkit architecture linking planning, implementation, and evaluation](four-piece-toolkit-planning-evaluation-architecture.md)
-- [Five-unit arc building classroom skills toward a community field trip and public sharing](five-unit-field-trip-arc-riparian.md)
+- [Four-piece toolkit architecture linking planning, implementation, and evaluation](../designs/four-piece-toolkit-planning-evaluation-architecture.md)
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples

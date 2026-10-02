@@ -90,7 +90,7 @@ The pattern is especially useful at the end of a lesson, discussion, simulation,
 - The pattern can be very brief or expanded into longer journaling or conferencing.
 
 ## Related Patterns
-- [Discussion Group](discussion-group.md)
+- [Discussion Group](discussion-based-learning.md)
 - [Structured Peer Review](structured-peer-review.md)
 
 ## Examples

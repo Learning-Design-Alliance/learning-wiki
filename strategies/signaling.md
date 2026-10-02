@@ -52,7 +52,7 @@ Signaling improves learning outcomes across media, with meta-analytic evidence o
 ### Instructions
 1. Identify the 1–3 most goal-relevant elements of the material; everything else stays uncued.
 2. Choose a cue type that fits the medium and does not add competing load (avoid combining loud color, motion, and sound simultaneously).
-3. Apply cues consistently across the lesson so learners learn the cueing convention ([Clear Structure & Presentation](../principles/clear-structure-presentation.md)).
+3. Apply cues consistently across the lesson so learners learn the cueing convention ([Clear Structure & Presentation](../principles/clear-structure.md)).
 4. Pair visual cues with verbal signals (headings, signposting) so learners connect what they see to what it means ([Dual Coding](../theories/dual-coding-theory.md)).
 5. For dynamic media, synchronize cues with the moment the relevant content appears or is narrated.
 6. Test with a novice: if they still miss the essential element, add a cue; if they notice the cues more than the content, remove some.

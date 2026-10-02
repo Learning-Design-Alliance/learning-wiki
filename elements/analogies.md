@@ -60,7 +60,7 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - [Demonstration](demonstration.md)
 
 ## Patterns That Use This Element
-- [Reigeluth's Elaboration Theory](../patterns/reigeluths-elaboration-theory.md)
+- [Reigeluth's Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
 - Explaining electrical current through the analogy of water moving through pipes

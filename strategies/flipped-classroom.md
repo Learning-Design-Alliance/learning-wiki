@@ -63,7 +63,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Case-Based Learning](case-based-learning.md) — a common use of reclaimed class time
 
 ## Examples
-- **[Flipped Learning](../patterns/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../patterns/flipped-classroom.md).
+- **[Flipped Learning](../patterns/flipped-classroom.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../patterns/flipped-classroom.md).
 - **[Khan Academy](https://www.khanacademy.org)** — video first-exposure content widely used as the at-home layer in flipped K-12 math classrooms, with built-in practice and teacher dashboards.
 - **Eric Mazur's Peer Instruction at Harvard** — introductory physics students read before class and spend class time answering conceptual questions with peer discussion; the model that popularized the flip.
 - **[ACUE / flipped STEM courses](https://www.stemflipped.net)** — the STEM Flipped Learning Consortium documents discipline-specific implementations across engineering and science courses.

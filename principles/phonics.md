@@ -73,7 +73,7 @@ Phonics works because skilled reading depends on building automatic orthographic
 
 ### Illustrative
 
-**[Explicit Teaching](../patterns/explicit-teaching.md) routines** — A typical phonics lesson follows an "I do, we do, you do" sequence: the teacher models a new correspondence (e.g., *ai* = /ā/), the class blends example words chorally, then learners read decodable text containing the target pattern with [immediate feedback](../elements/feedback.md).
+**[Explicit Teaching](../patterns/direct-instruction.md) routines** — A typical phonics lesson follows an "I do, we do, you do" sequence: the teacher models a new correspondence (e.g., *ai* = /ā/), the class blends example words chorally, then learners read decodable text containing the target pattern with [immediate feedback](../elements/feedback.md).
 
 **[Jolly Phonics](https://www.jollylearning.co.uk)** — A widely used synthetic phonics program (UK and international) that teaches letter sounds through actions, songs, and blending practice, with a structured scope and sequence across the first year of school.
 

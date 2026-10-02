@@ -106,7 +106,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
 
 ## Examples
 - Example-problem sequences in math or programming.

@@ -52,7 +52,7 @@ Handouts work when they function as an external memory aid plus an engagement de
 - Transfer to practice: action plans and job aids that bridge training content and workplace performance
 
 ### Instructions
-1. Identify the 3–5 session objectives and design one handout section per objective; cut anything that merely restates slides ([Clear structure presentation](../principles/clear-structure-presentation.md))
+1. Identify the 3–5 session objectives and design one handout section per objective; cut anything that merely restates slides ([Clear structure presentation](../principles/clear-structure.md))
 2. Build in generative gaps — blanks, prediction prompts, rating scales — so learners produce content rather than receive it ([Annotating](../principles/annotating.md))
 3. Embed the handout in session activities: worksheets structure pair discussion, case analysis, and peer feedback rounds ([Practice](../elements/practice.md), [Class discussion](../elements/class-discussion.md))
 4. Close with an action-planning section where each learner commits to specific applications ([Application of knowledge](../elements/application-of-knowledge.md))

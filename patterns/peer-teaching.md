@@ -25,7 +25,7 @@ Peer teaching is the short-form canonical pattern for learners teaching concepts
 - [Peer Discussion](../elements/peer-discussion.md)
 
 ## Related Patterns
-- [Jigsaw](jigsaw.md)
+- [Jigsaw](jigsaw-method.md)
 - [Peer Instruction](peer-instruction.md)
 
 ## Key Sources

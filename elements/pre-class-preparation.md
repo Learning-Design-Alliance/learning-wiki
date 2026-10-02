@@ -48,7 +48,7 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - [Pre-Class Video/Lecture](pre-class-videolecture.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](../patterns/flipped-learning.md)
+- [Flipped Learning](../patterns/flipped-classroom.md)
 - [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples

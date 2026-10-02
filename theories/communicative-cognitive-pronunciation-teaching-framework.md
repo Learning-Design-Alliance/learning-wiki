@@ -46,7 +46,7 @@ Celce-Murcia, Brinton, and Goodwin (1996), as presented in the digest, propose a
 
 ## Examples
 
-- [Word-stress lesson pattern: model correct and incorrect stress, discriminate, clap stress patterns, peer-mark dialogues, present orally with self-monitoring criteria](../patterns/word-stress-five-step-lesson-pattern.md)
+- [Word-stress lesson pattern: model correct and incorrect stress, discriminate, clap stress patterns, peer-mark dialogues, present orally with self-monitoring criteria](../designs/word-stress-five-step-lesson-pattern.md)
 - [Set realistic long-range oral communication goals aiming for functional intelligibility, functional communicability, and enhanced self-confidence, based on learner needs analysis](../principles/functional-intelligibility-goals-for-pronunciation-curriculum.md)
 - [Use multisensory exercises (throats, mirrors, kazoos, rubber bands, sound associations, finger counts) to help learners comprehend pronunciation features](../strategies/multisensory-pronunciation-comprehension-exercises.md)
 

@@ -38,7 +38,7 @@ A large U.S. Department of Education meta-analysis of K-12 and higher-education 
 - Combine flexibility of digital learning with the support or interaction of live learning.
 
 ### Related Patterns
-- [Flipped Learning](flipped-learning.md)
+- [Flipped Learning](flipped-classroom.md)
 
 ## Claims
 - [Blended Learning Improves Outcomes](../claims/blended-learning-improves-outcomes.md) [+W]

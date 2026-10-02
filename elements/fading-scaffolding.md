@@ -30,7 +30,7 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 - Increase independence while preserving successful performance.
 
 ### Affordances
-- [Scaffolding & Fading](../principles/scaffolding-fading.md)
+- [Scaffolding & Fading](../principles/scaffolding-and-fading.md)
 - [Procedural Learning](../principles/procedural-learning.md)
 
 ### Claims

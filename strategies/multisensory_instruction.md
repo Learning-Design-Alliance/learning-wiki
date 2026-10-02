@@ -26,7 +26,7 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 - Instructors trained in a structured, sequential, cumulative scope and sequence (e.g., Orton-Gillingham certification)
 - Simultaneous — not merely sequential — use of modalities: see it, say it, hear it, write it within one activity
 - Systematic phoneme–grapheme mapping as the instructional core, not sensory activities as an end in themselves
-- [Explicit teaching](../patterns/explicit-teaching.md) structure: [demonstration](../elements/demonstration.md), guided [practice](../elements/practice.md), and immediate corrective [feedback](../elements/provide-feedback.md)
+- [Explicit teaching](../patterns/direct-instruction.md) structure: [demonstration](../elements/demonstration.md), guided [practice](../elements/practice.md), and immediate corrective [feedback](../elements/provide-feedback.md)
 
 #### Constraints
 - Resource-intensive: requires specialized instructor training and small-group or 1:1 delivery, limiting scalability
@@ -58,7 +58,7 @@ Multisensory instruction is best understood as explicit, systematic phonics inst
 5. Review previously taught patterns in each session (cumulative review) before introducing new material
 
 ## Related Strategies
-- [Explicit teaching](../patterns/explicit-teaching.md) — multisensory instruction is a modality-enriched form of explicit, teacher-directed instruction
+- [Explicit teaching](../patterns/direct-instruction.md) — multisensory instruction is a modality-enriched form of explicit, teacher-directed instruction
 - [Chunking](../principles/chunking.md) — cumulative, small-step sequencing keeps each lesson within working memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Cognitive load management](../principles/cognitive-load-management.md) — simultaneous modalities must complement, not duplicate, to avoid extraneous load
 

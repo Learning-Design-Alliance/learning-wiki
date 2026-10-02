@@ -81,7 +81,7 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - **Problem-framing workshops**: Learners refine a broad topic into investigable questions before researching.
 - **Digital inquiry tasks**: Learners navigate simulations, databases, or online sources to test and revise explanations.
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a whole-class authentic research inquiry organized around a shared boundary object
-- [Interdisciplinary Societal Dilemma Units](../patterns/interdisciplinary-societal-dilemma-units.md) — small-group deliberative inquiry into an authentic, multi-solution societal dilemma
+- [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md) — small-group deliberative inquiry into an authentic, multi-solution societal dilemma
 
 ## Key Sources
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)

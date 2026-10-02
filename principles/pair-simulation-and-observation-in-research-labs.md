@@ -48,7 +48,7 @@ The authors argue that in space physics simulation and observations build upon o
 
 ## Examples
 
-- [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../patterns/open-ended-standard-defining-magnetopause-lab.md)
+- [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
 
 ## Key Sources
 - Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985

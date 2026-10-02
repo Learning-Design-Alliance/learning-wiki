@@ -72,7 +72,7 @@ Two experiments had college students read expository text with or without organi
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — previews of structure that orient learners before instruction
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — the working-memory rationale for segmented, organized content
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the broader family of extraneous-load reductions
-- [Clear structure and presentation](../principles/clear-structure-presentation.md) — the design principle this claim underwrites
+- [Clear structure and presentation](../principles/clear-structure.md) — the design principle this claim underwrites
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework explaining why structure reduces extraneous load
 - [Signaling Improves Learning](signaling-improves-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related

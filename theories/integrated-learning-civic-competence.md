@@ -54,7 +54,7 @@ Integrated Learning is proposed as a way of educating students and promoting civ
 
 - [Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels](../strategies/civic-learning-recommendations-university-stakeholders.md)
 - [Methodological orientations and strategies for professors to promote integrated learning of civic competence](../strategies/il-methodological-orientations-strategies.md)
-- [Interdisciplinary Societal Dilemma Units](../patterns/interdisciplinary-societal-dilemma-units.md)
+- [Interdisciplinary Societal Dilemma Units](../designs/interdisciplinary-societal-dilemma-units.md)
 
 ## Key Sources
 - Naval, C.; Villacís, J.L.; Ibarrola-García, S. (2022). The Transversality of Civic Learning as the Basis for Development in the University. Educ. Sci. 2022, 12, 240. https://doi.org/10.3390/educsci12040240

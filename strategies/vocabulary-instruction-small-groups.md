@@ -24,7 +24,7 @@ Vocabulary knowledge is a strong predictor of comprehension, and it grows throug
 ### Context
 #### Requirements
 - A small, deliberately selected set of words (typically 5–10 per cycle), chosen for utility and conceptual tractability
-- Student-friendly explanations of meaning, not dictionary definitions ([Clear Structure](../principles/clear-structure-presentation.md))
+- Student-friendly explanations of meaning, not dictionary definitions ([Clear Structure](../principles/clear-structure.md))
 - Multiple encounters with each word across varied contexts and modalities
 - Structured opportunities for learners to produce the words in speech or writing ([Practice](../elements/practice.md))
 

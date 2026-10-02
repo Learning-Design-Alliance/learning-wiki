@@ -51,7 +51,7 @@ Value-creating pedagogy, outlined by Tsunesaburo Makiguchi, holds that creating 
 
 - [Nurture the ubuntu spirit in students because it aligns with global citizenship and embodies a humanistic ethos](../principles/nurture-ubuntu-spirit-students.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
-- [Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good](../patterns/makiguchi-six-transformative-indices.md)
+- [Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good](makiguchi-six-transformative-indices.md)
 
 ## Key Sources
 - Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise

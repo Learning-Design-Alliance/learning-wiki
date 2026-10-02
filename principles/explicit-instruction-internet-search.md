@@ -71,7 +71,7 @@ Explicit instruction in internet search is valuable because searching is a compo
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — search and source evaluation are interdependent
 - [Inquiry-based Learning](inquiry-based-learning.md) — effective searching supports independent investigation
-- [Clear Structure & Presentation](clear-structure-presentation.md) — search routines should be taught in a visible, sequenced way
+- [Clear Structure & Presentation](clear-structure.md) — search routines should be taught in a visible, sequenced way
 - [Explicit Instruction: Online Reading Strategies](explicit-instruction-online-reading-strategies.md) — search is one part of broader online reading competence
 
 ## Examples

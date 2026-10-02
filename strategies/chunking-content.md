@@ -37,7 +37,7 @@ Working memory can hold only a few novel elements at once; presenting more than 
 - **Microlearning**: standalone 3–7 minute units (e.g., Duolingo lessons), suited to spaced, habitual study
 - **Segmented video**: interactive transcripts and chapter markers (e.g., Khan Academy, Coursera) let learners control pacing within chunks
 - **Sequential task classes**: in [4C/ID](../patterns/4cid-four-component-instructional-design.md), complex skills are ordered into task classes that each add one level of complexity
-- **Visual chunking**: grouping information into boxed sections or numbered steps in slides and documents ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- **Visual chunking**: grouping information into boxed sections or numbered steps in slides and documents ([Clear Structure & Presentation](../principles/clear-structure.md))
 
 ### Target Learners
 - Novices, who lack schemas to compress incoming information and are most vulnerable to overload [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]

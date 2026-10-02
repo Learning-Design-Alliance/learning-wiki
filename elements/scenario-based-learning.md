@@ -49,8 +49,8 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Application](application.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
-- [Problem-Based Learning (PBL)](../patterns/problem-based-learning-pbl.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
 
 ## Examples
 - Learners respond to a client brief with incomplete information and evolving constraints.

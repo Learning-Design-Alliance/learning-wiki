@@ -38,7 +38,7 @@ The article proposes a framework in which noticing in EFL writing is promoted th
 
 ### Claims
 
-- [Cft While Noticing Tasks Pattern](../patterns/cft-while-noticing-tasks-pattern.md) [+M]
+- [Cft While Noticing Tasks Pattern](../designs/cft-while-noticing-tasks-pattern.md) [+M]
 - [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](../claims/cfts-promoted-noticing-peer-dialogs-metacognition.md) [+W]
 - [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](../claims/noticing-with-understanding-improves-l2-writing.md) [+W]
 

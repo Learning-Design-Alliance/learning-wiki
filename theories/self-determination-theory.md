@@ -72,7 +72,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Learner Choice](../principles/learner-choice.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
-- [Identity-Centered e-Textile Making](../patterns/identity-centered-e-textile-making.md) — autonomy over identity expression, competence through scaffolded technical projects, and relatedness through an affirming peer community
+- [Identity-Centered e-Textile Making](../designs/identity-centered-e-textile-making.md) — autonomy over identity expression, competence through scaffolded technical projects, and relatedness through an affirming peer community
 - [Epistemic Games](../patterns/epistemic-games.md)
 - [Digital Open Badges](../elements/digital-open-badges.md)
 

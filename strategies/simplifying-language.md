@@ -25,7 +25,7 @@ Simplifying language reduces extraneous cognitive load imposed by dense syntax a
 #### Requirements
 - A readability baseline (e.g., sentence length, vocabulary frequency) and a defined target audience
 - Retention of technical terms where they are the learning goal, with definitions on first use
-- Consistent terminology — one concept, one word — across materials ([Clear Structure](../principles/clear-structure-presentation.md))
+- Consistent terminology — one concept, one word — across materials ([Clear Structure](../principles/clear-structure.md))
 - Review by someone who did not write the text, to catch unstated assumptions
 
 #### Constraints

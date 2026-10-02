@@ -26,7 +26,7 @@ Repetition supports learners whose working-memory and processing-speed constrain
 - Identification of the small set of genuinely key points worth repeating — repetition of everything dilutes the signal
 - Varied formats for each repetition: rephrase, visual/verbal pairing, summary, application ([Chunking](../principles/chunking.md), [Advance Organizers](../elements/advance-organizers.md))
 - Adequate time between repetitions for consolidation; pauses and checks for understanding ([Check-Ins](../principles/check-ins.md))
-- Consistent signal that "this is the key point" so learners know what to attend to ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- Consistent signal that "this is the key point" so learners know what to attend to ([Clear Structure & Presentation](../principles/clear-structure.md))
 
 #### Constraints
 - Verbatim repetition without variation produces shallow encoding and disengagement; learners may tune out familiar-sounding content [-M]
@@ -51,7 +51,7 @@ Repetition supports learners whose working-memory and processing-speed constrain
 - Reduced working-memory demand during initial encoding ([Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M])
 
 ### Instructions
-1. Identify 2–4 key points per lesson segment; signal them explicitly ("This is the key idea…") ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+1. Identify 2–4 key points per lesson segment; signal them explicitly ("This is the key idea…") ([Clear Structure & Presentation](../principles/clear-structure.md))
 2. Present each key point, then rephrase it in different words and pair it with a visual ([Chunking](../principles/chunking.md))
 3. Pause and check understanding before moving on ([Check-Ins](../principles/check-ins.md))
 4. Have learners restate or apply the point themselves ([Practice](../elements/practice.md))

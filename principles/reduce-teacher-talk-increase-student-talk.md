@@ -49,7 +49,7 @@ The article reasons that students learn the target language as a communicative t
 
 ## Examples
 
-- [Post-reading group work in small groups where individual efforts are pooled to interpret the text](../patterns/post-reading-group-work-pooled-interpretation.md)
+- [Post-reading group work in small groups where individual efforts are pooled to interpret the text](../designs/post-reading-group-work-pooled-interpretation.md)
 - [Evaluate student contributions through praising, encouraging, quoting students' words, and gestures](../strategies/four-teacher-evaluation-techniques-communicative-class.md)
 - [Use role-play and drama techniques after reading to deepen understanding through lifelike language use](../strategies/role-play-drama-reading-comprehension.md)
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](../strategies/six-teacher-questioning-techniques-reading-discussion.md)
@@ -59,7 +59,7 @@ The article reasons that students learn the target language as a communicative t
 - [Class Discussion Norms](../strategies/class-discussion-norms.md)
 - [Letting students know what order they will be called on](../strategies/letting_students_know_what_order_they_will_be_called_on.md)
 - [Read Alouds With Accountable Talk](../strategies/read-alouds-with-accountable-talk.md)
-- [Debate Format](../patterns/debate-format.md)
+- [Debate Format](../patterns/debate.md)
 - [Establish Talk Partners](../strategies/establish_talk_partners.md)
 
 ## Key Sources

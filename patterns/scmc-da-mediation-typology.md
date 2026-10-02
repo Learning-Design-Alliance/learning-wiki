@@ -41,7 +41,7 @@ Emerging from thematic analysis of the DA sessions, the mediation typology order
 
 ## Related Patterns
 
-- [Reciprocity inventory of learner responsiveness to mediation](learner-reciprocity-inventory.md)
+- [Reciprocity inventory of learner responsiveness to mediation](../methods/learner-reciprocity-inventory.md)
 
 ## Examples
 -

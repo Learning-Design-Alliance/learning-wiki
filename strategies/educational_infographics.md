@@ -25,7 +25,7 @@ Infographics exploit the capacity of the visual channel to carry information in 
 #### Requirements
 - A clear communicative goal: one infographic should answer one question, not catalog everything known about a topic
 - Careful selection of visuals and concise, plain-language text ([Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md))
-- Visual hierarchy that guides the eye through the intended reading order ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- Visual hierarchy that guides the eye through the intended reading order ([Clear Structure & Presentation](../principles/clear-structure.md))
 - Integration into a lesson with accompanying activity — an infographic studied in isolation rarely produces durable learning
 
 #### Constraints
@@ -55,7 +55,7 @@ Infographics exploit the capacity of the visual channel to carry information in 
 ### Instructions
 1. Define the single message or question the infographic must answer; discard everything else.
 2. Draft the core visual (chart, timeline, process diagram) before writing any text.
-3. Add minimal, integrated labels and captions; place text next to the graphic it explains ([Clear Structure & Presentation](../principles/clear-structure-presentation.md)).
+3. Add minimal, integrated labels and captions; place text next to the graphic it explains ([Clear Structure & Presentation](../principles/clear-structure.md)).
 4. Use color and emphasis only to mark relationships and key findings [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M].
 5. Pair the infographic with an activity — prediction, [Self-Explanation](../elements/self-explanation.md), or learner annotation — rather than passive viewing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 6. Optionally, have learners create their own infographic to demonstrate synthesis ([Demonstration](../elements/demonstration.md) in reverse: learners produce the model).

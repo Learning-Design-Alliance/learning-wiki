@@ -48,7 +48,7 @@ The Cone of Experience, introduced by Edgar Dale in 1946 in Audio-Visual Methods
 
 ## Examples
 
-- [Cone of Experience (Concrete-to-Abstract Media Selection)](../principles/cone-of-experience.md)
+- [Cone of Experience (Concrete-to-Abstract Media Selection)](cone-of-experience.md)
 
 ## Key Sources
 - Seels, B. (1997). The Relationship of Media and ISD Theory: The Unrealized Promise of Dale's Cone of Experience. https://eric.ed.gov/?id=ED409869

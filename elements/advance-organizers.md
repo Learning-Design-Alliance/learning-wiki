@@ -66,7 +66,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — by supplying the organizational schema in advance, the organizer offloads structure-building from working memory during instruction, letting learners attend to the content itself
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — visual organizers (maps, diagrams) pair verbal content with spatial-graphic representation, creating two retrieval routes
 - [Activation](../principles/activation.md) — a comparative organizer explicitly surfaces relevant prior knowledge so new material has something to anchor to
-- [Clear Structure](../principles/clear-structure-presentation.md) — an organizer signals the macro-structure of a lesson before details arrive, supporting top-down processing
+- [Clear Structure](../principles/clear-structure.md) — an organizer signals the macro-structure of a lesson before details arrive, supporting top-down processing
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

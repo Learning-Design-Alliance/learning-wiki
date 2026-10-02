@@ -38,7 +38,7 @@ The article recommends that as schools and districts acquire digital multimedia 
 
 ### Claims
 
-- [Sol Multimedia Lesson Sequence Eb](../patterns/sol-multimedia-lesson-sequence-eb.md) [+M]
+- [Sol Multimedia Lesson Sequence Eb](../designs/sol-multimedia-lesson-sequence-eb.md) [+M]
 - [Dual Language Programs Gap Closure Longitudinal](../claims/dual-language-programs-gap-closure-longitudinal.md) [+M]
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W]
 - [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-principle-increased-learning-outcomes.md) [+W]

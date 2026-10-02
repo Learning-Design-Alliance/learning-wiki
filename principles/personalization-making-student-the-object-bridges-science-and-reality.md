@@ -50,7 +50,7 @@ The course's central design move is personalization: rather than studying abstra
 
 ## Examples
 
-- [Weekly dance-first-then-physics cycle with dual experimental and experiential records](../patterns/dance-first-physics-weekly-cycle-dual-record.md)
+- [Weekly dance-first-then-physics cycle with dual experimental and experiential records](../designs/dance-first-physics-weekly-cycle-dual-record.md)
 
 ## Key Sources
 - Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)

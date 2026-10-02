@@ -52,7 +52,7 @@ The authors organize laboratory work so that "cooperative learning is implemente
 ## Examples
 
 - [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
-- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../patterns/full-immersion-lecture-lab-day-structure.md)
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
 
 ## Key Sources
 - Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it

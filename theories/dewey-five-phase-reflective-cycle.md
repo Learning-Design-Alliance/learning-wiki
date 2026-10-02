@@ -51,7 +51,7 @@ The paper describes Dewey's (1933) account of disciplined, problem-centered refl
 
 ## Examples
 
-- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](../patterns/wholetheme-k12-action-research-cycle.md)
+- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](../designs/wholetheme-k12-action-research-cycle.md)
 - [Five-Stage Problem-Solving Model](../strategies/five-stage_problem-solving_model.md)
 
 ## Key Sources

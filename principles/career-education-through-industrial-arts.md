@@ -46,7 +46,7 @@ The guide's governing principle is that career education should be embedded in e
 ## Examples
 
 - [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
-- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](../patterns/exploratory-hands-on-career-exploration-pattern.md)
+- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](../designs/exploratory-hands-on-career-exploration-pattern.md)
 - [Pair each performance objective with a demonstration-based suggested activity and coded resource references](../strategies/objective-activity-resource-alignment-strategy.md)
 - [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
 - [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)

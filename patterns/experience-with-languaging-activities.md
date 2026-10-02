@@ -43,7 +43,7 @@ ELAs are "the most fundamental class of instructional activities spawned from th
 
 ## Related Patterns
 
-- [Ten guiding precepts for school-wide languaging-oriented reading programs](lica-guiding-precepts.md)
+- [Ten guiding precepts for school-wide languaging-oriented reading programs](../theories/lica-guiding-precepts.md)
 
 ## Examples
 

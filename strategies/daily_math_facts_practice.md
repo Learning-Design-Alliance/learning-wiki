@@ -68,7 +68,7 @@ Fact fluency is a well-documented bottleneck: students who must compute basic fa
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — daily fact drills are a standard component of the structured-practice segment
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cgi-for-math.md) — fact fluency supports, but does not replace, CGI's emphasis on strategy-based problem solving
+- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — fact fluency supports, but does not replace, CGI's emphasis on strategy-based problem solving
 
 ## Examples
 - **[XtraMath](https://xtramath.org)** — a free daily 10-minute web routine that quizzes individual students on facts, adapts to their response times, and reports progress to teachers.

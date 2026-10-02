@@ -75,7 +75,6 @@ Structured discussion converts discussion from an unguided activity into a scaff
 
 ## Patterns That Use This Strategy
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — structured discussion is the primary mechanism
-- [Discussion Group](../patterns/discussion-group.md) — small-group format relying on talk routines
 - [Cooperative Learning](../patterns/cooperative-learning.md) — role structures and positive interdependence overlap with discussion roles
 - [Debate](../patterns/debate.md) — a highly formalized structured discussion variant
 

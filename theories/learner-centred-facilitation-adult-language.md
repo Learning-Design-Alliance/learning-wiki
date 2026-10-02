@@ -49,7 +49,7 @@ The guide adopts Carl Rogers' view that "we cannot teach a person anything direc
 
 ## Examples
 
-- [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](../patterns/tutor-led-strategies-adult-language-lessons.md)
+- [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](../designs/tutor-led-strategies-adult-language-lessons.md)
 
 ## Key Sources
 - Arthur, L., & Hurd, S. (Eds.). (1992). The Adult Language Learner: A Guide to Good Teaching Practice. Centre for Information on Language Teaching and Research. https://eric.ed.gov/?id=ED352829

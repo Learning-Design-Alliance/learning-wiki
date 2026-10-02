@@ -2,7 +2,7 @@
 
 How a course gets designed — whole-process models a designer works through, rather than anything a learner meets.
 
-**12 entries** · 0 stable · 7 in review · 5 drafts
+**18 entries** · 0 stable · 7 in review · 11 drafts
 
 ---
 
@@ -18,8 +18,14 @@ How a course gets designed — whole-process models a designer works through, ra
 
 ## Draft
 
+* [Analyze terminal behavior and objectives before manipulating teaching methods in instructional design](behavior-analysis-first-instructional-design.md) - Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one s...
 * [Design-Based Research](design-based-research.md) - A design process run as research. An intervention is designed and revised over repeated cycles in a real learning setting, in collaboration with practitioners, so that each cycle both improves the design and builds or tests theory about learning.
+* [Grading Policy Decisions](grading-policy-decisions.md) - Composing a grade requires teachers to make several separable, often-unexamined decisions — how to weight components, whether to fold in social skills or effort, and whether to grade absolutely or relatively — each with real tradeoffs that a single "best" answer doesn't resolve.
 * [Humanizing Co-Design with Educators](humanizing-co-design-with-educators.md) - A co-design facilitation structure that deliberately makes space for educators' affective and relational experience — through shared contemplative practice, ritualized check-ins, and reflective field-note protocols — treating emotion as a design resource rather than a distraction.
+* [Include both range-finding and pin-pointing phases when applying the body of work method](range-finding-and-pin-pointing-phases-required.md) - The report stresses that the standard application of the body of work method involves two distinct phases: range-finding, where work samples cover the entire range sparsely, and pin-pointing, which uses only samples n...
+* [Increase local responsibility for program compliance through self-review before state validation](local-responsibility-through-compliance-self-review.md) - The guide's central design principle is devolving compliance assurance to the local level: districts perform a compliance self-review that the state agency later validates, with state technical and management assistan...
+* [Iterative, stakeholder-informed instrument development cycle](iterative-stakeholder-instrument-development.md) - This development pattern adapts an intervention-development framework to build a descriptive clinical instrument through repeated cycles of drafting, expert consultation, piloting, feasibility testing, and refinement,...
 * [Ten Steps to Complex Learning](ten-steps-to-complex-learning.md) - The task-centred design process that produces a 4C/ID blueprint — specify the professional tasks first, group them into task classes of equal complexity ordered simple to complex, then derive the supporting theory and part-task practice from the tasks rather than the other way round.
 * [Understanding by Design](understanding-by-design.md) - Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.
+* [Use a systematic instructional design process (ADDIE) with a motivational model to diagnose and address motivational problems](addie-arcs-systematic-motivational-intervention-process.md) - The article argues motivational studies lack systematicity and linkage between theory and practice, and proposes pairing a generic instructional design process with a motivational model: \"The ADDIE process is geared t...
 * [Vendor Production (Alpha–Beta–Gold)](vendor-production.md) - The contract production process used by e-learning studios — macro design, storyboard, then alpha, beta and gold builds, each ending in a client review, with the final sign-off closing the design to further change.

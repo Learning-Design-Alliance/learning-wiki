@@ -47,7 +47,7 @@ The 360 Team Learning Foundation is a curricular platform the authors created to
 
 ## Examples
 
-- [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](../patterns/shared-dialogue-foundation-methods.md)
+- [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](../designs/shared-dialogue-foundation-methods.md)
 - [Collaborative Way teaming model (Fickett and Fickett)](../elements/collaborative-way-teaming-model.md)
 - [DISC and StrengthsFinder 2.0 behavioral self-assessments for team self-understanding](../elements/disc-strengthsfinder-self-assessments.md)
 - [Servant leadership component of the Team Learning Foundation](../elements/servant-leadership-team-foundation-component.md)

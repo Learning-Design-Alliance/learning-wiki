@@ -24,7 +24,7 @@ Visual displays of expectations work because they offload memory: students do no
 ### Context
 #### Requirements
 - A small set of clearly defined policies, procedures, and expectations before visualizing them — a graphic cannot rescue an ambiguous rule
-- Visuals posted at student eye level and referenced during teaching, not just displayed ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- Visuals posted at student eye level and referenced during teaching, not just displayed ([Clear Structure & Presentation](../principles/clear-structure.md))
 - Consistent teacher referencing: pointing to and rehearsing the visual during routines, especially at the start of the year
 - Co-construction with students where feasible, which increases buy-in and comprehension of the display
 

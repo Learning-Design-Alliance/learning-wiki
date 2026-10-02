@@ -48,7 +48,7 @@ The article frames culture as "a progression from monological to dialogical proc
 
 ## Examples
 
-- [Semester-long reflective culture session structure for the EFL classroom](../patterns/reflective-culture-session-structure-pattern.md)
+- [Semester-long reflective culture session structure for the EFL classroom](../designs/reflective-culture-session-structure-pattern.md)
 - [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](../strategies/teacher-cultural-awareness-first-strategy.md)
 
 ## Key Sources

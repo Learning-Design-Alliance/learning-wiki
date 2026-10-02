@@ -49,7 +49,7 @@ The 360 Global Ed Model is an evolving education model for an international serv
 - [Collaborative Way teaming model (Fickett and Fickett)](../elements/collaborative-way-teaming-model.md)
 - [DISC and StrengthsFinder 2.0 behavioral self-assessments for team self-understanding](../elements/disc-strengthsfinder-self-assessments.md)
 - [Servant leadership component of the Team Learning Foundation](../elements/servant-leadership-team-foundation-component.md)
-- [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](../patterns/shared-dialogue-foundation-methods.md)
+- [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](../designs/shared-dialogue-foundation-methods.md)
 
 ## Key Sources
 - Breitkreuz, K. R. & Songer, A. (2022). The Foundation for Interdisciplinary Team Learning in the 360 Degree Global Ed Model. Proceedings of IConSES 2022, ISTES Organization. https://eric.ed.gov/?id=ED631179

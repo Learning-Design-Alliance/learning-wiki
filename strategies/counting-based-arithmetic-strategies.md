@@ -64,7 +64,7 @@ Counting strategies are developmentally valuable but computationally expensive: 
 - Number line estimation activities — ground counting sequences in spatial magnitude
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** — teachers diagnose each child's counting strategy from problem-solving interviews and sequence problems to advance strategy sophistication ([CGI for Math](../patterns/cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI)** — teachers diagnose each child's counting strategy from problem-solving interviews and sequence problems to advance strategy sophistication ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
 - **Number Talks (Parrish, 2010)** — whole-class routines in which students share how they computed (e.g., counting on vs. making tens), making strategy differences visible and norming efficient choices.
 - **Assessment use:** asking children to solve addition problems and observing min-strategy use (latency scaling) is a standard diagnostic for early numeracy screening.
 

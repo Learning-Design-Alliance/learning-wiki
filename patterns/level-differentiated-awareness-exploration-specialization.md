@@ -42,8 +42,8 @@ The guide differentiates the function of industrial arts by school level: elemen
 ## Related Patterns
 
 - [Industrial arts pyramid program across operational levels](industrial-arts-pyramid-program-levels.md)
-- [Recommended scope and sequence with per-cluster course time allocations](recommended-scope-sequence-time-allocations.md)
-- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](exploratory-hands-on-career-exploration-pattern.md)
+- [Recommended scope and sequence with per-cluster course time allocations](../designs/recommended-scope-sequence-time-allocations.md)
+- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](../designs/exploratory-hands-on-career-exploration-pattern.md)
 
 ## Examples
 

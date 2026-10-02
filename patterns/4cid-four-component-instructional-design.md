@@ -81,7 +81,7 @@ Record: **task and class → support given and removed → response and reasonin
 This pattern is scoped to complex skills where whole-task transfer is the objective; it is excessive for single facts or one-step procedures, and its analysis and sequencing cost design time. The evidence above tests components in other configurations, not the pattern as a whole, and the conditional branches remain to be tested with learners.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Examples

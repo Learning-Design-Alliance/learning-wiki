@@ -60,7 +60,6 @@ The model works only when both halves are redesigned: pre-class materials must b
 
 ## Related Strategies
 - See the [Flipped Classroom](../patterns/flipped-classroom.md) pattern — the standard inverted classroom is the canonical implementation of this pattern
-- See [Flipped Learning](../patterns/flipped-learning.md) — the broader pedagogy emphasizing what happens during freed class time, not just the video swap
 
 ## Examples
 - **Bergmann & Sams' chemistry flip (Woodland Park High School, CO)** — the original K-12 implementation; recorded lessons for absent students became the default, with class time devoted to labs and problem solving ([flippedclassroom.org](https://flippedclassroom.org))

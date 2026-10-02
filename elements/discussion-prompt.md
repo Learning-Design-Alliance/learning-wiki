@@ -63,7 +63,6 @@ Discussion prompts convert passive content exposure into active knowledge constr
 
 ## Patterns That Use This Element
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the prompt is the primary structuring device for each session
-- [Discussion Group](../patterns/discussion-group.md) — prompts define the task for small-group conversation
 - [Community of Inquiry](../principles/community-of-inquiry.md) — prompts trigger the cognitive presence that sustains inquiry
 
 ## Examples

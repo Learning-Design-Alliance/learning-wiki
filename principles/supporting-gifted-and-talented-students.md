@@ -47,7 +47,7 @@ Support for gifted and talented students has historically been treated as a spec
 
 ## Related Principles
 
-- [Intelligence Testing: Uses and Limits](intelligence-testing-uses-and-limits.md) — giftedness classification conventionally rests on an IQ threshold, inheriting that measure's caveats
+- [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — giftedness classification conventionally rests on an IQ threshold, inheriting that measure's caveats
 - [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) — sits at the opposite tail of the same IQ distribution, and shares the broader theme that a single test score is an incomplete basis for designing support
 - [Differentiated Teaching](../strategies/differentiated_teaching.md)
 - [Provide a continuum of gifted services and ensure teachers can differentiate instruction](continuum-of-gifted-services.md)

@@ -70,7 +70,7 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage
-- [Clear Structure & Presentation](clear-structure-presentation.md) — accessible wording works best when paired with coherent organization
+- [Clear Structure & Presentation](clear-structure.md) — accessible wording works best when paired with coherent organization
 - [Multimodal Instruction](multimodal-instruction.md) — visuals, audio, and examples can reinforce unfamiliar vocabulary and syntax
 - [Scaffolding and Fading](scaffolding-and-fading.md) — language supports should be deliberately reduced over time
 

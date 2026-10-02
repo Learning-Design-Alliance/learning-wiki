@@ -52,7 +52,7 @@ Newsletters function as advance organizers for the school community: they previe
 - (When student-authored) authentic writing, audience awareness, and information design skills
 
 ### Instructions
-1. Define a fixed section structure (dates, learning highlights, celebrations, action items) and stick to it — predictability is what makes a newsletter scannable ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+1. Define a fixed section structure (dates, learning highlights, celebrations, action items) and stick to it — predictability is what makes a newsletter scannable ([Clear Structure & Presentation](../principles/clear-structure.md))
 2. Lead each issue with the one or two items that matter most; use headings, bolding, and images selectively so emphasis signals importance [Relevance of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]
 3. Chunk content into short, self-contained sections with informative headings rather than long narrative paragraphs [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 4. Include at least one item connecting home to learning — e.g., "ask your child about…" prompts tied to current units

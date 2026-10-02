@@ -26,7 +26,7 @@ Multimodal presentation rests on dual coding: information presented simultaneous
 - Visuals that are *relevant* to the learning goal — diagrams, animations, or images that depict the content structure, not decoration
 - Coordination between channels: narration and images presented simultaneously rather than sequentially ([Contiguity](../principles/cognitive-load-management.md))
 - Management of total load: avoid presenting the same words as on-screen text *and* narration while showing complex visuals [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~S]
-- Clear structure so learners know where to look and in what order ([Clear Structure Presentation](../principles/clear-structure-presentation.md))
+- Clear structure so learners know where to look and in what order ([Clear Structure Presentation](../principles/clear-structure.md))
 
 #### Constraints
 - Redundancy penalty: narrating on-screen text verbatim while showing graphics typically *hurts* learning compared with narration alone [-S] — the visual channel is wasted re-processing words the auditory channel already carries

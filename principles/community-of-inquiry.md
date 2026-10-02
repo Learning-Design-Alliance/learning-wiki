@@ -71,7 +71,7 @@ Community of inquiry is most useful when learning depends on sustained discourse
 
 **[Online Course Design (Community of Inquiry)](../patterns/online-course-design.md)** — Applies this principle at the scale of a full online course, structured around Moore's three types of interaction.
 
-**[Discussion Group](../patterns/discussion-group.md)** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
+**[Discussion Group](../patterns/discussion-based-learning.md)** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
 
 **Online seminar forums with active facilitation** — Learners respond to a shared problem or text, build on peers’ ideas, and receive guidance that keeps the discourse substantive rather than merely social.
 

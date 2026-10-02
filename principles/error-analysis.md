@@ -67,7 +67,7 @@ Error analysis works when mistakes are treated as information rather than only a
 ## Related Principles
 - [Explaining Their Thinking](explaining-their-thinking.md) — self-explanation is the mechanism by which error analysis works.
 - [Worked Examples](worked-examples.md) — can be modified into erroneous examples.
-- [Foster Growth Mindset](foster-growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
+- [Foster Growth Mindset](growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
 
 ## Examples
 - **Erroneous Examples in Math**: Showing a student a hypothetical peer's calculation error and asking them to find and fix it.

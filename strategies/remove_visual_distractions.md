@@ -59,7 +59,7 @@ Attention is selective and capacity-limited; salient but irrelevant visual stimu
 
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — the information-side counterpart: reduce load by structuring content, not just the environment
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — visual simplicity works together with clear sequencing of what is shown
+- [Clear Structure Presentation](../principles/clear-structure.md) — visual simplicity works together with clear sequencing of what is shown
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the auditory parallel of the same extraneous-load argument
 
 ## Examples

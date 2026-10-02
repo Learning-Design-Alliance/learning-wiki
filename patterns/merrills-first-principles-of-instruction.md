@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: merrills-first-principles-of-instruction
+aliases: [merrills-first-principles]
 title: "Merrill's First Principles of Instruction"
 description: "Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration."
 status: review
@@ -38,11 +39,13 @@ Its practical strength is that it balances authenticity with structured support.
 - **Activation of prior knowledge**: Learners need help connecting new instruction to what they already know.
 - **Demonstration and guided application**: Learners should see examples and then apply knowledge with support.
 - **Integration**: Instruction should help learners bring new learning back into their own contexts and practices.
+- **Activation, demonstration, application, and integration**
 #### Constraints
 - **Design effort**: Strong task-centered instruction requires more intentional design than content-first sequencing.
 - **Weak fit for pure fact coverage**: The pattern is most useful when understanding and application matter.
 - **Support needs vary by expertise**: Some learners need more modeling and guidance than others.
 - **Authenticity can be faked**: Poorly designed "real-world tasks" weaken the pattern quickly.
+- **Task-centered design requires more planning than content-first sequencing**
 #### Grain Size
 - Lesson
 - Course
@@ -51,6 +54,7 @@ Its practical strength is that it balances authenticity with structured support.
 - **Applied understanding**: Learners use knowledge in meaningful tasks.
 - **Transfer**: Instruction is designed from the start for later use.
 - **Integrated performance**: Concepts, procedures, and strategy come together around a task.
+- Support applied understanding and transfer.
 
 ### Target Learners
 - **Adult and professional learners**: Strong fit where real-world performance matters.
@@ -62,6 +66,8 @@ Its practical strength is that it balances authenticity with structured support.
 - Task-centered instruction traditions — authentic problems organize learning more effectively than isolated content alone.
 - Constructivist and generative perspectives — activation, demonstration, and application support meaningful learning.
 - Transfer-oriented design — integration improves the chances that learning will be used later.
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
 #### Contradicting / Qualifying
 - Not every lesson needs all five principles equally, and designers still need to adapt to domain and learner expertise.
 - Task-centered instruction may need supplemental explicit teaching for foundational subskills.
@@ -88,6 +94,8 @@ Its practical strength is that it balances authenticity with structured support.
 - [Activation](../elements/activation.md)
 - [Practice](../elements/practice.md)
 - [Reflection](../elements/reflection.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ### Affordances
 - [Problem-based Learning](../principles/problem-based-learning.md)
@@ -120,3 +128,54 @@ Its practical strength is that it balances authenticity with structured support.
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22. [https://doi.org/10.1080/15391523.2007.10782493](https://doi.org/10.1080/15391523.2007.10782493)
+
+<!-- merged 2026-10-02 from patterns/merrills-first-principles ("Merrill's First Principles"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Merrill's First Principles
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration.
+
+## Implications
+
+### Context
+#### Requirements
+- **Meaningful whole tasks**
+- **Activation, demonstration, application, and integration**
+#### Constraints
+- **Task-centered design requires more planning than content-first sequencing**
+#### Grain Size
+- Lesson
+- Course
+
+### Target Goals
+- Support applied understanding and transfer.
+
+### Theory
+#### Supporting
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+
+### Claims
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+
+## Design
+
+### Elements Used
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Reflection](../elements/reflection.md)
+
+## Related Patterns
+
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md)
+- [Problem-centered instruction with task-level engagement and problem progression](problem-centered-task-level-progression-pattern.md)
+
+## Key Sources
+- Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
+-->

@@ -44,7 +44,7 @@ Position pupils as multimedia producers: they appreciate exemplar products, inve
 ## Related Patterns
 
 - [Anchored Instruction](anchored-instruction.md)
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
 
 ## Examples
 

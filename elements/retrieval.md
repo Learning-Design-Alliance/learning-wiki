@@ -48,7 +48,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [Active Learning](../principles/active-learning.md) — retrieval is the purest form of cognitive activity: the learner generates an answer rather than receiving one
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — successful retrieval consolidates knowledge into long-term memory, freeing working memory for higher-order tasks
 - [Assessment for Learning](../principles/assessment-for-learning.md) — low-stakes retrieval quizzes function simultaneously as learning events and as formative assessment data about what needs reteaching
-- [Spacing](../principles/spacing.md) — retrieval opportunities scheduled at intervals enact spacing; the two effects compound, with spaced retrieval producing the largest durable gains
+- [Spacing](../principles/spaced-practice.md) — retrieval opportunities scheduled at intervals enact spacing; the two effects compound, with spaced retrieval producing the largest durable gains
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

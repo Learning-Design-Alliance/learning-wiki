@@ -85,7 +85,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 
 **[Multimedia Learning](../patterns/multimedia-learning.md)** — A reusable design pattern in which text, visuals, and interaction are coordinated intentionally rather than layered arbitrarily.
 
-**[Flipped Learning](../patterns/flipped-learning.md)** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
+**[Flipped Learning](../patterns/flipped-classroom.md)** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
 
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

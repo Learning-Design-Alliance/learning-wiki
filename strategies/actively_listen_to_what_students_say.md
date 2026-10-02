@@ -66,7 +66,7 @@ Active listening converts student talk from performance into formative evidence:
 
 ## Examples
 - **Talk Science / Accountable Talk** (Michaels & O'Connor, [SERP Institute](https://www.serpinstitute.org/talkscience)) — trains teachers in revoicing and probing moves that operationalize listening to student reasoning in math and science discussion.
-- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cgi-for-math.md)) — teachers listen to children's invented strategies for arithmetic problems and build subsequent instruction on the strategies heard.
+- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — teachers listen to children's invented strategies for arithmetic problems and build subsequent instruction on the strategies heard.
 - **Responsive Classroom** ([Center for Responsive Schools](https://www.responsiveschools.org)) — teacher language practices, including paraphrasing and validating student voice, embedded in daily [Check-Ins](../principles/check-ins.md).
 
 ## Key Sources

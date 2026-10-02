@@ -37,7 +37,7 @@ Discussion improves outcomes when it requires learners to generate explanations 
 
 #### Implementation Variability
 - **Whole-class discussion** — facilitator orchestrates; best for synthesizing and modeling reasoning publicly
-- **Small-group or [Discussion Group](../patterns/discussion-group.md) formats** — more airtime per student; requires task structure and reporting back
+- **Small-group or [Discussion Group](../patterns/discussion-based-learning.md) formats** — more airtime per student; requires task structure and reporting back
 - **Structured protocols** — Socratic seminar, [Debate](../patterns/debate.md), gallery walk, jigsaw; useful when norms or participation are weak
 - **Think-pair-share and written pre-discussion** — brief individual generation before talk raises the quality and equity of contributions
 - **Online discussion forums** — asynchronous text extends reflection time but needs explicit prompts and grading rubrics to avoid shallow posting

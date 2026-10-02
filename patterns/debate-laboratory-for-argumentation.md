@@ -45,8 +45,8 @@ This pattern holds that academic debate can serve as a laboratory for studying a
 
 ## Related Patterns
 
-- [Debate Format](debate-format.md)
-- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
+- [Debate Format](debate.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy.md)
 
 ## Examples
 

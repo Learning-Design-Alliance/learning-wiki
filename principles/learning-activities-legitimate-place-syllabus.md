@@ -41,7 +41,7 @@ If Labov's monitor model better represents the facts than Krashen's, the article
 
 ## Related Principles
 
-- [Teach language as living and developing, not as a set of dogmatic precepts](teach-language-as-living-and-developing.md)
+- [Teach language as living and developing, not as a set of dogmatic precepts](../theories/teach-language-as-living-and-developing.md)
 
 ## Examples
 -

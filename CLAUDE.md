@@ -113,9 +113,9 @@ work is done, not that the check is broken.
   learners. It is never a pattern page. Context (mobile, no teacher, 10 minutes a day) is a requirement or
   constraint a pattern's page speaks to, and a design scenario is at most an entry under that pattern's
   `## Examples`. Do not create context- or domain-specific patterns, and do not report "no pattern for
-  this course" as a gap. Some existing `patterns/` pages are designs in this sense (the Duolingo pages,
+  this course" as a gap. Some `patterns/` pages were designs in this sense (the Duolingo pages,
   `kindergarten-balance-scale-equal-sign-lesson-sequence`, `tutor-led-strategies-adult-language-lessons`,
-  `elderly-refugee-programs-beyond-language-learning`, among others). **Designs live in `designs/`**
+  `elderly-refugee-programs-beyond-language-learning`, among others, now in `designs/`). **Designs live in `designs/`**
   (maintainer, 2026-10-02), a kind of their own, with `id:` like the other identified kinds: the
   triaged ones move there from `patterns/`, and Lazuli-generated design descriptions are added there.
   A design page says which patterns it uses and for what (`## Patterns Used`); the evidence stays on
@@ -149,6 +149,11 @@ finds out.
   descriptions go there. Every kind list knows it, and `check_nav_coverage` passes. The triage's design
   pages move in a separate change, by `scripts/move_pages_kind.py`, which repoints their links (a move
   across kinds cannot be carried by an alias).
+- **The triage was applied** (`eval/page-triage/README.md`): a third model settled 270 of the 305 flagged rows;
+  188 pages moved to their kind (115 to `designs/`), and 22 duplicate principles and patterns were folded
+  into 21 pages by `scripts/merge_pages.py`, each fold's slug an alias of its survivor and its body kept in a
+  `<!-- merged -->` block. Not moved, on reading: five general patterns the models called designs, and six
+  pages classed as claims.
 
 ### 2026-10-02 (evening) — batch 12 landed; the PBL pair reworked and re-tested
 

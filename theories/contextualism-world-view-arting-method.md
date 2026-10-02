@@ -47,7 +47,7 @@ The report adopts Pepper's contextualism as its world hypothesis, taking the his
 ## Examples
 
 - [Drawing laboratory with time-lapse photography of drawing evolution](../elements/drawing-lab-time-lapse-photography.md)
-- [Eight constant forms of data collected within the drawing laboratory](../patterns/eight-forms-drawing-lab-data.md)
+- [Eight constant forms of data collected within the drawing laboratory](../methods/eight-forms-drawing-lab-data.md)
 - [Shared history feedback inquiry using stimulated recall of time-lapse replays](../strategies/shared-history-stimulated-recall-inquiry.md)
 
 ## Key Sources

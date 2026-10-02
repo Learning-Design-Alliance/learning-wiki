@@ -24,7 +24,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 ### Context
 #### Requirements
 - A well-chosen exploration task that makes the target concept *likely* to be noticed — the phenomenon must actually contain the structure to be formalized
-- A distinct, explicit explanation phase that names the concept and connects it to the exploration ([Explicit Teaching](../patterns/explicit-teaching.md), [Advance Organizers](../elements/advance-organizers.md))
+- A distinct, explicit explanation phase that names the concept and connects it to the exploration ([Explicit Teaching](../patterns/direct-instruction.md), [Advance Organizers](../elements/advance-organizers.md))
 - An application or transfer phase in a genuinely different context, not a repeat of the exploration
 - Time: cycles typically span multiple sessions; compressing them undermines the exploration phase
 
@@ -54,7 +54,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 ### Instructions
 1. **Engage** — pose a problem, discrepant event, or question that activates relevant prior knowledge and creates a need to know ([Activation](../elements/activation.md), [Cognitive Disequilibrium](../elements/cognitive-conflict.md))
 2. **Explore** — have learners investigate the phenomenon hands-on or through [Case Studies](../elements/case-studies.md), with guiding prompts but not the answer ([Guided Inquiry](../elements/inquiry-learning.md))
-3. **Explain** — introduce the formal concept, vocabulary, or model, explicitly connecting it to what learners observed ([Explicit Teaching](../patterns/explicit-teaching.md), [Advance Organizers](../elements/advance-organizers.md))
+3. **Explain** — introduce the formal concept, vocabulary, or model, explicitly connecting it to what learners observed ([Explicit Teaching](../patterns/direct-instruction.md), [Advance Organizers](../elements/advance-organizers.md))
 4. **Elaborate** — require application of the concept in a new context ([Application of Knowledge](../elements/application-of-knowledge.md), [Practice](../elements/practice.md))
 5. **Evaluate** — assess understanding against the original learning goals ([Assessment for Learning](../principles/assessment-for-learning.md))
 

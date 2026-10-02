@@ -46,7 +46,7 @@ For curriculum planning, the digest recommends that programs "start by establish
 
 ## Examples
 
-- [Word-stress lesson pattern: model correct and incorrect stress, discriminate, clap stress patterns, peer-mark dialogues, present orally with self-monitoring criteria](../patterns/word-stress-five-step-lesson-pattern.md)
+- [Word-stress lesson pattern: model correct and incorrect stress, discriminate, clap stress patterns, peer-mark dialogues, present orally with self-monitoring criteria](../designs/word-stress-five-step-lesson-pattern.md)
 
 ## Key Sources
 - Florez, MaryAnn Cunningham. (1998). Improving Adult ESL Learners' Pronunciation Skills. ERIC Digest. National Clearinghouse for ESL Literacy Education. https://eric.ed.gov/?id=ED427553

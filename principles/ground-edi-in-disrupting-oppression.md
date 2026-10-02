@@ -48,7 +48,7 @@ The article argues that where EDI initiatives exhibit an explicit commitment to 
 
 ## Examples
 
-- [Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning](../patterns/six-guiding-equity-commitments.md)
+- [Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning](../elements/six-guiding-equity-commitments.md)
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](../strategies/anti-oppressive-co-design-practices.md)
 
 ## Key Sources

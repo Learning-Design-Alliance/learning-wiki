@@ -49,7 +49,7 @@ Varied repetition works because it exploits dual coding and elaboration: present
 - Transfer, when varied restatements help learners abstract the deep structure across surface forms
 
 ### Instructions
-1. Identify the 2–4 key points of the lesson and write a one-sentence statement of each ([Clear Structure](../principles/clear-structure-presentation.md)).
+1. Identify the 2–4 key points of the lesson and write a one-sentence statement of each ([Clear Structure](../principles/clear-structure.md)).
 2. Open with a preview of the key points ([Advance Organizers](../elements/advance-organizers.md)).
 3. During instruction, restate each key point at least twice in different forms: a paraphrase, a concrete example, or an analogy ([Analogies](../elements/analogies.md)).
 4. Pair verbal statements with a supporting visual so the idea is dual-coded ([Chunking](../principles/chunking.md)).

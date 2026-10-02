@@ -5,6 +5,7 @@ canonical ones can be converted to the conditional-model format and the rest fol
 or linked from them (CLAUDE.md, 2026-10-02). Writes no page.
 
     python3 scripts/triage_design_pages.py --run a [--model M]   # classify every page
+    python3 scripts/triage_design_pages.py --adjudicate --model M  # third model on flagged rows (run c)
     python3 scripts/triage_design_pages.py --table               # merge runs into the table
 
 Each page is shown with its same-kind BM25 neighbours (title, description, inbound links,
@@ -141,6 +142,52 @@ null. Use "canonical" only for a page that states the idea generally.
 Reply: {{"class": "...", "canonical": "slug or null", "suggested_kind": "kind or null", "reason": "one sentence"}}"""
 
 
+def adjudication_prompt(rec: dict, cands: list, a: dict, b: dict) -> str:
+    """The same question, with both earlier verdicts and their reasons. The adjudicator may
+    take either or neither; its reply has the same shape."""
+    def v(d):
+        return f"{d.get('class')} (canonical: {d.get('canonical') or d.get('canonical_unlisted') or 'none'}, " \
+               f"kind: {d.get('suggested_kind') or 'none'}): {d.get('reason') or ''}"
+    return prompt(rec, cands).replace(
+        "\nReply: ", f"""
+
+Two reviewers disagreed about this page.
+Reviewer 1: {v(a)}
+Reviewer 2: {v(b)}
+Decide for yourself from the page and the rules above; you may agree with either or neither.
+Reply: """, 1)
+
+
+def adjudicate(model: str, workers: int):
+    allp = pages()
+    db = search_index.ensure()
+    runs = {n: {json.loads(l)["key"]: json.loads(l) for l in (RUNS / f"{n}.ndjson").read_text(encoding="utf-8").splitlines() if l.strip()}
+            for n in ("a", "b")}
+    out = RUNS / "c.ndjson"
+    done = set()
+    if out.exists():
+        done = {json.loads(l)["key"] for l in out.read_text(encoding="utf-8").splitlines() if l.strip()}
+    todo = [r for k, r in allp.items() if k not in done and combine(runs["a"].get(k, {}), runs["b"].get(k, {}))[2]]
+    jobs = [(r, neighbours(db, r, allp)) for r in todo]
+    key = os.environ["OPENROUTER_API_KEY"]
+    cost = 0.0
+    print(f"{len(jobs)} flagged rows to adjudicate with {model}")
+    with open(out, "a", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(workers) as ex:
+        futs = {ex.submit(_call, model, adjudication_prompt(r, c, runs["a"].get(r["key"], {}), runs["b"].get(r["key"], {})), key): (r, c)
+                for r, c in jobs}
+        for f in concurrent.futures.as_completed(futs):
+            r, c = futs[f]
+            d, usd = f.result()
+            cost += usd
+            cand = {x["slug"] for x in c}
+            if d.get("canonical") not in cand:
+                d["canonical_unlisted"] = d.get("canonical")
+                d["canonical"] = None
+            fh.write(json.dumps({"key": r["key"], "model": model, "neighbours": sorted(cand), **d}) + "\n")
+            fh.flush()
+    print(f"run c: ${cost:.3f} -> {out}")
+
+
 def _call(model, text, key):
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
@@ -231,6 +278,17 @@ def table():
         row.append(agree if len(names) > 1 else "")
         a, b = runs.get("a", {}).get(key, {}), runs.get("b", {}).get(key, {})
         v, tgt, rev = combine(a, b)
+        c = runs.get("c", {}).get(key)
+        if rev and c and c.get("class"):
+            # a third model settles a flagged row only by siding with one of the two
+            for d in (a, b):
+                if d.get("class") == c["class"] and (c["class"] not in ("duplicate", "variant")
+                                                     or d.get("canonical") == c.get("canonical")):
+                    v, rev = c["class"], False
+                    tgt = c.get("canonical") if v in ("duplicate", "variant") else ""
+                    if v == "misfiled":
+                        a = {**a, "suggested_kind": c.get("suggested_kind") or d.get("suggested_kind")}
+                    break
         row += [v or "", tgt or "", a.get("suggested_kind") or b.get("suggested_kind") or "" if v == "misfiled" else "",
                 "yes" if rev else ""]
         tally[(r["kind"], v, "review" if rev else "settled")] += 1
@@ -248,9 +306,12 @@ def main():
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--table", action="store_true")
+    ap.add_argument("--adjudicate", action="store_true")
     a = ap.parse_args()
     if a.run:
         run(a.run, a.model, a.workers, a.limit)
+    if a.adjudicate:
+        adjudicate(a.model, a.workers)
     if a.table:
         table()
 

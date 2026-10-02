@@ -74,7 +74,6 @@ SRSD is among the best-supported interventions in writing research: meta-analyse
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — SRSD's modeling and fading stages enact its coaching-fading sequence
 - [Direct Instruction](../patterns/direct-instruction.md) — the explicit teaching stages share its model–guide–independent structure
-- [Explicit Teaching](../patterns/explicit-teaching.md) — strategy steps and mnemonics are taught explicitly before independent use
 
 ## Examples
 - **POW+TREE (Graham & Harris)** — elementary students learn Pick my idea, Organize notes, Write and say more, then Topic sentence, Reasons, Examine, Ending — with self-instructions like "I can do this; take my time." Repeatedly validated in randomized studies.

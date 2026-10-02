@@ -61,14 +61,13 @@ Flipped learning is most valuable when synchronous time is scarce and worth pres
 - [Active Learning](active-learning.md) — flipped learning is often a scheduling strategy for creating more active class time
 
 ## Related Patterns
-- [Flipped Learning](../patterns/flipped-learning.md)
-- [Flipped Classroom](../patterns/flipped-classroom.md)
+- [Flipped Learning](../patterns/flipped-classroom.md)
 
 ## Examples
 
 ### Illustrative
 
-**[Flipped Learning](../patterns/flipped-learning.md)** — Learners complete concise pre-class exposure, then spend class time in coached application, discussion, and feedback.
+**[Flipped Learning](../patterns/flipped-classroom.md)** — Learners complete concise pre-class exposure, then spend class time in coached application, discussion, and feedback.
 
 **Short video plus in-class problem solving** — Students watch a brief explanation or walkthrough before class and then use live time to solve problems in pairs while the instructor circulates and coaches.
 

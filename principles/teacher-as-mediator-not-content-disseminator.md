@@ -50,7 +50,7 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 
 ## Examples
 
-- [Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task](../patterns/five-stage-mle-lesson-pattern.md)
+- [Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task](../designs/five-stage-mle-lesson-pattern.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org

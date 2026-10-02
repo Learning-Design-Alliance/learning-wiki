@@ -49,7 +49,7 @@ Funds of knowledge (Moll, Amanti, Neff & Gonzalez, 1992) refers to the historica
 
 ## Examples
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md)
-- [Embodied Physics Inquiry Through Dance Improvisation](../patterns/embodied-physics-inquiry-through-dance.md) — applies the embodied/cultural-practice expansion of funds of knowledge to a physics unit
+- [Embodied Physics Inquiry Through Dance Improvisation](../designs/embodied-physics-inquiry-through-dance.md) — applies the embodied/cultural-practice expansion of funds of knowledge to a physics unit
 
 ## Key Sources
 - Randall, J., Earnest, D., Thota, N., & Mensing, S. (2025). Investigating and assessing informal computational thinking in grades K-2: A funds of knowledge approach. *Journal of the Learning Sciences, 34*(4), 526-570. [https://doi.org/10.1080/10508406.2025.2574311](https://doi.org/10.1080/10508406.2025.2574311)

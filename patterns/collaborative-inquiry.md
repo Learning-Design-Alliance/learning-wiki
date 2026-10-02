@@ -97,8 +97,8 @@ The pattern is most useful when the instructional goal is not just finding infor
 - Inquiry artifacts can be oral, visual, written, or mixed depending on the group and context.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
-- [Discussion Group](discussion-group.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
+- [Discussion Group](discussion-based-learning.md)
 
 ## Examples
 - Learners jointly investigating a community issue and synthesizing evidence into a shared explanation.

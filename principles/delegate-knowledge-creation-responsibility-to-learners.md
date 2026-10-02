@@ -41,7 +41,7 @@ The paper recommends organising learning so that learners, rather than teachers,
 - development of re-usable knowledge artefacts and practices
 
 ### Claims
-- [Trialogical Learning Design Characteristics](../patterns/trialogical-learning-design-characteristics.md) [+M]
+- [Trialogical Learning Design Characteristics](../theories/trialogical-learning-design-characteristics.md) [+M]
 
 ## Related Principles
 - [Trialogical Pedagogical Scenarios](../strategies/trialogical-pedagogical-scenarios.md)

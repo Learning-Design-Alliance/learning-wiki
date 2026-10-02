@@ -26,7 +26,7 @@ Outlining reduces the simultaneous demands of ideation, organization, and transc
 - A genre-appropriate outline template or exemplar (e.g., argument essay, lab report, design doc) so learners know what sections are expected
 - A low-friction tool or surface for drafting and rearranging the outline
 - An instructor or peer checkpoint that reviews the outline *before* drafting begins
-- Explicit instruction in what belongs at each level (section vs. point vs. evidence) — see [Clear Structure Presentation](../principles/clear-structure-presentation.md)
+- Explicit instruction in what belongs at each level (section vs. point vs. evidence) — see [Clear Structure Presentation](../principles/clear-structure.md)
 
 #### Constraints
 - Outlining imposed as mandatory compliance without instruction in *why* produces formulaic, mechanical structures [-M] — learners fill slots without reasoning about the argument

@@ -89,7 +89,7 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 ## Patterns That Use This Strategy
 - [Formative Assessment](../patterns/formative-assessment.md) — checklists are a primary tool for eliciting and documenting evidence of learning during instruction
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — criterion tracking operationalizes mastery decisions and progress visibility
-- [Explicit Teaching](../patterns/explicit-teaching.md) — publishing success criteria in checklist form is a direct enactment of making expectations explicit
+- [Explicit Teaching](../patterns/direct-instruction.md) — publishing success criteria in checklist form is a direct enactment of making expectations explicit
 
 ## Examples
 - **Surgical safety checklists** — the WHO Surgical Safety Checklist, modeled on ICU interventions that dramatically reduced catheter-related infections [Pronovost et al., 2006](https://doi.org/10.1056/NEJMoa061115) [+S]; the canonical demonstration that simple criterion lists prevent omission errors in complex procedures (Gawande, 2009).

@@ -53,7 +53,7 @@ Advance organizers work by activating relevant prior knowledge and giving learne
 ### Instructions
 1. Analyze the target content to identify its superordinate concepts and the prior knowledge learners bring ([Activation](../principles/activation.md))
 2. Draft an organizer at a higher level of abstraction than the content — a model, analogy, or concept map — using [Analogies](../elements/analogies.md) or [Analogies and Prior Knowledge Activation](../elements/analogies-and-prior-knowledge-activation.md) where the domain is unfamiliar
-3. Present the organizer before the material, explicitly signaling how it will map onto what follows ([Clear Structure Presentation](../principles/clear-structure-presentation.md))
+3. Present the organizer before the material, explicitly signaling how it will map onto what follows ([Clear Structure Presentation](../principles/clear-structure.md))
 4. During instruction, refer back to the organizer so learners can subsume details under it ([Chunking](../principles/chunking.md))
 5. Close with a brief synthesis that revisits the organizer, consolidating the hierarchical structure
 

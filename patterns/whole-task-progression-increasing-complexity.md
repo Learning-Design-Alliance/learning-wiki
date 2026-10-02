@@ -44,7 +44,7 @@ The pattern sequences a series of complete worked-example tasks rather than topi
 ## Related Patterns
 
 - [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](tell-show-do-distributed-across-whole-tasks.md)
-- [Reigeluth's Elaboration Theory](reigeluths-elaboration-theory.md)
+- [Reigeluth's Elaboration Theory](elaboration-theory.md)
 
 ## Examples
 

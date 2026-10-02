@@ -44,7 +44,7 @@ Pre-reading activities are tasks completed before reading in order to activate p
 - [Discussion Prompt](discussion-prompt.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](../patterns/flipped-learning.md)
+- [Flipped Learning](../patterns/flipped-classroom.md)
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples

@@ -53,7 +53,7 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 ### Affordances
 - [Scaffolding](../principles/scaffolding.md) — acts as an external cognitive structure that can be gradually faded as internal mental models strengthen.
 - [Worked Examples](../principles/worked-examples.md) — provides the theoretical framework that helps learners decode the steps within a worked example.
-- [Clear Structure and Presentation](../principles/clear-structure-presentation.md) — organizes complex domain knowledge into hierarchical schemas that facilitate long-term retention.
+- [Clear Structure and Presentation](../principles/clear-structure.md) — organizes complex domain knowledge into hierarchical schemas that facilitate long-term retention.
 - [Explicit Instruction of Strategies](../principles/explicit-instruction-math-strategies.md) — makes tacit expert heuristics and reasoning paths visible for novice imitation.
 
 ### Claims

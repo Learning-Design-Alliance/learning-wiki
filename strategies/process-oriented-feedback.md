@@ -50,7 +50,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - Growth mindset and persistence: attributing outcomes to controllable causes
 
 ### Instructions
-1. Establish success criteria and exemplars before the task so feedback has a shared reference point ([Advance Organizers](../elements/advance-organizers.md), [Clear Structure](../principles/clear-structure-presentation.md))
+1. Establish success criteria and exemplars before the task so feedback has a shared reference point ([Advance Organizers](../elements/advance-organizers.md), [Clear Structure](../principles/clear-structure.md))
 2. Collect evidence of process — drafts, error logs, or brief [Check-Ins](../elements/check-in.md) — not just the final product
 3. Deliver feedback that names the specific strategy or step, explains its effect, and offers a concrete alternative or next cue
 4. Require an action: revision, retry, or application to a parallel task ([Practice](../elements/practice.md), [Coaching](../elements/coaching.md))

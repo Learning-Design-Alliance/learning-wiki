@@ -58,7 +58,7 @@ The paper presents activity theory, originating with Leont'ev and extended by Co
 
 - [Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign](../principles/analyze-computer-use-as-activity-system.md)
 - [Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants](../strategies/activity-system-analysis-as-csl-reflection-tool.md)
-- [Computer roles as division of labor: expert, partner, and servant, each with goals, concerns, and contradictions](../patterns/computer-roles-expert-partner-servant.md)
+- [Computer roles as division of labor: expert, partner, and servant, each with goals, concerns, and contradictions](computer-roles-expert-partner-servant.md)
 
 ## Key Sources
 - Gilbert, L. S. (1999). Where Is My Brain? Distributed Cognition, Activity Theory, and Cognitive Tools. Proceedings of the AECT National Convention. https://eric.ed.gov/?id=ED436153

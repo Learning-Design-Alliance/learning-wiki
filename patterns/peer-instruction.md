@@ -86,7 +86,7 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)
-- [Discussion Group](discussion-group.md)
+- [Discussion Group](discussion-based-learning.md)
 
 ## Examples
 - Physics learners debating force or motion concept questions before repolling.

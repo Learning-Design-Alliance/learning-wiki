@@ -24,7 +24,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 ### Context
 #### Requirements
 - A scenario, process, or concept with an enactable structure (roles, sequences, spatial or causal relations)
-- Clear role assignments or movement rules so the performance maps onto the content ([Clear Structure](../principles/clear-structure-presentation.md))
+- Clear role assignments or movement rules so the performance maps onto the content ([Clear Structure](../principles/clear-structure.md))
 - A debrief that connects the enacted experience back to the target concepts and vocabulary
 - Psychological safety — learners must be willing to perform in front of peers
 

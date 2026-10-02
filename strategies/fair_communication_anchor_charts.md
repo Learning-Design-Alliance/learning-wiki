@@ -24,7 +24,7 @@ Anchor charts work by converting tacit behavioral expectations into explicit, re
 ### Context
 #### Requirements
 - A short set of positively framed, behaviorally specific protocols (e.g., "Build on others' ideas," not "Don't be rude")
-- Explicit teaching and modeling of each protocol before it is relied upon ([Explicit Teaching](../patterns/explicit-teaching.md))
+- Explicit teaching and modeling of each protocol before it is relied upon ([Explicit Teaching](../patterns/direct-instruction.md))
 - In-the-moment referencing during [Class Discussion](../elements/class-discussion.md) and group work, not one-time posting
 - Student involvement in drafting or revising the protocols to build ownership
 
@@ -53,7 +53,7 @@ Anchor charts work by converting tacit behavioral expectations into explicit, re
 ### Instructions
 1. Identify the 3–6 communication behaviors that matter most for the upcoming activity; keep the list short to respect working-memory limits [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 2. Draft the protocols with students, eliciting examples of what each looks and sounds like
-3. Model each protocol explicitly, including non-examples ([Explicit Teaching](../patterns/explicit-teaching.md))
+3. Model each protocol explicitly, including non-examples ([Explicit Teaching](../patterns/direct-instruction.md))
 4. Create the chart with students and post it at eye level where talk happens
 5. Reference the chart during [Class Discussion](../elements/class-discussion.md) and [Check-In](../elements/check-in.md) routines; name students' use of specific protocols as they occur
 6. Revisit and revise the chart periodically, adding protocols as new challenges emerge

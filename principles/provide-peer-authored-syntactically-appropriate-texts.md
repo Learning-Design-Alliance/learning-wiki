@@ -49,7 +49,7 @@ The review argues that texts accounting for readers' cognitive and linguistic ex
 
 ## Examples
 
-- [Student-Authored Texts for Conceptual Change](../patterns/student-authored-texts-for-conceptual-change.md)
+- [Student-Authored Texts for Conceptual Change](../designs/student-authored-texts-for-conceptual-change.md)
 
 ## Key Sources
 - Fenton, Rebecca. (1998). Semantics and Syntax: Context Clues in Reading for Young Children. https://eric.ed.gov/?id=ED424564

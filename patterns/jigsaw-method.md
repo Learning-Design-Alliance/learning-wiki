@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: jigsaw-method
+aliases: [jigsaw, jigsaw-learning]
 title: Jigsaw Method
 description: The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture.
 status: review
@@ -14,7 +15,7 @@ grain_size: lesson
 # Jigsaw Method
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 12 report an effect size
+> **Evidence** · 5 claims (1 for, 4 mixed) · 14 studies (4 quant-synthesis, 4 review, 3 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size
 
 ## Description
 The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture. The pattern is designed to create positive interdependence: no learner can complete the full task alone without contributions from others.
@@ -31,11 +32,14 @@ Two documented variants differ in when specialization happens. In the original v
 - **Expert preparation time**: Learners need time and support to understand their assigned piece well enough to teach it.
 - **Interdependence by design**: The final task should require contributions from all parts.
 - **Synthesis and correction**: The instructor needs to consolidate and address misconceptions after peer teaching.
+- **Distributed expertise across group members**
+- **Interdependence so each role matters**
 #### Constraints
 - **Weak expert preparation weakens the whole pattern**: If learners do not become real experts, peer teaching is shallow.
 - **Participation imbalance**: Some learners may carry more than others unless accountability is explicit.
 - **Fragmentation risk**: Learners may miss the whole unless the final synthesis is strong.
 - **Not ideal when content cannot be partitioned cleanly**: Some tasks resist meaningful jigsaw structure.
+- **Learners need support to explain accurately to one another**
 #### Grain Size
 - Lesson
 - Unit
@@ -44,6 +48,7 @@ Two documented variants differ in when specialization happens. In the original v
 - **Distributed expertise**: Learners develop and share responsibility for different content segments.
 - **Peer teaching**: Teaching becomes part of learning.
 - **Knowledge synthesis**: Learners reassemble parts into a coherent whole.
+- Build peer learning, accountability, and distributed expertise.
 
 ### Target Learners
 - **Learners in collaborative classrooms**: Strong fit where peer learning is a central norm.
@@ -60,6 +65,7 @@ Two documented variants differ in when specialization happens. In the original v
 - A jigsaw is only as strong as its synthesis and accountability mechanisms.
 
 ### Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
 #### Supporting
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
@@ -81,6 +87,7 @@ Two documented variants differ in when specialization happens. In the original v
 - [Peer Collaboration](../elements/peer-collaboration.md)
 - [Peer Discussion](../elements/peer-discussion.md)
 - [Assessment](../elements/assessment.md)
+- [Group Work](../elements/group-work.md)
 
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
@@ -95,7 +102,7 @@ Two documented variants differ in when specialization happens. In the original v
 
 ## Related Patterns
 - [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md)
-- [Discussion Group](discussion-group.md)
+- [Discussion Group](discussion-based-learning.md)
 - [Student-Teams Achievement Divisions (STAD)](../strategies/student-teams-achievement-divisions.md) — another small-team cooperative structure, organized around shared whole-class content and individual testing rather than subtopic specialization
 
 ## Examples
@@ -113,3 +120,65 @@ Two documented variants differ in when specialization happens. In the original v
 - Slavin, R. E. (1994). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
 - Hattie, J. (2009). *Visible learning*. Routledge.
 - Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
+
+<!-- merged 2026-10-02 from patterns/jigsaw ("Jigsaw"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Jigsaw
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
+
+## Description
+Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.
+
+## Design
+
+### Elements Used
+- [Group Work](../elements/group-work.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+
+## Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
+
+## Related Patterns
+- [Jigsaw Method](jigsaw-method.md)
+- [Jigsaw Learning](jigsaw-method.md)
+
+## Key Sources
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
+-->
+
+<!-- merged 2026-10-02 from patterns/jigsaw-learning ("Jigsaw Learning"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Jigsaw Learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
+
+## Description
+Jigsaw Learning is the short-form canonical target for the jigsaw pattern in which learners develop expertise on one part of the material and then teach it to peers so the group can assemble a fuller understanding.
+
+## Implications
+
+### Context
+#### Requirements
+- **Distributed expertise across group members**
+- **Interdependence so each role matters**
+#### Constraints
+- **Learners need support to explain accurately to one another**
+
+### Target Goals
+- Build peer learning, accountability, and distributed expertise.
+
+### Related Patterns
+- [Jigsaw Method](jigsaw-method.md)
+
+## Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
+
+## Key Sources
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
+-->

@@ -53,7 +53,7 @@ Structured activities convert reading from passive reception into generative pro
 - Retention of factual and procedural information over time, especially when activities are [spaced](../claims/spaced-repetition-improves-retention.md) [+S]
 
 ### Instructions
-1. Select or write the text, chunked into coherent sections with clear headings ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+1. Select or write the text, chunked into coherent sections with clear headings ([Clear Structure & Presentation](../principles/clear-structure.md))
 2. Add an advance organizer or guiding question framing what learners should extract ([Advance Organizers](../elements/advance-organizers.md))
 3. Design a structured activity requiring generative processing — application, prediction, or self-explanation — not information location ([Practice](../elements/practice.md), [Application](../elements/application.md))
 4. Embed the activity at the point of use: after each section for long texts, or after the whole text for short ones

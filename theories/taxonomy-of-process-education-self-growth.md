@@ -47,7 +47,7 @@ The Taxonomy of Process Education (TPE) is a four-level measurement metric deriv
 
 ## Examples
 
-- [Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research](../principles/use-amova-for-researcher-designed-instrument-validation.md)
+- [Use AMOVA to add validity and reliability assessment value for researcher-designed instruments, with further substantiating research](../methods/use-amova-for-researcher-designed-instrument-validation.md)
 
 ## Key Sources
 - Osler, J. E. (2015). AMOVA ["Accumulative Manifold Validation Analysis"]: An advanced statistical methodology designed to measure and test the validity, reliability, and overall efficacy of inquiry-based psychometric instruments. i-manager's Journal of Educational Technology, 12(3). https://eric.ed.gov/?id=EJ1098595

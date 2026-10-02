@@ -61,7 +61,7 @@ Manipulatives work by grounding abstract symbols in perceptual, enactive experie
 - [Use Worked Examples](../strategies/use_worked_examples.md) — demonstrations can be enacted on manipulatives before learners act independently
 
 ## Examples
-- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cgi-for-math.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.
+- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — virtual manipulatives (e.g., fraction matcher, balancing chemical equations) with immediate, linked feedback between object state and symbolic representation.
 - **Montessori materials** (golden beads, stamp game) — a fully developed system in which each material's structure encodes the concept and a fixed sequence fades from material to abstraction.
 

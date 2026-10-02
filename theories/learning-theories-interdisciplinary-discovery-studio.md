@@ -47,7 +47,7 @@ The article grounds its interdisciplinary course schedule in multiple learning t
 
 ## Examples
 
-- [14-week interdisciplinary studio schedule progressing from 2D to 3D](../patterns/brt-interdisciplinary-studio-schedule-2d-to-3d.md)
+- [14-week interdisciplinary studio schedule progressing from 2D to 3D](../designs/brt-interdisciplinary-studio-schedule-2d-to-3d.md)
 
 ## Key Sources
 - Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965

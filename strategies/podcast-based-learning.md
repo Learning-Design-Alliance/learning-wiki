@@ -23,7 +23,7 @@ Audio-only delivery imposes distinct cognitive demands: without visual support, 
 
 ### Context
 #### Requirements
-- Structured episodes with explicit signposting (preview, segment markers, summary) so learners can navigate audio they cannot skim ([Clear Structure](../principles/clear-structure-presentation.md))
+- Structured episodes with explicit signposting (preview, segment markers, summary) so learners can navigate audio they cannot skim ([Clear Structure](../principles/clear-structure.md))
 - An accompanying task — listening guide, annotation prompt, discussion question — that makes listening active rather than passive ([Active Learning](../principles/active-learning.md))
 - For production assignments: a rubric, an audience specification, and rehearsal/revision cycles
 - Reasonable episode length (roughly 5–20 minutes for instructional content) with [Chunking](../principles/chunking.md) into segments

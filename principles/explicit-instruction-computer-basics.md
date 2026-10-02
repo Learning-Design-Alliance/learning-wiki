@@ -81,7 +81,7 @@ Explicit instruction in computer basics is often necessary because many foundati
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — support should be withdrawn gradually as learners begin to navigate devices independently
 
 ## Related Principles
-- [Clear Structure & Presentation](clear-structure-presentation.md) — digital-skills instruction benefits from visible step structure and stable conventions
+- [Clear Structure & Presentation](clear-structure.md) — digital-skills instruction benefits from visible step structure and stable conventions
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — interface language and technology jargon often need explicit unpacking
 - [Explicit Instruction: Internet Search](explicit-instruction-internet-search.md) — search instruction depends on a foundation of basic device and browser competence
 - [Scaffolding and Fading](scaffolding-and-fading.md) — support should narrow as competence develops

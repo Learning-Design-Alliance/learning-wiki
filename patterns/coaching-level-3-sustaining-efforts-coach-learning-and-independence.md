@@ -46,7 +46,7 @@ At the third level, mentoring turns inward: coaches attend district, regional, a
 
 ## Related Patterns
 
-- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
+- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
 - [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](coaching-level-2-necessary-supports-implementation-and-dialogue.md)
 - [Professional Development](professional-development.md)
 

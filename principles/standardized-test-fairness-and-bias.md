@@ -53,7 +53,7 @@ Whether standardized tests are biased against particular social class, racial, o
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here
 - [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — stereotype threat's dependence on high-stakes framing connects directly to this principle's broader account of high-stakes testing's side effects
-- [Intelligence Testing: Uses and Limits](intelligence-testing-uses-and-limits.md) — a parallel treatment of cultural bias specifically in cognitive-ability/IQ testing
+- [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — a parallel treatment of cultural bias specifically in cognitive-ability/IQ testing
 
 ## Examples
 

@@ -63,7 +63,41 @@ the page; the verdicts are model judgements and have not been read by a person.
   claim 10, element 7. A move across kinds changes a page's id namespace, which an alias cannot
   carry, so the few with inbound links need their links repointed.
 
-## Decisions needed before anything moves
+## Adjudication and what was applied (2026-10-02)
+
+**A third model settled the flagged rows.** `--adjudicate` showed run **c** (Kimi K3, $3.56) each of the 305
+flagged pages with both earlier verdicts and their reasons. A row is settled when c sides with one of them
+(class, and for duplicate or variant the same target); 270 were, and 35 stay flagged. Most of those 35 are
+variants all three runs agree on, with different parent pages named; nothing about them moves.
+
+The maintainer decided all three open questions: designs get a kind of their own (`designs/`, #153),
+duplicates are merged with an alias, and misfiled pages move to their kind. Applied from the settled rows:
+
+- **188 pages moved** (`moves.tsv`, by `scripts/move_pages_kind.py`): 115 to `designs/`, 26 to `theories/`, 20
+  to `methods/`, 16 to `strategies/`, 6 to `elements/`, 5 to `processes/`. Every inbound link, revision card
+  and log line was repointed; ids follow the slug. The historical records `sources/manifest.ndjson` and
+  `eval/corpus/processed_articles.json` keep the old paths, as they should.
+- **Not moved, on reading**:
+  - five "designs" that are general patterns: `interdisciplinary-course-based-research-experience` and
+    `storyline-science-curriculum-design` (CLAUDE.md already called these patterns), `maastricht-seven-step-pbl-tutorial-cycle`,
+    `literature-circles-rotating-collaborative-roles` and `pre-visit-onsite-post-visit-field-trip-arc`;
+  - six pages classed as claims, which need evidence entries a principle page does not have, and most of
+    which are not propositions;
+  - `patterns/cognitive-load-theory`, whose target `theories/cognitive-load-theory` exists, so it needs a merge,
+    not a move.
+- **22 duplicates folded into 21 pages** (`merges-principles.tsv`, `merges-patterns.tsv`, by
+  `scripts/merge_pages.py`). The survivor is the converted page, otherwise the one with more inbound links and
+  content. Each fold's bullets that its survivor lacked were added to the survivor's sections of the same name;
+  a short bullet the fold's version extends was replaced by it; claim links on a converted survivor go under
+  Further evidence, labelled and capped. Its `sources:` entries were added too. Its whole body is kept in a
+  `<!-- merged -->` block, and its slug became an alias. Checked by parse: no source entry lost, no
+  frontmatter key changed but `aliases` and `sources`.
+- **Duplicate pairs not merged, on reading**: perspective-taking against multiple perspectives (social
+  cognition against an epistemic stance), inquiry-based against research-based learning, the two
+  game-based mastery / Duolingo pages and the two industrial-arts programme pages (designs, not duplicates
+  of a pattern), and the CLT scaffolding approach against `patterns/cognitive-load-theory`.
+
+## Decisions that were needed before anything moved
 
 1. Where designs live (121 patterns, plus 18 misfiled as designs): a new `designs/` kind (needs the
    spec repo to follow), patterns marked as designs, or entries under their patterns' Examples.

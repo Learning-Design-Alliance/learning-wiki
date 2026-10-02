@@ -25,7 +25,7 @@ Multimedia learning research shows that well-designed combinations of words and 
 #### Requirements
 - Media selected for explanatory fit: dynamic media for dynamic content, static diagrams when learners need to control inspection pace
 - Coordination across formats — narration and graphics presented simultaneously and spatially integrated, not split across screens or sequential blocks
-- Alignment with [Clear Structure](../principles/clear-structure-presentation.md): each medium has a defined role in the explanation, with signaling (cues, highlighting) directing attention to the relevant content
+- Alignment with [Clear Structure](../principles/clear-structure.md): each medium has a defined role in the explanation, with signaling (cues, highlighting) directing attention to the relevant content
 - A follow-on activity where learners apply or generate with the concept ([Practice](../elements/practice.md))
 
 #### Constraints

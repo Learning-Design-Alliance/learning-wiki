@@ -46,7 +46,7 @@ The analysis of Why-Action explanation questions rests on a generic structure at
 
 ## Examples
 
-- [Explanation questions divide into cause-seeking, effect-seeking, and causal-elaboration types with distinct answer structures](../patterns/explanation-question-subtypes-answer-structures.md)
+- [Explanation questions divide into cause-seeking, effect-seeking, and causal-elaboration types with distinct answer structures](explanation-question-subtypes-answer-structures.md)
 - [Make frame slot content and relationships explicit in historical explanations, especially for younger readers](../principles/make-frame-slots-explicit-history-explanations.md)
 
 ## Key Sources

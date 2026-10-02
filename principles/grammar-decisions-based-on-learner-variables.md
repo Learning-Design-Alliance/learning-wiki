@@ -42,7 +42,7 @@ The bibliography reports, citing Celce-Murcia (1985), that whether to teach gram
 
 ## Related Principles
 
-- [Teach language as living and developing, not as a set of dogmatic precepts](teach-language-as-living-and-developing.md)
+- [Teach language as living and developing, not as a set of dogmatic precepts](../theories/teach-language-as-living-and-developing.md)
 
 ## Examples
 -

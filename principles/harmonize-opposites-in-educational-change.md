@@ -44,7 +44,7 @@ Applying Newton's third law as a metaphor, the essay argues every educational ch
 
 ## Related Principles
 
-- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](materials-reflect-principles-of-learning.md)
+- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../designs/materials-reflect-principles-of-learning.md)
 
 ## Examples
 -

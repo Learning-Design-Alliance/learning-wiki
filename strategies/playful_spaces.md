@@ -33,7 +33,7 @@ Playful spaces work because they lower the social and cognitive cost of experime
 - Play without debriefing or reflection rarely produces transferable learning — learners may enjoy the activity without extracting the structure [-M]
 - Extrinsic rewards layered onto playful activity can undermine the intrinsic motivation the space was designed to build [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [-S]
 - Learners with low prior knowledge may flounder in highly open spaces; some [Advance Organizers](../elements/advance-organizers.md) or goal framing is needed to direct exploration [~M]
-- Time-intensive relative to direct instruction for well-defined procedural content, where [Explicit Teaching](../patterns/explicit-teaching.md) is more efficient [-M]
+- Time-intensive relative to direct instruction for well-defined procedural content, where [Explicit Teaching](../patterns/direct-instruction.md) is more efficient [-M]
 
 #### Implementation Variability
 - **Physical spaces**: makerspaces, block and manipulative areas, science discovery zones

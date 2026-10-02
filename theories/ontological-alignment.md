@@ -40,7 +40,7 @@ Computational modeling tools such as agent-based modeling (ABM) environments str
 - (none yet linked)
 
 ## Examples
-- [Three Practices for Ontological Alignment in Computational Modeling](../patterns/three-practices-for-ontological-alignment-in-computational-modeling.md) — the classroom practices this theory was developed to characterize
+- [Three Practices for Ontological Alignment in Computational Modeling](../designs/three-practices-for-ontological-alignment-in-computational-modeling.md) — the classroom practices this theory was developed to characterize
 
 ## Key Sources
 - Wagh, A., Rosenbaum, L. F., Fuhrmann, T., Eloy, A., Blikstein, P., & Wilkerson, M. (2025). Toward Ontological Alignment: Coordinating Student Ideas with the Representational System of a Computational Modeling Unit for Science Learning. *Cognition and Instruction, 43*(1-2), 1-32. [https://doi.org/10.1080/07370008.2024.2427400](https://doi.org/10.1080/07370008.2024.2427400)

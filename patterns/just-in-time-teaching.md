@@ -64,7 +64,7 @@ Marrs and Novak (2004) identify three theoretical elements JiTT combines: (1) it
 - Because each class session's plan is adapted to that specific cohort's actual submitted responses, the pattern personalizes at the level of the whole class's current understanding rather than requiring individual-student customization
 
 ## Related Patterns
-- [Flipped Learning](flipped-learning.md) — shares the move of relocating initial content exposure outside class, but JiTT adds the explicit instructor feedback loop that adapts the specific day's activities
+- [Flipped Learning](flipped-classroom.md) — shares the move of relocating initial content exposure outside class, but JiTT adds the explicit instructor feedback loop that adapts the specific day's activities
 - [Team-Based Learning](team-based-learning.md) — a related model that also begins each unit with an out-of-class preparation phase followed by an in-class readiness check
 
 ## Examples

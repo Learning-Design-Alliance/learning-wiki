@@ -51,7 +51,7 @@ TEFA-T integrates the teaching factory (TEFA) learning model with systematic tro
 
 ## Examples
 
-- [Nine-step production-cycle lesson pattern from problem identification to assessment](../patterns/tefa-t-nine-step-troubleshooting-syntax-pattern.md)
+- [Nine-step production-cycle lesson pattern from problem identification to assessment](../designs/tefa-t-nine-step-troubleshooting-syntax-pattern.md)
 
 ## Key Sources
 - Maksum, H., Yuvenda, D. & Purwanto, W. (2022). Improvement of metacognitive and critical thinking skills through development of the a 'Teaching Factory Based on Troubleshooting' (TEFA-T) Model in automotive vocational learning. Journal of Turkish Science Education, 19(3), 1015-1036. https://doi.org/10.36681/tused.2022.161

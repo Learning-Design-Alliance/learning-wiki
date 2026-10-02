@@ -44,7 +44,7 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Epistemic Games](epistemic-games.md) — both analyze the moment-to-moment moves interdisciplinary teams use to build shared understanding, at different grains: knowledge practices trace how a project-length artifact evolves, while epistemic games trace short, game-like interaction sequences
 
 ## Examples
-- [Organization Simulation for Interdisciplinary Learning](../patterns/organization-simulation-for-interdisciplinary-learning.md) — the pattern this framework was developed to analyze, tracing how student teams built a client offer across six weeks
+- [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — the pattern this framework was developed to analyze, tracing how student teams built a client offer across six weeks
 
 ## Key Sources
 - Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. *Journal of the Learning Sciences, 33*(2), 365-404. [https://doi.org/10.1080/10508406.2024.2344794](https://doi.org/10.1080/10508406.2024.2344794)

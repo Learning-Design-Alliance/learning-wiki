@@ -73,7 +73,7 @@ Problem posing sits at the deep end of mathematical understanding: to write a so
 - [Peer Instruction](peer-instruction.md) — a structure for using learner-authored problems in class
 
 ## Examples
-- **Cognitively Guided Instruction classrooms** ([CGI for Math](../patterns/cgi-for-math.md)) use children's own story problems as a window into their thinking and as material for class discussion.
+- **Cognitively Guided Instruction classrooms** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) use children's own story problems as a window into their thinking and as material for class discussion.
 - **NCTM problem-posing tasks** — the National Council of Teachers of Mathematics explicitly includes "pose problems" in its *Principles and Standards*; teachers ask students to generate questions from a given data set or image ([NCTM](https://www.nctm.org)).
 - A homework cycle in which each student submits one problem, the teacher curates a set, and the next day's quiz is drawn entirely from student-authored problems — raising both effort and audience awareness ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)).
 

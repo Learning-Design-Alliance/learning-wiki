@@ -52,7 +52,7 @@ Comparison is what drives the abstraction: a single case tends to be encoded in 
 
 ### Instructions
 1. Select two cases with the same deep structure and maximally different surface stories.
-2. Present them side by side, aligned so parallel elements are visually or textually matched ([Clear Structure Presentation](../principles/clear-structure-presentation.md)).
+2. Present them side by side, aligned so parallel elements are visually or textually matched ([Clear Structure Presentation](../principles/clear-structure.md)).
 3. Prompt explicit comparison: "What do these two situations have in common? What is the same decision in each?"
 4. State and label the shared schema explicitly; do not leave abstraction to chance ([Advance Organizers](../elements/advance-organizers.md)).
 5. Follow with a transfer problem that shares the structure but not the surface ([Application of Knowledge](../elements/application-of-knowledge.md)), so learners must retrieve the schema from memory.

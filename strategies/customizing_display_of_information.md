@@ -36,7 +36,7 @@ Reading is a visual task constrained by working memory; poorly formatted display
 #### Implementation Variability
 - Reader modes (Safari Reader, Immersive Reader) apply curated defaults; full control (e-readers, browser extensions) lets users tune each parameter
 - Can be learner-initiated (teaching students to adjust their own settings) or instructor-initiated (publishing accessible, reflowable course materials)
-- Pairs with content-side simplification: [Chunking](../principles/chunking.md) and [Clear Structure](../principles/clear-structure-presentation.md) address the same extraneous-load problem at the content level
+- Pairs with content-side simplification: [Chunking](../principles/chunking.md) and [Clear Structure](../principles/clear-structure.md) address the same extraneous-load problem at the content level
 
 ### Target Learners
 - Readers with dyslexia, low vision, or visual processing difficulties, who benefit most from adjustable font, spacing, and contrast [~M]

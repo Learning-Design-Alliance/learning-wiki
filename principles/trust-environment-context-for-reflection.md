@@ -47,7 +47,7 @@ Boud and Walker (1998) identified weaknesses in how schools of education applied
 
 ## Related Principles
 
-- [Reflective Practice](reflective-practice.md)
+- [Reflective Practice](reflection.md)
 - [Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions](ongoing-study-teams-peer-coaching-in-service.md)
 
 ## Examples

@@ -46,7 +46,7 @@ LICA is proposed as "a working title for a potentially unifying thesis" for post
 
 ## Examples
 
-- [Ten guiding precepts for school-wide languaging-oriented reading programs](../patterns/lica-guiding-precepts.md)
+- [Ten guiding precepts for school-wide languaging-oriented reading programs](lica-guiding-precepts.md)
 - [Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions](../patterns/experience-with-languaging-activities.md)
 - [Imbedded Aids: textbook redesign placing teacher-like assistance in the text](../elements/imbedded-aids-textbooks.md)
 - [Embed units of assistance and enrichment into the fabric of textual material so they are unobtrusive yet available for reader use](../strategies/embedded-aids-to-readers.md)

@@ -46,7 +46,7 @@ CEL/CBL courses can surface learning needs that were not anticipated in the desi
 
 ## Examples
 
-- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../patterns/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
 
 ## Key Sources
 - Addison, J., Mangnus, E., Cunanan, D. J., Downward, G. S., de Jong, L., van de Kamp, J., Llamas, C. A., Guinto, R. R., & Browne, J. L. (2025). Advancing Societally Engaged and International Planetary Health Education: Innovations, Lessons, and Recommendations for Educators. Journal of Higher Education Outreach and Engagement, 29(2). https://openjournals.uga.edu/jheoe

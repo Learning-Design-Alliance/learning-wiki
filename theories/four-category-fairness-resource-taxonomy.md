@@ -44,7 +44,7 @@ The guide organizes bias-free education resources into a four-part taxonomy. As 
 
 ## Examples
 
-- [Three-set coding scheme (group, grade level, subject area) with column-aligned codes and group indexes](../patterns/group-grade-subject-coding-scheme.md)
+- [Three-set coding scheme (group, grade level, subject area) with column-aligned codes and group indexes](../methods/group-grade-subject-coding-scheme.md)
 - [Combine resources across guide sections for the most fruitful results](../strategies/cross-section-resource-combination-strategy.md)
 
 ## Key Sources

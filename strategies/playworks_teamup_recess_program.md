@@ -26,7 +26,6 @@ TeamUp applies the logic of [Direct Instruction](../patterns/direct-instruction.
 - Trained adults (teachers, paraprofessionals, or parent volunteers) who are present and leading, not merely supervising
 - A small repertoire of well-taught games with explicit rules, so disputes have an agreed reference point ([Clear Structure](../principles/clear-structure.md))
 - A conflict-resolution routine (e.g., rock-paper-scissors as the Playworks "junior referee" mechanism) that students learn once and apply independently
-- Equipment and a game plan prepared in advance — recess treated like a [lesson plan](../principles/clear-structure-presentation.md), not a break in instruction
 
 #### Constraints
 - Effects depend on implementation fidelity; schools where staff turnover is high or training is superficial see the program degrade into ordinary supervision [~M]

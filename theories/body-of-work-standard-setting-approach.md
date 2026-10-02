@@ -48,7 +48,7 @@ The body of work approach is a standard setting methodology in which "Reviewers 
 
 ## Examples
 
-- [Include both range-finding and pin-pointing phases when applying the body of work method](../principles/range-finding-and-pin-pointing-phases-required.md)
+- [Include both range-finding and pin-pointing phases when applying the body of work method](../processes/range-finding-and-pin-pointing-phases-required.md)
 - [Select representative reduced portfolios with quality-control review and geographic-bias limits for standard setting](../strategies/representative-sampling-with-quality-control-review.md)
 
 ## Key Sources

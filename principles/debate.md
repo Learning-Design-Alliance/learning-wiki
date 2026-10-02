@@ -77,7 +77,7 @@ Debate improves learning when it requires learners to justify positions with evi
 ## Examples
 
 <!-- Links to elements or patterns that apply this principle -->
-- [Debate Format](../patterns/debate-format.md) — formalized opening, rebuttal, and closing sequence
+- [Debate Format](../patterns/debate.md) — formalized opening, rebuttal, and closing sequence
 - [Debate for the Opposite Team](../strategies/debate_for_the_opposite_team.md) — learners argue against their initial position to deepen perspective-taking
 - Policy, ethics, clinical decision, and civic issues often work better than purely factual prompts
 - Structured prep sheets for claim, evidence, counterclaim, and rebuttal help novices participate more equitably

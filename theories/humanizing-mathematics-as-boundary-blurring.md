@@ -41,7 +41,7 @@ The author's conceptualization of humanizing mathematics, contrasted with approa
 
 ## Related Theories
 - [Boundary Crossing Learning](boundary-crossing-learning.md)
-- [Informal Learning](../principles/informal-learning.md)
+- [Informal Learning](informal-learning.md)
 
 ## Examples
 -

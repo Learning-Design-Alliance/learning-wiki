@@ -53,7 +53,7 @@ Commognition, named from the combination of communication and cognition, concept
 ## Examples
 
 - [Analyze lecturers' proof discourse for flexibility, bondedness, applicability, agentivity, objectification, and substantiability to study de-ritualization opportunities](../strategies/analyze-lecturer-proof-discourse-for-de-ritualization-characteristics.md)
-- [Six desirable characteristics of routine marking movement toward explorative participation](../patterns/desirable-characteristics-of-routine-explorative-participation.md)
+- [Six desirable characteristics of routine marking movement toward explorative participation](desirable-characteristics-of-routine-explorative-participation.md)
 
 ## Key Sources
 - Karavi, Mali, & Avraamidou. (2022). Commognition as an approach to studying proof teaching in university mathematics lectures. EURASIA Journal of Mathematics, Science and Technology Education. https://doi.org/10.29333/ejmste/12173
