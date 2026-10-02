@@ -29,6 +29,26 @@ Checked by script as wave 1 was: no old line lost, no frontmatter key changed bu
 generated, no cited claim dropped, no marker above cap, no broken link, every section of the format present
 (every principle has a default design), and every quoted number found on a cited claim page or the old page.
 
+## Brief test (2026-10-02)
+
+Same design as wave 1's (scratch only): 30 new briefs, one complete and one sparse per page; Kimi K3 answering from
+one version of the page (OLD = main before this change, NEW = after); Gemini 3.8 Flash and DeepSeek V4 Pro grading
+against every claim either version cites, and blind in pairs, both orders. $4.67.
+
+| | OLD | NEW |
+|---|---|---|
+| affordances /12 (all / complete / sparse) | 7.2 / 9.1 / 5.2 | 10.5 / 11.4 / 9.6 |
+| accuracy | 3.88 | 4.72 |
+| decision value | 4.18 | 4.68 |
+| brief fit | 3.75 | 3.68 |
+| blind pairs (all / complete / sparse) | 7 / 3 / 4 | **113** / 57 / 56 |
+
+**No page lost.** Every brief went to the new page, unanimously on 23 of 30 and 3–1 on the other 7; five of the
+seven dissents were DeepSeek with the old page shown first. Against wave 1 (100–20), the default-design rule
+seems to have closed the complete-brief gap (44–16 then, 57–3 now), though the pages and briefs differ. **Brief
+fit did not move** (3.75 → 3.68, Gemini near 5 and DeepSeek near 2.5 for both versions): the new pages make answers
+more accurate and more decisive, not more specific to the brief. That is the measure to work on next.
+
 ## What the wave found, open
 
 **No claim tests the page's own relationship on 13 of the 15** (all but adaptive learning, whose two q4

@@ -124,6 +124,20 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (late night) — conversion wave 2: 15 more pages, and no page lost
+
+- **Fifteen more pages converted** (`eval/page-triage/wave-2.md`): the patterns collaborative learning, competency-
+  based learning, Gagné's nine events, debate and anchored instruction; the principles community of inquiry,
+  communities of practice, cognitive disequilibrium, community-based learning, inquiry-based learning, autonomy,
+  analogical reasoning, adaptive learning, competency-based assessment and immediate feedback (30 to 83 inbound
+  links). The brief now requires a **labelled default design** wherever no claim tests the page's relationship;
+  13 of the 15 needed one.
+- **Tested with 30 briefs ($4.67): blind pairs 113–7 for the new pages, every brief won**, unanimous on 23;
+  accuracy 3.88 → 4.72, decision value 4.18 → 4.68, affordances 7.2 → 10.5 of 12. **Brief fit is flat** (3.75 →
+  3.68): the format makes answers more accurate and decisive, not more fitted to the brief. Wave 2's open list
+  (wrong-claim links on the old adaptive-learning page, overstated titles, stale text, three citation mismatches,
+  merge candidates) is in `wave-2.md`.
+
 ### 2026-10-02 (late night) — before wave 2: four converted siblings absorb their duplicates
 
 - **Folded** (maintainer's decision): `principles/spaced-practice` into `spaced-learning`, `cognitive-apprenticeship`
