@@ -10,11 +10,11 @@ evidence_strength: low
 sources:
   - id: van-gog-et-al-2011
     resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
-    title: "Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices’ learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)"
-    author: "Van Gog, T., Kester, L., & Paas, F."
+    title: "van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)"
+    author: "van Gog, T., Kester, L., & Paas, F."
     q: 3
     i: "?"
-    n: 96 (secondary education students, novices)
+    n: 96
     kind: causal
     rigour: "?"
 ---
@@ -22,6 +22,7 @@ sources:
 # Example-first conditions outperformed problem-first conditions on an immediate circuit test
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3` · n=96
 
 ## Subclaims
 
@@ -30,6 +31,10 @@ sources:
 ## Evidence
 
 ### van Gog et al. 2011
+
+van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)
+
+`q3 · peer-reviewed experiment` · `i? · omnibus partial η² only; no pairwise standardized effect` · `n=96` · `causal · r?`
 
 [Peer-reviewed author manuscript](https://research.ou.nl/ws/portalfiles/portal/1026339/Van%20Gog_%20Kester%20_%20Paas%20-%20CEDPSYCH%202010.pdf), Methods/Results and Table 1, manuscript pp. 10–16, 26. [doi:10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004). Full method/result verification by the editing agent; not independent human verification.
 
