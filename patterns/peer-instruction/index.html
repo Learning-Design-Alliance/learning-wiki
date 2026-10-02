@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.">
+        <meta name="description" content="A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.">
       
       
         <meta name="author" content="Eric Mazur">
@@ -636,10 +636,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#description" class="md-nav__link">
+  <a href="#description-and-scope" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Description
+        Description and scope
       
     </span>
   </a>
@@ -647,230 +647,68 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#implications" class="md-nav__link">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Implications
+        Inputs: establish the design brief
       
     </span>
   </a>
-  
-    <nav class="md-nav" aria-label="Implications">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#context" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Context
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Context">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#requirements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Requirements
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#constraints" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Constraints
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grain-size" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Grain Size
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#target-goals" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Target Goals
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#target-learners" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Target Learners
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#theory" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Theory
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Theory">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#supporting" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Supporting
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#contradicting-qualifying" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Contradicting / Qualifying
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#claims" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Claims
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Claims">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#supporting_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Supporting
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#contradicting" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Contradicting
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#design" class="md-nav__link">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Design
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Design">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Sequence
+        Sequence and conditional policy
       
     </span>
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#elements-used" class="md-nav__link">
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Elements Used
+        Choosing configurations from evidence
       
     </span>
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Affordances
+        Further evidence, not yet read against this model
       
     </span>
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Personalization
+        Illustrative design instance and observation record
       
     </span>
   </a>
   
 </li>
-        
-      </ul>
-    </nav>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
   
 </li>
       
@@ -890,17 +728,6 @@
     <span class="md-ellipsis">
       
         Examples
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
       
     </span>
   </a>
@@ -946,96 +773,110 @@
 <h1 id="peer-instruction">Peer Instruction<a class="headerlink" href="#peer-instruction" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Pattern</strong> · <a href="../">All patterns</a>
-<strong>Evidence</strong> · 4 claims (1 for, 3 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), <code>q2</code>–<code>q4</code> · 0 of 10 report an effect size · 1 claim rests on one study</p>
+<strong>Evidence</strong> · 9 claims (4 for, 5 mixed) · 17 studies (5 review, 4 causal, 4 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), <code>q2</code>–<code>q4</code> · 3 of 17 report an effect size · 4 claims rest on one study</p>
 </blockquote>
-<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief. The key mechanism is not the poll itself. It is the combination of commitment, peer explanation, reconsideration, and feedback that helps learners confront misconceptions and refine understanding.</p>
-<p>The pattern is especially effective for conceptual questions that require reasoning rather than recall. It works well in large classes because it creates active processing without needing the instructor to hear every learner individually.</p>
-<p>In practice, students typically answer individually via clickers or a handheld response system (anonymously, with results visible immediately to the instructor); if a large fraction of the class (usually 30-65%) answers incorrectly, students discuss in small groups while the instructor circulates, then answer again, with the instructor closing the cycle by explaining the correct answer and following up with related questions — each full cycle typically taking 13-15 minutes. The evidence for its effectiveness is unusually well quantified: Hake's (1998) large survey compared 2,084 students in 14 traditionally-taught introductory physics courses against 4,458 students in 48 courses using "interactive engagement" methods (broadly, active, feedback-rich approaches including peer instruction), finding pre/post-test learning gains almost two standard deviations higher for the interactive-engagement group (0.48 ± 0.14 vs. 0.23 ± 0.04). Assessing peer instruction specifically across eight years at Harvard, Crouch and Mazur (2001) found even larger gains (0.49 to 0.74), compared to just 0.25-0.40 for traditionally-taught sections at the same institution during the same period. Deslauriers, Schelew, and Wieman (2011) found a similar effect in a more tightly controlled comparison: two sections of the same large-enrollment physics course, showing no prior differences, were taught identically until one section was "flipped" for a single week (pre-class reading and quizzes, in-class small-group discussion of clicker and written-response questions, no lecture) while the other continued as before — the flipped section still showed a substantial learning-gain advantage over the matched control from that single week's change alone.</p>
-<h2 id="implications">Implications<a class="headerlink" href="#implications" title="Permanent link">&para;</a></h2>
-<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
-<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
-<ul>
-<li><strong>Conceptually rich questions</strong>: The prompt needs to provoke reasoning and disagreement, not simple memory.</li>
-<li><strong>Initial individual commitment</strong>: Learners should answer before discussion so they have something to compare and defend.</li>
-<li><strong>Peer explanation time</strong>: The discussion phase must give enough time for reasoning exchange.</li>
-<li><strong>Instructor debrief</strong>: Learners need closure on why the stronger reasoning is stronger.</li>
-</ul>
-<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
-<ul>
-<li><strong>Weak questions flatten the pattern</strong>: Fact recall items do not generate much conceptual change.</li>
-<li><strong>Noisy consensus risk</strong>: Learners can converge on an answer socially without improving reasoning if facilitation is weak.</li>
-<li><strong>Technology is optional but not sufficient</strong>: Clickers or polling help, but the real work happens in the discussion.</li>
-<li><strong>Not ideal for first exposure to very unfamiliar material</strong>: Some initial orientation may be needed before conceptual polling works.</li>
-</ul>
-<h4 id="grain-size">Grain Size<a class="headerlink" href="#grain-size" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Lesson</li>
-</ul>
-<h3 id="target-goals">Target Goals<a class="headerlink" href="#target-goals" title="Permanent link">&para;</a></h3>
-<ul>
-<li><strong>Conceptual understanding</strong>: Surfacing and revising misconceptions.</li>
-<li><strong>Reasoning articulation</strong>: Learners explain why an answer makes sense.</li>
-<li><strong>Formative diagnosis</strong>: Instructors see where understanding is strong or weak.</li>
-</ul>
-<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<ul>
-<li><strong>Learners in STEM and concept-heavy courses</strong>: Strong fit for questions where common misconceptions are predictable.</li>
-<li><strong>Large-group settings</strong>: Useful where whole-class interactivity is otherwise difficult.</li>
-<li><strong>Learners who benefit from peer explanation</strong>: The pattern leverages students as reasoning partners.</li>
-</ul>
-<h3 id="theory">Theory<a class="headerlink" href="#theory" title="Permanent link">&para;</a></h3>
-<h4 id="supporting">Supporting<a class="headerlink" href="#supporting" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Social constructivist perspectives — learners refine ideas by explaining and comparing reasoning with peers.</li>
-<li>Conceptual change traditions — confronting conflicting explanations can trigger revision of prior understanding.</li>
-<li>Formative assessment perspectives — repeated questioning provides immediate evidence about current understanding.</li>
-</ul>
-<h4 id="contradicting-qualifying">Contradicting / Qualifying<a class="headerlink" href="#contradicting-qualifying" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Peer instruction is not just polling; without discussion and debrief it loses much of its value.</li>
-<li>The pattern is stronger for conceptual reasoning than for pure procedural fluency.</li>
-</ul>
-<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
-<h4 id="supporting_1">Supporting<a class="headerlink" href="#supporting_1" title="Permanent link">&para;</a></h4>
-<ul>
-<li><a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding and problem-solving performance.</a> [+S]</li>
-<li><a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation and supports better learning decisions.</a> [~M]</li>
-<li><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning more than fixed or absent support.</a> [~M]</li>
-</ul>
-<h4 id="contradicting">Contradicting<a class="headerlink" href="#contradicting" title="Permanent link">&para;</a></h4>
-<ul>
-<li><a href="../../claims/specific-difficult-goals-lead-to-higher-performance/">Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.</a> [~S]</li>
-</ul>
-<h2 id="design">Design<a class="headerlink" href="#design" title="Permanent link">&para;</a></h2>
-<h3 id="sequence">Sequence<a class="headerlink" href="#sequence" title="Permanent link">&para;</a></h3>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>A reusable policy for using a conceptual question to elicit an individual committed answer, have learners discuss their reasoning with peers, collect a second answer and close with explanation: <strong>question → individual vote → peer discussion → revote → explanation</strong>. It instantiates the <a href="../../principles/peer-discussion/">Peer Discussion principle</a>. The study configurations below are evidence; the response-dependent policy (when to discuss, when to explain, when to move on) is an <strong>untested design proposal</strong>. Use it to collect better observations of reasoning, not to certify that a class has understood because a revote converged.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Each learner's individual answer and, where possible, confidence and a one-line reason; the class distribution; task-specific prior instruction. Preserve unknowns rather than labelling the class "novice".</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting (<code>classroom</code>, <code>online-instructor-led</code>), class and group size, response mode (clickers, cards, digital poll, written), time per cycle, whether the distribution is shown before discussion, how groups are formed, language and access conditions, and what the instructor explains afterwards.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what learners want from the discussion and why. Record disagreement with the designer's objective; do not assume that participation means agreement.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The concept or principle targeted, the misconception or alternative the question is built to separate, and whether the aim is answering this kind of question, explaining it, or applying it to an unfamiliar case.</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>An individual answer on a new isomorphic question, a justification rubric, and the horizon (<code>immediate</code> in-class, or <code>delayed</code>); any course exam or concept inventory used, and how closely it matches the questions practised.</td>
+</tr>
+</tbody>
+</table>
+<p>A request to "make lectures more interactive" does not specify these inputs. Ask for them before prescribing a cycle length, a correct-answer threshold for discussion, or an expected gain. Check that the question has one defensible answer and that its distractors represent reasoning learners actually hold.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
 <ol>
-<li>Pose a conceptual question and have learners answer individually.</li>
-<li>Reveal the distribution or ask learners to compare responses without announcing the answer.</li>
-<li>Have learners discuss reasoning with peers.</li>
-<li>Re-poll or reassess after discussion.</li>
-<li>Debrief the reasoning and clarify the concept.</li>
+<li><strong>Pose the question and collect individual answers.</strong> No discussion before the first vote. Record the distribution and, if feasible, confidence and reasons. Withhold the correct answer.</li>
+<li><strong>Decide whether to discuss.</strong> Use the distribution as one observation, not a rule: a split class suggests reasoning worth exchanging; near-unanimity in either direction may call for explanation or a harder question. Any threshold is a local choice; the evidence here does not set one.</li>
+<li><strong>Peer discussion of reasoning.</strong> Ask learners to convince a neighbour of their answer by giving a reason, not to agree on a letter. Circulate and sample what groups say.</li>
+<li><strong>Revote, then an isomorphic check.</strong> Collect a second individual answer. Where the aim is understanding, follow with a new isomorphic question answered alone, since the revote cannot separate revision from copying.</li>
+<li><strong>Explain and reobserve.</strong> Explain why the stronger reasoning is stronger, address the distractors chosen, and recheck at the stated horizon. If observations disagree with the expectation, revise the question, grouping or explanation rather than the interpretation.</li>
 </ol>
-<h3 id="elements-used">Elements Used<a class="headerlink" href="#elements-used" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Individual answers split across options</td>
+<td>Ask a sample of learners for their reasons before discussion.</td>
+<td>Run peer discussion, then revote and an isomorphic question. If reasons show the question is ambiguous rather than diagnostic, fix the question; the split itself does not say which.</td>
+</tr>
+<tr>
+<td>Most answer correctly on the first vote</td>
+<td>Ask for a justification or pose an isomorphic question with changed surface features.</td>
+<td>If justifications hold, explain briefly and move on; if they do not, the correct answers may be guesses or recognition, and a harder or changed question may be needed.</td>
+</tr>
+<tr>
+<td>Few answer correctly on the first vote</td>
+<td>Ask what learners took the question to be asking; check whether the needed concept was ever taught.</td>
+<td>Consider explanation or a simpler bridging question before discussion. Discussion among learners who share one misconception may reinforce it; this is a proposal, not a tested branch.</td>
+</tr>
+<tr>
+<td>Revote converges, isomorphic question does not improve</td>
+<td>Compare who changed answers with who spoke first or most confidently in each group.</td>
+<td>Treat the revote gain as possible copying; add instructor explanation and another isomorphic check rather than declaring understanding.</td>
+</tr>
+<tr>
+<td>Some groups talk little or one member dominates</td>
+<td>Ask privately or in writing for each learner's reasoning; vary group composition on the next question.</td>
+<td>Adjust grouping, roles or response mode. Neither silence nor talk volume alone establishes understanding.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../elements/conceptual-questioning/">Conceptual Questioning</a></li>
-<li><a href="../../elements/peer-discussion/">Peer Discussion</a></li>
-<li><a href="../../elements/reassessment/">Reassessment</a></li>
-<li><a href="../../elements/feedback/">Feedback</a></li>
+<li>For a check that separates revision from copying, <a href="../../claims/peer-discussion-improves-conceptual-understanding/">the isomorphic-question design</a> [+M] supports following the revote with a new isomorphic question answered alone. In the recorded comparison, peer discussion followed by instructor explanation exceeded either alone in undergraduate genetics courses; that is one quasi-experimental classroom study with no standardized effect size, and its "similar gains" detail could not be confirmed from the abstract. It supports keeping the explanation step, not dropping it.</li>
+<li>For the expectation over a course, <a href="../../claims/active-learning-improves-exam-performance/">active learning in undergraduate STEM</a> [+M] reports 0.47 SD higher exam and concept-inventory scores than traditional lecturing across 158 studies, largest on concept inventories and in small classes, and gap narrowing only under high-intensity active learning. Peer instruction is one of many formats pooled; the synthesis does not isolate it, and the entries have not been confirmed against their sources.</li>
+<li>For what the vote alone may contribute, <a href="../../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content/">classroom quizzing</a> [+W] is reported (second-hand, via a review chapter) to improve classroom exams without any discussion step. A design that drops discussion is a different configuration, and gains from the full cycle should not be attributed to discussion alone.</li>
+<li>For what the cycle may not change, <a href="../../claims/reformed-pedagogy-content-gains-but-no-reasoning-gains/">content gains without reasoning gains</a> [~W] records normalized gains of about 0.38–0.42 on content instruments but 0.06 on a scientific-reasoning test under an active-engagement pedagogy, in an associational study with no comparison group, not yet checked. Do not expect concept-question practice to build general reasoning ability unless that is taught and measured.</li>
+<li>For grouping, <a href="../../claims/cooperative-conceptual-change-chemistry-misconceptions/">poor group leadership</a> [~W] is reported (second-hand) to have prevented effective discussion in cooperative conceptual-change groups in community-college chemistry. Watch who closes the discussion.</li>
 </ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
+<p>Do not convert a normalized gain into a d, rank these studies by effect labels, or predict delayed retention from in-class revote changes. A precise abstention names the missing comparison, target or observation and the next way to resolve it.</p>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+<p>Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.</p>
 <ul>
-<li><a href="../../principles/peer-discussion/">Peer Discussion</a></li>
-<li><a href="../../principles/formative-assessment/">Formative Assessment</a></li>
-<li><a href="../../principles/immediate-feedback/">Immediate Feedback</a></li>
-<li><a href="../../principles/purposeful-reflection/">Purposeful Reflection</a></li>
+<li><a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding and problem-solving performance.</a> [+S] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation and supports better learning decisions.</a> [~M] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning more than fixed or absent support.</a> [~M] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/specific-difficult-goals-lead-to-higher-performance/">Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.</a> [~M] — not yet checked against its sources</li>
 </ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Questions can be delivered through clickers, cards, hand signals, or digital polls.</li>
-<li>Pairs or small groups can be mixed intentionally depending on confidence and prior knowledge.</li>
-<li>The amount of instructor explanation after the repoll can vary depending on the quality of peer reasoning.</li>
-</ul>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Invented illustration, not a tested lesson.</em> In an introductory physics lecture, the instructor poses a question on whether a heavier and a lighter ball dropped together land at the same time. Individual answers split between two options. A learner says she wants to be able to explain her answer to a younger sibling; the instructor's objective is reasoning about acceleration that transfers to an inclined-plane case. After discussion and revote, learners answer an isomorphic question about two carts on a ramp alone, then the instructor explains and asks for a one-line justification; the same kind of question returns on a quiz the following week. These are local design choices; the evidence above does not establish their optimality.</p>
+<p>Record: <strong>question and intended distinction → individual answer, confidence and reason → distribution shown or withheld → group composition and sampled talk → revote → isomorphic individual answer → candidate interpretations (revision, copying, convergence) and their basis → instructor explanation given → next observation at the stated horizon</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarize this record but must not fabricate missing inputs or assign numerical probabilities of understanding without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/conceptest/">ConcepTest</a>, <a href="../../elements/conceptual-questioning/">conceptual questioning</a>, <a href="../../elements/misconception-probes/">misconception probes</a>, <a href="../../elements/peer-discussion/">peer discussion</a>, <a href="../../elements/reassessment/">reassessment</a>, <a href="../../elements/feedback/">feedback</a> and <a href="../../elements/debrief/">debrief</a>. Principles the cycle draws on: <a href="../../principles/peer-discussion/">Peer Discussion</a>, <a href="../../principles/formative-assessment/">Formative Assessment</a>, <a href="../../principles/immediate-feedback/">Immediate Feedback</a> and <a href="../../principles/purposeful-reflection/">Purposeful Reflection</a>.</p>
+<p>This pattern is scoped to conceptual questions with a defensible answer. Open-ended discussion, procedural fluency, first exposure to unfamiliar material and attitude change need different configurations and evidence. The policy supports observation and design reasoning; its branches, any discussion threshold and its effect on delayed or transfer outcomes remain to be tested with learners.</p>
 <h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../think-pair-share/">Think-Pair-Share</a></li>
@@ -1047,11 +888,6 @@
 <li>Medical learners comparing diagnostic reasoning on a conceptual clinical prompt.</li>
 <li>Math or engineering classes using concept checks before moving into longer problem work.</li>
 </ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Often improves engagement and conceptual understanding in large classes.</li>
-<li>Most effective when misconceptions are surfaced through strong questions and resolved through debrief.</li>
-</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Mazur, E. (1997). <em>Peer instruction: A user's manual</em>. Prentice Hall.</li>
@@ -1060,6 +896,90 @@
 <li>Deslauriers, L., Schelew, E., &amp; Wieman, C. (2011). Improved learning in a large-enrollment physics class. <em>Science, 332</em>(6031), 862-864. <a href="https://doi.org/10.1126/science.1201783">doi:10.1126/science.1201783</a></li>
 <li>Arduini-Van Hoose, N. (2020). Flipped classroom. In <em>Educational psychology</em>. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.</li>
 </ul>
+<!-- deprecated 2026-10-01: superseded by the conditional model above; the body it replaced, kept verbatim.
+
+## Description
+Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief. The key mechanism is not the poll itself. It is the combination of commitment, peer explanation, reconsideration, and feedback that helps learners confront misconceptions and refine understanding.
+
+The pattern is especially effective for conceptual questions that require reasoning rather than recall. It works well in large classes because it creates active processing without needing the instructor to hear every learner individually.
+
+In practice, students typically answer individually via clickers or a handheld response system (anonymously, with results visible immediately to the instructor); if a large fraction of the class (usually 30-65%) answers incorrectly, students discuss in small groups while the instructor circulates, then answer again, with the instructor closing the cycle by explaining the correct answer and following up with related questions — each full cycle typically taking 13-15 minutes. The evidence for its effectiveness is unusually well quantified: Hake's (1998) large survey compared 2,084 students in 14 traditionally-taught introductory physics courses against 4,458 students in 48 courses using "interactive engagement" methods (broadly, active, feedback-rich approaches including peer instruction), finding pre/post-test learning gains almost two standard deviations higher for the interactive-engagement group (0.48 ± 0.14 vs. 0.23 ± 0.04). Assessing peer instruction specifically across eight years at Harvard, Crouch and Mazur (2001) found even larger gains (0.49 to 0.74), compared to just 0.25-0.40 for traditionally-taught sections at the same institution during the same period. Deslauriers, Schelew, and Wieman (2011) found a similar effect in a more tightly controlled comparison: two sections of the same large-enrollment physics course, showing no prior differences, were taught identically until one section was "flipped" for a single week (pre-class reading and quizzes, in-class small-group discussion of clicker and written-response questions, no lecture) while the other continued as before — the flipped section still showed a substantial learning-gain advantage over the matched control from that single week's change alone.
+
+## Implications
+
+### Context
+#### Requirements
+- **Conceptually rich questions**: The prompt needs to provoke reasoning and disagreement, not simple memory.
+- **Initial individual commitment**: Learners should answer before discussion so they have something to compare and defend.
+- **Peer explanation time**: The discussion phase must give enough time for reasoning exchange.
+- **Instructor debrief**: Learners need closure on why the stronger reasoning is stronger.
+#### Constraints
+- **Weak questions flatten the pattern**: Fact recall items do not generate much conceptual change.
+- **Noisy consensus risk**: Learners can converge on an answer socially without improving reasoning if facilitation is weak.
+- **Technology is optional but not sufficient**: Clickers or polling help, but the real work happens in the discussion.
+- **Not ideal for first exposure to very unfamiliar material**: Some initial orientation may be needed before conceptual polling works.
+#### Grain Size
+- Lesson
+
+### Target Goals
+- **Conceptual understanding**: Surfacing and revising misconceptions.
+- **Reasoning articulation**: Learners explain why an answer makes sense.
+- **Formative diagnosis**: Instructors see where understanding is strong or weak.
+
+### Target Learners
+- **Learners in STEM and concept-heavy courses**: Strong fit for questions where common misconceptions are predictable.
+- **Large-group settings**: Useful where whole-class interactivity is otherwise difficult.
+- **Learners who benefit from peer explanation**: The pattern leverages students as reasoning partners.
+
+### Theory
+#### Supporting
+- Social constructivist perspectives — learners refine ideas by explaining and comparing reasoning with peers.
+- Conceptual change traditions — confronting conflicting explanations can trigger revision of prior understanding.
+- Formative assessment perspectives — repeated questioning provides immediate evidence about current understanding.
+#### Contradicting / Qualifying
+- Peer instruction is not just polling; without discussion and debrief it loses much of its value.
+- The pattern is stronger for conceptual reasoning than for pure procedural fluency.
+
+### Claims
+#### Supporting
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+#### Contradicting
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+
+## Design
+
+### Sequence
+1. Pose a conceptual question and have learners answer individually.
+2. Reveal the distribution or ask learners to compare responses without announcing the answer.
+3. Have learners discuss reasoning with peers.
+4. Re-poll or reassess after discussion.
+5. Debrief the reasoning and clarify the concept.
+
+### Elements Used
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reassessment](../elements/reassessment.md)
+- [Feedback](../elements/feedback.md)
+
+### Affordances
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+
+### Personalization
+- Questions can be delivered through clickers, cards, hand signals, or digital polls.
+- Pairs or small groups can be mixed intentionally depending on confidence and prior knowledge.
+- The amount of instructor explanation after the repoll can vary depending on the quality of peer reasoning.
+
+## Impact
+- Often improves engagement and conceptual understanding in large classes.
+- Most effective when misconceptions are surfaced through strong questions and resolved through debrief.
+
+-->
+
 <details class="info">
 <summary>Page metadata</summary>
 <table>
@@ -1084,7 +1004,7 @@
 </tr>
 <tr>
 <td><code>description</code></td>
-<td><code>Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.</code></td>
+<td><code>A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.</code></td>
 </tr>
 <tr>
 <td><code>status</code></td>
@@ -1100,7 +1020,7 @@
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-01</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>

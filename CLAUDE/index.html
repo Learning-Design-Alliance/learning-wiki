@@ -661,6 +661,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-02-ten-more-principlepattern-pairs-in-the-conditional-format-batch-12-blocked-on-an-expired-key" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-02 — ten more principle–pattern pairs in the conditional format; batch 12 blocked on an expired key
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1609,6 +1620,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-02-ten-more-principlepattern-pairs-in-the-conditional-format-batch-12-blocked-on-an-expired-key" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-02 — ten more principle–pattern pairs in the conditional format; batch 12 blocked on an expired key
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions" class="md-nav__link">
@@ -2657,6 +2679,33 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-02-ten-more-principlepattern-pairs-in-the-conditional-format-batch-12-blocked-on-an-expired-key">2026-10-02 — ten more principle–pattern pairs in the conditional format; batch 12 blocked on an expired key<a class="headerlink" href="#2026-10-02-ten-more-principlepattern-pairs-in-the-conditional-format-batch-12-blocked-on-an-expired-key" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Ten pairs rewritten as conditional models</strong> (<code>principle-pattern-authoring.md</code> lists them): cooperative
+  learning, direct instruction, mastery learning, multimedia learning, problem-based learning, self-regulated
+  learning, peer discussion / peer instruction, scaffolding and fading / cognitive apprenticeship, cognitive
+  load / 4C/ID, retrieval practice / team-based learning. One agent per pair from a brief (scratch, not
+  committed): 3–6 core claims read in full and described only from their claim pages, at least one limiting
+  claim, markers under <code>strength_cap</code>, every claim either page cited kept (in the model or under Further
+  evidence, labelled with its current load-bearing status), the old body verbatim in a <code>&lt;!-- deprecated --&gt;</code>
+  block, and Design Decisions, Related, Examples and Key Sources kept. Checked by script against each old page:
+  no old line lost, no frontmatter key changed but description/status/generated, no live claim dropped, no
+  marker above cap, no broken link. Not yet tested with briefs as #144's three were; that is the next step.</li>
+<li><strong>What the agents found, open:</strong> no claim tests 4C/ID, team-based learning or whole PBL curricula as a
+  whole; <code>whole-task-performance-improves-transfer</code> is a design argument titled as an effect; the
+  cooperative-learning free-rider and group-rewards claims share three entries and overstate them; the
+  direct-instruction claim's opening still says "particularly for novices"; <code>self-regulated-learning-improves-
+  achievement</code> pools performance, strategy use and motivation; several claims still say "no evidence yet"
+  beside entries; Roediger &amp; Karpicke 2006 is n=180 on one claim and n=300 on another; the #144 claim pages
+  (<code>fading-and-principle-prompts-…</code>, <code>worked-example-problem-sequences</code>) have no parseable codes line, so their
+  headers read "none recorded yet" and their cap is W.</li>
+<li><strong>Links inside HTML comments no longer count.</strong> <code>build_reverse_index.py</code> and <code>check_evidence_markers.py</code>
+  strip <code>&lt;!-- --&gt;</code> first, so text kept in a deprecated block is not a citation, an edge or an evidence-profile
+  entry (11 edges dropped from two gap-fill pages that already had such blocks).</li>
+<li><strong>Batch 12</strong> (<code>eval/deep-dive/principle-pattern-pairs/topics.txt</code>, 63 articles fetched) <strong>produced nothing:
+  the OpenRouter key in <code>/etc/eval-harness.env</code> has expired</strong> (HTTP 401 on every call). Its writes were
+  reverted. With a new key, re-run generation for <code>--label batch-12</code>; the articles are cached.</li>
+</ul>
 <h3 id="2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions">2026-10-01 (evening) — every batch codes its new evidence on the shared dimensions<a class="headerlink" href="#2026-10-01-evening-every-batch-codes-its-new-evidence-on-the-shared-dimensions" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><code>run_scrape_batch.py</code> now runs <code>code_evidence_axes.py --new --code</code> then <code>--contrasts</code></strong> after kind and

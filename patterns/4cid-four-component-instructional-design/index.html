@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice.">
+        <meta name="description" content="A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals.">
       
       
         <meta name="author" content="Jeroen J. G. van Merrienboer">
@@ -636,10 +636,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#description" class="md-nav__link">
+  <a href="#description-and-scope" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Description
+        Description and scope
       
     </span>
   </a>
@@ -647,230 +647,68 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#implications" class="md-nav__link">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Implications
+        Inputs: establish the design brief
       
     </span>
   </a>
-  
-    <nav class="md-nav" aria-label="Implications">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#context" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Context
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Context">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#requirements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Requirements
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#constraints" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Constraints
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grain-size" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Grain Size
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#target-goals" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Target Goals
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#target-learners" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Target Learners
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#theory" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Theory
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Theory">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#supporting" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Supporting
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#contradicting-qualifying" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Contradicting / Qualifying
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#claims" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Claims
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Claims">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#supporting_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Supporting
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#contradicting" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Contradicting
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#design" class="md-nav__link">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Design
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Design">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Sequence
+        Sequence and conditional policy
       
     </span>
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#elements-used" class="md-nav__link">
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Elements Used
+        Choosing configurations from evidence
       
     </span>
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Affordances
+        Further evidence, not yet read against this model
       
     </span>
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Personalization
+        Illustrative design instance and observation record
       
     </span>
   </a>
   
 </li>
-        
-      </ul>
-    </nav>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
   
 </li>
       
@@ -890,17 +728,6 @@
     <span class="md-ellipsis">
       
         Examples
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
       
     </span>
   </a>
@@ -946,97 +773,104 @@
 <h1 id="4cid-four-component-instructional-design">4C/ID (Four-Component Instructional Design)<a class="headerlink" href="#4cid-four-component-instructional-design" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Pattern</strong> · <a href="../">All patterns</a>
-<strong>Evidence</strong> · 4 claims (3 for, 1 mixed) · 9 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), <code>q2</code>–<code>q4</code> · 0 of 9 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · 5 claims (4 for, 1 mixed) · 10 studies (4 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), <code>q2</code>–<code>q4</code> · 0 of 10 report an effect size · 2 claims rest on one study</p>
 </blockquote>
-<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice. The pattern is designed for skills that require learners to integrate knowledge, strategy, and procedure rather than master isolated facts. Its central move is to keep the whole task visible while still managing difficulty through sequencing, scaffolding, and selective automation of subskills.</p>
-<p>The pattern is strongest when learners need transfer to authentic performance. It is not mainly a content-delivery model. It is a design approach for building sequences in which learners perform meaningful tasks, receive just enough support, and gradually work with more variability and complexity over time.</p>
-<h2 id="implications">Implications<a class="headerlink" href="#implications" title="Permanent link">&para;</a></h2>
-<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
-<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
-<ul>
-<li><strong>Complex performance goals</strong>: Best used when the target involves coordination of multiple skills in realistic tasks.</li>
-<li><strong>A sequence of whole tasks</strong>: Tasks should progress from simpler to more complex while preserving meaningful structure.</li>
-<li><strong>Supportive and procedural information</strong>: Learners need conceptual guidance before or around the task and just-in-time directions during performance.</li>
-<li><strong>Selective part-task practice</strong>: Routine elements can be isolated when automation is necessary and the whole task would overload absolute novices.</li>
-</ul>
-<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
-<ul>
-<li><strong>Design intensity</strong>: 4C/ID requires careful sequencing, task-class design, and support planning.</li>
-<li><strong>Weak fit for simple recall</strong>: It is excessive for instruction focused mainly on memorization or single-step procedures.</li>
-<li><strong>Scaffolding quality matters</strong>: Poorly timed support can either overload learners or over-support them.</li>
-<li><strong>Whole-task complexity can swamp novices</strong>: Designers still need to manage intrinsic load deliberately.</li>
-</ul>
-<h4 id="grain-size">Grain Size<a class="headerlink" href="#grain-size" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Unit</li>
-<li>Course</li>
-<li>Training sequence</li>
-</ul>
-<h3 id="target-goals">Target Goals<a class="headerlink" href="#target-goals" title="Permanent link">&para;</a></h3>
-<ul>
-<li><strong>Complex skill acquisition</strong>: Building integrated performance rather than detached subskills.</li>
-<li><strong>Transfer</strong>: Preparing learners for real or realistic practice conditions.</li>
-<li><strong>Strategic and procedural coordination</strong>: Combining conceptual understanding with fluent execution.</li>
-</ul>
-<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<ul>
-<li><strong>Adult and professional learners</strong>: Strong fit for workforce, technical, medical, and higher education contexts.</li>
-<li><strong>Learners preparing for authentic performance</strong>: Best when the outcome is application in practice, not only classroom recall.</li>
-<li><strong>Novices in complex domains</strong>: Particularly useful when complexity must be managed without losing sight of the whole task.</li>
-</ul>
-<h3 id="theory">Theory<a class="headerlink" href="#theory" title="Permanent link">&para;</a></h3>
-<h4 id="supporting">Supporting<a class="headerlink" href="#supporting" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Cognitive load theory — complex performance should be sequenced so intrinsic load is manageable and extraneous load stays low.</li>
-<li>Whole-task instructional design traditions — authentic coordinated performance supports transfer better than isolated training alone.</li>
-<li>Scaffolding and fading perspectives — supports should be gradually withdrawn as learners gain control.</li>
-</ul>
-<h4 id="contradicting-qualifying">Contradicting / Qualifying<a class="headerlink" href="#contradicting-qualifying" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Not all skills require full 4C/ID treatment; some can be learned more efficiently through simpler explicit instruction sequences.</li>
-<li>Part-task work is a support inside the pattern, not the organizing center.</li>
-</ul>
-<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
-<h4 id="supporting_1">Supporting<a class="headerlink" href="#supporting_1" title="Permanent link">&para;</a></h4>
-<ul>
-<li><a href="../../claims/whole-task-performance-improves-transfer/">Whole-task performance improves transfer of complex skills to real-world settings.</a> [+M]</li>
-<li><a href="../../claims/part-task-practice-reduces-load-for-novices/">Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.</a> [+M]</li>
-<li><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning more than fixed or absent support.</a> [+M]</li>
-</ul>
-<h4 id="contradicting">Contradicting<a class="headerlink" href="#contradicting" title="Permanent link">&para;</a></h4>
-<ul>
-<li><a href="../../claims/worked-examples-less-effective-with-expertise/">Worked examples can become redundant or counterproductive for advanced learners.</a> [~M]</li>
-</ul>
-<h2 id="design">Design<a class="headerlink" href="#design" title="Permanent link">&para;</a></h2>
-<h3 id="sequence">Sequence<a class="headerlink" href="#sequence" title="Permanent link">&para;</a></h3>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>A reusable whole-task policy for <strong>complex skills</strong> (performance that integrates several kinds of knowledge and routine). It instantiates the <a href="../../principles/cognitive-load-theory/">cognitive load principle</a>: learners work on whole, authentic learning tasks grouped into task classes from simpler to more complex; support within each class starts high and fades; supportive information (how the domain is organised, how to approach the task) is available before and around the tasks; procedural information (how to carry out routine steps) is given just in time; and part-task practice is added only for routines that must become automatic. The study configurations below are evidence about parts of this policy; <strong>no study recorded in this wiki tests the four components together</strong>, and the response-dependent policy is an untested design proposal. It is a pattern for any complex skill; a particular clinical, technical or professional programme built with it is a design instance.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Task-specific experience for each task class; an attempt at a simple whole task with reasoning, errors, help needed and time; which routines are already fluent. Preserve unknowns; "novice" is per task class.</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting, time available, whether real or simulated tasks are possible, which supports (examples, completion tasks, coaching, job aids) can be supplied and faded, and who judges performance.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what performance the learner wants and why. Record divergence from the designer's objective and negotiate task content rather than assume agreement.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The whole-task performance intended, its knowledge type (usually complex-skill), the range of situations it must transfer to, and which routines must be automatic versus looked up.</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>A representative whole task scored by an agreed rubric; immediate, delayed and near/far-transfer horizons as separate outcomes; any safety outcome. Learning-phase effort or efficiency is a separate measure.</td>
+</tr>
+</tbody>
+</table>
+<p>A request to "use 4C/ID" or to "teach the skill" does not supply these inputs. Ask for them before fixing the number of task classes, a fading schedule or a part-task dose.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
 <ol>
-<li>Present a whole task at an entry level learners can attempt.</li>
-<li>Provide supportive information that helps learners understand the task class and relevant strategies.</li>
-<li>Deliver procedural information just in time during task performance.</li>
-<li>Add part-task practice for routine subskills that need automation.</li>
-<li>Increase task variability and complexity while fading supports.</li>
+<li><strong>Analyse the whole task.</strong> Identify the integrated performance, its non-routine (reasoning) and routine (procedural) parts, and the dimensions that make a version simpler or more complex. These are design judgements; record their basis.</li>
+<li><strong>Elicit on a simple whole task.</strong> Before instruction, ask for an attempt at the simplest representative version, with reasoning and every help given. This places the learner in a task class; it is not a measure of a latent schema.</li>
+<li><strong>Work through a task class with fading support.</strong> Begin with high support (worked or modelled tasks, then completion tasks) and reduce it across varied tasks of the class; give supportive information before or alongside, and procedural information at the step where it is needed, then withdraw it.</li>
+<li><strong>Add part-task practice selectively.</strong> Only for a routine that whole-task practice does not make fluent enough and whose slowness is plausibly blocking whole-task performance.</li>
+<li><strong>Reobserve before moving on.</strong> Use an unsupported, varied task of the current class under the agreed rubric. Move to a more complex class, stay, or adjust support provisionally; recheck at the stated delay.</li>
 </ol>
-<h3 id="elements-used">Elements Used<a class="headerlink" href="#elements-used" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cannot start even the simplest whole task</td>
+<td>Present the same task with mutually referring information integrated and one interacting element pre-taught; ask for the first decision and why.</td>
+<td>If performance returns with integration or pre-teaching, keep the whole task and add that support or a simpler version. If not, consider brief isolated-element practice before the whole task. Neither branch is validated.</td>
+</tr>
+<tr>
+<td>Succeeds with full examples or completion tasks, fails without</td>
+<td>Give one unsupported varied task of the same class; ask which relation licenses each step.</td>
+<td>Stay in the class and fade more gradually (removing the last worked steps first is one tested option). One failure does not show that support must stay.</td>
+</tr>
+<tr>
+<td>Correct whole-task reasoning but slow or error-prone on one routine</td>
+<td>Time the routine on its own and inside the whole task; vary whether a job aid is available.</td>
+<td>Add short part-task practice or a just-in-time aid for that routine, provisionally; drill is not warranted for routines the objective allows to be looked up.</td>
+</tr>
+<tr>
+<td>Fluent, unsupported success across varied tasks of the class</td>
+<td>Present a task from the next class and a changed condition within the current one.</td>
+<td>Move to the more complex class with high support again, and remove support the learner no longer needs, since redundant guidance may cost the learner. The exact point is not established.</td>
+</tr>
+<tr>
+<td>Low participation or reliance on hints regardless of difficulty</td>
+<td>Ask about purpose, stakes and barriers; compare a task closer to the learner's valued goal.</td>
+<td>Negotiate task content or conditions; hint use and effort alone do not establish the learner's state.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../elements/whole-task-performance/">Whole-task Performance</a></li>
-<li><a href="../../elements/part-task-practice/">Part-task Practice</a></li>
-<li><a href="../../elements/problem-presentation/">Problem Presentation</a></li>
-<li><a href="../../elements/assessment/">Assessment</a></li>
+<li><strong>Whole tasks as the organising unit.</strong> <a href="../../claims/whole-task-performance-improves-transfer/">Whole-task practice for transfer of complex skills</a> [+W] rests on one design argument, not an experiment: it holds that the load-reducing methods suited to retention (low variability, full guidance) hinder transfer, and proposes high variability and limited guidance, with intrinsic load lowered early for novices. Use it as the pattern's rationale, not as evidence of an effect; judge-checked against its abstract.</li>
+<li><strong>Isolating interacting elements first.</strong> For novices on high-element-interactivity tasks, <a href="../../claims/part-task-practice-reduces-load-for-novices/">isolated parts before the integrated whole</a> [+M] improved performance in one experiment (sample, outcome and horizon not reported on the claim page; not yet checked against its sources). It supports pre-teaching or part-task practice as an entry step; it does not test part-task practice for automating routines inside a whole-task sequence, which is 4C/ID's use.</li>
+<li><strong>Fading within a task class.</strong> <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading from complete to incomplete examples to problems</a> [+M] favoured near transfer over static example–problem arrangements in three experiments (20 ninth graders; 54 and 45 college students), and removing the last steps first was more favourable. It does not establish a fading rate or far transfer; not settled against its sources.</li>
+<li><strong>Adjusting support to the response.</strong> <a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding</a> [+M]: one-to-one long-division tutoring for fourth and fifth graders (N=8 per condition) found fully contingent support ahead of fixed, moderate or no support at immediate and one-month tests; contingent tutoring matched non-interactive tutoring immediately but improved transfer in a second study (11 pairs); a meta-analysis ranked scaffolding above coaching but below explicit strategy training. Small samples, mostly one-to-one; not settled against its sources.</li>
+<li><strong>Removing support as expertise grows.</strong> <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as expertise increases</a> [~M]: two reviews, abstract only and not settled, argue that full guidance becomes redundant and should be faded toward independent problem solving. It qualifies keeping high support across task classes; it gives no threshold.</li>
 </ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li><a href="../../principles/guided-practice/">Guided Practice</a></li>
-<li><a href="../../principles/problem-based-learning/">Problem-based Learning</a></li>
-<li><a href="../../principles/competency-based-learning-assessment/">Competency-Based Learning &amp; Assessment</a></li>
-<li><a href="../../principles/worked-examples/">Worked Examples</a></li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Task complexity can be adjusted by changing constraints, support, and variability.</li>
-<li>Procedural supports can be faded at different rates for different learners.</li>
-<li>Part-task practice can be targeted only to the subskills a learner has not yet automated.</li>
-</ul>
+<p>Do not combine these into a predicted effect for the whole pattern. They differ in learners (children, secondary and college students, trainees), task, comparator and outcome, and none measured delayed whole-task performance in a workplace.</p>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+<p>Every claim this page cited before the rewrite has been read against the model and appears above, so none is listed here.</p>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Illustration only, invented, not a tested programme.</em> A new technician wants to fix faults on the machines in their own plant; the training lead's objective is passing a standard fault-finding assessment. Agree a representative whole task (diagnosing a simulated fault on a familiar machine), task classes from a single obvious fault to intermittent multiple faults, a reasoning-and-outcome rubric, permitted aids (the wiring diagram, not the fault table), and a one-month delayed task on a less familiar machine as the transfer outcome. Meter use, a routine, gets part-task practice only if it is slow inside the whole task.</p>
+<p>Record: <strong>task and class → support given and removed → response and reasoning → candidate interpretations and confidence basis → distinguishing probe → chosen next task and justification → next observation at the stated horizon</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarise this record, but must not invent missing inputs or assign numerical state probabilities without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/whole-task-performance/">Whole-task performance</a>, <a href="../../elements/supportive-information/">supportive information</a>, <a href="../../elements/procedural-information/">procedural information</a>, <a href="../../elements/just-in-time-information/">just-in-time information</a>, <a href="../../elements/part-task-practice/">part-task practice</a>, <a href="../../elements/fading/">fading</a>, <a href="../../elements/scaffolding/">scaffolding</a>, <a href="../../elements/worked-examples/">worked examples</a>, <a href="../../elements/problem-presentation/">problem presentation</a> and <a href="../../elements/assessment/">assessment</a>. The pattern also applies <a href="../../principles/guided-practice/">guided practice</a>, <a href="../../principles/problem-based-learning/">problem-based learning</a>, <a href="../../principles/competency-based-learning-assessment/">competency-based learning and assessment</a> and <a href="../../principles/worked-examples/">worked examples</a>; the <a href="../worked-examples/">worked-examples pattern</a> is the lesson-level policy for the support inside a task class.</p>
+<p>This pattern is scoped to complex skills where whole-task transfer is the objective; it is excessive for single facts or one-step procedures, and its analysis and sequencing cost design time. The evidence above tests components in other configurations, not the pattern as a whole, and the conditional branches remain to be tested with learners.</p>
 <h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../problem-based-learning-pbl/">Problem-Based Learning (PBL)</a></li>
@@ -1048,17 +882,92 @@
 <li>Technical workforce training where learners perform increasingly realistic troubleshooting tasks.</li>
 <li>Professional education sequences that combine authentic tasks, coaching, and targeted subskill drills.</li>
 </ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Strong fit for complex-skill domains where transfer matters more than short-term task ease.</li>
-<li>Helps preserve authentic performance demands while still protecting novices from overload.</li>
-</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>van Merrienboer, J. J. G. (1997). <em>Training complex cognitive skills</em>. Educational Technology Publications.</li>
 <li>van Merrienboer, J. J. G., Kester, L., &amp; Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. <em>Applied Cognitive Psychology, 20</em>(3), 343-352. <a href="https://doi.org/10.1002/acp.1250">https://doi.org/10.1002/acp.1250</a></li>
 <li>van Merrienboer, J. J. G., &amp; Kirschner, P. A. (2018). <em>Ten steps to complex learning</em> (3rd ed.). Routledge.</li>
 </ul>
+<!-- deprecated 2026-10-01: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.
+
+## Description
+4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice. The pattern is designed for skills that require learners to integrate knowledge, strategy, and procedure rather than master isolated facts. Its central move is to keep the whole task visible while still managing difficulty through sequencing, scaffolding, and selective automation of subskills.
+
+The pattern is strongest when learners need transfer to authentic performance. It is not mainly a content-delivery model. It is a design approach for building sequences in which learners perform meaningful tasks, receive just enough support, and gradually work with more variability and complexity over time.
+## Implications
+
+### Context
+#### Requirements
+- **Complex performance goals**: Best used when the target involves coordination of multiple skills in realistic tasks.
+- **A sequence of whole tasks**: Tasks should progress from simpler to more complex while preserving meaningful structure.
+- **Supportive and procedural information**: Learners need conceptual guidance before or around the task and just-in-time directions during performance.
+- **Selective part-task practice**: Routine elements can be isolated when automation is necessary and the whole task would overload absolute novices.
+#### Constraints
+- **Design intensity**: 4C/ID requires careful sequencing, task-class design, and support planning.
+- **Weak fit for simple recall**: It is excessive for instruction focused mainly on memorization or single-step procedures.
+- **Scaffolding quality matters**: Poorly timed support can either overload learners or over-support them.
+- **Whole-task complexity can swamp novices**: Designers still need to manage intrinsic load deliberately.
+#### Grain Size
+- Unit
+- Course
+- Training sequence
+
+### Target Goals
+- **Complex skill acquisition**: Building integrated performance rather than detached subskills.
+- **Transfer**: Preparing learners for real or realistic practice conditions.
+- **Strategic and procedural coordination**: Combining conceptual understanding with fluent execution.
+
+### Target Learners
+- **Adult and professional learners**: Strong fit for workforce, technical, medical, and higher education contexts.
+- **Learners preparing for authentic performance**: Best when the outcome is application in practice, not only classroom recall.
+- **Novices in complex domains**: Particularly useful when complexity must be managed without losing sight of the whole task.
+
+### Theory
+#### Supporting
+- Cognitive load theory — complex performance should be sequenced so intrinsic load is manageable and extraneous load stays low.
+- Whole-task instructional design traditions — authentic coordinated performance supports transfer better than isolated training alone.
+- Scaffolding and fading perspectives — supports should be gradually withdrawn as learners gain control.
+#### Contradicting / Qualifying
+- Not all skills require full 4C/ID treatment; some can be learned more efficiently through simpler explicit instruction sequences.
+- Part-task work is a support inside the pattern, not the organizing center.
+
+### Claims
+#### Supporting
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+#### Contradicting
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+## Design
+
+### Sequence
+1. Present a whole task at an entry level learners can attempt.
+2. Provide supportive information that helps learners understand the task class and relevant strategies.
+3. Deliver procedural information just in time during task performance.
+4. Add part-task practice for routine subskills that need automation.
+5. Increase task variability and complexity while fading supports.
+
+### Elements Used
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Part-task Practice](../elements/part-task-practice.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Assessment](../elements/assessment.md)
+
+### Affordances
+- [Guided Practice](../principles/guided-practice.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Worked Examples](../principles/worked-examples.md)
+
+### Personalization
+- Task complexity can be adjusted by changing constraints, support, and variability.
+- Procedural supports can be faded at different rates for different learners.
+- Part-task practice can be targeted only to the subskills a learner has not yet automated.
+## Impact
+- Strong fit for complex-skill domains where transfer matters more than short-term task ease.
+- Helps preserve authentic performance demands while still protecting novices from overload.
+-->
+
 <details class="info">
 <summary>Page metadata</summary>
 <table>
@@ -1087,7 +996,7 @@
 </tr>
 <tr>
 <td><code>description</code></td>
-<td><code>4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice.</code></td>
+<td><code>A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals.</code></td>
 </tr>
 <tr>
 <td><code>status</code></td>
@@ -1103,7 +1012,7 @@
 </tr>
 <tr>
 <td><code>generated</code></td>
-<td>by <code>codex/unspecified</code> on <code>2026-04-07</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-01</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
