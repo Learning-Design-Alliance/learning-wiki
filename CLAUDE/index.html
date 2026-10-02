@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, strategies, theories, and empirical claims.">
+        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, designs, strategies, design processes and methods, theories, learner variables, and empirical claims.">
       
       
       
@@ -2878,6 +2878,10 @@ finds out.</p>
   descriptions go there. Every kind list knows it, and <code>check_nav_coverage</code> passes. The triage's design
   pages move in a separate change, by <code>scripts/move_pages_kind.py</code>, which repoints their links (a move
   across kinds cannot be carried by an alias).</li>
+<li><strong>The README's page-count table is generated</strong> (<code>build_indexes.py</code>, between <code>page-counts</code> markers; CI runs
+  <code>build_indexes.py --check</code>). It was hand-written, so it listed no designs and carried September's counts. The
+  dashboard's editable folders and the MCP search description now include designs (and, for the dashboard,
+  processes and methods, which it had never allowed).</li>
 <li><strong>The triage was applied</strong> (<code>eval/page-triage/README.md</code>): a third model settled 270 of the 305 flagged rows;
   188 pages moved to their kind (115 to <code>designs/</code>), and 22 duplicate principles and patterns were folded
   into 21 pages by <code>scripts/merge_pages.py</code>, each fold's slug an alias of its survivor and its body kept in a
