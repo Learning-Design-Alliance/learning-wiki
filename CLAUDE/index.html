@@ -373,6 +373,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../strategies/" class="md-nav__link">
         
   
@@ -672,6 +699,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#2026-10-02-night-a-designs-kind" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-02 (night) — a designs/ kind
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-02-evening-batch-12-landed-the-pbl-pair-reworked-and-re-tested" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1542,6 +1580,17 @@
     <span class="md-ellipsis">
       
         Pattern
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#design" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Design
       
     </span>
   </a>
@@ -1666,6 +1715,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#2026-10-02-night-a-designs-kind" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-02 (night) — a designs/ kind
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-02-evening-batch-12-landed-the-pbl-pair-reworked-and-re-tested" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2536,6 +2596,17 @@
     <span class="md-ellipsis">
       
         Pattern
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#design" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Design
       
     </span>
   </a>
@@ -2739,8 +2810,11 @@ work is done, not that the check is broken.</p>
   <code>## Examples</code>. Do not create context- or domain-specific patterns, and do not report "no pattern for
   this course" as a gap. Some existing <code>patterns/</code> pages are designs in this sense (the Duolingo pages,
   <code>kindergarten-balance-scale-equal-sign-lesson-sequence</code>, <code>tutor-led-strategies-adult-language-lessons</code>,
-  <code>elderly-refugee-programs-beyond-language-learning</code>, among others); reclassifying them is open and
-  needs a decision on where designs live.</p>
+  <code>elderly-refugee-programs-beyond-language-learning</code>, among others). <strong>Designs live in <code>designs/</code></strong>
+  (maintainer, 2026-10-02), a kind of their own, with <code>id:</code> like the other identified kinds: the
+  triaged ones move there from <code>patterns/</code>, and Lazuli-generated design descriptions are added there.
+  A design page says which patterns it uses and for what (<code>## Patterns Used</code>); the evidence stays on
+  the patterns and claims it links.</p>
 </li>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
@@ -2761,6 +2835,15 @@ finds out.</p>
   of <code>cognitive-load-management</code>, <code>scaffolding-and-fading</code>, <code>self-regulated-learning</code>, <code>cooperative-learning</code>,
   <code>direct-instruction</code>, <code>peer-discussion</code>, <code>patterns/team-based-learning</code>): fold their siblings into them or
   port the conversion before the next wave.</li>
+</ul>
+<h3 id="2026-10-02-night-a-designs-kind">2026-10-02 (night) — a <code>designs/</code> kind<a class="headerlink" href="#2026-10-02-night-a-designs-kind" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><code>designs/</code> is the tenth content kind</strong> (maintainer's decision): a design for one setting, course,
+  population or product, which the settled rule says is never a pattern. It carries <code>id:</code>, resolves in
+  <code>wiki-index.json</code> as <code>design</code>, takes the Design template below, and Lazuli-generated design
+  descriptions go there. Every kind list knows it, and <code>check_nav_coverage</code> passes. The triage's design
+  pages move in a separate change, by <code>scripts/move_pages_kind.py</code>, which repoints their links (a move
+  across kinds cannot be carried by an alias).</li>
 </ul>
 <h3 id="2026-10-02-evening-batch-12-landed-the-pbl-pair-reworked-and-re-tested">2026-10-02 (evening) — batch 12 landed; the PBL pair reworked and re-tested<a class="headerlink" href="#2026-10-02-evening-batch-12-landed-the-pbl-pair-reworked-and-re-tested" title="Permanent link">&para;</a></h3>
 <ul>
@@ -5150,7 +5233,7 @@ does not read it.</p>
 </table>
 <hr />
 <h2 id="frontmatter-fields">Frontmatter fields<a class="headerlink" href="#frontmatter-fields" title="Permanent link">&para;</a></h2>
-<p>Every content page (principle, element, pattern, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
+<p>Every content page (principle, element, pattern, design, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
 <table>
 <thead>
 <tr>
@@ -5163,7 +5246,7 @@ does not read it.</p>
 <tr>
 <td><code>type</code></td>
 <td>Yes</td>
-<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>strategy</code> | <code>process</code> | <code>method</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
+<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>design</code> | <code>strategy</code> | <code>process</code> | <code>method</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>
@@ -5338,6 +5421,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
+  designs/           ← designs for one setting, course, population or product, using patterns
   strategies/        ← teaching strategies (concrete activity recipes)
   processes/         ← design processes: how a course gets made (ADDIE, SAM, design thinking, UbD)
   methods/           ← design methods: the practices a process is made of (task analysis, personas, crosswalks)
@@ -5642,6 +5726,59 @@ author:
 
 <span class="gu">## Examples</span>
 &lt;!-- Links to products / lessons / courses with ratings --&gt;
+- 
+
+<span class="gu">## Key Sources</span>
+- 
+</code></pre></div>
+<hr />
+<h3 id="design">Design<a class="headerlink" href="#design" title="Permanent link">&para;</a></h3>
+<p>A design for one setting, course, population or product: a self-paced mobile Italian A1 course, a
+clinical onboarding programme, one study's lesson sequence. It is never general (that is a pattern);
+it says what it uses the general patterns for, given its learners, goals and constraints.</p>
+<div class="highlight"><pre><span></span><code>---
+type: design
+id: [design-slug]      # equal to the filename
+title: [Design Name]
+description: [One sentence: for whom, in what setting, to what end]
+status: draft
+generated:
+  by: &lt;actor&gt;
+  at: YYYY-MM-DD
+author:
+<span class="gu">grain_size:            # program / course / unit / lesson</span>
+<span class="gu">---</span>
+
+<span class="gh"># [Design Name]</span>
+
+<span class="k">&gt; </span><span class="ge">**Design** · [All designs](index.md)</span>
+
+<span class="gu">## Description</span>
+[What the design is, who it is for and where it runs.]
+
+<span class="gu">## Context</span>
+<span class="gu">### Learners</span>
+- 
+<span class="gu">### Learning Goals</span>
+- 
+<span class="gu">#### Requirements</span>
+- 
+<span class="gu">#### Constraints</span>
+- 
+
+<span class="gu">## Patterns Used</span>
+&lt;!-- Each pattern the design applies, and what for: [<span class="nt">Pattern Name</span>](<span class="na">../patterns/pattern-slug.md</span>): ... --&gt;
+- 
+
+<span class="gu">## Sequence</span>
+&lt;!-- Steps with links to elements and strategies --&gt;
+1. 
+
+<span class="gu">### Claims</span>
+&lt;!-- Claims bearing on this design's choices, with evidence tags --&gt;
+- 
+
+<span class="gu">## Related Designs</span>
 - 
 
 <span class="gu">## Key Sources</span>
