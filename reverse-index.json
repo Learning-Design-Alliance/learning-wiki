@@ -1,13 +1,13 @@
 {
  "coverage": {
   "claims->claims": 3131,
-  "claims->elements": 118,
+  "claims->elements": 117,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 96,
-  "claims->principles": 124,
+  "claims->principles": 123,
   "claims->processes": 3,
-  "claims->theories": 220,
+  "claims->theories": 218,
   "elements->claims": 459,
   "elements->elements": 452,
   "elements->learner-variables": 1,
@@ -32,15 +32,15 @@
   "patterns->elements": 115,
   "patterns->methods": 2,
   "patterns->patterns": 158,
-  "patterns->principles": 88,
-  "patterns->theories": 54,
+  "patterns->principles": 90,
+  "patterns->theories": 50,
   "principles->claims": 428,
-  "principles->elements": 87,
+  "principles->elements": 86,
   "principles->methods": 2,
-  "principles->patterns": 88,
+  "principles->patterns": 94,
   "principles->principles": 310,
   "principles->processes": 3,
-  "principles->theories": 140,
+  "principles->theories": 135,
   "processes->claims": 11,
   "processes->elements": 10,
   "processes->methods": 6,
@@ -2213,13 +2213,18 @@
      },
      {
       "polarity": "+",
+      "slug": "peer-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "professional-development",
       "strength": "S"
      },
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "team-based-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -3578,6 +3583,13 @@
      },
      {
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "mastery-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -7068,6 +7080,11 @@
      },
      {
       "polarity": "+",
+      "slug": "mastery-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "responsive-classroom",
       "strength": "M"
      },
@@ -7080,6 +7097,11 @@
     "principles": [
      {
       "slug": "formative-assessment"
+     },
+     {
+      "polarity": "+",
+      "slug": "mastery-learning",
+      "strength": "M"
      }
     ],
     "processes": [
@@ -12881,9 +12903,6 @@
       "slug": "self-affirmation-improves-outcomes"
      },
      {
-      "slug": "self-determination-instruction-improves-outcomes"
-     },
-     {
       "slug": "self-determined-learning-model-of-instruction-improves-self-determination"
      },
      {
@@ -16663,6 +16682,13 @@
       "slug": "strategy-instruction-improves-writing-quality"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-apprenticeship",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -17160,6 +17186,20 @@
      {
       "polarity": "+",
       "slug": "domain-context",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
       "strength": "M"
      }
     ],
@@ -23439,7 +23479,24 @@
       "slug": "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "peer-instruction",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "team-based-learning",
+      "strength": "M"
+     }
+    ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "peer-discussion",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "retrieval-practice",
@@ -24644,6 +24701,11 @@
      {
       "polarity": "+",
       "slug": "considering-the-opposite",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "peer-discussion",
       "strength": "M"
      }
     ],
@@ -26027,6 +26089,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "cooperative-learning",
@@ -28466,6 +28533,11 @@
      {
       "polarity": "+",
       "slug": "laboratories-satisfying-cooperative-learning-conditions",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "peer-discussion",
       "strength": "M"
      }
     ]
@@ -31688,6 +31760,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "cognitive-apprenticeship",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "cognitive-flexibility-theory",
       "strength": "M"
@@ -31820,6 +31897,11 @@
      {
       "polarity": "+",
       "slug": "problem-based-learning-pbl",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "problem-based-learning",
       "strength": "M"
      },
      {
@@ -32137,7 +32219,7 @@
      {
       "polarity": "+",
       "slug": "scaffolding-and-fading",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "slug": "scaffolding-fading"
@@ -32933,6 +33015,20 @@
       "slug": "learning-cycle-effective-science-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "peer-instruction",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "peer-discussion",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -33013,7 +33109,7 @@
     ],
     "principles": [
      {
-      "polarity": "-",
+      "polarity": "~",
       "slug": "cooperative-learning",
       "strength": "M"
      }
@@ -33134,12 +33230,17 @@
      {
       "polarity": "+",
       "slug": "cooperative-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "social-emotional-learning",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "team-based-learning",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -33581,6 +33682,20 @@
       "slug": "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "cooperative-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cooperative-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -33997,6 +34112,11 @@
      {
       "polarity": "+",
       "slug": "four-characteristics-criterion-referenced-tests",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "mastery-learning",
       "strength": "W"
      }
     ],
@@ -37406,6 +37526,13 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
+      "strength": "M"
+     }
+    ],
+    "principles": [
      {
       "polarity": "+",
       "slug": "direct-instruction",
@@ -43190,9 +43317,6 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
-      "slug": "peer-assisted-learning-improves-achievement"
-     },
-     {
       "slug": "productive-failure-improves-conceptual-learning"
      },
      {
@@ -44273,7 +44397,9 @@
       "strength": "M"
      },
      {
-      "slug": "scaffolding-and-fading"
+      "polarity": "~",
+      "slug": "scaffolding-and-fading",
+      "strength": "M"
      }
     ],
     "processes": [
@@ -45101,6 +45227,18 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "direct-instruction",
@@ -46326,6 +46464,11 @@
     ],
     "principles": [
      {
+      "polarity": "+",
+      "slug": "scaffolding-and-fading",
+      "strength": "W"
+     },
+     {
       "slug": "worked-examples"
      }
     ]
@@ -46461,6 +46604,16 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "4cid-four-component-instructional-design",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "cognitive-apprenticeship",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "fading-based-scaffolding-approaches-serious-games",
       "strength": "S"
      },
@@ -46569,7 +46722,7 @@
      {
       "polarity": "+",
       "slug": "scaffolding-and-fading",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -47890,6 +48043,11 @@
       "polarity": "+",
       "slug": "formative-assessment",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "team-based-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -64023,6 +64181,13 @@
       "slug": "daily-before-and-after-srl-learning-diary",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
+      "strength": "M"
+     }
     ]
    },
    "learning-format-perspectives-correlate-immigrant-integration": {
@@ -66037,6 +66202,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "match-worked-example-type-to-learner-prior-knowledge",
       "strength": "M"
      }
@@ -67053,6 +67223,18 @@
       "polarity": "+",
       "slug": "mastery-learning-formative-corrective-cycle",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "mastery-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "mastery-learning",
+      "strength": "W"
      }
     ]
    },
@@ -67114,12 +67296,22 @@
       "polarity": "+",
       "slug": "game-based-mastery-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mastery-learning",
+      "strength": "M"
      }
     ],
     "principles": [
      {
       "polarity": "+",
       "slug": "learner-centered-paradigm",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mastery-learning",
       "strength": "M"
      }
     ]
@@ -69121,6 +69313,18 @@
       "polarity": "+",
       "slug": "self-directed-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -69653,12 +69857,22 @@
       "strength": "S"
      },
      {
+      "polarity": "-",
+      "slug": "problem-based-learning",
+      "strength": "S"
+     },
+     {
       "polarity": "~",
       "slug": "research-based-learning",
       "strength": "M"
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
+      "strength": "S"
+     },
      {
       "polarity": "+",
       "slug": "metacognition-prompts-in-inquiry-introduction",
@@ -69668,6 +69882,11 @@
       "polarity": "+",
       "slug": "minimize-errors-for-precision-and-associations",
       "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "problem-based-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -71835,7 +72054,14 @@
      {
       "polarity": "+",
       "slug": "multimedia-learning",
-      "strength": "S"
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -72005,6 +72231,13 @@
       "polarity": "-",
       "slug": "selected-response-assessment-items",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "-",
+      "slug": "team-based-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -77086,6 +77319,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "holistic-learning",
       "strength": "M"
@@ -78251,7 +78489,24 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "peer-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "student-authored-texts-for-conceptual-change",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "team-based-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "peer-discussion",
       "strength": "M"
      }
     ],
@@ -82411,6 +82666,13 @@
       "strength": "S"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -83656,6 +83918,23 @@
      {
       "polarity": "~",
       "slug": "direct-instruction",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
       "strength": "S"
      }
     ],
@@ -85667,6 +85946,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-apprenticeship",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -85964,6 +86250,13 @@
       "strength": "S"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "multimedia-learning",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -86004,7 +86297,7 @@
      {
       "polarity": "~",
       "slug": "multimedia-learning",
-      "strength": "W"
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -86470,6 +86763,13 @@
      },
      {
       "slug": "non-stem-weak-proportional-hypothetico-deductive-reasoning"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "peer-instruction",
+      "strength": "W"
      }
     ]
    },
@@ -87832,7 +88132,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "retrieval-practice",
       "strength": "M"
      }
@@ -89639,7 +89939,7 @@
       "strength": "M"
      },
      {
-      "polarity": "-",
+      "polarity": "~",
       "slug": "scaffolding-and-fading",
       "strength": "M"
      }
@@ -89661,6 +89961,13 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "scaffolding-and-fading",
+      "strength": "M"
      }
     ]
    },
@@ -90461,6 +90768,11 @@
       "polarity": "~",
       "slug": "gamification",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "multimedia-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -90499,6 +90811,25 @@
      {
       "polarity": "~",
       "slug": "working-memory",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "multimedia-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "multimedia-learning",
       "strength": "M"
      }
     ],
@@ -90986,6 +91317,18 @@
       "polarity": "~",
       "slug": "formative-assessment",
       "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -96709,7 +97052,9 @@
       "strength": "M"
      },
      {
-      "slug": "self-regulated-learning"
+      "polarity": "+",
+      "slug": "self-regulated-learning",
+      "strength": "M"
      },
      {
       "slug": "self-regulation"
@@ -98105,6 +98450,20 @@
      {
       "polarity": "+",
       "slug": "self-regulation",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
       "strength": "M"
      }
     ],
@@ -100280,7 +100639,19 @@
       "slug": "lazarowitz-cooperative-biology-achievement"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "M"
+     }
+    ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "laboratories-satisfying-cooperative-learning-conditions",
@@ -102323,7 +102694,7 @@
      {
       "polarity": "~",
       "slug": "peer-instruction",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -102420,7 +102791,7 @@
      {
       "polarity": "~",
       "slug": "mastery-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -102712,6 +103083,23 @@
      {
       "polarity": "+",
       "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
       "strength": "M"
      }
     ],
@@ -103054,6 +103442,13 @@
       "polarity": "~",
       "slug": "three-lesson-web-based-srl-training",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -104617,6 +105012,13 @@
       "slug": "tutoring-benefits-tutors-and-tutees"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -105215,7 +105617,7 @@
     ],
     "principles": [
      {
-      "polarity": "-",
+      "polarity": "~",
       "slug": "scaffolding-and-fading",
       "strength": "M"
      }
@@ -108913,6 +109315,13 @@
      {
       "polarity": "+",
       "slug": "inquiry-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
       "strength": "M"
      }
     ],
@@ -114449,10 +114858,22 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
       "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
       "strength": "M"
      }
     ],
@@ -114820,7 +115241,7 @@
      {
       "polarity": "+",
       "slug": "4cid-four-component-instructional-design",
-      "strength": "M"
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -114895,7 +115316,7 @@
      {
       "polarity": "+",
       "slug": "problem-based-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -115002,7 +115423,7 @@
      {
       "polarity": "+",
       "slug": "problem-based-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -115450,7 +115871,7 @@
      {
       "polarity": "+",
       "slug": "cognitive-apprenticeship",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -115579,9 +116000,6 @@
      },
      {
       "slug": "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples"
-     },
-     {
-      "slug": "peer-assisted-learning-improves-achievement"
      },
      {
       "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
@@ -115719,9 +116137,6 @@
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
-     },
-     {
-      "slug": "peer-assisted-learning-improves-achievement"
      },
      {
       "slug": "prior-knowledge-by-worked-example-type-interaction-on-germane-load"
@@ -116782,9 +117197,6 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
-      "slug": "peer-assisted-learning-improves-achievement"
-     },
-     {
       "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
      },
      {
@@ -117709,6 +118121,9 @@
     "patterns": [
      {
       "slug": "authentic-assessment"
+     },
+     {
+      "slug": "multimedia-learning"
      },
      {
       "slug": "positive-behavioral-interventions-and-supports"
@@ -119721,6 +120136,9 @@
     "patterns": [
      {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
+     },
+     {
+      "slug": "mastery-learning"
      }
     ],
     "principles": [
@@ -123546,9 +123964,6 @@
     ],
     "patterns": [
      {
-      "slug": "cooperative-learning"
-     },
-     {
       "slug": "team-based-learning"
      }
     ],
@@ -124003,9 +124418,6 @@
       "slug": "concept-attainment"
      },
      {
-      "slug": "cooperative-learning"
-     },
-     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -124019,9 +124431,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "cooperative-learning"
-     },
      {
       "slug": "disciplinary-literacy"
      },
@@ -125495,6 +125904,9 @@
       "slug": "concept-attainment"
      },
      {
+      "slug": "cooperative-learning"
+     },
+     {
       "slug": "debate-format"
      },
      {
@@ -125516,18 +125928,12 @@
       "slug": "structured-peer-review"
      },
      {
-      "slug": "team-based-learning"
-     },
-     {
       "slug": "traditional-lecture-reading-midterm-final-assessment"
      }
     ],
     "principles": [
      {
       "slug": "adaptive-learning"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "personalization"
@@ -128162,6 +128568,9 @@
     "patterns": [
      {
       "slug": "cognitive-flexibility-theory"
+     },
+     {
+      "slug": "problem-based-learning"
      }
     ],
     "strategies": [
@@ -129470,9 +129879,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "cooperative-learning"
-     },
      {
       "slug": "personalization"
      },
@@ -134238,9 +134644,6 @@
       "slug": "responsive-teaching"
      },
      {
-      "slug": "scaffolding-and-fading"
-     },
-     {
       "slug": "social-presence"
      }
     ],
@@ -137416,6 +137819,11 @@
       "slug": "enhanced-mc-partial-credit-questions"
      }
     ],
+    "patterns": [
+     {
+      "slug": "peer-instruction"
+     }
+    ],
     "strategies": [
      {
       "slug": "peer-instruction"
@@ -137762,6 +138170,13 @@
      }
     ]
    },
+   "daily-before-and-after-srl-learning-diary": {
+    "patterns": [
+     {
+      "slug": "self-regulated-learning"
+     }
+    ]
+   },
    "data-analysis": {
     "elements": [
      {
@@ -137805,6 +138220,11 @@
     "elements": [
      {
       "slug": "simulation"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "peer-instruction"
      }
     ],
     "strategies": [
@@ -138121,6 +138541,9 @@
     "patterns": [
      {
       "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "direct-instruction"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -140069,7 +140492,13 @@
     ],
     "patterns": [
      {
+      "slug": "4cid-four-component-instructional-design"
+     },
+     {
       "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "direct-instruction"
      },
      {
       "slug": "professional-development"
@@ -140657,6 +141086,11 @@
       "slug": "scaffolding"
      }
     ],
+    "patterns": [
+     {
+      "slug": "self-regulated-learning"
+     }
+    ],
     "principles": [
      {
       "slug": "procedural-learning"
@@ -140810,6 +141244,9 @@
       "slug": "debate-format"
      },
      {
+      "slug": "direct-instruction"
+     },
+     {
       "slug": "discussion-group"
      },
      {
@@ -140846,10 +141283,16 @@
       "slug": "peer-instruction"
      },
      {
+      "slug": "problem-based-learning"
+     },
+     {
       "slug": "professional-development"
      },
      {
       "slug": "reflective-practice"
+     },
+     {
+      "slug": "self-regulated-learning"
      },
      {
       "slug": "structured-academic-controversy-sac"
@@ -141751,6 +142194,11 @@
       "slug": "self-regulation"
      }
     ],
+    "patterns": [
+     {
+      "slug": "self-regulated-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "encouraging_self-advocacy"
@@ -141948,6 +142396,11 @@
     ]
    },
    "group-processing": {
+    "patterns": [
+     {
+      "slug": "cooperative-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "cooperative_classroom_activities"
@@ -141960,6 +142413,14 @@
     ]
    },
    "group-roles": {
+    "patterns": [
+     {
+      "slug": "cooperative-learning"
+     },
+     {
+      "slug": "problem-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "cooperative_classroom_activities"
@@ -141999,6 +142460,9 @@
     "patterns": [
      {
       "slug": "collaborative-learning"
+     },
+     {
+      "slug": "cooperative-learning"
      },
      {
       "slug": "jigsaw"
@@ -142161,9 +142625,9 @@
       "slug": "just-in-time-learning"
      }
     ],
-    "principles": [
+    "patterns": [
      {
-      "slug": "scaffolding-and-fading"
+      "slug": "cognitive-apprenticeship"
      }
     ],
     "strategies": [
@@ -143005,6 +143469,11 @@
      {
       "slug": "productive-failure-improves-conceptual-learning"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "problem-based-learning"
+     }
     ]
    },
    "iteration-coefficient-sequence": {
@@ -143116,6 +143585,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "4cid-four-component-instructional-design"
+     },
      {
       "slug": "just-in-time-learning"
      }
@@ -143793,6 +144265,11 @@
     ]
    },
    "misconception-probes": {
+    "patterns": [
+     {
+      "slug": "peer-instruction"
+     }
+    ],
     "strategies": [
      {
       "slug": "refutation-texts"
@@ -143828,6 +144305,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "cognitive-apprenticeship"
+     },
      {
       "slug": "direct-instruction"
      },
@@ -144041,6 +144521,11 @@
     "elements": [
      {
       "slug": "direct-instruction"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "multimedia-learning"
      }
     ]
    },
@@ -144574,6 +145059,11 @@
       "slug": "critical-constructive-feedback-is-neglected-at-multiple-stages"
      }
     ],
+    "patterns": [
+     {
+      "slug": "multimedia-learning"
+     }
+    ],
     "theories": [
      {
       "slug": "critical-constructive-feedback-processing"
@@ -144600,6 +145090,11 @@
      },
      {
       "slug": "rubric-design"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "team-based-learning"
      }
     ],
     "strategies": [
@@ -144793,6 +145288,9 @@
      },
      {
       "slug": "structured-peer-review"
+     },
+     {
+      "slug": "team-based-learning"
      },
      {
       "slug": "think-pair-share"
@@ -145106,6 +145604,9 @@
       "slug": "cognitively-guided-instruction-cgi-for-math"
      },
      {
+      "slug": "cooperative-learning"
+     },
+     {
       "slug": "pogil"
      }
     ]
@@ -145117,6 +145618,11 @@
      },
      {
       "slug": "descriptive-evaluative-substantive-peer-criticism"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "self-regulated-learning"
      }
     ],
     "strategies": [
@@ -145484,6 +145990,11 @@
      {
       "slug": "learner-choice"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "multimedia-learning"
+     }
     ]
    },
    "perspective-taking": {
@@ -145619,9 +146130,6 @@
      },
      {
       "slug": "parent-involvement-improves-achievement"
-     },
-     {
-      "slug": "peer-assisted-learning-improves-achievement"
      },
      {
       "slug": "physical-experience-enhances-science-learning"
@@ -145801,10 +146309,16 @@
     ],
     "patterns": [
      {
+      "slug": "cognitive-apprenticeship"
+     },
+     {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
      },
      {
       "slug": "develop-understanding"
+     },
+     {
+      "slug": "direct-instruction"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -145817,6 +146331,9 @@
      },
      {
       "slug": "learning-for-use-lfu-model"
+     },
+     {
+      "slug": "mastery-learning"
      },
      {
       "slug": "merrills-first-principles-of-instruction"
@@ -148373,6 +148890,11 @@
       "slug": "text-underlining-and-annotating"
      }
     ],
+    "patterns": [
+     {
+      "slug": "team-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "elaborative-interrogation"
@@ -148739,6 +149261,11 @@
       "slug": "procedural-learning"
      }
     ],
+    "patterns": [
+     {
+      "slug": "4cid-four-component-instructional-design"
+     }
+    ],
     "principles": [
      {
       "slug": "procedural-learning"
@@ -148804,6 +149331,13 @@
     "elements": [
      {
       "slug": "epitome-elaboration-theory"
+     }
+    ]
+   },
+   "prompts": {
+    "patterns": [
+     {
+      "slug": "self-regulated-learning"
      }
     ]
    },
@@ -149657,6 +150191,14 @@
       "slug": "formative-assessment"
      }
     ],
+    "patterns": [
+     {
+      "slug": "cooperative-learning"
+     },
+     {
+      "slug": "team-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "dolch_sight_word_lists"
@@ -150145,6 +150687,9 @@
       "slug": "problem-based-learning-pbl"
      },
      {
+      "slug": "problem-based-learning"
+     },
+     {
       "slug": "professional-development"
      },
      {
@@ -150458,6 +151003,9 @@
     "patterns": [
      {
       "slug": "spaced-learning"
+     },
+     {
+      "slug": "team-based-learning"
      }
     ],
     "strategies": [
@@ -150621,6 +151169,14 @@
     ]
    },
    "rubric": {
+    "patterns": [
+     {
+      "slug": "mastery-learning"
+     },
+     {
+      "slug": "self-regulated-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "building_community_through_peer_feedback_in_pbl"
@@ -150873,13 +151429,22 @@
     ],
     "patterns": [
      {
+      "slug": "4cid-four-component-instructional-design"
+     },
+     {
       "slug": "authentic-assessment"
      },
      {
       "slug": "cognitive-apprenticeship"
      },
      {
+      "slug": "direct-instruction"
+     },
+     {
       "slug": "experiential-learning-cycle"
+     },
+     {
+      "slug": "problem-based-learning"
      },
      {
       "slug": "workshop-model"
@@ -151396,6 +151961,11 @@
       "slug": "scaffolded-inquiry"
      }
     ],
+    "patterns": [
+     {
+      "slug": "multimedia-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "5-minute_writing_conferences"
@@ -151807,6 +152377,11 @@
      },
      {
       "slug": "metacognition"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "self-regulated-learning"
      }
     ],
     "strategies": [
@@ -152693,6 +153268,11 @@
     ]
    },
    "supportive-information": {
+    "patterns": [
+     {
+      "slug": "4cid-four-component-instructional-design"
+     }
+    ],
     "processes": [
      {
       "slug": "ten-steps-to-complex-learning"
@@ -152905,11 +153485,6 @@
      },
      {
       "slug": "writing-workshop"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "scaffolding-and-fading"
      }
     ],
     "processes": [
@@ -154327,18 +154902,22 @@
     ],
     "patterns": [
      {
+      "slug": "4cid-four-component-instructional-design"
+     },
+     {
       "slug": "authentic-assessment"
+     },
+     {
+      "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "direct-instruction"
      },
      {
       "slug": "merrills-first-principles-demonstration"
      },
      {
       "slug": "worked-examples"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "scaffolding-and-fading"
      }
     ],
     "strategies": [
@@ -154981,6 +155560,11 @@
      },
      {
       "slug": "reigeluths-elaboration-theory"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "cognitive-load-theory"
      }
     ],
     "processes": [
@@ -156649,6 +157233,9 @@
       "slug": "modeling"
      },
      {
+      "slug": "scaffolding-and-fading"
+     },
+     {
       "slug": "situated-learning"
      }
     ],
@@ -157905,9 +158492,6 @@
       "slug": "social-constructionist-collaborative-writing-classroom"
      },
      {
-      "slug": "team-based-learning"
-     },
-     {
       "slug": "writing-workshop"
      }
     ],
@@ -158456,9 +159040,6 @@
      },
      {
       "slug": "positive-behavioral-interventions-and-supports"
-     },
-     {
-      "slug": "team-based-learning"
      }
     ],
     "processes": [
@@ -161027,9 +161608,6 @@
      },
      {
       "slug": "just-in-time-teaching"
-     },
-     {
-      "slug": "team-based-learning"
      }
     ],
     "principles": [
@@ -162583,6 +163161,9 @@
      },
      {
       "slug": "deliberate-practice"
+     },
+     {
+      "slug": "mastery-learning"
      }
     ],
     "strategies": [
@@ -162997,6 +163578,9 @@
     ],
     "principles": [
      {
+      "slug": "peer-discussion"
+     },
+     {
       "slug": "peer-learning"
      }
     ],
@@ -163157,6 +163741,11 @@
       "slug": "experiential-learning-cycle"
      }
     ],
+    "principles": [
+     {
+      "slug": "problem-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "case-based-learning"
@@ -163292,13 +163881,6 @@
      },
      {
       "slug": "tutor-led-strategies-adult-language-lessons"
-     }
-    ]
-   },
-   "project-and-instructional-space": {
-    "principles": [
-     {
-      "slug": "problem-based-learning"
      }
     ]
    },
@@ -163492,6 +164074,11 @@
     "learner-variables": [
      {
       "slug": "self-regulation"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "self-regulated-learning"
      }
     ]
    },
@@ -163809,6 +164396,11 @@
     "patterns": [
      {
       "slug": "just-in-time-teaching"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "retrieval-practice"
      }
     ],
     "processes": [
@@ -164363,6 +164955,9 @@
    },
    "worked-examples": {
     "patterns": [
+     {
+      "slug": "4cid-four-component-instructional-design"
+     },
      {
       "slug": "worked-examples-for-game-based-puzzle-problem-solving"
      }
@@ -165826,9 +166421,6 @@
       "slug": "concept-attainment"
      },
      {
-      "slug": "cooperative-learning"
-     },
-     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -165838,9 +166430,6 @@
       "polarity": "+",
       "slug": "just-in-time-teaching",
       "strength": "M"
-     },
-     {
-      "slug": "problem-based-learning"
      },
      {
       "slug": "professional-development"
@@ -168222,9 +168811,6 @@
      },
      {
       "slug": "authentic-assessment"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -174485,11 +175071,6 @@
       "slug": "learner-personas"
      }
     ],
-    "patterns": [
-     {
-      "slug": "multimedia-learning"
-     }
-    ],
     "principles": [
      {
       "slug": "adaptive-learning"
@@ -175361,9 +175942,6 @@
       "slug": "multimedia-principle-improves-learning"
      },
      {
-      "slug": "peer-assisted-learning-improves-achievement"
-     },
-     {
       "slug": "process-writing-improves-writing-quality"
      },
      {
@@ -175452,6 +176030,9 @@
     ],
     "patterns": [
      {
+      "slug": "4cid-four-component-instructional-design"
+     },
+     {
       "slug": "cognitive-load-theory"
      },
      {
@@ -175473,9 +176054,6 @@
      },
      {
       "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
-     },
-     {
-      "slug": "multimedia-learning"
      }
     ],
     "strategies": [
@@ -175674,9 +176252,6 @@
     "patterns": [
      {
       "slug": "body-scale-collaborative-construction"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "online-course-design"
@@ -176916,9 +177491,6 @@
      },
      {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
-     },
-     {
-      "slug": "mastery-learning"
      }
     ],
     "principles": [
@@ -177139,9 +177711,6 @@
       "slug": "mel-reasoning-pattern"
      },
      {
-      "slug": "problem-based-learning"
-     },
-     {
       "slug": "research-based-learning"
      }
     ],
@@ -177229,6 +177798,11 @@
     "elements": [
      {
       "slug": "positive-interdependence"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "cooperative-learning"
      }
     ],
     "principles": [
@@ -177727,6 +178301,11 @@
      {
       "slug": "pre-class-videolecture"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "direct-instruction"
+     }
     ]
    },
    "disciplinary-literacy": {
@@ -177818,11 +178397,6 @@
      },
      {
       "slug": "representational-drawing"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "multimedia-learning"
      }
     ],
     "principles": [
@@ -178726,9 +179300,6 @@
      },
      {
       "slug": "gagnes-9-events-of-instruction"
-     },
-     {
-      "slug": "mastery-learning"
      },
      {
       "slug": "peer-instruction"
@@ -179931,11 +180502,6 @@
      {
       "slug": "project-and-instructional-space"
      }
-    ],
-    "principles": [
-     {
-      "slug": "problem-based-learning"
-     }
     ]
    },
    "learner-choice": {
@@ -180365,9 +180931,6 @@
       "slug": "reflective-practice"
      },
      {
-      "slug": "retrieval-practice"
-     },
-     {
       "slug": "self-regulated-learning"
      },
      {
@@ -180517,6 +181080,11 @@
     "elements": [
      {
       "slug": "proximity"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "multimedia-learning"
      }
     ],
     "principles": [
@@ -181950,6 +182518,9 @@
     "patterns": [
      {
       "slug": "merrills-first-principles-activation"
+     },
+     {
+      "slug": "team-based-learning"
      }
     ],
     "principles": [
@@ -182493,6 +183064,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "cognitive-apprenticeship"
+     },
      {
       "slug": "merrills-first-principles-demonstration"
      }
@@ -186481,9 +187055,6 @@
       "slug": "peer-assessment-improves-performance"
      },
      {
-      "slug": "peer-assisted-learning-improves-achievement"
-     },
-     {
       "slug": "peer-feedback-accuracy-depends-on-expertise"
      },
      {
@@ -186705,16 +187276,10 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
       "slug": "concept-attainment"
      },
      {
       "slug": "constructive-alignment"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -186723,9 +187288,6 @@
       "polarity": "+",
       "slug": "project-and-instructional-space",
       "strength": "M"
-     },
-     {
-      "slug": "team-based-learning"
      },
      {
       "slug": "workshop-model"
@@ -186790,13 +187352,7 @@
       "slug": "considering-the-opposite"
      },
      {
-      "slug": "cooperative-learning"
-     },
-     {
       "slug": "digital-learning"
-     },
-     {
-      "slug": "direct-instruction"
      },
      {
       "slug": "disciplinary-literacy"
@@ -186851,9 +187407,6 @@
      },
      {
       "slug": "phonics"
-     },
-     {
-      "slug": "scaffolding-and-fading"
      },
      {
       "slug": "scaffolding-fading"
@@ -187379,16 +187932,10 @@
       "slug": "body-scale-collaborative-construction"
      },
      {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
       "slug": "concept-attainment"
      },
      {
       "slug": "constructive-alignment"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "polarity": "+",
@@ -187411,9 +187958,6 @@
      },
      {
       "slug": "responsive-classroom"
-     },
-     {
-      "slug": "team-based-learning"
      },
      {
       "slug": "workshop-model"
@@ -187455,12 +187999,6 @@
      },
      {
       "slug": "constructivist-learning"
-     },
-     {
-      "slug": "cooperative-learning"
-     },
-     {
-      "slug": "direct-instruction"
      },
      {
       "slug": "disciplinary-literacy"
@@ -188690,9 +189228,6 @@
     ],
     "principles": [
      {
-      "slug": "multimedia-learning"
-     },
-     {
       "slug": "universal-design-for-learning"
      }
     ],
@@ -189798,9 +190333,6 @@
       "slug": "peer-assessment-structured-criteria-improve-learning"
      },
      {
-      "slug": "peer-assisted-learning-improves-achievement"
-     },
-     {
       "slug": "peer-feedback-accuracy-depends-on-expertise"
      },
      {
@@ -190000,6 +190532,9 @@
     "principles": [
      {
       "slug": "adaptive-learning"
+     },
+     {
+      "slug": "cognitive-load-theory"
      }
     ],
     "strategies": [
@@ -191642,9 +192177,6 @@
      },
      {
       "slug": "knowledge-organization"
-     },
-     {
-      "slug": "multimedia-learning"
      },
      {
       "slug": "personalization"
@@ -195028,9 +195560,6 @@
       "slug": "rewards-undermine-intrinsic-motivation"
      },
      {
-      "slug": "self-determination-instruction-improves-outcomes"
-     },
-     {
       "slug": "self-determined-learning-model-of-instruction-improves-self-determination"
      },
      {
@@ -195065,9 +195594,6 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "cooperative-learning"
-     },
-     {
       "polarity": "+",
       "slug": "epistemic-games",
       "strength": "M"
@@ -195083,9 +195609,6 @@
      },
      {
       "slug": "social-emotional-learning"
-     },
-     {
-      "slug": "team-based-learning"
      }
     ],
     "principles": [
@@ -195096,9 +195619,6 @@
       "polarity": "+",
       "slug": "communities-of-innovation",
       "strength": "M"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "deliberate-practice"
@@ -195536,9 +196056,6 @@
       "slug": "self-assessment-improves-self-regulated-learning"
      },
      {
-      "slug": "self-determination-instruction-improves-outcomes"
-     },
-     {
       "slug": "self-determined-learning-model-of-instruction-improves-self-determination"
      },
      {
@@ -195634,9 +196151,6 @@
       "slug": "5e-learning-cycle"
      },
      {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
       "slug": "competency-based-learning"
      },
      {
@@ -195644,9 +196158,6 @@
      },
      {
       "slug": "experiential-learning-cycle"
-     },
-     {
-      "slug": "mastery-learning"
      },
      {
       "slug": "positive-behavioral-interventions-and-supports"
@@ -195720,9 +196231,6 @@
      },
      {
       "slug": "self-directed-learning"
-     },
-     {
-      "slug": "self-regulated-learning"
      },
      {
       "slug": "spaced-practice"
@@ -196687,12 +197195,6 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
-      "slug": "cooperative-learning"
-     },
-     {
       "slug": "data-storytelling-forage-remix-diy"
      },
      {
@@ -196719,9 +197221,6 @@
      },
      {
       "slug": "community-based-learning"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "disciplinary-literacy"
@@ -197190,9 +197689,6 @@
     ],
     "patterns": [
      {
-      "slug": "cooperative-learning"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -197203,9 +197699,6 @@
      },
      {
       "slug": "social-emotional-learning"
-     },
-     {
-      "slug": "team-based-learning"
      },
      {
       "slug": "workshop-model"
@@ -197219,9 +197712,6 @@
       "polarity": "+",
       "slug": "bullying-prevention-and-intervention",
       "strength": "M"
-     },
-     {
-      "slug": "cooperative-learning"
      },
      {
       "slug": "gamification"
