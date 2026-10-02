@@ -25,7 +25,7 @@ Counting All embodies the developmental progression documented in [Cognitively G
 #### Requirements
 - Countable objects, fingers, or drawings that can be physically grouped and combined
 - Word problems or number stories whose semantics match the counting action (e.g., join and separate problems)
-- Teacher familiarity with the developmental sequence from direct modeling to abstract strategies, as in [Cognitively Guided Instruction](../patterns/cgi-for-math.md)
+- Teacher familiarity with the developmental sequence from direct modeling to abstract strategies, as in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)
 
 #### Constraints
 - Counting All becomes inefficient and error-prone as numbers grow; learners who remain dependent on it past the point of efficiency fall behind peers who transition to counting on and derived facts [-M] — persistent use signals a need for intervention, not more of the same practice
@@ -63,7 +63,7 @@ Counting All embodies the developmental progression documented in [Cognitively G
 - [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 
 ## Examples
-- **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../patterns/cgi-for-math.md)).
+- **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
 - **Number Talks (Parrish, 2010)** — Early-years number talks ask children to share *how* they found a total, making counting-all strategies public and comparable to more efficient peer strategies.
 - **DreamBox Learning** — Adaptive early-numeracy lessons use virtual counters and ten-frames, first accepting counting-all solutions then nudging toward counting on as efficiency grows.
 

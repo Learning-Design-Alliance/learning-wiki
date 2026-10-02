@@ -51,7 +51,7 @@ Amplification works because learners cannot attend to everything; cues that sign
 ### Instructions
 1. Identify the 3–5 essential ideas for the unit before designing any materials; everything else is candidate for trimming, not amplifying.
 2. Build signaling into materials up front — headings, emphasis, and an [Advance Organizer](../elements/advance-organizers.md) that frames the key idea before details appear.
-3. During instruction, verbally signpost importance and pause to summarize at transitions ([Clear Structure](../principles/clear-structure-presentation.md)).
+3. During instruction, verbally signpost importance and pause to summarize at transitions ([Clear Structure](../principles/clear-structure.md)).
 4. Amplify student thinking: select one or two student contributions to quote and unpack publicly, modeling why the idea matters ([Class Discussion](../elements/class-discussion.md)).
 5. Align assessment with what was amplified, so cues remain trustworthy signals of what counts.
 

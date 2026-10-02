@@ -48,7 +48,7 @@ The article frames learning through non-guided everyday problem-solving as free-
 
 ## Examples
 
-- [Informal Learning](../principles/informal-learning.md)
+- [Informal Learning](informal-learning.md)
 - [Free-Choice Learning Environment Design](../principles/free-choice-learning-environment-design.md)
 
 ## Key Sources

@@ -69,7 +69,7 @@ The game converts multiplication fact practice from rote recall into spatial-com
 - [Check-In](../elements/check-in.md) — post-game discussion consolidates the strategic reasoning
 
 ## Patterns That Use This Strategy
-- [CGI for Math](../patterns/cgi-for-math.md) — shares the commitment to children's own strategies and spatial reasoning over taught procedures
+- [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — shares the commitment to children's own strategies and spatial reasoning over taught procedures
 - [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — the grid externalizes the "remaining space" so working memory is spent on factor reasoning, not tracking state [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 
 ## Examples

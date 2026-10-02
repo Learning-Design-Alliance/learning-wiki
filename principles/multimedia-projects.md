@@ -77,7 +77,7 @@ Multimedia projects are valuable when the medium choices themselves become part 
 - [Process-Based Writing](process-based-writing.md) — multimedia composition still benefits from drafting, feedback, and revision cycles.
 - [Learner Choice](learner-choice.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
 - [Multimedia literacy is developed through producing multimedia](multimedia-literacy-through-production.md)
-- [Multimediatizing: express didactized content directly in multimedia form rather than digitizing pre-edited media](multimediatizing-didactized-content-direct-expression.md)
+- [Multimediatizing: express didactized content directly in multimedia form rather than digitizing pre-edited media](../methods/multimediatizing-didactized-content-direct-expression.md)
 
 ## Examples
 - **Digital storytelling**: Learners combine narration, visuals, and sequencing to explain an experience or concept.

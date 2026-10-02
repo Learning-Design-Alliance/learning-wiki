@@ -49,7 +49,7 @@ The co-developed HEC Health Equity Framework places "improved care for patients,
 ## Examples
 
 - [Ground EDI initiatives in an explicit commitment to disrupting systems of power and oppression rather than inclusion alone](../principles/ground-edi-in-disrupting-oppression.md)
-- [Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning](../patterns/six-guiding-equity-commitments.md)
+- [Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning](../elements/six-guiding-equity-commitments.md)
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](../strategies/anti-oppressive-co-design-practices.md)
 
 ## Key Sources

@@ -35,7 +35,7 @@ Differentiation works only when it is driven by evidence of what learners curren
 #### Constraints
 - Static between-class ability grouping produces negligible or negative effects, especially for low-attaining students who receive lower-quality instruction [-M]
 - Differentiation that reduces challenge for struggling learners lowers expectations and achievement; support should scaffold toward the same goals, not simplify the goals themselves [-M]
-- Poorly managed differentiated classrooms increase off-task time and cognitive load; structure and [clear-structure](../principles/clear-structure-presentation.md) matter more than variety [~M]
+- Poorly managed differentiated classrooms increase off-task time and cognitive load; structure and [clear-structure](../principles/clear-structure.md) matter more than variety [~M]
 - Teachers without planning time or diagnostic tools default to whole-class teaching regardless of intent [-W]
 - Often mistakenly conflated with individualized instruction (a separate course of study per student), which fuels unnecessary skepticism about its feasibility in large, mixed-ability classes
 
@@ -61,7 +61,7 @@ Differentiation works only when it is driven by evidence of what learners curren
 ### Instructions
 1. Start from the existing curriculum and instruction rather than a blank slate.
 2. Diagnose current readiness, interests, and learning profiles with a short pre-assessment or [check-in](../elements/check-in.md) before planning the unit.
-3. Define the *same* essential learning goal for all learners; vary only the path ([clear-structure](../principles/clear-structure-presentation.md)). Identify what would need to change — in content, process, product, or affect/environment — for every learner to reach the next phase.
+3. Define the *same* essential learning goal for all learners; vary only the path ([clear-structure](../principles/clear-structure.md)). Identify what would need to change — in content, process, product, or affect/environment — for every learner to reach the next phase.
 4. Prepare 2–3 task tiers or a [choice-boards](../elements/choice-boards.md) spanning the readiness range, each at an appropriate challenge level ([cognitive-load-management](../principles/cognitive-load-management.md)). Keep every tier challenging, engaging and purposeful — "teaching up" rather than down.
 5. Group flexibly by current need (stations, interest groups, orbital studies); regroup as evidence changes rather than fixing permanent ability tracks.
 6. Provide targeted [coaching](../elements/coaching.md) and [accommodations](../elements/accommodations.md) during work time, scaffolding toward the shared goal.
@@ -76,7 +76,7 @@ Differentiation works only when it is driven by evidence of what learners curren
 ## Related Strategies
 - [adaptive-learning](../principles/adaptive-learning.md) — technology-mediated differentiation at scale
 - [formative-assessment](../patterns/formative-assessment.md) — the diagnostic engine that makes differentiation evidence-based
-- [explicit-teaching](../patterns/explicit-teaching.md) — often combined with differentiation: common explicit input, varied practice
+- [explicit-teaching](../patterns/direct-instruction.md) — often combined with differentiation: common explicit input, varied practice
 - [competency-based-learning](../patterns/competency-based-learning.md) — differentiation taken to its logical endpoint, with pacing tied entirely to demonstrated mastery
 
 ## Examples

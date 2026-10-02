@@ -67,7 +67,7 @@ Self-instructions build metacognitive awareness by converting tacit problem-solv
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the articulation and reflection phases depend on students verbalizing their thinking
-- [Explicit Teaching](../patterns/explicit-teaching.md) — modeled self-talk is a core component of explicit strategy instruction
+- [Explicit Teaching](../patterns/direct-instruction.md) — modeled self-talk is a core component of explicit strategy instruction
 
 ## Examples
 - **Meichenbaum's self-instructional training** — children with impulsivity problems learned tasks by repeating teacher self-talk ("Okay, what is it I have to do?"), then whispering, then silently instructing themselves; the classic graduated sequence for the strategy.

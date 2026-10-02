@@ -77,7 +77,6 @@ Discussion sections convert passive exposure into generative engagement; learner
 
 ## Patterns That Use This Element
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sections as the primary instructional format
-- [Discussion Group](../patterns/discussion-group.md) — the small-group organizational structure
 - [Case-Based Learning](../patterns/case-based-learning.md) — sections as the venue for case analysis and debate
 - [Flipped Classroom](../patterns/flipped-classroom.md) — content delivery moves to pre-work so section time is freed for discussion
 

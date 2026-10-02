@@ -25,7 +25,7 @@ Pairing spoken information with visual organization recruits both verbal and vis
 #### Requirements
 - Visual aids such as diagrams, graphic organizers, timelines, or sketching conventions introduced before or during the presentation ([Advance Organizers](../elements/advance-organizers.md))
 - Instructor modeling of how to translate speech into visual form — learners rarely invent effective graphic conventions unaided
-- A structure that mirrors the lesson's logic (sequence → timeline; hierarchy → tree; comparison → matrix), consistent with [Clear Structure & Presentation](../principles/clear-structure-presentation.md)
+- A structure that mirrors the lesson's logic (sequence → timeline; hierarchy → tree; comparison → matrix), consistent with [Clear Structure & Presentation](../principles/clear-structure.md)
 - Time for learners to revisit, complete, or elaborate the notes afterward
 
 #### Constraints

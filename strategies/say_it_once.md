@@ -71,7 +71,6 @@ The strategy works by raising the perceived cost of inattention during instructi
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — depends on tightly scripted, single-delivery delivery of information
-- [Explicit Teaching](../patterns/explicit-teaching.md) — clear, non-redundant delivery of instructions and explanations
 
 ## Examples
 - Elementary classrooms using the "ask three, then ask me" norm (popularized in practitioner writing, e.g., Rebecca Alber on [Edutopia](https://www.edutopia.org)) report fewer repeated procedural interruptions and more peer-to-peer problem solving during independent work.

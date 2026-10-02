@@ -54,7 +54,7 @@ Biased language and symbols impose extraneous processing and identity threat: st
 1. Establish a bias review checklist covering names, roles, pronouns, imagery, idioms, symbols, and cultural assumptions.
 2. Audit existing high-use materials, starting with assessments and [Advance Organizers](../elements/advance-organizers.md) that frame a topic.
 3. Revise examples so that diverse identities appear across a full range of roles and statuses, not only in token positions.
-4. Replace culture-bound idioms and ambiguous symbols with plain language and universally interpretable icons, consistent with [Clear Structure & Presentation](../principles/clear-structure-presentation.md).
+4. Replace culture-bound idioms and ambiguous symbols with plain language and universally interpretable icons, consistent with [Clear Structure & Presentation](../principles/clear-structure.md).
 5. Re-review periodically and after major terminology shifts; treat bias review as maintenance, not a one-time fix.
 
 ## Related Strategies

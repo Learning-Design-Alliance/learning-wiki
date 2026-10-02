@@ -38,7 +38,7 @@ A proposal from the GEMS founder for bringing hidden mathematics into informal S
 - Recognizing the mathematics embedded in STEM activities
 
 ## Related Strategies
-- [Informal Learning](../principles/informal-learning.md)
+- [Informal Learning](../theories/informal-learning.md)
 - [Mystery Motivator](mystery-motivator.md)
 
 ## Examples

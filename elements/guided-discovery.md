@@ -59,7 +59,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 
 ## Patterns That Use This Element
 - [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
-- [POGIL](../patterns/pogil.md)
+- [POGIL](../patterns/process-oriented-guided-inquiry-learning-pogil.md)
 
 ## Examples
 - Learners compare several examples and infer the governing rule from prompts.

@@ -60,7 +60,7 @@ Shadowing is a form of immersive, first-person inquiry that surfaces the gap bet
 ## Related Strategies
 
 - [Learning Walks](learning-walks.md) — broader, lesson-level observation across many classrooms; shadowing complements it with the single-learner lens
-- [Empathy Interviews](../principles/empathy-interviews.md) — the verbal counterpart; shadowing shows what happens, interviews explain why
+- [Empathy Interviews](../methods/empathy-interviews.md) — the verbal counterpart; shadowing shows what happens, interviews explain why
 - [Action Research](action-research.md) — shadowing can serve as the data-collection phase of a practitioner inquiry cycle
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 - [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)

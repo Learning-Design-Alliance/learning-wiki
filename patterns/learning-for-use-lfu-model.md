@@ -91,7 +91,7 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 - Application tasks can take multiple forms as long as they require use of the constructed knowledge.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Anchored Instruction](anchored-instruction.md)
 
 ## Examples

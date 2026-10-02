@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: process-oriented-guided-inquiry-learning-pogil
+aliases: [pogil]
 title: Process-Oriented Guided Inquiry Learning (POGIL)
 description: POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application.
 status: review
@@ -29,11 +30,15 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - **Team roles or norms**: Learners need structures that support collaborative responsibility.
 - **Facilitation rather than constant telling**: The instructor monitors, questions, and clarifies instead of front-loading all explanations.
 - **A model-to-concept-to-application flow**: Learners need to move beyond observation into generalization and use.
+- **Structured inquiry tasks**
+- **Small-group roles**
+- **Facilitation rather than direct telling**
 #### Constraints
 - **Design quality is critical**: Poor prompts or weak models can make the inquiry confusing.
 - **Some learners need more explicit support**: Even guided inquiry can overload novices if too much is implicit.
 - **Time demands**: POGIL often takes longer than lecture-based coverage.
 - **Role compliance can become superficial**: Team roles only help if they actually structure interaction.
+- **Requires good task design and group norms**
 #### Grain Size
 - Lesson
 - Unit
@@ -42,17 +47,21 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - **Conceptual understanding through inquiry**: Learners infer principles from structured evidence.
 - **Process skill development**: Teamwork, communication, and self-management are built into the pattern.
 - **Application after invention**: Learners use the concept after constructing it.
+- Build conceptual understanding and process skills through guided inquiry.
 
 ### Target Learners
 - **Learners in STEM and inquiry-rich courses**: Strong fit where models, data, or representations can anchor concept building.
 - **Groups ready for structured collaboration**: POGIL assumes learners can work interdependently with guidance.
 - **Learners who benefit from scaffolded inquiry**: Best when exploration is supported rather than fully open.
+- Learners working in collaborative inquiry settings.
 
 ### Theory
 #### Supporting
 - Constructivist perspectives — learners build concepts actively from structured exploration.
 - Inquiry-oriented perspectives — understanding deepens through guided questioning and evidence use.
 - Cooperative learning perspectives — group roles and shared reasoning support content and process development.
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Social Learning](../principles/social-learning.md)
 #### Contradicting / Qualifying
 - POGIL still needs enough guidance for novices; it is not a defense of minimal instruction.
 - Some straightforward procedural content may be more efficiently taught with direct demonstration first.
@@ -79,6 +88,9 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - [Structured Questioning](../elements/structured-questioning.md)
 - [Peer Collaboration](../elements/peer-collaboration.md)
 - [Practice](../elements/practice.md)
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Differentiated Team Roles](../elements/differentiated-team-roles.md)
+- [Peer Explanation](../elements/peer-explanation.md)
 
 ### Affordances
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
@@ -107,3 +119,55 @@ The pattern is useful when instructors want inquiry without abandoning structure
 ## Key Sources
 - Moog, R. S., & Spencer, J. N. (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
 - Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504.
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
+
+<!-- merged 2026-10-02 from patterns/pogil ("POGIL"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# POGIL
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+
+## Description
+POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning. It combines guided discovery with structured team roles and process skill development.
+
+## Implications
+
+### Context
+#### Requirements
+- **Structured inquiry tasks**
+- **Small-group roles**
+- **Facilitation rather than direct telling**
+#### Constraints
+- **Requires good task design and group norms**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- Build conceptual understanding and process skills through guided inquiry.
+
+### Target Learners
+- Learners working in collaborative inquiry settings.
+
+### Theory
+#### Supporting
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Social Learning](../principles/social-learning.md)
+
+### Claims
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+
+## Design
+
+### Elements Used
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Differentiated Team Roles](../elements/differentiated-team-roles.md)
+- [Peer Explanation](../elements/peer-explanation.md)
+
+### Related Patterns
+- [Process-Oriented Guided Inquiry Learning (POGIL)](process-oriented-guided-inquiry-learning-pogil.md)
+
+## Key Sources
+- Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
+-->

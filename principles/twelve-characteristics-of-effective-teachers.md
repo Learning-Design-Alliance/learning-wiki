@@ -45,7 +45,7 @@ Walker (2008) asked in-service and preservice teachers to identify characteristi
 - A teacher-student relationship durable enough to support learning even where a specific instructional technique is imperfect
 
 ## Related Principles
-- [NBPTS Five Core Propositions for Accomplished Teaching](nbpts-five-core-propositions.md) — a complementary, standards-body framework covering overlapping ground (commitment to students, equitable treatment) from a top-down direction
+- [NBPTS Five Core Propositions for Accomplished Teaching](../theories/nbpts-five-core-propositions.md) — a complementary, standards-body framework covering overlapping ground (commitment to students, equitable treatment) from a top-down direction
 - [Set a High Bar for Each Student](../strategies/set_a_high_bar_for_each_student.md) — operationalizes characteristic 3 (Hold High Expectations)
 
 ## Examples

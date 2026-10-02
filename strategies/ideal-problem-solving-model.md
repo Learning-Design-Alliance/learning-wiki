@@ -38,7 +38,7 @@ Many other systems for teaching problem-solving exist for specific domains — g
 - Learners across a wide range of curriculum areas who need an explicit, transferable structure for approaching complex problems, rather than a domain-specific technique
 
 ### Target Learning Goals
-- Applying a general, teachable problem-solving process to well- or ill-structured problems, per [Well-Structured vs. Ill-Structured Problems](../principles/well-structured-vs-ill-structured-problems.md)
+- Applying a general, teachable problem-solving process to well- or ill-structured problems, per [Well-Structured vs. Ill-Structured Problems](../theories/well-structured-vs-ill-structured-problems.md)
 
 ### Instructions
 1. **Identify** — Confirm the problem is correctly and clearly understood before proceeding.

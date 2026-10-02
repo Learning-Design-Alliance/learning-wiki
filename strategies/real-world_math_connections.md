@@ -64,7 +64,7 @@ Contextual anchoring supports transfer and meaning-making, but only when the con
 
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the pattern-level version: an entire learning episode built around one rich authentic problem
 - [Case-Based Learning](../patterns/case-based-learning.md) — using extended real cases as the vehicle for reasoning, applicable to quantitative cases
-- [Cognitively Guided Instruction (CGI for Math)](../patterns/cgi-for-math.md) — builds on students' informal contextual reasoning about number problems
+- [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds on students' informal contextual reasoning about number problems
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](problem-situation-sequences-progressive-comprehension.md)
 
 ## Examples

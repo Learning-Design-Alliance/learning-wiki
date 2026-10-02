@@ -45,7 +45,7 @@ The guide presents a Local Curriculum Development Model (Figure 1) with four coo
 
 - [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)
 - [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
-- [Recommended scope and sequence with per-cluster course time allocations](../patterns/recommended-scope-sequence-time-allocations.md)
+- [Recommended scope and sequence with per-cluster course time allocations](../designs/recommended-scope-sequence-time-allocations.md)
 - [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
 
 ## Key Sources

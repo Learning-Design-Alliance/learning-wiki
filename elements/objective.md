@@ -44,7 +44,7 @@ Well-formed objectives improve alignment between instruction and assessment, whi
 
 ### Affordances
 - [Assessment for Learning](../principles/assessment-for-learning.md) — objectives define the criteria against which feedback is interpreted; without them, feedback has no reference point
-- [Clear Structure](../principles/clear-structure-presentation.md) — objectives provide the advance organizer that lets learners situate each activity within the whole
+- [Clear Structure](../principles/clear-structure.md) — objectives provide the advance organizer that lets learners situate each activity within the whole
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — stating the goal up front reduces aimless search by defining what counts as success
 - [Constructive Alignment](../patterns/constructive-alignment.md) — objectives are the first vertex of the alignment triangle connecting outcomes, activities, and assessment
 

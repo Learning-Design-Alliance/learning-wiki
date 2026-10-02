@@ -24,7 +24,7 @@ Processing speed is a bottleneck resource: slow execution of basic operations co
 ### Context
 #### Requirements
 - A clear picture of *where* the bottleneck occurs (reading rate, note-taking, oral processing, written output), gathered through observation and [assessment](../elements/assessment.md)
-- Materials structured for low-load delivery: [chunking](../principles/chunking.md) of content, [clear structure](../principles/clear-structure-presentation.md), and [advance organizers](../elements/advance-organizers.md) so learners can orient before high-speed input begins
+- Materials structured for low-load delivery: [chunking](../principles/chunking.md) of content, [clear structure](../principles/clear-structure.md), and [advance organizers](../elements/advance-organizers.md) so learners can orient before high-speed input begins
 - Explicit norms that time pressure is not part of the learning goal, so extended time is actually used rather than abandoned under peer pressure
 
 #### Constraints

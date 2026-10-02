@@ -59,7 +59,7 @@ Explicit, well-structured online instruction reduces unguided search and working
 
 ## Related Strategies
 - [Flipped Classroom](../patterns/flipped-classroom.md) — direct instruction is delivered before class, freeing live time for application
-- [Explicit Teaching](../patterns/explicit-teaching.md) — the face-to-face counterpart; same instructional logic
+- [Explicit Teaching](../patterns/direct-instruction.md) — the face-to-face counterpart; same instructional logic
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — extends direct instruction with modeling, coaching, and fading
 
 ## Related Elements

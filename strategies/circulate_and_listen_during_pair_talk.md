@@ -50,7 +50,7 @@ Circulation converts pair talk from an unmonitored activity into a source of for
 - Metacognition: prompting pairs to monitor their own thinking through teacher questions
 
 ### Instructions
-1. Set the pair task with a clear prompt and time frame, establishing [clear structure](../principles/clear-structure-presentation.md) before talk begins.
+1. Set the pair task with a clear prompt and time frame, establishing [clear structure](../principles/clear-structure.md) before talk begins.
 2. Plan your route and listening focus: which pairs, which ideas, which misconceptions you expect.
 3. Circulate during the first minute to reinforce engagement norms, then settle into sustained listening at selected pairs.
 4. Listen for evidence of understanding and reasoning; resist correcting immediately — note instead.

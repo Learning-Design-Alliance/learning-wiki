@@ -65,7 +65,7 @@ Struggling to generate solutions before instruction prepares learners to learn d
 
 ## Examples
 - **Productive Failure in Singapore mathematics classrooms** (Kapur's research program): students invent methods for statistics or average-speed problems before formal teaching; invention-phase performance is worse, but post-test conceptual understanding and transfer are better. See [https://www.nie.edu.sg](https://www.nie.edu.sg) for the research program.
-- **Cognitively Guided Instruction (CGI)** — children solve word problems with their own strategies before teachers introduce standard algorithms; see [CGI for Math](../patterns/cgi-for-math.md).
+- **Cognitively Guided Instruction (CGI)** — children solve word problems with their own strategies before teachers introduce standard algorithms; see [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md).
 - **"A Time for Telling"** (Schwartz & Bransford, 1998): students analyzed contrasting descriptive cases of psychological phenomena before a lecture, dramatically improving the lecture's effectiveness.
 
 ## Key Sources

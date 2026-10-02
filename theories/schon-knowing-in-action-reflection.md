@@ -50,7 +50,7 @@ The paper presents Schon's account of tacit knowledge: knowing-in-action (KIA) i
 
 ## Examples
 
-- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](../patterns/wholetheme-k12-action-research-cycle.md)
+- [Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle](../designs/wholetheme-k12-action-research-cycle.md)
 
 ## Key Sources
 - Heflich, David A. & Iran-Nejad, Asghar. (1995). Reflective Educational Practice from the Perspective of Wholetheme Constructivism. https://eric.ed.gov/?id=ED393851

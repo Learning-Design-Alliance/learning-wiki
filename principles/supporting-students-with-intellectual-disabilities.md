@@ -47,7 +47,7 @@ Most specific classroom techniques for teaching students with mild-to-moderate i
 ## Claims
 
 ## Related Principles
-- [Intelligence Testing: Uses and Limits](intelligence-testing-uses-and-limits.md) — intellectual disability classification depends on IQ scores read alongside adaptive functioning, precisely because IQ alone is an incomplete measure
+- [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — intellectual disability classification depends on IQ scores read alongside adaptive functioning, precisely because IQ alone is an incomplete measure
 - [Supporting Gifted and Talented Students](supporting-gifted-and-talented-students.md) — the opposite tail of the same IQ distribution, sharing the theme that classification alone should not dictate instructional ceiling or floor
 
 ## Examples

@@ -58,8 +58,7 @@ Phonics works because it builds automatic word recognition, which frees limited 
 6. Schedule cumulative review using [Distributed Practice](distributed-practice.md) so earlier correspondences remain automatic.
 
 ## Related Strategies
-- [Explicit Instruction](../patterns/explicit-teaching.md) — phonics is a canonical application: direct explanation, modeling, guided practice, feedback
-- [Direct Instruction](../patterns/direct-instruction.md) — the scripted, sequenced delivery model many phonics programs follow
+- [Explicit Instruction](../patterns/direct-instruction.md) — phonics is a canonical application: direct explanation, modeling, guided practice, feedback
 - [Vocabulary Instruction](../principles/accessible-vocabulary-syntax.md) — the comprehension-side partner; phonics alone does not build word meaning
 
 ## Examples

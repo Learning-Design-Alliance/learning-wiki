@@ -39,7 +39,7 @@ The authors' forward-looking recommendation, prompted by a gain they call small.
 
 ## Related Strategies
 - [Faded Worked Examples](faded-worked-examples.md)
-- [Worked Examples For Game Based Puzzle Problem Solving](../patterns/worked-examples-for-game-based-puzzle-problem-solving.md)
+- [Worked Examples For Game Based Puzzle Problem Solving](../designs/worked-examples-for-game-based-puzzle-problem-solving.md)
 
 ## Examples
 -

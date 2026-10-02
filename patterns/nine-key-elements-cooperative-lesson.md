@@ -48,7 +48,7 @@ The chapter enumerates the key elements of a cooperative lesson: positive interd
 
 ## Related Patterns
 
-- [Nine types of positive interdependence teachers can structure into cooperative activities](nine-types-positive-interdependence.md)
+- [Nine types of positive interdependence teachers can structure into cooperative activities](../elements/nine-types-positive-interdependence.md)
 
 ## Examples
 

@@ -70,7 +70,7 @@ Evaluating sources improves learning when learners move beyond surface cues and 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality
 - [Annotating](annotating.md) — annotation can focus attention on credibility signals, claims, and evidence
-- [Clear Structure & Presentation](clear-structure-presentation.md) — learners need explicit frameworks for evaluation, not just warnings about misinformation
+- [Clear Structure & Presentation](clear-structure.md) — learners need explicit frameworks for evaluation, not just warnings about misinformation
 - [Debate](debate.md) — debates become more rigorous when learners are accountable for source quality, not just rhetorical performance
 
 ## Examples

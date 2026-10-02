@@ -61,12 +61,12 @@ Students are given example "computational literature" — documents that mix exe
 6. Students present their essay orally to peers (e.g., in a mock research-group meeting) and receive feedback.
 
 ### Affordances
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md) — the open-ended investigation question and defended final artifact mirror PBL's structure, with a computational essay in place of a proposal or case response
+- [Problem-Based Learning (PBL)](problem-based-learning.md) — the open-ended investigation question and defended final artifact mirror PBL's structure, with a computational essay in place of a proposal or case response
 
 ## Related Patterns
 
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
-- [Challenge-by-modification pattern: learners modify a minimal working program to test their own model](modify-minimal-program-challenge-pattern.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
+- [Challenge-by-modification pattern: learners modify a minimal working program to test their own model](../designs/modify-minimal-program-challenge-pattern.md)
 
 ## Examples
 - Two physics students, initially reluctant toward coding, extended a biophysics simulation of ion motion in nerve cells to investigate intermolecular forces, producing an essay rich in physical interpretation despite making only minor code changes.

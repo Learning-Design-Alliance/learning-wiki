@@ -43,7 +43,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Self-Paced Learning](self-paced-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](../patterns/flipped-learning.md)
+- [Flipped Learning](../patterns/flipped-classroom.md)
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples

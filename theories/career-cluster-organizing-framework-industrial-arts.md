@@ -46,9 +46,9 @@ The guide organizes industrial arts content around career clusters rather than i
 ## Examples
 
 - [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
-- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](../patterns/exploratory-hands-on-career-exploration-pattern.md)
+- [Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions](../designs/exploratory-hands-on-career-exploration-pattern.md)
 - [Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work](../principles/career-education-through-industrial-arts.md)
-- [Recommended scope and sequence with per-cluster course time allocations](../patterns/recommended-scope-sequence-time-allocations.md)
+- [Recommended scope and sequence with per-cluster course time allocations](../designs/recommended-scope-sequence-time-allocations.md)
 
 ## Key Sources
 - Communications: Industrial Arts Curriculum Guide, Middle Schools 6-9 (Tentative). (1974). Louisiana State Department of Education. https://eric.ed.gov/?id=ED120541

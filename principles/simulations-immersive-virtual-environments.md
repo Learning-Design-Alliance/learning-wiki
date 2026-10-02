@@ -83,7 +83,7 @@ Simulations and immersive environments work when they let learners rehearse mean
 - **Clinical decision simulator**: Learners diagnose, prioritize, and respond to a changing patient scenario.
 - **Virtual workplace rehearsal**: Learners practice safety, customer interaction, or troubleshooting in a modeled environment.
 - **Civic or historical simulation**: Learners make decisions within a constrained system and analyze outcomes.
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

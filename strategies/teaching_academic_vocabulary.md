@@ -71,7 +71,7 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 - [Class Discussion](../elements/class-discussion.md) — the venue where learners must actually *use* the terms to consolidate them
 
 ## Patterns That Use This Strategy
-- [Explicit Teaching](../patterns/explicit-teaching.md) — vocabulary as directly taught content with guided practice
+- [Explicit Teaching](../patterns/direct-instruction.md) — vocabulary as directly taught content with guided practice
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — expert discourse modeling makes the academic register visible
 
 ## Examples

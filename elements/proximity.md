@@ -46,7 +46,7 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 ### Affordances
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — proximity directly reduces extraneous load from visual search and split attention, freeing working memory for schema construction
 - [Multimedia Learning](../principles/multimedia-learning.md) — spatial contiguity is one of Mayer's core principles for combining words and pictures effectively
-- [Clear Structure](../principles/clear-structure-presentation.md) — proximity is a layout-level expression of structure: the physical arrangement signals which elements belong together
+- [Clear Structure](../principles/clear-structure.md) — proximity is a layout-level expression of structure: the physical arrangement signals which elements belong together
 - [Signaling](../strategies/signaling.md) — works in concert with proximity; cues direct attention to the correspondences that integrated placement makes physically adjacent
 
 ### Claims

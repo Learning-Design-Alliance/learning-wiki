@@ -39,7 +39,7 @@ Because attendance and engagement are entirely voluntary, with no external accou
 
 ### Theory
 #### Supporting
-- [Informal Learning](informal-learning.md) [+S] — free-choice learning environments are a concrete institutional embodiment of the same "pulled," self-directed dynamic informal learning theory describes generally
+- [Informal Learning](../theories/informal-learning.md) [+S] — free-choice learning environments are a concrete institutional embodiment of the same "pulled," self-directed dynamic informal learning theory describes generally
 
 ## Claims
 
@@ -48,7 +48,7 @@ Because attendance and engagement are entirely voluntary, with no external accou
 
 ## Related Principles
 - [Learner Choice](learner-choice.md) — a related but distinct concept: bounded choice offered inside an otherwise fixed course, versus free-choice design's assumption of no externally imposed curriculum at all
-- [Informal Learning](informal-learning.md) — free-choice learning is a specific, environment-design instantiation of the broader informal-learning concept
+- [Informal Learning](../theories/informal-learning.md) — free-choice learning is a specific, environment-design instantiation of the broader informal-learning concept
 
 ## Examples
 - The Exploratorium's Active Prolonged Engagement exhibits, which let visitors test their own theories and lead their own experiments

@@ -49,7 +49,7 @@ The article presents a three-layer taxonomy used primarily by practitioners duri
 ## Examples
 
 - [Research depth taxonomy: seven research-process elements with Milestones 1-4, at least one at Milestone 2 for high impact](../elements/ur-depth-elements-milestone-2.md)
-- [Research breadth taxonomy: six structure-focused elements, each at minimum Milestone 2 for high impact](../patterns/ur-breadth-six-elements-milestone-2.md)
+- [Research breadth taxonomy: six structure-focused elements, each at minimum Milestone 2 for high impact](../elements/ur-breadth-six-elements-milestone-2.md)
 - [Use the taxonomy to self-evaluate an implemented research experience and level up milestones](../strategies/ur-taxonomy-self-evaluation-loop.md)
 
 ## Key Sources

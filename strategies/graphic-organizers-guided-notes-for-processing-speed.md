@@ -54,7 +54,7 @@ By externalizing the lecture's structure, these tools reduce the working-memory 
 ### Affordances
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the organizer offloads structure-holding and importance-judging to the artifact, freeing capacity for comprehension
 - [Chunking](../principles/chunking.md) — organizers present information in pre-chunked units rather than a continuous stream
-- [Clear Structure & Presentation](../principles/clear-structure-presentation.md) — the organizer makes the lecture's skeleton visible before and during delivery
+- [Clear Structure & Presentation](../principles/clear-structure.md) — the organizer makes the lecture's skeleton visible before and during delivery
 - [Advance Organizers](../elements/advance-organizers.md) — distributed before the lecture, the same artifact functions as an advance organizer priming relevant schema
 
 ### Personalization

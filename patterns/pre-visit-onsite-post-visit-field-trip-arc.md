@@ -45,7 +45,7 @@ The Sea Turtle Trek packet structures a park field trip as three sequential acti
 
 ## Related Patterns
 
-- [Five-unit arc building classroom skills toward a community field trip and public sharing](five-unit-field-trip-arc-riparian.md)
+- [Five-unit arc building classroom skills toward a community field trip and public sharing](../designs/five-unit-field-trip-arc-riparian.md)
 
 ## Examples
 

@@ -61,7 +61,7 @@ Guided notes and organizers reduce the real-time processing burden of lectures b
 
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — this strategy is one concrete accommodation within that broader set
 - [Chunking](../principles/chunking.md) — organizers pre-chunk content into manageable units
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — guided notes only work when the lecture itself follows a visible structure
+- [Clear Structure Presentation](../principles/clear-structure.md) — guided notes only work when the lecture itself follows a visible structure
 - [Brief lectures on intellectual history illustrated with films, records, and print excerpts](brief-illustrated-lectures-with-media.md)
 
 ## Examples

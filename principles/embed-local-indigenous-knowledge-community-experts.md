@@ -48,7 +48,7 @@ The paper argues that Indigenous knowledge should be incorporated into curricula
 
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](../strategies/indigenous-non-indigenous-collaborative-pedagogy.md)
 - [On-country visits where students interact with Aboriginal Elders as experiential learning](../strategies/on-country-elder-visits-experiential-learning.md)
-- [Holistic, place-based, time-bound Indigenous teaching pattern](../patterns/holistic-place-based-time-bound-indigenous-teaching.md)
+- [Holistic, place-based, time-bound Indigenous teaching pattern](../designs/holistic-place-based-time-bound-indigenous-teaching.md)
 - [Invite local Elders into classrooms as co-teachers of Indigenous Knowledge](../strategies/invite-local-elders-as-co-teachers.md)
 
 ## Key Sources

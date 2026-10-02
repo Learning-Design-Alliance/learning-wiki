@@ -61,7 +61,7 @@ Shadowing functions as a form of situated, perspective-taking inquiry: the adult
 
 ## Related Strategies
 
-- [Empathy Interviews](../principles/empathy-interviews.md) — complements observation with the student's own account of their experience
+- [Empathy Interviews](../methods/empathy-interviews.md) — complements observation with the student's own account of their experience
 - [Learning Walks](learning-walks.md) — adult-focused observation of instruction; shadowing inverts the vantage point
 - [Design Thinking](../processes/design-thinking.md) — shadowing typically serves as the empathy phase of a design cycle
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)

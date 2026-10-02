@@ -31,7 +31,7 @@ Calendars work as external memory aids that offload scheduling information, free
 #### Constraints
 - Poorly designed calendars get overlooked; visual clutter or decorative-but-irrelevant graphics reduce usability and can impair learning from accompanying material [~M]
 - Inaccurate or outdated information causes confusion and teaches stakeholders to ignore the calendar [-W]
-- Calendars communicate *when* things happen but not *how* or *why*; they cannot substitute for instructional explanation or [Clear Structure](../principles/clear-structure-presentation.md) within lessons
+- Calendars communicate *when* things happen but not *how* or *why*; they cannot substitute for instructional explanation or [Clear Structure](../principles/clear-structure.md) within lessons
 - One-way broadcast calendars do not by themselves improve engagement; they support but do not create communication
 
 #### Implementation Variability

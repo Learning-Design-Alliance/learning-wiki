@@ -75,7 +75,7 @@ Explicit instruction in online reading strategies helps because digital texts fo
 ## Related Principles
 - [Explicit Instruction: Internet Search](explicit-instruction-internet-search.md) — search often precedes and shapes what online reading becomes
 - [Evaluating Sources](evaluating-sources.md) — online reading requires credibility judgment as well as comprehension
-- [Clear Structure & Presentation](clear-structure-presentation.md) — structured digital environments reduce avoidable navigation burden
+- [Clear Structure & Presentation](clear-structure.md) — structured digital environments reduce avoidable navigation burden
 - [Annotating](annotating.md) — note capture and marking can stabilize understanding across tabs and links
 
 ## Examples

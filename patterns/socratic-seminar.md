@@ -98,9 +98,9 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 
 ## Related Patterns
 
-- [Discussion Group](discussion-group.md)
-- [Debate Format](debate-format.md)
-- [Post-reading group work in small groups where individual efforts are pooled to interpret the text](post-reading-group-work-pooled-interpretation.md)
+- [Discussion Group](discussion-based-learning.md)
+- [Debate Format](debate.md)
+- [Post-reading group work in small groups where individual efforts are pooled to interpret the text](../designs/post-reading-group-work-pooled-interpretation.md)
 
 ## Examples
 - Literature learners exploring theme and interpretation through a shared novel passage.

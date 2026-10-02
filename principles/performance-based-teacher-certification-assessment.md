@@ -42,11 +42,11 @@ The digest states that "From the beginning, the National Board has been committe
 
 ## Related Principles
 
-- [NBPTS Five Core Propositions for Accomplished Teaching](nbpts-five-core-propositions.md)
+- [NBPTS Five Core Propositions for Accomplished Teaching](../theories/nbpts-five-core-propositions.md)
 
 ## Examples
 
-- [Portfolio entries with written commentary for assessing teaching practice](../patterns/portfolio-with-written-commentary-assessment.md)
+- [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
 
 ## Key Sources
 - National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/

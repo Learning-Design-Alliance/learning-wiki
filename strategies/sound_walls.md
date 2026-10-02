@@ -53,7 +53,7 @@ Sound walls operationalize explicit, systematic phonics instruction by making th
 
 ### Instructions
 1. Introduce the target phoneme with articulation: students observe and feel mouth position (mirrors help), and the teacher posts the phoneme card on the wall.
-2. Explicitly teach the grapheme(s) that spell the phoneme and add them to the card, connecting to [Explicit Instruction](../patterns/explicit-teaching.md) routines.
+2. Explicitly teach the grapheme(s) that spell the phoneme and add them to the card, connecting to [Explicit Instruction](../patterns/direct-instruction.md) routines.
 3. Engage students in comparing and sorting words by sound — contrasting similar phonemes (e.g., /d/ vs /t/, short vs long vowels) to sharpen discrimination through contrasting cases [+M].
 4. During reading and writing, direct students to the wall as a tool: "What's the first sound you hear? Find it on the wall. Which spelling will you try?"
 5. Review previously taught phonemes through dictation and word-chaining so the wall reflects cumulative, not just current, content.

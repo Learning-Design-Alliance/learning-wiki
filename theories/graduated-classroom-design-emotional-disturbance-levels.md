@@ -45,10 +45,10 @@ The booklet organizes all its design schemes around a single axis: the degree of
 ## Examples
 
 - [Study carrel as an individual work area shielding a child from disturbance](../elements/study-carrel-individual-work-area.md)
-- [Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space](../patterns/mild-disturbance-conventional-classroom-minimal-enclosure.md)
-- [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](../patterns/moderate-disturbance-shared-quiet-consultation-room.md)
+- [Mild-disturbance classrooms approach conventional classrooms with minimal enclosed space](../designs/mild-disturbance-conventional-classroom-minimal-enclosure.md)
+- [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](../designs/moderate-disturbance-shared-quiet-consultation-room.md)
 - [Locate special classrooms within regular schools near support spaces to enable integration](../principles/special-classrooms-within-regular-schools-for-integration.md)
-- [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](../patterns/severe-disturbance-rigid-noisy-quiet-zoning.md)
+- [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](../designs/severe-disturbance-rigid-noisy-quiet-zoning.md)
 
 ## Key Sources
 - Special Education Facilities for Emotionally Disturbed Children. (1968). Ontario Department of Education. https://eric.ed.gov/?id=ED085907

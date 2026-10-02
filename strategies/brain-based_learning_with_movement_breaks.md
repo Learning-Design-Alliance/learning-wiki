@@ -51,7 +51,7 @@ Movement breaks work primarily by counteracting the vigilance decrement — sust
 
 ### Instructions
 1. Chunk the lesson into 10–20 minute segments aligned to a single idea or task ([Chunking](../principles/chunking.md)).
-2. Deliver each segment with [clear structure](../principles/clear-structure-presentation.md) and a check for understanding ([Check-In](../elements/check-in.md)).
+2. Deliver each segment with [clear structure](../principles/clear-structure.md) and a check for understanding ([Check-In](../elements/check-in.md)).
 3. Insert a 2–5 minute movement break — content-linked (acting out a concept) or restorative (stretching, structured game).
 4. Follow the break with social processing: [peer discussion](../elements/peer-discussion.md) or students explaining the segment to each other in pairs.
 5. Reconvene with whole-class sharing or a quick [practice](../elements/practice.md) task that applies the segment's content.

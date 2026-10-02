@@ -71,7 +71,7 @@ Digital learning matters when technology changes what learners can access, rehea
 
 ### Illustrative
 
-**[Flipped Learning](../patterns/flipped-learning.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
+**[Flipped Learning](../patterns/flipped-classroom.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
 
 **[ASSISTments](https://www.assistments.org)** — A digital math platform that combines practice, hints, and immediate feedback. It shows the value of digital learning when the environment supports reasoning and feedback rather than just answer submission.
 

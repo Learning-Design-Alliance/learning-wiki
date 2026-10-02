@@ -46,7 +46,7 @@ At the second level, mentoring consists of coaches who "plan, set goals, observe
 
 ## Related Patterns
 
-- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
+- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
 - [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
 
 ## Examples

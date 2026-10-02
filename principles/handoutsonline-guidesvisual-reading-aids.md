@@ -63,7 +63,7 @@ Handouts, online guides, and visual reading aids are most useful when learners w
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — guides are more effective when learners use them to interpret, annotate, or explain rather than only follow them passively
 
 ## Related Principles
-- [Clear Structure & Presentation](clear-structure-presentation.md) — reading aids are one way to make instructional structure visible.
+- [Clear Structure & Presentation](clear-structure.md) — reading aids are one way to make instructional structure visible.
 - [Creating Visual Representations](creating-visual-representations.md) — learners can also build their own guides and representations, not just receive them.
 - [Graphic Organizers](graphic-organizers.md) — many reading aids are organizer-like supports for sequencing and comparison.
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — readable wording and readable formatting reinforce one another.

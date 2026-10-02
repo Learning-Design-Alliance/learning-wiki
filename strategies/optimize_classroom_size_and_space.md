@@ -50,7 +50,7 @@ Physical conditions operate as a background layer that enables or undermines oth
 - Collaborative and discussion-based objectives, which depend on group size and seating geometry
 
 ### Instructions
-1. Audit the dominant activity types in the course or lesson and select a default layout that matches them (rows for [Explicit Teaching](../patterns/explicit-teaching.md), clusters for group work, horseshoe for discussion).
+1. Audit the dominant activity types in the course or lesson and select a default layout that matches them (rows for [Explicit Teaching](../patterns/direct-instruction.md), clusters for group work, horseshoe for discussion).
 2. Reduce effective group size for interactive work — small groups of 3–5 balance participation breadth with coordination cost [~M].
 3. Position learners with high support needs near the teacher's primary circulation path and away from high-traffic distractions; see [Accommodations](../elements/accommodations.md).
 4. During teacher-led segments, use rows or paired seating to protect attention; switch to clusters for [Collaborative Learning](../principles/collaborative-learning.md) activities.

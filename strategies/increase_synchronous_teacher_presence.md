@@ -24,7 +24,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 ### Context
 #### Requirements
 - Reliable synchronous technology (video conference, chat, shared whiteboard) and a fallback for connectivity failures
-- A visible session structure: agenda, segment timing, and interaction points ([Clear Structure](../principles/clear-structure-presentation.md))
+- A visible session structure: agenda, segment timing, and interaction points ([Clear Structure](../principles/clear-structure.md))
 - Instructor willingness to show face and voice; camera-on instruction supports immediacy [+W]
 - Active participation structures — polls, cold-calling with warmth, breakout tasks — rather than lecture-only delivery [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 
@@ -54,7 +54,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 
 ### Instructions
 1. Open with a structured [Check-In](../elements/check-in.md) — one-question pulse or roll-call greeting — to establish social presence in the first five minutes.
-2. Present a visible agenda and chunk the session into 10–15 minute segments alternating instructor input and learner activity ([Clear Structure](../principles/clear-structure-presentation.md), [Chunking](../principles/chunking.md)).
+2. Present a visible agenda and chunk the session into 10–15 minute segments alternating instructor input and learner activity ([Clear Structure](../principles/clear-structure.md), [Chunking](../principles/chunking.md)).
 3. [Model](../elements/modeling.md) the target skill live with narration, thinking aloud through decisions rather than presenting finished results ([Demonstration](../elements/demonstration.md)).
 4. Interleave interaction — polls, chat responses, breakout tasks, [Class Discussion](../elements/class-discussion.md) — and name learners when responding to their contributions.
 5. Close with a live [Coaching](../elements/coaching.md) moment or Q&A that addresses the session's sticking points, and post a brief follow-up message referencing learner contributions to extend presence beyond the live hour.

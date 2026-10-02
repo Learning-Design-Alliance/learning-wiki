@@ -41,7 +41,7 @@ Constructionism holds that learners deepen understanding by building external ar
 - Body syntonicity (Papert) — extended to "material syntonicity" (Keune): recognizing how a domain concept is projected by a material's own behavior under manipulation (the tension of a stitch, the snap of a fold)
 
 ## Examples
-- [Fiber Crafting for Proportional Reasoning](../patterns/fiber-crafting-for-proportional-reasoning.md) — an instructional pattern built directly on this theory's three-level unit structure
+- [Fiber Crafting for Proportional Reasoning](../designs/fiber-crafting-for-proportional-reasoning.md) — an instructional pattern built directly on this theory's three-level unit structure
 
 ## Key Sources
 - Peppler, K., Keune, A., Bender, S., & Yankova, N. (2025). Materialized Action: Reformulating the "Doing of" Math Through Fiber Crafting. *Cognition and Instruction, 43*(3), 175-200. [https://doi.org/10.1080/07370008.2025.2485070](https://doi.org/10.1080/07370008.2025.2485070)

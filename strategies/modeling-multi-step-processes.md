@@ -65,7 +65,7 @@ Multi-step procedures impose a sequencing problem on working memory: learners mu
 - Direct Instruction — embeds modeling within a scripted demonstrate–guide–independent-practice sequence
 
 ## Examples
-- **Writing instruction:** the teacher models composing a persuasive paragraph on the board, thinking aloud through planning, drafting, and revising — the core "modelled writing" move in [Explicit Teaching](../patterns/explicit-teaching.md)
+- **Writing instruction:** the teacher models composing a persuasive paragraph on the board, thinking aloud through planning, drafting, and revising — the core "modelled writing" move in [Explicit Teaching](../patterns/direct-instruction.md)
 - **Khan Academy** (https://www.khanacademy.org) — narrated, segmented video solutions for multi-step math procedures, each step annotated, followed by practice with on-demand hints
 - **Codecademy** (https://www.codecademy.com) — annotated multi-step coding walkthroughs preceding learner-written code
 - **Clinical skills labs** — instructors model a full patient assessment sequence (inspect, auscultate, palpate…) with decision rules narrated, then observe students performing it with a checklist

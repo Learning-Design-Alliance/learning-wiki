@@ -47,7 +47,7 @@ The brief's central framework organizes coaching responsibilities along a trajec
 
 ## Examples
 
-- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../patterns/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
+- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
 - [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](../patterns/coaching-level-2-necessary-supports-implementation-and-dialogue.md)
 - [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](../patterns/coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](../strategies/coaching-framework-discussion-guide-grid-questions.md)

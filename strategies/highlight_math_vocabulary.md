@@ -52,7 +52,7 @@ Highlighting operational vocabulary directs attention to the linguistic cues tha
 
 ### Instructions
 1. Select 3–5 word problems containing clear operational language; plan which words to highlight and why.
-2. Model the routine: read the problem aloud, highlight signal words, and think aloud about what each word implies about the situation ([Explicit Teaching](../patterns/explicit-teaching.md)).
+2. Model the routine: read the problem aloud, highlight signal words, and think aloud about what each word implies about the situation ([Explicit Teaching](../patterns/direct-instruction.md)).
 3. Brainstorm additional signal words with learners; add them to a class word wall or graphic organizer.
 4. Have learners apply the routine to a new problem, then solve it ([Practice](../elements/practice.md)).
 5. Debrief with counterexamples: problems where a highlighted word does *not* mean what it usually means, to prevent overreliance on keywords.

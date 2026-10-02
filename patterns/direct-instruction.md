@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: direct-instruction
+aliases: [explicit-teaching]
 title: Direct Instruction
 description: "A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon."
 status: review
@@ -126,7 +127,6 @@ This pattern is scoped to structured targets with a definable correct performanc
 - **Not settled:** whether scripting improves learning outcomes; the claim measures adherence, not learning, and no wiki claim compares scripted with unscripted direct instruction.
 
 ## Related Patterns
-- [Explicit Teaching](explicit-teaching.md)
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.
@@ -156,4 +156,28 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](../claims/explicit-teaching-effective-but-not-durable.md) [~M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [~M]
 - [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M]
+-->
+
+<!-- merged 2026-10-02 from patterns/explicit-teaching ("Explicit Teaching"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Explicit Teaching
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Explicit teaching is the short-form canonical pattern for clearly stating goals, demonstrating performance, and guiding practice.
+
+## Design
+
+### Elements Used
+- [Explicit Teaching](../elements/explicit-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Guided Practice](../elements/guided-practice.md)
+
+## Related Patterns
+- [Direct Instruction](direct-instruction.md)
+
+## Key Sources
+- Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.
 -->

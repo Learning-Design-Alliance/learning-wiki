@@ -43,7 +43,7 @@ Turn-and-talk works because verbalizing forces retrieval and elaboration: learne
 ### Target Learners
 - All levels; particularly effective for adult learners, who benefit from connecting new content to experience [~M]
 - Reluctant speakers who will not address a whole class but will talk to one peer
-- Less effective for learners with very low prior knowledge, who lack material to retrieve and may need [Explicit Teaching](../patterns/explicit-teaching.md) first [~M]
+- Less effective for learners with very low prior knowledge, who lack material to retrieve and may need [Explicit Teaching](../patterns/direct-instruction.md) first [~M]
 
 ### Target Learning Goals
 - Consolidation and [retrieval](../principles/activation.md) of recently presented content

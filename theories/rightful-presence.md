@@ -45,7 +45,7 @@ Rightful presence (Calabrese Barton & Tan) describes legitimate membership in a 
 
 ## Examples
 
-- [Identity-Centered E-Textile Making](../patterns/identity-centered-e-textile-making.md) — a maker pattern designed around rightful presence for queer youth
+- [Identity-Centered E-Textile Making](../designs/identity-centered-e-textile-making.md) — a maker pattern designed around rightful presence for queer youth
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
 - [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../principles/presume-rightful-presence-and-inherent-value.md)
 

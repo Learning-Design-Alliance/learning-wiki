@@ -54,7 +54,7 @@ Just-in-time learning is the element in which information, guidance, or resource
 - [Coaching](coaching.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
 - [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples

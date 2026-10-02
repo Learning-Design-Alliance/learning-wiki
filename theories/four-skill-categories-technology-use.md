@@ -45,7 +45,7 @@ The Toolkit organizes the skills students must master with technology into four 
 
 ## Examples
 
-- [Four-piece toolkit architecture linking planning, implementation, and evaluation](../patterns/four-piece-toolkit-planning-evaluation-architecture.md)
+- [Four-piece toolkit architecture linking planning, implementation, and evaluation](../designs/four-piece-toolkit-planning-evaluation-architecture.md)
 
 ## Key Sources
 - The Evaluation Toolkit: A Work-in-Progress. (2002). https://eric.ed.gov/?id=ED463744

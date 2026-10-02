@@ -50,7 +50,7 @@ The article presents a model for online research project tutoring (TPI) in which
 ## Examples
 
 - [Student follow-up instruments: initial card, follow-up card, and work diary](../elements/tpi-student-followup-instruments.md)
-- [Highly structured, sequenced progression of research stages guiding online trainee researchers](../patterns/structured-sequenced-research-stages-pattern.md)
+- [Highly structured, sequenced progression of research stages guiding online trainee researchers](../designs/structured-sequenced-research-stages-pattern.md)
 - [TPI conceptual map with associated resources, published online for navigation](../elements/tpi-conceptual-map-artifact.md)
 
 ## Key Sources

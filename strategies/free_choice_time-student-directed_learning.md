@@ -53,7 +53,7 @@ Choice taps learners' needs for autonomy, one of the three basic psychological n
 - Interest-driven inquiry and knowledge building
 
 ### Instructions
-1. **Teach the options first.** Ensure every choice has been introduced through [Demonstration](../elements/demonstration.md) or [Explicit Teaching](../patterns/explicit-teaching.md) so learners can actually use what they choose.
+1. **Teach the options first.** Ensure every choice has been introduced through [Demonstration](../elements/demonstration.md) or [Explicit Teaching](../patterns/direct-instruction.md) so learners can actually use what they choose.
 2. **Present a bounded menu.** Offer 3–8 viable options via a [Choice Board](../elements/choice-boards.md), varying by content, process, or product.
 3. **Have learners plan.** Each learner states or writes what they will do and why before starting ([Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md)).
 4. **Confer during work.** Circulate, observe, and coach; use [Check-Ins](../elements/check-in.md) to redirect off-track choices without taking the choice away.

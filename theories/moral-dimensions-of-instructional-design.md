@@ -53,7 +53,7 @@ The consciences develop through **reflexive judgment**, Green's term for differe
 ## Examples
 - [Systematic Instructional Design](../processes/systematic-instructional-design.md) — the ADDIE lineage the authors critique when it is run as mimetic procedure. They do not reject it: the framework "does not prevent designers from relying on extant models"
 - [Design Thinking](../processes/design-thinking.md) — its attention to stakeholders and power is one practical route to what the authors call transformative concern
-- [Reflective Practice](../principles/reflective-practice.md) — reflexive judgment is a specific form of it
+- [Reflective Practice](../principles/reflection.md) — reflexive judgment is a specific form of it
 
 ## Key Sources
 - Osguthorpe, R. T., Osguthorpe, R. D., Jacob, W. J., & Davies, R. S. (2018). The moral dimensions of instructional design. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 563–573). EdTech Books. https://edtechbooks.org/lidtfoundations/instructional_design_moral_dimensions (Original work published 2003 in *Educational Technology, 43*(2), 19–23)

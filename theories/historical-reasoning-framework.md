@@ -47,7 +47,7 @@ The historical reasoning framework (Van Drie & Van Boxtel, 2008) identifies six 
 - (none yet linked)
 
 ## Examples
-- [Explicit Instruction in Historical Contextualization](../patterns/explicit-instruction-in-historical-contextualization.md)
+- [Explicit Instruction in Historical Contextualization](../designs/explicit-instruction-in-historical-contextualization.md)
 
 ## Key Sources
 - Sendur, K. A., van Drie, J., & van Boxtel, C. (2021). Historical contextualization in students' writing. *Journal of the Learning Sciences, 30*(4-5), 797-836. [https://doi.org/10.1080/10508406.2021.1939029](https://doi.org/10.1080/10508406.2021.1939029)

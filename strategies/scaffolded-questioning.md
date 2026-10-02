@@ -68,7 +68,7 @@ Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.m
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small groups take turns leading discussion using trained question prompts (predict, clarify, question, summarize), with the teacher modeling and fading over roughly 20 sessions.
-- **Cognitively Guided Instruction** — teachers sequence questions about children's solution strategies in arithmetic, moving learners from direct modeling toward abstract reasoning; see [CGI for Math](../patterns/cgi-for-math.md).
+- **Cognitively Guided Instruction** — teachers sequence questions about children's solution strategies in arithmetic, moving learners from direct modeling toward abstract reasoning; see [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md).
 - **Socratic seminar in AP classrooms** — a prepared question ladder opens the seminar; the teacher intervenes only with follow-up questions when reasoning stalls.
 - **Khan Academy hint sequences** — each successive hint is a written scaffolded question, decomposing the problem into a smaller step rather than revealing the solution.
 

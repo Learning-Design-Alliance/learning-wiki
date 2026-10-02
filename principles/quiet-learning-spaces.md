@@ -80,7 +80,7 @@ Quiet learning spaces matter when the task places heavy demands on concentration
 - [Instructor Accessibility](instructor-accessibility.md) — accessible learning conditions include environmental supports, not just interpersonal support.
 - [Check-ins](check-ins.md) — regular check-ins can surface environmental barriers that undermine focus.
 - [Physical Activity](physical-activity.md) — learners may need a mix of calm focus conditions and intentional movement breaks.
-- [Clear Structure & Presentation](clear-structure-presentation.md) — environmental clarity and instructional clarity often work together.
+- [Clear Structure & Presentation](clear-structure.md) — environmental clarity and instructional clarity often work together.
 
 ## Examples
 - **Dedicated reading zone**: A library corner, side room, or protected class interval used for uninterrupted reading or writing.

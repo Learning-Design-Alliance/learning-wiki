@@ -47,7 +47,7 @@ Because working memory is severely limited and attention is selective, instructi
 ### Affordances
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — attention management is the attentional half of load management: signaling and segmentation free working-memory capacity for schema building rather than search
 - [Chunking](../principles/chunking.md) — chunking works by giving attention a unit-sized target; each chunk is one thing to attend to at a time [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
-- [Clear Structure & Presentation](../principles/clear-structure-presentation.md) — predictable structure tells learners where to allocate attention next, reducing effort spent on orientation
+- [Clear Structure & Presentation](../principles/clear-structure.md) — predictable structure tells learners where to allocate attention next, reducing effort spent on orientation
 - [Advance Organizers](advance-organizers.md) — organizers pre-direct attention to the relationships the upcoming material will present [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]
 
 ### Claims

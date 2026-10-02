@@ -68,12 +68,12 @@ Text chats are useful when they create a lower-stakes written channel for learne
 - [Peer Discussion](peer-discussion.md) — text chat is one medium for structured peer exchange.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — chats give learners immediate audiences for communication.
 - [Multimodal Instruction](multimodal-instruction.md) — text chat adds a written interaction mode alongside oral or visual channels.
-- [Speech-to-text](speech-to-text.md) — dictation tools can help some learners participate in chat-based environments.
+- [Speech-to-text](../elements/speech-to-text.md) — dictation tools can help some learners participate in chat-based environments.
 
 ## Examples
 - [Peer Discussion](../elements/peer-discussion.md)
 - [Discussion Prompt](../elements/discussion-prompt.md)
-- [Discussion Group](../patterns/discussion-group.md)
+- [Discussion Group](../patterns/discussion-based-learning.md)
 - **Backchannel during presentation**: Learners post questions, examples, and clarifications while a lesson is in progress.
 
 ## Key Sources

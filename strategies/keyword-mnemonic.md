@@ -54,7 +54,7 @@ The strategy works by converting abstract verbal material into concrete, interac
 - Not well suited to conceptual understanding, transfer, or application goals — pair with semantic strategies ([Analogies](../elements/analogies.md)) for those
 
 ### Instructions
-1. Present the target term and its meaning ([Clear Structure](../principles/clear-structure-presentation.md)).
+1. Present the target term and its meaning ([Clear Structure](../principles/clear-structure.md)).
 2. Have learners identify or supply a familiar keyword that sounds like part of the term ([Analogies](../elements/analogies.md) — an acoustic analogy).
 3. Have learners form a mental image in which the keyword and the meaning interact in one scene; supply an image for novices ([Chunking](../principles/chunking.md) — one integrated image, not two separate pictures).
 4. Check the image: learners should be able to describe it aloud ([Annotating](../principles/annotating.md) or sketching strengthens encoding).

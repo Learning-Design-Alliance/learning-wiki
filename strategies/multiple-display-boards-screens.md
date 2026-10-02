@@ -52,7 +52,7 @@ Multiple displays support learning primarily by making collaboration and work-in
 
 ### Instructions
 1. Assign each display a distinct, stable function (e.g., Board A: learning goals and reference material; Board B: live instruction; side screens: group work).
-2. Open the session by establishing the reference display, so persistent information stays available without repetition [Clear structure supports learning.](../principles/clear-structure-presentation.md) [+M].
+2. Open the session by establishing the reference display, so persistent information stays available without repetition [Clear structure supports learning.](../principles/clear-structure.md) [+M].
 3. During group work, have groups produce their work on writable surfaces or mirrored devices so products are publicly comparable.
 4. Use side displays to juxtapose group products for structured comparison and critique, supporting [Collaborative Learning](../principles/collaborative-learning.md).
 5. Close by consolidating: capture or photograph board content and transfer key artifacts to a shared digital space, since ephemeral board work is lost otherwise.

@@ -52,7 +52,7 @@ Architectonics is defined in the article as "the constructive role of cognition 
 
 ## Examples
 
-- [Four architectonic guiding principles for integrating teaching, learning, and technology](../patterns/architectonic-guiding-principles-integration.md)
+- [Four architectonic guiding principles for integrating teaching, learning, and technology](architectonic-guiding-principles-integration.md)
 - [Adopt a conceptual, dialogic approach to interdisciplinarity rather than a reductive instrumental one to strengthen integrative learning](../principles/dialogic-conceptual-interdisciplinarity-reform.md)
 
 ## Key Sources

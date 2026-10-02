@@ -46,7 +46,7 @@ Structured debate is the element in which learners examine opposing claims using
 
 ## Patterns That Use This Element
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
-- [Debate Format](../patterns/debate-format.md)
+- [Debate Format](../patterns/debate.md)
 
 ## Examples
 - Learners defend and rebut positions using evidence stems and timed turns.

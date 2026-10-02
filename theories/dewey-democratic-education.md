@@ -46,7 +46,7 @@ The article grounds its egalitarian program-design argument in Dewey's democrati
 
 ## Examples
 
-- [Nine principles of community-based education grounded in democratic participation](../patterns/principles-of-community-based-education.md)
+- [Nine principles of community-based education grounded in democratic participation](principles-of-community-based-education.md)
 
 ## Key Sources
 - Farmer & Higham. (2007). Culturally Responsive Leadership: Graduate Program Egalitarianism. https://www.ucea.org

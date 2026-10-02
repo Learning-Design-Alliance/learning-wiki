@@ -52,7 +52,7 @@ Humm's overview paper presents Piaget's framework for physical educators: two fu
 
 ## Examples
 
-- [Piagetian teacher behavioral congruency checklist for analyzing teaching styles](../patterns/piagetian-teacher-congruency-checklist.md)
+- [Piagetian teacher behavioral congruency checklist for analyzing teaching styles](../methods/piagetian-teacher-congruency-checklist.md)
 - [Allow practice play in relaxed conditions so skills can become modularized](../principles/practice-play-modularization.md)
 
 ## Key Sources

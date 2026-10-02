@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: structured-academic-controversy
+aliases: [structured-academic-controversy-sac]
 title: Structured Academic Controversy
 description: Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
 status: review
@@ -19,7 +20,7 @@ grain_size: lesson
 # Structured Academic Controversy
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 mixed) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 4 claims (4 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion. This page serves as the canonical short-form target for links to the SAC pattern.
@@ -31,25 +32,46 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 - **A real controversy or competing interpretation**
 - **Clear roles and turn structure**
 - **A synthesis phase after advocacy**
+- **A genuinely controversial question**: The issue should support reasoned disagreement and evidence-based interpretation.
+- **Preparation and evidence gathering**: Learners need time to understand and support each assigned position.
+- **Role reversal**: Switching positions is central because it forces serious engagement with the other side.
+- **A synthesis stage**: The pattern should end with common-ground building or a reasoned integrative conclusion.
 #### Constraints
 - **Can become performative if learners only defend positions without synthesis**
 - **Requires strong norms to keep disagreement productive**
+- **Emotional intensity**: Some issues require careful framing and facilitation to keep the controversy academic rather than personal.
+- **Performance pressure**: Learners may need support if public argumentation is intimidating.
+- **False equivalence risk**: Not all issues should be framed as symmetrical controversies.
+- **Weak synthesis undermines the pattern**: If the process stops at opposition, the controversy stage dominates the learning.
 #### Grain Size
 - Lesson
+- Unit
 
 ### Target Goals
 - Improve perspective-taking, argument quality, and evidence-based reasoning.
+- **Perspective-taking**: Understanding and articulating more than one position.
+- **Evidence-based argumentation**: Building and defending claims with sources and reasons.
+- **Integrative reasoning**: Moving from opposition toward more nuanced judgment.
 
 ### Target Learners
 - Learners who benefit from structured comparison of multiple viewpoints.
+- **Learners in civics, ethics, history, policy, and social science contexts**: Strong fit where contested interpretation matters.
+- **Groups developing academic discussion discipline**: Useful when students need structure for disagreement.
+- **Learners ready to engage competing viewpoints**: Best when participants can separate critique of ideas from critique of people.
 
 ### Theory
 #### Supporting
 - [Perspective-Taking](../principles/perspective-taking.md)
 - [Social Learning](../principles/social-learning.md)
+- Social interdependence perspectives — cooperative structures can make intellectual conflict productive.
+- Cognitive flexibility perspectives — switching positions encourages reevaluation of prior assumptions.
+- Dialogic learning perspectives — understanding is sharpened through structured engagement with alternatives.
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ### Claims
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -64,16 +86,132 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 - [Structured Discussion](../elements/structured-discussion.md)
 - [Perspective-Taking](../elements/perspective-taking.md)
 - [Rebuttals](../elements/rebuttals.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
+- [Reflection](../elements/reflection.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
 - [Perspective-Taking](../principles/perspective-taking.md)
 - [Social Learning](../principles/social-learning.md)
+- [Debate](../principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ## Related Patterns
-- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
+- [Debate Format](debate.md)
+- [Socratic Seminar](socratic-seminar.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
 
 ## Examples
 - Students debate a policy question, switch sides, and then produce a joint synthesis.
+- Civics learners examining competing policy responses and then writing a synthesis recommendation.
+- Ethics classes switching sides on a controversial dilemma before seeking common ground.
+- History learners arguing multiple interpretations of a contested event.
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37-51. [https://doi.org/10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)
+- Hess, D. (2009). *Controversy in the classroom: The democratic power of discussion*. Routledge.
+
+<!-- merged 2026-10-02 from patterns/structured-academic-controversy-sac ("Structured Academic Controversy (SAC)"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Structured Academic Controversy (SAC)
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 4 claims (4 mixed) · 10 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size · 1 claim rests on one study
+
+## Description
+Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared synthesis. Unlike a standard debate, the goal is not winning. The goal is disciplined perspective-taking followed by integrative judgment.
+
+SAC is particularly useful when the topic involves legitimate disagreement and learners need to understand competing viewpoints before forming a considered position. The structure slows down premature certainty and makes intellectual flexibility part of the task.
+
+## Implications
+
+### Context
+#### Requirements
+- **A genuinely controversial question**: The issue should support reasoned disagreement and evidence-based interpretation.
+- **Preparation and evidence gathering**: Learners need time to understand and support each assigned position.
+- **Role reversal**: Switching positions is central because it forces serious engagement with the other side.
+- **A synthesis stage**: The pattern should end with common-ground building or a reasoned integrative conclusion.
+#### Constraints
+- **Emotional intensity**: Some issues require careful framing and facilitation to keep the controversy academic rather than personal.
+- **Performance pressure**: Learners may need support if public argumentation is intimidating.
+- **False equivalence risk**: Not all issues should be framed as symmetrical controversies.
+- **Weak synthesis undermines the pattern**: If the process stops at opposition, the controversy stage dominates the learning.
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Perspective-taking**: Understanding and articulating more than one position.
+- **Evidence-based argumentation**: Building and defending claims with sources and reasons.
+- **Integrative reasoning**: Moving from opposition toward more nuanced judgment.
+
+### Target Learners
+- **Learners in civics, ethics, history, policy, and social science contexts**: Strong fit where contested interpretation matters.
+- **Groups developing academic discussion discipline**: Useful when students need structure for disagreement.
+- **Learners ready to engage competing viewpoints**: Best when participants can separate critique of ideas from critique of people.
+
+### Theory
+#### Supporting
+- Social interdependence perspectives — cooperative structures can make intellectual conflict productive.
+- Cognitive flexibility perspectives — switching positions encourages reevaluation of prior assumptions.
+- Dialogic learning perspectives — understanding is sharpened through structured engagement with alternatives.
+#### Contradicting / Qualifying
+- Not all controversial issues should be taught through adversarial framing.
+- Learners often need emotional and rhetorical supports before controversy becomes productive rather than polarizing.
+
+### Claims
+#### Supporting
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+#### Contradicting
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+
+## Design
+
+### Sequence
+1. Divide learners into pairs or teams and assign opposing positions.
+2. Have each side gather evidence and prepare its case.
+3. Conduct the first round of presentation and response.
+4. Switch sides and repeat the process from the opposing perspective.
+5. Ask learners to synthesize areas of agreement, unresolved tension, and their best integrated judgment.
+
+### Elements Used
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
+- [Reflection](../elements/reflection.md)
+- [Assessment](../elements/assessment.md)
+
+### Affordances
+- [Debate](../principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+
+### Personalization
+- Topics can be chosen to match learner maturity and domain relevance.
+- Supports can include evidence organizers, sentence stems, or smaller-group formats.
+- The final synthesis can be oral, written, or collaborative depending on the class.
+
+## Related Patterns
+
+- [Debate Format](debate.md)
+- [Socratic Seminar](socratic-seminar.md)
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md)
+
+## Examples
+- Civics learners examining competing policy responses and then writing a synthesis recommendation.
+- Ethics classes switching sides on a controversial dilemma before seeking common ground.
+- History learners arguing multiple interpretations of a contested event.
+
+## Impact
+- Helps learners move beyond one-sided advocacy toward more complex understanding.
+- Strongest when the synthesis stage is treated as the instructional endpoint, not as an optional add-on.
+
+## Key Sources
+- Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37-51. [https://doi.org/10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)
+- Hess, D. (2009). *Controversy in the classroom: The democratic power of discussion*. Routledge.
+-->

@@ -74,7 +74,6 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 
 ## Related Patterns
 - [Direct Instruction](../patterns/direct-instruction.md)
-- [Explicit Teaching](../patterns/explicit-teaching.md)
 
 ## Examples
 

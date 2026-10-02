@@ -48,7 +48,7 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 ### Theory
 #### Supporting
 - Conceptual change traditions — conceptual revision often requires dissatisfaction with an existing explanation
-- [Constructivist Learning](constructivist-learning.md) — learners must actively reorganize meaning after the contradiction is noticed
+- [Constructivist Learning](constructivism.md) — learners must actively reorganize meaning after the contradiction is noticed
 - [Error Analysis](error-analysis.md) — examining wrong predictions or models can make revision possible
 
 #### Contradicting / Qualifying

@@ -47,7 +47,7 @@ The report defines the LRE concept from P.L. 94-142 and its regulations as havin
 ## Examples
 
 - [Least Restrictive Environment](../principles/least-restrictive-environment.md)
-- [Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change](../patterns/lea-four-course-lre-strategy.md)
+- [Successful districts pursue LRE through four coordinated courses of action: explicit policy decisions, new less restrictive alternatives, improved placement decisions, and attitude change](../strategies/lea-four-course-lre-strategy.md)
 - [Reverse integration: bring non-handicapped children into handicapped children's classrooms to build acceptance for LRE placement](../strategies/reverse-integration-attitude-strategy.md)
 
 ## Key Sources

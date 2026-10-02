@@ -59,7 +59,7 @@ Background noise is a classic source of *extraneous* processing: it consumes wor
 ## Related Strategies
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the classroom-level counterpart: designing the physical environment rather than advising individual learners
 - [Chunking](../principles/chunking.md) — a complementary way to protect working-memory capacity, by structuring content rather than the environment
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — reduces extraneous load within materials, as this strategy does within the environment
+- [Clear Structure Presentation](../principles/clear-structure.md) — reduces extraneous load within materials, as this strategy does within the environment
 
 ## Examples
 - A middle-school teacher establishes a "silent reading" block with a visual noise-level indicator, reserving group discussion for a separate phase of the lesson.

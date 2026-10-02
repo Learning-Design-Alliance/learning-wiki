@@ -47,7 +47,7 @@ The article adopts Keller's ARCS model as both theoretical framework and measure
 
 ## Examples
 
-- [Use a systematic instructional design process (ADDIE) with a motivational model to diagnose and address motivational problems](../principles/addie-arcs-systematic-motivational-intervention-process.md)
+- [Use a systematic instructional design process (ADDIE) with a motivational model to diagnose and address motivational problems](../processes/addie-arcs-systematic-motivational-intervention-process.md)
 - [Motivational Delivery Checklist](../elements/motivational-delivery-checklist.md)
 - [Instructional Materials Motivation Survey (IMMS)](../elements/instructional-materials-motivation-survey-imms.md)
 

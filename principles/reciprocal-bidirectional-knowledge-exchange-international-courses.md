@@ -46,7 +46,7 @@ For equitable international education, institutions should ensure that partners 
 
 ## Examples
 
-- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../patterns/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
 - [Cultural Exchange Kits](../strategies/cultural_exchange_kits.md)
 - [Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students](../strategies/structured-reflection-equality-reciprocity-icel.md)
 

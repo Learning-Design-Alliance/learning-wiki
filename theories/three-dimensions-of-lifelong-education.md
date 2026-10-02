@@ -47,7 +47,7 @@ The paper organizes lifelong education along three dimensions. Vertical integrat
 
 ## Examples
 
-- [Nine principles of community-based education grounded in democratic participation](../patterns/principles-of-community-based-education.md)
+- [Nine principles of community-based education grounded in democratic participation](principles-of-community-based-education.md)
 - [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](../strategies/mentoring-for-community-lifelong-learning.md)
 - [Investigate technology's role in community-based lifelong learning delivery as a research priority](../strategies/technology-in-community-based-lifelong-learning-research.md)
 

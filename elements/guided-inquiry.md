@@ -33,7 +33,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 ### Affordances
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 - [Scaffolding](../principles/scaffolding.md)
-- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Constructivist Learning](../principles/constructivism.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -47,7 +47,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 - [Team-Based Inquiry](team-based-inquiry.md)
 
 ## Patterns That Use This Element
-- [POGIL](../patterns/pogil.md)
+- [POGIL](../patterns/process-oriented-guided-inquiry-learning-pogil.md)
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples

@@ -43,7 +43,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 ### Target Learners
 - Learners with moderate prior knowledge who have something to articulate and refine [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]
 - Most effective in higher education and professional development, where discussion norms and knowledge bases are established
-- Less suitable for complete novices, who need [explicit teaching](../patterns/explicit-teaching.md) before their reasoning is worth probing [~M]
+- Less suitable for complete novices, who need [explicit teaching](../patterns/direct-instruction.md) before their reasoning is worth probing [~M]
 
 ### Target Learning Goals
 - Critical thinking: evaluating evidence, assumptions, and implications

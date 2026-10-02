@@ -46,7 +46,7 @@ The CMR model is the article's solution to procedural admissions: it organizes a
 
 ## Examples
 
-- [Admission structured as a rite of passage combining rituals and constructivist therapy](../patterns/admission-as-rite-of-passage-pattern.md)
+- [Admission structured as a rite of passage combining rituals and constructivist therapy](../designs/admission-as-rite-of-passage-pattern.md)
 - [Favor gradual, empathic concern for individuals over quick, cost-effective efficiency in transition therapies](../principles/gradual-empathic-concern-over-efficiency.md)
 - [Conduct admissions as a gradual therapeutic process examining needs, forming relationships, involving supports, and celebrating arrival](../strategies/gradual-therapeutic-admission-strategy.md)
 

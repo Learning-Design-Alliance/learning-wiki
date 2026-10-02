@@ -49,7 +49,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 
 ## Patterns That Use This Element
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
-- [Merrill's First Principles](../patterns/merrills-first-principles.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md)
 
 ## Examples
 - Lab work, manipulatives, prototyping, and live practice tasks.

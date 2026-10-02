@@ -113,7 +113,7 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — signaling discourse structure is one of the mechanisms by which organizers may act
 - [Advance organizers](../elements/advance-organizers.md) — the instructional element this claim evaluates
 - [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md) — a common way of building the anchoring content an organizer requires
-- [Clear structure presentation](../principles/clear-structure-presentation.md) — organizers are one structural device among several for signaling discourse structure
+- [Clear structure presentation](../principles/clear-structure.md) — organizers are one structural device among several for signaling discourse structure
 - [Cognitive load reduction](../principles/cognitive-load-reduction.md) — a well-designed organizer pre-loads schema structure, reducing load during instruction
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related

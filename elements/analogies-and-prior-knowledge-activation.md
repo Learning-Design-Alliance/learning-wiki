@@ -46,7 +46,7 @@ Analogies support comprehension by letting learners import a known relational st
 
 ### Affordances
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — this element enacts the principle directly: the analogy is the vehicle for structure-mapping from a familiar source to an unfamiliar target
-- [Constructivist Learning](../principles/constructivist-learning.md) — new knowledge is built by connecting to what learners already know rather than transmitted as isolated facts; activation makes those connections available for construction
+- [Constructivist Learning](../principles/constructivism.md) — new knowledge is built by connecting to what learners already know rather than transmitted as isolated facts; activation makes those connections available for construction
 - [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — a well-chosen analogy compresses a complex system into a familiar schema, freeing working memory for the genuinely new relations [Chunking familiar structure reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Cognitive Activation](../principles/cognitive-activation.md) — activation prompts require learners to retrieve and examine what they know, engaging deep processing before new content arrives
 

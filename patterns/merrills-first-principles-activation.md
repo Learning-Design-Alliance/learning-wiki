@@ -46,8 +46,7 @@ This page is the short-form canonical target for the activation move within Merr
 - [Activation Improves Learning](../claims/activation-improves-learning.md) [+S]
 
 ## Related Patterns
-- [Merrill's First Principles](merrills-first-principles.md)
-- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles](merrills-first-principles-of-instruction.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

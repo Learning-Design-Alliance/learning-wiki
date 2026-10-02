@@ -39,7 +39,7 @@ This design directly answers PBI's four weaknesses: individual — not just team
 
 ### Target Goals
 - Preserving PBI's intrinsic motivation and authenticity while directly fixing its documented weaknesses in individual mastery assessment, transfer, automaticity, and efficiency
-- Attainment-based (not time-based) progress, consistent with the broader [Learner-Centered Paradigm of Education](../principles/learner-centered-paradigm.md)
+- Attainment-based (not time-based) progress, consistent with the broader [Learner-Centered Paradigm of Education](../theories/learner-centered-paradigm.md)
 
 ### Target Learners
 - Learners working on complex, authentic projects who need certifiable individual mastery of component skills, not just a good team product

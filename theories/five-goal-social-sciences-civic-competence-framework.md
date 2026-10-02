@@ -51,7 +51,7 @@ The California framework organizes all K-12 social sciences programs around five
 ## Examples
 
 - [Grade-span structure of program goals with illustrative, non-sequential level objectives](../patterns/grade-span-illustrative-objectives-pattern.md)
-- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../principles/materials-reflect-principles-of-learning.md)
+- [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](../designs/materials-reflect-principles-of-learning.md)
 - [Use studies of human experience across world societies with an interdisciplinary focus through grade eight](../strategies/interdisciplinary-human-experience-studies-strategy.md)
 
 ## Key Sources

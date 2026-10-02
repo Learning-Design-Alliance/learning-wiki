@@ -69,7 +69,7 @@ Dot arrangements that support perceptual grouping reduce working-memory demand d
 - [Analogies](../elements/analogies.md) — connecting dot arrangements to dice, fingers, and ten-frames
 
 ## Patterns That Use This Strategy
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cgi-for-math.md) — eliciting children's informal strategies before formal instruction is the core CGI move
+- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — eliciting children's informal strategies before formal instruction is the core CGI move
 - [Direct Instruction](../patterns/direct-instruction.md) — the strategy-labeling and feedback steps enact explicit teaching within an activity format
 
 ## Examples

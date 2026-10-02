@@ -25,7 +25,7 @@ Attention is a limited resource, especially for students with ADHD or weak execu
 #### Requirements
 - An assessment of the individual student's attention profile: what distracts, what engages, preferred modality, and stamina patterns
 - Strategic seating (near the teacher, away from doors/windows/high-traffic zones) matched to the student's specific distraction sources
-- Visual aids and [graphic organizers](../principles/clear-structure-presentation.md) that anchor attention to task structure
+- Visual aids and [graphic organizers](../principles/clear-structure.md) that anchor attention to task structure
 - Directions [chunked](../principles/chunking.md) into short, sequenced steps with one instruction at a time
 - A monitoring plan (on-task behavior data, engagement checks, student feedback) to verify the supports are working
 

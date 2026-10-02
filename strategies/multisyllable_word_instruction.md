@@ -72,7 +72,6 @@ Multisyllable word instruction reduces the working-memory burden of decoding lon
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — sequenced, teacher-led presentation with guided and independent practice
-- [Explicit Teaching](../patterns/explicit-teaching.md) — naming the rule, modeling, and checking understanding before release
 
 ## Tools
 - [Wilson Reading System](https://www.wilsonlanguage.com) — structured literacy program with systematic six-syllable-type scope and sequence

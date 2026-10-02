@@ -62,7 +62,6 @@ Explicit, systematic phonics instruction produces stronger word-reading and gene
 
 ## Examples
 - **[Direct Instruction](../patterns/direct-instruction.md)** programs such as *Reading Mastery* deliver scripted, sequenced phonics lessons with choral responding and immediate correction.
-- **[Explicit Teaching](../patterns/explicit-teaching.md)** in structured-literacy approaches such as Orton–Gillingham–based interventions pairs multisensory letter–sound teaching with cumulative decodable reading.
 - **[Teach Your Monster to Read](https://www.teachyourmonster.org)** — a free game that systematically introduces grapheme–phoneme correspondences with blending practice.
 - **[Duolingo ABC](https://www.duolingo.com/abc)** — app-based decoding lessons sequenced by letter–sound complexity with immediate feedback.
 

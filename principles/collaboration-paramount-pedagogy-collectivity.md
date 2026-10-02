@@ -46,7 +46,7 @@ The article argues that because learning and freedom are socially mediated, coll
 
 ## Examples
 
-- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../patterns/chormmunity-workshop-arc-pattern.md)
+- [Workshop arc: oral conversation, then imagistic, then somatic, ending in ritual performance](../designs/chormmunity-workshop-arc-pattern.md)
 - [Co-Creating Classroom Norms](../strategies/co-creating_classroom_norms.md)
 
 ## Key Sources

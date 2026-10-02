@@ -61,7 +61,7 @@ Counting On reduces working memory demand relative to counting all by shortening
 - [Make Ten](make-ten.md) — a decomposition strategy that supersedes counting for addends near 10
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../patterns/cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
 - **Number Talks** (Parrish, 2010) — teachers record Counting On alongside other student strategies on the board, making strategy choice itself an object of discussion.
 - **First-grade addition units** in most core curricula (e.g., Investigations in Number, Data, and Space) sequence counting all → counting on → derived facts across the year.
 

@@ -58,7 +58,7 @@ Shadowing is a professional-learning strategy for educators rather than a direct
 5. **Act and follow up.** Convert insights into one or more concrete changes, then share findings (anonymized) with colleagues to compound the learning.
 
 ## Related Strategies
-- [Empathy Interviews](../principles/empathy-interviews.md) — complements observation with the student's own account; shadowing shows what happens, interviews explain why
+- [Empathy Interviews](../methods/empathy-interviews.md) — complements observation with the student's own account; shadowing shows what happens, interviews explain why
 - [Learning Walks](learning-walks.md) — shifts the observational lens from one student to classroom practice across rooms
 
 ## Examples

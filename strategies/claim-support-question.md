@@ -30,7 +30,7 @@ CSQ operationalizes argumentation by requiring learners to commit to a position 
 #### Constraints
 - With weak prior knowledge, learners generate claims they cannot support, producing fluency illusions rather than learning [Learners with low prior knowledge benefit less from minimally guided inquiry.](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — pair with [Advance Organizers](../elements/advance-organizers.md) or source material to anchor claims
 - If the question step is skipped or treated as an afterthought, the routine collapses into assertion-and-justification and loses its inquiry function
-- In large classes without discussion structures, claims go unchallenged; combine with [Think-Pair-Share](../patterns/think-pair-share.md) or [Discussion Groups](../patterns/discussion-group.md)
+- In large classes without discussion structures, claims go unchallenged; combine with [Think-Pair-Share](../patterns/think-pair-share.md) or [Discussion Groups](../patterns/discussion-based-learning.md)
 
 #### Implementation Variability
 - Written (exit ticket, discussion board post) or oral (whole-class or small-group discussion)

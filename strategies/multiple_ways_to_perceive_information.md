@@ -60,7 +60,7 @@ Multimodal presentation works when each mode carries a distinct, coordinated por
 
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — segmentation of multimodal content keeps each channel within working memory limits
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — signaling and organization determine whether multiple modes integrate or compete
+- [Clear Structure Presentation](../principles/clear-structure.md) — signaling and organization determine whether multiple modes integrate or compete
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — narrated visual problem-solving videos with synchronized writing, exemplifying temporal contiguity.

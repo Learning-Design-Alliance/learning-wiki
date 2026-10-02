@@ -61,7 +61,7 @@ Explicit strategy instruction works because it converts tacit expert processes i
 5. **Extend to independent writing.** Provide sustained writing practice across purposes and genres, with feedback on both strategy use and text quality.
 
 ## Related Strategies
-- [Explicit Teaching](../patterns/explicit-teaching.md) — the general instructional pattern this strategy instantiates for the writing domain
+- [Explicit Teaching](../patterns/direct-instruction.md) — the general instructional pattern this strategy instantiates for the writing domain
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling–coaching–fading sequence underlying strategy demonstration
 - [4CID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — provides the systematic task sequencing that makes instruction cumulative rather than episodic
 

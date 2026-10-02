@@ -66,7 +66,7 @@ Posters work as external memory aids: they offload reference information from wo
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — posters often enact this function persistently rather than at a single lesson opening
 - [Analogies](../elements/analogies.md) — visual analogies on posters can anchor abstract concepts to familiar images
-- [Clear Structure](../principles/clear-structure-presentation.md) — poster design is an exercise in visual structure: hierarchy, grouping, and emphasis
+- [Clear Structure](../principles/clear-structure.md) — poster design is an exercise in visual structure: hierarchy, grouping, and emphasis
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — reference posters support the guided practice phase

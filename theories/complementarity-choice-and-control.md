@@ -44,7 +44,7 @@ The guide's organizing framework is complementarity, "wherein opposites are attr
 
 ## Examples
 
-- [Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best](../principles/improve-least-chosen-schools-via-choice-data.md)
+- [Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best](../strategies/improve-least-chosen-schools-via-choice-data.md)
 - [Implement desegregation, choice, and school improvement simultaneously rather than incrementally](../principles/simultaneous-desegregation-choice-improvement.md)
 - [Establish parent-staffed Parent Information Centers to equalize access to the choice process](../strategies/parent-information-centers-for-choice-equity.md)
 

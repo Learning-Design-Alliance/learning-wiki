@@ -24,7 +24,7 @@ Attention is a limited resource; irrelevant stimuli compete with instructional c
 ### Context
 #### Requirements
 - A deliberate audit of the learning space (physical, digital, or document) identifying what serves the learning goal and what does not
-- A clear visual hierarchy: one focal point at a time, with [Clear Structure & Presentation](../principles/clear-structure-presentation.md) guiding where attention should go
+- A clear visual hierarchy: one focal point at a time, with [Clear Structure & Presentation](../principles/clear-structure.md) guiding where attention should go
 - Consistent placement of essential materials so learners do not spend effort searching for what they need
 - A plan for digital distractions — notifications, tabs, and device policies — since off-task laptop use harms both the user and nearby peers [~S]
 
@@ -53,14 +53,14 @@ Attention is a limited resource; irrelevant stimuli compete with instructional c
 ### Instructions
 1. Audit the environment: list every visual, auditory, and digital stimulus present during learning and classify each as instructional, motivational, or extraneous.
 2. Remove or suppress extraneous stimuli — decorative graphics, background noise, unused displays, notification streams — consistent with [Cognitive Load Management](../principles/cognitive-load-management.md).
-3. Establish one focal point per learning episode and structure materials with [Clear Structure & Presentation](../principles/clear-structure-presentation.md) so attention is cued, not scattered.
+3. Establish one focal point per learning episode and structure materials with [Clear Structure & Presentation](../principles/clear-structure.md) so attention is cued, not scattered.
 4. Retain only functional displays (anchor charts, reference tools, current-unit content) that learners actively use; rotate them as units change.
 5. Set explicit norms for digital devices and teach learners to manage their own digital environment as part of [Self-Regulated Learning](../theories/self-regulated-learning.md).
 6. Reassess periodically: clutter accumulates, and what was instructional last month may be extraneous this month.
 
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — reduces within-material density the way decluttering reduces environmental density
-- [Clear Structure & Presentation](../principles/clear-structure-presentation.md) — the positive counterpart: cueing attention to what matters rather than only removing what does not
+- [Clear Structure & Presentation](../principles/clear-structure.md) — the positive counterpart: cueing attention to what matters rather than only removing what does not
 - [Coherence in Multimedia](../principles/cognitive-load-management.md) — the same principle applied to instructional media design
 
 ## Examples

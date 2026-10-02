@@ -52,7 +52,7 @@ The article enumerates four guidelines, based on Kolb (1984) and Lee and Caffare
 ## Examples
 
 - [Use technology to facilitate active participation rather than replace face-to-face learning, potentially creating greater synchronicity between modes](../strategies/technology-facilitates-not-replaces-face-to-face.md)
-- [Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format](../patterns/active-learning-framework-three-components.md)
+- [Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format](../designs/active-learning-framework-three-components.md)
 - [Structured problem cases built on Kim et al.'s four conceptual elements (content, structure, attributes, process)](../elements/kim-et-al-case-conceptual-elements.md)
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
 

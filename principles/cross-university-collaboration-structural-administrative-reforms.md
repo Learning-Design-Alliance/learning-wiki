@@ -45,7 +45,7 @@ Institutions delivering shared cross-university courses face structural barriers
 
 ## Examples
 
-- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../patterns/cbl-cel-coil-cuc-integrated-course-pattern.md)
+- [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](../designs/cbl-cel-coil-cuc-integrated-course-pattern.md)
 - [Project Management Tools for Group Work](../strategies/project_management_tools_for_group_work.md)
 
 ## Key Sources

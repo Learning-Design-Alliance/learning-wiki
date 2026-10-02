@@ -41,7 +41,7 @@ The guide's central design recommendation is that the three components of Contro
 
 ## Related Principles
 
-- [Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time](large-heterogeneous-attendance-zones.md)
+- [Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time](../strategies/large-heterogeneous-attendance-zones.md)
 
 ## Examples
 -

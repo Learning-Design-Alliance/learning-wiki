@@ -56,8 +56,8 @@ generated:
 - [Decision Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
-- [Problem-Based Learning (PBL)](../patterns/problem-based-learning-pbl.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
 
 ## Examples
 - Learners launch a community information campaign after researching a local issue

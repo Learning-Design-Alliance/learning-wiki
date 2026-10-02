@@ -46,7 +46,7 @@ The paper organizes science education goals into seven reference words: power, s
 
 ## Examples
 
-- [Select a few goals per course rather than all-inclusive goal statements when designing facilities](../principles/select-few-goals-for-facility-design.md)
+- [Select a few goals per course rather than all-inclusive goal statements when designing facilities](../strategies/select-few-goals-for-facility-design.md)
 - [Draft flexible educational specifications stating activities and needs rather than fixed dimensions](../strategies/flexible-activity-based-specifications.md)
 
 ## Key Sources

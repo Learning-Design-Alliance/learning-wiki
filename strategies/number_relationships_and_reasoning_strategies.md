@@ -35,7 +35,7 @@ Strategy-based fact instruction produces better retention and transfer than dril
 - Untimed, discussion-heavy instruction can leave some learners without the retrieval automaticity needed to free working memory for complex tasks; brief, low-stakes practice after strategies are established is still necessary [Chunking known facts reduces working-memory load during computation.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 #### Implementation Variability
-- **Invented strategies first:** learners generate their own methods, which the teacher names and connects to canonical strategies (the [Cognitively Guided Instruction](../patterns/cgi-for-math.md) stance)
+- **Invented strategies first:** learners generate their own methods, which the teacher names and connects to canonical strategies (the [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) stance)
 - **Explicit strategy teaching:** the teacher demonstrates a strategy with manipulatives, then learners apply it ([Direct Instruction](../patterns/direct-instruction.md) sequencing)
 - **Game-based practice:** strategy application embedded in games (e.g., "Make 10" card games) so retrieval practice follows reasoning rather than replacing it
 - **Adaptive sequencing:** digital tools select facts for practice based on which relationships a learner has already secured ([Adaptive Difficulty](../elements/adaptive-difficulty.md))

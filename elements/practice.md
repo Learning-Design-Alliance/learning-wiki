@@ -154,7 +154,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ## Patterns That Use This Element
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "eliciting performance" and "providing feedback" events
-- [Merrill's First Principles](../patterns/merrills-first-principles.md) — the Application principle: learners apply new knowledge with feedback and correction
+- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md) — the Application principle: learners apply new knowledge with feedback and correction
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the practice phase following modeling and coaching
 
 ## Examples

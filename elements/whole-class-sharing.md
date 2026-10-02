@@ -65,7 +65,7 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 
 ## Patterns That Use This Element
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the "share" phase is whole-class reporting of pair conclusions
-- [Jigsaw](../patterns/jigsaw.md) — expert groups report back so the class assembles the full picture
+- [Jigsaw](../patterns/jigsaw-method.md) — expert groups report back so the class assembles the full picture
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sharing structures the whole-class segment of discussion sequences
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups present findings for collective critique and synthesis
 

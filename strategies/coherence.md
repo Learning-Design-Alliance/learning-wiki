@@ -25,7 +25,7 @@ Coherence directly counters the well-replicated finding that interesting-but-irr
 #### Requirements
 - Explicit learning objectives against which every content element can be judged
 - A draft or existing material set to audit for extraneous elements
-- Willingness to cut "engaging" content that does not serve the objective ([Clear Structure](../principles/clear-structure-presentation.md))
+- Willingness to cut "engaging" content that does not serve the objective ([Clear Structure](../principles/clear-structure.md))
 
 #### Constraints
 - Over-trimming can strip materials of motivating context for learners who lack the background to see why content matters [~M] — coherence must be balanced against [Activation](../principles/activation.md) of prior knowledge and relevance framing
@@ -49,7 +49,7 @@ Coherence directly counters the well-replicated finding that interesting-but-irr
 - Efficient learning under time constraints
 
 ### Instructions
-1. State the learning objective and identify the essential content ([Clear Structure](../principles/clear-structure-presentation.md)).
+1. State the learning objective and identify the essential content ([Clear Structure](../principles/clear-structure.md)).
 2. Audit each text passage, image, sound, and anecdote: does it directly support the objective? If not, cut it.
 3. Replace decorative graphics with explanatory ones ([Multimedia](../principles/cognitive-load-management.md)).
 4. Shorten verbose text to concise, essential wording; break what remains into digestible units ([Chunking](../principles/chunking.md)).

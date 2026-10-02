@@ -23,7 +23,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 
 ### Context
 #### Requirements
-- A clear organizational structure with explicit signposting ([Clear Structure](../principles/clear-structure-presentation.md))
+- A clear organizational structure with explicit signposting ([Clear Structure](../principles/clear-structure.md))
 - Content segmented into manageable chunks with breaks for processing ([Chunking](../principles/chunking.md))
 - Visuals and narration coordinated rather than redundant text-heavy slides
 - Opportunities for learners to respond, question, or apply ([Class Discussion](class-discussion.md), [Practice](practice.md))
@@ -48,8 +48,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 ### Affordances
 - [Direct Instruction](../principles/direct-instruction.md) — a lecture is the canonical enactment of this principle: the expert explicitly explains and sequences content rather than leaving learners to discover it
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — a well-designed lecture manages load by sequencing content, segmenting delivery, and coordinating narration with visuals
-- [Clear Structure](../principles/clear-structure-presentation.md) — lectures impose an expert-authored organization on material, giving learners a coherent schema for otherwise disconnected facts
-- [Advance Organizers](../principles/clear-structure-presentation.md) — the opening of a lecture can supply the framework into which subsequent detail is assimilated
+- [Clear Structure](../principles/clear-structure.md) — lectures impose an expert-authored organization on material, giving learners a coherent schema for otherwise disconnected facts
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -66,7 +65,6 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 - [Direct Instruction](../patterns/direct-instruction.md) — lecture as the "present the content" phase
 - [Gagné's 9 Events](../patterns/gagnes-9-events-of-instruction.md) — "present the content" event
 - [Flipped Classroom](../patterns/flipped-classroom.md) — relocates the lecture to pre-class video, reserving class time for application
-- [Traditional Lecture-Based Instruction](../patterns/direct-instruction.md) — the lecture as the primary organizing element
 
 ## Examples
 

@@ -44,7 +44,7 @@ The Federation University model is a program-level teaching framework for commun
 ## Related Theories
 
 - [Kolb Four Stage Experiential Cycle Integration](kolb-four-stage-experiential-cycle-integration.md)
-- [Active Learning Framework Three Components](../patterns/active-learning-framework-three-components.md)
+- [Active Learning Framework Three Components](../designs/active-learning-framework-three-components.md)
 - [Experiential Learning Theory](experiential-learning-theory.md)
 - [Kolb's four-stage experiential learning model and its four learning style categories](kolb-four-stage-experiential-learning-model.md)
 

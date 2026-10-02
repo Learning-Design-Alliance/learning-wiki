@@ -68,7 +68,7 @@ Holistic learning matters when learners are likely to lose meaning by encounteri
 
 ### Illustrative
 
-**[Reigeluth's Elaboration Theory](../patterns/reigeluths-elaboration-theory.md)** — Learners begin with an epitome or simple whole, then elaborate progressively while keeping the larger structure in view.
+**[Reigeluth's Elaboration Theory](../patterns/elaboration-theory.md)** — Learners begin with an epitome or simple whole, then elaborate progressively while keeping the larger structure in view.
 
 **Whole-task previews before subskill focus** — In writing, programming, or design, learners first see the complete workflow or product before analyzing individual components.
 

@@ -44,7 +44,7 @@ Questioning converts passive reception into [Active Learning](../principles/acti
 ### Target Learners
 - Students in large-enrollment courses where individual attention is impossible; interactive questioning recovers some responsiveness of tutoring [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 - Students with partial prior knowledge, whose half-formed ideas are exposed and corrected by answering and hearing peers [~M]
-- Less suitable as the sole method for complete novices, who may lack the knowledge base to generate useful answers and need [Explicit Teaching](../patterns/explicit-teaching.md) first [~M]
+- Less suitable as the sole method for complete novices, who may lack the knowledge base to generate useful answers and need [Explicit Teaching](../patterns/direct-instruction.md) first [~M]
 
 ### Target Learning Goals
 - Conceptual understanding and misconception repair — questions force learners to articulate and defend ideas [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

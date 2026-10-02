@@ -53,7 +53,7 @@ Fluency in basic facts is a well-documented predictor of later mathematics achie
 - Long-term retention of facts through spaced retrieval [+S]
 
 ### Instructions
-1. **Verify conceptual understanding first.** Confirm learners can derive the target facts with strategies (doubles, near-doubles, distributive reasoning) before drilling; use [Cognitively Guided Instruction](../patterns/cgi-for-math.md) or [Explicit Teaching](../patterns/explicit-teaching.md) if not.
+1. **Verify conceptual understanding first.** Confirm learners can derive the target facts with strategies (doubles, near-doubles, distributive reasoning) before drilling; use [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) or [Explicit Teaching](../patterns/direct-instruction.md) if not.
 2. **Chunk the fact set.** Select 5–10 target facts per session, grouped by family or strategy, consistent with [Chunking](../principles/chunking.md).
 3. **Run a brief timed retrieval round.** 2–5 minutes of rapid answering with immediate feedback; keep timing individual (beat your own score) rather than comparative.
 4. **Follow with untimed application.** Have learners use the drilled facts inside [Practice](../elements/practice.md) on richer problems so fluency transfers to computation.

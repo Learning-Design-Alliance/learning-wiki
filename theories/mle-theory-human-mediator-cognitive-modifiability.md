@@ -53,7 +53,7 @@ MLE theory holds that intelligence is modifiable and that learning proceeds most
 
 ## Examples
 
-- [Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task](../patterns/five-stage-mle-lesson-pattern.md)
+- [Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task](../designs/five-stage-mle-lesson-pattern.md)
 - [Educators should act as mediators and facilitators of learning rather than content disseminators](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources

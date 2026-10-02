@@ -46,7 +46,7 @@ Because writing must be taught within intensive reading classes for non-English 
 
 ## Examples
 
-- [Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment](../patterns/writing-in-reading-four-aspects-pattern.md)
+- [Writing-integrated reading lesson pattern across teaching objectives, content, organization and assessment](../designs/writing-in-reading-four-aspects-pattern.md)
 - [Guide reading with targeted questions that direct attention to grammatical, lexical and structural features needed for the writing task](../strategies/guided-reading-questions-for-writing-tasks.md)
 - [Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback](../strategies/output-based-writing-teaching-suggestions.md)
 

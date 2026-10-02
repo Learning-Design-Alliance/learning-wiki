@@ -102,7 +102,7 @@ The pattern works best when the object being evaluated admits comparison and jus
 
 ## Related Patterns
 - [Structured Peer Review](structured-peer-review.md)
-- [Discussion Group](discussion-group.md)
+- [Discussion Group](discussion-based-learning.md)
 
 ## Examples
 - Teams comparing possible sources for a research project against credibility criteria.

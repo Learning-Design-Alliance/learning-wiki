@@ -58,7 +58,7 @@ Displays act as persistent external memory, offloading reference information so 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a unit-opening display of prior learning primes retrieval before new instruction
 - [Chunking](../principles/chunking.md) — displays should group information into meaningful chunks rather than presenting undifferentiated lists
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — a working wall makes lesson-to-lesson structure physically visible
+- [Clear Structure Presentation](../principles/clear-structure.md) — a working wall makes lesson-to-lesson structure physically visible
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — a unit concept map on the wall functions as a persistent organizer

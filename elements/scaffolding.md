@@ -32,7 +32,7 @@ Scaffolding is the element in which support is added temporarily so learners can
 
 ### Affordances
 - [Scaffolding](../principles/scaffolding.md)
-- [Scaffolding and Fading](../principles/scaffolding-fading.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

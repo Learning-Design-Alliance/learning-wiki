@@ -81,7 +81,6 @@ DBDM operationalizes [Assessment for Learning](../principles/assessment-for-lear
 ## Related Strategies
 - [Formative Assessment](../patterns/formative-assessment.md) — the assessment principle DBDM enacts at the program level
 - [Direct Instruction](../patterns/direct-instruction.md) — a common Tier 1 core whose pacing and emphasis DBDM adjusts
-- [Explicit Teaching](../patterns/explicit-teaching.md) — the instructional style most often re-deployed during data-triggered re-teaching
 
 ## Examples
 - **Response to Intervention (RTI)** — Tier 1 progress monitoring with decision rules (e.g., [DIBELS](https://dibels.uoregon.edu) benchmarks every 6–8 weeks) determines whether core instruction is sufficient or students need supplemental tiers [Fuchs & Fuchs, 2006].

@@ -52,7 +52,7 @@ Cognitive apprenticeship is an instructional paradigm that, per the article, mer
 
 ## Examples
 
-- [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](../patterns/modeling-lectures-plus-collaborative-workshop-sessions.md)
+- [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](../designs/modeling-lectures-plus-collaborative-workshop-sessions.md)
 - [Implement cognitive apprenticeship in technical mathematics only after requiring lab attendance, training teachers in coaching, building teachers' technical knowledge, and allotting more lab time](../strategies/cognitive-apprenticeship-implementation-recommendations.md)
 
 ## Key Sources

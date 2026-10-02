@@ -60,7 +60,7 @@ Word prediction functions as an [accommodation](../elements/accommodations.md) t
 
 ## Related Strategies
 - [Text-to-Speech](../principles/text-to-speech.md) — complementary readback that lets learners verify predicted words
-- [Speech-to-Text](../principles/speech-to-text.md) — alternative transcription accommodation for learners with stronger oral than written language
+- [Speech-to-Text](../elements/speech-to-text.md) — alternative transcription accommodation for learners with stronger oral than written language
 - [Scaffolded Writing Frames](../strategies/sentence-frames.md) — addresses planning and structure rather than transcription
 
 ## Examples

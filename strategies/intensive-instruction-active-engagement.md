@@ -59,7 +59,6 @@ Time on task only pays off when it is *active* and *focused*: passive seat time 
 
 ## Related Strategies
 - [Direct Instruction](../patterns/direct-instruction.md) — the scripted high-response-rate teaching model this strategy most often accompanies
-- [Explicit Teaching](../patterns/explicit-teaching.md) — provides the modeling and guided-practice structure within which intensive engagement occurs
 - [Flipped Classroom](../patterns/flipped-classroom.md) — reallocates exposure time outside class to maximize in-class active engagement
 
 ## Examples

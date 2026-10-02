@@ -66,7 +66,7 @@ Word-problem failure is often a comprehension failure rather than an arithmetic 
 - [Annotating](../principles/annotating.md) — marking quantities and relationships in the problem text is the individual form of this routine
 
 ## Examples
-- **Cognitively Guided Instruction (CGI)** — Teachers sequence addition/subtraction and multiplication/division problem types by difficulty and elicit children's informal solution strategies before formal notation ([CGI for Math](../patterns/cgi-for-math.md)).
+- **Cognitively Guided Instruction (CGI)** — Teachers sequence addition/subtraction and multiplication/division problem types by difficulty and elicit children's informal solution strategies before formal notation ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).
 - **Schema-based instruction in special education** — Learners learn a four-step routine (read, paraphrase, represent with a diagram, solve) applied across problem sets sharing one structure.
 - **Singapore bar models** — Students draw unit-bar diagrams to represent comparison and part-whole relationships before writing equations, making the text's relational language visible.
 

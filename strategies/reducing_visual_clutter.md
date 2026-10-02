@@ -25,7 +25,7 @@ Visual clutter competes for limited attentional resources: young learners in hig
 #### Requirements
 - An audit of the visual environment (walls, slides, LMS pages, handouts) distinguishing instructional content from decoration
 - Willingness to remove or rotate displays; anchor charts and reference material should be current, not cumulative
-- For digital materials, a layout discipline: one core visual per slide or screen, consistent placement, generous white space ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- For digital materials, a layout discipline: one core visual per slide or screen, consistent placement, generous white space ([Clear Structure & Presentation](../principles/clear-structure.md))
 - Awareness that some visual material is functional (labels, worked models, word walls in use) and should be retained
 
 #### Constraints
@@ -55,11 +55,11 @@ Visual clutter competes for limited attentional resources: young learners in hig
 1. **Audit** the visual environment: photograph walls, screens, and materials; classify each element as instructional, reference, or decorative.
 2. **Remove or archive** decorative items that do not support current objectives; store rather than discard so displays can rotate.
 3. **Curate** what remains: group related items, label them, and align them with current learning goals ([Chunking](../principles/chunking.md) reduces the working-memory cost of what stays visible [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]).
-4. **Simplify digital materials** using the same test: one message per screen, no decorative graphics, consistent layout ([Clear Structure & Presentation](../principles/clear-structure-presentation.md)).
+4. **Simplify digital materials** using the same test: one message per screen, no decorative graphics, consistent layout ([Clear Structure & Presentation](../principles/clear-structure.md)).
 5. **Observe and adjust**: monitor on-task behavior and learner feedback; reintroduce warmth (color, student work, plants) if the environment feels sterile, keeping functional content primary.
 
 ## Related Strategies
-- [Clear Structure & Presentation](../principles/clear-structure-presentation.md) — the same decluttering logic applied to the structure of content rather than the environment
+- [Clear Structure & Presentation](../principles/clear-structure.md) — the same decluttering logic applied to the structure of content rather than the environment
 - [Cognitive Load Reduction](../principles/cognitive-load-reduction.md) — the broader family of techniques for cutting extraneous processing
 - [Chunking](../principles/chunking.md) — organizing remaining visual content into meaningful groups so it loads efficiently
 

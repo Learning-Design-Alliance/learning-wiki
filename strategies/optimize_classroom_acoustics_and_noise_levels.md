@@ -61,7 +61,7 @@ Poor acoustics impose an extraneous processing burden: learners must divert work
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the broader management approach this strategy operationalizes
-- [Clear Structure and Presentation](../principles/clear-structure-presentation.md) — verbal clarity complements acoustic clarity; both reduce reconstruction effort
+- [Clear Structure and Presentation](../principles/clear-structure.md) — verbal clarity complements acoustic clarity; both reduce reconstruction effort
 - [Chunking](../principles/chunking.md) — acoustic optimization frees working memory that chunking then uses efficiently
 
 ## Related Elements

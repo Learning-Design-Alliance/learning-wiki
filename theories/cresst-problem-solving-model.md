@@ -46,7 +46,7 @@ The problem-solving assessment model from the National Center for Research on Ev
 
 ## Examples
 
-- [Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet](../principles/cresst-tool-design-criteria.md)
+- [Design assessment tools to measure model components, integrate, be authorable, auto-score, and deploy on the Internet](../strategies/cresst-tool-design-criteria.md)
 - [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../elements/cresst-integrated-assessment-system.md)
 
 ## Key Sources

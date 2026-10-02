@@ -61,7 +61,7 @@ Processing speed is a distinct cognitive capacity that develops over time and co
 ## Related Strategies
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — the closely aligned accommodation-focused variant
 - [Chunking](../principles/chunking.md) — the primary input-side technique for reducing processing load
-- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — predictable lesson structure lowers the processing cost of figuring out "what's happening now"
+- [Clear Structure Presentation](../principles/clear-structure.md) — predictable lesson structure lowers the processing cost of figuring out "what's happening now"
 
 ## Examples
 - A middle-school science teacher posts a graphic organizer before a lecture; students with slow processing speed capture key points without falling behind, then use the organizer to structure a lab report.

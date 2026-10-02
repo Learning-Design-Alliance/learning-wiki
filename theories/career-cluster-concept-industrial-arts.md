@@ -46,7 +46,7 @@ The guide adopts the career cluster concept, holding that careers may be classif
 
 ## Examples
 
-- [Recommended scope and sequence with per-cluster course time allocations](../patterns/recommended-scope-sequence-time-allocations.md)
+- [Recommended scope and sequence with per-cluster course time allocations](../designs/recommended-scope-sequence-time-allocations.md)
 - [Industrial arts pyramid program across operational levels](../patterns/industrial-arts-pyramid-program-levels.md)
 - [Level-differentiated emphases: awareness, exploration, specialization](../patterns/level-differentiated-awareness-exploration-specialization.md)
 - [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)

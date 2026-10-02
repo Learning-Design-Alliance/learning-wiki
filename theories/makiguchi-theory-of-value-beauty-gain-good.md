@@ -55,7 +55,7 @@ Soka education, formulated by Tsunesaburo Makiguchi and Josei Toda and advanced 
 
 ## Examples
 
-- [Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good](../patterns/makiguchi-six-transformative-indices.md)
+- [Six transformative indices for evaluating value-creating education, from self-centeredness toward well-being in the greater social good](makiguchi-six-transformative-indices.md)
 - [Incorporate value-creating principles within undergraduate course learning objectives to encourage transformative reflection and action](../strategies/value-creating-principles-in-learning-objectives.md)
 - [Advance value-creating-modeled curriculum projects in Africana communities to foster ubuntu, happiness, and contributive lifestyles](../strategies/value-creating-curriculum-africana-youth.md)
 

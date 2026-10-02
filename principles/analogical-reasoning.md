@@ -67,7 +67,7 @@ Analogical reasoning is most valuable when learners need help seeing a new conce
 ## Related Principles
 - [Metaphors & Analogies](metaphors-analogies.md) — analogical reasoning is one of the strongest structured forms of analogy use in teaching
 - [Activation](activation.md) — analogies often work by activating prior knowledge before introducing a new concept
-- [Constructivist Learning](constructivist-learning.md) — analogies help learners build new understanding out of familiar structures
+- [Constructivist Learning](constructivism.md) — analogies help learners build new understanding out of familiar structures
 
 ## Examples
 

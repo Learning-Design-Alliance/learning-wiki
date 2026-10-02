@@ -60,7 +60,7 @@ Discovery of orthographic patterns through structured comparison is more effecti
 
 ## Related Strategies
 - [Word Study](word-study.md) — the broader developmental-spelling program within which sorting is the core activity
-- [Explicit Teaching](../patterns/explicit-teaching.md) — the contrast case; sorting works when the discovery is guided, not when instruction is withheld
+- [Explicit Teaching](../patterns/direct-instruction.md) — the contrast case; sorting works when the discovery is guided, not when instruction is withheld
 - [Concept Attainment](../patterns/concept-attainment.md) — sorting exemplars and non-exemplars to induce a concept is the same inductive structure applied to orthography
 
 ## Examples

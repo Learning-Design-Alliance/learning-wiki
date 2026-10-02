@@ -25,7 +25,7 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 #### Requirements
 - A clear analysis of the content's structure (hierarchy, sequence, cause–effect, compare–contrast) so the organizer matches it
 - Blanks or prompts in guided notes that target the most important ideas, not trivial details
-- Time during instruction for students to complete the organizer or notes ([Clear Structure & Presentation](../principles/clear-structure-presentation.md))
+- Time during instruction for students to complete the organizer or notes ([Clear Structure & Presentation](../principles/clear-structure.md))
 - An accessible format: text alternatives for visually impaired learners, and vocabulary at an appropriate level ([Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md))
 
 #### Constraints
@@ -55,7 +55,7 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 1. Analyze the lesson content to identify its core structure (e.g., cause–effect, classification, sequence).
 2. Select or design an organizer that mirrors that structure — a timeline for historical processes, a matrix for comparisons, a concept map for hierarchical topics ([Advance Organizers](../elements/advance-organizers.md)).
 3. Convert it into guided notes by removing key terms, examples, or link labels, leaving cues about what belongs in each blank ([Note-Taking](../elements/note-taking.md)).
-4. Present the organizer at the start of the lesson so students know where the lecture is heading ([Clear Structure & Presentation](../principles/clear-structure-presentation.md)).
+4. Present the organizer at the start of the lesson so students know where the lecture is heading ([Clear Structure & Presentation](../principles/clear-structure.md)).
 5. Pause at each blank during instruction and prompt students to complete it; briefly discuss what they wrote ([Provide Guidance](../elements/provide-guidance.md)).
 6. End with a synthesis step — students summarize the completed organizer in their own words or use it to answer an application question ([Elaborative Interrogation](elaborative-interrogation.md)).
 

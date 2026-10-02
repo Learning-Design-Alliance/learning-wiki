@@ -19,7 +19,7 @@ A word sort presents learners with a set of words (typically on cards) to be gro
 
 ## Design Implications
 
-Word sorts turn spelling and vocabulary instruction into guided [active learning](../principles/active-learning.md): learners generate the generalization themselves through repeated comparison, which supports deeper encoding than copying or rule recitation [~M]. The sorting structure functions like a [graphic organizer](../principles/clear-structure-presentation.md) for word knowledge, reducing the working-memory demand of holding multiple words in mind at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Reading each word aloud during sorting builds automatic word recognition, freeing attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
+Word sorts turn spelling and vocabulary instruction into guided [active learning](../principles/active-learning.md): learners generate the generalization themselves through repeated comparison, which supports deeper encoding than copying or rule recitation [~M]. The sorting structure functions like a [graphic organizer](../principles/clear-structure.md) for word knowledge, reducing the working-memory demand of holding multiple words in mind at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Reading each word aloud during sorting builds automatic word recognition, freeing attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements

@@ -45,7 +45,7 @@ The paper presents Goffman's role distance concept as the analytical tool propos
 
 ## Examples
 
-- [Make ambiguous behavioral-science constructs empirically tractable by linking them to better-behaved concepts from related nomological networks](../principles/link-ambiguous-constructs-to-operational-concepts.md)
+- [Make ambiguous behavioral-science constructs empirically tractable by linking them to better-behaved concepts from related nomological networks](../methods/link-ambiguous-constructs-to-operational-concepts.md)
 
 ## Key Sources
 - Brumbaugh, Robert B. (1968). Authenticity, Role Distance, and Organizational Climate: Toward a Conceptual Clarification. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED026738

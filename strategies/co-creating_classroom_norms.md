@@ -56,7 +56,7 @@ Co-created norms build ownership and buy-in: students follow agreements they hel
 3. **Refine to a short list.** Push for 4–6 positively framed, observable norms ("We build on each other's ideas") rather than prohibitions.
 4. **Add what's missing.** Teacher names any protections or academic expectations students omitted and explains why.
 5. **Ratify publicly.** Every member (including the teacher) explicitly commits; post the norms visibly.
-6. **Revisit and repair.** Reference norms during [Discussion Groups](../patterns/discussion-group.md) and conflict; hold periodic norm check-ins to revise as the community matures.
+6. **Revisit and repair.** Reference norms during [Discussion Groups](../patterns/discussion-based-learning.md) and conflict; hold periodic norm check-ins to revise as the community matures.
 
 ## Related Strategies
 

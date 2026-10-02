@@ -23,7 +23,7 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 
 ### Context
 #### Requirements
-- A clear task purpose (explain, argue, reflect, synthesize) stated in the prompt itself ([Clear Structure](../principles/clear-structure-presentation.md))
+- A clear task purpose (explain, argue, reflect, synthesize) stated in the prompt itself ([Clear Structure](../principles/clear-structure.md))
 - An audience or purpose beyond "the teacher will grade this" — authentic framing improves the quality of student writing [Authentic audiences improve the quality of student work.](../claims/authentic-audiences-improve-student-work.md) [+M]
 - A follow-up mechanism: feedback, peer review, or self-assessment, since prompts without response loops produce practice without correction ([Assessment for Learning](../principles/assessment-for-learning.md))
 - Sufficient prior knowledge to write about; prompts work best after [Activation](../principles/activation.md) of relevant knowledge

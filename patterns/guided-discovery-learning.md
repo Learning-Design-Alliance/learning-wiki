@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: guided-discovery-learning
+aliases: [guided-discovery]
 title: Guided Discovery Learning
 description: Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles.
 status: review
@@ -84,6 +85,8 @@ The pattern is useful when the goal is to build conceptual understanding through
 - [Scaffolded Inquiry](../elements/scaffolded-inquiry.md)
 - [Reflection](../elements/reflection.md)
 - [Feedback](../elements/feedback.md)
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Guided Inquiry](../elements/guided-inquiry.md)
 
 ### Affordances
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
@@ -112,3 +115,27 @@ The pattern is useful when the goal is to build conceptual understanding through
 ## Key Sources
 - Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review, 31*(1), 21-32.
 - Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18. [https://doi.org/10.1037/a0021017](https://doi.org/10.1037/a0021017)
+- Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
+
+<!-- merged 2026-10-02 from patterns/guided-discovery ("Guided Discovery"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Guided Discovery
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Guided discovery is the short-form canonical pattern for learner exploration supported by instructor prompts, constraints, and scaffolds.
+
+## Design
+
+### Elements Used
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Guided Inquiry](../elements/guided-inquiry.md)
+
+## Related Patterns
+- [Guided Discovery Learning](guided-discovery-learning.md)
+
+## Key Sources
+- Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
+-->

@@ -41,7 +41,7 @@ The article presents accelerated contextualized learning as the mechanism that l
 
 ### Claims
 
-- [Integrated Pathway Five Element Design](../patterns/integrated-pathway-five-element-design.md) [+M]
+- [Integrated Pathway Five Element Design](../designs/integrated-pathway-five-element-design.md) [+M]
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](../claims/nvcc-bridge-program-full-retention.md) [+W]
 
 ## Related Principles

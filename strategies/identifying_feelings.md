@@ -50,8 +50,8 @@ Putting feelings into words — affect labeling — reliably reduces amygdala re
 - Reading comprehension: inferring character motivation and affect
 
 ### Instructions
-1. Introduce a small set of feeling words with [Clear Structure](../principles/clear-structure-presentation.md), pairing each label with facial, bodily, and situational cues (avoid single-cue teaching).
-2. Model the labeling process aloud on a vignette or text passage — "Her shoulders dropped and she looked away; I think she's disappointed, not just sad" — as in [Explicit Teaching](../patterns/explicit-teaching.md).
+1. Introduce a small set of feeling words with [Clear Structure](../principles/clear-structure.md), pairing each label with facial, bodily, and situational cues (avoid single-cue teaching).
+2. Model the labeling process aloud on a vignette or text passage — "Her shoulders dropped and she looked away; I think she's disappointed, not just sad" — as in [Explicit Teaching](../patterns/direct-instruction.md).
 3. Provide [Practice](../elements/practice.md) with graduated contexts: matching cards → situational vignettes → ambiguous real scenarios.
 4. Use a brief [Check-In](../elements/check-in.md) routine (e.g., Mood Meter entry) so learners label their own feelings daily, not just fictional ones.
 5. Give [Coaching](../elements/coaching.md) and feedback on granularity — push learners from "mad" to "frustrated, embarrassed, resentful" as appropriate.

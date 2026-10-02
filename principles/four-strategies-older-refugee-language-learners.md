@@ -47,7 +47,7 @@ The digest enumerates four teacher strategies for encouraging older language lea
 
 ## Examples
 
-- [Successful elderly-refugee language programs incorporate more than just language learning](../patterns/elderly-refugee-programs-beyond-language-learning.md)
+- [Successful elderly-refugee language programs incorporate more than just language learning](../designs/elderly-refugee-programs-beyond-language-learning.md)
 - [Reduce anxiety and build self-confidence in older language learners](../strategies/reduce-anxiety-build-confidence-older-learners.md)
 - [Embed grammar and vocabulary in situations refugees will encounter, and design instruction that acknowledges age](../strategies/embed-language-in-refugee-situations-acknowledge-age.md)
 - [Favor learning strategies that rely on long-term memory and integrate new material with existing cognitive structures](../strategies/long-term-memory-strategies-older-learners.md)

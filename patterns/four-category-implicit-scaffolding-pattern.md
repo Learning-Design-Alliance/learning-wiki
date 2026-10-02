@@ -46,7 +46,7 @@ The article organizes implicit scaffolding strategies into four categories that 
 
 ## Related Patterns
 
-- [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](three-pedagogical-simulation-design-considerations.md)
+- [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](../designs/three-pedagogical-simulation-design-considerations.md)
 
 ## Examples
 -

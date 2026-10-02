@@ -45,7 +45,7 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 - Assessment and credentialing: defining competencies for [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
 ### Affordances
-- [Clear Structure](../principles/clear-structure-presentation.md) — objectives enact this principle by giving learners an advance organizer for the lesson, reducing uncertainty about what to attend to
+- [Clear Structure](../principles/clear-structure.md) — objectives enact this principle by giving learners an advance organizer for the lesson, reducing uncertainty about what to attend to
 - [Assessment for Learning](../principles/assessment-for-learning.md) — objectives provide the reference point against which feedback and self-assessment become meaningful; without a stated target, feedback is just commentary
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a small number of well-chosen objectives tells learners what to prioritize, protecting working memory from irrelevant detail
 - [Scaffolding](../principles/scaffolding.md) — objectives define the trajectory along which support is faded, making the endpoint explicit

@@ -59,7 +59,7 @@ The physical visual environment measurably affects learning: classrooms with exc
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the parallel sensory dimension of environment design; visual and auditory load interact
-- [Clear Structure and Presentation](../principles/clear-structure-presentation.md) — displays are one channel for making structure visible
+- [Clear Structure and Presentation](../principles/clear-structure.md) — displays are one channel for making structure visible
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher-created environments with co-constructed rules and interactive modeling; signage frames expectations positively

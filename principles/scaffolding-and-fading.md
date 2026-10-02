@@ -1,6 +1,7 @@
 ---
 type: principle
 id: scaffolding-and-fading
+aliases: [scaffolding-fading]
 title: Scaffolding and Fading
 description: "Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon."
 status: review
@@ -33,7 +34,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 11 studies (4 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q2`–`q4` · 2 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 13 studies (5 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 13 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -69,6 +70,8 @@ Before transporting these observations, record learners, setting (one-to-one, sm
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M] — not yet checked against its sources
+- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — guidance becomes redundant as expertise grows, so fading is essential; not settled: the text available could not confirm the entries (abstract)
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — early support can reduce blind search for novices before independence develops; not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal
 
@@ -86,6 +89,9 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Worked Examples](worked-examples.md) — often the first stage in a scaffolded sequence.
 - [Chunking](chunking.md) — breaking the task into units that can be individually scaffolded.
 - [Modeling](modeling.md) — a type of scaffold where expert performance is demonstrated.
+- [Scaffolding](scaffolding.md) — the broader principle of temporary support during learning
+- [Guided Practice](guided-practice.md) — often provides the instructional context in which fading happens
+- [Procedural Learning](procedural-learning.md) — many procedural tasks depend on fading from modeled or prompted performance to independence
 
 ## Examples
 - **[Khan Academy Hints](https://www.khanacademy.org)** — Provides on-demand, progressive hints that scaffold a problem-solving task; the learner is encouraged to use fewer hints as they progress.
@@ -98,6 +104,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
+- van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The former body, kept verbatim:
 
@@ -140,4 +147,71 @@ Scaffolding and fading work because novices often need temporary support to perf
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — the purpose of scaffolding is growing independence, so support should be withdrawn deliberately as competence develops
 - [Students' application of teacher support predicts accurate answers in small-group work](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) [~M] — contingency alone did not predict whether students applied support; timely fading (checking understanding before withdrawing) did
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M] — a sudden, large shift in support style can fail if it falls outside the dyad's established interaction pattern
+-->
+
+<!-- merged 2026-10-02 from principles/scaffolding-fading ("Scaffolding & Fading"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Scaffolding & Fading
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 unmarked) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q3`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+
+## Description
+Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows.
+
+## Implications
+
+Scaffolding and fading matter when learners are expected to perform work they cannot yet do independently but can accomplish with the right support. The principle is not simply “help, then stop helping.” Support has to be calibrated to need, and [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) supports adapting help to learner performance rather than fixing it in advance. The reduction of support also has to respond to evidence of growing capability. Too much support held too long creates dependency and redundancy, which is consistent with [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md). Too little support or premature fading destabilizes performance before the learner has a workable schema or routine, while [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) supports heavier early guidance for novices.
+
+### Context
+#### Requirements
+- **Temporary support tied to learner need** — hints, prompts, models, partial solutions, or structure must actually help the learner perform beyond current independent capacity
+- **A plan to reduce that support over time** — the design needs a path from guided performance to increasing independence
+#### Constraints
+- **Too much or too little support at the wrong time undermines learning**
+- **Support cannot stay generic forever** — fading depends on evidence about learner progress
+- **Not all supports fade the same way** — some are reduced in amount, some in specificity, and some by shifting responsibility to the learner
+
+### Target Learners
+- Novices learning new procedures, concepts, or complex performances
+- Learners who can succeed with support but are not yet ready for full independence
+- Learners in environments where guided practice is a bridge to later autonomous work
+
+### Target Learning Objectives
+- Support transition from guided to independent performance
+- Reduce unproductive search while preserving learner responsibility
+- Build confidence and competence through calibrated release of support
+
+### Theory
+#### Supporting
+- [Scaffolding and Fading](scaffolding-and-fading.md) — the fuller principle page that this short-form canonical page points to
+- [Scaffolding](scaffolding.md) — explains why support is needed during early learning
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — support and fading can reduce overload early and avoid redundancy later
+
+#### Contradicting / Qualifying
+- [Self-Determination Theory](../theories/self-determination-theory.md) — support should still preserve autonomy and growing ownership rather than feel controlling
+
+### Claims
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — support is stronger when it adapts to learner performance rather than staying fixed
+- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — guidance becomes redundant as expertise grows, so fading is essential
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — early support can reduce blind search for novices before independence develops
+
+## Related Principles
+- [Scaffolding](scaffolding.md) — the broader principle of temporary support during learning
+- [Guided Practice](guided-practice.md) — often provides the instructional context in which fading happens
+- [Procedural Learning](procedural-learning.md) — many procedural tasks depend on fading from modeled or prompted performance to independence
+
+## Examples
+
+### Illustrative
+
+**[Fading Scaffolding](../elements/fading-scaffolding.md)** — Hints, prompts, or partial steps become shorter, less specific, or less frequent as competence grows.
+
+**[Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md)** — Learners move from activation and demonstration toward application with progressively less support.
+
+**Worked example to independent problem sequence** — Learners first study or complete a heavily supported version, then solve increasingly less scaffolded problems on their own.
+
+## Key Sources
+- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
+- van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 -->

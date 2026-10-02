@@ -25,7 +25,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 #### Requirements
 - Questions or prompts that can actually be answered from memory (not recognition-only formats exclusively)
 - Feedback or access to correct answers after retrieval, so errors are corrected rather than consolidated [Feedback following retrieval enhances its benefits.](../claims/feedback-enhances-retrieval-practice.md) [+M]
-- Distribution across time; a single massed retrieval session forfeits most of the benefit ([Spaced Practice](../principles/spacing.md))
+- Distribution across time; a single massed retrieval session forfeits most of the benefit ([Spaced Practice](../principles/spaced-practice.md))
 - Low-stakes framing so retrieval functions as learning, not merely assessment ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 #### Constraints
@@ -56,7 +56,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 2. **Design retrieval prompts** that match the target goal — recall prompts for retention, application prompts for transfer.
 3. **Run the retrieval activity** with materials put away: brain dump, quiz, or pair-reconstruction. Keep it low-stakes.
 4. **Provide feedback** immediately after retrieval, correcting errors and filling gaps.
-5. **Schedule repeated retrievals** at spaced intervals, expanding the gap as mastery grows ([Spaced Practice](../principles/spacing.md)).
+5. **Schedule repeated retrievals** at spaced intervals, expanding the gap as mastery grows ([Spaced Practice](../principles/spaced-practice.md)).
 6. **Interleave** topics or problem types once basic mastery is reached.
 7. **Explain the effect to learners** so they persist through the effortful feeling rather than reverting to re-reading.
 

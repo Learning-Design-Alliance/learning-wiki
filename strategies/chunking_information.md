@@ -52,7 +52,7 @@ Working memory can hold only a handful of meaningful units at once; chunking res
 
 ### Instructions
 1. Analyze the material to find natural boundaries — steps, sub-concepts, or causal episodes — and decide the smallest meaningful unit.
-2. Label each chunk with a heading or caption so learners encode it as a single retrievable unit ([Clear Structure & Presentation](../principles/clear-structure-presentation.md)).
+2. Label each chunk with a heading or caption so learners encode it as a single retrievable unit ([Clear Structure & Presentation](../principles/clear-structure.md)).
 3. Sequence chunks from simple to complex, ensuring each builds on consolidated prior chunks ([Cognitive Load Management](../principles/cognitive-load-management.md)).
 4. Present one chunk at a time; hide or withhold upcoming material until the learner is ready (progressive disclosure or segmented media).
 5. Give learners pacing control — pause, replay, or "continue" — so consolidation can complete before new load arrives.

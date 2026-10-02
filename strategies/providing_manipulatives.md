@@ -63,7 +63,7 @@ Manipulatives support learning when they function as *representations of* a conc
 - [Worked Examples](../strategies/use_worked_examples.md) — a teacher-modeled manipulation demonstrates how the object encodes the concept before learners manipulate independently
 
 ## Examples
-- **[Cognitively Guided Instruction](../patterns/cgi-for-math.md)** — teachers use counters and drawings to model children's solution strategies for word problems, connecting informal strategies to formal arithmetic
+- **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers use counters and drawings to model children's solution strategies for word problems, connecting informal strategies to formal arithmetic
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — virtual manipulatives (e.g., *Balancing Chemical Equations*, *Circuit Construction Kit*) that let learners vary parameters and observe consequences
 - **Concrete-Representational-Abstract (CRA) intervention** — a scripted sequence used widely in special education mathematics, moving from base-ten blocks to drawings to numerals
 

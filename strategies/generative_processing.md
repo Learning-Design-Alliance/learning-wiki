@@ -23,7 +23,7 @@ Generative strategies improve retention and transfer because they force learners
 
 ### Context
 #### Requirements
-- Instructional material worth processing — coherent, well-structured content ([Clear Structure](../principles/clear-structure-presentation.md))
+- Instructional material worth processing — coherent, well-structured content ([Clear Structure](../principles/clear-structure.md))
 - A specific generative task with clear instructions (summarize, explain, map, teach, draw)
 - Sufficient prior knowledge to connect new material to ([Activation](../principles/activation.md))
 - Feedback or a quality check, since self-generated content can encode errors

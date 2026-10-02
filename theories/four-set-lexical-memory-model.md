@@ -45,7 +45,7 @@ The adaptive tutoring algorithm formalizes each student's lexical memory as four
 
 ## Examples
 
-- [Automated generation of seven vocabulary activity types with distractor collision prevention](../patterns/generated-activity-types-collision-prevention.md)
+- [Automated generation of seven vocabulary activity types with distractor collision prevention](../designs/generated-activity-types-collision-prevention.md)
 
 ## Key Sources
 - Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova. (2016). The effectiveness of computer-based spaced repetition in foreign language vocabulary instruction: a double-blind study. calico journal vol 33.3. https://doi.org/10.1558/cj.v33i3.26055

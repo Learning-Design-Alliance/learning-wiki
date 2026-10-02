@@ -50,7 +50,7 @@ The article adopts Kolb's experiential learning theory (ELT) as the fundamental 
 
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](../strategies/longitudinal-evaluation-of-elt-engineering-modules.md)
 - [ANSYS Workbench commercial FEA software as a learning aid for heat transfer concepts](../elements/ansys-workbench-heat-transfer-learning-aid.md)
-- [Six-part section structure for FEA-based experiential learning modules](../patterns/fea-module-six-part-section-structure.md)
+- [Six-part section structure for FEA-based experiential learning modules](../designs/fea-module-six-part-section-structure.md)
 
 ## Key Sources
 - Widiastuti, I. & Budiyanto, C. W. (2018). Applying an Experiential Learning Cycle with the Aid of Finite Element Analysis in Engineering Education. Journal of Turkish Science Education.

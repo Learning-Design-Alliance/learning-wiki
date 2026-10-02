@@ -46,7 +46,7 @@ The article states that in constructivist classrooms learners do not passively r
 
 ## Examples
 
-- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../patterns/constructivist-model-reconstruction-course-pattern.md)
+- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../designs/constructivist-model-reconstruction-course-pattern.md)
 
 ## Key Sources
 - Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier

@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: cognitively-guided-instruction-cgi-for-math
+aliases: [cgi-for-math]
 title: Cognitively Guided Instruction (CGI) for Math
 description: "CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method."
 status: review
@@ -29,11 +30,14 @@ The pattern is especially strong for building number sense, conceptual understan
 - **Instructor skill in eliciting and interpreting learner strategies**: The teacher needs to notice productive ideas and misconceptions in real time.
 - **Discussion routines**: Learners need opportunities to explain, compare, and refine strategies.
 - **A classroom culture that values reasoning**: Learners must feel that strategy explanation matters, not just answer production.
+- **Rich mathematical problems**
+- **Attention to learner-generated strategies**
 #### Constraints
 - **Implementation depends on teacher expertise**: CGI is difficult to do well without strong pedagogical content knowledge.
 - **Time pressure**: Listening, comparison, and whole-group discussion take time.
 - **Less efficient for simple routine automation**: Some procedural fluency goals may need more direct instruction or practice.
 - **Task quality matters**: Weak problems reduce the range and usefulness of learner-generated strategies.
+- **Requires skilled facilitation and interpretation of student thinking**
 #### Grain Size
 - Lesson
 - Unit
@@ -42,6 +46,7 @@ The pattern is especially strong for building number sense, conceptual understan
 - **Conceptual understanding in math**: Learners see why strategies work, not only which answer is correct.
 - **Flexible problem solving**: Students learn to compare and adapt approaches.
 - **Mathematical discourse**: Strategy explanation and justification become part of learning.
+- Develop mathematical reasoning through explanation and discussion of strategies.
 
 ### Target Learners
 - **Learners developing early or foundational mathematical reasoning**: CGI is especially strong when building number sense and strategy awareness.
@@ -53,6 +58,8 @@ The pattern is especially strong for building number sense, conceptual understan
 - Constructivist perspectives — learners build understanding through active problem solving and reorganization of strategies.
 - Sociocultural perspectives — mathematical reasoning develops through explanation, comparison, and guided discourse.
 - Formative assessment traditions — instruction improves when it responds to evidence of learner thinking.
+- [Peer Learning](../principles/peer-learning.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 #### Contradicting / Qualifying
 - Learner-generated strategies do not remove the need for explicit consolidation of efficient or generalizable methods.
 - Some learners will still need direct support if strategy generation stalls or misconceptions harden.
@@ -92,7 +99,7 @@ The pattern is especially strong for building number sense, conceptual understan
 - Representations and contexts can be varied while preserving the mathematical structure.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Think-Pair-Share](think-pair-share.md)
 
 ## Examples
@@ -107,3 +114,39 @@ The pattern is especially strong for building number sense, conceptual understan
 ## Key Sources
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (1999). *Children's mathematics: Cognitively guided instruction*. Heinemann.
 - Empson, S. B., & Levi, L. (2011). *Extending children's mathematics: Fractions and decimals*. Heinemann.
+
+<!-- merged 2026-10-02 from patterns/cgi-for-math ("CGI for Math"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# CGI for Math
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+CGI for Math is the short-form canonical target for Cognitively Guided Instruction in mathematics, where instruction is built around learners' informal strategies and explanation of problem solving.
+
+## Implications
+
+### Context
+#### Requirements
+- **Rich mathematical problems**
+- **Attention to learner-generated strategies**
+#### Constraints
+- **Requires skilled facilitation and interpretation of student thinking**
+#### Grain Size
+- Lesson
+
+### Target Goals
+- Develop mathematical reasoning through explanation and discussion of strategies.
+
+### Theory
+#### Supporting
+- [Peer Learning](../principles/peer-learning.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
+
+## Related Patterns
+- [Cognitively Guided Instruction (CGI) for Math](cognitively-guided-instruction-cgi-for-math.md)
+
+## Key Sources
+- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (1999). *Children's mathematics: Cognitively guided instruction*. Heinemann.
+-->

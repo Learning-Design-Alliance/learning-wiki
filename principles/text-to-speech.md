@@ -80,7 +80,7 @@ Text-to-speech is most useful when reading access, not conceptual ability, is th
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — simpler language and audio support often work together.
 - [Instructor Accessibility](instructor-accessibility.md) — TTS is one route for improving access to written materials.
 - [Annotating](annotating.md) — learners can combine audio playback with highlighting, notes, and questions.
-- [Speech-to-text](speech-to-text.md) — reading and writing access tools often complement one another.
+- [Speech-to-text](../elements/speech-to-text.md) — reading and writing access tools often complement one another.
 
 ## Examples
 - **Read-aloud support for assigned text**: Learners listen while following along in the print version.

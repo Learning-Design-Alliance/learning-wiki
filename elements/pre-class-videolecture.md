@@ -50,7 +50,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Direct Instruction](../principles/direct-instruction.md) — the video is a scripted, reusable form of explicit first exposure, delivering the same clear explanation to every learner
 - [Active Learning](../principles/active-learning.md) — the entire rationale is to convert contact time from transmission to active learning; the video is the enabling condition, not the intervention itself
 - [Chunking](../principles/chunking.md) — short, single-objective videos enact chunking by presenting one concept per segment
-- [Clear Structure](../principles/clear-structure-presentation.md) — a video with explicit objectives, signaling, and a predictable format reduces extraneous processing
+- [Clear Structure](../principles/clear-structure.md) — a video with explicit objectives, signaling, and a predictable format reduces extraneous processing
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

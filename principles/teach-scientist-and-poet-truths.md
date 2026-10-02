@@ -43,11 +43,11 @@ The address recommends that language arts teachers hold scientific and poetic tr
 
 ## Related Principles
 
-- [Educational Psychology as Both Art and Science](educational-psychology-as-art-and-science.md)
+- [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)
 
 ## Examples
 
-- [Luminous Science Transdisciplinary Curriculum](../patterns/luminous-science-transdisciplinary-curriculum.md)
+- [Luminous Science Transdisciplinary Curriculum](../designs/luminous-science-transdisciplinary-curriculum.md)
 
 ## Key Sources
 - Jenkins, William A. (1962). Time That Is Intolerant. Elementary English. https://eric.ed.gov/?id=ED030640

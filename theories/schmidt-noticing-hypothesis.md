@@ -67,7 +67,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 
 ## Examples
 - [Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite](../strategies/three-stage-noticing-writing-task.md)
-- [While-noticing stage pairs contrastive-critical framing with transformed practice as interrelated tasks](../patterns/cft-while-noticing-tasks-pattern.md)
+- [While-noticing stage pairs contrastive-critical framing with transformed practice as interrelated tasks](../designs/cft-while-noticing-tasks-pattern.md)
 - [Train and model the collaborative feedback process before students notice gaps (pre-noticing stage)](../strategies/model-cft-process-before-noticing.md)
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
 - [Start grammar instruction from the problems learners notice in their own written output](../strategies/grammar-instruction-from-noticed-writing-problems.md)

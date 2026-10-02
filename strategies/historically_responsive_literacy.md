@@ -54,7 +54,7 @@ HRL treats motivation and identity as inseparable from skill development: when l
 ### Instructions
 1. Select a text or topic with rich historical and cultural significance; identify what it offers for each of the four pursuits.
 2. Plan an identity task — e.g., students connect the text to their own experiences through [Annotating](../principles/annotating.md) or journaling.
-3. Plan explicit skill instruction (comprehension strategies, writing craft) using [Clear Structure](../principles/clear-structure-presentation.md) and modeling.
+3. Plan explicit skill instruction (comprehension strategies, writing craft) using [Clear Structure](../principles/clear-structure.md) and modeling.
 4. Plan an intellectual task that builds deep knowledge — inquiry, [Class Discussion](../elements/class-discussion.md), or research into the historical context.
 5. Plan a criticality task: students analyze the text for power, injustice, or counter-narratives and produce a response with an authentic purpose.
 6. Assess all four pursuits, not only skills — e.g., reflective writing on identity alongside a comprehension check.

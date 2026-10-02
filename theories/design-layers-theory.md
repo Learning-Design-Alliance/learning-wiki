@@ -29,7 +29,7 @@ The theory's most distinctive claim is about designer cognition: designers predi
 - A design polished at the message or media layer can disguise a genuinely missing or weak strategy or model layer, producing content that reads well but doesn't hold together instructionally — the theory's main diagnostic value is spotting this mismatch, not preventing it outright
 
 ### Target Learners
-- Not learner-facing directly — this is a designer/instructional-design-team framework, in the same category as [TPACK](../principles/tpack.md) and [Performance Technology](../principles/performance-technology.md): its downstream effect on learners runs through the quality and coherence of the resulting instructional artifact
+- Not learner-facing directly — this is a designer/instructional-design-team framework, in the same category as [TPACK](tpack.md) and [Performance Technology](performance-technology.md): its downstream effect on learners runs through the quality and coherence of the resulting instructional artifact
 
 ### Target Learning Objectives
 - Not a learning objective — a diagnostic and pedagogical framework for instructional design education and design-team practice: explaining why novice designers over-index on media, and providing a vocabulary for locating where a design's incoherence actually originates

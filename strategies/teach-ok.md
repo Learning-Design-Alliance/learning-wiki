@@ -51,7 +51,7 @@ Teach-OK converts passive listening into [retrieval and explanation](../elements
 - Monitoring one's own understanding — gaps surface immediately when learners attempt to explain [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ### Instructions
-1. **Present** the concept in a short, chunked mini-lesson with gestures or visual anchors ([Demonstration](../elements/demonstration.md), [Clear Structure](../principles/clear-structure-presentation.md))
+1. **Present** the concept in a short, chunked mini-lesson with gestures or visual anchors ([Demonstration](../elements/demonstration.md), [Clear Structure](../principles/clear-structure.md))
 2. **Signal** the transition: teacher calls "Teach!", class responds "Okay!", pairs turn to each other
 3. **Partner A re-teaches** the concept in their own words with gestures, in 30–60 seconds; Partner B listens, then briefly praises and corrects ([Peer Teaching](../elements/peer-teaching.md))
 4. **Switch roles** so Partner B re-teaches, ideally paraphrasing rather than repeating A

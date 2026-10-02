@@ -98,8 +98,8 @@ The pattern is useful when learners need to reason through messy situations rath
 
 ## Related Patterns
 
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
-- [Goal-Based Scenarios (GBS)](goal-based-scenarios-gbs.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
+- [Goal-Based Scenarios (GBS)](goal-based-scenarios.md)
 - [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md)
 
 ## Examples

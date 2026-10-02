@@ -47,7 +47,7 @@ The article states that the two main pedagogical approaches used in OSP are guid
 
 ## Examples
 
-- [OSP guided inquiry lesson pattern: pairs investigate with what-if scenarios, peer instruction, and class presentation](../patterns/osp-pairs-what-if-inquiry-pattern.md)
+- [OSP guided inquiry lesson pattern: pairs investigate with what-if scenarios, peer instruction, and class presentation](../designs/osp-pairs-what-if-inquiry-pattern.md)
 
 ## Key Sources
 - Wee Loo Kang. (2013). Open Source Physics. i in Practice 1(1), 58-63. http://ictconnection.opal.moe.edu.sg/cos/o.x?ptid=711&c=/ictconnection/ictlib&func=view&rid=82

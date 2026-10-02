@@ -72,7 +72,7 @@ The activity pairs whole-body movement with a genuine mathematical puzzle, so it
 
 ## Patterns That Use This Strategy
 - [Cooperative Learning](../patterns/cooperative-learning.md) — structured peer interaction with individual accountability for completing the task
-- [Cognitively Guided Instruction (CGI) for Math](../patterns/cgi-for-math.md) — students' own actions and conjectures, not teacher explanation, generate the mathematical idea
+- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — students' own actions and conjectures, not teacher explanation, generate the mathematical idea
 
 ## Examples
 - A third-grade teacher runs the game three times with class sizes of 22, 23, and 22 (one student sitting out each time). The tally on the board shows failure only on the odd-sized day, and students use this to build the even/odd explanation themselves.

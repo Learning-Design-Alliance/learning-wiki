@@ -97,7 +97,7 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 - Facilitation can vary from tightly guided questioning to more open Socratic exchange.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Socratic Seminar](socratic-seminar.md)
 
 ## Examples

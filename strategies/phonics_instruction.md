@@ -24,7 +24,7 @@ Systematic phonics instruction produces reliably stronger word-reading outcomes 
 ### Context
 #### Requirements
 - A planned scope and sequence of grapheme–phoneme correspondences, ordered by utility and complexity
-- Explicit modeling of blending and segmenting ([Direct Instruction](../patterns/direct-instruction.md) or [Explicit Teaching](../patterns/explicit-teaching.md)), not just presentation of rules
+- Explicit modeling of blending and segmenting ([Direct Instruction](../patterns/direct-instruction.md) or [Explicit Teaching](../patterns/direct-instruction.md)), not just presentation of rules
 - Decodable texts that let learners apply newly taught patterns in context
 - Cumulative review and [Practice](../elements/practice.md) with [Feedback](../elements/feedback.md) on both reading and spelling of taught patterns
 
@@ -52,7 +52,7 @@ Systematic phonics instruction produces reliably stronger word-reading outcomes 
 
 ### Instructions
 1. Assess learners' existing letter–sound knowledge and phonemic awareness; begin instruction at the edge of what they know.
-2. Introduce a new grapheme–phoneme correspondence explicitly, modeling its use in reading and spelling ([Explicit Teaching](../patterns/explicit-teaching.md)).
+2. Introduce a new grapheme–phoneme correspondence explicitly, modeling its use in reading and spelling ([Explicit Teaching](../patterns/direct-instruction.md)).
 3. Guide learners through blending sounds into words and segmenting words into sounds, with immediate [Feedback](../elements/feedback.md).
 4. Provide cumulative [Practice](../elements/practice.md) through word reading, dictation, and decodable connected text, building toward [Automaticity](../elements/automaticity.md).
 5. Fade support as patterns are mastered, shifting instructional time toward fluency, vocabulary, and comprehension ([Scaffolding](../elements/scaffolding.md)).

@@ -53,7 +53,7 @@ The Reflective Judgment Framework (RJF), developed by King and Kitchener, is "a 
 
 ## Examples
 
-- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../patterns/constructivist-model-reconstruction-course-pattern.md)
+- [Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation](../designs/constructivist-model-reconstruction-course-pattern.md)
 - [Six recommendations for fostering reflective judgment in introductory college science](../strategies/six-recommendations-fostering-reflective-judgment.md)
 
 ## Key Sources

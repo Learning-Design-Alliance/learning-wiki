@@ -25,7 +25,7 @@ Performance support shifts the instructional goal from "train everything in adva
 #### Requirements
 - Task analysis identifying the specific decision points and steps where performers stall
 - Support accessible within the work context (embedded, one or two clicks away), not in a separate manual
-- Content structured for scanning — checklists, decision tables, short steps — not prose ([Clear Structure](../principles/clear-structure-presentation.md))
+- Content structured for scanning — checklists, decision tables, short steps — not prose ([Clear Structure](../principles/clear-structure.md))
 - A maintenance process: stale job aids destroy trust in the whole support system
 
 #### Constraints

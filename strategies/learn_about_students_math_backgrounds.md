@@ -62,7 +62,7 @@ Prior knowledge is one of the strongest predictors of how much a learner takes f
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — lesson-level routines for surfacing what learners bring
 
 ## Examples
-- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cgi-for-math.md)) — teachers learn research-based maps of children's informal addition/subtraction strategies and use interviews with their own students to plan instruction; a well-documented model of background knowledge driving teaching decisions
+- **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — teachers learn research-based maps of children's informal addition/subtraction strategies and use interviews with their own students to plan instruction; a well-documented model of background knowledge driving teaching decisions
 - **Adult basic education intake interviews** — programs such as community-college developmental math redesigns use math autobiographies and informal assessment conversations to place learners by strategy use, not just test scores
 - **Home- and community-based context mapping** — teachers visiting learners' neighborhoods (markets, workplaces, sports settings) to identify familiar quantities, prices, and measurement units for word problems
 

@@ -47,7 +47,7 @@ Argument construction supports learning because generating and defending a posit
 - Epistemic cognition: understanding how claims are justified in a discipline
 
 ### Affordances
-- [Constructivist Learning](../principles/constructivist-learning.md) — learners actively build and revise their own position rather than receiving conclusions, forcing knowledge to be reconstructed in argument form
+- [Constructivist Learning](../principles/constructivism.md) — learners actively build and revise their own position rather than receiving conclusions, forcing knowledge to be reconstructed in argument form
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — argument construction is the culminating move of an inquiry cycle: question, evidence-gathering, and warranted conclusion
 - [Collaborative Learning](../principles/collaborative-learning.md) — paired or small-group argumentation exposes learners to opposing reasoning and requires articulation of warrants to peers
 - [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) — well-designed opposing arguments create the conceptual conflict that drives knowledge revision
