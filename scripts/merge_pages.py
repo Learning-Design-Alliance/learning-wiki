@@ -159,31 +159,46 @@ def merge_sources(kfm: str, ffm: str) -> str:
 
 
 def merge(kind: str, keep: str, fold: str, apply: bool) -> str:
-    kp, fp = WIKI_ROOT / kind / f"{keep}.md", WIKI_ROOT / kind / f"{fold}.md"
-    if not kp.exists() or not fp.exists() or keep == fold:
+    # <fold> may name another kind (`patterns/cognitive-load-theory` folded into a theory):
+    # a misfiled page whose right kind already has the page. No alias can cross kinds, so
+    # its links are repointed and its slug is not recorded on <keep>.
+    fold_kind, fold = fold.split("/", 1) if "/" in fold else (kind, fold)
+    cross = fold_kind != kind
+    kp, fp = WIKI_ROOT / kind / f"{keep}.md", WIKI_ROOT / fold_kind / f"{fold}.md"
+    if not kp.exists() or not fp.exists() or (keep == fold and not cross):
         return f"SKIP {keep} <- {fold}: both pages must exist and differ"
     ktext, ftext = kp.read_text(encoding="utf-8"), fp.read_text(encoding="utf-8")
+    if cross:
+        from move_pages_kind import explicit_links
+        ftext = explicit_links(ftext, fold_kind)   # its same-folder links, made to resolve from <keep>
     kfm, kbody = pid.split_fm(ktext)
     ffm, fbody = pid.split_fm(ftext)
     body, moved = merge_body(kbody, fbody, keep, fold)
     fold_title = okf_lib.parse_frontmatter_scalars(okf_lib.split_frontmatter(ftext)[0]).get("title") or fold
     kept = re.sub(r"^\s*---\s*\n", "", fbody).strip()
     kept = kept.replace("<!--", "<!- -").replace("-->", "- ->")
-    body = (body.rstrip() + f"\n\n<!-- merged 2026-10-02 from {kind}/{fold} (\"{fold_title}\"), a duplicate of "
-            f"this page: its body as it stood. Its bullets this page lacked were added above.\n\n{kept}\n-->\n")
+    body = (body.rstrip() + f"\n\n<!-- merged 2026-10-02 from {fold_kind}/{fold} (\"{fold_title}\"), "
+            f"{'misfiled as a ' + fold_kind[:-1] + ' and' if cross else ''} a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.\n\n{kept}\n-->\n")
     fm = merge_sources(kfm, ffm)
-    for a in pid.read_aliases(ffm):
+    for a in ([] if cross else pid.read_aliases(ffm)):
         fm = pid.add_alias(fm, a)
     if not apply:
-        return f"would fold {kind}/{fold} into {keep}: +{moved} bullet(s)"
+        return f"would fold {fold_kind}/{fold} into {kind}/{keep}: +{moved} bullet(s)"
     kp.write_text("---\n" + fm + body, encoding="utf-8")
     fp.unlink()
     with tempfile.NamedTemporaryFile("w", suffix=".tsv", delete=False) as t:
-        t.write(f"{kind}/{fold}.md\t{kind}/{keep}.md\n")
+        t.write(f"{fold_kind}/{fold}.md\t{kind}/{keep}.md\n")
     subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "update_links_for_renames.py"),
                     "--map", t.name, "--apply"], cwd=WIKI_ROOT, check=True, capture_output=True)
     dedupe(kind, keep)
-    return f"folded {kind}/{fold} into {keep}: +{moved} bullet(s)"
+    if cross:
+        # update_links_for_renames records an alias for a same-slug move only when kinds match;
+        # make sure no alias for the other kind's slug landed on <keep>.
+        text = kp.read_text(encoding="utf-8")
+        kfm2, rest = pid.split_fm(text)
+        if fold in pid.read_aliases(kfm2) and fold not in pid.read_aliases(kfm):
+            print(f"  note: {kind}/{keep} gained alias {fold!r} from the cross-kind map; check it")
+    return f"folded {fold_kind}/{fold} into {kind}/{keep}: +{moved} bullet(s)"
 
 
 def dedupe(kind: str, keep: str) -> None:

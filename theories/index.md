@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**945 entries** · 0 stable · 12 in review · 933 drafts
+**946 entries** · 0 stable · 13 in review · 933 drafts
 
 ---
 
@@ -10,6 +10,7 @@ Explanatory frameworks that ground principles and claims.
 
 * [Behaviorism](behaviorism.md) - Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies.
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
+* [Cognitive Flexibility Theory](cognitive-flexibility-theory.md) - Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
 * [Cognitive Load Theory](cognitive-load-theory.md) - Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory.
 * [Constructivism](constructivism.md) - Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know.
 * [Dual Coding Theory](dual-coding-theory.md) - Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems.

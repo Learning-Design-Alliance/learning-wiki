@@ -36,7 +36,7 @@ Rubric design is the element in which criteria and performance levels are made e
 
 ### Affordances
 - [Competency-Based Assessment](../principles/competency-based-assessment.md)
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

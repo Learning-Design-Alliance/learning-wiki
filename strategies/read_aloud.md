@@ -37,7 +37,7 @@ Reading aloud converts visual input into auditory output, adding a second encodi
 - **Teacher read-aloud** (modeled fluency, vocabulary building) — instructor reads above students' independent level with think-aloud commentary ([Think-Aloud](../elements/think-aloud.md))
 - **Student production reading** — learner reads key terms or answers aloud to exploit the production effect for retention
 - **Proofreading aloud** — reading one's own draft aloud to catch errors and awkward syntax ([Annotating](../principles/annotating.md) pairs well as a follow-up)
-- **Audio-supported reading** — following text while listening ([Audiobooks](../principles/audiobooks.md)), which supports access but is a distinct mechanism from self-production
+- **Audio-supported reading** — following text while listening ([Audiobooks](../elements/audiobooks.md)), which supports access but is a distinct mechanism from self-production
 
 ### Target Learners
 - Beginning and striving readers, when the teacher reads aloud to build vocabulary, syntax knowledge, and motivation [+M]

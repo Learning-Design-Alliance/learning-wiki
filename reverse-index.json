@@ -5,16 +5,16 @@
   "claims->elements": 117,
   "claims->learner-variables": 1,
   "claims->methods": 3,
-  "claims->patterns": 83,
+  "claims->patterns": 78,
   "claims->principles": 122,
   "claims->processes": 3,
-  "claims->theories": 219,
+  "claims->theories": 220,
   "designs->claims": 93,
   "designs->designs": 27,
   "designs->elements": 26,
-  "designs->patterns": 23,
+  "designs->patterns": 21,
   "designs->principles": 10,
-  "designs->theories": 19,
+  "designs->theories": 21,
   "elements->claims": 498,
   "elements->designs": 2,
   "elements->elements": 468,
@@ -23,7 +23,7 @@
   "elements->patterns": 246,
   "elements->principles": 316,
   "elements->processes": 1,
-  "elements->theories": 166,
+  "elements->theories": 177,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -37,21 +37,21 @@
   "methods->principles": 11,
   "methods->processes": 4,
   "methods->theories": 7,
-  "patterns->claims": 119,
-  "patterns->designs": 19,
-  "patterns->elements": 77,
+  "patterns->claims": 117,
+  "patterns->designs": 18,
+  "patterns->elements": 76,
   "patterns->methods": 3,
-  "patterns->patterns": 89,
-  "patterns->principles": 71,
+  "patterns->patterns": 87,
+  "patterns->principles": 69,
   "patterns->theories": 31,
-  "principles->claims": 404,
+  "principles->claims": 399,
   "principles->designs": 34,
-  "principles->elements": 89,
+  "principles->elements": 87,
   "principles->methods": 3,
-  "principles->patterns": 64,
-  "principles->principles": 274,
+  "principles->patterns": 62,
+  "principles->principles": 269,
   "principles->processes": 2,
-  "principles->theories": 122,
+  "principles->theories": 118,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -61,20 +61,20 @@
   "processes->theories": 10,
   "strategies->claims": 2336,
   "strategies->designs": 2,
-  "strategies->elements": 2395,
+  "strategies->elements": 2396,
   "strategies->methods": 14,
-  "strategies->patterns": 814,
-  "strategies->principles": 1751,
+  "strategies->patterns": 811,
+  "strategies->principles": 1742,
   "strategies->processes": 9,
-  "strategies->theories": 635,
-  "theories->claims": 755,
-  "theories->designs": 59,
-  "theories->elements": 156,
+  "strategies->theories": 646,
+  "theories->claims": 756,
+  "theories->designs": 60,
+  "theories->elements": 158,
   "theories->methods": 14,
-  "theories->patterns": 65,
+  "theories->patterns": 63,
   "theories->principles": 213,
   "theories->processes": 7,
-  "theories->theories": 661
+  "theories->theories": 662
  },
  "edges": {
   "claims": {
@@ -19490,6 +19490,11 @@
       "strength": "S"
      },
      {
+      "polarity": "~",
+      "slug": "audiobooks",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "automaticity",
       "strength": "M"
@@ -19695,11 +19700,6 @@
      {
       "polarity": "+",
       "slug": "annotating",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "audiobooks",
       "strength": "S"
      },
      {
@@ -26335,13 +26335,6 @@
       "strength": "S"
      }
     ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     }
-    ],
     "principles": [
      {
       "polarity": "+",
@@ -26357,6 +26350,13 @@
     "processes": [
      {
       "slug": "ten-steps-to-complex-learning"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
      }
     ]
    },
@@ -26559,13 +26559,6 @@
       "strength": "S"
      }
     ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     }
-    ],
     "principles": [
      {
       "polarity": "+",
@@ -26589,6 +26582,13 @@
      {
       "polarity": "+",
       "slug": "concrete-representational-abstract_cra_sequence",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
       "strength": "M"
      }
     ]
@@ -32720,6 +32720,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "audiobooks",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "check-in",
       "strength": "M"
      },
@@ -32801,11 +32806,6 @@
      {
       "polarity": "+",
       "slug": "cognitive-apprenticeship",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "cognitive-flexibility-theory",
       "strength": "M"
      },
      {
@@ -32997,11 +32997,6 @@
      },
      {
       "polarity": "+",
-      "slug": "audiobooks",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "authentic-audiences-purposes",
       "strength": "M"
      },
@@ -33023,11 +33018,6 @@
      {
       "polarity": "+",
       "slug": "clear-structure",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "cognitive-apprenticeship",
       "strength": "M"
      },
      {
@@ -33133,11 +33123,6 @@
      {
       "polarity": "+",
       "slug": "explicit-instruction-vocabulary",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "explicit-instruction",
       "strength": "M"
      },
      {
@@ -33735,6 +33720,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-flexibility-theory",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "constructivism",
@@ -48639,6 +48629,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "audiobooks",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "coaching",
       "strength": "M"
@@ -48788,11 +48783,6 @@
      {
       "polarity": "~",
       "slug": "ask-experts",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "audiobooks",
       "strength": "S"
      },
      {
@@ -63060,7 +63050,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "spaced-practice",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ],
@@ -66809,7 +66799,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "spaced-practice",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ],
@@ -73281,11 +73271,6 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     },
-     {
       "polarity": "+",
       "slug": "direct-instruction",
       "strength": "S"
@@ -73381,6 +73366,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
      {
       "polarity": "-",
       "slug": "implicit-scaffolding-framework",
@@ -81466,11 +81456,6 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "cognitive-flexibility-theory",
-      "strength": "M"
-     },
-     {
       "polarity": "+",
       "slug": "cognitive-load-reduction-clt-scaffolding-approach",
       "strength": "M"
@@ -81698,6 +81683,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-flexibility-theory",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "information-processing-theory",
@@ -88143,11 +88133,6 @@
      },
      {
       "polarity": "~",
-      "slug": "metacognition",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
       "slug": "motivation",
       "strength": "M"
      },
@@ -88203,6 +88188,11 @@
      {
       "polarity": "~",
       "slug": "self-monitoring",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
       "strength": "M"
      }
     ],
@@ -91246,11 +91236,6 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
-      "slug": "cognitive-load-theory",
-      "strength": "W"
-     },
-     {
       "polarity": "~",
       "slug": "multimedia-learning",
       "strength": "M"
@@ -91291,6 +91276,13 @@
       "polarity": "~",
       "slug": "visual-supports",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "W"
      }
     ]
    },
@@ -91364,11 +91356,6 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     },
-     {
       "polarity": "~",
       "slug": "multimedia-learning",
       "strength": "S"
@@ -91386,6 +91373,13 @@
       "polarity": "-",
       "slug": "dual-coding",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
      }
     ]
    },
@@ -96450,13 +96444,6 @@
       "strength": "M"
      }
     ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     }
-    ],
     "principles": [
      {
       "polarity": "+",
@@ -96474,6 +96461,13 @@
       "polarity": "+",
       "slug": "pacing",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
      }
     ]
    },
@@ -99371,6 +99365,11 @@
      },
      {
       "polarity": "+",
+      "slug": "audiobooks",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "case-study",
       "strength": "S"
      },
@@ -99674,11 +99673,6 @@
       "strength": "S"
      },
      {
-      "polarity": "~",
-      "slug": "cognitive-flexibility-theory",
-      "strength": "S"
-     },
-     {
       "polarity": "+",
       "slug": "cognitively-guided-instruction-cgi-for-math",
       "strength": "S"
@@ -99808,11 +99802,6 @@
      {
       "polarity": "+",
       "slug": "ask-experts",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "audiobooks",
       "strength": "S"
      },
      {
@@ -101827,6 +101816,11 @@
     ],
     "theories": [
      {
+      "polarity": "~",
+      "slug": "cognitive-flexibility-theory",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "constructivism",
       "strength": "S"
@@ -102560,11 +102554,6 @@
      {
       "polarity": "+",
       "slug": "mastery-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "metacognition",
       "strength": "M"
      },
      {
@@ -107451,7 +107440,7 @@
      },
      {
       "polarity": "+",
-      "slug": "spaced-practice",
+      "slug": "spaced-learning",
       "strength": "S"
      }
     ],
@@ -108367,8 +108356,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "spaced-practice",
-      "strength": "S"
+      "slug": "spaced-learning",
+      "strength": "M"
      }
     ]
    },
@@ -109123,11 +109112,6 @@
     "patterns": [
      {
       "polarity": "+",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "multimedia-learning",
       "strength": "M"
      }
@@ -109164,6 +109148,13 @@
       "polarity": "+",
       "slug": "worked-examples-first",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
      }
     ]
    },
@@ -122799,11 +122790,6 @@
      },
      {
       "polarity": "~",
-      "slug": "cognitive-flexibility-theory",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
       "slug": "cognitively-guided-instruction-cgi-for-math",
       "strength": "S"
      },
@@ -123061,6 +123047,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-flexibility-theory",
+      "strength": "S"
+     },
      {
       "polarity": "~",
       "slug": "constructivism",
@@ -123428,14 +123419,14 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "explicit-instruction-math-strategies",
       "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "explicit-instruction",
-      "strength": "M"
      },
      {
       "polarity": "+",
@@ -123892,11 +123883,6 @@
      }
     ],
     "principles": [
-     {
-      "polarity": "~",
-      "slug": "cognitive-apprenticeship",
-      "strength": "M"
-     },
      {
       "polarity": "~",
       "slug": "direct-instruction",
@@ -124445,11 +124431,6 @@
      {
       "polarity": "~",
       "slug": "clear-structure",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "cognitive-apprenticeship",
       "strength": "M"
      },
      {
@@ -126093,14 +126074,12 @@
     ]
    },
    "flexible-hypertext-course-design-pattern": {
-    "patterns": [
-     {
-      "slug": "cognitive-flexibility-theory"
-     }
-    ],
     "theories": [
      {
       "slug": "cognitive-flexibility-theory-five-principles-barhoumi"
+     },
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -134576,9 +134555,6 @@
       "slug": "responsive-teaching"
      },
      {
-      "slug": "spaced-practice"
-     },
-     {
       "slug": "universal-design-for-learning"
      }
     ],
@@ -136165,9 +136141,6 @@
      },
      {
       "slug": "annotating"
-     },
-     {
-      "slug": "audiobooks"
      }
     ],
     "strategies": [
@@ -136674,7 +136647,61 @@
     ],
     "strategies": [
      {
+      "slug": "accommodating_processing_speed_challenges"
+     },
+     {
+      "slug": "address_literacy_demands"
+     },
+     {
+      "slug": "allow-think-time-and-re-reading-processing-speed"
+     },
+     {
+      "slug": "braille_texts_for_literacy_development"
+     },
+     {
+      "slug": "choral-reading"
+     },
+     {
+      "slug": "classroom-library-curation"
+     },
+     {
+      "slug": "classroom_library"
+     },
+     {
+      "slug": "cloud_text-to-speech_api"
+     },
+     {
+      "slug": "creating_a_classroom_library"
+     },
+     {
+      "slug": "creating_a_digital_library_section_for_sel_topics"
+     },
+     {
+      "slug": "dual_color_highlighting"
+     },
+     {
+      "slug": "encourage_reading_diverse_texts"
+     },
+     {
+      "slug": "implicit_instruction-vocabulary"
+     },
+     {
+      "slug": "independent-reading-time"
+     },
+     {
+      "slug": "independent-reading"
+     },
+     {
       "slug": "literacy-rich-environment"
+     },
+     {
+      "slug": "literature_circles"
+     },
+     {
+      "slug": "multi-sensory-learning"
+     },
+     {
+      "slug": "outdoor_book_walk"
      },
      {
       "slug": "paired-reading"
@@ -136683,16 +136710,75 @@
       "slug": "paired-repeated-reading"
      },
      {
+      "slug": "parental_modeling_of_reading"
+     },
+     {
+      "slug": "primary_language_support_with_bilingual_texts"
+     },
+     {
       "slug": "providing_multiple_means_of_representation"
+     },
+     {
+      "slug": "read-aloud-routines"
+     },
+     {
+      "slug": "read-alouds"
+     },
+     {
+      "slug": "read_aloud"
+     },
+     {
+      "slug": "read_aloud_with_highlighting"
      },
      {
       "slug": "reading-fluency-practice"
      },
      {
+      "slug": "reading_aloud"
+     },
+     {
+      "slug": "repeated-reading"
+     },
+     {
+      "slug": "rereading"
+     },
+     {
+      "slug": "rich_library-multimodal_resources"
+     },
+     {
+      "slug": "rich_library-poetry"
+     },
+     {
+      "slug": "screen_readers"
+     },
+     {
+      "slug": "story-telling-pre-reading"
+     },
+     {
+      "slug": "supported_independent_reading"
+     },
+     {
+      "slug": "sustained-silent-reading"
+     },
+     {
       "slug": "take-home-book-bags"
      },
      {
+      "slug": "text-to-speech-technology"
+     },
+     {
+      "slug": "text-to-speech-tools"
+     },
+     {
+      "slug": "text-to-speech-tts"
+     },
+     {
       "slug": "vocabulary-in-context"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "listening-active-meaning-construction"
      }
     ]
    },
@@ -137211,9 +137297,6 @@
       "slug": "case-based-learning"
      },
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "problem-based-learning"
      }
     ],
@@ -137280,6 +137363,11 @@
      },
      {
       "slug": "website_evaluation_checklist"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -138186,9 +138274,6 @@
     "patterns": [
      {
       "slug": "case-based-learning-harvard-method"
-     },
-     {
-      "slug": "cognitive-flexibility-theory"
      }
     ],
     "strategies": [
@@ -138272,6 +138357,11 @@
      },
      {
       "slug": "wwyd_critical_incidents"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -154034,9 +154124,6 @@
     ],
     "patterns": [
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "collaborative-evaluation"
      },
      {
@@ -154384,6 +154471,9 @@
      }
     ],
     "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
+     },
      {
       "slug": "peer-collaboration-three-cognitive-benefits"
      }
@@ -155163,9 +155253,6 @@
      },
      {
       "slug": "responsive-teaching"
-     },
-     {
-      "slug": "spaced-practice"
      }
     ],
     "strategies": [
@@ -158018,10 +158105,12 @@
    "problem-solving-tasks": {
     "patterns": [
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "cognitively-guided-instruction-cgi-for-math"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -165642,9 +165731,6 @@
       "slug": "case-based-learning"
      },
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "problem-based-learning"
      }
     ],
@@ -165701,6 +165787,11 @@
      },
      {
       "slug": "team-building_through_problem-based_learning"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -165992,9 +166083,6 @@
     "principles": [
      {
       "slug": "ask-experts"
-     },
-     {
-      "slug": "cognitive-apprenticeship"
      },
      {
       "slug": "modeling"
@@ -166578,118 +166666,6 @@
      }
     ]
    },
-   "cognitive-flexibility-theory": {
-    "claims": [
-     {
-      "slug": "analogical-reasoning-improves-transfer"
-     },
-     {
-      "slug": "cognitive-flexibility-theory-multiple-cases"
-     },
-     {
-      "slug": "comparing-contrasting-cases-improves-learning"
-     },
-     {
-      "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
-      "slug": "multiple-representations-improve-learning"
-     },
-     {
-      "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
-     }
-    ],
-    "designs": [
-     {
-      "slug": "cf-informed-literacy-instruction-design"
-     },
-     {
-      "slug": "flexible-hypertext-course-design-pattern"
-     }
-    ],
-    "elements": [
-     {
-      "slug": "analogies-and-prior-knowledge-activation"
-     },
-     {
-      "slug": "case-study"
-     },
-     {
-      "slug": "cognitive-conflict"
-     },
-     {
-      "slug": "discrepant-events"
-     },
-     {
-      "polarity": "~",
-      "slug": "hypertext-navigation",
-      "strength": "M"
-     },
-     {
-      "slug": "mental-models"
-     },
-     {
-      "slug": "role-reversal"
-     },
-     {
-      "slug": "transfer-tasks"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "cognitive-flexibility"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "comparing-contrasting-cases"
-     },
-     {
-      "slug": "concept_discovery_through_examples_and_non-examples"
-     },
-     {
-      "slug": "critical_lens_development"
-     },
-     {
-      "slug": "cultivation_of_multiple_ways_of_knowing_and_making_meaning"
-     },
-     {
-      "slug": "discipline-specific_literacy"
-     },
-     {
-      "slug": "exploration_station_for_multimodal_pathways"
-     },
-     {
-      "slug": "multiple_representations-visual_representations"
-     },
-     {
-      "slug": "multiple_texts"
-     },
-     {
-      "slug": "rich_library-complexity"
-     },
-     {
-      "slug": "rich_resources-diversity"
-     },
-     {
-      "slug": "use_multiple_representations"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "cognitive-flexibility-theory-early-literacy"
-     },
-     {
-      "slug": "cognitive-flexibility-theory-five-principles-barhoumi"
-     },
-     {
-      "slug": "pjbl-course-design-matrix"
-     }
-    ]
-   },
    "cognitive-load-reduction-clt-scaffolding-approach": {
     "claims": [
      {
@@ -166721,9 +166697,6 @@
       "slug": "4cid-four-component-instructional-design"
      },
      {
-      "slug": "cognitive-load-theory"
-     },
-     {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
      }
     ],
@@ -166747,33 +166720,6 @@
     "theories": [
      {
       "slug": "element-interactivity-complexity-criterion-clt"
-     }
-    ]
-   },
-   "cognitive-load-theory": {
-    "elements": [
-     {
-      "slug": "advance-organizers"
-     },
-     {
-      "slug": "analogies-and-prior-knowledge-activation"
-     },
-     {
-      "slug": "example-problem-pairs"
-     },
-     {
-      "slug": "generative-processing"
-     },
-     {
-      "slug": "procedural-information"
-     },
-     {
-      "slug": "simple-to-complex-sequencing"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "how_close_to_100"
      }
     ]
    },
@@ -171793,9 +171739,6 @@
       "slug": "case-based-learning"
      },
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
      },
      {
@@ -171834,6 +171777,9 @@
      }
     ],
     "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
+     },
      {
       "slug": "pragmatism-and-progressivism-educational-philosophy"
      }
@@ -172845,9 +172791,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "audiobooks"
-     },
      {
       "slug": "clear-structure"
      },
@@ -174243,9 +174186,6 @@
      },
      {
       "slug": "social-presence"
-     },
-     {
-      "slug": "spaced-practice"
      },
      {
       "slug": "universal-design-for-learning"
@@ -176630,9 +176570,6 @@
       "slug": "self-affirmation"
      },
      {
-      "slug": "spaced-practice"
-     },
-     {
       "slug": "universal-design-for-learning"
      },
      {
@@ -177441,123 +177378,6 @@
      },
      {
       "slug": "written-feedback"
-     }
-    ]
-   },
-   "audiobooks": {
-    "strategies": [
-     {
-      "slug": "accommodating_processing_speed_challenges"
-     },
-     {
-      "slug": "address_literacy_demands"
-     },
-     {
-      "slug": "allow-think-time-and-re-reading-processing-speed"
-     },
-     {
-      "slug": "braille_texts_for_literacy_development"
-     },
-     {
-      "slug": "choral-reading"
-     },
-     {
-      "slug": "classroom-library-curation"
-     },
-     {
-      "slug": "classroom_library"
-     },
-     {
-      "slug": "cloud_text-to-speech_api"
-     },
-     {
-      "slug": "creating_a_classroom_library"
-     },
-     {
-      "slug": "creating_a_digital_library_section_for_sel_topics"
-     },
-     {
-      "slug": "dual_color_highlighting"
-     },
-     {
-      "slug": "encourage_reading_diverse_texts"
-     },
-     {
-      "slug": "implicit_instruction-vocabulary"
-     },
-     {
-      "slug": "independent-reading-time"
-     },
-     {
-      "slug": "independent-reading"
-     },
-     {
-      "slug": "literature_circles"
-     },
-     {
-      "slug": "multi-sensory-learning"
-     },
-     {
-      "slug": "outdoor_book_walk"
-     },
-     {
-      "slug": "parental_modeling_of_reading"
-     },
-     {
-      "slug": "primary_language_support_with_bilingual_texts"
-     },
-     {
-      "slug": "read-aloud-routines"
-     },
-     {
-      "slug": "read-alouds"
-     },
-     {
-      "slug": "read_aloud"
-     },
-     {
-      "slug": "read_aloud_with_highlighting"
-     },
-     {
-      "slug": "reading_aloud"
-     },
-     {
-      "slug": "repeated-reading"
-     },
-     {
-      "slug": "rereading"
-     },
-     {
-      "slug": "rich_library-multimodal_resources"
-     },
-     {
-      "slug": "rich_library-poetry"
-     },
-     {
-      "slug": "screen_readers"
-     },
-     {
-      "slug": "story-telling-pre-reading"
-     },
-     {
-      "slug": "supported_independent_reading"
-     },
-     {
-      "slug": "sustained-silent-reading"
-     },
-     {
-      "slug": "text-to-speech-technology"
-     },
-     {
-      "slug": "text-to-speech-tools"
-     },
-     {
-      "slug": "text-to-speech-tts"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "listening-active-meaning-construction"
      }
     ]
    },
@@ -178992,9 +178812,6 @@
      },
      {
       "slug": "case-based-learning"
-     },
-     {
-      "slug": "cognitive-flexibility-theory"
      }
     ],
     "principles": [
@@ -179023,6 +178840,11 @@
      },
      {
       "slug": "where_are_the_people_like_me"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -180272,9 +180094,6 @@
      },
      {
       "slug": "scaffolding-and-fading"
-     },
-     {
-      "slug": "spaced-practice"
      },
      {
       "slug": "universal-design-for-learning"
@@ -182083,110 +181902,6 @@
      }
     ]
    },
-   "cognitive-apprenticeship": {
-    "elements": [
-     {
-      "slug": "application-of-knowledge"
-     },
-     {
-      "slug": "case-based-learning"
-     },
-     {
-      "slug": "case-study"
-     },
-     {
-      "slug": "coaching"
-     },
-     {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
-      "slug": "collaborative-problem-solving"
-     },
-     {
-      "slug": "debrief"
-     },
-     {
-      "slug": "decision-making"
-     },
-     {
-      "slug": "differentiated-team-roles"
-     },
-     {
-      "slug": "evidence-based-reasoning"
-     },
-     {
-      "slug": "example-problem-pairs"
-     },
-     {
-      "slug": "exemplars"
-     },
-     {
-      "slug": "inquiry-and-research"
-     },
-     {
-      "slug": "inquiry-learning"
-     },
-     {
-      "slug": "inquiry"
-     },
-     {
-      "slug": "interviews"
-     },
-     {
-      "slug": "modeling"
-     },
-     {
-      "slug": "physical-education"
-     },
-     {
-      "slug": "product"
-     },
-     {
-      "slug": "research"
-     },
-     {
-      "slug": "resource-evaluation"
-     },
-     {
-      "slug": "scaffolded-inquiry"
-     },
-     {
-      "slug": "solution-development"
-     },
-     {
-      "slug": "structured-questioning"
-     },
-     {
-      "slug": "whole-task-performance"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "disciplinary-literacy"
-     },
-     {
-      "slug": "modeling"
-     },
-     {
-      "slug": "situated-learning"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "encouraging_student_self-advocacy"
-     },
-     {
-      "slug": "instructor-presence-in-discussions"
-     },
-     {
-      "slug": "math_coaching"
-     },
-     {
-      "slug": "teacher_as_writer"
-     }
-    ]
-   },
    "cognitive-disequilibrium": {
     "claims": [
      {
@@ -182856,9 +182571,6 @@
      },
      {
       "slug": "sequencing"
-     },
-     {
-      "slug": "spaced-practice"
      },
      {
       "slug": "universal-design-for-learning"
@@ -183791,9 +183503,6 @@
       "slug": "4cid-four-component-instructional-design"
      },
      {
-      "slug": "cognitive-load-theory"
-     },
-     {
       "slug": "elaboration-theory"
      }
     ],
@@ -183809,9 +183518,6 @@
      },
      {
       "slug": "dual-coding"
-     },
-     {
-      "slug": "explicit-instruction"
      },
      {
       "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
@@ -185586,9 +185292,6 @@
       "slug": "anchored-instruction"
      },
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
      },
      {
@@ -185631,6 +185334,11 @@
      },
      {
       "slug": "real-world-math"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -186019,18 +185727,100 @@
    "direct-instruction": {
     "elements": [
      {
+      "slug": "demonstration"
+     },
+     {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "expert-modeling"
+     },
+     {
+      "slug": "explicit-teaching"
+     },
+     {
+      "slug": "gradual-release"
      },
      {
       "slug": "lectures"
      },
      {
+      "slug": "observation-shadowing"
+     },
+     {
       "slug": "pre-class-videolecture"
+     },
+     {
+      "slug": "procedural-learning"
      }
     ],
     "patterns": [
      {
       "slug": "direct-instruction"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "activation"
+     },
+     {
+      "slug": "modeling"
+     },
+     {
+      "slug": "procedural-learning"
+     },
+     {
+      "slug": "self-determination-theory"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "authentic-writing"
+     },
+     {
+      "slug": "classroom-climate-routines"
+     },
+     {
+      "slug": "collaborative-learning"
+     },
+     {
+      "slug": "concrete-representational-abstract_cra_sequence"
+     },
+     {
+      "slug": "decoding-drills"
+     },
+     {
+      "slug": "dolch_word_list_-_word_search_puzzles"
+     },
+     {
+      "slug": "explicit_instruction_in_self-advocacy_and_self-determination"
+     },
+     {
+      "slug": "free_choice_time"
+     },
+     {
+      "slug": "gradual_release_of_responsibility"
+     },
+     {
+      "slug": "metacognitive-strategy-instruction"
+     },
+     {
+      "slug": "multi-tiered-system-of-supports-mtss"
+     },
+     {
+      "slug": "phoneme-grapheme_mapping"
+     },
+     {
+      "slug": "positive_behavior_support"
+     },
+     {
+      "slug": "schema-based_instruction"
+     },
+     {
+      "slug": "spelling_instruction_through_encoding"
+     },
+     {
+      "slug": "visual-schedules"
      }
     ]
    },
@@ -186709,95 +186499,6 @@
      }
     ]
    },
-   "explicit-instruction": {
-    "elements": [
-     {
-      "slug": "demonstration"
-     },
-     {
-      "slug": "expert-modeling"
-     },
-     {
-      "slug": "explicit-teaching"
-     },
-     {
-      "slug": "gradual-release"
-     },
-     {
-      "slug": "observation-shadowing"
-     },
-     {
-      "slug": "procedural-learning"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "activation"
-     },
-     {
-      "slug": "direct-instruction"
-     },
-     {
-      "slug": "modeling"
-     },
-     {
-      "slug": "procedural-learning"
-     },
-     {
-      "slug": "self-determination-theory"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "authentic-writing"
-     },
-     {
-      "slug": "classroom-climate-routines"
-     },
-     {
-      "slug": "collaborative-learning"
-     },
-     {
-      "slug": "concrete-representational-abstract_cra_sequence"
-     },
-     {
-      "slug": "decoding-drills"
-     },
-     {
-      "slug": "dolch_word_list_-_word_search_puzzles"
-     },
-     {
-      "slug": "explicit_instruction_in_self-advocacy_and_self-determination"
-     },
-     {
-      "slug": "free_choice_time"
-     },
-     {
-      "slug": "gradual_release_of_responsibility"
-     },
-     {
-      "slug": "metacognitive-strategy-instruction"
-     },
-     {
-      "slug": "multi-tiered-system-of-supports-mtss"
-     },
-     {
-      "slug": "phoneme-grapheme_mapping"
-     },
-     {
-      "slug": "positive_behavior_support"
-     },
-     {
-      "slug": "schema-based_instruction"
-     },
-     {
-      "slug": "spelling_instruction_through_encoding"
-     },
-     {
-      "slug": "visual-schedules"
-     }
-    ]
-   },
    "explicit-instruction-internet-search": {
     "elements": [
      {
@@ -187042,9 +186743,6 @@
       "slug": "mastery-learning"
      },
      {
-      "slug": "metacognition"
-     },
-     {
       "slug": "multiple-methods-of-assessment"
      },
      {
@@ -187057,7 +186755,7 @@
       "slug": "self-monitoring"
      },
      {
-      "slug": "spaced-practice"
+      "slug": "self-regulated-learning"
      },
      {
       "slug": "summative-assessment"
@@ -187321,9 +187019,6 @@
       "slug": "mastery-learning"
      },
      {
-      "slug": "metacognition"
-     },
-     {
       "slug": "motivation"
      },
      {
@@ -187512,9 +187207,6 @@
      },
      {
       "slug": "disciplinary-literacy"
-     },
-     {
-      "slug": "explicit-instruction"
      },
      {
       "slug": "flipped-learning"
@@ -187712,7 +187404,7 @@
       "slug": "deliberate-practice"
      },
      {
-      "slug": "explicit-instruction"
+      "slug": "direct-instruction"
      },
      {
       "slug": "feedback-loops"
@@ -188421,113 +188113,6 @@
      }
     ]
    },
-   "metacognition": {
-    "elements": [
-     {
-      "slug": "activation"
-     },
-     {
-      "slug": "concept-mapping"
-     },
-     {
-      "slug": "criteria-development"
-     },
-     {
-      "slug": "eliciting-student-thinking"
-     },
-     {
-      "slug": "individual-reflection"
-     },
-     {
-      "slug": "integration"
-     },
-     {
-      "slug": "journaling"
-     },
-     {
-      "slug": "metacognition"
-     },
-     {
-      "slug": "metacognitive-reflection"
-     },
-     {
-      "slug": "metacognitive-strategies"
-     },
-     {
-      "slug": "note-taking"
-     },
-     {
-      "slug": "observation"
-     },
-     {
-      "slug": "observationshadowing"
-     },
-     {
-      "slug": "peer-assessment"
-     },
-     {
-      "slug": "peer-explanation"
-     },
-     {
-      "slug": "peer-feedbackpeer-review"
-     },
-     {
-      "slug": "pre-class-preparation"
-     },
-     {
-      "slug": "pre-seminar-preparation"
-     },
-     {
-      "slug": "prior-knowledge-activation"
-     },
-     {
-      "slug": "provide-guidance"
-     },
-     {
-      "slug": "question-formulation"
-     },
-     {
-      "slug": "reflection-activities"
-     },
-     {
-      "slug": "review"
-     },
-     {
-      "slug": "rubric-design"
-     },
-     {
-      "slug": "self-explanation"
-     },
-     {
-      "slug": "state-objectives"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "journaling"
-     },
-     {
-      "slug": "reflective-practice"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "cognitive-activation"
-     },
-     {
-      "slug": "knowledge-organization"
-     },
-     {
-      "slug": "reflection"
-     },
-     {
-      "slug": "self-regulated-learning"
-     },
-     {
-      "slug": "self-regulation"
-     }
-    ]
-   },
    "metacognition-prompts-in-inquiry-introduction": {
     "principles": [
      {
@@ -188614,9 +188199,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "cognitive-apprenticeship"
-     },
      {
       "slug": "direct-instruction"
      },
@@ -188739,9 +188321,6 @@
       "slug": "accessible-vocabulary-syntax"
      },
      {
-      "slug": "audiobooks"
-     },
-     {
       "slug": "clear-structure"
      },
      {
@@ -188854,9 +188433,6 @@
       "slug": "annotating"
      },
      {
-      "slug": "audiobooks"
-     },
-     {
       "slug": "pre-reading-questioning"
      }
     ],
@@ -188894,10 +188470,10 @@
     ],
     "principles": [
      {
-      "slug": "cognitive-apprenticeship"
+      "slug": "modeling"
      },
      {
-      "slug": "modeling"
+      "slug": "scaffolding-and-fading"
      }
     ]
    },
@@ -189162,9 +188738,6 @@
       "slug": "case-based-learning-harvard-method"
      },
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "discussion-based-learning"
      },
      {
@@ -189198,6 +188771,11 @@
      },
      {
       "slug": "researcher-signature-believability-validity"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -189484,9 +189062,6 @@
       "slug": "anchored-instruction"
      },
      {
-      "slug": "cognitive-flexibility-theory"
-     },
-     {
       "slug": "collaborative-inquiry"
      },
      {
@@ -189528,6 +189103,9 @@
     "theories": [
      {
       "slug": "blooms-taxonomy"
+     },
+     {
+      "slug": "cognitive-flexibility-theory"
      },
      {
       "slug": "constructivism"
@@ -189697,9 +189275,6 @@
       "slug": "journaling"
      },
      {
-      "slug": "metacognition"
-     },
-     {
       "slug": "phonics"
      },
      {
@@ -189710,6 +189285,9 @@
      },
      {
       "slug": "self-monitoring"
+     },
+     {
+      "slug": "self-regulated-learning"
      },
      {
       "slug": "video-replay-analysis"
@@ -190074,9 +189652,6 @@
      },
      {
       "slug": "memory-consolidation"
-     },
-     {
-      "slug": "spaced-practice"
      }
     ],
     "strategies": [
@@ -190298,9 +189873,6 @@
     ],
     "principles": [
      {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
       "slug": "cognitive-load-reduction"
      },
      {
@@ -190311,9 +189883,6 @@
      },
      {
       "slug": "educational-readiness"
-     },
-     {
-      "slug": "explicit-instruction"
      },
      {
       "slug": "holistic-learning"
@@ -190585,6 +190154,42 @@
     ],
     "elements": [
      {
+      "slug": "application-of-knowledge"
+     },
+     {
+      "slug": "case-based-learning"
+     },
+     {
+      "slug": "case-study"
+     },
+     {
+      "slug": "coaching"
+     },
+     {
+      "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "collaborative-problem-solving"
+     },
+     {
+      "slug": "debrief"
+     },
+     {
+      "slug": "decision-making"
+     },
+     {
+      "slug": "differentiated-team-roles"
+     },
+     {
+      "slug": "evidence-based-reasoning"
+     },
+     {
+      "slug": "example-problem-pairs"
+     },
+     {
+      "slug": "exemplars"
+     },
+     {
       "slug": "fading-scaffolding"
      },
      {
@@ -190597,10 +190202,46 @@
       "slug": "hints"
      },
      {
+      "slug": "inquiry-and-research"
+     },
+     {
+      "slug": "inquiry-learning"
+     },
+     {
+      "slug": "inquiry"
+     },
+     {
+      "slug": "interviews"
+     },
+     {
       "slug": "just-in-time-learning"
      },
      {
+      "slug": "modeling"
+     },
+     {
+      "slug": "physical-education"
+     },
+     {
+      "slug": "product"
+     },
+     {
+      "slug": "research"
+     },
+     {
+      "slug": "resource-evaluation"
+     },
+     {
+      "slug": "scaffolded-inquiry"
+     },
+     {
       "slug": "scaffolding"
+     },
+     {
+      "slug": "solution-development"
+     },
+     {
+      "slug": "structured-questioning"
      },
      {
       "slug": "think-aloud"
@@ -190633,6 +190274,9 @@
       "slug": "clear-structure"
      },
      {
+      "slug": "disciplinary-literacy"
+     },
+     {
       "slug": "explaining-their-thinking"
      },
      {
@@ -190654,16 +190298,36 @@
       "slug": "mentoringcoaching"
      },
      {
+      "slug": "modeling"
+     },
+     {
       "slug": "persistent-autonomy-support-during-resistance"
      },
      {
       "slug": "scaffolding"
      },
      {
+      "slug": "situated-learning"
+     },
+     {
       "slug": "supporting-early-language-development"
      },
      {
       "slug": "user-centered-design-for-learning"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "encouraging_student_self-advocacy"
+     },
+     {
+      "slug": "instructor-presence-in-discussions"
+     },
+     {
+      "slug": "math_coaching"
+     },
+     {
+      "slug": "teacher_as_writer"
      }
     ],
     "theories": [
@@ -190741,22 +190405,91 @@
    "self-regulated-learning": {
     "elements": [
      {
+      "slug": "activation"
+     },
+     {
+      "slug": "concept-mapping"
+     },
+     {
+      "slug": "criteria-development"
+     },
+     {
+      "slug": "eliciting-student-thinking"
+     },
+     {
       "slug": "group-processing"
      },
      {
       "slug": "individual-reflection"
      },
      {
+      "slug": "integration"
+     },
+     {
       "slug": "journaling"
+     },
+     {
+      "slug": "metacognition"
+     },
+     {
+      "slug": "metacognitive-reflection"
      },
      {
       "slug": "metacognitive-strategies"
      },
      {
+      "slug": "note-taking"
+     },
+     {
+      "slug": "observation"
+     },
+     {
+      "slug": "observationshadowing"
+     },
+     {
+      "slug": "peer-assessment"
+     },
+     {
+      "slug": "peer-explanation"
+     },
+     {
+      "slug": "peer-feedbackpeer-review"
+     },
+     {
+      "slug": "pre-class-preparation"
+     },
+     {
+      "slug": "pre-seminar-preparation"
+     },
+     {
+      "slug": "prior-knowledge-activation"
+     },
+     {
+      "slug": "provide-guidance"
+     },
+     {
       "slug": "question-formulation"
+     },
+     {
+      "slug": "reflection-activities"
+     },
+     {
+      "slug": "review"
+     },
+     {
+      "slug": "rubric-design"
+     },
+     {
+      "slug": "self-explanation"
+     },
+     {
+      "slug": "state-objectives"
      }
     ],
     "patterns": [
+     {
+      "slug": "journaling"
+     },
      {
       "slug": "reflective-practice"
      },
@@ -190765,6 +190498,12 @@
      }
     ],
     "principles": [
+     {
+      "slug": "cognitive-activation"
+     },
+     {
+      "slug": "knowledge-organization"
+     },
      {
       "slug": "reflection"
      },
@@ -191110,9 +190849,35 @@
     ]
    },
    "spaced-learning": {
+    "claims": [
+     {
+      "slug": "fluent-illusions-mislead-self-assessment"
+     },
+     {
+      "slug": "interleaving-improves-inductive-learning"
+     },
+     {
+      "slug": "interleaving-improves-learning"
+     },
+     {
+      "slug": "rereading-is-a-low-utility-study-strategy"
+     },
+     {
+      "slug": "retrieval-practice-improves-retention"
+     }
+    ],
     "elements": [
      {
+      "slug": "optional-quizzes-or-discussion-sections"
+     },
+     {
       "slug": "part-task-practice"
+     },
+     {
+      "slug": "practice-testing"
+     },
+     {
+      "slug": "retrieval"
      },
      {
       "slug": "spaced-learning"
@@ -191141,36 +190906,6 @@
      },
      {
       "slug": "retrieval-practice"
-     }
-    ]
-   },
-   "spaced-practice": {
-    "claims": [
-     {
-      "slug": "fluent-illusions-mislead-self-assessment"
-     },
-     {
-      "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
-     },
-     {
-      "slug": "rereading-is-a-low-utility-study-strategy"
-     },
-     {
-      "slug": "retrieval-practice-improves-retention"
-     }
-    ],
-    "elements": [
-     {
-      "slug": "optional-quizzes-or-discussion-sections"
-     },
-     {
-      "slug": "practice-testing"
-     },
-     {
-      "slug": "retrieval"
      }
     ],
     "strategies": [
@@ -191731,11 +191466,6 @@
       "slug": "speech-to-text"
      }
     ],
-    "principles": [
-     {
-      "slug": "audiobooks"
-     }
-    ],
     "strategies": [
      {
       "slug": "word-prediction-software"
@@ -192070,9 +191800,6 @@
      },
      {
       "slug": "scaffolding-and-fading"
-     },
-     {
-      "slug": "spaced-practice"
      }
     ],
     "strategies": [
@@ -194367,6 +194094,118 @@
      }
     ]
    },
+   "cognitive-flexibility-theory": {
+    "claims": [
+     {
+      "slug": "analogical-reasoning-improves-transfer"
+     },
+     {
+      "slug": "cognitive-flexibility-theory-multiple-cases"
+     },
+     {
+      "slug": "comparing-contrasting-cases-improves-learning"
+     },
+     {
+      "slug": "interleaving-improves-inductive-learning"
+     },
+     {
+      "slug": "multiple-contrasting-cases-support-abstraction"
+     },
+     {
+      "slug": "multiple-representations-improve-learning"
+     },
+     {
+      "slug": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts"
+     }
+    ],
+    "designs": [
+     {
+      "slug": "cf-informed-literacy-instruction-design"
+     },
+     {
+      "slug": "flexible-hypertext-course-design-pattern"
+     }
+    ],
+    "elements": [
+     {
+      "slug": "analogies-and-prior-knowledge-activation"
+     },
+     {
+      "slug": "case-study"
+     },
+     {
+      "slug": "cognitive-conflict"
+     },
+     {
+      "slug": "discrepant-events"
+     },
+     {
+      "polarity": "~",
+      "slug": "hypertext-navigation",
+      "strength": "M"
+     },
+     {
+      "slug": "mental-models"
+     },
+     {
+      "slug": "role-reversal"
+     },
+     {
+      "slug": "transfer-tasks"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "cognitive-flexibility"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "comparing-contrasting-cases"
+     },
+     {
+      "slug": "concept_discovery_through_examples_and_non-examples"
+     },
+     {
+      "slug": "critical_lens_development"
+     },
+     {
+      "slug": "cultivation_of_multiple_ways_of_knowing_and_making_meaning"
+     },
+     {
+      "slug": "discipline-specific_literacy"
+     },
+     {
+      "slug": "exploration_station_for_multimodal_pathways"
+     },
+     {
+      "slug": "multiple_representations-visual_representations"
+     },
+     {
+      "slug": "multiple_texts"
+     },
+     {
+      "slug": "rich_library-complexity"
+     },
+     {
+      "slug": "rich_resources-diversity"
+     },
+     {
+      "slug": "use_multiple_representations"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory-early-literacy"
+     },
+     {
+      "slug": "cognitive-flexibility-theory-five-principles-barhoumi"
+     },
+     {
+      "slug": "pjbl-course-design-matrix"
+     }
+    ]
+   },
    "cognitive-flexibility-theory-early-literacy": {
     "strategies": [
      {
@@ -194831,16 +194670,34 @@
     ],
     "elements": [
      {
+      "slug": "advance-organizers"
+     },
+     {
+      "slug": "analogies-and-prior-knowledge-activation"
+     },
+     {
       "slug": "automaticity"
      },
      {
       "slug": "direct-instruction"
      },
      {
+      "slug": "example-problem-pairs"
+     },
+     {
       "slug": "full-and-completion-worked-examples-for-simultaneous-equations"
      },
      {
+      "slug": "generative-processing"
+     },
+     {
       "slug": "part-task-practice"
+     },
+     {
+      "slug": "procedural-information"
+     },
+     {
+      "slug": "simple-to-complex-sequencing"
      },
      {
       "slug": "solution-step-task-difficulty-levels-for-simultaneous-equations"
@@ -194895,16 +194752,10 @@
       "slug": "ask-experts"
      },
      {
-      "slug": "audiobooks"
-     },
-     {
       "slug": "autonomy"
      },
      {
       "slug": "cognitive-activation"
-     },
-     {
-      "slug": "cognitive-apprenticeship"
      },
      {
       "slug": "cognitive-disequilibrium"
@@ -194991,9 +194842,6 @@
       "slug": "social-constructivism"
      },
      {
-      "slug": "spaced-practice"
-     },
-     {
       "slug": "universal-design-for-learning"
      },
      {
@@ -195043,6 +194891,9 @@
      },
      {
       "slug": "five-stage_problem-solving_model"
+     },
+     {
+      "slug": "how_close_to_100"
      },
      {
       "slug": "ideal-problem-solving"
@@ -195578,9 +195429,6 @@
       "slug": "behaviorism"
      },
      {
-      "slug": "cognitive-apprenticeship"
-     },
-     {
       "slug": "cognitive-flexibility"
      },
      {
@@ -195635,9 +195483,6 @@
      },
      {
       "slug": "social-presence"
-     },
-     {
-      "slug": "spaced-practice"
      },
      {
       "slug": "universal-design-for-learning"
@@ -199915,9 +199760,6 @@
      },
      {
       "slug": "situated-learning"
-     },
-     {
-      "slug": "spaced-practice"
      }
     ],
     "processes": [
@@ -204104,9 +203946,6 @@
       "slug": "integrate-self-regulation-with-scientific-reasoning-instruction"
      },
      {
-      "slug": "metacognition"
-     },
-     {
       "slug": "personalization"
      },
      {
@@ -204120,9 +203959,6 @@
      },
      {
       "slug": "self-directed-learning"
-     },
-     {
-      "slug": "spaced-practice"
      },
      {
       "polarity": "+",
@@ -205117,9 +204953,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "cognitive-apprenticeship"
-     },
      {
       "slug": "community-based-learning"
      },
@@ -207795,10 +207628,10 @@
   "elements": 733,
   "learner-variables": 12,
   "methods": 38,
-  "patterns": 143,
-  "principles": 484,
+  "patterns": 141,
+  "principles": 479,
   "processes": 18,
   "strategies": 3184,
-  "theories": 945
+  "theories": 946
  }
 }

@@ -49,7 +49,7 @@ Effective PE instruction sequences observation, guided practice, and application
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — limiting cues, using demonstrations instead of lengthy verbal explanation, and simplifying game constraints keeps attention on the movement problem
 - [Scaffolding](../principles/scaffolding.md) — modified games, smaller playing areas, and adapted equipment are temporary supports that fade toward full-game performance [Support fading promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 - [Active Learning](../principles/active-learning.md) — PE is inherently active, but design must ensure *cognitive* engagement (decision-making in games), not just physical activity
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — expert modeling of tactics and movement, followed by coached practice, mirrors the modeling–coaching–fading cycle
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — expert modeling of tactics and movement, followed by coached practice, mirrors the modeling–coaching–fading cycle
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

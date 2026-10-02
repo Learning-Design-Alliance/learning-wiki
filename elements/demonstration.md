@@ -57,7 +57,7 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md) — a demonstration applied to a problem-solving context enacts this principle by giving learners a complete solution to study before attempting their own; the worked example *is* the demonstration with added reasoning annotation
-- [Explicit Instruction](../principles/explicit-instruction.md) — demonstration enacts this principle by having the expert narrate decisions aloud ("I'm choosing this approach because…"), converting tacit knowledge into observable, learnable steps rather than leaving learners to infer intent from outcomes
+- [Explicit Instruction](../principles/direct-instruction.md) — demonstration enacts this principle by having the expert narrate decisions aloud ("I'm choosing this approach because…"), converting tacit knowledge into observable, learnable steps rather than leaving learners to infer intent from outcomes
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by externalizing each step of a task, demonstration lets learners attend to *understanding* the structure rather than holding intermediate states in working memory while simultaneously figuring out what to do next
 - [Scaffolding](../principles/scaffolding.md) — a demonstration functions as temporary external structure; the key design decision is when and how to fade it — moving from full worked examples to partial examples to problem-only as competence grows
 

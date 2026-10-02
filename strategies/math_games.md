@@ -60,7 +60,7 @@ Well-designed math games embed [practice](../elements/practice.md) in a goal str
 
 ## Related Strategies
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — games surface informal number knowledge that instruction can build on
-- [Spaced practice](../principles/spaced-practice.md) — repeated game sessions distribute the practice that builds fluency
+- [Spaced practice](../principles/spaced-learning.md) — repeated game sessions distribute the practice that builds fluency
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game is a motivational wrapper around distributed practice

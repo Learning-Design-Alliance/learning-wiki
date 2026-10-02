@@ -60,7 +60,7 @@ Deliberate practice reframes practice time as a design problem: the quality of t
 6. Distribute future practice of the component over time rather than massing it ([Spaced Repetition](../elements/spaced-repetition.md)).
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — distributes deliberate practice sessions for durable retention
+- [Spaced Practice](../principles/spaced-learning.md) — distributes deliberate practice sessions for durable retention
 - [Mastery Learning](mastery-learning.md) — holds learners at a component until criteria are met before advancing
 - [Retrieval Practice](retrieval-practice.md) — a deliberate practice variant for memory-based learning goals
 

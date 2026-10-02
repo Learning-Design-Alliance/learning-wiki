@@ -72,7 +72,7 @@ Shared parent–child book reading is one of the most consistently supported hom
 
 ## Tools
 - Weatherproof lamination pouches and yard stakes or cable ties for mounting
-- QR codes on the title sign linking to an audio narration for emergent readers ([Audiobooks](../principles/audiobooks.md))
+- QR codes on the title sign linking to an audio narration for emergent readers ([Audiobooks](../elements/audiobooks.md))
 - A simple participation map or stamp card families can carry along the route
 
 ## Examples

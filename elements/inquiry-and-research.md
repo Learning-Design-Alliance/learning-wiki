@@ -48,7 +48,7 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — inquiry and research is the operational core of this principle: the question drives the learning rather than the transmission of content
 - [Constructivism](../principles/constructivism.md) — learners actively construct explanations from evidence rather than receiving them, enacting the constructivist account of knowledge building
 - [Active Learning](../principles/active-learning.md) — investigation requires learners to generate, evaluate, and revise ideas rather than passively receive them
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — research processes can be made visible through expert modeling of how investigators formulate and refine questions
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — research processes can be made visible through expert modeling of how investigators formulate and refine questions
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

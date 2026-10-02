@@ -38,7 +38,7 @@ Pre-reading storytelling works as a form of [Activation](../principles/activatio
 - **Personal anecdote** — instructor's own experience, adding authenticity and relational warmth
 - **Fictional or historical vignette** — a suspenseful scenario learners must resolve by reading the text (a "cliffhanger" design)
 - **Student stories** — inviting learners to tell their own related narratives shifts the activity toward peer [Activation](../elements/activation.md)
-- **Multimedia retelling** — recorded audio or illustrated versions support [Audiobooks](../principles/audiobooks.md)-style access for emerging readers
+- **Multimedia retelling** — recorded audio or illustrated versions support [Audiobooks](../elements/audiobooks.md)-style access for emerging readers
 
 ### Target Learners
 - Emerging readers and second-language learners, for whom a concrete narrative context compensates for limited vocabulary and background knowledge [Activating prior knowledge improves comprehension and learning.](../claims/activation-improves-learning.md) [+M]

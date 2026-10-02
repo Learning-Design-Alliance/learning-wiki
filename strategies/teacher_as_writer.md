@@ -19,7 +19,7 @@ Teacher as Writer is a professional learning strategy in which teachers engage i
 
 ## Design Implications
 
-The strategy rests on the premise that teaching a complex process benefits from firsthand experience of that process — a core move in [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md), where the teacher re-enters the learner role. Teachers who write themselves are better positioned to [Modeling](../elements/modeling.md) their own drafting and revision, making expert composing processes visible rather than presenting only finished products. Experiencing the vulnerability of sharing unfinished writing also builds the empathy that underpins effective feedback practices [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+The strategy rests on the premise that teaching a complex process benefits from firsthand experience of that process — a core move in [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md), where the teacher re-enters the learner role. Teachers who write themselves are better positioned to [Modeling](../elements/modeling.md) their own drafting and revision, making expert composing processes visible rather than presenting only finished products. Experiencing the vulnerability of sharing unfinished writing also builds the empathy that underpins effective feedback practices [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

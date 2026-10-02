@@ -58,7 +58,7 @@ The rationale is cognitive: writing quality depends on working-memory resources,
 
 ## Related Strategies
 - [Handwriting Fluency Instruction](handwriting-fluency-instruction.md) — the paper-based analog; both target transcription automaticity to support composition
-- [Spaced Practice](../principles/spaced-practice.md) — distributed short sessions are the scheduling pattern keyboarding drill depends on
+- [Spaced Practice](../principles/spaced-learning.md) — distributed short sessions are the scheduling pattern keyboarding drill depends on
 
 ## Examples
 - **TypingClub** (https://www.typingclub.com) — free, game-based sequential lessons with immediate per-key feedback and accuracy-first progression; widely used in K–12.

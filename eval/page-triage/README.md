@@ -104,3 +104,16 @@ duplicates are merged with an alias, and misfiled pages move to their kind. Appl
 2. Whether duplicates are merged into one page with an alias (a rename: links keep resolving).
 3. Whether misfiled pages move to their suggested kind.
 4. The conversion core: canonical pages with 5+ inbound links (about 90 still to convert), in waves.
+
+## Before wave 2 (2026-10-02)
+
+Maintainer's decisions, applied with `merge_pages.py` (which now folds across kinds: `kind/slug` as the fold,
+links repointed, no alias, since aliases cannot cross kinds) and `move_pages_kind.py`:
+
+- **Folded into their converted siblings** (`merges-wave2-prep.tsv`): `principles/spaced-practice` into
+  `spaced-learning`, `cognitive-apprenticeship` into `scaffolding-and-fading`, `explicit-instruction` into
+  `direct-instruction`, `metacognition` into `self-regulated-learning`. Each fold's slug is an alias; its claim
+  links sit under the survivor's Further evidence, labelled and capped; its body is in a `<!-- merged -->` block.
+- **Misfiled pages**: `principles/audiobooks` folded into `elements/audiobooks`, `patterns/cognitive-load-theory`
+  into `theories/cognitive-load-theory`, and `patterns/cognitive-flexibility-theory` moved to `theories/`.
+  `observations/spencer-2025` named `principles/explicit-instruction` and now names `principles/direct-instruction`.

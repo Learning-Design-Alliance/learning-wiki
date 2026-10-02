@@ -61,7 +61,7 @@ Peer explanation converts passive comprehension into generative processing: expl
 - [Collaborative Learning](../principles/collaborative-learning.md) — peer explanation is the minimal unit of collaboration: two learners, one explaining, one probing; it structures interaction so both parties have generative roles rather than dividing labor
 - [Active Learning](../principles/active-learning.md) — explanation is a generative activity that requires constructing output rather than receiving input, replacing listening time with meaning-making time
 - [Constructivism](../principles/constructivism.md) — verbalizing forces learners to rebuild knowledge in their own words, revealing and resolving inconsistencies between their mental model and the target concept
-- [Metacognition](../principles/metacognition.md) — the anticipation of explaining to a peer prompts self-monitoring during initial study, not just afterward
+- [Metacognition](../principles/self-regulated-learning.md) — the anticipation of explaining to a peer prompts self-monitoring during initial study, not just afterward
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

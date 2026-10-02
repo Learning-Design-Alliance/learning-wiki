@@ -1,6 +1,7 @@
 ---
 type: principle
 id: direct-instruction
+aliases: [explicit-instruction]
 title: Direct Instruction
 description: "For a learner with no working method for a structured target, explicit explanation, modelling and guided practice with checks is expected to beat minimally guided discovery on near-term performance, qualified by task-specific expertise, age, outcome type and horizon."
 status: review
@@ -17,7 +18,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 17 studies (6 causal, 5 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -54,6 +55,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice; not yet checked against its sources
 
 ## Objective and learner-valued goal
 
@@ -68,14 +70,16 @@ The expectation should weaken if comparable learners, starting responses and ali
 Immediate procedural performance, conceptual understanding, transfer, delayed retention and use the learner values are separate claims. The present evidence does not establish a fading point, an optimal lesson script or a numerical forecast for an individual learner.
 
 ## Related Principles
-- [Explicit Instruction](explicit-instruction.md) — direct instruction is a concrete expression of the broader explicitness principle
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone
 - [Guided Practice](guided-practice.md) — the coached practice phase is what converts explanation into actual performance
+- [Immediate Feedback](immediate-feedback.md)
 
 ## Related Patterns
 - [Direct Instruction](../patterns/direct-instruction.md)
 
 ## Examples
+- An instructor models a new procedure, names the critical decisions, then moves learners through short coached practice before releasing them to independent application.
+- A digital-skills lesson demonstrates how to complete a real task step by step, then shifts to scaffolded practice on variations of the same task.
 
 ### Illustrative
 
@@ -88,6 +92,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75-86. [https://doi.org/10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching*. Guilford Press.
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above (old Description and Implications, kept verbatim)
 
@@ -121,7 +126,7 @@ Direct instruction is strongest when learners need a clear model of what success
 ### Theory
 #### Supporting
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explicit demonstration and sequencing reduce unnecessary search and preserve working-memory resources for schema formation
-- [Explicit Instruction](explicit-instruction.md) — direct instruction is one of the clearest operational forms of explicit teaching
+- [Explicit Instruction](direct-instruction.md) — direct instruction is one of the clearest operational forms of explicit teaching
 - [Guided Practice](guided-practice.md) — the principle only works well when explanation is followed by supported learner performance
 
 #### Contradicting / Qualifying
@@ -131,4 +136,53 @@ Direct instruction is strongest when learners need a clear model of what success
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — novice learners benefit when instruction reduces unguided search and makes correct structure visible
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — direct instruction is stronger when teacher support adapts to learner performance rather than following a rigid script alone
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — the usefulness of high-guidance instruction drops as learner expertise increases
+-->
+
+<!-- merged 2026-10-02 from principles/explicit-instruction ("Explicit Instruction"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Explicit Instruction
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q3`–`q4` · 0 of 6 report an effect size · 1 claim rests on one study
+
+## Description
+Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit. This page serves as the canonical short-form target for links that refer to explicit instruction broadly rather than to a domain-specific variant.
+
+## Implications
+Explicit instruction is especially useful when learners do not yet know what to attend to, what successful performance looks like, or how to begin a task productively. Clear explanation, modeling, guided practice, and checks for understanding can reduce unnecessary ambiguity and help novices build an initial workable routine faster than unguided discovery alone [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [~M]. The tradeoff is that explicitness should support learning, not replace thinking: instruction is strongest when support is responsive to actual learner need [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], and once learners have enough footing it needs to shift toward application, judgment, and increasing independence rather than permanent step-by-step direction.
+
+### Context
+#### Requirements
+- **Clearly defined target knowledge or skill**
+- **Modeling or explanation of the critical moves**
+- **Guided practice with feedback**
+#### Constraints
+- **Can become overly transmissive if application and feedback are weak**
+- **Needs adaptation for learner expertise and task complexity**
+
+### Target Learning Objectives
+- Accelerate early understanding and reduce unnecessary ambiguity for novices.
+
+### Theory
+#### Supporting
+- [Scaffolding](scaffolding.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
+#### Contradicting / Qualifying
+- Explicit instruction is strongest early in learning or when tasks are highly unfamiliar; it should not crowd out productive application or transfer work.
+- Support needs to adapt to expertise so instruction does not become redundant or controlling.
+
+### Claims
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — explicit teaching is more effective when guidance adapts to what learners actually understand and can do
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice
+
+## Related Principles
+- [Guided Practice](guided-practice.md)
+- [Immediate Feedback](immediate-feedback.md)
+
+## Examples
+- An instructor models a new procedure, names the critical decisions, then moves learners through short coached practice before releasing them to independent application.
+- A digital-skills lesson demonstrates how to complete a real task step by step, then shifts to scaffolded practice on variations of the same task.
+
+## Key Sources
+- Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching*. Guilford Press.
 -->

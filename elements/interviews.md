@@ -49,7 +49,7 @@ Interviews make learning situated and purposeful: learners must activate prior k
 - [Ask Experts](../principles/ask-experts.md) — interviews enact this principle directly: the expert is present and responsive, so learners can pursue their own lines of inquiry rather than receiving a fixed expert account
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — a real interviewee and a real deliverable (article, report, oral history) give the task genuine stakes beyond the grade
 - [Building Empathy](../principles/building-empathy.md) — structured listening to personal narratives is a core mechanism of perspective-taking interventions; interviews operationalize it with real interlocutors
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — interviewing a practitioner exposes learners to how experts frame problems and narrate their own practice, a form of access to expert thinking that complements observation
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — interviewing a practitioner exposes learners to how experts frame problems and narrate their own practice, a form of access to expert thinking that complements observation
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

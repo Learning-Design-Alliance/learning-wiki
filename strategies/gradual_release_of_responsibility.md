@@ -59,7 +59,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 
 ## Related Strategies
 - [Scaffolding](../principles/scaffolding.md) — the underlying mechanism; GRR specifies its temporal sequencing
-- [Explicit Instruction](../principles/explicit-instruction.md) — supplies the modeling and guided-practice moves of the first two phases
+- [Explicit Instruction](../principles/direct-instruction.md) — supplies the modeling and guided-practice moves of the first two phases
 - [Fading](../elements/fading.md) — the systematic withdrawal of support that defines the release
 - [Worked Examples](../principles/worked-examples.md) — a common "I do" format, especially in mathematics and programming
 - [Formative Assessment](../patterns/formative-assessment.md) — provides the readiness evidence that should govern each release

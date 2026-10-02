@@ -60,7 +60,7 @@ Procedural learning is most important when the learning target is a repeatable p
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — procedural learning is stronger when support adapts to learner performance rather than staying fixed
 
 ## Related Principles
-- [Explicit Instruction](explicit-instruction.md) — often supplies the visible model and sequence that procedural learning needs
+- [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs
 - [Scaffolding](scaffolding.md) — helps learners perform procedures they cannot yet execute independently
 - [Deliberate Practice](deliberate-practice.md) — explains how procedures improve through focused repetition with feedback
 

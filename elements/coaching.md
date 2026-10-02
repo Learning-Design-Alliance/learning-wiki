@@ -47,7 +47,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 ### Affordances
 - [Scaffolding](../principles/scaffolding.md) — coaching is scaffolding enacted person-to-person: the coach supplies contingent support and progressively withdraws it as competence develops
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — by intervening at the moment of difficulty, the coach removes exactly the obstacle blocking progress rather than front-loading all guidance, keeping working memory focused on the task
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — coaching is the second phase of this pattern, following [Demonstration](demonstration.md) (modeling) and preceding learner [Articulation](articulation.md) and reflection
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — coaching is the second phase of this pattern, following [Demonstration](demonstration.md) (modeling) and preceding learner [Articulation](articulation.md) and reflection
 - [Assessment for Learning](../principles/assessment-for-learning.md) — continuous observation during coaching is formative assessment in its most direct form; feedback is immediate and tied to visible performance
 
 ### Claims

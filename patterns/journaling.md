@@ -40,7 +40,7 @@ Journaling is the pattern-level target for recurring written reflection used to 
 ### Theory
 #### Supporting
 - [Reflection](../principles/reflection.md)
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 
 ## Design
 

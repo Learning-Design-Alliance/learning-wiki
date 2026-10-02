@@ -62,7 +62,7 @@ Disciplinary literacy reframes content-area literacy from a set of generic strat
 
 ## Related Principles
 - [Annotating](annotating.md) — annotation schemes can be discipline-specific (e.g., sourcing marginalia in history), making expert reading moves visible
-- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the core instructional model: experts model disciplinary reading and reasoning, then fade support
+- [Cognitive Apprenticeship](scaffolding-and-fading.md) — the core instructional model: experts model disciplinary reading and reasoning, then fade support
 - [Case Studies/Case-Based Learning](case-studiescase-based-learning.md) — cases supply the authentic disciplinary materials learners need to practice expert heuristics
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — scaffolds language demands so learners can engage with authentic disciplinary texts
 - [Active Learning](active-learning.md) — disciplinary literacy requires learners to *do* epistemic work, not just receive disciplinary content

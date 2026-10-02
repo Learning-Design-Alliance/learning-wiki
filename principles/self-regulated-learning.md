@@ -1,6 +1,7 @@
 ---
 type: principle
 id: self-regulated-learning
+aliases: [metacognition]
 title: Self-Regulated Learning
 description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
 status: review
@@ -12,12 +13,16 @@ sources:
     resource: "https://doi.org/10.1207/s15430421tip4102_2"
     title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70"
     author: Zimmerman, B. J
+  - id: flavell-1979
+    resource: "https://doi.org/10.1037/0003-066X.34.10.906"
+    title: "Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911"
+    author: Flavell, J. H
 ---
 
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 5 of 13 report an effect size · 1 claim rests on one study
 
 ## Conditional relationship
 
@@ -54,6 +59,7 @@ Retain learners, delivery agent, comparator, whether support was used, outcome t
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners often need reflection focused on what to do next, not just whether they reached the endpoint; not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal
 
@@ -68,17 +74,22 @@ The expectation should weaken if comparable learners given explicit, task-specif
 Gains in strategy knowledge, self-reported regulation, self-efficacy, study time, immediate task performance and delayed achievement are separate claims. The present evidence does not establish an optimal prompt schedule, a fading criterion, a durable transfer effect across subjects, or benefit for every learner.
 
 ## Related Principles
-- [Metacognition](metacognition.md)
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
+- [Formative Assessment](formative-assessment.md)
+- [Purposeful Reflection](purposeful-reflection.md)
 
 ## Examples
 
 - A writing course uses planning checklists, mid-draft self-ratings, and revision memos so learners can monitor progress against clear criteria.
 - An online math platform asks learners to predict difficulty, check performance after practice, and choose the next support option based on that reflection.
 - [MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system](../elements/metatutor-srl-prompting-its.md)
+- Learners predict performance before a quiz and compare the result afterward.
+- Students annotate where they are confused and choose the next support to use.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+- Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
+- Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
 
@@ -105,4 +116,57 @@ Self-regulated learning improves when instruction makes planning, monitoring, an
 
 ### Claims
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — Explicit progress checks and comparison to criteria improve learners’ ability to adjust strategy, effort, and help-seeking.
+-->
+
+<!-- merged 2026-10-02 from principles/metacognition ("Metacognition"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Metacognition
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 theoretical, 1 causal, 1 review), `q3` · 0 of 4 report an effect size
+
+## Description
+Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking. It matters when learners need to notice what they understand, where they are confused, and what strategy or support they should use next.
+
+## Implications
+Metacognition improves learning when learners can compare their current understanding against a visible standard and decide what to do next. Prompts that ask learners to predict performance, explain confidence, or select a next strategy can strengthen self-regulation [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M], but only if the environment also provides usable feedback and room to adjust. For novices, that often means focusing reflection on actionable process rather than only distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The practical risk is ritualized reflection: generic self-reporting without criteria, examples, or consequences can sound metacognitive without actually improving judgment.
+
+### Context
+#### Requirements
+- **Visible goals or criteria**: Learners need something to judge their thinking against.
+- **Prompts for reflection or monitoring**: The design should ask learners to explain confidence, strategy, or next steps.
+- **Opportunities to adjust**: Monitoring only matters when learners can revise, retry, or choose a different approach.
+#### Constraints
+- **Superficial reflection**: Generic prompts can produce ritualized self-reporting rather than useful monitoring.
+- **Novice inaccuracy**: Learners often need models, feedback, or comparison points to judge their thinking well.
+
+### Target Learners
+- Learners building self-regulation, strategy use, and more accurate judgments of understanding.
+
+### Target Learning Objectives
+- Improve planning, monitoring, revision, and transfer of strategy.
+
+### Theory
+#### Supporting
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
+- Information-processing traditions that emphasize monitoring and control of cognition.
+#### Contradicting / Qualifying
+- Metacognitive prompts work best when paired with feedback, examples, or criteria rather than reflection alone.
+
+### Claims
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — metacognitive routines improve learning when learners monitor understanding and strategy against visible criteria
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners often need reflection focused on what to do next, not just whether they reached the endpoint
+
+## Related Principles
+- [Goal Setting & Monitoring](goal-setting-monitoring.md)
+- [Formative Assessment](formative-assessment.md)
+- [Purposeful Reflection](purposeful-reflection.md)
+
+## Examples
+- Learners predict performance before a quiz and compare the result afterward.
+- Students annotate where they are confused and choose the next support to use.
+
+## Key Sources
+- Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
+- Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
 -->

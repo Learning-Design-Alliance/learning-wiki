@@ -32,7 +32,7 @@ Braille reading is a serial, tactile process with higher working-memory demands 
 - Braille materials are bulky, slow to produce, and expensive; limited availability of age-appropriate texts reduces reading volume, which is the main driver of fluency [-M]
 - Braille is read serially with one or two fingers at roughly 100–200 words per minute for proficient readers — slower than typical print reading — so comprehension can degrade when texts exceed working-memory capacity [-M]
 - Late introduction of braille (e.g., after print fails) yields markedly lower literacy outcomes; delayed or part-time braille instruction is associated with lower fluency [-M]
-- Over-reliance on audio formats ([Audiobooks](../principles/audiobooks.md)) in place of tactile reading reduces decoding practice and can suppress braille skill development [-M]
+- Over-reliance on audio formats ([Audiobooks](../elements/audiobooks.md)) in place of tactile reading reduces decoding practice and can suppress braille skill development [-M]
 
 #### Implementation Variability
 - Uncontracted vs. contracted braille: some programs begin with uncontracted (letter-by-letter) braille to lower initial code load, then introduce contractions; others teach contractions from the start [~M]
@@ -59,7 +59,7 @@ Braille reading is a serial, tactile process with higher working-memory demands 
 6. Fade support as fluency grows — from guided reading to independent reading — transferring responsibility to the learner [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
-- [Audiobooks](../principles/audiobooks.md) — complementary auditory access; must be balanced against, not substituted for, tactile reading
+- [Audiobooks](../elements/audiobooks.md) — complementary auditory access; must be balanced against, not substituted for, tactile reading
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — text leveling applies equally to braille materials
 - [Annotating](../principles/annotating.md) — braille learners can annotate with slate marks or electronic notetakers to support comprehension
 

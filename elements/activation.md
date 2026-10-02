@@ -46,7 +46,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 ### Affordances
 - [Activation](../principles/activation.md) — this element is the direct enactment of Merrill's first principle: learning is promoted when existing knowledge is activated as a foundation for new knowledge
 - [Retrieval Practice](../principles/retrieval-practice.md) — activation is a low-stakes retrieval event; retrieving prior knowledge strengthens it and prepares related schemas for integration with new material
-- [Metacognition](../principles/metacognition.md) — activation prompts learners to monitor their own knowledge state, making gaps visible before instruction rather than after assessment
+- [Metacognition](../principles/self-regulated-learning.md) — activation prompts learners to monitor their own knowledge state, making gaps visible before instruction rather than after assessment
 - [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md) — analogies are a structured form of activation that maps a familiar domain onto an unfamiliar one
 
 ### Claims

@@ -50,7 +50,7 @@ The paper argues that although listening is classified as a receptive skill, it 
 
 - [Increase listening instruction time and replace audio-lingual pattern drills with listening comprehension materials](../strategies/increase-listening-time-replace-drills.md)
 - [Dictation Exercises](../strategies/dictation-exercises.md)
-- [Audiobooks](../principles/audiobooks.md)
+- [Audiobooks](../elements/audiobooks.md)
 - [Audiobooks for Literacy Reinforcement](../strategies/audiobooks_for_literacy_reinforcement.md)
 - [Text To Speech Technology](../strategies/text-to-speech-technology.md)
 

@@ -57,7 +57,7 @@ Knowledge organization matters because learners rarely understand complex conten
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction
 - [Creating Visual Representations](creating-visual-representations.md) — visual structures can make conceptual relations visible
-- [Metacognition](metacognition.md) — organized knowledge is easier for learners to inspect, monitor, and revise
+- [Metacognition](self-regulated-learning.md) — organized knowledge is easier for learners to inspect, monitor, and revise
 
 ## Examples
 

@@ -59,7 +59,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 
 ### Affordances
 - [Constructivism](../principles/constructivism.md) — structured questioning enacts this principle by making learners actively construct explanations rather than receive transmitted content, while the structure prevents the failure modes of unguided discovery
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — questioning serves the coaching and articulation phases: the instructor elicits and shapes learner reasoning the way a master probes an apprentice's decisions
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — questioning serves the coaching and articulation phases: the instructor elicits and shapes learner reasoning the way a master probes an apprentice's decisions
 - [Scaffolding](../principles/scaffolding.md) — a question sequence is scaffolding in dialogue form; the design decision is when to fade prompts toward learner-generated questions
 - [Active Learning](../principles/active-learning.md) — every learner response is generative cognitive work; questioning structures that work into a predictable routine
 

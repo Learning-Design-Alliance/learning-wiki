@@ -56,7 +56,7 @@ Screen readers remove the decoding bottleneck for learners who can comprehend sp
 5. Check comprehension through discussion or response rather than assuming listening equals understanding ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
-- [Audiobooks](../principles/audiobooks.md) — pre-recorded human narration of texts; complements synthesized screen reader access for extended reading
+- [Audiobooks](../elements/audiobooks.md) — pre-recorded human narration of texts; complements synthesized screen reader access for extended reading
 - [Chunking](../principles/chunking.md) — breaking text into short segments reduces the memory burden of linear auditory input [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Clear Structure](../principles/clear-structure.md) — well-structured documents are what make screen reader navigation possible
 

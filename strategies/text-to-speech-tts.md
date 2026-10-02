@@ -36,7 +36,7 @@ TTS reduces the decoding burden so that working memory resources can be directed
 
 #### Implementation Variability
 - **Word-level highlighting with audio** (Read&Write, Voice Dream Reader) — supports tracking and phoneme-grapheme mapping
-- **Full-document audio** ([audiobooks](../principles/audiobooks.md), Learning Ally) — access to grade-level content beyond current decoding skill
+- **Full-document audio** ([audiobooks](../elements/audiobooks.md), Learning Ally) — access to grade-level content beyond current decoding skill
 - **Screen readers** (JAWS, NVDA, VoiceOver) — full non-visual access, requiring document accessibility standards (WCAG)
 - **Embedded courseware narration** — TTS as a universal option in LMS content and assessments
 

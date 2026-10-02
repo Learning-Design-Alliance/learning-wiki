@@ -58,7 +58,7 @@ Retrieval practice produces durable retention gains substantially larger than re
 5. Use results to adjust instruction, and periodically return to material learners got right to maintain retention
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — spacing multiplies the retention benefit of each retrieval event
+- [Spaced Practice](../principles/spaced-learning.md) — spacing multiplies the retention benefit of each retrieval event
 - [Interleaving](../strategies/interleaving.md) — mixing question types within quizzes strengthens discrimination
 - [Feedback Loops](../principles/feedback-loops.md) — feedback is the corrective half of the testing cycle
 - [Formative Assessment](../strategies/formative-assessment.md) — the broader practice of using assessment data to adjust teaching

@@ -45,7 +45,7 @@ Review supports learning because evaluating work requires comparing it against a
 - Metacognitive monitoring and self-regulation of one's own work
 
 ### Affordances
-- [Metacognition](../principles/metacognition.md) — review operationalizes metacognition by requiring learners to evaluate work against explicit standards, then apply that evaluative lens to their own drafts
+- [Metacognition](../principles/self-regulated-learning.md) — review operationalizes metacognition by requiring learners to evaluate work against explicit standards, then apply that evaluative lens to their own drafts
 - [Formative Assessment](../principles/formative-assessment.md) — review is formative assessment enacted by learners: feedback arrives while revision is still possible, closing the loop between assessment and learning
 - [Assessment for Learning](../principles/assessment-for-learning.md) — learners internalize the criteria by which they will be judged, making assessment transparent rather than a black box
 - [Active Learning](../principles/active-learning.md) — reviewing is an generative act; learners construct judgments rather than passively receiving them

@@ -48,7 +48,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 ### Affordances
 - [Constructivism](../principles/constructivism.md) — elicitation enacts this principle by making learners' existing conceptions the raw material for instruction; new knowledge is built from what students already say and believe
 - [Scaffolding](../principles/scaffolding.md) — a well-placed prompt is contingent support: it provides just enough structure to extend the learner's current reasoning one step further [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Metacognition](../principles/metacognition.md) — articulating reasoning makes monitoring visible; learners notice gaps in their own explanations as they produce them
+- [Metacognition](../principles/self-regulated-learning.md) — articulating reasoning makes monitoring visible; learners notice gaps in their own explanations as they produce them
 - [Cognitive Activation](../principles/cognitive-activation.md) — open reasoning prompts push learners beyond recall toward elaboration, comparison, and justification
 - [Active Learning](../principles/active-learning.md) — elicitation is a low-cost active-learning move; productive engagement (generating, explaining) predicts stronger outcomes than passive reception [~S]
 

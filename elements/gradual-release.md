@@ -31,7 +31,7 @@ Gradual release is the element in which responsibility for performance shifts fr
 
 ### Affordances
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
-- [Explicit Instruction](../principles/explicit-instruction.md)
+- [Explicit Instruction](../principles/direct-instruction.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

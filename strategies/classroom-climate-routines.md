@@ -53,7 +53,7 @@ Climate routines function as environmental scaffolding: by making social expecta
 
 ### Instructions
 1. **Define the routine and its purpose.** Identify the classroom moment (entry, transition, conflict, closure) and the climate condition it should produce.
-2. **Teach it explicitly.** Model the routine, rehearse it, and give brief feedback — the same [Explicit Instruction](../principles/explicit-instruction.md) logic used for academic skills applies to procedural routines.
+2. **Teach it explicitly.** Model the routine, rehearse it, and give brief feedback — the same [Explicit Instruction](../principles/direct-instruction.md) logic used for academic skills applies to procedural routines.
 3. **Enact it consistently.** Run the routine at every occurrence; consistency is what converts a practice into a climate.
 4. **Use relational routines daily.** Greet students by name at entry and run brief [Check-Ins](../elements/check-in.md) to surface emotional states before instruction.
 5. **Act on what routines reveal.** Check-in data and circle shares should visibly influence teaching decisions, or students will disengage from the routine.

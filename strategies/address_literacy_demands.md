@@ -58,7 +58,7 @@ Reading comprehension depends heavily on prior knowledge and vocabulary; learner
 2. **Activate prior knowledge and vocabulary before reading.** Use [Advance Organizers](../elements/advance-organizers.md) or [Analogies](../elements/analogies.md) to connect the text to what learners already know.
 3. **Chunk and structure the reading.** Break long texts into segments with guiding questions, applying [Chunking](../principles/chunking.md) to reduce working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 4. **Model expert reading.** Demonstrate how a skilled reader in the discipline handles a difficult passage — rereading, monitoring confusion, annotating — so learners see the moves, not just the outcome.
-5. **Provide multiple representations.** Pair text with diagrams, audio ([Audiobooks](../principles/audiobooks.md)), or video so comprehension is not gated by print alone [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+5. **Provide multiple representations.** Pair text with diagrams, audio ([Audiobooks](../elements/audiobooks.md)), or video so comprehension is not gated by print alone [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
 6. **Mediate writing demands.** Offer sentence frames, models, and discussion-before-writing for extended responses.
 7. **Fade supports.** Gradually remove scaffolds as learners' disciplinary reading grows, shifting responsibility to the learner.
 

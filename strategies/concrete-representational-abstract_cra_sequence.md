@@ -53,7 +53,7 @@ CRA manages the transition from embodied, intuitive understanding to symbolic fl
 
 ### Instructions
 1. **Select a structure-mapping concrete material** — the object's behavior must mirror the target concept (e.g., algebra tiles' area model mirrors binomial multiplication). Avoid decorative or high-interest objects that compete for attention.
-2. **Teach the concrete stage with explicit modeling** — demonstrate, then guide, then release, following [Explicit Instruction](../principles/explicit-instruction.md) routines.
+2. **Teach the concrete stage with explicit modeling** — demonstrate, then guide, then release, following [Explicit Instruction](../principles/direct-instruction.md) routines.
 3. **Bridge to the representational stage** — draw exactly what the materials showed, using the same colors and layout, and name the correspondence aloud.
 4. **Bridge to the abstract stage** — record the symbols alongside the drawing first, then fade the drawing; connect each symbol to the action it encodes.
 5. **Build fluency at the abstract stage** — the goal is efficient symbolic work; provide distributed [Practice](../elements/practice.md) without materials once accuracy is established.

@@ -24,7 +24,7 @@ Phoneme-grapheme mapping operationalizes systematic phonics at the word level: b
 ### Context
 #### Requirements
 - A phoneme-grapheme grid (one box per sound, not per letter) and a sequenced list of words matched to taught correspondences
-- [Explicit Instruction](../principles/explicit-instruction.md) from a teacher or tutor who models segmentation and grapheme selection before learners map independently
+- [Explicit Instruction](../principles/direct-instruction.md) from a teacher or tutor who models segmentation and grapheme selection before learners map independently
 - Immediate corrective [Feedback](../elements/feedback.md) on both segmentation (did the learner count the right number of sounds?) and grapheme choice (did they select a legal spelling for that sound?)
 - Distributed review of previously mapped words so mappings consolidate into sight vocabulary [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
@@ -52,7 +52,7 @@ Phoneme-grapheme mapping operationalizes systematic phonics at the word level: b
 
 ### Instructions
 1. Select a word set matched to correspondences already taught; begin with simple CVC words.
-2. Model the procedure with one word: say the word, segment it aloud, and write one grapheme per box, narrating choices ("the /ay/ sound here is spelled *a-i*") [Explicit Instruction](../principles/explicit-instruction.md).
+2. Model the procedure with one word: say the word, segment it aloud, and write one grapheme per box, narrating choices ("the /ay/ sound here is spelled *a-i*") [Explicit Instruction](../principles/direct-instruction.md).
 3. Have learners map words independently, segmenting aloud before writing.
 4. Provide immediate corrective feedback, distinguishing sound-count errors from grapheme-choice errors [Feedback](../elements/feedback.md).
 5. Revisit mapped words across subsequent sessions and in connected reading and writing [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].

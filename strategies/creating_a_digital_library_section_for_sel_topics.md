@@ -38,7 +38,7 @@ Curated access matters because literature can serve as a safe, indirect route in
 - Organize by SEL competency (CASEL's five: self-awareness, self-management, social awareness, relationship skills, responsible decision-making) rather than by genre
 - Teacher-facing curated lists (read-alouds by grade band) versus student-facing browsing with topic tags
 - Pair each title with a discussion guide or [Check-In](../elements/check-in.md) prompt to convert reading into dialogue
-- Audiobook versions extend access to striving readers ([Audiobooks](../principles/audiobooks.md))
+- Audiobook versions extend access to striving readers ([Audiobooks](../elements/audiobooks.md))
 
 ### Target Learners
 - K–12 students, with the strongest evidence for narrative-based social learning in elementary and middle grades [~M]

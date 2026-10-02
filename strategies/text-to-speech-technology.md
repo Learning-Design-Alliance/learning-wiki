@@ -59,7 +59,7 @@ TTS reduces the decoding burden of reading, which matters because struggling dec
 5. Monitor whether the learner is using TTS for *access* (appropriate) or *avoiding* decoding practice they still need (adjust accordingly).
 
 ## Related Strategies
-- [Audiobooks](../principles/audiobooks.md) — human-narrated audio serving the same access function; TTS generalizes it to any text
+- [Audiobooks](../elements/audiobooks.md) — human-narrated audio serving the same access function; TTS generalizes it to any text
 - [Accommodations](../elements/accommodations.md) — TTS is one of the most common documented accommodations for print disabilities
 - [Chunking](../principles/chunking.md) — segmenting text keeps listening sessions within working-memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Annotating](../principles/annotating.md) — active engagement during listening that counters passive processing

@@ -50,7 +50,7 @@ Inquiry can produce deep, transferable understanding when learners have enough s
 - [Scaffolding](../principles/scaffolding.md) — guided inquiry is essentially scaffolded exploration; the design decision is which scaffolds to embed and when to [fade](fading.md) them as learners take over the investigative process
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — structuring the question, constraining variables, and providing data tools reduces the search burden that makes unguided discovery fail
 - [Active Learning](../principles/active-learning.md) — inquiry enacts active learning at the deepest level: learners generate, test, and revise ideas rather than respond to prompts
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the investigation-explanation cycle mirrors expert practice in the discipline, especially when paired with [Coaching](coaching.md) and [Articulation](articulation.md)
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — the investigation-explanation cycle mirrors expert practice in the discipline, especially when paired with [Coaching](coaching.md) and [Articulation](articulation.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

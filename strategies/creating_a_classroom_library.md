@@ -37,7 +37,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 #### Implementation Variability
 - Organization scheme: genre bins, topic/theme bins, author studies, or hybrid genre-plus-level labels
 - Learner roles: students can serve as librarians, recommend titles, write shelf-talkers, and vote on new purchases
-- Digital extensions: paired [audiobooks](../principles/audiobooks.md) or e-book access extends the library for emerging and striving readers
+- Digital extensions: paired [audiobooks](../elements/audiobooks.md) or e-book access extends the library for emerging and striving readers
 
 ### Target Learners
 - K–12 learners, with the strongest documented effects in elementary and middle grades

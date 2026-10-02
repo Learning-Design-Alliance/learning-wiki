@@ -32,7 +32,7 @@ Literature circles combine [Collaborative Learning](../principles/collaborative-
 - Unstructured discussion without preparation requirements degrades into plot summary or social talk [-M] — the benefit depends on students arriving with prepared contributions
 - Assessment is difficult to standardize when groups read different books of varying difficulty [~W]
 - Groups with large differences in reading fluency can produce unequal participation, with stronger readers dominating [-M]
-- Students with very weak decoding skills may be excluded from meaningful participation unless texts are carefully matched or supported with [Audiobooks](../principles/audiobooks.md)
+- Students with very weak decoding skills may be excluded from meaningful participation unless texts are carefully matched or supported with [Audiobooks](../elements/audiobooks.md)
 
 #### Implementation Variability
 - **Role-based circles**: rotating roles (discussion director, literary luminary, connector, word wizard) scaffold participation for novices; roles should be faded once discussion norms are established

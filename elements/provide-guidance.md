@@ -47,7 +47,7 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 ### Affordances
 - [Scaffolding](../principles/scaffolding.md) — providing guidance *is* the enactment of scaffolding: temporary, contingent support that is withdrawn as competence grows
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — worked examples and models externalize intermediate steps so novices attend to task structure rather than means-ends search [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
-- [Metacognition](../principles/metacognition.md) — guidance can model self-monitoring (via [Think-Aloud](think-aloud.md)) and prompt learners to explain and evaluate their own reasoning
+- [Metacognition](../principles/self-regulated-learning.md) — guidance can model self-monitoring (via [Think-Aloud](think-aloud.md)) and prompt learners to explain and evaluate their own reasoning
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — guidance makes inquiry productive: prompts, hints, and [Coaching](coaching.md) keep exploration oriented without eliminating the learner's own reasoning work
 
 ### Claims

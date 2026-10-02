@@ -43,7 +43,7 @@ The article draws on Spiro, Vispoel, Schmitz, Samarapungavan, and Boerger's (198
 
 ## Related Theories
 
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- [Cognitive Flexibility Theory](cognitive-flexibility-theory.md)
 - [Cognitive Flexibility Theory and its five instructional principles for complex, ill-structured knowledge domains](cognitive-flexibility-theory-five-principles-barhoumi.md)
 
 ## Examples

@@ -53,13 +53,13 @@ Cramming exploits the *spacing effect*: massed practice feels effective because 
 ### Instructions
 1. Diagnose the pattern: ask learners when they studied and how (rereading vs. self-testing) — most crammers are also rereaders.
 2. Teach the fluency-vs-learning distinction with a demonstration: two groups study the same list, one rereads, one self-tests; test both after five minutes and after a week.
-3. Replace the single session with a spaced schedule using [Spaced Practice](../principles/spaced-practice.md) principles — short sessions at expanding intervals.
+3. Replace the single session with a spaced schedule using [Spaced Practice](../principles/spaced-learning.md) principles — short sessions at expanding intervals.
 4. Convert rereading time into retrieval: closed-book recall, flashcards, or practice problems, per the testing effect.
 5. Structure the course so cramming is not viable: cumulative low-stakes quizzes, distributed assignments, and final exams weighted toward material from the whole term.
 
 ## Related Strategies
 
-- [Spaced Practice](../principles/spaced-practice.md) — the direct alternative; same total time, distributed across sessions
+- [Spaced Practice](../principles/spaced-learning.md) — the direct alternative; same total time, distributed across sessions
 - [Retrieval Practice](retrieval-practice.md) — replaces passive rereading with self-testing that strengthens memory
 - [Interleaving](interleaving.md) — mixes problem types within and across sessions, countering blocked massed study
 - [Cumulative Quizzing](cumulative-quizzing.md) — course structure that makes deferring study impossible

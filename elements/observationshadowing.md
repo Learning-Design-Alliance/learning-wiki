@@ -31,7 +31,7 @@ Observation/shadowing is the element in which learners watch practice in context
 
 ### Affordances
 - [Observation/Shadowing](../principles/observationshadowing.md)
-- [Metacognition](../principles/metacognition.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

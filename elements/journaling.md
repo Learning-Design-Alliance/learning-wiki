@@ -36,8 +36,7 @@ Journaling is the element in which learners record reflections, observations, qu
 
 ### Affordances
 - [Reflection](../principles/reflection.md)
-- [Metacognition](../principles/metacognition.md)
-- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

@@ -36,7 +36,7 @@ Diverse resources do their work through two mechanisms: representational (learne
 
 #### Implementation Variability
 - **Curriculum audit cycle:** systematically review units for representation gaps and replace or supplement materials
-- **Multiple perspectives on one topic:** keep content constant, vary the viewpoint (e.g., an historical event through primary sources from all parties) — this is the [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) approach to ill-structured domains
+- **Multiple perspectives on one topic:** keep content constant, vary the viewpoint (e.g., an historical event through primary sources from all parties) — this is the [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) approach to ill-structured domains
 - **Learner-contributed resources:** students bring texts and examples from their own communities, making the resource set self-renewing
 - **Multimodal diversity:** vary format (text, video, audio, interactive) alongside identity diversity
 

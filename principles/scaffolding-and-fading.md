@@ -1,7 +1,7 @@
 ---
 type: principle
 id: scaffolding-and-fading
-aliases: [scaffolding-fading]
+aliases: [scaffolding-fading, cognitive-apprenticeship]
 title: Scaffolding and Fading
 description: "Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon."
 status: review
@@ -92,6 +92,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Scaffolding](scaffolding.md) — the broader principle of temporary support during learning
 - [Guided Practice](guided-practice.md) — often provides the instructional context in which fading happens
 - [Procedural Learning](procedural-learning.md) — many procedural tasks depend on fading from modeled or prompted performance to independence
+- [Observation/Shadowing](observationshadowing.md) — observation often provides the first exposure to expert practice before coached participation
 
 ## Examples
 - **[Khan Academy Hints](https://www.khanacademy.org)** — Provides on-demand, progressive hints that scaffold a problem-solving task; the learner is encouraged to use fewer hints as they progress.
@@ -105,6 +106,8 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.
+- Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The former body, kept verbatim:
 
@@ -214,4 +217,74 @@ Scaffolding and fading matter when learners are expected to perform work they ca
 ## Key Sources
 - Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *The Journal of Experimental Education, 70*(4), 293-315. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
+-->
+
+<!-- merged 2026-10-02 from principles/cognitive-apprenticeship ("Cognitive Apprenticeship"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Cognitive Apprenticeship
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q3`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+
+## Description
+Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.
+
+## Implications
+
+Cognitive apprenticeship is most valuable where the important knowledge is embedded in judgment, interpretation, and process rather than in declarative rules alone. It treats learning as guided entry into expert practice, and visible models are especially valuable early because they reduce unproductive search for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The instructor does not merely explain content; they model thinking, coach performance, calibrate support, and then fade assistance as learners become more capable [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]. The principle is especially strong for writing, diagnosis, inquiry, design, and other domains where expertise is partly tacit and situated.
+
+### Context
+#### Requirements
+- **Access to modeled expert performance** — learners need to observe how experts think through authentic or realistic work, not just inspect finished outputs
+- **Coaching and scaffolded participation** — the principle depends on guided learner performance after observation
+#### Constraints
+- **Tacit reasoning stays hidden unless experts externalize it** — experts often omit the very moves novices most need to see
+- **The full sequence is resource-intensive** — modeling, coaching, and fading require more sustained interaction than content transmission alone
+- **Poorly timed fading can destabilize learning** — supports need to be withdrawn in response to performance, not on an arbitrary timetable
+
+### Target Learners
+- Novices entering a disciplinary, professional, or craft-like practice
+- Learners developing complex cognitive skills such as diagnosis, writing, design, inquiry, or problem solving
+- Learners who need access to expert judgment rather than only explicit rules
+
+### Target Learning Objectives
+- Build strategic thinking, situated performance, and increasing independence
+- Make tacit expert heuristics visible and learnable
+- Support transfer from coached performance to more independent work
+
+### Theory
+#### Supporting
+- [Situated Learning](../theories/situated-learning.md) — learning is shaped by participation in authentic practices and communities
+- [Scaffolding](scaffolding.md) — calibrated support is one of the core mechanisms that lets learners do work they cannot yet do alone
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — modeling and fading can reduce the burden of unguided search during early acquisition
+
+#### Contradicting / Qualifying
+- [Constructivism](../theories/constructivism.md) — generally compatible, but qualifies that apprenticeship should still preserve learner sensemaking rather than collapse into imitation alone
+
+### Claims
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — visible models reduce unproductive search for novices during early learning
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — support is strongest when it adapts to learner performance rather than staying fixed
+- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — expert guidance should be faded as learners develop stronger schemas and greater independence
+
+## Related Principles
+- [Observation/Shadowing](observationshadowing.md) — observation often provides the first exposure to expert practice before coached participation
+- [Modeling](modeling.md) — cognitive apprenticeship extends modeling into a fuller cycle of coached performance
+- [Scaffolding](scaffolding.md) — explains how support is calibrated and gradually removed
+
+## Related Patterns
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+
+## Examples
+
+### Illustrative
+
+**[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)** — A full instructional pattern in which expert modeling, coaching, articulation, and fading are sequenced over time.
+
+**Clinical rounds and supervised diagnosis** — Learners observe diagnostic reasoning, attempt their own interpretations, receive targeted coaching, and gradually assume more of the reasoning burden.
+
+**Studio critique and guided design practice** — In design education, instructors model tradeoffs, coach works-in-progress, and reduce direct guidance as learners gain fluency with critique and revision.
+
+## Key Sources
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.
+- Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
 -->

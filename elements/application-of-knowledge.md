@@ -47,7 +47,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — application is the paradigmatic active-learning move: learners generate, decide, and produce rather than receive, which increases engagement and encoding
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — application tasks are where learners move from observing expert models to attempting authentic performance with coaching and fading support
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — application tasks are where learners move from observing expert models to attempting authentic performance with coaching and fading support
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — well-designed application sequences (worked example → completion → full problem) manage intrinsic load so novices can apply knowledge without being overwhelmed
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — real-world problems and cases give application tasks genuine stakes and context, increasing task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
 

@@ -19,7 +19,7 @@ Instructor presence in discussions means the teacher participates visibly in lea
 
 ## Design Implications
 
-Discussion without instructor facilitation tends to stall at opinion exchange; instructor moves that push learners toward evidence, synthesis, and mutual critique raise the cognitive level of posts [+M]. Presence is not volume: frequent but low-substantive instructor posts can suppress peer-to-peer interaction, while well-timed facilitation sustains it [~M]. The goal is to make the instructor's disciplinary thinking visible — a form of [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) enacted through discourse.
+Discussion without instructor facilitation tends to stall at opinion exchange; instructor moves that push learners toward evidence, synthesis, and mutual critique raise the cognitive level of posts [+M]. Presence is not volume: frequent but low-substantive instructor posts can suppress peer-to-peer interaction, while well-timed facilitation sustains it [~M]. The goal is to make the instructor's disciplinary thinking visible — a form of [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) enacted through discourse.
 
 ### Context
 #### Requirements

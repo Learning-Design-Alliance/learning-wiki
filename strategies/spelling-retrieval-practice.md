@@ -26,7 +26,7 @@ Retrieval attempts strengthen orthographic representations more effectively than
 - A word list targeted at each learner's current instructional level, not a one-size-fits-all list
 - A retrieval prompt (dictation, cloze-from-memory, or self-test) that requires production, not recognition
 - Immediate corrective [feedback](../elements/feedback.md) showing the correct spelling after each attempt
-- Spaced re-testing of missed words until mastery ([Spaced Practice](../principles/spaced-practice.md))
+- Spaced re-testing of missed words until mastery ([Spaced Practice](../principles/spaced-learning.md))
 
 #### Constraints
 - Testing before instruction on entirely unfamiliar words can entrench errors; retrieval works best on words learners have some orthographic knowledge of [~S]
@@ -55,7 +55,7 @@ Retrieval attempts strengthen orthographic representations more effectively than
 2. Briefly study each word (read it, segment its sounds, note the tricky part) — study is the setup, not the practice.
 3. Cover the word and write it from memory, or take it under dictation ([Practice](../elements/practice.md)).
 4. Compare against the correct spelling and give immediate corrective feedback; have the learner rewrite the corrected form.
-5. Re-test missed words after a delay, expanding the interval on successive successes ([Spaced Practice](../principles/spaced-practice.md)).
+5. Re-test missed words after a delay, expanding the interval on successive successes ([Spaced Practice](../principles/spaced-learning.md)).
 6. Periodically assess in authentic writing, not just isolated tests ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies

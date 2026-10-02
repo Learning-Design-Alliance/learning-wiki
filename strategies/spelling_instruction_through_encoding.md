@@ -52,7 +52,7 @@ Encoding is more effective than exposure-only methods because producing a spelli
 - Transfer of phonics knowledge from reading to writing
 
 ### Instructions
-1. **Teach the pattern explicitly** — present the target sound-letter correspondence or spelling pattern with example words ([Explicit Instruction](../principles/explicit-instruction.md)).
+1. **Teach the pattern explicitly** — present the target sound-letter correspondence or spelling pattern with example words ([Explicit Instruction](../principles/direct-instruction.md)).
 2. **Segment and map** — learners say the word, segment its phonemes, and identify the grapheme for each.
 3. **Encode from dictation** — learners write the word without a visible model, then check against the correct form and self-correct ([Practice](../elements/practice.md) with feedback).
 4. **Distribute review** — retest previously taught words across sessions rather than massing practice within one ([Spaced practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]).

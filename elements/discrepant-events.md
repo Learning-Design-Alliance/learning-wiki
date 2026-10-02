@@ -45,7 +45,7 @@ Discrepant events are demonstrations, observations, or scenarios that violate le
 
 ## Patterns That Use This Element
 - [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ## Examples
 - A science demonstration that produces a result opposite to what learners predicted.

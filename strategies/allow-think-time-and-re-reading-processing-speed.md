@@ -37,7 +37,7 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 #### Implementation Variability
 - **Wait-time ladders**: 3 seconds after a question, 3 seconds after a student response, before teacher reaction
 - **Untimed or extended-time assessments** for students with documented processing-speed needs
-- **Recorded lectures and transcripts** ([audiobooks](../principles/audiobooks.md), captioned video) that allow pausing and re-reading at will
+- **Recorded lectures and transcripts** ([audiobooks](../elements/audiobooks.md), captioned video) that allow pausing and re-reading at will
 - **Structured re-reading protocols**: first pass for gist, second pass for annotation or self-questioning
 
 ### Target Learners

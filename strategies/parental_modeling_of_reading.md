@@ -34,7 +34,7 @@ Modeling works through observational learning and identification: children imita
 
 #### Implementation Variability
 - Silent independent reading in a shared space (e.g., family "DEAR time" where everyone reads their own material)
-- Reading digital or audio formats — [audiobooks](../principles/audiobooks.md) count as visible reading behavior when the parent is engaged with text
+- Reading digital or audio formats — [audiobooks](../elements/audiobooks.md) count as visible reading behavior when the parent is engaged with text
 - Talk-based variants: parents discussing what they are reading at meals, converting private modeling into visible, social reading behavior
 - School-supported variants: family literacy programs (e.g., Raising a Reader, https://www.raisingareader.org) that supply books and structure for home reading routines
 

@@ -48,7 +48,7 @@ This pattern describes the flexible online course design the article built on co
 
 ## Related Patterns
 
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ## Examples
 -

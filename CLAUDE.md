@@ -124,6 +124,15 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (late night) — before wave 2: four converted siblings absorb their duplicates
+
+- **Folded** (maintainer's decision): `principles/spaced-practice` into `spaced-learning`, `cognitive-apprenticeship`
+  into `scaffolding-and-fading`, `explicit-instruction` into `direct-instruction`, `metacognition` into
+  `self-regulated-learning`; each slug an alias. `principles/audiobooks` folded into `elements/audiobooks` and
+  `patterns/cognitive-load-theory` into `theories/cognitive-load-theory` (cross-kind: links repointed, no alias),
+  and `patterns/cognitive-flexibility-theory` moved to `theories/`. `merge_pages.py` folds across kinds when the
+  fold is given as `kind/slug`.
+
 ### 2026-10-02 (late night) — conversion wave 1: the 15 most-linked canonical pages
 
 - **Fifteen single pages converted** to the conditional-model format (`eval/page-triage/wave-1.md`): thirteen

@@ -60,7 +60,7 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 
 ## Related Strategies
 - [Self-Explanation](../elements/self-explanation.md) — a specific metacognitive strategy: prompting learners to explain their reasoning to themselves
-- [Spaced Practice](../principles/spaced-practice.md) — a strategy learners must be taught to plan and monitor over time
+- [Spaced Practice](../principles/spaced-learning.md) — a strategy learners must be taught to plan and monitor over time
 - [Retrieval Practice](retrieval-practice.md) — high-utility technique whose value learners systematically misjudge without metacognitive calibration
 
 ## Examples

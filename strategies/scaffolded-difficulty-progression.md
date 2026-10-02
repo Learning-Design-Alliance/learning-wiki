@@ -62,7 +62,7 @@ Tasks pitched too high overload working memory and produce failure-driven diseng
 ## Related Strategies
 
 - [Fading](../elements/fading.md) — the support-removal half of the progression; difficulty rises as scaffolds withdraw
-- [Spaced Practice](../principles/spaced-practice.md) — distributes the progression over time so each level consolidates before the next
+- [Spaced Practice](../principles/spaced-learning.md) — distributes the progression over time so each level consolidates before the next
 - [Mastery-Based Progression](mastery-based-progression.md) — gates advancement on demonstrated competence rather than time
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](zpd-masked-rl-content-sequencing.md)
 

@@ -72,7 +72,7 @@ Concept learning depends on exposure to varied, well-chosen instances: comparing
 
 ## Patterns That Use This Strategy
 - [Concept Attainment](../patterns/concept-attainment.md) — the canonical pattern: hypothesis testing against positive and negative instances
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — multiple varied cases across contexts for complex concepts
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple varied cases across contexts for complex concepts
 - [Direct Instruction](../patterns/direct-instruction.md) — uses example/non-example sequences but with teacher-led rule statement, contrasting on the discovery dimension
 
 ## Examples

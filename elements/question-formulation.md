@@ -46,8 +46,7 @@ Generating questions forces learners to surface gaps in their own understanding,
 - Research skill development: translating curiosity into researchable inquiries
 
 ### Affordances
-- [Metacognition](../principles/metacognition.md) — generating questions makes learners' knowledge gaps explicit to themselves, enacting monitoring of comprehension
-- [Self-Regulated Learning](../principles/self-regulated-learning.md) — learner-generated questions set the goals that drive subsequent planning, monitoring, and evaluation cycles
+- [Metacognition](../principles/self-regulated-learning.md) — generating questions makes learners' knowledge gaps explicit to themselves, enacting monitoring of comprehension
 - [Active Learning](../principles/active-learning.md) — question formulation replaces passive reception with generative cognitive work
 - [Cognitive Activation](../principles/cognitive-activation.md) — open, learner-owned questions provoke elaborated thinking rather than reproduction of taught content
 

@@ -46,7 +46,7 @@ Integration activities convert learning from an isolated instructional event int
 
 ### Affordances
 - [Reflection](../principles/reflection.md) — integration enacts reflection by requiring learners to examine their own experience in light of new knowledge, turning experience into articulated, reusable insight
-- [Metacognition](../principles/metacognition.md) — integration prompts learners to judge what they know, what they don't, and how their strategies are working, building the self-monitoring habits that support future learning
+- [Metacognition](../principles/self-regulated-learning.md) — integration prompts learners to judge what they know, what they don't, and how their strategies are working, building the self-monitoring habits that support future learning
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the integration phase is where learners set future goals and adjust strategies, closing the self-regulation cycle of forethought, performance, and reflection
 - [Activation](../principles/activation.md) — integration re-activates prior knowledge on the way out of instruction, strengthening the links between new and existing schemas
 

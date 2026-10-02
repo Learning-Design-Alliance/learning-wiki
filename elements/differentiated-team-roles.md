@@ -48,7 +48,7 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — differentiated roles operationalize the positive-interdependence and individual-accountability conditions that distinguish cooperative from merely co-present learning
 - [Community of Inquiry](../principles/community-of-inquiry.md) — roles map onto the framework's presences: a facilitator supports social presence, a skeptic drives cognitive conflict, a recorder sustains teaching presence among peers
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — role rotation lets learners practice the articulation and [coaching](coaching.md) functions that experts perform, making tacit collaborative moves explicit
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — role rotation lets learners practice the articulation and [coaching](coaching.md) functions that experts perform, making tacit collaborative moves explicit
 - [Social Learning Theory](../theories/social-learning-theory.md) — observing peers competently enacting a role provides a model learners can later adopt when roles rotate
 
 ### Claims

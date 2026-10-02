@@ -60,7 +60,7 @@ Cumulative review works because each retrieval strengthens memory and slows forg
 6. Track item-level performance and weight future review toward material learners are still forgetting.
 
 ## Related Strategies
-- [Spaced Practice](../principles/spaced-practice.md) — the scheduling principle cumulative review operationalizes
+- [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle cumulative review operationalizes
 - [Retrieval Practice](retrieval-practice.md) — the mechanism that makes review effective rather than merely familiar
 - [Interleaved Practice](interleaved-practice.md) — mixing content types so review also builds discrimination
 

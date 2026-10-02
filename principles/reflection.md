@@ -50,7 +50,7 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 ### Theory
 #### Supporting
-- [Metacognition](metacognition.md)
+- [Metacognition](self-regulated-learning.md)
 - [Self-Regulated Learning](../theories/self-regulated-learning.md)
 
 ### Claims
@@ -60,8 +60,7 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md)
-- [Metacognition](metacognition.md)
-- [Self-Regulated Learning](self-regulated-learning.md) — supplies the mechanism by which reflection informs future action
+- [Metacognition](self-regulated-learning.md)
 - [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
 
 ## Examples
@@ -111,7 +110,7 @@ Reflective practice matters most in domains where improvement depends on interpr
 #### Supporting
 - [Reflection](reflection.md) — reflective practice is one of the most direct applications of the broader reflection principle
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — reflection supports self-monitoring, evaluation, and tactical adjustment
-- [Metacognition](metacognition.md) — reflective practice makes internal reasoning, criteria, and blind spots more visible
+- [Metacognition](self-regulated-learning.md) — reflective practice makes internal reasoning, criteria, and blind spots more visible
 
 #### Contradicting / Qualifying
 - [Deliberate Practice](deliberate-practice.md) — qualifies that reflection alone is not enough unless it is paired with repetition, feedback, and another attempt

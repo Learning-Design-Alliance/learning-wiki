@@ -48,7 +48,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 - [Worked Examples](../principles/worked-examples.md) — the example half of the pair *is* a worked example; the pair format is the canonical way of embedding worked examples in a practice sequence
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the example eliminates means-ends search on the first task, freeing working memory for schema construction; the paired problem then consolidates it under moderate load
 - [Scaffolding](../principles/scaffolding.md) — pairs are a starting point for a fading sequence: full example + problem → completion problem + problem → problem + problem as expertise grows ([Fading](fading.md))
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — the worked example functions as a model of expert solution behavior that learners immediately imitate in the paired task
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — the worked example functions as a model of expert solution behavior that learners immediately imitate in the paired task
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -62,7 +62,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 - [Erroneous Examples](erroneous-examples.md) — a variant where the example contains an error for learners to diagnose
 
 ## Patterns That Use This Element
-- [Cognitive Load Theory](../patterns/cognitive-load-theory.md) — the canonical example-based instruction sequence
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the canonical example-based instruction sequence
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — supportive information and task classes built from example–task alternation
 - [Direct Instruction](../patterns/direct-instruction.md) — model–guide–test structure mirrors example → pair → independent problems
 

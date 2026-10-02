@@ -42,7 +42,7 @@ The article enumerates the design characteristics of an early literacy approach 
 - 
 
 ## Related Patterns
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ## Examples
 -

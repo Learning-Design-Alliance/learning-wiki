@@ -43,7 +43,7 @@ Modeling matters when learners cannot infer expert processes from finished produ
 
 ### Theory
 #### Supporting
-- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — modeling is the opening move in apprenticeship-style instruction because it externalizes otherwise tacit expertise
+- [Cognitive Apprenticeship](scaffolding-and-fading.md) — modeling is the opening move in apprenticeship-style instruction because it externalizes otherwise tacit expertise
 - [Worked Examples](worked-examples.md) — worked examples are one of the clearest forms of modeling for novices
 - [Social Learning Theory](../theories/social-learning-theory.md) — observation of models is a central route for acquiring new behaviors and strategies
 
@@ -57,8 +57,8 @@ Modeling matters when learners cannot infer expert processes from finished produ
 
 ## Related Principles
 - [Observation/Shadowing](observationshadowing.md) — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional
-- [Explicit Instruction](explicit-instruction.md) — modeling is one of the core mechanisms that makes explicit teaching actually explicit
-- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — extends modeling into coaching, scaffolding, and fading
+- [Explicit Instruction](direct-instruction.md) — modeling is one of the core mechanisms that makes explicit teaching actually explicit
+- [Cognitive Apprenticeship](scaffolding-and-fading.md) — extends modeling into coaching, scaffolding, and fading
 
 ## Examples
 

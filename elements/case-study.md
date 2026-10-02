@@ -47,7 +47,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 
 ### Affordances
 - [Situated Learning](../principles/situated-learning.md) — a case embeds knowledge in the social and professional context of its use, so learners practice the discipline's actual work rather than abstracted exercises
-- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — analyzing a case exposes learners to expert-style reasoning about messy situations; pairing with expert commentary or [Think-Aloud](think-aloud.md) makes that reasoning visible
+- [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — analyzing a case exposes learners to expert-style reasoning about messy situations; pairing with expert commentary or [Think-Aloud](think-aloud.md) makes that reasoning visible
 - [Constructivism](../principles/constructivism.md) — learners must construct their own interpretation and solution, integrating new concepts with prior experience rather than receiving conclusions
 - [Active Learning](../principles/active-learning.md) — case analysis requires decision-making and justification, not reception
 - [Collaborative Learning](../principles/collaborative-learning.md) — cases are naturally discussed in groups, where divergent readings of the same facts surface assumptions and sharpen argumentation
@@ -67,7 +67,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 - [Case-Based Learning](../patterns/case-based-learning.md) — the case is the organizing unit of instruction
 - [Case-Based Learning Harvard Method](../patterns/case-based-learning-harvard-method.md) — cold-calling discussion of business cases under facilitator pressure
 - [Anchored Instruction](../patterns/anchored-instruction.md) — video-anchored cases (e.g., The Jasper Woodbury Project) as the anchor for problem sequences
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — multiple cases revisited in different contexts to build flexible, criss-crossed knowledge
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple cases revisited in different contexts to build flexible, criss-crossed knowledge
 
 ## Examples
 

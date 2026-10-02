@@ -71,7 +71,7 @@ Multiple texts push learners beyond single-document comprehension toward the dis
 
 ## Patterns That Use This Strategy
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases typically comprise multiple documents learners must integrate
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — multiple representations and criss-crossed contexts enact the same principle
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — multiple representations and criss-crossed contexts enact the same principle
 
 ## Examples
 - **Reading Like a Historian (Stanford History Education Group)** ([https://sheg.stanford.edu](https://sheg.stanford.edu)) — students corroborate conflicting primary-source documents on a historical question, with explicit sourcing and corroboration prompts.

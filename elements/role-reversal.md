@@ -65,7 +65,7 @@ Role reversal counteracts biased assimilation — the tendency to evaluate evide
 ## Patterns That Use This Element
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md) — role reversal is a mandatory phase: after advocacy, pairs switch positions and argue the other side before seeking consensus
 - [Debate](../patterns/debate.md) — some formats assign mid-debate position switches to test argument flexibility
-- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — reversal enacts criss-crossing the landscape from multiple perspectives
+- [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — reversal enacts criss-crossing the landscape from multiple perspectives
 
 ## Examples
 

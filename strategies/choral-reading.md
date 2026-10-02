@@ -24,7 +24,7 @@ Choral reading works by pairing a strong oral model with low-stakes group practi
 ### Context
 #### Requirements
 - A text at or slightly above learners' independent level, short enough to master through repetition
-- A fluent model — the teacher reading aloud first, or an audio recording ([Audiobooks](../principles/audiobooks.md) can supply this)
+- A fluent model — the teacher reading aloud first, or an audio recording ([Audiobooks](../elements/audiobooks.md) can supply this)
 - Multiple readings with a purpose for each pass (accuracy, then pace, then expression)
 - Texts worth rereading: strong rhythm, dialogue, or refrain sustains motivation across repetitions
 

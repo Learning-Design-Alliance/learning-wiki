@@ -47,8 +47,7 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 
 ### Affordances
 - [Reflection](../principles/reflection.md) — individual reflection is the direct enactment of this principle, converting experience into examined knowledge
-- [Metacognition](../principles/metacognition.md) — structured reflection makes learners' own thinking the object of analysis, developing the monitoring and evaluation skills this principle targets
-- [Self-Regulated Learning](../principles/self-regulated-learning.md) — the reflect-then-adjust cycle is the self-regulation loop in miniature; reflection supplies the monitoring and evaluation phases
+- [Metacognition](../principles/self-regulated-learning.md) — structured reflection makes learners' own thinking the object of analysis, developing the monitoring and evaluation skills this principle targets
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reflection gives learners evidence about their own progress, feeding self-assessment and goal-setting rather than external judgment
 
 ### Claims
