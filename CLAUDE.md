@@ -121,6 +121,25 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (later) — the ten new pairs, tested with briefs: they help, except problem-based learning
+
+- **Same design as the 2026-10-01 format study** (scratch only, briefs unseen by the page writers): 20 new
+  briefs, one complete and one sparse per pair; Kimi K3 answered each from one version's two pages, with
+  frontmatter and HTML comments stripped as a reader sees them (OLD = main before #149, NEW = after); Gemini 3.8
+  Flash and DeepSeek V4 Pro graded against every claim either version cites, on the six affordances plus
+  accuracy, decision value and brief fit, and blind in pairs, both orders. $4.31.
+- **Result.** Affordances 6.8 → 11.1 of 12 (sparse briefs 3.7 → 10.5: the old pages gave nothing to elicit
+  from); accuracy 4.30 → 4.80; decision value 4.53 → 4.95; brief fit 4.12 → 4.62, both graders agreeing in
+  direction on every measure. **Blind pairs 68–12 for the new pages**, unanimous on 13 of 20 briefs; answers were
+  of similar length (median 554 against 593 words), though the new pages are 1.4–6× longer.
+- **Problem-based learning lost, 3–5.** The new pair builds its model on the productive-failure and
+  minimal-guidance syntheses, and answers followed it into a problem-first design for novice pharmacy students
+  and an engineering course; graders called that conflating PBL with productive-failure mathematics studies,
+  and preferred the old pages' faded worked examples and explicit routines for novices. **The PBL pair needs
+  rework**: lead with guidance for novices and say plainly that no claim here tests PBL curricula.
+  Retrieval practice / team-based learning tied 4–4, every judgement favouring whichever answer came first:
+  no signal either way.
+
 ### 2026-10-02 — ten more principle–pattern pairs in the conditional format; batch 12 blocked on an expired key
 
 - **Ten pairs rewritten as conditional models** (`principle-pattern-authoring.md` lists them): cooperative
