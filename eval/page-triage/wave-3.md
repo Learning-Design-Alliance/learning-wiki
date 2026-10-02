@@ -46,7 +46,48 @@ says so and keeps a labelled default design or sequence.
 
 ## Brief test (2026-10-02)
 
-TEST-RESULTS
+Same design as waves 1 and 2 (scratch only): 30 new briefs written before any draft existed, one complete and one
+sparse per page, set where the brief's facts should change the design (an evening adult maths class with anxious
+learners, a hospital sepsis rollout across shifts, refugees not literate in their first language). Kimi K3 answered
+from one version of the page (OLD = main before this change, NEW = after); Gemini 3.8 Flash and DeepSeek V4 Pro
+graded against every claim either version cites, and blind in pairs, both orders. Two measures were added for this
+wave's aim: an anchored **situation fit** score (5 = at least three design choices changed because of named facts in
+the brief, and says which; 3 = mentions the facts but the design would barely differ elsewhere) and, in each pair, a
+separate question on which answer is more fitted to the situation. $4.58.
+
+| | OLD | NEW |
+|---|---|---|
+| affordances /12 (all / complete / sparse) | 5.8 / 7.6 / 3.9 | 8.8 / 10.1 / 7.4 |
+| accuracy (1–5) | 4.07 | 4.52 |
+| decision value (1–5) | 4.05 | 4.52 |
+| brief fit (all / complete / sparse) | 3.78 / 3.90 / 3.67 | 3.88 / 4.07 / 3.70 |
+| situation fit, anchored (all / complete / sparse) | 3.82 / 4.00 / 3.63 | 3.90 / 4.13 / 3.67 |
+| blind pairs (all / complete / sparse) | 19 / 14 / 5 | **101 / 46 / 55** |
+
+Blind pairs: **101–19 for the new pages** (complete 46–14, sparse 55–5); all four judgements agree on 20 of 30
+briefs. Median answer length 556 words (OLD) and 611 (NEW). DeepSeek picked the answer shown first in 39 of 60
+pairs, Gemini in 30 of 60.
+
+**What this says about situation fit: a small gain on complete briefs, none on sparse ones, and the measures are
+weak.**
+
+- On complete briefs both fit scores rose a little (brief fit 3.90 → 4.07, situation fit 4.00 → 4.13), with
+  DeepSeek, the grader that does not give everything 5, moving 2.80 → 3.13 and 3.07 → 3.27. In wave 2 brief fit
+  had fallen (3.75 → 3.68). On sparse briefs DeepSeek scored the new pages lower (2.80 → 2.40).
+- **The scale is saturated for one grader and the separate fit question is not independent.** Gemini scores 4.7–5.0
+  for both versions. The pairwise "more fitted" pick matched the overall pick in 118 of 120 judgements, so its 99–21
+  repeats the overall result rather than measuring fit apart from it. A better test of fit needs a grader that sees
+  the same answer against two different briefs, or briefs that differ only in one fact.
+- So the situation section did not make answers markedly more fitted. It did not cost accuracy or decision value,
+  which rose as in earlier waves, though by less than in wave 2 (accuracy +0.45 against +0.84).
+
+**Where the new page lost.** Guided practice lost both briefs 1–3: graders preferred the old page's concrete
+three-week fading arc for a Year 4 class and its workplace ramp, and called the new answers cautious; one judgement
+says a new answer "leaks internal prompt artifacts (e.g. 'observation table', 'default steps')", that is, it echoed
+the page's section names to the designer. Error analysis's complete brief (adult equivalency maths) lost 1–3: the old
+answer broke sign errors into their kinds, the new one led with the evidence's limits. Both are the wave 1 lesson
+again: **a page whose default design is less concrete than the old guidance loses**, and the situation table did not
+make up for it. The complete briefs for game-based learning, reflection and elaboration theory split 2–2.
 
 ## Open findings from the agents
 
