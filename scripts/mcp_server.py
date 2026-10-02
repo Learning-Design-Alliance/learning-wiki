@@ -372,7 +372,7 @@ def tool_definitions(wiki: Wiki) -> list[dict]:
     ro = {"readOnlyHint": True, "openWorldHint": False}
     return [
         {"name": "search", "annotations": ro,
-         "description": "Search the Learning Design Wiki (principles, elements, patterns, strategies, "
+         "description": "Search the Learning Design Wiki (principles, elements, patterns, designs, strategies, "
                         "processes, methods, theories, learner variables and empirical claims). Returns "
                         "ids of the form '<kind>/<slug>' for fetch. " + UNVERIFIED_NOTE,
          "inputSchema": _schema({"query": {"type": "string"}, "kind": kinds,

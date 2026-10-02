@@ -106,10 +106,12 @@ _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 # filenames carry all sorts of characters straight from scraped titles
 # (apostrophes, parens, &, ?, ...), so this deliberately does NOT pattern-
 # match the filename itself. Safety instead comes from: the folder must be
-# one of these seven, and candidate.parent != folder_dir (below) catches
+# a content folder, and candidate.parent != folder_dir (below) catches
 # any '..' escape attempt after path resolution, regardless of what
-# characters the filename contains.
-EDITABLE_FOLDERS = {"principles", "elements", "patterns", "strategies", "theories", "claims", "learner-variables"}
+# characters the filename contains. Hard-coded as seven folders until
+# 2026-10-02, so processes/, methods/ and designs/ pages could not be edited.
+EDITABLE_FOLDERS = {"principles", "elements", "patterns", "designs", "strategies", "processes",
+                    "methods", "theories", "learner-variables", "claims"}
 
 
 def _resolve_editable_path(rel_path: str):
