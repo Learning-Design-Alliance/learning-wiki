@@ -70082,6 +70082,20 @@
      {
       "slug": "tutor-background-subgroup-differences-nonsignificant"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
     ]
    },
    "mastery-control-no-entry-differences": {
@@ -81915,6 +81929,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "problem-based-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -81945,6 +81966,20 @@
      },
      {
       "slug": "tutor-background-subgroup-differences-nonsignificant"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
      }
     ]
    },
@@ -89343,6 +89378,20 @@
       "polarity": "-",
       "slug": "trim-and-fill-publication-bias-procedure",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
      }
     ]
    },
@@ -119473,6 +119522,20 @@
      {
       "slug": "tutor-background-subgroup-differences-nonsignificant"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
+     }
     ]
    },
    "tutor-background-subgroup-differences-nonsignificant": {
@@ -119488,6 +119551,13 @@
      },
      {
       "slug": "tutor-background-meta-regression-not-predictive"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "problem-based-learning",
+      "strength": "M"
      }
     ]
    },

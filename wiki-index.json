@@ -38862,7 +38862,7 @@
    "type": "pattern"
   },
   {
-   "description": "A reusable policy for a problem-centred unit: elicit each learner's framing, set guidance by task-specific starting knowledge, facilitate contingently, consolidate the target content explicitly, and reobserve individually.",
+   "description": "A reusable policy for problem-centred units: establish what learners already know of the target content, guide novices explicitly, use a problem-first phase only where learners can generate partial solutions and instruction follows, and judge the unit on individual outcomes.",
    "grain_size": "unit",
    "id": "problem-based-learning",
    "path": "patterns/problem-based-learning.md",
@@ -42598,7 +42598,7 @@
    "type": "principle"
   },
   {
-   "description": "For learners who must integrate knowledge to act on an authentic problem, problem-centred work may improve conceptual understanding and transfer when guidance and consolidating instruction accompany it, but unguided discovery underperforms explicit instruction for novices and no procedural advantage is recorded.",
+   "description": "For learners who must apply knowledge to ill-structured problems, organizing work around problems has a small, highly variable and possibly inflated average effect; what is better supported is guidance for novices on the target content, with a problem-first phase as a narrower option followed by instruction.",
    "id": "problem-based-learning",
    "path": "principles/problem-based-learning.md",
    "status": "review",
