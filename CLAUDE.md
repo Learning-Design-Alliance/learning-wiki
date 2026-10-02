@@ -132,7 +132,13 @@ finds out.
   audiences, activation, scaffolding) and two patterns (case-based learning, think-pair-share), 113 to 395
   inbound links each. One agent each from a single-page brief; where a converted sibling exists the page owns
   the more general relationship and places the sibling inside it. Checked by script as the pairs were, plus
-  every quoted number found on a cited claim page. **Not yet tested with briefs.**
+  every quoted number found on a cited claim page.
+- **Tested with 30 briefs ($4.46 with the rework): blind pairs 100–20 for the new pages** (complete 44–16,
+  sparse 56–4); accuracy 3.95 → 4.78, decision value 4.15 → 4.78, affordances 7.5 → 10.7 of 12. DeepSeek's
+  pairwise picks lean to the first answer shown. **Accessible vocabulary lost its complete brief 0–4** to the old
+  page's concrete plan; a default-design section restoring that plan, each step labelled with its evidence,
+  brought it to 2–2. **Where no claim tests a page's relationship, keep the old page's concrete design as a
+  labelled proposal**: a rewrite that leaves only caveats loses, as PBL did.
 - **Most of these pages have no claim that tests their own relationship**, and say so; the wave's list of
   overstated claim titles, stale claim text, two citation mismatches and merge candidates is in `wave-1.md`.
 

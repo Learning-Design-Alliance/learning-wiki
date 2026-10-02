@@ -26,7 +26,7 @@ more general relationship and places the sibling inside it.
 **Checked by script against each old page**: no old line lost, no frontmatter key changed but description,
 status and generated, no claim the page cited dropped, no marker above its cap, no broken link, every section
 of the format present, and every number the new sections quote found on a cited claim page or the old page.
-Not yet tested with briefs.
+See the brief test below.
 
 ## What the wave found, open
 
@@ -66,3 +66,37 @@ eight near-duplicate strategy pages each for chunking, activating background kno
 multimedia-learning`'s summary says learner-paced where its entry says system-paced; `advance-organizers-improve-
 learning`'s gains are larger for high-ability learners; `principles/case-studiescase-based-learning` has a
 malformed slug; no pattern pairs with most of these principles.
+
+## Brief test (2026-10-02)
+
+Same design as the 2026-10-01 and -02 format studies (scratch only, so the briefs stay unseen by page writers):
+30 new briefs, one complete and one sparse per page; Kimi K3 answered each from one version of the single page,
+frontmatter and HTML comments stripped as a reader sees them (OLD = main before #155, NEW = after); Gemini 3.8
+Flash and DeepSeek V4 Pro graded against every claim either version cites, on the six affordances plus accuracy,
+decision value and brief fit, and blind in pairs, both orders. $4.25.
+
+| | OLD | NEW |
+|---|---|---|
+| affordances /12 (all / complete / sparse) | 7.5 / 9.9 / 5.1 | 10.7 / 11.4 / 10.0 |
+| accuracy | 3.95 | 4.78 |
+| decision value | 4.15 | 4.78 |
+| brief fit | 3.78 | 3.85 |
+| blind pairs (all / complete / sparse) | 20 / 16 / 4 | **100** / 44 / 56 |
+
+Both graders agree in direction on every measure; brief fit barely moves because DeepSeek scores it low for both
+(about 2.6 against Gemini's 5). **DeepSeek's pairwise judgements lean to whichever answer comes first**: of its 60,
+the unswapped order (OLD first) went to OLD in 14 briefs where the swapped order went to NEW. Gemini picked NEW
+in both orders in 27 of 30 briefs. Unanimous on 16 of 30 briefs.
+
+**Accessible vocabulary and syntax lost its complete brief 0–4**, the only unanimous loss: graders preferred the
+old page's concrete plan (two versions of each item, explicit syntax unpacking, fading supports) and DeepSeek said
+the new answer misapplied the input and cohesion claims. **Reworked** the same day: a "Default design, while the
+relationship is untested" section restores the old guidance as six steps, each labelled with its evidence status,
+and the evidence section now says how far the input and cohesion claims may be carried. Re-tested on both briefs
+($0.21): the complete brief now ties the old page 2–2 and beats the first new version 4–0; the sparse brief beats
+the old page 3–1 and loses to the first new version 1–3. One answer per arm, so read these as signals. Close
+calls on clear structure and scaffolding (2–2, split by position) went to OLD only when it was shown first.
+
+**The lesson repeats problem-based learning's**: where no claim tests the page's relationship, a rewrite that
+leans only on neighbouring claims loses the concrete design the old page carried. Keep that design, labelled as a
+proposal, rather than leaving the answerer only caveats.
