@@ -13,7 +13,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### A {: #letter-a }
 
 * [Adaptive Learning](adaptive-learning.md) - Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
-* [Anchored Instruction](anchored-instruction.md) - Anchored instruction organizes learning around a rich, shared scenario that acts as the \"anchor\" for inquiry, discussion, and problem solving.
+* [Anchored Instruction](anchored-instruction.md) - A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation.
 * [Authentic Assessment](authentic-assessment.md) - Authentic assessment evaluates learning through tasks that mirror the knowledge work of real disciplines, professions, and communities rather than through proxies like multiple-choice tests.
 
 #### B {: #letter-b }
@@ -29,15 +29,15 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Cognitively Guided Instruction (CGI) for Math](cognitively-guided-instruction-cgi-for-math.md) - CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method.
 * [Collaborative Evaluation](collaborative-evaluation.md) - Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria.
 * [Collaborative Inquiry](collaborative-inquiry.md) - Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.
-* [Collaborative Learning](collaborative-learning.md) - Collaborative learning is the short-form canonical pattern for shared work, discussion, and co-construction of understanding.
-* [Competency-Based Learning](competency-based-learning.md) - Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.
+* [Collaborative Learning](collaborative-learning.md) - A reusable policy for joint work that elicits each member's starting response, chooses a task that needs the members' reasoning, and uses individual checks rather than the group's product or self-report to choose the next activity.
+* [Competency-Based Learning](competency-based-learning.md) - A reusable course-level policy that maps a course to stated competencies, places each learner by a criterion-referenced response, lets pace vary and advances on demonstrated competence, with the validity of the evidence, the support offered, time and completion stated as conditions.
 * [Concept Attainment](concept-attainment.md) - Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.
 * [Constructive Alignment](constructive-alignment.md) - Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.
 * [Cooperative Learning](cooperative-learning.md) - A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity.
 
 #### D {: #letter-d }
 
-* [Debate](debate.md) - Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
+* [Debate](debate.md) - A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon.
 * [Develop Understanding](develop-understanding.md) - Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then…
 * [Direct Instruction](direct-instruction.md) - A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon.
 * [Discussion-Based Learning](discussion-based-learning.md) - Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone.
@@ -55,7 +55,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### G {: #letter-g }
 
-* [Gagné's 9 Events of Instruction](gagnes-9-events-of-instruction.md) - Gagné's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer.
+* [Gagné's 9 Events of Instruction](gagnes-9-events-of-instruction.md) - A reusable lesson policy that moves a learner from an observed starting response through presentation, guided and independent performance with feedback, to a check at a stated horizon, keeping or dropping each event according to what the learner's responses show rather than running all nine by rote.
 * [Game-Based Mastery Learning](game-based-mastery-learning.md) - Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.
 * [Game-Based Mastery Learning (Duolingo Pattern)](game-based-mastery-learning-duolingo-pattern.md) - This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.
 * [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md) - Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback.

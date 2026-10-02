@@ -80,12 +80,12 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 240 pages | 2 | q3–q4 | 2 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 235 pages | 2 | q3 | 0 of 2 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 233 pages | 3 | q2–q3 | 2 of 3 |
-| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 202 pages | 5 | q3–q4 | 0 of 5 |
+| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 203 pages | 5 | q3–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 189 pages | 2 | q3 | 0 of 2 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 181 pages | 1 | q3 | 0 of 1 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 182 pages | 1 | q3 | 0 of 1 |
 | [Activation Improves Learning](claims/activation-improves-learning.md) | 170 pages | 3 | q3 | 1 of 3 |
-| [Multiple Contrasting Cases Support Abstraction](claims/multiple-contrasting-cases-support-abstraction.md) | 162 pages | 2 | q3–q4 | 1 of 2 |
+| [Multiple Contrasting Cases Support Abstraction](claims/multiple-contrasting-cases-support-abstraction.md) | 163 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 125 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 113 pages | 2 | q3 | 0 of 2 |
@@ -93,7 +93,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 93 pages | 1 | q3 | 0 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 90 pages | 3 | q3 | 0 of 3 |
 | [Dual Coding Improves Recall](claims/dual-coding-improves-recall.md) | 88 pages | 3 | q2–q4 | 1 of 3 |
-| [Comparing Contrasting Cases Improves Learning](claims/comparing-contrasting-cases-improves-learning.md) | 82 pages | 3 | q3–q4 | 1 of 3 |
+| [Comparing Contrasting Cases Improves Learning](claims/comparing-contrasting-cases-improves-learning.md) | 83 pages | 3 | q3–q4 | 1 of 3 |
 | [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
 
 Of the 40 claims cited from 50 or more pages, **8 rest on one study or none**: [Example-problem sequences reduce cognitive load and improve learning …](claims/example-problem-sequences-reduce-cognitive-load.md), [Instructional guidance that helps novices can become redundant or …](claims/expertise-reversal-effect.md), [Different media combinations significantly affect the recall and …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [Specific, difficult goals lead to higher performance than easy or …](claims/specific-difficult-goals-lead-to-higher-performance.md), [Whole-task performance improves transfer of complex skills to …](claims/whole-task-performance-improves-transfer.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
@@ -102,7 +102,7 @@ Of the 40 claims cited from 50 or more pages, **8 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-103 claims are cited both ways.
+104 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 20 | 8 | 45 | 3 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 354 | 44 | 22 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 551 | 68 | 19 | 3 |
-| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 7 | 5 | 12 | 3 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 3 | 164 | 11 | 1 |
+| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 7 | 6 | 12 | 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 2 | 166 | 11 | 1 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 47 | 1 | 9 | 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 291 | 22 | 8 | 2 |

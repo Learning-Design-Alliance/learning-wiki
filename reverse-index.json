@@ -42,16 +42,16 @@
   "patterns->elements": 76,
   "patterns->methods": 3,
   "patterns->patterns": 87,
-  "patterns->principles": 69,
-  "patterns->theories": 31,
+  "patterns->principles": 71,
+  "patterns->theories": 30,
   "principles->claims": 399,
   "principles->designs": 34,
-  "principles->elements": 87,
+  "principles->elements": 88,
   "principles->methods": 3,
-  "principles->patterns": 62,
+  "principles->patterns": 64,
   "principles->principles": 269,
   "principles->processes": 2,
-  "principles->theories": 118,
+  "principles->theories": 114,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -3455,6 +3455,13 @@
       "slug": "virtual-communities-counter-supervision-isolation"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "communities-of-practice",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -3679,6 +3686,13 @@
       "polarity": "~",
       "slug": "mastery-learning",
       "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "adaptive-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -3964,6 +3978,13 @@
      {
       "polarity": "+",
       "slug": "collaborative-discussion",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "communities-of-practice",
       "strength": "W"
      }
     ]
@@ -5804,6 +5825,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "analogical-reasoning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "elaborative-reasoning",
       "strength": "M"
      }
@@ -6555,6 +6581,11 @@
      {
       "polarity": "+",
       "slug": "5e-learning-cycle",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "debate",
       "strength": "M"
      }
     ],
@@ -10294,6 +10325,13 @@
       "slug": "task-value-increases-motivation-and-engagement"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "autonomy",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -10579,7 +10617,7 @@
      {
       "polarity": "+",
       "slug": "autonomy",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -18976,6 +19014,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "satisfy-all-three-needs-campus-wide-retention",
       "strength": "M"
@@ -24890,6 +24933,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "community-of-inquiry",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -25621,6 +25671,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "cognitive-disequilibrium",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "considering-the-opposite",
       "strength": "M"
      },
@@ -26031,6 +26086,13 @@
      {
       "polarity": "~",
       "slug": "case-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "analogical-reasoning",
       "strength": "M"
      }
     ],
@@ -29278,6 +29340,13 @@
       "slug": "online-course-design",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "community-of-inquiry",
+      "strength": "W"
+     }
     ]
    },
    "coil-intercultural-environment-no-larger-problems-than-standard-group-work": {
@@ -29494,6 +29563,13 @@
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -30379,6 +30455,13 @@
       "slug": "slam-relationship-quality-correlates-civic-action"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "community-based-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -30547,6 +30630,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "analogical-reasoning",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "considering-the-opposite",
@@ -31885,6 +31973,13 @@
       "slug": "massive-open-online-course",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "W"
+     }
     ]
    },
    "connectivist-principles-positive-effect-achievement": {
@@ -32064,6 +32159,13 @@
      {
       "polarity": "+",
       "slug": "role-reversal",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "debate",
       "strength": "W"
      }
     ],
@@ -32587,6 +32689,13 @@
       "slug": "real-world-math",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "anchored-instruction",
+      "strength": "W"
+     }
     ]
    },
    "contextualized-teaching-facilitates-transfer": {
@@ -32978,6 +33087,11 @@
      {
       "polarity": "+",
       "slug": "accessible-vocabulary-syntax",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "adaptive-learning",
       "strength": "M"
      },
      {
@@ -35021,6 +35135,11 @@
     ],
     "principles": [
      {
+      "polarity": "-",
+      "slug": "communities-of-practice",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "resist-equating-sociocultural-framework-with-participation-methods",
       "strength": "W"
@@ -35403,6 +35522,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "four-characteristics-criterion-referenced-tests",
@@ -39386,6 +39510,13 @@
       "slug": "videoconferencing-more-negotiated-turns-than-chat-and-board"
      }
     ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "community-of-inquiry",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -39536,6 +39667,13 @@
       "polarity": "+",
       "slug": "seminar-format",
       "strength": "S"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "debate",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -43536,6 +43674,13 @@
       "slug": "productive-failure-improves-conceptual-learning"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-disequilibrium",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "slug": "failure-driven-scaffolding"
@@ -43761,6 +43906,13 @@
      },
      {
       "slug": "rjm-high-interrater-reliability-teacher-educators"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "competency-based-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -45396,7 +45548,7 @@
      {
       "polarity": "+",
       "slug": "adaptive-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -46359,6 +46511,11 @@
      },
      {
       "polarity": "~",
+      "slug": "gagnes-9-events-of-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "professional-development",
       "strength": "M"
      },
@@ -46370,9 +46527,9 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "adaptive-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -50061,6 +50218,13 @@
       "slug": "formative-assessment",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "immediate-feedback",
+      "strength": "M"
+     }
     ]
    },
    "feedback-answers-three-questions": {
@@ -50222,6 +50386,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "immediate-feedback",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "retrieval-practice",
@@ -57404,6 +57573,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "inquiry-based-learning",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -57556,6 +57732,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "community-based-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "guided-prompts-and-faculty-involvement-encourage-integrative-reflection",
@@ -58206,7 +58387,7 @@
      {
       "polarity": "+",
       "slug": "cognitive-disequilibrium",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -58506,6 +58687,13 @@
       "polarity": "~",
       "slug": "force-and-motion-microworld-fmm",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -59395,6 +59583,13 @@
      },
      {
       "slug": "strong-feelings-about-problem-influence-group-growth"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -61105,6 +61300,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "immediate-feedback",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -61739,6 +61941,13 @@
      {
       "polarity": "+",
       "slug": "research-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "inquiry-based-learning",
       "strength": "M"
      }
     ]
@@ -62547,6 +62756,13 @@
      {
       "slug": "interdependence-type-no-achievement-effect-asynchronous"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "community-of-inquiry",
+      "strength": "W"
+     }
     ]
    },
    "interactional-structures-shape-content-processing": {
@@ -62790,10 +63006,22 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
       "slug": "collaborative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "community-of-inquiry",
       "strength": "M"
      }
     ]
@@ -63438,7 +63666,9 @@
     ],
     "principles": [
      {
-      "slug": "adaptive-learning"
+      "polarity": "-",
+      "slug": "adaptive-learning",
+      "strength": "M"
      },
      {
       "slug": "personalization"
@@ -66515,6 +66745,13 @@
      {
       "slug": "dynemb-outperforms-dkt-and-bmf-baselines"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "adaptive-learning",
+      "strength": "W"
+     }
     ]
    },
    "learner-paced-beats-system-paced-complex-material": {
@@ -66548,7 +66785,19 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-learning",
+      "strength": "M"
+     }
+    ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "chunking",
@@ -67402,6 +67651,13 @@
      {
       "polarity": "-",
       "slug": "experiential-learning-cycle",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "adaptive-learning",
       "strength": "S"
      }
     ],
@@ -70043,6 +70299,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "anchored-instruction",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -70362,6 +70625,13 @@
       "slug": "mastery-learning-higher-earned-credit-rates"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-learning",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -70475,6 +70745,11 @@
     ],
     "patterns": [
      {
+      "polarity": "+",
+      "slug": "competency-based-learning",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "direct-instruction",
       "strength": "M"
@@ -70496,6 +70771,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "competency-based-assessment",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "mastery-learning",
@@ -71018,6 +71298,13 @@
      {
       "polarity": "+",
       "slug": "alternate-portfolio-assessment-multidomain-rubric",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-assessment",
       "strength": "W"
      }
     ],
@@ -73271,6 +73558,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "anchored-instruction",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "direct-instruction",
       "strength": "S"
@@ -73757,6 +74049,11 @@
      {
       "polarity": "~",
       "slug": "activation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "cognitive-disequilibrium",
       "strength": "M"
      }
     ],
@@ -76170,6 +76467,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "analogical-reasoning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -78453,6 +78757,13 @@
      {
       "slug": "students-notice-missing-practice-and-examples"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "gagnes-9-events-of-instruction",
+      "strength": "M"
+     }
     ]
    },
    "no-organization-effect-on-local-tasks": {
@@ -79690,6 +80001,13 @@
      {
       "slug": "redesigned-unit-engaged-all-framework-elements"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "communities-of-practice",
+      "strength": "W"
+     }
     ]
    },
    "online-community-requires-conscious-effort": {
@@ -80884,6 +81202,18 @@
      {
       "polarity": "~",
       "slug": "pair-c-framework",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "analogical-reasoning",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "inquiry-based-learning",
       "strength": "W"
      }
     ]
@@ -82826,6 +83156,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cognitive-disequilibrium",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -83227,6 +83564,13 @@
      {
       "polarity": "+",
       "slug": "slam-peer-mentor-role",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "community-based-learning",
       "strength": "W"
      }
     ],
@@ -83792,6 +84136,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -83863,6 +84214,20 @@
      },
      {
       "slug": "wide-variability-foi-early-language-curricula"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "adaptive-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -85228,6 +85593,13 @@
       "slug": "collaboration",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "communities-of-practice",
+      "strength": "M"
+     }
     ]
    },
    "plc-nurtures-teacher-metacognition": {
@@ -85278,6 +85650,13 @@
      {
       "slug": "plc-participation-changes-teacher-norms-understanding-practice"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "communities-of-practice",
+      "strength": "M"
+     }
     ]
    },
    "plc-participation-changes-teacher-norms-understanding-practice": {
@@ -85293,6 +85672,13 @@
      },
      {
       "slug": "plc-object-outcome-mismatch"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "communities-of-practice",
+      "strength": "W"
      }
     ]
    },
@@ -86316,6 +86702,13 @@
      {
       "polarity": "+",
       "slug": "practice",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "gagnes-9-events-of-instruction",
       "strength": "M"
      }
     ],
@@ -88731,6 +89124,11 @@
      },
      {
       "polarity": "~",
+      "slug": "inquiry-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "problem-based-learning",
       "strength": "S"
      }
@@ -90192,6 +90590,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-assessment",
+      "strength": "M"
+     },
      {
       "polarity": "-",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
@@ -91952,6 +92355,13 @@
      },
      {
       "slug": "external-evidence-can-refute-computational-models-of-particle-interactions"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cognitive-disequilibrium",
+      "strength": "W"
      }
     ]
    },
@@ -94650,6 +95060,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "fostering-creative-thinking",
       "strength": "S"
@@ -95207,6 +95622,13 @@
      {
       "polarity": "+",
       "slug": "rubrics",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-assessment",
       "strength": "M"
      }
     ]
@@ -96295,6 +96717,13 @@
       "strength": "S"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "anchored-instruction",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -97157,6 +97586,16 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "immediate-feedback",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "let-learners-request-feedback-after-performing",
       "strength": "M"
@@ -97195,6 +97634,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "let-learners-request-feedback-after-performing",
@@ -97235,6 +97679,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
      {
       "polarity": "-",
       "slug": "let-learners-request-feedback-after-performing",
@@ -104564,6 +105013,11 @@
       "polarity": "+",
       "slug": "character-education",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "community-based-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -105636,6 +106090,13 @@
      },
      {
       "slug": "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "gagnes-9-events-of-instruction",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -106881,6 +107342,13 @@
      },
      {
       "slug": "self-co-regulation-highly-correlated-online-cbi"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "community-of-inquiry",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -108680,7 +109148,7 @@
      {
       "polarity": "~",
       "slug": "debate",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -108747,7 +109215,7 @@
      {
       "polarity": "+",
       "slug": "competency-based-assessment",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -110194,6 +110662,13 @@
      },
      {
       "slug": "scmc-da-mediation-reveals-microgenetic-development"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "competency-based-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -112685,6 +113160,13 @@
      {
       "slug": "single-event-removal-no-achievement-effect"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "gagnes-9-events-of-instruction",
+      "strength": "M"
+     }
     ]
    },
    "students-pause-video-to-view-segment-menu": {
@@ -113896,6 +114378,13 @@
      },
      {
       "slug": "diversity-enhances-all-civic-competence-outcomes"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "community-based-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -116197,6 +116686,11 @@
       "polarity": "+",
       "slug": "direct-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "inquiry-based-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -116827,6 +117321,13 @@
      },
      {
       "slug": "teachers-unaware-ocf-strategies-cognition-absent"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "immediate-feedback",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -122781,7 +123282,7 @@
      {
       "polarity": "~",
       "slug": "anchored-instruction",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -122811,7 +123312,7 @@
      {
       "polarity": "~",
       "slug": "gagnes-9-events-of-instruction",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -122863,17 +123364,17 @@
      {
       "polarity": "+",
       "slug": "communities-of-practice",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "community-based-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
       "slug": "competency-based-assessment",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -128745,6 +129246,9 @@
     ],
     "patterns": [
      {
+      "slug": "competency-based-learning"
+     },
+     {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
      },
      {
@@ -132574,6 +133078,9 @@
     ],
     "patterns": [
      {
+      "slug": "debate"
+     },
+     {
       "slug": "team-based-learning"
      }
     ],
@@ -135878,6 +136385,11 @@
       "slug": "positive-interdependence"
      }
     ],
+    "patterns": [
+     {
+      "slug": "debate"
+     }
+    ],
     "strategies": [
      {
       "slug": "barometer-taking_a_stand_on_controversial_issues"
@@ -136484,6 +136996,11 @@
     "learner-variables": [
      {
       "slug": "attention"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "gagnes-9-events-of-instruction"
      }
     ],
     "strategies": [
@@ -146094,6 +146611,11 @@
      {
       "slug": "problem-based-learning"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "collaborative-learning"
+     }
     ]
    },
    "collaborative-way-teaming-model": {
@@ -146175,6 +146697,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "anchored-instruction"
+     },
      {
       "slug": "case-based-learning"
      }
@@ -147027,6 +147552,12 @@
     ],
     "patterns": [
      {
+      "slug": "anchored-instruction"
+     },
+     {
+      "slug": "debate"
+     },
+     {
       "slug": "peer-instruction"
      }
     ],
@@ -147350,6 +147881,9 @@
      },
      {
       "slug": "experiential-learning-cycle"
+     },
+     {
+      "slug": "gagnes-9-events-of-instruction"
      },
      {
       "slug": "merrills-first-principles-demonstration"
@@ -149193,6 +149727,11 @@
      {
       "slug": "direct-instruction"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "anchored-instruction"
+     }
     ]
    },
    "expressionism-realism-resource-materials-listing": {
@@ -150138,6 +150677,9 @@
     ],
     "principles": [
      {
+      "slug": "adaptive-learning"
+     },
+     {
       "slug": "ask-experts"
      },
      {
@@ -150145,6 +150687,9 @@
      },
      {
       "slug": "growth-mindset"
+     },
+     {
+      "slug": "immediate-feedback"
      },
      {
       "slug": "let-learners-request-feedback-after-performing"
@@ -150809,6 +151354,9 @@
       "slug": "collaborative-inquiry"
      },
      {
+      "slug": "competency-based-learning"
+     },
+     {
       "slug": "develop-understanding"
      },
      {
@@ -151224,6 +151772,9 @@
    "group-processing": {
     "patterns": [
      {
+      "slug": "collaborative-learning"
+     },
+     {
       "slug": "cooperative-learning"
      }
     ],
@@ -151240,6 +151791,9 @@
    },
    "group-roles": {
     "patterns": [
+     {
+      "slug": "collaborative-learning"
+     },
      {
       "slug": "cooperative-learning"
      },
@@ -151376,6 +151930,9 @@
     "patterns": [
      {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "gagnes-9-events-of-instruction"
      },
      {
       "slug": "hunters-effective-teaching-model"
@@ -151676,6 +152233,11 @@
     "elements": [
      {
       "slug": "group-processing"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "collaborative-learning"
      }
     ],
     "strategies": [
@@ -152689,6 +153251,11 @@
     ]
    },
    "learner-choice": {
+    "principles": [
+     {
+      "slug": "autonomy"
+     }
+    ],
     "strategies": [
      {
       "slug": "learner_choice_as_a_continuum"
@@ -152786,6 +153353,14 @@
     "methods": [
      {
       "slug": "standards-crosswalk"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "competency-based-learning"
+     },
+     {
+      "slug": "gagnes-9-events-of-instruction"
      }
     ],
     "processes": [
@@ -154485,6 +155060,9 @@
       "slug": "cognitively-guided-instruction-cgi-for-math"
      },
      {
+      "slug": "collaborative-learning"
+     },
+     {
       "slug": "cooperative-learning"
      },
      {
@@ -154953,6 +155531,11 @@
     ]
    },
    "portfolio": {
+    "patterns": [
+     {
+      "slug": "competency-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "student-led-conferences"
@@ -155205,6 +155788,9 @@
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
      },
      {
+      "slug": "competency-based-learning"
+     },
+     {
       "slug": "develop-understanding"
      },
      {
@@ -155239,9 +155825,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "adaptive-learning"
-     },
      {
       "slug": "gamification"
      },
@@ -157859,6 +158442,11 @@
       "slug": "hypothesis-testing"
      }
     ],
+    "principles": [
+     {
+      "slug": "cognitive-disequilibrium"
+     }
+    ],
     "strategies": [
      {
       "slug": "mass-density-and-buoyancy-experiments"
@@ -157888,6 +158476,11 @@
      },
      {
       "slug": "pre-reading-questioning"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "gagnes-9-events-of-instruction"
      }
     ],
     "principles": [
@@ -160023,6 +160616,11 @@
       "slug": "rebuttals"
      }
     ],
+    "patterns": [
+     {
+      "slug": "debate"
+     }
+    ],
     "strategies": [
      {
       "slug": "debate_for_the_opposite_team"
@@ -160031,6 +160629,12 @@
    },
    "rubric": {
     "patterns": [
+     {
+      "slug": "competency-based-learning"
+     },
+     {
+      "slug": "debate"
+     },
      {
       "slug": "mastery-learning"
      },
@@ -160291,6 +160895,9 @@
     "patterns": [
      {
       "slug": "4cid-four-component-instructional-design"
+     },
+     {
+      "slug": "anchored-instruction"
      },
      {
       "slug": "authentic-assessment"
@@ -160642,6 +161249,9 @@
     ],
     "patterns": [
      {
+      "slug": "competency-based-learning"
+     },
+     {
       "slug": "self-regulated-learning"
      }
     ],
@@ -160826,6 +161436,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "anchored-instruction"
+     },
      {
       "slug": "case-based-learning"
      },
@@ -163444,6 +164057,9 @@
     "patterns": [
      {
       "slug": "5e-learning-cycle"
+     },
+     {
+      "slug": "gagnes-9-events-of-instruction"
      }
     ],
     "processes": [
@@ -164825,6 +165441,11 @@
       "slug": "concept-attainment"
      }
     ],
+    "principles": [
+     {
+      "slug": "inquiry-based-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "laboratory-reports"
@@ -165354,6 +165975,9 @@
       "slug": "5e-learning-cycle"
      },
      {
+      "slug": "anchored-instruction"
+     },
+     {
       "slug": "authentic-assessment"
      },
      {
@@ -165364,6 +165988,11 @@
      },
      {
       "slug": "team-based-learning"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "analogical-reasoning"
      }
     ],
     "processes": [
@@ -167555,6 +168184,11 @@
       "slug": "authentic-assessment"
      }
     ],
+    "principles": [
+     {
+      "slug": "competency-based-assessment"
+     }
+    ],
     "strategies": [
      {
       "slug": "assess_fluency_components"
@@ -167880,6 +168514,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "collaborative-learning"
+     },
      {
       "slug": "jigsaw-structures-adult-learners"
      },
@@ -168448,6 +169085,9 @@
      },
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "gagnes-9-events-of-instruction"
      },
      {
       "slug": "hunters-effective-teaching-model"
@@ -170997,6 +171637,11 @@
      {
       "slug": "experiential-learning-cycle"
      }
+    ],
+    "principles": [
+     {
+      "slug": "inquiry-based-learning"
+     }
     ]
    },
    "interdisciplinary-course-based-research-experience": {
@@ -171072,6 +171717,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "collaborative-learning"
+     },
      {
       "slug": "fostering-communities-of-learning-fcl"
      },
@@ -171582,6 +172230,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "collaborative-learning"
+     },
      {
       "slug": "peer-teaching"
      },
@@ -172274,6 +172925,9 @@
     "patterns": [
      {
       "slug": "cognitively-guided-instruction-cgi-for-math"
+     },
+     {
+      "slug": "collaborative-learning"
      },
      {
       "slug": "peer-instruction"
@@ -173397,6 +174051,9 @@
       "slug": "experiential-learning-cycle"
      },
      {
+      "slug": "gagnes-9-events-of-instruction"
+     },
+     {
       "slug": "merrills-first-principles-activation"
      }
     ],
@@ -173406,6 +174063,9 @@
      },
      {
       "slug": "cognitive-activation"
+     },
+     {
+      "slug": "cognitive-disequilibrium"
      },
      {
       "slug": "elaborative-reasoning"
@@ -177471,9 +178131,6 @@
     ],
     "patterns": [
      {
-      "slug": "anchored-instruction"
-     },
-     {
       "slug": "authentic-assessment"
      },
      {
@@ -177504,6 +178161,9 @@
      },
      {
       "slug": "communities-of-practice"
+     },
+     {
+      "slug": "community-based-learning"
      },
      {
       "slug": "competency-based-learning-assessment"
@@ -183723,6 +184383,9 @@
     ],
     "patterns": [
      {
+      "slug": "collaborative-learning"
+     },
+     {
       "slug": "online-course-design"
      },
      {
@@ -183736,6 +184399,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "communities-of-practice"
+     },
      {
       "slug": "community-based-learning"
      },
@@ -184622,9 +185288,6 @@
     ],
     "principles": [
      {
-      "slug": "community-based-learning"
-     },
-     {
       "slug": "distributed-cognition"
      },
      {
@@ -184852,6 +185515,11 @@
      },
      {
       "slug": "summative-assessment"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "competency-based-learning"
      }
     ],
     "principles": [
@@ -185189,9 +185857,6 @@
       "slug": "cognitive-activation"
      },
      {
-      "slug": "cognitive-disequilibrium"
-     },
-     {
       "slug": "cognitive-flexibility"
      },
      {
@@ -185288,9 +185953,6 @@
      }
     ],
     "patterns": [
-     {
-      "slug": "anchored-instruction"
-     },
      {
       "slug": "cognitive-load-reduction-clt-scaffolding-approach"
      },
@@ -185511,6 +186173,9 @@
     "patterns": [
      {
       "slug": "case-based-learning-harvard-method"
+     },
+     {
+      "slug": "debate"
      },
      {
       "slug": "structured-academic-controversy"
@@ -185757,6 +186422,9 @@
     "patterns": [
      {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "gagnes-9-events-of-instruction"
      }
     ],
     "principles": [
@@ -186693,9 +187361,6 @@
       "slug": "collaborative-evaluation"
      },
      {
-      "slug": "competency-based-learning"
-     },
-     {
       "slug": "formative-assessment"
      },
      {
@@ -186715,6 +187380,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "adaptive-learning"
+     },
      {
       "slug": "analyze-student-dialogue-turns-as-formative-assessment"
      },
@@ -187174,9 +187842,6 @@
       "slug": "flipped-classroom"
      },
      {
-      "slug": "gagnes-9-events-of-instruction"
-     },
-     {
       "slug": "guided-discovery-learning"
      },
      {
@@ -187370,9 +188035,6 @@
      },
      {
       "slug": "flipped-classroom"
-     },
-     {
-      "slug": "gagnes-9-events-of-instruction"
      },
      {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
@@ -188020,6 +188682,9 @@
       "slug": "adaptive-learning-consistent-with-cognitive-structure"
      },
      {
+      "slug": "adaptive-learning"
+     },
+     {
       "slug": "behaviorism"
      },
      {
@@ -188367,9 +189032,6 @@
       "slug": "collaborative-evaluation"
      },
      {
-      "slug": "gagnes-9-events-of-instruction"
-     },
-     {
       "slug": "structured-peer-review"
      },
      {
@@ -188547,6 +189209,9 @@
      },
      {
       "slug": "collaborative-inquiry"
+     },
+     {
+      "slug": "debate"
      },
      {
       "slug": "discussion-based-learning"
@@ -188736,6 +189401,9 @@
     "patterns": [
      {
       "slug": "case-based-learning-harvard-method"
+     },
+     {
+      "slug": "debate"
      },
      {
       "slug": "discussion-based-learning"
@@ -189081,6 +189749,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "cognitive-disequilibrium"
+     },
      {
       "slug": "experiential-learning"
      },
@@ -189637,6 +190308,9 @@
     ],
     "patterns": [
      {
+      "slug": "gagnes-9-events-of-instruction"
+     },
+     {
       "slug": "merrills-first-principles-activation"
      },
      {
@@ -189649,6 +190323,9 @@
      },
      {
       "slug": "balance-retrieval-success-and-retrieval-effort"
+     },
+     {
+      "slug": "immediate-feedback"
      },
      {
       "slug": "memory-consolidation"
@@ -189872,6 +190549,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "adaptive-learning"
+     },
      {
       "slug": "cognitive-load-reduction"
      },
@@ -190274,6 +190954,9 @@
       "slug": "clear-structure"
      },
      {
+      "slug": "communities-of-practice"
+     },
+     {
       "slug": "disciplinary-literacy"
      },
      {
@@ -190293,6 +190976,9 @@
      },
      {
       "slug": "guided-practice"
+     },
+     {
+      "slug": "inquiry-based-learning"
      },
      {
       "slug": "mentoringcoaching"
@@ -190498,6 +191184,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "autonomy"
+     },
      {
       "slug": "cognitive-activation"
      },
@@ -190706,9 +191395,6 @@
     ],
     "principles": [
      {
-      "slug": "community-of-inquiry"
-     },
-     {
       "slug": "peer-learning"
      }
     ],
@@ -190819,9 +191505,6 @@
       "slug": "collaborative-learning"
      },
      {
-      "slug": "community-based-learning"
-     },
-     {
       "slug": "community-of-inquiry"
      },
      {
@@ -190842,6 +191525,11 @@
     ]
    },
    "social-presence": {
+    "principles": [
+     {
+      "slug": "community-of-inquiry"
+     }
+    ],
     "strategies": [
      {
       "slug": "introducing_yourself_via_video"
@@ -194746,9 +195434,6 @@
     ],
     "principles": [
      {
-      "slug": "adaptive-learning"
-     },
-     {
       "slug": "ask-experts"
      },
      {
@@ -194758,9 +195443,6 @@
       "slug": "cognitive-activation"
      },
      {
-      "slug": "cognitive-disequilibrium"
-     },
-     {
       "slug": "cognitive-flexibility"
      },
      {
@@ -194768,12 +195450,6 @@
      },
      {
       "slug": "cognitive-load-theory"
-     },
-     {
-      "slug": "community-based-learning"
-     },
-     {
-      "slug": "community-of-inquiry"
      },
      {
       "slug": "considering-the-opposite"
@@ -195057,6 +195733,11 @@
     "elements": [
      {
       "slug": "coi-survey-and-metacognition-questionnaire-instruments"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "community-of-inquiry"
      }
     ],
     "strategies": [
@@ -195416,15 +196097,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "adaptive-learning"
-     },
-     {
-      "slug": "analogical-reasoning"
-     },
-     {
-      "slug": "autonomy"
-     },
      {
       "slug": "behaviorism"
      },
@@ -196131,11 +196803,6 @@
     "patterns": [
      {
       "slug": "differentiated-activity-structures-for-inclusive-participation"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "community-based-learning"
      }
     ],
     "processes": [
@@ -198030,9 +198697,6 @@
     ],
     "principles": [
      {
-      "slug": "adaptive-learning"
-     },
-     {
       "slug": "cognitive-load-management"
      },
      {
@@ -199714,12 +200378,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "adaptive-learning"
-     },
-     {
-      "slug": "analogical-reasoning"
-     },
      {
       "slug": "cognitive-activation"
      },
@@ -203890,9 +204548,6 @@
       "slug": "5e-learning-cycle"
      },
      {
-      "slug": "competency-based-learning"
-     },
-     {
       "slug": "constructive-alignment"
      },
      {
@@ -203915,12 +204570,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "adaptive-learning"
-     },
-     {
-      "slug": "autonomy"
-     },
      {
       "slug": "considering-the-opposite"
      },
@@ -204953,9 +205602,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "community-based-learning"
-     },
      {
       "slug": "disciplinary-literacy"
      },

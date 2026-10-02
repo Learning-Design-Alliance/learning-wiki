@@ -38173,7 +38173,7 @@
    "type": "pattern"
   },
   {
-   "description": "Anchored instruction organizes learning around a rich, shared scenario that acts as the \\\"anchor\\\" for inquiry, discussion, and problem solving.",
+   "description": "A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation.",
    "grain_size": "lesson",
    "id": "anchored-instruction",
    "path": "patterns/anchored-instruction.md",
@@ -38290,7 +38290,7 @@
    "type": "pattern"
   },
   {
-   "description": "Collaborative learning is the short-form canonical pattern for shared work, discussion, and co-construction of understanding.",
+   "description": "A reusable policy for joint work that elicits each member's starting response, chooses a task that needs the members' reasoning, and uses individual checks rather than the group's product or self-report to choose the next activity.",
    "grain_size": "lesson",
    "id": "collaborative-learning",
    "path": "patterns/collaborative-learning.md",
@@ -38299,7 +38299,7 @@
    "type": "pattern"
   },
   {
-   "description": "Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.",
+   "description": "A reusable course-level policy that maps a course to stated competencies, places each learner by a criterion-referenced response, lets pace vary and advances on demonstrated competence, with the validity of the evidence, the support offered, time and completion stated as conditions.",
    "grain_size": "course",
    "id": "competency-based-learning",
    "path": "patterns/competency-based-learning.md",
@@ -38356,7 +38356,7 @@
    "aliases": [
     "debate-format"
    ],
-   "description": "Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.",
+   "description": "A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon.",
    "grain_size": "lesson",
    "id": "debate",
    "path": "patterns/debate.md",
@@ -38600,7 +38600,7 @@
     "gagn\u00e9s-9-events",
     "gagn\u00e9s-9-events-of-instruction"
    ],
-   "description": "Gagn\u00e9's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer.",
+   "description": "A reusable lesson policy that moves a learner from an observed starting response through presentation, guided and independent performance with feedback, to a check at a stated horizon, keeping or dropping each event according to what the learner's responses show rather than running all nine by rote.",
    "grain_size": "lesson",
    "id": "gagnes-9-events-of-instruction",
    "path": "patterns/gagnes-9-events-of-instruction.md",
@@ -39460,7 +39460,7 @@
    "type": "principle"
   },
   {
-   "description": "Adaptive learning systems and designs continuously adjust task difficulty, sequencing, and support based on each learner's ongoing performance, so every learner works at the edge of their current competence.",
+   "description": "When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows.",
    "id": "adaptive-learning",
    "path": "principles/adaptive-learning.md",
    "status": "review",
@@ -39532,7 +39532,7 @@
    "type": "principle"
   },
   {
-   "description": "Analogical reasoning is the principle of using relational similarity between a familiar case and a new case to support understanding, inference, and transfer.",
+   "description": "Comparing a new situation with a provided analogous case, prompted to find the shared relation and followed by the principle, is expected to help learners who do not yet see that structure transfer it to a near new case at a short horizon; analogies from a familiar source domain, far transfer and delayed effects are untested here.",
    "id": "analogical-reasoning",
    "path": "principles/analogical-reasoning.md",
    "status": "review",
@@ -39644,7 +39644,7 @@
    "type": "principle"
   },
   {
-   "description": "Autonomy in learning design means giving learners meaningful ownership over how, when, and why they engage \u2014 supporting their sense of volition rather than controlling their behavior.",
+   "description": "For a learner whose engagement is controlled by pressure or reward, meaningful choice within structure, a rationale for required work and non-controlling language are expected to sustain motivation and voluntary engagement; their effect on learning outcomes is small, inconsistent and depends on what the learner controls and when.",
    "id": "autonomy",
    "path": "principles/autonomy.md",
    "status": "review",
@@ -39863,7 +39863,7 @@
    "type": "principle"
   },
   {
-   "description": "Cognitive disequilibrium is the principle of using mismatch, surprise, or contradiction to unsettle an existing mental model and create readiness for revision.",
+   "description": "For a learner who holds a confident but inaccurate explanation, meeting evidence it cannot account for and then being helped to resolve the mismatch is expected to improve conceptual understanding more than the correct account alone, with weak evidence that the revision lasts or that conflict without support helps.",
    "id": "cognitive-disequilibrium",
    "path": "principles/cognitive-disequilibrium.md",
    "status": "review",
@@ -39975,7 +39975,7 @@
    "type": "principle"
   },
   {
-   "description": "Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession.",
+   "description": "For adults and professionals entering a shared practice, sustained and structured participation with more experienced members, under norms of trust and critical inquiry, is proposed to change their practice and understanding over a term or more, though the wiki holds only descriptive, qualitative and argued evidence for it.",
    "id": "communities-of-practice",
    "path": "principles/communities-of-practice.md",
    "status": "review",
@@ -39983,7 +39983,7 @@
    "type": "principle"
   },
   {
-   "description": "Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context.",
+   "description": "For a learner whose coursework stays school-internal, giving the work a real role in a community is associated with civic attitudes, self-reported growth and deeper reflection when the work is tied to course concepts, reflection is structured and relationships are supported; no claim here tests its effect on content learning.",
    "id": "community-based-learning",
    "path": "principles/community-based-learning.md",
    "status": "review",
@@ -39991,7 +39991,7 @@
    "type": "principle"
   },
   {
-   "description": "Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence.",
+   "description": "For learners in a discussion-based course whose shared inquiry stalls at sharing ideas, the CoI framework proposes that designed social, cognitive and teaching presence together move discourse towards resolution, but the wiki holds only survey associations and descriptive profiles of the presences, no test of that effect on learning.",
    "id": "community-of-inquiry",
    "path": "principles/community-of-inquiry.md",
    "status": "review",
@@ -40007,7 +40007,7 @@
    "type": "principle"
   },
   {
-   "description": "Judge learners against explicit, observable competencies and defined mastery thresholds rather than normed averages or seat time, using evidence that actually elicits the competence being claimed.",
+   "description": "Scoring a learner's response on a task that represents the intended capability against explicit criteria and a stated threshold, by consistent assessors, is expected to support better teaching, progression and certification decisions than a rank or seat time, though no claim here tests that comparison and assessor agreement is not guaranteed.",
    "id": "competency-based-assessment",
    "path": "principles/competency-based-assessment.md",
    "status": "review",
@@ -41096,7 +41096,7 @@
    "type": "principle"
   },
   {
-   "description": "Immediate feedback is feedback delivered close enough to a learner's action that it can still shape interpretation, correction, and the next attempt.",
+   "description": "For a learner practising a task where errors can be seen, correction before the next attempt is expected to stop errors being rehearsed, but whether immediate rather than delayed feedback improves delayed retention is not settled: the comparisons recorded here find no advantage or favour delay.",
    "id": "immediate-feedback",
    "path": "principles/immediate-feedback.md",
    "status": "review",
@@ -41160,7 +41160,7 @@
    "type": "principle"
   },
   {
-   "description": "Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone.",
+   "description": "For school science learners, inquiry that is guided (prompts, feedback, teacher-led explanation and a synthesis) is associated with better conceptual understanding than comparison instruction, while unguided discovery of essential content learns less than explicit instruction for novices.",
    "id": "inquiry-based-learning",
    "path": "principles/inquiry-based-learning.md",
    "status": "review",
