@@ -124,6 +124,24 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-02 (late night) — conversion wave 3: a situation table on every page; fit barely moved
+
+- **Fifteen more pages converted** (`eval/page-triage/wave-3.md`): the principles guided practice, error analysis,
+  cognitive activation, goal setting and monitoring, cognitive flexibility, multimodal instruction, game-based
+  learning, reflection, experiential learning and epistemic cognition, and the patterns blended learning, concept
+  attainment, elaboration theory, constructive alignment and structured academic controversy. Behaviorism and
+  social learning (theories in all but folder), explaining-their-thinking and self-regulation (duplicates) were skipped.
+- **New in the brief: `## Fitting the design to a situation`**, the three facts that most change the decision and a
+  `| If the brief says… | Then change… | Basis |` table, each row a claim link or marked untested (153 rows, 94 on a
+  claim). Described in `principle-pattern-authoring.md`.
+- **Tested with 30 briefs ($4.58): blind pairs 101–19 for the new pages**; accuracy 4.07 → 4.52, decision value
+  4.05 → 4.52, affordances 5.8 → 8.8 of 12. **Situation fit rose only on complete briefs** (anchored 4.00 → 4.13,
+  brief fit 3.90 → 4.07) and not on sparse ones. Gemini gives fit ≈ 5 to everything, and a pairwise "more fitted"
+  question matched the overall pick 118 of 120 times, so **these graders cannot measure fit apart from quality**; a
+  real test needs briefs that differ in one fact. **Guided practice lost both briefs 1–3** to the old page's concrete
+  plans, the wave 1 lesson again: a default design less concrete than the old guidance loses, and a situation table
+  does not make up for it.
+
 ### 2026-10-02 (late night) — conversion wave 2: 15 more pages, and no page lost
 
 - **Fifteen more pages converted** (`eval/page-triage/wave-2.md`): the patterns collaborative learning, competency-
