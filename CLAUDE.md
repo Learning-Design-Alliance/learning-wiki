@@ -161,6 +161,10 @@ finds out.
   descriptions go there. Every kind list knows it, and `check_nav_coverage` passes. The triage's design
   pages move in a separate change, by `scripts/move_pages_kind.py`, which repoints their links (a move
   across kinds cannot be carried by an alias).
+- **The README's page-count table is generated** (`build_indexes.py`, between `page-counts` markers; CI runs
+  `build_indexes.py --check`). It was hand-written, so it listed no designs and carried September's counts. The
+  dashboard's editable folders and the MCP search description now include designs (and, for the dashboard,
+  processes and methods, which it had never allowed).
 - **The triage was applied** (`eval/page-triage/README.md`): a third model settled 270 of the 305 flagged rows;
   188 pages moved to their kind (115 to `designs/`), and 22 duplicate principles and patterns were folded
   into 21 pages by `scripts/merge_pages.py`, each fold's slug an alias of its survivor and its body kept in a

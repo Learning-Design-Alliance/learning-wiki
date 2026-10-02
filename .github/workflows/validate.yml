@@ -40,6 +40,7 @@ jobs:
           python3 scripts/build_reverse_index.py --check
           python3 scripts/build_wiki_index.py --check
           python3 scripts/build_evidence_report.py --check
+          python3 scripts/build_indexes.py --check
 
       - name: Set up docs directory
         run: |
