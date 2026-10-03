@@ -51,7 +51,7 @@ Peer learning is strongest when learners are asked to do real intellectual work 
 
 ### Theory
 #### Supporting
-- [Social Learning](social-learning.md) — peers can act as models, interpreters, and feedback sources
+- [Social Learning](../theories/sociocultural-theory.md) — peers can act as models, interpreters, and feedback sources
 - [Social Constructivism](social-constructivism.md) — understanding is often co-constructed in interaction
 - [Community of Inquiry](community-of-inquiry.md) — peer learning is stronger when discourse is both socially and cognitively supported
 

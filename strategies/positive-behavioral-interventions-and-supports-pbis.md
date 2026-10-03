@@ -19,7 +19,7 @@ PBIS is a proactive, school-wide framework for improving behavior and climate by
 
 ## Design Implications
 
-PBIS applies behavioral learning principles at the systems level: expectations are defined operationally, taught explicitly, and followed by consistent reinforcement [Behaviorism](../principles/behaviorism.md). Randomized trials show school-wide PBIS reduces office discipline referrals and suspensions and improves school climate [School-wide PBIS reduces disciplinary exclusions and improves climate.](https://doi.org/10.1037/a0018120) [+S], with effects strongest when implementation fidelity is high and sustained over multiple years.
+PBIS applies behavioral learning principles at the systems level: expectations are defined operationally, taught explicitly, and followed by consistent reinforcement [Behaviorism](../theories/behaviorism.md). Randomized trials show school-wide PBIS reduces office discipline referrals and suspensions and improves school climate [School-wide PBIS reduces disciplinary exclusions and improves climate.](https://doi.org/10.1037/a0018120) [+S], with effects strongest when implementation fidelity is high and sustained over multiple years.
 
 ### Context
 #### Requirements

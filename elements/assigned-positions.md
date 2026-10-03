@@ -47,7 +47,7 @@ Assigned positions work because arguing a case requires deeper processing than r
 ### Affordances
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — arguing an assigned position requires learners to reconstruct the issue from an unfamiliar conceptual vantage point, which is the core mechanism of flexibility training
 - [Perspective-Taking](../principles/perspective-taking.md) — the assignment operationalizes perspective-taking behaviorally: learners must inhabit a stance, not merely acknowledge it
-- [Social Learning](../principles/social-learning.md) — learners observe peers constructing arguments for other positions, providing models of reasoning they can appropriate
+- [Social Learning](../theories/sociocultural-theory.md) — learners observe peers constructing arguments for other positions, providing models of reasoning they can appropriate
 - [Argumentation](argumentation.md) — assigned positions give argumentation a concrete task structure: claim, evidence, warrant, rebuttal
 
 ### Claims

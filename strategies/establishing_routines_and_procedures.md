@@ -55,7 +55,7 @@ Routines automate the non-instructional layer of learning so working memory and 
 1. **Inventory recurring activities** — list every activity that happens daily or weekly and decide which need an explicit procedure.
 2. **Design the procedure** — keep each to 3–5 steps; align it with [Clear Structure](../principles/clear-structure.md) so learners can predict what comes next.
 3. **Teach it explicitly** — name it, explain why it exists, [Demonstration](../elements/demonstration.md) it, then have learners rehearse it immediately ([Practice](../elements/practice.md)).
-4. **Reinforce and correct** — acknowledge correct execution; when the routine breaks, re-teach rather than reprimand, consistent with [Behaviorism](../principles/behaviorism.md) principles of cue–response–consequence consistency.
+4. **Reinforce and correct** — acknowledge correct execution; when the routine breaks, re-teach rather than reprimand, consistent with [Behaviorism](../theories/behaviorism.md) principles of cue–response–consequence consistency.
 5. **Fade supervision** — as the routine becomes automatic, withdraw prompts and monitoring, transferring management to the learners themselves.
 
 ## Related Strategies

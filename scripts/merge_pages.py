@@ -24,6 +24,7 @@ Deciding that two pages are one, and which survives, is the editorial act; the t
 table (`eval/page-triage/`) only proposes pairs.
 """
 import argparse
+import datetime
 import re
 import subprocess
 import sys
@@ -177,7 +178,7 @@ def merge(kind: str, keep: str, fold: str, apply: bool) -> str:
     fold_title = okf_lib.parse_frontmatter_scalars(okf_lib.split_frontmatter(ftext)[0]).get("title") or fold
     kept = re.sub(r"^\s*---\s*\n", "", fbody).strip()
     kept = kept.replace("<!--", "<!- -").replace("-->", "- ->")
-    body = (body.rstrip() + f"\n\n<!-- merged 2026-10-02 from {fold_kind}/{fold} (\"{fold_title}\"), "
+    body = (body.rstrip() + f"\n\n<!-- merged {datetime.date.today().isoformat()} from {fold_kind}/{fold} (\"{fold_title}\"), "
             f"{'misfiled as a ' + fold_kind[:-1] + ' and' if cross else ''} a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.\n\n{kept}\n-->\n")
     fm = merge_sources(kfm, ffm)
     for a in ([] if cross else pid.read_aliases(ffm)):

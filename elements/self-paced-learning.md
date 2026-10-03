@@ -30,7 +30,7 @@ Self-paced learning is the element in which learners control the rate or sequenc
 - Support flexible progress, review, and learner control over pace.
 
 ### Affordances
-- [Self-Regulation](../principles/self-regulation.md)
+- [Self-Regulation](../principles/self-regulated-learning.md)
 - [Active Learning](../principles/active-learning.md)
 
 ### Claims

@@ -98,7 +98,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 
 - [Problem-Based Learning](problem-based-learning.md) — inquiry and problem-based designs overlap when questions are organized around authentic problems.
 - [Evaluating Sources](evaluating-sources.md) — inquiry requires judging the quality and relevance of evidence.
-- [Explaining Their Thinking](explaining-their-thinking.md) — inquiry culminates in explanation, justification, and revision.
+- [Explaining Their Thinking](self-explanation.md) — inquiry culminates in explanation, justification, and revision.
 - [Guided Practice](guided-practice.md) — inquiry often works better when investigative moves are practiced with support before becoming independent.
 - [Design inquiry activities around student ownership and authenticity to real science and engineering practices](inquiry-ownership-and-authenticity.md)
 

@@ -48,7 +48,7 @@ The review presents behaviorism, associated with B.F. Skinner, as a theory in wh
 
 - [The behaviorist classroom paradigm: teacher as enforcer, passive learner, reward and punishment, predetermined knowledge](behaviorist-classroom-paradigm-pattern.md)
 - [Use reward and punishment selectively in the classroom while rejecting behaviorism as a comprehensive theory](../principles/reward-punishment-useful-despite-theory-rejection.md)
-- [Behaviorism](../principles/behaviorism.md)
+- [Behaviorism](behaviorism.md)
 
 ## Key Sources
 - Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html

@@ -90,7 +90,7 @@ Perceived presence, the quality of the discourse, each learner's understanding a
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md) — community of inquiry explains one strong form of collaborative meaning-making
 - [Peer Discussion](peer-discussion.md) — discourse is the main medium through which inquiry communities operate
-- [Social Learning](social-learning.md) — provides the broader rationale for why group interaction can be educational
+- [Social Learning](../theories/sociocultural-theory.md) — provides the broader rationale for why group interaction can be educational
 
 ## Examples
 
@@ -139,7 +139,7 @@ Community of inquiry is most useful when learning depends on sustained discourse
 
 ### Theory
 #### Supporting
-- [Social Learning](social-learning.md) — interaction with others is treated as a direct source of learning
+- [Social Learning](../theories/sociocultural-theory.md) — interaction with others is treated as a direct source of learning
 - [Social Constructivism](social-constructivism.md) — shared dialogue and interpretation can shape understanding
 - [Collaborative Learning](collaborative-learning.md) — inquiry communities depend on well-designed collaborative structures
 

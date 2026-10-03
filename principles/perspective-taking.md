@@ -52,7 +52,7 @@ Perspective-taking helps learners move beyond their default frame by requiring t
 
 ## Related Principles
 - [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md)
-- [Social Learning](social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Building Empathy](building-empathy.md)
 
 ## Examples

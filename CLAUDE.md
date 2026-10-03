@@ -124,6 +124,19 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-03 — the four pages wave 3 skipped: two duplicates folded, two theories absorbed
+
+- **`principles/self-regulation` folded into `self-regulated-learning`** (its slug an alias, beside `metacognition`).
+- **`principles/explaining-their-thinking` renamed `principles/self-explanation`** (the old slug an alias), so the
+  principle carries the name of its element, `elements/self-explanation`, as worked examples does. Its body is
+  unchanged and still unconverted.
+- **`principles/behaviorism` folded into `theories/behaviorism`, and `principles/social-learning` into
+  `theories/sociocultural-theory`** (maintainer's decision): the page described learning through interaction and
+  cited sociocultural perspectives, not Bandura's observational learning, so not `social-learning-theory`.
+  Cross-kind, so links were repointed and no alias was kept; each body is in a `<!-- merged -->` block.
+  `update_links_for_renames.py` stamped an `id:` and the old slug as an alias onto the sociocultural theory; both
+  were removed, since theories carry no id and an alias cannot cross kinds.
+
 ### 2026-10-02 (late night) — conversion wave 3: a situation table on every page; fit barely moved
 
 - **Fifteen more pages converted** (`eval/page-triage/wave-3.md`): the principles guided practice, error analysis,

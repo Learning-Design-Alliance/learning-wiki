@@ -36,7 +36,7 @@ Goal setting is the element in which learners or instructors establish clear tar
 
 ### Affordances
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
-- [Self-Regulation](../principles/self-regulation.md)
+- [Self-Regulation](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

@@ -33,8 +33,7 @@ Reflection activities are structured tasks that ask learners to examine what the
 
 ### Affordances
 - [Reflection](../principles/reflection.md)
-- [Self-Regulation](../principles/self-regulation.md)
-- [Metacognition](../principles/self-regulated-learning.md)
+- [Self-Regulation](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

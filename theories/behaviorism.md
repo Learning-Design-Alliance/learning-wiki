@@ -11,7 +11,7 @@ generated:
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q3` · 0 of 4 report an effect size
+> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 9 studies (4 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q3` · 0 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -36,17 +36,26 @@ Bandura's observational learning — "of the many cues that influence behavior, 
 ### Target Learners
 - No strong learner-characteristic boundary within the behavioral framework; all learners respond to reinforcement contingencies
 - Expertise level affects which behaviors need reinforcement and at what grain size
+- Learners acquiring foundational routines, habits, or well-defined procedural skills
+- Learners who benefit from explicit expectations, repetition, and immediate feedback
+- Learners in mastery-oriented environments where accuracy and consistency matter
 
 ### Target Learning Objectives
 - Behavioral objectives: observable, measurable outcomes specified in advance
 - Best fit: procedural fluency, factual recall, conditioned responses
 - Weaker fit: conceptual transfer, metacognition, adaptive expertise
+- Support skill acquisition through feedback, repetition, and performance shaping
+- Increase accuracy, fluency, and consistency on well-defined tasks
+- Build reliable routines before or alongside more generative forms of learning
 
 ### Criticisms
 Behaviorism is criticized as overly deterministic and as denying free will; by treating only observable behavior as scientifically valid, it has little to say about internal mental processes and struggles to explain behavior change that isn't traceable to an environmental input. Research by ethologists has also shown that conditioning principles are not universal across species and contexts, countering behaviorism's original claim of equipotentiality — that any stimulus could be conditioned to any response with equal ease.
 
 ## Claims
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — behaviorist routines are stronger when performance targets are specific and demanding
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible criteria and progress tracking can strengthen performance shaping
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice skill acquisition may benefit when repeated performance is coupled with attention to process, not only outcomes
 
 ## Related Theories
 
@@ -82,3 +91,73 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - Mazur, J. E. (2005). *Learning and behavior* (6th ed.). Prentice Hall.
 - Zhou, M., & Brown, D. (Eds.). (2015). Behaviorism. In *Educational learning theories* (2nd ed.). GALILEO Open Learning Materials.
 - Arduini-Van Hoose, N. (2020). Behaviorism. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*(2), 86-97.
+- Schunk, D. H. (2012). *Learning theories: An educational perspective* (6th ed.). Pearson.
+
+<!-- merged 2026-10-03 from principles/behaviorism ("Behaviorism"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Behaviorism
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 mixed) · 5 studies (2 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+
+## Description
+Behaviorism, as an instructional principle, emphasizes observable performance, repeated practice, feedback, and reinforcement in shaping learning. It is useful when the target is consistent performance on clearly defined behaviors or skills.
+
+## Implications
+
+Behaviorism is strongest when instruction is aimed at reliably producing or strengthening clearly observable performance. It treats learning less as hidden conceptual change and more as a change in what learners can do under given conditions. In instructional design, this often shows up in repetition, immediate feedback, reinforcement schedules, and tightly specified success criteria [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]. The principle is highly effective for some forms of skill automation and habit formation, and it becomes stronger when learners can also track progress against visible criteria [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. It is weaker when deeper interpretation, explanation, or generative understanding is the main goal, and even novice performance shaping often benefits from attention to process rather than outcomes alone [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M].
+
+### Context
+#### Requirements
+- **Clear target behaviors or performances** — the learner needs to know exactly what action, response, or routine is being shaped
+- **Frequent feedback and consequences** — reinforcement depends on a short loop between behavior and response
+- **Opportunities for repeated performance** — behaviorist learning designs rely on practice density
+#### Constraints
+- **Behaviorist designs can underrepresent deeper meaning-making if used alone**
+- **Observable performance is not the whole of learning** — learners may perform correctly without flexible understanding
+- **Extrinsic reinforcement can narrow attention** — reward structures may crowd out broader inquiry if overused
+
+### Target Learners
+- Learners acquiring foundational routines, habits, or well-defined procedural skills
+- Learners who benefit from explicit expectations, repetition, and immediate feedback
+- Learners in mastery-oriented environments where accuracy and consistency matter
+
+### Target Learning Objectives
+- Support skill acquisition through feedback, repetition, and performance shaping
+- Increase accuracy, fluency, and consistency on well-defined tasks
+- Build reliable routines before or alongside more generative forms of learning
+
+### Theory
+#### Supporting
+- Reinforcement and practice traditions — behavior changes when consequences and repetition shape responding over time
+- [Reinforcement Theory](../principles/reinforcement-theory.md) — provides the clearest adjacent principle in the wiki for consequence-based shaping
+- [Deliberate Practice](../principles/deliberate-practice.md) — overlaps behaviorism where repeated performance and feedback are tightly coupled
+
+#### Contradicting / Qualifying
+- [Constructivism](../theories/constructivism.md) — qualifies that observable performance alone does not capture the internal meaning-making many domains require
+
+### Claims
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — behaviorist routines are stronger when performance targets are specific and demanding
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible criteria and progress tracking can strengthen performance shaping
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice skill acquisition may benefit when repeated performance is coupled with attention to process, not only outcomes
+
+## Related Principles
+- [Deliberate Practice](../principles/deliberate-practice.md) — shares the emphasis on repeated performance with feedback, though often with a stronger role for strategy and reflection
+- [Mastery Learning](../principles/mastery-learning.md) — often uses performance criteria and repeated practice before progression
+- [Reinforcement Theory](../principles/reinforcement-theory.md) — behaviorism’s clearest principle-level neighbor in the current wiki
+
+## Examples
+
+### Illustrative
+
+**[Drill Practice](../elements/drill-practice.md)** — Repeated performance with rapid corrective feedback is a classic behaviorist instructional move.
+
+**[Mastery Learning](../patterns/mastery-learning.md)** — Learners continue practice and assessment cycles until they meet a defined performance threshold.
+
+**Fluency-building routines** — In reading, math facts, or procedural training, short repeated trials with immediate correctness feedback can shape accurate and automatic responding.
+
+## Key Sources
+- Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*(2), 86-97.
+- Schunk, D. H. (2012). *Learning theories: An educational perspective* (6th ed.). Pearson.
+-->

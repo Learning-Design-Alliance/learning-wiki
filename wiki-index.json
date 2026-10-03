@@ -6,7 +6,7 @@
   "learner-variable": 12,
   "method": 38,
   "pattern": 141,
-  "principle": 479,
+  "principle": 476,
   "process": 18,
   "strategy": 3184,
   "theory": 946
@@ -39732,14 +39732,6 @@
    "type": "principle"
   },
   {
-   "description": "Behaviorism, as an instructional principle, emphasizes observable performance, repeated practice, feedback, and reinforcement in shaping learning.",
-   "id": "behaviorism",
-   "path": "principles/behaviorism.md",
-   "status": "review",
-   "title": "Behaviorism",
-   "type": "principle"
-  },
-  {
    "description": "The article argues that task-based language testing (e.g., IELTS) and task-based language teaching should be bound together because assessment exerts a wash-back effect on teaching.",
    "id": "bind-teaching-testing-task-based-washback",
    "path": "principles/bind-teaching-testing-task-based-washback.md",
@@ -40658,14 +40650,6 @@
    "path": "principles/experiential-learning-as-program-philosophy.md",
    "status": "draft",
    "title": "Implement experiential learning as a program-level teaching philosophy rather than as isolated activities",
-   "type": "principle"
-  },
-  {
-   "description": "Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.",
-   "id": "explaining-their-thinking",
-   "path": "principles/explaining-their-thinking.md",
-   "status": "review",
-   "title": "Explaining Their Thinking",
    "type": "principle"
   },
   {
@@ -42495,6 +42479,17 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "explaining-their-thinking"
+   ],
+   "description": "Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.",
+   "id": "self-explanation",
+   "path": "principles/self-explanation.md",
+   "status": "review",
+   "title": "Self-Explanation",
+   "type": "principle"
+  },
+  {
    "description": "Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion.",
    "id": "self-monitoring",
    "path": "principles/self-monitoring.md",
@@ -42504,21 +42499,14 @@
   },
   {
    "aliases": [
-    "metacognition"
+    "metacognition",
+    "self-regulation"
    ],
    "description": "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured.",
    "id": "self-regulated-learning",
    "path": "principles/self-regulated-learning.md",
    "status": "review",
    "title": "Self-Regulated Learning",
-   "type": "principle"
-  },
-  {
-   "description": "Self-regulation is the short-form canonical target for instructional designs that help learners plan, monitor, and adjust behavior, effort, and strategy over time.",
-   "id": "self-regulation",
-   "path": "principles/self-regulation.md",
-   "status": "review",
-   "title": "Self-Regulation",
    "type": "principle"
   },
   {
@@ -42639,14 +42627,6 @@
    "path": "principles/social-interdependence.md",
    "status": "review",
    "title": "Social Interdependence",
-   "type": "principle"
-  },
-  {
-   "description": "Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.",
-   "id": "social-learning",
-   "path": "principles/social-learning.md",
-   "status": "review",
-   "title": "Social Learning",
    "type": "principle"
   },
   {
@@ -81108,7 +81088,6 @@
    "balanced-authoring-constraints": "balanced-authoring-constraints",
    "base-attributes-on-cognitive-model": "base-attributes-on-cognitive-model",
    "behavioral-science-coursework-human-side-enterprise": "behavioral-science-coursework-human-side-enterprise",
-   "behaviorism": "behaviorism",
    "bind-teaching-testing-task-based-washback": "bind-teaching-testing-task-based-washback",
    "building-empathy": "building-empathy",
    "bullying-prevention-and-intervention": "bullying-prevention-and-intervention",
@@ -81226,7 +81205,7 @@
    "experiential-course-design-practice-centered-diagnostic": "experiential-course-design-practice-centered-diagnostic",
    "experiential-learning": "experiential-learning",
    "experiential-learning-as-program-philosophy": "experiential-learning-as-program-philosophy",
-   "explaining-their-thinking": "explaining-their-thinking",
+   "explaining-their-thinking": "self-explanation",
    "explicit-instruction": "direct-instruction",
    "explicit-instruction-computer-basics": "explicit-instruction-computer-basics",
    "explicit-instruction-internet-search": "explicit-instruction-internet-search",
@@ -81459,9 +81438,10 @@
    "self-affirmation": "self-affirmation",
    "self-determination-theory": "self-determination-theory",
    "self-directed-learning": "self-directed-learning",
+   "self-explanation": "self-explanation",
    "self-monitoring": "self-monitoring",
    "self-regulated-learning": "self-regulated-learning",
-   "self-regulation": "self-regulation",
+   "self-regulation": "self-regulated-learning",
    "semantic-mapping-principle": "semantic-mapping-principle",
    "separate-assistance-from-assessment": "separate-assistance-from-assessment",
    "sequencing": "sequencing",
@@ -81477,7 +81457,6 @@
    "skills-sprint": "skills-sprint",
    "social-constructivism": "social-constructivism",
    "social-interdependence": "social-interdependence",
-   "social-learning": "social-learning",
    "social-presence": "social-presence",
    "spaced-learning": "spaced-learning",
    "spaced-practice": "spaced-learning",

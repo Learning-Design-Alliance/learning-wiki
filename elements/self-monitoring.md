@@ -21,7 +21,7 @@ Self-monitoring is the element in which learners track their own attention, beha
 
 ### Affordances
 - [Self-Monitoring](../principles/self-monitoring.md)
-- [Self-Regulation](../principles/self-regulation.md)
+- [Self-Regulation](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

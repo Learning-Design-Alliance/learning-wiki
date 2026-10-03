@@ -81,8 +81,8 @@ A course-end exam advantage, a narrowed achievement gap, durable retention, tran
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)
-- [Explaining Their Thinking](explaining-their-thinking.md)
-- [Social Learning](social-learning.md)
+- [Explaining Their Thinking](self-explanation.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 
 ## Examples
 - Learners solve, discuss, and compare approaches instead of only hearing a lecture.

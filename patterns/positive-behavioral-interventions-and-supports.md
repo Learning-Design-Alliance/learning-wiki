@@ -21,7 +21,7 @@ Positive Behavioral Interventions and Supports (PBIS) is a multi-tiered framewor
 
 ## Implications
 
-PBIS treats behavior as a learned skill rather than a character defect, applying the same instructional logic to expectations as to academics: define, model, practice, and reinforce. This grounding in [Behaviorism](../principles/behaviorism.md) — reinforcement of desired behavior rather than punishment of undesired behavior — is combined with explicit teaching so that students know exactly what "be respectful" looks like in each setting. Consistent, predictable acknowledgment systems build a sense of [belonging](../elements/belonging.md) and school climate, and randomized trials show school-wide implementation reduces office discipline referrals and suspensions [Bradshaw et al. RCT evidence.](https://doi.org/10.1037/a0018125) [+S]. Because punitive discipline disproportionately harms marginalized students, pairing PBIS with empathic rather than exclusionary responses to misbehavior further reduces suspensions [Brief empathic-discipline intervention cuts suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
+PBIS treats behavior as a learned skill rather than a character defect, applying the same instructional logic to expectations as to academics: define, model, practice, and reinforce. This grounding in [Behaviorism](../theories/behaviorism.md) — reinforcement of desired behavior rather than punishment of undesired behavior — is combined with explicit teaching so that students know exactly what "be respectful" looks like in each setting. Consistent, predictable acknowledgment systems build a sense of [belonging](../elements/belonging.md) and school climate, and randomized trials show school-wide implementation reduces office discipline referrals and suspensions [Bradshaw et al. RCT evidence.](https://doi.org/10.1037/a0018125) [+S]. Because punitive discipline disproportionately harms marginalized students, pairing PBIS with empathic rather than exclusionary responses to misbehavior further reduces suspensions [Brief empathic-discipline intervention cuts suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
 
 ### Context
 #### Requirements
@@ -84,7 +84,7 @@ Program or whole school — PBIS is designed as a school-wide system, not a clas
 7. **Tier 3 support** — Conduct functional behavioral assessments and build individualized support plans with family involvement
 
 ### Affordances
-- [Behaviorism](../principles/behaviorism.md) — the acknowledgment system operationalizes reinforcement of desired behavior instead of punishment of undesired behavior
+- [Behaviorism](../theories/behaviorism.md) — the acknowledgment system operationalizes reinforcement of desired behavior instead of punishment of undesired behavior
 - [Clear Structure](../principles/clear-structure.md) — explicitly defined, taught expectations remove ambiguity about what is required in each setting
 - [Belonging](../elements/belonging.md) — a predictable, positively framed school culture strengthens students' sense of being known and valued
 - [Autonomy](../principles/autonomy.md) — mature implementations shift from tangible rewards toward self-monitoring and student ownership of behavior

@@ -46,7 +46,7 @@ Discussion prompts convert passive content exposure into active knowledge constr
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — a prompt is the minimal unit that converts a presentation into an activity; it forces retrieval, articulation, and evaluation rather than recognition
-- [Social Learning](../principles/social-learning.md) — prompts structure the peer modeling and vicarious learning that occur when learners observe how others reason about the same question
+- [Social Learning](../theories/sociocultural-theory.md) — prompts structure the peer modeling and vicarious learning that occur when learners observe how others reason about the same question
 - [Cognitive Activation](../principles/cognitive-activation.md) — a well-posed prompt creates the productive disequilibrium that drives deeper processing
 - [Communities of Practice](../principles/communities-of-practice.md) — recurring discussion prompts around authentic problems help learners adopt the discourse norms of a discipline
 

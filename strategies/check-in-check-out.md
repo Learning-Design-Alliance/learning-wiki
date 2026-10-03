@@ -62,7 +62,7 @@ CICO works because it compresses the feedback loop: behavior that would otherwis
 
 ## Related Strategies
 - [Check-ins](../principles/check-ins.md) — the broader family of brief adult–student contact routines; CICO is its most structured, data-driven form
-- [Positive behavior supports](../principles/behaviorism.md) — CICO is a Tier 2 application of reinforcement contingencies
+- [Positive behavior supports](../theories/behaviorism.md) — CICO is a Tier 2 application of reinforcement contingencies
 
 ## Examples
 - A middle school runs CICO from its PBIS framework: 40 students check in with the front-office counselor each morning; students earning 80% of points for a week earn a brief preferred activity, and point data drives the student-support team's Tier 3 referrals.

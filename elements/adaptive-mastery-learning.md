@@ -47,7 +47,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - Self-efficacy: visible progress through levels builds confidence that supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Affordances
-- [Behaviorism](../principles/behaviorism.md) — mastery gating with immediate feedback is a direct application of reinforcement contingencies: correct responses advance the learner, errors trigger corrective loops
+- [Behaviorism](../theories/behaviorism.md) — mastery gating with immediate feedback is a direct application of reinforcement contingencies: correct responses advance the learner, errors trigger corrective loops
 - [Cognitive Load Theory](../principles/cognitive-load-theory.md) — adaptive difficulty keeps tasks within working memory limits, serving challenges that are neither overwhelming nor trivially easy
 - [Self-Determination Theory](../principles/self-determination-theory.md) — learner-paced progression and visible mastery support competence; systems that offer path choice also support autonomy
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the continuous performance data that drives adaptation doubles as formative assessment, making each item a diagnostic event

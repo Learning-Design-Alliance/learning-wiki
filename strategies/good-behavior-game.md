@@ -19,7 +19,7 @@ The Good Behavior Game (GBG) is a group-contingency classroom management strateg
 
 ## Design Implications
 
-GBG applies group contingency and reinforcement principles to reduce disruption and increase academic engaged time, with effects documented across dozens of classroom studies [Behaviorism](../principles/behaviorism.md) [+S]. Its power comes from restructuring peer dynamics: students who might otherwise reinforce disruption instead cue teammates toward compliance, making the intervention largely self-sustaining once routines are established [+M]. Longitudinal research links early GBG exposure to reduced aggression and later risk of substance-use and antisocial outcomes, suggesting effects beyond immediate classroom order [+M].
+GBG applies group contingency and reinforcement principles to reduce disruption and increase academic engaged time, with effects documented across dozens of classroom studies [Behaviorism](../theories/behaviorism.md) [+S]. Its power comes from restructuring peer dynamics: students who might otherwise reinforce disruption instead cue teammates toward compliance, making the intervention largely self-sustaining once routines are established [+M]. Longitudinal research links early GBG exposure to reduced aggression and later risk of substance-use and antisocial outcomes, suggesting effects beyond immediate classroom order [+M].
 
 ### Context
 #### Requirements

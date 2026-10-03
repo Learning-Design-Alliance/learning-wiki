@@ -1,7 +1,7 @@
 ---
 type: principle
 id: self-regulated-learning
-aliases: [metacognition]
+aliases: [metacognition, self-regulation]
 title: Self-Regulated Learning
 description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
 status: review
@@ -85,6 +85,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [MetaTutor: a hypermedia-based ITS with pedagogical agents scaffolding SRL about the circulatory system](../elements/metatutor-srl-prompting-its.md)
 - Learners predict performance before a quiz and compare the result afterward.
 - Students annotate where they are confused and choose the next support to use.
+- A project-based course requires weekly progress checks in which learners compare current work to rubric criteria and select one concrete adjustment for the next week.
+- A reading intervention asks learners to pause after each section, rate comprehension, and decide whether to reread, annotate, or ask for clarification.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
@@ -169,4 +171,47 @@ Metacognition improves learning when learners can compare their current understa
 ## Key Sources
 - Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
 - Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
+-->
+
+<!-- merged 2026-10-03 from principles/self-regulation ("Self-Regulation"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Self-Regulation
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 unmarked) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+
+## Description
+Self-regulation is the short-form canonical target for instructional designs that help learners plan, monitor, and adjust behavior, effort, and strategy over time.
+
+## Implications
+Self-regulation becomes more likely when learners have clear goals, usable feedback, and explicit opportunities to interpret what is or is not working. [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) makes the core design implication unusually direct: learners need visible checkpoints and criteria so they can decide whether to persist, revise, or seek support instead of repeating the same approach. In practice, this means designing reflection prompts and decision moments rather than treating regulation as an invisible personal trait.
+
+### Context
+#### Requirements
+- **Clear goals or standards**
+- **Feedback or signals learners can use**
+- **Opportunities to adjust strategy or effort**
+#### Constraints
+- **Learners often need explicit supports before self-regulation becomes reliable**
+
+### Target Learning Objectives
+- Strengthen planning, persistence, monitoring, and adaptive adjustment.
+
+### Theory
+#### Supporting
+- [Self-Regulated Learning](self-regulated-learning.md)
+
+### Claims
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — Prompting learners to monitor progress against goals improves adaptive adjustment and strategic control.
+
+## Related Principles
+- [Metacognition](self-regulated-learning.md)
+- [Goal Setting & Monitoring](goal-setting-monitoring.md)
+
+## Examples
+- A project-based course requires weekly progress checks in which learners compare current work to rubric criteria and select one concrete adjustment for the next week.
+- A reading intervention asks learners to pause after each section, rate comprehension, and decide whether to reread, annotate, or ask for clarification.
+
+## Key Sources
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 -->
