@@ -89,6 +89,41 @@ answer broke sign errors into their kinds, the new one led with the evidence's l
 again: **a page whose default design is less concrete than the old guidance loses**, and the situation table did not
 make up for it. The complete briefs for game-based learning, reflection and elaboration theory split 2–2.
 
+## Rework of the two losing pages (2026-10-03)
+
+Read against the old answers that beat them, both losses had the same gap: **no dose or progression across
+sessions.** The old guided-practice answer gave a three-week arc for withdrawing support; the old error-analysis answer
+gave 20–30-minute segments within each session and a progression from a fictional peer's errors to the learner's
+own. Both new pages planned one session. Changes (all labelled untested proposals, scratch re-test $1.11):
+
+- **Error analysis**: two default-design steps, building the examples from the learners' own diagnostic errors
+  sorted by the step where each goes wrong, and a dose and progression across sessions.
+- **Guided practice**: default-design steps for items where the step is not needed (practising the decision) and an
+  arc for withdrawing support across sessions; a think-aloud at the decision point when re-modelling. **The
+  three-in-four success figure is gone from the design**: both graders called it an arbitrary import from retrieval
+  practice, so the claim stays cited for what it is and the threshold is set locally. A new situation row covers
+  many-step or costly-error tasks (more rounds, a stricter release criterion, supervised unassisted work, and what
+  "working alone" means), which the old answer had elicited for the workplace brief. The classroom row now has the
+  teacher scan every learner's attempt at once rather than leaning on peer checking, which graders thought unsafe
+  for 8-year-olds holding a common misconception.
+
+Re-tested on the same briefs, the reworked page against the old one (one fresh answer per run, both graders, both
+orders):
+
+| Brief | Wave 3 | After rework |
+|---|---|---|
+| Error analysis, complete (adult equivalency maths) | 1–3 | **3–1** |
+| Error analysis, sparse | 3–1 | 3–1 |
+| Guided practice, complete (Year 4 subtraction) | 1–3 | 2–2, 1–3, then **4–0** after the classroom row |
+| Guided practice, sparse (new hires) | 1–3 | 1–3, **3–1** after the success-rate and stakes changes, 2–2 |
+
+One answer per run moves a brief by about one judgement either way, so read the direction, not a single cell.
+**What remains, and is not the pages': answers cite the page's own structure to the designer** ("page, step 4",
+"the observation table", "the classroom row"), and graders mark that down as meta-commentary. The answer prompt asks
+for answers from the page, and the new pages' numbered steps and named rows invite it; every converted page is
+exposed to it, and it affects old-versus-new comparisons in the old pages' favour. A test that tells the answerer
+to write for a designer who has not seen the page would separate the two.
+
 ## Open findings from the agents
 
 - **Citation mismatches between frontmatter and Key Sources** (left unchanged; each needs a Crossref check):
