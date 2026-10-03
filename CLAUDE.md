@@ -141,6 +141,12 @@ finds out.
   real test needs briefs that differ in one fact. **Guided practice lost both briefs 1–3** to the old page's concrete
   plans, the wave 1 lesson again: a default design less concrete than the old guidance loses, and a situation table
   does not make up for it.
+- **Reworked the next day** (`wave-3.md`, "Rework"): both losing pages lacked **a dose and a progression across
+  sessions**, which the winning old answers had. With those added, error analysis's complete brief went 1–3 → 3–1 and
+  guided practice's 1–3 → 4–0 (sparse 1–3 → 2–2); guided practice also stopped deriving a success threshold from a
+  retrieval-practice claim, which graders called an import. **Give a default design a multi-session arc, not only a
+  lesson.** Answers that cite the page's structure ("page, step 4") are marked down; that is the answer prompt's
+  doing, and it biases these tests towards the old pages.
 
 ### 2026-10-02 (late night) — conversion wave 2: 15 more pages, and no page lost
 
