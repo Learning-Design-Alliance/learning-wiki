@@ -61,7 +61,7 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - Inquiry-oriented perspectives — understanding deepens through guided questioning and evidence use.
 - Cooperative learning perspectives — group roles and shared reasoning support content and process development.
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 #### Contradicting / Qualifying
 - POGIL still needs enough guidance for novices; it is not a defense of minimal instruction.
 - Some straightforward procedural content may be more efficiently taught with direct demonstration first.
@@ -153,7 +153,7 @@ POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Lea
 ### Theory
 #### Supporting
 - [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 
 ### Claims
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]

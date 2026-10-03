@@ -1,7 +1,8 @@
 ---
 type: principle
-id: explaining-their-thinking
-title: Explaining Their Thinking
+id: self-explanation
+aliases: [explaining-their-thinking]
+title: Self-Explanation
 description: Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
 status: review
 generated:
@@ -22,7 +23,7 @@ sources:
     author: McNamara, D. S
 ---
 
-# Explaining Their Thinking
+# Self-Explanation
 
 > **Principle** · [All principles](index.md)
 > **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size

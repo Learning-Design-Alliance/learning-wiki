@@ -48,7 +48,7 @@ Procedural learning is most important when the learning target is a repeatable p
 ### Theory
 #### Supporting
 - [Deliberate Practice](deliberate-practice.md) — focused repetition and feedback refine procedural performance
-- [Behaviorism](behaviorism.md) — repeated response plus feedback can shape reliable routines
+- [Behaviorism](../theories/behaviorism.md) — repeated response plus feedback can shape reliable routines
 - [Information Processing Theory](../theories/information-processing-theory.md) — repeated performance helps move procedures from effortful processing toward greater fluency
 
 #### Contradicting / Qualifying

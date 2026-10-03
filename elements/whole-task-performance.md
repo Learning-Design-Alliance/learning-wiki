@@ -60,7 +60,7 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — provides the social structure for learners to observe and gradually adopt the tacit reasoning and decision-making processes of experts during complex tasks.
 - [Scaffolding](../principles/scaffolding.md) — manages the inherent complexity of whole tasks by providing temporary, fading supports that allow learners to experience the "whole" before they have mastered every "part."
 - [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md) — increases learner investment by anchoring performance in real-world consequences and professional standards.
-- [Explaining Their Thinking](../principles/explaining-their-thinking.md) — requires learners to articulate the rationale behind their integrative decisions, fostering metacognitive monitoring and deeper schema formation.
+- [Explaining Their Thinking](../principles/self-explanation.md) — requires learners to articulate the rationale behind their integrative decisions, fostering metacognitive monitoring and deeper schema formation.
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

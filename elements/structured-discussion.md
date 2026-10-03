@@ -40,7 +40,7 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - Improve quality of dialogue, reasoning, and equitable participation.
 
 ### Affordances
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Perspective-Taking](../principles/perspective-taking.md)
 

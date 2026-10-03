@@ -59,7 +59,7 @@ The pattern is especially strong for building number sense, conceptual understan
 - Sociocultural perspectives — mathematical reasoning develops through explanation, comparison, and guided discourse.
 - Formative assessment traditions — instruction improves when it responds to evidence of learner thinking.
 - [Peer Learning](../principles/peer-learning.md)
-- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
+- [Explaining Their Thinking](../principles/self-explanation.md)
 #### Contradicting / Qualifying
 - Learner-generated strategies do not remove the need for explicit consolidation of efficient or generalizable methods.
 - Some learners will still need direct support if strategy generation stalls or misconceptions harden.
@@ -142,7 +142,7 @@ CGI for Math is the short-form canonical target for Cognitively Guided Instructi
 ### Theory
 #### Supporting
 - [Peer Learning](../principles/peer-learning.md)
-- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
+- [Explaining Their Thinking](../principles/self-explanation.md)
 
 ## Related Patterns
 - [Cognitively Guided Instruction (CGI) for Math](cognitively-guided-instruction-cgi-for-math.md)

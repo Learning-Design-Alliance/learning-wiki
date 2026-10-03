@@ -60,7 +60,7 @@ Constructive correction works because feedback directed at the task and process 
 
 ## Related Strategies
 - [Formative feedback strategies](../principles/assessment-for-learning.md) — constructive correction is the corrective half of the formative assessment cycle
-- [Positive framing of expectations](../principles/behaviorism.md) — correction works best against a backdrop of high rates of specific positive acknowledgment
+- [Positive framing of expectations](../theories/behaviorism.md) — correction works best against a backdrop of high rates of specific positive acknowledgment
 - [Restorative conversations](../principles/communities-of-practice.md) — a relational variant for repeated or interpersonal behavioral issues
 
 ## Examples

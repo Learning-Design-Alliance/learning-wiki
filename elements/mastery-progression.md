@@ -45,7 +45,7 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 - Cumulative schema formation: each new concept integrates with verified prior knowledge
 
 ### Affordances
-- [Behaviorism](../principles/behaviorism.md) — mastery gating enacts reinforcement contingencies: advancement itself is the reinforcer, delivered contingent on a specified performance criterion
+- [Behaviorism](../theories/behaviorism.md) — mastery gating enacts reinforcement contingencies: advancement itself is the reinforcer, delivered contingent on a specified performance criterion
 - [Deliberate Practice](../principles/deliberate-practice.md) — the corrective cycle after a failed gate is deliberate practice by design: targeted work on a diagnosed weakness with feedback, repeated until the criterion is met
 - [Adaptive Learning](../principles/adaptive-learning.md) — mastery rules are the core logic of adaptive systems; the gate determines what content the algorithm serves next
 - [Assessment for Learning](../principles/assessment-for-learning.md) — gates function as frequent formative checkpoints that diagnose gaps rather than merely rank learners

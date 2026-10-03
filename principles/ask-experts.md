@@ -88,7 +88,7 @@ Asking experts works best when the interaction helps learners move from vague co
 - [Mentoring/Coaching](mentoringcoaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic
 - [Communities of Practice](communities-of-practice.md) — extends expert access into sustained participation in a practice community
 - [Guided Practice](guided-practice.md) — turns expert explanation into coached performance on real tasks
-- [Explaining Their Thinking](explaining-their-thinking.md) — experts are most useful when they elicit learner reasoning rather than replacing it
+- [Explaining Their Thinking](self-explanation.md) — experts are most useful when they elicit learner reasoning rather than replacing it
 - [Purposeful Reflection](purposeful-reflection.md) — follow-up reflection helps consolidate what was learned from the interaction and what remains uncertain
 
 ## Examples

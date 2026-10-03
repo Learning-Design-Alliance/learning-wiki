@@ -66,7 +66,7 @@ Case-based learning is powerful because it places concepts inside realistic unce
 ## Related Principles
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — cases become stronger when decisions are framed for realistic stakeholders
 - [Inquiry-based Learning](inquiry-based-learning.md) — case work often begins with uncertainty, question generation, and evidence seeking
-- [Explaining Their Thinking](explaining-their-thinking.md) — case analysis depends on visible reasoning, not just chosen conclusions
+- [Explaining Their Thinking](self-explanation.md) — case analysis depends on visible reasoning, not just chosen conclusions
 - [Ask Experts](ask-experts.md) — expert commentary can make tacit judgment visible after learners attempt a case themselves
 
 ## Examples

@@ -19,7 +19,7 @@ A visual timer is a physical or digital device (e.g., a shrinking red disc, sand
 
 ## Design Implications
 
-Visual timers convert an abstract, invisible quantity into a perceptually available one, reducing the working-memory and inferential demands of tracking time [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their behavioral benefit comes from making expectations concrete and predictable: when the "end" is visible, transitions and on-task behavior are cued by the environment rather than by repeated adult prompting [+M]. This aligns with antecedent-based support in [Behaviorism](../principles/behaviorism.md) — the timer functions as a discriminative stimulus that signals what happens next, reducing reliance on verbal redirection.
+Visual timers convert an abstract, invisible quantity into a perceptually available one, reducing the working-memory and inferential demands of tracking time [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their behavioral benefit comes from making expectations concrete and predictable: when the "end" is visible, transitions and on-task behavior are cued by the environment rather than by repeated adult prompting [+M]. This aligns with antecedent-based support in [Behaviorism](../theories/behaviorism.md) — the timer functions as a discriminative stimulus that signals what happens next, reducing reliance on verbal redirection.
 
 ### Context
 #### Requirements

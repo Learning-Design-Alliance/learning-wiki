@@ -19,7 +19,7 @@ Using a content "word of the week" to signal that it's time for silence involves
 
 ## Design Implications
 
-The strategy works by pairing a conditioned stimulus (the word) with a consistent behavioral response, a classic [Behaviorism](../principles/behaviorism.md) mechanism: repeated, predictable cue–response pairing builds an automatic attention routine [+M]. Its distinctive value over generic signals (clapping, countdowns) is that every use of the signal is also a low-cost repetition of academic vocabulary; frequent, brief encounters with target terms distributed across the week support retention better than a single massed exposure [+M]. Because the word itself must be recognized quickly for the signal to work, terms should be short, phonologically salient, and already introduced — an unfamiliar word delays the response and defeats the purpose [~M].
+The strategy works by pairing a conditioned stimulus (the word) with a consistent behavioral response, a classic [Behaviorism](../theories/behaviorism.md) mechanism: repeated, predictable cue–response pairing builds an automatic attention routine [+M]. Its distinctive value over generic signals (clapping, countdowns) is that every use of the signal is also a low-cost repetition of academic vocabulary; frequent, brief encounters with target terms distributed across the week support retention better than a single massed exposure [+M]. Because the word itself must be recognized quickly for the signal to work, terms should be short, phonologically salient, and already introduced — an unfamiliar word delays the response and defeats the purpose [~M].
 
 ### Context
 #### Requirements

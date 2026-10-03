@@ -61,7 +61,7 @@ Because people naturally test hypotheses by seeking confirming evidence, simply 
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — considering the opposite is a specific, high-leverage reflection prompt applied at the moment of judgment
-- [Explaining Their Thinking](explaining-their-thinking.md) — self-explanation and counter-consideration both force generative processing of one's own reasoning
+- [Explaining Their Thinking](self-explanation.md) — self-explanation and counter-consideration both force generative processing of one's own reasoning
 - [Pairing Non-Examples With Examples](pairing-non-examples-with-examples.md) — non-examples externalize the "opposite" case, supporting discrimination between correct and incorrect applications
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — deliberately engineered contradiction is the motivational engine this technique exploits
 

@@ -36,7 +36,7 @@ Drill and practice is the element in which learners repeatedly perform a focused
 
 ### Affordances
 - [Deliberate Practice](../principles/deliberate-practice.md)
-- [Behaviorism](../principles/behaviorism.md)
+- [Behaviorism](../theories/behaviorism.md)
 - [Retrieval Practice](../principles/retrieval-practice.md)
 
 ### Claims

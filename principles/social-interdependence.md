@@ -48,7 +48,7 @@ Johnson and Johnson (1998; see also Smith et al., 2005) operationalize the requi
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md)
-- [Social Learning](social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — students from cultures emphasizing an interdependent self-concept may find cooperative structures an especially natural fit, while students expecting individual, competitive evaluation may need more explicit orientation to it
 
 ## Examples

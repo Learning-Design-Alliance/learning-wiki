@@ -75,7 +75,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 431 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 421 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 366 pages | 2 | q3–q4 | 1 of 2 |
-| [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 343 pages | 2 | q3 | 0 of 2 |
+| [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 342 pages | 2 | q3 | 0 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 338 pages | 2 | q2 | 0 of 2 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 241 pages | 2 | q3–q4 | 2 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 235 pages | 2 | q3 | 0 of 2 |
@@ -133,13 +133,13 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 479 | 399 | 1 | 0 |
+| [principles](principles/index.md) | 476 | 396 | 1 | 0 |
 | [elements](elements/index.md) | 733 | 498 | 2 | 0 |
 | [patterns](patterns/index.md) | 141 | 117 | 5 | 0 |
 | [strategies](strategies/index.md) | 3,184 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 946 | 756 | 1 | 0 |
+| [theories](theories/index.md) | 946 | 757 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
 | [designs](designs/index.md) | 115 | 93 | 1 | 0 |
 

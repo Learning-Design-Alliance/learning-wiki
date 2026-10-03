@@ -40,8 +40,8 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - Clarify assumptions, test evidence, and deepen reasoning.
 
 ### Affordances
-- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
-- [Social Learning](../principles/social-learning.md)
+- [Explaining Their Thinking](../principles/self-explanation.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Constructivism](../principles/constructivism.md)
 
 ### Claims

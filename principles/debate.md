@@ -71,7 +71,7 @@ Debate improves learning when it requires learners to justify positions with evi
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — debate is a more structured, adversarial form of discussion
 - [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — debate can force consideration of alternative viewpoints
-- [Explaining Their Thinking](explaining-their-thinking.md) — debate externalizes reasoning under pressure
+- [Explaining Their Thinking](self-explanation.md) — debate externalizes reasoning under pressure
 - [Evaluating Sources](evaluating-sources.md) — evidence quality matters as much as speaking performance
 
 ## Examples

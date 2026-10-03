@@ -31,7 +31,7 @@ Resource hubs are centralized collections of materials, links, tools, or referen
 
 ### Affordances
 - [Knowledge Organization](../principles/knowledge-organization.md)
-- [Self-Regulation](../principles/self-regulation.md)
+- [Self-Regulation](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

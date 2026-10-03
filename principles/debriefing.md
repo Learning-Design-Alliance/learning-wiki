@@ -80,7 +80,7 @@ Debriefing matters because experience by itself does not reliably produce learni
 - [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action
 - [Error Analysis](error-analysis.md) — strong debriefs convert mistakes into inspectable evidence
 - [Check-ins](check-ins.md) — emotionally charged debriefs may need brief regulation or climate-setting before analytic discussion
-- [Explaining Their Thinking](explaining-their-thinking.md) — debriefing depends on making reasoning visible
+- [Explaining Their Thinking](self-explanation.md) — debriefing depends on making reasoning visible
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->

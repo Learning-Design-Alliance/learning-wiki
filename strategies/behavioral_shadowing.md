@@ -60,7 +60,7 @@ Behavioral shadowing is a safety-first intervention that also functions as a dat
 7. [Fade](../claims/fading-support-promotes-transfer-of-responsibility.md) proximity gradually as the child sustains incident-free periods, transferring monitoring to the classroom routine.
 
 ## Related Strategies
-- [Positive Behavior Support](../principles/behaviorism.md) — shadowing is a Tier 3, individualized tactic within a broader prevention framework
+- [Positive Behavior Support](../theories/behaviorism.md) — shadowing is a Tier 3, individualized tactic within a broader prevention framework
 - [Check-In](../elements/check-in.md) — structured adult-child contact that can replace shadowing as proximity is faded
 
 ## Related Elements

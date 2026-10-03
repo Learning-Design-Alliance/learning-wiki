@@ -36,7 +36,7 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 
 ### Affordances
 - [Retrieval Practice](../principles/retrieval-practice.md)
-- [Self-Regulation](../principles/self-regulation.md)
+- [Self-Regulation](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

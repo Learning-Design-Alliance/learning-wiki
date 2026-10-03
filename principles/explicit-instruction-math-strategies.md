@@ -80,7 +80,7 @@ Explicit instruction in math strategies works best when learners are shown not o
 - [Worked Examples](worked-examples.md) — strategy instruction often begins with explicit modeled solutions
 - [Error Analysis](error-analysis.md) — comparing failed and successful strategies can sharpen strategic judgment
 - [Real-World Math](real-world-math.md) — strategy flexibility matters most when problems are varied and contextualized
-- [Explaining Their Thinking](explaining-their-thinking.md) — strategy use becomes durable when learners justify choices aloud or in writing
+- [Explaining Their Thinking](self-explanation.md) — strategy use becomes durable when learners justify choices aloud or in writing
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->

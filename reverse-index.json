@@ -23,7 +23,7 @@
   "elements->patterns": 246,
   "elements->principles": 316,
   "elements->processes": 1,
-  "elements->theories": 177,
+  "elements->theories": 191,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -44,15 +44,15 @@
   "patterns->patterns": 88,
   "patterns->principles": 73,
   "patterns->processes": 1,
-  "patterns->theories": 28,
-  "principles->claims": 399,
+  "patterns->theories": 31,
+  "principles->claims": 396,
   "principles->designs": 34,
-  "principles->elements": 88,
+  "principles->elements": 87,
   "principles->methods": 3,
-  "principles->patterns": 69,
-  "principles->principles": 269,
+  "principles->patterns": 68,
+  "principles->principles": 266,
   "principles->processes": 2,
-  "principles->theories": 107,
+  "principles->theories": 109,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -65,10 +65,10 @@
   "strategies->elements": 2396,
   "strategies->methods": 14,
   "strategies->patterns": 811,
-  "strategies->principles": 1742,
+  "strategies->principles": 1736,
   "strategies->processes": 9,
-  "strategies->theories": 646,
-  "theories->claims": 756,
+  "strategies->theories": 658,
+  "theories->claims": 757,
   "theories->designs": 60,
   "theories->elements": 158,
   "theories->methods": 14,
@@ -88788,11 +88788,6 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "behaviorism",
-      "strength": "M"
-     },
-     {
       "polarity": "+",
       "slug": "clear-structure",
       "strength": "M"
@@ -89290,6 +89285,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "behaviorism",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "self-regulated-learning",
@@ -100800,11 +100800,6 @@
      },
      {
       "polarity": "+",
-      "slug": "explaining-their-thinking",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
       "slug": "explicit-instruction-internet-search",
       "strength": "S"
      },
@@ -100947,12 +100942,12 @@
       "slug": "rhetorical-skill-development"
      },
      {
-      "slug": "social-constructivism"
+      "polarity": "+",
+      "slug": "self-explanation",
+      "strength": "S"
      },
      {
-      "polarity": "+",
-      "slug": "social-learning",
-      "strength": "S"
+      "slug": "social-constructivism"
      },
      {
       "polarity": "~",
@@ -102718,6 +102713,11 @@
       "polarity": "+",
       "slug": "constructivism",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "sociocultural-theory",
+      "strength": "S"
      }
     ]
    },
@@ -103360,11 +103360,6 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "behaviorism",
-      "strength": "M"
-     },
-     {
       "polarity": "+",
       "slug": "check-ins",
       "strength": "W"
@@ -103564,15 +103559,7 @@
       "strength": "M"
      },
      {
-      "slug": "self-regulation"
-     },
-     {
       "slug": "social-constructivism"
-     },
-     {
-      "polarity": "~",
-      "slug": "social-learning",
-      "strength": "M"
      },
      {
       "polarity": "~",
@@ -104818,12 +104805,22 @@
     "theories": [
      {
       "polarity": "~",
+      "slug": "behaviorism",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "self-determination-theory",
       "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "self-regulated-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "sociocultural-theory",
       "strength": "M"
      }
     ]
@@ -109686,11 +109683,6 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "behaviorism",
-      "strength": "S"
-     },
-     {
       "polarity": "+",
       "slug": "clear-structure",
       "strength": "M"
@@ -109880,6 +109872,11 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "~",
+      "slug": "behaviorism",
+      "strength": "S"
+     },
      {
       "polarity": "~",
       "slug": "self-determination-theory",
@@ -149779,13 +149776,6 @@
      }
     ]
    },
-   "drill-practice": {
-    "principles": [
-     {
-      "slug": "behaviorism"
-     }
-    ]
-   },
    "dual-coding": {
     "elements": [
      {
@@ -172725,9 +172715,6 @@
     ],
     "principles": [
      {
-      "slug": "behaviorism"
-     },
-     {
       "slug": "deliberate-practice"
      },
      {
@@ -179565,98 +179552,6 @@
      }
     ]
    },
-   "behaviorism": {
-    "elements": [
-     {
-      "slug": "adaptive-mastery-learning"
-     },
-     {
-      "slug": "drill-practice"
-     },
-     {
-      "slug": "mastery-progression"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "positive-behavioral-interventions-and-supports"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "procedural-learning"
-     },
-     {
-      "slug": "reinforcement-theory"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "behavior-specific-praise"
-     },
-     {
-      "slug": "behavioral_shadowing"
-     },
-     {
-      "slug": "check-in-check-out"
-     },
-     {
-      "polarity": "+",
-      "slug": "consistent_classroom_routines_and_schedules",
-      "strength": "M"
-     },
-     {
-      "slug": "content_word_signal"
-     },
-     {
-      "slug": "correcting_students_in_a_constructive_way"
-     },
-     {
-      "slug": "establishing_routines_and_procedures"
-     },
-     {
-      "polarity": "+",
-      "slug": "game-based_incentives_for_quiet",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "good-behavior-game",
-      "strength": "S"
-     },
-     {
-      "slug": "playworks_teamup_recess_program"
-     },
-     {
-      "slug": "positive-behavioral-interventions-and-supports-pbis"
-     },
-     {
-      "polarity": "+",
-      "slug": "positive-narration",
-      "strength": "M"
-     },
-     {
-      "slug": "positive_behavioral_interventions_and_supports_pbis"
-     },
-     {
-      "slug": "proximity-control"
-     },
-     {
-      "slug": "secret_student"
-     },
-     {
-      "slug": "timed-fact-fluency-drills"
-     },
-     {
-      "slug": "visual_timers"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "behaviorism-observable-behavior-theory-faryadi"
-     }
-    ]
-   },
    "building-empathy": {
     "claims": [
      {
@@ -185734,9 +185629,6 @@
      },
      {
       "slug": "situated-learning"
-     },
-     {
-      "slug": "social-learning"
      }
     ],
     "strategies": [
@@ -187053,9 +186945,6 @@
     ],
     "principles": [
      {
-      "slug": "behaviorism"
-     },
-     {
       "slug": "procedural-learning"
      }
     ],
@@ -187907,74 +187796,6 @@
      }
     ]
    },
-   "explaining-their-thinking": {
-    "elements": [
-     {
-      "slug": "erroneous-examples"
-     },
-     {
-      "slug": "justification"
-     },
-     {
-      "slug": "self-explanation"
-     },
-     {
-      "slug": "socratic-questioning"
-     },
-     {
-      "slug": "think-aloud"
-     },
-     {
-      "slug": "whole-task-performance"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "cognitively-guided-instruction-cgi-for-math"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "active-learning"
-     },
-     {
-      "slug": "ask-experts"
-     },
-     {
-      "slug": "case-studiescase-based-learning"
-     },
-     {
-      "slug": "cognitive-activation"
-     },
-     {
-      "slug": "considering-the-opposite"
-     },
-     {
-      "slug": "constructivism"
-     },
-     {
-      "slug": "creating-visual-representations"
-     },
-     {
-      "slug": "debate"
-     },
-     {
-      "slug": "debriefing"
-     },
-     {
-      "slug": "error-analysis"
-     },
-     {
-      "slug": "explicit-instruction-math-strategies"
-     },
-     {
-      "slug": "inquiry-based-learning"
-     },
-     {
-      "slug": "metaphors-analogies"
-     }
-    ]
-   },
    "explicit-instruction-internet-search": {
     "elements": [
      {
@@ -188516,9 +188337,6 @@
      },
      {
       "slug": "self-regulated-learning"
-     },
-     {
-      "slug": "self-regulation"
      },
      {
       "slug": "skills-sprint"
@@ -189513,9 +189331,6 @@
       "slug": "adaptive-learning"
      },
      {
-      "slug": "behaviorism"
-     },
-     {
       "slug": "competency-based-assessment"
      },
      {
@@ -189701,10 +189516,10 @@
       "slug": "direct-instruction"
      },
      {
-      "slug": "explaining-their-thinking"
+      "slug": "scaffolding-and-fading"
      },
      {
-      "slug": "scaffolding-and-fading"
+      "slug": "self-explanation"
      }
     ]
    },
@@ -190118,9 +189933,6 @@
       "slug": "social-constructivism"
      },
      {
-      "slug": "social-learning"
-     },
-     {
       "slug": "text-chats"
      }
     ],
@@ -190330,9 +190142,6 @@
      },
      {
       "slug": "rhetorical-skill-development"
-     },
-     {
-      "slug": "social-learning"
      }
     ]
    },
@@ -190962,9 +190771,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "behaviorism"
-     },
      {
       "slug": "effective-classroom-management-plan"
      },
@@ -191799,9 +191605,6 @@
       "slug": "disciplinary-literacy"
      },
      {
-      "slug": "explaining-their-thinking"
-     },
-     {
       "slug": "explicit-instruction-computer-basics"
      },
      {
@@ -191830,6 +191633,9 @@
      },
      {
       "slug": "scaffolding"
+     },
+     {
+      "slug": "self-explanation"
      },
      {
       "slug": "situated-learning"
@@ -191899,6 +191705,74 @@
      }
     ]
    },
+   "self-explanation": {
+    "elements": [
+     {
+      "slug": "erroneous-examples"
+     },
+     {
+      "slug": "justification"
+     },
+     {
+      "slug": "self-explanation"
+     },
+     {
+      "slug": "socratic-questioning"
+     },
+     {
+      "slug": "think-aloud"
+     },
+     {
+      "slug": "whole-task-performance"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "cognitively-guided-instruction-cgi-for-math"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "active-learning"
+     },
+     {
+      "slug": "ask-experts"
+     },
+     {
+      "slug": "case-studiescase-based-learning"
+     },
+     {
+      "slug": "cognitive-activation"
+     },
+     {
+      "slug": "considering-the-opposite"
+     },
+     {
+      "slug": "constructivism"
+     },
+     {
+      "slug": "creating-visual-representations"
+     },
+     {
+      "slug": "debate"
+     },
+     {
+      "slug": "debriefing"
+     },
+     {
+      "slug": "error-analysis"
+     },
+     {
+      "slug": "explicit-instruction-math-strategies"
+     },
+     {
+      "slug": "inquiry-based-learning"
+     },
+     {
+      "slug": "metaphors-analogies"
+     }
+    ]
+   },
    "self-monitoring": {
     "elements": [
      {
@@ -191940,6 +191814,9 @@
      },
      {
       "slug": "eliciting-student-thinking"
+     },
+     {
+      "slug": "goal-setting"
      },
      {
       "slug": "group-processing"
@@ -191990,6 +191867,9 @@
       "slug": "prior-knowledge-activation"
      },
      {
+      "slug": "progress-tracking"
+     },
+     {
       "slug": "provide-guidance"
      },
      {
@@ -191997,6 +191877,9 @@
      },
      {
       "slug": "reflection-activities"
+     },
+     {
+      "slug": "resource-hubs"
      },
      {
       "slug": "review"
@@ -192008,7 +191891,19 @@
       "slug": "self-explanation"
      },
      {
+      "slug": "self-monitoring"
+     },
+     {
+      "slug": "self-paced-learning"
+     },
+     {
+      "slug": "self-testing"
+     },
+     {
       "slug": "state-objectives"
+     },
+     {
+      "slug": "task-management"
      }
     ],
     "patterns": [
@@ -192020,6 +191915,9 @@
      },
      {
       "slug": "reflective-practice"
+     },
+     {
+      "slug": "self-directed-learning"
      },
      {
       "slug": "self-regulated-learning"
@@ -192043,9 +191941,6 @@
      },
      {
       "slug": "self-directed-learning"
-     },
-     {
-      "slug": "self-regulation"
      }
     ],
     "strategies": [
@@ -192054,45 +191949,6 @@
      },
      {
       "slug": "name_the_negative_voice"
-     }
-    ]
-   },
-   "self-regulation": {
-    "elements": [
-     {
-      "slug": "goal-setting"
-     },
-     {
-      "slug": "metacognition"
-     },
-     {
-      "slug": "metacognitive-reflection"
-     },
-     {
-      "slug": "progress-tracking"
-     },
-     {
-      "slug": "reflection-activities"
-     },
-     {
-      "slug": "resource-hubs"
-     },
-     {
-      "slug": "self-monitoring"
-     },
-     {
-      "slug": "self-paced-learning"
-     },
-     {
-      "slug": "self-testing"
-     },
-     {
-      "slug": "task-management"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "self-directed-learning"
      }
     ]
    },
@@ -192294,80 +192150,6 @@
      },
      {
       "slug": "self-determination-theory"
-     }
-    ]
-   },
-   "social-learning": {
-    "elements": [
-     {
-      "slug": "assigned-positions"
-     },
-     {
-      "slug": "collaboration"
-     },
-     {
-      "slug": "collaborative-decision-making"
-     },
-     {
-      "slug": "collaborative-discussion"
-     },
-     {
-      "slug": "discussion-prompt"
-     },
-     {
-      "slug": "expert-modeling"
-     },
-     {
-      "slug": "group-work"
-     },
-     {
-      "slug": "social-learning"
-     },
-     {
-      "slug": "socratic-questioning"
-     },
-     {
-      "slug": "structured-debate"
-     },
-     {
-      "slug": "structured-discussion"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "discussion-based-learning"
-     },
-     {
-      "slug": "process-oriented-guided-inquiry-learning-pogil"
-     },
-     {
-      "slug": "structured-academic-controversy"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "active-learning"
-     },
-     {
-      "slug": "collaborative-learning"
-     },
-     {
-      "slug": "community-of-inquiry"
-     },
-     {
-      "slug": "distributed-cognition"
-     },
-     {
-      "slug": "peer-learning"
-     },
-     {
-      "slug": "perspective-taking"
-     },
-     {
-      "slug": "social-constructivism"
-     },
-     {
-      "slug": "social-interdependence"
      }
     ]
    },
@@ -193322,9 +193104,6 @@
       "slug": "error-analysis"
      },
      {
-      "slug": "explaining-their-thinking"
-     },
-     {
       "slug": "explicit-instruction-math-strategies"
      },
      {
@@ -193344,6 +193123,9 @@
      },
      {
       "slug": "scaffolding-and-fading"
+     },
+     {
+      "slug": "self-explanation"
      }
     ],
     "strategies": [
@@ -194425,6 +194207,15 @@
     ],
     "elements": [
      {
+      "slug": "adaptive-mastery-learning"
+     },
+     {
+      "slug": "drill-practice"
+     },
+     {
+      "slug": "mastery-progression"
+     },
+     {
       "slug": "reinforcement"
      },
      {
@@ -194461,6 +194252,12 @@
       "slug": "phonics"
      },
      {
+      "slug": "procedural-learning"
+     },
+     {
+      "slug": "reinforcement-theory"
+     },
+     {
       "slug": "rhetorical-skill-development"
      }
     ],
@@ -194493,6 +194290,9 @@
       "strength": "M"
      },
      {
+      "slug": "behavior-specific-praise"
+     },
+     {
       "slug": "behavior_contracts"
      },
      {
@@ -194505,6 +194305,9 @@
       "polarity": "+",
       "slug": "call-and-response",
       "strength": "M"
+     },
+     {
+      "slug": "check-in-check-out"
      },
      {
       "slug": "check-in_check-out"
@@ -194531,6 +194334,17 @@
       "slug": "competency-based-learning"
      },
      {
+      "polarity": "+",
+      "slug": "consistent_classroom_routines_and_schedules",
+      "strength": "M"
+     },
+     {
+      "slug": "content_word_signal"
+     },
+     {
+      "slug": "correcting_students_in_a_constructive_way"
+     },
+     {
       "slug": "daily-behavior-report-cards"
      },
      {
@@ -194540,12 +194354,25 @@
       "slug": "establishing_classroom_routines"
      },
      {
+      "slug": "establishing_routines_and_procedures"
+     },
+     {
       "slug": "functional_behavioral_assessment"
      },
      {
       "polarity": "+",
       "slug": "gain_attention_before_giving_instructions",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "game-based_incentives_for_quiet",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "good-behavior-game",
+      "strength": "S"
      },
      {
       "slug": "group-contingency"
@@ -194570,6 +194397,9 @@
       "strength": "S"
      },
      {
+      "slug": "playworks_teamup_recess_program"
+     },
+     {
       "slug": "points-or-experience-xp-systems"
      },
      {
@@ -194579,6 +194409,14 @@
      },
      {
       "slug": "positive-behavior-support"
+     },
+     {
+      "slug": "positive-behavioral-interventions-and-supports-pbis"
+     },
+     {
+      "polarity": "+",
+      "slug": "positive-narration",
+      "strength": "M"
      },
      {
       "slug": "positive-reinforcement-schedules"
@@ -194591,6 +194429,9 @@
      },
      {
       "slug": "positive_behavior_support"
+     },
+     {
+      "slug": "positive_behavioral_interventions_and_supports_pbis"
      },
      {
       "polarity": "+",
@@ -194614,12 +194455,18 @@
       "slug": "precorrection"
      },
      {
+      "slug": "proximity-control"
+     },
+     {
       "polarity": "+",
       "slug": "quiet_signals",
       "strength": "M"
      },
      {
       "slug": "reinforce_positive_behaviors"
+     },
+     {
+      "slug": "secret_student"
      },
      {
       "polarity": "+",
@@ -194644,7 +194491,13 @@
       "strength": "S"
      },
      {
+      "slug": "timed-fact-fluency-drills"
+     },
+     {
       "slug": "token_economy"
+     },
+     {
+      "slug": "visual_timers"
      },
      {
       "slug": "warning_and_consequence"
@@ -196932,9 +196785,6 @@
     ],
     "principles": [
      {
-      "slug": "behaviorism"
-     },
-     {
       "slug": "considering-the-opposite"
      },
      {
@@ -196977,9 +196827,6 @@
      },
      {
       "slug": "social-constructivism"
-     },
-     {
-      "slug": "social-learning"
      },
      {
       "slug": "social-presence"
@@ -201196,9 +201043,6 @@
       "strength": "S"
      },
      {
-      "slug": "explaining-their-thinking"
-     },
-     {
       "slug": "holistic-learning"
      },
      {
@@ -201212,6 +201056,9 @@
      },
      {
       "slug": "procedural-learning"
+     },
+     {
+      "slug": "self-explanation"
      },
      {
       "slug": "situated-learning"
@@ -205366,9 +205213,6 @@
       "slug": "elaborative-reasoning"
      },
      {
-      "slug": "explaining-their-thinking"
-     },
-     {
       "slug": "flipped-learning"
      },
      {
@@ -205388,6 +205232,9 @@
      },
      {
       "slug": "self-directed-learning"
+     },
+     {
+      "slug": "self-explanation"
      },
      {
       "polarity": "+",
@@ -207176,12 +207023,80 @@
     ]
    },
    "sociocultural-theory": {
+    "elements": [
+     {
+      "slug": "assigned-positions"
+     },
+     {
+      "slug": "collaboration"
+     },
+     {
+      "slug": "collaborative-decision-making"
+     },
+     {
+      "slug": "collaborative-discussion"
+     },
+     {
+      "slug": "discussion-prompt"
+     },
+     {
+      "slug": "expert-modeling"
+     },
+     {
+      "slug": "group-work"
+     },
+     {
+      "slug": "social-learning"
+     },
+     {
+      "slug": "socratic-questioning"
+     },
+     {
+      "slug": "structured-debate"
+     },
+     {
+      "slug": "structured-discussion"
+     }
+    ],
     "patterns": [
      {
       "slug": "5e-learning-cycle"
+     },
+     {
+      "slug": "discussion-based-learning"
+     },
+     {
+      "slug": "process-oriented-guided-inquiry-learning-pogil"
+     },
+     {
+      "slug": "structured-academic-controversy"
      }
     ],
     "principles": [
+     {
+      "slug": "active-learning"
+     },
+     {
+      "slug": "collaborative-learning"
+     },
+     {
+      "slug": "community-of-inquiry"
+     },
+     {
+      "slug": "distributed-cognition"
+     },
+     {
+      "slug": "peer-learning"
+     },
+     {
+      "slug": "perspective-taking"
+     },
+     {
+      "slug": "social-constructivism"
+     },
+     {
+      "slug": "social-interdependence"
+     },
      {
       "polarity": "+",
       "slug": "supporting-early-language-development",
@@ -209055,7 +208970,7 @@
   "learner-variables": 12,
   "methods": 38,
   "patterns": 141,
-  "principles": 479,
+  "principles": 476,
   "processes": 18,
   "strategies": 3184,
   "theories": 946

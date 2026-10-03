@@ -51,7 +51,7 @@ When punishment is used, research identifies similar conditions for it to functi
 ### Theory
 #### Supporting
 - Behaviorist learning theory — consequences shape the likelihood of future responding
-- [Behaviorism](behaviorism.md) — reinforcement theory is one of the clearest consequence-based learning principles
+- [Behaviorism](../theories/behaviorism.md) — reinforcement theory is one of the clearest consequence-based learning principles
 - [Game-Based Learning](game-based-learning.md) — many game-like environments operationalize reinforcement through progression and reward systems
 
 #### Contradicting / Qualifying
@@ -64,7 +64,7 @@ When punishment is used, research identifies similar conditions for it to functi
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners may respond better when reinforcement is tied to process and execution rather than distant outcomes only
 
 ## Related Principles
-- [Behaviorism](behaviorism.md) — the broader performance-shaping orientation that reinforcement theory helps explain
+- [Behaviorism](../theories/behaviorism.md) — the broader performance-shaping orientation that reinforcement theory helps explain
 - [Game-Based Learning](game-based-learning.md) — often operationalizes reinforcement through progress systems, rewards, and challenge
 - [Mastery Learning](mastery-learning.md) — can use contingent progression as a consequence structure
 - [Token Economies](../strategies/token-economies.md) — a structured classroom-scale application of secondary (token) reinforcers

@@ -67,7 +67,7 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 
 ### Theory
 #### Supporting
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Constructivism](../principles/constructivism.md)
 - Social constructivist perspectives — knowledge is shaped through dialogue and shared interpretation.
 - Dialogic learning perspectives — structured discussion helps learners articulate and revise thinking.
@@ -101,7 +101,7 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 ### Affordances
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Perspective-Taking](../principles/perspective-taking.md)
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
 - [Purposeful Reflection](../principles/purposeful-reflection.md)

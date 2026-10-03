@@ -19,7 +19,7 @@ Consistent routines and schedules establish predictable patterns for how classro
 
 ## Design Implications
 
-Predictable structure reduces the extraneous cognitive load of constantly re-orienting to new procedures, allowing learners to allocate attention to content rather than to decoding expectations [Cognitive load management](../principles/cognitive-load-management.md). Routines also function as antecedent cues in a behavioral sense: consistent signals preceding consistent consequences reduce disruptive behavior and increase academic engaged time [Behaviorism](../principles/behaviorism.md) [+M]. Beyond behavior management, predictability supports self-regulation — students who know what comes next can plan, monitor, and pace their own work rather than waiting for direction [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
+Predictable structure reduces the extraneous cognitive load of constantly re-orienting to new procedures, allowing learners to allocate attention to content rather than to decoding expectations [Cognitive load management](../principles/cognitive-load-management.md). Routines also function as antecedent cues in a behavioral sense: consistent signals preceding consistent consequences reduce disruptive behavior and increase academic engaged time [Behaviorism](../theories/behaviorism.md) [+M]. Beyond behavior management, predictability supports self-regulation — students who know what comes next can plan, monitor, and pace their own work rather than waiting for direction [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ### Context
 #### Requirements

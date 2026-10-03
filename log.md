@@ -15073,7 +15073,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Enrich**: [elements/whole-task-performance](elements/whole-task-performance.md) — enriched via wiki-enrich skill
 * **Enrich**: [principles/chunking](principles/chunking.md) — enriched via wiki-enrich skill
 * **Enrich**: [principles/scaffolding-and-fading](principles/scaffolding-and-fading.md) — enriched via wiki-enrich skill
-* **Enrich**: [principles/explaining-their-thinking](principles/explaining-their-thinking.md) — enriched via wiki-enrich skill
+* **Enrich**: [principles/explaining-their-thinking](principles/self-explanation.md) — enriched via wiki-enrich skill
 * **Enrich**: [principles/error-analysis](principles/error-analysis.md) — enriched via wiki-enrich skill
 * **Enrich**: [principles/goal-setting-monitoring](principles/goal-setting-monitoring.md) — enriched via wiki-enrich skill
 

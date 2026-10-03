@@ -30,7 +30,7 @@ Expert modeling is the element in which a skilled performer demonstrates not onl
 - Make expert reasoning visible and support transfer to learner performance.
 
 ### Affordances
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Explicit Instruction](../principles/direct-instruction.md)
 
 ### Claims

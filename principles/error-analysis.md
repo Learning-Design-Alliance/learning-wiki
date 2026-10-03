@@ -124,7 +124,7 @@ The erroneous-example expectation should be strengthened if comparisons with old
 Correct procedures, conceptual understanding, recall of a correction and comfort with error are separate claims. The present evidence does not establish how many erroneous examples to use, when in a unit to introduce them, or that error analysis works the same for children, adults and professionals.
 
 ## Related Principles
-- [Explaining Their Thinking](explaining-their-thinking.md) — self-explanation is the mechanism by which error analysis works.
+- [Explaining Their Thinking](self-explanation.md) — self-explanation is the mechanism by which error analysis works.
 - [Worked Examples](worked-examples.md) — can be modified into erroneous examples.
 - [Foster Growth Mindset](growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
 

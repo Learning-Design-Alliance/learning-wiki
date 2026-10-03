@@ -19,7 +19,7 @@ PBIS is a multi-tiered behavioral framework in which schools explicitly define, 
 
 ## Design Implications
 
-PBIS treats behavior like an academic skill: it is taught, practiced, and reinforced rather than assumed or punished into shape. This aligns with [Behaviorism](../principles/behaviorism.md) — reinforcement contingencies shape behavior — but extends it with explicit instruction and systems-level consistency. Meta-analytic evidence shows school-wide PBIS reduces office discipline referrals and suspensions and improves school climate [School-wide positive behavior support improves school climate and reduces discipline referrals.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S], with smaller but positive effects on academic achievement [+M].
+PBIS treats behavior like an academic skill: it is taught, practiced, and reinforced rather than assumed or punished into shape. This aligns with [Behaviorism](../theories/behaviorism.md) — reinforcement contingencies shape behavior — but extends it with explicit instruction and systems-level consistency. Meta-analytic evidence shows school-wide PBIS reduces office discipline referrals and suspensions and improves school climate [School-wide positive behavior support improves school climate and reduces discipline referrals.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S], with smaller but positive effects on academic achievement [+M].
 
 ### Context
 #### Requirements

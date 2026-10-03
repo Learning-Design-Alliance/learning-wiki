@@ -19,7 +19,7 @@ Timed fact fluency drills are brief, frequent practice sessions in which learner
 
 ## Design Implications
 
-Fluency drills operationalize the [Behaviorism](../principles/behaviorism.md) tradition of rate-based practice and the cognitive case for automaticity: when basic facts are retrieved automatically, limited working-memory capacity is available for problem solving and comprehension rather than computation [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Effectiveness depends on the drill being *retrieval-based* (recalling from memory, not re-reading or counting) and on immediate corrective feedback. Time pressure serves a diagnostic and motivational function — it signals when a fact is not yet automatic — but should be calibrated so most learners experience success, not anxiety.
+Fluency drills operationalize the [Behaviorism](../theories/behaviorism.md) tradition of rate-based practice and the cognitive case for automaticity: when basic facts are retrieved automatically, limited working-memory capacity is available for problem solving and comprehension rather than computation [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Effectiveness depends on the drill being *retrieval-based* (recalling from memory, not re-reading or counting) and on immediate corrective feedback. Time pressure serves a diagnostic and motivational function — it signals when a fact is not yet automatic — but should be calibrated so most learners experience success, not anxiety.
 
 ### Context
 #### Requirements

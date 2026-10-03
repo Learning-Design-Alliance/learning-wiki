@@ -30,7 +30,7 @@ Collaboration is the short-form canonical target for learners working together t
 - Support shared reasoning, participation, and collective problem solving.
 
 ### Affordances
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 - [Social Interdependence](../principles/social-interdependence.md)
 
 ### Claims

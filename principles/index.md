@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**479 entries** · 0 stable · 137 in review · 342 drafts
+**476 entries** · 0 stable · 134 in review · 342 drafts
 
 ---
 
@@ -25,7 +25,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### B {: #letter-b }
 
-* [Behaviorism](behaviorism.md) - Behaviorism, as an instructional principle, emphasizes observable performance, repeated practice, feedback, and reinforcement in shaping learning.
 * [Building Empathy](building-empathy.md) - For a learner forming an interpretation of another person or group, structured perspective-taking with concrete accounts and comparison of interpretations may improve attitudes towards that group, a relationship qualified by outcome, dose, target and horizon.
 
 #### C {: #letter-c }
@@ -74,7 +73,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Evaluating Sources](evaluating-sources.md) - Teaching adult learners how to systematically evaluate sources prepares them to navigate information in an increasingly complex, digital world.
 * [Expanding Social Networks](expanding-social-networks.md) - Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation.
 * [Experiential Learning](experiential-learning.md) - For learners building applied, professional or interpersonal capability, an experience followed by structured reflection and a further attempt with feedback is expected to improve performance and transfer, while unguided experience for novices learns less than guided instruction.
-* [Explaining Their Thinking](explaining-their-thinking.md) - Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
 * [Explicit Instruction: Computer Basics](explicit-instruction-computer-basics.md) - In an increasingly digital world, adults who struggle with using technology can benefit from direct instruction for an array of digital tools.
 * [Explicit Instruction: Internet Search](explicit-instruction-internet-search.md) - Teaching learners how to effectively search the internet is critical for helping them learn how to find accurate and relevant information and aids in developing information literacy.
 * [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) - Direct instruction in math strategies may support some adult learners once conceptual understanding is in place.
@@ -183,16 +181,15 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Self Affirmation](self-affirmation.md) - Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.
 * [Self-Determination Theory](self-determination-theory.md) - Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
 * [Self-Directed Learning](self-directed-learning.md) - Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
+* [Self-Explanation](self-explanation.md) - Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
 * [Self-monitoring](self-monitoring.md) - Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion.
 * [Self-Regulated Learning](self-regulated-learning.md) - When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured.
-* [Self-Regulation](self-regulation.md) - Self-regulation is the short-form canonical target for instructional designs that help learners plan, monitor, and adjust behavior, effort, and strategy over time.
 * [Sequencing](sequencing.md) - Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively.
 * [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) - Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality.
 * [Situated Learning](situated-learning.md) - Situated learning is the principle that learning is shaped by the contexts, practices, and communities in which knowledge is used.
 * [Skills Sprint](skills-sprint.md) - Skills sprints are short, intensive learning cycles organized around producing something meaningful under time constraints.
 * [Social Constructivism](social-constructivism.md) - Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity.
 * [Social Interdependence](social-interdependence.md) - Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning.
-* [Social Learning](social-learning.md) - Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.
 * [Social Presence](social-presence.md) - Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
 * [Spaced Learning](spaced-learning.md) - A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
 * [Strengths-based Approach](strengths-based-approach.md) - A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.

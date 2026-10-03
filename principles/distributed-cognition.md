@@ -55,7 +55,7 @@ Distributed cognition matters when successful performance depends on how learner
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — tools and collaborators are most helpful when support is responsive rather than generic
 
 ## Related Principles
-- [Social Learning](social-learning.md) — distributed cognition often depends on learning through interaction with others
+- [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others
 - [Community of Inquiry](community-of-inquiry.md) — one context where cognition is distributed across discourse, facilitation, and shared artifacts
 - [Situated Learning](situated-learning.md) — provides the contextual account of why cognition is often distributed in real practice
 

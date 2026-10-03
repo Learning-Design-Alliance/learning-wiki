@@ -77,7 +77,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Conditions for Productive Group Creativity](conditions-for-productive-group-creativity.md) — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically
 - [Peer Discussion](peer-discussion.md) — structured talk is one of the main mechanisms through which collaborative learning produces understanding
 - [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — collaboration is especially valuable when disagreement and comparison sharpen thinking
-- [Social Learning](social-learning.md) — provides the broader explanation for why interaction can itself be instructional
+- [Social Learning](../theories/sociocultural-theory.md) — provides the broader explanation for why interaction can itself be instructional
 
 ## Examples
 
@@ -122,7 +122,7 @@ Collaborative learning is strongest when the task genuinely benefits from multip
 
 ### Theory
 #### Supporting
-- [Social Learning](social-learning.md) — learners often acquire concepts, strategies, and dispositions through interaction with others
+- [Social Learning](../theories/sociocultural-theory.md) — learners often acquire concepts, strategies, and dispositions through interaction with others
 - [Community of Inquiry](community-of-inquiry.md) — collaboration can improve meaning-making when cognitive, social, and teaching presence are aligned
 - [Social Interdependence](social-interdependence.md) — positive interdependence helps explain when collaboration improves outcomes rather than merely redistributing work
 

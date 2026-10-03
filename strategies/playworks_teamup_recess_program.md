@@ -60,7 +60,7 @@ TeamUp applies the logic of [Direct Instruction](../patterns/direct-instruction.
 ## Related Strategies
 - [Active Recess](active-recess.md) — the broader category of structured-activity recess interventions; TeamUp is one branded implementation
 - [Cooperative Learning](../principles/collaborative-learning.md) — TeamUp games are designed so success requires interdependence among players of mixed skill
-- [Positive Behavioral Interventions and Supports](../principles/behaviorism.md) — TeamUp's predictable routines and explicit expectations operate on the same reinforcement logic in a non-classroom setting
+- [Positive Behavioral Interventions and Supports](../theories/behaviorism.md) — TeamUp's predictable routines and explicit expectations operate on the same reinforcement logic in a non-classroom setting
 
 ## Examples
 - **Playworks TeamUp** ([playworks.org](https://www.playworks.org)) — the program itself: training, game guides, and equipment kits enabling schools to run structured recess without a full-time coach.

@@ -61,7 +61,7 @@ Social constructivism is strongest when learning depends on language, comparison
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — co-constructed learning improves when learners monitor the quality and direction of their discussion and shared work
 
 ## Related Principles
-- [Social Learning](social-learning.md) — the broader principle that learning can happen through interaction with others
+- [Social Learning](../theories/sociocultural-theory.md) — the broader principle that learning can happen through interaction with others
 - [Peer Discussion](peer-discussion.md) — one of the clearest operational forms of social constructivist learning
 - [Collaborative Learning](collaborative-learning.md) — social constructivism helps explain why collaboration can improve understanding
 

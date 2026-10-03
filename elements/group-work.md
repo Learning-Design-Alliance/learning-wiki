@@ -34,7 +34,7 @@ Group work is the element in which learners work together on a shared task, prod
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md)
 - [Community of Inquiry](../principles/community-of-inquiry.md)
-- [Social Learning](../principles/social-learning.md)
+- [Social Learning](../theories/sociocultural-theory.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
