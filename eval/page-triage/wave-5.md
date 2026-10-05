@@ -76,7 +76,7 @@ Same design as wave 4.
 - **Briefs:** 30, written by GPT 5.6 Luna before any draft existed.
 - **Answers:** Kimi K3, with the token limit raised to 16,000. No answer was cut off.
 - **Grading:** Gemini 3.8 Flash and DeepSeek V4 Pro, scored answers and blind pairs in both orders.
-- **Cost:** $3.33 for answers, $2.42 for grading, $0.61 for the first rework re-test, REWORK2_COST for the second.
+- **Cost:** $3.33 for answers, $2.42 for grading, $0.61 for the first rework re-test, $0.41 for the second.
 
 | | OLD | NEW |
 |---|---|---|
@@ -120,10 +120,13 @@ time to check every learner; the old answers worked without one. Rows added, eac
 | Brief | Wave 5 | Rework 1 (two answers) | Rework 2 (two answers) |
 |---|---|---|---|
 | feedback loops, sparse | 1–3 | 2–2, **3–1** | |
-| self-monitoring, complete | 1–3 | 1–3, 1–3 | REWORK2_COMPLETE |
-| self-monitoring, sparse | 1–3 | 1–3, 2–2 | REWORK2_SPARSE |
+| self-monitoring, complete | 1–3 | 1–3, 1–3 | **3–1**, 2–2 |
+| self-monitoring, sparse | 1–3 | 1–3, 2–2 | 1–3, 1–3 |
 
-REWORK2_NOTE
+The complete brief is won once the page says to keep the routine the brief names. **The sparse self-monitoring
+brief (community-garden volunteers) still loses 1–3**: graders prefer the old answer's two timed pauses and central
+progress board to the new answers' partner checks, which they read as more facilitator load. It is left open rather
+than tuned further against one brief.
 
 **A page can be right and still lose when it overrides the brief.** The self-monitoring page's caution about
 self-judgement is sound: judgments of learning are often inaccurate. But when a brief names the routine it wants, the
