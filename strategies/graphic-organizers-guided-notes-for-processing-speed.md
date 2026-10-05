@@ -19,7 +19,7 @@ During lecture, learners are provided with graphic organizers or guided notes to
 
 ## Design Implications
 
-By externalizing the lecture's structure, these tools reduce the working-memory burden of simultaneously listening, deciding what matters, and writing — a triple load that disproportionately penalizes learners with slow processing speed [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Instructor-provided organizers are especially effective for novices, who cannot yet distinguish central from peripheral content on their own [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]. The fill-in format converts passive listening into generative processing, which improves retention over instructor-complete notes [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+By externalizing the lecture's structure, these tools reduce the working-memory burden of simultaneously listening, deciding what matters, and writing — a triple load that disproportionately penalizes learners with slow processing speed [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. Instructor-provided organizers are especially effective for novices, who cannot yet distinguish central from peripheral content on their own [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]. The fill-in format converts passive listening into generative processing, which improves retention over instructor-complete notes [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ By externalizing the lecture's structure, these tools reduce the working-memory 
 ### Target Learning Goals
 - Comprehension of key concepts during expository presentation
 - Note-taking skill development (the organizer models what good notes look like)
-- Retention of lecture content through generative completion [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Retention of lecture content through generative completion [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Affordances
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the organizer offloads structure-holding and importance-judging to the artifact, freeing capacity for comprehension

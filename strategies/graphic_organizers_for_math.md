@@ -19,7 +19,7 @@ Graphic organizers for math are structured visual templates — problem-solving 
 
 ## Design Implications
 
-Graphic organizers reduce extraneous cognitive load by offloading problem structure onto the page [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S] and leverage visual representation to support verbal–visual integration [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Their benefit is largest when the organizer's structure matches the underlying mathematical schema (e.g., a compare-problem frame for comparison word problems) rather than serving as a generic worksheet [~M]. Like any advance organizer, they work by bridging new problems to existing knowledge structures [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M].
+Graphic organizers reduce extraneous cognitive load by offloading problem structure onto the page [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S] and leverage visual representation to support verbal–visual integration [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Their benefit is largest when the organizer's structure matches the underlying mathematical schema (e.g., a compare-problem frame for comparison word problems) rather than serving as a generic worksheet [~M]. Like any advance organizer, they work by bridging new problems to existing knowledge structures [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M].
 
 ### Context
 #### Requirements

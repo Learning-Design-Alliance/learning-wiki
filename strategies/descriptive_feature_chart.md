@@ -19,7 +19,7 @@ A descriptive feature chart is a graphic organizer with horizontal and vertical 
 
 ## Design Implications
 
-The chart works by imposing a category structure on observation, which reduces the working-memory demands of holding multiple perceptual details in mind at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its deeper value emerges when the completed chart is used for comparison: contrasting feature profiles across organisms supports abstraction of shared and distinguishing characteristics [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The act of generating entries — rather than receiving a pre-filled chart — is what drives learning, consistent with generative accounts of learning from graphics [~S].
+The chart works by imposing a category structure on observation, which reduces the working-memory demands of holding multiple perceptual details in mind at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its deeper value emerges when the completed chart is used for comparison: contrasting feature profiles across organisms supports abstraction of shared and distinguishing characteristics [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The act of generating entries — rather than receiving a pre-filled chart — is what drives learning, consistent with generative accounts of learning from graphics [~S].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ The chart works by imposing a category structure on observation, which reduces t
 ### Target Learning Goals
 - Developing a descriptive model of an organism: structure, parts, and appearance
 - Organizing and recording observations systematically ([Articulation](../elements/articulation.md) of what is seen)
-- Comparing and classifying: using feature profiles across cases to identify similarities and differences [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Comparing and classifying: using feature profiles across cases to identify similarities and differences [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Interpreting observations as data — an early step toward evidence-based claims
 
 ### Instructions

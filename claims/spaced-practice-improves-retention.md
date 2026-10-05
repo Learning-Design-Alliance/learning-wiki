@@ -181,7 +181,6 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — manageable load per session is a precondition for spacing to help
 - [Interleaving improves discrimination and learning.](interleaving-improves-inductive-learning.md) — a related scheduling manipulation that mixes rather than repeats content
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — possibly the same claim (merge candidate)
-- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related

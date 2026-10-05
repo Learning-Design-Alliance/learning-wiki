@@ -44,7 +44,7 @@ The article argues that listening to people and capturing their voices is not su
 
 ## Related Principles
 
-- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](involve-students-in-revision-process.md)
+- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](process-based-writing.md)
 - [Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability](researcher-signature-believability-validity.md)
 
 ## Examples

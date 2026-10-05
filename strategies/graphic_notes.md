@@ -48,7 +48,7 @@ Pairing spoken information with visual organization recruits both verbal and vis
 
 ### Target Learning Goals
 - Comprehension and retention of lecture-based expository content [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]
-- Relational knowledge: seeing hierarchies, sequences, and comparisons among concepts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- Relational knowledge: seeing hierarchies, sequences, and comparisons among concepts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Study-skill development: building a reusable personal note-taking system
 
 ### Instructions

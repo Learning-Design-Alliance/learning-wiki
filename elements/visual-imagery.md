@@ -19,7 +19,7 @@ Visual imagery is the deliberate formation of mental pictures to represent verba
 
 ## Design Implications
 
-Imagery-based encoding improves recall and comprehension because information stored in both verbal and visual codes provides two retrieval routes instead of one [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The effect depends on the image being *relevant to the content's structure*: images that merely decorate the page consume attention without adding referential connections [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Prompting learners to generate their own images ("picture what this paragraph describes") is often more effective than passive viewing, because generation forces active construction of the verbal–visual link.
+Imagery-based encoding improves recall and comprehension because information stored in both verbal and visual codes provides two retrieval routes instead of one [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The effect depends on the image being *relevant to the content's structure*: images that merely decorate the page consume attention without adding referential connections [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Prompting learners to generate their own images ("picture what this paragraph describes") is often more effective than passive viewing, because generation forces active construction of the verbal–visual link.
 
 ### Context
 #### Requirements
@@ -34,7 +34,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - Supplied images that are seductive but tangential reduce learning by diverting attention [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]
 
 ### Target Learners
-- Novices reading narrative, descriptive, or process-oriented text, who benefit from concrete referents for unfamiliar verbal content [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Novices reading narrative, descriptive, or process-oriented text, who benefit from concrete referents for unfamiliar verbal content [Imagery-based dual encoding improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Young learners and learners with weak verbal decoding, for whom imagery provides an alternative encoding route
 - Less beneficial for advanced learners who already form spontaneous images; explicit imagery instructions can be redundant [Guidance becomes less effective as expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 

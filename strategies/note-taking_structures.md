@@ -37,7 +37,7 @@ Structured notes work through two mechanisms: they reduce the transcription burd
 - **Cornell format**: page divided into cues, notes, and summary; supports self-testing during review
 - **Guided notes / skeletal outlines**: instructor provides headings and blanks; effective for learners with weak note-taking skill or processing-speed challenges
 - **Matrix notes**: rows and columns for comparing entities; particularly strong for relational content
-- **Graphic organizers / mapping**: spatial arrangement of concepts; pairs well with [Dual Coding](../theories/dual-coding-theory.md) [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- **Graphic organizers / mapping**: spatial arrangement of concepts; pairs well with [Dual Coding](../theories/dual-coding-theory.md) [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices and students with weak self-regulation, who benefit most from external organization [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]

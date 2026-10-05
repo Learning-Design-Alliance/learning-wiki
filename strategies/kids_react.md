@@ -19,7 +19,7 @@ Perform an online image search for a charged everyday term (the original uses "s
 
 ## Design Implications
 
-The strategy converts an everyday search result into a [Case Studies](../elements/case-studies.md)-style object of analysis: affective first responses are treated as data, then examined. Making one's initial judgment explicit before analyzing it supports metacognitive awareness of bias, and structured discussion of contrasting reactions to the same image helps students abstract the general point that images frame interpretation [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Verbalizing and writing about one's reasoning deepens conceptual understanding beyond passive viewing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+The strategy converts an everyday search result into a [Case Studies](../elements/case-studies.md)-style object of analysis: affective first responses are treated as data, then examined. Making one's initial judgment explicit before analyzing it supports metacognitive awareness of bias, and structured discussion of contrasting reactions to the same image helps students abstract the general point that images frame interpretation [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Verbalizing and writing about one's reasoning deepens conceptual understanding beyond passive viewing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

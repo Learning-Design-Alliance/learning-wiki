@@ -19,7 +19,7 @@ Customizable display of information means presenting content in digital formats 
 
 ## Design Implications
 
-Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers (Schneps et al., 2013) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S], but added visual decoration does not by itself aid learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~S] — customization should serve legibility and modality access, not ornament.
+Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers (Schneps et al., 2013) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], but added visual decoration does not by itself aid learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [~S] — customization should serve legibility and modality access, not ornament.
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Adjusting display parameters changes how much working-memory capacity is consume
 1. Publish content in reflowable, accessible formats (HTML, EPUB, tagged PDF) rather than images of text.
 2. Provide defaults that meet accessibility standards (sufficient contrast, readable base size, [Chunking](../principles/chunking.md) of long passages into navigable sections) [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 3. Expose a small set of high-value controls — text size, contrast, text-to-speech, captions, playback speed — with sensible presets; document formal [Accommodations](../elements/accommodations.md) separately for learners who need more.
-4. Offer equivalent modalities (captions, transcripts, audio versions) so learners can shift channels rather than strain one [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S].
+4. Offer equivalent modalities (captions, transcripts, audio versions) so learners can shift channels rather than strain one [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S].
 5. Briefly teach learners what the settings do and when to use them; check that chosen settings actually improve their reading and viewing, and adjust.
 
 ## Related Strategies

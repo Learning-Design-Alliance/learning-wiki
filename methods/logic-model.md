@@ -50,7 +50,7 @@ What the method does **not** supply is warrant. A logic model is a statement of 
 
 ### Target Learners
 - Not a learner-facing method. Its subject is the design's own reasoning
-- Its clearest indirect beneficiaries are learners on courses whose purpose is distal — retention, transfer, use at work — where an unwritten chain means the design optimises for the assessment it can see. Transfer in particular is a design target that has to be chosen deliberately, since it does not follow from mastery of the taught case [Interleaving improves transfer.](../claims/interleaving-improves-transfer.md) [~M]
+- Its clearest indirect beneficiaries are learners on courses whose purpose is distal — retention, transfer, use at work — where an unwritten chain means the design optimises for the assessment it can see. Transfer in particular is a design target that has to be chosen deliberately, since it does not follow from mastery of the taught case [Interleaving improves transfer.](../claims/interleaving-improves-inductive-learning.md) [~M]
 
 ### Target Learning Goals
 - None directly; the method takes goals as given and asks what they are *for*

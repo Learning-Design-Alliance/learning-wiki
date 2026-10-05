@@ -76,7 +76,7 @@ Record: **task and class → support given and removed → response and reasonin
 
 ## Elements and limits
 
-[Whole-task performance](../elements/whole-task-performance.md), [supportive information](../elements/supportive-information.md), [procedural information](../elements/procedural-information.md), [just-in-time information](../elements/just-in-time-information.md), [part-task practice](../elements/part-task-practice.md), [fading](../elements/fading.md), [scaffolding](../elements/scaffolding.md), [worked examples](../elements/worked-examples.md), [problem presentation](../elements/problem-presentation.md) and [assessment](../elements/assessment.md). The pattern also applies [guided practice](../principles/guided-practice.md), [problem-based learning](../principles/problem-based-learning.md), [competency-based learning and assessment](../principles/competency-based-learning-assessment.md) and [worked examples](../principles/worked-examples.md); the [worked-examples pattern](worked-examples.md) is the lesson-level policy for the support inside a task class.
+[Whole-task performance](../elements/whole-task-performance.md), [supportive information](../elements/supportive-information.md), [procedural information](../elements/procedural-information.md), [just-in-time information](../elements/just-in-time-information.md), [part-task practice](../elements/part-task-practice.md), [fading](../elements/fading.md), [scaffolding](../elements/scaffolding.md), [worked examples](../elements/worked-examples.md), [problem presentation](../elements/problem-presentation.md) and [assessment](../elements/assessment.md). The pattern also applies [guided practice](../principles/guided-practice.md), [problem-based learning](../principles/problem-based-learning.md), [competency-based learning and assessment](../principles/competency-based-assessment.md) and [worked examples](../principles/worked-examples.md); the [worked-examples pattern](worked-examples.md) is the lesson-level policy for the support inside a task class.
 
 This pattern is scoped to complex skills where whole-task transfer is the objective; it is excessive for single facts or one-step procedures, and its analysis and sequencing cost design time. The evidence above tests components in other configurations, not the pattern as a whole, and the conditional branches remain to be tested with learners.
 
@@ -162,7 +162,7 @@ The pattern is strongest when learners need transfer to authentic performance. I
 ### Affordances
 - [Guided Practice](../principles/guided-practice.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
-- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
 - [Worked Examples](../principles/worked-examples.md)
 
 ### Personalization

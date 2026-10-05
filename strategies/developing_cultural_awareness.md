@@ -37,7 +37,7 @@ Cultural awareness is a precondition for culturally responsive pedagogy: instruc
 #### Implementation Variability
 - **Self-study cycles:** educators video-record their own teaching and analyze participation patterns for whose voices dominate
 - **Community immersion:** home visits, community walks, or partnerships that situate educator learning in learners' contexts
-- **Contrasting cases:** analyzing multiple authentic teaching scenarios side by side builds more flexible judgment than single exemplars [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting cases:** analyzing multiple authentic teaching scenarios side by side builds more flexible judgment than single exemplars [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Intercultural competence frameworks:** developmental models (e.g., Byram's knowledges/skills/attitudes) that treat awareness as a progression rather than a binary
 
 ### Target Learners

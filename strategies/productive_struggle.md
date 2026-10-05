@@ -36,7 +36,7 @@ The core evidence comes from productive failure studies: learners who explore co
 
 #### Implementation Variability
 - **Problem-first designs** (productive failure): exploration of a complex problem, then canonical instruction
-- **Contrast-first designs**: comparing multiple contrasting cases before the rule is stated [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrast-first designs**: comparing multiple contrasting cases before the rule is stated [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Invention tasks**: learners invent a solution or index before being shown the standard one
 - **Erroneous examples**: analyzing flawed worked solutions rather than generating from scratch [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 

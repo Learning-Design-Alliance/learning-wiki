@@ -19,7 +19,7 @@ Procedural fluency requires having a repertoire of strategies. Before learners c
 
 ## Design Implications
 
-Building a strategy repertoire shifts instruction from single-procedure mastery toward comparison and adaptive choice. Comparing multiple solution methods for the same problem improves procedural flexibility and conceptual knowledge relative to studying methods in isolation [Comparing solution methods supports flexible procedural knowledge.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The goal is not maximal breadth but a curated set of methods whose trade-offs (speed, reliability, transparency) learners can articulate and justify.
+Building a strategy repertoire shifts instruction from single-procedure mastery toward comparison and adaptive choice. Comparing multiple solution methods for the same problem improves procedural flexibility and conceptual knowledge relative to studying methods in isolation [Comparing solution methods supports flexible procedural knowledge.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The goal is not maximal breadth but a curated set of methods whose trade-offs (speed, reliability, transparency) learners can articulate and justify.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 - **Faded repertoire:** begin with one anchor strategy, add alternatives as expertise grows, consistent with the expertise-reversal principle [~S]
 
 ### Target Learners
-- Learners who have secured at least one workable method and are ready to compare alternatives [Comparing solution methods supports flexible procedural knowledge.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Learners who have secured at least one workable method and are ready to compare alternatives [Comparing solution methods supports flexible procedural knowledge.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Intermediate learners moving from accuracy toward efficiency and adaptivity; complete novices benefit first from a single clear method
 - Students prone to rigid procedure-following, who need explicit permission and practice in switching strategies
 

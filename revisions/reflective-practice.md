@@ -3,7 +3,7 @@ type: revisions
 page: ../patterns/reflective-practice.md
 ---
 
-# Revision history: [patterns/reflective-practice](../patterns/reflective-practice.md)
+# Revision history: [patterns/reflective-practice](../principles/reflection.md)
 
 ### 2026-08-29 · claim · claude/unspecified
 Linked claim from Sarfati-Shaulov & Vedder-Weiss (2025)

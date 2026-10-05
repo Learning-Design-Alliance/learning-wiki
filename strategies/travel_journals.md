@@ -19,7 +19,7 @@ A travel journal is a longitudinal documentation strategy in which students reco
 
 ## Design Implications
 
-Travel journals work because they force elaborative encoding: translating experience into written or drawn form requires learners to organize and connect ideas rather than passively accumulate them [~M]. The multi-modal format supports dual coding — verbal and visual traces of the same content strengthen retrieval paths [Dual coding: combining verbal and visual representations improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Because entries accumulate over time, journals also make learning visible as a trajectory, supporting metacognitive monitoring and teacher formative assessment [Feedback most effective when directed at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Travel journals work because they force elaborative encoding: translating experience into written or drawn form requires learners to organize and connect ideas rather than passively accumulate them [~M]. The multi-modal format supports dual coding — verbal and visual traces of the same content strengthen retrieval paths [Dual coding: combining verbal and visual representations improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Because entries accumulate over time, journals also make learning visible as a trajectory, supporting metacognitive monitoring and teacher formative assessment [Feedback most effective when directed at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

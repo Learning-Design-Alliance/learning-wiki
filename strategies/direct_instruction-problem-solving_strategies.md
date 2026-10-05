@@ -35,7 +35,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 - If practice never requires choosing among strategies (all problems match one taught method), learners acquire procedures without conditional knowledge
 
 #### Implementation Variability
-- **Strategy comparison format**: present the same problem solved two ways side by side, then discuss fit [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Strategy comparison format**: present the same problem solved two ways side by side, then discuss fit [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Faded responsibility**: instructor models selection first, then learners justify choices before solving, then choose silently ([Fading](../elements/fading.md) within [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md))
 - **Error-focused variant**: analyze why a chosen strategy failed, using the mismatch to sharpen selection criteria
 - **Embedded in [Case-Based Learning](../patterns/case-based-learning.md)**: cases supply the varied problem types that make strategy choice consequential
@@ -53,7 +53,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 ### Instructions
 1. **Name and situate the strategies.** Introduce a small set of strategies with [Analogies](../elements/analogies.md) or familiar examples, specifying what *kind* of problem each fits.
 2. **Model selection aloud.** Demonstrate solving problems while verbalizing how you recognized the problem type and chose the strategy ([Think-Aloud](../elements/think-aloud.md) within [Explicit Teaching](../patterns/direct-instruction.md)).
-3. **Compare strategies on the same problem.** Show two strategies applied to one problem; discuss cost, fit, and reliability [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. **Compare strategies on the same problem.** Show two strategies applied to one problem; discuss cost, fit, and reliability [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. **Practice with forced choice.** Assign problems that require learners to first state which strategy they will use and why, before solving ([Application of Knowledge](../elements/application-of-knowledge.md)).
 5. **Reflect and compare outcomes.** After solving, learners explain their choice and evaluate it against alternatives; instructor feedback should target strategy selection, not just answers [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 6. **Fade the scaffolds.** Progressively remove the forced-choice prompts so learners internalize selection ([Fading](../elements/fading.md)).

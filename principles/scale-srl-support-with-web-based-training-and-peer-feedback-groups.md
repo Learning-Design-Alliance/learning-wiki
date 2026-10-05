@@ -46,7 +46,7 @@ The authors recommend web-based SRL training where many students need support: "
 
 ## Related Principles
 - [Self Regulated Learning](self-regulated-learning.md)
-- [Peer Feedbackpeer Review](peer-feedbackpeer-review.md)
+- [Peer Feedbackpeer Review](peer-feedback.md)
 
 ## Examples
 -

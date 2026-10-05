@@ -19,7 +19,7 @@ This strategy builds a shared vocabulary for analyzing and producing multimodal 
 
 ## Design Implications
 
-Shared terminology reduces the working-memory and communication costs of peer talk about design: when students can name a move ("contrast," "salience," "framing"), discussion shifts from describing artifacts to evaluating decisions [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Co-constructing definitions from analyzed examples follows an inductive, concept-attainment logic — students generalize the category from cases before applying it to their own work [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. The strategy also draws on dual coding: pairing each term with a concrete visual example creates two retrieval routes for the concept [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+Shared terminology reduces the working-memory and communication costs of peer talk about design: when students can name a move ("contrast," "salience," "framing"), discussion shifts from describing artifacts to evaluating decisions [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Co-constructing definitions from analyzed examples follows an inductive, concept-attainment logic — students generalize the category from cases before applying it to their own work [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. The strategy also draws on dual coding: pairing each term with a concrete visual example creates two retrieval routes for the concept [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Shared terminology reduces the working-memory and communication costs of peer ta
 
 ### Target Learners
 - K–12 students beginning multimodal composition, especially those who can *do* design moves but cannot yet name or explain them [~M]
-- Multilingual learners, who benefit from concrete exemplars paired with precise terminology [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Multilingual learners, who benefit from concrete exemplars paired with precise terminology [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Less necessary for students already fluent in design discourse, who may find the co-construction routine redundant [~W]
 
 ### Target Learning Goals

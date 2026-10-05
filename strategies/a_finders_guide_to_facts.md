@@ -55,7 +55,7 @@ The guide works by interrupting the automatic acceptance response: readers who p
 2. Present a second story; learners apply the questions individually, annotating the text ([Annotating](../principles/annotating.md)).
 3. Pair learners to compare judgments and resolve disagreements through [Argumentation](../elements/argumentation.md) grounded in the checklist criteria.
 4. Debrief with the full class ([Class Discussion](../elements/class-discussion.md)), surfacing cases where the heuristics were ambiguous or failed.
-5. Follow with a contrasting-cases activity: real, satirical, and fabricated stories sorted side by side, so learners abstract the discriminating features [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+5. Follow with a contrasting-cases activity: real, satirical, and fabricated stories sorted side by side, so learners abstract the discriminating features [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
 - [Case-Based Learning](../strategies/case-based_learning.md) — real news stories serve as authentic cases for evaluation practice

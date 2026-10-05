@@ -175,7 +175,7 @@ The pattern is useful when learners need to reason through messy situations rath
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 
 ### Personalization
 - Anchors can be chosen or adapted to different learner interests and backgrounds.

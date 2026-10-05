@@ -19,7 +19,7 @@ Philosophical Chairs is a structured discussion activity in which the teacher pr
 
 ## Design Implications
 
-The format combines embodied commitment with [Argumentation](../elements/argumentation.md), which drives deeper processing than passive listening: learners must articulate, defend, and revise claims [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Because learners hear contrasting arguments from peers, the activity functions as a live version of [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M], helping them discriminate stronger from weaker reasoning. The expectation that positions are revisable reframes persuasion as evaluation rather than performance, which supports the argumentative reasoning that discussion is meant to develop [~M].
+The format combines embodied commitment with [Argumentation](../elements/argumentation.md), which drives deeper processing than passive listening: learners must articulate, defend, and revise claims [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Because learners hear contrasting arguments from peers, the activity functions as a live version of [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M], helping them discriminate stronger from weaker reasoning. The expectation that positions are revisable reframes persuasion as evaluation rather than performance, which supports the argumentative reasoning that discussion is meant to develop [~M].
 
 ### Context
 #### Requirements

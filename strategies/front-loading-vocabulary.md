@@ -39,7 +39,7 @@ Pre-teaching vocabulary reduces the extraneous cognitive load of decoding unfami
 - **Preview-in-context** — show the word in the actual sentence it will appear in, then discuss meaning
 - **Frayer model / four-square** — learners complete definition, characteristics, examples, and non-examples for each word
 - **Morphological front loading** — teach a root or affix (e.g., *photo-*, *-ology*) that unlocks a family of words in the upcoming unit
-- **Multimedia pre-teaching** — images, video, or [Act It Out](../elements/act-it-out.md) gestures paired with definitions, leveraging dual channels [Pairing verbal definitions with visual representations supports vocabulary learning.](../claims/dual-coding-improves-recall.md) [+M]
+- **Multimedia pre-teaching** — images, video, or [Act It Out](../elements/act-it-out.md) gestures paired with definitions, leveraging dual channels [Pairing verbal definitions with visual representations supports vocabulary learning.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Target Learners
 - Beginning readers and English language learners, for whom unfamiliar vocabulary is the dominant barrier to comprehension [Automatic word recognition frees resources for comprehension; unfamiliar vocabulary has the opposite effect.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]

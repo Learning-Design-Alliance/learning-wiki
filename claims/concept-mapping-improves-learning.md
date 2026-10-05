@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Concept mapping improves learning
+title: "Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice"
 status: draft
 generated:
   by: claude/unspecified
@@ -38,12 +38,13 @@ sources:
     rigour: 2
 ---
 
-# Concept mapping improves learning
+# Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r2` · `q3`–`q4` · `i2`–`i3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Concept mapping improves learning -->
 
-Learners who construct node-and-link diagrams of relationships among concepts show better understanding and retention than learners using comparable non-mapping study activities. The claim's scope is *construction* of maps by learners; studying a supplied map is treated as a distinct, weaker activity (see Discussion).
+Learners who construct node-and-link diagrams of relationships among concepts show better understanding and retention than learners in most comparison conditions pooled in two meta-analyses, though not better than learners who spend the same time on retrieval practice (Karpicke & Blunt 2011). <!-- deprecated (2026-10-05, overstated): show better understanding and retention than learners using comparable non-mapping study activities. --> The claim's scope is *construction* of maps by learners; studying a supplied map is treated as a distinct, weaker activity (see Discussion).
 
 ## Subclaims
 
@@ -91,7 +92,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 
 **Scoring and implementation.** When maps are used as [assessment](../elements/assessment.md), scoring the *quality of links* (labeled, directional, hierarchically organized) rather than node count better captures relational understanding. Time-on-task is a persistent confound: mapping is slow, and some reported advantages shrink when matched against other activities given equal time.
 
-**Evidence status.** No studies are yet catalogued on this page. The claim is widely repeated in the learning-strategies literature, but the strength of support depends heavily on the comparison condition (passive study vs. generative alternatives) and on whether time-on-task is matched — both moderators flagged above. Evidence entries are needed before this claim can carry an evidence-strength rating.
+**Evidence status.** <!-- deprecated (2026-10-05, stale): No studies are yet catalogued on this page. --> Three studies are recorded above: two meta-analyses (Schroeder et al. 2018, g = 0.58 overall, constructing g = 0.72 against studying g = 0.43; Nesbit & Adesope 2006, read from the abstract with no pooled effect recorded) and one pair of randomized experiments (Karpicke & Blunt 2011) in which time-matched retrieval practice beat mapping. Both meta-analyses were read from abstracts only, so their moderator results on comparison type and time-on-task are not recorded here. The strength of support depends heavily on the comparison condition (passive study vs. generative alternatives) and on whether time-on-task is matched — both moderators flagged above. <!-- deprecated (2026-10-05, stale): Evidence entries are needed before this claim can carry an evidence-strength rating. --> Reading those moderators from the meta-analyses' full texts is what would settle how far the pooled advantage survives a time-matched generative comparison.
 
 *Merged from “Concept mapping improves learning outcomes” (concept-maps-improve-learning):* **Mechanism.** Concept mapping is typically explained through cognitive load and schema-building arguments: selecting relevant concepts, organizing them into hierarchical structures, and integrating them with prior knowledge forces generative processing that passive reading or rereading does not. This places it in the family of generative, elaborative strategies alongside [advance organizers](../elements/advance-organizers.md) and [chunking](../claims/chunking-reduces-working-memory-load.md), and it depends on learners actively [activating prior knowledge](../strategies/activating-prior-knowledge.md) to link new concepts to what they already know.
 
@@ -99,7 +100,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 
 **Moderators and boundary conditions.** Expected moderators include learner expertise (novices benefit most; experts may find mapping redundant, consistent with [expertise reversal](../theories/expertise-reversal-effect.md) patterns), domain structure (mapping suits hierarchically organized, relational domains better than loosely associated ones), and scoring or feedback on map quality — without feedback, learners may build structurally incorrect maps and consolidate misconceptions. Construction also imposes a high extraneous load on novices unfamiliar with the format, so instruction on how to map is usually necessary first; unconstrained construction can itself produce [cognitive overload](../claims/cognitive-overload-degrades-learning.md).
 
-**Open questions.** The evidence base for this page has not yet been populated; effect sizes, moderator findings, and study quality assessments still need to be added before this claim can be rated. Until then, treat the claim as plausible but unrated rather than established.
+**Open questions.** <!-- deprecated (2026-10-05, stale): The evidence base for this page has not yet been populated; effect sizes, moderator findings, and study quality assessments still need to be added before this claim can be rated. Until then, treat the claim as plausible but unrated rather than established. --> The pooled effects and the time-matched comparison are recorded above; the moderators named in this paragraph (learner expertise, domain structure, feedback on map quality) are not tested by any entry here.
 
 ## Related Claims
 

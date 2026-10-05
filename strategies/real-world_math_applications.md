@@ -30,7 +30,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 
 #### Constraints
 - Contexts impose extraneous processing: reading comprehension of the scenario can consume working memory needed for the mathematics, especially for struggling readers or second-language learners [~M] — see [Cognitive Load Management](../principles/cognitive-load-management.md)
-- Surface features can mislead: learners may attend to the story details rather than the underlying structure, producing worse transfer than [multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md) that strip context away [~S]
+- Surface features can mislead: learners may attend to the story details rather than the underlying structure, producing worse transfer than [multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) that strip context away [~S]
 - Authenticity without instructional guidance risks unproductive struggle; productive failure works only when followed by structured consolidation [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [~M]
 - Contrived "real-world" problems (e.g., unrealistic numbers, artificial scenarios) can reduce rather than increase engagement and credibility [-W]
 

@@ -36,7 +36,7 @@ Character profile creation converts passive reading into generative processing: 
 
 #### Implementation Variability
 - **In-progress profiles:** students add to the profile as they read, tracking how evidence accumulates and revising early judgments
-- **Contrast profiles:** profiling two characters side by side to sharpen trait discrimination [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrast profiles:** profiling two characters side by side to sharpen trait discrimination [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Role-play extension:** students speak or write *as* the character, using the profile as a script
 - **Visual vs. written formats:** illustrated profiles suit younger learners; evidence-based written profiles suit analysis goals
 

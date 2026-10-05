@@ -80,7 +80,6 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [Dual coding theory](../theories/dual-coding-theory.md) — verbal-plus-visual coding is a proposed mechanism for organizer benefits
 - [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
 - [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
 - [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on

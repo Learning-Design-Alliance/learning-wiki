@@ -43,9 +43,8 @@ Because instructional feedback is inherently evaluative and can pose identity th
 
 ## Related Principles
 
-- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](avoid-appropriating-student-writing.md)
+- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](process-based-writing.md)
 - [Minimize student frustration by making feedback clear, legible, focused, and transparent](minimize-student-frustration-in-feedback.md)
-- [Respond to student writing as an interested reader rather than only as an evaluator](respond-as-a-reader.md)
 
 ## Examples
 

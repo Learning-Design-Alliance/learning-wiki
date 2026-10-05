@@ -46,7 +46,7 @@ Multimedia works when the combination reduces extraneous load and enables refere
 ### Target Learning Goals
 - Conceptual understanding of structures, systems, and spatial relationships
 - Procedural knowledge via narrated video or animated [Demonstration](../elements/demonstration.md)
-- Abstraction from varied representations — presenting contrasting cases across media supports generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction from varied representations — presenting contrasting cases across media supports generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the core concept and choose the medium that matches its structure (diagram, animation, simulation, video) rather than defaulting to text-plus-slides

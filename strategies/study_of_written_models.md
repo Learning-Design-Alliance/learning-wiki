@@ -23,7 +23,7 @@ Models work the way worked examples do in problem solving: they eliminate unguid
 
 ### Context
 #### Requirements
-- High-quality, authentic models of the target genre, ideally more than one [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- High-quality, authentic models of the target genre, ideally more than one [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Guided analysis prompts that direct attention to specific craft features (structure, tone, sentence patterns)
 - An imitation or application task immediately following analysis ([Practice](../elements/practice.md))
 - Feedback on how well learners' imitations capture the model's features ([Provide Feedback](../elements/provide-feedback.md))

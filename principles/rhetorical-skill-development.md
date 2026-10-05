@@ -57,7 +57,7 @@ Rhetorical skill development matters when learning requires more than having ide
 ## Related Principles
 - [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound
 - [Perspective-Taking](perspective-taking.md) — audience adaptation is one of the main rhetorical demands
-- [Debate](debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
+- [Debate](../patterns/debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
 
 ## Examples
 

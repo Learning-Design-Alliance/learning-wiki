@@ -18,7 +18,7 @@ generated:
 Competency-based learning is the element in which progression is organized around demonstrated competence rather than seat time.
 
 ## Affordances
-- [Competency-Based Learning/Assessment](../principles/competency-based-learning-assessment.md)
+- [Competency-Based Learning/Assessment](../principles/competency-based-assessment.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

@@ -112,7 +112,7 @@ Record: **opening sketch and placed details → epitome and level given → synt
 
 ## Elements and limits
 
-[Epitome](../elements/epitome-elaboration-theory.md), [simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [advance organizers](../elements/advance-organizers.md), [conceptual overviews](../elements/conceptual-overviews.md), [concept maps](../elements/concept-map.md), [summarization and synthesis](../elements/summarization-and-synthesis.md), [analogies](../elements/analogies.md), [activation](../elements/activation.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md), [reflection](../elements/reflection.md) and [spiral curriculum](../elements/spiral-curriculum.md). The pattern also applies [metaphors and analogies](../principles/metaphors-analogies.md), [creating visual representations](../principles/creating-visual-representations.md), [guided practice](../principles/guided-practice.md), [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md) and [cognitive load theory](../principles/cognitive-load-theory.md).
+[Epitome](../elements/epitome-elaboration-theory.md), [simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [advance organizers](../elements/advance-organizers.md), [conceptual overviews](../elements/conceptual-overviews.md), [concept maps](../elements/concept-map.md), [summarization and synthesis](../elements/summarization-and-synthesis.md), [analogies](../elements/analogies.md), [activation](../elements/activation.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md), [reflection](../elements/reflection.md) and [spiral curriculum](../elements/spiral-curriculum.md). The pattern also applies [metaphors and analogies](../principles/metaphors-analogies.md), [creating visual representations](../principles/dual-coding.md), [guided practice](../principles/guided-practice.md), [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md) and [cognitive load theory](../principles/cognitive-load-theory.md).
 
 This pattern is scoped to sequencing organised content over a unit or course; it is a poor fit for isolated facts, and a forced epitome can distort a domain with no single organising idea. Its design cost is real: choosing the epitome and the levels is a content analysis that needs someone who knows the domain. The evidence above tests a hierarchical organisation of knowledge in small physics studies, not the sequence, and the conditional branches remain to be tested with learners.
 
@@ -251,7 +251,7 @@ It is especially useful for curriculum-scale design where content complexity is 
 
 ### Affordances
 - [Metaphors & Analogies](../principles/metaphors-analogies.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 - [Guided Practice](../principles/guided-practice.md)
 - [Worked Examples](../principles/worked-examples.md)
 

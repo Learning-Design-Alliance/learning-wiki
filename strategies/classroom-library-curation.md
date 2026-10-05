@@ -19,7 +19,7 @@ Classroom library curation is the intentional design of a classroom's book colle
 
 ## Design Implications
 
-Access to appealing, self-selected books is one of the strongest correlates of reading volume, and reading volume drives vocabulary, comprehension, and background knowledge growth [+M]. Curation matters because access alone is insufficient — collections that are too hard, culturally irrelevant, or poorly organized suppress voluntary reading [~M]. Curated collections that affirm students' identities increase engagement and belonging [+W], and fiction reading in particular supports perspective-taking and empathy [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M].
+Access to appealing, self-selected books is one of the strongest correlates of reading volume, and reading volume drives vocabulary, comprehension, and background knowledge growth [+M]. Curation matters because access alone is insufficient — collections that are too hard, culturally irrelevant, or poorly organized suppress voluntary reading [~M]. Curated collections that affirm students' identities increase engagement and belonging [+W], and fiction reading in particular supports perspective-taking and empathy [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Access to appealing, self-selected books is one of the strongest correlates of r
 ### Target Learning Goals
 - Reading volume and stamina: increasing minutes of engaged independent reading
 - Vocabulary and background knowledge growth through wide reading
-- Perspective-taking and empathy through diverse fiction [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Perspective-taking and empathy through diverse fiction [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 - Lifelong reading identity and motivation for voluntary reading
 
 ### Instructions

@@ -60,7 +60,7 @@ Holistic learning matters when learners are likely to lose meaning by encounteri
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — wholes still need calibration when the initial complexity is too high
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md) — diagrams and maps often make the whole visible
+- [Creating Visual Representations](dual-coding.md) — diagrams and maps often make the whole visible
 - [Scaffolding](scaffolding.md) — holistic designs still need supports so learners can move from overview to workable understanding
 - [Knowledge Organization](knowledge-organization.md) — holistic learning depends on preserving meaningful conceptual structure
 

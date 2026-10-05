@@ -37,7 +37,7 @@ Enactment converts abstract or social knowledge into concrete, embodied experien
 #### Implementation Variability
 - **Hot-seating**: one learner takes a role and answers questions in character from the class
 - **Freeze-frame**: the facilitator stops the action mid-scene and asks the audience to predict or advise the next move
-- **Replay with variation**: rerun the same scenario with different choices to compare consequences, supporting abstraction from multiple contrasting cases [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Replay with variation**: rerun the same scenario with different choices to compare consequences, supporting abstraction from multiple contrasting cases [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Teacher-in-role**: the instructor enters the drama as a character, raising the stakes and steering the scenario
 - **Physical enactment of concepts**: students embody particles, fractions, or historical actors to model systems with their bodies
 

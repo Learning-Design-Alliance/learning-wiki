@@ -74,7 +74,7 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 - [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — related
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
-- [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md) — related
+- [Peer Feedback Improves Work Quality](peer-assessment-improves-performance.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md) — related

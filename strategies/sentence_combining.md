@@ -36,7 +36,7 @@ Sentence combining works because it makes syntactic construction the explicit ob
 #### Implementation Variability
 - **Kernel-to-text**: combine sentence pairs, then apply the same moves to the student's own draft
 - **Peer-assisted combining**: pairs negotiate combinations and justify choices; peer discussion adds gains for weaker writers [+M]
-- **Contrasting combinations**: present two acceptable combinations of the same kernels and discuss the difference in emphasis and meaning, supporting abstraction of syntactic options [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting combinations**: present two acceptable combinations of the same kernels and discuss the difference in emphasis and meaning, supporting abstraction of syntactic options [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Embedded in genre writing**: exercises use kernels drawn from the genre students are currently writing
 
 ### Target Learners

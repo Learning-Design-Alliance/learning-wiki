@@ -120,7 +120,6 @@ Open questions include how the effect scales across media formats (static illust
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
 - [Dual Coding Improves Learning](dual-coding-improves-learning.md) — a narrower finding that bears on this claim
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — a narrower finding that bears on this claim
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related

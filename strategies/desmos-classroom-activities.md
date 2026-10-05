@@ -37,7 +37,7 @@ The strategy's core mechanism is making student thinking collectively visible: b
 #### Implementation Variability
 - **Full lesson replacement**: a complete Desmos activity (e.g., "Polygraph: Parabolas") as the core of a class period, with teacher-paced discussion between screens
 - **Warm-up or exit ticket**: a 2–3 screen activity used to surface prior conceptions or check retention [spaced-repetition-improves-retention](../claims/spaced-repetition-improves-retention.md) [+S]
-- **Card sorts for discrimination**: students sort examples and non-examples, then the teacher displays mismatch patterns to drive discussion [multiple-contrasting-cases-support-abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Card sorts for discrimination**: students sort examples and non-examples, then the teacher displays mismatch patterns to drive discussion [multiple-contrasting-cases-support-abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Asynchronous/flipped use**: screens assigned before class to gather data that shapes the in-person lesson, as in a [flipped classroom](../patterns/flipped-classroom.md)
 
 ### Target Learners

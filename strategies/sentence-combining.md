@@ -37,7 +37,7 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 - **Open combining**: learners choose any grammatically acceptable combination; supports flexibility and discussion of rhetorical effect
 - **Cued combining**: signal words or clause slots are provided; lowers load for novices [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - **Kernel-to-paragraph**: combining embedded in full-text revision, the form most likely to transfer
-- **Contrasting cases**: comparing a flat vs. a well-combined version makes the stylistic payoff visible [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting cases**: comparing a flat vs. a well-combined version makes the stylistic payoff visible [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Adolescent and older writers still producing predominantly simple or run-on sentences [A meta-analysis of writing instruction for adolescent students.](https://doi.org/10.1037/1082-009X.99.3.445) [+S]

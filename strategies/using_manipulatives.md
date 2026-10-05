@@ -38,7 +38,7 @@ Manipulatives work as *symbols* for mathematical ideas, not as self-interpreting
 #### Implementation Variability
 - **Concrete–Representational–Abstract (CRA) sequencing**: manipulatives first, then drawings, then symbols — the most common structured adaptation
 - **Virtual manipulatives**: digital versions (e.g., Brainingcamp, The Math Learning Center apps) offer repeatability and annotation; evidence suggests comparable effects to physical objects when the pedagogy is the same [~W]
-- **Comparing multiple representations**: using two different manipulatives for the same concept supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparing multiple representations**: using two different manipulatives for the same concept supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Learner-created materials**: fraction strips students cut themselves can deepen the object–concept mapping
 
 ### Target Learners

@@ -31,7 +31,7 @@ Graphic organizers improve learning primarily by revealing structure — the hie
 - Completing a pre-made organizer by copying or filling blanks can become a low-level transcription task with little elaboration [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [-M]
 - Learners with high prior knowledge may gain little from provided organizers and can be slowed by redundant visual processing [Guidance becomes less effective — and can reverse — as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 - Overly dense or decorative organizers add extraneous load rather than reducing it [Reducing extraneous load improves learning.](../principles/cognitive-load-management.md) [-M]
-- Organizers impose a single structure on content; for ill-structured domains, a fixed map can mislead — multiple representations are preferable [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~W]
+- Organizers impose a single structure on content; for ill-structured domains, a fixed map can mislead — multiple representations are preferable [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~W]
 
 #### Implementation Variability
 - **Advance organizer** (instructor-provided, before instruction): primes structure and prior knowledge

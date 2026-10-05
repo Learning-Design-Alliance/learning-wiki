@@ -55,7 +55,7 @@ MEAs operationalize model-building as the unit of learning: learners reveal and 
 1. **Present the client letter** — a realistic stakeholder describes a need in non-textbook language; use [Advance Organizers](../elements/advance-organizers.md) sparingly so the ambiguity is preserved
 2. **Readiness questions** — individual short questions that activate relevant knowledge and ensure every team member engages before group work ([Activation](../elements/activation.md))
 3. **Team model development** — teams invent and document a generalizable procedure; instructor circulates as [Coaching](../elements/coaching.md), asking teams to test their model against cases it might fail
-4. **Test and revise** — teams apply their model to new data or a peer team's scenario and revise; contrasting multiple team models supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+4. **Test and revise** — teams apply their model to new data or a peer team's scenario and revise; contrasting multiple team models supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 5. **Deliver and debrief** — teams submit the written model; a whole-class [Class Discussion](../elements/class-discussion.md) compares approaches and connects to formal disciplinary content ([Articulation](../elements/articulation.md))
 
 ## Related Strategies

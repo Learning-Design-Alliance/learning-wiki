@@ -68,7 +68,7 @@ Mastery learning rests on the assumption that most learners can reach high stand
 
 ## Patterns That Use This Strategy
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — mastery progression is the advancement mechanism
-- [Adaptive Learning](../patterns/adaptive-learning.md) — platforms such as ALEKS and Khan Academy implement objective-level mastery gating algorithmically
+- [Adaptive Learning](../principles/adaptive-learning.md) — platforms such as ALEKS and Khan Academy implement objective-level mastery gating algorithmically
 - [Direct Instruction](../patterns/direct-instruction.md) — scripted programs gate passage through tracks on mastery of prerequisite skills
 
 ## Examples

@@ -79,7 +79,7 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [5E learning cycle](../patterns/5e-learning-cycle.md) — a structured, guided inquiry pattern that operationalizes this claim
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — explains why unguided inquiry fails for novices and scaffolds are essential
 - [Clear structure improves learning](clear-structure-improves-learning.md) — the guidance component that separates effective guided inquiry from ineffective discovery
-- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — related
+- [Guided Inquiry Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — possibly the same claim (merge candidate)
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — a narrower finding that bears on this claim
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related

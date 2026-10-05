@@ -38,7 +38,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - **Schema-based instruction**: teach a small set of problem-type diagrams (e.g., part–whole, compare, change) and match problems to schemas — the approach with the strongest evidence base for word problems
 - **Concrete–pictorial–abstract (CPA)**: sequence from manipulatives to drawings to symbols, as in Singapore Math
 - **Student-generated vs. provided visuals**: provided diagrams scaffold interpretation; generated diagrams build deeper processing but require more support
-- **Multiple contrasting representations**: showing the same relationship as a strip diagram, number line, and equation supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Multiple contrasting representations**: showing the same relationship as a strip diagram, number line, and equation supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Students with mathematics learning disabilities or difficulties, who benefit most from explicit representation instruction [van Garderen & Montague found students with LD produce less effective representations without instruction.](https://doi.org/10.1177/07319487030260040201) [+M]
@@ -56,7 +56,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 2. Model construction with [Think-Aloud](../elements/think-aloud.md) reasoning, showing how quantities are extracted from the problem text.
 3. Have students construct their own representations with [Practice](../elements/practice.md) on a sequence of problems, fading teacher support as accuracy grows ([Scaffolding](../elements/scaffolding.md)).
 4. Prompt students to explain how the diagram maps to the equation, leveraging [Self-Explanation](../elements/self-explanation.md) [+M].
-5. Compare multiple representations of the same problem to build flexibility and support abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+5. Compare multiple representations of the same problem to build flexibility and support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
 - [Worked Examples](../strategies/use_worked_examples.md) — worked examples can embed completed diagrams, letting learners study expert representation choices

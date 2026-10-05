@@ -39,7 +39,7 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 - **Gradual release** ("I do, we do, you do"): modeling fades into guided then independent practice as responsibility shifts to learners [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - **Partial modeling**: demonstrate the first steps, then have students complete the rest ([Fading](../elements/fading.md))
 - **Erroneous modeling**: deliberately model a flawed attempt and have students catch the error [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
-- **Multi-sensory cueing**: pair verbal narration with visual annotation, gestures, or manipulatives to support dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- **Multi-sensory cueing**: pair verbal narration with visual annotation, gestures, or manipulatives to support dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - **Video modeling**: recorded demonstrations allow replay and self-pacing, at the cost of lost live questioning
 
 ### Target Learners

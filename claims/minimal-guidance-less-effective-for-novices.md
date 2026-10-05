@@ -145,7 +145,6 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — explicit structure is a low-cost form of the guidance novices need
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
 - [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
-- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
 - [The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect](hpm-directed-activation-zeigarnik-account.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related

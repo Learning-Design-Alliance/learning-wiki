@@ -71,7 +71,7 @@ The expectation should weaken if, with comparable learners and questions, an iso
 An immediate isomorphic-question gain, delayed retention, transfer to an unfamiliar problem and a change in reasoning ability are separate claims. The present evidence does not establish an optimal discussion time, group size, threshold of initial correctness or effect size for any learner.
 
 ## Related Principles
-- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md) — feedback is one specific form of peer discussion centered on improvement of work.
+- [Peer Feedback/Peer Review](peer-feedback.md) — feedback is one specific form of peer discussion centered on improvement of work.
 - [Communities of Practice](communities-of-practice.md) — recurring peer discussion helps sustain shared practice and meaning-making.
 - [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — discussion is a core mechanism for surfacing alternative views.
 - [Building Empathy](building-empathy.md) — structured peer talk can deepen understanding of others' experience and reasoning.

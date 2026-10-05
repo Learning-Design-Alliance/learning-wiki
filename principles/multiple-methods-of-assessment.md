@@ -73,9 +73,9 @@ Multiple methods of assessment improve judgment when one format alone would unde
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.
-- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md) — varied evidence can strengthen mastery judgments when competence is complex.
+- [Competency-Based Learning & Assessment](competency-based-assessment.md) — varied evidence can strengthen mastery judgments when competence is complex.
 - [Learner Choice](learner-choice.md) — bounded choice in assessment format can increase agency while preserving standards.
-- [Creating Visual Representations](creating-visual-representations.md) — visual forms of evidence can complement written or oral assessment.
+- [Creating Visual Representations](dual-coding.md) — visual forms of evidence can complement written or oral assessment.
 
 ## Examples
 

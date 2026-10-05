@@ -32,7 +32,7 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 - Watching without doing produces illusions of competence; observation alone rarely transfers without practice [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Complex demonstrations can overload novices when every movement is visible at once; segmenting or highlighting the critical action is needed [Chunking reduces extraneous load.](../claims/chunking-reduces-working-memory-load.md) [-M]
 - Fine-grained or invisible processes (internal reasoning, sub-microscopic phenomena) cannot be demonstrated physically and require other representations
-- Demonstrations can anchor learners to one way of performing; contrasting variants mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- Demonstrations can anchor learners to one way of performing; contrasting variants mitigates this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 
 #### Implementation Variability
 - **Live modeling** — instructor performs in real time, pausing to narrate decisions
@@ -56,7 +56,7 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 2. Plan the demonstration: segment it, and decide which movements or decisions to highlight [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 3. Model the performance while narrating reasoning aloud ([Think-Aloud](../elements/think-aloud.md)), using gestures that map onto the content rather than idle motion.
 4. Have learners imitate immediately with [Coaching](../elements/coaching.md) and corrective [Feedback](../elements/feedback.md), fading the model as competence grows ([Fading](../elements/fading.md)).
-5. Where misconceptions are predictable, contrast a correct demonstration with a flawed one [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+5. Where misconceptions are predictable, contrast a correct demonstration with a flawed one [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
 - [Act It Out](act_it_out.md) — learners enact content bodily, the learner-side counterpart to instructor demonstration

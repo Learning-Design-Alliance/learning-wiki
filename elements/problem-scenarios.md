@@ -36,7 +36,7 @@ Problem scenarios are concrete situations presented to learners as the context f
 
 ### Affordances
 - [Problem-based Learning](../principles/problem-based-learning.md)
-- [Situated Learning](../principles/situated-learning.md)
+- [Situated Learning](../theories/situated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

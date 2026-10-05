@@ -19,7 +19,7 @@ The Frayer Model is a four-quadrant graphic organizer used to teach a concept ra
 
 ## Design Implications
 
-The model forces learners to engage in the two operations that concept-learning research identifies as central: identifying the defining attributes that separate instances from non-instances, and comparing contrasting cases to abstract the underlying rule [Multiple contrasting cases support abstraction of the underlying principle.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The non-examples quadrant is the load-bearing wall: without near-miss non-examples, learners form overgeneralized concepts that include irrelevant surface features. Because the organizer externalizes the concept's structure, it reduces the working-memory burden of holding attributes, instances, and boundaries in mind simultaneously [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its effectiveness increases when learners generate their own entries rather than copying teacher-provided ones [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+The model forces learners to engage in the two operations that concept-learning research identifies as central: identifying the defining attributes that separate instances from non-instances, and comparing contrasting cases to abstract the underlying rule [Multiple contrasting cases support abstraction of the underlying principle.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The non-examples quadrant is the load-bearing wall: without near-miss non-examples, learners form overgeneralized concepts that include irrelevant surface features. Because the organizer externalizes the concept's structure, it reduces the working-memory burden of holding attributes, instances, and boundaries in mind simultaneously [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its effectiveness increases when learners generate their own entries rather than copying teacher-provided ones [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ The model forces learners to engage in the two operations that concept-learning 
 - **Digital versions**: shared slides or whiteboard tools allow collaborative completion and comparison across groups
 
 ### Target Learners
-- Novices encountering a new disciplinary concept for the first time, who otherwise anchor on surface features [Multiple contrasting cases support abstraction of the underlying principle.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Novices encountering a new disciplinary concept for the first time, who otherwise anchor on surface features [Multiple contrasting cases support abstraction of the underlying principle.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - English language learners, when paired with [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) and visual examples — the structure makes implicit expectations explicit
 - Less beneficial for advanced learners who already hold well-differentiated concepts; the organizer becomes redundant busywork [~W]
 

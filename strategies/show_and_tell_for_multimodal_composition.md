@@ -35,7 +35,7 @@ Explaining one's own work to peers converts composing knowledge into articulate,
 - Large classes make whole-class show and tell impractical; small-group rotations preserve frequency but weaken the whole-class community function [~M]
 
 #### Implementation Variability
-- **Design-focus rounds**: all presenters show the *same* design problem solved differently, enabling comparison across cases [Comparing multiple contrasting cases supports abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- **Design-focus rounds**: all presenters show the *same* design problem solved differently, enabling comparison across cases [Comparing multiple contrasting cases supports abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - **Process rounds**: presenters show two versions of a segment and narrate what changed and why
 - **Asynchronous variants**: annotated screencasts or voice-over slides posted to a class forum, with written peer response
 - **Expert models**: instructor or professional designer shows and tells first, modeling the rationale language before students take the chair

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Rubrics improve student work
+title: "Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance"
 status: draft
 generated:
   by: claude/unspecified
@@ -29,12 +29,13 @@ sources:
     rigour: "?"
 ---
 
-# Rubrics improve student work
+# Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Rubrics improve student work -->
 
-Rubrics — explicit scoring guides describing performance criteria across quality levels — improve the quality of student work by making expectations visible before and during task completion. This page is currently a plausible hypothesis awaiting evidence: no studies have yet been added to the Evidence section.
+Rubrics — explicit scoring guides describing performance criteria across quality levels — improve the quality of student work by making expectations visible before and during task completion. Two non-randomised comparison studies are recorded, both of rubric-referenced *self-assessment* (middle-school writers and pre-service teachers), neither reporting a standardised effect size; no study here tests rubrics used only by the instructor or merely handed out. <!-- deprecated (2026-10-05, stale: entries had been added): This page is currently a plausible hypothesis awaiting evidence: no studies have yet been added to the Evidence section. -->
 
 ## Subclaims
 
@@ -64,7 +65,7 @@ Two hundred and eighteen third-year pre-service teachers were assigned to design
 
 **Plausible mechanisms.** Several established findings make this claim theoretically likely. Rubrics operationalize [assessment for learning](../principles/assessment-for-learning.md) by turning abstract standards into concrete criteria students can act on, which aligns with the broader finding that [clear structure improves learning](clear-structure-improves-learning.md). By specifying quality levels, rubrics may also reduce extraneous load — consistent with evidence that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — freeing capacity for the task itself. Rubrics can support self-regulation by enabling students to self-assess and revise against explicit criteria, a mechanism shared with [self-regulated learning](../theories/self-regulated-learning.md).
 
-**Boundary conditions to test.** The benefit likely depends on design and use. Rubrics written in jargon-heavy or vague language may not help, and may need to follow principles of [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md). Analytic, criterion-referenced rubrics used *before* submission (as working documents) probably differ from holistic rubrics used only for grading; the latter risk functioning as post-hoc justification rather than guidance. Related evidence suggests caution about weak substitutes: [checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md), indicating that simply listing requirements does not produce the same effect as a well-designed rubric. An expertise-reversal pattern is also plausible — highly detailed rubrics may become redundant for advanced learners, echoing the [expertise reversal effect](../theories/expertise-reversal-effect.md).
+**Boundary conditions to test.** The benefit likely depends on design and use. Rubrics written in jargon-heavy or vague language may not help, and may need to follow principles of [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md). Analytic, criterion-referenced rubrics used *before* submission (as working documents) probably differ from holistic rubrics used only for grading; the latter risk functioning as post-hoc justification rather than guidance. <!-- deprecated (2026-10-05, misapplied claim: the CRAAP checklist claim tests source-evaluation instruction, not rubrics): Related evidence suggests caution about weak substitutes: [checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md), indicating that simply listing requirements does not produce the same effect as a well-designed rubric. --> Whether a bare list of requirements does as well as a designed rubric is untested here; the nearest recorded evidence, on [one-session CRAAP checklist instruction in source evaluation](checklist-evaluation-ineffective-online.md), concerns a web-evaluation method, not rubrics for student work, and does not bear on it. An expertise-reversal pattern is also plausible — highly detailed rubrics may become redundant for advanced learners, echoing the [expertise reversal effect](../theories/expertise-reversal-effect.md).
 
 **Open questions.** Two studies are recorded, both non-randomised comparisons of rubric-referenced self-assessment against a comparison condition (Andrade et al. 2010, 162 middle-school writers; Panadero & Romero 2014, 218 pre-service teachers), and neither reports a standardised effect size, so effect sizes, subject domains, grade levels, and the comparative value of rubrics versus exemplars or models remain unresolved. Priority evidence to gather: experimental or quasi-experimental comparisons of rubric-supported versus non-rubric writing or performance tasks, and studies separating rubric *availability* from rubric *use* (self-assessment, peer assessment, revision).
 
@@ -78,16 +79,15 @@ Two further open questions for the evidence base: (1) durability — most rubric
 
 <!-- deprecated (2026-10-05, stale: entries had been added): Until studies are added, this page should be treated as a well-motivated but unverified claim. -->
 
-A related caution: criterion-based self-evaluation does not automatically succeed. The finding that [checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md) suggests that handing learners a list of criteria, without training or scaffolding in how to apply it, can fail to improve — and may even shortcut — genuine evaluative judgment. Rubric designs should therefore pair criteria with exemplars, modeled application, or structured self-scoring rather than distribution alone.
+<!-- deprecated (2026-10-05, misapplied claim: the CRAAP checklist claim tests source-evaluation instruction, not rubrics, and does not show compliance or shortcutting): A related caution: criterion-based self-evaluation does not automatically succeed. The finding that [checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md) suggests that handing learners a list of criteria, without training or scaffolding in how to apply it, can fail to improve — and may even shortcut — genuine evaluative judgment. Rubric designs should therefore pair criteria with exemplars, modeled application, or structured self-scoring rather than distribution alone. --> A related caution: criterion-based self-evaluation does not automatically succeed. In Panadero & Romero (2014) the rubric group also reported more difficulty coping with stress and a higher performance/avoidance orientation. Both recorded studies paired the rubric with active self-scoring (and, in Andrade et al. 2010, a model essay and learner-generated criteria), so whether distributing a rubric alone helps is untested here; pairing criteria with exemplars, modelled application or structured self-scoring is a design proposal, not a tested comparison.
 
 ## Related Claims
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — rubrics are a core tool for making assessment formative
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — rubrics are one way of making task structure and expectations explicit
-- [Checklist evaluation is ineffective online.](checklist-evaluation-ineffective-online.md) — a boundary case: simple checklists do not deliver the same benefit as designed rubrics
+- [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related: a criteria checklist for evaluating web sources; it does not compare checklists with rubrics <!-- deprecated (2026-10-05, misapplied): a boundary case: simple checklists do not deliver the same benefit as designed rubrics -->
 - [Authentic audiences improve student work.](authentic-audiences-improve-student-work.md) — another expectancy-shaping intervention on work quality; rubrics may compound or substitute for it
 - [Feedback improves learning.](feedback-improves-learning.md) — rubrics frame the criteria that feedback addresses
-- [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md) — a broader claim this one bears on
-- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — a broader claim this one bears on
-- [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md) — related
+- [Peer Feedback Improves Work Quality](peer-assessment-improves-performance.md) — a broader claim this one bears on
+- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
 - [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) — related

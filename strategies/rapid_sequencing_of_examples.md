@@ -19,7 +19,7 @@ Rapid sequencing of examples presents multiple instances of a concept in quick s
 
 ## Design Implications
 
-Comparison across multiple instances is one of the most reliable routes to concept formation and schema abstraction; learners who study several contrasting cases together abstract more transferable schemas than those who study the same examples one at a time [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. The mechanism is working-memory based: co-activating instances allows alignment of their structures, whereas sequential presentation with delay forces reliance on incomplete memory traces [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Sequencing works best when learners are prompted to explain *why* the instances belong to the same category, converting passive juxtaposition into active schema construction [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Comparison across multiple instances is one of the most reliable routes to concept formation and schema abstraction; learners who study several contrasting cases together abstract more transferable schemas than those who study the same examples one at a time [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. The mechanism is working-memory based: co-activating instances allows alignment of their structures, whereas sequential presentation with delay forces reliance on incomplete memory traces [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Sequencing works best when learners are prompted to explain *why* the instances belong to the same category, converting passive juxtaposition into active schema construction [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,14 +41,14 @@ Comparison across multiple instances is one of the most reliable routes to conce
 - **Compare-then-solve**: rapid example sequence followed by an [Example-Problem Pair](../elements/example-problem-pairs.md) to consolidate the abstracted schema
 
 ### Target Learners
-- Novices forming a new concept, especially an abstract one whose defining features are not visually obvious [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Novices forming a new concept, especially an abstract one whose defining features are not visually obvious [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Learners prone to encoding instances idiosyncratically; the juxtaposition forces structural comparison
 - Less beneficial for advanced learners, who can generalize from fewer instances [~M]
 
 ### Target Learning Goals
 - Concept formation and generalization: identifying defining features shared across instances
 - Discrimination: distinguishing the target concept from near-miss categories
-- Analogical transfer: mapping a learned structure onto new domains [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Analogical transfer: mapping a learned structure onto new domains [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Select 3–6 examples that vary surface features but share the target deep structure; include at least one non-example if the concept has a confusable neighbor ([Non-Examples](../elements/non-examples.md))

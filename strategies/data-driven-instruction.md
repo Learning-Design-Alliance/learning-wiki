@@ -37,7 +37,7 @@ DDI operationalizes [Assessment for Learning](../principles/assessment-for-learn
 #### Implementation Variability
 - **Teacher-level cycles**: exit tickets analyzed nightly, next-day reteach groups
 - **Team-level cycles**: grade-level or department data meetings on a fixed cadence (e.g., every 6 weeks)
-- **System-level**: adaptive platforms ([Adaptive Learning](../patterns/adaptive-learning.md)) automate the measure-and-adjust loop, though algorithmic grouping still needs teacher oversight
+- **System-level**: adaptive platforms ([Adaptive Learning](../principles/adaptive-learning.md)) automate the measure-and-adjust loop, though algorithmic grouping still needs teacher oversight
 - **Standards-based grading variants**: tracking mastery per skill rather than averaged points
 
 ### Target Learners
@@ -61,7 +61,7 @@ DDI operationalizes [Assessment for Learning](../principles/assessment-for-learn
 ## Related Strategies
 - [Formative Assessment](../patterns/formative-assessment.md) — the assessment layer DDI depends on; DDI adds the decision protocol
 - [Direct Instruction](../patterns/direct-instruction.md) — a common reteaching response when data reveals whole-group gaps
-- [Adaptive Learning](../patterns/adaptive-learning.md) — automates the measure-adjust cycle at scale
+- [Adaptive Learning](../principles/adaptive-learning.md) — automates the measure-adjust cycle at scale
 
 ## Examples
 - **Uncommon Schools / Relay GSE DDI model** — weekly interim assessments, item-level analysis in teacher meetings, and scripted reteach plans; widely replicated in charter networks

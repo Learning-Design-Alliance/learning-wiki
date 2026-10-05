@@ -30,7 +30,7 @@ Generation is a form of retrieval and elaboration: producing an example forces l
 
 #### Constraints
 - Learners with very low prior knowledge generate shallow or incorrect examples and may entrench misconceptions if errors go uncorrected [-M]
-- Generated examples that are idiosyncratic or surface-similar can anchor learners to irrelevant features; contrasting multiple examples mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- Generated examples that are idiosyncratic or surface-similar can anchor learners to irrelevant features; contrasting multiple examples mitigates this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Requires facilitation effort: unvetted examples shared in class can spread confusion rather than correct it
 - Time-intensive relative to presenting examples; poorly suited when coverage pressure is high
 
@@ -56,7 +56,7 @@ Generation is a form of retrieval and elaboration: producing an example forces l
 1. Teach the concept first with instructor-provided examples and clear defining criteria.
 2. Ask learners to generate one or more of their own examples ([Practice](../elements/practice.md)), ideally drawn from their own experience or interests.
 3. Have learners explain *why* each example fits, articulating the mapping between concept features and the example [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
-4. Share and compare examples across learners ([Class Discussion](../elements/class-discussion.md)); contrast valid and invalid cases to support abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+4. Share and compare examples across learners ([Class Discussion](../elements/class-discussion.md)); contrast valid and invalid cases to support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 5. Provide corrective feedback on inaccurate examples before misconceptions consolidate.
 
 ## Related Strategies

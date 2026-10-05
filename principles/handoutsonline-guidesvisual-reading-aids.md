@@ -64,7 +64,7 @@ Handouts, online guides, and visual reading aids are most useful when learners w
 
 ## Related Principles
 - [Clear Structure & Presentation](clear-structure.md) — reading aids are one way to make instructional structure visible.
-- [Creating Visual Representations](creating-visual-representations.md) — learners can also build their own guides and representations, not just receive them.
+- [Creating Visual Representations](dual-coding.md) — learners can also build their own guides and representations, not just receive them.
 - [Graphic Organizers](graphic-organizers.md) — many reading aids are organizer-like supports for sequencing and comparison.
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — readable wording and readable formatting reinforce one another.
 

@@ -19,7 +19,7 @@ Learners identify two or more words, concepts, or cases, generate a list of simi
 
 ## Design Implications
 
-Comparison forces elaborative processing: to state how two items differ, learners must retrieve the defining features of each and evaluate them against one another, which produces more durable encoding than studying either item alone [Schwartz & Bransford contrasting cases prepare learners for instruction] [+S]. The diagram format adds a spatial-visual representation of the same relationships, supporting dual coding [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Critically, the *learner-generated* list matters more than the completed diagram — presenting a filled-in Venn diagram removes the analytical work that produces the benefit [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
+Comparison forces elaborative processing: to state how two items differ, learners must retrieve the defining features of each and evaluate them against one another, which produces more durable encoding than studying either item alone [Schwartz & Bransford contrasting cases prepare learners for instruction] [+S]. The diagram format adds a spatial-visual representation of the same relationships, supporting dual coding [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Critically, the *learner-generated* list matters more than the completed diagram — presenting a filled-in Venn diagram removes the analytical work that produces the benefit [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements

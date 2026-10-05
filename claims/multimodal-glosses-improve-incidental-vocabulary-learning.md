@@ -47,7 +47,6 @@ Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three gro
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](marginal-glosses-most-beneficial-task.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Dual Coding Improves Learning](dual-coding-improves-learning.md) — a broader claim this one bears on
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — a broader claim this one bears on
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related
 - [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related

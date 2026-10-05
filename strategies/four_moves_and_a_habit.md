@@ -51,7 +51,7 @@ The framework works because it replaces exhaustive, page-internal evaluation wit
 
 ### Instructions
 1. **Stop.** Notice your emotional reaction to the claim; if it is strong, slow down before sharing or accepting it. This habit precedes and frames every other move.
-2. **Investigate the source.** Open a new tab and search for what known references say about the source or author — not what the source says about itself. Compare coverage of the same source across outlets to sharpen discrimination between reliable and unreliable publishers [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. **Investigate the source.** Open a new tab and search for what known references say about the source or author — not what the source says about itself. Compare coverage of the same source across outlets to sharpen discrimination between reliable and unreliable publishers [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. **Find better coverage.** Look for the claim in more authoritative outlets; the goal is the *claim's* credibility, not the original page's.
 4. **Trace to the original.** Follow quotes, figures, and media upstream to their original context — via citation-chasing, reverse image search, or archival links — and check whether the original supports the framing. Verbalizing why a source passed or failed each move strengthens the evaluative schema [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 

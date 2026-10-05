@@ -55,7 +55,7 @@ Emotion identification games work because they pair repeated exposure to express
 3. Play the recognition round: learners guess a feeling from a puppet, card, or acted cue; require a justification ("How can you tell?") to prompt attention to cues [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 4. Give immediate, specific feedback on incorrect guesses, pointing to the discriminating cue ("See how her eyebrows go up? That's surprise, not anger") ([Provide Feedback](../elements/provide-feedback.md)).
 5. Connect to real situations through [Peer Discussion](../elements/peer-discussion.md): "When have you felt this?" — linking labels to lived experience.
-6. Increase difficulty over time: add intensity gradations, mixed emotions, and context-dependent cues, using [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) to sharpen category boundaries [+M].
+6. Increase difficulty over time: add intensity gradations, mixed emotions, and context-dependent cues, using [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) to sharpen category boundaries [+M].
 
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a specific check-in variant of the same recognition task

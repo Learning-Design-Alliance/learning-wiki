@@ -19,7 +19,7 @@ Maximization of transfer and generalization is the deliberate design of instruct
 
 ## Design Implications
 
-Transfer depends on learners encoding knowledge in a form that is abstract enough to apply elsewhere but concrete enough to be usable. Multiple contrasting cases that share deep structure but differ in surface features support abstraction of the underlying principle [Multiple contrasting cases support abstraction of shared structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Prompting learners to explain why a solution works — rather than only producing solutions — builds the conceptual understanding that far transfer requires [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Transfer is also improved when learners practice in varied contexts and when support is progressively withdrawn so responsibility for application shifts to the learner [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Transfer depends on learners encoding knowledge in a form that is abstract enough to apply elsewhere but concrete enough to be usable. Multiple contrasting cases that share deep structure but differ in surface features support abstraction of the underlying principle [Multiple contrasting cases support abstraction of shared structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Prompting learners to explain why a solution works — rather than only producing solutions — builds the conceptual understanding that far transfer requires [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Transfer is also improved when learners practice in varied contexts and when support is progressively withdrawn so responsibility for application shifts to the learner [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Transfer depends on learners encoding knowledge in a form that is abstract enoug
 
 ### Target Learning Goals
 - Application of principles to novel problems (near and far transfer)
-- Abstraction: extracting generalizable rules and schemas from specific instances [Multiple contrasting cases support abstraction of shared structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Abstraction: extracting generalizable rules and schemas from specific instances [Multiple contrasting cases support abstraction of shared structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Durable, flexible knowledge rather than context-bound procedural routines
 - Adaptive expertise: knowing when and how to modify learned procedures
 

@@ -19,7 +19,7 @@ Students add a graphic organizer — a diagram such as a flowchart, cycle diagra
 
 ## Design Implications
 
-Pairing text with a relevant, structure-mapping diagram engages dual coding — verbal and visual representations that reinforce each other in memory [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The organizer must be *relevant* to the text's argument, not decorative: seductive but irrelevant graphics add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Because the student must construct the organizer themselves, the activity doubles as a comprehension and synthesis check — deciding what belongs in the diagram forces re-analysis of the writing's logical structure [Learner-generated organizers produce deeper learning than viewing author-provided ones.](../claims/advance-organizers-improve-learning.md) [+M].
+Pairing text with a relevant, structure-mapping diagram engages dual coding — verbal and visual representations that reinforce each other in memory [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The organizer must be *relevant* to the text's argument, not decorative: seductive but irrelevant graphics add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Because the student must construct the organizer themselves, the activity doubles as a comprehension and synthesis check — deciding what belongs in the diagram forces re-analysis of the writing's logical structure [Learner-generated organizers produce deeper learning than viewing author-provided ones.](../claims/advance-organizers-improve-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Pairing text with a relevant, structure-mapping diagram engages dual coding — 
 
 ### Target Learners
 - Middle school through adult writers of expository and argumentative text
-- Benefits readers most when topics are complex, abstract, or process-based [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Benefits readers most when topics are complex, abstract, or process-based [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Struggling readers and multilingual learners gain from the reduced verbal-processing demand of a visual summary [+M]
 - Less valuable for simple, short texts where the structure is already transparent [~W]
 

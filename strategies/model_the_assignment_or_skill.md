@@ -49,7 +49,7 @@ Modeling works because observation of a competent performance provides a templat
 - Observation without subsequent practice produces illusions of competence; learners overestimate what they learned from watching [van Gog & Rummel, 2010] [-M]
 - Overly fluent expert performance can be hard to follow; novices benefit when the model works at a realistic pace, makes and corrects plausible errors, and explains why alternatives fail
 - Less effective for learners with strong prior knowledge, for whom explicit modeling is redundant and can slow performance [expertise-reversal-effect](../claims/expertise-reversal-effect.md) [~M]
-- Modeling a single fixed approach can anchor learners; contrasting two solved cases supports abstraction better than one [multiple-contrasting-cases-support-abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Modeling a single fixed approach can anchor learners; contrasting two solved cases supports abstraction better than one [multiple-contrasting-cases-support-abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - **Full modeling**: teacher completes the entire task with narration — appropriate when the task is entirely new

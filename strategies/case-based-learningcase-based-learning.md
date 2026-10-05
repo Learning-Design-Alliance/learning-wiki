@@ -19,7 +19,7 @@ Case based learning places learners in the role of analyst or decision-maker con
 
 ## Design Implications
 
-Cases situate abstract principles in concrete, messy contexts, forcing learners to retrieve and apply knowledge rather than recognize it [Case based learning improves exam performance in health professions education.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Learning depends on the quality of the discussion and analysis, not the case document itself: cases must be paired with prompts that elicit reasoning and [Self-Explanation](../elements/self-explanation.md), since a case read passively produces little transfer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because real problems are ill-structured, multiple contrasting cases are more effective than a single case for building flexible, adaptable knowledge [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Cases situate abstract principles in concrete, messy contexts, forcing learners to retrieve and apply knowledge rather than recognize it [Case based learning improves exam performance in health professions education.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Learning depends on the quality of the discussion and analysis, not the case document itself: cases must be paired with prompts that elicit reasoning and [Self-Explanation](../elements/self-explanation.md), since a case read passively produces little transfer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because real problems are ill-structured, multiple contrasting cases are more effective than a single case for building flexible, adaptable knowledge [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Cases situate abstract principles in concrete, messy contexts, forcing learners 
 ### Target Learning Goals
 - Applied reasoning and diagnosis: connecting principles to ambiguous situations
 - Decision-making under uncertainty: weighing trade-offs and justifying choices
-- Flexible knowledge representation: seeing how the same concept manifests across contexts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Flexible knowledge representation: seeing how the same concept manifests across contexts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Professional identity and judgment: practicing the role, not just the content
 
 ### Instructions

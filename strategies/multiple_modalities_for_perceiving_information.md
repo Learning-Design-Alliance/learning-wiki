@@ -19,7 +19,7 @@ Presenting information in more than one sensory format — text, audio, video, d
 
 ## Design Implications
 
-Pairing words with relevant pictures or narration improves learning compared with words alone, because verbal and visual channels are processed separately and can share the load [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-recall.md) [+S]. The benefit is conditional, however: modalities must be *complementary and integrated*, not redundant or competing. Presenting identical text on screen while narrating it, or adding decorative images, adds load without adding meaning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Poorly combined modalities can overload working memory and degrade learning [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-S].
+Pairing words with relevant pictures or narration improves learning compared with words alone, because verbal and visual channels are processed separately and can share the load [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, however: modalities must be *complementary and integrated*, not redundant or competing. Presenting identical text on screen while narrating it, or adding decorative images, adds load without adding meaning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Poorly combined modalities can overload working memory and degrade learning [Cognitive overload degrades learning when demands exceed working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-S].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Pairing words with relevant pictures or narration improves learning compared wit
 
 ### Target Learning Goals
 - Conceptual understanding of systems, structures, and dynamic processes
-- Retention of verbally and visually coded information [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-recall.md) [+S]
+- Retention of verbally and visually coded information [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+S]
 - Accessibility and equitable participation across abilities
 
 ### Instructions

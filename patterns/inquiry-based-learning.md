@@ -27,7 +27,7 @@ Inquiry-based learning is the short-form canonical pattern for organizing learni
 
 ## Claims
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
-- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+S]
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Guided Discovery Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
 

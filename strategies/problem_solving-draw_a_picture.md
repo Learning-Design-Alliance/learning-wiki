@@ -19,7 +19,7 @@ generated:
 
 ## Design Implications
 
-Drawing converts verbal/numeric problem statements into a second, visual representation, and dual representations support reasoning and recall [Dual coding improves recall when verbal and visual codes are integrated.](../claims/dual-coding-improves-recall.md) [+M]. The critical distinction is between *pictorial* drawings (literal images of surface features) and *schematic* drawings (relational diagrams); schematic representations predict solution success while pictorial ones do not, or actively interfere [Hegarty & Kozhevnikov, 1999] [+M]. Teaching the drawing step explicitly — including what to represent and how — matters more than simply instructing learners to "draw a picture."
+Drawing converts verbal/numeric problem statements into a second, visual representation, and dual representations support reasoning and recall [Dual coding improves recall when verbal and visual codes are integrated.](../claims/dual-coding-improves-learning.md) [+M]. The critical distinction is between *pictorial* drawings (literal images of surface features) and *schematic* drawings (relational diagrams); schematic representations predict solution success while pictorial ones do not, or actively interfere [Hegarty & Kozhevnikov, 1999] [+M]. Teaching the drawing step explicitly — including what to represent and how — matters more than simply instructing learners to "draw a picture."
 
 ### Context
 #### Requirements

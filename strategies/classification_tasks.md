@@ -19,7 +19,7 @@ Classification tasks ask learners to sort objects, examples, or concepts into ca
 
 ## Design Implications
 
-Classification tasks build conceptual structure through comparison. Contrasting multiple cases — especially cases that differ on only one dimension — helps learners abstract the underlying features that define a category [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Requiring learners to explain *why* an item belongs in a category converts sorting from a mechanical exercise into self-explanation, which improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Sorting also functions as chunking: grouping items under a category label reduces the number of separate elements learners must hold in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Classification tasks build conceptual structure through comparison. Contrasting multiple cases — especially cases that differ on only one dimension — helps learners abstract the underlying features that define a category [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Requiring learners to explain *why* an item belongs in a category converts sorting from a mechanical exercise into self-explanation, which improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Sorting also functions as chunking: grouping items under a category label reduces the number of separate elements learners must hold in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -60,7 +60,7 @@ Classification tasks build conceptual structure through comparison. Contrasting 
 6. Assess with novel items: can learners classify examples they have never seen and justify the placement?
 
 ## Related Strategies
-- [Case Studies](../principles/case-studiescase-based-learning.md) — extended classification of a single rich instance rather than many small ones
+- [Case Studies](../patterns/case-based-learning.md) — extended classification of a single rich instance rather than many small ones
 - [Comparing Cases](../elements/comparing-cases.md) — the comparison mechanism that makes classification tasks build abstractions
 
 ## Examples

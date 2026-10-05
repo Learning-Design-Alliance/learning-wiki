@@ -79,7 +79,7 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 
 **The spacing effect is one of the most robust findings in memory research**, but this page's Evidence section has not yet been populated with specific studies, so no effect sizes or scope claims are asserted here. The canonical literature — beginning with Ebbinghaus's forgetting-curve experiments and extending through modern meta-analyses of verbal learning and classroom studies — consistently favors spaced over massed practice for delayed retention tests, with the advantage growing as the retention interval lengthens [+S].
 
-**Optimal gap depends on retention interval.** A recurring moderator in the literature is that the best spacing gap scales with how long the learner needs to remember: gaps that are optimal for a test one week later are too short for a test six months later [~M]. Designers of [adaptive-learning](../patterns/adaptive-learning.md) systems and flashcard tools should treat spacing as a parameter to tune, not a fixed rule.
+**Optimal gap depends on retention interval.** A recurring moderator in the literature is that the best spacing gap scales with how long the learner needs to remember: gaps that are optimal for a test one week later are too short for a test six months later [~M]. Designers of [adaptive-learning](../principles/adaptive-learning.md) systems and flashcard tools should treat spacing as a parameter to tune, not a fixed rule.
 
 **Mechanism.** Dominant accounts attribute the effect to encoding variability and to desirable-difficulty processes — spaced study requires effortful retrieval and reconstruction of fading traces, which strengthens them more than the fluent, easy processing that massed study affords [+M]. This links spacing to [retrieval practice](retrieval-practice-improves-retention.md), which compounds with spacing when spaced sessions require active recall rather than rereading [+M].
 
@@ -97,7 +97,6 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical frame for why effortful spaced processing strengthens encoding
 - [Adaptive Learning Improves Outcomes](adaptive-learning-improves-outcomes.md) — adaptive platforms operationalize spacing by scheduling reviews at expanding intervals
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — possibly the same claim (merge candidate)
-- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

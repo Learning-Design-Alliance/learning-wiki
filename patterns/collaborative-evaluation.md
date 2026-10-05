@@ -118,7 +118,7 @@ Claims the earlier page cited. Each keeps its old direction, capped by the claim
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — mostly one-to-one tutoring. Bears on the teacher's reference comparison only as a general argument for responding to what groups got wrong; it does not test evaluation.
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — a review and a theoretical synthesis. Bears on the last step (comparing one's own work with a target and revising); no study of evaluation activities.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — one narrative review of goal-setting research (capped from the earlier `[~S]` to its recorded evidence). It does not bear on evaluating work, except as a general argument for explicit criteria.
-- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M] — rests on the same Double et al. (2020) entry as the peer assessment claim above, with the same subclaim; a duplicate of it, not a second study.
+- [Peer Feedback Improves Work Quality](../claims/peer-assessment-improves-performance.md) [+M] — rests on the same Double et al. (2020) entry as the peer assessment claim above, with the same subclaim; a duplicate of it, not a second study.
 
 ## Illustrative design instance and observation record
 
@@ -128,7 +128,7 @@ Record: **object and its reference judgment → criteria as given → each learn
 
 ## Elements and limits
 
-[Assessment](../elements/assessment.md), [Consensus Discussion](../elements/consensus-discussion.md), [Peer Discussion](../elements/peer-discussion.md), [Formative Assessment](../elements/formative-assessment.md), [rubrics](../elements/rubrics.md) and [exemplars](../elements/exemplars.md). Principles the pattern draws on: [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md) and [Evaluating Sources](../principles/evaluating-sources.md).
+[Assessment](../elements/assessment.md), [Consensus Discussion](../elements/consensus-discussion.md), [Peer Discussion](../elements/peer-discussion.md), [Formative Assessment](../elements/formative-assessment.md), [rubrics](../elements/rubrics.md) and [exemplars](../elements/exemplars.md). Principles the pattern draws on: [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Peer Feedback/Peer Review](../principles/peer-feedback.md) and [Evaluating Sources](../principles/evaluating-sources.md).
 
 This pattern is scoped to learners judging the quality of objects against criteria, with a reference judgment available. Where no reference exists and the question is which position to hold, use [structured academic controversy](structured-academic-controversy.md); where the aim is giving feedback on an individual's draft, [structured peer review](structured-peer-review.md). The policy supports observation and design reasoning; whether judging together and comparing with a reference improves each learner's later alone judgments more than judging alone with the same reference, for which learners, at what time cost and at what horizon, remains to be tested.
 
@@ -219,7 +219,7 @@ The pattern works best when the object being evaluated admits comparison and jus
 ### Affordances
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
-- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
 - [Evaluating Sources](../principles/evaluating-sources.md)
 
 ### Personalization

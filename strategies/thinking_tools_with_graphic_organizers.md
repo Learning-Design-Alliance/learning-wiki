@@ -49,7 +49,7 @@ Graphic organizers improve learning when they force generative processing: learn
 ### Target Learning Goals
 - Conceptual understanding: identifying relationships, similarities, and differences among ideas [Learner-generated concept maps improve conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - Knowledge organization: building hierarchical or sequential schema rather than isolated facts
-- Abstraction from multiple examples: comparison organizers support noticing shared structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction from multiple examples: comparison organizers support noticing shared structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Choose an organizer type that matches the content structure (matrix for comparisons, flowchart for processes, hierarchy for taxonomies).

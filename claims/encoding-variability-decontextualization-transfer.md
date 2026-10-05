@@ -44,6 +44,6 @@ The review reports, citing DiVesta and Peverly (1984), an experiment manipulatin
 
 ## Related Claims
 - [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md) — related
-- [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md) — related
+- [Multiple Contrasting Cases Support Abstraction](comparing-contrasting-cases-improves-learning.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](task-variety-enables-transfer-same-task-type.md) — related

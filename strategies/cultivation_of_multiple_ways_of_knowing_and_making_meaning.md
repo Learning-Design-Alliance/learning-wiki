@@ -42,7 +42,7 @@ Presenting concepts through multiple representations and inviting learners to co
 
 ### Target Learners
 - Learners from cultural or linguistic backgrounds underrepresented in standard curricula, who benefit when their funds of knowledge are treated as instructional assets [+M]
-- Multilingual learners, who profit from dual-coding and multiple representational formats [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Multilingual learners, who profit from dual-coding and multiple representational formats [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - All learners in heterogeneous classrooms — exposure to diverse perspectives benefits majority-group students as well [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 
 ### Target Learning Goals
@@ -53,7 +53,7 @@ Presenting concepts through multiple representations and inviting learners to co
 ### Instructions
 1. Audit the unit: identify whose knowledge, examples, and modes of expression are represented, and where a single tradition dominates.
 2. Open with [Activation](../elements/activation.md) — elicit learners' prior experiences and community knowledge relevant to the topic [Activation improves learning.](../claims/activation-improves-learning.md) [+M].
-3. Present the core concept through at least two representational modes (e.g., [Analogies](../elements/analogies.md), [Case Studies](../elements/case-studies.md), visual models, [Act It Out](../elements/act-it-out.md)) [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+3. Present the core concept through at least two representational modes (e.g., [Analogies](../elements/analogies.md), [Case Studies](../elements/case-studies.md), visual models, [Act It Out](../elements/act-it-out.md)) [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 4. Structure [Class Discussion](../elements/class-discussion.md) or [Argumentation](../elements/argumentation.md) so learners compare how different traditions or disciplines frame the same question.
 5. Offer [Choice Boards](../elements/choice-boards.md) or equivalent options for how learners demonstrate mastery, assessed against a shared rubric.
 6. Close with [Articulation](../elements/articulation.md) — learners name what their own perspective contributed and what they learned from others'.

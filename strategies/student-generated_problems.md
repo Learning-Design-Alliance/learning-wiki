@@ -50,7 +50,7 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 - Conceptual understanding: identifying the deep structure that defines a problem type
 - Discrimination: distinguishing well-posed from ill-posed problems and core features from surface features
 - Metacognition and self-assessment: authoring forces learners to evaluate their own grasp of what is askable
-- Transfer: generating variants of a problem type supports recognizing that structure in new contexts [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer: generating variants of a problem type supports recognizing that structure in new contexts [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Teach or review the target concept and show one or two exemplar problems, making their structure explicit ([Advance Organizers](../elements/advance-organizers.md) can frame the problem schema).

@@ -19,7 +19,7 @@ Math Art involves creating drawings and designs that explore mathematical concep
 
 ## Design Implications
 
-Math Art leverages dual coding — representing concepts both visually and verbally — and gives abstract structure a manipulable, inspectable form [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Its effectiveness depends on the mathematical conversation surrounding the making: art produced without explicit attention to the underlying concepts becomes craft practice with little learning payoff. Young learners' awareness of mathematical pattern and structure predicts later achievement, and structured visual tasks are one documented route to developing that awareness [~M].
+Math Art leverages dual coding — representing concepts both visually and verbally — and gives abstract structure a manipulable, inspectable form [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Its effectiveness depends on the mathematical conversation surrounding the making: art produced without explicit attention to the underlying concepts becomes craft practice with little learning payoff. Young learners' awareness of mathematical pattern and structure predicts later achievement, and structured visual tasks are one documented route to developing that awareness [~M].
 
 ### Context
 #### Requirements

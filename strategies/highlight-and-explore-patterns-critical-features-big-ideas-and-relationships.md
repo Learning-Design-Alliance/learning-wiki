@@ -19,7 +19,7 @@ This strategy directs learner attention to the features, patterns, and organizin
 
 ## Design Implications
 
-Attention is the scarcest resource in learning: learners attend to what is salient, not necessarily to what is important. Explicit cues that mark critical features improve selective attention and learning, especially when material is complex or the goal is not obvious [Relevancy of emphasis directs attention to cued information.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. But highlighting alone is passive; the exploration half of the strategy — comparing multiple cases that vary systematically — is what drives abstraction of the underlying pattern [Multiple contrasting cases support abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Signaling also manages extraneous load by reducing the need to search for structure [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Attention is the scarcest resource in learning: learners attend to what is salient, not necessarily to what is important. Explicit cues that mark critical features improve selective attention and learning, especially when material is complex or the goal is not obvious [Relevancy of emphasis directs attention to cued information.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. But highlighting alone is passive; the exploration half of the strategy — comparing multiple cases that vary systematically — is what drives abstraction of the underlying pattern [Multiple contrasting cases support abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Signaling also manages extraneous load by reducing the need to search for structure [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Attention is the scarcest resource in learning: learners attend to what is salie
 ### Target Learning Goals
 - Concept formation: discriminating defining features from surface features
 - Knowledge organization: building relational schemas and seeing "big ideas" that unify topics
-- Transfer: abstracting deep structure that applies across contexts [Multiple contrasting cases support abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer: abstracting deep structure that applies across contexts [Multiple contrasting cases support abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the 2–4 critical features or big ideas the goal depends on; cut everything else from the cueing layer.

@@ -47,7 +47,7 @@ The technique's core mechanism is separating modes of thought that normally comp
 - Less suitable for young children without substantial scaffolding, or for learners who already use structured reflection routines [~W]
 
 ### Target Learning Goals
-- Perspective-taking: deliberately adopting emotional, critical, and generative stances toward the same problem [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Perspective-taking: deliberately adopting emotional, critical, and generative stances toward the same problem [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Metacognitive regulation: naming and switching thinking modes [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - Collaborative decision-making and idea evaluation: separating idea generation from idea judgment
 

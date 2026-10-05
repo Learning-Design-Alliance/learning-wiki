@@ -128,7 +128,7 @@ The expectation should weaken if studies of organizers other than concept maps (
 A filled-in organizer, immediate comprehension, delayed retention, transfer and use in the learner's own task are separate claims. The present evidence sets no organizer size, no proportion of blanks, and no criterion for withdrawing the organizer.
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md) — graphic organizers are one concrete form of visual externalization.
+- [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.
 - [Metaphors & Analogies](metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
 - [Process-Based Writing](process-based-writing.md) — organizers often support planning, sequencing, and revision in writing.
 - [Pre-Reading Questioning](pre-reading-questioning.md) — organizers can structure anticipation and comprehension before or during reading.
@@ -198,7 +198,7 @@ Graphic organizers help when the structure of a task matters as much as its cont
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — organizers teach more when learners explain how the visual structure represents the idea or task
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md) — graphic organizers are one concrete form of visual externalization.
+- [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.
 - [Metaphors & Analogies](metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
 - [Process-Based Writing](process-based-writing.md) — organizers often support planning, sequencing, and revision in writing.
 - [Pre-Reading Questioning](pre-reading-questioning.md) — organizers can structure anticipation and comprehension before or during reading.

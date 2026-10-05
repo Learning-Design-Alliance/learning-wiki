@@ -19,7 +19,7 @@ Hands-on physical science investigations in which learners manipulate variables 
 
 ## Design Implications
 
-Physical manipulation of concrete materials grounds abstract force-and-motion concepts in sensorimotor experience, which supports conceptual change in science domains [Physical experience enhances science learning.](../claims/physical-experience-enhances-science-learning.md) [+M]. However, unguided "discovery" with apparatus alone produces weak learning; experiments work best when embedded in structured sequences with explicit goals, prediction prompts, and instructor follow-up [Structured inquiry with scaffolds outperforms minimally guided discovery.](../claims/productive-failure-improves-conceptual-learning.md) [~M]. Comparing outcomes across deliberately varied conditions helps learners abstract the underlying relationship rather than memorizing a single trial's result [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Physical manipulation of concrete materials grounds abstract force-and-motion concepts in sensorimotor experience, which supports conceptual change in science domains [Physical experience enhances science learning.](../claims/physical-experience-enhances-science-learning.md) [+M]. However, unguided "discovery" with apparatus alone produces weak learning; experiments work best when embedded in structured sequences with explicit goals, prediction prompts, and instructor follow-up [Structured inquiry with scaffolds outperforms minimally guided discovery.](../claims/productive-failure-improves-conceptual-learning.md) [~M]. Comparing outcomes across deliberately varied conditions helps learners abstract the underlying relationship rather than memorizing a single trial's result [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Physical manipulation of concrete materials grounds abstract force-and-motion co
 
 #### Implementation Variability
 - **Prediction–observation–explanation (POE)** cycles: predict, run the trial, explain any discrepancy
-- **Contrasting cases**: run two conditions differing in one variable (e.g., long vs. short pendulum) and compare periods [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting cases**: run two conditions differing in one variable (e.g., long vs. short pendulum) and compare periods [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Simulations paired with physical labs**: [PhET simulations](https://phet.colorado.edu) let learners isolate variables that are hard to control physically, then verify in the physical lab
 - **Structured vs. open inquiry**: full structure for novices, fading toward open investigation as learners gain experimental control [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
@@ -53,7 +53,7 @@ Physical manipulation of concrete materials grounds abstract force-and-motion co
 ### Instructions
 1. **Activate prior conceptions.** Pose the question ("What determines how far the car rolls?") and have each learner write a prediction with reasoning before touching equipment.
 2. **Demonstrate the procedure.** Model one trial with apparatus, narrating variable control and measurement technique, so handling does not consume cognitive resources during investigation ([Demonstration](../elements/demonstration.md)).
-3. **Run structured trials.** Learners manipulate one variable at a time across contrasting conditions and record measurements [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. **Run structured trials.** Learners manipulate one variable at a time across contrasting conditions and record measurements [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. **Compare results to predictions.** Facilitate discussion of discrepancies between predicted and observed outcomes; treat high-confidence wrong predictions as productive learning events [High-confidence errors improve retention.](../claims/high-confidence-errors-improve-retention.md) [+M].
 5. **Consolidate with formal explanation.** Connect the data pattern to the canonical model (e.g., F = ma, conservation of energy) — the experiment motivates the formalism, not replaces it.
 6. **Fade toward open inquiry.** As learners gain control, shift to student-designed investigations of a new variable [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].

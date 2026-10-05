@@ -39,7 +39,7 @@ Manipulatives reduce the working memory burden of sentence construction by letti
 - **Digital tiles** (Google Slides drag-and-drop, NoRedInk's interactive prompts) allow automated feedback and adjustable scaffolding
 - **Color-coding by grammatical role** (subject, verb, modifier, connective) adds a second visual channel [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~M] — helpful when colors are consistent across the curriculum, distracting when arbitrary
 - **Erroneous examples**: include a flawed combination for learners to diagnose and repair [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
-- **Contrasting cases**: present two acceptable combinations of the same sentences and discuss the difference in emphasis [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting cases**: present two acceptable combinations of the same sentences and discuss the difference in emphasis [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Struggling writers and adolescents with underdeveloped syntax, who show the largest gains from sentence-combining instruction [Graham & Perin's meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0022-0663.99.3.445) [+S]

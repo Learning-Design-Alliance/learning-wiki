@@ -66,7 +66,7 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 ## Patterns That Use This Element
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md) — level unlocks as the gating mechanism
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — progression on demonstrated competence as the organizing structure
-- [Adaptive Learning](../patterns/adaptive-learning.md) — mastery thresholds drive the branching logic of adaptive platforms
+- [Adaptive Learning](../principles/adaptive-learning.md) — mastery thresholds drive the branching logic of adaptive platforms
 
 ## Examples
 

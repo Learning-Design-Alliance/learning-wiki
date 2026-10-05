@@ -19,7 +19,7 @@ CRA is an instructional approach that uses concrete materials, visual representa
 
 ## Design Implications
 
-CRA manages intrinsic cognitive load by giving abstract notation a referent learners can see and touch, reducing the risk that symbols are manipulated procedurally without meaning [Overloaded working memory degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+M]. Pairing representations with symbols also exploits dual channels of processing [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-recall.md) [+M]. However, concrete materials are not automatically helpful: poorly chosen manipulatives can distract from the target structure rather than illuminate it [Manipulatives support learning only when they make the target structure salient.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M].
+CRA manages intrinsic cognitive load by giving abstract notation a referent learners can see and touch, reducing the risk that symbols are manipulated procedurally without meaning [Overloaded working memory degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+M]. Pairing representations with symbols also exploits dual channels of processing [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]. However, concrete materials are not automatically helpful: poorly chosen manipulatives can distract from the target structure rather than illuminate it [Manipulatives support learning only when they make the target structure salient.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M].
 
 ### Context
 #### Requirements

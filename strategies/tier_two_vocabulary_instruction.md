@@ -53,7 +53,7 @@ Tier Two words offer the highest instructional yield because they are frequent e
 ### Instructions
 1. **Select** 8–10 Tier Two words from an upcoming text or unit, prioritizing words that appear across many contexts and are central to the text's meaning.
 2. **Define friendly**: introduce each word with a plain-language explanation and an example, activating related knowledge ([Activation](../principles/activation.md)).
-3. **Process actively**: have students judge examples and non-examples, complete sentence frames, and compare the new word to synonyms — contrasting cases sharpen meaning ([Comparing Cases](../elements/comparing-cases.md)) [Multiple contrasting cases support abstraction of word meaning.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. **Process actively**: have students judge examples and non-examples, complete sentence frames, and compare the new word to synonyms — contrasting cases sharpen meaning ([Comparing Cases](../elements/comparing-cases.md)) [Multiple contrasting cases support abstraction of word meaning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. **Extend across the week**: revisit words in new contexts, in discussion, and in writing, spacing encounters over days.
 5. **Review and assess**: use quick spaced checks (word walls, exit questions) rather than single end-of-unit tests.
 

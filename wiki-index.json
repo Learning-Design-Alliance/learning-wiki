@@ -1,12 +1,12 @@
 {
  "counts": {
-  "claim": 3415,
+  "claim": 3404,
   "design": 115,
   "element": 733,
   "learner-variable": 12,
   "method": 38,
-  "pattern": 141,
-  "principle": 476,
+  "pattern": 139,
+  "principle": 468,
   "process": 18,
   "strategy": 3184,
   "theory": 946
@@ -4483,7 +4483,8 @@
   },
   {
    "aliases": [
-    "comparing-contrasting-cases-improve-learning"
+    "comparing-contrasting-cases-improve-learning",
+    "multiple-contrasting-cases-support-abstraction"
    ],
    "description": "",
    "id": "comparing-contrasting-cases-improves-learning",
@@ -5268,15 +5269,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "cooperative-learning-free-rider-without-accountability",
-   "path": "claims/cooperative-learning-free-rider-without-accountability.md",
-   "status": "draft",
-   "title": "Cooperative learning without individual accountability produces free-riding that reduces learning outcomes",
-   "type": "claim"
-  },
-  {
    "description": "Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking",
    "evidence_strength": "weak",
    "id": "cooperative-learning-gifted-students",
@@ -5286,6 +5278,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "cooperative-learning-free-rider-without-accountability"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "cooperative-learning-group-rewards-and-individual-accountability",
@@ -6188,6 +6183,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "education-dp-4-5-percent-variance"
+   ],
    "description": "",
    "id": "deliberate-practice-improves-performance",
    "path": "claims/deliberate-practice-improves-performance.md",
@@ -6995,20 +6993,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "dual-coding-improves-recall"
+   ],
    "description": "",
    "id": "dual-coding-improves-learning",
    "path": "claims/dual-coding-improves-learning.md",
    "status": "draft",
    "title": "Dual Coding Improves Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "dual-coding-improves-recall",
-   "path": "claims/dual-coding-improves-recall.md",
-   "status": "draft",
-   "title": "Dual Coding Improves Recall",
    "type": "claim"
   },
   {
@@ -7252,15 +7244,6 @@
    "path": "claims/education-attainment-rji-gap-older-adults.md",
    "status": "draft",
    "title": "Prior RJM research reports large reflective judgment differences by educational attainment among older adults (RJI means 3.7 vs 5.2)",
-   "type": "claim"
-  },
-  {
-   "description": "Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses",
-   "evidence_strength": "weak",
-   "id": "education-dp-4-5-percent-variance",
-   "path": "claims/education-dp-4-5-percent-variance.md",
-   "status": "draft",
-   "title": "Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses",
    "type": "claim"
   },
   {
@@ -9527,15 +9510,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "fiction-reading-improves-empathy",
-   "path": "claims/fiction-reading-improves-empathy.md",
-   "status": "draft",
-   "title": "Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy",
-   "type": "claim"
-  },
-  {
    "description": "Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects",
    "evidence_strength": "moderate",
    "id": "field-independent-better-map-feature-placement",
@@ -11078,6 +11052,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "guided-inquiry-outperforms-pure-discovery"
+   ],
    "description": "",
    "id": "guided-discovery-outperforms-pure-discovery",
    "path": "claims/guided-discovery-outperforms-pure-discovery.md",
@@ -11092,14 +11069,6 @@
    "path": "claims/guided-inquiry-computational-model-overcomes-amplitude-misconception.md",
    "status": "draft",
    "title": "A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "guided-inquiry-outperforms-pure-discovery",
-   "path": "claims/guided-inquiry-outperforms-pure-discovery.md",
-   "status": "draft",
-   "title": "Guided Inquiry Outperforms Pure Discovery",
    "type": "claim"
   },
   {
@@ -13162,22 +13131,14 @@
   {
    "aliases": [
     "interleaved-practice-improves-retention",
-    "interleaving-improves-learning"
+    "interleaving-improves-learning",
+    "interleaving-improves-transfer"
    ],
    "description": "",
    "id": "interleaving-improves-inductive-learning",
    "path": "claims/interleaving-improves-inductive-learning.md",
    "status": "draft",
    "title": "Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "review",
-   "id": "interleaving-improves-transfer",
-   "path": "claims/interleaving-improves-transfer.md",
-   "status": "draft",
-   "title": "Interleaving Improves Transfer",
    "type": "claim"
   },
   {
@@ -17488,15 +17449,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "unverified",
-   "id": "multiple-contrasting-cases-support-abstraction",
-   "path": "claims/multiple-contrasting-cases-support-abstraction.md",
-   "status": "draft",
-   "title": "Multiple Contrasting Cases Support Abstraction",
-   "type": "claim"
-  },
-  {
    "description": "The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents",
    "evidence_strength": "weak",
    "id": "multiple-intelligences-weak-on-science-talent",
@@ -19533,7 +19485,8 @@
   {
    "aliases": [
     "peer-assessment-improves-academic-performance",
-    "peer-assessment-improves-achievement"
+    "peer-assessment-improves-achievement",
+    "peer-feedback-improves-work-quality"
    ],
    "description": "",
    "evidence_strength": "unverified",
@@ -19612,7 +19565,7 @@
    "id": "peer-feedback-accuracy-depends-on-expertise",
    "path": "claims/peer-feedback-accuracy-depends-on-expertise.md",
    "status": "draft",
-   "title": "Peer Feedback Accuracy Depends On Expertise",
+   "title": "In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems",
    "type": "claim"
   },
   {
@@ -19631,15 +19584,6 @@
    "path": "claims/peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md",
    "status": "draft",
    "title": "Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "peer-feedback-improves-work-quality",
-   "path": "claims/peer-feedback-improves-work-quality.md",
-   "status": "draft",
-   "title": "Peer Feedback Improves Work Quality",
    "type": "claim"
   },
   {
@@ -21892,6 +21836,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "fiction-reading-improves-empathy"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "reading-literary-fiction-improves-theory-of-mind",
@@ -23755,17 +23702,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "seductive-details-distract-from-learning",
-   "path": "claims/seductive-details-distract-from-learning.md",
-   "status": "draft",
-   "title": "Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven",
-   "type": "claim"
-  },
-  {
    "aliases": [
-    "seductive-details-harm-learning"
+    "seductive-details-harm-learning",
+    "seductive-details-distract-from-learning"
    ],
    "description": "",
    "evidence_strength": "moderate",
@@ -23866,7 +23805,7 @@
    "id": "self-affirmation-improves-outcomes",
    "path": "claims/self-affirmation-improves-outcomes.md",
    "status": "draft",
-   "title": "Self-affirmation improves outcomes",
+   "title": "A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect",
    "type": "claim"
   },
   {
@@ -24153,7 +24092,7 @@
    "id": "self-explanation-improves-conceptual-understanding",
    "path": "claims/self-explanation-improves-conceptual-understanding.md",
    "status": "review",
-   "title": "Self-explanation improves conceptual understanding and problem-solving performance.",
+   "title": "Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.",
    "type": "claim"
   },
   {
@@ -28037,20 +27976,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "teacher-student-relationships-improve-engagement-and-achievement"
+   ],
    "description": "",
    "id": "teacher-student-relationships-improve-engagement",
    "path": "claims/teacher-student-relationships-improve-engagement.md",
    "status": "draft",
    "title": "Teacher Student Relationships Improve Engagement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "teacher-student-relationships-improve-engagement-and-achievement",
-   "path": "claims/teacher-student-relationships-improve-engagement-and-achievement.md",
-   "status": "draft",
-   "title": "Teacher Student Relationships Improve Engagement And Achievement",
    "type": "claim"
   },
   {
@@ -29386,21 +29319,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "tutor-background-subgroup-differences-nonsignificant"
+   ],
    "description": "In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning",
    "evidence_strength": "moderate",
    "id": "tutor-background-meta-regression-not-predictive",
    "path": "claims/tutor-background-meta-regression-not-predictive.md",
    "status": "draft",
    "title": "In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning",
-   "type": "claim"
-  },
-  {
-   "description": "In PBL tutor-background meta-analysis, even the largest subgroup mean difference (mixed vs.",
-   "evidence_strength": "moderate",
-   "id": "tutor-background-subgroup-differences-nonsignificant",
-   "path": "claims/tutor-background-subgroup-differences-nonsignificant.md",
-   "status": "draft",
-   "title": "In PBL tutor-background meta-analysis, even the largest subgroup mean difference (mixed vs. content expert tutors) fails to reach statistical significance",
    "type": "claim"
   },
   {
@@ -38099,15 +38026,6 @@
    "type": "pattern"
   },
   {
-   "description": "Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.",
-   "grain_size": "course",
-   "id": "adaptive-learning",
-   "path": "patterns/adaptive-learning.md",
-   "status": "review",
-   "title": "Adaptive Learning",
-   "type": "pattern"
-  },
-  {
    "description": "A dedicated, ungraded, choice-rich block of school time built around a library of leveled STEAM challenges, peer expertise, and observing (not directing) facilitators \u2014 designed to make genuine interest-driven learning possible within, not just outside, the school day.",
    "grain_size": "program",
    "id": "alternative-in-school-steam-learning-infrastructure",
@@ -39092,15 +39010,6 @@
    "type": "pattern"
   },
   {
-   "description": "Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance.",
-   "grain_size": "unit",
-   "id": "reflective-practice",
-   "path": "patterns/reflective-practice.md",
-   "status": "review",
-   "title": "Reflective Practice",
-   "type": "pattern"
-  },
-  {
    "description": "Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry.",
    "grain_size": "unit",
    "id": "research-based-learning",
@@ -39604,14 +39513,6 @@
    "type": "principle"
   },
   {
-   "description": "Teachers may inadvertently take over a student's voice and creativity by imposing too much control and authority, to the point that a paper looks like it belongs to the teacher.",
-   "id": "avoid-appropriating-student-writing",
-   "path": "principles/avoid-appropriating-student-writing.md",
-   "status": "draft",
-   "title": "Avoid appropriating student writing; distinguish appropriation from helpful intervention",
-   "type": "principle"
-  },
-  {
    "description": "The article argues that to be maximally applicable, a learner model needs to adapt to student differences without requiring student parameters estimated from prior data.",
    "id": "avoid-student-intercepts-for-transfer",
    "path": "principles/avoid-student-intercepts-for-transfer.md",
@@ -39713,14 +39614,6 @@
    "path": "principles/career-education-through-industrial-arts.md",
    "status": "draft",
    "title": "Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work",
-   "type": "principle"
-  },
-  {
-   "description": "Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action.",
-   "id": "case-studiescase-based-learning",
-   "path": "principles/case-studiescase-based-learning.md",
-   "status": "review",
-   "title": "Case Studies/Case-based Learning",
    "type": "principle"
   },
   {
@@ -39943,19 +39836,14 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "competency-based-learning-assessment"
+   ],
    "description": "Scoring a learner's response on a task that represents the intended capability against explicit criteria and a stated threshold, by consistent assessors, is expected to support better teaching, progression and certification decisions than a rank or seat time, though no claim here tests that comparison and assessor agreement is not guaranteed.",
    "id": "competency-based-assessment",
    "path": "principles/competency-based-assessment.md",
    "status": "review",
    "title": "Competency-Based Assessment",
-   "type": "principle"
-  },
-  {
-   "description": "Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages.",
-   "id": "competency-based-learning-assessment",
-   "path": "principles/competency-based-learning-assessment.md",
-   "status": "review",
-   "title": "Competency-based Learning & Assessment",
    "type": "principle"
   },
   {
@@ -40074,14 +39962,6 @@
    "type": "principle"
   },
   {
-   "description": "Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts.",
-   "id": "creating-visual-representations",
-   "path": "principles/creating-visual-representations.md",
-   "status": "review",
-   "title": "Creating Visual Representations",
-   "type": "principle"
-  },
-  {
    "description": "Criterion-referenced tests report what a student can and cannot do against a fixed standard; norm-referenced tests report how a student compares to others who took the same test \u2014 genuinely different information, suited to different decisions, and not interchangeable.",
    "id": "criterion-and-norm-referenced-testing",
    "path": "principles/criterion-and-norm-referenced-testing.md",
@@ -40175,14 +40055,6 @@
    "path": "principles/dc-estimate-guideline-085.md",
    "status": "draft",
    "title": "Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity",
-   "type": "principle"
-  },
-  {
-   "description": "Debate structures learning around the preparation, presentation, and critique of competing arguments.",
-   "id": "debate",
-   "path": "principles/debate.md",
-   "status": "review",
-   "title": "Debate",
    "type": "principle"
   },
   {
@@ -40373,6 +40245,9 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "creating-visual-representations"
+   ],
    "description": "For a learner without a working model of a structure or process, pairing the words that explain it with a visual of the same idea, supplied or learner-made, is expected to improve comprehension over words alone; claims test each half against words alone, none tests the sequence, and direct tests favour provided over learner-built organizers for transfer.",
    "id": "dual-coding",
    "path": "principles/dual-coding.md",
@@ -41200,14 +41075,6 @@
    "type": "principle"
   },
   {
-   "description": "Revision should not be just a giver-receiver relationship with the teacher giving information and the student receiving it; instead it should be a collaborative endeavor.",
-   "id": "involve-students-in-revision-process",
-   "path": "principles/involve-students-in-revision-process.md",
-   "status": "draft",
-   "title": "Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship",
-   "type": "principle"
-  },
-  {
    "description": "The article recommends an IRT framework for its repeated measurement linking design because IRT \\\"easily allows for incomplete designs and for equality constraints between item parameters.\\\" The author notes that when n...",
    "id": "irt-preferred-for-repeated-measurement-linking",
    "path": "principles/irt-preferred-for-repeated-measurement-linking.md",
@@ -41808,9 +41675,12 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "peer-feedbackpeer-review"
+   ],
    "description": "Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding.",
-   "id": "peer-feedbackpeer-review",
-   "path": "principles/peer-feedbackpeer-review.md",
+   "id": "peer-feedback",
+   "path": "principles/peer-feedback.md",
    "status": "review",
    "title": "Peer Feedback/Peer Review",
    "type": "principle"
@@ -42096,6 +41966,11 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "involve-students-in-revision-process",
+    "avoid-appropriating-student-writing",
+    "respond-as-a-reader"
+   ],
    "description": "Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product.",
    "id": "process-based-writing",
    "path": "principles/process-based-writing.md",
@@ -42323,14 +42198,6 @@
    "type": "principle"
   },
   {
-   "description": "Teachers can encourage and support student writers by responding to their texts as an interested reader rather than as an evaluator or expert, which allows them to relinquish some authority and adopt a less threatenin...",
-   "id": "respond-as-a-reader",
-   "path": "principles/respond-as-a-reader.md",
-   "status": "draft",
-   "title": "Respond to student writing as an interested reader rather than only as an evaluator",
-   "type": "principle"
-  },
-  {
    "description": "Responsive teaching is the in-the-moment adaptation of instruction to learners' emerging ideas, using evidence from student thinking to decide what to do next.",
    "id": "responsive-teaching",
    "path": "principles/responsive-teaching.md",
@@ -42531,14 +42398,6 @@
    "path": "principles/situated-account-plc-design.md",
    "status": "draft",
    "title": "Design professional learning communities around situated teacher agency and practice, not attitude change",
-   "type": "principle"
-  },
-  {
-   "description": "Situated learning is the principle that learning is shaped by the contexts, practices, and communities in which knowledge is used.",
-   "id": "situated-learning",
-   "path": "principles/situated-learning.md",
-   "status": "review",
-   "title": "Situated Learning",
    "type": "principle"
   },
   {
@@ -77001,7 +76860,7 @@
    "cooperation-versus-individualistic-effort-outcomes": "cooperation-versus-individualistic-effort-outcomes",
    "cooperative-conceptual-change-chemistry-misconceptions": "cooperative-conceptual-change-chemistry-misconceptions",
    "cooperative-learning-achievement-synthesis-slavin": "cooperative-learning-achievement-synthesis-slavin",
-   "cooperative-learning-free-rider-without-accountability": "cooperative-learning-free-rider-without-accountability",
+   "cooperative-learning-free-rider-without-accountability": "cooperative-learning-group-rewards-and-individual-accountability",
    "cooperative-learning-gifted-students": "cooperative-learning-gifted-students",
    "cooperative-learning-group-rewards-and-individual-accountability": "cooperative-learning-group-rewards-and-individual-accountability",
    "cooperative-learning-higher-achievement-than-competitive-individualistic": "cooperative-learning-higher-achievement-than-competitive-individualistic",
@@ -77197,7 +77056,7 @@
    "dst-sct-incommensurable-language-adaptable-system": "dst-sct-incommensurable-language-adaptable-system",
    "dts-associated-with-emotional-scaffolding": "dts-associated-with-emotional-scaffolding",
    "dual-coding-improves-learning": "dual-coding-improves-learning",
-   "dual-coding-improves-recall": "dual-coding-improves-recall",
+   "dual-coding-improves-recall": "dual-coding-improves-learning",
    "dual-language-programs-gap-closure-longitudinal": "dual-language-programs-gap-closure-longitudinal",
    "dual-relationships-impair-peer-counsellor-judgement": "dual-relationships-impair-peer-counsellor-judgement",
    "durable-elaborative-interrogation-gains-six-months": "durable-elaborative-interrogation-gains-six-months",
@@ -77225,7 +77084,7 @@
    "eco-anxiety-associated-depression-anxiety": "eco-anxiety-associated-depression-anxiety",
    "ecology-of-activity-systems-scmd": "ecology-of-activity-systems-scmd",
    "education-attainment-rji-gap-older-adults": "education-attainment-rji-gap-older-adults",
-   "education-dp-4-5-percent-variance": "education-dp-4-5-percent-variance",
+   "education-dp-4-5-percent-variance": "deliberate-practice-improves-performance",
    "education-level-internationalization-perceptions": "education-level-internationalization-perceptions",
    "educational-attainment-not-associated-lc101-persistence": "educational-attainment-not-associated-lc101-persistence",
    "educator-functions-influence-community-group-growth": "educator-functions-influence-community-group-growth",
@@ -77483,7 +77342,7 @@
    "few-kindergartners-synthetic-scientific-models": "few-kindergartners-synthetic-scientific-models",
    "fewer-objects-easier-change-detection": "fewer-objects-easier-change-detection",
    "fiber-crafting-develops-proportional-reasoning-through-unitizing": "fiber-crafting-develops-proportional-reasoning-through-unitizing",
-   "fiction-reading-improves-empathy": "fiction-reading-improves-empathy",
+   "fiction-reading-improves-empathy": "reading-literary-fiction-improves-theory-of-mind",
    "field-independent-better-map-feature-placement": "field-independent-better-map-feature-placement",
    "field-notes-wake-up-calls": "field-notes-wake-up-calls",
    "field-site-power-perception-shift-over-placement": "field-site-power-perception-shift-over-placement",
@@ -77661,7 +77520,7 @@
    "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons": "gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons",
    "guided-discovery-outperforms-pure-discovery": "guided-discovery-outperforms-pure-discovery",
    "guided-inquiry-computational-model-overcomes-amplitude-misconception": "guided-inquiry-computational-model-overcomes-amplitude-misconception",
-   "guided-inquiry-outperforms-pure-discovery": "guided-inquiry-outperforms-pure-discovery",
+   "guided-inquiry-outperforms-pure-discovery": "guided-discovery-outperforms-pure-discovery",
    "guided-matching-and-peer-scaffolding-build-correspondence": "guided-matching-and-peer-scaffolding-build-correspondence",
    "guided-notes-improve-note-accuracy": "guided-notes-improve-note-accuracy",
    "guided-play-improves-academic-outcomes": "guided-play-improves-academic-outcomes",
@@ -77899,7 +77758,7 @@
    "interleaving-improves-discrimination": "interleaving-improves-discrimination",
    "interleaving-improves-inductive-learning": "interleaving-improves-inductive-learning",
    "interleaving-improves-learning": "interleaving-improves-inductive-learning",
-   "interleaving-improves-transfer": "interleaving-improves-transfer",
+   "interleaving-improves-transfer": "interleaving-improves-inductive-learning",
    "internet-entrez-use-grew-cd-rom-plateaued": "internet-entrez-use-grew-cd-rom-plateaued",
    "interpersonal-relationships-top-student-concern-30-61": "interpersonal-relationships-top-student-concern-30-61",
    "interpretive-appropriateness-context-critique": "interpretive-appropriateness-context-critique",
@@ -78391,7 +78250,7 @@
    "multiple-choice-higher-practice-performance-than-short-answer": "multiple-choice-higher-practice-performance-than-short-answer",
    "multiple-choice-lures-can-be-learned-as-false-knowledge": "multiple-choice-lures-can-be-learned-as-false-knowledge",
    "multiple-contexts-generalization-transfer": "multiple-contexts-generalization-transfer",
-   "multiple-contrasting-cases-support-abstraction": "multiple-contrasting-cases-support-abstraction",
+   "multiple-contrasting-cases-support-abstraction": "comparing-contrasting-cases-improves-learning",
    "multiple-intelligences-weak-on-science-talent": "multiple-intelligences-weak-on-science-talent",
    "multiple-representations-improve-learning": "multiple-representations-improve-learning",
    "multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection": "multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection",
@@ -78632,7 +78491,7 @@
    "peer-feedback-accuracy-depends-on-expertise": "peer-feedback-accuracy-depends-on-expertise",
    "peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training": "peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training",
    "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score",
-   "peer-feedback-improves-work-quality": "peer-feedback-improves-work-quality",
+   "peer-feedback-improves-work-quality": "peer-assessment-improves-performance",
    "peer-feedback-improves-writing": "peer-feedback-improves-writing",
    "peer-feedback-improves-writing-outcomes": "peer-feedback-improves-writing",
    "peer-mentoring-increases-civic-action-service-learning": "peer-mentoring-increases-civic-action-service-learning",
@@ -79102,7 +78961,7 @@
    "secondary-students-higher-realism-than-elementary": "secondary-students-higher-realism-than-elementary",
    "secondary-students-top-metacognitive-behaviors": "secondary-students-top-metacognitive-behaviors",
    "secure-base-enables-exploration": "secure-base-enables-exploration",
-   "seductive-details-distract-from-learning": "seductive-details-distract-from-learning",
+   "seductive-details-distract-from-learning": "seductive-details-effect",
    "seductive-details-effect": "seductive-details-effect",
    "seductive-details-harm-learning": "seductive-details-effect",
    "segmentation-benefits-shrink-with-expertise": "segmentation-benefits-shrink-with-expertise",
@@ -79598,7 +79457,7 @@
    "teacher-self-efficacy-achievement-and-implementation": "teacher-self-efficacy-achievement-and-implementation",
    "teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus": "teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus",
    "teacher-student-relationships-improve-engagement": "teacher-student-relationships-improve-engagement",
-   "teacher-student-relationships-improve-engagement-and-achievement": "teacher-student-relationships-improve-engagement-and-achievement",
+   "teacher-student-relationships-improve-engagement-and-achievement": "teacher-student-relationships-improve-engagement",
    "teacher-underreferral-diverse-gifted": "teacher-underreferral-diverse-gifted",
    "teacher-utility-value-increases-motivation-to-use-ai": "teacher-utility-value-increases-motivation-to-use-ai",
    "teacher-workshops-validate-app-evaluation-framework": "teacher-workshops-validate-app-evaluation-framework",
@@ -79752,7 +79611,7 @@
    "turkish-modernization-state-centered-education-project": "turkish-modernization-state-centered-education-project",
    "turkish-student-teachers-entity-performance-higher": "turkish-student-teachers-entity-performance-higher",
    "tutor-background-meta-regression-not-predictive": "tutor-background-meta-regression-not-predictive",
-   "tutor-background-subgroup-differences-nonsignificant": "tutor-background-subgroup-differences-nonsignificant",
+   "tutor-background-subgroup-differences-nonsignificant": "tutor-background-meta-regression-not-predictive",
    "tutoring-benefits-tutors-and-tutees": "tutoring-benefits-tutors-and-tutees",
    "tutoring-center-visits-higher-cumulative-gpa": "tutoring-center-visits-higher-cumulative-gpa",
    "tutoring-effectiveness-comes-from-scaffolding-and-feedback": "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
@@ -80832,7 +80691,6 @@
    "4cid": "4cid-four-component-instructional-design",
    "4cid-four-component-instructional-design": "4cid-four-component-instructional-design",
    "5e-learning-cycle": "5e-learning-cycle",
-   "adaptive-learning": "adaptive-learning",
    "alternative-in-school-steam-learning-infrastructure": "alternative-in-school-steam-learning-infrastructure",
    "anchored-instruction": "anchored-instruction",
    "authentic-assessment": "authentic-assessment",
@@ -80958,7 +80816,6 @@
    "professional-development": "professional-development",
    "programmed-instruction": "programmed-instruction",
    "project-and-instructional-space": "project-and-instructional-space",
-   "reflective-practice": "reflective-practice",
    "reigeluths-elaboration-theory": "elaboration-theory",
    "research-based-learning": "research-based-learning",
    "responsive-classroom": "responsive-classroom",
@@ -81023,7 +80880,7 @@
    "authentic-audiences-purposes": "authentic-audiences-purposes",
    "autonomy": "autonomy",
    "autonomy-goal-and-route-early-literacy": "autonomy-goal-and-route-early-literacy",
-   "avoid-appropriating-student-writing": "avoid-appropriating-student-writing",
+   "avoid-appropriating-student-writing": "process-based-writing",
    "avoid-student-intercepts-for-transfer": "avoid-student-intercepts-for-transfer",
    "backward-design-goals-first-inquiry": "backward-design-goals-first-inquiry",
    "balance-challenge-and-support-library-instruction": "balance-challenge-and-support-library-instruction",
@@ -81037,7 +80894,6 @@
    "bullying-prevention-and-intervention": "bullying-prevention-and-intervention",
    "calp-instruction-three-components": "calp-instruction-three-components",
    "career-education-through-industrial-arts": "career-education-through-industrial-arts",
-   "case-studiescase-based-learning": "case-studiescase-based-learning",
    "character-education": "character-education",
    "character-education-promotes-civic-competence": "character-education-promotes-civic-competence",
    "check-ins": "check-ins",
@@ -81068,7 +80924,7 @@
    "community-of-inquiry": "community-of-inquiry",
    "competence-is-realistic-goal-for-teacher-preparation": "competence-is-realistic-goal-for-teacher-preparation",
    "competency-based-assessment": "competency-based-assessment",
-   "competency-based-learning-assessment": "competency-based-learning-assessment",
+   "competency-based-learning-assessment": "competency-based-assessment",
    "complementary-delivery-modes-for-retrieval-tools": "complementary-delivery-modes-for-retrieval-tools",
    "comprehensible-input-communicative-reading-activities": "comprehensible-input-communicative-reading-activities",
    "comprehensible-training-benefits-all-workers": "comprehensible-training-benefits-all-workers",
@@ -81084,7 +80940,7 @@
    "continuum-of-gifted-services": "continuum-of-gifted-services",
    "cooperative-learning": "cooperative-learning",
    "create-social-situations-for-meaning": "create-social-situations-for-meaning",
-   "creating-visual-representations": "creating-visual-representations",
+   "creating-visual-representations": "dual-coding",
    "criterion-and-norm-referenced-testing": "criterion-and-norm-referenced-testing",
    "critique-language-includes-critique-of-humanism": "critique-language-includes-critique-of-humanism",
    "cross-curricular-multimedia-units": "cross-curricular-multimedia-units",
@@ -81097,7 +80953,6 @@
    "curriculum-flexibility-for-responsive-student-coaches": "curriculum-flexibility-for-responsive-student-coaches",
    "datafication-as-rhetoric-metadistrust": "datafication-as-rhetoric-metadistrust",
    "dc-estimate-guideline-085": "dc-estimate-guideline-085",
-   "debate": "debate",
    "debriefing": "debriefing",
    "delegate-knowledge-creation-responsibility-to-learners": "delegate-knowledge-creation-responsibility-to-learners",
    "deliberate-practice": "deliberate-practice",
@@ -81227,7 +81082,7 @@
    "invest-in-plcs-for-teacher-metacognition": "invest-in-plcs-for-teacher-metacognition",
    "invite-everyday-registers-science-activities": "invite-everyday-registers-science-activities",
    "involve-natural-resource-professionals": "involve-natural-resource-professionals",
-   "involve-students-in-revision-process": "involve-students-in-revision-process",
+   "involve-students-in-revision-process": "process-based-writing",
    "irt-preferred-for-repeated-measurement-linking": "irt-preferred-for-repeated-measurement-linking",
    "journaling": "journaling",
    "justify-rationality-to-justify-critical-thinking-teaching": "justify-rationality-to-justify-critical-thinking-teaching",
@@ -81304,7 +81159,8 @@
    "patient-acceptability-in-ebm-treatment-selection": "patient-acceptability-in-ebm-treatment-selection",
    "pd-integration-not-just-technical": "pd-integration-not-just-technical",
    "peer-discussion": "peer-discussion",
-   "peer-feedbackpeer-review": "peer-feedbackpeer-review",
+   "peer-feedback": "peer-feedback",
+   "peer-feedbackpeer-review": "peer-feedback",
    "peer-learning": "peer-learning",
    "perceived-giftedness-confers-training-resources": "perceived-giftedness-confers-training-resources",
    "performance-based-teacher-certification-assessment": "performance-based-teacher-certification-assessment",
@@ -81369,7 +81225,7 @@
    "represent-procedures-as-shared-resources-to-clarify-thinking": "represent-procedures-as-shared-resources-to-clarify-thinking",
    "researcher-signature-believability-validity": "researcher-signature-believability-validity",
    "resist-equating-sociocultural-framework-with-participation-methods": "resist-equating-sociocultural-framework-with-participation-methods",
-   "respond-as-a-reader": "respond-as-a-reader",
+   "respond-as-a-reader": "process-based-writing",
    "responsive-teaching": "responsive-teaching",
    "retrieval-practice": "retrieval-practice",
    "reward-punishment-useful-despite-theory-rejection": "reward-punishment-useful-despite-theory-rejection",
@@ -81396,7 +81252,6 @@
    "simulations-immersive-virtual-environments": "simulations-immersive-virtual-environments",
    "simultaneous-desegregation-choice-improvement": "simultaneous-desegregation-choice-improvement",
    "situated-account-plc-design": "situated-account-plc-design",
-   "situated-learning": "situated-learning",
    "skill-based-programmes-should-target-retention-and-sustainability": "skill-based-programmes-should-target-retention-and-sustainability",
    "skills-sprint": "skills-sprint",
    "social-constructivism": "social-constructivism",

@@ -36,7 +36,7 @@ Deeper analysis works because it forces elaborative processing: explaining *why*
 
 #### Implementation Variability
 - **Written first, then shared:** students annotate and write initial analyses before discussion, ensuring all voices enter the conversation
-- **Contrastive analysis:** students compare two passages or two drafts of the same sentence to isolate how a structural choice changes meaning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrastive analysis:** students compare two passages or two drafts of the same sentence to isolate how a structural choice changes meaning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Peer-led questioning:** students generate analytical questions for each other using question stems, shifting from answering to asking
 - **Gradual release:** teacher models an analysis aloud, then students replicate the move on a new passage
 

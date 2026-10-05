@@ -19,7 +19,7 @@ Shape Search is an activity-based strategy in which learners hunt for two- and t
 
 ## Design Implications
 
-Shape Search leverages the link between spatial perception and geometric reasoning: young children's geometric understanding develops from visual-holistic recognition of whole shapes toward property-based reasoning, and rich, varied exposure to non-prototypical examples drives that progression [~M]. Searching for the *same* category across many different-looking instances supports abstraction of the defining features rather than surface features [Multiple contrasting cases support abstraction of the underlying concept.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The activity also functions as authentic [Application](../elements/application.md) of newly taught vocabulary, which strengthens retention relative to worksheet-only practice.
+Shape Search leverages the link between spatial perception and geometric reasoning: young children's geometric understanding develops from visual-holistic recognition of whole shapes toward property-based reasoning, and rich, varied exposure to non-prototypical examples drives that progression [~M]. Searching for the *same* category across many different-looking instances supports abstraction of the defining features rather than surface features [Multiple contrasting cases support abstraction of the underlying concept.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The activity also functions as authentic [Application](../elements/application.md) of newly taught vocabulary, which strengthens retention relative to worksheet-only practice.
 
 ### Context
 #### Requirements

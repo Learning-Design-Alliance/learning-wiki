@@ -38,7 +38,7 @@ Self assessment with rubrics develops *evaluative judgment* — the capacity to 
 - **Calibration comparison:** learners score their work, then compare with instructor scores; discrepancies become discussion points
 - **Co-constructed rubrics:** the class negotiates criteria, deepening ownership of the standards [+W]
 - **Single-point rubrics:** criteria listed once with blank space for evidence of meeting/falling short; reduces box-ticking and prompts specific self-commentary
-- **Exemplar-anchored rubrics:** each level illustrated with authentic samples, which supports abstraction of quality criteria [Comparing multiple contrasting cases helps learners abstract the dimensions that define quality.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Exemplar-anchored rubrics:** each level illustrated with authentic samples, which supports abstraction of quality criteria [Comparing multiple contrasting cases helps learners abstract the dimensions that define quality.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Intermediate learners who have enough domain knowledge to apply criteria but not yet the judgment to self-correct without support

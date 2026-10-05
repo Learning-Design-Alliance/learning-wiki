@@ -31,7 +31,7 @@ sources:
 This strategy involves using stories and materials that act as mirrors, windows, and sliding glass doors to help students identify their place in the world. A **mirror** reflects the reader's own culture and identity back to them; a **window** offers a view into someone else's lived experience; a **sliding glass door** invites the reader to step through and inhabit that other world. The framework, introduced by Rudine Sims Bishop (1990), rests on the premise that students cannot truly learn about themselves unless they also learn about others — seeing how other people conduct themselves in the world helps students understand how they might fit in.
 
 ## Design Implications
-Curating texts and materials across all three functions supports identity development and perspective-taking, and perspective-taking is a documented pathway to empathy and reduced stereotyping [Building empathy through perspective-taking activities improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. Fiction and narrative in particular support empathy and attitude change beyond expository text [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]. The strategy works best when texts are not merely present but *discussed*: guided [Class Discussion](../elements/class-discussion.md) and structured reflection convert exposure to diverse narratives into durable attitude change, whereas unexamined exposure can leave stereotypes intact [~M].
+Curating texts and materials across all three functions supports identity development and perspective-taking, and perspective-taking is a documented pathway to empathy and reduced stereotyping [Building empathy through perspective-taking activities improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. Fiction and narrative in particular support empathy and attitude change beyond expository text [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The strategy works best when texts are not merely present but *discussed*: guided [Class Discussion](../elements/class-discussion.md) and structured reflection convert exposure to diverse narratives into durable attitude change, whereas unexamined exposure can leave stereotypes intact [~M].
 
 ### Context
 #### Requirements
@@ -59,7 +59,7 @@ Curating texts and materials across all three functions supports identity develo
 
 ### Target Learning Goals
 - Identity development: recognizing one's own culture and experiences as valued and valid
-- Perspective-taking and empathy: understanding how people in different circumstances think and feel [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Perspective-taking and empathy: understanding how people in different circumstances think and feel [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 - Critical literacy: analyzing whose stories are told, omitted, or distorted in curricula and media
 - Belonging and motivation: seeing possible futures for oneself in the material ([Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md))
 

@@ -49,7 +49,6 @@ One experiment (Brewer & Klein 2003, 280 undergraduate business majors in triads
 - [Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners](reward-interdependence-benefit-attitudes.md) — related
 - [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
 - [All three structured interdependence conditions produce higher agreement that team members' sense of obligation to contribute aided learning, compared with no structured interdependence](structured-interdependence-contribution-obligation-attitude.md) — related
-- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
-- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on

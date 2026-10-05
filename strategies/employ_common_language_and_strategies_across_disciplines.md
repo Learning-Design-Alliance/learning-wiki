@@ -19,7 +19,7 @@ Employing common language and strategies across disciplines means that teachers 
 
 ## Design Implications
 
-Consistency across contexts reduces the extraneous cognitive load of re-decoding instructions and rubrics in every class, freeing working memory for the content itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated, varied application of the same strategy across disciplines is also the classic condition for transfer: a skill practiced in only one context tends to stay bound to that context, while practice across multiple contexts supports abstraction and generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The approach draws on disciplinary literacy research, which argues that common skills (e.g., citing evidence) should be taught with a shared core language while acknowledging discipline-specific variations [Shanahan & Shanahan, 2008].
+Consistency across contexts reduces the extraneous cognitive load of re-decoding instructions and rubrics in every class, freeing working memory for the content itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated, varied application of the same strategy across disciplines is also the classic condition for transfer: a skill practiced in only one context tends to stay bound to that context, while practice across multiple contexts supports abstraction and generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The approach draws on disciplinary literacy research, which argues that common skills (e.g., citing evidence) should be taught with a shared core language while acknowledging discipline-specific variations [Shanahan & Shanahan, 2008].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 - Students developing transferable academic skills; less relevant for advanced learners who have already abstracted the underlying skill
 
 ### Target Learning Goals
-- Transfer of writing and argumentation skills across content areas [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer of writing and argumentation skills across content areas [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Reduced extraneous cognitive load during content learning [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - Academic language development and metacognitive awareness of transferable strategies
 

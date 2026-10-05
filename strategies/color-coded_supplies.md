@@ -19,7 +19,7 @@ Color-coding school supplies assigns a consistent color to each subject, task ty
 
 ## Design Implications
 
-Color is processed pre-attentively and rapidly, so a consistent color mapping reduces the search and decision steps involved in material management, easing extraneous load for learners whose working memory or executive function is already taxed [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The mechanism is dual coding: information is encoded both verbally (subject name) and visually (color), producing richer retrieval paths [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. However, the color must carry *informational* weight — decorative or inconsistent color use does not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M].
+Color is processed pre-attentively and rapidly, so a consistent color mapping reduces the search and decision steps involved in material management, easing extraneous load for learners whose working memory or executive function is already taxed [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The mechanism is dual coding: information is encoded both verbally (subject name) and visually (color), producing richer retrieval paths [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. However, the color must carry *informational* weight — decorative or inconsistent color use does not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M].
 
 ### Context
 #### Requirements

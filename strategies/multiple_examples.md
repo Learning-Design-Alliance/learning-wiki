@@ -19,7 +19,7 @@ When teaching a new technique, providing multiple examples helps students unders
 
 ## Design Implications
 
-Multiple examples work because comparing across cases directs attention to the structural features shared by examples rather than their idiosyncratic details [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The benefit depends on variation: examples differing in surface context but sharing the target structure produce better transfer than near-duplicates [Gick & Holyoak, 1983](https://doi.org/10.1016/0010-0285(83)90003-6) [+M]. Examples are most powerful when paired with prompts to explain why the technique works in each case [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and when followed by practice rather than presented alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+Multiple examples work because comparing across cases directs attention to the structural features shared by examples rather than their idiosyncratic details [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The benefit depends on variation: examples differing in surface context but sharing the target structure produce better transfer than near-duplicates [Gick & Holyoak, 1983](https://doi.org/10.1016/0010-0285(83)90003-6) [+M]. Examples are most powerful when paired with prompts to explain why the technique works in each case [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and when followed by practice rather than presented alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -36,19 +36,19 @@ Multiple examples work because comparing across cases directs attention to the s
 - Learners with strong prior knowledge may find extensive example sets redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 #### Implementation Variability
-- **Contrasting cases**: present examples side by side and ask what differs and why [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting cases**: present examples side by side and ask what differs and why [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Example–problem pairs**: alternate one example with one practice problem rather than presenting all examples first [Example–problem sequences reduce cognitive load relative to problem-only practice.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - **Erroneous examples**: include a flawed example for students to diagnose [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - **Student-generated examples**: after analysis, students produce their own instances, which doubles as assessment evidence
 
 ### Target Learners
-- Novices encountering a technique for the first time, who otherwise encode only surface features [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Novices encountering a technique for the first time, who otherwise encode only surface features [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Struggling writers and students new to a genre, who benefit from seeing the technique applied in multiple accessible contexts
 - Less beneficial for advanced learners, who can abstract structure from a single example and may find multiple examples inefficient [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals
 - Conceptual understanding: recognizing the defining features of a technique across contexts
-- Transfer: applying the technique to novel writing situations [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer: applying the technique to novel writing situations [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Discrimination: distinguishing when a technique works well from when it is misapplied (via [Non-Examples](../elements/non-examples.md))
 
 ### Instructions

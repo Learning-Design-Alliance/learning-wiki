@@ -36,7 +36,7 @@ Character scrapbooking is a generative, arts-integrated response to literature: 
 
 #### Implementation Variability
 - **Social media transpose:** entries become character Instagram posts (image + caption + hashtags), leveraging platform familiarity for engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
-- **Contrasting characters:** two students scrapbook the *same* event from different characters' perspectives, making perspective-taking visible through side-by-side comparison [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting characters:** two students scrapbook the *same* event from different characters' perspectives, making perspective-taking visible through side-by-side comparison [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Digital format:** Canva or Google Slides versions allow image search and revision; paper versions slow production and emphasize handcraft
 - **Ongoing vs. culminating:** entries can be added chapter-by-chapter (tracking character change) or produced after finishing the novel (retrospective synthesis)
 

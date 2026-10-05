@@ -3,6 +3,7 @@ type: claim
 title: In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning
 description: In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning
 id: tutor-background-meta-regression-not-predictive
+aliases: [tutor-background-subgroup-differences-nonsignificant]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` A random-effects dummy-coded meta-regression with content novices as reference found no significant predictors of student learning (R2 = .01, Wald X2(4, 348) = 6.86, p = 0.14). [→ Walker 2023](#walker-2023)
+
+`q2 i?` The largest mean difference between mixed (d = 0.34) and content expert (d = 0.22) tutors was not statistically significant, so tutor background alone does not explain variation in PBL effect sizes. [→ Walker 2023](#walker-2023)
 
 ## Evidence
 
@@ -42,8 +46,9 @@ New meta-regression analysis of the Leary et al. (2013) tutor-background data us
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
-- [In PBL tutor-background meta-analysis, even the largest subgroup mean difference (mixed vs. content expert tutors) fails to reach statistical significance](tutor-background-subgroup-differences-nonsignificant.md) — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related

@@ -84,7 +84,7 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 - [Communities of Practice](../principles/communities-of-practice.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Mentoring/Coaching](../principles/mentoringcoaching.md)
+- [Mentoring/Coaching](../principles/mentoring-and-coaching.md)
 
 ### Personalization
 - Learners can contribute different strengths, backgrounds, and inquiry responsibilities.

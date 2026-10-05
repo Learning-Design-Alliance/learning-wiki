@@ -79,7 +79,7 @@ Personalization works primarily by keeping instruction within each learner's zon
 
 ### Illustrative
 
-**[Adaptive Learning](../patterns/adaptive-learning.md)** — Platform-driven personalization in which item difficulty and sequencing adjust continuously to response accuracy and latency. Used at scale in mathematics and language learning; effectiveness depends on mastery gating rather than mere content variety.
+**[Adaptive Learning](adaptive-learning.md)** — Platform-driven personalization in which item difficulty and sequencing adjust continuously to response accuracy and latency. Used at scale in mathematics and language learning; effectiveness depends on mastery gating rather than mere content variety.
 
 **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that routes students through problem sets with step-level hints and immediate feedback, effectively personalizing the support each student receives during [practice](../elements/practice.md).
 

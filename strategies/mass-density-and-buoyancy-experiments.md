@@ -25,7 +25,7 @@ Hands-on experimentation makes abstract, invisible properties like density tangi
 #### Requirements
 - Freshwater, saltwater, and other liquids of differing density; test objects (pencil, balls of varying mass/volume); balance scale; graduated container for displacement measurement
 - A recording sheet that prompts [prediction](../elements/prediction.md) before testing and [self-explanation](../elements/self-explanation.md) after — learners who articulate *why* an object floated gain more than those who only observe [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- Structured comparison across cases so learners can abstract the density rule from multiple instances [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Structured comparison across cases so learners can abstract the density rule from multiple instances [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Constraints
 - Unguided "sink or float" play without measurement or prompts produces activity without abstraction; learners often retain the misconception that "heavy things sink" [Klahr & Nigam found hands-on discovery alone did not yield better conceptual outcomes than direct instruction without explicit evaluation of evidence.](https://doi.org/10.1111/j.0956-7976.2004.00700.x) [~S]
@@ -52,7 +52,7 @@ Hands-on experimentation makes abstract, invisible properties like density tangi
 2. Demonstrate the measurement procedure (weighing, submerging, reading displacement) so learners attend to the phenomenon rather than the mechanics [Application](../elements/application.md)
 3. Have learners predict, then test each object in freshwater and saltwater, recording mass, displacement, and outcome
 4. Prompt [self-explanation](../elements/self-explanation.md): "Why did the same pencil float higher in saltwater?" [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-5. Compare across cases to abstract the rule that buoyancy depends on relative density of object and liquid [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+5. Compare across cases to abstract the rule that buoyancy depends on relative density of object and liquid [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 6. Apply the rule to a novel prediction (e.g., an untested object in cooking oil) [Application](../elements/application.md)
 
 ## Related Strategies

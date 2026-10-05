@@ -19,7 +19,7 @@ The keyword method is a mnemonic strategy for vocabulary learning, developed by 
 
 ## Design Implications
 
-The keyword method works by converting abstract, arbitrary sound–meaning mappings into concrete, imageable associations, leveraging both verbal and imagistic memory codes [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. Its effectiveness depends on the quality of the interactive image: images in which the two items physically interact produce far better recall than images of the items merely co-occurring. Because it is a generative strategy, learners benefit most when they construct their own keywords and images rather than only receiving them, though instructor-provided keywords are effective for novices who cannot yet generate good ones.
+The keyword method works by converting abstract, arbitrary sound–meaning mappings into concrete, imageable associations, leveraging both verbal and imagistic memory codes [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Its effectiveness depends on the quality of the interactive image: images in which the two items physically interact produce far better recall than images of the items merely co-occurring. Because it is a generative strategy, learners benefit most when they construct their own keywords and images rather than only receiving them, though instructor-provided keywords are effective for novices who cannot yet generate good ones.
 
 ### Context
 #### Requirements

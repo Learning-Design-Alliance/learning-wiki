@@ -19,7 +19,7 @@ Draw To Explain asks learners to produce their own drawing, sketch, or diagram t
 
 ## Design Implications
 
-Drawing is a generative learning activity: learners must construct external structure from their own understanding, which exposes gaps and supports integration of pictorial and verbal representations [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The benefit comes from the *construction* process, not the visual product — learner-generated drawings outperform viewing equivalent provided images [+M], and decorative or instructor-supplied pictures that learners do not process deeply add little [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Because drawing consumes working memory, it works best when the content is moderately complex and the drawing conventions are simple [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~S].
+Drawing is a generative learning activity: learners must construct external structure from their own understanding, which exposes gaps and supports integration of pictorial and verbal representations [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit comes from the *construction* process, not the visual product — learner-generated drawings outperform viewing equivalent provided images [+M], and decorative or instructor-supplied pictures that learners do not process deeply add little [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Because drawing consumes working memory, it works best when the content is moderately complex and the drawing conventions are simple [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~S].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Drawing is a generative learning activity: learners must construct external stru
 
 ### Target Learning Goals
 - Conceptual understanding of systems, processes, and causal mechanisms
-- Integration of verbal and pictorial knowledge structures [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Integration of verbal and pictorial knowledge structures [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Formative diagnosis: drawings make misconceptions visible to instructors in ways written answers may not
 
 ### Instructions

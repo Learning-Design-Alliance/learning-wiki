@@ -55,7 +55,7 @@ Morphological instruction works because it converts a large memory task (thousan
 ### Instructions
 1. Select a small set of high-utility morphemes tied to current content vocabulary.
 2. Model analysis of a familiar word family aloud, showing how meaning is preserved or shifted across derived forms ([Analogies](../elements/analogies.md) between known and new words).
-3. Contrast words where the morpheme behaves predictably with words where it does not, to sharpen boundaries of the generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+3. Contrast words where the morpheme behaves predictably with words where it does not, to sharpen boundaries of the generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 4. Have learners generate new words from the morpheme and justify their meanings — production, not recognition, is the goal.
 5. Spiral previously taught morphemes into reading and writing tasks so analysis becomes habitual during authentic literacy work.
 

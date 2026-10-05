@@ -54,7 +54,7 @@ The strategy works because it raises the interactive quality of engagement with 
 1. Select a text of manageable length and load it into a social annotation platform; seed it with 2–3 instructor annotations modeling the desired cognitive moves.
 2. Assign annotation prompts requiring specific moves — question, connect, apply — and require at least one reply to a peer, raising engagement from passive to interactive [Chi & Wylie, 2014](https://doi.org/10.1037/a0037417) [+M].
 3. Monitor the margin discussion and intervene to deepen threads that stall at agreement or summary.
-4. Launch the structured activity — a short analytic write-up, problem set, or [Case Studies](../principles/case-studiescase-based-learning.md) response — that explicitly requires students to use ideas from the annotations.
+4. Launch the structured activity — a short analytic write-up, problem set, or [Case Studies](../patterns/case-based-learning.md) response — that explicitly requires students to use ideas from the annotations.
 5. Close the loop with feedback that addresses both the activity product and the quality of the annotation exchange [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies

@@ -30,7 +30,7 @@ Modeling draws on social learning theory: learners acquire behaviors and standar
 #### Constraints
 - Observation without subsequent practice creates an illusion of mastery and transfers poorly [-S] — learners consistently overestimate what they learned from watching
 - Overly polished expert modeling can hide the struggle and error-recovery that learners most need to see; showing initial flawed attempts and revisions is often more instructive [~M]
-- Modeling a single canonical approach can anchor learners and reduce flexibility on open-ended tasks; contrasting multiple models mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Modeling a single canonical approach can anchor learners and reduce flexibility on open-ended tasks; contrasting multiple models mitigates this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - For learners with substantial prior knowledge, explicit modeling becomes redundant and can depress performance [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~S]
 
 #### Implementation Variability

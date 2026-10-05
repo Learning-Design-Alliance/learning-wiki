@@ -30,7 +30,7 @@ Debate is the element in which learners take positions, justify them with eviden
 - Build argumentation, evidence use, and perspective taking.
 
 ### Affordances
-- [Debate](../principles/debate.md)
+- [Debate](../patterns/debate.md)
 - [Epistemic Cognition](../principles/epistemic-cognition.md)
 
 ### Claims

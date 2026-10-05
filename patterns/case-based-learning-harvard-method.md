@@ -86,8 +86,8 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 - [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Case Studies/Case-Based Learning](../principles/case-studiescase-based-learning.md)
-- [Debate](../principles/debate.md)
+- [Case Studies/Case-Based Learning](case-based-learning.md)
+- [Debate](debate.md)
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 

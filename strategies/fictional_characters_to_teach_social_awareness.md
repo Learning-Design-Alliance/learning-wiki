@@ -38,7 +38,7 @@ Fictional narrative engages the same social-cognitive machinery used to understa
 - **Literature circles** on novels featuring characters navigating identity, migration, or injustice
 - **Role-play and hot-seating**, where learners answer questions *as* the character ([Acting/Role-Play](acting-role-play.md))
 - **Film and media clips** paired with structured perspective-analysis worksheets
-- **Comparing multiple narratives** featuring different characters in parallel dilemmas, which supports abstraction of the underlying social principle [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparing multiple narratives** featuring different characters in parallel dilemmas, which supports abstraction of the underlying social principle [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Children and adolescents, for whom fictional characters provide a developmentally appropriate entry into abstract social concepts [~M]

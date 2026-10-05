@@ -19,7 +19,7 @@ This strategy makes the features of a target genre — its purpose, audience, st
 
 ## Design Implications
 
-Genre knowledge is largely tacit; learners who have not absorbed it through wide reading benefit from having it made visible and teachable. Explicit strategy instruction reduces the unguided search that otherwise dominates novice writing effort, functioning as a form of [Cognitive Load Management](../principles/cognitive-load-management.md) by supplying a structural plan the writer does not have to invent [+M]. Analysis of contrasting mentor texts supports abstraction of genre features better than exposure to a single exemplar [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+Genre knowledge is largely tacit; learners who have not absorbed it through wide reading benefit from having it made visible and teachable. Explicit strategy instruction reduces the unguided search that otherwise dominates novice writing effort, functioning as a form of [Cognitive Load Management](../principles/cognitive-load-management.md) by supplying a structural plan the writer does not have to invent [+M]. Analysis of contrasting mentor texts supports abstraction of genre features better than exposure to a single exemplar [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Genre knowledge is largely tacit; learners who have not absorbed it through wide
 
 ### Instructions
 1. **Set purpose and audience.** Frame the genre by its communicative purpose — who writes it, for whom, and why — using an [Advance Organizer](../elements/advance-organizers.md).
-2. **Analyze mentor texts.** Guide students through comparing several exemplars to identify structural and linguistic features; contrasting cases sharpen feature detection [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. **Analyze mentor texts.** Guide students through comparing several exemplars to identify structural and linguistic features; contrasting cases sharpen feature detection [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. **Model composition.** Compose a text in the genre aloud, verbalizing planning and revision decisions ([Think-Aloud](../elements/think-aloud.md)); model both a strong and a weak draft to build evaluative criteria.
 4. **Guide practice.** Students plan or draft collaboratively or with a graphic organizer embodying the genre's structure, with teacher feedback at the process level [Feedback is most effective when directed at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 5. **Fade support.** Move from collaborative to independent composition, removing organizers as students internalize the genre's structure [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]

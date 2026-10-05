@@ -57,7 +57,7 @@ Inquiry-based writing works because it supplies rich, personally processed conte
 1. Pose a focused, answerable question connected to the curriculum and to learners' interests.
 2. Activate relevant background knowledge before data collection ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)).
 3. Have learners gather immediate, concrete data — observations, measurements, interviews, or source documents — using structured recording tools.
-4. Support analysis: learners code, categorize, and [Annotate](../principles/annotating.md) their data, comparing cases to abstract patterns [Analyzing multiple contrasting cases supports abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S].
+4. Support analysis: learners code, categorize, and [Annotate](../principles/annotating.md) their data, comparing cases to abstract patterns [Analyzing multiple contrasting cases supports abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+S].
 5. Orally rehearse findings in [Class Discussion](../elements/class-discussion.md) or small groups before drafting, converting talk into compositional raw material.
 6. Draft the target genre with mini-lessons on its structure; encourage [Self-Explanation](../elements/self-explanation.md) of why each piece of evidence is included [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 7. Revise with feedback focused on claims and evidence use rather than surface errors [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].

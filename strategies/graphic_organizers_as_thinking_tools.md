@@ -42,7 +42,7 @@ Graphic organizers work because they externalize relational structure: spatial a
 
 ### Target Learners
 - Novices who lack a schema for the content and benefit from an external relational structure [Nesbit & Adesope meta-analysis of concept/knowledge mapping.](../claims/concept-mapping-improves-learning.md) [+M]
-- Learners who benefit from dual-channel presentation of verbal and spatial information [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Learners who benefit from dual-channel presentation of verbal and spatial information [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Less beneficial for experts, for whom the imposed structure adds little [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals

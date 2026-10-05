@@ -62,7 +62,7 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 - [Check-ins](../principles/check-ins.md) — brief, frequent reflection points embedded in a learning sequence
 
 ## Patterns That Use This Element
-- [Reflective Practice](../patterns/reflective-practice.md) — the core pattern; structured cycles of experience and reflection (Schön, Kolb)
+- [Reflective Practice](../principles/reflection.md) — the core pattern; structured cycles of experience and reflection (Schön, Kolb)
 - [Peer Review](peer-review.md) — individual reflection on received feedback precedes revision
 - [Socratic Seminar](../patterns/socratic-seminar.md) — post-seminar individual reflection consolidates dialogic insights
 

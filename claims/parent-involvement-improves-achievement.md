@@ -114,4 +114,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — a narrower finding that bears on this claim
-- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
+- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement.md) — related

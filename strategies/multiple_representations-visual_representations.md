@@ -19,7 +19,7 @@ This strategy presents the same content in two or more coordinated formats — t
 
 ## Design Implications
 
-Pairing words with meaningful graphics improves learning because verbal and visual channels process information in parallel and reinforce each other [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The benefit is not automatic: visuals must be relevant to the learning goal, not decorative, and the combination must not exceed working memory capacity [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Effective use requires managing the total load across representations — splitting attention between poorly integrated formats degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Pairing words with meaningful graphics improves learning because verbal and visual channels process information in parallel and reinforce each other [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is not automatic: visuals must be relevant to the learning goal, not decorative, and the combination must not exceed working memory capacity [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Effective use requires managing the total load across representations — splitting attention between poorly integrated formats degrades learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Pairing words with meaningful graphics improves learning because verbal and visu
 - Learner-constructed representations (drawing, graphing) vs. instructor-provided ones — construction adds generative processing but requires more support
 
 ### Target Learners
-- Novices benefit most from well-integrated word–picture pairs, which reduce the need to mentally visualize verbal descriptions [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Novices benefit most from well-integrated word–picture pairs, which reduce the need to mentally visualize verbal descriptions [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Learners with low spatial ability gain disproportionately from provided visuals, which substitute for effortful mental imagery [+M]
 - High-prior-knowledge learners may need fewer or leaner representations; added guidance can produce redundancy effects [~M]
 

@@ -63,7 +63,7 @@ Graphic organizers work by externalizing structure, reducing the working-memory 
 
 ## Examples
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — concept-mapping software widely used in K–12 for learner-constructed graphic organizers across content areas.
-- **Comparison matrices in history instruction** — a grid with civilizations as rows and institutions (religion, economy, government) as columns directs attention to comparable features across cases; multiple contrasting cases presented in such a matrix support abstraction of shared principles [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison matrices in history instruction** — a grid with civilizations as rows and institutions (religion, economy, government) as columns directs attention to comparable features across cases; multiple contrasting cases presented in such a matrix support abstraction of shared principles [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Khan Academy unit maps (https://www.khanacademy.org)** — visual course maps showing lesson hierarchy, orienting learners to where the current lesson sits in the unit's structure.
 
 ## Key Sources

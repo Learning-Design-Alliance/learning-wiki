@@ -19,7 +19,7 @@ Educational posters are visual displays placed in the physical or digital learni
 
 ## Design Implications
 
-Posters work as external memory aids: they offload reference information from working memory so learners can attend to the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on adherence to multimedia design principles — relevant, well-organized graphics paired with concise text outperform decorative displays, which learners largely ignore or which compete for attention [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Combining words and relevant images supports dual coding and improves recall relative to text alone [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+Posters work as external memory aids: they offload reference information from working memory so learners can attend to the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on adherence to multimedia design principles — relevant, well-organized graphics paired with concise text outperform decorative displays, which learners largely ignore or which compete for attention [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Combining words and relevant images supports dual coding and improves recall relative to text alone [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Posters work as external memory aids: they offload reference information from wo
 
 ### Instructions
 1. Identify the concept, procedure, or strategy learners will need to access repeatedly during upcoming work.
-2. Draft the poster with one central idea, chunked sections, and relevant (not decorative) graphics [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+2. Draft the poster with one central idea, chunked sections, and relevant (not decorative) graphics [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 3. Where possible, build the poster *with* students during instruction so it records shared meaning rather than pre-packaged content.
 4. Introduce the poster explicitly during teaching — point to it, model using it, and require learners to consult it during [Practice](../elements/practice.md).
 5. Rotate or retire posters as units change to maintain salience; archive retired charts where students can still retrieve them.

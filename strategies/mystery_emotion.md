@@ -19,7 +19,7 @@ Mystery Emotion is a strategy in which the instructor (or later, a learner) sile
 
 ## Design Implications
 
-The strategy leverages embodied, attention-directing observation: learners must scan for specific nonverbal cues (eyebrows, mouth, body orientation) rather than passively receive an emotion label, which directs attention to the diagnostic features of emotional expression [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. Guessing and discussing candidate emotions creates cognitive engagement and productive uncertainty, and comparing multiple plausible interpretations supports abstraction of the underlying cue–emotion mappings [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Because emotional expression is ambiguous and culturally variable, the discussion of *why* a guess fits is as valuable as the correct answer.
+The strategy leverages embodied, attention-directing observation: learners must scan for specific nonverbal cues (eyebrows, mouth, body orientation) rather than passively receive an emotion label, which directs attention to the diagnostic features of emotional expression [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. Guessing and discussing candidate emotions creates cognitive engagement and productive uncertainty, and comparing multiple plausible interpretations supports abstraction of the underlying cue–emotion mappings [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Because emotional expression is ambiguous and culturally variable, the discussion of *why* a guess fits is as valuable as the correct answer.
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ The strategy leverages embodied, attention-directing observation: learners must 
 ### Instructions
 1. Establish the frame: tell learners they are detectives solving the mystery of a hidden feeling; agree on ground rules for respectful guessing ([Check-In](../elements/check-in.md)).
 2. Perform the mystery emotion silently, holding it long enough for observation ([Act It Out](../elements/act-it-out.md)).
-3. Collect hypotheses from several learners before evaluating any of them, so multiple candidate interpretations are compared [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. Collect hypotheses from several learners before evaluating any of them, so multiple candidate interpretations are compared [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. For each guess, ask for the evidence: "What did you see that makes you think that?" — making the cue-to-inference link explicit.
 5. Reveal the emotion, then debrief: which cues were diagnostic, which were misleading, and how the same cues might signal different feelings in different contexts.
 6. Rotate performance roles so learners also produce expressions, deepening encoding through enactment.

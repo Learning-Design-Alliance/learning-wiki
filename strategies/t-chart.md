@@ -19,7 +19,7 @@ A T-chart is a graphic organizer shaped like the letter T, with a horizontal lin
 
 ## Design Implications
 
-T-charts operationalize structured comparison, one of the highest-yield instructional strategies in the Marzano synthesis of effective practices [Comparing and contrasting supports conceptual understanding.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The two-column format reduces working-memory demands by holding the comparison frame constant while learners attend to content [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its value depends on learners actively generating attributes rather than copying them; prompting learners to explain *why* an attribute differs converts the chart from a recording device into a reasoning device [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+T-charts operationalize structured comparison, one of the highest-yield instructional strategies in the Marzano synthesis of effective practices [Comparing and contrasting supports conceptual understanding.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The two-column format reduces working-memory demands by holding the comparison frame constant while learners attend to content [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Its value depends on learners actively generating attributes rather than copying them; prompting learners to explain *why* an attribute differs converts the chart from a recording device into a reasoning device [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ T-charts operationalize structured comparison, one of the highest-yield instruct
 
 ### Target Learning Goals
 - Compare and contrast concepts, organisms, or phenomena
-- Identify similarities and differences — the core cognitive operation the chart scaffolds [Comparing and contrasting supports conceptual understanding.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Identify similarities and differences — the core cognitive operation the chart scaffolds [Comparing and contrasting supports conceptual understanding.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Organize and analyze information in preparation for writing or discussion
 
 ### Instructions

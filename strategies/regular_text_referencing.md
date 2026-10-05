@@ -31,7 +31,7 @@ Repeated, spaced encounters with the same exemplar combat the forgetting curve f
 #### Constraints
 - Referencing becomes noise if it is repetitive or untethered to a current writing goal [-W] — students disengage when re-reading feels ceremonial rather than purposeful
 - If the teacher always does the pointing, students never develop the retrieval habit; unguided re-exposure produces weak retention gains compared with student-initiated search [+S]
-- Over-reliance on a single mentor text can anchor students to one author's style; multiple contrasting exemplars support abstraction better [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Over-reliance on a single mentor text can anchor students to one author's style; multiple contrasting exemplars support abstraction better [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - **Conference referencing** — individualized: the teacher opens a specific student's draft next to a mentor text and locates the move together

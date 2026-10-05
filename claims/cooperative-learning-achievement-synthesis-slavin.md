@@ -63,8 +63,7 @@ Moderator analysis within Slavin's review of the conditions under which cooperat
 
 ## Related Claims
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — a broader claim this one bears on
-- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
-- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — reports the opposite
 - [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related

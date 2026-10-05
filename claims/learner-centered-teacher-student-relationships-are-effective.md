@@ -81,7 +81,6 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — a narrower finding that bears on this claim
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
 - [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — related
-- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md) — related
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — a narrower finding that bears on this claim

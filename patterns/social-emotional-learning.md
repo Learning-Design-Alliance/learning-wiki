@@ -66,7 +66,7 @@ Program or course — durable effects require multi-year implementation with sus
 #### Supporting
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — SEL programs emphasizing choice and voice outperform compliance-oriented versions
 - [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M] — the social-awareness competency has measurable attitudinal effects
-- [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+W] — literary engagement can serve as a low-cost vehicle for perspective-taking
+- [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+W] — literary engagement can serve as a low-cost vehicle for perspective-taking
 - [Brief intervention empathic discipline cuts suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M] — teacher-side SEL (empathic mindset) changes disciplinary outcomes
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — process-level feedback supports the self-management competency without triggering ego threat
 

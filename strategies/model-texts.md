@@ -19,7 +19,7 @@ Model texts (also called mentor texts or exemplars) are finished samples of the 
 
 ## Design Implications
 
-Model texts function as worked examples for writing: they substitute a completed product for unguided invention, reducing the load of figuring out both *what to say* and *how to say it* simultaneously [Example–problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Their effectiveness depends on active analysis — learners who annotate or deconstruct a model's structure and moves learn more than those who merely read it [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Presenting two or three contrasting models of the same genre, rather than one, helps learners abstract the underlying features instead of imitating surface details.
+Model texts function as worked examples for writing: they substitute a completed product for unguided invention, reducing the load of figuring out both *what to say* and *how to say it* simultaneously [Example–problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Their effectiveness depends on active analysis — learners who annotate or deconstruct a model's structure and moves learn more than those who merely read it [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Presenting two or three contrasting models of the same genre, rather than one, helps learners abstract the underlying features instead of imitating surface details.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Model texts function as worked examples for writing: they substitute a completed
 
 #### Constraints
 - Passive reading of a model without analysis or imitation produces little transfer [-M] — learners often cannot extract genre features without guided attention
-- A single model can anchor learners to one voice or structure, producing formulaic imitation; contrasting models mitigate this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- A single model can anchor learners to one voice or structure, producing formulaic imitation; contrasting models mitigate this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Models far above learners' current level can discourage rather than inform, particularly for struggling writers [~W]
 - Over-reliance on models can suppress originality in creative tasks where divergent goals matter [~W]
 
@@ -51,7 +51,7 @@ Model texts function as worked examples for writing: they substitute a completed
 - Style and craft: acquiring sentence-level and rhetorical techniques worth imitating
 
 ### Instructions
-1. Select one to three authentic model texts at an appropriate level, ideally contrasting in approach [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+1. Select one to three authentic model texts at an appropriate level, ideally contrasting in approach [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 2. Pose an analysis task — learners [Annotating](../principles/annotating.md) the text to identify structure, moves, and effective language
 3. Lead a discussion that names the genre features and connects them to the quality criteria or rubric
 4. Have learners plan and draft their own piece, explicitly borrowing structures or moves from the model

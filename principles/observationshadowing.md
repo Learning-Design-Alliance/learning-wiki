@@ -64,7 +64,7 @@ Observation and shadowing are useful because some aspects of expertise are easie
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners gain more from observation when they explain what they saw and why it mattered
 
 ## Related Principles
-- [Mentoring/Coaching](mentoringcoaching.md) — observation and shadowing are often most effective when paired with guided interpretation from a mentor or coach.
+- [Mentoring/Coaching](mentoring-and-coaching.md) — observation and shadowing are often most effective when paired with guided interpretation from a mentor or coach.
 - [Communities of Practice](communities-of-practice.md) — shadowing helps newcomers move from peripheral observation into fuller participation.
 - [Experiential Learning](experiential-learning.md) — observation can function as a precursor to authentic performance and reflection.
 - [Debriefing](debriefing.md) — structured debrief helps learners convert what they saw into usable insight.

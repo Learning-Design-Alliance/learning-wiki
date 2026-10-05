@@ -33,7 +33,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - Largely irrelevant to short retrieval tasks, which is why brief checks survive conditions long tasks do not.
 
 ## Claims
-- [Interesting but irrelevant details can distract from learning](../claims/seductive-details-distract-from-learning.md) [-M] — the effect that makes 'engaging' and 'effective' come apart
+- [Interesting but irrelevant details can distract from learning](../claims/seductive-details-effect.md) [-M] — the effect that makes 'engaging' and 'effective' come apart
 - [Signaling improves learning](../claims/signaling-improves-learning.md) [+M] — cueing what matters directs attention rather than competing for it
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] — learner-paced segments let attention reset at a boundary the learner chooses
 - [Classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy

@@ -45,7 +45,7 @@ Comparing cases is the element in which learners inspect two or more examples, s
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Comparing Contrasting Cases Improves Learning](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
-- [Multiple Contrasting Cases Support Abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- [Multiple Contrasting Cases Support Abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Related Elements
 - [Non-Examples](non-examples.md)

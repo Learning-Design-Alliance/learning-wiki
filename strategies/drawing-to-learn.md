@@ -54,7 +54,7 @@ Drawing is a generative learning activity: it requires learners to select key in
 1. Select content with a depictable structure and set a clear purpose ("draw how X causes Y").
 2. Provide a prompt specifying required components and relations, or a partial diagram to complete — a form of [Annotating](../principles/annotating.md) when learners label given visuals.
 3. Have learners draw, then self-explain: articulate why each component and arrow is placed as it is [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
-4. Compare drawings against an expert or peer representation and revise; contrasting multiple versions supports abstraction of the underlying structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+4. Compare drawings against an expert or peer representation and revise; contrasting multiple versions supports abstraction of the underlying structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 5. Revisit the drawing later (e.g., as a retrieval prompt) to leverage its value for retention.
 
 ## Related Strategies

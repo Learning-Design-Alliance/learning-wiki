@@ -68,7 +68,7 @@ This Annual Review of Psychology article synthesizes survey and experimental wor
 
 **Boundary conditions.** Misjudgment is strongest for novices, who lack the knowledge to evaluate their comprehension accurately; experts' judgments are better calibrated in their domain. Judgments made after a delay are more accurate than immediate judgments, which partly explains why cramming feels effective — the fluency is real at the moment of study but does not survive the delay to the test.
 
-**Design implications.** If learners cannot be trusted to select strategies on their own, designers and instructors should default to effective structures — [retrieval practice](retrieval-practice-improves-retention.md), [spaced practice](spaced-practice-improves-retention.md), and [interleaving](interleaving-improves-transfer.md) — rather than offering open study-strategy choice. Where choice is offered, it should be paired with strategy instruction that explicitly contrasts the felt ease of a strategy with its measured payoff, and with [assessment for learning](assessment-for-learning-improves-achievement.md) structures that give learners accurate feedback on what they actually know.
+**Design implications.** If learners cannot be trusted to select strategies on their own, designers and instructors should default to effective structures — [retrieval practice](retrieval-practice-improves-retention.md), [spaced practice](spaced-practice-improves-retention.md), and [interleaving](interleaving-improves-inductive-learning.md) — rather than offering open study-strategy choice. Where choice is offered, it should be paired with strategy instruction that explicitly contrasts the felt ease of a strategy with its measured payoff, and with [assessment for learning](assessment-for-learning-improves-achievement.md) structures that give learners accurate feedback on what they actually know.
 
 **Open questions.** The evidence recorded above shows what students prefer (rereading over self-testing) rather than measuring the judgment–performance gap directly; judgments-of-learning experiments that do measure it are recorded on the spacing and fluency claim pages.
 
@@ -84,7 +84,7 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the generative strategy learners most often underestimate
 - [Spaced practice improves retention.](spaced-practice-improves-retention.md) — spacing feels harder than massing, so learners avoid it
-- [Interleaving improves discrimination and transfer.](interleaving-improves-transfer.md) — blocked practice feels smoother but produces weaker learning
+- [Interleaving improves discrimination and transfer.](interleaving-improves-inductive-learning.md) — blocked practice feels smoother but produces weaker learning
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — why fluent-feeling material can still be poorly retained
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why effort and effectiveness dissociate during study
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — external feedback can substitute for learners' faulty internal monitoring

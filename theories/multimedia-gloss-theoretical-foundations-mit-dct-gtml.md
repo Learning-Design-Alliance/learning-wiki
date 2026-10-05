@@ -40,7 +40,7 @@ The article grounds multimedia glosses in three frameworks. Gardner's MIT differ
 - [Multimedia Glosses Improve Efl Vocabulary Acquisition](../claims/multimedia-glosses-improve-efl-vocabulary-acquisition.md) [+M]
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](../claims/multimodal-glosses-improve-incidental-vocabulary-learning.md) [+W]
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+M]
-- [Dual Coding Improves Recall](../claims/dual-coding-improves-recall.md) [+M]
+- [Dual Coding Improves Recall](../claims/dual-coding-improves-learning.md) [+M]
 - [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+M]
 
 ## Related Theories

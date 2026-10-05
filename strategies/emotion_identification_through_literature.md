@@ -57,7 +57,7 @@ Naming emotions builds the vocabulary needed for later emotional regulation and 
 3. During the read-aloud, pause at emotionally significant moments and ask: "How does the character feel? What in the words or pictures tells you that?" ([Conceptual Questioning](../elements/conceptual-questioning.md)).
 4. Have students point to or name the emotion on the poster, then justify the choice with specific evidence ([Class Discussion](../elements/class-discussion.md)).
 5. Model the reasoning aloud when students struggle, narrating how word choice or an illustration signals a feeling ([Think-Aloud](../elements/think-aloud.md)).
-6. Contrast similar emotions on the poster (e.g., sad vs. disappointed) using multiple story moments as contrasting cases [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+6. Contrast similar emotions on the poster (e.g., sad vs. disappointed) using multiple story moments as contrasting cases [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 7. Close by asking students to connect the character's emotion to their own experience or predict what the character will do next.
 
 ## Related Strategies

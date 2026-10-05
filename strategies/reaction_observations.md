@@ -19,7 +19,7 @@ Reaction observations involve observing and describing the properties of liquids
 
 ## Design Implications
 
-Structured observation tasks give young learners concrete experiences on which later chemical concepts can be built, and describing observations aloud or in writing promotes verbal encoding of perceptual information [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The key design move is pairing observation with prompts to describe, compare, and predict — unstructured "look and see" activities produce far weaker learning than observation guided by specific questions [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Because young learners' working memory is easily overloaded, each observation session should isolate one or two properties (color, spread rate, miscibility) rather than asking learners to track everything at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Structured observation tasks give young learners concrete experiences on which later chemical concepts can be built, and describing observations aloud or in writing promotes verbal encoding of perceptual information [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The key design move is pairing observation with prompts to describe, compare, and predict — unstructured "look and see" activities produce far weaker learning than observation guided by specific questions [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Because young learners' working memory is easily overloaded, each observation session should isolate one or two properties (color, spread rate, miscibility) rather than asking learners to track everything at once [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Structured observation tasks give young learners concrete experiences on which l
 
 #### Implementation Variability
 - Prediction-observation-explanation (POE) format: learners predict, observe, then resolve any mismatch
-- Contrast sets: presenting two or three liquid pairs side by side so properties become comparable rather than absolute [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Contrast sets: presenting two or three liquid pairs side by side so properties become comparable rather than absolute [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Extension for older or more advanced students: quantitative observation (timing spread, counting drops) and graphing
 
 ### Target Learners
@@ -52,7 +52,7 @@ Structured observation tasks give young learners concrete experiences on which l
 1. Present the materials and pose a focused question ("What happens to the dot of ink when water touches it?") using [Advance Organizers](../elements/advance-organizers.md) to frame what to look for.
 2. Have learners predict the outcome and record or state it before observing.
 3. Conduct the observation; learners record what they see through drawing and [Annotating](../principles/annotating.md).
-4. Repeat with a contrasting liquid or condition so properties can be compared, applying [Multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md).
+4. Repeat with a contrasting liquid or condition so properties can be compared, applying [Multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md).
 5. Facilitate a [Class Discussion](../elements/class-discussion.md) in which learners explain the reaction in their own words, connecting observation to a simple causal account.
 6. Consolidate through [Application](../elements/application.md) — e.g., predicting what will happen with a new liquid pair — and [Practice](../elements/practice.md) with a fresh example.
 

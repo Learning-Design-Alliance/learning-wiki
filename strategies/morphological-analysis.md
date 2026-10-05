@@ -53,7 +53,7 @@ Morphological analysis converts vocabulary learning from item-by-item memorizati
 
 ### Instructions
 1. Select 3–5 high-frequency morphemes aligned to current content reading; avoid rare affixes with low transfer payoff.
-2. Present a word family containing the target morpheme and have learners identify what the words share ([Comparing cases](../claims/multiple-contrasting-cases-support-abstraction.md) supports abstraction of the pattern).
+2. Present a word family containing the target morpheme and have learners identify what the words share ([Comparing cases](../claims/comparing-contrasting-cases-improves-learning.md) supports abstraction of the pattern).
 3. Guide learners to hypothesize the morpheme's meaning from the family, then confirm or correct — generation before confirmation strengthens retention.
 4. Have learners apply the morpheme to new, unseen words and verify against sentence context, pairing analysis with [Activation](../principles/activation.md) of surrounding-context clues.
 5. Spiral previously taught morphemes into new texts so analysis becomes habitual rather than a one-off lesson.

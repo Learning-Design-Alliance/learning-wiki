@@ -79,7 +79,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — emphasizes learning through increasing participation in a practice community
-- [Situated Learning](situated-learning.md) — explains why community context can improve transfer and meaning
+- [Situated Learning](../theories/situated-learning.md) — explains why community context can improve transfer and meaning
 - [Collaborative Learning](collaborative-learning.md) — community-based learning often depends on well-structured shared work
 
 ## Examples

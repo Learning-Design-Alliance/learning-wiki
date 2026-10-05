@@ -19,7 +19,7 @@ Learners select a current news item and examine how it is reported across multip
 
 ## Design Implications
 
-Comparing multiple accounts of the same event is a form of multiple-document analysis that pushes learners beyond single-text comprehension toward evaluating source, purpose, and bias [~M]. Contrasting cases support abstraction of the underlying dimensions — framing, omission, word choice — that any single text cannot reveal [Multiple contrasting cases help learners abstract the features that distinguish them.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The strategy works best when learners are prompted to explain *why* accounts differ, not just that they differ [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Comparing multiple accounts of the same event is a form of multiple-document analysis that pushes learners beyond single-text comprehension toward evaluating source, purpose, and bias [~M]. Contrasting cases support abstraction of the underlying dimensions — framing, omission, word choice — that any single text cannot reveal [Multiple contrasting cases help learners abstract the features that distinguish them.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The strategy works best when learners are prompted to explain *why* accounts differ, not just that they differ [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

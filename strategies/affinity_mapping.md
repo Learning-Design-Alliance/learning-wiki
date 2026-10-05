@@ -19,7 +19,7 @@ Affinity mapping (also called affinity diagramming or the KJ method) asks learne
 
 ## Design Implications
 
-Affinity mapping converts divergent idea generation into convergent organization, forcing learners to discriminate similarities and differences among ideas and to construct category structure themselves rather than receiving it [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The physical manipulation and discussion of ideas also raises engagement relative to listening [Active learning improves exam performance over lecture alone.](../principles/active-learning.md) [+S], and explaining why ideas belong together prompts self-explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Affinity mapping converts divergent idea generation into convergent organization, forcing learners to discriminate similarities and differences among ideas and to construct category structure themselves rather than receiving it [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The physical manipulation and discussion of ideas also raises engagement relative to listening [Active learning improves exam performance over lecture alone.](../principles/active-learning.md) [+S], and explaining why ideas belong together prompts self-explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

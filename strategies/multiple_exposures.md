@@ -19,7 +19,7 @@ Multiple exposures arrange for learners to encounter the same target content sev
 
 ## Design Implications
 
-Repeated, spaced encounters with content strengthen retention far more than a single massed presentation, and spacing the exposures amplifies the benefit of each repetition [Cepeda et al.'s meta-analysis found spaced practice reliably outperforms massed practice across materials and ages.](https://doi.org/10.1037/0033-2909.132.3.354) [+S]. The mechanism is partly encoding variability: each new context forces learners to abstract the invariant structure of the concept [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Exposures must be active — retrieval, comparison, application — because passive re-reading of the same material adds little beyond the first pass [Practice testing and distributed practice are among the highest-utility learning techniques.](https://doi.org/10.1037/a0031308) [+S].
+Repeated, spaced encounters with content strengthen retention far more than a single massed presentation, and spacing the exposures amplifies the benefit of each repetition [Cepeda et al.'s meta-analysis found spaced practice reliably outperforms massed practice across materials and ages.](https://doi.org/10.1037/0033-2909.132.3.354) [+S]. The mechanism is partly encoding variability: each new context forces learners to abstract the invariant structure of the concept [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Exposures must be active — retrieval, comparison, application — because passive re-reading of the same material adds little beyond the first pass [Practice testing and distributed practice are among the highest-utility learning techniques.](https://doi.org/10.1037/a0031308) [+S].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Repeated, spaced encounters with content strengthen retention far more than a si
 
 ### Target Learning Goals
 - Long-term retention of facts, concepts, and procedures
-- Abstraction and generalization: recognizing a concept across varied surface forms [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction and generalization: recognizing a concept across varied surface forms [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Discrimination: distinguishing similar concepts through exposure to confusable cases and [Erroneous Examples](../elements/non-examples.md) [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 
 ### Instructions

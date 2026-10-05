@@ -37,7 +37,7 @@ Search is a procedural skill with a large novice search space: unguided, novices
 #### Implementation Variability
 - **Full modeling → guided practice → independent search**: a fading sequence from instructor demonstration to solo retrieval
 - **Query worksheets**: learners plan concepts and synonyms on paper before touching the search box, reducing load during formulation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
-- **Contrasting query cases**: showing a weak query beside a strong one for the same question helps learners abstract what makes terms effective [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting query cases**: showing a weak query beside a strong one for the same question helps learners abstract what makes terms effective [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Embedded instruction**: keyword teaching integrated into a content unit (e.g., a research essay) rather than a standalone library session, improving transfer to real tasks
 
 ### Target Learners

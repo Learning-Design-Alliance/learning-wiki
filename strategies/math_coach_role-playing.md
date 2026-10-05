@@ -32,7 +32,7 @@ The strategy works because it forces verbalization of the problem schema — sel
 - Without structured turn-taking, confident students dominate and hesitant students disengage; the coach role can become a spectator role [-M]
 - Keyword-matching ("altogether means add") can reinforce a shallow strategy that fails on problems designed to defeat keyword cues [~M] — facilitators should include problems where keywords mislead
 - Groups without a shared understanding of the underlying problem schemas produce inaccurate peer advice, which can consolidate errors when unchecked [-M]
-- Less effective if problems are all of one type; contrasting problem types is what drives schema discrimination [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Less effective if problems are all of one type; contrasting problem types is what drives schema discrimination [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - **Silent flash variant:** all coaches flash their chosen operation simultaneously, then defend; disagreement triggers discussion

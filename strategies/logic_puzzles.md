@@ -31,7 +31,7 @@ Logic puzzles engage learners in sustained, rule-governed deduction, which can s
 #### Constraints
 - Far transfer is weak: training on puzzles reliably improves performance on similar puzzles but shows little or no transfer to general intelligence, academic reasoning, or unrelated domains [Does far transfer exist? Negative evidence from chess, music, and working memory training.](https://doi.org/10.1177/0963721417712760) [-S] — claims that puzzles "train the brain" in general are not supported
 - Puzzles beyond a learner's skill level produce frustration and disengagement rather than productive struggle [~M]
-- Over-reliance on a single puzzle type encourages pattern-matching to surface features rather than genuine deduction; varying puzzle structures mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Over-reliance on a single puzzle type encourages pattern-matching to surface features rather than genuine deduction; varying puzzle structures mitigates this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Puzzles with a single correct solution offer little practice in evaluating ambiguous evidence or open-ended argumentation
 
 #### Implementation Variability

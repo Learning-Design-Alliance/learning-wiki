@@ -50,7 +50,7 @@ In a routine professional-learning team meeting, a facilitator or peer invites a
 5. Group collaboratively develops alternative interpretations of the situation and what it implies for future practice.
 
 ## Related Strategies
-- [Reflective Practice](../patterns/reflective-practice.md) — this strategy is a specialized form of reflective practice that adds explicit attention to the emotional (not just behavioral/cognitive) dimension of a teaching episode
+- [Reflective Practice](../principles/reflection.md) — this strategy is a specialized form of reflective practice that adds explicit attention to the emotional (not just behavioral/cognitive) dimension of a teaching episode
 
 ## Examples
 - In one professional-learning team, a teacher's story about frustration with a "needy" student was initially met only with informal, whispered acknowledgment ("it drives me crazy") and formal praise ("well done"); when a colleague instead asked "what triggered you — is it partly that we expect to love all students but it doesn't happen?", the group moved into examining underlying beliefs about the teaching role.

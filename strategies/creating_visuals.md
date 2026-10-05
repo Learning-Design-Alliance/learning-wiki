@@ -47,7 +47,7 @@ Student-generated visuals are effective because drawing requires translating ver
 
 ### Target Learning Goals
 - Conceptual understanding of systems, processes, and relationships [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
-- Abstraction: comparing multiple student visuals or contrasting cases supports generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction: comparing multiple student visuals or contrasting cases supports generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Communication: translating understanding into a form others can read
 
 ### Instructions

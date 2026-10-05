@@ -72,7 +72,7 @@ Skills sprints are effective when a short, tightly bounded cycle focuses attenti
 - [Problem-based Learning](problem-based-learning.md) — sprints often organize work around a concrete challenge or problem.
 - [Experiential Learning](experiential-learning.md) — sprint cycles create action, feedback, and reflection opportunities.
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — clear milestones and visible progress are central to sprint structure.
-- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md) — rapid critique helps teams improve within the sprint window.
+- [Peer Feedback/Peer Review](peer-feedback.md) — rapid critique helps teams improve within the sprint window.
 
 ## Examples
 - **Design sprint**: Teams prototype a service, test assumptions, and present a revised concept within a week.

@@ -19,7 +19,7 @@ Evaluating online sources is a strategy that teaches learners to judge the credi
 
 ## Design Implications
 
-Lateral reading outperforms the checklist approaches (e.g., CRAAP tests) historically taught in schools, because checklists evaluate surface features of a page while expert fact-checkers evaluate the source's reputation and track record across the web [+S]. Instruction should model the strategy with authentic, messy web content — including sources designed to look credible — rather than sanitized examples [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Learners benefit from [Think-Aloud](../elements/think-aloud.md) modeling of the evaluation moves before independent practice.
+Lateral reading outperforms the checklist approaches (e.g., CRAAP tests) historically taught in schools, because checklists evaluate surface features of a page while expert fact-checkers evaluate the source's reputation and track record across the web [+S]. Instruction should model the strategy with authentic, messy web content — including sources designed to look credible — rather than sanitized examples [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Learners benefit from [Think-Aloud](../elements/think-aloud.md) modeling of the evaluation moves before independent practice.
 
 ### Context
 #### Requirements
@@ -52,7 +52,7 @@ Lateral reading outperforms the checklist approaches (e.g., CRAAP tests) histori
 
 ### Instructions
 1. Model the strategy with a [Think-Aloud](../elements/think-aloud.md): open an unfamiliar website and verbalize each evaluation move — who is behind this, what do others say about them, is this claim corroborated?
-2. Contrast cases: present a professional-looking advocacy site and a plain-looking news report; have learners evaluate both, then reveal the actual credibility of each [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. Contrast cases: present a professional-looking advocacy site and a plain-looking news report; have learners evaluate both, then reveal the actual credibility of each [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. Have learners perform lateral reading on new sources, then [Self-Explanation](../elements/self-explanation.md) their verdicts — articulating *why* a source earned or lost trust [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 4. Fade support: move from guided whole-class evaluation to independent evaluation with a brief prompt card, consistent with [Scaffolding](../principles/scaffolding.md) and [Fading](../elements/fading.md)
 5. Integrate into authentic tasks — research papers, [Argumentation](../elements/argumentation.md) exercises, or [Case Studies](../elements/case-studies.md) — so evaluation is applied, not isolated

@@ -36,7 +36,7 @@ The strategy inverts the usual instruction-then-practice sequence: exploration p
 - Very low prior knowledge or high working-memory demands can make unguided exploration unproductive; scaffolds during exploration (representational prompts, collaboration) mitigate this
 
 #### Implementation Variability
-- **Invented vs. canonical comparison:** some implementations have students invent solutions; others use contrasting provided cases — both support abstraction from multiple examples [Comparing multiple contrasting cases supports abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Invented vs. canonical comparison:** some implementations have students invent solutions; others use contrasting provided cases — both support abstraction from multiple examples [Comparing multiple contrasting cases supports abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Individual vs. collaborative exploration:** most implementations use small groups, which distribute cognitive load and diversify solution attempts
 - **Domain scope:** strongest evidence in mathematics and science concepts; adaptations exist in design, engineering, and medical education
 - **Duration:** single-lesson cycles (Kapur's original design) vs. multi-week problem-first curricula

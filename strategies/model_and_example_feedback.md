@@ -19,7 +19,7 @@ Model and example feedback communicates the purpose and criteria of an assessmen
 
 ## Design Implications
 
-Exemplars work because they convert abstract rubric language into perceptual, comparable instances; contrasting multiple cases supports abstraction of the underlying criteria [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The annotation matters as much as the examples: models without explanation of *why* they succeed invite surface imitation, so pair each model with commentary linking features to criteria, and prompt learners to [Self-Explanation](../elements/self-explanation.md) the gap between their draft and the model [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Weak examples are not filler — studying flawed work with guided analysis builds conceptual understanding of the criteria [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
+Exemplars work because they convert abstract rubric language into perceptual, comparable instances; contrasting multiple cases supports abstraction of the underlying criteria [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The annotation matters as much as the examples: models without explanation of *why* they succeed invite surface imitation, so pair each model with commentary linking features to criteria, and prompt learners to [Self-Explanation](../elements/self-explanation.md) the gap between their draft and the model [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Weak examples are not filler — studying flawed work with guided analysis builds conceptual understanding of the criteria [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Exemplars work because they convert abstract rubric language into perceptual, co
 - **Exemplar banks**: curated collections of past student work at multiple quality levels, searchable by assignment
 
 ### Target Learners
-- Novices who cannot yet infer quality criteria from abstract rubric language [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Novices who cannot yet infer quality criteria from abstract rubric language [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Advanced learners especially benefit from weak-example analysis, which sharpens discrimination beyond what positive models alone teach [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - Less beneficial for expert learners, who already possess internalized standards and may find exemplars redundant [~W]
 

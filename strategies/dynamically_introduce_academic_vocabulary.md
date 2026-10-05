@@ -19,7 +19,7 @@ Rather than presenting academic vocabulary as static lists to memorize, this str
 
 ## Design Implications
 
-Vocabulary knowledge is incremental and context-dependent; words are acquired through multiple meaningful encounters, with direct instruction in context outperforming definitions alone [Stahl & Fairbanks meta-analysis of vocabulary instruction.](https://doi.org/10.3102/00346543056001071) [+S]. The first encounter should be "sticky" — tied to a story, image, or emotional hook — because elaborative, distinctive encoding improves recall [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Subsequent encounters must vary context and require active use; passive re-exposure produces much weaker gains than retrieval and production [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
+Vocabulary knowledge is incremental and context-dependent; words are acquired through multiple meaningful encounters, with direct instruction in context outperforming definitions alone [Stahl & Fairbanks meta-analysis of vocabulary instruction.](https://doi.org/10.3102/00346543056001071) [+S]. The first encounter should be "sticky" — tied to a story, image, or emotional hook — because elaborative, distinctive encoding improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Subsequent encounters must vary context and require active use; passive re-exposure produces much weaker gains than retrieval and production [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

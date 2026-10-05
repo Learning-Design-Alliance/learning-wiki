@@ -19,7 +19,7 @@ This strategy designs learning so that content can be accessed, understood, and 
 
 ## Design Implications
 
-Multiple representations strengthen learning by giving learners redundant, complementary codes for the same idea [Presenting words and corresponding pictures improves recall over words alone.](../claims/dual-coding-improves-recall.md) [+S], and examining the same concept through multiple cases and perspectives builds flexible, transferable knowledge [Examining multiple varied cases builds flexible knowledge structures.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Offering meaningful choices in how to engage and express understanding supports autonomy and intrinsic motivation [Supporting learner autonomy increases intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Critically, this strategy is about multiple *modalities and perspectives* — not matching instruction to a diagnosed "learning style," which has been repeatedly discredited [Teaching to matched learning styles does not improve outcomes.](../claims/learning-styles-matching-does-not-improve-learning.md) [-S].
+Multiple representations strengthen learning by giving learners redundant, complementary codes for the same idea [Presenting words and corresponding pictures improves recall over words alone.](../claims/dual-coding-improves-learning.md) [+S], and examining the same concept through multiple cases and perspectives builds flexible, transferable knowledge [Examining multiple varied cases builds flexible knowledge structures.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]. Offering meaningful choices in how to engage and express understanding supports autonomy and intrinsic motivation [Supporting learner autonomy increases intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Critically, this strategy is about multiple *modalities and perspectives* — not matching instruction to a diagnosed "learning style," which has been repeatedly discredited [Teaching to matched learning styles does not improve outcomes.](../claims/learning-styles-matching-does-not-improve-learning.md) [-S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Multiple representations strengthen learning by giving learners redundant, compl
 - **Participation-side:** vary between individual, pair, and communal modes of knowing (reflection, dialogue, [Collaborative Learning](../principles/collaborative-learning.md))
 
 ### Target Learners
-- Multilingual learners, who benefit from complementary verbal and visual representations [Presenting words and corresponding pictures improves recall over words alone.](../claims/dual-coding-improves-recall.md) [+S]
+- Multilingual learners, who benefit from complementary verbal and visual representations [Presenting words and corresponding pictures improves recall over words alone.](../claims/dual-coding-improves-learning.md) [+S]
 - Learners from cultural backgrounds underrepresented in canonical curricula, who engage more deeply when materials connect to community knowledge [~M]
 - Novices, who need constrained choice rather than open-ended option sets [~M]
 - All learners benefit from multiple representations; none benefit from style-matched instruction [Teaching to matched learning styles does not improve outcomes.](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
@@ -50,7 +50,7 @@ Multiple representations strengthen learning by giving learners redundant, compl
 - Conceptual understanding that transfers across contexts [Examining multiple varied cases builds flexible knowledge structures.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 - Perspective-taking and empathy [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - Creative and communicative expression
-- Retention of core content through dual verbal/visual encoding [Presenting words and corresponding pictures improves recall over words alone.](../claims/dual-coding-improves-recall.md) [+S]
+- Retention of core content through dual verbal/visual encoding [Presenting words and corresponding pictures improves recall over words alone.](../claims/dual-coding-improves-learning.md) [+S]
 
 ### Instructions
 1. Identify the non-negotiable learning goal, then design at least two representations of it (text + visual, narrative + data, concrete + abstract) ([Analogies](../elements/analogies.md), [Case Studies](../elements/case-studies.md))

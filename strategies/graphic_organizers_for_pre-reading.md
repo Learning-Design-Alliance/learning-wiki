@@ -19,7 +19,7 @@ Students identify the text structure (compare/contrast, cause/effect, problem/so
 
 ## Design Implications
 
-Graphic organizers reduce extraneous load during reading by externalizing the text's macrostructure, letting working memory attend to meaning-making rather than holding intermediate ideas [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on matching the organizer to the actual text structure — a mismatched organizer forces learners to impose the wrong schema [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [~M]. Combining verbal and spatial representation also exploits dual coding, giving learners two retrieval routes into the content [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+Graphic organizers reduce extraneous load during reading by externalizing the text's macrostructure, letting working memory attend to meaning-making rather than holding intermediate ideas [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their effectiveness depends on matching the organizer to the actual text structure — a mismatched organizer forces learners to impose the wrong schema [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [~M]. Combining verbal and spatial representation also exploits dual coding, giving learners two retrieval routes into the content [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

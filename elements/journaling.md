@@ -49,7 +49,7 @@ Journaling is the element in which learners record reflections, observations, qu
 
 ## Patterns That Use This Element
 - [Journaling](../patterns/journaling.md)
-- [Reflective Practice](../patterns/reflective-practice.md)
+- [Reflective Practice](../principles/reflection.md)
 
 ## Examples
 - Weekly learning journals that track confusion points and strategy changes.

@@ -47,7 +47,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
-- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+S]
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
 - [Guided Discovery Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]

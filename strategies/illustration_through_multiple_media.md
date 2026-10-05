@@ -38,7 +38,7 @@ Multimedia learning research shows that well-designed combinations of words and 
 - Static-first: labeled diagrams with [Advance Organizers](../elements/advance-organizers.md) before any video, letting learners build structure before processing dynamic content
 - Simulation-based: interactive environments (e.g., PhET) where learners manipulate variables and observe outcomes, pairing illustration with guided inquiry
 - Learner-generated media: students create their own diagrams, videos, or [Analogies](../elements/analogies.md) to explain a concept, converting illustration into a generative activity
-- Contrast-based: side-by-side media comparing cases, which supports abstraction of the underlying principle [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Contrast-based: side-by-side media comparing cases, which supports abstraction of the underlying principle [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices, who benefit most from integrated words-and-pictures explanations that reduce unguided search [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]

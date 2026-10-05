@@ -19,7 +19,7 @@ Incorporating multiple and varying perspectives within learning content to honor
 
 ## Design Implications
 
-Representation is not decorative: who appears in examples, whose knowledge is treated as authoritative, and which contexts anchor problems all shape learners' sense of belonging and identification with the subject matter [~M]. Culturally responsive teaching links content to learners' cultural reference points and has been associated with stronger engagement and achievement for students from non-dominant backgrounds [~M]. Representation also functions cognitively: varied, contrasting cases across contexts support abstraction of underlying principles rather than binding concepts to a single surface context [Multiple contrasting cases support abstraction of underlying concepts.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Representation is not decorative: who appears in examples, whose knowledge is treated as authoritative, and which contexts anchor problems all shape learners' sense of belonging and identification with the subject matter [~M]. Culturally responsive teaching links content to learners' cultural reference points and has been associated with stronger engagement and achievement for students from non-dominant backgrounds [~M]. Representation also functions cognitively: varied, contrasting cases across contexts support abstraction of underlying principles rather than binding concepts to a single surface context [Multiple contrasting cases support abstraction of underlying concepts.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Representation is not decorative: who appears in examples, whose knowledge is tr
 
 ### Target Learners
 - Learners from non-dominant cultural, linguistic, or identity groups, who otherwise encounter few signals of belonging in the discipline [~M]
-- All learners, who benefit from encountering multiple framings and ways of knowing when forming general concepts [Multiple contrasting cases support abstraction of underlying concepts.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- All learners, who benefit from encountering multiple framings and ways of knowing when forming general concepts [Multiple contrasting cases support abstraction of underlying concepts.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Learners whose sense of academic self-efficacy is fragile; identity-affirming environments support persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Target Learning Goals

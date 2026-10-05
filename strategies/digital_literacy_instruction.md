@@ -53,7 +53,7 @@ Digital literacy is best taught through authentic tasks — real searches, real 
 ### Instructions
 1. Diagnose actual skills with an authentic task (find and evaluate a source on an unfamiliar topic), not a self-report survey
 2. [Model](../elements/coaching.md) expert search and evaluation moves aloud — lateral reading, checking authorship, comparing sources — making decisions visible
-3. Provide guided [Practice](../elements/practice.md) on curated sets of contrasting sources (credible, biased, sponsored, fabricated); [multiple contrasting cases support abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+3. Provide guided [Practice](../elements/practice.md) on curated sets of contrasting sources (credible, biased, sponsored, fabricated); [multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 4. Prompt learners to [articulate](../elements/articulation.md) why they judged a source credible or not; [self-explanation improves conceptual understanding](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 5. Assign an authentic creation task — a researched product for a real audience — with [assessment](../elements/assessment.md) criteria covering evaluation and creation, and [feedback at the task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 6. Revisit and re-practice across the term; [spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [+M]

@@ -42,7 +42,7 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 - [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+W]
-- [Multiple Contrasting Cases Support Abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- [Multiple Contrasting Cases Support Abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 
 ## Related Elements

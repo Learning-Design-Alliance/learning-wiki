@@ -37,7 +37,7 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 ### Context
 #### Requirements
 - Simple, reliable measurement tools (thermometers, timers) so data quality does not swamp conceptual reasoning
-- A comparison structure — at least two contrasting conditions per investigation, since [multiple contrasting cases support abstraction of the underlying principle](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- A comparison structure — at least two contrasting conditions per investigation, since [multiple contrasting cases support abstraction of the underlying principle](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Prediction and discussion phases before and after data collection, where [self-explanation improves conceptual understanding](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Teacher guidance that structures the question, variables, and interpretation rather than leaving learners to search aimlessly
 
@@ -65,7 +65,7 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 
 ### Instructions
 1. **Activate prior conceptions.** Pose a familiar question ("Why does a metal bench feel colder than a wooden one?") and collect predictions, surfacing misconceptions for later contrast.
-2. **Structure the comparison.** Present or co-design a fair test with two or more contrasting conditions; contrasting cases support abstraction of the conduction principle [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. **Structure the comparison.** Present or co-design a fair test with two or more contrasting conditions; contrasting cases support abstraction of the conduction principle [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. **Predict and commit.** Learners record predictions before data collection to maximize the impact of disconfirming evidence.
 4. **Collect data.** Use simple tools and pre-structured tables to keep measurement from overloading working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 5. **Explain and reconcile.** Learners explain results in their own words and compare against predictions; self-explanation at this step drives conceptual change [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

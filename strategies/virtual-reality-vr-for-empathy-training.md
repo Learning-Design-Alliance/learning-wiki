@@ -45,7 +45,7 @@ VR's contribution to empathy training is presence: the subjective sense of "bein
 - Professionals whose work requires empathic response under pressure (healthcare providers, financial services staff, teachers, social workers), where scenarios can mirror real caseloads
 - Learners with low baseline familiarity with a population or situation, where the embodied experience supplies concrete prior knowledge they lack
 - Less effective for learners who already know the population well — the simulation adds little information and may feel reductive [~W]
-- Evidence from adjacent media suggests narrative perspective-taking benefits are real but modest and strongest for engaged, transported readers [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Evidence from adjacent media suggests narrative perspective-taking benefits are real but modest and strongest for engaged, transported readers [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 
 ### Target Learning Goals
 - Perspective-taking: accurately inferring another person's thoughts, constraints, and emotions

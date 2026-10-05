@@ -21,7 +21,7 @@ Structured academic controversy is the element in which learners argue multiple 
 
 ### Affordances
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
-- [Debate](../principles/debate.md)
+- [Debate](../patterns/debate.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

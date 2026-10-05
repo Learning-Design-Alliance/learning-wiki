@@ -19,7 +19,7 @@ Alphabet books involve students creating entries for each letter of the alphabet
 
 ## Design Implications
 
-Alphabet books work because they force retrieval and elaboration rather than passive copying: a student must decide which word fits "M," explain it in their own words, and connect it to something concrete. Pairing verbal definitions with student-drawn representations leverages dual coding, which improves recall over words alone [Combining verbal and visual codes improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The alphabetic constraint also acts as a chunking and organizational scheme, giving novices a structure for an otherwise unbounded vocabulary list [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Alphabet books work because they force retrieval and elaboration rather than passive copying: a student must decide which word fits "M," explain it in their own words, and connect it to something concrete. Pairing verbal definitions with student-drawn representations leverages dual coding, which improves recall over words alone [Combining verbal and visual codes improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The alphabetic constraint also acts as a chunking and organizational scheme, giving novices a structure for an otherwise unbounded vocabulary list [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Alphabet books work because they force retrieval and elaboration rather than pas
 
 ### Target Learners
 - Upper elementary and middle school students building domain-specific vocabulary
-- English language learners, when paired with visuals and sentence frames — the dual verbal/visual format supports vocabulary acquisition [Combining verbal and visual codes improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- English language learners, when paired with visuals and sentence frames — the dual verbal/visual format supports vocabulary acquisition [Combining verbal and visual codes improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Less suitable for advanced learners who already command the vocabulary; the alphabetic format adds little beyond a glossary for them
 
 ### Target Learning Goals

@@ -35,7 +35,7 @@ Quotation instruction works because it makes the abstract norm of "support your 
 - Less applicable to narrative or personal writing genres where textual evidence plays a different role
 
 #### Implementation Variability
-- **Annotated models:** study mentor texts where published writers integrate quotes, comparing strong and weak integrations [Multiple contrasting cases support abstraction of the underlying criterion.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Annotated models:** study mentor texts where published writers integrate quotes, comparing strong and weak integrations [Multiple contrasting cases support abstraction of the underlying criterion.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Quote selection first:** students propose candidate quotes and justify choices in discussion before writing, separating selection from integration
 - **Gradual release:** teacher-modeled integration → collaborative integration → independent writing
 - **Cross-disciplinary transfer:** adapt the evidence move to history (primary sources), science (data claims), or mathematics (justifying solutions)

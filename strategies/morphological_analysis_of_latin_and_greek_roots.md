@@ -36,7 +36,7 @@ Morphological awareness is one of the strongest predictors of vocabulary growth 
 
 #### Implementation Variability
 - **Word-family approach:** teach one root with a cluster of derivatives (*port*: export, import, portable, transport) — supports abstraction of the root meaning
-- **Contrastive sets:** compare words sharing a root against similar-looking non-cognates to sharpen discrimination, echoing the logic of [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrastive sets:** compare words sharing a root against similar-looking non-cognates to sharpen discrimination, echoing the logic of [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Embedded vs. standalone:** morpheme analysis woven into content reading outperforms isolated etymology lessons [~M]
 - **Digital tools:** online etymological dictionaries and morpheme-building activities (e.g., vocabulary.com's root-based word webs) extend practice beyond the classroom
 

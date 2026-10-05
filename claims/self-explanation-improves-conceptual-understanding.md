@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self-explanation improves conceptual understanding and problem-solving performance.
+title: "Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains."
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -47,10 +47,11 @@ aliases: [eliciting-self-explanations-improves-understanding, self-explanation-p
 evidence_strength: strong
 ---
 
-# Self-explanation improves conceptual understanding and problem-solving performance.
+# Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r?`, 1 causal `r1`, 1 associational `r1` · `q2`–`q4` · `i2` medium
+<!-- deprecated title (2026-10-05, overstated its evidence): Self-explanation improves conceptual understanding and problem-solving performance. -->
 
 Generating explanations for oneself while studying worked examples or solving problems helps learners bridge gaps in their knowledge, integrate new information with prior schemas, and monitor their own comprehension.
 
@@ -61,7 +62,7 @@ Generating explanations for oneself while studying worked examples or solving pr
 
 `q4 i2` Across 69 effect sizes from 64 reports, prompting learners to self-explain while studying or solving problems improved learning outcomes by a moderate average amount (g = .55), across task types, subject areas and levels of education. [→ Bisra et al. 2018](#bisra-et-al-2018)
 
-`q3 i?` In mathematics, prompted self-explanation gives a small-to-moderate immediate improvement in procedural knowledge, conceptual knowledge and procedural transfer, but evidence for gains in classroom settings or after a delay is much more limited. [→ Rittle-Johnson et al. 2017](#rittle-johnson-2017)
+`q3 i?` In mathematics, prompted self-explanation gives a small-to-moderate immediate improvement in procedural knowledge, conceptual knowledge and procedural transfer, but evidence for gains in classroom settings or after a delay is much more limited. [→ Rittle-Johnson 2017](#rittle-johnson-2017)
 
 `q2 i?` Eighth-grade students prompted to self-explain each line of a text on the circulatory system gained more from pretest to posttest than students who read it twice, and those who explained most built the most accurate mental models. [→ Chi et al. 1994](#chi-et-al-1994)
 
@@ -113,7 +114,7 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 
 **Relation to other generative strategies.** Self-explanation belongs to a family of generative techniques — [annotating](annotating-improves-learning.md), summarizing, questioning — that share a common logic: learning improves when learners actively construct connections rather than receive them [+M]. What distinguishes self-explanation is its focus on *justifying* steps and *relating* representations, which makes it especially well suited to worked examples, [case-based learning](case-based-learning-improves-exam-performance.md), and step-by-step procedures where each step has an underlying rationale worth articulating.
 
-**Open questions.** The evidence entries for this claim still need to be added; until then, effect sizes, domain boundaries, and the durability of gains over time remain to be documented here. Key questions for future enrichment: how self-explanation compares with other generative strategies of equal time-on-task, whether prompted explanation produces durable gains or only momentary engagement, and how prompt structure should be faded as expertise develops.
+**Open questions.** <!-- deprecated (2026-10-05, stale): The evidence entries for this claim still need to be added; until then, effect sizes, domain boundaries, and the durability of gains over time remain to be documented here. --> Four studies are now recorded above: two meta-analyses (Bisra et al. 2018, g = .55 across task types and subjects; Rittle-Johnson 2017 in mathematics), one small controlled experiment (Chi et al. 1994) and one observational study (Chi et al. 1989). Domain boundaries and the durability of gains over time are still thinly documented: Rittle-Johnson 2017 finds evidence after a delay or in classrooms much more limited, and the moderator results of Bisra et al. are not recorded here. Key questions for future enrichment: how self-explanation compares with other generative strategies of equal time-on-task, whether prompted explanation produces durable gains or only momentary engagement, and how prompt structure should be faded as expertise develops.
 
 *Merged from “Eliciting Self Explanations Improves Understanding” (eliciting-self-explanations-improves-understanding):* **Mechanism.** Self-explanation prompts are usually understood through generative-learning logic: producing an explanation forces the learner to connect new information to what they already know, exposing gaps and repairing flawed mental models. This places self-explanation close to [Activation](activation-improves-learning.md) and [Analogical reasoning](analogical-reasoning-improves-transfer.md) as integration-supporting techniques.
 
@@ -121,7 +122,7 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 
 **Design implications.** Practitioners should (a) attach explanation prompts to specific steps or statements rather than asking for global summaries, (b) scaffold early prompts with sentence starters or principle cues and fade them as competence grows, and (c) avoid prompting explanation of material learners can already recite fluently — at that point the prompt is redundant effort with no integration payoff [~M]. Self-explanation pairs naturally with [worked examples](../elements/demonstration.md) and with [case-based learning](case-based-learning-improves-exam-performance.md), where prompts can direct attention to why a case or solution step unfolds as it does.
 
-**Open questions.** The durability of self-explanation effects over delayed tests, their interaction with learner expertise, and the relative value of self-generated versus instructional explanations remain active areas of investigation. Studies still need to be added to the Evidence section before the strength of this claim can be rated.
+**Open questions.** The durability of self-explanation effects over delayed tests, their interaction with learner expertise, and the relative value of self-generated versus instructional explanations remain active areas of investigation. <!-- deprecated (2026-10-05, stale): Studies still need to be added to the Evidence section before the strength of this claim can be rated. --> The four studies recorded above test immediate learning; none of them settles delayed retention or the interaction with expertise.
 
 *Merged from “Self Explanation Prompts Improve Learning” (self-explanation-prompts-improve-learning):* **Mechanism.** Self-explanation prompts work by forcing learners to go beyond passive restatement: they map new information onto prior knowledge, expose gaps in understanding, and help learners infer the underlying principles behind worked steps or textual claims. This aligns with the broader generative-learning position that learning improves when learners actively construct connections rather than receive explanations — see [Activation improves learning](activation-improves-learning.md) [+M] and [Active learning improves exam performance](active-learning-improves-exam-performance.md) [+S].
 

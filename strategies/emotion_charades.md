@@ -36,7 +36,7 @@ Emotion recognition is a foundational component of social-emotional competence, 
 
 #### Implementation Variability
 - **Emotion-only rounds** (act *surprised*) for younger students; **scenario rounds** (act out "you dropped your ice cream") to connect emotions to triggers
-- **Contrasting pairs**: two actors portray closely related emotions simultaneously, and the group identifies the difference — a direct application of contrasting-case design [multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting pairs**: two actors portray closely related emotions simultaneously, and the group identifies the difference — a direct application of contrasting-case design [multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Cultural extension**: discuss how the same emotion is expressed differently across cultures and contexts, guarding against the assumption that nonverbal cues are universal [~M]
 - **Digital adaptation**: students photograph or record posed expressions for a class "emotion gallery," useful for students reluctant to perform live
 

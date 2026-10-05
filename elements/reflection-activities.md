@@ -46,7 +46,7 @@ Reflection activities are structured tasks that ask learners to examine what the
 - [Self-Assessment](self-assessment.md)
 
 ## Patterns That Use This Element
-- [Reflective Practice](../patterns/reflective-practice.md)
+- [Reflective Practice](../principles/reflection.md)
 - [Journaling](../patterns/journaling.md)
 
 ## Examples

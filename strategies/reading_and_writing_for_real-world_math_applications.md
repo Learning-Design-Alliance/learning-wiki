@@ -55,7 +55,7 @@ Reading authentic quantitative texts builds the connection between abstract math
 2. **Activate prior knowledge.** Before reading, surface the mathematical concepts the article will use ([Activation](../principles/activation.md)).
 3. **Read with annotation.** Learners mark quantities, relationships, and claims using a structured [Annotating](../principles/annotating.md) protocol.
 4. **Summarize mathematically.** Learners write a short summary that names the mathematical ideas, explains how they function in the context, and notes any assumptions or limitations.
-5. **Discuss and compare.** Learners share summaries; contrasting interpretations across readers of the same text supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+5. **Discuss and compare.** Learners share summaries; contrasting interpretations across readers of the same text supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 6. **Connect back.** Close by linking the article's mathematics to a related classroom problem or [Application](../elements/application.md) task.
 
 ## Related Strategies

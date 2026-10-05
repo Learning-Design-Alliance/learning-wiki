@@ -103,7 +103,7 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Purposeful Reflection](../principles/purposeful-reflection.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 
 ### Personalization
 - The number of models and complexity of the evidence can be adjusted by learner readiness.

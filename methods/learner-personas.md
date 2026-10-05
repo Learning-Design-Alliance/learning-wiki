@@ -47,7 +47,7 @@ Personas improve design decisions by forcing explicit, testable assumptions abou
 
 ### Target Learning Goals
 - Not tied to specific learning objectives; personas serve the design process, not the curriculum
-- Especially relevant for goals requiring differentiated support: [Adaptive Learning](../patterns/adaptive-learning.md) design, accessibility planning, and motivation-sensitive designs grounded in [Autonomy](../principles/autonomy.md) and [Belonging](../elements/belonging.md)
+- Especially relevant for goals requiring differentiated support: [Adaptive Learning](../principles/adaptive-learning.md) design, accessibility planning, and motivation-sensitive designs grounded in [Autonomy](../principles/autonomy.md) and [Belonging](../elements/belonging.md)
 
 ### Instructions
 1. Gather evidence: run learner interviews, surveys, and LMS analytics; segment the audience by instructionally relevant variables (prior knowledge, time availability, language background).

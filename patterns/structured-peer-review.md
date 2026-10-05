@@ -90,7 +90,7 @@ The pattern works best when the review process is designed carefully. Unstructur
 - [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 - [Process-Based Writing](../principles/process-based-writing.md)

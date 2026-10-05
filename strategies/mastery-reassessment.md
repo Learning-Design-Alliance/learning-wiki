@@ -61,7 +61,7 @@ Reassessment aligns grading with the mastery learning finding that most learners
 ## Related Strategies
 - [Formative Assessment](../patterns/formative-assessment.md) — reassessment is the grading-policy extension of formative assessment cycles
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — reassessment operationalizes the competency principle that advancement depends on demonstrated proficiency, not seat time
-- [Adaptive Learning](../patterns/adaptive-learning.md) — adaptive systems automate the diagnose-remediate-reassess loop
+- [Adaptive Learning](../principles/adaptive-learning.md) — adaptive systems automate the diagnose-remediate-reassess loop
 
 ## Examples
 **[Khan Academy](https://www.khanacademy.org)** — Mastery system in which skill levels can decay and learners re-demonstrate proficiency through new exercise sets, with hints and videos serving as the corrective layer.

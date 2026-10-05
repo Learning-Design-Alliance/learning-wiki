@@ -40,7 +40,7 @@ The framework organizes practice into three phases, summarized in Table 1 as cri
 
 - [Deeper processing of target language improves lexical retention and long-term learning](../claims/depth-of-processing-improves-l2-retention.md) [+W]
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](../claims/desirable-difficulty-enhances-long-term-retention.md) [+W]
-- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](../claims/education-dp-4-5-percent-variance.md) [+W]
+- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](../claims/deliberate-practice-improves-performance.md) [+W]
 - [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](../claims/quality-ocll-meaning-form-synergy-higher-grades.md) [+W]
 - [Structured repetition gains in fluency depend on repeating the same task](../claims/structured-repetition-fluency-task-specific.md) [+W]
 

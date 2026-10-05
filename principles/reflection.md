@@ -90,6 +90,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Elaborated discussion of narrated emotions supports teacher professional learning](../claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) [+W] — for teacher professional learning specifically, reflection that surfaces and probes the *emotional* dimension of a teaching episode (see [Narrated Emotional Storytelling](../strategies/narrated-emotional-storytelling-in-teacher-pd.md)), not just the behavioral or cognitive one, was associated with groups revising their understanding
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M] — reflective practice that explicitly targets how a problem of practice is *framed* (see [Designerly Stances](../theories/designerly-stances.md)), not just what happened, moved pre-service teachers toward more systemic and stakeholder-centered responses
 
 ## Objective and learner-valued goal
 
@@ -112,6 +114,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - Post-task reflection that identifies one strong move, one weak move, and one next adjustment.
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
 - [Schon's design-studio practicum as a reflective learning environment](../elements/schon-design-studio-practicum.md)
+- Post-practicum debriefs that identify one concrete change for the next round.
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
@@ -219,7 +222,7 @@ Reflective practice matters most in domains where improvement depends on interpr
 - [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
 
 ## Related Patterns
-- [Reflective Practice](../patterns/reflective-practice.md)
+- [Reflective Practice](reflection.md)
 - [LDA Reflection](../patterns/lda-reflection.md)
 
 ## Examples
@@ -228,7 +231,7 @@ Reflective practice matters most in domains where improvement depends on interpr
 
 ### Illustrative
 
-**[Reflective Practice](../patterns/reflective-practice.md)** — A structured cycle of action, analysis, adjustment, and re-application.
+**[Reflective Practice](reflection.md)** — A structured cycle of action, analysis, adjustment, and re-application.
 
 **[Video-Based Reflection](../elements/video-based-reflection.md)** — Learners review a recording of their own performance, identify decision points, and name one concrete change for the next attempt.
 
@@ -237,4 +240,68 @@ Reflective practice matters most in domains where improvement depends on interpr
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning experience into learning*. Kogan Page.
+-->
+
+<!-- merged 2026-10-05 from patterns/reflective-practice ("Reflective Practice"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Reflective Practice
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 4 studies (1 review, 1 qualitative, 1 design, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 2 claims rest on one study
+
+## Description
+Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance. It is useful when improvement depends on learning from experience rather than only receiving external correction.
+
+## Implications
+
+### Context
+#### Requirements
+- **A meaningful experience or performance to examine**
+- **Prompts or frameworks for analysis**
+- **A clear link from reflection to future action**
+#### Constraints
+- **Reflection without action can stall**
+- **Unstructured reflection often stays superficial**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- Improve judgment, adaptation, and professional growth.
+
+### Target Learners
+- Learners and practitioners who need to improve through cycles of action and review.
+
+### Theory
+#### Supporting
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/self-regulated-learning.md)
+
+### Claims
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Elaborated discussion of narrated emotions supports teacher professional learning](../claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) [+W] — for teacher professional learning specifically, reflection that surfaces and probes the *emotional* dimension of a teaching episode (see [Narrated Emotional Storytelling](../strategies/narrated-emotional-storytelling-in-teacher-pd.md)), not just the behavioral or cognitive one, was associated with groups revising their understanding
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M] — reflective practice that explicitly targets how a problem of practice is *framed* (see [Designerly Stances](../theories/designerly-stances.md)), not just what happened, moved pre-service teachers toward more systemic and stakeholder-centered responses
+
+## Design
+
+### Sequence
+1. Act or perform.
+2. Analyze what happened and why.
+3. Identify a concrete adjustment.
+4. Apply that adjustment in the next attempt.
+
+### Elements Used
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Metacognitive Strategies](../elements/metacognitive-strategies.md)
+- [Feedback](../elements/feedback.md)
+
+### Affordances
+- [Reflection](../principles/reflection.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+
+## Examples
+- Post-practicum debriefs that identify one concrete change for the next round.
+
+## Key Sources
+- Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
 -->

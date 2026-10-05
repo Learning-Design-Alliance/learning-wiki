@@ -38,7 +38,7 @@ Explicit instruction outperforms incidental exposure for teaching specific word 
 - **Pre-teaching before reading**: teaching 5–10 key words before a text to remove comprehension barriers ([Advance Organizers](../elements/advance-organizers.md) framing)
 - **Robust vocabulary routines**: extended multi-day sequences with multiple meaning contexts and interactive engagement (Beck et al., 2013)
 - **Morphological analysis**: teaching roots, prefixes, and suffixes as a generative strategy for unfamiliar words [+M]
-- **Frayer model / semantic mapping**: graphic organizers connecting new words to related concepts ([Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M])
+- **Frayer model / semantic mapping**: graphic organizers connecting new words to related concepts ([Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M])
 - **Embedded multimedia**: gestures, images, and video supporting word meaning, especially for multilingual learners
 
 ### Target Learners

@@ -93,7 +93,7 @@ Two documented variants differ in when specialization happens. In the original v
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Communities of Practice](../principles/communities-of-practice.md)
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
-- [Mentoring/Coaching](../principles/mentoringcoaching.md)
+- [Mentoring/Coaching](../principles/mentoring-and-coaching.md)
 
 ### Personalization
 - Different learners can take roles aligned with interest or readiness.

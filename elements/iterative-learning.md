@@ -49,7 +49,7 @@ Iterative learning is the element in which learners improve through repeated cyc
 
 ## Patterns That Use This Element
 - [Mastery Learning](../patterns/mastery-learning.md)
-- [Reflective Practice](../patterns/reflective-practice.md)
+- [Reflective Practice](../principles/reflection.md)
 
 ## Key Sources
 - Kolodner, J. L. (1983). Towards an understanding of the role of experience in the evolution from novice to expert. *International Journal of Man-Machine Studies, 19*(5), 497-518.

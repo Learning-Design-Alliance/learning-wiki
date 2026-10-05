@@ -31,7 +31,7 @@ Structured debate is the element in which learners examine opposing claims using
 - Build argument quality, evidence use, and perspective comparison.
 
 ### Affordances
-- [Debate](../principles/debate.md)
+- [Debate](../patterns/debate.md)
 - [Perspective-Taking](../principles/perspective-taking.md)
 - [Social Learning](../theories/sociocultural-theory.md)
 

@@ -49,7 +49,7 @@ Journaling is the pattern-level target for recurring written reflection used to 
 - [Individual Reflection](../elements/individual-reflection.md)
 
 ## Related Patterns
-- [Reflective Practice](reflective-practice.md)
+- [Reflective Practice](../principles/reflection.md)
 
 ## Key Sources
 - Moon, J. A. (2006). *Learning journals*. Routledge.

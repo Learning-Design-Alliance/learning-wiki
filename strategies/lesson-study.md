@@ -43,7 +43,7 @@ Lesson Study works because it converts teaching into a site of systematic inquir
 ### Target Learners
 - The "learners" in lesson study are teachers, from novice to veteran; novices gain exposure to expert reasoning about student thinking, while veterans gain structured opportunities to articulate tacit knowledge (a form of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) for teachers)
 - Whole-school adoption works best when teams share students or curriculum, so insights from one cycle transfer to colleagues' classrooms
-- Comparing how different students respond to the same lesson across re-teachings functions like contrasting cases, supporting abstraction of general principles about learning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Comparing how different students respond to the same lesson across re-teachings functions like contrasting cases, supporting abstraction of general principles about learning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Teacher pedagogical content knowledge: anticipating and interpreting student misconceptions

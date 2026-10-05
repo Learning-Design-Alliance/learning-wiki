@@ -45,7 +45,7 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - Transfer: recognizing when abstract principles apply across varied surface contexts [Cognitive flexibility theory supports learning from multiple cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+W]
 
 ### Affordances
-- [Situated Learning](../principles/situated-learning.md) — cases embed knowledge in the authentic contexts and practices of a discipline, so learning is tied to the situations of use rather than to decontextualized abstractions
+- [Situated Learning](../theories/situated-learning.md) — cases embed knowledge in the authentic contexts and practices of a discipline, so learning is tied to the situations of use rather than to decontextualized abstractions
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — case analysis followed by expert debrief makes disciplinary thinking visible; learners practice articulation and reasoning that experts model during debrief
 - [Active Learning](../principles/active-learning.md) — learners must generate analyses, decisions, and justifications rather than receive explanations, producing the retrieval and elaboration that drive retention
 - [Cognitive Flexibility](../principles/cognitive-flexibility.md) — multiple cases illustrating the same concept from different angles prepare learners to apply it flexibly across varied situations

@@ -117,7 +117,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence
 - [Perspective-Taking](perspective-taking.md) — learners often need to compare competing interpretations and standards
-- [Debate](debate.md) — argument-focused settings often require explicit epistemic norms to stay productive
+- [Debate](../patterns/debate.md) — argument-focused settings often require explicit epistemic norms to stay productive
 - [Collaborative Critique and Redesign of Flawed Studies](../strategies/collaborative-critique-and-redesign-of-flawed-studies.md) — a concrete instructional strategy for developing evidence-evaluation ideals in psychology/social-science instruction
 
 ## Examples

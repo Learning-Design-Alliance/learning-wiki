@@ -118,7 +118,7 @@ A better verdict on new sites, a better reason, durability over months, and chan
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality
 - [Annotating](annotating.md) — annotation can focus attention on credibility signals, claims, and evidence
 - [Clear Structure & Presentation](clear-structure.md) — learners need explicit frameworks for evaluation, not just warnings about misinformation
-- [Debate](debate.md) — debates become more rigorous when learners are accountable for source quality, not just rhetorical performance
+- [Debate](../patterns/debate.md) — debates become more rigorous when learners are accountable for source quality, not just rhetorical performance
 - [Epistemic Cognition](epistemic-cognition.md) — the general model (teach the standard for one kind of evidence; gains stay with the standard taught) that this page applies to source credibility
 
 ## Examples
@@ -188,7 +188,7 @@ Evaluating sources improves learning when learners move beyond surface cues and 
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry quality depends on source quality
 - [Annotating](annotating.md) — annotation can focus attention on credibility signals, claims, and evidence
 - [Clear Structure & Presentation](clear-structure.md) — learners need explicit frameworks for evaluation, not just warnings about misinformation
-- [Debate](debate.md) — debates become more rigorous when learners are accountable for source quality, not just rhetorical performance
+- [Debate](../patterns/debate.md) — debates become more rigorous when learners are accountable for source quality, not just rhetorical performance
 
 ## Examples
 -->

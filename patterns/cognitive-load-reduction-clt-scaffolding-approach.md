@@ -96,7 +96,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md)
 - [Guided Practice](../principles/guided-practice.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 - [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ### Personalization

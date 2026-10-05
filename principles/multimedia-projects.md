@@ -73,7 +73,7 @@ Multimedia projects are valuable when the medium choices themselves become part 
 ## Related Principles
 
 - [Multimodal Instruction](multimodal-instruction.md) — multimedia projects extend multimodal input into multimodal production.
-- [Creating Visual Representations](creating-visual-representations.md) — many multimedia projects rely on visual representation as part of explanation.
+- [Creating Visual Representations](dual-coding.md) — many multimedia projects rely on visual representation as part of explanation.
 - [Process-Based Writing](process-based-writing.md) — multimedia composition still benefits from drafting, feedback, and revision cycles.
 - [Learner Choice](learner-choice.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
 - [Multimedia literacy is developed through producing multimedia](multimedia-literacy-through-production.md)

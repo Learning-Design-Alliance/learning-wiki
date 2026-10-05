@@ -87,9 +87,9 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ### Affordances
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
-- [Case Studies/Case-Based Learning](../principles/case-studiescase-based-learning.md)
+- [Case Studies/Case-Based Learning](../patterns/case-based-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 
 ### Personalization
 - Learners can explore different case pathways while still returning to shared synthesis prompts.

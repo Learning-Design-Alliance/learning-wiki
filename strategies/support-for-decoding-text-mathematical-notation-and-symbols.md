@@ -36,7 +36,7 @@ Decoding is a resource-consuming process: until word recognition and symbol inte
 #### Implementation Variability
 - **Text decoding:** glossaries, embedded vocabulary support, [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) editing, text-to-speech, audiobook pairings
 - **Mathematical notation:** side-by-side translation of notation into natural language, color-coding symbol roles, worked examples that annotate what each symbol represents
-- **Domain symbols (chemistry, music, logic):** symbol keys, [Chunking](../principles/chunking.md) of symbol strings into meaningful units, [Multiple contrasting cases to support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Domain symbols (chemistry, music, logic):** symbol keys, [Chunking](../principles/chunking.md) of symbol strings into meaningful units, [Multiple contrasting cases to support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Digital environments:** hover definitions, toggleable notation layers, adjustable reading level
 
 ### Target Learners

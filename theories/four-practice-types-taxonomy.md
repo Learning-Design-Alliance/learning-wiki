@@ -37,7 +37,7 @@ Drawing on Ericsson and Pool (2016) and Ericsson (2020), the article presents a 
 
 ### Claims
 
-- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](../claims/education-dp-4-5-percent-variance.md) [+W]
+- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](../claims/deliberate-practice-improves-performance.md) [+W]
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W]
 - [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
 

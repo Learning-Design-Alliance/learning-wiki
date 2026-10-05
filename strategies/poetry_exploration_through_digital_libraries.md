@@ -37,7 +37,7 @@ Multimodal presentation of poetry aligns with dual coding: hearing a poem perfor
 #### Implementation Variability
 - **Listen-first:** play a performance before showing text to build anticipation and attention to sound
 - **Read-first:** silent reading and annotation before hearing a performance, then compare interpretations
-- **Comparison sets:** curate 2–3 poems on one theme or in one form to support abstraction across cases [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison sets:** curate 2–3 poems on one theme or in one form to support abstraction across cases [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Student curation:** older learners build their own themed collections, shifting from consumer to curator
 
 ### Target Learners

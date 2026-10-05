@@ -44,7 +44,7 @@ The author argues that coaching relationships begin when coaches join teachers a
 
 - [Find each teacher's strengths and entry point before asking for instructional change](find-strengths-and-entry-points-per-teacher.md)
 - [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
-- [Respond to student writing as an interested reader rather than only as an evaluator](respond-as-a-reader.md)
+- [Respond to student writing as an interested reader rather than only as an evaluator](process-based-writing.md)
 
 ## Examples
 

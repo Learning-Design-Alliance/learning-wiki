@@ -87,7 +87,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 
 ## Related Principles
 - [Ask Experts](ask-experts.md) — communities widen access to expertise beyond isolated expert encounters
-- [Mentoring/Coaching](mentoringcoaching.md) — mentoring relationships often serve as entry points into a broader practice community
+- [Mentoring/Coaching](mentoring-and-coaching.md) — mentoring relationships often serve as entry points into a broader practice community
 - [Peer Discussion](peer-discussion.md) — discussion is one mechanism communities use, but not the whole structure
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — communities provide real audiences, norms, and feedback loops for learner work
 

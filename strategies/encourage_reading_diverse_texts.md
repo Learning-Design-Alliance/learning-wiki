@@ -19,7 +19,7 @@ Learners read a wide range of text types — narrative, informational, argumenta
 
 ## Design Implications
 
-Exposure to varied text structures builds the genre knowledge and vocabulary that underpin academic comprehension, and discussing texts converts passive exposure into productive language use [~M]. The sequence matters: reading followed by structured thinking and talking about different genres is a robust routine for acquiring academic language, because talk forces learners to rehearse discipline-specific registers rather than merely recognize them. Text diversity also supports transfer, since learners must repeatedly map ideas across different structures and perspectives [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Exposure to varied text structures builds the genre knowledge and vocabulary that underpin academic comprehension, and discussing texts converts passive exposure into productive language use [~M]. The sequence matters: reading followed by structured thinking and talking about different genres is a robust routine for acquiring academic language, because talk forces learners to rehearse discipline-specific registers rather than merely recognize them. Text diversity also supports transfer, since learners must repeatedly map ideas across different structures and perspectives [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

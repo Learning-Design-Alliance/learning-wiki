@@ -19,7 +19,7 @@ Comparing cases asks learners to examine two or more worked instances — proble
 
 ## Design Implications
 
-Comparison is one of the most reliable routes to schema abstraction, because variation across cases isolates which features are incidental and which are structural [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Comparisons also prompt self-explanation, which independently improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design burden is on case selection and alignment: cases must be isomorphic enough to map onto each other, and learners need explicit prompts to compare rather than merely read each case in sequence.
+Comparison is one of the most reliable routes to schema abstraction, because variation across cases isolates which features are incidental and which are structural [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Comparisons also prompt self-explanation, which independently improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design burden is on case selection and alignment: cases must be isomorphic enough to map onto each other, and learners need explicit prompts to compare rather than merely read each case in sequence.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Comparison is one of the most reliable routes to schema abstraction, because var
 - **Invention before comparison:** learners attempt to invent a solution first, then compare cases — the "time for telling" sequence that prepares learners to benefit from instruction
 
 ### Target Learners
-- Novices, who otherwise encode only surface features of a single example [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Novices, who otherwise encode only surface features of a single example [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Learners prone to overgeneralizing from one instance or anchoring to a single solution method
 - Intermediate learners comparing alternative solution strategies; less valuable for experts, for whom a single case suffices [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 

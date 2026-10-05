@@ -60,7 +60,7 @@ The strategy works by making an invisible curriculum visible: media selections l
 6. Optionally extend into production: learners create or re-imagine media that addresses the gaps they identified ([Act It Out](../elements/act-it-out.md) or media creation).
 
 ## Related Strategies
-- [Case Studies](../principles/case-studiescase-based-learning.md) — media examples function as short cases; the same observe-analyze-generalize arc applies
+- [Case Studies](../patterns/case-based-learning.md) — media examples function as short cases; the same observe-analyze-generalize arc applies
 - [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — the strategy depends on learners drawing on lived experience with media as prior knowledge
 
 ## Examples

@@ -38,7 +38,7 @@ Drawing is a generative activity: constructing an external visual representation
 - **Pre-instruction drawings** surface prior conceptions and misconceptions before teaching begins
 - **Mid-unit drawings** (e.g., "draw the process so far") act as a check-in comparable to other [check-ins](../principles/check-ins.md)
 - **Model revision** — asking learners to redraw after instruction makes conceptual change visible and doubles as a [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunity
-- **Comparative drawing** — having students compare their drawings with peers' exposes alternative representations and supports abstraction from [multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparative drawing** — having students compare their drawings with peers' exposes alternative representations and supports abstraction from [multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Middle and high school students, and adults; the technique scales across ages when prompts are calibrated

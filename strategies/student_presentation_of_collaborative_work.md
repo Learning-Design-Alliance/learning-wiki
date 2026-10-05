@@ -19,7 +19,7 @@ After completing a collaborative problem-solving task, groups project their work
 
 ## Design Implications
 
-Presenting group work requires learners to reconstruct and verbalize their reasoning, which functions as a form of [self-explanation](../elements/self-explanation.md) and deepens conceptual understanding [Explaining material to oneself improves conceptual learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The public, audience-facing structure also raises accountability within groups and gives the class access to multiple solution approaches for comparison — a form of contrasting cases that supports abstraction of general principles [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Presenting group work requires learners to reconstruct and verbalize their reasoning, which functions as a form of [self-explanation](../elements/self-explanation.md) and deepens conceptual understanding [Explaining material to oneself improves conceptual learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The public, audience-facing structure also raises accountability within groups and gives the class access to multiple solution approaches for comparison — a form of contrasting cases that supports abstraction of general principles [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

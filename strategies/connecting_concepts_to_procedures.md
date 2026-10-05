@@ -38,7 +38,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 - **Concepts-first:** develop the conceptual model, then formalize the procedure (common in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md))
 - **Procedures-first with retroactive connection:** teach the algorithm, then unpack why it works — efficient when the procedure is simple but the concept is abstract
 - **Interleaved/iterative:** alternate between the two across a unit, the design most consistent with the bidirectional-development evidence [+M]
-- **Comparison-based:** present two procedures side by side and ask what conceptual difference explains their difference [Comparing multiple cases supports abstraction of the underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison-based:** present two procedures side by side and ask what conceptual difference explains their difference [Comparing multiple cases supports abstraction of the underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices in a domain, who otherwise memorize algorithms they cannot adapt or debug [Self-explanation of why steps work improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

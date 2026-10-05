@@ -38,7 +38,7 @@ Vocabulary knowledge is one of the strongest predictors of academic reading comp
 #### Implementation Variability
 - **Just-in-time mini-lessons:** introduce vocabulary at the moment a text or task requires it, tying meaning to immediate use
 - **Morphological analysis:** teach roots, prefixes, and suffixes so students can decompose unfamiliar academic words independently
-- **Frayer models and semantic mapping:** students define, exemplify, and contrast target words; contrasting cases supports abstraction of word meaning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Frayer models and semantic mapping:** students define, exemplify, and contrast target words; contrasting cases supports abstraction of word meaning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Peer talk structures:** structured discussion protocols require use of target terms before formal writing
 - **Embedded glossaries and digital supports:** hyperlinked definitions in project documents for self-service support
 

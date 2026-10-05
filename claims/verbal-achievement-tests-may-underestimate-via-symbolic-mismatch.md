@@ -46,7 +46,7 @@ Theoretical argument advanced in the review's problem statement: because instruc
 - [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) — related
 - [Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms](minority-testing-research-neglects-alternative-symbolic-forms.md) — related
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — related
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
+- [Dual Coding Improves Recall](dual-coding-improves-learning.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — a narrower finding that bears on this claim
 - [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related

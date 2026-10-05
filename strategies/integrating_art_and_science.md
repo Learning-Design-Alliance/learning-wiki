@@ -55,7 +55,7 @@ Arts integration works largely because it forces generative, multimodal encoding
 - Visual arts dominant: scientific illustration, model-building, data-as-art (e.g., [Gurnon et al., 2013](https://doi.org/10.1371/journal.pbio.1001491) describe undergraduate studio-biology courses pairing drawing and sculpture with cell biology and physics)
 - Performing arts: dance and gesture to embody processes (molecular motion, life cycles, planetary orbits)
 - Arts as observation training: sketching from nature or microscopy to sharpen scientific noticing and [Annotating](../principles/annotating.md)
-- Learner-generated vs. expert-analyzed: students create art, or students analyze how professional artists and scientific illustrators represent the same phenomena ([Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md))
+- Learner-generated vs. expert-analyzed: students create art, or students analyze how professional artists and scientific illustrators represent the same phenomena ([Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md))
 
 ### Target Learners
 - Elementary and middle-school learners, where multimodal and embodied encoding has the strongest documented retention effects [Hardiman et al., 2014](https://doi.org/10.1111/mbe.12050) [+M]

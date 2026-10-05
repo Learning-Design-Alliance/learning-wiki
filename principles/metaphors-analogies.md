@@ -71,7 +71,7 @@ Metaphors and analogies work because they let learners reason from a known struc
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md) — analogies often become more useful when represented visually.
+- [Creating Visual Representations](dual-coding.md) — analogies often become more useful when represented visually.
 - [Graphic Organizers](graphic-organizers.md) — organizers can help learners map which parts of an analogy align and where it breaks.
 - [Explaining Their Thinking](self-explanation.md) — asking learners to explain an analogy surfaces whether the mapping is actually understood.
 - [Inquiry-based Learning](inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.

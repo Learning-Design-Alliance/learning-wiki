@@ -19,7 +19,7 @@ This strategy embeds target content in real-world current events or in fictional
 
 ## Design Implications
 
-Narrative and situational context give learners a structure for organizing new information and increase situational interest, which sustains attention and engagement [Interest supports engagement and learning when it directs attention to content.](../claims/activation-improves-learning.md) [+M]. Anchoring instruction in a realistic event or scenario improves problem-solving transfer because learners encode knowledge in the context where it must later be used [Anchored instruction improves transfer by embedding knowledge in realistic problem contexts.](../patterns/anchored-instruction.md) [+M]. Fictional narratives additionally support social-cognitive outcomes: reading and reasoning about characters improves perspective-taking and empathy [Fiction reading improves empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [+M]. The context must do real instructional work — carrying the target concepts — rather than serving as decoration [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M].
+Narrative and situational context give learners a structure for organizing new information and increase situational interest, which sustains attention and engagement [Interest supports engagement and learning when it directs attention to content.](../claims/activation-improves-learning.md) [+M]. Anchoring instruction in a realistic event or scenario improves problem-solving transfer because learners encode knowledge in the context where it must later be used [Anchored instruction improves transfer by embedding knowledge in realistic problem contexts.](../patterns/anchored-instruction.md) [+M]. Fictional narratives additionally support social-cognitive outcomes: reading and reasoning about characters improves perspective-taking and empathy [Fiction reading improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The context must do real instructional work — carrying the target concepts — rather than serving as decoration [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Narrative and situational context give learners a structure for organizing new i
 ### Target Learners
 - Novices who lack real-world examples to connect to abstract content and benefit from a provided concrete anchor [Graphic organizers and provided supports help novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - Learners with low initial interest in the domain, for whom narrative and relevance raise engagement [Situational interest can trigger engagement that develops into individual interest.](../claims/activation-improves-learning.md) [+W]
-- Learners developing social-emotional competencies, where character perspective-taking is itself a target [Fiction reading improves empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Learners developing social-emotional competencies, where character perspective-taking is itself a target [Fiction reading improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 
 ### Target Learning Goals
 - Concept application: using disciplinary concepts to interpret real or realistic situations

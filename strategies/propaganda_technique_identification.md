@@ -19,7 +19,7 @@ Learners are first taught a named taxonomy of propaganda techniques (e.g., bandw
 
 ## Design Implications
 
-The strategy works by pairing explicit category instruction with application to authentic artifacts, so learners build a discrimination schema rather than a memorized list. Naming techniques supports transfer because labels act as retrieval cues that learners can apply to novel media [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Contrasting multiple advertisements that use the same technique — and single ads that use several — helps learners abstract the underlying feature rather than surface characteristics [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works by pairing explicit category instruction with application to authentic artifacts, so learners build a discrimination schema rather than a memorized list. Naming techniques supports transfer because labels act as retrieval cues that learners can apply to novel media [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Contrasting multiple advertisements that use the same technique — and single ads that use several — helps learners abstract the underlying feature rather than surface characteristics [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

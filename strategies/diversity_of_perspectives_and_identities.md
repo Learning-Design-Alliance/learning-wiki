@@ -36,7 +36,7 @@ Exposure to diverse perspectives improves complex thinking: students in diverse 
 
 #### Implementation Variability
 - **Curricular representation:** diversifying authors, cases, and worked examples across the syllabus
-- **Perspectival comparison:** [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) built from differing cultural, disciplinary, or stakeholder viewpoints
+- **Perspectival comparison:** [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) built from differing cultural, disciplinary, or stakeholder viewpoints
 - **Structured dialogue:** [Debate](../patterns/debate.md) with [Assigned Positions](../elements/assigned-positions.md) forcing learners to argue perspectives they did not bring
 - **Community-embedded:** [Community-Based Learning](../principles/community-based-learning.md) partnerships that bring outside perspectives into the course
 
@@ -47,13 +47,13 @@ Exposure to diverse perspectives improves complex thinking: students in diverse 
 
 ### Target Learning Goals
 - Critical thinking and perspective-taking: evaluating claims from multiple standpoints [Bowman (2010) linked diversity coursework and interaction to gains in critical thinking.](https://journals.sagepub.com/doi/10.1177/0091552110378239) [+M]
-- Conceptual abstraction: contrasting cases built from diverse contexts support identifying deep structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Conceptual abstraction: contrasting cases built from diverse contexts support identifying deep structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Empathy and identity development: understanding others' experiences and one's own position [Building Empathy](../principles/building-empathy.md)
 
 ### Instructions
 1. Audit existing materials for whose perspectives are represented and whose are absent; replace or supplement examples accordingly.
 2. Select or construct [Case Studies](../elements/case-studies.md) that embed genuine stakeholder disagreement rather than consensus narratives.
-3. Structure comparison explicitly — use [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) with prompts asking learners to identify what varies and what is invariant across perspectives.
+3. Structure comparison explicitly — use [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) with prompts asking learners to identify what varies and what is invariant across perspectives.
 4. Facilitate [Class Discussion](../elements/class-discussion.md) with norms that require evidence and perspective-taking, using [Assigned Positions](../elements/assigned-positions.md) or [Argumentation](../elements/argumentation.md) structures to move learners beyond their default viewpoints.
 5. Use [Check-In](../elements/check-in.md) routines to monitor whether all learners are participating and whether discussion is producing engagement or withdrawal.
 

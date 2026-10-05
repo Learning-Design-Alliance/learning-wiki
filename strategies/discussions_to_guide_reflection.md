@@ -44,7 +44,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 ### Target Learners
 - Learners old enough to verbalize metacognition — reflection discussions are less effective with very young children whose metacognitive vocabulary is still developing [~M]
 - Learners who benefit from externalizing half-formed ideas; quieter learners may need written or paired formats first
-- Mixed-ability groups, where hearing a peer's contrasting strategy supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Mixed-ability groups, where hearing a peer's contrasting strategy supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Metacognition and self-regulated learning: recognizing one's own strategies, errors, and growth [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]

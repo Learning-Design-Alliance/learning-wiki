@@ -83,7 +83,7 @@ This pattern can be highly effective for incremental skill development, especial
 ### Affordances
 - [Game-Based Learning](../principles/game-based-learning.md)
 - [Immediate Feedback](../principles/immediate-feedback.md)
-- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
 - [Self-monitoring](../principles/self-monitoring.md)
 
 ### Personalization

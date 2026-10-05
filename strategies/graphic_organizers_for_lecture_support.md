@@ -19,7 +19,7 @@ Instructors deliver lectures using a graphic organizer — a concept map, matrix
 
 ## Design Implications
 
-Graphic organizers exploit the dual-channel capacity of working memory: presenting relational structure spatially alongside verbal explanation improves recall and inference compared with verbal-only presentation [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-recall.md) [+S]. Meta-analytic evidence shows graphic organizers outperform text-only or outline-based presentation, particularly when they make relationships (hierarchy, causality, comparison) explicit rather than merely decorating the content [Graphic organizers improve learning outcomes compared with text-only instruction.](../claims/advance-organizers-improve-learning.md) [+M]. Their benefit depends on the organizer matching the actual structure of the content — a hierarchy for taxonomies, a matrix for comparisons, a flowchart for processes — and on students actively processing it rather than passively receiving it.
+Graphic organizers exploit the dual-channel capacity of working memory: presenting relational structure spatially alongside verbal explanation improves recall and inference compared with verbal-only presentation [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Meta-analytic evidence shows graphic organizers outperform text-only or outline-based presentation, particularly when they make relationships (hierarchy, causality, comparison) explicit rather than merely decorating the content [Graphic organizers improve learning outcomes compared with text-only instruction.](../claims/advance-organizers-improve-learning.md) [+M]. Their benefit depends on the organizer matching the actual structure of the content — a hierarchy for taxonomies, a matrix for comparisons, a flowchart for processes — and on students actively processing it rather than passively receiving it.
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Graphic organizers exploit the dual-channel capacity of working memory: presenti
 
 ### Target Learning Goals
 - Relational knowledge: understanding how concepts connect, not just what they are
-- Comprehension and retention of expository lecture content [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Comprehension and retention of expository lecture content [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Preparation for later knowledge construction — the organizer becomes a substrate for [Concept Mapping](../elements/concept-mapping.md) or summarization activities
 
 ### Instructions

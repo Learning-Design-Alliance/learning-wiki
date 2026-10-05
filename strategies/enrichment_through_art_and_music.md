@@ -19,7 +19,7 @@ Teachers integrate art and music from diverse cultures into their lessons to enr
 
 ## Design Implications
 
-Art and music function as dual-coding supports: pairing verbal content with visual and auditory representations gives learners two memory pathways and improves recall [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-recall.md) [+S]. Culturally responsive selection also matters for motivation and belonging — content that affirms students' identities and communities increases engagement and outcomes [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]. The strategy works only when the art or music is *integral* to the learning goal; decorative use adds extraneous load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
+Art and music function as dual-coding supports: pairing verbal content with visual and auditory representations gives learners two memory pathways and improves recall [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Culturally responsive selection also matters for motivation and belonging — content that affirms students' identities and communities increases engagement and outcomes [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]. The strategy works only when the art or music is *integral* to the learning goal; decorative use adds extraneous load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
 
 ### Context
 #### Requirements
@@ -41,11 +41,11 @@ Art and music function as dual-coding supports: pairing verbal content with visu
 
 ### Target Learners
 - K–12 students, especially in culturally diverse classrooms where identity-affirming content strengthens belonging [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
-- Learners who benefit from non-linguistic representations of abstract content [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Learners who benefit from non-linguistic representations of abstract content [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Teachers seeking to make lessons more engaging and culturally relevant; the strategy is not learner-age-specific but requires facilitation skill to manage cultural discussion
 
 ### Target Learning Goals
-- Content understanding through multiple representations [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Content understanding through multiple representations [Pairing verbal information with relevant imagery improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Cultural appreciation and intergroup understanding [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - Engagement, discussion, and connection of academic content to students' lived experiences
 

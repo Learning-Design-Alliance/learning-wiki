@@ -19,7 +19,7 @@ Resource evaluation asks learners to judge the credibility, accuracy, and releva
 
 ## Design Implications
 
-Resource evaluation works when learners actively apply criteria to real, contrasting sources rather than memorizing a rubric. Professional fact-checkers outperform academics by *lateral reading* — leaving a page to investigate the source elsewhere — and teaching this strategy explicitly improves students' evaluative judgments [Wineburg & McGrew, 2019] [+S]. Evaluation tasks also deepen content learning: prompting readers to attend to source features (author, purpose, corroboration) improves their ability to integrate multiple documents [Braasch et al., 2013] [+M]. Structured comparison of credible and non-credible sources supports abstraction of the underlying criteria [Multiple contrasting cases help learners abstract general principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Resource evaluation works when learners actively apply criteria to real, contrasting sources rather than memorizing a rubric. Professional fact-checkers outperform academics by *lateral reading* — leaving a page to investigate the source elsewhere — and teaching this strategy explicitly improves students' evaluative judgments [Wineburg & McGrew, 2019] [+S]. Evaluation tasks also deepen content learning: prompting readers to attend to source features (author, purpose, corroboration) improves their ability to integrate multiple documents [Braasch et al., 2013] [+M]. Structured comparison of credible and non-credible sources supports abstraction of the underlying criteria [Multiple contrasting cases help learners abstract general principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

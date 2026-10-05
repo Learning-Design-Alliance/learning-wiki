@@ -39,7 +39,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Guided Discovery Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
-- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+S]
+- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 
 ## Related Elements
 - [Guided Discovery](guided-discovery.md)

@@ -38,7 +38,7 @@ One-on-one writing conferences, whose purpose is to transmit feedback and discus
 - agency over one's own text
 
 ### Affordances
-- [Involve Students In Revision Process](../principles/involve-students-in-revision-process.md)
+- [Involve Students In Revision Process](../principles/process-based-writing.md)
 
 ## Related Strategies
 

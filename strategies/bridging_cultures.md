@@ -19,7 +19,7 @@ The Bridging Cultures Project is a professional development strategy in which te
 
 ## Design Implications
 
-Bridging Cultures treats the teacher, not the student, as the primary learner: the intervention targets teachers' implicit cultural frameworks, which then changes classroom practices and student outcomes. Because cultural value assumptions are largely tacit, the strategy depends on structured reflection and contrast cases that make those assumptions visible — much like [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M] support abstraction of an underlying dimension. Teachers who reframe "misbehavior" through a collectivistic lens (e.g., helping a neighbor as prosocial rather than cheating) report improved classroom climate and family relationships [~M].
+Bridging Cultures treats the teacher, not the student, as the primary learner: the intervention targets teachers' implicit cultural frameworks, which then changes classroom practices and student outcomes. Because cultural value assumptions are largely tacit, the strategy depends on structured reflection and contrast cases that make those assumptions visible — much like [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M] support abstraction of an underlying dimension. Teachers who reframe "misbehavior" through a collectivistic lens (e.g., helping a neighbor as prosocial rather than cheating) report improved classroom climate and family relationships [~M].
 
 ### Context
 #### Requirements

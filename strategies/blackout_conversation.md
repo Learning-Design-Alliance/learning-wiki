@@ -19,7 +19,7 @@ Students transform conversational text selections into poetry by blacking out se
 
 ## Design Implications
 
-Blackout Conversation combines constrained text-marking with perspective-taking: the physical constraint of keeping only a small fraction of words forces selective attention to what a character actually says versus what they mean. Restructuring source text into a new, self-authored artifact supports deeper processing than passive reading [~M], and fiction-based perspective-taking activities show modest but reliable effects on empathy and intergroup attitudes [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]. The paired read-aloud structure adds a dialogic component that supports comprehension and expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
+Blackout Conversation combines constrained text-marking with perspective-taking: the physical constraint of keeping only a small fraction of words forces selective attention to what a character actually says versus what they mean. Restructuring source text into a new, self-authored artifact supports deeper processing than passive reading [~M], and fiction-based perspective-taking activities show modest but reliable effects on empathy and intergroup attitudes [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The paired read-aloud structure adds a dialogic component that supports comprehension and expressive language [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+M].
 
 ### Context
 #### Requirements

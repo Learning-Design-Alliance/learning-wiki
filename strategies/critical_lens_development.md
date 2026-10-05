@@ -19,7 +19,7 @@ Critical lens development teaches learners to analyze media and multimodal texts
 
 ## Design Implications
 
-Critical analysis works best when learners compare multiple contrasting cases rather than examining single texts, because abstraction of design principles depends on seeing how the same meaning potential is realized differently across examples [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Prompting learners to explain *why* a design choice works or fails — rather than only identifying it — deepens conceptual understanding of the semiotic system [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Analysis of flawed or manipulative examples can be especially productive, since diagnosing *why* something fails makes implicit criteria explicit [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
+Critical analysis works best when learners compare multiple contrasting cases rather than examining single texts, because abstraction of design principles depends on seeing how the same meaning potential is realized differently across examples [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Prompting learners to explain *why* a design choice works or fails — rather than only identifying it — deepens conceptual understanding of the semiotic system [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Analysis of flawed or manipulative examples can be especially productive, since diagnosing *why* something fails makes implicit criteria explicit [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 
 ### Context
 #### Requirements
@@ -52,7 +52,7 @@ Critical analysis works best when learners compare multiple contrasting cases ra
 - Perspective-taking: recognizing how the same content can be framed to different effect
 
 ### Instructions
-1. Select 3–4 authentic texts that differ on one design variable (e.g., how the same news event is framed across outlets) — a contrast set [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+1. Select 3–4 authentic texts that differ on one design variable (e.g., how the same news event is framed across outlets) — a contrast set [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 2. Have learners [Annotating](../principles/annotating.md) the texts, marking salient design choices before any whole-class framing
 3. Facilitate [Class Discussion](../elements/class-discussion.md) that elicits self-explanations: "Why does this choice position the reader this way?" [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 4. Introduce one flawed or manipulative example and ask learners to diagnose the failure [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]

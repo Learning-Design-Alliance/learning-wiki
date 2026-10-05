@@ -47,7 +47,7 @@ Giving learners ownership of the data question and collection process turns an a
 
 ### Target Learning Goals
 - Representational understanding: how tallies and graphs encode frequency
-- Categorization: deciding what counts as "the same" — the conceptual core of classification [multiple-contrasting-cases-support-abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Categorization: deciding what counts as "the same" — the conceptual core of classification [multiple-contrasting-cases-support-abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Data literacy practices: posing questions, collecting evidence, and making claims from data
 - Self-regulated inquiry: managing an extended observation task [self-monitoring-improves-self-regulation](../claims/self-monitoring-improves-self-regulation.md) [+M]
 

@@ -38,7 +38,7 @@ Attending to reasoning converts answer-checking into [Self-Explanation](../eleme
 - **Erroneous examples**: present a fully worked but incorrect solution; students find and fix the error, then explain why it was wrong
 - **Answer-delayed discussion**: collect answers to a conceptual question, have students defend or revise them in [Class Discussion](../elements/class-discussion.md) before the teacher confirms
 - **Reasoning-first norms**: teacher opens with "Tell me the first thing you thought about," explicitly banning immediate answer-giving
-- **Two approaches compared**: display two student solutions side by side and ask which is more efficient or generalizable — a [Comparing Cases](../elements/case-studies.md) move that supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Two approaches compared**: display two student solutions side by side and ask which is more efficient or generalizable — a [Comparing Cases](../elements/case-studies.md) move that supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Learners with moderate prior knowledge who can meaningfully evaluate solution steps [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]

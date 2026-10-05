@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: dual-coding-improves-learning
+aliases: [dual-coding-improves-recall]
 evidence_strength:
 sources:
   - id: guo-et-al-2020
@@ -86,6 +87,14 @@ The experiments tested whether pictures are remembered better than words because
 
 **Open questions.** Most supporting work comes from short laboratory or classroom interventions in well-structured domains (science, mathematics). The durability of effects over long retention intervals, and their magnitude in ill-structured domains where imagery is harder to define, remain under-established. Primary studies still need to be added to the Evidence section before this claim can be rated.
 
+*Merged from “Dual Coding Improves Recall” (dual-coding-improves-recall):* The mechanism is usually attributed to [dual coding theory](../theories/dual-coding-theory.md): verbal and pictorial information are processed in partly distinct cognitive systems, so presenting both creates two memory traces and, when the two are referentially linked, richer retrieval pathways at test. This places the claim squarely in the multimedia learning tradition, where the coherence principle shows that irrelevant material hurts learning — meaning the visual channel must carry relevant, explanatory content rather than decoration for the dual-coding benefit to appear (see [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md)).
+
+Boundary conditions follow from the same theory. Because both channels draw on limited working-memory resources, adding a second representation can overload learners if the material is already complex or the visual is poorly integrated — see [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) and [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md). The benefit is therefore expected to be strongest for content that is naturally visualizable, for novices who have not yet formed mental models, and for visuals that are explanatory rather than decorative. Abstract or purely symbolic content, and visuals that merely repeat the text verbatim, are expected to show little or no gain. Learner-generated visuals (e.g., drawing or diagramming activities) may deepen the effect by forcing referential connections, but they also impose generation demands that could offset the benefit for novices.
+
+The claim is also modulated by expertise: as learners gain domain knowledge, a second representation can become redundant and stop adding retrieval routes, mirroring the expertise-reversal pattern documented for worked examples and other scaffolds (see [Expertise reversal effect](../theories/expertise-reversal-effect.md)). Designers should therefore treat dual coding as a novice-oriented support to be faded rather than a universal default.
+
+Open questions: how durable the recall advantage is over long retention intervals, and how it interacts with learner-generated versus instructor-provided visuals, remain under-specified in the current evidence base. Studies still need to be added to substantiate the subclaims above; until then, this page should be treated as a theoretically motivated hypothesis rather than an empirically established claim.
+
 ## Related Claims
 
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — added visuals must be relevant, or they impair rather than support learning
@@ -96,7 +105,6 @@ The experiments tested whether pictures are remembered better than words because
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — visual analogies pair verbal and pictorial codes to support transfer
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — possibly the same claim (merge candidate)
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
@@ -104,3 +112,7 @@ The experiments tested whether pictures are remembered better than words because
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
+- [Activation improves learning.](activation-improves-learning.md) — prior knowledge determines whether a second representation adds retrieval routes
+- [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical account of separate verbal and visual memory systems
+- [Expertise reversal effect](../theories/expertise-reversal-effect.md) — added representations can become redundant for advanced learners
+- [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related

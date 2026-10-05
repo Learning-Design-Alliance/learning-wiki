@@ -19,7 +19,7 @@ Environmental Interaction Analysis engages learners in examining environments, t
 
 ## Design Implications
 
-The strategy works because it grounds abstract ecological concepts in concrete, inspectable evidence, letting learners construct causal accounts from observable traces rather than from text alone [~M]. Its effectiveness depends on learners actively explaining *why* a trace implies a relationship — unstructured observation without prompted inference produces little conceptual gain [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Comparing multiple environments or track sets helps learners abstract general organism–environment relationships rather than memorizing single instances [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works because it grounds abstract ecological concepts in concrete, inspectable evidence, letting learners construct causal accounts from observable traces rather than from text alone [~M]. Its effectiveness depends on learners actively explaining *why* a trace implies a relationship — unstructured observation without prompted inference produces little conceptual gain [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Comparing multiple environments or track sets helps learners abstract general organism–environment relationships rather than memorizing single instances [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

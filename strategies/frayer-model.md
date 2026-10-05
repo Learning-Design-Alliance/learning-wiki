@@ -19,7 +19,7 @@ The Frayer Model is a four-quadrant graphic organizer used to teach a concept: l
 
 ## Design Implications
 
-The Frayer Model operationalizes concept learning by forcing discrimination between instances and non-instances, which is the core of concept attainment [~M]. Requiring learners to generate their own definition and examples makes the activity generative, which strengthens encoding relative to reading a definition alone [elaborative-interrogation-improves-learning](../claims/elaborative-interrogation-improves-learning.md) [+M]. The four quadrants also distribute processing across verbal and visual/structural channels, consistent with dual coding benefits [dual-coding-improves-recall](../claims/dual-coding-improves-recall.md) [+M].
+The Frayer Model operationalizes concept learning by forcing discrimination between instances and non-instances, which is the core of concept attainment [~M]. Requiring learners to generate their own definition and examples makes the activity generative, which strengthens encoding relative to reading a definition alone [elaborative-interrogation-improves-learning](../claims/elaborative-interrogation-improves-learning.md) [+M]. The four quadrants also distribute processing across verbal and visual/structural channels, consistent with dual coding benefits [dual-coding-improves-recall](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

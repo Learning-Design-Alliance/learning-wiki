@@ -19,7 +19,7 @@ Perspective-taking asks learners to adopt, articulate, and reason from viewpoint
 
 ## Design Implications
 
-Perspective-taking deepens learning when learners must actively construct the other position rather than passively acknowledge it; structured tasks that require arguing, writing, or deciding *from* a viewpoint outperform simple exposure to multiple views [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Adopting a perspective also improves memory for that position's arguments and reduces stereotyped reasoning [~M]. The activity works best when positions are genuinely in tension, forcing learners to reconcile or contrast them rather than treat them as parallel facts.
+Perspective-taking deepens learning when learners must actively construct the other position rather than passively acknowledge it; structured tasks that require arguing, writing, or deciding *from* a viewpoint outperform simple exposure to multiple views [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Adopting a perspective also improves memory for that position's arguments and reduces stereotyped reasoning [~M]. The activity works best when positions are genuinely in tension, forcing learners to reconcile or contrast them rather than treat them as parallel facts.
 
 ### Context
 #### Requirements

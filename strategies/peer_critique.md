@@ -51,7 +51,7 @@ Peer critique works because evaluating someone else's work forces learners to ar
 - Communication and professional feedback practices
 
 ### Instructions
-1. Establish criteria: share a rubric or co-construct one; show annotated exemplars of strong and weak work (contrast supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M])
+1. Establish criteria: share a rubric or co-construct one; show annotated exemplars of strong and weak work (contrast supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M])
 2. Model critique: as a class, critique a sample work using the protocol, with the instructor thinking aloud about phrasing and specificity
 3. Exchange work in pairs or small groups; reviewers identify strengths and specific, actionable improvements tied to criteria
 4. Authors paraphrase the feedback back and state what they will change (ensures uptake)

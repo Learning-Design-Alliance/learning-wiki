@@ -57,7 +57,7 @@ Distributed cognition matters when successful performance depends on how learner
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others
 - [Community of Inquiry](community-of-inquiry.md) — one context where cognition is distributed across discourse, facilitation, and shared artifacts
-- [Situated Learning](situated-learning.md) — provides the contextual account of why cognition is often distributed in real practice
+- [Situated Learning](../theories/situated-learning.md) — provides the contextual account of why cognition is often distributed in real practice
 
 ## Examples
 

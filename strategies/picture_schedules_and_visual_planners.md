@@ -19,7 +19,7 @@ Picture schedules or visual planners use images to lay out the steps to do a tas
 
 ## Design Implications
 
-Visual schedules convert a verbal, memory-dependent sequence into a persistent external representation, offloading working memory and supporting independence [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Pairing images with labels or spoken steps also exploits dual coding — information stored in both verbal and visual channels is better recalled than either alone [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. The strongest evidence base comes from special education and applied behavior analysis, where visual activity schedules reliably increase on-task behavior and independent task completion for learners with autism and intellectual disabilities, and reduce adult prompting over time [+M].
+Visual schedules convert a verbal, memory-dependent sequence into a persistent external representation, offloading working memory and supporting independence [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Pairing images with labels or spoken steps also exploits dual coding — information stored in both verbal and visual channels is better recalled than either alone [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The strongest evidence base comes from special education and applied behavior analysis, where visual activity schedules reliably increase on-task behavior and independent task completion for learners with autism and intellectual disabilities, and reduce adult prompting over time [+M].
 
 ### Context
 #### Requirements

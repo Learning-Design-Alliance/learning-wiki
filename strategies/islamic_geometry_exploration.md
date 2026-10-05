@@ -19,7 +19,7 @@ Students explore Islamic art and architecture — tessellations, rosettes, girih
 
 ## Design Implications
 
-This is an ethnomathematics approach: mathematics is situated in cultural artifacts so that geometric abstraction emerges from authentic, visually rich cases rather than decontextualized exercises. Guided comparison of visual patterns supports abstraction of geometric structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M], and prompting students to explain how a pattern was constructed deepens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The artistic entry point also builds task value for students who are disengaged from formal mathematics, which improves motivation and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
+This is an ethnomathematics approach: mathematics is situated in cultural artifacts so that geometric abstraction emerges from authentic, visually rich cases rather than decontextualized exercises. Guided comparison of visual patterns supports abstraction of geometric structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M], and prompting students to explain how a pattern was constructed deepens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The artistic entry point also builds task value for students who are disengaged from formal mathematics, which improves motivation and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ This is an ethnomathematics approach: mathematics is situated in cultural artifa
 1. **Activate curiosity.** Open with a virtual field trip or image gallery (Mosque of Sultan Barquq, Alhambra, Topkapı scroll facsimiles). Use [Advance Organizers](../elements/advance-organizers.md) to frame what students are looking for: repeating units, symmetry, angles.
 2. **Facilitate pattern analysis.** Through [Class Discussion](../elements/class-discussion.md), guide students to identify the unit cell, symmetry type, and how shapes fit together. Push from "what do you notice?" to "how would you construct this?"
 3. **Construct.** Students reproduce a simplified pattern with compass and straightedge or GeoGebra, applying [Practice](../elements/practice.md) to the geometric relationships just observed.
-4. **Vary and generalize.** Students change a parameter (number of fold lines, polygon choice) and predict the effect, connecting cases to support abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+4. **Vary and generalize.** Students change a parameter (number of fold lines, polygon choice) and predict the effect, connecting cases to support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 5. **Share and connect.** Use [Whole-Class Sharing](../elements/whole-class-sharing.md) to consolidate the mathematics and discuss the cultural and historical context.
 
 ## Related Strategies

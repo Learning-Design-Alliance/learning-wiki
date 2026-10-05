@@ -38,7 +38,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - **Pre-simulation briefing**: orient learners to the model's variables and rules before interaction
 - **In-simulation structure**: role assignments, decision logs, embedded challenges, or staged scenarios that escalate complexity
 - **Post-simulation debriefing**: whole-class discussion, structured worksheets, or prediction–observation–explanation cycles
-- **Iterative runs**: repeat the simulation with modified parameters so learners test hypotheses across [Multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Iterative runs**: repeat the simulation with modified parameters so learners test hypotheses across [Multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Failure-first variants**: let learners attempt the task before formal instruction, then use the simulation to confront gaps [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]
 
 ### Target Learners

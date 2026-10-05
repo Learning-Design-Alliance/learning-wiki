@@ -49,7 +49,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Question Formulation](question-formulation.md)
 
 ## Patterns That Use This Element
-- [Reflective Practice](../patterns/reflective-practice.md)
+- [Reflective Practice](../principles/reflection.md)
 - [Self-Regulated Learning](../patterns/self-regulated-learning.md)
 
 ## Examples

@@ -19,7 +19,7 @@ Annotation asks learners to actively mark up a source — highlighting, underlin
 
 ## Design Implications
 
-Annotation works because it is a generative activity: transforming and elaborating on material forces learners to select what matters and connect it to what they know, producing better recall and comprehension than passive reading [Generative processing improves learning from text.](../claims/dual-coding-improves-recall.md) [+M]. However, the *quality* of the annotation matters more than its presence: highlighting alone is one of the weakest study strategies when used without additional processing [Highlighting and rereading are among the least effective study techniques.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M]. Instructor-provided annotations can scaffold novice readers, but learners who construct their own annotations generally learn more than those who only read ones supplied to them [Experimenter-provided underlining is no more effective than student-generated underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~W].
+Annotation works because it is a generative activity: transforming and elaborating on material forces learners to select what matters and connect it to what they know, producing better recall and comprehension than passive reading [Generative processing improves learning from text.](../claims/dual-coding-improves-learning.md) [+M]. However, the *quality* of the annotation matters more than its presence: highlighting alone is one of the weakest study strategies when used without additional processing [Highlighting and rereading are among the least effective study techniques.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M]. Instructor-provided annotations can scaffold novice readers, but learners who construct their own annotations generally learn more than those who only read ones supplied to them [Experimenter-provided underlining is no more effective than student-generated underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~W].
 
 ### Context
 #### Requirements
@@ -44,7 +44,7 @@ Annotation works because it is a generative activity: transforming and elaborati
 - Less beneficial for learners who already have fluent, self-regulated reading strategies, for whom required annotation is redundant
 
 ### Target Learning Goals
-- Comprehension and retention of complex texts [Generative processing improves learning from text.](../claims/dual-coding-improves-recall.md) [+M]
+- Comprehension and retention of complex texts [Generative processing improves learning from text.](../claims/dual-coding-improves-learning.md) [+M]
 - Metacognitive monitoring: margin questions and confusion notes surface comprehension gaps
 - Close reading and argument analysis: distinguishing claims, evidence, and assumptions
 

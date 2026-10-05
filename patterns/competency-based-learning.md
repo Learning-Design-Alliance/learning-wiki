@@ -18,7 +18,7 @@ grain_size: course
 
 ## Description and scope
 
-A reusable policy for organising a course around a map of stated competencies rather than a fixed calendar: each learner's starting response on each competency is elicited, instruction and support are directed at the competencies not yet shown, pace varies between learners, and a learner advances on a competency when a criterion-referenced performance shows it. It instantiates the [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md) principle; [competency-based assessment](../principles/competency-based-assessment.md) concerns how the evidence of competence is gathered and judged.
+A reusable policy for organising a course around a map of stated competencies rather than a fixed calendar: each learner's starting response on each competency is elicited, instruction and support are directed at the competencies not yet shown, pace varies between learners, and a learner advances on a competency when a criterion-referenced performance shows it. It instantiates the [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md) principle; [competency-based assessment](../principles/competency-based-assessment.md) concerns how the evidence of competence is gathered and judged.
 
 This page owns the **more general, course-level relationship**: a map of several competencies, placement, flexible pace across them and progression on evidence. [Mastery learning](mastery-learning.md) (and its [principle](../principles/mastery-learning.md)) is a narrower configuration that sits inside it: a gate-correct-recheck loop on one cumulative unit at a time, usually with a group schedule. Use the mastery-learning pages for the loop at each competency's check; use this page for how the competencies are mapped, how learners are placed, how far pace may vary and what progression and completion rules apply. Programme governance (credit unbundled from seat time, assessment on demand, a competency transcript) is a further, programme-level object that this page does not describe.
 
@@ -149,7 +149,7 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 - [Reassessment](../elements/reassessment.md)
 
 ### Affordances
-- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 -->

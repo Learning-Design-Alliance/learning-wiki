@@ -19,7 +19,7 @@ Semantic Feature Analysis (SFA) is a vocabulary and comprehension strategy in wh
 
 ## Design Implications
 
-SFA works because it requires learners to compare and contrast related concepts systematically, supporting abstraction of shared and distinguishing features [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Completing the grid also activates prior knowledge before new content is encountered [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. The discussion phase — where learners defend contested cells — is where much of the learning occurs; grids completed silently and never discussed produce weaker gains.
+SFA works because it requires learners to compare and contrast related concepts systematically, supporting abstraction of shared and distinguishing features [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Completing the grid also activates prior knowledge before new content is encountered [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. The discussion phase — where learners defend contested cells — is where much of the learning occurs; grids completed silently and never discussed produce weaker gains.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ SFA works because it requires learners to compare and contrast related concepts 
 - **Digital grids:** collaborative spreadsheets allow simultaneous completion and visible disagreement, which fuels discussion
 
 ### Target Learners
-- Elementary and adolescent readers building domain vocabulary (science, social studies) [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Elementary and adolescent readers building domain vocabulary (science, social studies) [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - English language learners, for whom the grid makes connotation and collocational distinctions visible [~M]
 - Students with learning disabilities benefit when the grid is teacher-constructed and analysis is modeled [~W]
 

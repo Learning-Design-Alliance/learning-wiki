@@ -19,7 +19,7 @@ Rich Resources: Diversity means deliberately curating the texts, examples, cases
 
 ## Design Implications
 
-Diverse resources do their work through two mechanisms: representational (learners see themselves as capable participants in the domain, which supports belonging and motivation) and cognitive (contrasting perspectives and cases force learners to abstract underlying principles rather than overfitting to a single context) [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Diversity of source *type* matters as much as diversity of authorship — combining text, visual, and audio representations of the same content improves recall and retention [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
+Diverse resources do their work through two mechanisms: representational (learners see themselves as capable participants in the domain, which supports belonging and motivation) and cognitive (contrasting perspectives and cases force learners to abstract underlying principles rather than overfitting to a single context) [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Diversity of source *type* matters as much as diversity of authorship — combining text, visual, and audio representations of the same content improves recall and retention [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Diverse resources do their work through two mechanisms: representational (learne
 ### Target Learners
 - Learners from marginalized or underrepresented groups, who show stronger engagement and self-efficacy when the curriculum includes authentic representation of their communities [+M]
 - Majority-culture learners, who develop perspective-taking and reduced stereotyping through sustained contact with diverse materials and narratives [+M]
-- Advanced learners in ill-structured domains, who benefit from multiple contrasting cases and viewpoints [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Advanced learners in ill-structured domains, who benefit from multiple contrasting cases and viewpoints [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Identity and belonging: learners seeing themselves as legitimate participants in the discipline
