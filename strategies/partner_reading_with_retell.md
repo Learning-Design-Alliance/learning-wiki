@@ -12,7 +12,7 @@ generated:
 # Partner Reading with Retell
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 quant-synthesis, 2 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Partner Reading with Retell is the core fluency activity of Peer-Assisted Learning Strategies (PALS) for reading. Students work in pairs, taking turns reading aloud from a shared text; after each segment, the reader retells or summarizes what was read while the partner listens, corrects errors, and asks prompting questions. The stronger reader reads first, providing a fluent model, before roles reverse.

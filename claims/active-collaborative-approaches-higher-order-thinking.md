@@ -47,5 +47,5 @@ Narrative review attribution in the Process dimension section: the article state
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
-- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
+- [Discussion Quality Drives Comprehension](structured-discussion-methods-improve-comprehension.md) — related
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related

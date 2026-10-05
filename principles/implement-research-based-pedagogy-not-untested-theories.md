@@ -17,7 +17,7 @@ sources:
 # Implement pedagogy based on research and data rather than untested theories that fit a favored philosophy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's concluding recommendation is that the education field should choose pedagogy on the basis of research and data rather than adopting untested theories because they fit a romantic or progressive philosophy. It concludes the field "might be better off if we called Gardner's MI theory, multiple talents," and quotes Willingham's conclusion that "educators would likely do well to turn their time and attention elsewhere."
@@ -38,7 +38,7 @@ The review's concluding recommendation is that the education field should choose
 
 ### Claims
 - [Mi Lacks Empirical Theory Testing](../claims/mi-lacks-empirical-theory-testing.md) [+M]
-- [Matching Instruction To Styles No Effect](../claims/matching-instruction-to-styles-no-effect.md) [+M]
+- [Matching Instruction To Styles No Effect](../claims/learning-styles-matching-does-not-improve-learning.md) [+M]
 
 ## Related Principles
 - 

@@ -55,7 +55,7 @@ Practice is one of the most consistently supported instructional elements: activ
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
-- [Including practice with feedback in computer-based instruction significantly raises posttest achievement](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [-M]
 - [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
@@ -64,7 +64,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~W]
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](../claims/spaced-repetition-supplement-triples-vocabulary-retention.md) [+M]
 - [Interleaving Improves Discrimination](../claims/interleaving-improves-discrimination.md) [+S]
-- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaved-practice-improves-retention.md) [~M]
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
 - [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+M]
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [~M]
@@ -72,7 +72,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~W]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~W]
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 - [Deliberate Practice Improves Performance](../claims/deliberate-practice-improves-performance.md) [~M]
@@ -89,7 +89,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ### Should practice ask learners to recall, or to review?
 - **Default:** make practice a retrieval attempt (recall, quiz, answer from memory) rather than rereading or rewatching. Testing beat restudy by g = 0.50 over 159 effect sizes, more at retention intervals of a day or more (g = 0.69) and with recall rather than recognition formats (0.61 against 0.29); a second meta-analysis found g = 0.51 across education levels, with multiple-choice as well as constructed-response items — [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S], [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
-- **Default:** include practice with feedback in computer-based lessons; undergraduates given lesson versions with practice scored significantly higher than those without — [Including practice with feedback in computer-based instruction significantly raises posttest achievement](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- **Default:** include practice with feedback in computer-based lessons; undergraduates given lesson versions with practice scored significantly higher than those without — [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
 - **Changes when:** success is judged right after practice → restudying can look better; it was ahead at five minutes and behind at two days and one week, so do not evaluate a practice design on an immediate test — [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [~S]
 - **Changes when:** the goal is transfer to new questions → testing still helped (d = 0.40 over 192 effect sizes), most for application and inference questions and changed formats, but bias-corrected estimates often showed no transfer when none of the favourable moderators was present — [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
 - **Tested with:** mostly university students on prose, word lists and facts in the laboratory; the second meta-analysis spans education levels; Pan & Rickard include medical-diagnosis problems.
@@ -113,7 +113,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ### Blocked or mixed practice?
 - **Default:** mix confusable problem types or categories in practice once each has been introduced; interleaving helped learners tell categories apart and pick the right strategy, and shuffled mathematics practice beat blocked practice on a delayed test despite worse performance during practice — [Interleaving Improves Discrimination](../claims/interleaving-improves-discrimination.md) [+S]
-- **Changes when:** the material is word-based categories, or categories that are easy to tell apart → the benefit shrinks or reverses (overall g = 0.42; paintings 0.67, mathematics 0.34, word categories −0.39) — [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaved-practice-improves-retention.md) [~M]
+- **Changes when:** the material is word-based categories, or categories that are easy to tell apart → the benefit shrinks or reverses (overall g = 0.42; paintings 0.67, mathematics 0.34, word categories −0.39) — [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](../claims/interleaving-improves-inductive-learning.md) [~M]
 - **Tested with:** perceptual category learning (paintings, photographs) and mathematics practice; the claim pages do not record the learners' ages.
 - **Not settled:** how much blocked exposure should come first; the claims' Discussion sections advise it, but none of their evidence tests it. No claim tests interleaving of L2 grammar or clinical scenarios.
 
@@ -126,7 +126,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ### Part-task or whole-task practice?
 - **Default:** for absolute novices on a task with many interacting elements, practise isolated parts before the whole — [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
-- **Changes when:** transfer to professional practice is the goal → move to whole, varied tasks with less guidance; this is a design argument, not an experiment — [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~W]
+- **Changes when:** transfer to professional practice is the goal → move to whole, varied tasks with less guidance; this is a design argument, not an experiment — [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~W]
 - **Tested with:** one experiment on complex, high-element-interactivity material (Pollock et al. 2002); the whole-task side has no empirical entry.
 - **Not settled:** when to switch from parts to whole tasks.
 

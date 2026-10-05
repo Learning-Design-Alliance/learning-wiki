@@ -26,7 +26,7 @@ sources:
 # Self-Explanation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].

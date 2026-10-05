@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: learning-styles-matching-does-not-improve-learning
-aliases: [learning-styles-matching-yields-no-benefit]
+aliases: [learning-styles-matching-yields-no-benefit, matching-instruction-to-styles-no-effect]
 evidence_strength: strong
 sources:
   - id: pashler-et-al-2008
@@ -27,12 +27,20 @@ sources:
     n: 125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)
     kind: causal
     rigour: 2
+  - id: peariso-2008
+    resource: "https://eric.ed.gov/?id=ED500515"
+    title: "Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515"
+    author: Peariso, J. F.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Learning Styles Matching Does Not Improve Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 review `r3` · `q3`
+> **Evidence** · 3 studies · 2 review `r1`–`r3`, 1 causal `r2` · `q2`–`q3`
 
 Matching instruction to a learner's purported "learning style" (visual, auditory, kinesthetic, etc.) does not improve learning outcomes; learners learn best when content is matched to the *nature of the material*, not to a self-reported style preference.
 
@@ -41,6 +49,8 @@ Matching instruction to a learner's purported "learning style" (visual, auditory
 `q3 i?` A systematic review of the learning-styles literature found only one study even potentially using the crossover-interaction design needed to validate the meshing hypothesis, and judged that study's evidence unconvincing, concluding the literature does not support matching instruction to learning style. [→ Pashler et al. 2008](#pashler-et-al-2008)
 
 `q3 i?` A randomized experiment with 5th-grade students found no learning-style × instructional-modality interaction: visual learners outperformed auditory learners on *both* listening and reading comprehension, the opposite of the crossover pattern the meshing hypothesis predicts. [→ Rogowsky et al. 2020](#rogowsky-et-al-2020)
+
+`q2 i?` The review reports, citing Stahl (1999) and Willingham (2005), that finding students' learning styles or intelligences and matching instructional methods to them has no effect on learning. [→ Peariso 2008](#peariso-2008)
 
 ## Evidence
 
@@ -59,6 +69,16 @@ Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing Instruction Base
 `q3 · randomized experiment (crossover-interaction design following Pashler et al.'s own criteria)` · `i? · no standardised effect size reported; interaction F(1,38)=1.16, p=0.29` · `n=125 fifth-grade students (34 analyzed in the learning-style-group ANOVA)` · `causal · r2`
 
 125 fifth graders (ages 10–11) in a Pennsylvania public school were classified as auditory or visual learners via a standardized learning-style inventory, then given listening- and reading-comprehension tests. A mixed-design ANOVA testing whether learning style predicted which modality a student comprehended better found no learning-style-by-modality interaction (F(1,38)=1.16, p=0.29) — visual learners scored significantly higher on *both* listening and reading comprehension (main effect of style, F(1,32)=12.92, p=0.001, η²=0.29) rather than showing the crossover the [meshing hypothesis](../theories/dual-coding-theory.md) predicts. This replicates the earlier adult study (Rogowsky, Calhoun & Tallal, 2015) with a school-age population.
+
+### Peariso 2008
+
+Peariso, J. F. (2008). Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory. Liberty University. https://eric.ed.gov/?id=ED500515
+
+`q2 · i?` · `review · r1`
+
+The review attributes this to Stahl (1999), a reading researcher, and notes Willingham (2005) reiterated the point in a review of research on Modality Theory. The review reports these second-hand; no effect size is printed.
+
+> "finding out what student's learning styles are or which "intelligences" they have and then matching instructional methods to them, has absolutely no effect on their learning"
 
 ## Discussion
 
@@ -92,5 +112,10 @@ Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2020). Providing Instruction Base
 - [Activation improves learning.](activation-improves-learning.md) — prior knowledge, not style, is the learner difference that matters most
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — a high-yield strategy to prioritize over style diagnosis
 - [Desirable difficulties improve retention.](desirable-difficulties-enhance-learning.md) — difficulty is often productive, contradicting the style-matching impulse to smooth instruction to fit preferences
-- [Matching instruction to students' learning styles or intelligences has no effect on learning](matching-instruction-to-styles-no-effect.md) — possibly the same claim (merge candidate)
 - [More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles](stylistic-cognitive-rigidity-reduces-adoption-of-opposites.md) — related
+- [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — a narrower finding that bears on this claim
+- [Larger class size linked to poorer student and teacher performance (review attribution)](larger-class-size-poorer-performance.md) — related
+- [A large psychometric data review supports a hierarchical model of intelligence headed by g, which MI theory does not fit](carroll-data-support-hierarchical-g-model.md) — related
+- [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
+- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
+- [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related

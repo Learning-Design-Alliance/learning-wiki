@@ -42,7 +42,7 @@ Teachers should use graphic organizers to structure lessons and material, pre-te
 
 - Graphic Organizers Improve Expository Comprehension [+M]
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+S]
-- [Activation Improves Learning](../claims/activation-improves-learning.md) [~W]
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~W]
 - [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M]
 
 ## Related Principles

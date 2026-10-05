@@ -44,5 +44,5 @@ A conceptual analysis: response precision and associations appear not to require
 
 ## Related Claims
 - [Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst](retention-varies-by-knowledge-type.md) — related
-- [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — a narrower finding that bears on this claim

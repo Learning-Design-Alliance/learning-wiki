@@ -12,7 +12,7 @@ generated:
 # Digital Storytelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Digital stories are short multimedia narratives (typically 2–5 minutes) that combine photographs, video, animation, sound, music, text, and a recorded narrative voice. Learners research, script, and produce the story themselves, individually or collaboratively, and often publish it to a real audience online. The production process — not just the artifact — is the primary site of learning.

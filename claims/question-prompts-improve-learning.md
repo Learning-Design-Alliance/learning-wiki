@@ -71,7 +71,7 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 
 - [Activation improves learning](activation-improves-learning.md) — prompts that surface prior knowledge operate partly through activation.
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — pre-questions function as a question-based form of advance organizer.
-- [Annotating improves learning](annotating-improves-learning.md) — answering prompts is a structured form of the generative processing annotation induces.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — answering prompts is a structured form of the generative processing annotation induces.
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — question prompts are one of the cheapest ways to make instruction active.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — poorly timed or overly demanding prompts can add load for novices.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — prompt benefits may shrink or reverse as learner expertise grows.

@@ -12,7 +12,7 @@ generated:
 # Scaffolding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 17 studies (5 causal, 5 review, 3 theoretical, 2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 0 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 19 studies (6 causal, 5 review, 3 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 19 report an effect size · 2 claims rest on one study
 
 ## Description
 Scaffolding is the provision of temporary, adaptive support that enables learners to complete tasks they could not yet perform alone, with support gradually withdrawn as competence develops. The term originates in Wood, Bruner, and Ross's (1976) analysis of adult tutoring, building on Vygotsky's [constructivism](../theories/constructivism.md) and the zone of proximal development. Scaffolds can be cognitive (prompts, worked examples, task decomposition), metacognitive (self-regulation checklists), or emotional (sentence stems for articulating feelings, low-stakes practice before high-stakes performance).

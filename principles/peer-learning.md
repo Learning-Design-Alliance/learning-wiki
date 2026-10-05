@@ -21,7 +21,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
 
 ## Description
 Peer learning is the principle that learners can deepen understanding by explaining, questioning, modeling, and responding to one another. It is useful when learners can benefit from articulating ideas and encountering alternate explanations at a similar level of expertise.

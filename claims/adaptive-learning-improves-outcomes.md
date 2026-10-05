@@ -65,7 +65,9 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 
 **Boundary conditions.** Adaptation is only as good as its model of the learner. Systems that adapt on shallow signals (response time, item counts) rather than diagnostic assessment of knowledge components may route learners poorly. There is also a plausible expertise-reversal concern: highly adaptive scaffolding that remains in place for already-proficient learners can become redundant and depress performance, mirroring the pattern documented for worked examples in [expertise reversal effect](../theories/expertise-reversal-effect.md). Adaptation should fade support as competence grows.
 
-**Open questions.** The evidence base for this claim has not yet been populated. Key moderators to establish include: which adaptation target (difficulty, pacing, feedback, content sequence) drives effects; whether gains persist beyond the adaptive period; and how outcomes compare across intelligent tutoring systems, mastery-based platforms, and simpler adaptive quizzing. Studies must be added before any strength rating can be assigned.
+**Open questions.** Two meta-analyses of intelligent tutoring systems are recorded (Ma et al. 2014; Kulik & Fletcher 2016), both read from abstracts: tutoring systems outperformed large-group instruction, other computer-based instruction and textbooks, but not individual human tutoring or small-group instruction, and gains were smaller on standardized than on locally developed tests. No recorded study covers other adaptive systems, such as mastery-based platforms or adaptive quizzing. Key moderators still to establish include: which adaptation target (difficulty, pacing, feedback, content sequence) drives effects; whether gains persist beyond the adaptive period; and how outcomes compare across intelligent tutoring systems, mastery-based platforms, and simpler adaptive quizzing.
+
+<!-- deprecated (2026-10-05, stale: entries had been added): **Open questions.** The evidence base for this claim has not yet been populated. Key moderators to establish include: which adaptation target (difficulty, pacing, feedback, content sequence) drives effects; whether gains persist beyond the adaptive period; and how outcomes compare across intelligent tutoring systems, mastery-based platforms, and simpler adaptive quizzing. Studies must be added before any strength rating can be assigned. -->
 
 ## Related Claims
 
@@ -77,7 +79,7 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Adaptive difficulty](../elements/adaptive-difficulty.md) — difficulty adjustment is the most common adaptation target in practice
 - [Adaptive learning](../patterns/adaptive-learning.md) — the pattern-level implementation of adaptive sequencing
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
-- [Tutoring Effectiveness Comes From Scaffolding And Feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related

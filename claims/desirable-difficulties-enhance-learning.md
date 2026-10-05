@@ -115,7 +115,7 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — possibly the same claim (merge candidate)
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
-- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

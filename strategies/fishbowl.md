@@ -25,7 +25,7 @@ sources:
 # Fishbowl
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 7 studies (2 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 9 studies (3 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Two learners sit facing each other in the center of the room; the remaining learners sit in a circle around them. The two central learners have a conversation based on a pre-determined topic, often deliberately practicing specific discussion skills the class is working on (asking follow-up questions, paraphrasing, elaborating on another person's point). Learners on the outside observe, take notes, or perform another discussion-related task assigned by the teacher. Variations include relay-style swapping between inner and outer circles, outer-circle "coaching" from the sidelines, and outer-circle scoring of the conversation against a rubric followed by a structured debrief.

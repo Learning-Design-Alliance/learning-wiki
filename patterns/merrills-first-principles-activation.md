@@ -43,7 +43,7 @@ This page is the short-form canonical target for the activation move within Merr
 
 - [Activation](../principles/activation.md)
 - [Retrieval Practice](../principles/retrieval-practice.md)
-- [Activation Improves Learning](../claims/activation-improves-learning.md) [+S]
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+S]
 
 ## Related Patterns
 - [Merrill's First Principles](merrills-first-principles-of-instruction.md)

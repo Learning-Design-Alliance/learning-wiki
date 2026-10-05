@@ -12,7 +12,7 @@ generated:
 # Debate
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (5 quant-synthesis, 3 review, 1 causal, 1 associational), `q2`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (6 quant-synthesis, 3 review, 2 causal, 1 associational), `q2`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Debate assigns learners opposing positions on a genuinely contested question and requires them to construct, deliver, and defend arguments against live opposition. Structured formats (e.g., timed speeches, cross-examination, rebuttal rounds) impose turn-taking and accountability that distinguish debate from open [Class Discussion](../elements/class-discussion.md). Because positions are typically assigned rather than chosen, learners must sometimes argue views they do not hold, which forces genuine engagement with the strongest version of the opposing case.

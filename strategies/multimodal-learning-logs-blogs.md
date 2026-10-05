@@ -12,7 +12,7 @@ generated:
 # Multimodal Learning Logs/Blogs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (1 causal, 1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Learning logs or blogs are ongoing, learner-authored records in which students reflect on their learning, document the content of each session, and share what supported or interfered with their learning. Unlike single-mode journals, they deliberately combine text with visuals, embedded video, audio, photographs, and hyperlinks to external resources, so that learners must select and coordinate multiple representations to communicate their understanding. Used over time, they function both as reflective tools and as shareable artifacts for peers, instructors, and authentic audiences.

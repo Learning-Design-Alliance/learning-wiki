@@ -12,7 +12,7 @@ generated:
 # Greek Combining Forms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Greek combining forms are morphemes — prefixes, roots, and suffixes of Greek origin — that combine productively to build technical vocabulary (e.g., *micro* + *bio* + *logy* → microbiology). This strategy teaches a curated set of high-frequency forms explicitly, along with the conventions of Greek morphological combination, so learners can analyze unfamiliar terms rather than memorize each word as an unanalyzable whole. Instruction typically pairs form meanings with etymological stories and multiple example words drawn from the discipline's actual texts.

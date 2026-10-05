@@ -14,7 +14,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (3 for, 6 mixed) · 23 studies (9 review, 7 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (3 for, 6 mixed) · 25 studies (9 review, 8 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 1 claim rests on one study
 
 ## Description and scope
 

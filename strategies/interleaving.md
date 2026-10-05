@@ -19,7 +19,7 @@ Interleaving sequences practice so that problems from different categories or sk
 
 ## Design Implications
 
-Interleaving improves delayed test performance across mathematics, category learning, and motor skills, even though learners often feel it is less effective than blocked practice [Interleaved practice improves delayed test performance more than blocked practice.](../claims/interleaved-practice-improves-retention.md) [+S]. The mechanism is twofold: discriminative contrast — comparing adjacent problems reveals what makes category A different from category B — and retrieval practice, because each item requires reactivating the correct strategy rather than repeating the previous one. Interleaving trades short-term fluency for long-term retention and transfer, which is why learners' preference for blocked practice is a poor design guide [~M].
+Interleaving improves delayed test performance across mathematics, category learning, and motor skills, even though learners often feel it is less effective than blocked practice [Interleaved practice improves delayed test performance more than blocked practice.](../claims/interleaving-improves-inductive-learning.md) [+S]. The mechanism is twofold: discriminative contrast — comparing adjacent problems reveals what makes category A different from category B — and retrieval practice, because each item requires reactivating the correct strategy rather than repeating the previous one. Interleaving trades short-term fluency for long-term retention and transfer, which is why learners' preference for blocked practice is a poor design guide [~M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Interleaving improves delayed test performance across mathematics, category lear
 
 ### Target Learning Goals
 - Discrimination learning: selecting the correct strategy or category, not just executing it
-- Long-term retention and transfer of procedures [Interleaved practice improves delayed test performance more than blocked practice.](../claims/interleaved-practice-improves-retention.md) [+S]
+- Long-term retention and transfer of procedures [Interleaved practice improves delayed test performance more than blocked practice.](../claims/interleaving-improves-inductive-learning.md) [+S]
 - Inductive concept learning from exemplars [~S]
 
 ### Instructions

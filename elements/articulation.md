@@ -12,7 +12,7 @@ generated:
 # Articulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Articulation asks learners to verbalize their thought processes, reasoning, and problem-solving strategies as they work — explaining what they are doing, why, and how they know. It functions as both a learning mechanism (verbalization forces organization of knowledge) and an assessment mechanism (instructors can diagnose reasoning errors that silent work conceals). In [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md), articulation is the phase that follows modeling and coaching: learners make their own thinking visible just as the expert made theirs visible during demonstration.

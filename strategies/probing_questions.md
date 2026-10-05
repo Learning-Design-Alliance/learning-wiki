@@ -12,14 +12,14 @@ generated:
 # Probing Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 11 studies (5 quant-synthesis, 4 causal, 1 review, 1 qualitative), `q2`–`q4` · 2 of 11 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 2 of 12 report an effect size
 
 ## Description
 Probing questions are follow-up questions that press learners to justify, elaborate, and examine their reasoning rather than settle for a first answer. R.W. Paul's taxonomy of Socratic questioning distinguishes six types: questions for clarification, questions that probe assumptions, questions that probe reasons and evidence, questions about viewpoints and perspectives, questions that probe implications and consequences, and questions about the question itself. Used well, they convert a correct answer into an articulated line of reasoning, making thinking visible and open to revision.
 
 ## Design Implications
 
-Probing questions work because they elicit elaboration and self-explanation, which force learners to integrate new material with prior knowledge instead of leaving it as isolated recall [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]. They also introduce productive intellectual discomfort: a well-aimed probe exposes a gap or contradiction that motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The effect depends on the facilitator treating learner responses as material to build on — contingent follow-up, not a scripted sequence of questions [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+Probing questions work because they elicit elaboration and self-explanation, which force learners to integrate new material with prior knowledge instead of leaving it as isolated recall [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. They also introduce productive intellectual discomfort: a well-aimed probe exposes a gap or contradiction that motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The effect depends on the facilitator treating learner responses as material to build on — contingent follow-up, not a scripted sequence of questions [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - One-to-one conferring: probes during individual work, where follow-up can be tightly contingent on the learner's actual reasoning
 
 ### Target Learners
-- Learners with moderate prior knowledge who have something to articulate and refine [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]
+- Learners with moderate prior knowledge who have something to articulate and refine [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Most effective in higher education and professional development, where discussion norms and knowledge bases are established
 - Less suitable for complete novices, who need [explicit teaching](../patterns/direct-instruction.md) before their reasoning is worth probing [~M]
 

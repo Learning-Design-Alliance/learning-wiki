@@ -9,7 +9,7 @@ generated:
   at: 2026-10-02
 sources:
   - id: binder-2020
-    resource: "https://doi.org/10.1111/1467-9817.12319"
+    resource: "https://doi.org/10.1111/1467-9817.12314"
     title: "Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416"
     author: "Binder, K. S., Tremblay, K. A., & Joseph, A"
 ---
@@ -17,7 +17,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 16 studies (6 causal, 5 review, 3 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 16 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 18 studies (7 causal, 5 review, 4 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 18 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

@@ -75,7 +75,7 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — unguided hands-on tasks can impose extraneous load that crowds out sense-making
 - [Activation improves learning.](activation-improves-learning.md) — activating relevant concepts before activity helps learners connect doing to knowing
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — post-activity checks surface whether concepts were actually extracted
-- [Anchored instruction improves learning.](../patterns/anchored-instruction.md) — pairs experience with explicit conceptual framing in a meaningful context
+- [Anchored instruction](../patterns/anchored-instruction.md) (pattern) — pairs experience with explicit conceptual framing in a meaningful context
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — the guidance needed to integrate concepts for novices may become redundant for advanced learners
 - [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](dale-related-concrete-and-abstract-not-realism.md) — related
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — related

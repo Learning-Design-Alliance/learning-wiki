@@ -124,6 +124,38 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 — waves 1–3's open findings settled, before wave 4
+
+- **Citations, Crossref-checked** (first author, year and title): the frontmatter `resource:` disagreed with Key
+  Sources on ten converted pages, and the frontmatter side was wrong each time (another paper in the same issue, or
+  no record): Jacobson & Spiro (both cognitive-flexibility pages), Numrich, Gellevij, Givens (and its year: 2019, not
+  2020), Reigeluth (listed twice), Binder (`…12319` is an "Issue Information" record), Sachs, Hooley, and Vo & Morris,
+  whose journal was invented (*Journal of Education for Business* 81(6) 315–320, not *J. Economic Education*).
+  Setlhodi (2018)'s Key Sources DOI was a 2021 anthology reprint; it now carries the 2018 handbook chapter's own
+  (`10.4018/978-1-5225-5085-3.ch010`). Kulik et al. (1990) has two registered DOIs (JSTOR and SAGE) for one paper;
+  the last JSTOR one moved to SAGE's. `principles/social-presence`'s `https://example.org` placeholder link is gone.
+- **Claim pages corrected from their own entries**: 16 overstated titles rewritten (slugs unchanged, old titles in
+  `<!-- deprecated title -->` comments, link text on 155 pages; text inside comments left verbatim), stale "no
+  evidence" text on 16 pages, `erroneous-examples-build-conceptual-knowledge` brought in line with its entry (grades
+  4–5, no transfer), four recodes where the entry prints the statistic (community-partner conflict r ≈ −.4 → `q2 i3`,
+  syllabus connection r = .569 → `i3`, refutational-text `i1` → `i?`, experimenter-underlining `i0` → `i?`), the
+  parliamentary-debate survey `theoretical` → `associational r1`, and two wrong links. **Markers on design pages
+  citing a retitled claim were not changed**: `fiction-reading-improves-empathy` now says the evidence is
+  theory-of-mind, not empathy, and pages citing it `[+]` for empathy need a reading.
+- **Eight duplicate claims folded** (`merge_claims.py`, each slug an alias): lateral reading into civic online
+  reasoning; two interleaving pages into `interleaving-improves-inductive-learning` (which took the precise title);
+  `self-explanation-prompts-…-worked-examples` and `self-explanation-improves-learning` into
+  `self-explanation-improves-conceptual-understanding` (now four studies); `matching-instruction-to-styles-no-effect`
+  into the learning-styles claim; `discussion-quality-drives-comprehension` and
+  `structured-discussion-approaches-improve-comprehension` into `structured-discussion-methods-improve-comprehension`.
+  **Not merged**: `goal-setting-improves-performance` and `specific-difficult-goals-…` (general against specific,
+  different studies), and wave 1's principle pairs (`scaffolding`/`scaffolding-and-fading`,
+  `assessment-for-learning`/`formative-assessment`), which are the maintainer's call.
+- **Still open**: Brewer & Klein (2003)'s sibling claims still say "adult learners" (the entry says undergraduate
+  business majors); Gentner et al. (2003) is `r3` on one claim and `r?` on two, which a read of the full article would
+  settle; wave 2's Key Sources with no claim page (Patall et al. 2008, Reeve, Richland et al. 2007, Abedini et al.
+  2021, Champion 2015); the strategy near-duplicates.
+
 ### 2026-10-03 — the four pages wave 3 skipped: two duplicates folded, two theories absorbed
 
 - **`principles/self-regulation` folded into `self-regulated-learning`** (its slug an alias, beside `metacognition`).

@@ -12,14 +12,14 @@ generated:
 # SIFT Method
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies (6 causal, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (6 causal, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 10 report an effect size
 
 ## Description
 The SIFT method, developed by Mike Caulfield, is a streamlined approach to evaluating online information: **S**top and check your emotional reaction, **I**nvestigate the source, **F**ind better coverage of the claim, and **T**race claims, quotes, and media to their original context. Unlike traditional checklist-based source evaluation (e.g., CRAAP), SIFT treats the open web itself as the fact-checking tool — learners "read laterally," leaving an unfamiliar page to see what independent sources say about it and about the claim.
 
 ## Design Implications
 
-SIFT operationalizes the professional fact-checking practices documented by Wineburg and McGrew, whose studies found that professional fact-checkers outperformed historians and Stanford students precisely because they left the page immediately to read laterally [Lateral reading outperforms vertical reading for evaluating online sources.](../claims/lateral-reading-improves-source-evaluation.md) [+S]. Checklist approaches that keep learners on the page ("vertical reading") are exploited by sophisticated misinformation, which often looks professional and cites plausible-sounding evidence [Checklist-based source evaluation is less effective than lateral reading.](../claims/checklist-evaluation-ineffective-online.md) [-M]. SIFT's four moves are deliberately cheap — each should take seconds to a few minutes — so that evaluation becomes a habitual reflex rather than a burdensome task [Civic online reasoning instruction improves students' evaluation of web sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S].
+SIFT operationalizes the professional fact-checking practices documented by Wineburg and McGrew, whose studies found that professional fact-checkers outperformed historians and Stanford students precisely because they left the page immediately to read laterally [Lateral reading outperforms vertical reading for evaluating online sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]. Checklist approaches that keep learners on the page ("vertical reading") are exploited by sophisticated misinformation, which often looks professional and cites plausible-sounding evidence [Checklist-based source evaluation is less effective than lateral reading.](../claims/checklist-evaluation-ineffective-online.md) [-M]. SIFT's four moves are deliberately cheap — each should take seconds to a few minutes — so that evaluation becomes a habitual reflex rather than a burdensome task [Civic online reasoning instruction improves students' evaluation of web sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S].
 
 ### Context
 #### Requirements

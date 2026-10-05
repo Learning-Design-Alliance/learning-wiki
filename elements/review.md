@@ -12,7 +12,7 @@ generated:
 # Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Review places learners in the role of evaluator: they examine their own or peers' work against criteria before a final version is produced. The act of judging work — identifying strengths, diagnosing weaknesses, and articulating improvements — converts evaluation from an instructor-only function into a learning activity in its own right.

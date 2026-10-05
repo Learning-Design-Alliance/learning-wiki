@@ -45,7 +45,7 @@ The researchers found that for complex tasks with high element interactivity, no
 This finding qualifies the whole-task approach, suggesting that [part-task practice](../elements/part-task-practice.md) is a necessary precursor or scaffold when the "whole" is too complex for the learner's current expertise.
 
 ## Related Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md)
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md)
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — reports the opposite

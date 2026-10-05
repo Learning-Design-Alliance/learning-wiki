@@ -17,7 +17,7 @@ sources:
 # Choose instructional strategies that promote self-generated elaboration to foster knowledge transfer and accounting expertise
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 4 studies (2 causal, 2 quant-synthesis), `q2`–`q4` · 1 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 The article concludes that instructional strategies should let students generate their own integration of new material with prior knowledge rather than passively receive instructor-provided solutions. It reports that "the self-elaboration strategy does improve students’ Procedural knowledge at 5% significance level compared to the instructor-assisted elaboration st rategy" and similarly for intellectual skills, so "instructional strategies should be chosen that promote self-generation elaboration."
@@ -44,7 +44,7 @@ The article concludes that instructional strategies should let students generate
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](../claims/elaboration-strategy-affects-posttest-performance.md) [+M]
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](../claims/elaboration-strategy-no-attitude-effect.md) [~W]
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](../claims/gpa-pretest-elaboration-interaction-intellectual-skills.md) [+W]
-- [Self-explanation improves learning](../claims/self-explanation-improves-learning.md) [+S]
+- [Self-explanation improves learning](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
 - [Generative Learning Improves Retention](../claims/generative-learning-improves-retention.md) [+M]
 

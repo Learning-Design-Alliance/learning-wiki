@@ -67,7 +67,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on
 - [Coherence Principle Irrelevant Material Hurts Learning](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S] — decoration that costs attention harms learning, which is the usability case stated instructionally
-- [Mismatched Graphic Organizers Increase Extraneous Load](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [+M] — a representation that does not fit the content taxes the learner even when it looks professional
+- [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [+M] — a representation that does not fit the content taxes the learner even when it looks professional
 
 #### Contradicting
 - [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [~S] — a smoother experience produces higher confidence and does not, on its own, produce more learning

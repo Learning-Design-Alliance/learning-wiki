@@ -12,7 +12,7 @@ generated:
 # 5-Minute Writing Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (5 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (5 for) · 12 studies (5 review, 4 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 This strategy replaces or supplements written margin comments with a short, scheduled one-on-one conference for each student. Before the conference cycle, the teacher reads each essay, records a rubric score, and notes one strength and one improvement area; the student independently reflects on their own draft and selects a growth area to discuss. During the five-minute meeting, the student presents their self-assessment first, and the teacher responds with targeted feedback and a concrete next step. The tight time limit forces both parties to prioritize a single instructional focus rather than covering everything at once.

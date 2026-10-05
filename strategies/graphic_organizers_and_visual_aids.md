@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers and Visual Aids
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 9 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers and visual aids present content in structured visual formats — concept maps, Venn diagrams, timelines, flowcharts, advance organizers, comparison matrices — that externalize relationships among ideas. They direct attention to the most important information, make structural relationships visible, and offload organization work from working memory onto the display.

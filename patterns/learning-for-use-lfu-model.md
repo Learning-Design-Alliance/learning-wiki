@@ -14,7 +14,7 @@ grain_size: unit
 # Learning-for-Use (LfU) Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning-for-Use is a pattern for designing inquiry so that knowledge is learned in response to a meaningful need and then refined through application. The model typically moves through three broad phases: motivate the need for new knowledge, support knowledge construction, and then refine that knowledge through use in a consequential task. The central idea is that knowledge becomes more retrievable and transferable when learners acquire it for a purpose rather than as isolated content.
@@ -59,7 +59,7 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting

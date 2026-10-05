@@ -9,8 +9,8 @@ id: mastery-learning-improves-outcomes
 evidence_strength: pending
 sources:
   - id: kulik-et-al-1990
-    resource: "https://doi.org/10.2307/1170612"
-    title: "Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.2307/1170612](https://doi.org/10.2307/1170612)"
+    resource: "https://doi.org/10.3102/00346543060002265"
+    title: "Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)"
     author: "Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L."
     q: 4
     i: "?"
@@ -34,7 +34,7 @@ When learners must demonstrate mastery of each unit before advancing, achievemen
 
 ### Kulik et al. 1990
 
-Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.2307/1170612](https://doi.org/10.2307/1170612)
+Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of Mastery Learning Programs: A Meta-Analysis. *Review of Educational Research, 60*(2), 265. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
 
 `q4 · meta-analysis (108 controlled evaluations)` · `i? · no pooled effect size reported in what was read` · `n=108 studies` · `quant-synthesis · r?`
 

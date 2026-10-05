@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Fiction Reading Improves Empathy
+title: "Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy"
 status: draft
 generated:
   by: claude/unspecified
@@ -37,12 +37,13 @@ sources:
     rigour: "?"
 ---
 
-# Fiction Reading Improves Empathy
+# Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
+<!-- deprecated title (2026-10-05, overstated its evidence): Fiction Reading Improves Empathy -->
 
-Reading literary fiction — particularly narratives that require inferring characters' mental states — can improve readers' performance on emotion-recognition and mentalizing tasks, at least transiently.
+Reading literary fiction — particularly narratives that require inferring characters' mental states — can improve readers' performance on emotion-recognition and mentalizing tasks, at least transiently. None of the three studies recorded here measures empathy: their outcomes are theory-of-mind and social-cognition task scores (for example the Reading the Mind in the Eyes Test). The pooled effect is below the d 0.2 threshold for a small effect (g = .15–.16), and the best-known single-passage result (Kidd & Castano 2013) did not replicate in a 792-participant multi-site study.
 
 ## Subclaims
 

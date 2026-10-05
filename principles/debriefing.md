@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size
 
 ## Description
 Debriefing is a structured reflection after an activity, simulation, discussion, or performance in which learners revisit what happened, why it happened, and what should change next time. Its value lies in making experience interpretable. Without debriefing, learners may leave with strong impressions but weak insight; with it, they can compare mental models, surface errors, consolidate learning, and plan transfer.

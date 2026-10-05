@@ -12,7 +12,7 @@ generated:
 # KWL Chart
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 A KWL chart is a three-column graphic organizer completed across a lesson: before instruction, students list what they already **Know** about a topic and what they **Want** to know; after instruction, they record what they **Learned**. Developed by Donna Ogle for expository reading, it functions as a pre-reading activation routine, a goal-setting device, and a post-hoc self-assessment in a single low-cost artifact.

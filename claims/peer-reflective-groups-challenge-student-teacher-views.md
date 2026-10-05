@@ -44,5 +44,5 @@ The digest reports a 1996 study of third-year teaching students in which researc
 
 ## Related Claims
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related
-- [Reflective practice shows mixed evidence of effectiveness in professional education](reflective-practice-evidence-mixed-in-professional-education.md) — related
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related

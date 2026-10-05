@@ -12,7 +12,7 @@ author: Charles Reigeluth
 grain_size: course
 sources:
   - id: reigeluth-1979
-    resource: "https://doi.org/10.1007/BF02984376"
+    resource: "https://doi.org/10.1007/bf02984374"
     title: "Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15"
     author: Reigeluth, C. M
 ---
@@ -20,7 +20,7 @@ sources:
 # Elaboration Theory
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (2 for, 9 mixed) · 11 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (2 for, 9 mixed) · 13 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -102,7 +102,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 
 ## Illustrative design instance and observation record
 
@@ -123,7 +123,6 @@ This pattern is scoped to sequencing organised content over a unit or course; it
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
-- Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [https://doi.org/10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
 - Reigeluth, C. M., & Stein, F. S. (1983). The elaboration theory of instruction. In C. Reigeluth (Ed.), *Instructional-design theories and models* (pp. 335-381). Erlbaum.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.

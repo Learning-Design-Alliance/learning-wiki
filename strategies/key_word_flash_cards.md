@@ -12,7 +12,7 @@ generated:
 # Key Word Flash Cards
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Key word flash cards are a vocabulary-building tool for mathematical word problems. Each card shows an operation and its symbol (e.g., "+", addition) on one side and the words that typically signal that operation in text (e.g., "sum," "altogether," "in all," "total") on the reverse. Students use the cards for retrieval practice and as a reference when classifying word problems, building the association between linguistic cues and mathematical operations.

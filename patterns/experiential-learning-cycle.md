@@ -28,14 +28,14 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 19 studies (11 quant-synthesis, 6 causal, 2 review), `q2`–`q4` · 10 of 19 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 20 studies (11 quant-synthesis, 6 causal, 3 review), `q2`–`q4` · 10 of 20 report an effect size · 1 claim rests on one study
 
 ## Description
 The experiential learning cycle organizes instruction as a repeating four-stage loop: a **concrete experience**, **reflective observation** on what happened, **abstract conceptualization** that names the principle behind it, and **active experimentation** that puts the principle back to work in a new situation. Kolb's formulation frames learning as "the process whereby knowledge is created through the transformation of experience" — experience alone is the raw material, and the remaining three stages are what convert it into knowledge that transfers. The pattern exists because doing something does not reliably teach anything: without a structured route from event to principle, learners generalize from surface features, keep tacit hunches tacit, or draw the wrong lesson entirely.
 
 ## Implications
 
-The cycle's design value is that it makes reflection a scheduled, non-optional stage rather than something learners are trusted to do on their own. A concrete experience that surprises the learner creates the conceptual gap that motivates revision [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]; the reflective and conceptualizing stages are what let that gap resolve into an articulated rule instead of a vague impression. Structured reflection of this kind does improve outcomes, but the qualifier matters: the benefit is tied to the structure, not to reflection as a disposition [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+M]. Because each loop begins by drawing on what the learner already brings to the experience, the cycle also enacts activation of prior knowledge [Activation Improves Learning](../claims/activation-improves-learning.md) [+M], and its experimentation stage keeps learners generating rather than receiving [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S].
+The cycle's design value is that it makes reflection a scheduled, non-optional stage rather than something learners are trusted to do on their own. A concrete experience that surprises the learner creates the conceptual gap that motivates revision [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]; the reflective and conceptualizing stages are what let that gap resolve into an articulated rule instead of a vague impression. Structured reflection of this kind does improve outcomes, but the qualifier matters: the benefit is tied to the structure, not to reflection as a disposition [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+M]. Because each loop begins by drawing on what the learner already brings to the experience, the cycle also enacts activation of prior knowledge [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M], and its experimentation stage keeps learners generating rather than receiving [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -45,7 +45,7 @@ The cycle's design value is that it makes reflection a scheduled, non-optional s
 - A second, non-identical situation in which to test the abstraction — a cycle that stops after conceptualization never checks whether the principle holds ([Practice](../elements/practice.md))
 
 #### Constraints
-- Where reflection is unstructured, unprompted, or graded as a compliance artifact, the evidence base becomes noticeably weaker and less consistent [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
+- Where reflection is unstructured, unprompted, or graded as a compliance artifact, the evidence base becomes noticeably weaker and less consistent [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - The cycle is often taught alongside Kolb's Learning Style Inventory and the practice of assigning learners a preferred stage; matching instruction to a diagnosed style has no learning benefit and should not be treated as part of the pattern [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
 - For genuine novices, an unsupported concrete experience imposes heavy extraneous load: with no schema to organize what they are seeing, learners spend the experience coping rather than noticing, and arrive at reflection with nothing to reflect on. Front-load worked examples or demonstration before the first loop ([Demonstration](../elements/demonstration.md))
 - The model has been criticized as an oversimplified account of Dewey's reflective thought — the four stages are not empirically established as a fixed sequence, and treating the order as mandatory can force artificial staging onto activities that do not work that way (Bergsteiner et al., 2010; Miettinen, 2000)
@@ -62,7 +62,7 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 
 ### Target Learners
 - Learners with enough domain grounding to interpret the experience — professional-formation contexts (residents, student teachers, trainees, interns) are the canonical fit
-- Adult learners bringing substantial prior experience the cycle can draw on [Activation Improves Learning](../claims/activation-improves-learning.md) [+M]
+- Adult learners bringing substantial prior experience the cycle can draw on [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
 - Weakest fit for complete novices in a domain, who need modeling and scaffolding before a bare experience becomes informative
 
 ### Theory
@@ -78,14 +78,14 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 #### Supporting
 - [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+M] — the reflective observation stage carries the pattern, and structure is what makes it work
 - [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S] — active experimentation keeps learners generating rather than receiving
-- [Activation Improves Learning](../claims/activation-improves-learning.md) [+M] — each loop re-enters with the prior loop's abstraction as activated prior knowledge
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M] — each loop re-enters with the prior loop's abstraction as activated prior knowledge
 - [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M] — a surprising concrete experience supplies the disequilibrium the cycle then resolves
 - [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M] — concept maps are a practical artifact for the abstract conceptualization stage
 - [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S] — feedback during the experimentation stage is what tells learners whether the abstraction held
 
 #### Contradicting
 - [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S] — the Learning Style Inventory commonly bundled with the cycle does not support the instructional adaptations it is used to justify
-- [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M] — unstructured reflection is where the pattern most often fails in practice
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M] — unstructured reflection is where the pattern most often fails in practice
 
 ## Design
 

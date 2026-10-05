@@ -25,7 +25,7 @@ sources:
 # Developing Your Cultural Awareness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
 
 ## Description
 Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference. For educators, this includes noticing bias, understanding how identity and power affect classroom experience, and designing instruction in ways that reduce stereotype threat and exclusion. It is not a one-time competency; it is a sustained reflective and relational practice that changes how instructors interpret learner behavior, choose materials, and respond to participation.

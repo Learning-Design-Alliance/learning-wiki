@@ -39,7 +39,7 @@ The article describes Bloom's group-based, teacher-paced mastery learning model 
 
 - Mastery Learning Higher Achievement Grades Attendance Undergraduate [+M]
 - Mastery Learning Reduces Aptitude Achievement Correlation [+M]
-- [Group-based mastery learning raises time-on-task and lowers course attrition, in contrast to PSI findings](../claims/mastery-improves-engagement-attrition.md) [+M]
+- [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](../claims/mastery-improves-engagement-attrition.md) [+M]
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](../claims/group-mastery-positive-achievement-all-studies.md) [+M]
 
 ## Related Theories

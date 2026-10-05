@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Reflective practice shows mixed evidence of effectiveness in professional education
+title: "Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,16 +19,19 @@ sources:
     rigour: "?"
 ---
 
-# Reflective practice shows mixed evidence of effectiveness in professional education
+# Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2010 (23 studies, 23 effect sizes)
+<!-- deprecated title (2026-10-05, overstated its evidence): Reflective practice shows mixed evidence of effectiveness in professional education -->
 
-Structured reflection on one's own professional practice is widely embedded in professional education (teaching, nursing, medicine, social work), but the evidence that it improves learning or practice outcomes is mixed rather than consistently positive. [~W]
+<!-- deprecated (2026-10-05, overstated its evidence): Structured reflection on one's own professional practice is widely embedded in professional education (teaching, nursing, medicine, social work), but the evidence that it improves learning or practice outcomes is mixed rather than consistently positive. [~W] -->
+
+Structured reflection is widely embedded in professional education (teaching, nursing, medicine, social work). The one study recorded here, a meta-analysis of 23 controlled studies in higher education, found a medium positive average effect on learning (g = 0.56) that varied with intervention duration, peer interaction and the reflective activity used. It does not show the evidence to be mixed, and it is not specific to professional education; the page's slug keeps its original wording.
 
 ## Subclaims
 
-`q4 i2` A meta-analysis of 23 controlled studies (n=2,010) finds reflective interventions produce a significant medium-sized average effect on learning outcomes, but the effect size varies substantially by intervention duration, whether peer interaction is included, and the specific reflective activity used — supporting the claim that overall effectiveness is real on average but inconsistent across implementations. [→ Guo 2022](#guo-2022)
+`q4 i2` A meta-analysis of 23 controlled studies (n=2,010) finds reflective interventions produce a significant medium-sized average effect on learning outcomes, but the effect size varies substantially by intervention duration, whether peer interaction is included, and the specific reflective activity used — showing that the average effect is positive but varies with how reflection is implemented. [→ Guo 2022](#guo-2022)
 
 ## Evidence
 
@@ -38,7 +41,7 @@ Guo, L. (2022). How should reflection be supported in higher education? — A me
 
 `q4 · well-powered random-effects meta-analysis of controlled experimental designs` · `i2 · medium effect, g=0.56 (SE=0.06)` · `n=2010 (23 studies, 23 effect sizes)` · `quant-synthesis · r?`
 
-A meta-analysis of controlled experiments testing reflective interventions intended to promote learning outcomes in higher education, drawing on 23 studies with 2,010 participants total. Under a random-effects model the pooled effect was positive and medium-sized (g = 0.56), but moderator analyses showed the effect size depended on intervention duration, whether the reflection included peer interaction, and which specific reflective activity was used — i.e., the average effect masks considerable heterogeneity driven by how reflection is implemented, consistent with this claim page's point that operationalization varies widely and drives the mixed picture in the wider literature.
+A meta-analysis of controlled experiments testing reflective interventions intended to promote learning outcomes in higher education, drawing on 23 studies with 2,010 participants total. Under a random-effects model the pooled effect was positive and medium-sized (g = 0.56), but moderator analyses showed the effect size depended on intervention duration, whether the reflection included peer interaction, and which specific reflective activity was used — i.e., the average effect masks considerable heterogeneity driven by how reflection is implemented, consistent with the point below that operationalization varies widely.
 
 ## Discussion
 

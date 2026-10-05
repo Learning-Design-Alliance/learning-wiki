@@ -12,7 +12,7 @@ generated:
 # Character Scrapbooking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Students select four key events from a novel and create scrapbook entries representing a character's inner thoughts, feelings, and experiences during each event. Entries combine drawings, images, magazine cutouts, and textual quotes, and may be shared with peers or reframed as social media posts from the character's perspective. The activity requires students to infer unspoken mental states from textual evidence, then translate that inference into a visual-verbal composition.

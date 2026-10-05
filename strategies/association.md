@@ -12,7 +12,7 @@ generated:
 # Association
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Association is a mnemonic strategy in which learners deliberately connect new information to existing knowledge — familiar people, places, images, or stories — so the new material has a retrieval cue at recall time. Associations work best when they are vivid, concrete, and distinctive; bizarre or emotionally salient images tend to be more memorable than mundane ones. The strategy converts abstract or arbitrary material into something the learner's prior knowledge can "hook onto."

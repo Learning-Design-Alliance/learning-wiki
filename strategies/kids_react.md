@@ -12,7 +12,7 @@ generated:
 # Kids React
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Perform an online image search for a charged everyday term (the original uses "school lunch"), project the results or distribute them as handouts, and have students attend to one image at a time. Students signal an immediate emotional reaction — a face, or thumbs up, down, or sideways — and the teacher charts the class's responses. The class then discusses what assumptions each reaction rested on, and students write individually about the assumptions a person might make from a simple image search.

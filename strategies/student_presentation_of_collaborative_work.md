@@ -12,7 +12,7 @@ generated:
 # Student Presentation of Collaborative Work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 After completing a collaborative problem-solving task, groups project their work and present their final responses to the class. Learners take turns explaining how they arrived at their answers and why they believe they accomplished the task of building the best answer they could. The presentation phase converts group work from a private activity into a public performance of reasoning, making each group's thinking visible and available for peer critique.

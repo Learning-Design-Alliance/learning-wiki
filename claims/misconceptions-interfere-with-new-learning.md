@@ -71,7 +71,9 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 
 **Open questions.** The literature distinguishes between misconceptions that are fully replaced and those that are suppressed but retained — learners often revert to intuitive models under time pressure or in unfamiliar contexts [~M]. How durable conceptual change is across contexts, and how best to assess whether a misconception has truly been displaced rather than merely inhibited, remain active questions.
 
-**Evidence status.** This page currently has no catalogued evidence entries; the strength tags above reflect the general shape of the conceptual-change literature but await citation-level support.
+**Evidence status.** Two syntheses are recorded, a meta-analysis of conceptual-change interventions (Guzzetti et al. 1993) and a review of two decades of refutation-text research (Tippett 2010), both read from abstracts only and neither with a recorded pooled effect size. Both test interventions that overcome misconceptions, not interference itself, so the strength tags above reflect the general shape of the conceptual-change literature more than citation-level support.
+
+<!-- deprecated (2026-10-05, stale: entries had been added): **Evidence status.** This page currently has no catalogued evidence entries; the strength tags above reflect the general shape of the conceptual-change literature but await citation-level support. -->
 
 ## Related Claims
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-02
 sources:
   - id: jacobson-1995
-    resource: "https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M"
+    resource: "https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn"
     title: "Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301-333"
     author: "Jacobson, M. J., & Spiro, R. J"
 ---
@@ -17,7 +17,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 14 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 14 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,7 +97,7 @@ How far each may be carried: the criss-crossing experiment supports steps 3 and 
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal

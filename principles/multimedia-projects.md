@@ -25,13 +25,13 @@ sources:
 # Multimedia Projects
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition. The instructional value is not simply using technology; it is requiring learners to make design choices about how best to represent, explain, and communicate an idea. These projects can deepen engagement and expression, but they also raise the complexity of planning, composing, and production.
 
 ## Implications
-Multimedia projects are valuable when the medium choices themselves become part of the learning. Asking learners to decide how to explain an idea through text, image, sound, or interaction can deepen synthesis and communication because they must translate understanding into a designed artifact rather than only restate it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main tradeoff is production overhead: if tool use, editing, or format decisions dominate attention, the project can become a technology exercise instead of a learning task. Strong designs therefore constrain scope, clarify criteria, and assess explanation as well as polish, especially when the project is meant to approximate a meaningful whole-task performance rather than just a polished media object [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M].
+Multimedia projects are valuable when the medium choices themselves become part of the learning. Asking learners to decide how to explain an idea through text, image, sound, or interaction can deepen synthesis and communication because they must translate understanding into a designed artifact rather than only restate it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main tradeoff is production overhead: if tool use, editing, or format decisions dominate attention, the project can become a technology exercise instead of a learning task. Strong designs therefore constrain scope, clarify criteria, and assess explanation as well as polish, especially when the project is meant to approximate a meaningful whole-task performance rather than just a polished media object [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M].
 
 ### Context
 #### Requirements
@@ -68,7 +68,7 @@ Multimedia projects are valuable when the medium choices themselves become part 
 
 ### Claims
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
 
 ## Related Principles
 

@@ -70,7 +70,9 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 - **Case quality and multiple cases.** A single rich case can anchor one concept but may encourage overgeneralization; exposure to multiple varied cases, as argued by [cognitive flexibility theory](../claims/cognitive-flexibility-theory-multiple-cases.md), is the standard remedy for ill-structured domains.
 - **Process support.** Unstructured case discussion can degenerate into opinion exchange; pairing cases with [activation](../claims/activation-improves-learning.md) prompts, structured roles, or [collaborative learning](../claims/collaborative-learning-improves-outcomes.md) routines is likely necessary for gains.
 
-**Open questions.** Whether exam gains persist at delay, whether they generalize across professional and non-professional domains, and how case-based formats compare with cheaper alternatives such as worked examples all remain to be established. No controlled evidence entries are currently attached to this claim, so its strength is undetermined; studies still need to be added before any effect direction or magnitude should be assumed.
+**Open questions.** Whether exam gains persist at delay, whether they generalize across professional and non-professional domains, and how case-based formats compare with cheaper alternatives such as worked examples all remain to be established. Two sources are recorded: a non-randomised within-cohort comparison in one community-college biology course (Bonney 2015, n=56), which favoured case-taught topics, and a systematic review of 104 health-professions papers (Thistlethwaite et al. 2012) that judged the evidence on learning inconclusive. No randomised comparison and no standardised effect size are recorded, so the size of any exam benefit, and its direction outside the one course studied, are not established.
+
+<!-- deprecated (2026-10-05, stale: entries had been added): No controlled evidence entries are currently attached to this claim, so its strength is undetermined; studies still need to be added before any effect direction or magnitude should be assumed. -->
 
 ## Related Claims
 

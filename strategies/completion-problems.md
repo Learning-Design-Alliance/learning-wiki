@@ -12,7 +12,7 @@ generated:
 # Completion Problems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 against, 1 unmarked) · 9 studies (4 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 against, 1 unmarked) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 A completion problem (also called a completion strategy or fade-in problem) presents learners with a task that is partially solved — the initial steps are provided, and the learner must supply the remainder. It sits between a full [worked example](../principles/worked-examples.md) and an unsolved problem, operationalizing the "completion strategy" from early cognitive load research [van Merriënboer, 1990]. As expertise grows, the proportion completed by the learner increases until they solve problems independently.
@@ -54,7 +54,7 @@ Completion problems reduce the unguided search that overwhelms novices while sti
 1. Select or author a fully worked solution to a representative task, with each step justified ([Worked Examples](../principles/worked-examples.md)).
 2. Delete the final step(s) and ask learners to complete them, providing the solution for self-checking.
 3. Sequence subsequent tasks so the learner-supplied portion grows — fade support progressively rather than jumping from full examples to unsolved problems [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
-4. Prompt learners to self-explain the given steps, not just continue them [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-prompts-improve-learning-from-worked-examples.md) [+M].
+4. Prompt learners to self-explain the given steps, not just continue them [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 5. Monitor performance and adjust the fading schedule; move to independent problems once completion is consistently accurate.
 
 ## Related Strategies

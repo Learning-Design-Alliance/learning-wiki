@@ -12,7 +12,7 @@ generated:
 # Journal Reflections
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Journal reflections ask learners to regularly write about their experiences, learning processes, and outcomes, connecting what happened to what it means and what to do next. The writing is typically structured by prompts that push beyond summary toward analysis — examining assumptions, monitoring progress, and planning adjustments. Journals can be private, instructor-read, or shared with peers, and may be paper-based or embedded in course platforms.

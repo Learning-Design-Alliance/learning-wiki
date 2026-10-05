@@ -17,13 +17,13 @@ sources:
 # Empathy Interviews
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 2 claims (2 mixed) · 3 studies (1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support. Unlike a survey or diagnostic checklist, the goal is not only to collect facts but to hear how learners interpret challenges, strengths, motivations, and belonging in their own words. Used well, empathy interviews improve the instructor's model of the learner and can lead to more responsive supports, stronger relationships, and better alignment between instruction and lived reality.
 
 ## Implications
-Empathy interviews are valuable because they replace assumption with direct evidence about how learners experience the system. Open-ended listening can reveal barriers, strengths, and motivations that standard diagnostics miss, and that usually leads to better instructional fit when the information is actually used to change supports or communication. These conversations depend heavily on learners explaining their experience in their own words [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M], and they are most useful when what is learned feeds into more authentic, context-sensitive design rather than abstract learner profiles [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M]. The design risk is extractive listening: if interviews gather stories without altering practice, they produce the appearance of care without the instructional value.
+Empathy interviews are valuable because they replace assumption with direct evidence about how learners experience the system. Open-ended listening can reveal barriers, strengths, and motivations that standard diagnostics miss, and that usually leads to better instructional fit when the information is actually used to change supports or communication. These conversations depend heavily on learners explaining their experience in their own words [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M], and they are most useful when what is learned feeds into more authentic, context-sensitive design rather than abstract learner profiles [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M]. The design risk is extractive listening: if interviews gather stories without altering practice, they produce the appearance of care without the instructional value.
 
 ### Context
 #### Requirements
@@ -60,7 +60,7 @@ Empathy interviews are valuable because they replace assumption with direct evid
 
 ### Claims
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M] — empathy interviews depend on learners narrating and interpreting their own experience in ways that reveal real barriers and strengths
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — interviews are most instructionally valuable when they reshape authentic tasks, supports, and contexts rather than staying as detached listening exercises
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — interviews are most instructionally valuable when they reshape authentic tasks, supports, and contexts rather than staying as detached listening exercises
 
 These are indirect anchors: empathy interviews rely on explanation, authentic context, and reflective interpretation, but the current claim inventory does not yet include a dedicated empathy-interview claim.
 

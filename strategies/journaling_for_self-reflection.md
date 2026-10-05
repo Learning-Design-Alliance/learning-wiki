@@ -12,7 +12,7 @@ generated:
 # Journaling for Self-Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Journaling for self-reflection asks learners to regularly record their thinking about course content, their learning processes, and their progress toward goals — then typically receive instructor or peer feedback on those entries. Unlike free-form diary writing, effective reflective journaling is prompted and structured: learners describe what they did, why it worked or failed, and what they will change next. The practice builds metacognitive monitoring and self-regulation while giving instructors a window into student thinking that conventional assessments do not reveal.

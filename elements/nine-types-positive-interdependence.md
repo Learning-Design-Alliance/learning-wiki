@@ -44,7 +44,7 @@ Digest 4 examines nine types of positive interdependence and how teachers can in
 ### Claims
 
 - [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W]
-- [Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~W]
+- [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [~W]
 
 ## Related Patterns
 

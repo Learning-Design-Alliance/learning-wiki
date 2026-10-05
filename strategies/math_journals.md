@@ -12,7 +12,7 @@ generated:
 # Math Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 2 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Math journals are a way to gauge a student's understanding of particular math concepts. Students use their math journals to explain their reasoning, communicate perceived strengths and personal concerns, and reflect on their learning experiences in response to journal prompts. Teachers check the journals periodically and provide individual feedback, making the journal a formative assessment tool as well as a writing-to-learn vehicle.

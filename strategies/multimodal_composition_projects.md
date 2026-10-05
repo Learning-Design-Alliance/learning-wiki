@@ -12,7 +12,7 @@ generated:
 # Multimodal Composition Projects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Multimodal composition asks learners to combine different modes of communication — linguistic, visual, audio, gestural, spatial — to convey a message, typically through digital tools that integrate images, audio, video, and text. Projects range from digital stories and podcasts to interactive web narratives and video essays. The pedagogical core is not tool use but *design*: learners must analyze what each mode affords and orchestrate modes so they reinforce rather than compete with the intended meaning.

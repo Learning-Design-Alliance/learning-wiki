@@ -12,7 +12,7 @@ generated:
 # Establish Talk Partners
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Establishing talk partners means assigning students a standing partner for pair-talk activities, chosen deliberately rather than left to self-selection. The pairing is established as a classroom routine so that talk activities can begin immediately, and partners are selected to ensure equitable exchange — avoiding pairings where one student dominates or both remain passive.

@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers for Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Students first recall as much as they can about a topic from memory — a "brain dump" — and then sort, cluster, and structure that retrieved information into a graphic organizer such as a timeline, concept map, or comparison matrix. Afterwards, they check against source texts to confirm, correct, or add information, which consolidates the retrieval benefit while making knowledge gaps visible.

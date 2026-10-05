@@ -28,7 +28,7 @@ sources:
 # Have Explicit Conversations About Emotions and Social Issues, Including Issues of Social Justice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 19 studies (10 quant-synthesis, 9 causal), `q2`–`q4` · 7 of 19 report an effect size
+> **Evidence** · 9 claims (9 for) · 19 studies (10 quant-synthesis, 8 causal, 1 design), `q2`–`q4` · 7 of 19 report an effect size
 
 ## Description
 This strategy treats emotions and contested social realities — race, class, gender, disability, power, exclusion — as legitimate, planned subjects of classroom talk, taught with the same deliberateness as any other content. Explicit means named and scheduled: emotion vocabulary is taught rather than assumed, and social issues are raised as planned curriculum rather than only when an incident forces them. The alternative is not neutrality. A classroom that never names these things still teaches something about them — that they are unspeakable here — and the learners for whom they are daily experience are the ones who learn it most clearly.
@@ -37,7 +37,7 @@ This strategy treats emotions and contested social realities — race, class, ge
 
 The emotions half rests on a fairly direct finding: emotional competence is teachable, and programmes that teach it explicitly and sequentially produce gains in social-emotional skills, behaviour, and academic achievement [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S] [SEL Programs Improve Behavior And Achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S], with effects detectable at follow-up [Social-emotional learning benefits persist at follow-up](../claims/sel-benefits-persist-follow-up.md) [+M]. Vocabulary is the load-bearing part — a learner with words for what they feel can report it, and a learner without them acts it out.
 
-The social-issues half rests on a different and less settled base. Jagers and colleagues' argument for transformative SEL is that competence-focused programmes can teach learners to regulate their responses to unjust conditions without ever examining the conditions, and that self-management taught this way functions as compliance training. Adding explicit discussion of power and identity is proposed as the corrective. That argument is well-developed conceptually and only partially tested empirically — treat it as a well-reasoned design commitment rather than an established effect [~W]. What is better supported is that structured, high-quality discussion improves reasoning and comprehension [Discussion Quality Drives Comprehension](../claims/discussion-quality-drives-comprehension.md) [+M], and that guided perspective-taking shifts intergroup attitudes [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M].
+The social-issues half rests on a different and less settled base. Jagers and colleagues' argument for transformative SEL is that competence-focused programmes can teach learners to regulate their responses to unjust conditions without ever examining the conditions, and that self-management taught this way functions as compliance training. Adding explicit discussion of power and identity is proposed as the corrective. That argument is well-developed conceptually and only partially tested empirically — treat it as a well-reasoned design commitment rather than an established effect [~W]. What is better supported is that structured, high-quality discussion improves reasoning and comprehension [Discussion Quality Drives Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M], and that guided perspective-taking shifts intergroup attitudes [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M].
 
 ### Context
 #### Requirements
@@ -51,7 +51,7 @@ The social-issues half rests on a different and less settled base. Jagers and co
 #### Constraints
 - Learners from affected groups are routinely conscripted as spokespeople or living examples; this is the most common and most damaging failure of the practice [-S]
 - Discussion without norms and structure can license harm, leaving those targeted worse off than if the topic had never been raised [-M]
-- Unfacilitated disagreement tends to entrench positions rather than shift them; the structure has to require engaging with the opposing case [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-approaches-improve-comprehension.md) [~M]
+- Unfacilitated disagreement tends to entrench positions rather than shift them; the structure has to require engaging with the opposing case [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [~M]
 - Emotion talk without vocabulary and structure becomes therapeutic in register and instructional in nothing — and teachers are not therapists [-M]
 - Content can be genuinely activating for learners with trauma histories; advance notice and an exit route are requirements, not courtesies [-M]
 - The evidence base is uneven: the SEL-competence half is well supported, the social-justice half considerably less so, and citing the former to justify the latter overstates what is known [~W]

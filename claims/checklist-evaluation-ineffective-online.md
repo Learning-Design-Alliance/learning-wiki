@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Checklist-based evaluation instruction does not reliably improve online source evaluation
+title: "One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments"
 status: draft
 generated:
   by: claude/unspecified
@@ -37,12 +37,15 @@ sources:
     rigour: "?"
 ---
 
-# Checklist-based evaluation instruction does not reliably improve online source evaluation
+# One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r1`, 1 qualitative `r?` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Checklist-based evaluation instruction does not reliably improve online source evaluation -->
 
-Teaching learners to evaluate online information via static checklists (e.g., source-evaluation rubrics applied to a single page) does not reliably produce sound evaluation of web sources.
+<!-- deprecated (2026-10-05, overstated its evidence): Teaching learners to evaluate online information via static checklists (e.g., source-evaluation rubrics applied to a single page) does not reliably produce sound evaluation of web sources. -->
+
+In the two quasi-experiments recorded here, a single library session teaching the CRAAP checklist did no better than the alternative it was compared with: six journalistic question words (Lowe et al. 2021) or a networked, lateral-reading-style framework (Ratcliffe 2026). In Ratcliffe (2026) the CRAAP group's accuracy rose from pre-test to a five-week post-test, with no untrained control group, so neither study shows checklist instruction failing outright. A third study (Wineburg & McGrew 2019) shows why on-page cues can mislead evaluators but taught no checklist.
 
 ## Subclaims
 
@@ -96,5 +99,4 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — checklists add procedural overhead without adding evaluative power, a load cost with no payoff
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — surface features like professional design are irrelevant cues that checklists mistakenly treat as diagnostic
 - [Authentic audiences improve student work](authentic-audiences-improve-student-work.md) — evaluation instruction works best grounded in authentic open-web tasks rather than decontextualized rubrics
-- [Lateral Reading Improves Source Evaluation](lateral-reading-improves-source-evaluation.md) — related
 - [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related

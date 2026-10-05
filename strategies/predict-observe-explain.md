@@ -12,14 +12,14 @@ generated:
 # Predict Observe Explain
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 3 causal), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Predict Observe Explain (POE) is a three-phase instructional strategy, originally developed by White and Gunstone (1992), in which learners first commit to a written prediction about the outcome of a demonstration or event, then observe the actual outcome, and finally explain what happened — especially any mismatch between their prediction and the observation. The commitment to a prediction before observation is what distinguishes POE from ordinary demonstration: it surfaces prior conceptions and creates a reason to resolve discrepancies.
 
 ## Design Implications
 
-POE works because committing to a prediction activates prior knowledge and exposes it to testing, and because observed discrepancies between prediction and outcome create the cognitive conflict that motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The strategy also leverages the testing effect: making a prediction is a form of retrieval and generation that strengthens subsequent learning even when the prediction is wrong [Retrieval practice improves retention more than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. The explanation phase is where most learning accrues; without it, learners may dismiss or rationalize discrepant observations [Self-explanation prompts improve learning.](../claims/self-explanation-improves-learning.md) [+S].
+POE works because committing to a prediction activates prior knowledge and exposes it to testing, and because observed discrepancies between prediction and outcome create the cognitive conflict that motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The strategy also leverages the testing effect: making a prediction is a form of retrieval and generation that strengthens subsequent learning even when the prediction is wrong [Retrieval practice improves retention more than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. The explanation phase is where most learning accrues; without it, learners may dismiss or rationalize discrepant observations [Self-explanation prompts improve learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

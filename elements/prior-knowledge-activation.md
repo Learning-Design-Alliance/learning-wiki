@@ -36,7 +36,7 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Activation Improves Learning](../claims/activation-improves-learning.md) [+M]
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
 
 ## Related Elements
 - [Activation](activation.md)

@@ -53,7 +53,7 @@ Open questions include how much structure (sentence starters, rubrics) is optima
 ## Related Claims
 
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — writing tasks must manage load to avoid crowding out reasoning
-- [Annotating improves learning](annotating-improves-learning.md) — a lighter-weight form of generative written processing
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — a lighter-weight form of generative written processing
 - [Argumentation improves reasoning](argumentation-improves-reasoning.md) — mathematical justification writing is a form of argumentation
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — written explanations are most valuable when they feed feedback loops
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related

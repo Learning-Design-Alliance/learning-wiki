@@ -42,6 +42,7 @@ Authors' conclusion drawn from the full survey of 236 students, in which student
 
 ## Discussion
 
+The survey measured students' stated priorities among three kinds of interaction. It did not measure learning or satisfaction, which is what the Interaction Equivalency Theorem's two theses are about, so the confirmation is the authors' reading of preference data, not a test of either thesis. The slug's "confirmed" is kept only so that links resolve.
 
 ## Related Claims
 - [Open-ended responses rank the review section and practice questions as the most-liked lesson features](open-ended-likes-review-and-practice-top.md) — related

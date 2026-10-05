@@ -44,5 +44,5 @@ Stimulated-recall and class-recording evidence from Period 3: Week 2 Text Chat f
 
 ## Related Claims
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
-- [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related

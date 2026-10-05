@@ -17,7 +17,7 @@ sources:
 # Collaborative Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (3 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (2 causal, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning. It is useful when the task requires collective reasoning rather than isolated response.
@@ -43,8 +43,8 @@ Collaborative discussion is the element in which learners build understanding to
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](../claims/adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) [+W]
 - [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
-- [Structured Discussion Methods Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
-- [Discussion Quality Drives Comprehension](../claims/discussion-quality-drives-comprehension.md) [+S]
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- [Discussion Quality Drives Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
 
 ## Related Elements
 - [Peer Discussion](peer-discussion.md)

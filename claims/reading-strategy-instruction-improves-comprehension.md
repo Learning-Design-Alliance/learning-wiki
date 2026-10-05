@@ -75,7 +75,7 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 
 ## Related Claims
 
-- [Annotating improves learning](annotating-improves-learning.md) — annotation is a concrete strategy that operationalizes active text processing.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — annotation is a concrete strategy that operationalizes active text processing.
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — decoding fluency is a precondition for strategy use to pay off.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — strategies help learners manage the memory demands of extended text.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — overloaded readers cannot execute strategies effectively.
@@ -83,7 +83,6 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — highly skilled readers may need less scaffolding than strategy instruction provides.
 - [Strategy instruction is more effective when contextualized in authentic content-area tasks](learning-strategy-instruction-contextualized-more-effective.md) — related
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
-- [Structured Discussion Approaches Improve Comprehension](structured-discussion-approaches-improve-comprehension.md) — related
-- [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — related
+- [Structured Discussion Approaches Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim

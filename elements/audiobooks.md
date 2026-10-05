@@ -21,7 +21,7 @@ sources:
 # Audiobooks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (4 causal, 4 review, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 0 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 15 studies (5 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 15 report an effect size
 
 ## Description
 Audiobooks present written content as narrated audio, giving learners an alternative or complementary channel for accessing the same verbal material. They function both as an accommodation for learners with decoding difficulties and as a general instructional element for building vocabulary, background knowledge, and listening comprehension.

@@ -44,6 +44,6 @@ Attitude results from the four-condition experiment (Table 2, item significant a
 
 ## Related Claims
 - [Adult learners with high affiliation motive report significantly more favorable attitudes toward small group work than low affiliation learners](high-affiliation-motive-favorable-group-attitudes.md) — related
-- [Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
+- [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
 - [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
 - [Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners](reward-interdependence-benefit-attitudes.md) — related

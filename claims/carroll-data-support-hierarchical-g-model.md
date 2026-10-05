@@ -45,4 +45,4 @@ The review attributes this to Willingham (2004), who describes Carroll's review 
 ## Related Claims
 - [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related
-- [Matching instruction to students' learning styles or intelligences has no effect on learning](matching-instruction-to-styles-no-effect.md) — related
+- [Matching instruction to students' learning styles or intelligences has no effect on learning](learning-styles-matching-does-not-improve-learning.md) — related

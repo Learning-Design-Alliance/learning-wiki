@@ -83,7 +83,7 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 
 **Mechanism.** Dominant accounts attribute the effect to encoding variability and to desirable-difficulty processes — spaced study requires effortful retrieval and reconstruction of fading traces, which strengthens them more than the fluent, easy processing that massed study affords [+M]. This links spacing to [retrieval practice](retrieval-practice-improves-retention.md), which compounds with spacing when spaced sessions require active recall rather than rereading [+M].
 
-**Boundary conditions.** Spacing benefits are clearest for retention of discrete, relearnable items (vocabulary, facts, skills components). Complex, integrative tasks may benefit more from interleaving and varied practice than from simple temporal spacing of identical material [~W] — see [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md).
+**Boundary conditions.** Spacing benefits are clearest for retention of discrete, relearnable items (vocabulary, facts, skills components). Complex, integrative tasks may benefit more from interleaving and varied practice than from simple temporal spacing of identical material [~W] — see [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md).
 
 **Learner perception.** Learners often judge massed study more effective because it feels fluent, while spaced study feels harder — a metacognitive illusion that can suppress spontaneous spacing [-M]. Explicit instruction about the spacing effect can partially correct this [+W].
 
@@ -92,12 +92,11 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 ## Related Claims
 
 - [Retrieval Practice Improves Retention](retrieval-practice-improves-retention.md) — retrieval practice and spacing compound; spaced retrieval is the strongest known retention combination
-- [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md) — a related temporal-distribution effect operating across item categories rather than sessions
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a related temporal-distribution effect operating across item categories rather than sessions
 - [Chunking Reduces Working Memory Load](chunking-reduces-working-memory-load.md) — within-session organization of material that spacing complements across sessions
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical frame for why effortful spaced processing strengthens encoding
 - [Adaptive Learning Improves Outcomes](adaptive-learning-improves-outcomes.md) — adaptive platforms operationalize spacing by scheduling reviews at expanding intervals
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — possibly the same claim (merge candidate)
-- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — related
 - [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — possibly the same claim (merge candidate)

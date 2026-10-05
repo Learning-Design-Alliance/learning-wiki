@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3423,
+  "claim": 3415,
   "design": 115,
   "element": 733,
   "learner-variable": 12,
@@ -340,7 +340,7 @@
    "id": "activation-improves-learning",
    "path": "claims/activation-improves-learning.md",
    "status": "draft",
-   "title": "Activation Improves Learning",
+   "title": "Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment",
    "type": "claim"
   },
   {
@@ -718,7 +718,7 @@
    "id": "advance-organizers-improve-learning",
    "path": "claims/advance-organizers-improve-learning.md",
    "status": "draft",
-   "title": "Advance Organizers Improve Learning",
+   "title": "Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners",
    "type": "claim"
   },
   {
@@ -1194,7 +1194,7 @@
    "id": "annotating-improves-learning",
    "path": "claims/annotating-improves-learning.md",
    "status": "draft",
-   "title": "Annotating improves learning",
+   "title": "Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here",
    "type": "claim"
   },
   {
@@ -3029,7 +3029,7 @@
    "id": "checklist-evaluation-ineffective-online",
    "path": "claims/checklist-evaluation-ineffective-online.md",
    "status": "draft",
-   "title": "Checklist-based evaluation instruction does not reliably improve online source evaluation",
+   "title": "One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments",
    "type": "claim"
   },
   {
@@ -3267,6 +3267,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "lateral-reading-improves-source-evaluation"
+   ],
    "description": "",
    "evidence_strength": "weak",
    "id": "civic-online-reasoning-instruction-improves-evaluation",
@@ -6741,15 +6744,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "undetermined",
-   "id": "discussion-quality-drives-comprehension",
-   "path": "claims/discussion-quality-drives-comprehension.md",
-   "status": "draft",
-   "title": "Discussion Quality Drives Comprehension",
-   "type": "claim"
-  },
-  {
    "description": "Disruptive student behavior is associated with less academic engaged time and lower achievement",
    "evidence_strength": "weak",
    "id": "disruptive-behavior-lowers-engagement-and-achievement",
@@ -8569,7 +8563,7 @@
    "id": "experimenter-underlining-effective-as-student-underlining",
    "path": "claims/experimenter-underlining-effective-as-student-underlining.md",
    "status": "review",
-   "title": "Experimenter-generated underlining is as effective as student-generated underlining for test performance",
+   "title": "In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining",
    "type": "claim"
   },
   {
@@ -9538,7 +9532,7 @@
    "id": "fiction-reading-improves-empathy",
    "path": "claims/fiction-reading-improves-empathy.md",
    "status": "draft",
-   "title": "Fiction Reading Improves Empathy",
+   "title": "Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy",
    "type": "claim"
   },
   {
@@ -13067,12 +13061,12 @@
    "type": "claim"
   },
   {
-   "description": "Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work",
+   "description": "Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work",
    "evidence_strength": "moderate",
    "id": "interdependence-type-no-achievement-effect-asynchronous",
    "path": "claims/interdependence-type-no-achievement-effect-asynchronous.md",
    "status": "draft",
-   "title": "Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work",
+   "title": "Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work",
    "type": "claim"
   },
   {
@@ -13158,15 +13152,6 @@
   },
   {
    "description": "",
-   "evidence_strength": "moderate",
-   "id": "interleaved-practice-improves-retention",
-   "path": "claims/interleaved-practice-improves-retention.md",
-   "status": "draft",
-   "title": "Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories",
-   "type": "claim"
-  },
-  {
-   "description": "",
    "evidence_strength": "unrated",
    "id": "interleaving-improves-discrimination",
    "path": "claims/interleaving-improves-discrimination.md",
@@ -13175,20 +13160,15 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "interleaved-practice-improves-retention",
+    "interleaving-improves-learning"
+   ],
    "description": "",
    "id": "interleaving-improves-inductive-learning",
    "path": "claims/interleaving-improves-inductive-learning.md",
    "status": "draft",
-   "title": "Interleaving Improves Inductive Learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "interleaving-improves-learning",
-   "path": "claims/interleaving-improves-learning.md",
-   "status": "draft",
-   "title": "Interleaving Improves Learning",
+   "title": "Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories",
    "type": "claim"
   },
   {
@@ -14257,15 +14237,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "lateral-reading-improves-source-evaluation",
-   "path": "claims/lateral-reading-improves-source-evaluation.md",
-   "status": "draft",
-   "title": "Lateral Reading Improves Source Evaluation",
-   "type": "claim"
-  },
-  {
    "description": "Integration of psychological care appears most effective when it operates on multiple levels: routine distress assessment, frontline psycho-education and access to specialist interventions",
    "evidence_strength": "moderate",
    "id": "layered-psychological-care-model-diabetes",
@@ -14655,7 +14626,8 @@
   },
   {
    "aliases": [
-    "learning-styles-matching-yields-no-benefit"
+    "learning-styles-matching-yields-no-benefit",
+    "matching-instruction-to-styles-no-effect"
    ],
    "description": "",
    "evidence_strength": "strong",
@@ -15810,12 +15782,12 @@
    "type": "claim"
   },
   {
-   "description": "Group-based mastery learning raises time-on-task and lowers course attrition, in contrast to PSI findings",
+   "description": "In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines",
    "evidence_strength": "moderate",
    "id": "mastery-improves-engagement-attrition",
    "path": "claims/mastery-improves-engagement-attrition.md",
    "status": "draft",
-   "title": "Group-based mastery learning raises time-on-task and lowers course attrition, in contrast to PSI findings",
+   "title": "In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines",
    "type": "claim"
   },
   {
@@ -15897,15 +15869,6 @@
    "path": "claims/mastery-workshop-98-percent-objective-completion.md",
    "status": "draft",
    "title": "Participants in an intensive competency-based mastery workshop mastered more than 98% of their workshop enabling objectives",
-   "type": "claim"
-  },
-  {
-   "description": "Matching instruction to students' learning styles or intelligences has no effect on learning",
-   "evidence_strength": "weak",
-   "id": "matching-instruction-to-styles-no-effect",
-   "path": "claims/matching-instruction-to-styles-no-effect.md",
-   "status": "draft",
-   "title": "Matching instruction to students' learning styles or intelligences has no effect on learning",
    "type": "claim"
   },
   {
@@ -16810,7 +16773,7 @@
    "id": "mismatched-graphic-organizers-increase-extraneous-load",
    "path": "claims/mismatched-graphic-organizers-increase-extraneous-load.md",
    "status": "draft",
-   "title": "Mismatched Graphic Organizers Increase Extraneous Load",
+   "title": "Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override",
    "type": "claim"
   },
   {
@@ -20699,12 +20662,12 @@
    "type": "claim"
   },
   {
-   "description": "Including practice with feedback in computer-based instruction significantly raises posttest achievement",
+   "description": "In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice",
    "evidence_strength": "moderate",
    "id": "practice-presence-raises-cbi-posttest-achievement",
    "path": "claims/practice-presence-raises-cbi-posttest-achievement.md",
    "status": "draft",
-   "title": "Including practice with feedback in computer-based instruction significantly raises posttest achievement",
+   "title": "In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice",
    "type": "claim"
   },
   {
@@ -22300,7 +22263,7 @@
    "id": "reflective-practice-evidence-mixed-in-professional-education",
    "path": "claims/reflective-practice-evidence-mixed-in-professional-education.md",
    "status": "draft",
-   "title": "Reflective practice shows mixed evidence of effectiveness in professional education",
+   "title": "Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used",
    "type": "claim"
   },
   {
@@ -22394,12 +22357,12 @@
    "type": "claim"
   },
   {
-   "description": "Refutational text (misbelief stated first, then fact) enhanced recall and 14-day retention relative to traditional and inverted refutational text",
+   "description": "In one experiment, refutational text (misbelief stated first, then fact) enhanced free recall relative to traditional text and free and cued recall relative to inverted refutational text, but its reported 14-day recognition advantage was over inverted refutational text only",
    "evidence_strength": "moderate",
    "id": "refutational-text-order-enhances-retention",
    "path": "claims/refutational-text-order-enhances-retention.md",
    "status": "draft",
-   "title": "Refutational text (misbelief stated first, then fact) enhanced recall and 14-day retention relative to traditional and inverted refutational text",
+   "title": "In one experiment, refutational text (misbelief stated first, then fact) enhanced free recall relative to traditional text and free and cued recall relative to inverted refutational text, but its reported 14-day recognition advantage was over inverted refutational text only",
    "type": "claim"
   },
   {
@@ -24179,33 +24142,18 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "eliciting-self-explanations-improves-understanding",
+    "self-explanation-prompts-improve-learning",
+    "self-explanation-prompts-improve-learning-from-worked-examples",
+    "self-explanation-improves-learning"
+   ],
    "description": "",
    "evidence_strength": "strong",
    "id": "self-explanation-improves-conceptual-understanding",
    "path": "claims/self-explanation-improves-conceptual-understanding.md",
    "status": "review",
    "title": "Self-explanation improves conceptual understanding and problem-solving performance.",
-   "type": "claim"
-  },
-  {
-   "aliases": [
-    "eliciting-self-explanations-improves-understanding",
-    "self-explanation-prompts-improve-learning"
-   ],
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "self-explanation-improves-learning",
-   "path": "claims/self-explanation-improves-learning.md",
-   "status": "draft",
-   "title": "Self-explanation improves learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "self-explanation-prompts-improve-learning-from-worked-examples",
-   "path": "claims/self-explanation-prompts-improve-learning-from-worked-examples.md",
-   "status": "draft",
-   "title": "Self Explanation Prompts Improve Learning From Worked Examples",
    "type": "claim"
   },
   {
@@ -26442,19 +26390,15 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "structured-discussion-approaches-improve-comprehension",
-   "path": "claims/structured-discussion-approaches-improve-comprehension.md",
-   "status": "draft",
-   "title": "Structured Discussion Approaches Improve Comprehension",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "discussion-quality-drives-comprehension",
+    "structured-discussion-approaches-improve-comprehension"
+   ],
    "description": "",
    "id": "structured-discussion-methods-improve-comprehension",
    "path": "claims/structured-discussion-methods-improve-comprehension.md",
    "status": "draft",
-   "title": "Structured Discussion Methods Improve Comprehension",
+   "title": "Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them",
    "type": "claim"
   },
   {
@@ -27314,12 +27258,12 @@
    "type": "claim"
   },
   {
-   "description": "Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats",
+   "description": "In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate",
    "evidence_strength": "weak",
    "id": "survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate",
    "path": "claims/survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md",
    "status": "draft",
-   "title": "Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats",
+   "title": "In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate",
    "type": "claim"
   },
   {
@@ -29481,7 +29425,7 @@
    "id": "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
    "path": "claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md",
    "status": "draft",
-   "title": "Tutoring Effectiveness Comes From Scaffolding And Feedback",
+   "title": "Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback",
    "type": "claim"
   },
   {
@@ -30488,7 +30432,7 @@
    "id": "whole-task-performance-improves-transfer",
    "path": "claims/whole-task-performance-improves-transfer.md",
    "status": "review",
-   "title": "Whole-task performance improves transfer of complex skills to real-world settings.",
+   "title": "A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills",
    "type": "claim"
   },
   {
@@ -77223,7 +77167,7 @@
    "discussion-board-no-negative-feedback-synchrony-required": "discussion-board-no-negative-feedback-synchrony-required",
    "discussion-common-race-political-topics-underused": "discussion-common-race-political-topics-underused",
    "discussion-promotes-more-active-thought-than-lecture": "discussion-promotes-more-active-thought-than-lecture",
-   "discussion-quality-drives-comprehension": "discussion-quality-drives-comprehension",
+   "discussion-quality-drives-comprehension": "structured-discussion-methods-improve-comprehension",
    "disruptive-behavior-lowers-engagement-and-achievement": "disruptive-behavior-lowers-engagement-and-achievement",
    "dissatisfaction-not-primary-drop-reason": "dissatisfaction-not-primary-drop-reason",
    "dissolution-task-environment-effect": "dissolution-task-environment-effect",
@@ -77333,7 +77277,7 @@
    "elementary-students-prefer-mechanistic-explanations": "elementary-students-prefer-mechanistic-explanations",
    "elementary-undergrads-higher-existentialism": "elementary-undergrads-higher-existentialism",
    "eleven-components-iar-cdr": "eleven-components-iar-cdr",
-   "eliciting-self-explanations-improves-understanding": "self-explanation-improves-learning",
+   "eliciting-self-explanations-improves-understanding": "self-explanation-improves-conceptual-understanding",
    "ells-recruit-everyday-language-sound-discussion": "ells-recruit-everyday-language-sound-discussion",
    "elt-fea-module-implemented-three-topics-unassessed": "elt-fea-module-implemented-three-topics-unassessed",
    "elt-textbook-series-differ-bloom-mi-grid": "elt-textbook-series-differ-bloom-mi-grid",
@@ -77951,10 +77895,10 @@
    "interference-disappears-when-vector-instruction-resumes": "interference-disappears-when-vector-instruction-resumes",
    "interference-questions-single-assessment-accuracy": "interference-questions-single-assessment-accuracy",
    "interference-risk-varies-by-relation-type": "interference-risk-varies-by-relation-type",
-   "interleaved-practice-improves-retention": "interleaved-practice-improves-retention",
+   "interleaved-practice-improves-retention": "interleaving-improves-inductive-learning",
    "interleaving-improves-discrimination": "interleaving-improves-discrimination",
    "interleaving-improves-inductive-learning": "interleaving-improves-inductive-learning",
-   "interleaving-improves-learning": "interleaving-improves-learning",
+   "interleaving-improves-learning": "interleaving-improves-inductive-learning",
    "interleaving-improves-transfer": "interleaving-improves-transfer",
    "internet-entrez-use-grew-cd-rom-plateaued": "internet-entrez-use-grew-cd-rom-plateaued",
    "interpersonal-relationships-top-student-concern-30-61": "interpersonal-relationships-top-student-concern-30-61",
@@ -78073,7 +78017,7 @@
    "latent-ef-factor-preferred-ecls-k-math": "latent-ef-factor-preferred-ecls-k-math",
    "latent-variable-models-limit-grain-size": "latent-variable-models-limit-grain-size",
    "later-position-item-more-difficult-fatigue-effect": "later-position-item-more-difficult-fatigue-effect",
-   "lateral-reading-improves-source-evaluation": "lateral-reading-improves-source-evaluation",
+   "lateral-reading-improves-source-evaluation": "civic-online-reasoning-instruction-improves-evaluation",
    "layered-psychological-care-model-diabetes": "layered-psychological-care-model-diabetes",
    "layers-topics-track-context-centered-mindsets": "layers-topics-track-context-centered-mindsets",
    "lazarowitz-cooperative-biology-achievement": "lazarowitz-cooperative-biology-achievement",
@@ -78260,7 +78204,7 @@
    "mastery-positive-affective-effects": "mastery-positive-affective-effects",
    "mastery-science-smaller-effects": "mastery-science-smaller-effects",
    "mastery-workshop-98-percent-objective-completion": "mastery-workshop-98-percent-objective-completion",
-   "matching-instruction-to-styles-no-effect": "matching-instruction-to-styles-no-effect",
+   "matching-instruction-to-styles-no-effect": "learning-styles-matching-does-not-improve-learning",
    "material-arrangement-affords-stability": "material-arrangement-affords-stability",
    "material-artifact-stability-stabilizes-thinking": "material-artifact-stability-stabilizes-thinking",
    "material-choice-shapes-conceptual-learning-and-participation": "material-choice-shapes-conceptual-learning-and-participation",
@@ -79204,9 +79148,9 @@
    "self-efficacy-weakly-correlates-objective-aligned-instructional-planning": "self-efficacy-weakly-correlates-objective-aligned-instructional-planning",
    "self-esteem-positively-correlated-subjective-well-being": "self-esteem-positively-correlated-subjective-well-being",
    "self-explanation-improves-conceptual-understanding": "self-explanation-improves-conceptual-understanding",
-   "self-explanation-improves-learning": "self-explanation-improves-learning",
-   "self-explanation-prompts-improve-learning": "self-explanation-improves-learning",
-   "self-explanation-prompts-improve-learning-from-worked-examples": "self-explanation-prompts-improve-learning-from-worked-examples",
+   "self-explanation-improves-learning": "self-explanation-improves-conceptual-understanding",
+   "self-explanation-prompts-improve-learning": "self-explanation-improves-conceptual-understanding",
+   "self-explanation-prompts-improve-learning-from-worked-examples": "self-explanation-improves-conceptual-understanding",
    "self-generated-elaboration-improves-intellectual-skills": "self-generated-elaboration-improves-intellectual-skills",
    "self-generated-elaboration-improves-procedural-knowledge-accounting": "self-generated-elaboration-improves-procedural-knowledge-accounting",
    "self-generated-questions-positive-change-metacognitive-training": "self-generated-questions-positive-change-metacognitive-training",
@@ -79468,7 +79412,7 @@
    "structural-barriers-psychological-care-integration": "structural-barriers-psychological-care-integration",
    "structured-cai-maintains-memory-recall-to-retention": "structured-cai-maintains-memory-recall-to-retention",
    "structured-cai-spacing-improves-recall-and-retention": "structured-cai-spacing-improves-recall-and-retention",
-   "structured-discussion-approaches-improve-comprehension": "structured-discussion-approaches-improve-comprehension",
+   "structured-discussion-approaches-improve-comprehension": "structured-discussion-methods-improve-comprehension",
    "structured-discussion-methods-improve-comprehension": "structured-discussion-methods-improve-comprehension",
    "structured-feedback-reflection-cycle-mentoring": "structured-feedback-reflection-cycle-mentoring",
    "structured-input-alone-sufficient-for-acquisition": "structured-input-alone-sufficient-for-acquisition",

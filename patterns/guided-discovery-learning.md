@@ -20,7 +20,7 @@ grain_size: lesson
 # Guided Discovery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles. The key word is guided. Learners are not left to discover ideas entirely on their own; the instructor shapes the sequence, materials, and questions so that exploration becomes productive rather than random.
@@ -67,7 +67,7 @@ The pattern is useful when the goal is to build conceptual understanding through
 #### Supporting
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 

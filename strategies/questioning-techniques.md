@@ -12,14 +12,14 @@ generated:
 # Questioning Techniques
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (9 quant-synthesis, 4 causal, 3 review), `q2`–`q4` · 7 of 16 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 17 studies (9 quant-synthesis, 4 causal, 3 review, 1 associational), `q2`–`q4` · 7 of 17 report an effect size
 
 ## Description
 Questioning techniques are deliberate patterns of asking — before, during, and after instruction — designed to elicit learner thinking rather than simply check recall. They range from activating questions posed before new content, to Socratic probing during discussion, to self-explanation prompts learners apply to their own work. The technique lies less in the questions themselves than in their timing, cognitive demand, and the response conditions (wait time, follow-up probes) that surround them.
 
 ## Design Implications
 
-Effective questioning converts passive reception into generative processing: answering a question requires retrieving, organizing, or elaborating knowledge rather than recognizing it [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Questions also function as formative assessment — the answers reveal misconceptions the instructor can act on in real time [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The cognitive demand of the question matters: low-level recall questions produce shallow processing, while questions requiring explanation, prediction, or comparison drive deeper construction of understanding [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S].
+Effective questioning converts passive reception into generative processing: answering a question requires retrieving, organizing, or elaborating knowledge rather than recognizing it [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Questions also function as formative assessment — the answers reveal misconceptions the instructor can act on in real time [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The cognitive demand of the question matters: low-level recall questions produce shallow processing, while questions requiring explanation, prediction, or comparison drive deeper construction of understanding [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

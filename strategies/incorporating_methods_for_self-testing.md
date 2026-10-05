@@ -12,7 +12,7 @@ generated:
 # Incorporating Methods for Self-Testing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Self-testing reframes assessment from a grading event into a learning activity: students actively retrieve information — via flashcards, practice questions, or free recall — instead of rereading notes. In culturally responsive and low-stakes classrooms, frequent non-graded checks let students monitor progress without the anxiety attached to high-stakes testing. The strategy has two components: the instructor builds frequent retrieval opportunities into instruction, and students are explicitly taught self-testing techniques they can apply independently.

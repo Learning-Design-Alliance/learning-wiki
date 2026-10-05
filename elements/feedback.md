@@ -12,7 +12,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (18 for, 11 mixed, 3 against) · 42 studies (16 quant-synthesis, 12 causal, 8 review, 3 associational, 2 theoretical, 1 qualitative), `q2`–`q4` · 16 of 42 report an effect size · 14 claims rest on one study
+> **Evidence** · 32 claims (18 for, 11 mixed, 3 against) · 44 studies (17 quant-synthesis, 13 causal, 8 review, 3 associational, 2 theoretical, 1 qualitative), `q2`–`q4` · 17 of 44 report an effect size · 14 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -79,7 +79,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.](../claims/self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) [~W]
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]
-- [Tutoring Effectiveness Comes From Scaffolding And Feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~W]
+- [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~W]
 
 
 ## Design Decisions
@@ -129,7 +129,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 
 ### Is feedback the active ingredient, or the practice around it?
 - **Default:** in simulation, pair feedback with repeated practice to a standard; simulation with deliberate practice (repetition, mastery standards, immediate feedback) beat traditional clinical education by d = 0.71 across 14 studies — [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
-- **Changes when:** asking whether feedback itself drives the gain → across 609 health-professions simulation studies, feedback, repetition and mastery learning showed no consistent significant interaction with the simulation effect; and in one small tutoring study, tutors told to withhold feedback and explanations and only prompt produced as much learning — [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M], [Tutoring Effectiveness Comes From Scaffolding And Feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~W]
+- **Changes when:** asking whether feedback itself drives the gain → across 609 health-professions simulation studies, feedback, repetition and mastery learning showed no consistent significant interaction with the simulation effect; and in one small tutoring study, tutors told to withhold feedback and explanations and only prompt produced as much learning — [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M], [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~W]
 - **Tested with:** physicians, nurses and other health professionals on procedural skills (simulation); 8th-graders with college tutors, 11 dyads per study (tutoring).
 - **Not settled:** debriefing as a feedback format; no claim here isolates it, and none tests medication-safety scenarios specifically.
 

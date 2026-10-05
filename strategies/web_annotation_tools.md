@@ -12,7 +12,7 @@ generated:
 # Web Annotation Tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 unmarked) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Learners use free web-based tools (e.g., Hypothes.is, Perusall, Diigo) to annotate online documents — slideshows, blog posts, PDFs, or web pages — adding highlights, margin comments, questions, and replies directly on the source material. Group features make annotations visible to peers, turning a private reading act into a social, asynchronous discussion anchored in the text itself.

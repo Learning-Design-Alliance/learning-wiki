@@ -76,7 +76,7 @@ Open questions include how summarization compares with other generative strategi
 
 ## Related Claims
 
-- [Annotating improves learning](annotating-improves-learning.md) — a sibling generative strategy that also requires selecting and processing key information during study.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — a sibling generative strategy that also requires selecting and processing key information during study.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — summarization works by organizing material into larger, meaningful units.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — summarization can overload novices if the source material exceeds working-memory capacity.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework for managing the demands summarization imposes.

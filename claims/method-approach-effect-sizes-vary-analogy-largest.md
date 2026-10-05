@@ -45,5 +45,5 @@ Narrative summary of Table 2 effect sizes for individual method and approach stu
 ## Related Claims
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
 - [Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values](di-medium-positive-effect-academic-achievement.md) — related
-- [Advance Organizers Improve Learning](advance-organizers-improve-learning.md) — related
+- [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related

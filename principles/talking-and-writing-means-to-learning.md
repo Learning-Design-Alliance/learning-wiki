@@ -17,7 +17,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 design), `q2`–`q4` · 1 of 2 report an effect size
 
 ## Description
 The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that "talking and writing are a means to learning" (p.50). It argues for an instructional model based on dialogue between student and teacher using speech and writing as instruments for learning, encouraging a collaborative learning environment, constructing a student-centered environment guided and facilitated by the teacher, and emphasizing higher level cognitive skills rather than correction of surface forms.
@@ -42,8 +42,8 @@ The article presents the Bullock Report's basic tenet, adopted by Cummins for mi
 
 ### Claims
 
-- [Structured Discussion Methods Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
-- [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-approaches-improve-comprehension.md) [+M]
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
+- [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 
 ## Related Principles
 - 

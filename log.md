@@ -8,6 +8,12 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-10-05
+
+* **Fix**: ten converted principle and pattern pages — frontmatter DOIs corrected to the Crossref-verified Key Sources DOIs; Vo & Morris (2006) journal, Givens et al. year and Setlhodi (2018) DOI corrected
+* **Fix**: claims flagged by conversion waves 1–3 — 16 overstated titles rewritten, stale "no evidence" text replaced, four impact or design codes corrected to their printed statistics
+* **Merge**: eight duplicate claims folded into their canonical pages (lateral reading, interleaving ×2, self-explanation ×2, learning styles, discussion ×2)
+
 ## 2026-10-02
 
 * **Ingest**: [strategies/brief-interviewer-training-moral-injury](strategies/brief-interviewer-training-moral-injury.md) — Ingested from pmc-13626660 (Mapping moral injury: Development and feasibility of the Clinical Interview for Moral Injury-military version (CIMI-M).) via eval_harness.py + ingest_extractions.py
@@ -2223,7 +2229,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/intelligences-not-interchangeable](claims/intelligences-not-interchangeable.md) — Ingested from eric-ed500515 (Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/high-scorers-across-intelligences-support-g](claims/high-scorers-across-intelligences-support-g.md) — Ingested from eric-ed500515 (Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/mi-lacks-empirical-theory-testing](claims/mi-lacks-empirical-theory-testing.md) — Ingested from eric-ed500515 (Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory) via eval_harness.py + ingest_extractions.py
-* **Ingest**: [claims/matching-instruction-to-styles-no-effect](claims/matching-instruction-to-styles-no-effect.md) — Ingested from eric-ed500515 (Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/matching-instruction-to-styles-no-effect](claims/learning-styles-matching-does-not-improve-learning.md) — Ingested from eric-ed500515 (Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/carroll-data-support-hierarchical-g-model](claims/carroll-data-support-hierarchical-g-model.md) — Ingested from eric-ed500515 (Multiple Intelligences or Multiply Misleading: The Critic's View of the Multiple Intelligences Theory) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [principles/include-aligned-practice-in-cbi](principles/include-aligned-practice-in-cbi.md) — Ingested from eric-ed484984 (Effects of Instructional Events in Computer-Based Instruction) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/open-ended-likes-review-and-practice-top](claims/open-ended-likes-review-and-practice-top.md) — Ingested from eric-ed484984 (Effects of Instructional Events in Computer-Based Instruction) via eval_harness.py + ingest_extractions.py
@@ -3881,8 +3887,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/social-emotional-learning-programs-improve-achievement](claims/sel-programs-improve-behavior-and-achievement.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/self-regulated-learning-strategies-improve-performance](claims/self-regulated-learning-improves-achievement.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/self-regulated-learning-predicts-achievement](claims/self-regulated-learning-predicts-achievement.md) — Evidence copied from a verified near-duplicate (gap-fill)
-* **Ingest**: [claims/self-explanation-prompts-improve-learning-from-worked-examples](claims/self-explanation-prompts-improve-learning-from-worked-examples.md) — Evidence copied from a verified near-duplicate (gap-fill)
-* **Ingest**: [claims/self-explanation-prompts-improve-learning](claims/self-explanation-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/self-explanation-prompts-improve-learning-from-worked-examples](claims/self-explanation-improves-conceptual-understanding.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/self-explanation-prompts-improve-learning](claims/self-explanation-improves-conceptual-understanding.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/segmenting-principle-improves-multimedia-learning](claims/segmenting-improves-multimedia-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/seductive-details-harm-learning](claims/seductive-details-effect.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/seductive-details-effect](claims/seductive-details-effect.md) — Evidence copied from a verified near-duplicate (gap-fill)
@@ -3904,7 +3910,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/hands-on-learning-improves-achievement](claims/hands-on-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/inquiry-based-teaching-improves-science-achievement](claims/inquiry-based-teaching-improves-science-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/play-based-learning-improves-outcomes](claims/play-based-learning-improves-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
-* **Ingest**: [claims/lateral-reading-improves-source-evaluation](claims/lateral-reading-improves-source-evaluation.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/lateral-reading-improves-source-evaluation](claims/civic-online-reasoning-instruction-improves-evaluation.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure](claims/incidental-vocabulary-exposure-limited.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/judgments-of-learning-inaccurate](claims/judgments-of-learning-inaccurate.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/metacognitive-strategies-improve-learning](claims/metacognitive-strategies-improve-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
@@ -3991,7 +3997,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/learning-by-teaching-improves-mastery](claims/learning-by-teaching-improves-tutor-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/learning-by-teaching-improves-learning](claims/learning-by-teaching-improves-tutor-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/interleaving-improves-transfer](claims/interleaving-improves-transfer.md) — Evidence copied from a verified near-duplicate (gap-fill)
-* **Ingest**: [claims/interleaved-practice-improves-retention](claims/interleaved-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/interleaved-practice-improves-retention](claims/interleaving-improves-inductive-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/drawing-improves-learning](claims/drawing-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/emotion-labeling-improves-regulation](claims/emotion-labeling-improves-regulation.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/growth-mindset-improves-achievement](claims/growth-mindset-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
@@ -4010,7 +4016,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/segmenting-improves-multimedia-learning](claims/segmenting-improves-multimedia-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/reflective-practice-improves-outcomes-when-structured](claims/reflective-practice-improves-outcomes-when-structured.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/reflective-practice-evidence-mixed-in-professional-education](claims/reflective-practice-evidence-mixed-in-professional-education.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
-* **Ingest**: [claims/structured-discussion-approaches-improve-comprehension](claims/structured-discussion-approaches-improve-comprehension.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/structured-discussion-approaches-improve-comprehension](claims/structured-discussion-methods-improve-comprehension.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/spacing-improves-long-term-retention](claims/spaced-practice-improves-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/spaced-practice-improves-long-term-retention](claims/spaced-practice-improves-retention.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/social-emotional-learning-improves-achievement](claims/sel-programs-improve-behavior-and-achievement.md) — Evidence copied from the verified entry on its near-duplicate sibling page
@@ -4020,15 +4026,15 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/peer-assessment-benefits-assessor](claims/peer-assessment-benefits-assessor.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/morphological-instruction-improves-literacy](claims/morphological-instruction-improves-literacy.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/learning-styles-matching-does-not-improve-learning](claims/learning-styles-matching-does-not-improve-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
-* **Ingest**: [claims/interleaving-improves-learning](claims/interleaving-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/interleaving-improves-learning](claims/interleaving-improves-inductive-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/feedback-use-improves-learning](claims/feedback-use-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/feedback-praise-reduces-learning](claims/feedback-praise-reduces-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/feedback-answers-three-questions-improves-learning](claims/feedback-answers-three-questions-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/productive-failure-improves-learning](claims/productive-failure-improves-conceptual-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/minimally-guided-instruction-less-effective-for-novices](claims/minimal-guidance-less-effective-for-novices.md) — Evidence copied from the verified entry on its near-duplicate sibling page
-* **Ingest**: [claims/eliciting-self-explanations-improves-understanding](claims/self-explanation-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
+* **Ingest**: [claims/eliciting-self-explanations-improves-understanding](claims/self-explanation-improves-conceptual-understanding.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/dual-coding-improves-learning](claims/dual-coding-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
-* **Ingest**: [claims/discussion-quality-drives-comprehension](claims/discussion-quality-drives-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/discussion-quality-drives-comprehension](claims/structured-discussion-methods-improve-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/deliberate-practice-improves-performance](claims/deliberate-practice-improves-performance.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/cooperative-learning-improves-achievement](claims/cooperative-learning-improves-achievement.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/considering-the-opposite-reduces-bias](claims/considering-the-opposite-reduces-bias.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
@@ -4074,7 +4080,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/activation](claims/activation-improves-learning.md) — Evidence copied from the verified entry on its near-duplicate sibling page
 * **Ingest**: [claims/acute-exercise-timing-memory](claims/acute-exercise-timing-memory.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/fiction-reading-improves-empathy](claims/fiction-reading-improves-empathy.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
-* **Ingest**: [claims/self-explanation-improves-learning](claims/self-explanation-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
+* **Ingest**: [claims/self-explanation-improves-learning](claims/self-explanation-improves-conceptual-understanding.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/elaborative-interrogation-improves-learning](claims/elaborative-interrogation-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/concept-mapping-improves-learning](claims/concept-mapping-improves-learning.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)
 * **Ingest**: [claims/disciplinary-literacy-instruction-improves-comprehension](claims/disciplinary-literacy-instruction-improves-comprehension.md) — Evidence filled from Crossref-verified sources, read by an in-session agent (full text or abstract, recorded per study)

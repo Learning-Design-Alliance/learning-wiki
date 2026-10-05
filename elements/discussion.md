@@ -12,14 +12,14 @@ generated:
 # Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (9 quant-synthesis, 6 causal), `q2`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (9 quant-synthesis, 5 causal, 1 associational, 1 design), `q2`–`q4` · 6 of 16 report an effect size
 
 ## Description
 Discussion is a structured verbal exchange — whole-class, small-group, or online — in which learners articulate their thinking, respond to peers, and negotiate meaning under facilitation. It functions as both an assessment surface (making reasoning visible to the instructor) and a learning mechanism (eliciting explanation, elaboration, and cognitive conflict).
 
 ## Design Implications
 
-Discussion improves achievement when it is structured around a clear goal and requires learners to explain, justify, and evaluate ideas rather than merely report them [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. The quality of talk matters more than its quantity: discussions that prompt reasoning and connection outperform those that elicit recall [Discussion quality, not quantity, drives comprehension gains.](../claims/discussion-quality-drives-comprehension.md) [+M]. Productive discussion depends on norms and facilitation — without them, talk collapses into turn-taking or is dominated by a few voices.
+Discussion improves achievement when it is structured around a clear goal and requires learners to explain, justify, and evaluate ideas rather than merely report them [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. The quality of talk matters more than its quantity: discussions that prompt reasoning and connection outperform those that elicit recall [Discussion quality, not quantity, drives comprehension gains.](../claims/structured-discussion-methods-improve-comprehension.md) [+M]. Productive discussion depends on norms and facilitation — without them, talk collapses into turn-taking or is dominated by a few voices.
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Discussion improves achievement when it is structured around a clear goal and re
 
 ### Target Learners
 - Learners with enough prior knowledge to contribute and evaluate ideas; pre-teaching or reading beforehand is essential for novices
-- Learners who benefit from verbalizing reasoning — articulation strengthens and exposes gaps in understanding [Self-explanation improves learning by forcing learners to integrate new information with prior knowledge.](../claims/self-explanation-improves-learning.md) [+S]
+- Learners who benefit from verbalizing reasoning — articulation strengthens and exposes gaps in understanding [Self-explanation improves learning by forcing learners to integrate new information with prior knowledge.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Less effective for learners with very low language proficiency unless supported by sentence frames, preparation time, or written alternatives
 
 ### Target Learning Goals

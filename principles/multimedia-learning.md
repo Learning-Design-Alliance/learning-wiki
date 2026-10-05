@@ -17,7 +17,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 15 studies (8 causal, 4 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 17 studies (9 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 17 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 

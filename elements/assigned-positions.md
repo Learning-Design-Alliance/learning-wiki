@@ -12,7 +12,7 @@ generated:
 # Assigned Positions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Learners are assigned a specific stance on an issue — often one they do not personally hold — and must construct and defend arguments from that perspective. Because the position is imposed rather than chosen, learners must actively search for, organize, and articulate justifications they would not otherwise generate, forcing engagement with the strongest reasoning available on "the other side."

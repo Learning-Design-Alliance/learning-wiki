@@ -37,7 +37,8 @@ Studying a hypothetical peer's incorrect solution and being prompted to find, ex
 
 ## Subclaims
 `q3 i?` Analyzing and explaining errors in erroneous examples improves conceptual knowledge and procedural transfer more than studying correct examples alone. [→ Rittle-Johnson 2017](#rittle-johnson-2017)
-`q3 i?` Comparing correct and erroneous examples helped middle-school students' decimal-magnitude learning more than studying correct examples only, especially on transfer. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
+`q3 i?` In a brief tutoring session, comparing correct and incorrect examples improved fourth- and fifth-grade students' (N = 74) correct procedures and key concepts for decimal magnitude more than comparing correct examples only. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
+<!-- deprecated (2026-10-05, the entry is grades 4-5 and does not mention transfer): `q3 i?` Comparing correct and erroneous examples helped middle-school students' decimal-magnitude learning more than studying correct examples only, especially on transfer. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012) -->
 <!-- deprecated (2026-09-30, the study's comparison condition was correct examples only, not erroneous examples alone): `q3 i?` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012) -->
 
 ## Evidence
@@ -61,12 +62,11 @@ Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using incorrect ex
 Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tutoring session. Comparing correct and incorrect examples improved correct procedures and key concepts relative to comparing correct examples only; the published abstract reports no interaction with prior knowledge. This page's earlier `n=116` and “middle-schoolers” descriptions do not match the source abstract.
 
 ## Discussion
-Erroneous examples are most effective for learners with at least some prior knowledge; they can be confusing or lead to cognitive overload for absolute novices.
+**A design precaution, not a finding of the studies recorded here:** erroneous examples may be confusing or overloading for learners with no prior knowledge of the topic, so some designers reserve them for learners with at least some prior knowledge. Neither entry tests this: the Durkin & Rittle-Johnson (2012) abstract reports no interaction with prior knowledge.
+<!-- deprecated (2026-10-05, stated as a finding with no basis in the entries): Erroneous examples are most effective for learners with at least some prior knowledge; they can be confusing or lead to cognitive overload for absolute novices. -->
 
 ## Related Claims
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related
-- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — related

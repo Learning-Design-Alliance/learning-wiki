@@ -62,4 +62,4 @@ Observational comparison of earned credit rates grouped by number of mastery lea
 
 
 ## Related Claims
-- [Group-based mastery learning raises time-on-task and lowers course attrition, in contrast to PSI findings](mastery-improves-engagement-attrition.md) — related
+- [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related

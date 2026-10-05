@@ -12,7 +12,7 @@ generated:
 # Summarization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 9 report an effect size
 
 ## Description
 Summarization instruction explicitly teaches learners how to identify the most important information in a text, condense it, and restate it coherently in their own words. Learners then practice writing summaries across increasingly complex texts, with feedback on their selections and phrasing. Having learners write summaries of what they read is a key recommendation of the *Writing to Read* report, and summarization is an increasingly common expectation as students advance and are assigned more complex texts to read and comprehend.

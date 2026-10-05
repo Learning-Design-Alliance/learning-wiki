@@ -43,7 +43,7 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 
 
 ## Related Claims
-- [Checklist-based evaluation instruction does not reliably improve online source evaluation](checklist-evaluation-ineffective-online.md) — related
+- [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
 - [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — a broader claim this one bears on
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related

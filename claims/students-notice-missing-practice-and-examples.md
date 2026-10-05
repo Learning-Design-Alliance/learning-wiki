@@ -45,7 +45,7 @@ Scheffe follow-ups on attitude Items 7 and 8 (practice helpfulness and opportuni
 
 ## Related Claims
 - [Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items](no-objectives-group-most-positive-attitudes.md) — related
-- [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) — related
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related
 - [Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next](cbi-version-affects-attitudes-lean-most-negative.md) — a broader claim this one bears on
 - [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related
 - [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](external-prompt-regulation-more-positive-attitudes.md) — related

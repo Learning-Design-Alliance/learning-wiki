@@ -25,7 +25,7 @@ sources:
 # Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Discussion sections are smaller, instructor- or TA-led sessions in which learners analyze, question, and debate course material in depth, typically complementing lectures. They function as the interactive component of a course: learners articulate and defend interpretations, surface misconceptions, and co-construct understanding through structured dialogue.

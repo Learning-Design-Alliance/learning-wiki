@@ -17,7 +17,7 @@ sources:
 # iSTART-2 game-based intelligent tutoring system for reading comprehension
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (2 quant-synthesis, 1 causal, 1 design), `q1`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 design), `q1`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 iSTART-2 is "a game-based ITS designed to improve high school students' reading comprehension via self-explanation strategies." It consists of two phases: video-based self-explanation training followed by game-based practice with mini-games, personalizable features, and achievement screens. The interface affords students substantial agency and control over their learning path, and its game mechanics serve as feedback on students' understanding of self-explanation strategies. Prior studies report it improved self-explanation quality and reading comprehension.
@@ -40,7 +40,7 @@ iSTART-2 is "a game-based ITS designed to improve high school students' reading 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](../claims/controlled-interaction-patterns-higher-self-explanation-quality.md) [+W]
-- [Self-explanation improves learning](../claims/self-explanation-improves-learning.md) [+M]
+- [Self-explanation improves learning](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](../claims/real-time-dynamic-analyses-inform-user-models.md) [+W]
 
 ## Related Elements

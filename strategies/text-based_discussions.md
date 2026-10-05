@@ -12,14 +12,14 @@ generated:
 # Text-Based Discussions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q2`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 design), `q2`–`q4` · 3 of 4 report an effect size
 
 ## Description
 Text-based discussions are structured conversations in which a group of learners jointly interprets a shared text — an article, story, dataset, or document — and is expected to ground claims in evidence from the text itself. The teacher or facilitator acts primarily as a discussion leader who poses open questions, presses for textual evidence, and manages turn-taking, rather than as a lecturer. Well-known variants include [Reciprocal Teaching](../elements/reciprocal-teaching.md), Quality Talk, Collaborative Reasoning, and Socratic seminar.
 
 ## Design Implications
 
-Discussion quality, not discussion presence, drives comprehension gains: approaches that emphasize authentic questions, student uptake of peers' ideas, and evidence-based argument outperform recitation-style IRE questioning [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-approaches-improve-comprehension.md) [+S]. Because learners must articulate and defend interpretations, discussion doubles as [Argumentation](../elements/argumentation.md) practice and as retrieval and elaboration on the text's content. The facilitator's role is critical — open-ended questions and genuine dialogue produce the effects; closed questioning with brief student answers does not.
+Discussion quality, not discussion presence, drives comprehension gains: approaches that emphasize authentic questions, student uptake of peers' ideas, and evidence-based argument outperform recitation-style IRE questioning [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-methods-improve-comprehension.md) [+S]. Because learners must articulate and defend interpretations, discussion doubles as [Argumentation](../elements/argumentation.md) practice and as retrieval and elaboration on the text's content. The facilitator's role is critical — open-ended questions and genuine dialogue produce the effects; closed questioning with brief student answers does not.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Discussion quality, not discussion presence, drives comprehension gains: approac
 - **Written-first variants** — students draft positions or annotations before speaking, which raises evidence use and broadens participation
 
 ### Target Learners
-- Upper elementary through adult learners; effects on comprehension are documented from grade 3 upward, with strong results for adolescents [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-approaches-improve-comprehension.md) [+M]
+- Upper elementary through adult learners; effects on comprehension are documented from grade 3 upward, with strong results for adolescents [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 - Struggling readers benefit when discussion is paired with [Dialogic Reading](../claims/dialogic-reading-improves-expressive-language.md) [+M]-style support and explicit vocabulary work, since oral language practice builds the language resources comprehension depends on
 - Multilingual learners benefit from the dual language exposure and production, provided sentence frames and wait time are offered
 
@@ -49,7 +49,7 @@ Discussion quality, not discussion presence, drives comprehension gains: approac
 - Reading comprehension, especially interpretive and critical comprehension beyond literal recall
 - Argumentation: constructing claims supported by textual evidence and evaluating peers' reasoning
 - Oral academic language development and perspective-taking
-- Discussion quality effects extend to higher-order outcomes such as reasoning and critical thinking, not just comprehension scores [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-approaches-improve-comprehension.md) [+M]
+- Discussion quality effects extend to higher-order outcomes such as reasoning and critical thinking, not just comprehension scores [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 
 ### Instructions
 1. Select a text with genuine interpretive tension and ensure all students have read it, using [Annotating](../principles/annotating.md) or a written pre-discussion response to prepare evidence.

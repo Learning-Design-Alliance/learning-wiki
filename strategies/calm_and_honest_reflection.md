@@ -12,7 +12,7 @@ generated:
 # Calm and Honest Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Calm and honest reflection is a structured self-examination practice carried out after the emotional intensity of a mistake or conflict has subsided. The learner asks what happened, what triggered their feelings, whether impulsive decisions were made, and whether unresolved past emotions were activated. It includes examining facts, identifying information gaps, evaluating fairness and expectations, and deliberately attempting to view the situation from another's perspective. Honesty with oneself — however uncomfortable — is treated as the non-negotiable condition for growth.
