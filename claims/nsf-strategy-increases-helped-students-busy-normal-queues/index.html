@@ -760,7 +760,7 @@
 <h1 id="under-busy-or-normal-queue-load-the-new-student-first-nsf-strategy-significantly-increases-the-percentage-of-students-who-receive-help-compared-with-fcfs-lwf-and-vlwf">Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF<a class="headerlink" href="#under-busy-or-normal-queue-load-the-new-student-first-nsf-strategy-significantly-increases-the-percentage-of-students-who-receive-help-compared-with-fcfs-lwf-and-vlwf" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r1</code> · <code>q2</code> · <code>i2</code> medium</p>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r1</code> · <code>q2</code></p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -908,19 +908,19 @@ see <a href="../../methods/impact-evidence-comparison/">Comparing learning inter
 page reports it faithfully is a separate axis — see <code>trust</code> in the page
 metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 </details>
-<p><code>q2 i2</code> Under busy load, around 65% of students receive help with NSF versus around 54% with the other three strategies (p&lt;0.01). <a href="#z-gao-2024">→ Z. Gao 2024</a>
-<code>q2 i2</code> Under normal load, NSF raises the percentage of students receiving at least one help from 70% (FCFS) to 82% (p&lt;0.01). <a href="#z-gao-2024-2">→ Z. Gao 2024 (2)</a></p>
+<p><code>q2 i?</code> Under busy load, around 65% of students receive help with NSF versus around 54% with the other three strategies (p&lt;0.01). <a href="#z-gao-2024">→ Z. Gao 2024</a>
+<code>q2 i?</code> Under normal load, NSF raises the percentage of students receiving at least one help from 70% (FCFS) to 82% (p&lt;0.01). <a href="#z-gao-2024-2">→ Z. Gao 2024 (2)</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="z-gao-2024">Z. Gao 2024<a class="headerlink" href="#z-gao-2024" title="Permanent link">&para;</a></h3>
 <p>Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866</p>
-<p><code>q2 · i2</code> · <code>causal · r1</code></p>
+<p><code>q2 · i? · no effect size: the entry prints simulated percentages helped (about 65% NSF vs 54%) and p&lt;0.01</code> · <code>causal · r1</code></p>
 <p>Simulation of a busy-load queue (λ = 0.15) repeated 100 times per condition, evaluated with Mann–Whitney U tests. The busy-load results show "around 65% of the students would receive help" under NSF versus around 54% under the other strategies, a significant difference (p&lt;0.01).</p>
 <blockquote>
 <p>"the NSF strategy appears to be significantly higher than the other three ( p &lt;0.01); on average, around 65% of the students would receive help if the teacher used the NSF strategy, while only around 54% of the students would receive help if one of the other three strategies was applied"</p>
 </blockquote>
 <h3 id="z-gao-2024-2">Z. Gao 2024 (2)<a class="headerlink" href="#z-gao-2024-2" title="Permanent link">&para;</a></h3>
 <p>Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866</p>
-<p><code>q2 · i2</code> · <code>causal · r1</code></p>
+<p><code>q2 · i? · no effect size: the entry prints simulated percentages helped (82% NSF vs 70% FCFS) and p&lt;0.01</code> · <code>causal · r1</code></p>
 <p>Normal-load simulation (λ = 0.10) comparing FCFS and NSF on percentage of students receiving help. The normal-load results show the helped-student percentage "would increase to 82%" under NSF versus 70% under FCFS, significant at p&lt;0.01.</p>
 <blockquote>
 <p>"When the teacher applied the FCFS strategy, 70% of the students would at least receive one help on average, while when the scheduling strategy changed to NSF, this percentage would increase to 82%, and such difference is significant as well (p &lt;0.01)"</p>
@@ -930,7 +930,7 @@ metadata below, and the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
 <ul>
 <li><a href="../arrival-rate-threshold-nsf-advantage/">The NSF advantage over FCFS appears only above an arrival-rate threshold (λ &gt; 0.06); under relaxed queues no strategy makes a difference</a> — related</li>
 <li><a href="../code-commit-features-no-correlation-interaction-time/">Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS</a> — related</li>
-<li><a href="../scheduling-strategy-no-effect-resolved-requests-wait-time/">Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time</a> — reports the opposite</li>
+<li><a href="../scheduling-strategy-no-effect-resolved-requests-wait-time/">Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time</a> — related: different outcome (resolved requests and wait time, not percentage of students helped); same simulation <!-- relabelled 2026-10-05: was "reports the opposite" --></li>
 </ul>
 <details class="info">
 <summary>Page metadata</summary>

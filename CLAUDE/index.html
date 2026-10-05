@@ -688,6 +688,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-05-late-night-wave-5s-claim-findings-settled-the-evidence-parser-stopped-reading-comments" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-05 (late night) — wave 5's claim findings settled; the evidence parser stopped reading comments
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-05-night-conversion-wave-5-15-more-pages-the-biggest-gain-in-fit-so-far" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1801,6 +1812,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-05-late-night-wave-5s-claim-findings-settled-the-evidence-parser-stopped-reading-comments" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-05 (late night) — wave 5's claim findings settled; the evidence parser stopped reading comments
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-10-05-night-conversion-wave-5-15-more-pages-the-biggest-gain-in-fit-so-far" class="md-nav__link">
@@ -3017,6 +3039,39 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-05-late-night-wave-5s-claim-findings-settled-the-evidence-parser-stopped-reading-comments">2026-10-05 (late night) — wave 5's claim findings settled; the evidence parser stopped reading comments<a class="headerlink" href="#2026-10-05-late-night-wave-5s-claim-findings-settled-the-evidence-parser-stopped-reading-comments" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Eleven duplicate claims merged</strong> (<code>merge_claims.py</code>): judgments of learning into fluent illusions, teaching others
+  into learning by teaching, SRSD writing into strategy instruction, SEL academic achievement into SEL behaviour and
+  achievement, phonological into phonemic awareness, learner-centred relationships into teacher–student
+  relationships, feedback use into feedback, retrieval-fails-without-encoding into pretesting (its title overstated:
+  the studies show a failed attempt enhancing the encoding that follows), both expertise-reversal variants into
+  <code>expertise-reversal-effect</code>, and the second pretraining claim into <code>pretraining-improves-transfer</code>.
+  <code>principles/explicit-instruction-phonics</code> (adults) folded into <code>phonics</code>. <strong>Not merged</strong>: the Frydenberg (2007) and
+  Honig (2021) pages, which are distinct findings of one study, not duplicates.</li>
+<li><strong><code>okf_lib.parse_evidence_sources</code> now ignores HTML comments.</strong> A merge keeps a differing write-up of a shared
+  study in a <code>&lt;!-- merged --&gt;</code> comment, and the parser read it as a second entry, so six pages merged in #165 and
+  this pass said "2 studies (3 entries)" and carried a duplicate <code>sources[]</code> item. Same rule as the reverse index.</li>
+<li><strong>Claim corrections</strong> (three agents, each change from the page's own entries): 16 titles rewritten (slugs kept, old
+  titles in comments, link text on 178 links); stale "no evidence" text on about 20 pages; <code>i</code> codes with no printed
+  effect size set to <code>i?</code> (five pages, and two Slezak 2011 pages); <code>teacher-modeling-internalizes-reading-strategies</code>
+  recoded qualitative q1; Furtak et al. (2012)'s .40 is now said to be the teacher-led minus student-led difference
+  between studies; "reports the opposite" labels between claims measuring different outcomes relabelled.</li>
+<li><strong>Citations, checked against Crossref, DataCite or ERIC</strong>: Sweet &amp; Rupp (2012) → <code>10.5281/zenodo.3554649</code> on five
+  pages (DataCite); Rupp et al. (2010) has no DOI, now its JTLA article page; the authorless "Relations between
+  cognitive resources…" (2015, a Google Scholar link) is Miwa, Terai &amp; Mizuno (2017), CELDA, ERIC ED579478, on five
+  pages; "Marjorie Ceballos 2022" is Ceballos &amp; Nutta (2022), ERIC EJ1380081, on six; the ZJNU community report is
+  Gaofeng &amp; Yeyu (2007), ERIC ED500172, on three; the primary-evidence links on the worked-examples and contingent
+  scaffolding claims were unregistered DOIs, now Sweller &amp; Cooper (1985) and Pratt &amp; Savoy-Levine (1998); Gray et al.
+  (2018) on phonics → <code>10.1007/s11145-017-9774-9</code>. Eight frontmatter titles with an unquoted <code>:</code> (invalid YAML that
+  only the lenient parser read) are quoted.</li>
+<li><strong>Rigour is not re-judged in a merge</strong>: an agent lowered Cornelius-White (2007) r3 → r2 from the entry text and it
+  was reverted, since rigour is coded from the article. Durlak et al. (2011) is still r2, r? and r3 on different pages.</li>
+<li><strong>Still open</strong>: Van de Sande (2013) cites the JEDM homepage on five BKT claims (JEDM's Zenodo deposits probably carry
+  DataCite DOIs); q codes on qualitative pages coded q2 (organization simulation, positioning students as sources) and
+  a queue simulation coded <code>causal</code>; Ruan Gaofeng's name order; Bernard et al. (2009) and Castles et al. (2018) as
+  ingest candidates; self-monitoring's sparse brief.</li>
+</ul>
 <h3 id="2026-10-05-night-conversion-wave-5-15-more-pages-the-biggest-gain-in-fit-so-far">2026-10-05 (night) — conversion wave 5: 15 more pages; the biggest gain in fit so far<a class="headerlink" href="#2026-10-05-night-conversion-wave-5-15-more-pages-the-biggest-gain-in-fit-so-far" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Fifteen pages converted</strong> (<code>eval/page-triage/wave-5.md</code>): strengths-based approach, pre-reading questioning,
