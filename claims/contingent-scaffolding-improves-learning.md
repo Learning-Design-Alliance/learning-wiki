@@ -66,7 +66,7 @@ Contingent scaffolding adjusts the type and level of support in real time based 
 
 `q3 i?` Students receiving fully contingent tutoring (support level adjusted responsively to each response) outperform students receiving fixed, moderate, or no support on both immediate and delayed tests of the same skill. [→ Pratt and Savoy-Levine 1998](#pratt-and-savoy-levine-1998)
 
-`q3 i?` Contingent, interactive tutoring (questioning and hints rather than explaining and feeding back) produces similar immediate learning outcomes to non-interactive tutoring but significantly better transfer and greater student responsibility for learning. [→ Chi et al. 2001](#chi-et-al-2001)
+`q2 i?` Contingent, interactive tutoring (questioning and hints rather than explaining and feeding back) produces similar immediate learning outcomes to non-interactive tutoring but significantly better transfer and greater student responsibility for learning. [→ Chi et al. 2001](#chi-et-al-2001)
 
 `q4 i?` Among forms of dynamic assessment, scaffolding (contingent prompting and mediation) is more effective than coaching but less effective than explicit strategy training for cognitive tasks. [→ Swanson and Lussier 2001](#swanson-and-lussier-2001)
 
@@ -88,7 +88,7 @@ Fourth and fifth grade students were assigned to one of five one-to-one tutoring
 
 Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)
 
-`q3 · peer-reviewed within-subjects experiment` · `i? · the abstract prints no effect size; the full text may` · `n=11 tutor-student pairs` · `causal · r1`
+`q2 · quasi-experimental comparison: the same tutors' interactive sessions against their earlier naturalistic sessions, not randomized` · `i? · the abstract prints no effect size; the full text may` · `n=11 tutor-student pairs` · `causal · r1`
 
 Inexperienced tutors working one-to-one with eighth grade students on the human circulatory system were then instructed to shift to a more interactive/contingent style — more questioning and hints, less explaining and feeding back. More scaffolding episodes were observed in the interactive condition (verified by coding). Immediate learning outcomes were similar across both styles. However, students in the interactive/contingent tutoring condition performed significantly better on transfer questions (topics not directly covered in tutoring) and took greater responsibility for their own learning, shown by higher frequency of self-initiated reading aloud.
 

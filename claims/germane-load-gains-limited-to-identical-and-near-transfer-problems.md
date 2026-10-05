@@ -33,7 +33,7 @@ sources:
 
 Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
 
-`q2 · i0` · `causal · r1`
+`q2 · i? · null result, no effect size printed (t(20) < 1, n.s.)` · `causal · r1`
 
 A null result across all three conditions of the Reversi experiment: "In the far transfer problem category, no increases were found in all three conditions (t(20) < 1, n.s."; equivalence was not tested.
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning
-description: In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning
+title: "In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning"
+description: "In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning"
 id: tutor-background-meta-regression-not-predictive
 aliases: [tutor-background-subgroup-differences-nonsignificant]
 status: draft
@@ -20,10 +20,11 @@ sources:
     rigour: 2
 ---
 
-# In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning
+# In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+<!-- deprecated title (2026-10-05, covered only one of the two findings after the fold): In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning -->
 
 ## Subclaims
 
@@ -43,9 +44,13 @@ New meta-regression analysis of the Leary et al. (2013) tutor-background data us
 
 > "no significant predictors of student learning were found, R2 = .01, Wald X2(4, 348) = 6.86, p = 0.14."
 
+The same article also compares tutor-background subgroups with a z test (carried over from the folded page `tutor-background-subgroup-differences-nonsignificant`, which recorded this entry separately as `r1`): the "largest mean difference between mixed (d = 0.34) and content experts (d = 0.22) failed to achieve statistical significance, z(213) = 1.80, p = 0.07." No effect size for the contrast itself is printed.
+
+> "even the largest mean difference between mixed (d = 0.34) and content experts (d = 0.22) failed to achieve statistical significance, z(213) = 1.80, p = 0.07."
+
 ## Discussion
 
-
+Both findings come from one source, Walker & Leary's (2023) re-analysis of the Leary et al. (2013) PBL meta-analysis data: a dummy-coded meta-regression with content novices as reference (no significant predictors, R² = .01) and a subgroup comparison whose largest difference (mixed against content-expert tutors) was not significant (p = 0.07). Both are null results without a powered equivalence test, so they show that tutor background did not detectably explain variation in PBL effect sizes in these data, not that it has no effect.
 
 ## Related Claims
 

@@ -50,7 +50,7 @@ Learners who construct node-and-link diagrams of relationships among concepts sh
 
 `q4 i2` Across 142 effect sizes, learning with concept maps beat comparison conditions by a moderate margin (g = 0.58), and constructing maps (g = 0.72) helped more than studying supplied ones (g = 0.43), in both STEM and non-STEM domains. [→ Schroeder et al. 2018](#schroeder-et-al-2018)
 
-`q3 i?` An earlier meta-analysis of 55 experimental and quasi-experimental studies (Grade 4 to postsecondary) found concept-map use associated with better knowledge retention, with effects ranging from small to large depending on how maps were used and what they were compared against. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
+`q4 i?` An earlier meta-analysis of 55 experimental and quasi-experimental studies (Grade 4 to postsecondary) found concept-map use associated with better knowledge retention, with effects ranging from small to large depending on how maps were used and what they were compared against. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
 
 `q3 i3` When learning time is matched, building a concept map while viewing the text produced much less learning than retrieval practice (d = 1.50 in Experiment 1), and was not significantly better than rereading; this sharply qualifies the claim against generative alternatives. [→ Karpicke & Blunt 2011](#karpicke-blunt-2011)
 
@@ -68,7 +68,7 @@ A random-effects meta-analysis of 142 independent effect sizes from studies in w
 
 Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
 
-`q3 · meta-analysis of experimental and quasi-experimental studies` · `i? · no pooled effect size in the abstract read` · `n=55 studies (67 effect sizes, 5,818 participants)` · `quant-synthesis · r?`
+`q4 · meta-analysis of experimental and quasi-experimental studies` · `i? · no pooled effect size in the abstract read` · `n=55 studies (67 effect sizes, 5,818 participants)` · `quant-synthesis · r?`
 
 A meta-analysis of experimental and quasi-experimental studies in which students learned by constructing, modifying or viewing node-link diagrams. The pool was 67 standardized mean differences from 55 studies with 5,818 participants, from Grade 4 to postsecondary, in domains such as science, psychology, statistics and nursing. Using concept maps was associated with better knowledge retention across conditions and settings. Mean effects ranged from small to large depending on how maps were used and on the comparison treatment, and most subsets were significantly heterogeneous. Read from the abstract only, so no pooled effect size is recorded here.
 
@@ -118,7 +118,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
-- [Drawing Improves Learning](drawing-improves-learning.md) — related
+- [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures](retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) — related
 - [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on

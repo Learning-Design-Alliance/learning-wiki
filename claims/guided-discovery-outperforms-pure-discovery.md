@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Guided Discovery Outperforms Pure Discovery
+title: "Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction"
 status: draft
 generated:
   by: claude/unspecified
@@ -38,12 +38,13 @@ sources:
     rigour: "?"
 ---
 
-# Guided Discovery Outperforms Pure Discovery
+# Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
+<!-- deprecated title (2026-10-05, overstated its evidence: no recorded entry compares guided with pure discovery directly): Guided Discovery Outperforms Pure Discovery -->
 
-Discovery learning in which learners derive target concepts with minimal support produces weaker learning outcomes than discovery learning that includes instructional guidance such as scaffolds, feedback, prompts, or worked examples.
+Discovery learning in which learners derive target concepts with minimal support produces weaker learning outcomes than explicit instruction, while discovery that includes instructional guidance such as scaffolds, feedback, prompts or worked examples does better than other forms of instruction. The recorded evidence makes these two comparisons separately; none of the entries sets guided discovery directly against pure discovery. <!-- deprecated (2026-10-05, overstated: the entries do not compare guided with pure discovery head to head): Discovery learning in which learners derive target concepts with minimal support produces weaker learning outcomes than discovery learning that includes instructional guidance such as scaffolds, feedback, prompts, or worked examples. -->
 
 ## Subclaims
 
@@ -89,6 +90,7 @@ This claim does not imply that pure discovery is useless or that direct telling 
 
 **Evidence status.** The evidence recorded above supports the claim for unguided discovery specifically: in Alfieri et al. (2011), explicit instruction beat unassisted discovery (d = 0.38), while discovery enhanced with feedback, worked examples or scaffolding beat other forms of instruction. So the deficit belongs to discovery without guidance, not to discovery as such. That comparison rests on one meta-analysis coded here with a small effect; the other two entries do not add an effect size. <!-- deprecated (2026-09-30, stale once evidence was recorded): Until then, treat the claim as well-motivated theoretically but unrated empirically within this wiki. -->
 
+<!-- 2026-10-05: evidence markers ([-S], [~M], [~W]) with no claim link behind them were removed from the merged paragraphs below. -->
 *Merged from “Guided Inquiry Outperforms Pure Discovery” (guided-inquiry-outperforms-pure-discovery):* **The guidance continuum.** This claim concerns a comparison along a continuum of support: unguided or minimally guided discovery at one end, fully scaffolded inquiry and direct instruction at the other. Where guided inquiry sits relative to well-designed explicit instruction remains an open question, and the answer likely depends on learner expertise, domain, and the quality of the guidance.
 
 **Why pure discovery fails.** The mechanism most commonly offered is working-memory limits: unguided search consumes limited working-memory resources on ineffective strategies rather than on schema construction, degrading learning — consistent with [cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and [cognitive load theory](../theories/cognitive-load-theory.md). Guidance such as [worked examples](../elements/demonstration.md), prompts, and feedback redirects effort toward productive processing rather than fruitless search. This is the same mechanism that makes worked examples outperform unguided problem-solving for novices.
@@ -97,9 +99,9 @@ This claim does not imply that pure discovery is useless or that direct telling 
 
 **What counts as guidance.** The scaffolds that distinguish guided inquiry from pure discovery are heterogeneous: procedural prompts, [advance organizers](../elements/advance-organizers.md), [worked examples](../elements/demonstration.md), timely feedback, structured roles in [collaborative learning](../patterns/collaborative-learning.md), and teacher-led explanation phases interleaved with investigation. Designs vary widely in how much and when guidance is delivered, so "guided inquiry" is not a single treatment; effect sizes should be expected to vary with scaffold density, timing, and fade-out.
 
-**Constraints on the claim.** Pure discovery is most likely to fail where learners lack the prior knowledge needed to recognize relevant patterns during exploration [-S], in high-element-interactivity domains where unguided search quickly overwhelms working memory [-S], and when scaffolds are present but poorly timed or never faded, producing redundancy for more advanced learners [~M]. Conversely, brief structured exploration can serve motivational and epistemic purposes — generating [cognitive disequilibrium](cognitive-disequilibrium-motivates-conceptual-change.md) that prepares learners for subsequent explanation [~W] — so the claim should not be read as "never let learners explore."
+**Constraints on the claim.** Pure discovery is most likely to fail where learners lack the prior knowledge needed to recognize relevant patterns during exploration, in high-element-interactivity domains where unguided search quickly overwhelms working memory, and when scaffolds are present but poorly timed or never faded, producing redundancy for more advanced learners. Conversely, brief structured exploration can serve motivational and epistemic purposes — generating [cognitive disequilibrium](cognitive-disequilibrium-motivates-conceptual-change.md) that prepares learners for subsequent explanation — so the claim should not be read as "never let learners explore."
 
-**Evidence status.** The evidence recorded above supports the claim for unguided discovery specifically: in Alfieri et al. (2011), explicit instruction beat unassisted discovery (d = 0.38), while discovery enhanced with feedback, worked examples or scaffolding beat other forms of instruction. So the deficit belongs to discovery without guidance, not to discovery as such. The claim is widely discussed in the instructional-design literature, but this wiki requires specific studies to be ingested and verified before the claim can carry an evidence-strength rating.
+**Evidence status.** The evidence recorded above supports the claim for unguided discovery specifically: in Alfieri et al. (2011), explicit instruction beat unassisted discovery (d = 0.38), while discovery enhanced with feedback, worked examples or scaffolding beat other forms of instruction. So the deficit belongs to discovery without guidance, not to discovery as such. For this folded guided-inquiry claim, note that Klahr & Nigam (2004) compares direct instruction with discovery, not guided inquiry with discovery, and Kirschner et al. (2006) is a narrative review; no recorded entry tests a guided-inquiry design (such as the 5E cycle) against pure discovery, so where guided inquiry sits on the continuum is untested here. <!-- deprecated (2026-10-05, stale: entries had been added): The claim is widely discussed in the instructional-design literature, but this wiki requires specific studies to be ingested and verified before the claim can carry an evidence-strength rating. -->
 
 ## Related Claims
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)
-description: Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)
+title: "In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable"
+description: "In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable"
 id: engineering-rubric-low-scoring-reliability
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)
+# In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points) -->
 
 ## Subclaims
 `q2 i?` Scoring six teams with the engineering rubric gave a mean class score of 6.2 of 9 points and a mean class standard deviation of 1.2 points, leading the authors to conclude the rubric may not have been reliable. [→ Morzinski 2010](#morzinski-2010)
@@ -41,6 +42,7 @@ Analysis of summative assessment scores in which six scorers rated six teams usi
 
 ## Discussion
 
+The one entry is a single class at Maui Community College: six scorers, six teams, one inquiry lab. No reliability coefficient (such as an ICC or kappa) is reported; the figure is a mean standard deviation across scorers, and "may not have been a reliable test" is the authors' own reading of it. Whether the rubric, the scorers' training or the small number of teams is responsible cannot be told from this, and nothing here generalises to engineering rubrics as such.
 
 ## Related Claims
 - [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — related

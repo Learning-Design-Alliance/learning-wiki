@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Reading Literary Fiction Improves Theory Of Mind
+title: "Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate"
 status: draft
 generated:
   by: claude/unspecified
@@ -38,12 +38,15 @@ sources:
     rigour: "?"
 ---
 
-# Reading Literary Fiction Improves Theory Of Mind
+# Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
+<!-- deprecated title (2026-10-05, overstated its evidence): Reading Literary Fiction Improves Theory Of Mind -->
 
-Reading literary fiction — as distinct from popular fiction or non-fiction — temporarily improves readers' performance on theory of mind (ToM) tasks, the ability to infer others' mental states.
+Kidd & Castano (2013) reported that reading a short passage of literary fiction — as distinct from popular fiction or non-fiction — temporarily improved performance on theory-of-mind (ToM) tasks, the ability to infer others' mental states. A three-lab replication with 792 adults (Panero et al. 2016) found no such advantage on the main outcome, and a meta-analysis of 14 experiments (Dodell-Feder & Tamir 2018) found fiction reading improved social-cognitive performance by g = .15–.16, below the conventional threshold for a small effect. What the evidence supports is a very small average effect of fiction reading, not a reliable effect of a single literary passage; no study recorded here measures empathy or lasting change.
+
+<!-- deprecated opening (2026-10-05, overstated its evidence): Reading literary fiction — as distinct from popular fiction or non-fiction — temporarily improves readers' performance on theory of mind (ToM) tasks, the ability to infer others' mental states. -->
 
 ## Subclaims
 
@@ -81,7 +84,9 @@ In five experiments, adults read a short passage and then took tests of affectiv
 
 ## Discussion
 
-**Replication controversy.** The claim originates from a widely cited pair of experiments (Kidd & Castano, 2013) reporting that brief assignments of literary fiction improved performance on the Reading the Mind in the Eyes Test and the Yoni task relative to popular fiction, non-fiction, or nothing [-W]. Subsequent multi-lab and direct replication efforts have produced mixed results, with several failing to find the effect at the original magnitude [~W]. The claim should therefore be treated as emerging rather than established, and any instructional design built on it should be piloted and measured locally.
+**Replication controversy.** The claim originates from a widely cited set of five experiments (Kidd & Castano, 2013) reporting that brief assignments of literary fiction improved theory-of-mind performance relative to popular fiction, non-fiction, or nothing. The multi-site replication recorded here (Panero et al. 2016, 792 participants) found no advantage for literary fiction on the eyes test, and found that lifetime exposure to fiction predicted scores in every condition, suggesting self-selection or gradual exposure rather than a single-passage effect. The meta-analytic average across 14 experiments is very small (g = .15–.16). The single-passage effect should therefore be treated as unreplicated,
+<!-- deprecated (2026-10-05, miscounted the experiments and carried unsourced markers): The claim originates from a widely cited pair of experiments (Kidd & Castano, 2013) reporting that brief assignments of literary fiction improved performance on the Reading the Mind in the Eyes Test and the Yoni task relative to popular fiction, non-fiction, or nothing [-W]. Subsequent multi-lab and direct replication efforts have produced mixed results, with several failing to find the effect at the original magnitude [~W]. The claim should therefore be treated as emerging rather than established, -->
+ and any instructional design built on it should be piloted and measured locally.
 
 **Boundary conditions.** Where effects have been found, they are typically short-lived (measured immediately after reading), small in magnitude, and dependent on the text genuinely requiring inference about characters' mental states — literary fiction's defining feature in this literature is its demand that readers construct characters' minds from sparse cues [~W]. Texts that do not impose this inferential demand (formulaic popular fiction, expository non-fiction) are not expected to produce the effect [-W]. This makes the *selection of text* the critical design variable: a "fiction reading" intervention using plot-driven genre fiction is unlikely to engage the mechanism at all.
 

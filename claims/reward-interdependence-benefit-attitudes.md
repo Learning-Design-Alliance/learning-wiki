@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners
-description: Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners
+title: "In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas"
+description: "In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas"
 id: reward-interdependence-benefit-attitudes
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners
+# In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners -->
 
 ## Subclaims
 `q3 i?` Participants in reward groups agreed significantly more that they benefited from working with others, generated better ideas than they could individually, and that teammates earning high scores mattered. [→ Brewer 2003](#brewer-2003)
@@ -41,6 +42,7 @@ Attitude survey administered after the posttest in the four-condition experiment
 
 ## Discussion
 
+One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported attitude on a post-test survey, not learning, and no effect size is printed. This study's entry on this page does not describe the participants. The same study's entry on [the achievement claim](interdependence-type-no-achievement-effect-asynchronous.md) describes them as 280 undergraduate business majors, blocked by affiliation motive and randomly assigned to triads; an earlier title called them adult online learners, which no entry for this study says, so the scope now follows that entry. The same study found no achievement difference by type of interdependence.
 
 ## Related Claims
 - [Adult learners with high affiliation motive report significantly more favorable attitudes toward small group work than low affiliation learners](high-affiliation-motive-favorable-group-attitudes.md) — related

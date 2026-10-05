@@ -28,6 +28,7 @@ Deciding that two claims are one is the editorial act; `link_claims.py` only
 proposes pairs.
 """
 import argparse
+import datetime
 import re
 import subprocess
 import sys
@@ -85,12 +86,18 @@ def merge_text(keep_text: str, fold_text: str, fold_slug: str, fold_title: str, 
 
     kev = dict(ks).get("Evidence", "")
     have = {study_id(b, h): anchor(h) for h, b in entries(kev)}
+    kblocks = {anchor(h): b for h, b in entries(kev)}
     have_anchors = set(have.values())
-    moved, remap = [], {}
+    moved, remap, variants = [], {}, []
     for h, b in entries(fs.get("Evidence", "")):
         sid = study_id(b, h)
         if sid in have:
             remap[anchor(h)] = have[sid]
+            # The same study written up differently on <fold> (another finding, another
+            # quote) must not vanish with <fold>: keep its entry verbatim under <keep>'s.
+            kb = kblocks.get(have[sid], "")
+            if " ".join(b.split("\n", 1)[-1].split()) != " ".join(kb.split("\n", 1)[-1].split()):
+                variants.append((kb, b))
             continue
         a, heading = anchor(h), h
         n = 2
@@ -122,8 +129,14 @@ def merge_text(keep_text: str, fold_text: str, fold_slug: str, fold_title: str, 
         t = text.rstrip("\n")
         if head == "Subclaims" and subs:
             t = t + "\n\n" + "\n\n".join(s for s in subs if s not in t)
-        elif head == "Evidence" and moved:
-            t = t + "\n\n" + "\n\n".join(moved)
+        elif head == "Evidence" and (moved or variants):
+            for kb, fb in variants:
+                if kb and kb in t:
+                    kept = fb.replace("<!--", "<!- -").replace("-->", "- ->")
+                    t = t.replace(kb, kb + f"\n\n<!-- merged {datetime.date.today().isoformat()} from {fold_slug}: "
+                                  f"that page's entry for this study, which differed from the one above, kept verbatim.\n{kept}\n-->", 1)
+            if moved:
+                t = t + "\n\n" + "\n\n".join(moved)
         elif head == "Discussion" and fold_disc:
             t = t + f"\n\n*Merged from “{fold_title}” ({fold_slug}):* " + fold_disc
         elif head == "Related Claims":

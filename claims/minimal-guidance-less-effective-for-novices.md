@@ -59,7 +59,7 @@ For learners who lack relevant prior knowledge, discovery- or inquiry-style appr
 
 Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 
-`q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `design · r3`
+`q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `quant-synthesis · r?`
 
 Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for *unguided* discovery. They also qualify it: guided forms of discovery ([feedback](../elements/feedback.md), [worked examples](../elements/demonstration.md), scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.
 

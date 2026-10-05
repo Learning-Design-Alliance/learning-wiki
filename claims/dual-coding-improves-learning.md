@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Dual Coding Improves Learning
+title: "Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed"
 status: draft
 generated:
   by: claude/unspecified
@@ -38,12 +38,15 @@ sources:
     rigour: "?"
 ---
 
-# Dual Coding Improves Learning
+# Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
+<!-- deprecated title (2026-10-05, overstated its evidence): Dual Coding Improves Learning -->
 
-Pairing verbal information with corresponding visual representations improves learning, because information processed through both verbal and visual channels creates two memory traces rather than one.
+Pairing text with corresponding pictures or graphics improves learning from it: a meta-analysis of 39 experiments found a small-to-moderate benefit for reading comprehension (g = 0.39), and a narrative review concludes that carefully constructed illustrations improve text-dependent outcomes. The usual explanation, that verbal and visual processing create two memory traces rather than one ([dual coding theory](../theories/dual-coding-theory.md)), is contested: Higdon et al. (2025) found the picture-superiority effect in memory followed physical distinctiveness instead. The evidence recorded here measures comprehension and text-dependent performance more than recall as such.
+
+<!-- deprecated opening (2026-10-05, stated the dual-trace mechanism as established): Pairing verbal information with corresponding visual representations improves learning, because information processed through both verbal and visual channels creates two memory traces rather than one. -->
 
 ## Subclaims
 
@@ -85,7 +88,7 @@ The experiments tested whether pictures are remembered better than words because
 
 **Boundary conditions.** The benefit depends on the visual being *corresponding* and *relevant*: decorative images that do not map onto the verbal content can hurt learning, consistent with the coherence principle (see [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md)). Benefits are typically strongest for novices, who lack mental models to reconstruct imagery from text alone, and may reverse for advanced learners for whom pictures are redundant — the expertise reversal pattern described in [Expertise reversal effect](../theories/expertise-reversal-effect.md). Learners must also actually attend to and integrate both representations; simply adding a picture without prompting referential connections yields weaker effects. Where the visual itself is complex, pairing it with [chunking](chunking-reduces-working-memory-load.md) or a structured [advance organizer](advance-organizers-improve-learning.md) helps keep combined load manageable.
 
-**Open questions.** Most supporting work comes from short laboratory or classroom interventions in well-structured domains (science, mathematics). The durability of effects over long retention intervals, and their magnitude in ill-structured domains where imagery is harder to define, remain under-established. Primary studies still need to be added to the Evidence section before this claim can be rated.
+**Open questions.** Most supporting work comes from short laboratory or classroom interventions in well-structured domains (science, mathematics). The durability of effects over long retention intervals, and their magnitude in ill-structured domains where imagery is harder to define, remain under-established. Three entries are recorded: a meta-analysis on reading comprehension (Guo et al. 2020), a narrative review read from its abstract (Carney & Levin 2002), and memory experiments that dispute the mechanism (Higdon et al. 2025). Missing are studies of long retention intervals and of recall from combined verbal and visual instruction specifically. <!-- deprecated (2026-10-05, stale): Primary studies still need to be added to the Evidence section before this claim can be rated. -->
 
 *Merged from “Dual Coding Improves Recall” (dual-coding-improves-recall):* The mechanism is usually attributed to [dual coding theory](../theories/dual-coding-theory.md): verbal and pictorial information are processed in partly distinct cognitive systems, so presenting both creates two memory traces and, when the two are referentially linked, richer retrieval pathways at test. This places the claim squarely in the multimedia learning tradition, where the coherence principle shows that irrelevant material hurts learning — meaning the visual channel must carry relevant, explanatory content rather than decoration for the dual-coding benefit to appear (see [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md)).
 
@@ -93,7 +96,7 @@ Boundary conditions follow from the same theory. Because both channels draw on l
 
 The claim is also modulated by expertise: as learners gain domain knowledge, a second representation can become redundant and stop adding retrieval routes, mirroring the expertise-reversal pattern documented for worked examples and other scaffolds (see [Expertise reversal effect](../theories/expertise-reversal-effect.md)). Designers should therefore treat dual coding as a novice-oriented support to be faded rather than a universal default.
 
-Open questions: how durable the recall advantage is over long retention intervals, and how it interacts with learner-generated versus instructor-provided visuals, remain under-specified in the current evidence base. Studies still need to be added to substantiate the subclaims above; until then, this page should be treated as a theoretically motivated hypothesis rather than an empirically established claim.
+Open questions: how durable the recall advantage is over long retention intervals, and how it interacts with learner-generated versus instructor-provided visuals, remain under-specified in the current evidence base. The entries recorded above support a benefit of adding graphics for comprehension, not a recall advantage as such, and one of them (Higdon et al. 2025) disputes that dual coding is the mechanism for the picture-superiority effect in memory. <!-- deprecated (2026-10-05, stale): Studies still need to be added to substantiate the subclaims above; until then, this page should be treated as a theoretically motivated hypothesis rather than an empirically established claim. -->
 
 ## Related Claims
 
