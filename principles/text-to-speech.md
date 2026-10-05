@@ -9,7 +9,7 @@ generated:
   at: 2026-10-05
 sources:
   - id: hillaire-2019
-    resource: "https://doi.org/10.5334/jime.510"
+    resource: "https://doi.org/10.5334/jime.519"
     title: "Hillaire, G., Iniesto, F., & Rienties, B. (2019). Humanising text-to-speech through emotional expression in online courses. *Journal of Interactive Media in Education, 2019*(1), 12"
     author: "Hillaire, G., Iniesto, F., & Rienties, B"
   - id: podsiadlo-2016

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-05
 sources:
   - id: burris-2006
-    resource: "https://doi.org/10.3102/00028312043001137"
+    resource: "https://doi.org/10.3102/00028312043001105"
     title: "Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154"
     author: "Burris, C. C., Heubert, J. P., & Levin, H. M"
   - id: castle-2005

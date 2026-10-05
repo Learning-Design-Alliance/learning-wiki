@@ -9,8 +9,8 @@ generated:
   at: 2026-10-05
 sources:
   - id: dudai-2004
-    resource: "https://doi.org/10.1016/j.neuron.2004.09.007"
-    title: "Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112"
+    resource: "https://doi.org/10.1146/annurev.psych.55.090902.142050"
+    title: "Dudai, Y. (2004). The neurobiology of consolidations, or, how stable is the engram? *Annual Review of Psychology, 55*, 51-86"
     author: Dudai, Y
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -150,8 +150,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 **Interleaved return to core ideas** — A unit repeatedly returns to foundational concepts in new contexts, helping learners stabilize and integrate them over time.
 
 ## Key Sources
-<!-- Note 2026-10-05: Crossref gives Dudai (2004) "The neurobiology of consolidations, or, how stable is the engram?" as Annual Review of Psychology 55, 51-86 (doi 10.1146/annurev.psych.55.090902.142050, the DOI below). The journal coordinates below (Neuron 44(1)) are not that paper's, and the frontmatter resource 10.1016/j.neuron.2004.09.007 resolves to Dan & Poo (2004), a different paper. Left unedited pending a citation pass. -->
-- Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050)
+- Dudai, Y. (2004). The neurobiology of consolidations, or, how stable is the engram? *Annual Review of Psychology, 55*, 51-86. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050) <!-- corrected 2026-10-05 against Crossref; was: Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. -->
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.

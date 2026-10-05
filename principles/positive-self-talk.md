@@ -13,7 +13,7 @@ sources:
     title: "Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R., Moser, J., & Ayduk, O. (2014). Self-talk as a regulatory mechanism: How you do it matters. *Journal of Personality and Social Psychology, 106*(2), 304-324"
     author: "Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R., Moser, J., & Ayduk, O"
   - id: gainsburg-2020
-    resource: "https://doi.org/10.1016/j.jesp.2019.103971"
+    resource: "https://doi.org/10.1016/j.jesp.2020.103969"
     title: "Gainsburg, I., & Kross, E. (2020). Distanced self-talk changes how people conceptualize the self. *Journal of Experimental Social Psychology, 88*, 103971"
     author: "Gainsburg, I., & Kross, E"
   - id: hatzigeorgiadis-2011

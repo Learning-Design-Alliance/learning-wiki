@@ -13,7 +13,7 @@ sources:
     title: "Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220"
     author: "Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D"
   - id: madrigal-hopes-2014
-    resource: "https://doi.org/10.1177/1045159514527923"
+    resource: "https://doi.org/10.1177/1045159514522432"
     title: "Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness. *Adult Learning, 25*(2), 47-56"
     author: "Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C"
   - id: riccomini-2015
