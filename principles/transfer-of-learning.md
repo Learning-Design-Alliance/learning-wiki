@@ -12,7 +12,7 @@ generated:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 17 studies (7 causal, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q1`–`q4` · 4 of 17 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

@@ -14,7 +14,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 13 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 26 studies (10 causal, 6 quant-synthesis, 6 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 26 report an effect size · 3 claims rest on one study
 
 ## Description and scope
 

@@ -14,7 +14,7 @@ grain_size: unit, course
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 qualitative), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 13 claims (7 for, 6 mixed) · 23 studies (8 causal, 8 quant-synthesis, 3 review, 3 qualitative, 1 design), `q1`–`q4` · 8 of 23 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 

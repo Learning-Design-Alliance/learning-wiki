@@ -17,7 +17,7 @@ sources:
 # Social Interdependence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 4 studies (2 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 20 claims (7 for, 13 mixed) · 16 studies (4 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 16 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

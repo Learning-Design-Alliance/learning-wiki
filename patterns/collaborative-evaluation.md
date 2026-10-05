@@ -23,7 +23,7 @@ grain_size: lesson
 # Collaborative Evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 12 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (7 for, 10 mixed) · 34 studies (15 causal, 7 quant-synthesis, 5 associational, 3 review, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 34 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 

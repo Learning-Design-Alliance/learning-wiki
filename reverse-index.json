@@ -44,15 +44,15 @@
   "patterns->patterns": 88,
   "patterns->principles": 73,
   "patterns->processes": 1,
-  "patterns->theories": 31,
+  "patterns->theories": 30,
   "principles->claims": 396,
   "principles->designs": 34,
-  "principles->elements": 87,
-  "principles->methods": 3,
-  "principles->patterns": 68,
+  "principles->elements": 90,
+  "principles->methods": 4,
+  "principles->patterns": 71,
   "principles->principles": 266,
   "principles->processes": 2,
-  "principles->theories": 109,
+  "principles->theories": 105,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -1153,7 +1153,12 @@
       "strength": "M"
      },
      {
-      "polarity": "+",
+      "polarity": "~",
+      "slug": "develop-understanding",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "experiential-learning-cycle",
       "strength": "M"
      },
@@ -1167,6 +1172,11 @@
      {
       "polarity": "~",
       "slug": "activation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "cultural-life-experiences-connections",
       "strength": "M"
      },
      {
@@ -3703,6 +3713,11 @@
       "polarity": "+",
       "slug": "adaptive-learning",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -4511,6 +4526,11 @@
       "polarity": "~",
       "slug": "clear-structure",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic-organizers",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -4744,6 +4764,13 @@
      },
      {
       "slug": "training-transfer-as-adaptive-reconstruction"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -5848,6 +5875,11 @@
       "polarity": "+",
       "slug": "elaborative-reasoning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -6267,6 +6299,13 @@
      {
       "polarity": "+",
       "slug": "inksurvey-pen-enabled-brainstorming",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-evaluation",
       "strength": "W"
      }
     ],
@@ -13264,6 +13303,16 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "engagement",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "gamification",
       "strength": "M"
@@ -15555,6 +15604,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -17790,6 +17846,13 @@
      {
       "slug": "adaptive-learning-improves-outcomes"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "M"
+     }
     ]
    },
    "cbi-version-affects-attitudes-lean-most-negative": {
@@ -18320,6 +18383,11 @@
       "polarity": "+",
       "slug": "balance-challenge-and-support-library-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -18686,12 +18754,22 @@
       "polarity": "~",
       "slug": "authentic-assessment",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
      }
     ],
     "principles": [
      {
       "polarity": "~",
       "slug": "epistemic-cognition",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "evaluating-sources",
       "strength": "M"
      }
     ],
@@ -19047,6 +19125,11 @@
       "polarity": "+",
       "slug": "satisfy-all-three-needs-campus-wide-retention",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "universal-design-for-learning",
+      "strength": "W"
      }
     ]
    },
@@ -23057,6 +23140,13 @@
       "strength": "S"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -23066,6 +23156,11 @@
      {
       "polarity": "+",
       "slug": "epistemic-cognition",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "evaluating-sources",
       "strength": "M"
      }
     ],
@@ -24594,6 +24689,13 @@
       "slug": "self-testing",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "M"
+     }
     ]
    },
    "closed-tasks-foster-more-negotiation-than-open-tasks": {
@@ -25466,6 +25568,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -25978,6 +26087,13 @@
      },
      {
       "slug": "srl-is-domain-specific-strategy-use-varies-by-subject"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "engagement",
+      "strength": "M"
      }
     ]
    },
@@ -27124,6 +27240,11 @@
      {
       "polarity": "~",
       "slug": "cooperative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
       "strength": "M"
      },
      {
@@ -29440,6 +29561,11 @@
       "polarity": "~",
       "slug": "epistemic-cognition",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "evaluating-sources",
+      "strength": "M"
      }
     ]
    },
@@ -30516,6 +30642,11 @@
       "polarity": "~",
       "slug": "community-based-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -30631,6 +30762,11 @@
      {
       "polarity": "+",
       "slug": "concept-attainment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "develop-understanding",
       "strength": "M"
      }
     ],
@@ -31362,6 +31498,13 @@
      {
       "slug": "novel-material-instructor-support-less-important"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
+     }
     ]
    },
    "computer-based-tutorial-implementation-lowest-posttest": {
@@ -31374,6 +31517,13 @@
      },
      {
       "slug": "novel-material-instructor-support-less-important"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
      }
     ]
    },
@@ -31437,7 +31587,7 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "experiential-learning-cycle",
       "strength": "M"
      }
@@ -31445,8 +31595,18 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "elaborative-reasoning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -32369,6 +32529,11 @@
       "polarity": "~",
       "slug": "cognitive-activation",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "engagement",
+      "strength": "M"
      }
     ]
    },
@@ -32794,6 +32959,20 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "authentic-assessment",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -32987,13 +33166,18 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
+      "polarity": "+",
       "slug": "develop-understanding",
       "strength": "M"
      },
      {
       "polarity": "~",
       "slug": "discussion-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "experiential-learning-cycle",
       "strength": "M"
      },
      {
@@ -34325,6 +34509,11 @@
       "polarity": "~",
       "slug": "cooperative-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -34475,6 +34664,11 @@
      {
       "polarity": "+",
       "slug": "gamification",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-interdependence",
       "strength": "M"
      }
     ],
@@ -34932,6 +35126,11 @@
       "polarity": "+",
       "slug": "laboratories-satisfying-cooperative-learning-conditions",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-interdependence",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -35116,6 +35315,11 @@
       "polarity": "~",
       "slug": "cooperative-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -35148,6 +35352,11 @@
      {
       "polarity": "+",
       "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
       "strength": "W"
      }
     ]
@@ -37112,6 +37321,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "dual-coding",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "-",
@@ -37682,6 +37898,13 @@
      {
       "slug": "deliberate-practice-improves-performance"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "M"
+     }
     ]
    },
    "deliberate-practice-expands-memory-capacity": {
@@ -37691,6 +37914,13 @@
      },
      {
       "slug": "deliberate-practice-hours-differentiate-musicians"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -37714,6 +37944,13 @@
      },
      {
       "slug": "historical-improvements-reject-immutable-limits"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -37761,6 +37998,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -37776,6 +38020,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "structured-deliberate-practice-for-licensing-review",
@@ -37806,6 +38055,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "structured-deliberate-practice-for-licensing-review",
@@ -38164,6 +38418,11 @@
       "polarity": "~",
       "slug": "cognitive-load-management",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -39341,6 +39600,11 @@
      {
       "polarity": "+",
       "slug": "presume-rightful-presence-and-inherent-value",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "universal-design-for-learning",
       "strength": "W"
      }
     ],
@@ -40556,6 +40820,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -40799,6 +41070,16 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "multimodal-instruction",
       "strength": "M"
      }
@@ -40866,6 +41147,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "dual-coding",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "universal-design-for-learning",
@@ -41894,6 +42180,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -42166,6 +42459,13 @@
      },
      {
       "slug": "tool-effectiveness-depends-on-context-configuration"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -43161,6 +43461,13 @@
      {
       "slug": "kolb-learning-style-stable-over-one-year"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "experiential-learning-cycle",
+      "strength": "W"
+     }
     ]
    },
    "elt-textbook-series-differ-bloom-mi-grid": {
@@ -43842,6 +44149,11 @@
       "polarity": "+",
       "slug": "cognitive-flexibility",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "W"
      }
     ]
    },
@@ -43898,6 +44210,13 @@
      },
      {
       "slug": "rjm-high-interrater-reliability-teacher-educators"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "authentic-assessment",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -46045,6 +46364,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning-cycle",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -46509,6 +46835,11 @@
     "patterns": [
      {
       "polarity": "~",
+      "slug": "develop-understanding",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "direct-instruction",
       "strength": "W"
      },
@@ -46536,12 +46867,37 @@
      },
      {
       "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "cognitive-load-management",
       "strength": "M"
      },
      {
       "polarity": "~",
       "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "evaluating-sources",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic-organizers",
       "strength": "M"
      },
      {
@@ -46567,6 +46923,16 @@
      {
       "polarity": "~",
       "slug": "scaffolding",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "universal-design-for-learning",
       "strength": "M"
      }
     ],
@@ -48753,6 +49119,11 @@
       "strength": "W"
      },
      {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "M"
+     },
+     {
       "slug": "worked-examples"
      }
     ]
@@ -49991,6 +50362,11 @@
       "polarity": "~",
       "slug": "text-system-controlled-prompts-for-novices",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "M"
      }
     ]
    },
@@ -50520,6 +50896,13 @@
      {
       "polarity": "+",
       "slug": "formative-assessment",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
       "strength": "S"
      }
     ],
@@ -54971,6 +55354,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "-",
@@ -55302,6 +55692,11 @@
    },
    "gamification-has-small-positive-effects-on-learning-outcomes": {
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "engagement",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "game-based-learning",
@@ -55979,6 +56374,13 @@
       "slug": "reversi-training-conditions-varying-intrinsic-and-extraneous-load",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "W"
+     }
     ]
    },
    "ghanaian-education-officers-no-significant-response-differences": {
@@ -56425,6 +56827,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "S"
+     },
      {
       "polarity": "+",
       "slug": "goal-setting-monitoring",
@@ -56982,8 +57389,18 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "dual-coding",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "graphic-organizers-scaffold-comprehension-principle",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
       "strength": "S"
      },
      {
@@ -57521,6 +57938,11 @@
     "patterns": [
      {
       "polarity": "~",
+      "slug": "authentic-assessment",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
       "slug": "concept-attainment",
       "strength": "S"
      },
@@ -57601,6 +58023,11 @@
       "polarity": "+",
       "slug": "5e-learning-cycle",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "experiential-learning-cycle",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -57933,6 +58360,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning-cycle",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -58020,6 +58454,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "graphic-organizers",
+      "strength": "W"
+     },
      {
       "polarity": "~",
       "slug": "semantic-mapping-principle",
@@ -58196,6 +58635,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -58337,6 +58783,13 @@
      },
      {
       "slug": "structured-interdependence-contribution-obligation-attitude"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "M"
      }
     ]
    },
@@ -59614,6 +60067,13 @@
       "slug": "funds-of-knowledge-teacher-research-model",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     }
     ]
    },
    "home-visits-shift-teacher-views-of-culture-to-dynamic-process": {
@@ -59884,6 +60344,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "holistic-video-style-selection-principle",
@@ -61456,6 +61921,13 @@
       "slug": "integrated-stem-quilt-project-judged-to-offer-multiple-entry-points"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -62788,6 +63260,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -62874,6 +63353,11 @@
      {
       "polarity": "+",
       "slug": "community-of-inquiry",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-interdependence",
       "strength": "W"
      }
     ]
@@ -63009,6 +63493,11 @@
       "polarity": "+",
       "slug": "collaborative-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "W"
      }
     ]
    },
@@ -63035,6 +63524,13 @@
       "polarity": "+",
       "slug": "semantic-mapping-reading-technique",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -63075,6 +63571,13 @@
      },
      {
       "slug": "specialization-role-interdependence-moderated-by-social-climate"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -63136,6 +63639,11 @@
       "polarity": "~",
       "slug": "community-of-inquiry",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "M"
      }
     ]
    },
@@ -63149,6 +63657,13 @@
      },
      {
       "slug": "structured-interdependence-contribution-obligation-attitude"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "M"
      }
     ]
    },
@@ -63486,6 +64001,13 @@
      {
       "polarity": "~",
       "slug": "logic-model",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
       "strength": "M"
      }
     ]
@@ -65259,6 +65781,13 @@
       "slug": "kolb-learning-style-stable-over-one-year"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "-",
+      "slug": "experiential-learning-cycle",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "-",
@@ -65277,6 +65806,13 @@
      },
      {
       "slug": "kolb-inventory-limited-validity-career-and-personality"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "-",
+      "slug": "experiential-learning-cycle",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -65844,6 +66380,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "use-lab-technology-to-free-time-for-analysis",
       "strength": "M"
      }
@@ -66143,6 +66684,13 @@
      },
      {
       "slug": "redundancy-effect-impairs-learning"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -66703,6 +67251,18 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "dual-coding",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic-organizers",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -66841,6 +67401,11 @@
      {
       "polarity": "~",
       "slug": "chunking",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "universal-design-for-learning",
       "strength": "M"
      }
     ],
@@ -67197,6 +67762,13 @@
       "slug": "peer-discussion-improves-conceptual-understanding"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -67415,6 +67987,13 @@
      {
       "polarity": "~",
       "slug": "self-regulated-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
       "strength": "M"
      }
     ],
@@ -67716,6 +68295,11 @@
       "strength": "S"
      },
      {
+      "polarity": "-",
+      "slug": "dual-coding",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "implement-research-based-pedagogy-not-untested-theories",
       "strength": "M"
@@ -67724,6 +68308,11 @@
       "polarity": "-",
       "slug": "multimodal-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "universal-design-for-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -70378,6 +70967,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "dual-coding",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -71289,6 +71885,13 @@
      {
       "slug": "multimodal-culturally-grounded-assessment-supports-engagement-and-agency"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     }
     ]
    },
    "mead-rapid-change-obsoletes-knowledge": {
@@ -71629,6 +72232,13 @@
      {
       "polarity": "+",
       "slug": "multimedia-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "dual-coding",
       "strength": "W"
      }
     ],
@@ -72089,6 +72699,13 @@
      {
       "slug": "simulation-based-education-improves-outcomes"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "M"
+     }
     ]
    },
    "media-effects-vary-by-knowledge-category": {
@@ -72497,6 +73114,13 @@
      {
       "slug": "repeated-short-lessons-scaffold-mentee-behaviour-management"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "ask-experts",
+      "strength": "W"
+     }
     ]
    },
    "mentor-program-concepts-support-student-teacher-learning": {
@@ -72647,6 +73271,13 @@
      },
      {
       "slug": "unmentored-first-year-task-concerns-flat"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -73378,6 +74009,13 @@
       "slug": "conference-telephone-set-telelecture",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "W"
+     }
     ]
    },
    "mics-pre-post-no-group-differential-effect": {
@@ -73593,6 +74231,11 @@
      {
       "polarity": "~",
       "slug": "anchored-instruction",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "develop-understanding",
       "strength": "S"
      },
      {
@@ -74083,6 +74726,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "develop-understanding",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -74126,6 +74776,11 @@
      {
       "polarity": "~",
       "slug": "clear-structure",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic-organizers",
       "strength": "M"
      }
     ],
@@ -74577,6 +75232,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -75001,6 +75663,11 @@
      {
       "polarity": "+",
       "slug": "contextualize-abstract-content-older-learners",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "universal-design-for-learning",
       "strength": "W"
      }
     ]
@@ -76224,6 +76891,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "leader-criteria-sol-alignment-digital-materials",
       "strength": "W"
      }
@@ -76352,6 +77024,13 @@
       "slug": "textual-prompts-stronger-continuing-motivation"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -76440,6 +77119,13 @@
      },
      {
       "slug": "teachers-synthesize-pd-practices-with-context-not-just-transfer-them"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -77357,6 +78043,11 @@
      {
       "polarity": "~",
       "slug": "multimodal-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "universal-design-for-learning",
       "strength": "M"
      }
     ],
@@ -78339,6 +79030,13 @@
       "polarity": "+",
       "slug": "dropout-timing-stage-definitions",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
      }
     ]
    },
@@ -80088,6 +80786,11 @@
       "polarity": "+",
       "slug": "communities-of-practice",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "W"
      }
     ]
    },
@@ -80144,6 +80847,13 @@
       "polarity": "~",
       "slug": "blended-learning",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "digital-learning",
+      "strength": "M"
      }
     ]
    },
@@ -80632,6 +81342,11 @@
       "polarity": "~",
       "slug": "clear-structure",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic-organizers",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -80723,6 +81438,13 @@
       "polarity": "+",
       "slug": "dropout-timing-stage-definitions",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "M"
      }
     ]
    },
@@ -81423,6 +82145,13 @@
       "slug": "think-pair-share",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "W"
+     }
     ]
    },
    "paradoxical-institutional-characteristics-improve-effectiveness-over-time": {
@@ -81962,6 +82691,11 @@
      },
      {
       "slug": "situated-learning"
+     },
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "M"
      }
     ],
     "processes": [
@@ -83017,6 +83751,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -83088,6 +83829,16 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "authentic-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "formative-assessment",
       "strength": "M"
      }
@@ -83124,6 +83875,16 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "authentic-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "formative-assessment",
@@ -83256,6 +84017,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "experiential-learning-cycle",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -83346,6 +84114,11 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "peer-instruction",
       "strength": "M"
      },
@@ -83425,6 +84198,20 @@
      {
       "polarity": "+",
       "slug": "peer-review",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
       "strength": "M"
      }
     ],
@@ -83558,6 +84345,13 @@
      {
       "polarity": "+",
       "slug": "peer-feedbackpeer-review",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-evaluation",
       "strength": "M"
      }
     ],
@@ -84204,6 +84998,11 @@
       "polarity": "~",
       "slug": "authentic-audiences-purposes",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "M"
      }
     ]
    },
@@ -85040,6 +85839,13 @@
      {
       "polarity": "~",
       "slug": "simulation",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "experiential-learning-cycle",
       "strength": "M"
      }
     ],
@@ -86449,6 +87255,13 @@
       "slug": "universal-classroom-management-reduces-problem-behavior"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "engagement",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -86820,11 +87633,21 @@
      },
      {
       "polarity": "+",
+      "slug": "develop-understanding",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "gagnes-9-events-of-instruction",
       "strength": "M"
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "guided-practice",
@@ -87531,6 +88354,11 @@
       "polarity": "+",
       "slug": "cognitive-load-management",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -87919,6 +88747,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "formative-assessment",
@@ -88336,6 +89169,11 @@
      {
       "polarity": "+",
       "slug": "combine-pb-and-simulation-il-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "evaluating-sources",
       "strength": "M"
      }
     ]
@@ -89775,6 +90613,13 @@
      {
       "polarity": "+",
       "slug": "field-day-embedded-assessment-unit",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "authentic-assessment",
       "strength": "M"
      }
     ],
@@ -91969,6 +92814,11 @@
      {
       "polarity": "~",
       "slug": "multimodal-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "universal-design-for-learning",
       "strength": "M"
      }
     ],
@@ -94649,6 +95499,11 @@
       "polarity": "~",
       "slug": "retrieval-practice",
       "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -94729,6 +95584,13 @@
      },
      {
       "slug": "retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "graphic-organizers",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -95160,6 +96022,13 @@
      {
       "slug": "structured-interdependence-contribution-obligation-attitude"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "social-interdependence",
+      "strength": "M"
+     }
     ]
    },
    "reward-leaves-creativity-individual-differences-unchanged": {
@@ -95237,6 +96106,11 @@
       "polarity": "~",
       "slug": "autonomy",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "engagement",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -95756,6 +96630,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -95796,6 +96677,18 @@
      {
       "polarity": "+",
       "slug": "rubrics",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "authentic-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "collaborative-evaluation",
       "strength": "M"
      }
     ],
@@ -96737,6 +97630,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -96857,6 +97757,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "engagement",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "-",
@@ -96906,6 +97813,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "-",
+      "slug": "engagement",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "gamification",
@@ -97058,6 +97970,11 @@
      {
       "polarity": "+",
       "slug": "chunking",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
       "strength": "M"
      }
     ],
@@ -97375,6 +98292,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "provide-positive-comments-on-student-writing",
       "strength": "W"
@@ -97500,6 +98422,16 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "~",
+      "slug": "authentic-assessment",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "collaborative-evaluation",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "formative-assessment",
@@ -102755,6 +103687,11 @@
     ],
     "principles": [
      {
+      "polarity": "+",
+      "slug": "engagement",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "goal-setting-monitoring",
       "strength": "M"
@@ -105882,6 +106819,13 @@
       "slug": "simulations",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "authentic-assessment",
+      "strength": "W"
+     }
     ]
    },
    "simucase-learning-mode-perceived-beneficial": {
@@ -106011,6 +106955,13 @@
       "slug": "simulations",
       "strength": "M"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "deliberate-practice",
+      "strength": "M"
+     }
     ]
    },
    "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes": {
@@ -106055,7 +107006,19 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experiential-learning-cycle",
+      "strength": "M"
+     }
+    ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "experiential-learning",
@@ -106146,6 +107109,11 @@
       "polarity": "+",
       "slug": "combine-pb-and-simulation-il-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "evaluating-sources",
+      "strength": "M"
      }
     ]
    },
@@ -106170,6 +107138,11 @@
       "polarity": "~",
       "slug": "combine-pb-and-simulation-il-instruction",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "evaluating-sources",
+      "strength": "M"
      }
     ]
    },
@@ -107103,6 +108076,11 @@
       "polarity": "+",
       "slug": "laboratories-satisfying-cooperative-learning-conditions",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-interdependence",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -107240,6 +108218,13 @@
      },
      {
       "slug": "sms-vocabulary-retention-reading-comprehension-efl"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "digital-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -107435,6 +108420,13 @@
      },
      {
       "slug": "specialization-role-interdependence-moderated-by-social-climate"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "W"
      }
     ]
    },
@@ -108064,6 +109056,11 @@
       "polarity": "+",
       "slug": "augment-single-session-workshop-with-spaced-retrieval",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -109227,6 +110224,13 @@
      {
       "slug": "specialization-emphasis-moderates-collaboration"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "W"
+     }
     ]
    },
    "species-eulogy-fosters-more-than-human-recognition": {
@@ -109302,7 +110306,7 @@
      {
       "polarity": "~",
       "slug": "collaborative-evaluation",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -109384,17 +110388,17 @@
      {
       "polarity": "+",
       "slug": "deliberate-practice",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
       "slug": "engagement",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "evaluating-sources",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -110322,6 +111326,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "report-effect-sizes-with-p-values",
       "strength": "W"
      }
@@ -111145,6 +112154,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -111169,6 +112185,13 @@
      },
      {
       "slug": "story-mine-sensitivity-crisis-exclusion"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "engagement",
+      "strength": "W"
      }
     ]
    },
@@ -112033,6 +113056,13 @@
      },
      {
       "slug": "reward-interdependence-benefit-attitudes"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "social-interdependence",
+      "strength": "M"
      }
     ]
    },
@@ -115320,6 +116350,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -115544,6 +116581,16 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "engagement",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "foster-enjoyment-and-l2-learning-experience",
@@ -116119,6 +117166,13 @@
      {
       "polarity": "+",
       "slug": "whole-task-progression-increasing-complexity",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "transfer-of-learning",
       "strength": "W"
      }
     ],
@@ -117268,6 +118322,13 @@
       "slug": "teacher-student-relationships-improve-engagement-and-achievement"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "engagement",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -117322,6 +118383,13 @@
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "engagement",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -119425,6 +120493,11 @@
       "polarity": "+",
       "slug": "analyze-computer-use-as-activity-system",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "digital-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -120001,6 +121074,13 @@
      },
      {
       "slug": "transfer-extends-to-specialty-development-roles"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -120583,6 +121663,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "problem-based-learning",
       "strength": "M"
      }
@@ -120604,6 +121689,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "problem-based-learning",
@@ -120683,6 +121773,13 @@
       "slug": "drop-in-tutoring-center-model-tutortrac",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "W"
+     }
     ]
    },
    "tutoring-effectiveness-comes-from-scaffolding-and-feedback": {
@@ -120718,6 +121815,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "guided-practice",
@@ -120846,6 +121948,13 @@
       "polarity": "-",
       "slug": "drop-in-tutoring-center-model-tutortrac",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "ask-experts",
+      "strength": "M"
      }
     ]
    },
@@ -121858,6 +122967,18 @@
      {
       "polarity": "+",
       "slug": "science-textbook-symbolic-representation-taxonomy",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "dual-coding",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "universal-design-for-learning",
       "strength": "W"
      }
     ],
@@ -123504,7 +124625,7 @@
      {
       "polarity": "~",
       "slug": "develop-understanding",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -123662,7 +124783,9 @@
       "strength": "S"
      },
      {
-      "slug": "transfer-of-learning"
+      "polarity": "+",
+      "slug": "transfer-of-learning",
+      "strength": "W"
      }
     ],
     "processes": [
@@ -124268,7 +125391,9 @@
     ],
     "principles": [
      {
-      "slug": "social-interdependence"
+      "polarity": "~",
+      "slug": "social-interdependence",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -124623,7 +125748,9 @@
       "strength": "M"
      },
      {
-      "slug": "social-interdependence"
+      "polarity": "+",
+      "slug": "social-interdependence",
+      "strength": "S"
      },
      {
       "polarity": "~",
@@ -129758,6 +130885,9 @@
       "slug": "elaborative-reasoning"
      },
      {
+      "slug": "graphic-organizers"
+     },
+     {
       "slug": "universal-design-for-learning"
      }
     ],
@@ -131268,9 +132398,6 @@
      },
      {
       "slug": "elaborative-reasoning"
-     },
-     {
-      "slug": "universal-design-for-learning"
      }
     ],
     "strategies": [
@@ -135292,9 +136419,6 @@
      },
      {
       "slug": "responsive-teaching"
-     },
-     {
-      "slug": "universal-design-for-learning"
      }
     ],
     "processes": [
@@ -137352,6 +138476,11 @@
       "slug": "authentic-audiences-improve-student-work"
      }
     ],
+    "patterns": [
+     {
+      "slug": "authentic-assessment"
+     }
+    ],
     "principles": [
      {
       "slug": "authentic-audiences-purposes"
@@ -139376,9 +140505,6 @@
      },
      {
       "slug": "personalization"
-     },
-     {
-      "slug": "universal-design-for-learning"
      }
     ],
     "processes": [
@@ -146946,6 +148072,9 @@
      },
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "develop-understanding"
      }
     ],
     "strategies": [
@@ -147214,6 +148343,14 @@
     "patterns": [
      {
       "slug": "elaboration-theory"
+     },
+     {
+      "slug": "experiential-learning-cycle"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "dual-coding"
      }
     ],
     "strategies": [
@@ -147268,6 +148405,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "graphic-organizers"
+     },
      {
       "slug": "knowledge-organization"
      }
@@ -147417,11 +148557,6 @@
     "patterns": [
      {
       "slug": "peer-instruction"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "ask-experts"
      }
     ],
     "strategies": [
@@ -148131,6 +149266,9 @@
     "patterns": [
      {
       "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "develop-understanding"
      },
      {
       "slug": "direct-instruction"
@@ -149932,6 +151070,12 @@
     ],
     "patterns": [
      {
+      "slug": "authentic-assessment"
+     },
+     {
+      "slug": "collaborative-evaluation"
+     },
+     {
       "slug": "constructive-alignment"
      }
     ],
@@ -150879,6 +152023,9 @@
       "slug": "debate"
      },
      {
+      "slug": "develop-understanding"
+     },
+     {
       "slug": "direct-instruction"
      },
      {
@@ -150951,9 +152098,6 @@
     "principles": [
      {
       "slug": "adaptive-learning"
-     },
-     {
-      "slug": "ask-experts"
      },
      {
       "slug": "gamification"
@@ -151988,6 +153132,13 @@
      }
     ]
    },
+   "graphic-organizer": {
+    "principles": [
+     {
+      "slug": "dual-coding"
+     }
+    ]
+   },
    "graphic-organizers": {
     "elements": [
      {
@@ -152010,6 +153161,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "graphic-organizers"
+     },
      {
       "slug": "knowledge-organization"
      }
@@ -154388,6 +155542,9 @@
     "patterns": [
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "develop-understanding"
      }
     ],
     "strategies": [
@@ -154860,6 +156017,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "authentic-assessment"
+     },
      {
       "slug": "team-based-learning"
      }
@@ -155744,6 +156904,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "authentic-assessment"
+     },
      {
       "slug": "summative-assessment"
      }
@@ -158802,6 +159965,9 @@
     ],
     "patterns": [
      {
+      "slug": "develop-understanding"
+     },
+     {
       "slug": "gagnes-9-events-of-instruction"
      }
     ],
@@ -160632,6 +161798,11 @@
       "slug": "concrete-modeling"
      }
     ],
+    "principles": [
+     {
+      "slug": "dual-coding"
+     }
+    ],
     "strategies": [
      {
       "slug": "integrating_math_with_music_and_dance"
@@ -161045,6 +162216,9 @@
     "patterns": [
      {
       "slug": "authentic-assessment"
+     },
+     {
+      "slug": "collaborative-evaluation"
      },
      {
       "slug": "constructive-alignment"
@@ -161588,6 +162762,9 @@
     ],
     "patterns": [
      {
+      "slug": "authentic-assessment"
+     },
+     {
       "slug": "competency-based-learning"
      },
      {
@@ -161780,6 +162957,9 @@
      },
      {
       "slug": "case-based-learning"
+     },
+     {
+      "slug": "develop-understanding"
      },
      {
       "slug": "multimedia-learning"
@@ -162428,6 +163608,11 @@
       "slug": "experiential-learning-cycle"
      }
     ],
+    "principles": [
+     {
+      "slug": "deliberate-practice"
+     }
+    ],
     "strategies": [
      {
       "slug": "acting-role-play"
@@ -162474,6 +163659,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "authentic-assessment"
+     },
      {
       "slug": "epistemic-games"
      }
@@ -163416,6 +164604,11 @@
      },
      {
       "slug": "writing-workshop"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "ask-experts"
      }
     ],
     "processes": [
@@ -164430,6 +165623,9 @@
       "slug": "5e-learning-cycle"
      },
      {
+      "slug": "develop-understanding"
+     },
+     {
       "slug": "gagnes-9-events-of-instruction"
      }
     ],
@@ -164606,6 +165802,11 @@
     ]
    },
    "visual-imagery": {
+    "principles": [
+     {
+      "slug": "dual-coding"
+     }
+    ],
     "strategies": [
      {
       "slug": "pegword_strategy"
@@ -164889,6 +166090,9 @@
      },
      {
       "slug": "cognitive-apprenticeship"
+     },
+     {
+      "slug": "develop-understanding"
      },
      {
       "slug": "direct-instruction"
@@ -165181,6 +166385,11 @@
     "claims": [
      {
       "slug": "funds-of-knowledge-tasks-reveal-computational-thinking"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "cultural-life-experiences-connections"
      }
     ]
    },
@@ -165651,6 +166860,9 @@
      },
      {
       "slug": "cognitive-load-theory"
+     },
+     {
+      "slug": "transfer-of-learning"
      }
     ],
     "processes": [
@@ -165820,6 +167032,9 @@
     "patterns": [
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "experiential-learning-cycle"
      }
     ],
     "principles": [
@@ -166171,6 +167386,11 @@
       "slug": "pre-class-videolecture"
      }
     ],
+    "principles": [
+     {
+      "slug": "digital-learning"
+     }
+    ],
     "strategies": [
      {
       "slug": "faux-flipped_classroom"
@@ -166372,6 +167592,9 @@
      },
      {
       "slug": "cognitive-flexibility"
+     },
+     {
+      "slug": "transfer-of-learning"
      }
     ],
     "processes": [
@@ -168284,6 +169507,9 @@
     ],
     "patterns": [
      {
+      "slug": "collaborative-evaluation"
+     },
+     {
       "slug": "cooperative-learning"
      },
      {
@@ -168743,6 +169969,11 @@
       "slug": "misconception-probes"
      }
     ],
+    "patterns": [
+     {
+      "slug": "develop-understanding"
+     }
+    ],
     "strategies": [
      {
       "slug": "categorization"
@@ -168921,6 +170152,9 @@
     "principles": [
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "social-interdependence"
      }
     ],
     "strategies": [
@@ -169469,7 +170703,16 @@
       "slug": "5e-learning-cycle"
      },
      {
+      "slug": "authentic-assessment"
+     },
+     {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "develop-understanding"
+     },
+     {
+      "slug": "experiential-learning-cycle"
      },
      {
       "slug": "gagnes-9-events-of-instruction"
@@ -171087,6 +172330,12 @@
     ],
     "patterns": [
      {
+      "slug": "authentic-assessment"
+     },
+     {
+      "slug": "collaborative-evaluation"
+     },
+     {
       "slug": "constructive-alignment"
      },
      {
@@ -172132,6 +173381,9 @@
      },
      {
       "slug": "peer-learning"
+     },
+     {
+      "slug": "social-interdependence"
      }
     ],
     "strategies": [
@@ -172546,6 +173798,9 @@
     ],
     "principles": [
      {
+      "slug": "dual-coding"
+     },
+     {
       "slug": "multimedia-learning"
      },
      {
@@ -172629,6 +173884,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "collaborative-evaluation"
+     },
      {
       "slug": "collaborative-learning"
      },
@@ -173213,6 +174471,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "collaborative-evaluation"
+     },
      {
       "slug": "debate-laboratory-for-argumentation"
      },
@@ -173873,6 +175134,9 @@
      },
      {
       "slug": "text-to-speech"
+     },
+     {
+      "slug": "universal-design-for-learning"
      }
     ],
     "strategies": [
@@ -174450,6 +175714,9 @@
       "slug": "concept-attainment"
      },
      {
+      "slug": "develop-understanding"
+     },
+     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -174470,7 +175737,13 @@
       "slug": "cognitive-disequilibrium"
      },
      {
+      "slug": "cultural-life-experiences-connections"
+     },
+     {
       "slug": "elaborative-reasoning"
+     },
+     {
+      "slug": "graphic-organizers"
      },
      {
       "slug": "personalization"
@@ -175854,6 +177127,9 @@
       "slug": "adaptive-learning-consistent-with-cognitive-structure"
      },
      {
+      "slug": "digital-learning"
+     },
+     {
       "slug": "gamification"
      },
      {
@@ -176041,6 +177317,9 @@
      },
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "develop-understanding"
      }
     ],
     "principles": [
@@ -177595,6 +178874,9 @@
       "slug": "authentic-assessment"
      },
      {
+      "slug": "collaborative-evaluation"
+     },
+     {
       "slug": "constructive-alignment"
      },
      {
@@ -178583,6 +179865,9 @@
       "slug": "competency-based-learning-assessment"
      },
      {
+      "slug": "cultural-life-experiences-connections"
+     },
+     {
       "slug": "disciplinary-literacy"
      },
      {
@@ -179043,10 +180328,16 @@
     ],
     "principles": [
      {
+      "slug": "engagement"
+     },
+     {
       "slug": "gamification"
      },
      {
       "slug": "let-learners-request-feedback-after-performing"
+     },
+     {
+      "slug": "universal-design-for-learning"
      }
     ],
     "strategies": [
@@ -181069,6 +182360,9 @@
       "slug": "explicit-instruction-phonics"
      },
      {
+      "slug": "graphic-organizers"
+     },
+     {
       "slug": "guided-practice"
      },
      {
@@ -182204,6 +183498,9 @@
       "slug": "explicit-instruction-online-reading-strategies"
      },
      {
+      "slug": "graphic-organizers"
+     },
+     {
       "slug": "handoutsonline-guidesvisual-reading-aids"
      },
      {
@@ -182863,6 +184160,9 @@
       "slug": "cognitive-disequilibrium"
      },
      {
+      "slug": "engagement"
+     },
+     {
       "slug": "growth-mindset"
      },
      {
@@ -182941,6 +184241,14 @@
      },
      {
       "slug": "role-reversal"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "develop-understanding"
+     },
+     {
+      "slug": "experiential-learning-cycle"
      }
     ],
     "principles": [
@@ -183544,6 +184852,9 @@
      },
      {
       "slug": "cognitive-load-reduction"
+     },
+     {
+      "slug": "digital-learning"
      },
      {
       "slug": "disciplinary-literacy"
@@ -184508,9 +185819,6 @@
       "slug": "cognitive-load-reduction"
      },
      {
-      "slug": "dual-coding"
-     },
-     {
       "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
      }
     ],
@@ -185417,6 +186725,9 @@
     ],
     "principles": [
      {
+      "slug": "cultural-life-experiences-connections"
+     },
+     {
       "slug": "situated-learning"
      }
     ],
@@ -185629,9 +186940,6 @@
      },
      {
       "slug": "social-constructivism"
-     },
-     {
-      "slug": "social-interdependence"
      },
      {
       "slug": "social-presence"
@@ -185849,6 +187157,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "authentic-assessment"
+     },
      {
       "slug": "competency-based-learning"
      },
@@ -186247,6 +187558,9 @@
      },
      {
       "slug": "laboratories-satisfying-cooperative-learning-conditions"
+     },
+     {
+      "slug": "social-interdependence"
      }
     ],
     "strategies": [
@@ -186755,6 +188069,9 @@
     ],
     "patterns": [
      {
+      "slug": "develop-understanding"
+     },
+     {
       "slug": "direct-instruction"
      },
      {
@@ -187168,6 +188485,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "evaluating-sources"
+     },
      {
       "slug": "rhetorical-skill-development"
      }
@@ -187949,6 +189269,12 @@
       "slug": "competency-based-learning-assessment"
      },
      {
+      "slug": "deliberate-practice"
+     },
+     {
+      "slug": "engagement"
+     },
+     {
       "slug": "feedback-loops"
      },
      {
@@ -188142,6 +189468,9 @@
       "slug": "competency-based-learning-assessment"
      },
      {
+      "slug": "deliberate-practice"
+     },
+     {
       "slug": "direct-instruction"
      },
      {
@@ -188176,6 +189505,9 @@
      },
      {
       "slug": "simulations-immersive-virtual-environments"
+     },
+     {
+      "slug": "transfer-of-learning"
      }
     ]
    },
@@ -188340,6 +189672,9 @@
       "slug": "deliberate-practice"
      },
      {
+      "slug": "digital-learning"
+     },
+     {
       "slug": "direct-instruction"
      },
      {
@@ -188487,6 +189822,9 @@
      },
      {
       "slug": "discussion-based-learning"
+     },
+     {
+      "slug": "experiential-learning-cycle"
      },
      {
       "slug": "flipped-classroom"
@@ -189212,6 +190550,9 @@
       "slug": "digital-learning"
      },
      {
+      "slug": "dual-coding"
+     },
+     {
       "slug": "multimodal-instruction"
      }
     ]
@@ -189283,9 +190624,6 @@
       "slug": "creating-visual-representations"
      },
      {
-      "slug": "digital-learning"
-     },
-     {
       "slug": "dual-coding"
      },
      {
@@ -189299,6 +190637,9 @@
      },
      {
       "slug": "text-chats"
+     },
+     {
+      "slug": "universal-design-for-learning"
      },
      {
       "slug": "video-replay-analysis"
@@ -190371,6 +191712,9 @@
     ],
     "patterns": [
      {
+      "slug": "experiential-learning-cycle"
+     },
+     {
       "slug": "journaling"
      },
      {
@@ -190607,10 +191951,22 @@
       "slug": "balance-retrieval-success-and-retrieval-effort"
      },
      {
+      "slug": "deliberate-practice"
+     },
+     {
+      "slug": "dual-coding"
+     },
+     {
+      "slug": "graphic-organizers"
+     },
+     {
       "slug": "immediate-feedback"
      },
      {
       "slug": "memory-consolidation"
+     },
+     {
+      "slug": "transfer-of-learning"
      }
     ],
     "strategies": [
@@ -191216,6 +192572,9 @@
     ],
     "patterns": [
      {
+      "slug": "authentic-assessment"
+     },
+     {
       "slug": "cognitive-apprenticeship"
      },
      {
@@ -191225,6 +192584,9 @@
     "principles": [
      {
       "slug": "accessible-vocabulary-syntax"
+     },
+     {
+      "slug": "ask-experts"
      },
      {
       "slug": "chunking"
@@ -191242,7 +192604,13 @@
       "slug": "communities-of-practice"
      },
      {
+      "slug": "deliberate-practice"
+     },
+     {
       "slug": "disciplinary-literacy"
+     },
+     {
+      "slug": "evaluating-sources"
      },
      {
       "slug": "explicit-instruction-computer-basics"
@@ -191369,6 +192737,9 @@
     "patterns": [
      {
       "slug": "cognitively-guided-instruction-cgi-for-math"
+     },
+     {
+      "slug": "develop-understanding"
      }
     ],
     "principles": [
@@ -191394,6 +192765,9 @@
       "slug": "creating-visual-representations"
      },
      {
+      "slug": "cultural-life-experiences-connections"
+     },
+     {
       "slug": "debate"
      },
      {
@@ -191404,6 +192778,9 @@
      },
      {
       "slug": "explicit-instruction-math-strategies"
+     },
+     {
+      "slug": "graphic-organizers"
      },
      {
       "slug": "inquiry-based-learning"
@@ -191566,6 +192943,9 @@
     "principles": [
      {
       "slug": "autonomy"
+     },
+     {
+      "slug": "digital-learning"
      },
      {
       "slug": "goal-setting-monitoring"
@@ -192587,6 +193967,11 @@
       "slug": "selected-response-assessment-items"
      }
     ],
+    "patterns": [
+     {
+      "slug": "authentic-assessment"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -192763,6 +194148,9 @@
      },
      {
       "slug": "self-explanation"
+     },
+     {
+      "slug": "transfer-of-learning"
      }
     ],
     "strategies": [
@@ -195748,9 +197136,6 @@
       "slug": "authentic-assessment"
      },
      {
-      "slug": "experiential-learning-cycle"
-     },
-     {
       "polarity": "+",
       "slug": "project-and-instructional-space",
       "strength": "M"
@@ -195764,9 +197149,6 @@
     ],
     "principles": [
      {
-      "slug": "ask-experts"
-     },
-     {
       "slug": "autonomy"
      },
      {
@@ -195779,16 +197161,10 @@
       "slug": "considering-the-opposite"
      },
      {
-      "slug": "digital-learning"
-     },
-     {
       "slug": "disciplinary-literacy"
      },
      {
       "slug": "elaborative-reasoning"
-     },
-     {
-      "slug": "engagement"
      },
      {
       "slug": "explicit-instruction-computer-basics"
@@ -195837,9 +197213,6 @@
      },
      {
       "slug": "social-constructivism"
-     },
-     {
-      "slug": "universal-design-for-learning"
      },
      {
       "slug": "user-centered-design-for-learning"
@@ -196391,9 +197764,6 @@
       "strength": "M"
      },
      {
-      "slug": "experiential-learning-cycle"
-     },
-     {
       "polarity": "+",
       "slug": "just-in-time-teaching",
       "strength": "M"
@@ -196458,9 +197828,6 @@
      },
      {
       "slug": "social-presence"
-     },
-     {
-      "slug": "universal-design-for-learning"
      }
     ],
     "processes": [
@@ -197248,6 +198615,11 @@
     ]
    },
    "deliberate-practice-framework-ericsson-pool": {
+    "principles": [
+     {
+      "slug": "deliberate-practice"
+     }
+    ],
     "theories": [
      {
       "slug": "expert-performance-approach-three-stages"
@@ -197655,7 +199027,7 @@
     ],
     "principles": [
      {
-      "slug": "universal-design-for-learning"
+      "slug": "dual-coding"
      }
     ],
     "strategies": [
@@ -198274,11 +199646,6 @@
     "elements": [
      {
       "slug": "agentic-data-engagement-positions"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "cultural-life-experiences-connections"
      }
     ],
     "strategies": [
@@ -199857,11 +201224,6 @@
     "methods": [
      {
       "slug": "family-interview-based-assessment-task-design"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "cultural-life-experiences-connections"
      }
     ],
     "strategies": [
@@ -202809,11 +204171,6 @@
       "slug": "positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion"
      }
     ],
-    "principles": [
-     {
-      "slug": "cultural-life-experiences-connections"
-     }
-    ],
     "theories": [
      {
       "slug": "cultural-historical-activity-theory"
@@ -204272,12 +205629,6 @@
       "slug": "autonomy"
      },
      {
-      "slug": "deliberate-practice"
-     },
-     {
-      "slug": "engagement"
-     },
-     {
       "slug": "gamification"
      },
      {
@@ -204308,9 +205659,6 @@
       "polarity": "+",
       "slug": "social-presence",
       "strength": "M"
-     },
-     {
-      "slug": "universal-design-for-learning"
      }
     ],
     "strategies": [
@@ -204801,9 +206149,6 @@
       "slug": "5e-learning-cycle"
      },
      {
-      "slug": "experiential-learning-cycle"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -204822,9 +206167,6 @@
     "principles": [
      {
       "slug": "considering-the-opposite"
-     },
-     {
-      "slug": "digital-learning"
      },
      {
       "slug": "elaborative-reasoning"
@@ -204857,9 +206199,6 @@
       "polarity": "+",
       "slug": "supporting-students-with-adhd",
       "strength": "M"
-     },
-     {
-      "slug": "universal-design-for-learning"
      }
     ],
     "strategies": [
@@ -205831,9 +207170,6 @@
       "polarity": "+",
       "slug": "epistemic-games",
       "strength": "S"
-     },
-     {
-      "slug": "experiential-learning-cycle"
      },
      {
       "slug": "interdisciplinary-course-based-research-experience"

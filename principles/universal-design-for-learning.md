@@ -25,7 +25,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 quant-synthesis, 4 review, 2 causal, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 13 claims (7 for, 6 mixed) · 24 studies (11 review, 5 causal, 5 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 6 of 24 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 

@@ -17,7 +17,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 18 claims (9 for, 9 mixed) · 26 studies (13 quant-synthesis, 5 review, 4 causal, 4 theoretical), `q1`–`q4` · 13 of 26 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 

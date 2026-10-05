@@ -12,7 +12,7 @@ generated:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 15 claims (7 for, 6 mixed, 2 against) · 24 studies (10 review, 8 causal, 6 quant-synthesis), `q1`–`q4` · 8 of 24 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 

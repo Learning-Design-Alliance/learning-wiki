@@ -38126,7 +38126,7 @@
    "type": "pattern"
   },
   {
-   "description": "Authentic assessment evaluates learning through tasks that mirror the knowledge work of real disciplines, professions, and communities rather than through proxies like multiple-choice tests.",
+   "description": "Assessing a capability through an extended task that mirrors real practice, with public criteria, feedback and revision before the final judgement, is expected to improve performance and transfer of that capability for learners who already have its components; no claim here tests authentic assessment against conventional tests, and guidance for novices, untrained self-assessment and scorer disagreement limit it.",
    "grain_size": "unit, course",
    "id": "authentic-assessment",
    "path": "patterns/authentic-assessment.md",
@@ -38216,7 +38216,7 @@
    "type": "pattern"
   },
   {
-   "description": "Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria.",
+   "description": "Learners who judge work against shared criteria alone, compare their judgments in a small group and then with a reference judgment are expected to judge new work more accurately and to improve their own work, where they know the domain well enough to see quality and the ratings carry no grade; no claim tests collaborative evaluation itself, and the evidence is peer-assessment, rubric-training and judgment-accuracy studies carried to it.",
    "grain_size": "lesson",
    "id": "collaborative-evaluation",
    "path": "patterns/collaborative-evaluation.md",
@@ -38317,7 +38317,7 @@
    "type": "pattern"
   },
   {
-   "description": "Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then\u2026",
+   "description": "For a learner meeting a concept or principle, a lesson that elicits their existing ideas, explains the idea while refuting any wrong one, guides its use with self-explanation prompts, checks on a changed item and connects it by comparing cases is expected to improve explanation and prediction on new cases, though no claim tests the sequence as a whole; its components are tested separately.",
    "grain_size": "lesson",
    "id": "develop-understanding",
    "path": "patterns/develop-understanding.md",
@@ -38413,7 +38413,7 @@
    "type": "pattern"
   },
   {
-   "description": "The experiential learning cycle organizes learning as a repeating four-stage sequence \u2014 concrete experience, reflective observation, abstract conceptualization, and active experimentation \u2014 that turns raw experience into tested knowledge.",
+   "description": "A reusable sequence of bounded experience, prompted debrief, a stated and checked principle and a changed attempt with feedback, repeated across sessions with support fading, is expected to improve performance and near transfer where learners can interpret the experience; no claim tests the cycle as a whole, only its steps.",
    "grain_size": "unit, course",
    "id": "experiential-learning-cycle",
    "path": "patterns/experiential-learning-cycle.md",
@@ -39524,7 +39524,7 @@
    "type": "principle"
   },
   {
-   "description": "Give learners structured access to people with deeper domain expertise so they can ask questions, hear expert reasoning, receive targeted feedback, and compare their own thinking to more mature practice.",
+   "description": "For a novice or intermediate learner who brings a specific question or attempt to someone with more domain expertise, a consultation in which the expert has the learner explain first, responds with the least help that works, and does less across a series, followed by applying the advice, is expected to improve unaided performance on that task, though no claim here tests expert access as such.",
    "id": "ask-experts",
    "path": "principles/ask-experts.md",
    "status": "review",
@@ -40114,7 +40114,7 @@
    "type": "principle"
   },
   {
-   "description": "Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background.",
+   "description": "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection.",
    "id": "cultural-life-experiences-connections",
    "path": "principles/cultural-life-experiences-connections.md",
    "status": "review",
@@ -40202,7 +40202,7 @@
    "type": "principle"
   },
   {
-   "description": "Deliberate practice is the principle of engaging learners in focused, feedback-rich practice on specific aspects of performance that are just beyond current ability.",
+   "description": "For a learner who can already perform a task but has stopped improving on part of it, repeated attempts on that one diagnosed component, set just beyond reliable performance, judged against an explicit standard with feedback and a deliberate change on each next attempt, are expected to improve whole-task performance more than repeating the whole task; no claim tests this in schooling, and the nearest causal evidence is simulation training with deliberate practice in the health professions.",
    "id": "deliberate-practice",
    "path": "principles/deliberate-practice.md",
    "status": "review",
@@ -40290,7 +40290,7 @@
    "type": "principle"
   },
   {
-   "description": "Digital learning is the principle of using digital environments and tools to support access, interaction, practice, and feedback in instruction.",
+   "description": "Putting part of a course on a digital tool is expected to help only through the method it makes affordable (more practice with feedback, adaptive hints, prompts to explain, visible progress) and not through the medium itself; no claim here tests a digital against a non-digital version of the same method.",
    "id": "digital-learning",
    "path": "principles/digital-learning.md",
    "status": "review",
@@ -40373,7 +40373,7 @@
    "type": "principle"
   },
   {
-   "description": "Dual coding is the principle of pairing verbal information with meaningful visual representation so learners can build more than one route into the same idea.",
+   "description": "For a learner without a working model of a structure or process, pairing the words that explain it with a visual of the same idea, supplied or learner-made, is expected to improve comprehension over words alone; claims test each half against words alone, none tests the sequence, and direct tests favour provided over learner-built organizers for transfer.",
    "id": "dual-coding",
    "path": "principles/dual-coding.md",
    "status": "review",
@@ -40485,7 +40485,7 @@
    "type": "principle"
   },
   {
-   "description": "Engagement is the principle of designing learning so that learners attend, participate, and sustain effort in cognitively meaningful ways.",
+   "description": "For a learner whose participation in a task is low, a personal contact, a visible reason for the task and visible, reachable progress are expected to raise observed on-task time, completion and persistence, and that engagement is expected to raise learning only when the task requires thinking with the target; claims test single conditions on single outcomes, and none tests engagement as a whole or shows that it causes learning.",
    "id": "engagement",
    "path": "principles/engagement.md",
    "status": "review",
@@ -40533,7 +40533,7 @@
    "type": "principle"
   },
   {
-   "description": "Teaching adult learners how to systematically evaluate sources prepares them to navigate information in an increasingly complex, digital world.",
+   "description": "For adolescent and adult novices who judge unfamiliar web sources by their own features, several lessons teaching and practising a move off the page (searching what independent sources say about who is behind it) are expected to improve credibility judgments of new sites up to five weeks later; one claim tests this package against untaught classes, though not against a checklist taught over the same number of sessions, nor for research articles or primary documents.",
    "id": "evaluating-sources",
    "path": "principles/evaluating-sources.md",
    "status": "review",
@@ -40901,7 +40901,7 @@
    "type": "principle"
   },
   {
-   "description": "Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information.",
+   "description": "For learners who do not yet hold a material's structure, a diagram whose layout matches that structure, provided first and later built and explained by the learner, is expected to improve comprehension and retention over text alone; concept-map meta-analyses test this for node-link maps, and no claim tests other organizer forms, partial organizers or fading.",
    "id": "graphic-organizers",
    "path": "principles/graphic-organizers.md",
    "status": "review",
@@ -42566,7 +42566,7 @@
    "type": "principle"
   },
   {
-   "description": "Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning.",
+   "description": "For learners who can contribute to a multi-week group task, making the group's success depend on every member's individually assessed learning (a shared goal, team recognition built from individual results, and distinct roles or resources) is expected to make members help and hold one another to account and so raise individual achievement; claims test the reward-plus-accountability component in school studies, while one online experiment found role or reward structures changed interaction and attitudes but not achievement.",
    "id": "social-interdependence",
    "path": "principles/social-interdependence.md",
    "status": "review",
@@ -43002,7 +43002,7 @@
    "type": "principle"
   },
   {
-   "description": "Transfer of learning is the principle of helping learners apply what they have learned in one context to new tasks, situations, or problems.",
+   "description": "Showing the same structure in several surface forms, prompting learners to compare them and name what they share, and then having them retrieve and apply it on changed items is expected to raise near transfer to new cases once the original learning is secure; no claim tests varied against single-context instruction directly, and far transfer stayed at floor where it was measured.",
    "id": "transfer-of-learning",
    "path": "principles/transfer-of-learning.md",
    "status": "review",
@@ -43042,7 +43042,7 @@
    "type": "principle"
   },
   {
-   "description": "Universal Design for Learning (UDL) proactively designs instruction with multiple means of engagement, representation, and action/expression so that varied learners can access and demonstrate learning without retrofitted accommodations.",
+   "description": "For a class whose learners vary in access, language, prior knowledge and motivation, planning several routes into content, engagement and expression while the goal and criteria stay fixed is expected to let more learners reach the goal than a single-route design; no claim here tests UDL as a framework, only its parts.",
    "id": "universal-design-for-learning",
    "path": "principles/universal-design-for-learning.md",
    "status": "review",

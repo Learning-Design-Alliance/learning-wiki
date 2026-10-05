@@ -25,7 +25,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 26 studies (10 causal, 7 quant-synthesis, 6 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
