@@ -39813,10 +39813,10 @@
    "type": "principle"
   },
   {
-   "description": "Criterion-referenced tests report what a student can and cannot do against a fixed standard; norm-referenced tests report how a student compares to others who took the same test \u2014 genuinely different information, suited to different decisions, and not interchangeable.",
+   "description": "A decision about a learner is expected to be more accurate when the score matches the question asked: a criterion-referenced report against skills defined in advance for what a learner can do and should be taught next, a norm-referenced score read against a fitting norm group (and never alone) for relative standing and selection, and a diagnostic profile for why a learner struggles; no claim here tests the relationship.",
    "id": "criterion-and-norm-referenced-testing",
    "path": "principles/criterion-and-norm-referenced-testing.md",
-   "status": "draft",
+   "status": "review",
    "title": "Criterion- and Norm-Referenced Testing",
    "type": "principle"
   },
@@ -39973,7 +39973,7 @@
    "type": "principle"
   },
   {
-   "description": "Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference.",
+   "description": "A recurring cycle in which an educator gathers outside evidence about their own practice, names the assumption it shows and changes one decision is expected to make their reading of learners more accurate and less excluding; no claim tests this whole, and one brief empathic-discipline exercise tests a narrow version.",
    "id": "developing-your-cultural-awareness",
    "path": "principles/developing-your-cultural-awareness.md",
    "status": "review",
@@ -40155,10 +40155,10 @@
    "type": "principle"
   },
   {
-   "description": "A comprehensive classroom management plan establishes positive relationships, prevents attention-seeking and work-avoidance behavior, redirects misbehavior quickly and unobtrusively, stops chronic misbehavior with consistent simple strategies, teaches self-control, and respects cultural differences \u2014 a synthesis of the humanist, applied-behavior-analysis, and prevention-oriented traditions.",
+   "description": "For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice, but no claim tests the six-part plan or any of its traditions.",
    "id": "effective-classroom-management-plan",
    "path": "principles/effective-classroom-management-plan.md",
-   "status": "draft",
+   "status": "review",
    "title": "Effective Classroom Management Plan Criteria",
    "type": "principle"
   },
@@ -40355,7 +40355,7 @@
    "type": "principle"
   },
   {
-   "description": "Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition.",
+   "description": "For a learner whose comprehension or use of language is limited by particular unknown words, explicitly teaching a small selected set and then arranging repeated encounters and use across contexts is expected to improve knowledge of those words and comprehension of texts that use them more than exposure alone, which claims test for school-age and second-language learners, but not for general comprehension, dose or schedule.",
    "id": "explicit-instruction-vocabulary",
    "path": "principles/explicit-instruction-vocabulary.md",
    "status": "review",
@@ -40427,7 +40427,7 @@
    "type": "principle"
   },
   {
-   "description": "Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities.",
+   "description": "In a class whose learners differ on the current task, forming temporary similar-need and mixed groups for a stated purpose from recent task evidence, and re-forming them as the evidence changes, is expected to match support and challenge to need better than one whole-class format or fixed ability groups, though no claim here tests flexible grouping itself.",
    "id": "flexible-grouping",
    "path": "principles/flexible-grouping.md",
    "status": "review",
@@ -40443,7 +40443,7 @@
    "type": "principle"
   },
   {
-   "description": "Flipped learning is the principle of shifting initial content exposure outside class so that live time can be used for application, coaching, and discussion.",
+   "description": "For learners who can follow a topic's first explanation on their own, moving that first exposure before the live session and spending the freed time on application with feedback is expected to give better course outcomes than spending live time on the same exposition, provided learners prepare and the home time is not simply added; no claim here compares a flipped course with the same course unflipped.",
    "id": "flipped-learning",
    "path": "principles/flipped-learning.md",
    "status": "review",
@@ -41166,7 +41166,7 @@
    "type": "principle"
   },
   {
-   "description": "Memory consolidation is the principle of designing instruction so that learning is stabilized across time rather than treated as secure after one exposure.",
+   "description": "For a learner who can perform something at the end of a session, planning later encounters that make them reactivate and use the material, and judging security only on a delayed unaided check, is expected to leave more available at the horizon than treating one fluent exposure as finished; no claim tests this as a whole, only its spacing and retrieval routes and a post-learning exercise-timing effect.",
    "id": "memory-consolidation",
    "path": "principles/memory-consolidation.md",
    "status": "review",
@@ -41393,7 +41393,7 @@
    "type": "principle"
   },
   {
-   "description": "Observation and shadowing are learning designs in which learners watch peers, experts, or practitioners perform authentic work in order to notice strategies, decisions, routines, and contextual demands that are difficult to infer from\u2026",
+   "description": "For a newcomer to a practice, watching it done as work, with a written focus, a record that separates what was seen from its meaning, a prompt to explain the performer's decisions, a same-day debrief and a prompt own attempt, is expected to improve what the learner notices and their readiness to perform, though no claim tests shadowing or peer observation directly; the evidence is one observation-training study with teacher candidates and findings carried from self-explanation and contingent support.",
    "id": "observationshadowing",
    "path": "principles/observationshadowing.md",
    "status": "review",
@@ -41663,7 +41663,7 @@
    "type": "principle"
   },
   {
-   "description": "Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance.",
+   "description": "For a learner who stalls, rushes or freezes at a predictable hard moment in a task, a few short, credible self-talk cues tied to a next action, modeled and rehearsed, are expected to improve performance and persistence; claims test self-talk only on sport and motor tasks, not on academic learning on its own.",
    "id": "positive-self-talk",
    "path": "principles/positive-self-talk.md",
    "status": "review",
@@ -41791,7 +41791,7 @@
    "type": "principle"
   },
   {
-   "description": "Procedural learning is the principle of helping learners acquire and refine sequences of action, routines, or task procedures until performance becomes more accurate, fluent, and reliable.",
+   "description": "For a novice on a procedure, a visible model, supported attempts with feedback, support withdrawn on unaided success, then mixed practice spread over sessions with the steps tied to their reasons are expected to yield accurate, fluent, retained and flexible unaided performance; no claim tests the arc as a whole, only single links in it.",
    "id": "procedural-learning",
    "path": "principles/procedural-learning.md",
    "status": "review",
@@ -42154,7 +42154,7 @@
    "type": "principle"
   },
   {
-   "description": "Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively.",
+   "description": "For a novice on a target whose parts depend on each other, meeting the parts in an order that puts what a step rests on before it and moves from what the learner can process toward full complexity, revised from the learner's responses, is expected to improve performance on tasks that draw on the whole; no claim tests that general rule, and tests of particular orders (example or problem first, parts or whole first, blocked or mixed) favour different orders for different learners and goals.",
    "id": "sequencing",
    "path": "principles/sequencing.md",
    "status": "review",
@@ -42250,7 +42250,7 @@
    "type": "principle"
   },
   {
-   "description": "Social presence is the degree to which learners perceive others in a learning environment as real, intentional people \u2014 designing for it builds trust, engagement, and productive discourse, especially online.",
+   "description": "For learners in an online or blended group course whose part in discussion is thin or guarded, designed chances to be seen and heard as a person (course-tied introductions, a visible instructor, small stable groups, structured replies, some live contact) are expected to raise open participation and persistence, but the wiki holds only survey associations and correlational syntheses, and no claim tests that design on learning.",
    "id": "social-presence",
    "path": "principles/social-presence.md",
    "status": "review",
@@ -42374,10 +42374,10 @@
    "type": "principle"
   },
   {
-   "description": "Students with unusually high IQ or exceptional talent (traditionally an IQ of 130 or higher) are not the socially maladjusted stereotype often assumed, but they do languish without accommodation, and support usually means blending acceleration with enrichment rather than choosing one.",
+   "description": "For a student whose work on a unit shows the target already done, replacing the practice they do not need with acceleration or harder enrichment, chosen from that response rather than the label, is expected to sustain progress and engagement; no claim tests this, so the page gives a labelled default design.",
    "id": "supporting-gifted-and-talented-students",
    "path": "principles/supporting-gifted-and-talented-students.md",
-   "status": "draft",
+   "status": "review",
    "title": "Supporting Gifted and Talented Students",
    "type": "principle"
   },
@@ -42654,7 +42654,7 @@
    "type": "principle"
   },
   {
-   "description": "Text-to-speech (TTS) converts written text into spoken audio, giving learners an additional way to access reading materials, instructions, and feedback.",
+   "description": "For a learner whose barrier to a text is decoding, vision or fatigue rather than its language, and when the goal is its meaning rather than reading the words, hearing the text read aloud while following the print with control of pace is expected to raise comprehension over print alone; no claim in the wiki tests text-to-speech itself.",
    "id": "text-to-speech",
    "path": "principles/text-to-speech.md",
    "status": "review",
@@ -42838,10 +42838,10 @@
    "type": "principle"
   },
   {
-   "description": "When a teacher and student are from different racial or ethnic backgrounds, critical feedback needs a third component beyond ordinary praise-plus-criticism \u2014 an explicit assurance that the teacher believes the student can reach a higher standard \u2014 because students of color have historically-grounded reasons to distrust negative feedback from a white teacher.",
+   "description": "When critical feedback crosses a racial or ethnic difference, or reaches a learner from a group stereotyped in the domain, specific task-level critique stated together with the high standard it is held to and an explicit assurance that the learner can reach it is expected to be trusted and acted on more than the same critique without that framing; no claim in the wiki tests this, and neighbouring brief identity-targeted interventions are fragile.",
    "id": "wise-feedback-across-difference",
    "path": "principles/wise-feedback-across-difference.md",
-   "status": "draft",
+   "status": "review",
    "title": "Wise Feedback Across Racial and Ethnic Difference",
    "type": "principle"
   },

@@ -12,7 +12,7 @@ generated:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
+> **Evidence** · 19 claims (8 for, 11 mixed) · 21 studies (7 causal, 6 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 8 of 21 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 

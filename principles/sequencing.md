@@ -12,7 +12,7 @@ generated:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 4 studies (2 causal, 2 review), `q2`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 21 studies (9 causal, 6 theoretical, 4 review, 2 quant-synthesis), `q1`–`q4` · 2 of 21 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

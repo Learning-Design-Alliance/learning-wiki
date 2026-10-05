@@ -12,7 +12,7 @@ generated:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 21 claims (6 for, 13 mixed, 2 against) · 11 studies (8 theoretical, 2 design, 1 review), `q1`–`q2` · 0 of 11 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

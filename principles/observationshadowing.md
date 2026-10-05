@@ -9,7 +9,7 @@ generated:
   at: 2026-10-05
 sources:
   - id: tenenberg-2016
-    resource: "https://doi.org/10.1080/03075079.2014.950955"
+    resource: "https://doi.org/10.1080/03075079.2014.950954"
     title: "Tenenberg, J. (2016). Learning through observing peers in practice. *Studies in Higher Education, 41*(4), 756-773"
     author: Tenenberg, J
 ---
@@ -17,7 +17,7 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 22 claims (9 for, 13 mixed) · 23 studies (4 causal, 4 review, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design, 2 associational), `q1`–`q4` · 3 of 23 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 

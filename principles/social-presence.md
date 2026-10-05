@@ -12,7 +12,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
+> **Evidence** · 22 claims (11 for, 10 mixed, 1 against) · 17 studies (4 causal, 4 design, 2 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 3 of 17 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 

@@ -25,7 +25,7 @@ sources:
 # Developing Your Cultural Awareness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size
+> **Evidence** · 16 claims (9 for, 7 mixed) · 20 studies (7 causal, 4 review, 3 quant-synthesis, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 1 of 20 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

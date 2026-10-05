@@ -21,7 +21,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 29 studies (11 quant-synthesis, 6 causal, 6 review, 3 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 29 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
