@@ -16,7 +16,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 3 studies (2 review, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 mixed) · 5 studies (2 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -40,16 +40,23 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - Learners whose motivation depends strongly on perceived relevance and agency
 - Learners rebuilding confidence or persistence after prior failure
 - Adults and adolescents balancing external demands with internal goals
+- Learners whose engagement depends on a strong sense of agency, progress, and belonging
+- Learners recovering from repeated failure, compliance-only schooling, or disengagement
+- Adolescents and adults balancing external demands with internal goals
 
 ### Target Learning Objectives
 - Sustained engagement and persistence
 - Willingness to take ownership of learning goals
 - Increased confidence through supported competence
 - Stronger sense of belonging and participation
+- Increase sustained engagement and persistence
+- Strengthen learner ownership of goals and effort
+- Improve motivation by supporting autonomy, competence, and relatedness together
 
 ## Claims
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — process goals can support competence for novices more effectively than pressure to hit outcomes immediately
 
 ## Related Theories
 
@@ -89,3 +96,72 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - Schwartz, B. (2004). *The paradox of choice: Why more is less*. Ecco.
 - Deci, E. L., & Ryan, R. M. (2003). *Handbook of self-determination research*. University of Rochester Press.
 - Arduini-Van Hoose, N. (2020). Self-determination theory. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits. *Psychological Inquiry, 11*(4), 227-268.
+
+<!-- merged 2026-10-05 from principles/self-determination-theory ("Self-Determination Theory"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Self-Determination Theory
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 unmarked) · 5 studies (2 review, 2 theoretical, 1 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
+
+## Description
+Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
+
+## Implications
+
+Self-determination theory is most useful in learning design when motivation, persistence, and ownership matter as much as immediate task completion. The core idea is not simply “give learners freedom.” It is that learners are more likely to engage deeply when instruction supports three needs at once: autonomy, competence, and relatedness. Competence support is especially important because [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) suggests that clear, appropriately challenging goals can strengthen effort when learners believe progress is possible. Poorly designed autonomy can feel like abandonment, and [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) supports giving learners visible ways to track whether their choices are working. Relatedness without challenge can become pleasant but low-demand, while [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) suggests that early competence is often built best through manageable process goals rather than pressure to prove mastery immediately. The principle is strongest when autonomy, competence, and relatedness are treated as interdependent.
+
+### Context
+#### Requirements
+- **Some meaningful learner agency** — autonomy support requires real choices, voice, or rationale, not just cosmetic options
+- **A path to felt competence** — learners need feedback, support, and task design that makes progress visible and attainable
+- **Relational support and belonging** — the environment must communicate that the learner is known, respected, and part of a meaningful social setting
+#### Constraints
+- **Choice without support can weaken competence** — too much freedom too early can create anxiety or avoidance
+- **Controlling structures can reduce ownership** — excessive compliance pressure may produce short-term task completion while undermining deeper engagement
+- **Motivation is not solved by relevance language alone** — learners also need success experiences and relational trust
+
+### Target Learners
+- Learners whose engagement depends on a strong sense of agency, progress, and belonging
+- Learners recovering from repeated failure, compliance-only schooling, or disengagement
+- Adolescents and adults balancing external demands with internal goals
+
+### Target Learning Objectives
+- Increase sustained engagement and persistence
+- Strengthen learner ownership of goals and effort
+- Improve motivation by supporting autonomy, competence, and relatedness together
+
+### Theory
+#### Supporting
+- [Self-Determination Theory](../theories/self-determination-theory.md) — provides the clearest conceptual basis for the autonomy–competence–relatedness triad
+- [Learner Choice](../principles/learner-choice.md) — one practical route to autonomy support
+- [Engagement](../principles/engagement.md) — SDT helps explain why some learners invest effort and others withdraw or comply minimally
+
+#### Contradicting / Qualifying
+- [Explicit Instruction](../principles/direct-instruction.md) — qualifies that structure is not the opposite of autonomy; clear guidance can support competence when it is not controlling
+
+### Claims
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — competence grows when goals are clear and challenging, but the motivational effect depends on learner commitment and support
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — visible progress strengthens competence and helps learners act on goals
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — process goals can support competence for novices more effectively than pressure to hit outcomes immediately
+
+## Related Principles
+- [Motivation](../principles/motivation.md) — SDT is one of the strongest explanatory frameworks for why motivation rises or falls
+- [Engagement](../principles/engagement.md) — autonomy, competence, and relatedness often determine whether learners actually participate and persist
+- [Learner Choice](../principles/learner-choice.md) — one of the most visible ways to operationalize autonomy support
+
+## Examples
+
+### Illustrative
+
+**[Learner Choice](../principles/learner-choice.md)** — Learners select among meaningful tasks or products while still working toward shared goals, increasing ownership without removing structure.
+
+**[Strengths-Based Approach](../principles/strengths-based-approach.md)** — Instruction emphasizes existing capabilities and growth, which can reinforce felt competence and willingness to engage.
+
+**[Game-Based Learning](../principles/game-based-learning.md)** — Well-designed game systems can support competence through visible progress, autonomy through branching choices, and relatedness through social play or shared challenges.
+
+## Key Sources
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits. *Psychological Inquiry, 11*(4), 227-268.
+- Ryan, R. M., & Deci, E. L. (2020). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.
+-->

@@ -124,6 +124,29 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 (late night) — conversion wave 6: the last of the conversion core; complete briefs barely moved
+
+- **Fifteen pages converted** (`eval/page-triage/wave-6.md`): the principles journaling, gamification, debriefing,
+  note-taking, functional behavior assessment, multiple methods of assessment, supporting students with intellectual
+  disabilities, summative assessment, standardized test fairness and bias, motivation, knowledge organization and
+  culturally responsive classroom norms, and the patterns professional development, learning by producing and
+  experience with languaging activities. They are ranked by inbound links from content pages; index, log and
+  revision links no longer count. **Folded first**: the self-determination-theory and reinforcement-theory principles
+  into their theories (across kinds, no alias), and the stub patterns journaling, inquiry-based learning and summative
+  assessment into their principles. After this wave, no unconverted canonical page has more than five such links,
+  apart from the skipped source-framed stances.
+- **Tested with 30 briefs (about $6.7): blind pairs 86–34** (sparse 49–11, **complete only 37–23**); accuracy
+  3.18 → 3.80, decision value 3.72 → 3.97; fit up on sparse briefs, slightly down on complete ones. The graders split
+  on level: Gemini scores NEW higher everywhere, DeepSeek lower on fit and decision value.
+- **Every loss was a row that assumed a setting the brief did not have**: fill-in guided notes for nursing assistants
+  who needed a reusable handover grid in their own categories; a memory check for older adults' take-home notes; a
+  journal scaffold that ignored the brief's rubric and had the trainer read private entries; three methods crammed into
+  two sessions; a whole-task ambulance exam split into paper items. One row each turned all six briefs to 3–1 or 4–0.
+  **Rows should take the brief's own categories, routine and privacy terms as given.**
+- **Check answer endings before reading a loss**: one answer stopped mid-sentence even with the 16,000-token limit.
+- Open: the agents' lists (nine duplicate-claim pairs, about a dozen overstated titles, stale text, `i` codes without
+  printed effect sizes, two fold candidates, Kraft et al. 2018 as an ingest candidate) are in `wave-6.md`.
+
 ### 2026-10-05 (late night) — wave 5's claim findings settled; the evidence parser stopped reading comments
 
 - **Eleven duplicate claims merged** (`merge_claims.py`): judgments of learning into fluent illusions, teaching others

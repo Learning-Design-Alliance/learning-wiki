@@ -50,7 +50,7 @@ Summative assessment is the element in which a learner's performance is judged a
 - [Assessment](assessment.md)
 
 ## Patterns That Use This Element
-- [Summative Assessment](../patterns/summative-assessment.md)
+- [Summative Assessment](../principles/summative-assessment.md)
 - [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples

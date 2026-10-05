@@ -21,7 +21,7 @@ Learner choice is the element in which learners are given meaningful options abo
 
 ### Affordances
 - [Learner Choice](../principles/learner-choice.md)
-- [Self-Determination Theory](../principles/self-determination-theory.md)
+- [Self-Determination Theory](../theories/self-determination-theory.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

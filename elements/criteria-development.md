@@ -61,7 +61,7 @@ Involving learners in defining quality criteria converts assessment from an exte
 - [Case Studies](case-studies.md) — exemplar cases provide the raw material from which criteria are induced
 
 ## Patterns That Use This Element
-- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md) — learners set the standards by which their investigations will be judged
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — learners set the standards by which their investigations will be judged
 - [Self-Directed Learning](../patterns/self-directed-learning.md) — criteria development supplies the evaluative framework self-directed learners need to monitor progress
 
 ## Examples

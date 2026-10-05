@@ -33,7 +33,7 @@ Inquiry-based learning organizes learning around a question that learners invest
 
 So the expected change is in conceptual understanding and evidence-based explanation (`conceptual-understanding`, `near-transfer`), conditional on: the learner's task-specific knowledge of the target relation and of the inquiry moves themselves; how much guidance is given and when (prompts, feedback, modelling, teacher-led explanation); whether a consolidation or synthesis phase connects findings to the canonical idea; the outcome chosen (conceptual, procedural, inquiry skill, far transfer); and the horizon. No claim here reports a delayed-retention outcome for inquiry, and none tests inquiry outside science or with adults beyond one pre-service-teacher study.
 
-**Siblings.** [Problem-based learning](problem-based-learning.md) is one inquiry form, centred on an authentic problem; its conditional model (guidance for novices leads, problem-first is a narrower configuration, the curriculum-level average is small and variable) sits inside this one and should be read for problem-centred designs. [Scaffolding and fading](scaffolding-and-fading.md) models how support is raised, lowered and withdrawn; inside inquiry it supplies the policy for the guidance this page says is needed, though its evidence comes mostly from one-to-one tutoring rather than inquiry tasks. The [inquiry-based learning pattern](../patterns/inquiry-based-learning.md) and the [5E learning cycle](../patterns/5e-learning-cycle.md) are reusable designs built on this relationship; neither has yet been converted to this format, and their sequences are proposals.
+**Siblings.** [Problem-based learning](problem-based-learning.md) is one inquiry form, centred on an authentic problem; its conditional model (guidance for novices leads, problem-first is a narrower configuration, the curriculum-level average is small and variable) sits inside this one and should be read for problem-centred designs. [Scaffolding and fading](scaffolding-and-fading.md) models how support is raised, lowered and withdrawn; inside inquiry it supplies the policy for the guidance this page says is needed, though its evidence comes mostly from one-to-one tutoring rather than inquiry tasks. The [inquiry-based learning pattern](inquiry-based-learning.md) and the [5E learning cycle](../patterns/5e-learning-cycle.md) are reusable designs built on this relationship; neither has yet been converted to this format, and their sequences are proposals.
 
 ## Default design, while the relationship is untested
 
@@ -114,6 +114,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)
 - Mataniari, R., Willison, J., Hasibuan, E., Sulistiyo, U., & Dewi, F. (2020). Portraying students' critical thinking skills through research skill development (RSD) framework: A case of a biology course in an Indonesian university. *Journal of Turkish Science Education, 17*(2), 302-314. [https://doi.org/10.36681/tused.2020.28](https://doi.org/10.36681/tused.2020.28)
 - Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504.
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99-107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -160,4 +161,34 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — inquiry improves when support helps learners make better investigative moves without taking over the question
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — inquiry can improve transfer because learners are practicing integrated question-driven reasoning rather than isolated recall
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — novices often need more structure than open inquiry advocates sometimes assume because unguided search can waste effort
+-->
+
+<!-- merged 2026-10-05 from patterns/inquiry-based-learning ("Inquiry-Based Learning"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Inquiry-Based Learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 3 claims (3 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+
+## Description
+Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
+
+## Design
+
+### Elements Used
+- [Inquiry-Based Learning](../elements/inquiry-based-learning.md)
+- [Guided Inquiry](../elements/guided-inquiry.md)
+- [Problem Scenarios](../elements/problem-scenarios.md)
+
+## Claims
+- [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
+- [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
+
+## Related Patterns
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+
+## Key Sources
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99-107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)
 -->

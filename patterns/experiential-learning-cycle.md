@@ -140,7 +140,7 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 ## Related Patterns
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience
 - [Problem-Based Learning](problem-based-learning.md) — an ill-structured problem plays the role of the concrete experience, with the same reliance on structured debrief to convert it into knowledge
-- [Inquiry-Based Learning](inquiry-based-learning.md) — organizes the same experience → explanation movement around investigation and evidence
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — organizes the same experience → explanation movement around investigation and evidence
 - [Guided Discovery Learning](guided-discovery-learning.md) — addresses the cycle's novice constraint by adding guidance to the experience stage
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — supplies formal rules for sequencing whole-task experiences and fading support across loops
 - [5E Learning Cycle](5e-learning-cycle.md) — a school-science cycle that builds an elicit, conflict and explain sequence into its engage and explain phases
@@ -254,7 +254,7 @@ Unit or course. A single loop can fit inside one lesson (a lab followed by a str
 ## Related Patterns
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience
 - [Problem-Based Learning](problem-based-learning.md) — an ill-structured problem plays the role of the concrete experience, with the same reliance on structured debrief to convert it into knowledge
-- [Inquiry-Based Learning](inquiry-based-learning.md) — organizes the same experience → explanation movement around investigation and evidence
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — organizes the same experience → explanation movement around investigation and evidence
 - [Guided Discovery Learning](guided-discovery-learning.md) — addresses the cycle's novice constraint by adding guidance to the experience stage
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — supplies formal rules for sequencing whole-task experiences and fading support across loops
 

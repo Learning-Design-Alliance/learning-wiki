@@ -48,7 +48,7 @@ Positive interdependence is the mechanism through which cooperative structures o
 - [Cooperative Learning](../principles/cooperative-learning.md) — positive interdependence is the first and load-bearing principle of the Johnsons' five-element model; without it the remaining elements (accountability, interaction, skills, processing) have nothing to operate on
 - [Collaborative Learning](../principles/collaborative-learning.md) — interdependence supplies the structural motivation that collaborative talk requires; unstructured collaboration relies on goodwill, interdependence relies on design
 - [Active Learning](../principles/active-learning.md) — linked outcomes force every member into verbal, participatory engagement rather than passive presence in a group
-- [Self-Determination Theory](../principles/self-determination-theory.md) — shared goals support the need for relatedness, and well-designed role structures preserve autonomy within the team
+- [Self-Determination Theory](../theories/self-determination-theory.md) — shared goals support the need for relatedness, and well-designed role structures preserve autonomy within the team
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

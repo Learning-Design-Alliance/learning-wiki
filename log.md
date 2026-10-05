@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-10-05
 
+* **Edit**: conversion wave 6 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-6.md); SDT and reinforcement-theory principles folded into their theories, three stub patterns into their principles; four frontmatter DOIs corrected against Crossref
 * **Merge**: eleven duplicate claims folded (judgments of learning, teaching others, SRSD writing, SEL achievement, phonological awareness, learner-centred relationships, feedback use, retrieval without encoding, two expertise-reversal variants, pretraining); principles/explicit-instruction-phonics folded into [phonics](principles/phonics.md)
 * **Fix**: wave 5's claim findings — 16 titles, stale text on about 20 claims, unbacked impact codes, kind codes, and citations for Sweet & Rupp (2012), Rupp et al. (2010), Miwa et al. (2017), Ceballos & Nutta (2022) and Gaofeng & Yeyu (2007) checked against Crossref, DataCite or ERIC
 * **Fix**: ten converted principle and pattern pages — frontmatter DOIs corrected to the Crossref-verified Key Sources DOIs; Vo & Morris (2006) journal, Givens et al. year and Setlhodi (2018) DOI corrected
@@ -14846,7 +14847,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [strategies/repairing_harm](strategies/repairing_harm.md) — Cross-linked conflict-resolution and natural/logical consequences pages (Unit 9)
 * **Content**: [theories/turiels-social-domain-theory](theories/turiels-social-domain-theory.md) — Cross-linked classroom rules-vs-procedures application (Unit 9)
 * **Content**: [principles/culturally-responsive-classroom-norms](principles/culturally-responsive-classroom-norms.md) — Enriched with Tharp/Dillon/Bowers & Flinders on culturally responsive behavior management (Unit 9)
-* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched with Thorndike's puzzle box and the negative reinforcement trap (Unit 9)
+* **Content**: [principles/reinforcement-theory](theories/behaviorism.md) — Enriched with Thorndike's puzzle box and the negative reinforcement trap (Unit 9)
 * **Content**: [strategies/conditioning-natural-reinforcers](strategies/conditioning-natural-reinforcers.md) — Enriched with classroom-specific natural reinforcer examples (Unit 9)
 * **Content**: [strategies/establish_consistent_routines](strategies/establish_consistent_routines.md) — Enriched with engaged learning time and the five elements of teaching routines (Unit 9)
 * **Content**: [strategies/classroom_seating_arrangements](strategies/classroom_seating_arrangements.md) — Enriched with seating configuration options, citations, and ABC-model antecedent cross-link (Unit 9)
@@ -14898,7 +14899,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [principles/intelligence-testing-uses-and-limits](theories/intelligence-testing-uses-and-limits.md) — New page: IQ testing, standardization, and bias (Unit 7 ingest)
 * **Ingest**: [claims/flynn-effect-rising-iq-scores-over-generations](claims/flynn-effect-rising-iq-scores-over-generations.md) — New claim ld-7: the Flynn effect (Unit 7 ingest)
 * **Content**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Cross-link seductive details effect as an extraneous-load source (Unit 6 enrichment)
-* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Add overjustification effect as a documented constraint (Unit 6 enrichment)
+* **Content**: [principles/reinforcement-theory](theories/behaviorism.md) — Add overjustification effect as a documented constraint (Unit 6 enrichment)
 * **Content**: [theories/behaviorism](theories/behaviorism.md) — Add overjustification effect cross-link (Unit 6 enrichment)
 * **Content**: [theories/arcs-model](theories/arcs-model.md) — Add sub-tactics table and interest-model/Skinner cross-links (Unit 6 enrichment)
 * **Content**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Add multiplicative expectancy x value formula and expectancy/instrumentality/valence teaching tactics (Unit 6 enrichment)
@@ -14927,7 +14928,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/self-regulated-learning](theories/self-regulated-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
-* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [principles/reinforcement-theory](theories/behaviorism.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/behaviorism](theories/behaviorism.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [principles/transfer-of-learning](principles/transfer-of-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [elements/self-regulation-questionnaire](elements/self-regulation-questionnaire.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
