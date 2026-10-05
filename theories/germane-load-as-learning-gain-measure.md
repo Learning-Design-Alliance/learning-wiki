@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015
-    resource: "https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
-    title: "Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
+    resource: "https://eric.ed.gov/?id=ED579478"
+    title: "Miwa, K., Terai, H., & Mizuno, Y. (2017). Relations between cognitive resources and two types of germane load for learning. In D. G. Sampson, J. M. Spector, D. Ifenthaler, & P. Isaías (Eds.), *Proceedings of the IADIS International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2017)*. International Association for Development of the Information Society. https://eric.ed.gov/?id=ED579478"
     author: Relations between cognitive resources and two types of germane load for learning
 ---
 
@@ -45,4 +45,4 @@ The article operationalizes germane load as learning effects: the portion of wor
 -
 
 ## Key Sources
-- Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
+- Miwa, K., Terai, H., & Mizuno, Y. (2017). Relations between cognitive resources and two types of germane load for learning. In D. G. Sampson, J. M. Spector, D. Ifenthaler, & P. Isaías (Eds.), *Proceedings of the IADIS International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2017)*. International Association for Development of the Information Society. https://eric.ed.gov/?id=ED579478

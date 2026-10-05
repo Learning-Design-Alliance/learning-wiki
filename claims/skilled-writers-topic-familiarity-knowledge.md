@@ -49,4 +49,4 @@ Interview transcription analysis in the declarative-knowledge section of the stu
 - [Skilled EFL writers are aware that coherence and continuity are required elements of text and deliberately fulfill coherence requirements when composing and revising.](skilled-writers-coherence-continuity-awareness.md) — related
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related
 - [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](skilled-efl-writers-recursive-writing-process.md) — related
-- [Self-regulated learning strategy instruction improves writing outcomes](self-regulated-learning-strategies-improve-writing.md) — related
+- [Self-regulated learning strategy instruction improves writing outcomes](strategy-instruction-improves-writing-quality.md) — related

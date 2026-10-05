@@ -78,8 +78,7 @@ Three experiments with trainees learning to read electrical/circuit diagrams com
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — segmenting and pre-training operate through this mechanism
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical framework underlying the multimedia principles
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the boundary condition limiting how far these principles should be applied
-- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect-redundant-support-harms-experts.md) — a narrower finding that bears on this claim
-- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — possibly the same claim (merge candidate)
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect.md) — a narrower finding that bears on this claim
 - [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related

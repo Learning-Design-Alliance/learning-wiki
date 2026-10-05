@@ -30,4 +30,4 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](../claims/peer-monitoring-exceeds-social-presence.md) [+W]
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](../claims/sns-groups-support-informal-design-learning.md) [+W]
-- [A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W]
+- [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](../claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md) [+W]

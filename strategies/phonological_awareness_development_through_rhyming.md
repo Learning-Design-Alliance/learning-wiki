@@ -19,7 +19,7 @@ This strategy uses rhyming as an entry point into phonological awareness — the
 
 ## Design Implications
 
-Rhyming makes the phonological structure of language salient and memorable, which is why it has long served as a bridge into literacy [Phonological awareness training improves reading outcomes, with effects strongest when instruction is explicit and systematic.](../claims/phonological-awareness-training-improves-reading.md) [+S]. However, rhyme is a coarse-grained skill: children can rhyme successfully while still failing to segment words into individual phonemes, so rhyming must be treated as a stepping stone, not a substitute, for phonemic awareness instruction [Rhyme awareness contributes to reading less strongly than phoneme awareness.](../claims/phoneme-awareness-stronger-predictor-than-rhyme.md) [+M]. Pairing rhyme identification with [Direct Instruction](../elements/direct-instruction.md) — explicitly naming the shared sound — outperforms incidental exposure alone.
+Rhyming makes the phonological structure of language salient and memorable, which is why it has long served as a bridge into literacy [Phonological awareness training improves reading outcomes, with effects strongest when instruction is explicit and systematic.](../claims/phonemic-awareness-training-improves-reading.md) [+S]. However, rhyme is a coarse-grained skill: children can rhyme successfully while still failing to segment words into individual phonemes, so rhyming must be treated as a stepping stone, not a substitute, for phonemic awareness instruction [Rhyme awareness contributes to reading less strongly than phoneme awareness.](../claims/phoneme-awareness-stronger-predictor-than-rhyme.md) [+M]. Pairing rhyme identification with [Direct Instruction](../elements/direct-instruction.md) — explicitly naming the shared sound — outperforms incidental exposure alone.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Rhyming makes the phonological structure of language salient and memorable, whic
 - **Elaboration for older struggling readers**: use rhyme and rime analogy as a decoding strategy for unfamiliar words (e.g., reading *flight* by analogy to *light*)
 
 ### Target Learners
-- Preschool through Grade 1 children, before or during early decoding instruction [Phonological awareness training improves reading outcomes, with effects strongest when instruction is explicit and systematic.](../claims/phonological-awareness-training-improves-reading.md) [+S]
+- Preschool through Grade 1 children, before or during early decoding instruction [Phonological awareness training improves reading outcomes, with effects strongest when instruction is explicit and systematic.](../claims/phonemic-awareness-training-improves-reading.md) [+S]
 - At-risk emergent readers, for whom structured phonological activities show the largest compensatory effects [+M]
 - Less appropriate as a primary intervention for older struggling readers, who need direct phonemic and orthographic work [~M]
 

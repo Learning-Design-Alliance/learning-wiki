@@ -36,21 +36,12 @@ sources:
     n: 35 students (2 fourth-grade classrooms)
     kind: causal
     rigour: 1
-  - id: murphy-et-al-2018
-    resource: "https://doi.org/10.3102/0002831218771303"
-    title: "Murphy, P. K., Greene, J. A., Firetto, C. M., Hendrick, B. D., Li, M., Montalbano, C., & Wei, L. (2018). Quality Talk: Developing students' discourse to promote high-level comprehension. *American Educational Research Journal, 55*(5), 1113–1160. [doi:10.3102/0002831218771303](https://doi.org/10.3102/0002831218771303)"
-    author: "Murphy, P. K., Greene, J. A., Firetto, C. M., Hendrick, B. D., Li, M., Montalbano, C., & Wei, L."
-    q: 2
-    i: 3
-    n: 35 students (2 fourth-grade classrooms)
-    kind: causal
-    rigour: 1
 ---
 
 # Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (4 entries) · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i3` large
+> **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i3` large
 <!-- deprecated title (2026-10-05, overstated its evidence): Structured Discussion Methods Improve Comprehension -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Structured discussion methods — such as Accountable Talk, reciprocal teaching, and structured academic controversy — organize classroom talk around explicit norms, roles, and prompts, with the aim of deepening learners' comprehension of texts and content. The claim concerns comprehension outcomes specifically, not general engagement or participation. -->

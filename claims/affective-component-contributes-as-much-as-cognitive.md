@@ -44,4 +44,4 @@ The guide asserts, citing Stern, that "the affective (i.e. emotional) component 
 
 ## Related Claims
 - [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
-- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — related
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related

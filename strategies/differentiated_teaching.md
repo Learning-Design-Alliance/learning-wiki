@@ -12,7 +12,7 @@ generated:
 # Differentiated Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 qualitative), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (4 causal, 4 review, 3 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 Differentiated teaching is the deliberate adjustment of instruction — content, process, product, or environment — in response to differences in learners' readiness, interests, and learning profiles (Tomlinson, 2001). It is carried out through ongoing [assessment](../elements/assessment.md) of current understanding, followed by varied tasks, groupings, supports, or pacing so that each learner works at an appropriate level of challenge rather than a single whole-class target.

@@ -1,12 +1,12 @@
 ---
 type: claim
-title: Feedback Improves Learning
+title: "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance"
 status: draft
 generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-improves-learning
-aliases: [feedback-improves-learning-outcomes]
+aliases: [feedback-improves-learning-outcomes, feedback-use-improves-learning]
 evidence_strength: moderate
 sources:
   - id: wisniewski-et-al-2020
@@ -29,10 +29,11 @@ sources:
     rigour: 2
 ---
 
-# Feedback Improves Learning
+# Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+<!-- deprecated title (2026-10-05, overstated its evidence): Feedback Improves Learning -->
 
 Information provided to learners about their performance or understanding can improve subsequent learning, relative to practice without such information. This page covers the general claim; its strength depends heavily on the form, timing, and content of the feedback and on the learner's stage of expertise.
 
@@ -41,6 +42,8 @@ Information provided to learners about their performance or understanding can im
 `q4 i2` On average, feedback improves student learning by a medium amount (d = 0.48 across 435 studies), but the effects vary widely, and the size depends on how much information the feedback carries: reinforcement or punishment d = 0.24, corrective feedback d = 0.46, high-information feedback d = 0.99. [→ Wisniewski et al. 2020](#wisniewski-et-al-2020)
 
 `q4 i2` Feedback interventions improve performance on average (d = .41), but more than a third of them made performance worse, and they work less well the more they turn the learner's attention away from the task and toward the self. [→ Kluger & DeNisi 1996](#kluger-denisi-1996)
+
+`q4 i2` A meta-analysis of 435 studies (k=994 effect sizes, N>61,000) finds a medium overall effect of feedback on student learning (d=0.48), but the pooled effect masks large heterogeneity by feedback type and outcome domain — feedback is not a single consistent treatment. [→ Wisniewski et al. 2020](#wisniewski-et-al-2020)
 
 ## Evidence
 
@@ -51,6 +54,16 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 `q4 · random-effects meta-analysis` · `i2 · medium effect, d=0.48` · `n=435 studies (k=994 effects, N>61,000)` · `quant-synthesis · r2`
 
 A random-effects meta-analysis of empirical studies of feedback on student learning in education, drawn from the studies behind earlier meta-analyses. The overall effect was medium (d = 0.48), but heterogeneity was large, so the authors argue that feedback should not be treated as a single intervention. The most important moderator was how much information the feedback carried: reinforcement or punishment gave d = 0.24 [0.06–0.43], corrective feedback d = 0.46 [0.39–0.55], and high-information feedback, which adds information about self-regulation, d = 0.99 [0.82–1.15]. Effects were larger on cognitive (d = 0.51) and motor-skill (d = 0.63) outcomes than on motivational ones (d = 0.33).
+
+<!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from feedback-use-improves-learning; same citation and DOI (Crossref: "The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research", Wisniewski 2020). Its note that Kluger & DeNisi (1996) could not be read is out of date: that study is now an entry on this page.
+### Wisniewski Zierer Hattie 2020
+
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)
+
+`q4 · meta-analysis (random-effects model, 435 primary studies)` · `i2 · medium effect, d=0.48` · `n=994 effect sizes, N>61,000` · `quant-synthesis · r2`
+
+A random-effects meta-analysis synthesizing 435 studies and 994 effect sizes (over 61,000 participants) on feedback and student learning, conducted to replicate and expand Hattie's Visible Learning synthesis. The pooled effect was medium (d=0.48), but heterogeneity was significant, meaning feedback cannot be treated as one uniform intervention. Moderator analysis found the type and information content of the feedback drove the effect: praise, punishment, and reward carried low or low-to-medium effects, while corrective feedback aimed at new-skill acquisition was highly effective, and feedback had a larger impact on cognitive/motor outcomes than on motivational/behavioral ones. Video/audio and computer-assisted feedback channels showed medium-high to high effects, and specific written comments outperformed generic ones. Note: this study's unit of analysis is feedback *delivered*, not verified feedback *use* (revision/re-attempt) — the sharper claim this page centers on; a second candidate source for that distinction, Kluger & DeNisi (1996, doi:10.1037/0033-2909.119.2.254), could not be read (APA PsycNET paywalled it and no open-access copy was found), so it is not cited here.
+-->
 
 ### Kluger & DeNisi 1996
 
@@ -90,6 +103,21 @@ A meta-analysis of feedback interventions on task performance in laboratory and 
 
 **Open questions.** The claim as stated is too broad to be testable as written. Future enrichment should decompose it into subclaims specifying feedback type (verification vs. elaborated), timing, source (teacher, peer, automated), and learner expertise, each with its own evidence base.
 
+*Merged from “Feedback improves learning, with a medium average effect that varies widely by feedback type” (feedback-use-improves-learning):* Feedback is one of the most consistently reported influences on achievement in the learning sciences, but its effects are famously variable: the same feedback can help, do nothing, or harm depending on its content, timing, and how the learner responds. A useful distinction separates feedback **about the task** (what was wrong and how to improve), **about the process** (strategies to try), **about self-regulation** (how to monitor and adjust one's own work), and **about the self** (praise or criticism of the person). Task- and process-level feedback are the forms most plausibly tied to improved performance; personal praise carries little instructional information and can even undermine engagement when it frames ability as fixed.
+
+The folded page's claim centred on feedback **use**, not merely feedback delivery; none of the meta-analyses recorded here measures use (revision, re-attempt) separately from delivery. Feedback plausibly improves learning only when
+<!-- deprecated (2026-10-05, the page's claim is now the general one): The claim as stated centers on feedback **use**, not merely feedback delivery. Feedback only improves learning when --> the learner does something with it — revising a solution, re-attempting a task, or adjusting a strategy. This links the claim to [self-regulated learning](../theories/self-regulated-learning.md): learners must notice the gap between current and target performance and act to close it. Designers should therefore build in time and structure for feedback uptake (revision cycles, re-submission, immediate re-practice) rather than treating feedback as a terminal event — see [Action-oriented feedback](../strategies/action-oriented-feedback.md) for design patterns that specify what the learner should do next.
+
+Key moderators and boundary conditions (the recorded meta-analyses test information content and outcome type, Wisniewski et al. 2020, and task- versus self-focus, Kluger & DeNisi 1996; the rest below are not tested here):
+<!-- deprecated (2026-10-05, stale): Key moderators and boundary conditions to document when evidence is added: -->
+
+- **Timing.** Immediate feedback often helps for procedural skills; delayed feedback can aid retention and transfer by spacing re-engagement. The optimal interval likely depends on task type.
+- **Goal orientation.** Feedback is more effective when learners hold mastery goals than when they hold performance goals, where critical feedback can be experienced as a threat.
+- **Cognitive load.** Feedback on complex tasks must be timed and sized so that reading it does not itself overload working memory — see [cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and [cognitive load theory](../theories/cognitive-load-theory.md). Chunked, prioritized feedback is easier to absorb and act on than exhaustive error lists — see [Chunking reduces working memory load](chunking-reduces-working-memory-load.md).
+- **Expertise.** Novices generally need more directive, task-level feedback; advanced learners may benefit more from prompts to self-evaluate, consistent with the expertise-reversal pattern described in [expertise reversal effect](../theories/expertise-reversal-effect.md).
+
+Open questions: how durable feedback effects are over time, how feedback interacts with grading, and which digital feedback formats best support uptake at scale.
+
 ## Related Claims
 
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback is the central mechanism of formative assessment; the two claims should not double-count the same evidence
@@ -98,8 +126,11 @@ A meta-analysis of feedback interventions on task performance in laboratory and 
 - [Clear structure improves learning](clear-structure-improves-learning.md) — well-structured feedback is easier to locate, interpret, and act on
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-regulation-level feedback aims to make learners their own feedback providers
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems operationalize feedback by tailoring responses to learner performance
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — feedback that surfaces discrepancies between performance and goals can trigger productive disequilibrium
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — feedback that surfaces discrepancies between performance and goals can trigger productive disequilibrium
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a narrower finding that bears on this claim
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — related
+- [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — overloaded learners cannot process or act on feedback.
+- [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the optimal feedback type shifts from directive to self-evaluative prompts as expertise grows.
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — a narrower finding that bears on this claim
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related

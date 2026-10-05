@@ -146,7 +146,7 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — a narrower finding that bears on this claim
 - [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related
-- [Retrieval Fails Without Encoding](retrieval-fails-without-encoding.md) — related
+- [Retrieval Fails Without Encoding](pretesting-enhances-learning.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — a narrower finding that bears on this claim
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — a narrower finding that bears on this claim
 - [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) — related

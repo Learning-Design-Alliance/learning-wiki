@@ -12,7 +12,7 @@ generated:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 17 studies (7 causal, 3 quant-synthesis, 3 review, 3 theoretical, 1 qualitative), `q1`–`q4` · 3 of 17 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 20 studies (8 causal, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,7 +100,7 @@ Claims bearing on transfer that the wiki holds and this model does not use. None
 
 - [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../claims/task-variety-enables-transfer-same-task-type.md) [+W]: an assertion in Merrill's (2007) conceptual paper, with no empirical test. Cited in the default design only as argument.
 - [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](../claims/multiple-contexts-generalization-transfer.md) [+W]: a theoretical argument in Collins (1988), with no data. Cited in the default design only as argument.
-- [Pretraining Improves Transfer](../claims/pretraining-improves-transfer.md) [+M]: one `randomized` experiment (n = 93). A video naming a tool's parts before an immersive-VR lesson led to fewer errors on a real-life transfer task than the same lesson without it. It bears on securing the original learning for novices before transfer (step 1 of the default design), not on varied contexts.
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]: one `randomized` experiment (n = 93). A video naming a tool's parts before an immersive-VR lesson led to fewer errors on a real-life transfer task than the same lesson without it. It bears on securing the original learning for novices before transfer (step 1 of the default design), not on varied contexts.
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](../claims/training-transfer-as-adaptive-reconstruction.md) [~W]: an interview study (the same programme as above) suggesting that on-the-job transfer is local adaptation, which a test of replication would miss; not read further.
 
 ## Objective and learner-valued goal

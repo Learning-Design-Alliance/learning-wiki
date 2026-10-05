@@ -18,15 +18,6 @@ sources:
     n: 57 experiments (336 tests)
     kind: quant-synthesis
     rigour: "?"
-  - id: alfieri-et-al-2013
-    resource: "https://doi.org/10.1080/00461520.2013.775712"
-    title: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)"
-    author: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D."
-    q: 4
-    i: 2
-    n: 57 experiments (336 tests)
-    kind: quant-synthesis
-    rigour: "?"
   - id: gentner-et-al-2003
     resource: "https://doi.org/10.1037/0022-0663.95.2.393"
     title: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)"
@@ -34,15 +25,6 @@ sources:
     q: 3
     i: "?"
     n: 128 (Experiment 2)
-    kind: causal
-    rigour: "?"
-  - id: gentner-et-al-2003
-    resource: "https://doi.org/10.1037/0022-0663.95.2.393"
-    title: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)"
-    author: "Gentner, D., Loewenstein, J., & Thompson, L."
-    q: 3
-    i: "?"
-    n: 128 undergraduates (Experiment 2)
     kind: causal
     rigour: "?"
   - id: rittle-johnson-star-2007
@@ -59,7 +41,7 @@ sources:
 # Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (5 entries) · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 <!-- deprecated title (2026-10-05, overstated its evidence): Comparing Contrasting Cases Improves Learning -->
 
 Learners who compare two or more cases that differ on key features — side by side, with attention directed to what varies and why — learn more than learners who study the same cases one at a time or study a single case (d = .50 across 57 experiments), and transfer the principle more often (48% vs 19% in one negotiation experiment); in one algebra experiment the gain was in procedural knowledge and flexibility, not conceptual knowledge. <!-- deprecated (2026-10-05, overstated for Rittle-Johnson & Star 2007): learn the underlying principles better than learners who study the same cases one at a time. -->

@@ -14,7 +14,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 19 studies (11 quant-synthesis, 4 review, 3 causal, 1 qualitative), `q2`–`q4` · 5 of 19 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 20 studies (11 quant-synthesis, 4 review, 3 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -52,7 +52,7 @@ A request for "clear teaching" or "better results" does not specify these inputs
 
 - **Explicit or unguided for a new target.** [The discovery syntheses](../claims/minimal-guidance-less-effective-for-novices.md) [+S] support explaining and modelling rather than leaving learners to find the method unaided (d = 0.38 across 580 comparisons), and show discovery enhanced with feedback, worked examples, scaffolding or elicited explanations doing well (d = 0.30). So if inquiry is chosen, guide it; the evidence does not favour explicit instruction over guided discovery. Prior knowledge and horizon are not broken out.
 - **Instruction first or problem first.** [The productive-failure synthesis](../claims/productive-failure-improves-conceptual-learning.md) [~S] favours instruction first for procedural targets (no difference, g = −0.03) and for second to fifth graders, and a designed problem-first attempt for conceptual knowledge and transfer (g = 0.36). Not settled against its sources; the horizon is not reported.
-- **How long to keep full guidance.** [Expertise reversal](../claims/expertise-reversal-guidance-hurts-experts.md) [~S] says guidance that helps less experienced learners can stop helping or hurt once they hold the schema. It gives no fading point and no effect sizes; the observation rows above are how a design would look for that point.
+- **How long to keep full guidance.** [Expertise reversal](../claims/expertise-reversal-effect.md) [~S] says guidance that helps less experienced learners can stop helping or hurt once they hold the schema. It gives no fading point and no effect sizes; the observation rows above are how a design would look for that point.
 - **Advance on a schedule or on demonstrated mastery.** [The mastery-learning meta-analysis](../claims/mastery-learning-improves-outcomes.md) [~M] (108 evaluations, judge-checked against its abstract) found better examination performance, apparently more for weaker students, but more time on task and, in self-paced college courses, often lower completion. No pooled effect size is recorded. Weigh the time cost against the objective.
 - **Language teaching.** [The L2 syntheses](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S] (49, 34 and 41 studies, judge-checked) found explicit grammar instruction more effective than implicit; all were read from abstracts with no effect size printed, mostly on English.
 - **A whole scripted curriculum.** [Engelmann's Direct Instruction curricula](../claims/direct-instruction-improves-outcomes.md) [+M] (328 studies) show positive effects across reading, mathematics, language and spelling, larger with more exposure. One family of scripted programmes, abstract only, not yet checked, with no comparator stated; it is not evidence about any explicit lesson.
@@ -99,7 +99,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - **Not settled:** the reversal for domain-general skills is reported without detail; whether a short attempt before a direct-instruction lesson counts as a productive-failure design is not addressed.
 
 ### How much guidance as learners gain expertise?
-- **Default:** fade explanation and modelling as learners acquire the schema. Across split-attention, modality, worked-example and other paradigms, formats that help novices lose their advantage, and in several reverse, once learners have domain schemas; electrical trainees who had gained experience did better with explanatory text removed — [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
+- **Default:** fade explanation and modelling as learners acquire the schema. Across split-attention, modality, worked-example and other paradigms, formats that help novices lose their advantage, and in several reverse, once learners have domain schemas; electrical trainees who had gained experience did better with explanatory text removed — [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-effect.md) [~S]
 - **Tested with:** reviews of cognitive-load experiments; trainees reading circuit diagrams.
 - **Not settled:** the point at which to fade, and how to measure it, have no wiki evidence; no effect sizes are recorded for the reversal.
 
@@ -149,7 +149,7 @@ Direct instruction is the short-form canonical pattern for explicit explanation,
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
 - [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
-- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
+- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-effect.md) [~S]
 - [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](../claims/explicit-teaching-complex-rules-only-advantage.md) [+S]

@@ -43,5 +43,5 @@ The report's own interpretive assertion in the Technology in School section, cit
 
 
 ## Related Claims
-- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — a narrower finding that bears on this claim
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — a narrower finding that bears on this claim
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related

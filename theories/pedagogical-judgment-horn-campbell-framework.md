@@ -16,7 +16,7 @@ sources:
 # Pedagogical judgment as interpretable, responsive instructional decision-making (Horn & Campbell, operationalized via inquiry as stance)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The study builds on Horn and Campbell's (2015) conception of pedagogical judgment, which the authors "operationalize as the ability to interpret classroom interactions and make responsive instructional decisions." Framed by Cochran-Smith and Lytle's inquiry as stance — practice-based work in which practitioners "collaboratively theorize, study, and act on those problems in the best interests of the learning and life chances of students" — the framework treats pedagogical judgment as a cultivable capacity made visible through structured tools, prompts, and feedback rather than a fixed trait.
@@ -38,7 +38,7 @@ The study builds on Horn and Campbell's (2015) conception of pedagogical judgmen
 ### Claims
 
 - [Structured Iterative Support Improves Pedagogical Judgment](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+M]
-- [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](../claims/revised-prompts-advance-sophisticated-analysis.md) [+W]
 
 ## Related Theories

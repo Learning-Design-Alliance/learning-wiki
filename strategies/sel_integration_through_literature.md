@@ -19,7 +19,7 @@ Integrating social and emotional learning (SEL) into language arts uses carefull
 
 ## Design Implications
 
-Literature-based SEL works because narrative provides psychologically safe distance: students reason about characters' emotions before naming their own, which lowers social risk while still exercising the same competencies. The mechanism is perspective-taking within a shared text, which supports empathy and social awareness [Reading literary fiction improves theory of mind and empathic accuracy relative to nonfiction.](../claims/building-empathy-improves-intergroup-attitudes.md) [~M] — the effect appears in some experimental studies but replication is mixed, so empathy gains should be treated as plausible, not guaranteed. SEL programming broadly shows reliable benefits for social-emotional skills, attitudes, and academic performance [Universal school-based SEL programs improve social-emotional skills, attitudes, and academic achievement.](../claims/sel-programs-improve-academic-achievement.md) [+S], but effects depend on safe, sequenced, ACTIVE (Active, Focused, Explicit) implementation rather than incidental book choices.
+Literature-based SEL works because narrative provides psychologically safe distance: students reason about characters' emotions before naming their own, which lowers social risk while still exercising the same competencies. The mechanism is perspective-taking within a shared text, which supports empathy and social awareness [Reading literary fiction improves theory of mind and empathic accuracy relative to nonfiction.](../claims/building-empathy-improves-intergroup-attitudes.md) [~M] — the effect appears in some experimental studies but replication is mixed, so empathy gains should be treated as plausible, not guaranteed. SEL programming broadly shows reliable benefits for social-emotional skills, attitudes, and academic performance [Universal school-based SEL programs improve social-emotional skills, attitudes, and academic achievement.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S], but effects depend on safe, sequenced, ACTIVE (Active, Focused, Explicit) implementation rather than incidental book choices.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Literature-based SEL works because narrative provides psychologically safe dista
 - Cross-curricular variants pairing texts with [Case-Based Learning](../patterns/case-based-learning.md) for older students
 
 ### Target Learners
-- K–12 students, with the strongest evidence base in elementary and middle grades [Universal school-based SEL programs improve social-emotional skills, attitudes, and academic achievement.](../claims/sel-programs-improve-academic-achievement.md) [+S]
+- K–12 students, with the strongest evidence base in elementary and middle grades [Universal school-based SEL programs improve social-emotional skills, attitudes, and academic achievement.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
 - Students who benefit from indirect routes into emotional topics — narrative distance lowers disclosure risk
 - Multilingual learners and students from diverse backgrounds, when texts are culturally relevant and affirming [A sense of belonging improves engagement and outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 

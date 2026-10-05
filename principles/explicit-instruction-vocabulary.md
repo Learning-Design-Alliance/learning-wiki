@@ -82,7 +82,7 @@ Explicit vocabulary instruction works when it treats words as tools for meaning-
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable
-- [Explicit Instruction: Phonics](explicit-instruction-phonics.md) — some learners need word-level decoding support alongside meaning instruction
+- [Explicit Instruction: Phonics](phonics.md) — some learners need word-level decoding support alongside meaning instruction
 - [Annotating](annotating.md) — annotation can be used to capture, define, and revisit target terms
 - [Multimodal Instruction](multimodal-instruction.md) — examples, visuals, and oral use can all reinforce vocabulary learning
 

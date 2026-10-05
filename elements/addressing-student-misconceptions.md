@@ -45,7 +45,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+M]
-- [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: fluent-illusions-mislead-self-assessment
-aliases: [fluency-judgments-mislead-learners, fluency-poor-cue-learning, illusion-of-knowing]
+aliases: [fluency-judgments-mislead-learners, fluency-poor-cue-learning, illusion-of-knowing, judgments-of-learning-inaccurate]
 evidence_strength:
 sources:
   - id: carpenter-et-al-2013
@@ -34,7 +34,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
 
-The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments that misdirect further study.
+The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments. The two experiments recorded here show fluency raising judgments of learning without raising recall; neither shows the misjudgment changing how learners go on to study (Carpenter et al. 2013 found no difference in study time).
+<!-- deprecated wording (2026-10-05, overstated its evidence): The subjective ease of processing information (fluency) is often mistaken by learners for evidence of learning, producing overconfident self-assessments that misdirect further study. -->
 
 ## Subclaims
 
@@ -68,7 +69,8 @@ Participants studied words printed in different font sizes for a free-recall tes
 
 **Design implications.** Because subjective judgment is unreliable, self-assessment should be anchored in external checks: low-stakes retrieval practice, delayed feedback, and explicit calibration training. Designers should treat learner confidence ratings as data about fluency, not about knowledge, and should prefer actual test performance when adapting instruction — a caution for systems built on [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) if they rely on self-reported mastery. Confidence ratings collected alongside [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) activities should therefore be interpreted as fluency signals, not mastery signals.
 
-**Open questions.** How durable fluency-based miscalibration is across development, and how quickly calibration improves with feedback, remain open; the evidence base for this page still needs to be populated (see TODO above).
+**Open questions.** How durable fluency-based miscalibration is across development, and how quickly calibration improves with feedback, remain open. Two laboratory experiments with adults are recorded here (Carpenter et al. 2013; Rhodes & Castel 2008), both read from abstracts; no study recorded here tests learners' study choices, classroom material or calibration training.
+<!-- deprecated (2026-10-05, stale): How durable fluency-based miscalibration is across development, and how quickly calibration improves with feedback, remain open; the evidence base for this page still needs to be populated (see TODO above). -->
 
 *Merged from “Fluency Judgments Mislead Learners” (fluency-judgments-mislead-learners):* **Mechanism.** Processing fluency — the subjective ease of reading, recognizing, or re-experiencing material — is frequently misattributed to learning itself. When a text is clearly printed, a lecture is well-organized, or a concept has just been reread, learners experience ease and infer competence, even when actual retention or transfer is poor. This is a core driver of the [illusion of knowing](fluent-illusions-mislead-self-assessment.md) and of miscalibration between judged and actual learning.
 
@@ -76,7 +78,8 @@ Participants studied words printed in different font sizes for a free-recall tes
 
 **Design implications.** Designers should (a) prefer training conditions that decouple ease from learning, such as [retrieval practice](retrieval-practice-improves-retention.md), and (b) replace fluency-based self-assessment with external checks — delayed [retrieval practice](../elements/practice.md), low-stakes quizzing, or calibrated feedback — so judgments rest on performance rather than subjective ease. Well-structured material is still worth pursuing for genuine load reduction (see [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md)), but designers should not treat smoother presentation as evidence of better learning, and should warn learners that ease during study is a poor cue for mastery.
 
-**Boundary conditions and open questions.** Fluency misattribution is presumably strongest for novices, who lack the domain knowledge to distinguish surface ease from genuine understanding, and weakest for experts whose judgments can rest on actual knowledge structure. The boundary conditions (learner expertise, domain, material type) and the durability of interventions that train learners to discount fluency cues remain active areas of research; this page needs supporting evidence entries before its claims can be treated as established.
+**Boundary conditions and open questions.** Fluency misattribution is presumably strongest for novices, who lack the domain knowledge to distinguish surface ease from genuine understanding, and weakest for experts whose judgments can rest on actual knowledge structure. The boundary conditions (learner expertise, domain, material type) and the durability of interventions that train learners to discount fluency cues remain active areas of research. The page records two laboratory experiments (instructor fluency; font size) showing the dissociation between judged and actual learning; none tests expertise, domain or interventions that train learners to discount fluency.
+<!-- deprecated (2026-10-05, stale): remain active areas of research; this page needs supporting evidence entries before its claims can be treated as established. -->
 
 *Merged from “Fluency is a poor cue for actual learning” (fluency-poor-cue-learning):* **Why fluency misleads.** Fluent processing (legible fonts, repeated rereading, massed practice, well-matched examples) feels like learning, yet conditions that boost in-the-moment fluency often produce *worse* long-term retention than conditions that feel effortful. This is the core of the distinction between performance during instruction and durable learning: desirable difficulties such as [spaced practice](../principles/spaced-learning.md), [retrieval practice](../principles/retrieval-practice.md), and [interleaving](../strategies/interleaving.md) reduce fluency while improving retention [+S], whereas fluent strategies like rereading and massing inflate confidence without durable gains [-S].
 
@@ -98,6 +101,16 @@ Participants studied words printed in different font sizes for a free-recall tes
 
 **Open questions.** The two experiments recorded above show fluency raising learners' judgments of learning without raising recall, including after an explicit warning. How large the error is across domains, and whether calibration training corrects it, remain to be recorded.
 
+*Merged from “Judgments of learning are often inaccurate” (judgments-of-learning-inaccurate):* **Why JOLs go wrong.** Learners typically base JOLs on cues that are only weakly diagnostic of long-term retention [-M]. The best-documented of these is the fluency mismatch: information that is easy to process at encoding (e.g., massed repetition, high perceptual fluency) feels well learned, yet produces poorer retention than effortful processing such as spaced or interleaved study — the same dissociation that underlies [Spaced practice improves retention](spaced-practice-improves-retention.md) and [Interleaving improves learning](interleaving-improves-inductive-learning.md) [+S]. Because the subjective ease of study and the conditions that produce durable learning are systematically dissociated, JOLs made immediately after study tend to be overconfident [-M], while JOLs that are delayed past the point of short-term memory access are typically more accurate [+S] — the learner is forced to rely on retrieval rather than on the lingering familiarity of the just-studied material.
+
+**Design implications.** Inaccurate JOLs matter because learners use them to allocate study time: overconfident learners terminate study prematurely and underconfident learners restudy material they already know [-M]. Designers should therefore not treat self-reported confidence as a proxy for mastery [-M]. Where possible, replace or supplement self-assessment with delayed [retrieval practice](../elements/practice.md), low-stakes quizzing, or instructor/system-provided feedback — see [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) and [Self-regulated learning](../theories/self-regulated-learning.md) [+S]. Prompting learners to make JOLs after a delay, or after a retrieval attempt rather than after re-reading, shifts the basis of judgment toward more diagnostic cues [+M]. This connects to the broader [Testing effect improves retention](retrieval-practice-improves-retention.md): a retrieval attempt is both a learning event and a calibration event.
+
+**Boundary conditions.** JOL accuracy is not uniformly poor: it improves with domain knowledge [+M], with delayed rather than immediate judgment [+S], and with experience receiving feedback on the accuracy of one's own predictions [+M]. Absolute accuracy (calibration) and relative accuracy (the ability to discriminate well-learned from poorly-learned items) can also dissociate, so a learner may rank items correctly while still being globally overconfident [~M]. Metacognitive prompts and [self-assessment](../elements/assessment.md) activities can help, but only when they direct attention to diagnostic cues rather than to surface fluency [~M].
+
+**Constraints on relying on JOLs.** Immediate JOLs made right after study are systematically overconfident because short-term memory inflates the sense of mastery [-M]. Re-reading and other fluency-building activities worsen calibration, since they increase perceived ease without adding durable learning [-M]. JOLs are least trustworthy precisely where learners most need them: with unfamiliar material, where learners lack the domain knowledge to evaluate their own comprehension [-M]. Treating confidence ratings as evidence of mastery in adaptive or mastery-based systems will therefore misroute learners — underconfident learners get unnecessary remediation while overconfident ones skip content they have not retained [-M].
+
+**Open questions.** Most evidence comes from paired-associate and text-learning paradigms with adults; the generalization of JOL miscalibration to complex, authentic learning tasks and to younger learners remains less well established [~W].
+
 ## Related Claims
 
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — perceived difficulty and actual load can diverge, complicating learner self-report.
@@ -117,10 +130,12 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Self-regulated learning.](../theories/self-regulated-learning.md) — accurate self-monitoring is a prerequisite for effective study-strategy regulation
 - [Cognitive load management.](../principles/cognitive-load-management.md) — load reduction during study raises the need for retrieval-based verification of learning
 - [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
-- [Judgments of learning are often inaccurate](judgments-of-learning-inaccurate.md) — possibly the same claim (merge candidate)
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load](minority-identify-three-load-types.md) — a narrower finding that bears on this claim
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
 - [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — related
+- [Spaced practice improves retention](spaced-practice-improves-retention.md) — spacing produces durable learning that feels harder, illustrating the fluency mismatch
+- [Interleaving improves learning](interleaving-improves-inductive-learning.md) — interleaved practice is systematically underjudged relative to blocked practice
+- [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related

@@ -12,7 +12,7 @@ generated:
 # Problem Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Problem Based Learning (PBL) organizes instruction around an authentic, ill-structured problem that students encounter *before* receiving formal instruction on the underlying content. Working in small groups with a facilitator rather than a lecturer, students analyze the problem, identify what they need to know (a "learning needs" step), self-direct their inquiry, and return to apply new knowledge to a proposed solution. The problem functions as both the trigger for learning and the organizing structure for the knowledge built around it.

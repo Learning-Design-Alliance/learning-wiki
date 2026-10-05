@@ -18,15 +18,6 @@ sources:
     n: 39 studies (2,103 participants)
     kind: quant-synthesis
     rigour: 2
-  - id: guo-et-al-2020
-    resource: "https://doi.org/10.1177/2332858420901696"
-    title: "Guo, D., Zhang, S., Wright, K. L., & McTigue, E. M. (2020). Do you get the picture? A meta-analysis of the effect of graphics on reading comprehension. *AERA Open, 6*(1), 2332858420901696. [doi:10.1177/2332858420901696](https://doi.org/10.1177/2332858420901696)"
-    author: "Guo, D., Zhang, S., Wright, K. L., & McTigue, E. M."
-    q: 4
-    i: 1
-    n: 39 studies (2,103 participants)
-    kind: quant-synthesis
-    rigour: "?"
   - id: carney-and-levin-2002
     resource: "https://doi.org/10.1023/a:1013176309260"
     title: "Carney, R. N., & Levin, J. R. (2002). Pictorial illustrations still improve students' learning from text. *Educational Psychology Review, 14*(1), 5–26. [doi:10.1023/a:1013176309260](https://doi.org/10.1023/a:1013176309260)"
@@ -50,7 +41,7 @@ sources:
 # Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (4 entries) · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
 <!-- deprecated title (2026-10-05, overstated its evidence): Dual Coding Improves Learning -->
 
 Pairing text with corresponding pictures or graphics improves learning from it: a meta-analysis of 39 experiments found a small-to-moderate benefit for reading comprehension (g = 0.39), and a narrative review concludes that carefully constructed illustrations improve text-dependent outcomes. The usual explanation, that verbal and visual processing create two memory traces rather than one ([dual coding theory](../theories/dual-coding-theory.md)), is contested: Higdon et al. (2025) found the picture-superiority effect in memory followed physical distinctiveness instead. The evidence recorded here measures comprehension and text-dependent performance more than recall as such.

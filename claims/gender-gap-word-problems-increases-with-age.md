@@ -63,4 +63,4 @@ The review reports disagreement about when the male advantage first appears, att
 
 ## Related Claims
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — reports the opposite
-- [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](male-oriented-item-content-biases-test-scores.md) — related
+- [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related

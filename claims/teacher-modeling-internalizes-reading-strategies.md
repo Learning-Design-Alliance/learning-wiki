@@ -13,19 +13,19 @@ sources:
     resource: "https://www.mextesol.net/journal/"
     title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/"
     author: Üstündağ-Algın, P.
-    q: 2
+    q: 1
     i: "?"
-    kind: causal
-    rigour: 1
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
-`q2 i?` Students' questionnaire reflections indicated that the teacher explaining and giving examples as a role model supported their internalization of the comprehension strategies. [→ Üstündağ-Algın 2025](#ustundag-algn-2025)
+`q1 i?` Students' questionnaire reflections indicated that the teacher explaining and giving examples as a role model supported their internalization of the comprehension strategies. [→ Üstündağ-Algın 2025](#ustundag-algn-2025)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/
 
-`q2 · i?` · `causal · r1`
+`q1 · students' open-ended questionnaire comments from the experimental group only; this finding has no comparison` · `i?` · `qualitative · r?`
 
 Qualitative finding from the experimental group questionnaire in the Findings section (RQ2). Student comments such as "our teacher first explained by giving examples one by one and then asked us to practice" were interpreted as showing modeling supported internalization.
 

@@ -12,7 +12,7 @@ generated:
 # Explicit Strategy Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Explicit strategy instruction names a specific procedure learners can use to accomplish a task (e.g., summarizing, self-questioning, drawing a diagram), demonstrates its use, and provides guided practice until learners can apply it independently. Crucially, it teaches not just the *how* but the *when* and *why* — conditional knowledge about which strategy fits which task — because strategies taught without conditions are rarely transferred [Strategy instruction that includes conditional knowledge produces better transfer than strategy instruction alone.](../claims/strategy-instruction-improves-learning.md) [+M]. The goal is not the strategy itself but self-regulated use: learners who select, monitor, and adjust strategies on their own.
@@ -31,7 +31,7 @@ Strategy instruction works because it converts tacit expert procedures into teac
 #### Constraints
 - Strategies taught as rote procedures, without conditional knowledge, show weak transfer to new tasks and content [Strategy instruction effects are weaker when conditional knowledge is not taught.](../claims/strategy-instruction-improves-learning.md) [-M]
 - Effects fade when instruction is brief; multi-session programs outperform single interventions [Meta-analyses find stronger effects for extended strategy programs.](../claims/strategy-instruction-improves-learning.md) [~M]
-- For learners with high prior knowledge, strategy instruction can be redundant and even depress performance [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-guidance-hurts-experts.md) [~M]
+- For learners with high prior knowledge, strategy instruction can be redundant and even depress performance [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 - Time-intensive: modeling and guided practice consume instructional time that competes with content coverage
 
 #### Implementation Variability
@@ -43,7 +43,7 @@ Strategy instruction works because it converts tacit expert procedures into teac
 ### Target Learners
 - Novices and struggling learners who lack effective default approaches to a task [Strategy instruction benefits low-achieving learners most.](../claims/strategy-instruction-improves-learning.md) [+M]
 - Younger learners, who rarely invent effective strategies spontaneously
-- Less beneficial for experts, who already possess and automate effective procedures [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-guidance-hurts-experts.md) [~M]
+- Less beneficial for experts, who already possess and automate effective procedures [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals
 - Procedural fluency in domain tasks (comprehension, problem solving, writing)

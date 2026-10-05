@@ -19,7 +19,7 @@ Social Emotional Learning (SEL) Integration embeds the development of social-emo
 
 ## Design Implications
 
-Integrated SEL improves both behavioral and academic outcomes, with meta-analytic evidence showing gains in achievement alongside social-emotional skills [SEL programs improve academic achievement and social-emotional skills.](../claims/sel-programs-improve-academic-achievement.md) [+S]. Integration works because competencies are practiced in authentic contexts rather than in decontextualized lessons, which supports transfer to real academic and interpersonal situations [~M]. However, effects depend on quality of implementation: SAFE features (sequenced, active, focused, explicit practice) predict outcomes, while poorly implemented or short-duration programs show weak effects [~S].
+Integrated SEL improves both behavioral and academic outcomes, with meta-analytic evidence showing gains in achievement alongside social-emotional skills [SEL programs improve academic achievement and social-emotional skills.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]. Integration works because competencies are practiced in authentic contexts rather than in decontextualized lessons, which supports transfer to real academic and interpersonal situations [~M]. However, effects depend on quality of implementation: SAFE features (sequenced, active, focused, explicit practice) predict outcomes, while poorly implemented or short-duration programs show weak effects [~S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Integrated SEL improves both behavioral and academic outcomes, with meta-analyti
 - **Discipline-integrated practice:** role-play and debate in humanities; productive-failure norms in mathematics
 
 ### Target Learners
-- K–12 students broadly, with strongest documented effects in elementary grades [SEL programs improve academic achievement and social-emotional skills.](../claims/sel-programs-improve-academic-achievement.md) [+S]
+- K–12 students broadly, with strongest documented effects in elementary grades [SEL programs improve academic achievement and social-emotional skills.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
 - Students at risk of disengagement; belonging-focused integration improves outcomes for marginalized students [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Adolescents benefit from autonomy-supportive rather than compliance-oriented framing [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
 

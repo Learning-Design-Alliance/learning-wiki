@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: teacher-student-relationships-improve-engagement
-aliases: [teacher-student-relationships-improve-engagement-and-achievement]
+aliases: [teacher-student-relationships-improve-engagement-and-achievement, learner-centered-teacher-student-relationships-are-effective]
 evidence_strength:
 sources:
   - id: cornelius-white-2007
@@ -55,6 +55,16 @@ Cornelius-White, J. (2007). Learner-centered teacher-student relationships are e
 
 The author screened about 1,000 articles and synthesised 119 studies published from 1948 to 2004, which together report 1,450 findings on 355,325 students. Nine teacher variables (for example warmth, empathy and encouraging learning) were coded against 18 student outcomes, with 39 moderators. The mean correlation was r = .31, which the author judges above average among educational innovations, and it was higher for affective and behavioral outcomes than for cognitive ones. Correlations varied widely, and methodological and sample features explained part of that variation. Because the synthesis pools correlations, it shows that learner-centered relationships go together with better outcomes. It does not show that they cause them.
 
+<!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from learner-centered-teacher-student-relationships-are-effective and is identical to the entry above except its rigour code (r2 there, r3 here; rigour is coded from the article by code_kind_rigour.py and was not re-judged in this merge).
+### Cornelius-White 2007
+
+Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
+
+`q3 · meta-analysis of mostly correlational studies` · `i2 · medium association, mean r=.31` · `n=119 studies (355,325 students; 1,450 findings)` · `quant-synthesis · r2`
+
+The author screened about 1,000 articles and synthesised 119 studies published from 1948 to 2004, which together report 1,450 findings on 355,325 students. Nine teacher variables (for example warmth, empathy and encouraging learning) were coded against 18 student outcomes, with 39 moderators. The mean correlation was r = .31, which the author judges above average among educational innovations, and it was higher for affective and behavioral outcomes than for cognitive ones. Correlations varied widely, and methodological and sample features explained part of that variation. Because the synthesis pools correlations, it shows that learner-centered relationships go together with better outcomes. It does not show that they cause them.
+-->
+
 ### Roorda et al. 2011
 
 Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influence of affective teacher–student relationships on students' school engagement and achievement: A meta-analytic approach. *Review of Educational Research, 81*(4), 493–529. [doi:10.3102/0034654311421793](https://doi.org/10.3102/0034654311421793)
@@ -89,6 +99,16 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 
 **Open questions.** Relative weight of teacher vs. peer relationships; whether effects persist across cultural contexts with differing norms of teacher formality; dose–response questions about how much relational investment yields measurable gains; and whether engagement fully mediates the achievement effect or relationships contribute through additional channels (attendance, help-seeking, reduced exclusionary discipline).
 
+*Merged from “Learner-centered teacher–student relationships are associated with better student outcomes” (learner-centered-teacher-student-relationships-are-effective):* **Mechanism.** Learner-centered relationships are theorized to work through three channels: increased student motivation and engagement, a classroom climate that supports risk-taking and help-seeking, and better teacher knowledge of individual learners' needs that enables responsive instruction. These channels connect to broader motivational theory — see [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) and [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md). Autonomy-supportive teaching in particular is the best-specified causal pathway: experimental manipulations of teacher autonomy support produce measurable motivational gains [+M], whereas purely correlational warmth–achievement associations are harder to interpret [~W].
+
+**Directionality problem.** Much of the supporting literature is correlational, so positive relationships and positive outcomes may be mutually reinforcing rather than causally one-directional [~W]. Students who succeed may elicit warmer relationships, and observational or quasi-experimental designs rarely disentangle this. Experimental and longitudinal evidence (e.g., teacher-training interventions that change relational practice and track downstream outcomes) provides stronger support than cross-sectional studies. Any future Evidence entries should therefore be weighted by design quality, not just effect size.
+
+**Cultural and contextual moderators.** What students perceive as respectful, warm, or autonomy-supportive varies across cultures and age groups [~M]. Practices validated in Western elementary settings may not transfer directly to secondary or non-Western contexts, and learner-centered approaches demand more of teachers than relationship-building alone — they imply instructional choices (choice, relevance, responsiveness) that must be paired with [clear structure](../principles/clear-structure.md) to avoid ambiguity. Autonomy support without structure can slide into permissiveness, which is associated with weaker outcomes than either authoritative warmth-plus-structure or consistent scaffolding [-M].
+
+**Not a substitute for instruction.** Positive relationships raise the ceiling on engagement but do not replace explicit instructional design. A warm classroom with poorly sequenced content still produces poor learning; relational quality should be treated as a multiplier on, not a replacement for, sound pedagogy. This boundary matters for claims like [Active learning improves exam performance](active-learning-improves-exam-performance.md) — relational climate plausibly moderates whether active formats succeed, but does not itself constitute active instruction.
+
+**Open questions.** Whether relational effects persist once instruction quality is statistically controlled, whether effects are stronger for at-risk students than for the general population, and how quickly relational gains decay after a course ends all remain under-specified in the current evidence base.
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — belonging is a key proximal mechanism linking relationships to engagement
@@ -97,7 +117,6 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Check-ins](../principles/check-ins.md) — a practical routine for building relationship quality
 - [Belonging](../elements/belonging.md) — the design element most directly supported by strong relationships
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
-- [Learner-centered teacher–student relationships are associated with better student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback practices are a relational channel through which teachers sustain engagement
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](board-certification-identifies-more-expert-teachers.md) — related
@@ -106,3 +125,8 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
+- [Active learning improves exam performance](active-learning-improves-exam-performance.md) — relational climate may moderate the effectiveness of active formats
+- [Check-ins](../elements/check-in.md) — a concrete classroom element for building relational awareness
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — a narrower finding that bears on this claim
+- [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
+- [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — a narrower finding that bears on this claim

@@ -12,7 +12,7 @@ generated:
 # Connecting Struggles to Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q3`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Connecting struggles to strategies involves explicitly teaching students various problem-solving strategies and helping them understand when and why to use each strategy effectively. Educators create opportunities for students to get productively "stuck" on challenging problems, then guide them to name, reflect on, and record the strategies that helped them get unstuck. Over time this builds a co-authored strategy resource and the habit of treating difficulty as a signal to try a different approach rather than a signal to stop.

@@ -12,7 +12,7 @@ generated:
 # Teacher Modeling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (4 causal, 4 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Teacher modeling is the instructor's live demonstration of a cognitive or productive strategy — most commonly in writing instruction — by performing it in front of students while narrating the decisions, false starts, and revisions involved. Unlike a polished exemplar, modeling makes the *process* visible, including the teacher's own difficulty and self-correction. It is the classroom enactment of [Demonstration](../elements/demonstration.md) combined with [Articulation](../elements/articulation.md) of expert thinking.

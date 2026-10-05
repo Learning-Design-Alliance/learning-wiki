@@ -12,14 +12,14 @@ generated:
 # PQP (Praise-Question-Polish)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (3 quant-synthesis, 3 associational), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (4 quant-synthesis, 3 associational), `q2`–`q4` · 4 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 PQP is a structured peer-feedback protocol in which responders react to a peer's draft through three prompts: **Praise** (identify specific praiseworthy elements with examples), **Question** (raise genuine questions the draft leaves unanswered), and **Polish** (offer concrete suggestions for improvement). Typically, group members read drafts aloud while peers follow along with copies, then write comments on a PQP form. The form gives structure, objectivity, and positivity to peer review, converting the vague instruction "give feedback" into three specific, teachable moves.
 
 ## Design Implications
 
-PQP works because it scaffolds the peer-feedback genre: unstructured peer review often produces vague praise ("I liked it") or unactionable criticism, while the three-prompt form elicits specific, evidence-anchored comments. Structured peer feedback is associated with improved writing quality, particularly when feedback includes concrete revision suggestions [Peer feedback improves writing performance, especially when comments are specific and actionable.](../claims/peer-feedback-improves-writing.md) [+M]. Receiving concrete suggestions increases the likelihood that writers actually revise — and revising in response to feedback, not merely receiving it, drives gains [Feedback improves learning primarily when learners use it to revise.](../claims/feedback-use-improves-learning.md) [+M]. Giving feedback also benefits the giver: evaluating a peer's work against criteria deepens the reviewer's own understanding of quality [Peer assessment can benefit the assessor as much as the assessed.](../claims/peer-assessment-benefits-assessor.md) [+M].
+PQP works because it scaffolds the peer-feedback genre: unstructured peer review often produces vague praise ("I liked it") or unactionable criticism, while the three-prompt form elicits specific, evidence-anchored comments. Structured peer feedback is associated with improved writing quality, particularly when feedback includes concrete revision suggestions [Peer feedback improves writing performance, especially when comments are specific and actionable.](../claims/peer-feedback-improves-writing.md) [+M]. Receiving concrete suggestions increases the likelihood that writers actually revise — and revising in response to feedback, not merely receiving it, drives gains [Feedback improves learning primarily when learners use it to revise.](../claims/feedback-improves-learning.md) [+M]. Giving feedback also benefits the giver: evaluating a peer's work against criteria deepens the reviewer's own understanding of quality [Peer assessment can benefit the assessor as much as the assessed.](../claims/peer-assessment-benefits-assessor.md) [+M].
 
 ### Context
 #### Requirements

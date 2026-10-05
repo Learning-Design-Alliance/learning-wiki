@@ -12,7 +12,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 19 studies (11 causal, 4 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (11 causal, 4 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 20 report an effect size · 5 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -43,7 +43,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
-- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
+- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-effect.md) [~S]
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
 - [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
@@ -68,7 +68,7 @@ Worked examples are the element in which learners study complete or partial solu
 
 ### When and how should the examples be withdrawn?
 - **Default:** fade steps out of the example: full worked examples, then completion problems, then independent problems. In Renkl et al. (2002, n = 71), removing worked steps gradually gave better learning and less mental effort than full problem solving or a block of examples followed by a block of problems — [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
-- **Changes when:** learners already hold the schema → reduce or drop full examples, since guidance that helps novices loses its advantage and in several paradigms reverses once learners have domain schemas — [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S], [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
+- **Changes when:** learners already hold the schema → reduce or drop full examples, since guidance that helps novices loses its advantage and in several paradigms reverses once learners have domain schemas — [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S], [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-effect.md) [~S]
 - **Tested with:** university and secondary students in well-structured domains; electrical trainees reading circuit diagrams (Kalyuga et al. 1998).
 - **Not settled:** how fast to fade, and how to tell that a learner has passed the point where examples stop helping. The expertise-reversal pages rest on reviews and abstracts and report no effect sizes, and they note that expertise is specific to each topic, so a learner may need examples again in the next one.
 

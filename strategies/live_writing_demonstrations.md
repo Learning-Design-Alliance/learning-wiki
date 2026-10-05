@@ -12,7 +12,7 @@ generated:
 # Live Writing Demonstrations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 quant-synthesis, 2 causal, 1 review, 1 associational), `q2`–`q4` · 3 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Instructors demonstrate the writing process in real-time, composing text in front of learners while verbalizing their thought process, revisions, and decisions. Using a projector or shared document, the instructor drafts, revises, and sometimes deliberately struggles — making the normally invisible cognitive work of writing observable. Learners observe, critique, and contribute input, turning writing from a private product into a transparent, collaborative process.

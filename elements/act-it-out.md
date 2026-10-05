@@ -12,7 +12,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 9 studies (4 causal, 4 quant-synthesis, 1 review), `q3`–`q4` · 3 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.

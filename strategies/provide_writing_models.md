@@ -12,7 +12,7 @@ generated:
 # Provide Writing Models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (5 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Providing writing models means giving learners access to exemplary (and sometimes flawed) texts — mentor texts, annotated exemplars, or teacher-written drafts — so they can observe how skilled writers handle structure, genre conventions, and craft before producing their own work. The strategy is most effective when models are actively analyzed (what makes this work? why did the writer choose this?) rather than merely read, and when analysis feeds directly into the learner's own drafting.

@@ -34,7 +34,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 13 studies (5 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 13 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 15 studies (6 causal, 2 quant-synthesis, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

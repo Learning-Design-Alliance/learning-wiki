@@ -12,7 +12,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (14 for, 3 mixed, 1 against) · 20 studies (8 quant-synthesis, 7 causal, 3 review, 1 qualitative, 1 design), `q2`–`q4` · 8 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (14 for, 2 mixed, 1 against) · 22 studies (8 quant-synthesis, 7 causal, 4 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 22 report an effect size · 7 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -57,7 +57,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 - [Guided discovery outperforms pure discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Teacher-guided inquiry outperforms student-led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]
-- [Expertise reversal: guidance hurts experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
+- [Expertise reversal: guidance hurts experts](../claims/expertise-reversal-effect.md) [~S]
 - [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
 - [Physical experience enhances science learning](../claims/physical-experience-enhances-science-learning.md) [~M]
@@ -77,7 +77,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 ### How much guidance should learners get inside the simulation?
 - **Default:** give novices structure — goals, prompts, feedback, worked examples — rather than leaving them to discover the model's rules unaided; explicit instruction beat unassisted discovery (d = 0.38, 580 comparisons), while discovery enhanced with feedback, worked examples or scaffolding beat other instruction (d = 0.30) — [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S], [Guided discovery outperforms pure discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - **Default:** in inquiry settings, teacher-led guidance outperformed student-led conditions by about .40 in effect size (37 studies, overall g = .50) — [Teacher-guided inquiry outperforms student-led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+S]
-- **Changes when:** learners already hold the relevant schemas → fade the guidance; formats that help novices lost their advantage, and in several paradigms reversed, for more experienced learners — [Expertise reversal: guidance hurts experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
+- **Changes when:** learners already hold the relevant schemas → fade the guidance; formats that help novices lost their advantage, and in several paradigms reversed, for more experienced learners — [Expertise reversal: guidance hurts experts](../claims/expertise-reversal-effect.md) [~S]
 - **Tested with:** meta-analyses of discovery and inquiry learning (largely school science), 112 third- and fourth-graders learning experimental design, electrical trainees reading circuit diagrams; none of these claims tests guidance levels inside a simulation specifically.
 - **Not settled:** how fast to fade guidance within a simulation, and whether the discovery findings carry over unchanged to interactive models; no wiki claim tests it.
 

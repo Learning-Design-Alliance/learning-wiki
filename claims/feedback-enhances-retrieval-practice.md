@@ -78,6 +78,5 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Pretesting enhances learning from subsequent instruction.](pretesting-enhances-learning.md) — related "errorful generation then correction" mechanism
 - [Spacing improves retention.](spaced-practice-improves-retention.md) — often combined with retrieval and feedback in durable learning designs
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — related
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — related
 - [Overt correction of errors speeds young children's learning compared with knowledge of correctness alone](overt-error-correction-speeds-young-children-learning.md) — related

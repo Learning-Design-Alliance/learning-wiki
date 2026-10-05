@@ -45,6 +45,6 @@ The review reports, citing Butkowsky and Willows (1980), an experimental study m
 ## Related Claims
 - [Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive](ability-attributions-foster-learned-helplessness-in-sport.md) — related
 - [Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors](outcome-consistency-drives-stable-versus-unstable-attributions.md) — related
-- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

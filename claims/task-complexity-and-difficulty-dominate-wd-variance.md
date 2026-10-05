@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sweet-2012
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM"
-    title: "Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM"
+    resource: "https://doi.org/10.5281/zenodo.3554649"
+    title: "Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. [doi:10.5281/zenodo.3554649](https://doi.org/10.5281/zenodo.3554649)"
     author: "Sweet, S. J., & Rupp, A. A."
     q: 2
     i: "?"
@@ -31,7 +31,8 @@ sources:
 
 ### Sweet 2012
 
-Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
+Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. [doi:10.5281/zenodo.3554649](https://doi.org/10.5281/zenodo.3554649)
+<!-- 2026-10-05: replaces a link to the journal homepage (https://jedm.educationaldatamining.org/index.php/JEDM); DOI verified against DataCite (Zenodo deposit of the JEDM article, Sweet & Rupp 2012; Crossref has no record) -->
 
 `q2 · i?` · `causal · r2`
 

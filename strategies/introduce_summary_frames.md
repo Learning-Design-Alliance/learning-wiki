@@ -12,7 +12,7 @@ generated:
 # Introduce Summary Frames
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 review, 2 causal, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Learners read a section of text to themselves before verbally summarizing the passage to a partner or completing sentence frames. Frames are generic text-structure templates — e.g., "_____ wanted _____, but _____, so _____" for problem/solution text, or "_____ happens because _____" for cause/effect — that prompt learners to identify main ideas and the logical connectives that hold a passage together. The strategy combines independent reading, structured oral rehearsal, and generative restatement, all of which force the learner to construct rather than merely recognize meaning.

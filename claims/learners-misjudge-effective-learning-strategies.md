@@ -94,7 +94,6 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the flip side of the fluency trap: strategies that feel easy may not be the ones that manage load well.
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](instructions-increase-self-testing-cumulative-learning.md) — related
-- [Judgments of learning are often inaccurate](judgments-of-learning-inaccurate.md) — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related

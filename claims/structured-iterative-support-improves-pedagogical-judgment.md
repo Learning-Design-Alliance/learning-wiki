@@ -44,7 +44,7 @@ Qualitative design-based case analysis of three teacher candidates' weekly writt
 
 
 ## Related Claims
-- [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related

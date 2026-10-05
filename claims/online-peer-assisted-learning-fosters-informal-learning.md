@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008
-    resource: "https://eric.ed.gov"
-    title: "Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov"
-    author: Online peer assisted learning community model and its application in ZJNU
+  - id: gaofeng-yeyu-2007
+    resource: "https://eric.ed.gov/?id=ED500172"
+    title: "Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)"
+    author: "Gaofeng, R., & Yeyu, L."
     q: 2
     i: "?"
     kind: design
@@ -25,13 +25,14 @@ sources:
 > **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Online peer assisted learning helps form spontaneous groups based on common interests and learning objectives, and with guidance and management these groups advance the learning community in a healthy and positive way. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
+`q2 i?` Online peer assisted learning helps form spontaneous groups based on common interests and learning objectives, and with guidance and management these groups advance the learning community in a healthy and positive way. [→ Online peer assisted learning community model and its application in ZJNU 2008](#gaofeng-yeyu-2007)
 
 ## Evidence
 
-### Online peer assisted learning community model and its application in ZJNU 2008
+### Gaofeng & Yeyu 2007
 
-Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
+<!-- citation corrected 2026-10-05 from the ERIC record for the source this page was fetched from (ED500172, 2007; no Crossref record, so no DOI). Was: Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov -->
+Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
@@ -43,6 +44,6 @@ The article argues, in its theoretical discussion, that "Online peer assisted le
 
 
 ## Related Claims
-- [A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
+- [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — reports the opposite
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on

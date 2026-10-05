@@ -79,8 +79,7 @@ The task-level (sometimes called "task process" or "information") focus of feedb
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a narrower finding that bears on this claim
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — possibly the same claim (merge candidate)
-- [Feedback Improves Learning](feedback-improves-learning.md) — a broader claim this one bears on
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — a broader claim this one bears on
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — a broader claim this one bears on
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
-- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
-- [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim

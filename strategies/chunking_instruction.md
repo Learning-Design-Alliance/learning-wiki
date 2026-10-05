@@ -12,7 +12,7 @@ generated:
 # Chunking Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 review, 2 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
 
 ## Description
 Chunking instruction means dividing content into small, self-contained units — a concept, step, rule, or example — sized so that each can be processed in working memory before moving on. Units are sequenced so that each new chunk builds on previously consolidated ones, and learners are given time or practice to consolidate each chunk before the load accumulates. The strategy treats segmenting, sequencing, and pacing as primary design decisions rather than afterthoughts.

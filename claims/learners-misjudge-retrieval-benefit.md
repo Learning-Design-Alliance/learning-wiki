@@ -62,7 +62,7 @@ A review of self-regulated learning covering the metacognitive illusions that go
 
 ## Discussion
 
-**The metacognitive mismatch.** Learners tend to judge learning from the fluency of the current moment: rereading a passage feels smooth and productive, while attempting retrieval feels effortful and error-prone. Because perceived fluency is a poor proxy for durable learning, learners frequently select restudying over testing even when testing would produce substantially better delayed retention [-M]. This is a core instance of the broader illusion-of-knowing problem described under [Fluency is a poor cue for actual learning.](fluent-illusions-mislead-self-assessment.md) and connects to [Learners' judgments of learning are often inaccurate.](judgments-of-learning-inaccurate.md).
+**The metacognitive mismatch.** Learners tend to judge learning from the fluency of the current moment: rereading a passage feels smooth and productive, while attempting retrieval feels effortful and error-prone. Because perceived fluency is a poor proxy for durable learning, learners frequently select restudying over testing even when testing would produce substantially better delayed retention [-M]. This is a core instance of the broader illusion-of-knowing problem described under [Fluency is a poor cue for actual learning.](fluent-illusions-mislead-self-assessment.md) and connects to [Learners' judgments of learning are often inaccurate.](fluent-illusions-mislead-self-assessment.md).
 
 **Consequences for study behavior.** When learners misjudge retrieval benefit, they allocate study time inefficiently — dropping self-testing early, massing restudy instead of spacing, and terminating study prematurely once material feels familiar [-M]. This undermines strategies that depend on learner-managed practice, such as [retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) and [spaced practice outperforms massed practice.](spaced-practice-improves-retention.md). The misjudgment also inverts the usual assumption behind learner-controlled environments: giving students more choice over study strategy can actively hurt retention when their strategy preferences are miscalibrated [-M].
 
@@ -74,8 +74,7 @@ A review of self-regulated learning covering the metacognitive illusions that go
 
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the strategy learners underestimate
 - [Spaced practice outperforms massed practice.](spaced-practice-improves-retention.md) — another effective schedule learners tend to avoid
-- [Learners' judgments of learning are often inaccurate.](judgments-of-learning-inaccurate.md) — the general metacognitive mechanism
-- [Fluency is a poor cue for actual learning.](fluent-illusions-mislead-self-assessment.md) — why restudying feels productive but isn't
+- [Learners' judgments of learning are often inaccurate.](fluent-illusions-mislead-self-assessment.md) — the general metacognitive mechanism
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](predicting-contextual-analysis-rereading-most-frequent.md) — related

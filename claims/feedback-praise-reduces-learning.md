@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Feedback Praise Reduces Learning
+title: "Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,15 @@ sources:
     rigour: "?"
 ---
 
-# Feedback Praise Reduces Learning
+# Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Feedback Praise Reduces Learning -->
 
-Praise embedded in instructional feedback — especially person-directed praise ("you're so smart") and praise unrelated to the task — can undermine learning by diverting attention from the work, reinforcing fixed self-perceptions, and diluting the informational content of feedback. The claim is scoped to praise as a component of feedback on academic work; it does not assert that praise harms motivation or relationships in all contexts.
+Both recorded entries concern person- or ability-oriented praise ("You must be smart at these problems") given to children after success, and its effects once the children later fail: one set of experiments with fifth graders (Mueller & Dweck 1998) and one narrative review (Henderlong & Lepper 2002). Neither tests praise in general, praise as a component of feedback on academic work, or learning outcomes beyond performance on the problem set after failure; the review finds sincere process or effort praise can enhance motivation, and that the harm of person praise is moderated by age and gender.
+
+<!-- deprecated 2026-10-05 (broader than the entries): Praise embedded in instructional feedback — especially person-directed praise ("you're so smart") and praise unrelated to the task — can undermine learning by diverting attention from the work, reinforcing fixed self-perceptions, and diluting the informational content of feedback. The claim is scoped to praise as a component of feedback on academic work; it does not assert that praise harms motivation or relationships in all contexts. -->
 
 ## Subclaims
 
@@ -67,7 +70,7 @@ A narrative review and synthesis of the experimental literature on praise and ch
 
 **Constraints on the claim.** The claim should not be read as "all praise harms learning." Conditions under which the predicted negative effect weakens or reverses include: (a) praise that specifies the strategy or criterion being reinforced, which effectively becomes informational feedback; (b) early-grade contexts where praise functions primarily to sustain engagement and teacher–student rapport rather than to convey performance judgments; and (c) low-frequency praise embedded in otherwise substantive feedback, where the informational content dominates. The negative effect is most plausible when praise crowds out task information, targets the person's ability, or is delivered publicly in ways that invite social comparison. [-W] These constraints mean the claim holds only for a narrow band of praise use; designers should treat praise-heavy feedback as a risk condition, not a universal harm.
 
-**Open questions.** The precise dose–response relationship between praise frequency and learning outcomes, and whether process praise produces measurable learning gains (as opposed to merely avoiding harm), remain contested in the literature. Until controlled studies are added to the Evidence section above, this claim should be treated as a well-motivated theoretical prediction rather than an empirically established effect.
+**Open questions.** The precise dose–response relationship between praise frequency and learning outcomes, and whether process praise produces measurable learning gains (as opposed to merely avoiding harm), remain contested in the literature. The Evidence section records one set of experiments (Mueller & Dweck 1998) and one narrative review (Henderlong & Lepper 2002), both on person or ability praise followed by failure; the broader mechanisms above (informational dilution, crowding out of task focus) are not tested by either, and no recorded study measures learning gains from or against praise in routine feedback. <!-- deprecated 2026-10-05 (stale): Until controlled studies are added to the Evidence section above, this claim should be treated as a well-motivated theoretical prediction rather than an empirically established effect. -->
 
 ## Related Claims
 
@@ -81,7 +84,7 @@ A narrative review and synthesis of the experimental literature on praise and ch
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
-- [Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
 - [Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance](technology-use-right-tool-right-objective.md) — a broader claim this one bears on

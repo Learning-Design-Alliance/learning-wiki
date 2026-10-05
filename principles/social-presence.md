@@ -60,7 +60,7 @@ Social presence is one of three presences in the [Community of Inquiry](communit
 <!-- TODO: add claim links when evidence pages exist -->
 - Social presence correlates with satisfaction and perceived learning in online courses [+S] (Richardson et al., 2017 meta-analysis)
 - Instructor social presence behaviors (responsiveness, personal communication) improve online learner outcomes [+M]
-- [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M] — relational quality underpins the trust that social presence design aims to build
+- [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M] — relational quality underpins the trust that social presence design aims to build
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence

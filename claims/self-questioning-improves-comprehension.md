@@ -67,7 +67,7 @@ This review examined 35 experimental research studies that taught self-questioni
 
 **Instructional design implications.** Effective implementations typically (a) model question generation before asking learners to do it independently — the core move in reciprocal teaching, where the "questioner" role is one of several strategies modeled by the teacher; (b) provide question stems or prompts early and fade them as learners internalize the strategy; and (c) build question generation into the reading cycle itself (before, during, and after reading) rather than treating it as a post-hoc quiz. Self-questioning also functions as a comprehension-monitoring device: a learner who cannot answer their own question has located a gap, which can trigger rereading or help-seeking — a link to the broader self-regulated learning literature.
 
-**Open questions.** The two reviews recorded above support the claim; only one reports an effect size (median d = 0.36 on standardized tests). Until then, the strength of this claim should be treated as provisional despite its long history in the reading-comprehension literature.
+**Open questions.** The two reviews recorded above support the claim; only one reports an effect size (median d = 0.36 on standardized tests, 0.86 on experimenter-made tests), and both were read at abstract level. Until the full texts or a pooled estimate across studies are recorded, the strength of this claim should be treated as provisional despite its long history in the reading-comprehension literature. <!-- deprecated (2026-10-05, dangling sentence): Until then, the strength of this claim should be treated as provisional despite its long history in the reading-comprehension literature. -->
 
 ## Related Claims
 

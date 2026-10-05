@@ -43,8 +43,7 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 
 
 ## Related Claims
-- [Learner-centered teacher–student relationships are associated with better student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — related
-- [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
-- [SEL Programs Improve Academic Achievement](sel-programs-improve-academic-achievement.md) — related
+- [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — related
+- [SEL Programs Improve Academic Achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related

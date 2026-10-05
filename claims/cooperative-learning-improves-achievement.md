@@ -94,7 +94,7 @@ Open questions include how effects scale in online and hybrid settings, where in
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — a broader claim this one bears on
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a narrower finding that bears on this claim
 - [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](johnson-meta-analysis-cooperative-achievement.md) — a broader claim this one bears on
-- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — related
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
 - [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related

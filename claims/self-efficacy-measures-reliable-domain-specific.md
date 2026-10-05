@@ -14,7 +14,7 @@ sources:
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
     q: 2
-    i: 1
+    i: "?"
     kind: review
     rigour: 2
   - id: schunk-1996-2
@@ -30,7 +30,7 @@ sources:
 # Self-efficacy measures show high reliability and domain-specific validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Internal consistency coefficients of self-efficacy measures have generally been high, ranging from .62 to .94, and test-retest coefficients ranged from .79 to .92 across domains. [→ Schunk 1996](#schunk-1996)
@@ -42,7 +42,7 @@ sources:
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q2 · i1` · `review · r2`
+`q2 · i? · reliability coefficients (internal consistency .62–.94, test-retest .79–.92) are not effect sizes` · `review · r2`
 
 Measurement issues section reviewing internal consistency coefficients across studies (Pajares & Kranzler, 1995; Schunk & Swartz, 1993; others), plus test-retest coefficients such as r = .85 for division of whole numbers and r = .92 for writing of paragraphs.
 

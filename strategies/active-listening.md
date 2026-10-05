@@ -19,7 +19,7 @@ Active listening is a deliberate practice in which the listener gives full atten
 
 ## Design Implications
 
-Active listening functions as a learning strategy because it improves the quality of information exchange in dialogue: listeners who paraphrase and probe elicit more elaborated explanations from speakers, and speakers who feel heard produce more detailed reasoning. It also models [Articulation](../elements/articulation.md) — restating another's idea in one's own words is a form of elaborative encoding for the listener [~M]. In classroom settings, its largest documented effects are relational: teacher active listening is a core component of the student–teacher relationship quality that predicts engagement and achievement [Learner-centered teacher–student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M].
+Active listening functions as a learning strategy because it improves the quality of information exchange in dialogue: listeners who paraphrase and probe elicit more elaborated explanations from speakers, and speakers who feel heard produce more detailed reasoning. It also models [Articulation](../elements/articulation.md) — restating another's idea in one's own words is a form of elaborative encoding for the listener [~M]. In classroom settings, its largest documented effects are relational: teacher active listening is a core component of the student–teacher relationship quality that predicts engagement and achievement [Learner-centered teacher–student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Active listening functions as a learning strategy because it improves the qualit
 - **Listening in assessment:** [Check-Ins](../elements/check-in.md) and conferences where the teacher's goal is understanding learner thinking, not evaluating it
 
 ### Target Learners
-- Learners who struggle to feel heard or are disengaged — relational listening is the mechanism behind relationship effects on motivation [Learner-centered teacher–student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M]
+- Learners who struggle to feel heard or are disengaged — relational listening is the mechanism behind relationship effects on motivation [Learner-centered teacher–student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M]
 - Multilingual learners and students processing ideas in a second language, who benefit from a listener who confirms meaning before moving on [~M]
 - Peer tutors and discussion leaders, for whom listening quality determines the quality of help they give
 

@@ -12,14 +12,14 @@ generated:
 # Peer Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 quant-synthesis, 3 review, 1 causal), `q2`–`q3` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 3 review, 1 causal), `q2`–`q3` · 3 of 7 report an effect size
 
 ## Description
 Peer teaching places learners in the instructional role: they explain material, answer questions, diagnose misunderstandings, and give feedback to classmates. Common formats include reciprocal tutoring, jigsaw arrangements, cross-age tutoring, and structured "teach-back" activities. The strategy exploits the fact that preparing to teach — and teaching itself — forces reorganization, elaboration, and monitoring of one's own understanding.
 
 ## Design Implications
 
-Peer teaching benefits both parties, but the larger and more reliable gains often accrue to the *tutor*, who must retrieve, organize, and articulate knowledge [Learning by teaching improves both tutor and tutee learning.](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. The mechanism is generative processing: expecting to teach and actually teaching drive learners to engage in elaboration and self-monitoring that passive study does not [Teaching others is a more effective generative strategy than studying for oneself.](../claims/teaching-others-generative-strategy.md) [+M]. Tutees benefit most when tutoring is structured — with protocols, role scripts, and [Feedback](../elements/feedback.md) routines — rather than left to unguided interaction [Cooperative learning works when group rewards are paired with individual accountability.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S].
+Peer teaching benefits both parties, but the larger and more reliable gains often accrue to the *tutor*, who must retrieve, organize, and articulate knowledge [Learning by teaching improves both tutor and tutee learning.](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. The mechanism is generative processing: expecting to teach and actually teaching drive learners to engage in elaboration and self-monitoring that passive study does not [Teaching others is a more effective generative strategy than studying for oneself.](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]. Tutees benefit most when tutoring is structured — with protocols, role scripts, and [Feedback](../elements/feedback.md) routines — rather than left to unguided interaction [Cooperative learning works when group rewards are paired with individual accountability.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S].
 
 ### Context
 #### Requirements

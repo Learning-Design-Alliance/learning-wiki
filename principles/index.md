@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**468 entries** · 0 stable · 130 in review · 338 drafts
+**467 entries** · 0 stable · 129 in review · 338 drafts
 
 ---
 
@@ -73,7 +73,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Explicit Instruction: Internet Search](explicit-instruction-internet-search.md) - Teaching learners how to effectively search the internet is critical for helping them learn how to find accurate and relevant information and aids in developing information literacy.
 * [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) - Direct instruction in math strategies may support some adult learners once conceptual understanding is in place.
 * [Explicit Instruction: Online Reading Strategies](explicit-instruction-online-reading-strategies.md) - Research shows that, along with traditional reading comprehension strategies, learners use unique strategies to read the non-linear, hyperlinked structure of online texts.
-* [Explicit Instruction: Phonics](explicit-instruction-phonics.md) - Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness, can benefit from explicit phonics instruction.
 * [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) - Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition.
 
 #### F {: #letter-f }

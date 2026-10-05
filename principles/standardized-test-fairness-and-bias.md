@@ -47,8 +47,8 @@ Whether standardized tests are biased against particular social class, racial, o
 ## Claims
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](../claims/mit-lower-sat-math-scores-equal-performance.md) [+W]
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](../claims/sat-underpredicts-girls-performance.md) [+W]
-- [Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
-- [Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures](../claims/male-oriented-item-content-biases-test-scores.md) [+W]
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
+- [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](../claims/male-oriented-item-content-biases-test-scores.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

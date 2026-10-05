@@ -14,7 +14,7 @@ sources:
     title: "Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866"
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
   - id: z-gao-2024-2
@@ -22,7 +22,7 @@ sources:
     title: "Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866"
     author: Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -30,11 +30,11 @@ sources:
 # Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i2` Under busy load, around 65% of students receive help with NSF versus around 54% with the other three strategies (p<0.01). [→ Z. Gao 2024](#z-gao-2024)
-`q2 i2` Under normal load, NSF raises the percentage of students receiving at least one help from 70% (FCFS) to 82% (p<0.01). [→ Z. Gao 2024 (2)](#z-gao-2024-2)
+`q2 i?` Under busy load, around 65% of students receive help with NSF versus around 54% with the other three strategies (p<0.01). [→ Z. Gao 2024](#z-gao-2024)
+`q2 i?` Under normal load, NSF raises the percentage of students receiving at least one help from 70% (FCFS) to 82% (p<0.01). [→ Z. Gao 2024 (2)](#z-gao-2024-2)
 
 ## Evidence
 
@@ -42,7 +42,7 @@ sources:
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i2` · `causal · r1`
+`q2 · i? · no effect size: the entry prints simulated percentages helped (about 65% NSF vs 54%) and p<0.01` · `causal · r1`
 
 Simulation of a busy-load queue (λ = 0.15) repeated 100 times per condition, evaluated with Mann–Whitney U tests. The busy-load results show "around 65% of the students would receive help" under NSF versus around 54% under the other strategies, a significant difference (p<0.01).
 
@@ -52,7 +52,7 @@ Simulation of a busy-load queue (λ = 0.15) repeated 100 times per condition, ev
 
 Z. Gao, G. S. de Oliveira, D. Babalola, C. Lynch, and S. Heckman. (2024). Who should i help next? simulation of office hours queue scheduling strategy in a cs2 course. Proceedings of the 17th International Conference on Educational Data Mining. https://doi.org/10.5281/zenodo.12729866
 
-`q2 · i2` · `causal · r1`
+`q2 · i? · no effect size: the entry prints simulated percentages helped (82% NSF vs 70% FCFS) and p<0.01` · `causal · r1`
 
 Normal-load simulation (λ = 0.10) comparing FCFS and NSF on percentage of students receiving help. The normal-load results show the helped-student percentage "would increase to 82%" under NSF versus 70% under FCFS, significant at p<0.01.
 
@@ -64,4 +64,4 @@ Normal-load simulation (λ = 0.10) comparing FCFS and NSF on percentage of stude
 ## Related Claims
 - [The NSF advantage over FCFS appears only above an arrival-rate threshold (λ > 0.06); under relaxed queues no strategy makes a difference](arrival-rate-threshold-nsf-advantage.md) — related
 - [Code commit features before a help request show no correlation with interaction time, and commit-based scheduling strategies perform no better than FCFS](code-commit-features-no-correlation-interaction-time.md) — related
-- [Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time](scheduling-strategy-no-effect-resolved-requests-wait-time.md) — reports the opposite
+- [Choice of scheduling strategy does not significantly affect the number of resolved requests or students' overall wait time](scheduling-strategy-no-effect-resolved-requests-wait-time.md) — related: different outcome (resolved requests and wait time, not percentage of students helped); same simulation <!-- relabelled 2026-10-05: was "reports the opposite" -->

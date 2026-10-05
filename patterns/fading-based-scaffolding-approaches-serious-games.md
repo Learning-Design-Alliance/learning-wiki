@@ -17,7 +17,7 @@ sources:
 # Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies (3 review, 2 causal), `q1`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper enumerates three scaffolding approaches based on fading, drawn from Jackson et al. (1998). "As supportive scaffolding fades, the task is the same as it was before, but the goal is for the learner to have internalized the procedures and concepts which had been scaffolded". In intrinsic scaffolding the task changes as the scaffold fades, gradually introducing underlying complexity. Reflective scaffolding makes reflection explicit by eliciting articulation, for example player-character conversation with an NPC, faded by gradually disabling conversations from most to least helpful.
@@ -42,7 +42,7 @@ The paper enumerates three scaffolding approaches based on fading, drawn from Ja
 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
 - [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](../claims/blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) [~W]
-- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](../claims/expertise-reversal-effect-redundant-support-harms-experts.md) [~W]
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](../claims/expertise-reversal-effect.md) [~W]
 
 ## Related Patterns
 

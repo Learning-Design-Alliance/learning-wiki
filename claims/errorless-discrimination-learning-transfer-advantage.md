@@ -44,4 +44,4 @@ The paper reports Terrace's errorless-learning demonstrations with pigeons on re
 
 ## Related Claims
 - [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](trainee-experience-moderates-aiding-transfer.md) — related
-- [Pretraining Improves Transfer](pretraining-improves-transfer.md) — related
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related

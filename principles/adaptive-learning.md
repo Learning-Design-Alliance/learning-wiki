@@ -12,7 +12,7 @@ generated:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (5 for, 4 mixed, 2 against) · 19 studies (7 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 19 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (5 for, 4 mixed, 2 against) · 21 studies (8 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 

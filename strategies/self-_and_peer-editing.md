@@ -47,7 +47,7 @@ Editing as a formative activity improves writing quality when it is criterion-re
 - English language learners benefit from seeing how peers solved the same genre demands, though checklists must use [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) [+M]
 
 ### Target Learning Goals
-- Self-regulation of writing: planning, monitoring, and evaluating one's own text [Self-regulated learning strategies improve writing outcomes.](../claims/self-regulated-learning-strategies-improve-writing.md) [+S]
+- Self-regulation of writing: planning, monitoring, and evaluating one's own text [Self-regulated learning strategies improve writing outcomes.](../claims/strategy-instruction-improves-writing-quality.md) [+S]
 - Application of genre and convention knowledge through analytical reading of others' work
 - Collaborative critique and academic discourse skills
 

@@ -43,7 +43,7 @@ Null comparison across Styles 2-5 and the prior ideal implementation on momentum
 
 
 ## Related Claims
-- [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied](computer-based-tutorial-implementation-lowest-posttest.md) — related
+- [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation](computer-based-tutorial-implementation-lowest-posttest.md) — related
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) — related
 - [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related
 - [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy, unsummarized checkpoints may leave students without clear understanding](socratic-dialogue-needs-efficiency-and-summaries.md) — related

@@ -1,12 +1,12 @@
 {
  "counts": {
-  "claim": 3404,
+  "claim": 3393,
   "design": 115,
   "element": 733,
   "learner-variable": 12,
   "method": 38,
   "pattern": 139,
-  "principle": 468,
+  "principle": 467,
   "process": 18,
   "strategy": 3184,
   "theory": 946
@@ -2296,12 +2296,12 @@
    "type": "claim"
   },
   {
-   "description": "A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning",
+   "description": "A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning",
    "evidence_strength": "weak",
    "id": "blended-peer-assisted-learning-experiment-effective-at-zjnu",
    "path": "claims/blended-peer-assisted-learning-experiment-effective-at-zjnu.md",
    "status": "draft",
-   "title": "A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning",
+   "title": "A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning",
    "type": "claim"
   },
   {
@@ -4030,7 +4030,7 @@
    "id": "cognitive-disequilibrium-motivates-conceptual-change",
    "path": "claims/cognitive-disequilibrium-motivates-conceptual-change.md",
    "status": "draft",
-   "title": "Cognitive disequilibrium motivates conceptual change",
+   "title": "Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism",
    "type": "claim"
   },
   {
@@ -4611,12 +4611,12 @@
    "type": "claim"
   },
   {
-   "description": "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied",
+   "description": "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation",
    "evidence_strength": "moderate",
    "id": "computer-based-tutorial-implementation-lowest-posttest",
    "path": "claims/computer-based-tutorial-implementation-lowest-posttest.md",
    "status": "draft",
-   "title": "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied",
+   "title": "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation",
    "type": "claim"
   },
   {
@@ -5824,12 +5824,12 @@
    "type": "claim"
   },
   {
-   "description": "Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased",
+   "description": "A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background",
    "evidence_strength": "weak",
    "id": "culturally-diverse-underrepresentation-biased-measures",
    "path": "claims/culturally-diverse-underrepresentation-biased-measures.md",
    "status": "draft",
-   "title": "Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased",
+   "title": "A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background",
    "type": "claim"
   },
   {
@@ -8622,30 +8622,16 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "expertise-reversal-guidance-hurts-experts",
+    "expertise-reversal-effect-redundant-support-harms-experts"
+   ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "expertise-reversal-effect",
    "path": "claims/expertise-reversal-effect.md",
    "status": "review",
    "title": "Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.",
-   "type": "claim"
-  },
-  {
-   "description": "Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience",
-   "evidence_strength": "weak",
-   "id": "expertise-reversal-effect-redundant-support-harms-experts",
-   "path": "claims/expertise-reversal-effect-redundant-support-harms-experts.md",
-   "status": "draft",
-   "title": "Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "expertise-reversal-guidance-hurts-experts",
-   "path": "claims/expertise-reversal-guidance-hurts-experts.md",
-   "status": "draft",
-   "title": "Expertise Reversal Guidance Hurts Experts",
    "type": "claim"
   },
   {
@@ -8811,12 +8797,12 @@
    "type": "claim"
   },
   {
-   "description": "Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing",
+   "description": "A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation",
    "evidence_strength": "weak",
    "id": "explicit-tasks-standards-boost-writing-motivation",
    "path": "claims/explicit-tasks-standards-boost-writing-motivation.md",
    "status": "draft",
-   "title": "Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing",
+   "title": "A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation",
    "type": "claim"
   },
   {
@@ -9367,14 +9353,15 @@
   },
   {
    "aliases": [
-    "feedback-improves-learning-outcomes"
+    "feedback-improves-learning-outcomes",
+    "feedback-use-improves-learning"
    ],
    "description": "",
    "evidence_strength": "moderate",
    "id": "feedback-improves-learning",
    "path": "claims/feedback-improves-learning.md",
    "status": "draft",
-   "title": "Feedback Improves Learning",
+   "title": "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance",
    "type": "claim"
   },
   {
@@ -9408,7 +9395,7 @@
    "id": "feedback-praise-reduces-learning",
    "path": "claims/feedback-praise-reduces-learning.md",
    "status": "draft",
-   "title": "Feedback Praise Reduces Learning",
+   "title": "Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure",
    "type": "claim"
   },
   {
@@ -9427,14 +9414,6 @@
    "path": "claims/feedback-quality-satisfaction-not-srl.md",
    "status": "draft",
    "title": "AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "feedback-use-improves-learning",
-   "path": "claims/feedback-use-improves-learning.md",
-   "status": "draft",
-   "title": "Feedback improves learning, with a medium average effect that varies widely by feedback type",
    "type": "claim"
   },
   {
@@ -9738,7 +9717,8 @@
    "aliases": [
     "fluency-judgments-mislead-learners",
     "fluency-poor-cue-learning",
-    "illusion-of-knowing"
+    "illusion-of-knowing",
+    "judgments-of-learning-inaccurate"
    ],
    "description": "",
    "id": "fluent-illusions-mislead-self-assessment",
@@ -13568,15 +13548,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "judgments-of-learning-inaccurate",
-   "path": "claims/judgments-of-learning-inaccurate.md",
-   "status": "draft",
-   "title": "Judgments of learning are often inaccurate",
-   "type": "claim"
-  },
-  {
    "description": "Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions",
    "evidence_strength": "moderate",
    "id": "junction-tree-em-linear-complexity-occasions",
@@ -14306,15 +14277,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "learner-centered-teacher-student-relationships-are-effective",
-   "path": "claims/learner-centered-teacher-student-relationships-are-effective.md",
-   "status": "draft",
-   "title": "Learner-centered teacher\u2013student relationships are associated with better student outcomes",
-   "type": "claim"
-  },
-  {
    "description": "Learner-centeredness is a universal theme across SLA theories and language teaching methods",
    "evidence_strength": "weak",
    "id": "learner-centeredness-universal-theme-sla",
@@ -14477,7 +14439,8 @@
   {
    "aliases": [
     "learning-by-teaching-improves-learning",
-    "learning-by-teaching-improves-mastery"
+    "learning-by-teaching-improves-mastery",
+    "teaching-others-generative-strategy"
    ],
    "description": "",
    "id": "learning-by-teaching-improves-tutor-learning",
@@ -15238,12 +15201,12 @@
    "type": "claim"
   },
   {
-   "description": "LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity",
+   "description": "LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information",
    "evidence_strength": "moderate",
    "id": "lou-interview-validated-against-ethnography",
    "path": "claims/lou-interview-validated-against-ethnography.md",
    "status": "draft",
-   "title": "LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity",
+   "title": "LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information",
    "type": "claim"
   },
   {
@@ -15526,12 +15489,12 @@
    "type": "claim"
   },
   {
-   "description": "Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures",
+   "description": "Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures",
    "evidence_strength": "weak",
    "id": "male-oriented-item-content-biases-test-scores",
    "path": "claims/male-oriented-item-content-biases-test-scores.md",
    "status": "draft",
-   "title": "Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures",
+   "title": "Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures",
    "type": "claim"
   },
   {
@@ -19930,6 +19893,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "phonological-awareness-training-improves-reading"
+   ],
    "description": "",
    "evidence_strength": "undetermined",
    "id": "phonemic-awareness-training-improves-reading",
@@ -19943,7 +19909,7 @@
    "id": "phonics-instruction-outperforms-whole-word-for-generalization",
    "path": "claims/phonics-instruction-outperforms-whole-word-for-generalization.md",
    "status": "draft",
-   "title": "Phonics Instruction Outperforms Whole Word For Generalization",
+   "title": "Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested",
    "type": "claim"
   },
   {
@@ -19953,15 +19919,6 @@
    "path": "claims/phonological-automatization-improves-esp-reading-comprehension.md",
    "status": "draft",
    "title": "Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "unrated",
-   "id": "phonological-awareness-training-improves-reading",
-   "path": "claims/phonological-awareness-training-improves-reading.md",
-   "status": "draft",
-   "title": "Phonological Awareness Training Improves Reading",
    "type": "claim"
   },
   {
@@ -20845,12 +20802,13 @@
    "id": "pretesting-can-harm-motivation",
    "path": "claims/pretesting-can-harm-motivation.md",
    "status": "draft",
-   "title": "Pretesting Can Harm Motivation",
+   "title": "Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it",
    "type": "claim"
   },
   {
    "aliases": [
-    "pretesting-improves-retention"
+    "pretesting-improves-retention",
+    "retrieval-fails-without-encoding"
    ],
    "description": "",
    "evidence_strength": "weak",
@@ -20861,20 +20819,14 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "pretraining-principle-increased-learning-outcomes"
+   ],
    "description": "",
    "id": "pretraining-improves-transfer",
    "path": "claims/pretraining-improves-transfer.md",
    "status": "draft",
-   "title": "Pretraining Improves Transfer",
-   "type": "claim"
-  },
-  {
-   "description": "Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge",
-   "evidence_strength": "weak",
-   "id": "pretraining-principle-increased-learning-outcomes",
-   "path": "claims/pretraining-principle-increased-learning-outcomes.md",
-   "status": "draft",
-   "title": "Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge",
+   "title": "Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies",
    "type": "claim"
   },
   {
@@ -21103,12 +21055,12 @@
    "type": "claim"
   },
   {
-   "description": "Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding",
+   "description": "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve",
    "evidence_strength": "moderate",
    "id": "probing-feedback-revise-resubmit-evidence",
    "path": "claims/probing-feedback-revise-resubmit-evidence.md",
    "status": "draft",
-   "title": "Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding",
+   "title": "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve",
    "type": "claim"
   },
   {
@@ -21406,12 +21358,12 @@
    "type": "claim"
   },
   {
-   "description": "Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models",
+   "description": "Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies",
    "evidence_strength": "moderate",
    "id": "proximal-goals-feedback-peer-models-build-learning-efficacy",
    "path": "claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md",
    "status": "draft",
-   "title": "Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models",
+   "title": "Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies",
    "type": "claim"
   },
   {
@@ -22727,14 +22679,6 @@
   },
   {
    "description": "",
-   "id": "retrieval-fails-without-encoding",
-   "path": "claims/retrieval-fails-without-encoding.md",
-   "status": "draft",
-   "title": "Retrieval Fails Without Encoding",
-   "type": "claim"
-  },
-  {
-   "description": "",
    "id": "retrieval-failure-reduces-benefit",
    "path": "claims/retrieval-failure-reduces-benefit.md",
    "status": "draft",
@@ -23752,24 +23696,17 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "sel-programs-improve-academic-achievement",
-   "path": "claims/sel-programs-improve-academic-achievement.md",
-   "status": "draft",
-   "title": "SEL Programs Improve Academic Achievement",
-   "type": "claim"
-  },
-  {
    "aliases": [
     "social-emotional-learning-improves-achievement",
-    "social-emotional-learning-programs-improve-achievement"
+    "social-emotional-learning-programs-improve-achievement",
+    "sel-programs-improve-academic-achievement"
    ],
    "description": "",
    "evidence_strength": "pending",
    "id": "sel-programs-improve-behavior-and-achievement",
    "path": "claims/sel-programs-improve-behavior-and-achievement.md",
    "status": "draft",
-   "title": "SEL Programs Improve Behavior And Achievement",
+   "title": "Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement",
    "type": "claim"
   },
   {
@@ -24181,14 +24118,6 @@
    "path": "claims/self-regulated-learning-predicts-achievement.md",
    "status": "draft",
    "title": "Self Regulated Learning Predicts Achievement",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "self-regulated-learning-strategies-improve-writing",
-   "path": "claims/self-regulated-learning-strategies-improve-writing.md",
-   "status": "draft",
-   "title": "Self-regulated learning strategy instruction improves writing outcomes",
    "type": "claim"
   },
   {
@@ -26175,7 +26104,8 @@
   {
    "aliases": [
     "explicit-writing-strategy-instruction-improves-writing",
-    "writing-strategy-instruction-improves-writing-quality"
+    "writing-strategy-instruction-improves-writing-quality",
+    "self-regulated-learning-strategies-improve-writing"
    ],
    "description": "",
    "id": "strategy-instruction-improves-writing-quality",
@@ -26382,7 +26312,7 @@
    "id": "structured-literacy-interventions-help-struggling-readers",
    "path": "claims/structured-literacy-interventions-help-struggling-readers.md",
    "status": "draft",
-   "title": "Structured Literacy Interventions Help Struggling Readers",
+   "title": "Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects",
    "type": "claim"
   },
   {
@@ -27977,7 +27907,8 @@
   },
   {
    "aliases": [
-    "teacher-student-relationships-improve-engagement-and-achievement"
+    "teacher-student-relationships-improve-engagement-and-achievement",
+    "learner-centered-teacher-student-relationships-are-effective"
    ],
    "description": "",
    "id": "teacher-student-relationships-improve-engagement",
@@ -28173,15 +28104,6 @@
    "path": "claims/teaching-games-for-understanding-improves-tactical-decision-making.md",
    "status": "draft",
    "title": "Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "evidence_strength": "weak",
-   "id": "teaching-others-generative-strategy",
-   "path": "claims/teaching-others-generative-strategy.md",
-   "status": "draft",
-   "title": "Teaching Others Generative Strategy",
    "type": "claim"
   },
   {
@@ -40504,14 +40426,6 @@
    "type": "principle"
   },
   {
-   "description": "Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness, can benefit from explicit phonics instruction.",
-   "id": "explicit-instruction-phonics",
-   "path": "principles/explicit-instruction-phonics.md",
-   "status": "review",
-   "title": "Explicit Instruction: Phonics",
-   "type": "principle"
-  },
-  {
    "description": "Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition.",
    "id": "explicit-instruction-vocabulary",
    "path": "principles/explicit-instruction-vocabulary.md",
@@ -41761,6 +41675,9 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "explicit-instruction-phonics"
+   ],
    "description": "For a beginning reader who cannot yet turn print into sound, explicit teaching of letter\u2013sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching.",
    "id": "phonics",
    "path": "principles/phonics.md",
@@ -77244,8 +77161,8 @@
    "expertise-domain-specific-not-general": "expertise-domain-specific-not-general",
    "expertise-levels-no-difference-teaching-indicators": "expertise-levels-no-difference-teaching-indicators",
    "expertise-reversal-effect": "expertise-reversal-effect",
-   "expertise-reversal-effect-redundant-support-harms-experts": "expertise-reversal-effect-redundant-support-harms-experts",
-   "expertise-reversal-guidance-hurts-experts": "expertise-reversal-guidance-hurts-experts",
+   "expertise-reversal-effect-redundant-support-harms-experts": "expertise-reversal-effect",
+   "expertise-reversal-guidance-hurts-experts": "expertise-reversal-effect",
    "experts-attend-to-atypical-events": "experts-attend-to-atypical-events",
    "experts-counteract-automaticity-mental-representations": "experts-counteract-automaticity-mental-representations",
    "experts-discern-importance-of-classroom-events": "experts-discern-importance-of-classroom-events",
@@ -77336,7 +77253,7 @@
    "feedback-praise-reduces-learning": "feedback-praise-reduces-learning",
    "feedback-quality-motivation-mediated-srl-path": "feedback-quality-motivation-mediated-srl-path",
    "feedback-quality-satisfaction-not-srl": "feedback-quality-satisfaction-not-srl",
-   "feedback-use-improves-learning": "feedback-use-improves-learning",
+   "feedback-use-improves-learning": "feedback-improves-learning",
    "felt-needs-require-data-verification": "felt-needs-require-data-verification",
    "female-korean-immigrants-better-adjustment-than-males": "female-korean-immigrants-better-adjustment-than-males",
    "female-principals-empower-others-shared-ownership": "female-principals-empower-others-shared-ownership",
@@ -77809,7 +77726,7 @@
    "jtpa-self-monitoring-pilot-1988-89": "jtpa-self-monitoring-pilot-1988-89",
    "jtpa-self-monitoring-purposes": "jtpa-self-monitoring-purposes",
    "judges-perceive-ceda-ndt-work-exceeds-parliamentary-work": "judges-perceive-ceda-ndt-work-exceeds-parliamentary-work",
-   "judgments-of-learning-inaccurate": "judgments-of-learning-inaccurate",
+   "judgments-of-learning-inaccurate": "fluent-illusions-mislead-self-assessment",
    "junction-tree-em-linear-complexity-occasions": "junction-tree-em-linear-complexity-occasions",
    "justice-oriented-youth-maker-programs-support-critical-identity-and-resistance": "justice-oriented-youth-maker-programs-support-critical-identity-and-resistance",
    "k0-intersection-item-deletion-criterion": "k0-intersection-item-deletion-criterion",
@@ -77892,7 +77809,7 @@
    "leadership-strongest-predictor-vietnamese-governance": "leadership-strongest-predictor-vietnamese-governance",
    "learned-units-below-previously-known-units": "learned-units-below-previously-known-units",
    "learner-beliefs-influence-mental-effort-media-processing": "learner-beliefs-influence-mental-effort-media-processing",
-   "learner-centered-teacher-student-relationships-are-effective": "learner-centered-teacher-student-relationships-are-effective",
+   "learner-centered-teacher-student-relationships-are-effective": "teacher-student-relationships-improve-engagement",
    "learner-centeredness-universal-theme-sla": "learner-centeredness-universal-theme-sla",
    "learner-constructed-graphic-organizers-outperform-provided": "learner-constructed-graphic-organizers-outperform-provided",
    "learner-factors-model-18-percent-variance": "learner-factors-model-18-percent-variance",
@@ -78538,7 +78455,7 @@
    "phonics-instruction-improves-word-reading": "systematic-phonics-improves-word-reading",
    "phonics-instruction-outperforms-whole-word-for-generalization": "phonics-instruction-outperforms-whole-word-for-generalization",
    "phonological-automatization-improves-esp-reading-comprehension": "phonological-automatization-improves-esp-reading-comprehension",
-   "phonological-awareness-training-improves-reading": "phonological-awareness-training-improves-reading",
+   "phonological-awareness-training-improves-reading": "phonemic-awareness-training-improves-reading",
    "phonological-orthographic-efficiency-predicts-esl-reading": "phonological-orthographic-efficiency-predicts-esl-reading",
    "physical-experience-enhances-science-learning": "physical-experience-enhances-science-learning",
    "piaget-appropriation-versus-extension-debate": "piaget-appropriation-versus-extension-debate",
@@ -78641,7 +78558,7 @@
    "pretesting-enhances-learning": "pretesting-enhances-learning",
    "pretesting-improves-retention": "pretesting-enhances-learning",
    "pretraining-improves-transfer": "pretraining-improves-transfer",
-   "pretraining-principle-increased-learning-outcomes": "pretraining-principle-increased-learning-outcomes",
+   "pretraining-principle-increased-learning-outcomes": "pretraining-improves-transfer",
    "price-only-procurement-criticized-by-suppliers": "price-only-procurement-criticized-by-suppliers",
    "primacy-exceeds-recency-one-trial-free-recall": "primacy-exceeds-recency-one-trial-free-recall",
    "principals-maintain-connectedness-despite-bureaucracy": "principals-maintain-connectedness-despite-bureaucracy",
@@ -78853,7 +78770,7 @@
    "retention-varies-by-knowledge-type": "retention-varies-by-knowledge-type",
    "reticent-students-academically-superior-duff": "reticent-students-academically-superior-duff",
    "retrieval-errors-increase-across-positions": "retrieval-errors-increase-across-positions",
-   "retrieval-fails-without-encoding": "retrieval-fails-without-encoding",
+   "retrieval-fails-without-encoding": "pretesting-enhances-learning",
    "retrieval-failure-reduces-benefit": "retrieval-failure-reduces-benefit",
    "retrieval-format-by-levels-of-thinking-interaction-not-significant": "retrieval-format-by-levels-of-thinking-interaction-not-significant",
    "retrieval-format-by-retention-interval-interaction-not-significant": "retrieval-format-by-retention-interval-interaction-not-significant",
@@ -78972,7 +78889,7 @@
    "segmenting-improves-multimedia-learning": "segmenting-improves-multimedia-learning",
    "segmenting-principle-improves-multimedia-learning": "segmenting-improves-multimedia-learning",
    "sel-benefits-persist-follow-up": "sel-benefits-persist-follow-up",
-   "sel-programs-improve-academic-achievement": "sel-programs-improve-academic-achievement",
+   "sel-programs-improve-academic-achievement": "sel-programs-improve-behavior-and-achievement",
    "sel-programs-improve-behavior-and-achievement": "sel-programs-improve-behavior-and-achievement",
    "sel-programs-improve-social-emotional-skills": "sel-programs-improve-social-emotional-skills",
    "selection-bias-simulation-inflates-target-teach-gain": "selection-bias-simulation-inflates-target-teach-gain",
@@ -79026,7 +78943,7 @@
    "self-regulated-learning-predicts-achievement": "self-regulated-learning-predicts-achievement",
    "self-regulated-learning-strategies-improve-achievement": "self-regulated-learning-improves-achievement",
    "self-regulated-learning-strategies-improve-performance": "self-regulated-learning-improves-achievement",
-   "self-regulated-learning-strategies-improve-writing": "self-regulated-learning-strategies-improve-writing",
+   "self-regulated-learning-strategies-improve-writing": "strategy-instruction-improves-writing-quality",
    "self-regulated-learning-strategy-instruction-improves-achievement": "self-regulated-learning-improves-achievement",
    "self-regulation-strategy-instruction-improves-academic-performance": "self-regulated-learning-improves-achievement",
    "self-regulation-strategy-instruction-improves-achievement": "self-regulation-strategy-instruction-improves-achievement",
@@ -79482,7 +79399,7 @@
    "teaching-about-emotions-associated-with-space-and-furnishings": "teaching-about-emotions-associated-with-space-and-furnishings",
    "teaching-act-opacity": "teaching-act-opacity",
    "teaching-games-for-understanding-improves-tactical-decision-making": "teaching-games-for-understanding-improves-tactical-decision-making",
-   "teaching-others-generative-strategy": "teaching-others-generative-strategy",
+   "teaching-others-generative-strategy": "learning-by-teaching-improves-tutor-learning",
    "teaching-task-predictions-forecast-style-five-of-six": "teaching-task-predictions-forecast-style-five-of-six",
    "team-based-discovery-learning-improves-research-proposal-writing": "team-based-discovery-learning-improves-research-proposal-writing",
    "team-rat-scores-higher-than-individual-rat": "team-rat-scores-higher-than-individual-rat",
@@ -81013,7 +80930,7 @@
    "explicit-instruction-internet-search": "explicit-instruction-internet-search",
    "explicit-instruction-math-strategies": "explicit-instruction-math-strategies",
    "explicit-instruction-online-reading-strategies": "explicit-instruction-online-reading-strategies",
-   "explicit-instruction-phonics": "explicit-instruction-phonics",
+   "explicit-instruction-phonics": "phonics",
    "explicit-instruction-vocabulary": "explicit-instruction-vocabulary",
    "explicit-morphology-in-integral-efl-curriculum": "explicit-morphology-in-integral-efl-curriculum",
    "explicit-strategy-instruction-in-preparatory-curricula": "explicit-strategy-instruction-in-preparatory-curricula",

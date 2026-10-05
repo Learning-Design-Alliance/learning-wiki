@@ -79,6 +79,5 @@ A meta-analysis of 607 effect sizes (23,663 observations) of feedback interventi
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
 - [Feedback Answers Three Questions](feedback-answers-three-questions.md) — related
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
-- [Feedback Improves Learning](feedback-improves-learning.md) — related
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — possibly the same claim (merge candidate)
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — a broader claim this one bears on

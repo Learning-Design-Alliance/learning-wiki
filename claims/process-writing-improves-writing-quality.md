@@ -78,5 +78,4 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md) — related
-- [Self-regulated learning strategy instruction improves writing outcomes](self-regulated-learning-strategies-improve-writing.md) — related
 - [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related

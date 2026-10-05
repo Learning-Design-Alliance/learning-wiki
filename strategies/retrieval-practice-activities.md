@@ -29,7 +29,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - Low-stakes framing so retrieval functions as learning, not merely assessment ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 #### Constraints
-- Retrieval of poorly encoded material yields little benefit and can entrench errors when learners guess and receive no feedback [Retrieval practice is less effective when material was never adequately encoded.](../claims/retrieval-fails-without-encoding.md) [-M]
+- Retrieval of poorly encoded material yields little benefit and can entrench errors when learners guess and receive no feedback [Retrieval practice is less effective when material was never adequately encoded.](../claims/pretesting-enhances-learning.md) [-M]
 - High-stakes framing converts retrieval into test anxiety, reducing its learning benefit for anxious learners [~M]
 - Simple factual recall questions build retention of facts but transfer poorly if the target goal is application or problem-solving [~S]
 - Benefits diminish for complex materials when retrieval itself overloads working memory; partial notes or scaffolds can offset this [~W]

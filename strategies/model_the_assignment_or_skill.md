@@ -29,7 +29,7 @@ sources:
 # Model the Assignment or Skill
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 causal, 4 review, 2 quant-synthesis), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies (6 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Modeling means the teacher performs the target task — writing a paragraph, solving a problem, annotating a text, critiquing an argument — while verbalizing the decisions, checks, and revisions that expert performance involves. The goal is to make invisible expert thinking observable, so learners acquire not just the product but the process that produces it.

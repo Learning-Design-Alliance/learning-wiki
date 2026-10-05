@@ -9,10 +9,10 @@ generated:
   at: 2026-10-02
 evidence_strength: weak
 sources:
-  - id: marjorie-ceballos-2022
+  - id: ceballos-nutta-2022
     resource: "https://eric.ed.gov/?id=EJ1380081"
-    title: "Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081"
-    author: Marjorie Ceballos, Joyce W. Nutta
+    title: "Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)"
+    author: "Ceballos, M., & Nutta, J. W."
     q: 2
     i: "?"
     kind: review
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Chang et al. (2011) found simultaneous presentation of lecture notes, a worked example, and instructor explanations facilitated understanding of a programming language on pre- and post-tests; Cheng et al. (2015) found students receiving temporally contiguous instruction reported lower perceived cognitive load. [→ Marjorie Ceballos 2022](#marjorie-ceballos-2022)
+`q2 i?` Chang et al. (2011) found simultaneous presentation of lecture notes, a worked example, and instructor explanations facilitated understanding of a programming language on pre- and post-tests; Cheng et al. (2015) found students receiving temporally contiguous instruction reported lower perceived cognitive load. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
 
 ## Evidence
 
-### Marjorie Ceballos 2022
+### Ceballos & Nutta 2022
 
-Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081
+Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)
 
 `q2 · i?` · `review · r2`
 

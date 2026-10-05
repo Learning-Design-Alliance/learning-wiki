@@ -1,14 +1,14 @@
 {
  "coverage": {
-  "claims->claims": 3390,
+  "claims->claims": 3379,
   "claims->designs": 13,
-  "claims->elements": 113,
+  "claims->elements": 109,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 67,
-  "claims->principles": 119,
+  "claims->principles": 118,
   "claims->processes": 3,
-  "claims->theories": 212,
+  "claims->theories": 208,
   "designs->claims": 93,
   "designs->designs": 27,
   "designs->elements": 26,
@@ -46,14 +46,14 @@
   "patterns->principles": 72,
   "patterns->processes": 1,
   "patterns->theories": 29,
-  "principles->claims": 390,
+  "principles->claims": 389,
   "principles->designs": 34,
   "principles->elements": 94,
   "principles->methods": 4,
   "principles->patterns": 72,
-  "principles->principles": 258,
+  "principles->principles": 257,
   "principles->processes": 2,
-  "principles->theories": 103,
+  "principles->theories": 102,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -964,6 +964,9 @@
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
      },
      {
+      "slug": "learning-by-teaching-improves-tutor-learning"
+     },
+     {
       "slug": "learning-strategy-instruction-contextualized-more-effective"
      },
      {
@@ -1024,9 +1027,6 @@
       "slug": "questioning-strategies-improve-learning"
      },
      {
-      "slug": "retrieval-fails-without-encoding"
-     },
-     {
       "slug": "retrieval-failure-reduces-benefit"
      },
      {
@@ -1072,9 +1072,6 @@
       "polarity": "~",
       "slug": "summarization-effective-with-training",
       "strength": "M"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "vocabulary-instruction-improves-comprehension"
@@ -2116,9 +2113,6 @@
       "slug": "laptop-notes-verbatim-shallower"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
       "slug": "learning-by-teaching-improves-tutor-learning"
      },
      {
@@ -2213,6 +2207,9 @@
      },
      {
       "slug": "teacher-guided-inquiry-outperforms-student-led"
+     },
+     {
+      "slug": "teacher-student-relationships-improve-engagement"
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
@@ -4470,6 +4467,9 @@
       "slug": "organization-task-match-determines-benefit"
      },
      {
+      "slug": "pretesting-enhances-learning"
+     },
+     {
       "slug": "pretraining-improves-transfer"
      },
      {
@@ -4477,9 +4477,6 @@
      },
      {
       "slug": "question-prompts-improve-learning"
-     },
-     {
-      "slug": "retrieval-fails-without-encoding"
      },
      {
       "slug": "segmenting-improves-multimedia-learning"
@@ -6284,9 +6281,6 @@
       "slug": "summarization-improves-learning"
      },
      {
-      "slug": "teaching-others-generative-strategy"
-     },
-     {
       "slug": "writing-improves-mathematical-understanding"
      },
      {
@@ -7172,9 +7166,6 @@
       "slug": "feedback-praise-reduces-learning"
      },
      {
-      "slug": "feedback-use-improves-learning"
-     },
-     {
       "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
@@ -7191,12 +7182,6 @@
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "judgments-of-learning-inaccurate"
-     },
-     {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
      },
      {
       "slug": "learners-misjudge-effective-learning-strategies"
@@ -7276,9 +7261,6 @@
      },
      {
       "slug": "sel-benefits-persist-follow-up"
-     },
-     {
-      "slug": "sel-programs-improve-academic-achievement"
      },
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
@@ -8624,10 +8606,10 @@
       "slug": "honours-community-isolation-from-regular-students"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
+      "slug": "rpp-adaptive-practices-sustain-partnerships-during-disruption"
      },
      {
-      "slug": "rpp-adaptive-practices-sustain-partnerships-during-disruption"
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "processes": [
@@ -9251,9 +9233,6 @@
      },
      {
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      },
      {
       "slug": "phonological-orthographic-efficiency-predicts-esl-reading"
@@ -10489,9 +10468,6 @@
       "slug": "ie-doing-with-maps-onto-autonomy-support"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
       "slug": "learning-is-natural-enjoyable-process-argument"
      },
      {
@@ -10519,9 +10495,6 @@
      },
      {
       "slug": "sel-benefits-persist-follow-up"
-     },
-     {
-      "slug": "sel-programs-improve-academic-achievement"
      },
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
@@ -13228,9 +13201,6 @@
       "slug": "instruction-has-unintended-moral-effects-that-performance-data-miss"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
       "slug": "math-anxiety-degrades-performance"
      },
      {
@@ -13255,9 +13225,6 @@
      },
      {
       "slug": "sel-benefits-persist-follow-up"
-     },
-     {
-      "slug": "sel-programs-improve-academic-achievement"
      },
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
@@ -15531,7 +15498,7 @@
    "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion": {
     "claims": [
      {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
+      "slug": "expertise-reversal-effect"
      }
     ],
     "patterns": [
@@ -18127,9 +18094,6 @@
      },
      {
       "slug": "phonemic-awareness-training-improves-reading"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      }
     ]
    },
@@ -19338,9 +19302,6 @@
       "slug": "expertise-reversal-effect"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
-     },
-     {
       "slug": "explicit-handwriting-instruction-improves-legibility"
      },
      {
@@ -19348,9 +19309,6 @@
      },
      {
       "slug": "feedback-improves-learning"
-     },
-     {
-      "slug": "feedback-use-improves-learning"
      },
      {
       "slug": "fluent-illusions-mislead-self-assessment"
@@ -19482,7 +19440,9 @@
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
+      "polarity": "+",
+      "slug": "pretesting-enhances-learning",
+      "strength": "S"
      },
      {
       "slug": "pretraining-improves-transfer"
@@ -19522,11 +19482,6 @@
      },
      {
       "slug": "rereading-less-effective-than-retrieval-practice"
-     },
-     {
-      "polarity": "+",
-      "slug": "retrieval-fails-without-encoding",
-      "strength": "S"
      },
      {
       "slug": "retrieval-failure-reduces-benefit"
@@ -19933,11 +19888,6 @@
      },
      {
       "polarity": "+",
-      "slug": "explicit-instruction-phonics",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
       "slug": "explicit-instruction-vocabulary",
       "strength": "S"
      },
@@ -19989,6 +19939,11 @@
      {
       "polarity": "+",
       "slug": "note-taking",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "phonics",
       "strength": "S"
      },
      {
@@ -26682,10 +26637,10 @@
       "slug": "parent-involvement-improves-achievement"
      },
      {
-      "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
+      "slug": "phonemic-awareness-training-improves-reading"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
+      "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
      },
      {
       "slug": "prior-knowledge-needed-for-accurate-self-assessment"
@@ -26917,7 +26872,7 @@
       "slug": "emotion-labeling-improves-regulation"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "explicit-handwriting-instruction-improves-legibility"
@@ -26929,7 +26884,7 @@
       "slug": "feedback-improves-learning-when-it-addresses-task-goals"
      },
      {
-      "slug": "feedback-use-improves-learning"
+      "slug": "feedback-improves-learning"
      },
      {
       "slug": "fluent-illusions-mislead-self-assessment"
@@ -26973,9 +26928,6 @@
       "polarity": "~",
       "slug": "intuitive-learners-outperform-sensing-learners",
       "strength": "M"
-     },
-     {
-      "slug": "judgments-of-learning-inaccurate"
      },
      {
       "slug": "laptop-notes-verbatim-shallower"
@@ -27058,6 +27010,11 @@
       "strength": "M"
      },
      {
+      "polarity": "-",
+      "slug": "pretesting-enhances-learning",
+      "strength": "S"
+     },
+     {
       "slug": "pretraining-improves-transfer"
      },
      {
@@ -27087,11 +27044,6 @@
      },
      {
       "slug": "reflective-practice-improves-outcomes-when-structured"
-     },
-     {
-      "polarity": "-",
-      "slug": "retrieval-fails-without-encoding",
-      "strength": "S"
      },
      {
       "polarity": "~",
@@ -27170,9 +27122,6 @@
       "polarity": "+",
       "slug": "teacher-guided-inquiry-outperforms-student-led",
       "strength": "M"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "user-goals-contradict-educational-objectives"
@@ -29683,9 +29632,6 @@
       "slug": "sel-benefits-persist-follow-up"
      },
      {
-      "slug": "sel-programs-improve-academic-achievement"
-     },
-     {
       "slug": "sel-programs-improve-behavior-and-achievement"
      },
      {
@@ -29699,9 +29645,6 @@
      },
      {
       "slug": "student-lab-presentations-central-activity"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
@@ -29818,9 +29761,6 @@
      },
      {
       "slug": "process-writing-improves-writing-quality"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
@@ -34268,11 +34208,6 @@
      },
      {
       "polarity": "+",
-      "slug": "explicit-instruction-phonics",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "explicit-instruction-vocabulary",
       "strength": "M"
      },
@@ -34349,6 +34284,11 @@
      {
       "polarity": "+",
       "slug": "personalization",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "phonics",
       "strength": "M"
      },
      {
@@ -36235,9 +36175,6 @@
      },
      {
       "slug": "epistemic-violence-negatively-correlated-epistemic-freedom"
-     },
-     {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
      },
      {
       "slug": "overlapping-ci-potential-relationship"
@@ -41655,9 +41592,6 @@
      },
      {
       "slug": "learning-by-teaching-improves-tutor-learning"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      }
     ],
     "elements": [
@@ -44505,9 +44439,6 @@
      },
      {
       "slug": "pretraining-improves-transfer"
-     },
-     {
-      "slug": "pretraining-principle-increased-learning-outcomes"
      }
     ]
    },
@@ -47483,13 +47414,19 @@
    "expertise-reversal-effect": {
     "claims": [
      {
+      "slug": "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion"
+     },
+     {
       "slug": "chunking-reduces-working-memory-load"
      },
      {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
+      "slug": "experts-counteract-automaticity-mental-representations"
      },
      {
       "slug": "fading-support-promotes-transfer-of-responsibility"
+     },
+     {
+      "slug": "fts-fading-threshold-peer-tutoring-expected-gains"
      },
      {
       "slug": "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load"
@@ -47498,13 +47435,34 @@
       "slug": "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples"
      },
      {
+      "slug": "modality-effect-narration-over-text"
+     },
+     {
+      "slug": "multimedia-principles-benefit-novices"
+     },
+     {
       "slug": "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest"
      },
      {
       "slug": "rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions"
      },
      {
+      "slug": "redundancy-effect-impairs-learning"
+     },
+     {
+      "slug": "redundancy-hurts-learning"
+     },
+     {
+      "slug": "redundancy-principle"
+     },
+     {
+      "slug": "redundant-text-no-effect-posterior-probability-lesson"
+     },
+     {
       "slug": "self-explanation-improves-conceptual-understanding"
+     },
+     {
+      "slug": "split-attention-effect-degrades-learning"
      },
      {
       "slug": "worked-examples-less-effective-with-expertise"
@@ -47593,6 +47551,11 @@
      },
      {
       "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "problem-solving-tasks",
       "strength": "M"
      },
@@ -47625,6 +47588,11 @@
       "polarity": "~",
       "slug": "visual-imagery",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "methods": [
@@ -47648,6 +47616,11 @@
      {
       "polarity": "~",
       "slug": "direct-instruction",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "fading-based-scaffolding-approaches-serious-games",
       "strength": "W"
      },
      {
@@ -47696,6 +47669,11 @@
       "polarity": "~",
       "slug": "digital-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "S"
      },
      {
       "polarity": "~",
@@ -48124,6 +48102,11 @@
      },
      {
       "polarity": "~",
+      "slug": "explicit_strategy_instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "free_graphing_calculator_app",
       "strength": "M"
      },
@@ -48490,131 +48473,11 @@
       "slug": "working-memory-support-strategies",
       "strength": "M"
      }
-    ]
-   },
-   "expertise-reversal-effect-redundant-support-harms-experts": {
-    "claims": [
-     {
-      "slug": "blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion"
-     },
-     {
-      "slug": "expertise-reversal-effect"
-     },
-     {
-      "slug": "expertise-reversal-guidance-hurts-experts"
-     },
-     {
-      "slug": "fts-fading-threshold-peer-tutoring-expected-gains"
-     },
-     {
-      "slug": "multimedia-principles-benefit-novices"
-     },
-     {
-      "slug": "redundancy-effect-impairs-learning"
-     },
-     {
-      "slug": "redundancy-hurts-learning"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "fading-based-scaffolding-approaches-serious-games",
-      "strength": "W"
-     }
     ],
     "theories": [
      {
       "polarity": "+",
       "slug": "fine-tuning-system-fts-serious-games",
-      "strength": "M"
-     }
-    ]
-   },
-   "expertise-reversal-guidance-hurts-experts": {
-    "claims": [
-     {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
-     },
-     {
-      "slug": "expertise-reversal-effect"
-     },
-     {
-      "slug": "experts-counteract-automaticity-mental-representations"
-     },
-     {
-      "slug": "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples"
-     },
-     {
-      "slug": "modality-effect-narration-over-text"
-     },
-     {
-      "slug": "multimedia-principles-benefit-novices"
-     },
-     {
-      "slug": "redundancy-effect-impairs-learning"
-     },
-     {
-      "slug": "redundancy-hurts-learning"
-     },
-     {
-      "slug": "redundancy-principle"
-     },
-     {
-      "slug": "redundant-text-no-effect-posterior-probability-lesson"
-     },
-     {
-      "slug": "split-attention-effect-degrades-learning"
-     },
-     {
-      "slug": "worked-examples-less-effective-with-expertise"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "fading",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "practice",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "simulation",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "worked-examples",
-      "strength": "S"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "direct-instruction",
-      "strength": "S"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "direct-instruction",
-      "strength": "S"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "~",
-      "slug": "explicit_strategy_instruction",
       "strength": "M"
      }
     ]
@@ -48645,7 +48508,7 @@
    "experts-counteract-automaticity-mental-representations": {
     "claims": [
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "experts-show-emotionality-and-responsibility"
@@ -50182,11 +50045,6 @@
      },
      {
       "polarity": "~",
-      "slug": "explicit-instruction-phonics",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
       "slug": "explicit-instruction-vocabulary",
       "strength": "S"
      },
@@ -50214,6 +50072,11 @@
       "polarity": "+",
       "slug": "modeling",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -51387,9 +51250,6 @@
       "slug": "feedback-praise-reduces-learning"
      },
      {
-      "slug": "feedback-use-improves-learning"
-     },
-     {
       "slug": "probing-feedback-revise-resubmit-evidence"
      }
     ],
@@ -51489,7 +51349,7 @@
       "slug": "feedback-improves-learning-when-it-addresses-task-goals"
      },
      {
-      "slug": "feedback-use-improves-learning"
+      "slug": "feedback-improves-learning"
      }
     ],
     "strategies": [
@@ -51579,7 +51439,7 @@
       "slug": "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice"
      },
      {
-      "slug": "feedback-use-improves-learning"
+      "slug": "feedback-improves-learning"
      },
      {
       "slug": "high-confidence-errors-improve-retention"
@@ -51668,6 +51528,9 @@
       "slug": "feedback-addressing-task-improves-learning"
      },
      {
+      "slug": "feedback-answers-three-questions-improves-learning"
+     },
+     {
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
@@ -51675,9 +51538,6 @@
      },
      {
       "slug": "feedback-most-effective-at-task-and-process-levels"
-     },
-     {
-      "slug": "feedback-use-improves-learning"
      },
      {
       "slug": "parent-implemented-intervention-improves-outcomes"
@@ -51699,9 +51559,6 @@
      },
      {
       "slug": "self-assessment-improves-self-regulated-learning"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "simulation-based-education-improves-outcomes"
@@ -51732,6 +51589,11 @@
      },
      {
       "polarity": "+",
+      "slug": "iterative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "simulation",
       "strength": "S"
      }
@@ -51751,6 +51613,11 @@
       "polarity": "+",
       "slug": "formative-assessment",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -51777,9 +51644,14 @@
       "strength": "S"
      },
      {
-      "polarity": "+",
+      "polarity": "-",
       "slug": "ongoing_feedback_and_reflection",
-      "strength": "S"
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "pqp-praise-question-polish",
+      "strength": "M"
      },
      {
       "polarity": "-",
@@ -51812,9 +51684,6 @@
      },
      {
       "slug": "feedback-most-effective-at-task-and-process-levels"
-     },
-     {
-      "slug": "feedback-use-improves-learning"
      }
     ],
     "strategies": [
@@ -51882,9 +51751,6 @@
      },
      {
       "slug": "feedback-improves-learning"
-     },
-     {
-      "slug": "feedback-use-improves-learning"
      }
     ],
     "elements": [
@@ -54163,66 +54029,6 @@
      }
     ]
    },
-   "feedback-use-improves-learning": {
-    "claims": [
-     {
-      "slug": "feedback-addressing-task-improves-learning"
-     },
-     {
-      "slug": "feedback-answers-three-questions-improves-learning"
-     },
-     {
-      "slug": "feedback-enhances-retrieval-practice"
-     },
-     {
-      "slug": "feedback-improves-learning-when-it-addresses-task-goals"
-     },
-     {
-      "slug": "feedback-improves-learning"
-     },
-     {
-      "slug": "feedback-most-effective-at-task-and-process-levels"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "iterative-learning",
-      "strength": "M"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "structured-peer-review",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "feedback-loops",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "formative-feedback",
-      "strength": "M"
-     },
-     {
-      "polarity": "-",
-      "slug": "ongoing_feedback_and_reflection",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "pqp-praise-question-polish",
-      "strength": "M"
-     }
-    ]
-   },
    "felt-needs-require-data-verification": {
     "claims": [
      {
@@ -54942,9 +54748,6 @@
       "slug": "considering-the-opposite-reduces-bias"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
-     },
-     {
       "slug": "learners-misjudge-effective-learning-strategies"
      },
      {
@@ -54964,6 +54767,9 @@
      },
      {
       "slug": "students-did-not-recognize-lecture-proof-key-points"
+     },
+     {
+      "slug": "video-self-observation-powerful-coaching-component"
      }
     ],
     "learner-variables": [
@@ -54974,6 +54780,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "-",
+      "slug": "check-ins",
+      "strength": "M"
+     },
      {
       "polarity": "-",
       "slug": "self-monitoring",
@@ -56017,13 +55828,10 @@
    "fts-fading-threshold-peer-tutoring-expected-gains": {
     "claims": [
      {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "learning-by-teaching-improves-tutor-learning"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "tutoring-effectiveness-comes-from-scaffolding-and-feedback"
@@ -56718,9 +56526,6 @@
      },
      {
       "slug": "gbsri-respondents-reported-writing-improvement"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
@@ -64816,12 +64621,12 @@
       "slug": "desirable-difficulties-enhance-learning"
      },
      {
-      "slug": "interleaving-improves-discrimination"
+      "polarity": "+",
+      "slug": "fluent-illusions-mislead-self-assessment",
+      "strength": "S"
      },
      {
-      "polarity": "+",
-      "slug": "judgments-of-learning-inaccurate",
-      "strength": "S"
+      "slug": "interleaving-improves-discrimination"
      },
      {
       "slug": "learners-misjudge-effective-learning-strategies"
@@ -65946,37 +65751,6 @@
      {
       "polarity": "~",
       "slug": "debate-as-argumentation-laboratory",
-      "strength": "M"
-     }
-    ]
-   },
-   "judgments-of-learning-inaccurate": {
-    "claims": [
-     {
-      "slug": "fluent-illusions-mislead-self-assessment"
-     },
-     {
-      "slug": "learners-misjudge-effective-learning-strategies"
-     },
-     {
-      "slug": "learners-misjudge-retrieval-benefit"
-     },
-     {
-      "slug": "students-did-not-recognize-lecture-proof-key-points"
-     },
-     {
-      "slug": "video-self-observation-powerful-coaching-component"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "-",
-      "slug": "check-ins",
-      "strength": "M"
-     },
-     {
-      "polarity": "-",
-      "slug": "self-monitoring",
       "strength": "M"
      }
     ]
@@ -68020,75 +67794,6 @@
      }
     ]
    },
-   "learner-centered-teacher-student-relationships-are-effective": {
-    "claims": [
-     {
-      "slug": "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer"
-     },
-     {
-      "slug": "autonomy-supports-intrinsic-motivation"
-     },
-     {
-      "slug": "correlational-design-limits-epistemic-freedom-study"
-     },
-     {
-      "slug": "motivational-assessments-correlate-weakly-near-tests"
-     },
-     {
-      "slug": "slam-relationship-quality-correlates-civic-action"
-     },
-     {
-      "slug": "stronger-belonging-linked-engagement-achievement"
-     },
-     {
-      "slug": "teacher-student-relationships-improve-engagement"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "equal-democratic-teacher-student-relations",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "instructor-accessibility",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "social-presence",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "active-listening",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "address_stereotypical_beliefs_about_parents_and_poverty",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "take-action-be-intentional",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "thinking_about_emotions_in_advance",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "validate_feelings",
-      "strength": "S"
-     }
-    ]
-   },
    "learner-centeredness-universal-theme-sla": {
     "claims": [
      {
@@ -68423,9 +68128,6 @@
       "slug": "instructions-increase-self-testing-cumulative-learning"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
-     },
-     {
       "slug": "learners-misjudge-retrieval-benefit"
      },
      {
@@ -68463,9 +68165,6 @@
     "claims": [
      {
       "slug": "fluent-illusions-mislead-self-assessment"
-     },
-     {
-      "slug": "judgments-of-learning-inaccurate"
      },
      {
       "slug": "learners-misjudge-effective-learning-strategies"
@@ -68691,13 +68390,13 @@
       "slug": "peer-assisted-learning-improves-achievement"
      },
      {
+      "slug": "peer-assisted-learning-improves-learning-outcomes"
+     },
+     {
       "slug": "peer-tutoring-improves-achievement"
      },
      {
       "slug": "structured-peer-tutoring-outperforms-unstructured"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
@@ -73773,7 +73472,7 @@
       "slug": "multiple-choice-lures-can-be-learned-as-false-knowledge"
      },
      {
-      "slug": "retrieval-fails-without-encoding"
+      "slug": "pretesting-enhances-learning"
      },
      {
       "slug": "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats"
@@ -74503,10 +74202,10 @@
       "slug": "self-monitoring-comprehension-improves-learning"
      },
      {
-      "slug": "self-regulated-learning-strategies-improve-writing"
+      "slug": "self-regulation-strategy-instruction-improves-achievement"
      },
      {
-      "slug": "self-regulation-strategy-instruction-improves-achievement"
+      "slug": "strategy-instruction-improves-writing-quality"
      },
      {
       "slug": "students-deficient-monitoring-maintaining-plan"
@@ -76345,7 +76044,7 @@
       "slug": "enhancing-features-direct-attention-dual-language-e-books"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "modality-effect-holds-middle-school-electricity"
@@ -76944,7 +76643,7 @@
       "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
+      "slug": "phonemic-awareness-training-improves-reading"
      }
     ]
    },
@@ -77267,9 +76966,6 @@
    "motivational-assessments-correlate-weakly-near-tests": {
     "claims": [
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
       "slug": "multimedia-activities-less-fun-than-instructive"
      },
      {
@@ -77277,6 +76973,9 @@
      },
      {
       "slug": "multimedia-introductory-message-better-immediate-tests"
+     },
+     {
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "elements": [
@@ -77913,13 +77612,7 @@
       "slug": "cognitive-overload-degrades-learning"
      },
      {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
-     },
-     {
       "slug": "expertise-reversal-effect"
-     },
-     {
-      "slug": "expertise-reversal-guidance-hurts-experts"
      },
      {
       "slug": "intuitive-learners-outperform-sensing-learners"
@@ -84201,6 +83894,9 @@
       "slug": "interactive-beats-constructive-concept-mapping"
      },
      {
+      "slug": "learning-by-teaching-improves-tutor-learning"
+     },
+     {
       "slug": "online-peer-assisted-learning-fosters-informal-learning"
      },
      {
@@ -84214,9 +83910,6 @@
      },
      {
       "slug": "students-interaction-empathy-perspective-taking"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "virtual-communities-counter-supervision-isolation"
@@ -84793,9 +84486,6 @@
      },
      {
       "slug": "structured-peer-tutoring-outperforms-unstructured"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
@@ -85654,9 +85344,6 @@
       "slug": "phonological-automatization-improves-esp-reading-comprehension"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
-     },
-     {
       "slug": "rhyming-poetry-improves-reading-fluency"
      },
      {
@@ -85687,13 +85374,13 @@
       "slug": "cf-training-may-strengthen-early-literacy-instruction"
      },
      {
+      "slug": "morphological-awareness-contributes-reading-development"
+     },
+     {
       "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
      },
      {
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      },
      {
       "slug": "reverse-transfer-literacy-to-oral-unsupported"
@@ -85728,6 +85415,11 @@
       "polarity": "+",
       "slug": "phonemic-awareness-instruction",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "phonological_awareness_development_through_rhyming",
+      "strength": "S"
      }
     ]
    },
@@ -85738,9 +85430,6 @@
      },
      {
       "slug": "phonemic-awareness-training-improves-reading"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
@@ -86007,53 +85696,6 @@
       "polarity": "+",
       "slug": "skill-acquisition-theory-second-language",
       "strength": "M"
-     }
-    ]
-   },
-   "phonological-awareness-training-improves-reading": {
-    "claims": [
-     {
-      "slug": "cf-training-may-strengthen-early-literacy-instruction"
-     },
-     {
-      "slug": "morphological-awareness-contributes-reading-development"
-     },
-     {
-      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
-     },
-     {
-      "slug": "phonemic-awareness-training-improves-reading"
-     },
-     {
-      "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
-     },
-     {
-      "slug": "rhyming-poetry-improves-reading-fluency"
-     },
-     {
-      "slug": "structured-literacy-interventions-help-struggling-readers"
-     },
-     {
-      "slug": "systematic-phonics-improves-word-reading"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "phonics",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "multisensory-phonics-instruction",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "phonological_awareness_development_through_rhyming",
-      "strength": "S"
      }
     ]
    },
@@ -88553,9 +88195,6 @@
       "slug": "pretesting-enhances-learning"
      },
      {
-      "slug": "retrieval-fails-without-encoding"
-     },
-     {
       "slug": "retrieval-failure-reduces-benefit"
      }
     ],
@@ -88583,6 +88222,9 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
+      "slug": "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small"
+     },
+     {
       "polarity": "+",
       "slug": "pretesting-can-harm-motivation",
       "strength": "S"
@@ -88591,13 +88233,18 @@
       "slug": "question-prompts-improve-learning"
      },
      {
-      "slug": "retrieval-fails-without-encoding"
+      "slug": "retrieval-failure-reduces-benefit"
      },
      {
-      "slug": "retrieval-failure-reduces-benefit"
+      "slug": "retrieval-practice-improves-retention"
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "retrieval-practice",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "self-testing",
@@ -88622,6 +88269,13 @@
       "slug": "pre-reading-questioning",
       "strength": "M"
      }
+    ],
+    "strategies": [
+     {
+      "polarity": "-",
+      "slug": "retrieval-practice-activities",
+      "strength": "M"
+     }
     ]
    },
    "pretraining-improves-transfer": {
@@ -88636,13 +88290,17 @@
       "slug": "media-transfer-possible-but-probability-unestablished"
      },
      {
-      "slug": "pretraining-principle-increased-learning-outcomes"
-     },
-     {
       "slug": "vr-reinforcement-not-substitute"
      },
      {
       "slug": "whole-task-performance-improves-transfer"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "sol-multimedia-lesson-sequence-eb",
+      "strength": "M"
      }
     ],
     "elements": [
@@ -88665,6 +88323,11 @@
      },
      {
       "polarity": "+",
+      "slug": "leader-criteria-sol-alignment-digital-materials",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "transfer-of-learning",
       "strength": "M"
      }
@@ -88674,30 +88337,6 @@
       "polarity": "+",
       "slug": "pretraining",
       "strength": "S"
-     }
-    ]
-   },
-   "pretraining-principle-increased-learning-outcomes": {
-    "claims": [
-     {
-      "slug": "embedding-pretraining-beats-end-to-end-training-dynemb"
-     },
-     {
-      "slug": "pretraining-improves-transfer"
-     }
-    ],
-    "designs": [
-     {
-      "polarity": "+",
-      "slug": "sol-multimedia-lesson-sequence-eb",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "leader-criteria-sol-alignment-digital-materials",
-      "strength": "W"
      }
     ],
     "theories": [
@@ -89778,11 +89417,6 @@
      },
      {
       "polarity": "+",
-      "slug": "explicit-instruction-phonics",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "explicit-instruction-vocabulary",
       "strength": "M"
      },
@@ -89814,6 +89448,11 @@
      {
       "polarity": "~",
       "slug": "perspective-taking",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "phonics",
       "strength": "M"
      },
      {
@@ -90264,9 +89903,6 @@
      },
      {
       "slug": "peer-assessment-improves-performance"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "spontaneous-sentence-production-in-synthetic-planning-increases-understanding"
@@ -93013,10 +92649,7 @@
       "slug": "cognitive-load-reduction-improves-learning"
      },
      {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
-     },
-     {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "laptop-notes-verbatim-shallower"
@@ -93153,10 +92786,7 @@
    "redundancy-hurts-learning": {
     "claims": [
      {
-      "slug": "expertise-reversal-effect-redundant-support-harms-experts"
-     },
-     {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "modality-effect-narration-over-text"
@@ -93228,7 +92858,7 @@
       "slug": "bimodal-captioned-input-improves-segmentation"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "modality-effect-narration-over-text"
@@ -93332,7 +92962,7 @@
       "slug": "diagrams-help-posttest-only-read-twice-condition"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "redundancy-effect-impairs-learning"
@@ -95127,46 +94757,6 @@
      }
     ]
    },
-   "retrieval-fails-without-encoding": {
-    "claims": [
-     {
-      "slug": "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small"
-     },
-     {
-      "slug": "pretesting-can-harm-motivation"
-     },
-     {
-      "slug": "pretesting-enhances-learning"
-     },
-     {
-      "slug": "retrieval-failure-reduces-benefit"
-     },
-     {
-      "slug": "retrieval-practice-improves-retention"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "retrieval-practice",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "pre-reading-questioning",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "-",
-      "slug": "retrieval-practice-activities",
-      "strength": "M"
-     }
-    ]
-   },
    "retrieval-failure-reduces-benefit": {
     "claims": [
      {
@@ -95180,9 +94770,6 @@
      },
      {
       "slug": "repeated-retrieval-success-predicts-final-recall"
-     },
-     {
-      "slug": "retrieval-fails-without-encoding"
      },
      {
       "slug": "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent"
@@ -95678,9 +95265,6 @@
       "slug": "high-confidence-errors-improve-retention"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
-     },
-     {
       "slug": "l2-fluency-gains-persist-weeks-without-practice"
      },
      {
@@ -95717,9 +95301,6 @@
      },
      {
       "slug": "retention-transfer-tests-define-learning"
-     },
-     {
-      "slug": "retrieval-fails-without-encoding"
      },
      {
       "slug": "retrieval-failure-reduces-benefit"
@@ -96675,9 +96256,6 @@
      },
      {
       "slug": "phonemic-awareness-training-improves-reading"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      }
     ],
     "theories": [
@@ -97475,9 +97053,6 @@
      },
      {
       "slug": "metacognitive-prompts-improve-learning"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
@@ -98515,9 +98090,6 @@
       "slug": "mindfulness-programs-benefit-adolescent-regulation"
      },
      {
-      "slug": "sel-programs-improve-academic-achievement"
-     },
-     {
       "slug": "sel-programs-improve-behavior-and-achievement"
      },
      {
@@ -98557,54 +98129,6 @@
      }
     ]
    },
-   "sel-programs-improve-academic-achievement": {
-    "claims": [
-     {
-      "slug": "assessment-for-learning-improves-achievement"
-     },
-     {
-      "slug": "sel-benefits-persist-follow-up"
-     },
-     {
-      "slug": "sel-programs-improve-behavior-and-achievement"
-     },
-     {
-      "slug": "sel-programs-improve-social-emotional-skills"
-     },
-     {
-      "slug": "stronger-belonging-linked-engagement-achievement"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "social-emotional-learning",
-      "strength": "S"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "leveraging_strengths_in_relationship_skills",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "sel_integration_through_literature",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "social-emotional-learning-integration",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "social-emotional-learning-routines",
-      "strength": "S"
-     }
-    ]
-   },
    "sel-programs-improve-behavior-and-achievement": {
     "claims": [
      {
@@ -98629,15 +98153,15 @@
       "slug": "sel-benefits-persist-follow-up"
      },
      {
-      "slug": "sel-programs-improve-academic-achievement"
+      "slug": "sel-programs-improve-social-emotional-skills"
      },
      {
-      "slug": "sel-programs-improve-social-emotional-skills"
+      "slug": "stronger-belonging-linked-engagement-achievement"
      }
     ],
     "patterns": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "social-emotional-learning",
       "strength": "S"
      }
@@ -98685,7 +98209,22 @@
      },
      {
       "polarity": "+",
+      "slug": "sel_integration_through_literature",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "sel_questioning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning-integration",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning-routines",
       "strength": "S"
      }
     ]
@@ -98700,9 +98239,6 @@
      },
      {
       "slug": "sel-benefits-persist-follow-up"
-     },
-     {
-      "slug": "sel-programs-improve-academic-achievement"
      },
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
@@ -101481,10 +101017,10 @@
       "slug": "high-confidence-errors-improve-retention"
      },
      {
-      "slug": "strategy-instruction-improves-learning"
+      "slug": "learning-by-teaching-improves-tutor-learning"
      },
      {
-      "slug": "teaching-others-generative-strategy"
+      "slug": "strategy-instruction-improves-learning"
      },
      {
       "polarity": "+",
@@ -106079,9 +105615,6 @@
       "slug": "self-regulated-learning-predicts-achievement"
      },
      {
-      "slug": "self-regulated-learning-strategies-improve-writing"
-     },
-     {
       "slug": "self-regulation-strategy-instruction-improves-achievement"
      },
      {
@@ -106269,42 +105802,6 @@
       "polarity": "+",
       "slug": "blended_learning",
       "strength": "M"
-     }
-    ]
-   },
-   "self-regulated-learning-strategies-improve-writing": {
-    "claims": [
-     {
-      "slug": "collaborative-writing-improves-text-quality"
-     },
-     {
-      "slug": "gbsri-interview-attributions-and-pair-work-discomfort"
-     },
-     {
-      "slug": "process-writing-improves-writing-quality"
-     },
-     {
-      "slug": "self-regulated-learning-improves-achievement"
-     },
-     {
-      "slug": "skilled-writers-topic-familiarity-knowledge"
-     },
-     {
-      "slug": "strategy-instruction-improves-writing-quality"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "process-based-writing",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "self-_and_peer-editing",
-      "strength": "S"
      }
     ]
    },
@@ -108469,9 +107966,6 @@
    "skilled-writers-topic-familiarity-knowledge": {
     "claims": [
      {
-      "slug": "self-regulated-learning-strategies-improve-writing"
-     },
-     {
       "slug": "skilled-efl-writers-recursive-writing-process"
      },
      {
@@ -108488,6 +107982,9 @@
      },
      {
       "slug": "skilled-writers-self-awareness-strength-weakness"
+     },
+     {
+      "slug": "strategy-instruction-improves-writing-quality"
      }
     ],
     "theories": [
@@ -108521,9 +108018,6 @@
       "slug": "community-partner-conflict-negatively-correlates-social-justice"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
       "slug": "peer-mentoring-increases-civic-action-service-learning"
      },
      {
@@ -108534,6 +108028,9 @@
      },
      {
       "slug": "professor-relationship-quality-civic-engagement-bidirectional"
+     },
+     {
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "elements": [
@@ -109578,10 +109075,10 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
-      "slug": "interleaving-improves-inductive-learning"
+      "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "polarity": "+",
@@ -111292,7 +110789,7 @@
       "slug": "contiguity-alone-fails-in-cognitive-learning"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "multimedia-principle-improves-learning"
@@ -113067,10 +112564,10 @@
       "slug": "self-regulated-learning-improves-achievement"
      },
      {
-      "slug": "self-regulated-learning-strategies-improve-writing"
+      "slug": "skilled-efl-writers-recursive-writing-process"
      },
      {
-      "slug": "skilled-efl-writers-recursive-writing-process"
+      "slug": "skilled-writers-topic-familiarity-knowledge"
      },
      {
       "slug": "spontaneous-sentence-production-in-synthetic-planning-increases-understanding"
@@ -113102,6 +112599,11 @@
      {
       "polarity": "+",
       "slug": "genre_study",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-_and_peer-editing",
       "strength": "S"
      },
      {
@@ -113338,10 +112840,7 @@
    "stronger-belonging-linked-engagement-achievement": {
     "claims": [
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
-      "slug": "sel-programs-improve-academic-achievement"
+      "slug": "sel-programs-improve-behavior-and-achievement"
      },
      {
       "slug": "sex-advantage-diminishes-under-mastery-learning"
@@ -113753,9 +113252,6 @@
      },
      {
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      },
      {
       "slug": "scaffolded-close-reading-improves-comprehension-for-struggling-readers"
@@ -114732,9 +114228,6 @@
      },
      {
       "slug": "fluent-illusions-mislead-self-assessment"
-     },
-     {
-      "slug": "judgments-of-learning-inaccurate"
      }
     ],
     "theories": [
@@ -116529,9 +116022,6 @@
      },
      {
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
-     },
-     {
-      "slug": "phonological-awareness-training-improves-reading"
      },
      {
       "slug": "science-values-imposed-on-language"
@@ -119009,6 +118499,12 @@
    "teacher-student-relationships-improve-engagement": {
     "claims": [
      {
+      "slug": "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer"
+     },
+     {
+      "slug": "autonomy-supports-intrinsic-motivation"
+     },
+     {
       "slug": "board-certification-identifies-more-expert-teachers"
      },
      {
@@ -119018,7 +118514,7 @@
       "slug": "correlational-design-limits-epistemic-freedom-study"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
+      "slug": "motivational-assessments-correlate-weakly-near-tests"
      },
      {
       "slug": "parent-involvement-improves-achievement"
@@ -119036,6 +118532,9 @@
       "slug": "self-regulated-learning-predicts-achievement"
      },
      {
+      "slug": "slam-relationship-quality-correlates-civic-action"
+     },
+     {
       "slug": "stronger-belonging-linked-engagement-achievement"
      }
     ],
@@ -119046,12 +118545,32 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "equal-democratic-teacher-student-relations",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "instructor-accessibility",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "social-presence",
       "strength": "M"
      }
     ],
     "strategies": [
+     {
+      "polarity": "+",
+      "slug": "active-listening",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "address_stereotypical_beliefs_about_parents_and_poverty",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "be_present_for_students",
@@ -119081,6 +118600,21 @@
       "polarity": "+",
       "slug": "promoting_belonging_through_cues_and_representations",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "take-action-be-intentional",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "thinking_about_emotions_in_advance",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "validate_feelings",
+      "strength": "S"
      }
     ]
    },
@@ -119513,42 +119047,6 @@
      {
       "polarity": "+",
       "slug": "physical-education",
-      "strength": "M"
-     }
-    ]
-   },
-   "teaching-others-generative-strategy": {
-    "claims": [
-     {
-      "slug": "drawing-improves-learning"
-     },
-     {
-      "slug": "fts-fading-threshold-peer-tutoring-expected-gains"
-     },
-     {
-      "slug": "learning-by-teaching-improves-tutor-learning"
-     },
-     {
-      "slug": "peer-assisted-learning-improves-learning-outcomes"
-     },
-     {
-      "slug": "peer-tutoring-improves-achievement"
-     },
-     {
-      "slug": "tutoring-benefits-tutors-and-tutees"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "fostering-communities-of-learning-fcl",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "peer-teaching",
       "strength": "M"
      }
     ]
@@ -122403,9 +121901,6 @@
      },
      {
       "slug": "structured-peer-tutoring-outperforms-unstructured"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
      }
     ],
     "elements": [
@@ -123912,7 +123407,7 @@
       "slug": "childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
+      "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
       "slug": "parent-coaching-outperforms-information-only"
@@ -126200,9 +125695,6 @@
       "slug": "expertise-reversal-effect"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
-     },
-     {
       "slug": "guided-notes-improve-note-accuracy"
      },
      {
@@ -126256,7 +125748,7 @@
       "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
-      "slug": "self-regulated-learning-strategies-improve-writing"
+      "slug": "strategy-instruction-improves-writing-quality"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -126822,7 +126314,7 @@
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
-      "slug": "retrieval-fails-without-encoding"
+      "slug": "pretesting-enhances-learning"
      },
      {
       "slug": "scaffolding-improves-learning"
@@ -130413,7 +129905,7 @@
    "activation": {
     "claims": [
      {
-      "slug": "retrieval-fails-without-encoding"
+      "slug": "pretesting-enhances-learning"
      }
     ],
     "elements": [
@@ -131037,7 +130529,7 @@
       "slug": "adaptive-learning-improves-outcomes"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "personalized-learning-effects-vary-with-fidelity"
@@ -131413,13 +130905,13 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
+      "slug": "pretesting-enhances-learning"
+     },
+     {
       "slug": "pretraining-improves-transfer"
      },
      {
       "slug": "prior-knowledge-determines-new-learning"
-     },
-     {
-      "slug": "retrieval-fails-without-encoding"
      },
      {
       "slug": "rubrics-improve-student-work"
@@ -136909,7 +136401,7 @@
       "slug": "feedback-answers-three-questions"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
+      "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
       "slug": "peer-assessment-benefits-assessor"
@@ -139399,9 +138891,6 @@
       "slug": "phonemic-awareness-training-improves-reading"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
-     },
-     {
       "slug": "systematic-phonics-improves-word-reading"
      }
     ],
@@ -141088,9 +140577,6 @@
       "slug": "emotion-labeling-improves-regulation"
      },
      {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
       "slug": "positive-greetings-at-the-door-improve-engagement"
      },
      {
@@ -141101,6 +140587,9 @@
      },
      {
       "slug": "self-monitoring-improves-on-task-behavior"
+     },
+     {
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "elements": [
@@ -149782,7 +149271,7 @@
       "slug": "example-problem-sequences-reduce-cognitive-load"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "explicit-handwriting-instruction-improves-legibility"
@@ -149821,6 +149310,9 @@
       "slug": "peer-assessment-improves-performance"
      },
      {
+      "slug": "pretesting-enhances-learning"
+     },
+     {
       "slug": "pretraining-improves-transfer"
      },
      {
@@ -149828,9 +149320,6 @@
      },
      {
       "slug": "prior-knowledge-needed-for-accurate-self-assessment"
-     },
-     {
-      "slug": "retrieval-fails-without-encoding"
      },
      {
       "slug": "retrieval-practice-improves-transfer"
@@ -157803,9 +157292,6 @@
       "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
-      "slug": "judgments-of-learning-inaccurate"
-     },
-     {
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
@@ -157824,7 +157310,7 @@
       "slug": "positive-greetings-at-the-door-improve-engagement"
      },
      {
-      "slug": "retrieval-fails-without-encoding"
+      "slug": "pretesting-enhances-learning"
      },
      {
       "slug": "retrieval-failure-reduces-benefit"
@@ -163105,13 +162591,10 @@
    "scaffolding": {
     "claims": [
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
@@ -175908,9 +175391,6 @@
       "slug": "explicit-instruction-computer-basics"
      },
      {
-      "slug": "explicit-instruction-phonics"
-     },
-     {
       "slug": "explicit-instruction-vocabulary"
      },
      {
@@ -183131,9 +182611,6 @@
       "slug": "elaborative-reasoning"
      },
      {
-      "slug": "explicit-instruction-phonics"
-     },
-     {
       "slug": "graphic-organizers"
      },
      {
@@ -184120,9 +183597,6 @@
      },
      {
       "slug": "feedback-answers-three-questions"
-     },
-     {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
      },
      {
       "slug": "mismatched-graphic-organizers-increase-extraneous-load"
@@ -189521,16 +188995,6 @@
      }
     ]
    },
-   "explicit-instruction-phonics": {
-    "principles": [
-     {
-      "slug": "explicit-instruction-vocabulary"
-     },
-     {
-      "slug": "phonics"
-     }
-    ]
-   },
    "explicit-instruction-vocabulary": {
     "patterns": [
      {
@@ -189542,10 +189006,10 @@
       "slug": "accessible-vocabulary-syntax"
      },
      {
-      "slug": "explicit-instruction-phonics"
+      "slug": "mnemonic-device"
      },
      {
-      "slug": "mnemonic-device"
+      "slug": "phonics"
      }
     ]
    },
@@ -191840,6 +191304,11 @@
       "slug": "systematic-phonics-improves-word-reading"
      }
     ],
+    "principles": [
+     {
+      "slug": "explicit-instruction-vocabulary"
+     }
+    ],
     "strategies": [
      {
       "slug": "phonemic-awareness-drills"
@@ -193350,9 +192819,6 @@
       "slug": "explicit-instruction-computer-basics"
      },
      {
-      "slug": "explicit-instruction-phonics"
-     },
-     {
       "slug": "flexible-grouping"
      },
      {
@@ -193375,6 +192841,9 @@
      },
      {
       "slug": "persistent-autonomy-support-during-resistance"
+     },
+     {
+      "slug": "phonics"
      },
      {
       "slug": "scaffolding"
@@ -197494,7 +196963,7 @@
       "slug": "elaborative-interrogation-improves-learning"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "feedback-addressing-task-improves-learning"
@@ -197503,10 +196972,10 @@
       "slug": "feedback-answers-three-questions-improves-learning"
      },
      {
-      "slug": "feedback-most-effective-at-task-and-process-levels"
+      "slug": "feedback-improves-learning"
      },
      {
-      "slug": "feedback-use-improves-learning"
+      "slug": "feedback-most-effective-at-task-and-process-levels"
      },
      {
       "polarity": "~",
@@ -197634,10 +197103,10 @@
       "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
      },
      {
-      "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
+      "slug": "phonemic-awareness-training-improves-reading"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
+      "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
      },
      {
       "slug": "physical-experience-enhances-science-learning"
@@ -197715,9 +197184,6 @@
      },
      {
       "slug": "self-regulated-learning-predicts-achievement"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "signaling-improves-learning"
@@ -197893,9 +197359,6 @@
      },
      {
       "slug": "explicit-instruction-online-reading-strategies"
-     },
-     {
-      "slug": "explicit-instruction-phonics"
      },
      {
       "slug": "handoutsonline-guidesvisual-reading-aids"
@@ -200723,7 +200186,7 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "expertise-reversal-guidance-hurts-experts"
+      "slug": "expertise-reversal-effect"
      },
      {
       "slug": "explicit-handwriting-instruction-improves-legibility"
@@ -200742,9 +200205,6 @@
      },
      {
       "slug": "feedback-most-effective-at-task-and-process-levels"
-     },
-     {
-      "slug": "feedback-use-improves-learning"
      },
      {
       "slug": "fluent-illusions-mislead-self-assessment"
@@ -200852,9 +200312,6 @@
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
      },
      {
-      "slug": "phonological-awareness-training-improves-reading"
-     },
-     {
       "slug": "pretraining-improves-transfer"
      },
      {
@@ -200943,9 +200400,6 @@
       "polarity": "~",
       "slug": "self-regulated-learning-improves-achievement",
       "strength": "M"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "self-talk-improves-learning-and-performance"
@@ -206660,9 +206114,6 @@
       "slug": "feedback-improves-learning"
      },
      {
-      "slug": "feedback-use-improves-learning"
-     },
-     {
       "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
@@ -206670,11 +206121,6 @@
      },
      {
       "slug": "growth-mindset-improves-achievement"
-     },
-     {
-      "polarity": "+",
-      "slug": "judgments-of-learning-inaccurate",
-      "strength": "S"
      },
      {
       "slug": "learners-misjudge-effective-learning-strategies"
@@ -206757,9 +206203,6 @@
      },
      {
       "slug": "self-regulated-learning-predicts-achievement"
-     },
-     {
-      "slug": "self-regulated-learning-strategies-improve-writing"
      },
      {
       "slug": "self-regulation-strategy-instruction-improves-achievement"
@@ -210611,13 +210054,13 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3404,
+  "claims": 3393,
   "designs": 115,
   "elements": 733,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 139,
-  "principles": 468,
+  "principles": 467,
   "processes": 18,
   "strategies": 3184,
   "theories": 946

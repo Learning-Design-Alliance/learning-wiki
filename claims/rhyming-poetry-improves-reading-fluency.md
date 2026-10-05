@@ -44,5 +44,4 @@ Small-n study by Zavala and Cuevas (2019) comparing Rhyming Poetry and Repeated 
 
 ## Related Claims
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
-- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — a broader claim this one bears on
-- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — a broader claim this one bears on
+- [Phonological Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — a broader claim this one bears on

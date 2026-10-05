@@ -1,18 +1,28 @@
 ---
 type: principle
 id: phonics
+aliases: [explicit-instruction-phonics]
 title: Phonics
 description: "For a beginning reader who cannot yet turn print into sound, explicit teaching of letter–sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: gray-2018
+    resource: "https://doi.org/10.1007/s11145-017-9774-9"
+    title: "Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. *Reading and Writing, 31*(1), 75-98"
+    author: "Gray, S. H., Ehri, L. C., & Locke, J. L"
+  - id: hock-2012
+    resource: "https://doi.org/10.1177/0022219411426859"
+    title: "Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78"
+    author: Hock, M. F
 ---
 
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 9 mixed) · 24 studies (10 quant-synthesis, 4 review, 4 associational, 3 causal, 3 theoretical), `q1`–`q4` · 10 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 22 claims (12 for, 10 mixed) · 37 studies (11 quant-synthesis, 9 causal, 7 review, 5 theoretical, 4 associational, 1 qualitative), `q1`–`q4` · 10 of 37 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -20,7 +30,7 @@ For a learner who cannot yet turn print into speech (who names few letter sounds
 
 **A claim does test this relationship.** The National Reading Panel meta-analysis compared systematic phonics with unsystematic or no phonics across 38 experiments from kindergarten to grade 6 and found a moderate advantage (d = 0.41), largest on decoding regular words and pseudowords and for kindergarten and first-grade children ([Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+S]). The relationship is conditional on four things the evidence names: the learner's starting point (gains are smaller for older readers with difficulties, and further phonics adds little once decoding is accurate), the comparison (the advantage over whole-language teaching is smaller and contested, d = 0.31 in 12 non-randomised studies), the outcome (decoding gains are larger than comprehension gains), and the reader's language. The detailed design below (pace, lesson length, move-on criteria, how support changes over a year) is not what the studies compared, and is labelled as a proposal wherever no claim gives it.
 
-How the converted siblings sit beside this page: [Direct Instruction](direct-instruction.md) holds the general relationship between explicit explanation and modelling and less guided discovery; phonics is one domain where that relationship has been tested directly. [Guided Practice](guided-practice.md) holds the supported-practice phase between a model and independent work, which here is the blending and decodable-reading part of each lesson. [Accessible Vocabulary and Syntax](accessible-vocabulary-syntax.md) holds what to do when a content task fails because of its wording; a decoding limit is one of the explanations it asks a designer to rule out. [Explicit Instruction: Phonics](explicit-instruction-phonics.md) (not yet converted) carries the same recommendation for adult learners.
+How the converted siblings sit beside this page: [Direct Instruction](direct-instruction.md) holds the general relationship between explicit explanation and modelling and less guided discovery; phonics is one domain where that relationship has been tested directly. [Guided Practice](guided-practice.md) holds the supported-practice phase between a model and independent work, which here is the blending and decodable-reading part of each lesson. [Accessible Vocabulary and Syntax](accessible-vocabulary-syntax.md) holds what to do when a content task fails because of its wording; a decoding limit is one of the explanations it asks a designer to rule out. Explicit Instruction: Phonics, which carried the same recommendation for adult learners, was folded into this page on 2026-10-05 (its body is kept in a comment at the end); its adult focus is carried by the adult and low-confidence rows of the situation table.
 
 ## Default design
 
@@ -57,10 +67,10 @@ The three facts that most change the decision:
 | Learners are pre-readers (preschool) | Phonemic-awareness games with letters in view, one or two skills (blending, segmenting) at a time, in small groups, 5–18 hours in all; plus daily interactive read-alouds. Do not start a full decoding programme | [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M] (preschool to grade 1); [Dialogic Reading Improves Expressive Language](../claims/dialogic-reading-improves-expressive-language.md) [+M] |
 | Learners already decode accurately (`advanced` for decoding) | Drop phonics lessons; give the screening only, teach the specific gaps it shows, and spend the time on fluency, vocabulary and comprehension | [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] (a cognitive-load review, carried to reading) |
 | Older struggling readers (grade 2 and above, or `adolescent`) | Diagnose the gaps rather than restart the sequence; teach multisyllable decoding and word parts (prefixes, roots, suffixes); pair every phonics lesson with fluency and comprehension work; expect decoding gains before comprehension gains | [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [~S] (older readers with difficulties: decoding effects remained, comprehension and spelling effects not reliably above zero); [Morphological Instruction Improves Literacy](../claims/morphological-instruction-improves-literacy.md) [+M] (largest gains on decoding, particular benefit for less-able readers, preschool to grade 8) |
-| Learners have an identified reading disability or dyslexia | Keep systematic phonics as the core, delivered one-to-one or in groups of two to four, with more cumulative review and a longer intervention; expect small gains; do not expect a branded multisensory programme to add to them, and do not use coloured overlays | [Structured Literacy Interventions Help Struggling Readers](../claims/structured-literacy-interventions-help-struggling-readers.md) [~S] (22 RCTs: phonics the only approach with a confirmed effect, g′ = 0.198; Orton-Gillingham effects positive but not significant). Group size is an untested proposal |
-| Learners are `adult`, in a literacy programme or at work | Use adult texts and words from the learner's own life or job for blending and decodable reading; say why the sound work is there; keep checks private; move to the learner's real texts as soon as a correspondence is secure | untested proposal for adult literacy. An artificial-script experiment with 24 adults found print-to-sound training made new words faster to read than print-to-meaning training, not more accurate ([Phonics Instruction Outperforms Whole Word For Generalization](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S]); see also [Explicit Instruction: Phonics](explicit-instruction-phonics.md) |
+| Learners have an identified reading disability or dyslexia | Keep systematic phonics as the core, delivered one-to-one or in groups of two to four, with more cumulative review and a longer intervention; expect small gains; do not expect a branded multisensory programme to add to them, and do not use coloured overlays | [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](../claims/structured-literacy-interventions-help-struggling-readers.md) [~S] (22 RCTs: phonics the only approach with a confirmed effect, g′ = 0.198; Orton-Gillingham effects positive but not significant). Group size is an untested proposal |
+| Learners are `adult`, in a literacy programme or at work | Use adult texts and words from the learner's own life or job for blending and decodable reading; say why the sound work is there; keep checks private; move to the learner's real texts as soon as a correspondence is secure | untested proposal for adult literacy. An artificial-script experiment with 24 adults found print-to-sound training made new words faster to read than print-to-meaning training, not more accurate ([Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S]). No claim page here tests phonics teaching with adults learning to read their own language |
 | Learners are learning English as a second language, or the language of instruction is not their first | Teach the sounds orally before print, with minimal pairs for sounds absent from the first language; use only words whose meaning the learner knows for blending practice; teach meaning alongside | untested proposal. In adult ESL readers, phonological and orthographic processing efficiency is associated with reading measures ([Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](../claims/phonological-orthographic-efficiency-predicts-esl-reading.md) [+W]; correlational, reported second-hand) |
-| The goal is reading comprehension, not only word reading | Keep phonics, but do not expect it to carry comprehension: add vocabulary, oral-language and read-aloud discussion time, and measure comprehension separately | [Phonics Instruction Outperforms Whole Word For Generalization](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S] (whole-language comparison: d = 0.55 decoding, d = 0.19 comprehension); [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+W] (a mechanism; no training study) |
+| The goal is reading comprehension, not only word reading | Keep phonics, but do not expect it to carry comprehension: add vocabulary, oral-language and read-aloud discussion time, and measure comprehension separately | [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S] (whole-language comparison: d = 0.55 decoding, d = 0.19 comprehension); [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+W] (a mechanism; no training study) |
 | One teacher with a whole class of 25–30 | Introduce the new correspondence to the whole class in 10 minutes with choral responses and every child showing a written answer at once (whiteboards); then small groups by placement for decodable reading while others practise independently; weekly one-to-one checks rotated across the class | [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [~M] (for phonemic-awareness training, small groups beat whole-class and individual delivery; carried to phonics); the rotation is untested |
 | Mixed modes: some learners at home, some in the room, or practice on a phone | Record each model on video with the mouth visible; have the learner read the word list aloud into the phone for the teacher to hear; send decodable books home with a one-page guide for the adult on saying sounds without an added "uh" and on correcting by pointing to the letters | untested proposal. Coaching parents in an interactive reading style changed home practice for families of 2- to 3-year-olds but not for families of children at greatest risk ([Dialogic Reading Improves Expressive Language](../claims/dialogic-reading-improves-expressive-language.md) [~M]) |
 | No teacher present: an app or self-paced programme | Choose or build software that models every sound in audio, has the learner blend before revealing the word, checks reading aloud (speech recognition or a recorded sample a person reviews), and gates new correspondences on the weekly check | untested proposal; no claim here tests phonics delivered without a teacher |
@@ -90,8 +100,8 @@ These rows are proposals, untested as diagnostics. A probe is also practice, so 
 ## Evidence and qualifications
 
 - [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+S]: the National Reading Panel meta-analysis (Ehri et al. 2001) pooled 38 experimental and quasi-experimental studies (66 treatment–control comparisons) of systematic phonics against unsystematic or no phonics, kindergarten to grade 6; overall d = 0.41, held at the end of instruction and at the end of the first year, largest on decoding regular words and pseudowords, and larger in kindergarten (d = 0.46), grade 1 (d = 0.54) and grade 2 (d = 0.43) than for older readers with difficulties, whose decoding gains remained but whose comprehension and spelling gains were not reliably above zero. Coded `q4 i2`; rigour not settled (`r?`). The same claim records Bowers (2020), which argues the advantage over whole language is not shown (below).
-- [Phonics Instruction Outperforms Whole Word For Generalization](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S]: its three entries pull in different directions. The meta-analysis abstract reports phonics ahead of every control type, whole language included, larger when it began early (d = 0.55) than after first grade (d = 0.27), and not helping low-achieving readers with cognitive limitations; it gives no separate effect for reading untrained words, which is the claim's subject. An artificial-script experiment with 24 adults found print-to-sound training made untrained words faster to read but not more accurate (both about 80% correct). Bowers (2020), a systematic review of 12 meta-analyses (`review · r3`), reports that the National Reading Panel's direct comparison with whole language used 12 non-randomised studies, d = 0.31, largest for decoding (d = 0.55) and smallest for comprehension (d = 0.19), and concludes there is little evidence that systematic phonics beats common alternatives, while not arguing for whole language. **This is the limiting claim**: the advantage over no or unsystematic phonics is tested; the advantage over other structured reading methods is smaller and disputed.
-- [Structured Literacy Interventions Help Struggling Readers](../claims/structured-literacy-interventions-help-struggling-readers.md) [~S]: a meta-analysis of 22 randomised trials with children and adolescents below the 25th percentile in reading found phonics the only treatment with a statistically confirmed effect on reading and spelling, small after adjustment for publication bias (g′ = 0.198, 95% CI 0.039–0.357); coloured overlays, auditory training and other categories did not reach significance. A meta-analysis of Orton-Gillingham programmes found positive but non-significant effects (0.22 on foundational skills, 0.14 on vocabulary and comprehension). It supports phonics for struggling readers and qualifies the size of the gain and the value of one branded programme.
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~S]: its three entries pull in different directions. The meta-analysis abstract reports phonics ahead of every control type, whole language included, larger when it began early (d = 0.55) than after first grade (d = 0.27), and not helping low-achieving readers with cognitive limitations; it gives no separate effect for reading untrained words, which is the claim's subject. An artificial-script experiment with 24 adults found print-to-sound training made untrained words faster to read but not more accurate (both about 80% correct). Bowers (2020), a systematic review of 12 meta-analyses (`review · r3`), reports that the National Reading Panel's direct comparison with whole language used 12 non-randomised studies, d = 0.31, largest for decoding (d = 0.55) and smallest for comprehension (d = 0.19), and concludes there is little evidence that systematic phonics beats common alternatives, while not arguing for whole language. **This is the limiting claim**: the advantage over no or unsystematic phonics is tested; the advantage over other structured reading methods is smaller and disputed.
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](../claims/structured-literacy-interventions-help-struggling-readers.md) [~S]: a meta-analysis of 22 randomised trials with children and adolescents below the 25th percentile in reading found phonics the only treatment with a statistically confirmed effect on reading and spelling, small after adjustment for publication bias (g′ = 0.198, 95% CI 0.039–0.357); coloured overlays, auditory training and other categories did not reach significance. A meta-analysis of Orton-Gillingham programmes found positive but non-significant effects (0.22 on foundational skills, 0.14 on vocabulary and comprehension). It supports phonics for struggling readers and qualifies the size of the gain and the value of one branded programme.
 - [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M]: a meta-analysis of 52 studies of phonemic-awareness training from preschool to grade 1 found a large effect on phonemic awareness (d = 0.86), a moderate effect on reading (d = 0.53) and on spelling (d = 0.59, though not for disabled readers); reading gains were larger with letters included, one or two skills taught, small groups, and 5–18 hours of instruction; classroom teachers were as effective as researchers. One study (`q4 · r2`). It supports the oral-sound part of the lesson, not phonics as such.
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](../claims/phoneme-awareness-stronger-predictor-than-rhyme.md) [+M]: three correlational and longitudinal studies of children aged about 5 to 9 found phoneme awareness and letter knowledge predicted word recognition, and rhyme skills did not add once those were counted. It supports screening letter sounds and phoneme blending rather than rhyme; it is associational and does not test teaching.
 - [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+W]: a theoretical model (LaBerge & Samuels 1974, `q1`) and a review (Perfetti 2007, `q2`) proposing that word recognition which runs without attention leaves capacity for comprehension, reframed by Perfetti as depending on the quality of word representations. The claim page says neither source shows that training recognition to automaticity produces a comprehension gain. The earlier page cited it `[+S]`, above its cap.
@@ -105,12 +115,16 @@ Learners, comparisons and outcomes differ across these (kindergarten classes, st
 
 Claims found while converting this page that bear on it but are not part of the model above.
 
-- [Phonological Awareness Training Improves Reading](../claims/phonological-awareness-training-improves-reading.md) [+M] — carries the same single entry (Ehri et al. 2001, phonemic awareness) and the same subclaim as the phonemic-awareness claim above; a merge candidate.
+<!-- deprecated (2026-10-05, the two claims were merged): - [Phonological Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M] — carries the same single entry (Ehri et al. 2001, phonemic awareness) and the same subclaim as the phonemic-awareness claim above; a merge candidate. -->
 - [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](../claims/balance-whole-language-and-phonics.md) [~W] — an opinion essay with no data; it supports nothing beyond the advice to observe each pupil.
 - [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](../claims/low-group-first-graders-read-few-words.md) [~W] — a review reporting an observational finding second-hand: low-group first graders read 60 words in five days, high groups ten times as many. It bears on the amount of connected reading weaker readers get, not on phonics teaching.
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [~W] — a review reporting one study second-hand; bears on the context-guessing explanation in the diagnosis table.
 - [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](../claims/phonological-automatization-improves-esp-reading-comprehension.md) [+W] — 60 university ESP students, pronunciation practice against translation, one semester; second-language reading, not phonics for beginning readers.
 - [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](../claims/early-decoding-failure-widens-acquisition-gap.md) [~W] — a conference paper's interpretation about young adult foreign-language learners; it does not test teaching.
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — from the folded adult page: support should move gradually from highly guided decoding to more independent reading and writing. This and the next three bullets came from that page and were not read against this model; none of these claims tests phonics teaching.
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — beginning readers benefit from explicit process routines for decoding rather than being pushed directly to outcome performance
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — systematic phonics reduces the cognitive burden of word recognition by building more efficient pattern processing
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — decoding support is stronger when instructors respond to specific breakdowns in sound-symbol mapping
 
 ## Objective and learner-valued goal
 
@@ -131,9 +145,14 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Direct Instruction](direct-instruction.md) — the general relationship between explicit modelling with guided practice and less guided discovery; phonics is one domain where it has been tested directly
 - [Guided Practice](guided-practice.md) — the supported-practice phase that the blending and decodable-reading part of a phonics lesson carries out
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — when a content task fails, a decoding limit is one explanation to rule out before simplifying wording
-- [Explicit Instruction: Phonics](explicit-instruction-phonics.md) — the same recommendation for adult learners (not yet converted)
+- [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — phonics supports word recognition, while vocabulary supports meaning; both are needed
+- [Scaffolding and Fading](scaffolding-and-fading.md) — foundational reading instruction requires temporary support that should be withdrawn gradually
 
 ## Examples
+- [Word Study](../strategies/word_study.md) — pattern-based work on spelling and word structure
+- Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
+- Guided reading of short adult-appropriate texts that reuse taught patterns
+- Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]
@@ -154,7 +173,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Decodable Text Reading Practice](../strategies/decodable-text-reading-practice.md) — connected-text practice restricted to taught correspondences
 - [Explicit Phonics Routines](../strategies/explicit-phonics-routines.md) — the daily model–blend–read routine
 - [Syllable Division Instruction](../strategies/syllable-division-instruction.md) — multisyllable decoding for older readers
-- [Orton Gillingham Approach](../strategies/orton-gillingham-approach.md) — a branded structured-literacy programme; its pooled effects were positive but not significant ([Structured Literacy Interventions Help Struggling Readers](../claims/structured-literacy-interventions-help-struggling-readers.md) [~S])
+- [Orton Gillingham Approach](../strategies/orton-gillingham-approach.md) — a branded structured-literacy programme; its pooled effects were positive but not significant ([Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](../claims/structured-literacy-interventions-help-struggling-readers.md) [~S])
 
 ## Key Sources
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
@@ -163,6 +182,10 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Dehaene, S. (2009). *Reading in the brain: The new science of how we read*. Viking.
 ---
+- Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. *Reading and Writing, 31*(1), 75-98. [doi:10.1007/s11145-017-9774-9](https://doi.org/10.1007/s11145-017-9774-9)
+- Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78. [doi:10.1177/0022219411426859](https://doi.org/10.1177/0022219411426859)
+- McShane, S. (2006). *Applying research in reading instruction for adults: First steps for teachers*.
+- Sticht, T. (2002). *Teaching reading with adults*.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -242,4 +265,80 @@ Phonics works because skilled reading depends on building automatic orthographic
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Dehaene, S. (2009). *Reading in the brain: The new science of how we read*. Viking.
 ---
+-->
+
+<!-- merged 2026-10-05 from principles/explicit-instruction-phonics ("Explicit Instruction: Phonics"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Explicit Instruction: Phonics
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 causal, 3 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 11 report an effect size
+
+## Description
+Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness, can benefit from explicit phonics instruction. Phonics instruction specifically addresses word-level reading by connecting letters to sounds, aiding learners in reading and comprehending text. Direct instruction that resembles early reading instruction assists adult literacy learning, particularly as adult readers may need to unlearn ineffective reading and writing habits. This process requires explicit teaching and sufficient practice to ensure retention of skills for transfer into long-term memory.
+
+## Implications
+Explicit phonics instruction is appropriate when word-level reading is the bottleneck preventing broader comprehension. Systematic teaching of sound-symbol patterns, combined with guided practice and adult-appropriate materials, can reduce the cognitive effort required for decoding and make later reading more fluent and less effortful [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. Beginning readers benefit from explicit process routines for decoding rather than being pushed directly to independent outcome performance [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and decoding support is strongest when instructors respond to the specific breakdown in sound-symbol mapping rather than giving generic correction [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]. The instructional caution is that phonics should function as a bridge into meaningful reading, not as an isolated drill system, so transfer into connected text and real literacy goals needs to happen quickly and deliberately [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
+
+### Context
+#### Requirements
+- Direct, systematic teaching of grapheme-phoneme correspondences, decoding patterns, and blending or segmenting routines
+- Ample guided practice reading and spelling words that use the taught patterns
+- Instruction matched to learners’ current decoding profile rather than assumed from age or grade level
+- Respectful adult-appropriate materials and framing so foundational-skill instruction is not infantilizing
+
+#### Constraints
+- Adults may carry shame or avoidance around foundational reading work, so pacing and tone matter
+- Phonics instruction alone does not build full reading comprehension; it must connect to meaningful text and vocabulary work
+- Learners with very weak phonological awareness or highly inconsistent attendance may need intensive repetition to consolidate patterns
+- Instruction is less effective when it is unsystematic, purely incidental, or detached from practice in actual reading and writing
+
+### Target Learners
+- Adult learners with persistent decoding difficulties or incomplete foundational reading development
+- Multilingual learners who need explicit support mapping English sounds to print
+- Learners re-entering literacy instruction after negative prior schooling experiences
+- Learners whose reading comprehension is constrained by word-level reading, not only by language knowledge
+
+### Target Learning Objectives
+- Strengthen decoding accuracy and efficiency
+- Improve transfer from isolated sound-symbol work to reading and spelling connected text
+- Build confidence with foundational reading tasks that adults may have long avoided
+- Support later growth in fluency, vocabulary, and comprehension by stabilizing word recognition
+
+### Theory
+#### Supporting
+- Information-processing perspectives support explicit, sequenced instruction for foundational decoding routines
+- Systematic skill-building models fit phonics well because patterns build cumulatively and require repeated practice
+- Adult-learning perspectives qualify delivery: adults still need explicit foundational instruction, but the materials and rationale must respect their maturity and goals
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) supports reducing the burden of word-level processing so attention can later be freed for comprehension
+
+#### Contradicting / Qualifying
+- Phonics is most important when decoding is the bottleneck; it is not the whole reading curriculum
+- Adults need transfer into meaningful reading quickly, or foundational drills may feel disconnected and demotivating
+- Support should move gradually from highly guided decoding to more independent reading and writing [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+
+### Claims
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — beginning readers benefit from explicit process routines for decoding rather than being pushed directly to outcome performance
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — systematic phonics reduces the cognitive burden of word recognition by building more efficient pattern processing
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — decoding support is stronger when instructors respond to specific breakdowns in sound-symbol mapping
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — learners need support to shift from guided pattern practice toward independent reading of connected text
+
+## Related Principles
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — easier language access supports transfer from decoding practice into meaningful reading
+- [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — phonics supports word recognition, while vocabulary supports meaning; both are needed
+- [Chunking](chunking.md) — phonics instruction often relies on systematic segmentation and manageable pattern sets
+- [Scaffolding and Fading](scaffolding-and-fading.md) — foundational reading instruction requires temporary support that should be withdrawn gradually
+
+## Examples
+<!- - Links to elements or patterns that apply this principle - ->
+- [Word Study](../strategies/word_study.md) — pattern-based work on spelling and word structure
+- Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
+- Guided reading of short adult-appropriate texts that reuse taught patterns
+- Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
+
+## Key Sources
+- Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. *Reading and Writing, 31*(1), 75-98. [doi:10.1007/s11145-017-9774-9](https://doi.org/10.1007/s11145-017-9774-9)
+- Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78. [doi:10.1177/0022219411426859](https://doi.org/10.1177/0022219411426859)
+- McShane, S. (2006). *Applying research in reading instruction for adults: First steps for teachers*.
+- Sticht, T. (2002). *Teaching reading with adults*.
 -->

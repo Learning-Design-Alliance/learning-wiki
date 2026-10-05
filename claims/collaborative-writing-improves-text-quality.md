@@ -77,7 +77,6 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
-- [Self-regulated learning strategy instruction improves writing outcomes](self-regulated-learning-strategies-improve-writing.md) — related
 - [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — a narrower finding that bears on this claim
 - [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
 - [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](half-of-texts-showed-collaborative-learning.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # Successive Approximation Model (SAM)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 5 studies (4 quant-synthesis, 1 review), `q3`–`q4` · 4 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 7 studies (4 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 4 of 7 report an effect size
 
 ## Description
 SAM is an iterative design process for courses, formulated by Michael Allen as an explicit alternative to running [ADDIE](systematic-instructional-design.md) as a waterfall. Its argument is empirical rather than philosophical: the phases of a systematic process are all sound, but performing each one *completely* before starting the next means the first real evidence about whether the design works arrives after the budget is spent.

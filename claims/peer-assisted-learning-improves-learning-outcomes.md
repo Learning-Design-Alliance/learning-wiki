@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008
-    resource: "https://eric.ed.gov"
-    title: "Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov"
-    author: Online peer assisted learning community model and its application in ZJNU
+  - id: gaofeng-yeyu-2007
+    resource: "https://eric.ed.gov/?id=ED500172"
+    title: "Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)"
+    author: "Gaofeng, R., & Yeyu, L."
     q: 2
     i: "?"
     kind: design
@@ -25,13 +25,14 @@ sources:
 > **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Acquiring knowledge and skills through peers' assistance and support, including peer tutoring, peer modeling, peer education, peer counseling, peer monitoring, and peer assessment, promotes knowledge construction, collaboration ability, and interpersonal interaction. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
+`q2 i?` Acquiring knowledge and skills through peers' assistance and support, including peer tutoring, peer modeling, peer education, peer counseling, peer monitoring, and peer assessment, promotes knowledge construction, collaboration ability, and interpersonal interaction. [→ Online peer assisted learning community model and its application in ZJNU 2008](#gaofeng-yeyu-2007)
 
 ## Evidence
 
-### Online peer assisted learning community model and its application in ZJNU 2008
+### Gaofeng & Yeyu 2007
 
-Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
+<!-- citation corrected 2026-10-05 from the ERIC record for the source this page was fetched from (ED500172, 2007; no Crossref record, so no DOI). Was: Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov -->
+Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r1`
 
@@ -44,12 +45,12 @@ The article's review section defines peer assisted learning as "acquiring knowle
 
 ## Related Claims
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
-- [A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
+- [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
 - [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
 - [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — a narrower finding that bears on this claim
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — a narrower finding that bears on this claim
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — a narrower finding that bears on this claim
-- [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — a narrower finding that bears on this claim
+- [Teaching Others Generative Strategy](learning-by-teaching-improves-tutor-learning.md) — a narrower finding that bears on this claim
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a narrower finding that bears on this claim
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — a narrower finding that bears on this claim
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related

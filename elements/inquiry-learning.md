@@ -12,7 +12,7 @@ generated:
 # Inquiry Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Inquiry learning places learners in the role of investigator: they pose or explore questions, gather and analyze evidence, and construct explanations, with the instructor acting as guide rather than primary explainer. It ranges along a continuum from open (learner-generated questions and procedures) to guided (teacher-structured tasks and prompts), and the evidence strongly favors the guided end.

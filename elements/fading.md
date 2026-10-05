@@ -17,7 +17,7 @@ sources:
 # Fading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 review, 1 theoretical), `q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (2 causal, 2 review, 2 theoretical), `q1`–`q3` · 0 of 6 report an effect size
 
 ## Description
 Fading is the element in which instructional support is deliberately reduced as learner competence grows. It is useful when the design goal is to transition from supported performance to independence without either over-supporting or abandoning learners too early.
@@ -46,7 +46,7 @@ Fading is the element in which instructional support is deliberately reduced as 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
-- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [+M]
+- [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-effect.md) [+M]
 
 ## Related Elements
 - [Demonstration](demonstration.md)

@@ -25,7 +25,7 @@ sources:
 # Instructor Accessibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (7 for, 15 mixed) · 24 studies (5 causal, 4 quant-synthesis, 4 review, 4 qualitative, 3 associational, 3 design, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (7 for, 14 mixed) · 24 studies (5 causal, 4 quant-synthesis, 4 review, 4 qualitative, 3 associational, 3 design, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,7 +112,7 @@ Learners, settings and outcomes differ across these (children in tutoring, a sim
 Claims that bear on instructor accessibility but are not part of the model above, or appear only in a row of the situation table. Each says what it is and how far it bears on this page.
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~W] — cited by the earlier page as the reason accessible instructors help learners notice confusion early; a review and a theoretical synthesis, no comparison and no effect size, so it is a mechanism hypothesis here (marker lowered from the earlier `[~M]`, as on [Check-ins](check-ins.md)).
-- [Learner-centered teacher–student relationships are associated with better student outcomes](../claims/learner-centered-teacher-student-relationships-are-effective.md) [~M] — the same two meta-analyses as the engagement claim above; correlational, bears on the relational side only.
+- [Learner-centered teacher–student relationships are associated with better student outcomes](../claims/teacher-student-relationships-improve-engagement.md) [~M] — the same two meta-analyses as the engagement claim above; correlational, bears on the relational side only.
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](../claims/high-use-tutoring-center-visits-higher-persistence.md) [~W] and [Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters](../claims/delayed-correlation-visits-cumulative-gpa.md) [~W] — one college's drop-in tutoring centre, associational, one of two cohorts; use of a help route goes with persistence and later GPA, direction not established.
 - [Minority students visited the tutoring center more often than Caucasian students, yet tutored minority and first-generation students had lower average GPAs](../claims/minority-students-more-tutoring-visits-lower-gpas.md) [~W] — same study; a caution against reading use of help as its effect.
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](../claims/social-presence-strongest-metacognition-association-cbi.md) [~W] — survey of 47 graduate students; teaching presence (which includes instructor responsiveness) was not related to self-reported metacognition.

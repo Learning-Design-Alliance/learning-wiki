@@ -29,16 +29,16 @@ sources:
 # Formative Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 16 studies (6 quant-synthesis, 4 associational, 3 causal, 3 review), `q2`–`q4` · 6 of 16 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (6 for, 2 mixed, 2 against) · 16 studies (6 quant-synthesis, 4 associational, 3 causal, 3 review), `q2`–`q4` · 6 of 16 report an effect size · 2 claims rest on one study
 
 ## Description
 Formative feedback is information given to a learner about their work, at a point where they can still change the work or their approach to the next one. What makes it formative is not its timing alone but its content and its consequence: it addresses the task or the process rather than the person, it names a specific next action, and it is followed by an opportunity to act. A comment on a returned final paper that no one will revise is summative regardless of how detailed it is.
 
 ## Design Implications
 
-Feedback is among the highest-variance interventions in education — large average effects concealing a substantial minority of studies where feedback made performance *worse* [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S]. Kluger and DeNisi's meta-analysis located the mechanism: feedback that draws attention to the self rather than the task diverts effort into managing self-image instead of improving work, and this is where negative effects concentrate [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-M]. Person-directed praise and bare grades both do this.
+Feedback is among the highest-variance interventions in education — large average effects concealing a substantial minority of studies where feedback made performance *worse* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]. Kluger and DeNisi's meta-analysis located the mechanism: feedback that draws attention to the self rather than the task diverts effort into managing self-image instead of improving work, and this is where negative effects concentrate [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]. Person-directed praise and bare grades both do this.
 
-The usable design rule comes from Hattie and Timperley: effective feedback answers three questions — where am I going, how am I doing, and where to next — and operates at the task, process, or self-regulation level rather than the self level [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning.](../claims/feedback-answers-three-questions-improves-learning.md) [+S] [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The second rule is that feedback only works if it is used: information the learner reads and files changes nothing [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-use-improves-learning.md) [+M]. Most of the design work in practice is engineering the uptake, not improving the wording.
+The usable design rule comes from Hattie and Timperley: effective feedback answers three questions — where am I going, how am I doing, and where to next — and operates at the task, process, or self-regulation level rather than the self level [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning.](../claims/feedback-answers-three-questions-improves-learning.md) [+S] [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The second rule is that feedback only works if it is used: information the learner reads and files changes nothing [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-improves-learning.md) [+M]. Most of the design work in practice is engineering the uptake, not improving the wording.
 
 ### Context
 #### Requirements
@@ -46,10 +46,10 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - A subsequent opportunity to act — a revision, a re-attempt, or a closely related next task. Without it the feedback cannot be formative
 - Time protected for learners to read, interpret, and respond, treated as classwork rather than homework
 - Feedback specific enough to act on: naming what to change and how, not only that something is wrong
-- Separation from grades, since a mark attached to a comment reliably captures the learner's attention and suppresses engagement with the comment [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-M]
+- Separation from grades, since a mark attached to a comment reliably captures the learner's attention and suppresses engagement with the comment [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]
 
 #### Constraints
-- Feedback directed at the person — praise, ability attributions, discouragement — moves attention to the self and can depress subsequent performance [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-S]
+- Feedback directed at the person — praise, ability attributions, discouragement — moves attention to the self and can depress subsequent performance [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-S]
 - Excessive feedback overwhelms: marking every error on a piece of work produces a document the learner cannot act on and often does not read [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Feedback at the self-regulation level presumes learners who can act on it; novices given "think about your strategy" without a concrete task-level correction have nothing to do [~M]
 - Learners without sufficient prior knowledge cannot judge whether feedback applies to their work, and may implement it mechanically or not at all [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M]
@@ -84,7 +84,7 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 4. **Answer "where to next" concretely.** End each point with a specific action — a sentence to rewrite, a step to redo, a check to run.
 5. **Withhold the grade until revision is done.** If a mark must be recorded, record it privately and release it after the learner has responded.
 6. **Schedule the response in class.** Give protected time for learners to read the feedback, mark what they will change, and make the change ([Feedback](../elements/feedback.md)).
-7. **Require evidence of uptake.** Ask learners to indicate where they acted on each point, which makes non-use visible to both of you [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-use-improves-learning.md) [+M].
+7. **Require evidence of uptake.** Ask learners to indicate where they acted on each point, which makes non-use visible to both of you [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-improves-learning.md) [+M].
 8. **Check whether it landed.** Look at whether the named issue actually changed; if it did not, the problem is usually clarity or opportunity, not motivation.
 
 ## Related Strategies

@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: direct_instruction-problem-solving_strategies
-title: Direct Instruction: Problem-Solving Strategies
+title: "Direct Instruction: Problem-Solving Strategies"
 description: Instructors explicitly teach and model a repertoire of problem-solving strategies, then give learners supported opportunities to choose which strategies to apply and reflect on the outcomes of their choices.
 status: review
 generated:
@@ -12,7 +12,7 @@ generated:
 # Direct Instruction: Problem-Solving Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 13 studies (5 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (6 causal, 5 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 4 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy makes the *strategic layer* of problem solving an explicit object of instruction. Rather than assuming learners will absorb heuristics implicitly, the instructor names, models, and compares strategies (e.g., means-ends analysis, working backwards, drawing a diagram, identifying an analogous problem), demonstrates when each is useful, and then structures practice in which learners select, apply, and evaluate strategies for themselves. The goal is transferable strategic knowledge — knowing *which* approach fits *which* problem — not just execution of a single procedure.

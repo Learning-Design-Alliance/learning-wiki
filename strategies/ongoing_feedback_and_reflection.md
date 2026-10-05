@@ -25,7 +25,7 @@ sources:
 # Ongoing Feedback and Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (4 for, 2 mixed, 3 against) · 14 studies (9 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 9 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (3 for, 2 mixed, 3 against) · 14 studies (9 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 9 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Ongoing feedback and reflection is a sustained arrangement rather than an event: feedback arrives at regular, predictable points, and each time it does, the learner is required to do something deliberate with it — record what it said, judge their own work against the same criteria first, decide what to change, and later check whether the change worked. Run over a term rather than a task, the pattern shifts responsibility: early cycles are dominated by the instructor's judgement, later ones by the learner's, with the instructor's role reducing to confirming or correcting a judgement the learner has already made.
@@ -49,7 +49,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - Reflection required at fixed intervals without genuine content becomes a compliance genre: learners produce the expected register and learn nothing [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - Grading reflections corrupts them — learners write what scores well rather than what is true, which is precisely the wrong direction for a self-assessment instrument [-M]
 - Learners lacking domain knowledge cannot judge their own work reliably, so early cycles must lean on instructor judgement [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M]
-- Feedback with no opportunity to act before the next feedback point breaks the loop and turns the reflection into commentary [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-use-improves-learning.md) [-M]
+- Feedback with no opportunity to act before the next feedback point breaks the loop and turns the reflection into commentary [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-improves-learning.md) [-M]
 - Sustained cost to both parties; feedback fatigue on the instructor side and reflection fatigue on the learner's are the usual reasons the rhythm collapses mid-term [-M]
 - Written reflection disadvantages learners for whom writing is itself the barrier; the modality should not be the assessment [-W]
 
@@ -71,7 +71,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 ### Target Learning Goals
 - Self-regulation: planning, monitoring, and adjusting one's own learning [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
 - Calibration — bringing confidence into line with actual performance
-- Improved performance on the work itself, via the feedback half of the pair [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S]
+- Improved performance on the work itself, via the feedback half of the pair [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
 - Internalized criteria: knowing what good looks like without being told each time
 - Persistence, since visible cumulative progress is more motivating than isolated marks
 
