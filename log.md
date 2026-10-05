@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-10-05
 
+* **Edit**: conversion wave 7 — 15 principle pages rewritten in the conditional-model format (eval/page-triage/wave-7.md); seven frontmatter DOIs and one journal corrected against Crossref
 * **Merge**: six duplicate claims folded (summarization, overjustification, two Johnson & Johnson digests, two generative-learning claims); elements/debriefing into [debrief](elements/debrief.md); the multimedia-projects and multimedia-literacy principles into [learning by producing](patterns/learning-by-producing-pattern.md)
 * **Fix**: wave 6's claim findings — 23 titles, stale text, unbacked impact codes, and citations for Sturgill & Motley (2014), Van de Sande (2013), Pikulski (1973) and Freedle (2003) checked against Crossref, DataCite or ERIC
 * **Edit**: conversion wave 6 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-6.md); SDT and reinforcement-theory principles folded into their theories, three stub patterns into their principles; four frontmatter DOIs corrected against Crossref
