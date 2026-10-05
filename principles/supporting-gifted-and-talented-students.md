@@ -146,7 +146,7 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - [Standard-Based Regrouping](../strategies/standard-based_regrouping.md) — regrouping by what students show on a standard
 - [Learning Contracts](../strategies/learning_contracts.md) — a written agreement for independent extension work
 - [Deploy prevention and intervention supports for underachieving gifted students](../strategies/gifted-underachievement-interventions.md)
-- [Dynamic assessment for gifted identification](../strategies/dynamic-assessment-gifted-identification.md) — identification from response to teaching
+- [Use dynamic assessment to identify gifted learners' potential](../strategies/dynamic-assessment-gifted-identification.md) — identification from response to teaching
 
 ## Key Sources
 - Lally, M., & Valentine-French, S. (2015). *Lifespan development: A psychological perspective*. 
