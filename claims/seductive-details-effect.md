@@ -183,4 +183,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md) — both describe a well-intentioned motivational tactic that can backfire under identifiable conditions
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](rewards-undermine-intrinsic-motivation.md) — both describe a well-intentioned motivational tactic that can backfire under identifiable conditions

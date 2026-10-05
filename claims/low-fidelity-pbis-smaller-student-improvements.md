@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues
-description: Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues
+title: "In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues"
+description: "In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues"
 id: low-fidelity-pbis-smaller-student-improvements
 status: draft
 generated:
@@ -19,13 +19,14 @@ sources:
     rigour: 1
 ---
 
-# Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues
+# In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q1` · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q1`
+<!-- deprecated title (2026-10-05, overstated its evidence): Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues -->
 
 ## Subclaims
-`q1 i3` Despite a full year of training, teachers with low fidelity tended not to see large improvements in student behavioral functioning, unlike high-fidelity teachers. [→ Benner 2008](#benner-2008)
+`q1 i?` In the authors' interpretation, despite a full year of training, teachers with low fidelity tended not to see large improvements in student behavioral functioning, unlike high-fidelity teachers. [→ Benner 2008](#benner-2008)
 
 ## Evidence
 
@@ -33,7 +34,7 @@ sources:
 
 Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports
 
-`q1 · i3 · large effect, r = -0.52` · `associational · r1`
+`q1 · i? · no effect size printed for this finding: the entry is the authors' discussion interpretation, and neither its description nor its quote prints a correlation (an earlier codes line read "large effect, r = -0.52", a value that appears nowhere in the entry, so it is not kept)` · `associational · r1`
 
 Authors' discussion interpretation (type e) of the fidelity findings: low-fidelity teachers may conclude PBIS does not work, and without considering fidelity it is difficult to ascertain whether the intervention enhanced or constrained outcomes.
 

@@ -51,7 +51,7 @@ A comprehensive classroom management plan should incorporate strategies that acc
 - [Teaching Styles as Warmth and Control](../theories/teaching-styles-warmth-and-control.md) [~M] — these six criteria describe what an authoritative (warm-and-controlled) style aims to achieve, but the same criteria can be pursued through authoritarian methods that satisfy criteria 2-4 while badly violating criterion 5
 
 ### Claims
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] — relevant to designing criterion-5 self-control fading plans that don't over-rely on external reward
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M] — relevant to designing criterion-5 self-control fading plans that don't over-rely on external reward
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan

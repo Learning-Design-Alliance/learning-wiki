@@ -3859,7 +3859,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/number-board-games-improve-numerical-knowledge](claims/number-board-games-improve-numerical-knowledge.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/misconceptions-interfere-with-new-learning](claims/misconceptions-interfere-with-new-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/parent-implemented-intervention-improves-outcomes](claims/parent-implemented-intervention-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
-* **Ingest**: [claims/summarization-effective-with-training](claims/summarization-effective-with-training.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/summarization-effective-with-training](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/summarization-improves-learning](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/rubrics-improve-student-work](claims/rubrics-improve-student-work.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/rubrics-improve-student-work-quality](claims/rubrics-improve-student-work.md) — Evidence filled from Crossref-verified sources (gap-fill)
@@ -3956,7 +3956,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/testing-improves-retention](claims/retrieval-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/testing-effect-retrieval-practice-improves-retention](claims/retrieval-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/interleaving-improves-inductive-learning](claims/interleaving-improves-inductive-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
-* **Ingest**: [claims/generative-learning-improves-retention](claims/generative-learning-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/generative-learning-improves-retention](claims/generative-processing-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/advance-organizers-improves-learning](claims/advance-organizers-improve-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/dialogic-reading-improves-language-outcomes](claims/dialogic-reading-improves-language-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/unguided-discovery-less-effective-than-guided-instruction](claims/minimal-guidance-less-effective-for-novices.md) — Evidence copied from a verified near-duplicate (gap-fill)
@@ -5456,7 +5456,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/varieties-of-cooperative-learning](theories/varieties-of-cooperative-learning.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [theories/four-basic-elements-cooperative-learning](theories/four-basic-elements-cooperative-learning.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/secondary-cooperative-learning-newmann-thompson](claims/secondary-cooperative-learning-newmann-thompson.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
-* **Ingest**: [claims/johnson-meta-analysis-cooperative-achievement](claims/johnson-meta-analysis-cooperative-achievement.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/johnson-meta-analysis-cooperative-achievement](claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/cooperative-learning-achievement-synthesis-slavin](claims/cooperative-learning-achievement-synthesis-slavin.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [principles/positive-clarity-moves-design-principle](principles/positive-clarity-moves-design-principle.md) — Ingested from eric-ed331809 (The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [theories/tennyson-cocchiarella-concept-instruction-model](theories/tennyson-cocchiarella-concept-instruction-model.md) — Ingested from eric-ed331809 (The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception.) via eval_harness.py + ingest_extractions.py
@@ -14910,7 +14910,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/goal-orientation-theory](theories/goal-orientation-theory.md) — New page: Goal Orientation Theory, 2x2 mastery/performance x approach/avoidance model (Unit 6 ingest)
 * **Ingest**: [claims/seductive-details-distract-from-learning](claims/seductive-details-effect.md) — New claim ld-6: seductive details effect (Unit 6 ingest)
 * **Ingest**: [theories/four-phase-interest-development](theories/four-phase-interest-development.md) — New page: Four-Phase Model of Interest Development (Unit 6 ingest)
-* **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/overjustification-effect-reduces-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
+* **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/rewards-undermine-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
 * **Ingest**: [theories/instinct-drive-and-arousal-theories](theories/instinct-drive-and-arousal-theories.md) — New page: Instinct, Drive, and Arousal Theories (Unit 6 ingest)
 * **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based-learning-pbl.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose

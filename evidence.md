@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,393 |
-| Evidence entries | 4,202 |
+| Claims | 3,389 |
+| Evidence entries | 4,198 |
 | Distinct studies | 1,171 |
-| Claims resting on one study | 3,193 (94%) |
+| Claims resting on one study | 3,190 (94%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 335 of 1,171 (29%) |
 
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 209 (18%) | 581 (50%) | 301 (26%) | 80 (7%) |
+| 209 (18%) | 581 (50%) | 300 (26%) | 81 (7%) |
 
-**Studies per claim:** 0: 0, 1: 3,193, 2: 149, 3: 45, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 3,190, 2: 148, 3: 45, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-109 claims are cited both ways.
+108 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -118,12 +118,12 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 293 | 23 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 11 | 7 | 1 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 1 | 5 | 6 | 2 |
+| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 4 | 6 | 5 | 5 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 1 | 0 | 4 | 1 |
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 236 | 3 | 3 | 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 223 | 12 | 3 | 2 |
 | [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
-| [Rewarding an already-intrinsically-motivating activity can reduce future engagement with …](claims/overjustification-effect-reduces-intrinsic-motivation.md) | 1 | 1 | 3 | 4 |
 | [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 14 | 3 | 2 |
 | [Social media tools plugged into learning management systems are presented as "social …](claims/social-media-tools-misappropriated-as-social-learning.md) | 1 | 0 | 3 | 1 |
 

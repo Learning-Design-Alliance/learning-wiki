@@ -1,6 +1,6 @@
 {
  "counts": {
-  "claim": 3393,
+  "claim": 3389,
   "design": 115,
   "element": 733,
   "learner-variable": 12,
@@ -5290,6 +5290,9 @@
    "type": "claim"
   },
   {
+   "aliases": [
+    "johnson-meta-analysis-cooperative-achievement"
+   ],
    "description": "Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning",
    "evidence_strength": "weak",
    "id": "cooperative-learning-higher-achievement-than-competitive-individualistic",
@@ -10482,14 +10485,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "generative-learning-improves-retention",
-   "path": "claims/generative-learning-improves-retention.md",
-   "status": "draft",
-   "title": "Generative Learning Improves Retention",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "generative-learning-improves-retention"
+   ],
    "description": "",
    "id": "generative-processing-improves-learning",
    "path": "claims/generative-processing-improves-learning.md",
@@ -13482,15 +13480,6 @@
    "path": "claims/job-and-pay-largest-apprenticeship-barriers.md",
    "status": "draft",
    "title": "Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase",
-   "type": "claim"
-  },
-  {
-   "description": "Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks",
-   "evidence_strength": "moderate",
-   "id": "johnson-meta-analysis-cooperative-achievement",
-   "path": "claims/johnson-meta-analysis-cooperative-achievement.md",
-   "status": "draft",
-   "title": "Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks",
    "type": "claim"
   },
   {
@@ -18887,15 +18876,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "overjustification-effect-reduces-intrinsic-motivation",
-   "path": "claims/overjustification-effect-reduces-intrinsic-motivation.md",
-   "status": "draft",
-   "title": "Rewarding an already-intrinsically-motivating activity can reduce future engagement with it",
-   "type": "claim"
-  },
-  {
    "description": "In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense",
    "evidence_strength": "weak",
    "id": "overlap-degree-moderates-false-identification-risk",
@@ -23028,7 +23008,8 @@
   },
   {
    "aliases": [
-    "extrinsic-rewards-undermine-intrinsic-motivation"
+    "extrinsic-rewards-undermine-intrinsic-motivation",
+    "overjustification-effect-reduces-intrinsic-motivation"
    ],
    "description": "",
    "id": "rewards-undermine-intrinsic-motivation",
@@ -27048,14 +27029,9 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "summarization-effective-with-training",
-   "path": "claims/summarization-effective-with-training.md",
-   "status": "draft",
-   "title": "Summarization Effective With Training",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "summarization-effective-with-training"
+   ],
    "description": "",
    "id": "summarization-improves-learning",
    "path": "claims/summarization-improves-learning.md",
@@ -77332,7 +77308,7 @@
    "general-climate-moderates-strategic-climate-effect": "general-climate-moderates-strategic-climate-effect",
    "generation-effect-improves-retention": "generation-effect-improves-retention",
    "generative-learning-improves-comprehension": "generative-learning-improves-comprehension",
-   "generative-learning-improves-retention": "generative-learning-improves-retention",
+   "generative-learning-improves-retention": "generative-processing-improves-learning",
    "generative-processing-improves-learning": "generative-processing-improves-learning",
    "geometry-software-model-helped-informal-educator-understand-spatial-relations": "geometry-software-model-helped-informal-educator-understand-spatial-relations",
    "germane-cognitive-load-correlates-positively-with-interest": "germane-cognitive-load-correlates-positively-with-interest",
@@ -77676,7 +77652,7 @@
    "japanese-math-achievement-d-078": "japanese-math-achievement-d-078",
    "jeremy-journal-topics-track-equality-equity-mindsets": "jeremy-journal-topics-track-equality-equity-mindsets",
    "job-and-pay-largest-apprenticeship-barriers": "job-and-pay-largest-apprenticeship-barriers",
-   "johnson-meta-analysis-cooperative-achievement": "johnson-meta-analysis-cooperative-achievement",
+   "johnson-meta-analysis-cooperative-achievement": "cooperative-learning-higher-achievement-than-competitive-individualistic",
    "joint-book-reading-predicts-literacy-success": "joint-book-reading-predicts-literacy-success",
    "joint-modeling-improves-hint-prediction-small-margin": "joint-modeling-improves-hint-prediction-small-margin",
    "journal-clubs-enhance-critical-appraisal-pharmacy-students": "journal-clubs-enhance-critical-appraisal-pharmacy-students",
@@ -78292,7 +78268,7 @@
    "overall-support-strongly-predicts-engagement": "overall-support-strongly-predicts-engagement",
    "overall-therapist-complementarity-not-related-to-therapy-outcome": "overall-therapist-complementarity-not-related-to-therapy-outcome",
    "overgeneralization-errors-indicate-rule-use": "overgeneralization-errors-indicate-rule-use",
-   "overjustification-effect-reduces-intrinsic-motivation": "overjustification-effect-reduces-intrinsic-motivation",
+   "overjustification-effect-reduces-intrinsic-motivation": "rewards-undermine-intrinsic-motivation",
    "overlap-degree-moderates-false-identification-risk": "overlap-degree-moderates-false-identification-risk",
    "overlapping-ci-potential-relationship": "overlapping-ci-potential-relationship",
    "overt-error-correction-speeds-young-children-learning": "overt-error-correction-speeds-young-children-learning",
@@ -79237,7 +79213,7 @@
    "successful-readers-global-support-strategy-difference": "successful-readers-global-support-strategy-difference",
    "sufficient-input-convergence-school-age-microstructure": "sufficient-input-convergence-school-age-microstructure",
    "suggest-subgoal-compliance-predicts-learning-gains": "suggest-subgoal-compliance-predicts-learning-gains",
-   "summarization-effective-with-training": "summarization-effective-with-training",
+   "summarization-effective-with-training": "summarization-improves-learning",
    "summarization-improves-learning": "summarization-improves-learning",
    "summer-reading-loss-widens-gaps": "summer-reading-loss-widens-gaps",
    "sun-rises-exactly-east-only-at-equinoxes": "sun-rises-exactly-east-only-at-equinoxes",

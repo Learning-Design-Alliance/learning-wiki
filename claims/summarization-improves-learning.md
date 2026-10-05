@@ -1,11 +1,12 @@
 ---
 type: claim
-title: Summarization Improves Learning
+title: "Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading"
 status: draft
 generated:
   by: claude/unspecified
   at: 2026-09-25
 id: summarization-improves-learning
+aliases: [summarization-effective-with-training]
 evidence_strength:
 sources:
   - id: selinger-et-al-1993
@@ -28,12 +29,15 @@ sources:
     rigour: "?"
 ---
 
-# Summarization Improves Learning
+# Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Summarization Improves Learning -->
 
-Writing summaries of to-be-learned material — identifying main ideas and condensing them into the learner's own words — improves comprehension and retention relative to re-reading or passive study.
+Writing summaries of to-be-learned material means identifying main ideas and condensing them into the learner's own words. Two studies are recorded: explicit training in a text's hierarchical structure improved the quality of developmental college students' summaries, with only a marginal effect on delayed recall and no transfer to a reading test (Selinger et al. 1993); and in a multi-document writing task, adults who summarized each source wrote worse integrated essays than adults who reread (McNamara et al. 2024).
+
+<!-- deprecated (2026-10-05, overstated its evidence): Writing summaries of to-be-learned material — identifying main ideas and condensing them into the learner's own words — improves comprehension and retention relative to re-reading or passive study. -->
 
 ## Subclaims
 
@@ -63,9 +67,9 @@ McNamara, D. S., Watanabe, M., Huynh, L., McCarthy, K. S., Allen, L. K., & Magli
 
 **The recorded evidence qualifies the claim.** Training in text structure improved the quality of summaries (Selinger et al. 1993, an unpublished conference paper), but in a multi-document writing task, summarizing each source led to worse integrated essays than simply rereading (McNamara et al. 2024). The benefit depends on what learners are asked to do with the material afterwards.
 
-Summarization is a generative learning activity: producing a summary forces learners to select the most important information, organize it coherently, and connect it to prior knowledge, all of which are more demanding and more effective than re-reading. It is closely related to other generative strategies such as [annotating](annotating-improves-learning.md), and it imposes working-memory demands that must be managed — see [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) and [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
+Summarization is a generative learning activity: producing a summary asks learners to select the most important information, organize it coherently, and connect it to prior knowledge, which is more demanding than re-reading; whether it is more effective depends on the task, and in McNamara et al. (2024) it was less effective than rereading. <!-- deprecated (2026-10-05, overstated its evidence): "all of which are more demanding and more effective than re-reading." --> It is closely related to other generative strategies such as [annotating](annotating-improves-learning.md), and it imposes working-memory demands that must be managed — see [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) and [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
 
-Key moderators to document once evidence entries are added:
+Moderators the two recorded studies do not yet test (only training, in Selinger et al. 1993, and the multi-document task, in McNamara et al. 2024, are covered): <!-- deprecated (2026-10-05, stale): Key moderators to document once evidence entries are added: -->
 
 - **Training and scaffolding.** Untrained summarizers, especially younger learners, often copy verbatim or fixate on surface features rather than main ideas. Modeling, explicit criteria, and gradual fading of support are typically required before summarization pays off — a constraint consistent with [Cognitive load theory](../theories/cognitive-load-theory.md).
 - **Prior knowledge.** Learners without sufficient domain knowledge struggle to distinguish main ideas from detail, which limits the strategy's value; summarization tends to benefit learners with at least moderate familiarity with the material.
@@ -74,6 +78,16 @@ Key moderators to document once evidence entries are added:
 
 Open questions include how summarization compares with other generative strategies (e.g., self-explanation, concept mapping) for the same study time, and how its effectiveness varies across text genres and age groups.
 
+*Merged from “Summarization Effective With Training” (summarization-effective-with-training):* that page carried the same two studies; its opening paragraph repeated the one at the top of this Discussion. <!-- merged 2026-10-05, duplicate paragraph kept verbatim: **The recorded evidence qualifies the claim.** Training in text structure improved the quality of summaries (Selinger et al. 1993, an unpublished conference paper), but in a multi-document writing task, summarizing each source led to worse integrated essays than simply rereading (McNamara et al. 2024). The benefit depends on what learners are asked to do with the material afterwards. -->
+
+**Why training matters.** Effective summarization requires selecting main ideas, deleting redundancy, and paraphrasing — skills that novices do not apply spontaneously. Without instruction, learners tend to copy verbatim text or summarize surface features rather than the underlying structure, which consumes effort without producing the generative processing that makes summarization effective. Training typically involves modeling, explicit criteria for good summaries, and practice with feedback. In the one recorded training study (Selinger et al. 1993), five weeks of group instruction in identifying thesis, major concepts and supporting details raised summary quality, but it did not reliably improve delayed recall or reading-test scores, so better summaries were not shown to mean more learning.
+
+**Boundary conditions.** The claim's scope is conditional: summarization is a strategy whose effectiveness is mediated by summary quality, and summary quality is mediated by training. Untrained summarization is a condition under which the strategy fails or backfires — it can add rather than reduce load for novices [-M], because the production demands of writing compete with comprehension for limited working-memory resources. Learners with low domain knowledge may struggle to identify what is important even with strategy training, so training may need to be paired with adequate [prior knowledge activation](activation-improves-learning.md) [~M]. Summarization also imposes production demands that may overload working memory for novices — see [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) and [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
+
+**Moderators to expect.** Plausible moderators of the training effect include learner age and expertise (younger and less knowledgeable learners need more scaffolding), text structure (well-structured texts make main ideas easier to identify), and the fidelity of training (whether learners receive feedback on summary quality rather than merely being told to summarize). None of these is tested by the two recorded studies. <!-- deprecated (2026-10-05, stale): These should be tested once evidence entries are added. -->
+
+**Open questions.** The optimal amount, timing, and format of summarization training (e.g., written vs. oral, individual vs. collaborative, summary length constraints) remain under-specified. The page records two studies, one an unpublished conference paper and one a peer-reviewed experiment whose result runs against summarizing; a synthesis of summarization studies, and studies with recall or comprehension outcomes, are still missing. <!-- deprecated (2026-10-05, stale): remain under-specified, and this page needs evidence entries before the claim's strength can be rated. -->
+
 ## Related Claims
 
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — a sibling generative strategy that also requires selecting and processing key information during study.
@@ -81,6 +95,7 @@ Open questions include how summarization compares with other generative strategi
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — summarization can overload novices if the source material exceeds working-memory capacity.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical framework for managing the demands summarization imposes.
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
-- [Summarization Effective With Training](summarization-effective-with-training.md) — possibly the same claim (merge candidate)
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
+- [Activation improves learning](activation-improves-learning.md) — prior knowledge supports identifying main ideas in a text
+- [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related

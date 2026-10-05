@@ -36,7 +36,7 @@ An effective classroom management plan blends warmth and control in a way that a
 - Sustained work engagement and reduced disruptive behavior through a climate students want to remain part of, rather than one they comply with only under threat
 
 ## Claims
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] — the authoritative style's own documented risk (a reward system so tightly managed it crowds out independent behavior) is a specific case of this broader effect
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M] — the authoritative style's own documented risk (a reward system so tightly managed it crowds out independent behavior) is a specific case of this broader effect
 
 ## Related Theories
 - [Self-Determination Theory](self-determination-theory.md) [~M] — SDT's caution against controlling, non-autonomy-supportive environments describes the same failure mode as the authoritarian profile and the authoritative style's reward-saturation risk

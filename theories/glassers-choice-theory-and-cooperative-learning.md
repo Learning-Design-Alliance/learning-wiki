@@ -47,7 +47,7 @@ Applied concretely, Glasser's specific recommendations for taking over a disrupt
 
 ### Theory
 #### Contradicting / Qualifying
-- Boss management's reliance on reward and coercive power to control students parallels the risk documented under [the overjustification effect](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] and under the authoritarian profile in [Teaching Styles as Warmth and Control](teaching-styles-warmth-and-control.md)
+- Boss management's reliance on reward and coercive power to control students parallels the risk documented under [the overjustification effect](../claims/rewards-undermine-intrinsic-motivation.md) [-M] and under the authoritarian profile in [Teaching Styles as Warmth and Control](teaching-styles-warmth-and-control.md)
 
 ## Related Theories
 - [Ginott's Congruent Communication](ginotts-congruent-communication.md) — the other humanist-tradition approach; Glasser's private-conference protocol draws on similar communication-skills groundwork

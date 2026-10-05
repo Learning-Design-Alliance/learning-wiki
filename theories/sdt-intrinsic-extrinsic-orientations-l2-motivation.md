@@ -39,7 +39,7 @@ The study adopts Noels and associates' intrinsic/extrinsic motivation framework 
 
 - [Turkish Efl Learners Generally Extrinsically Motivated](../claims/turkish-efl-learners-generally-extrinsically-motivated.md) [+M]
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [+M]
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [+M]
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](../claims/extrinsic-rewards-undermine-intrinsic-motivation-argument.md) [+W]
 

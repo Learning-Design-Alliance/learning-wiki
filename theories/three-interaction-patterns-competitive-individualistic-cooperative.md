@@ -40,7 +40,7 @@ The digest presents, attributing the taxonomy to David and Roger Johnson, three 
 
 - [Cooperative Learning Higher Achievement Than Competitive Individualistic](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
-- [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/johnson-meta-analysis-cooperative-achievement.md) [+M]
+- [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
 - [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-meta-analysis-higher-achievement.md) [+W]
 - [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M]
 

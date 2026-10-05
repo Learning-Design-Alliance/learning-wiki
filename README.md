@@ -25,7 +25,7 @@ Page counts are regenerated with every index rebuild.
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Theories](theories/) | 946 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 12 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 3,393 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 3,389 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

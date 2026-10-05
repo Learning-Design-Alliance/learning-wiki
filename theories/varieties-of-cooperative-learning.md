@@ -43,7 +43,7 @@ The bulletin organizes the main cooperative learning methods: Circles of Learnin
 - [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](../claims/cooperative-learning-achievement-synthesis-slavin.md) [+M]
 - [Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking](../claims/cooperative-learning-gifted-students.md) [+M]
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](../claims/cooperative-learning-science-studies-mixed.md) [~M]
-- [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/johnson-meta-analysis-cooperative-achievement.md) [+M]
+- [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
 - [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](../claims/lazarowitz-cooperative-biology-achievement.md) [+M]
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](../claims/secondary-cooperative-learning-newmann-thompson.md) [+M]
 

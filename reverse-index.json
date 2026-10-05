@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 3379,
+  "claims->claims": 3375,
   "claims->designs": 13,
   "claims->elements": 109,
   "claims->learner-variables": 1,
@@ -8,7 +8,7 @@
   "claims->patterns": 67,
   "claims->principles": 117,
   "claims->processes": 3,
-  "claims->theories": 208,
+  "claims->theories": 206,
   "designs->claims": 93,
   "designs->designs": 27,
   "designs->elements": 26,
@@ -948,9 +948,6 @@
       "slug": "generative-learning-improves-comprehension"
      },
      {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -1075,7 +1072,7 @@
      },
      {
       "polarity": "~",
-      "slug": "summarization-effective-with-training",
+      "slug": "summarization-improves-learning",
       "strength": "M"
      },
      {
@@ -2083,9 +2080,6 @@
      },
      {
       "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -6208,9 +6202,6 @@
       "slug": "generative-learning-improves-comprehension"
      },
      {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -6295,9 +6286,6 @@
      },
      {
       "slug": "strong-acquisition-tasks-improve-internalization"
-     },
-     {
-      "slug": "summarization-effective-with-training"
      },
      {
       "slug": "summarization-improves-learning"
@@ -17880,7 +17868,7 @@
       "slug": "elaborative-interrogation-improves-learning"
      },
      {
-      "slug": "generative-learning-improves-retention"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "history-textbooks-lack-explanatory-structure"
@@ -19394,9 +19382,6 @@
       "slug": "generative-learning-improves-comprehension"
      },
      {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -19640,9 +19625,6 @@
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
-     },
-     {
-      "slug": "summarization-effective-with-training"
      },
      {
       "slug": "summarization-improves-learning"
@@ -27003,9 +26985,6 @@
       "slug": "generative-learning-improves-comprehension"
      },
      {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -27213,9 +27192,6 @@
       "polarity": "+",
       "slug": "structured-peer-tutoring-outperforms-unstructured",
       "strength": "M"
-     },
-     {
-      "slug": "summarization-effective-with-training"
      },
      {
       "slug": "summarization-improves-learning"
@@ -29693,9 +29669,6 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
-      "slug": "johnson-meta-analysis-cooperative-achievement"
-     },
-     {
       "polarity": "+",
       "slug": "learning-by-teaching-improves-tutor-learning",
       "strength": "M"
@@ -32066,9 +32039,6 @@
      },
      {
       "slug": "cooperative-learning-improves-achievement"
-     },
-     {
-      "slug": "johnson-meta-analysis-cooperative-achievement"
      },
      {
       "slug": "nonassessment-unacceptable-alternative"
@@ -35357,9 +35327,6 @@
      },
      {
       "slug": "cooperative-learning-meta-analysis-higher-achievement"
-     },
-     {
-      "slug": "johnson-meta-analysis-cooperative-achievement"
      }
     ],
     "theories": [
@@ -35867,9 +35834,6 @@
      },
      {
       "slug": "cooperative-learning-meta-analysis-higher-achievement"
-     },
-     {
-      "slug": "johnson-meta-analysis-cooperative-achievement"
      }
     ],
     "elements": [
@@ -35889,10 +35853,22 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
       "slug": "three-interaction-patterns-competitive-individualistic-cooperative",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "varieties-of-cooperative-learning",
       "strength": "M"
      }
     ]
@@ -35931,9 +35907,6 @@
      },
      {
       "slug": "interdependence-type-no-achievement-effect-asynchronous"
-     },
-     {
-      "slug": "johnson-meta-analysis-cooperative-achievement"
      },
      {
       "slug": "peer-assisted-learning-improves-achievement"
@@ -36074,9 +36047,6 @@
      },
      {
       "slug": "cooperative-learning-improves-achievement"
-     },
-     {
-      "slug": "johnson-meta-analysis-cooperative-achievement"
      },
      {
       "slug": "small-group-learning-improves-stem-achievement"
@@ -42888,7 +42858,7 @@
       "slug": "baseline-group-effect-no-sex-order-effects"
      },
      {
-      "slug": "overjustification-effect-reduces-intrinsic-motivation"
+      "slug": "rewards-undermine-intrinsic-motivation"
      },
      {
       "slug": "synthesis-evaluation-measure-general-ability-lower-grades"
@@ -43911,9 +43881,6 @@
     "claims": [
      {
       "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -49944,9 +49911,6 @@
      },
      {
       "slug": "feedback-praise-reduces-learning"
-     },
-     {
-      "slug": "overjustification-effect-reduces-intrinsic-motivation"
      },
      {
       "slug": "rewards-undermine-intrinsic-motivation"
@@ -57233,9 +57197,6 @@
       "slug": "elaborative-encoding-improves-retention"
      },
      {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -57261,48 +57222,11 @@
      }
     ]
    },
-   "generative-learning-improves-retention": {
+   "generative-processing-improves-learning": {
     "claims": [
      {
       "slug": "causal-links-implicit-in-history-textbooks"
      },
-     {
-      "slug": "elaborative-encoding-improves-retention"
-     },
-     {
-      "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-processing-improves-learning"
-     },
-     {
-      "slug": "self-explanation-improves-conceptual-understanding"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "learning-by-producing-pattern",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "headings_and_highlight_strategy",
-      "strength": "S"
-     }
-    ]
-   },
-   "generative-processing-improves-learning": {
-    "claims": [
      {
       "slug": "controlled-interaction-patterns-higher-self-explanation-quality"
      },
@@ -57311,9 +57235,6 @@
      },
      {
       "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
      },
      {
       "slug": "learner-beliefs-influence-mental-effort-media-processing"
@@ -57335,7 +57256,26 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "promote-self-generated-elaboration-for-expertise",
+      "strength": "M"
+     }
+    ],
     "strategies": [
+     {
+      "polarity": "+",
+      "slug": "headings_and_highlight_strategy",
+      "strength": "S"
+     },
      {
       "polarity": "+",
       "slug": "keyword-method",
@@ -58608,7 +58548,7 @@
       "slug": "peer-assessment-benefits-assessor"
      },
      {
-      "slug": "summarization-effective-with-training"
+      "slug": "summarization-improves-learning"
      }
     ],
     "patterns": [
@@ -60640,9 +60580,6 @@
      },
      {
       "slug": "organization-task-match-determines-benefit"
-     },
-     {
-      "slug": "summarization-effective-with-training"
      },
      {
       "slug": "summarization-improves-learning"
@@ -66098,47 +66035,6 @@
       "polarity": "+",
       "slug": "lc101-launchcode-coding-apprenticeship-program",
       "strength": "W"
-     }
-    ]
-   },
-   "johnson-meta-analysis-cooperative-achievement": {
-    "claims": [
-     {
-      "slug": "collaborative-learning-improves-outcomes"
-     },
-     {
-      "slug": "competitive-grading-pits-students-against-each-other"
-     },
-     {
-      "slug": "cooperative-learning-gifted-students"
-     },
-     {
-      "slug": "cooperative-learning-higher-achievement-than-competitive-individualistic"
-     },
-     {
-      "slug": "cooperative-learning-improves-achievement"
-     },
-     {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "gamification",
-      "strength": "M"
-     }
-    ],
-    "theories": [
-     {
-      "polarity": "+",
-      "slug": "three-interaction-patterns-competitive-individualistic-cooperative",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "varieties-of-cooperative-learning",
-      "strength": "M"
      }
     ]
    },
@@ -82492,54 +82388,6 @@
      }
     ]
    },
-   "overjustification-effect-reduces-intrinsic-motivation": {
-    "claims": [
-     {
-      "slug": "extrinsic-rewards-undermine-intrinsic-motivation-argument"
-     },
-     {
-      "slug": "rewards-undermine-intrinsic-motivation"
-     },
-     {
-      "slug": "seductive-details-effect"
-     },
-     {
-      "slug": "task-value-increases-motivation-and-engagement"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "-",
-      "slug": "effective-classroom-management-plan",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "gamification",
-      "strength": "S"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "behaviorism"
-     },
-     {
-      "polarity": "-",
-      "slug": "glassers-choice-theory-and-cooperative-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "sdt-intrinsic-extrinsic-orientations-l2-motivation",
-      "strength": "M"
-     },
-     {
-      "polarity": "-",
-      "slug": "teaching-styles-warmth-and-control",
-      "strength": "M"
-     }
-    ]
-   },
    "overlap-degree-moderates-false-identification-risk": {
     "claims": [
      {
@@ -97009,7 +96857,7 @@
       "slug": "good-idea-reward-no-incentive-effect"
      },
      {
-      "slug": "overjustification-effect-reduces-intrinsic-motivation"
+      "slug": "seductive-details-effect"
      },
      {
       "slug": "task-value-increases-motivation-and-engagement"
@@ -97039,6 +96887,11 @@
      {
       "polarity": "~",
       "slug": "autonomy",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "effective-classroom-management-plan",
       "strength": "M"
      },
      {
@@ -97086,9 +96939,22 @@
     ],
     "theories": [
      {
+      "slug": "behaviorism"
+     },
+     {
+      "polarity": "-",
+      "slug": "glassers-choice-theory-and-cooperative-learning",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "sdt-intrinsic-extrinsic-orientations-l2-motivation",
-      "strength": "S"
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "teaching-styles-warmth-and-control",
+      "strength": "M"
      }
     ]
    },
@@ -101952,9 +101818,6 @@
      },
      {
       "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -116427,7 +116290,7 @@
      }
     ]
    },
-   "summarization-effective-with-training": {
+   "summarization-improves-learning": {
     "claims": [
      {
       "slug": "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation"
@@ -116436,37 +116299,10 @@
       "slug": "higher-hierarchy-levels-recalled-better"
      },
      {
-      "slug": "summarization-improves-learning"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "summarization-and-synthesis",
-      "strength": "S"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "note-taking",
-      "strength": "M"
-     }
-    ]
-   },
-   "summarization-improves-learning": {
-    "claims": [
-     {
-      "slug": "higher-hierarchy-levels-recalled-better"
-     },
-     {
       "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "peer-feedback-improves-writing"
-     },
-     {
-      "slug": "summarization-effective-with-training"
      }
     ],
     "elements": [
@@ -116474,6 +116310,11 @@
       "polarity": "+",
       "slug": "review-and-summarizing",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "summarization-and-synthesis",
+      "strength": "S"
      }
     ],
     "principles": [
@@ -117673,9 +117514,6 @@
      },
      {
       "slug": "life-science-examples-increase-interest-and-relevance"
-     },
-     {
-      "slug": "overjustification-effect-reduces-intrinsic-motivation"
      },
      {
       "slug": "reading-failure-fixed-ability-attribution"
@@ -196803,9 +196641,6 @@
       "slug": "feedback-praise-reduces-learning"
      },
      {
-      "slug": "overjustification-effect-reduces-intrinsic-motivation"
-     },
-     {
       "slug": "rewards-undermine-intrinsic-motivation"
      },
      {
@@ -198366,9 +198201,6 @@
       "polarity": "~",
       "slug": "generative-learning-improves-comprehension",
       "strength": "M"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -201595,9 +201427,6 @@
      },
      {
       "slug": "generation-effect-improves-retention"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -211426,7 +211255,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3393,
+  "claims": 3389,
   "designs": 115,
   "elements": 733,
   "learner-variables": 12,

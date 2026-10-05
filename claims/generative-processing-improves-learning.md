@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: generative-processing-improves-learning
+aliases: [generative-learning-improves-retention]
 evidence_strength:
 sources:
   - id: bisra-et-al-2018
@@ -50,6 +51,14 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 
 **Open questions.** Which generation activities are most efficient per unit of time, how generation interacts with [worked examples](../elements/demonstration.md) and fading, and how effects scale from lab tasks to classroom curricula all remain to be documented on this page. Until evidence entries are added, this page should be treated as a framing claim whose specific instantiations carry their own evidence.
 
+*Merged from “Generative Learning Improves Retention” (generative-learning-improves-retention):* **Mechanism.** Generative activities are hypothesized to work by forcing learners to construct relations between new material and prior knowledge, rather than reproducing surface text. This aligns with the broader account in [Cognitive Load Theory](../theories/cognitive-load-theory.md): generation imposes effortful processing that supports schema construction, but only when the extra load is germane rather than extraneous — see [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
+
+**Moderators and boundary conditions.** Generation is not uniformly beneficial. Learners need sufficient prior knowledge to generate accurate products; when they lack it, generative tasks can produce errors or flounder, and providing structure (prompts, sentence starters, worked models) becomes necessary. The activity must also actually require transforming meaning — copying, highlighting, or verbatim note-taking look generative but do not produce the same benefit. Task–learner fit matters: the same prompt that helps one learner may be redundant or overwhelming for another, echoing the expertise-reversal pattern documented in the [expertise reversal effect](../theories/expertise-reversal-effect.md).
+
+**Retention versus transfer.** The claim as stated concerns retention. Generative strategies are often expected to support transfer and inference as well, but the meta-analysis recorded above measured self-explanation, one generative strategy, so the strength of that expectation for other strategies is not established here; retention benefits are typically the better-established outcome in this literature.
+
+**Open questions.** Most of the evidence base compares generation against passive control conditions; fewer studies test which generative activity is best for a given material type, or how benefits persist over delay intervals versus immediate tests. The recorded evidence covers self-explanation only, so confidence in the broader claim about generative strategies should stay moderate.
+
 ## Related Claims
 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — active engagement in class produces better outcomes than lecture alone
@@ -59,9 +68,9 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — generation helps only when working memory is not overwhelmed
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
-- [Generative Learning Improves Retention](generative-learning-improves-retention.md) — possibly the same claim (merge candidate)
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
 - [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
