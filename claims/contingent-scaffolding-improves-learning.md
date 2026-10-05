@@ -74,7 +74,7 @@ Contingent scaffolding adjusts the type and level of support in real time based 
 
 ## Evidence
 
-Primary evidence link: https://doi.org/10.1016/S0193-3973(99)80040-2
+Primary evidence link: <https://doi.org/10.1016/s0193-3973(99)80041-0> <!-- corrected 2026-10-05: the earlier link, https://doi.org/10.1016/S0193-3973(99)80040-2, has no doi.org handle and no Crossref record; the link now matches the Crossref-verified DOI of Pratt & Savoy-Levine (1998) cited below. -->
 
 ### Pratt and Savoy-Levine 1998
 

@@ -33,7 +33,7 @@ When novices study a fully or partially solved example before independent proble
 
 ## Evidence
 
-Primary evidence link: https://doi.org/10.1037/0022-0663.77.1.59
+Primary evidence link: https://doi.org/10.1207/s1532690xci0201_3 <!-- corrected 2026-10-05: the earlier link, https://doi.org/10.1037/0022-0663.77.1.59, has no doi.org handle and no Crossref record; the link now matches the Crossref-verified DOI of Sweller & Cooper (1985) cited below. -->
 
 ### Sweller & Cooper 1985
 

@@ -42,7 +42,7 @@ Structured literacy is explicit, systematic, cumulative instruction in phonemic 
 
 `q4 i0` A meta-analysis of 22 RCTs (49 comparisons) of reading-disabled children and adolescents finds phonics instruction — the core explicit, systematic decoding component of structured literacy — is the only treatment approach whose effect on reading and spelling performance is statistically confirmed, with a small-to-moderate publication-bias-adjusted effect. [→ Galuschka et al. 2014](#galuschka-et-al-2014)
 
-`q3 i0` A meta-analysis of Orton-Gillingham (a branded structured-literacy approach) interventions for students with or at risk for word-level reading disabilities found positive but statistically non-significant mean effects on foundational skills and on vocabulary/comprehension, qualifying how strong current evidence is for one widely-mandated structured-literacy program specifically. [→ Stevens et al. 2021](#stevens-et-al-2021)
+`q3 i1` A meta-analysis of Orton-Gillingham (a branded structured-literacy approach) interventions for students with or at risk for word-level reading disabilities found positive but statistically non-significant mean effects on foundational skills and on vocabulary/comprehension, qualifying how strong current evidence is for one widely-mandated structured-literacy program specifically. [→ Stevens et al. 2021](#stevens-et-al-2021)
 
 ## Evidence
 
@@ -58,7 +58,7 @@ Systematic literature search (ERIC, PsycINFO, PubMed, Cochrane, plus unpublished
 
 Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S. (2021). Current State of the Evidence: Examining the Effects of Orton-Gillingham Reading Interventions for Students With or at Risk for Word-Level Reading Disabilities. *Exceptional Children, 87*(4), 397–417. [doi:10.1177/0014402921993406](https://doi.org/10.1177/0014402921993406)
 
-`q3 · meta-analysis (mixed RCT/quasi-experimental)` · `i0 · non-significant effects, ES=0.22 (foundational skills) and 0.14 (vocabulary/comprehension)` · `n=16 studies in meta-analysis (24 identified)` · `quant-synthesis · r?`
+`q3 · meta-analysis (mixed RCT/quasi-experimental)` · `i1 · small, non-significant effects, ES=0.22 (foundational skills, 95% CI −0.33 to 0.77) and 0.14 (vocabulary/comprehension)` · `n=16 studies in meta-analysis (24 identified)` · `quant-synthesis · r?`
 
 A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 15 studies of quasi-experimental or randomized design) of Orton-Gillingham, described in the paper as "a direct, explicit, multisensory, structured, sequential, diagnostic, and prescriptive approach to reading," for students with or at risk for word-level reading disabilities. The weighted mean effect on foundational-skill outcomes (phonological awareness, phonics, fluency, spelling) was ES = 0.22 (95% CI [−0.33, 0.77]), not statistically significant (p = .40); vocabulary/comprehension outcomes showed ES = 0.14, also non-significant (p = .59). The authors state this "yielded findings lacking support for the effectiveness of Orton-Gillingham interventions" comparable to a prior synthesis and What Works Clearinghouse reports, while noting the mean effect was positive and that more high-quality, adequately powered research is needed.
 

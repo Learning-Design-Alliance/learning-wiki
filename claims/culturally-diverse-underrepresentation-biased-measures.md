@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased
-description: Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased
+title: "A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background"
+description: "A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background"
 id: culturally-diverse-underrepresentation-biased-measures
 status: draft
 generated:
@@ -19,13 +19,14 @@ sources:
     rigour: 1
 ---
 
-# Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased
+# A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased -->
 
 ## Subclaims
-`q2 i?` Underrepresentation of culturally and linguistically diverse students is a pressing problem caused by identification measures biased toward a cultural background not the students' own. [→ McGlonn-Nelson 2005](#mcglonn-nelson-2005)
+`q2 i?` A narrative review, drawing on Ford (2003), calls the underrepresentation of culturally and linguistically diverse students a pressing problem and attributes it to identification measures biased toward a cultural background not the students' own. [→ McGlonn-Nelson 2005](#mcglonn-nelson-2005)
 
 ## Evidence
 
@@ -40,6 +41,8 @@ Narrative review attributing this to Ford (2003): giftedness is determined by so
 > "One of the most pressing and controversial topics in the field of gifted education is the underrepresentation of culturally and linguistically diverse students in gifted education (Ford, 2003, p. 143)"
 
 ## Discussion
+
+The one entry is a narrative review that reports the underrepresentation and its cause second-hand, from Ford (2003); it presents no data on representation rates or on bias in any identification measure, and Ford's work has not been read here. Underrepresentation and its attribution to biased measures are therefore recorded as the review's position, not as a tested causal finding.
 
 
 ## Related Claims

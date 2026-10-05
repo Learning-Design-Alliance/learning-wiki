@@ -25,13 +25,14 @@ sources:
 > **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Online peer assisted learning helps form spontaneous groups based on common interests and learning objectives, and with guidance and management these groups advance the learning community in a healthy and positive way. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
+`q2 i?` Online peer assisted learning helps form spontaneous groups based on common interests and learning objectives, and with guidance and management these groups advance the learning community in a healthy and positive way. [→ Online peer assisted learning community model and its application in ZJNU 2008](#gaofeng-yeyu-2007)
 
 ## Evidence
 
-### Online peer assisted learning community model and its application in ZJNU 2008
+### Gaofeng & Yeyu 2007
 
-Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
+<!-- citation corrected 2026-10-05 from the ERIC record for the source this page was fetched from (ED500172, 2007; no Crossref record, so no DOI). Was: Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov -->
+Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r1`
 

@@ -55,15 +55,16 @@ The expertise reversal effect describes a recurring pattern in instructional res
 
 ## Subclaims
 
-`q3 i?` Highly guided instruction tends to benefit novices more than experts. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+`q2 i?` Highly guided instruction tends to benefit novices more than experts. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
-`q3 i?` As prior knowledge increases, redundant explanations and worked examples can depress performance relative to less guided conditions. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
+`q2 i?` As prior knowledge increases, redundant explanations and worked examples can depress performance relative to less guided conditions. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
 `q2 i?` A synthesis of cognitive-load studies across split-attention/redundancy, modality, worked-example, isolated-elements and imagination-effect paradigms finds that guidance formats which help novices (integrated text, worked examples, auditory narration, isolated elements, direct study) repeatedly lose their advantage — and in several paradigms reverse to a disadvantage — once learners have acquired domain-specific schemas. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
 `q3 i?` In three experiments teaching electrical trainees to read circuit diagrams, novice trainees learned better from diagrams with integrated explanatory text, but as trainees gained experience the best format shifted to a diagram with the text eliminated, and the most experienced trainees performed significantly better with text removed than with it present. [→ Kalyuga et al. 1998](#kalyuga-et-al-1998)
 
-`q2 i?` Providing additional text is redundant for experts and has negative rather than positive effects, demonstrating the expertise reversal effect; the authors conclude instructional design should be tailored to learners' level of experience. [→ Obikwelu 2013](#obikwelu-2013)
+`q1 i?` A conceptual paper on serious games restates, citing Kalyuga et al. (2003), that additional text is redundant for experts and has negative rather than positive effects, and argues that instructional design should be tailored to learners' level of experience; it presents no new data. [→ Obikwelu 2013](#obikwelu-2013)
+<!-- deprecated (2026-10-05, read as a finding of the paper itself): Providing additional text is redundant for experts and has negative rather than positive effects, demonstrating the expertise reversal effect; the authors conclude instructional design should be tailored to learners' level of experience. -->
 
 ## Evidence
 
@@ -71,20 +72,20 @@ Primary evidence link: https://doi.org/10.1207/S15326985EP3801_4
 
 ### Kalyuga et al. 2003
 
-Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)
-
-`q3 · peer-reviewed theoretical synthesis with experimental base` · `i? · the abstract prints no effect size; the full text may` · `n=multiple studies` · `review · r?`
-
-This synthesis reviews a set of cognitive load studies showing that instructional supports such as integrated explanations, worked examples, and step-by-step guidance are effective for novices because they reduce unnecessary search. The same supports can become redundant for more knowledgeable learners, who may learn more efficiently from leaner tasks that let them operate on already-formed schemas.
-
-<!-- merged 2026-10-05 from expertise-reversal-guidance-hurts-experts: that page's entry for this study, which differed from the one above, kept verbatim.
-### Kalyuga et al. 2003
-
 Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. [doi:10.1207/s15326985ep3801_4](https://doi.org/10.1207/s15326985ep3801_4)
 
 `q2 · narrative review of experimental cognitive-load studies` · `i? · no pooled effect size reported (individual experiments described as producing statistically significant reversals, but no d/F values given in the text)` · `n=N/A (review; ~10 primary studies cited)` · `review · r2`
 
 A narrative review by the group that coined the term, synthesizing its own and others' experiments across five separate cognitive-load paradigms — split-attention/redundancy (including the Kalyuga, Chandler, & Sweller (1998) study below), modality/redundancy, worked examples, isolated interacting elements, and the imagination effect. In each paradigm the same instructional design that most helped inexperienced learners either lost its advantage or actively hurt more experienced learners once they held relevant schemas, because processing the extra guidance became redundant cross-referencing that consumes working memory rather than useful support. The review frames this as a consequence of [cognitive load theory](../theories/cognitive-load-theory.md): guidance that substitutes for a missing schema helps a novice, but the same guidance duplicates what an expert's automated schema already provides.
+
+<!-- merged 2026-10-05: a second write-up of this study, kept verbatim. This was the page's original entry; the entry above (from expertise-reversal-guidance-hurts-experts) is kept instead because it describes the article as what it is, a narrative review (q2), and carries Crossref's DOI spelling ("The Expertise Reversal Effect", Kalyuga 2003, 23-31).
+### Kalyuga et al. 2003
+
+Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)
+
+`q3 · peer-reviewed theoretical synthesis with experimental base` · `i? · the abstract prints no effect size; the full text may` · `n=multiple studies` · `review · r?`
+
+This synthesis reviews a set of cognitive load studies showing that instructional supports such as integrated explanations, worked examples, and step-by-step guidance are effective for novices because they reduce unnecessary search. The same supports can become redundant for more knowledgeable learners, who may learn more efficiently from leaner tasks that let them operate on already-formed schemas.
 -->
 
 ### Kalyuga et al. 1998
@@ -97,9 +98,9 @@ Three experiments with trainees learning to read electrical/circuit diagrams com
 
 ### Obikwelu 2013
 
-Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. The Electronic Journal of e-Learning Volume 11 Issue 1. https://www.ejel.org
+Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. *The Electronic Journal of e-Learning, 11*(1). No Crossref record was found for this article (title search, 2026-10-05); the link formerly given was the journal's homepage, https://www.ejel.org, which is not a citation of it.
 
-`q2 · i? · the article prints no effect size for this finding` · `theoretical · r2`
+`q1 · conceptual paper, no new data` · `i? · the article prints no effect size for this finding` · `theoretical · r2`
 
 Section 6 of this conceptual paper reports the expertise reversal effect as attributed to Kalyuga et al. (2003): "Providing additional text is redundant for experts and will have negative rather than positive effects". The article also cites work proposing that eliminating redundant material reduces cognitive load for experienced learners. No new data are presented.
 
@@ -115,7 +116,8 @@ Practical consequences follow. Guidance should be faded as competence grows rath
 
 Boundary conditions matter. The effect is documented primarily for guidance that duplicates what experts can already derive — full worked steps, redundant explanations, high-support scaffolds. Guidance that adds genuinely new information (e.g., feedback on errors, novel problem constraints) does not automatically reverse; the mechanism is redundancy, not the mere presence of support. Expertise is also domain-specific: a learner expert in one topic of a course may still be a novice in the next, so reversal must be assessed per topic, not per student.
 
-Open questions include how finely expertise must be measured (domain-specific vs. general ability) and how quickly guidance should be faded within a single lesson versus across a curriculum. Because this page currently has no catalogued evidence entries, effect sizes and boundary conditions still need to be sourced before the claim can be rated.
+Open questions include how finely expertise must be measured (domain-specific vs. general ability) and how quickly guidance should be faded within a single lesson versus across a curriculum. Three sources are recorded above: a narrative review by the group that named the effect (Kalyuga et al. 2003), one of its three-experiment primary studies (Kalyuga et al. 1998, circuit diagrams, read from the abstract), and a conceptual paper restating the review (Obikwelu 2013). None prints an effect size in the text read, and no meta-analysis is recorded.
+<!-- deprecated (2026-10-05, stale): Because this page currently has no catalogued evidence entries, effect sizes and boundary conditions still need to be sourced before the claim can be rated. -->
 
 ## Related Claims
 

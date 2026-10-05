@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures"
-description: "Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures"
+title: "Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures"
+description: "Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures"
 id: male-oriented-item-content-biases-test-scores
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures
+# Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Test items with male-oriented content are a source of bias: females tend to do better on items with female or neutral figures -->
 
 ## Subclaims
 `q2 i?` ETS research cited at the hearing found females tend to do better on items with more female or neutral figures than on items with male figures, and Rosser's own analysis of 24 SAT reading passages found references to 42 men and three women. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
@@ -33,13 +34,15 @@ sources:
 
 Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session. (1989). https://eric.ed.gov/?id=ED312276
 
-`q2 · i? · the article prints no effect size for this finding` · `review · r1`
+`q2 · written testimony reporting a 1979 ETS study second-hand` · `i? · the article prints no effect size for this finding` · `review · r1`
 
 Rosser's written testimony attributes this finding to a 1979 ETS study by Ekstrom, Lockheed and Donlon, quoted as the review reports it. She adds her own analysis of 24 SAT reading passages from 1984-85 finding references to 42 men and three women.
 
 > "Studies done by Educational Testing Service researchers as far back as 1979 (-Sex Differences and Sex Bias in Teat Content" by Ekstrom, Lockheed, Donlon, Educational Horizons) show that "females tend to do better on items that havemore female or neutral figures than on items in which there are male figures.""
 
 ## Discussion
+
+The evidence is second-hand: Rosser's written testimony to a congressional hearing quotes the finding from Ekstrom, Lockheed and Donlon (1979), which has not been read here, and the hearing record prints no data or effect size for it. Rosser's own count of men and women named in 24 SAT reading passages describes item content, not a score difference, so it does not by itself show that male-oriented content biases scores.
 
 
 ## Related Claims
