@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males
-description: Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males
+title: "Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females"
+description: "Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females"
 id: minority-females-doubly-penalized-on-tests
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males
+# Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males -->
 
 ## Subclaims
 `q2 i?` In 1985, black women scored 43 points lower than black men and 264 points lower than white men on the SAT, a pattern Rosser describes as a double penalty for minority females. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
@@ -41,6 +42,7 @@ Testimony of Phyllis Rosser at the 1987 hearing reporting 1985 SAT score average
 
 ## Discussion
 
+The entry reports one year of score averages for one group (Black test-takers) from a witness's testimony; the general statement about all minority females is the witness's, and no figures for other groups are recorded here. Score gaps alone do not show that the test, rather than unequal preparation or schooling, produces them.
 
 ## Related Claims
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related

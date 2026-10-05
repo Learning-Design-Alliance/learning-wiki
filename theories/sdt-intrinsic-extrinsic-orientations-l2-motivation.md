@@ -16,7 +16,7 @@ sources:
 # Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 9 studies (3 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (3 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 The study adopts Noels and associates' intrinsic/extrinsic motivation framework derived from self-determination theory (Deci & Ryan) as its "informative framework". It treats motivational constructs as orientations: intrinsic orientations relate to inherent interest, with three types (Intrinsic-Knowledge, Intrinsic-Accomplishment, Intrinsic-Stimulation), and extrinsic motivation is categorized into External, Introjected and Identified Regulation, the last being the most self-determined form.
@@ -39,7 +39,7 @@ The study adopts Noels and associates' intrinsic/extrinsic motivation framework 
 
 - [Turkish Efl Learners Generally Extrinsically Motivated](../claims/turkish-efl-learners-generally-extrinsically-motivated.md) [+M]
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [+M]
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [+M]
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](../claims/extrinsic-rewards-undermine-intrinsic-motivation-argument.md) [+W]
 

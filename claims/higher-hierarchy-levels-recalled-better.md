@@ -14,7 +14,7 @@ sources:
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 2
   - id: eylon-1979-2
@@ -22,7 +22,7 @@ sources:
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -30,7 +30,7 @@ sources:
 # Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Experiment 2 free-recall summaries, recall scores declined from highest to lowest hierarchy levels, with the steepest drop for information placed low by the acquired organization. [→ Eylon 1979](#eylon-1979)
@@ -42,7 +42,7 @@ sources:
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i2` · `causal · r2`
+`q2 · i? · no effect size printed; the entry gives recall percentages by hierarchy level only (50%, 50%, 27%, about 5%), with no test or effect size` · `causal · r2`
 
 Experiment 2 free-recall summaries, written two weeks after treatment and analyzed as traversals of the postulated organization, showed level-graded recall; among A-organization subjects only 3 out of 10 mentioned historical information at all. B-organization subjects recalled 65%, 47%, and 44% for the first three levels.
 
@@ -52,7 +52,7 @@ Experiment 2 free-recall summaries, written two weeks after treatment and analyz
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i2` · `causal · r2`
+`q2 · i? · no effect size printed; the entry gives mean proportions recalled by level only (63%, 45%, 9%; 75%, 36%, 43%), with no test or effect size` · `causal · r2`
 
 Experiment 3: eight paid volunteers from an introductory college physics course, studied individually, recalled unaided two weeks later; tape-recorded protocols were mapped onto the presumed organization. In the historical organization the average proportions recalled were 75%, 36%, and 43% for the three levels.
 
@@ -67,6 +67,5 @@ Experiment 3: eight paid volunteers from an introductory college physics course,
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — a broader claim this one bears on
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
-- [Summarization Improves Learning](summarization-improves-learning.md) — related
-- [Summarization Effective With Training](summarization-effective-with-training.md) — related
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](curvilinear-variance-pattern-across-taxonomy-levels.md) — related

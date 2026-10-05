@@ -43,7 +43,7 @@ Observation stage section of the qualitative study: in the web-mediated CSI coac
 
 
 ## Related Claims
-- [Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries](peer-coaching-supports-teacher-professional-development.md) — a broader claim this one bears on
+- [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — a broader claim this one bears on
 - [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Judgments of learning are often inaccurate](fluent-illusions-mislead-self-assessment.md) — related

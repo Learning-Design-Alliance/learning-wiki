@@ -43,9 +43,9 @@ Discussion of performance results: the authors state the tRAT gain is expected b
 
 
 ## Related Claims
-- [A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format](low-stress-tbl-higher-isat-scores.md) — related
-- [Students in the revised low-stress TBL format report lower stress and frustration than students in the original format](low-stress-tbl-lower-stress-frustration.md) — related
-- [Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions](tbl-formats-similar-irat-trat-performance.md) — related
+- [Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-isat-scores.md) — related
+- [Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-lower-stress-frustration.md) — related
+- [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related
 - [Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module](tbl-survey-above-neutral.md) — related
 - [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](tbl-team-dynamics-no-format-differences.md) — related
 - [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance](trat-scores-exceed-irat-scores.md) — related

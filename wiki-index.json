@@ -1,12 +1,12 @@
 {
  "counts": {
-  "claim": 3393,
+  "claim": 3387,
   "design": 115,
-  "element": 733,
+  "element": 732,
   "learner-variable": 12,
   "method": 38,
   "pattern": 136,
-  "principle": 465,
+  "principle": 463,
   "process": 18,
   "strategy": 3184,
   "theory": 946
@@ -1873,12 +1873,12 @@
    "type": "claim"
   },
   {
-   "description": "Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments",
+   "description": "A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment",
    "evidence_strength": "weak",
    "id": "behaviorist-reinforcement-effective-positive-behavior",
    "path": "claims/behaviorist-reinforcement-effective-positive-behavior.md",
    "status": "draft",
-   "title": "Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments",
+   "title": "A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment",
    "type": "claim"
   },
   {
@@ -5290,12 +5290,16 @@
    "type": "claim"
   },
   {
-   "description": "Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning",
+   "aliases": [
+    "johnson-meta-analysis-cooperative-achievement",
+    "cooperative-learning-meta-analysis-higher-achievement"
+   ],
+   "description": "Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning",
    "evidence_strength": "weak",
    "id": "cooperative-learning-higher-achievement-than-competitive-individualistic",
    "path": "claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md",
    "status": "draft",
-   "title": "Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning",
+   "title": "Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning",
    "type": "claim"
   },
   {
@@ -5326,15 +5330,6 @@
    "path": "claims/cooperative-learning-location-moderator.md",
    "status": "draft",
    "title": "The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies",
-   "type": "claim"
-  },
-  {
-   "description": "A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning",
-   "evidence_strength": "weak",
-   "id": "cooperative-learning-meta-analysis-higher-achievement",
-   "path": "claims/cooperative-learning-meta-analysis-higher-achievement.md",
-   "status": "draft",
-   "title": "A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning",
    "type": "claim"
   },
   {
@@ -6608,12 +6603,12 @@
    "type": "claim"
   },
   {
-   "description": "Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking",
+   "description": "A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking",
    "evidence_strength": "weak",
    "id": "direct-experience-questions-stimulate-thinking",
    "path": "claims/direct-experience-questions-stimulate-thinking.md",
    "status": "draft",
-   "title": "Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking",
+   "title": "A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking",
    "type": "claim"
   },
   {
@@ -10156,7 +10151,7 @@
    "id": "funds-of-knowledge-tasks-reveal-computational-thinking",
    "path": "claims/funds-of-knowledge-tasks-reveal-computational-thinking.md",
    "status": "draft",
-   "title": "Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses",
+   "title": "Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment",
    "type": "claim"
   },
   {
@@ -10474,27 +10469,15 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "generative-learning-improves-comprehension",
-   "path": "claims/generative-learning-improves-comprehension.md",
-   "status": "draft",
-   "title": "Generative Learning Improves Comprehension",
-   "type": "claim"
-  },
-  {
-   "description": "",
-   "id": "generative-learning-improves-retention",
-   "path": "claims/generative-learning-improves-retention.md",
-   "status": "draft",
-   "title": "Generative Learning Improves Retention",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "generative-learning-improves-retention",
+    "generative-learning-improves-comprehension"
+   ],
    "description": "",
    "id": "generative-processing-improves-learning",
    "path": "claims/generative-processing-improves-learning.md",
    "status": "draft",
-   "title": "Generative processing improves learning",
+   "title": "Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here",
    "type": "claim"
   },
   {
@@ -11001,7 +10984,7 @@
    "id": "growth-mindset-improves-achievement",
    "path": "claims/growth-mindset-improves-achievement.md",
    "status": "draft",
-   "title": "Growth mindset improves achievement",
+   "title": "Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial",
    "type": "claim"
   },
   {
@@ -12394,7 +12377,7 @@
    "id": "increasing-wait-time-improves-response-quality",
    "path": "claims/increasing-wait-time-improves-response-quality.md",
    "status": "draft",
-   "title": "Increasing Wait Time Improves Response Quality",
+   "title": "Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded",
    "type": "claim"
   },
   {
@@ -12974,12 +12957,12 @@
    "type": "claim"
   },
   {
-   "description": "Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement",
+   "description": "An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone",
    "evidence_strength": "weak",
    "id": "interactive-beats-constructive-concept-mapping",
    "path": "claims/interactive-beats-constructive-concept-mapping.md",
    "status": "draft",
-   "title": "Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement",
+   "title": "An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone",
    "type": "claim"
   },
   {
@@ -13482,15 +13465,6 @@
    "path": "claims/job-and-pay-largest-apprenticeship-barriers.md",
    "status": "draft",
    "title": "Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase",
-   "type": "claim"
-  },
-  {
-   "description": "Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks",
-   "evidence_strength": "moderate",
-   "id": "johnson-meta-analysis-cooperative-achievement",
-   "path": "claims/johnson-meta-analysis-cooperative-achievement.md",
-   "status": "draft",
-   "title": "Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks",
    "type": "claim"
   },
   {
@@ -14111,7 +14085,7 @@
    "id": "laptop-notes-verbatim-shallower",
    "path": "claims/laptop-notes-verbatim-shallower.md",
    "status": "draft",
-   "title": "Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking",
+   "title": "Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance",
    "type": "claim"
   },
   {
@@ -14527,7 +14501,7 @@
    "id": "learning-strategy-instruction-contextualized-more-effective",
    "path": "claims/learning-strategy-instruction-contextualized-more-effective.md",
    "status": "draft",
-   "title": "Strategy instruction is more effective when contextualized in authentic content-area tasks",
+   "title": "Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes",
    "type": "claim"
   },
   {
@@ -15219,12 +15193,12 @@
    "type": "claim"
   },
   {
-   "description": "Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues",
+   "description": "In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues",
    "evidence_strength": "weak",
    "id": "low-fidelity-pbis-smaller-student-improvements",
    "path": "claims/low-fidelity-pbis-smaller-student-improvements.md",
    "status": "draft",
-   "title": "Teachers implementing PBIS with low fidelity tended not to experience large student behavior improvements commensurate with high-fidelity colleagues",
+   "title": "In one study of students with emotional disturbance, the authors interpret their results as showing that teachers implementing PBIS with low fidelity tended not to see student behavior improvements as large as those of high-fidelity colleagues",
    "type": "claim"
   },
   {
@@ -15273,30 +15247,30 @@
    "type": "claim"
   },
   {
-   "description": "A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format",
+   "description": "Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts",
    "evidence_strength": "moderate",
    "id": "low-stress-tbl-higher-isat-scores",
    "path": "claims/low-stress-tbl-higher-isat-scores.md",
    "status": "draft",
-   "title": "A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format",
+   "title": "Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts",
    "type": "claim"
   },
   {
-   "description": "Students in the revised low-stress TBL format report higher perceived effectiveness of the learning format",
+   "description": "Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts",
    "evidence_strength": "moderate",
    "id": "low-stress-tbl-higher-perceived-effectiveness",
    "path": "claims/low-stress-tbl-higher-perceived-effectiveness.md",
    "status": "draft",
-   "title": "Students in the revised low-stress TBL format report higher perceived effectiveness of the learning format",
+   "title": "Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts",
    "type": "claim"
   },
   {
-   "description": "Students in the revised low-stress TBL format report lower stress and frustration than students in the original format",
+   "description": "Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts",
    "evidence_strength": "moderate",
    "id": "low-stress-tbl-lower-stress-frustration",
    "path": "claims/low-stress-tbl-lower-stress-frustration.md",
    "status": "draft",
-   "title": "Students in the revised low-stress TBL format report lower stress and frustration than students in the original format",
+   "title": "Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts",
    "type": "claim"
   },
   {
@@ -15561,12 +15535,12 @@
    "type": "claim"
   },
   {
-   "description": "Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores",
+   "description": "Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group",
    "evidence_strength": "moderate",
    "id": "mangomon-rpg-gamification-improves-business-vocabulary",
    "path": "claims/mangomon-rpg-gamification-improves-business-vocabulary.md",
    "status": "draft",
-   "title": "Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores",
+   "title": "Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group",
    "type": "claim"
   },
   {
@@ -15828,7 +15802,7 @@
    "id": "math-anxiety-degrades-performance",
    "path": "claims/math-anxiety-degrades-performance.md",
    "status": "draft",
-   "title": "Math Anxiety Degrades Performance",
+   "title": "Math anxiety has a small-to-moderate negative correlation with math achievement (r = \u2212.28) in a meta-analysis of correlations from 223 studies",
    "type": "claim"
   },
   {
@@ -16602,12 +16576,12 @@
    "type": "claim"
   },
   {
-   "description": "Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males",
+   "description": "Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females",
    "evidence_strength": "weak",
    "id": "minority-females-doubly-penalized-on-tests",
    "path": "claims/minority-females-doubly-penalized-on-tests.md",
    "status": "draft",
-   "title": "Minority female test-takers are doubly penalized, scoring below the males of their own ethnic group and below white males",
+   "title": "Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females",
    "type": "claim"
   },
   {
@@ -18887,15 +18861,6 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "evidence_strength": "moderate",
-   "id": "overjustification-effect-reduces-intrinsic-motivation",
-   "path": "claims/overjustification-effect-reduces-intrinsic-motivation.md",
-   "status": "draft",
-   "title": "Rewarding an already-intrinsically-motivating activity can reduce future engagement with it",
-   "type": "claim"
-  },
-  {
    "description": "In overlapping pairs, the danger of false identification of meanings is lower when the shared meaning is obvious in only one sense",
    "evidence_strength": "weak",
    "id": "overlap-degree-moderates-false-identification-risk",
@@ -19487,12 +19452,12 @@
    "type": "claim"
   },
   {
-   "description": "Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries",
+   "description": "A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s",
    "evidence_strength": "weak",
    "id": "peer-coaching-supports-teacher-professional-development",
    "path": "claims/peer-coaching-supports-teacher-professional-development.md",
    "status": "draft",
-   "title": "Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries",
+   "title": "A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s",
    "type": "claim"
   },
   {
@@ -22883,12 +22848,12 @@
    "type": "claim"
   },
   {
-   "description": "Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic",
+   "description": "A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)",
    "evidence_strength": "weak",
    "id": "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
    "path": "claims/retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md",
    "status": "draft",
-   "title": "Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic",
+   "title": "A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)",
    "type": "claim"
   },
   {
@@ -23028,7 +22993,8 @@
   },
   {
    "aliases": [
-    "extrinsic-rewards-undermine-intrinsic-motivation"
+    "extrinsic-rewards-undermine-intrinsic-motivation",
+    "overjustification-effect-reduces-intrinsic-motivation"
    ],
    "description": "",
    "id": "rewards-undermine-intrinsic-motivation",
@@ -27048,19 +27014,14 @@
    "type": "claim"
   },
   {
-   "description": "",
-   "id": "summarization-effective-with-training",
-   "path": "claims/summarization-effective-with-training.md",
-   "status": "draft",
-   "title": "Summarization Effective With Training",
-   "type": "claim"
-  },
-  {
+   "aliases": [
+    "summarization-effective-with-training"
+   ],
    "description": "",
    "id": "summarization-improves-learning",
    "path": "claims/summarization-improves-learning.md",
    "status": "draft",
-   "title": "Summarization Improves Learning",
+   "title": "Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading",
    "type": "claim"
   },
   {
@@ -27517,12 +27478,12 @@
    "type": "claim"
   },
   {
-   "description": "Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions",
+   "description": "Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts",
    "evidence_strength": "moderate",
    "id": "tbl-formats-similar-irat-trat-performance",
    "path": "claims/tbl-formats-similar-irat-trat-performance.md",
    "status": "draft",
-   "title": "Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions",
+   "title": "Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts",
    "type": "claim"
   },
   {
@@ -27722,7 +27683,7 @@
    "id": "teacher-expectation-effects-on-achievement",
    "path": "claims/teacher-expectation-effects-on-achievement.md",
    "status": "draft",
-   "title": "Teacher expectation effects on achievement",
+   "title": "Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study",
    "type": "claim"
   },
   {
@@ -28359,12 +28320,12 @@
    "type": "claim"
   },
   {
-   "description": "Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission",
+   "description": "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test",
    "evidence_strength": "weak",
    "id": "test-scores-gate-gifted-program-entry",
    "path": "claims/test-scores-gate-gifted-program-entry.md",
    "status": "draft",
-   "title": "Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission",
+   "title": "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test",
    "type": "claim"
   },
   {
@@ -32916,19 +32877,14 @@
    "type": "element"
   },
   {
+   "aliases": [
+    "debriefing"
+   ],
    "description": "A structured reflective conversation after an experience (simulation, discussion, case, or task) in which learners examine what happened, why, and what it means for future performance.",
    "id": "debrief",
    "path": "elements/debrief.md",
    "status": "review",
    "title": "Debrief",
-   "type": "element"
-  },
-  {
-   "description": "Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.",
-   "id": "debriefing",
-   "path": "elements/debriefing.md",
-   "status": "review",
-   "title": "Debriefing",
    "type": "element"
   },
   {
@@ -41333,27 +41289,11 @@
    "type": "principle"
   },
   {
-   "description": "This principle holds that students acquire multimedia literacy by engaging in multimedia production rather than only by consuming instruction.",
-   "id": "multimedia-literacy-through-production",
-   "path": "principles/multimedia-literacy-through-production.md",
-   "status": "draft",
-   "title": "Multimedia literacy is developed through producing multimedia",
-   "type": "principle"
-  },
-  {
    "description": "The article recommends assigning web-based multimedia learning modules, designed according to multimedia learning principles, as the pre-lecture exposure that lecture-based active learning requires.",
    "id": "multimedia-modules-for-pre-lecture-preparation",
    "path": "principles/multimedia-modules-for-pre-lecture-preparation.md",
    "status": "draft",
    "title": "Use multimedia learning modules as pre-lecture preparation for introductory physics instead of textbook reading assignments",
-   "type": "principle"
-  },
-  {
-   "description": "Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition.",
-   "id": "multimedia-projects",
-   "path": "principles/multimedia-projects.md",
-   "status": "review",
-   "title": "Multimedia Projects",
    "type": "principle"
   },
   {
@@ -76744,7 +76684,7 @@
    "cooperative-learning-improves-achievement": "cooperative-learning-improves-achievement",
    "cooperative-learning-language-class-outcomes": "cooperative-learning-language-class-outcomes",
    "cooperative-learning-location-moderator": "cooperative-learning-location-moderator",
-   "cooperative-learning-meta-analysis-higher-achievement": "cooperative-learning-meta-analysis-higher-achievement",
+   "cooperative-learning-meta-analysis-higher-achievement": "cooperative-learning-higher-achievement-than-competitive-individualistic",
    "cooperative-learning-moderate-overall-effect-second-order": "cooperative-learning-moderate-overall-effect-second-order",
    "cooperative-learning-nonsignificant-moderators": "cooperative-learning-nonsignificant-moderators",
    "cooperative-learning-outperforms-competitive-individualistic": "cooperative-learning-improves-achievement",
@@ -77331,8 +77271,8 @@
    "general-adult-education-heartland-ace-sector": "general-adult-education-heartland-ace-sector",
    "general-climate-moderates-strategic-climate-effect": "general-climate-moderates-strategic-climate-effect",
    "generation-effect-improves-retention": "generation-effect-improves-retention",
-   "generative-learning-improves-comprehension": "generative-learning-improves-comprehension",
-   "generative-learning-improves-retention": "generative-learning-improves-retention",
+   "generative-learning-improves-comprehension": "generative-processing-improves-learning",
+   "generative-learning-improves-retention": "generative-processing-improves-learning",
    "generative-processing-improves-learning": "generative-processing-improves-learning",
    "geometry-software-model-helped-informal-educator-understand-spatial-relations": "geometry-software-model-helped-informal-educator-understand-spatial-relations",
    "germane-cognitive-load-correlates-positively-with-interest": "germane-cognitive-load-correlates-positively-with-interest",
@@ -77676,7 +77616,7 @@
    "japanese-math-achievement-d-078": "japanese-math-achievement-d-078",
    "jeremy-journal-topics-track-equality-equity-mindsets": "jeremy-journal-topics-track-equality-equity-mindsets",
    "job-and-pay-largest-apprenticeship-barriers": "job-and-pay-largest-apprenticeship-barriers",
-   "johnson-meta-analysis-cooperative-achievement": "johnson-meta-analysis-cooperative-achievement",
+   "johnson-meta-analysis-cooperative-achievement": "cooperative-learning-higher-achievement-than-competitive-individualistic",
    "joint-book-reading-predicts-literacy-success": "joint-book-reading-predicts-literacy-success",
    "joint-modeling-improves-hint-prediction-small-margin": "joint-modeling-improves-hint-prediction-small-margin",
    "journal-clubs-enhance-critical-appraisal-pharmacy-students": "journal-clubs-enhance-critical-appraisal-pharmacy-students",
@@ -78292,7 +78232,7 @@
    "overall-support-strongly-predicts-engagement": "overall-support-strongly-predicts-engagement",
    "overall-therapist-complementarity-not-related-to-therapy-outcome": "overall-therapist-complementarity-not-related-to-therapy-outcome",
    "overgeneralization-errors-indicate-rule-use": "overgeneralization-errors-indicate-rule-use",
-   "overjustification-effect-reduces-intrinsic-motivation": "overjustification-effect-reduces-intrinsic-motivation",
+   "overjustification-effect-reduces-intrinsic-motivation": "rewards-undermine-intrinsic-motivation",
    "overlap-degree-moderates-false-identification-risk": "overlap-degree-moderates-false-identification-risk",
    "overlapping-ci-potential-relationship": "overlapping-ci-potential-relationship",
    "overt-error-correction-speeds-young-children-learning": "overt-error-correction-speeds-young-children-learning",
@@ -79237,7 +79177,7 @@
    "successful-readers-global-support-strategy-difference": "successful-readers-global-support-strategy-difference",
    "sufficient-input-convergence-school-age-microstructure": "sufficient-input-convergence-school-age-microstructure",
    "suggest-subgoal-compliance-predicts-learning-gains": "suggest-subgoal-compliance-predicts-learning-gains",
-   "summarization-effective-with-training": "summarization-effective-with-training",
+   "summarization-effective-with-training": "summarization-improves-learning",
    "summarization-improves-learning": "summarization-improves-learning",
    "summer-reading-loss-widens-gaps": "summer-reading-loss-widens-gaps",
    "sun-rises-exactly-east-only-at-equinoxes": "sun-rises-exactly-east-only-at-equinoxes",
@@ -79934,7 +79874,7 @@
    "dcps-sdm-building-level-teams": "dcps-sdm-building-level-teams",
    "debate": "debate",
    "debrief": "debrief",
-   "debriefing": "debriefing",
+   "debriefing": "debrief",
    "decision-making": "decision-making",
    "decision-making-restaurant-task": "decision-making-restaurant-task",
    "demonstration": "demonstration",
@@ -81005,9 +80945,7 @@
    "motivation": "motivation",
    "multi-objective-exercise-recommendation-objectives": "multi-objective-exercise-recommendation-objectives",
    "multimedia-learning": "multimedia-learning",
-   "multimedia-literacy-through-production": "multimedia-literacy-through-production",
    "multimedia-modules-for-pre-lecture-preparation": "multimedia-modules-for-pre-lecture-preparation",
-   "multimedia-projects": "multimedia-projects",
    "multimodal-instruction": "multimodal-instruction",
    "multiple-criteria-gifted-identification": "multiple-criteria-gifted-identification",
    "multiple-methods-of-assessment": "multiple-methods-of-assessment",

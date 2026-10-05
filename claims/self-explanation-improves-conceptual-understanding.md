@@ -165,9 +165,7 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the same expertise-reversal moderation likely applies to explanation prompts
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — prompt design must avoid adding extraneous load that offsets generative benefits
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — possibly the same claim (merge candidate)
-- [Generative Learning Improves Retention](generative-learning-improves-retention.md) — related
-- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
-- [Generative processing improves learning](generative-processing-improves-learning.md) — related
+- [Generative Learning Improves Retention](generative-processing-improves-learning.md) — related
 - [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — a narrower finding that bears on this claim
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim

@@ -11,7 +11,7 @@ generated:
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 9 studies (4 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q3` · 0 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 10 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -22,7 +22,7 @@ In instructional design, behaviorist principles underlie practices such as direc
 
 Skinner's account of consequences rests on Thorndike's earlier **law of effect** (Thorndike, 1911): behaviors followed by satisfying consequences are more likely to recur, while behaviors followed by unpleasant consequences are less likely to recur. Reinforcers themselves are further divided into **primary reinforcers** (food, water, sleep, shelter, touch, and pleasure — reinforcing without having been learned) and **secondary reinforcers** (praise, money, stickers, tokens — reinforcing only because they have been linked to a primary reinforcer); token-based secondary reinforcers scaled into a full classroom system are called a **token economy** (see [Token Economies](../strategies/token-economies.md)). **Generalization** is the incidental spread of a reinforced behavior to similar, non-reinforced behaviors (a student praised for reading library books starts reading newspapers and comics too); **discrimination** is learning not to overgeneralize (the same student learns to speak during discussion but not to blurt out at other times), and typically results from combining reinforcement of the target behavior with extinction of the overgeneralized version. Reinforcement scheduling also matters: **intermittent (partial) schedules** of reinforcement make a behavior take longer to learn, but also take longer to extinguish once learned — good news for sustaining praised behaviors that cannot be reinforced every time, but equally bad news for extinguishing misbehavior that has been intermittently reinforced by peer attention (Ferster et al., 1997; Mazur, 2005).
 
-Rewarding a behavior the learner already finds intrinsically interesting can backfire: the **overjustification effect** describes measurably reduced later engagement with a task after it was extrinsically rewarded, compared to never having been rewarded at all — an important caution against reflexively applying reinforcement to activities that do not need it (see [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md)).
+Rewarding a behavior the learner already finds intrinsically interesting can backfire: the **overjustification effect** describes measurably reduced later engagement with a task after it was extrinsically rewarded, compared to never having been rewarded at all — an important caution against reflexively applying reinforcement to activities that do not need it (see [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md)).
 
 Bandura's observational learning — "of the many cues that influence behavior, at any point in time, none is more common than the actions of others" (Bandura, 1986, p. 45) — extended behaviorist accounts of learning to include modeling; the wiki treats this extension as its own theory (see [Social Learning Theory](social-learning-theory.md)) rather than folding it into behaviorism itself.
 
@@ -58,7 +58,7 @@ Bandura's observational learning — "of the many cues that influence behavior, 
 Behaviorism is criticized as overly deterministic and as denying free will; by treating only observable behavior as scientifically valid, it has little to say about internal mental processes and struggles to explain behavior change that isn't traceable to an environmental input. Research by ethologists has also shown that conditioning principles are not universal across species and contexts, countering behaviorism's original claim of equipotentiality — that any stimulus could be conditioned to any response with equal ease.
 
 ## Claims
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M]
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — behaviorist routines are stronger when performance targets are specific and demanding
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible criteria and progress tracking can strengthen performance shaping
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice skill acquisition may benefit when repeated performance is coupled with attention to process, not only outcomes
@@ -201,7 +201,7 @@ When punishment is used, research identifies similar conditions for it to functi
 - **Observable responses** — reinforcement works best when the desired behavior can be identified and responded to
 - **Consistent contingent consequences** — the consequence needs to follow the target behavior closely enough that the connection is legible
 #### Constraints
-- **External rewards can crowd out intrinsic reasons for engagement if overused** — see the [overjustification effect](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M], strongest when reward is tied piecemeal to output rather than delivered at a flat rate, and on tasks that are not already well-defined with a clear performance standard
+- **External rewards can crowd out intrinsic reasons for engagement if overused** — see the [overjustification effect](../claims/rewards-undermine-intrinsic-motivation.md) [-M], strongest when reward is tied piecemeal to output rather than delivered at a flat rate, and on tasks that are not already well-defined with a clear performance standard
 - **Reinforcement is weaker for complex conceptual change than for routine behavior shaping**
 - **Inconsistent consequences can train the wrong thing** — learners may respond to what is actually rewarded, not what the teacher intended
 
@@ -225,7 +225,7 @@ When punishment is used, research identifies similar conditions for it to functi
 - [Self-Determination Theory](../theories/self-determination-theory.md) — external consequences can support behavior, but may weaken autonomy and intrinsic motivation if poorly designed
 
 ### Claims
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] — the clearest documented case where adding reinforcement backfires
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M] — the clearest documented case where adding reinforcement backfires
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — reinforcement is often more effective when success criteria are explicit and challenging
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress and consequences can help learners notice and sustain productive behaviors
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners may respond better when reinforcement is tied to process and execution rather than distant outcomes only

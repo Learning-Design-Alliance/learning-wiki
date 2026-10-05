@@ -20,7 +20,7 @@ sources:
 # Elaboration Theory
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (2 for, 9 mixed) · 13 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 13 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (2 for, 9 mixed) · 13 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 13 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 

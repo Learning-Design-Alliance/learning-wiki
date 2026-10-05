@@ -13,7 +13,7 @@ sources:
     title: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)"
     author: "Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B."
     q: 4
-    i: 2
+    i: 1
     n: 48 studies
     kind: quant-synthesis
     rigour: "?"
@@ -31,13 +31,13 @@ sources:
 # Reflective Practice Improves Outcomes When Structured
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1` small
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 
 ## Subclaims
 
-`q4 i2` A meta-analysis of 48 school-based writing-to-learn interventions found metacognitive-reflection prompts were the single strongest predictor of enhanced effects on academic achievement, controlling for other writing content types. [→ Bangert-Drowns et al. 2004](#bangert-drowns-et-al-2004)
+`q4 i1` A meta-analysis of 48 school-based writing-to-learn interventions found metacognitive-reflection prompts were the single strongest predictor of enhanced effects on academic achievement, controlling for other writing content types. [→ Bangert-Drowns et al. 2004](#bangert-drowns-et-al-2004)
 
 `q2 i?` In a quasi-experimental classroom study, engineering students given specific (structured) reflection prompts scored significantly higher on exams, project work and problem sets than students given generic (unstructured) prompts, despite both groups submitting the same number of reflections. [→ Menekse et al. 2022](#menekse-et-al-2022)
 
@@ -47,9 +47,9 @@ Reflection improves learning and performance when it is prompted by structure �
 
 Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
 
-`q4 · well-powered meta-analysis (48 studies)` · `i2 · medium effect, b=0.48 for metacognitive-reflection prompts` · `n=48 studies` · `quant-synthesis · r?`
+`q4 · well-powered meta-analysis (48 studies)` · `i1 · small effect, random-effects d = 0.22 overall; b = 0.48 for metacognitive-reflection prompts is a meta-regression coefficient (the difference in effect between assignments with and without such prompts), not an effect size, and is not binned (was i2)` · `n=48 studies` · `quant-synthesis · r?`
 
-This meta-analysis pooled 48 school-based writing-to-learn intervention studies (experimental vs. control academic-achievement outcomes) and found writing overall produced only a small average gain (random-effects d = 0.22, 95% CI [0.13, 0.31]). Moderator analysis of writing content types (informational, personal, imaginative, metacognitive) found that assignments containing prompts for metacognitive reflection were associated with a substantially larger effect than assignments without them (b = 0.48, p = .004) — the only content-type moderator that reached significance — alongside longer treatment length. Writing tasks with no reflective/metacognitive component performed near the small overall average; those requiring students to reflect on their own thinking process did substantially better, directly supporting the claim that unguided writing/reflection is weaker than reflection structured around metacognitive prompts.
+This meta-analysis pooled 48 school-based writing-to-learn intervention studies (experimental vs. control academic-achievement outcomes) and found writing overall produced only a small average gain (random-effects d = 0.22, 95% CI [0.13, 0.31]). Moderator analysis of writing content types (informational, personal, imaginative, metacognitive) found that assignments containing prompts for metacognitive reflection were associated with a substantially larger effect than assignments without them (b = 0.48, p = .004) — the only content-type moderator that reached significance — alongside longer treatment length. Writing tasks with no reflective/metacognitive component performed near the small overall average; those requiring students to reflect on their own thinking process did substantially better, directly supporting the claim that unguided writing/reflection is weaker than reflection structured around metacognitive prompts. The abstract prints neither d = 0.22 nor b = 0.48 (it says writing "can have a small, positive impact" and that metacognitive prompts "predicted enhanced effects"); both figures are this entry's reading of the full text, which is closed access and was not re-checked on 2026-10-05. The same study is recorded, from its abstract, on [writing to learn](writing-to-learn-improves-understanding.md).
 
 ### Menekse et al. 2022
 

@@ -1,6 +1,7 @@
 ---
 type: element
 id: debrief
+aliases: [debriefing]
 title: Debrief
 description: A structured reflective conversation after an experience (simulation, discussion, case, or task) in which learners examine what happened, why, and what it means for future performance.
 status: review
@@ -12,7 +13,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (9 for, 3 mixed) · 17 studies (9 quant-synthesis, 4 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 17 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (10 for, 3 mixed) · 18 studies (9 quant-synthesis, 4 causal, 2 qualitative, 1 review, 1 associational, 1 design), `q1`–`q4` · 8 of 18 report an effect size · 7 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -51,6 +52,8 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the debrief is a formative-assessment conversation: facilitator questions surface misconceptions and learners receive process-level feedback while it is still actionable
 - [Collaborative Learning](../principles/collaborative-learning.md) — group debriefs expose learners to peers' interpretations of the same event, widening the set of perspectives available for sense-making
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — debriefing enacts the *reflection* and *articulation* phases, in which learners make their reasoning explicit and compare it to expert reasoning
+- [Debriefing](../principles/debriefing.md)
+- [Reflection](../principles/reflection.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -65,6 +68,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
+- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -109,6 +113,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Class Discussion](../elements/class-discussion.md) — the conversational format debriefs share, but anchored to a specific shared experience
 - [Feedback](../elements/feedback.md) — process-level feedback is often delivered through debrief rather than as separate commentary
 - [Simulation](../elements/simulation.md) — the experience type most strongly associated with structured debriefing
+- [Reflection Activities](reflection-activities.md)
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the reflection and articulation phases after coached practice
@@ -131,3 +136,25 @@ Debriefing is where much of the learning from experience is actually consolidate
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development.* Prentice Hall.
 - McGaghie, W. C., Issenberg, S. B., Petrusa, E. R., & Scalese, R. J. (2010). A critical review of simulation-based medical education research: 2003–2009. *Medical Education, 44*(1), 50–63. [doi:10.1111/j.1365-2923.2009.03547.x](https://doi.org/10.1111/j.1365-2923.2009.03547.x)
+
+<!-- merged 2026-10-05 from elements/debriefing ("Debriefing"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Debriefing
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
+
+## Affordances
+- [Debriefing](../principles/debriefing.md)
+- [Reflection](../principles/reflection.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
+
+## Related Elements
+- [Reflection Activities](reflection-activities.md)
+-->

@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-10-05
 
+* **Merge**: six duplicate claims folded (summarization, overjustification, two Johnson & Johnson digests, two generative-learning claims); elements/debriefing into [debrief](elements/debrief.md); the multimedia-projects and multimedia-literacy principles into [learning by producing](patterns/learning-by-producing-pattern.md)
+* **Fix**: wave 6's claim findings — 23 titles, stale text, unbacked impact codes, and citations for Sturgill & Motley (2014), Van de Sande (2013), Pikulski (1973) and Freedle (2003) checked against Crossref, DataCite or ERIC
 * **Edit**: conversion wave 6 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-6.md); SDT and reinforcement-theory principles folded into their theories, three stub patterns into their principles; four frontmatter DOIs corrected against Crossref
 * **Merge**: eleven duplicate claims folded (judgments of learning, teaching others, SRSD writing, SEL achievement, phonological awareness, learner-centred relationships, feedback use, retrieval without encoding, two expertise-reversal variants, pretraining); principles/explicit-instruction-phonics folded into [phonics](principles/phonics.md)
 * **Fix**: wave 5's claim findings — 16 titles, stale text on about 20 claims, unbacked impact codes, kind codes, and citations for Sweet & Rupp (2012), Rupp et al. (2010), Miwa et al. (2017), Ceballos & Nutta (2022) and Gaofeng & Yeyu (2007) checked against Crossref, DataCite or ERIC
@@ -376,7 +378,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/cooperative-learning-definition-olsen-kagan](theories/cooperative-learning-definition-olsen-kagan.md) — Ingested from eric-ed437840 (A Brief Introduction to Cooperative Learning.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/heterogeneous-teams-more-benefits-than-homogeneous](claims/heterogeneous-teams-more-benefits-than-homogeneous.md) — Ingested from eric-ed437840 (A Brief Introduction to Cooperative Learning.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/cooperative-learning-language-class-outcomes](claims/cooperative-learning-language-class-outcomes.md) — Ingested from eric-ed437840 (A Brief Introduction to Cooperative Learning.) via eval_harness.py + ingest_extractions.py
-* **Ingest**: [claims/cooperative-learning-meta-analysis-higher-achievement](claims/cooperative-learning-meta-analysis-higher-achievement.md) — Ingested from eric-ed437840 (A Brief Introduction to Cooperative Learning.) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/cooperative-learning-meta-analysis-higher-achievement](claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) — Ingested from eric-ed437840 (A Brief Introduction to Cooperative Learning.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [patterns/dyad-pairing-maximize-peer-conflicts-poe](designs/dyad-pairing-maximize-peer-conflicts-poe.md) — Ingested from eric-ed406151 (Conceptual Change in Science through Collaborative Learning at the Computer.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [theories/peer-collaboration-three-cognitive-benefits](theories/peer-collaboration-three-cognitive-benefits.md) — Ingested from eric-ed406151 (Conceptual Change in Science through Collaborative Learning at the Computer.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [elements/force-and-motion-microworld-fmm](elements/force-and-motion-microworld-fmm.md) — Ingested from eric-ed406151 (Conceptual Change in Science through Collaborative Learning at the Computer.) via eval_harness.py + ingest_extractions.py
@@ -3859,7 +3861,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/number-board-games-improve-numerical-knowledge](claims/number-board-games-improve-numerical-knowledge.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/misconceptions-interfere-with-new-learning](claims/misconceptions-interfere-with-new-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/parent-implemented-intervention-improves-outcomes](claims/parent-implemented-intervention-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
-* **Ingest**: [claims/summarization-effective-with-training](claims/summarization-effective-with-training.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/summarization-effective-with-training](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/summarization-improves-learning](claims/summarization-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/rubrics-improve-student-work](claims/rubrics-improve-student-work.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/rubrics-improve-student-work-quality](claims/rubrics-improve-student-work.md) — Evidence filled from Crossref-verified sources (gap-fill)
@@ -3956,7 +3958,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/testing-improves-retention](claims/retrieval-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/testing-effect-retrieval-practice-improves-retention](claims/retrieval-practice-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/interleaving-improves-inductive-learning](claims/interleaving-improves-inductive-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
-* **Ingest**: [claims/generative-learning-improves-retention](claims/generative-learning-improves-retention.md) — Evidence copied from a verified near-duplicate (gap-fill)
+* **Ingest**: [claims/generative-learning-improves-retention](claims/generative-processing-improves-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/advance-organizers-improves-learning](claims/advance-organizers-improve-learning.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/dialogic-reading-improves-language-outcomes](claims/dialogic-reading-improves-language-outcomes.md) — Evidence copied from a verified near-duplicate (gap-fill)
 * **Ingest**: [claims/unguided-discovery-less-effective-than-guided-instruction](claims/minimal-guidance-less-effective-for-novices.md) — Evidence copied from a verified near-duplicate (gap-fill)
@@ -4011,7 +4013,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [claims/generative-processing-improves-learning](claims/generative-processing-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/expertise-reversal-guidance-hurts-experts](claims/expertise-reversal-effect.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/growth-mindset-interventions-improve-achievement](claims/growth-mindset-improves-achievement.md) — Evidence filled from Crossref-verified sources (gap-fill)
-* **Ingest**: [claims/generative-learning-improves-comprehension](claims/generative-learning-improves-comprehension.md) — Evidence filled from Crossref-verified sources (gap-fill)
+* **Ingest**: [claims/generative-learning-improves-comprehension](claims/generative-processing-improves-learning.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/elaborative-encoding-improves-retention](claims/elaborative-encoding-improves-retention.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/blended-learning-improves-outcomes](claims/blended-learning-improves-outcomes.md) — Evidence filled from Crossref-verified sources (gap-fill)
 * **Ingest**: [claims/cooperative-learning-free-rider-without-accountability](claims/cooperative-learning-group-rewards-and-individual-accountability.md) — Evidence copied from the verified entry on its near-duplicate sibling page
@@ -5009,7 +5011,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [elements/multi-mode-expression](elements/multi-mode-expression.md) — Ingested from eric-ed428728 (What Expertise Do Teachers Require To Facilitate Pupils' Self-Expression with Multimedia?) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [elements/multimedia-production-project](elements/multimedia-production-project.md) — Ingested from eric-ed428728 (What Expertise Do Teachers Require To Facilitate Pupils' Self-Expression with Multimedia?) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [principles/cross-curricular-multimedia-units](principles/cross-curricular-multimedia-units.md) — Ingested from eric-ed428728 (What Expertise Do Teachers Require To Facilitate Pupils' Self-Expression with Multimedia?) via eval_harness.py + ingest_extractions.py
-* **Ingest**: [principles/multimedia-literacy-through-production](principles/multimedia-literacy-through-production.md) — Ingested from eric-ed428728 (What Expertise Do Teachers Require To Facilitate Pupils' Self-Expression with Multimedia?) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [principles/multimedia-literacy-through-production](patterns/learning-by-producing-pattern.md) — Ingested from eric-ed428728 (What Expertise Do Teachers Require To Facilitate Pupils' Self-Expression with Multimedia?) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [strategies/peer-review-of-cooperative-learning-sessions](strategies/peer-review-of-cooperative-learning-sessions.md) — Ingested from eric-ed427216 (Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [strategies/heterogeneous-grouping-adult-cooperative-learning](strategies/heterogeneous-grouping-adult-cooperative-learning.md) — Ingested from eric-ed427216 (Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [patterns/jigsaw-structures-adult-learners](patterns/jigsaw-structures-adult-learners.md) — Ingested from eric-ed427216 (Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98.) via eval_harness.py + ingest_extractions.py
@@ -5456,7 +5458,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/varieties-of-cooperative-learning](theories/varieties-of-cooperative-learning.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [theories/four-basic-elements-cooperative-learning](theories/four-basic-elements-cooperative-learning.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/secondary-cooperative-learning-newmann-thompson](claims/secondary-cooperative-learning-newmann-thompson.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
-* **Ingest**: [claims/johnson-meta-analysis-cooperative-achievement](claims/johnson-meta-analysis-cooperative-achievement.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/johnson-meta-analysis-cooperative-achievement](claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/cooperative-learning-achievement-synthesis-slavin](claims/cooperative-learning-achievement-synthesis-slavin.md) — Ingested from eric-ed351207 (Using Cooperative Learning in Science Education.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [principles/positive-clarity-moves-design-principle](principles/positive-clarity-moves-design-principle.md) — Ingested from eric-ed331809 (The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [theories/tennyson-cocchiarella-concept-instruction-model](theories/tennyson-cocchiarella-concept-instruction-model.md) — Ingested from eric-ed331809 (The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception.) via eval_harness.py + ingest_extractions.py
@@ -14910,7 +14912,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/goal-orientation-theory](theories/goal-orientation-theory.md) — New page: Goal Orientation Theory, 2x2 mastery/performance x approach/avoidance model (Unit 6 ingest)
 * **Ingest**: [claims/seductive-details-distract-from-learning](claims/seductive-details-effect.md) — New claim ld-6: seductive details effect (Unit 6 ingest)
 * **Ingest**: [theories/four-phase-interest-development](theories/four-phase-interest-development.md) — New page: Four-Phase Model of Interest Development (Unit 6 ingest)
-* **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/overjustification-effect-reduces-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
+* **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/rewards-undermine-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
 * **Ingest**: [theories/instinct-drive-and-arousal-theories](theories/instinct-drive-and-arousal-theories.md) — New page: Instinct, Drive, and Arousal Theories (Unit 6 ingest)
 * **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based-learning-pbl.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose

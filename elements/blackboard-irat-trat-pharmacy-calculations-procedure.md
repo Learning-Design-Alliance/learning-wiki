@@ -44,7 +44,7 @@ This element is the readiness assurance test implementation used in a pharmacy c
 - [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance](../claims/trat-scores-exceed-irat-scores.md) [+W]
 - [TRAT scores correlate only very low-to-low with lecture assessment scores, with significance limited to a few topics](../claims/trat-weak-correlation-lecture-assessments.md) [+M]
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](../claims/team-rat-scores-higher-than-individual-rat.md) [+M]
-- [Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions](../claims/tbl-formats-similar-irat-trat-performance.md) [+M]
+- [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](../claims/tbl-formats-similar-irat-trat-performance.md) [+M]
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](../claims/tbl-trat-isat-improve-over-irat.md) [+M]
 
 ## Related Elements

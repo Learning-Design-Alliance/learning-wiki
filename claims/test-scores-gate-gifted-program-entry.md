@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission"
-description: "Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission"
+title: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test"
+description: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test"
 id: test-scores-gate-gifted-program-entry
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission
+# Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission -->
 
 ## Subclaims
 `q2 i?` Talent-search programs using SAT scores admit far more boys than girls: Johns Hopkins CTY extended invitations to over 2,500 boys but only 1,081 girls in one summer, although an equal number of boys and girls took the test. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
@@ -41,6 +42,7 @@ Rosser's written testimony on the Johns Hopkins Center for the Advancement of Ac
 
 ## Discussion
 
+The evidence is one witness's written testimony reporting invitation counts for one programme in one summer, with the witness's argument that girls' lower SAT scores kept them from qualifying for it and for programmes like the New Jersey Governor's School. It does not compare admission routes or show that a different criterion would have admitted more girls.
 
 ## Related Claims
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related

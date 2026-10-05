@@ -16,7 +16,7 @@ sources:
 # Five common models of cooperative learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (2 review, 1 design), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter organizes cooperative learning into a taxonomy of five models: "The Structural Approach (Kagan, 1989), Group Investigation (Sharan & Sharan, 1992), Student Team Investigation (Aronson, Blaney, Stephan, Sikes, & Snapp, 1978; Slavin, 1990), Curriculum Packages (Slavin, Leavey, & Madden, 1986; Slavin et al., 1986), and Learning Together (Johnson, Johnson, & Holubec, 1991, 1992, 1994)." The Structural Approach uses structures as frameworks within which activities are done; Group Investigation incorporates investigation, interaction, interpretation, and intrinsic motivation; Curriculum Packages are subject- and age-specific commercial materials such as CIRC and TAI; Learning Together emphasizes teaching social skills and structuring all five required elements.
@@ -39,7 +39,7 @@ The chapter organizes cooperative learning into a taxonomy of five models: "The 
 ### Claims
 
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+W]
-- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-meta-analysis-higher-achievement.md) [+M]
+- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
 
 ## Related Theories
 

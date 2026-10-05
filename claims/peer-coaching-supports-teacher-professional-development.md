@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries
-description: Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries
+title: "A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s"
+description: "A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s"
 id: peer-coaching-supports-teacher-professional-development
 status: draft
 generated:
@@ -9,31 +9,33 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008
-    resource: "https://eric.ed.gov"
-    title: "Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov"
-    author: Online peer assisted learning community model and its application in ZJNU
-    q: 2
+  - id: gaofeng-yeyu-2007
+    resource: "https://eric.ed.gov/?id=ED500172"
+    title: "Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)"
+    author: "Gaofeng, R., & Yeyu, L."
+    q: 1
     i: "?"
     kind: design
     rigour: 1
 ---
 
-# Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries
+# A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r1` · `q2`
+> **Evidence** · 1 study · design `r1` · `q1`
+<!-- deprecated title (2026-10-05, overstated its evidence): Peer coaching has been proved a highly effective way of teacher professional development since the 1980s in the UK, US, and other countries -->
 
 ## Subclaims
-`q2 i?` Peer coaching, in which teachers observe, share ideas, and solve classroom teaching problems cooperatively with peers of similar status, is reported as a highly effective model of school-based teacher professional development. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)
+`q1 i?` Peer coaching, in which teachers observe, share ideas, and solve classroom teaching problems cooperatively with peers of similar status, is asserted, without cited studies, to be a highly effective model of school-based teacher professional development. [→ Gaofeng & Yeyu 2007](#gaofeng-yeyu-2007)
 
 ## Evidence
 
-### Online peer assisted learning community model and its application in ZJNU 2008
+### Gaofeng & Yeyu 2007
 
-Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov
+<!-- citation corrected 2026-10-05 from the ERIC record for the source this page was fetched from (sources/manifest.ndjson: eric-ed500172; ERIC lists the authors as "Gaofeng, Ruan" and "Yeyu, Lin", 2007, Online Submission); no Crossref record was found, so no DOI is asserted. Was: Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov -->
+Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)
 
-`q2 · i? · the article prints no effect size for this finding` · `design · r1`
+`q1 · an assertion in the article's review, with no underlying studies reported` · `i? · the article prints no effect size for this finding` · `design · r1`
 
 The article's review asserts that peer coaching "has been proved as a highly effective way of teachers professional development" in the UK, US and other countries since the 1980s. No underlying studies or effect sizes are reported in the article.
 
@@ -41,6 +43,7 @@ The article's review asserts that peer coaching "has been proved as a highly eff
 
 ## Discussion
 
+The source is a report on an online learning community at Zhejiang Normal University whose review section makes this assertion in passing; it names no studies and reports no data, so citing this page does not show that peer coaching is effective.
 
 ## Related Claims
 - [Facilitated self-directed learning and peer discussion empower adult learners](facilitated-self-directed-learning-empowers-adults.md) — related

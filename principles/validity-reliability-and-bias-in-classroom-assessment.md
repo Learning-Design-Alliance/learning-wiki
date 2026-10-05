@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (5 for, 14 mixed) · 18 studies (5 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (5 for, 14 mixed) · 18 studies (5 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 18 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 

@@ -64,6 +64,6 @@ Descriptive report from the Tucson project's home visits: teachers learned "how 
 ## Related Claims
 - [Deficit View Of Minority Households Lowers Academic Expectations](deficit-view-of-minority-households-lowers-academic-expectations.md)
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related
-- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
+- [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
 - [Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.](home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) — related
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related

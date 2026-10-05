@@ -43,7 +43,7 @@ The review-style article attributes this position to Peter Reason (1994) and his
 
 
 ## Related Claims
-- [Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
+- [A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
 - [A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation](playful-pedagogy-less-catastrophic-responses.md) — related
 - [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](all-spreading-nondirectional-relational-medium.md) — related
 - [Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold](changing-activity-constraints-enable-new-coherences.md) — related

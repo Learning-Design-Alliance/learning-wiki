@@ -11,7 +11,7 @@ generated:
 # Teaching Styles as Warmth and Control
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 against) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q3` · 0 of 4 report an effect size
+> **Evidence** · 1 claim (1 against) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q3`–`q4` · 1 of 5 report an effect size
 
 ## Description
 For many years, warmth and control were treated as opposite ends of a single continuum — a teacher who chose to be warm could not also be in control, and vice versa. Soar and Soar (1983) proposed instead that warmth and control are two independent dimensions that can occur in any combination and to any degree, each measured by its own set of classroom behaviors. **Control** runs from low (student spontaneity, risk-taking, student-initiated responses) to high (teacher talk, task orientation, teacher authority). **Warmth** runs from low (frequent reference to formal rules and procedures, punishment, criticism, scolding, reprimanding) to high (praise and rewards, use of student ideas, responsiveness to student requests). Crossing the two dimensions yields four teaching-style profiles:
@@ -36,7 +36,7 @@ An effective classroom management plan blends warmth and control in a way that a
 - Sustained work engagement and reduced disruptive behavior through a climate students want to remain part of, rather than one they comply with only under threat
 
 ## Claims
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] — the authoritative style's own documented risk (a reward system so tightly managed it crowds out independent behavior) is a specific case of this broader effect
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M] — the authoritative style's own documented risk (a reward system so tightly managed it crowds out independent behavior) is a specific case of this broader effect
 
 ## Related Theories
 - [Self-Determination Theory](self-determination-theory.md) [~M] — SDT's caution against controlling, non-autonomy-supportive environments describes the same failure mode as the authoritarian profile and the authoritative style's reward-saturation risk

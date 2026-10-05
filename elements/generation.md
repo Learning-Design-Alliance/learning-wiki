@@ -52,7 +52,7 @@ Generation reliably improves retention of the generated material relative to rea
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]
-- [Generative processing improves learning](../claims/generative-processing-improves-learning.md) [+M]
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md) — generation often precedes practice; practice then consolidates what generation constructed

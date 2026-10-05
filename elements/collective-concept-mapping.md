@@ -40,7 +40,7 @@ A group activity in which members pool individual interpretations to construct s
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
+- [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
 - [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
 - [Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle](../claims/reader-interpretations-open-hermeneutic-circle.md) [+W]
 

@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**733 entries** · 0 stable · 308 in review · 425 drafts
+**732 entries** · 0 stable · 307 in review · 425 drafts
 
 ---
 
@@ -87,7 +87,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Data Analysis](data-analysis.md) - Data analysis is the element in which learners inspect, interpret, organize, or transform data in order to answer questions, identify patterns, or justify conclusions.
 * [Debate](debate.md) - Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.
 * [Debrief](debrief.md) - A structured reflective conversation after an experience (simulation, discussion, case, or task) in which learners examine what happened, why, and what it means for future performance.
-* [Debriefing](debriefing.md) - Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
 * [Decision-Making](decision-making.md) - Learners evaluate options and make informed choices within a structured learning activity.
 * [Demonstration](demonstration.md) - A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves.
 * [Dialogic Reading](dialogic-reading.md) - An interactive shared-reading method in which an adult prompts children with questions, expands their responses, and gives feedback, turning storybook reading into a dialogue that builds expressive language.

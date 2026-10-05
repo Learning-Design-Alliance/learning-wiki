@@ -81,7 +81,7 @@ Boundary conditions to watch: the greeting must be genuinely positive and person
 - [Classroom design affects learning progress](classroom-design-affects-learning-progress.md) — the doorway/entry routine is part of the physical and procedural learning environment
 - [Clear structure improves learning](../principles/clear-structure.md) — greetings are one routine within a broader set of transition-management structures
 - [Check-ins](../principles/check-ins.md) — relational-diagnostic moments at other points in the lesson serving a similar function
-- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](behaviorist-reinforcement-effective-positive-behavior.md) — related
+- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](behaviorist-reinforcement-effective-positive-behavior.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — related

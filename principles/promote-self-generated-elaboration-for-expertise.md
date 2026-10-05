@@ -46,7 +46,7 @@ The article concludes that instructional strategies should let students generate
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](../claims/gpa-pretest-elaboration-interaction-intellectual-skills.md) [+W]
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
-- [Generative Learning Improves Retention](../claims/generative-learning-improves-retention.md) [+M]
+- [Generative Learning Improves Retention](../claims/generative-processing-improves-learning.md) [+M]
 
 ## Related Principles
 - 

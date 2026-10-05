@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking
+title: "Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,13 @@ sources:
     rigour: "?"
 ---
 
-# Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking
+# Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking -->
 
-The proposed mechanism is that laptops, being faster than handwriting, invite learners to transcribe lectures word-for-word rather than summarizing, paraphrasing, and selecting — encoding processes that support comprehension. The claim concerns the *style* of note-taking that each medium tends to induce, not an inherent property of the devices themselves.
+The proposed mechanism is that laptops, being faster than handwriting, invite learners to transcribe lectures word-for-word rather than summarizing, paraphrasing, and selecting — encoding processes that support comprehension. The claim concerns the *style* of note-taking that each medium tends to induce, not an inherent property of the devices themselves. Of the two studies recorded, the original experiments support the performance cost and the direct replication does not, so the learning cost is fragile rather than established.
 
 ## Subclaims
 

@@ -22,7 +22,7 @@ sources:
     title: "Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804"
     author: Eylon, Bat-Sheva; Reif, F.
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -30,7 +30,7 @@ sources:
 # Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Among low-ability subjects in Experiment 1 there was no significant difference between any treatment means; among medium-ability subjects the H treatment significantly exceeded the combined S1 and S2 mean. [→ Eylon 1979](#eylon-1979)
@@ -52,7 +52,7 @@ Experiment 1 Scheffe a-posteriori contrasts on complex-task scores by ability bl
 
 Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on Task Performance. https://eric.ed.gov/?id=ED171804
 
-`q2 · i2` · `causal · r1`
+`q2 · i? · no effect size printed; the entry gives mean recall percentages for the four highest- and four lowest-ability subjects only (about 57% against about 20%)` · `causal · r1`
 
 Experiment 3 correlational observation: the two subjects whose retrieval paths could not be mapped onto their treatment organization were the two of lowest ability, and recall proportions rose with prior physics-course performance.
 

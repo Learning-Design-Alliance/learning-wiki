@@ -43,7 +43,7 @@ Survey results (Figure 5) on question difficulty and fairness: medical students 
 
 
 ## Related Claims
-- [Students in the revised low-stress TBL format report higher perceived effectiveness of the learning format](low-stress-tbl-higher-perceived-effectiveness.md) — related
-- [A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format](low-stress-tbl-higher-isat-scores.md) — related
-- [Students in the revised low-stress TBL format report lower stress and frustration than students in the original format](low-stress-tbl-lower-stress-frustration.md) — related
+- [Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-perceived-effectiveness.md) — related
+- [Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-isat-scores.md) — related
+- [Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-lower-stress-frustration.md) — related
 - [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](tbl-team-dynamics-no-format-differences.md) — related

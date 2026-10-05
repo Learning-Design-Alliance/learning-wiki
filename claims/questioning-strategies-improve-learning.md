@@ -99,11 +99,11 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) — questioning is a core active-learning technique
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — question complexity must fit working-memory limits
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) — questions function as low-stakes formative assessment when paired with feedback
-- [Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
+- [A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — a narrower finding that bears on this claim
 - [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) — related
-- [Increasing Wait Time Improves Response Quality](increasing-wait-time-improves-response-quality.md) — related
+- [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](increasing-wait-time-improves-response-quality.md) — the narrower wait-time claim, resting on the same Tobin (1987) review plus Rowe (1986)
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related

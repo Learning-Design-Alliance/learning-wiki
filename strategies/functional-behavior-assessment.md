@@ -12,14 +12,14 @@ generated:
 # Functional Behavior Assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
 
 ## Description
 Functional Behavior Assessment (FBA) is a structured process for identifying the *function* a challenging behavior serves for a learner — typically obtaining attention, escaping a demand, accessing a tangible, or automatic/sensory reinforcement. It combines indirect methods (teacher interviews, rating scales), direct observation (ABC — antecedent–behavior–consequence — recording), and, in its most rigorous form, experimental functional analysis in which conditions are systematically manipulated to test hypotheses. The resulting hypothesis about behavioral function drives a function-based intervention, most often teaching a replacement behavior that serves the same function more appropriately.
 
 ## Design Implications
 
-FBA rests on the behavioral principle that behavior is maintained by its consequences, so interventions that do not match the identified function tend to fail or produce side effects [~S]. Function-based interventions outperform interventions chosen without functional information, particularly for escape-maintained and attention-maintained behavior [Function-based treatments outperform non-function-based treatments.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M]. The assessment itself is diagnostic, not instructional — its value is realized only when the hypothesis is translated into antecedent adjustments, reinforcement changes, and explicit teaching of a replacement behavior.
+FBA rests on the behavioral principle that behavior is maintained by its consequences, so interventions that do not match the identified function tend to fail or produce side effects. Function-based interventions outperform interventions chosen without functional information, particularly for escape-maintained and attention-maintained behavior (no claim page in this wiki yet covers function-based against non-function-based treatment; see Ingram, Lewis-Palmer & Sugai 2005 under Key Sources)<!-- 2026-10-05: this sentence linked "Function-based treatments outperform non-function-based treatments." to ../claims/feedback-most-effective-at-task-and-process-levels.md [+M], a claim about feedback levels, not FBA; link and marker removed -->. The assessment itself is diagnostic, not instructional — its value is realized only when the hypothesis is translated into antecedent adjustments, reinforcement changes, and explicit teaching of a replacement behavior.
 
 ### Context
 #### Requirements
@@ -30,11 +30,11 @@ FBA rests on the behavioral principle that behavior is maintained by its consequ
 - Team involvement: teachers, families, and where relevant the learner, with staff trained to implement the plan consistently
 
 #### Constraints
-- FBA conducted only as a compliance paperwork exercise, without a resulting function-based intervention, produces no behavioral improvement [-M]
-- Indirect assessments alone (interviews, rating scales) have modest agreement with experimentally verified functions [~M]; hypotheses should be verified with direct observation at minimum
+- FBA conducted only as a compliance paperwork exercise, without a resulting function-based intervention, produces no behavioral improvement
+- Indirect assessments alone (interviews, rating scales) have modest agreement with experimentally verified functions; hypotheses should be verified with direct observation at minimum
 - Low-frequency or dangerous behaviors may not be observable during naturalistic data collection, limiting assessment validity
 - In group settings, attention- and escape-maintained behavior can be difficult to distinguish without experimental analysis
-- Poorly run experimental functional analyses can inadvertently reinforce problem behavior or be impractical in classroom conditions [~W]
+- Poorly run experimental functional analyses can inadvertently reinforce problem behavior or be impractical in classroom conditions
 
 #### Implementation Variability
 - **Full FBA with functional analysis** — experimental manipulation of antecedents/consequences; gold standard, typically conducted by behavior specialists
@@ -43,10 +43,10 @@ FBA rests on the behavioral principle that behavior is maintained by its consequ
 - FBA is legally required in many U.S. jurisdictions when a student's behavior impedes learning or as part of manifestation determination under IDEA; scope and rigor requirements vary by state
 
 ### Target Learners
-- Students with persistent challenging behavior that has not responded to general classroom management [~S]
+- Students with persistent challenging behavior that has not responded to general classroom management
 - Learners with limited communication skills, for whom problem behavior may function as communication; FBA frames intervention as teaching an alternative communicative act
 - Students with disabilities in special education settings, where FBA informs behavior intervention plans and [accommodations](../elements/accommodations.md)
-- Less appropriate for behaviors with purely skill-deficit causes (the student does not know the expected behavior) — direct instruction, not function-based intervention, is the first move there [~M]
+- Less appropriate for behaviors with purely skill-deficit causes (the student does not know the expected behavior) — direct instruction, not function-based intervention, is the first move there
 
 ### Target Learning Goals
 - Behavioral and social-emotional goals: reducing interfering behavior and increasing appropriate alternatives

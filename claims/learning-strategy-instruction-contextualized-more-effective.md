@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Strategy instruction is more effective when contextualized in authentic content-area tasks
+title: "Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,14 +19,17 @@ sources:
     rigour: "?"
 ---
 
-# Strategy instruction is more effective when contextualized in authentic content-area tasks
+# Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=17 experimental comparisons (16 language arts, 1 content area)
+<!-- deprecated title (2026-10-05, overstated its evidence): Strategy instruction is more effective when contextualized in authentic content-area tasks -->
 
-Strategy instruction is more effective when strategies are taught within authentic content-area tasks rather than as generic, decontextualized routines.
+The hypothesis this page tracks is that strategy instruction is more effective when strategies are taught within authentic content-area tasks rather than as generic, decontextualized routines. No study recorded here tests it directly, and the one quantitative comparison recorded points the other way (see the subclaim and entry below).
 
-**Scope.** The claim compares the *same* strategies, taught with the *same* explicitness, practiced on authentic domain material — reading a history text, solving a physics problem, evaluating a source — versus contrived, isolated exercises. It does not concern whether strategy instruction helps at all, nor which strategy to choose.
+<!-- deprecated 2026-10-05 (stated as an established effect; its only evidence points the other way): Strategy instruction is more effective when strategies are taught within authentic content-area tasks rather than as generic, decontextualized routines. -->
+
+**Scope.** The hypothesis compares the *same* strategies, taught with the *same* explicitness, practiced on authentic domain material — reading a history text, solving a physics problem, evaluating a source — versus contrived, isolated exercises. It does not concern whether strategy instruction helps at all, nor which strategy to choose.
 
 ## Subclaims
 
@@ -44,7 +47,7 @@ A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy 
 
 ## Discussion
 
-**Scope and mechanism.** The claim concerns *where* strategies are taught, not *whether* they are taught. The mechanism is that strategies practiced on authentic material bind to the conditions under which they must later be used: a summarizing routine learned on a history passage is more likely to be retrieved when reading the next history passage than one learned on a contrived worksheet. This is consistent with [Situated learning](../theories/situated-learning.md) and [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md), both of which hold that knowledge and skill are inseparable from the contexts of their acquisition [~W]. It also connects to [Activation improves learning.](activation-improves-learning.md) — contextualized instruction gives learners something to activate. But no controlled comparison in the current evidence base directly tests contextualized versus decontextualized delivery of the same strategy, so this should be treated as a design hypothesis, not an established effect. **The one quantitative test recorded above points the other way:** in a meta-analysis of whole-classroom reading-strategy interventions, strategic ability improved more in language-arts classes than in content-area classes, and context did not moderate reading comprehension. The content-area estimate rests on a single comparison, so this is weak evidence, but it is evidence against the claim as titled; renaming is the maintainer's call.
+**Scope and mechanism.** The claim concerns *where* strategies are taught, not *whether* they are taught. The mechanism is that strategies practiced on authentic material bind to the conditions under which they must later be used: a summarizing routine learned on a history passage is more likely to be retrieved when reading the next history passage than one learned on a contrived worksheet. This is consistent with [Situated learning](../theories/situated-learning.md) and [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md), both of which hold that knowledge and skill are inseparable from the contexts of their acquisition [~W]. It also connects to [Activation improves learning.](activation-improves-learning.md) — contextualized instruction gives learners something to activate. But no controlled comparison in the current evidence base directly tests contextualized versus decontextualized delivery of the same strategy, so this should be treated as a design hypothesis, not an established effect. **The one quantitative test recorded above points the other way:** in a meta-analysis of whole-classroom reading-strategy interventions, strategic ability improved more in language-arts classes than in content-area classes, and context did not moderate reading comprehension. The content-area estimate rests on a single comparison, so this is weak evidence, but it is evidence against the hypothesis, and the title now says so. <!-- deprecated 2026-10-05 (title rewritten): but it is evidence against the claim as titled; renaming is the maintainer's call. -->
 
 **Boundary conditions.** Contextualization is not free. Authentic material carries domain content that consumes working memory, so novices may benefit from more explicit scaffolding and simpler contexts than experts, consistent with the [Expertise reversal effect](../theories/expertise-reversal-effect.md) [~W]. Highly general strategies (e.g., self-testing, planning) may transfer well even from decontextualized instruction, while domain-specific strategies (e.g., source evaluation in history) likely depend heavily on context [~W]. Finally, "authentic" does not mean unstructured: contextualized instruction still requires explicit modeling and guided practice, and fidelity of implementation is a plausible moderator [~W].
 

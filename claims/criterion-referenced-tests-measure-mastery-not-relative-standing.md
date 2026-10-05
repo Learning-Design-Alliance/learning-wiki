@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 sources:
-  - id: criterion-referenced-measurement-in-reading-1974
-    resource: "https://eric.ed.gov/"
-    title: "Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/"
-    author: Criterion Referenced Measurement in Reading
+  - id: pikulski-1973
+    resource: "https://eric.ed.gov/?id=ED085660"
+    title: "Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660"
+    author: Pikulski, J. J.
     q: 2
     i: "?"
     kind: theoretical
@@ -25,15 +25,17 @@ sources:
 > **Evidence** · 1 study · theoretical `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Criterion-referenced measurement indicates mastery or absence of a defined skill rather than relative standing among test takers. [→ Criterion Referenced Measurement in Reading 1974](#criterion-referenced-measurement-in-reading-1974)
+`q2 i?` Criterion-referenced measurement indicates mastery or absence of a defined skill rather than relative standing among test takers. [→ Pikulski 1973](#pikulski-1973)
 
 ## Evidence
 
-### Criterion Referenced Measurement in Reading 1974
+### Pikulski 1973
 
-Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/
+Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660
 
 `q2 · i?` · `theoretical · r?`
+
+(ERIC records a journal version as Pikulski, J. J. (1974), Criterion referenced measures for clinical evaluations, *Reading World*, EJ109022. The citation this page carried before 2026-10-05, "Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/", named no author and linked only ERIC's homepage; the quote below is verbatim in the abstract of ERIC record ED085660, the document this page was ingested from (sources/manifest.ndjson, eric-ed085660).)
 
 The article's conceptual discussion of criterion-referenced measurement explains its anchoring: "one at the top indicating complete or perfect mastery of some defined abilities; one at the bottom indicating absence of some skills." No empirical comparison is reported; this is the article's definitional account.
 

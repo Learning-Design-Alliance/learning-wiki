@@ -38,7 +38,7 @@ The review presents behaviorism, associated with B.F. Skinner, as a theory in wh
 ### Claims
 
 - [The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity](../claims/behaviorism-fails-linguistic-generativity.md) [-W]
-- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+M]
+- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+M]
 
 ## Related Theories
 

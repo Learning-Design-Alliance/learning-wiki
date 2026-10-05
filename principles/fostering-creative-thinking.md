@@ -12,7 +12,7 @@ generated:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (3 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Creativity is the ability to make or do something new that is also useful or valued by others (Gardner, 1993) — the "something" can be an object, a skill, or an action, but to count as creative it cannot simply be bizarre, nor merely accidental (a poem produced by typing letters at random is not creative even if the result happens to be pleasing). This experience is not restricted to a few geniuses or to specific fields like art or music; most people have had it at some point (Kaufman & Baer, 2006). **Creative thinking** specifically is the generation of ideas that are new as well as useful, productive, and appropriate — and it is a form of thinking teachers can deliberately stimulate.

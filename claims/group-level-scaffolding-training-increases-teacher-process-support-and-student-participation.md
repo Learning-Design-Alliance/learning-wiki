@@ -53,6 +53,6 @@ This is a genuine, well-instrumented quasi-experiment with interrater reliabilit
 ## Related Claims
 - (none yet linked)
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
-- [Summarization Effective With Training](summarization-effective-with-training.md) — related
+- [Summarization Effective With Training](summarization-improves-learning.md) — related
 - [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related
 - [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related

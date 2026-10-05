@@ -42,7 +42,7 @@ Concept mapping is the element in which learners represent concepts and their re
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
-- [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
+- [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]
 
 ## Related Elements

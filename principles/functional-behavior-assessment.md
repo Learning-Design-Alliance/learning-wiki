@@ -12,7 +12,7 @@ generated:
 # Functional Behavior Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational), `q1`–`q4` · 4 of 15 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 18 studies (7 quant-synthesis, 6 causal, 4 review, 1 associational), `q1`–`q4` · 4 of 18 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,7 +111,7 @@ The earlier page cited no claims. These claims bear on neighbouring parts of the
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](../claims/disruptive-behavior-lowers-engagement-and-achievement.md) [+W] — why the behavior matters for learning; a background statement reported second-hand in a review.
 - [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](../claims/formal-discipline-plan-increases-teacher-control-and-competence.md) [+W] — bears on the earlier page's case for planned, documented responses; a second-hand statement in a practitioner brief, about teachers' feelings, not student behavior.
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [~M] — bears on the trust the earlier page says documented, fair responses build; correlational meta-analyses that do not show direction.
-- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand narrative assertion with no sample or effect size; listed because the earlier page rested its theory link on reinforcement.
+- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand narrative assertion with no sample or effect size; listed because the earlier page rested its theory link on reinforcement.
 
 ## Objective and learner-valued goal
 

@@ -124,6 +124,34 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 (late night) — wave 6's claim findings settled
+
+- **Six duplicate claims merged** (`merge_claims.py`): summarization with training into summarization; overjustification
+  into `rewards-undermine-intrinsic-motivation`; the Johnson & Johnson digests (`johnson-meta-analysis-…`,
+  `cooperative-learning-meta-analysis-…`) into `cooperative-learning-higher-achievement-than-competitive-individualistic`,
+  now titled as three second-hand digests; both generative-learning claims into `generative-processing-improves-learning`,
+  now titled as self-explanation (Bisra et al. 2018 is its only evidence). **Pages folded**: `elements/debriefing` into
+  `elements/debrief`; the principles `multimedia-projects` and `multimedia-literacy-through-production` into
+  `patterns/learning-by-producing-pattern` (across kinds, no alias). **Not merged**: the two Benner (2008) PBIS claims and
+  the two autonomy claims (distinct findings), and `strategies/debriefing` (a strategy, not a duplicate element).
+- **Claim corrections** (three agents, from the pages' own entries): 23 titles rewritten (link text on 162 links), among
+  them laptop notes (the replication failed), math anxiety (a correlation), teacher expectations (one associational
+  cohort), growth mindset (d = .11), four Miller (2015) TBL claims (two non-randomised cohorts), wait time (associations
+  from abstracts), and five testimony or web-essay sources now named as such; stale text on about ten pages; `i` codes
+  with no printed effect size set to `i?` on nine; q recodes where the entry shows the design (Blosser's digest q2,
+  self-efficacy review q2, math-anxiety meta-analysis of correlations q3, Bangert-Drowns d = .22 → `i1` on both pages);
+  bare markers with no claim removed (math anxiety, growth mindset, `strategies/functional-behavior-assessment`, whose
+  wrong feedback-levels link is gone too).
+- **Citations** (Crossref, DataCite or ERIC): Sturgill & Motley (2014) → `10.20343/teachlearninqu.2.1.81` on three
+  pages; Van de Sande (2013) → DataCite `10.5281/zenodo.3554629` on seven; the authorless "Criterion Referenced
+  Measurement in Reading (1974)" is Pikulski (1973), ERIC ED085660, on three; Freedle is 2003, `10.17763/haer.73.1.8465k88616hn4757`;
+  a second Gaofeng & Yeyu (2007) page. **Rigour is still never re-judged from an entry**; the agents reported, not changed,
+  differing `r` on Karpicke (2017), Cameron & Pierce (1994) and Okonofua (2016).
+- **Still open**: Miller (2015) is `causal` on two survey claims and `associational` on two; the criterion-referenced
+  claims code a non-peer-reviewed recommendation q2; `teacher-expectation-effects-on-achievement` keeps bare markers in
+  its merged paragraphs; Sisk et al. (2018) q4 unconfirmed; Bangert-Drowns's d = .22 comes from an earlier full-text
+  write-up the abstract cannot confirm.
+
 ### 2026-10-05 (late night) — conversion wave 6: the last of the conversion core; complete briefs barely moved
 
 - **Fifteen pages converted** (`eval/page-triage/wave-6.md`): the principles journaling, gamification, debriefing,

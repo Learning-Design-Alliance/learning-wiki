@@ -12,7 +12,7 @@ generated:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 against) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q3` · 0 of 4 report an effect size
+> **Evidence** · 1 claim (1 against) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q3`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Approaches to classroom management have historically grouped into three traditions: a **humanist** tradition emphasizing communication and problem-solving between teacher and student ([Ginott's Congruent Communication](../theories/ginotts-congruent-communication.md); [Glasser's Choice Theory](../theories/glassers-choice-theory-and-cooperative-learning.md)); an **applied behavior analysis** tradition applying behaviorist principles to the classroom (see [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) and [Reinforcement Theory](../theories/behaviorism.md)); and a newer **classroom-management/prevention** tradition emphasizing the teaching skills involved in organizing instruction and preventing misbehavior before it starts ([Kounin's Classroom Management Research](../theories/kounins-classroom-management-research.md)). Each tradition has genuine strengths and limitations, and effective managers in practice blend elements of all three rather than relying on just one.
@@ -51,7 +51,7 @@ A comprehensive classroom management plan should incorporate strategies that acc
 - [Teaching Styles as Warmth and Control](../theories/teaching-styles-warmth-and-control.md) [~M] — these six criteria describe what an authoritative (warm-and-controlled) style aims to achieve, but the same criteria can be pursued through authoritarian methods that satisfy criteria 2-4 while badly violating criterion 5
 
 ### Claims
-- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] — relevant to designing criterion-5 self-control fading plans that don't over-rely on external reward
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/rewards-undermine-intrinsic-motivation.md) [-M] — relevant to designing criterion-5 self-control fading plans that don't over-rely on external reward
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — a complementary, more individualized approach for the subset of students whose disruptive behavior does not respond to a general classroom-wide plan

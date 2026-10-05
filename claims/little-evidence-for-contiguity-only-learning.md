@@ -44,4 +44,4 @@ Theoretical argument reviewing the learning literature: the author asserts that 
 
 ## Related Claims
 - [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — possibly the same claim (merge candidate)
-- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](behaviorist-reinforcement-effective-positive-behavior.md) — related
+- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](behaviorist-reinforcement-effective-positive-behavior.md) — related

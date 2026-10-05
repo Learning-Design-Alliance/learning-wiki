@@ -44,7 +44,7 @@ The review reports, citing McCafferty et al. (2001), a preliminary study applyin
 
 ## Related Claims
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
-- [Generative processing improves learning](generative-processing-improves-learning.md) — a broader claim this one bears on
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — possibly the same claim (merge candidate)

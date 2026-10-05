@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,393 |
-| Evidence entries | 4,202 |
+| Claims | 3,387 |
+| Evidence entries | 4,197 |
 | Distinct studies | 1,171 |
-| Claims resting on one study | 3,193 (94%) |
+| Claims resting on one study | 3,188 (94%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 335 of 1,171 (29%) |
+| Studies reporting an effect size | 332 of 1,171 (28%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -24,16 +24,16 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | review | 9 | 63 | 28 | 43 | 143 |
 | associational | 0 | 56 | 82 | 15 | 153 |
 | qualitative | 37 | 72 | 11 | 8 | 128 |
-| design | 9 | 92 | 38 | 1 | 140 |
+| design | 9 | 93 | 37 | 1 | 140 |
 | theoretical | 21 | 116 | 12 | 19 | 168 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 209 (18%) | 581 (50%) | 301 (26%) | 80 (7%) |
+| 210 (18%) | 582 (50%) | 299 (26%) | 80 (7%) |
 
-**Studies per claim:** 0: 0, 1: 3,193, 2: 149, 3: 45, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 3,188, 2: 147, 3: 46, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -72,7 +72,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 |---|---|---|---|---|
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 641 pages | 3 | q2–q3 | 0 of 3 |
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 526 pages | 4 | q2–q4 | 1 of 4 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 434 pages | 2 | q4 | 2 of 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 433 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 422 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 367 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 340 pages | 2 | q2 | 0 of 2 |
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-109 claims are cited both ways.
+108 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -118,12 +118,12 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 293 | 23 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 11 | 7 | 1 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 1 | 5 | 6 | 2 |
+| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 4 | 6 | 5 | 5 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 1 | 0 | 4 | 1 |
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 236 | 3 | 3 | 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 223 | 12 | 3 | 2 |
 | [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
-| [Rewarding an already-intrinsically-motivating activity can reduce future engagement with …](claims/overjustification-effect-reduces-intrinsic-motivation.md) | 1 | 1 | 3 | 4 |
 | [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 14 | 3 | 2 |
 | [Social media tools plugged into learning management systems are presented as "social …](claims/social-media-tools-misappropriated-as-social-learning.md) | 1 | 0 | 3 | 1 |
 
@@ -133,8 +133,8 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 465 | 389 | 1 | 0 |
-| [elements](elements/index.md) | 733 | 498 | 2 | 0 |
+| [principles](principles/index.md) | 463 | 388 | 1 | 0 |
+| [elements](elements/index.md) | 732 | 497 | 2 | 0 |
 | [patterns](patterns/index.md) | 136 | 117 | 7 | 0 |
 | [strategies](strategies/index.md) | 3,184 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |

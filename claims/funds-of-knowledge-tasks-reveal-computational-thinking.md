@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses
+title: "Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment"
 id: funds-of-knowledge-tasks-reveal-computational-thinking
 status: draft
 generated:
@@ -19,12 +19,15 @@ sources:
     rigour: 2
 ---
 
-# Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses
+# Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district
+<!-- deprecated title (2026-10-05, overstated its evidence): Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses -->
 
-When formative assessment tasks for young children are built around specific household and community practices identified through family interviews, they reveal computational thinking (sequencing, abstraction, data reasoning, algorithmic logic) that standard, decontextualized computational-thinking assessments are likely to miss.
+When formative assessment tasks for young children were built around specific household and community practices identified through family interviews, children showed computational thinking (sequencing, abstraction, data reasoning, algorithmic logic) in them. Whether standard, decontextualized computational-thinking assessments would miss that competence was not tested: the study compared no such assessment with the same children.
+
+<!-- deprecated 2026-10-05 (asserted a comparison the study did not make): When formative assessment tasks for young children are built around specific household and community practices identified through family interviews, they reveal computational thinking (sequencing, abstraction, data reasoning, algorithmic logic) that standard, decontextualized computational-thinking assessments are likely to miss. -->
 
 ## Subclaims
 `q2 i?` In a task built around a family-identified "bus riding" practice, K-2 children demonstrated modeling/simulation (understanding a map as representation), data reasoning (inferring character attributes), and — for some children — abstraction and algorithmic sequencing (ordering pickups with community-grounded justifications like "elders can't walk long"). [→ Randall et al. 2025](#randall-et-al-2025)

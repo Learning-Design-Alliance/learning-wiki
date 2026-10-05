@@ -14,7 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 3 studies (3 quant-synthesis), `q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (3 quant-synthesis, 2 review, 1 causal), `q3`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.

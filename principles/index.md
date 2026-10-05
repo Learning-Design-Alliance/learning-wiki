@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**465 entries** · 0 stable · 131 in review · 334 drafts
+**463 entries** · 0 stable · 130 in review · 333 drafts
 
 ---
 
@@ -128,7 +128,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Modeling](modeling.md) - For a novice on a task whose key decisions a finished product hides, a model that narrates those decisions, studied actively and followed at once by supported practice, is expected to give better unaided performance than the product alone or no model, though no claim here tests live or narrated modelling directly; the evidence is carried from worked examples and self-explanation.
 * [Motivation](motivation.md) - For a learner whose effort or persistence is low, motivation is expected to rise when the design repairs the component that is low for that learner (expectancy of success, task value, ownership, or belonging) rather than adding generic boosts, and to raise learning only through effort on a task that demands thinking; claims test single components, and none tests the matching relationship.
 * [Multimedia Learning](multimedia-learning.md) - For a learner without a working model of a structure or process, a relevant picture placed with the words that explain it may improve a learning test over words alone, qualified by redundancy, decorative additions, pacing, prior knowledge and assessment horizon.
-* [Multimedia Projects](multimedia-projects.md) - Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition.
 * [Multimodal Instruction](multimodal-instruction.md) - For a learner who cannot yet explain a structure that one mode shows poorly, coordinated modes that each carry part of the meaning, with the learner translating between them, may improve immediate comprehension over a single mode, qualified by representational competence, pacing, redundancy and access; matching modes to learning styles does not.
 * [Multiple Methods of Assessment](multiple-methods-of-assessment.md) - When one assessment method can mislead about a learner (through reading load, an unfamiliar symbol system, anxiety or a capability that shows only with help), a judgement drawn from two or more methods sampling the same goal under common, calibrated criteria is expected to be more accurate than one drawn from a single method, and bounded choice of format to raise motivation rather than achievement; no claim here tests the relationship as a whole.
 
@@ -434,7 +433,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Model learner knowledge states as distributions with explicit uncertainty so downstream systems can perform confidence-aware inference and adaptive decision-making](uncertainty-aware-knowledge-states-for-adaptive-decisions.md) - The article argues that representing latent learner states probabilistically, rather than as deterministic point vectors, lets adaptive systems act on both the state estimate and its reliability: modeling latent state...
 * [Moral practice in schools must also be deliberative practice, with space for deliberation in teacher education and school](moral-practice-must-be-deliberative.md) - Because individual beliefs and moment-by-moment responses may lead to actions that counteract constitutive values, the article argues moral practice must also be a deliberative practice \"where alternatives are weighed...
 * [Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement](multi-objective-exercise-recommendation-objectives.md) - The survey reports three objectives proposed by Huang et al.
-* [Multimedia literacy is developed through producing multimedia](multimedia-literacy-through-production.md) - This principle holds that students acquire multimedia literacy by engaging in multimedia production rather than only by consuming instruction.
 
 #### N {: #letter-n }
 
