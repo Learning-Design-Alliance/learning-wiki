@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions
-description: Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions
+title: "Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts"
+description: "Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts"
 id: tbl-formats-similar-irat-trat-performance
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions
+# Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions -->
 
 ## Subclaims
 `q2 i?` Despite design changes, medical and dental students performed similarly on the iRAT and tRAT portions of TBL sessions. [→ Cynthia J. Miller 2015](#cynthia-j-miller-2015)
@@ -41,6 +42,7 @@ Results section comparing TBL section averages from 6 medical TBLs (161 students
 
 ## Discussion
 
+The comparison is between two non-randomised cohorts, medical students in the original format and dental students in the revised one, so format is confounded with programme, cohort, the number of TBL sessions (six against two pilot sessions) and team size; the difference cannot be attributed to the format alone.
 
 ## Related Claims
 - [A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format](low-stress-tbl-higher-isat-scores.md) — related

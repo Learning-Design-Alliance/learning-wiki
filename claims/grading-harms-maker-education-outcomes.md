@@ -9,7 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: lundberg-2018
+  - id: lundberg-rasmussen-2018
     resource: "https://eric.ed.gov/?id=EJ1179517"
     title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517"
     author: "Lundberg, M., & Rasmussen, J."
@@ -25,11 +25,11 @@ sources:
 > **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
-`q1 i?` The paper argues, citing Kohn, that three negative consequences of grading are diminished interest in the topic, a preference for an easier path to completion, and reduced quality of student thinking. [→ Lundberg 2018](#lundberg-2018)
+`q1 i?` The paper argues, citing Kohn, that three negative consequences of grading are diminished interest in the topic, a preference for an easier path to completion, and reduced quality of student thinking. [→ Lundberg & Rasmussen 2018](#lundberg-rasmussen-2018)
 
 ## Evidence
 
-### Lundberg 2018
+### Lundberg & Rasmussen 2018
 
 Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning
-description: Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning
+title: "Two practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning"
+description: "Two practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning"
 id: cooperative-learning-higher-achievement-than-competitive-individualistic
 aliases: [johnson-meta-analysis-cooperative-achievement]
 status: draft
@@ -28,16 +28,17 @@ sources:
     rigour: 2
 ---
 
-# Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning
+# Two practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r2`, 1 design `r1` · `q2`–`q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning -->
 
 ## Subclaims
 
 `q2 i?` According to the Johnsons and others, cooperative learning experiences tend to promote higher achievement for students of all ages, across all subject areas, for virtually all types of learning than do competitive and individualistic learning experiences. [→ Daniels 1996](#daniels-1996)
 
-`q3 i?` A meta-analysis of 122 studies (1924-1981) with 286 findings, analyzed by voting, effect size, and z score, found cooperative learning tends to promote higher achievement than competition or individual work, holding for all age levels, subject areas, and a variety of tasks. [→ Blosser 1993](#blosser-1993)
+`q2 i?` A clearinghouse digest reports that Johnson and Johnson's meta-analysis of 122 studies (1924-1981) with 286 findings, analyzed by voting, effect size, and z score, found cooperative learning tends to promote higher achievement than competition or individual work, holding for all age levels, subject areas, and a variety of tasks. [→ Blosser 1993](#blosser-1993)
 
 ## Evidence
 
@@ -55,15 +56,17 @@ A practitioner digest reporting, citing the Johnsons and others, that cooperativ
 
 Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Clearinghouse for Science, Mathematics, and Environmental Education. https://eric.ed.gov/?id=ED351207
 
-`q3 · i?` · `review · r2`
+`q2 · narrative review digest reporting a meta-analysis second-hand (was q3) · i?` · `review · r2`
 
-The review reports Johnson and Johnson's meta-analysis of 122 studies done between 1924 and 1981, whose 286 findings were analyzed using "three different methods: voting, effect size, and z score." No pooled effect size value is printed in the digest.
+The review, a two-page ERIC clearinghouse digest, reports second-hand Johnson and Johnson's meta-analysis of 122 studies done between 1924 and 1981, whose 286 findings were analyzed using "three different methods: voting, effect size, and z score." No pooled effect size value is printed in the digest.
 
 > "All methods of analysis resulted in the same finding: cooperative learning tends to promote higher achievement than does competition or individual work, with this finding holding for all age levels, all subject areas, and a variety of tasks"
 
 ## Discussion
 
+Neither entry is the meta-analysis itself: both are practitioner digests restating Johnson and Johnson's syntheses, and neither prints an effect size, so the page cannot say how large the advantage is or check the conditions under which it held. The primary meta-analyses (and the 352-study synthesis on [the possible duplicate below](cooperative-learning-meta-analysis-higher-achievement.md)) are what would settle it; they are not recorded here.
 
+*Merged from “johnson-meta-analysis-cooperative-achievement”:* that page carried the Blosser (1993) entry; it is above, unchanged apart from its codes.
 
 ## Related Claims
 

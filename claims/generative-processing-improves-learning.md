@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Generative processing improves learning
+title: "Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here"
 status: draft
 generated:
   by: claude/unspecified
@@ -20,12 +20,13 @@ sources:
     rigour: "?"
 ---
 
-# Generative processing improves learning
+# Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=69 effect sizes (64 research reports)
+<!-- deprecated title (2026-10-05, overstated its evidence): Generative processing improves learning -->
 
-Learners who actively construct connections between new material and their prior knowledge — by summarizing, self-explaining, mapping, or generating answers — learn more than learners who passively receive the same material. The claim concerns the *act of generation itself*; comparisons must control for study time, since generative activities typically take longer than passive study.
+Generative processing means learners actively construct connections between new material and their prior knowledge, by summarizing, self-explaining, mapping or generating answers. The one entry recorded, a meta-analysis of 64 reports (Bisra et al. 2018), tests self-explanation prompts only, and finds a moderate average benefit (g = 0.55) over conditions without them; whether summarizing, mapping or generating answers do the same is not shown here. <!-- deprecated (2026-10-05, overstated its evidence): Learners who actively construct connections between new material and their prior knowledge — by summarizing, self-explaining, mapping, or generating answers — learn more than learners who passively receive the same material. --> The claim concerns the *act of generation itself*; comparisons must control for study time, since generative activities typically take longer than passive study.
 
 ## Subclaims
 
@@ -49,13 +50,13 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 
 **Relation to load management.** Generation is not free: it consumes working memory resources. It therefore pairs naturally with [chunking](chunking-reduces-working-memory-load.md) and other load-management measures — the claim is that generative effort pays off only when the material itself does not overwhelm the learner, as captured by [cognitive overload degrades learning](cognitive-overload-degrades-learning.md). Designers should treat generative tasks as an investment of limited capacity, sequenced after basic comprehension of the input rather than instead of it.
 
-**Open questions.** Which generation activities are most efficient per unit of time, how generation interacts with [worked examples](../elements/demonstration.md) and fading, and how effects scale from lab tasks to classroom curricula all remain to be documented on this page. Until evidence entries are added, this page should be treated as a framing claim whose specific instantiations carry their own evidence.
+**Open questions.** Which generation activities are most efficient per unit of time, how generation interacts with [worked examples](../elements/demonstration.md) and fading, and how effects scale from lab tasks to classroom curricula all remain to be documented on this page. One entry is recorded, a meta-analysis of self-explanation prompts; for other generative activities, this page is a framing claim whose specific instantiations carry their own evidence (summarizing, for instance, did worse than rereading in one multi-document study: [summarization](summarization-improves-learning.md)). <!-- deprecated (2026-10-05, stale): Until evidence entries are added, this page should be treated as a framing claim whose specific instantiations carry their own evidence. -->
 
 *Merged from “Generative Learning Improves Retention” (generative-learning-improves-retention):* **Mechanism.** Generative activities are hypothesized to work by forcing learners to construct relations between new material and prior knowledge, rather than reproducing surface text. This aligns with the broader account in [Cognitive Load Theory](../theories/cognitive-load-theory.md): generation imposes effortful processing that supports schema construction, but only when the extra load is germane rather than extraneous — see [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md).
 
 **Moderators and boundary conditions.** Generation is not uniformly beneficial. Learners need sufficient prior knowledge to generate accurate products; when they lack it, generative tasks can produce errors or flounder, and providing structure (prompts, sentence starters, worked models) becomes necessary. The activity must also actually require transforming meaning — copying, highlighting, or verbatim note-taking look generative but do not produce the same benefit. Task–learner fit matters: the same prompt that helps one learner may be redundant or overwhelming for another, echoing the expertise-reversal pattern documented in the [expertise reversal effect](../theories/expertise-reversal-effect.md).
 
-**Retention versus transfer.** The claim as stated concerns retention. Generative strategies are often expected to support transfer and inference as well, but the meta-analysis recorded above measured self-explanation, one generative strategy, so the strength of that expectation for other strategies is not established here; retention benefits are typically the better-established outcome in this literature.
+**Retention versus transfer.** The folded page's claim concerned retention. Generative strategies are often expected to support transfer and inference as well, but the meta-analysis recorded above measured self-explanation, one generative strategy, so the strength of that expectation for other strategies is not established here; retention benefits are typically the better-established outcome in this literature.
 
 **Open questions.** Most of the evidence base compares generation against passive control conditions; fewer studies test which generative activity is best for a given material type, or how benefits persist over delay intervals versus immediate tests. The recorded evidence covers self-explanation only, so confidence in the broader claim about generative strategies should stay moderate.
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Increasing Wait Time Improves Response Quality
+title: "Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,18 +28,19 @@ sources:
     rigour: "?"
 ---
 
-# Increasing Wait Time Improves Response Quality
+# Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r?` · `q3`
+> **Evidence** · 2 studies · 2 review `r?` · `q2`–`q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Increasing Wait Time Improves Response Quality -->
 
-Extending the pause a teacher leaves after asking a question — and after a student begins to answer — yields longer, more complex, and more evidence-based student responses.
+The claim concerns the pause a teacher leaves after asking a question and after a student begins to answer. Two reviews are recorded, both read as abstracts: Tobin (1987) reports that average wait times above about 3 seconds go with changed discourse and higher-cognitive-level responses and achievement, and Rowe (1986) reports "pronounced improvements" in response quality when teachers wait a few seconds more. Neither abstract prints an effect size, and the studies they synthesize are mostly classroom observations and training studies, so the page records an association rather than a tested effect of lengthening wait time. <!-- deprecated (2026-10-05, overstated its evidence): Extending the pause a teacher leaves after asking a question — and after a student begins to answer — yields longer, more complex, and more evidence-based student responses. -->
 
 ## Subclaims
 
 `q3 i?` A synthesis of the classroom-questioning literature reports that longer teacher pauses after asking a question and after a student begins answering are associated with higher-cognitive-level student responses, though the review reports no pooled effect size. [→ Tobin 1987](#tobin-1987)
 
-`q3 i?` A narrative review of wait-time studies reports that extending pauses of a few seconds produces improvements in response quality and in student and teacher attitudes and expectations, though again no effect size is reported. [→ Rowe 1986](#rowe-1986)
+`q2 i?` A narrative review of wait-time studies reports that, when teachers extend their pauses by a few seconds, response quality and student and teacher attitudes and expectations improve; the abstract does not say how these were measured or compared and in student and teacher attitudes and expectations, though again no effect size is reported. [→ Rowe 1986](#rowe-1986)
 
 ## Evidence
 
@@ -55,7 +56,7 @@ This is a review, not a single experiment: it synthesizes studies of wait time (
 
 Rowe, M. B. (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! *Journal of Teacher Education, 37*(1), 43-50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-`q3 · narrative review of wait-time training studies` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)` · `review · r?`
+`q2 · narrative review of wait-time training studies (was q3; a narrative review is the q2 tier)` · `i? · no effect size reported` · `n=N/A (narrative synthesis of multiple studies)` · `review · r?`
 
 Rowe's review distinguishes wait time 1 (the pause after asking a question) and wait time 2 (the pause after a student stops speaking) — the same two pauses this claim page describes — and reviews training procedures used to lengthen them. The publisher's own abstract (retrieved via Crossref) states that when teachers wait "just a few seconds more" before responding, "there are pronounced improvements in the quality of the response and in students' and teachers' attitudes and expectations" (from ERIC's independent abstract of the same article, EJ333700). No open-access full text was found (Unpaywall: no OA location); read at abstract level only, so no numeric effect size can be extracted.
 
@@ -72,4 +73,4 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — wait time is a low-cost lever for making questioning genuinely active rather than performative.
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — quality responses during questioning are formative-assessment data; wait time improves that data.
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — pauses give learners time to work through the uncertainty that disequilibrium creates.
-- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the broader claim; it cites the same Tobin (1987) review for wait time

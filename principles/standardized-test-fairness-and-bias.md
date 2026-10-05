@@ -148,7 +148,8 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 
 ## Key Sources
 - Popham, W. J. (2004). *America's "failing" schools: How parents and teachers can cope with No Child Left Behind*. RoutledgeFalmer.
-- Freedle, R. O. (2002). Correcting the SAT's ethnic and social-class bias: A method for reestimating SAT scores. *Harvard Educational Review, 73*(1), 1-43.
+- Freedle, R. O. (2003). Correcting the SAT's ethnic and social-class bias: A method for reestimating SAT scores. *Harvard Educational Review, 73*(1), 1-43. [doi:10.17763/haer.73.1.8465k88616hn4757](https://doi.org/10.17763/haer.73.1.8465k88616hn4757)
+  <!-- corrected 2026-10-05 against Crossref (issued 2003-04, HER 73(1) 1-43); the line previously read: Freedle, R. O. (2002). Correcting the SAT's ethnic and social-class bias: A method for reestimating SAT scores. *Harvard Educational Review, 73*(1), 1-43. -->
 - Hoover, E. (2006). Panel says gender gap in SAT scores may be linked to writing section. *The Chronicle of Higher Education*.
 - Young, J. W. (2004). Differential validity and prediction: Race and sex differences in college admissions testing. In R. Zwick (Ed.), *Rethinking the SAT: The future of standardized testing in university admissions* (pp. 289-301). RoutledgeFalmer.
 - Aronson, J., & Steele, C. M. (2005). Stereotypes and the fragility of academic competence, motivation, and self-concept. In A. J. Elliot & C. S. Dweck (Eds.), *Handbook of competence and motivation* (pp. 436-456). Guilford Press.

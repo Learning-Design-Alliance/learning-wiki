@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 sources:
-  - id: criterion-referenced-measurement-in-reading-1974
-    resource: "https://eric.ed.gov/"
-    title: "Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/"
-    author: Criterion Referenced Measurement in Reading
+  - id: pikulski-1973
+    resource: "https://eric.ed.gov/?id=ED085660"
+    title: "Pikulski, J. J. (1973). Criterion referenced measures for clinical evaluations. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660"
+    author: Pikulski, J. J.
     q: 2
     i: "?"
     kind: theoretical
@@ -25,17 +25,19 @@ sources:
 > **Evidence** · 1 study · theoretical `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Criterion-referenced items should be representative of skills essential to learning to read and arranged in an established teaching hierarchy. [→ Criterion Referenced Measurement in Reading 1974](#criterion-referenced-measurement-in-reading-1974)
+`q2 i?` Criterion-referenced items should be representative of skills essential to learning to read and arranged in an established teaching hierarchy. [→ Pikulski 1973](#pikulski-1973)
 
 ## Evidence
 
-### Criterion Referenced Measurement in Reading 1974
+### Pikulski 1973
 
-Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/
+Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660
 
 `q2 · i?` · `theoretical · r?`
 
-The article's design guidance states items "should be representative of skills that are essential to learning to read" and "arranged in an established hierarchy that would be used for teaching reading." This is the authors' recommendation, not an empirical test.
+(ERIC records a journal version as Pikulski, J. J. (1974), Criterion referenced measures for clinical evaluations, *Reading World*, EJ109022. The citation this page carried before 2026-10-05, "Criterion Referenced Measurement in Reading. (1974). https://eric.ed.gov/", named no author and linked only ERIC's homepage; the quote below is verbatim in the abstract of ERIC record ED085660, the document this page was ingested from (sources/manifest.ndjson, eric-ed085660).)
+
+The article's design guidance states items "should be representative of skills that are essential to learning to read" and "arranged in an established hierarchy that would be used for teaching reading." This is the author's recommendation, not an empirical test.
 
 > "The items on a criterion referenced measurement should be representative of skills that are essential to learning to read. The items should be arranged in an established hierarchy that would be used for teaching reading."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking
-description: Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking
+title: "A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking"
+description: "A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking"
 id: direct-experience-questions-stimulate-thinking
 status: draft
 generated:
@@ -19,13 +19,14 @@ sources:
     rigour: 1
 ---
 
-# Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking
+# A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+<!-- deprecated title (2026-10-05, overstated its evidence): Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking -->
 
 ## Subclaims
-`q1 i?` Teacher-posed questions that refer to direct, concrete experiences are described as the most effective stimulators of pupil thinking, and questions must allow the child to apply his own experiences. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
+`q1 i?` A teacher self-analysis workbook describes teacher-posed questions that refer to direct, concrete experiences as the most effective stimulators of pupil thinking, and questions must allow the child to apply his own experiences. [→ Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970](#guided-self-analyses-early-childhood-education-program-teaching-young-children-overview-1970)
 
 ## Evidence
 
@@ -41,6 +42,7 @@ Descriptive statement from the Workbook H (Experience Referents) section of Unit
 
 ## Discussion
 
+The only source is a programme document's assertion; it reports no comparison of question types, so "most effective" is the document's claim, not a finding.
 
 ## Related Claims
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related

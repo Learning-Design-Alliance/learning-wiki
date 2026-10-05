@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format
-description: A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format
+title: "Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts"
+description: "Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts"
 id: low-stress-tbl-higher-isat-scores
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format
+# Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format -->
 
 ## Subclaims
 `q2 i?` Dental students in the revised low-stress TBL format scored significantly higher on the iSAT than medical students in the original format (5.2% increase, p < .05). [→ Cynthia J. Miller 2015](#cynthia-j-miller-2015)
@@ -41,6 +42,7 @@ Quasi-experimental comparison of two cohorts: 161 medical students (6 TBLs, 966 
 
 ## Discussion
 
+The comparison is between two non-randomised cohorts, medical students in the original format and dental students in the revised one, so format is confounded with programme, cohort, the number of TBL sessions (six against two pilot sessions) and team size; the difference cannot be attributed to the format alone.
 
 ## Related Claims
 - [Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format](high-stakes-tbl-questions-seen-harder-less-fair.md) — related

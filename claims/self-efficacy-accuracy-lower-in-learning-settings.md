@@ -22,10 +22,10 @@ sources:
 # Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q3` · `i1` small
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q3 i?` Agreement between efficacy judgments and behavior ranged from 84-92 percent in snake-phobic performance research but only 51-85 percent in arithmetic skill acquisition studies. [→ Schunk 1996](#schunk-1996)
+`q2 i?` A review reports that agreement between efficacy judgments and behavior ranged from 84-92 percent in snake-phobic performance research but only 51-85 percent in arithmetic skill acquisition studies. [→ Schunk 1996](#schunk-1996)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663
 
-`q3 · i1` · `review · r2`
+`q2 · narrative review reporting earlier studies second-hand` · `i? · no effect size printed; the entry gives agreement percentages only (84–92% in phobic performance research, 51–85% in two arithmetic skill-acquisition studies), with no test of the difference` · `review · r2`
 
 Accuracy of self-appraisal section comparing Bandura's phobic research (84-92 percent agreement) with two arithmetic skill studies (Bandura & Schunk, 1981; Schunk, 1981) where correspondence at the individual task level ranged from 51-85 percent. Pajares and Miller (1994) found most students displayed some overconfidence.
 

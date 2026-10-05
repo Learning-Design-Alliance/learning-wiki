@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores"
-description: "Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores"
+title: "Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group"
+description: "Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group"
 id: mangomon-rpg-gamification-improves-business-vocabulary
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores
+# Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+<!-- deprecated title (2026-10-05, overstated its evidence): Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores -->
 
 ## Subclaims
 `q2 i3` After four weeks of autonomous out-of-class play, participants' business vocabulary post-test scores were significantly higher than pre-test scores, with a large effect size (Cohen's d = 1.80). [→ Tangkiengsirisin 2025](#tangkiengsirisin-2025)
@@ -41,6 +42,7 @@ Quasi-experimental pre-post study of 21 Thai business undergraduates who played 
 
 ## Discussion
 
+The design is a single group of 21 students tested before and after, with no comparison group, so the gain (d = 1.80, computed on pre- and post-test scores) cannot be separated from test practice, ordinary course learning or other exposure over the four weeks; a pre–post d is also not comparable with a between-group effect size.
 
 ## Related Claims
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related

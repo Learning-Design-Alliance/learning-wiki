@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Teacher expectation effects on achievement
+title: "Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study"
 status: draft
 generated:
   by: claude/unspecified
@@ -20,12 +20,15 @@ sources:
     rigour: 2
 ---
 
-# Teacher expectation effects on achievement
+# Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=large (about 11,000 students, followed for 5 years)
+<!-- deprecated title (2026-10-05, overstated its evidence): Teacher expectation effects on achievement -->
 
-Teacher expectations about individual students' ability can influence those students' subsequent achievement, in part through differences in instructional treatment and interaction quality. The claim concerns the self-fulfilling-prophecy pathway (expectation → differential treatment → achievement change), not the accuracy of teacher judgments per se.
+The proposition behind this page is that teacher expectations about individual students' ability can influence those students' subsequent achievement, in part through differences in instructional treatment and interaction quality (the self-fulfilling-prophecy pathway: expectation → differential treatment → achievement change), not the accuracy of teacher judgments per se. The one study recorded here is associational: it shows that the part of teachers' expectations not explained by measured student characteristics predicts later performance, but it did not manipulate expectations, so it cannot show that they cause the difference.
+
+<!-- deprecated 2026-10-05 (stated the causal pathway as the claim, from one associational study): Teacher expectations about individual students' ability can influence those students' subsequent achievement, in part through differences in instructional treatment and interaction quality. The claim concerns the self-fulfilling-prophecy pathway (expectation → differential treatment → achievement change), not the accuracy of teacher judgments per se. -->
 
 ## Subclaims
 
