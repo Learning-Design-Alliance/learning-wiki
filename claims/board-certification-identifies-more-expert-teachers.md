@@ -43,4 +43,4 @@ The digest reports the construct and consequential validity study by Bond et al.
 
 
 ## Related Claims
-- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement.md) — related
+- [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related

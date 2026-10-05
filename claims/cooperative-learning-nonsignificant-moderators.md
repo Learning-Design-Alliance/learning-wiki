@@ -45,4 +45,4 @@ Moderator analyses in Table 2 for these five variables showed non-significant Q-
 ## Related Claims
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
 - [Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting](seven-nonsignificant-moderators-call-feedback.md) — related
-- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related

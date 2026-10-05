@@ -36,7 +36,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
-- [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+M]
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
 - [Multimedia Principles Benefit Novices](../claims/multimedia-principles-benefit-novices.md) [+M]

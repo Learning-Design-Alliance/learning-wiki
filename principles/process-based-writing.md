@@ -18,13 +18,13 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (4 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 13 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (5 quant-synthesis, 4 causal, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 15 report an effect size · 2 claims rest on one study
 
 ## Description
 Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product. Its core premise is that writers improve when the process itself is taught, supported, and made visible. This is especially useful for learners developing complex writing skills, because it breaks writing into revisable stages while still keeping the final communicative purpose in view.
 
 ## Implications
-Process-based writing helps because strong writing rarely emerges from a single unsupported attempt. Staging planning, drafting, revising, and editing can make the task more manageable and regulate cognitive load [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M], while reflection across drafts can improve monitoring and self-correction [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Novice writers often benefit from process goals for what to do in the next stage [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and explaining revision choices can deepen understanding of what stronger writing requires [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main caution is over-fragmentation: the process should support the communicative whole, not replace it.
+Process-based writing helps because strong writing rarely emerges from a single unsupported attempt. Staging planning, drafting, revising, and editing can make the task more manageable and regulate cognitive load [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M], while reflection across drafts can improve monitoring and self-correction [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Novice writers often benefit from process goals for what to do in the next stage [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and explaining revision choices can deepen understanding of what stronger writing requires [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main caution is over-fragmentation: the process should support the communicative whole, not replace it.
 
 ### Context
 #### Requirements
@@ -77,11 +77,11 @@ Process-based writing helps because strong writing rarely emerges from a single 
 
 ### Claims
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — writers improve when they can track what is working across drafts and choose better next steps
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining revision decisions strengthens understanding of genre, clarity, and purpose
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining revision decisions strengthens understanding of genre, clarity, and purpose
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — developing writers often need concrete stage-by-stage goals rather than only a final performance target
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — coaching and feedback are most useful when they target the learner’s current bottleneck in the writing process
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
-- [Peer Feedback Improves Work Quality](../claims/peer-assessment-improves-performance.md) [+M]
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

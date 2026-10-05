@@ -12,7 +12,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 34 studies (15 causal, 11 quant-synthesis, 6 review, 2 theoretical), `q1`–`q4` · 10 of 34 report an effect size · 17 claims rest on one study
+> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 35 studies (15 causal, 11 quant-synthesis, 6 review, 3 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 16 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -75,7 +75,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~W]
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
-- [Deliberate Practice Improves Performance](../claims/deliberate-practice-improves-performance.md) [~M]
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [~M]
 - [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](../claims/no-dose-response-asr-practice-time.md) [~M]
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+W]
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](../claims/task-repetition-fluency-complexity-same-task-only.md) [~W]
@@ -133,7 +133,7 @@ Practice is one of the most consistently supported instructional elements: activ
 ### How much practice, and practice until what?
 - **Default:** set a performance standard and let practice continue until it is met, rather than fixing the time; simulation with deliberate practice and mastery standards beat traditional clinical education (d = 0.71, 14 studies), and mastery learning programmes helped examination performance over 108 evaluations, more for weaker students — [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M], [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 - **Changes when:** the course is self-paced → mastery programmes may add time on task and often lowered completion rates in self-paced college classes — [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [~M]
-- **Changes when:** the domain lacks well-defined tasks and fast feedback → accumulated deliberate practice explained 18–26% of performance variance in games, music and sports but 4% in education and under 1% in professions — [Deliberate Practice Improves Performance](../claims/deliberate-practice-improves-performance.md) [~M]
+- **Changes when:** the domain lacks well-defined tasks and fast feedback → accumulated deliberate practice explained 18–26% of performance variance in games, music and sports but 4% in education and under 1% in professions — [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [~M]
 - **Changes when:** judging dose by minutes per session → in one ASR pronunciation study practice frequency and session length showed no observable difference, but across ASR studies total programme length did (1–4 weeks g = 0.07, 5–8 weeks g = 1.01, 9 weeks or more g = 0.72) — [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](../claims/no-dose-response-asr-practice-time.md) [~M]
 - **Tested with:** medical trainees on procedural skills (simulation), college, high-school and upper-elementary students (mastery), ESL/EFL learners using ASR, Korean English learners (dose).
 - **Not settled:** a minimum daily dose for any of these settings; no claim here gives one.

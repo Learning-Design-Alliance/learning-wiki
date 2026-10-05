@@ -12,7 +12,7 @@ generated:
 # Peer Critique
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Peer critique is a structured strategy in which learners review one another's work against explicit criteria and deliver actionable feedback, then revise their own work in response. It is carried out through protocols (e.g., gallery walks, "two stars and a wish," critical friends protocols) that specify what reviewers look for, how comments are phrased, and how authors respond.

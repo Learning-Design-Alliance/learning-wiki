@@ -115,7 +115,7 @@ Both subclaims currently lack Evidence entries; the classic experimental and met
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — possibly the same claim (merge candidate)
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — a narrower finding that bears on this claim
 - [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
-- [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](seductive-details-effect.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related
 - [Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences and speakers (attributed to Charles & Trenkic, 2015)](bimodal-captioned-input-improves-segmentation.md) — related
 - [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — a narrower finding that bears on this claim

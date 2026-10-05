@@ -42,7 +42,7 @@ The authors organize laboratory work so that "cooperative learning is implemente
 
 - [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
-- [Small Group Learning Improves STEM Achievement](../claims/small-group-learning-improves-stem-achievement.md) [+M]
+- [Small-group learning improves undergraduate STEM achievement](../claims/small-group-learning-improves-stem-achievement.md) [+M]
 
 ## Related Principles
 

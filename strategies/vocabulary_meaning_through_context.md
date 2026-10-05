@@ -12,7 +12,7 @@ generated:
 # Vocabulary Meaning Through Context
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Instructors present vocabulary in context so that learners can deduce meaning for themselves, aiding understanding and retention, rather than simply defining words and phrases. If learners guess incorrectly, the instructor supplies another example or has learners compare examples. Learners then practice using new words in their own words — for example, through a 5–10 minute opening conversation that requires reuse of recently learned vocabulary.

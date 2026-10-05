@@ -45,4 +45,4 @@ The article's relatedness section links IE's care element to SDT's relatedness n
 ## Related Claims
 - [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — related
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
-- [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md) — related
+- [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related

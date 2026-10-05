@@ -98,7 +98,7 @@ In Study 1, 126 first-year undergraduates in a Moodle course read texts with and
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical framework predicting no benefit from non-instructional visuals
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — explains why *relevant* visuals help, sharpening the contrast with decorative ones
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
-- [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](seductive-details-effect.md) — possibly the same claim (merge candidate)
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — possibly the same claim (merge candidate)
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related

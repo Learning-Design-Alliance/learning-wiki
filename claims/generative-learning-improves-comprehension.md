@@ -57,9 +57,9 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Activation improves learning.](activation-improves-learning.md) — prior-knowledge activation as a precondition for integration
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — managing the capacity constraints generation imposes
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — when generative demands exceed learner capacity
-- [Self-explanation improves learning](self-explanation-improves-conceptual-understanding.md) — related
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Generative processing improves learning](generative-processing-improves-learning.md) — related
 - [Generative Learning Improves Retention](generative-learning-improves-retention.md) — related
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
-- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related

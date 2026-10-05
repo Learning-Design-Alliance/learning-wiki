@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers are visual-spatial representations of content — concept maps, Venn diagrams, flowcharts, comparison matrices, timelines, and hierarchy charts — that make the relational structure of a topic visible. They are used in two directions: *instructor-provided* organizers given before or during instruction, and *learner-generated* organizers constructed by students as an elaboration activity. Both exploit the spatial and visual channels to offload relational information that would otherwise have to be held in working memory or inferred from linear prose.

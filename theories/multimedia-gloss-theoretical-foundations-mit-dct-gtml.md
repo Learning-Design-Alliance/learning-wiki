@@ -16,7 +16,7 @@ sources:
 # Theoretical foundations of multimedia glosses: Multiple Intelligences Theory, Dual Coding Theory, and Generative Theory of Multimedia Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 3 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 3 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 The article grounds multimedia glosses in three frameworks. Gardner's MIT differentiates intelligence into modalities, so glosses with text, pictures, sound, video and hyperlinks help learners with different intelligences. Paivio's DCT holds that "if the meaning of a word is visually illustrated, this word will become more memorable". Mayer's GTML proposes better learning from multimedia than single-medium presentations, with simultaneous verbal and visual processing.
@@ -40,8 +40,8 @@ The article grounds multimedia glosses in three frameworks. Gardner's MIT differ
 - [Multimedia Glosses Improve Efl Vocabulary Acquisition](../claims/multimedia-glosses-improve-efl-vocabulary-acquisition.md) [+M]
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](../claims/multimodal-glosses-improve-incidental-vocabulary-learning.md) [+W]
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+M]
-- [Dual Coding Improves Recall](../claims/dual-coding-improves-learning.md) [+M]
-- [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+M]
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
 
 ## Related Theories
 - 

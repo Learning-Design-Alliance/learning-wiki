@@ -94,5 +94,5 @@ The canonical paradigm (Pennebaker's expressive writing paradigm) asks participa
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — another brief writing-based social-psychological intervention, but targeting belonging rather than emotional disclosure
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related
 - [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — a narrower finding that bears on this claim
-- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related

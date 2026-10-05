@@ -24,6 +24,15 @@ sources:
     n: N/A
     kind: quant-synthesis
     rigour: "?"
+  - id: rittle-johnson-et-al-2017
+    resource: "https://doi.org/10.1007/s11858-017-0834-z"
+    title: "Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM, 49*(4), 599–611. [doi:10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
+    author: "Rittle-Johnson, B., Loehr, A. M., & Durkin, K."
+    q: 3
+    i: "?"
+    n: unreported (in the abstract)
+    kind: quant-synthesis
+    rigour: "?"
   - id: bisra-et-al-2018
     resource: "https://doi.org/10.1007/s10648-018-9434-x"
     title: "Bisra, K., Liu, Q., Nesbit, J. C., Salimi, F., & Winne, P. H. (2018). Inducing Self-Explanation: a Meta-Analysis. *Educational Psychology Review, 30*(3), 703–725. [doi:10.1007/s10648-018-9434-x](https://doi.org/10.1007/s10648-018-9434-x)"
@@ -50,7 +59,7 @@ evidence_strength: strong
 # Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 4 studies · 2 quant-synthesis `r?`, 1 causal `r1`, 1 associational `r1` · `q2`–`q4` · `i2` medium
+> **Evidence** · 4 studies (5 entries) · 2 quant-synthesis `r?`, 1 causal `r1`, 1 associational `r1` · `q2`–`q4` · `i2` medium
 <!-- deprecated title (2026-10-05, overstated its evidence): Self-explanation improves conceptual understanding and problem-solving performance. -->
 
 Generating explanations for oneself while studying worked examples or solving problems helps learners bridge gaps in their knowledge, integrate new information with prior schemas, and monitor their own comprehension.
@@ -85,6 +94,16 @@ Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics lea
 `q3 · meta-analysis` · `i? · no source text available to check; the entry prints no effect size` · `n=N/A` · `quant-synthesis · r?`
 
 A meta-analysis of studies in mathematics education. It found that prompted self-explanation consistently improves both conceptual and procedural knowledge and that prompts are most effective when they focus on conceptual "why" questions rather than procedural "what" questions.
+
+<!-- merged 2026-10-05 from self-explanation-improves-learning: that page's entry for this study, which differed from the one above and was dropped when the pages were merged; restored verbatim.
+### Rittle-Johnson et al. 2017
+
+Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM, 49*(4), 599–611. [doi:10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
+
+`q3 · meta-analysis` · `i? · described as small to moderate; no effect size in the abstract read` · `n=unreported (in the abstract)` · `quant-synthesis · r?`
+
+A meta-analysis of studies that prompted self-explanation during mathematics learning. Prompted self-explanation produced a small-to-moderate improvement in procedural knowledge, conceptual knowledge and procedural transfer on immediate tests. Evidence that it helps in real classrooms, or that the gains are retained after a delay, is much more limited. The effect on immediate outcomes was stronger when learners were scaffolded toward high-quality explanations, and did not depend on whether time on task was equated. This qualifies the claim: the evidence is strongest for immediate, lab-style outcomes.
+-->
 
 ### Bisra et al. 2018
 

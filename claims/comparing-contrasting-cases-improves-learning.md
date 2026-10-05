@@ -18,6 +18,15 @@ sources:
     n: 57 experiments (336 tests)
     kind: quant-synthesis
     rigour: "?"
+  - id: alfieri-et-al-2013
+    resource: "https://doi.org/10.1080/00461520.2013.775712"
+    title: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)"
+    author: "Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D."
+    q: 4
+    i: 2
+    n: 57 experiments (336 tests)
+    kind: quant-synthesis
+    rigour: "?"
   - id: gentner-et-al-2003
     resource: "https://doi.org/10.1037/0022-0663.95.2.393"
     title: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)"
@@ -25,6 +34,15 @@ sources:
     q: 3
     i: "?"
     n: 128 (Experiment 2)
+    kind: causal
+    rigour: "?"
+  - id: gentner-et-al-2003
+    resource: "https://doi.org/10.1037/0022-0663.95.2.393"
+    title: "Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)"
+    author: "Gentner, D., Loewenstein, J., & Thompson, L."
+    q: 3
+    i: "?"
+    n: 128 undergraduates (Experiment 2)
     kind: causal
     rigour: "?"
   - id: rittle-johnson-star-2007
@@ -41,7 +59,7 @@ sources:
 # Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Evidence** · 3 studies (5 entries) · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 <!-- deprecated title (2026-10-05, overstated its evidence): Comparing Contrasting Cases Improves Learning -->
 
 Learners who compare two or more cases that differ on key features — side by side, with attention directed to what varies and why — learn more than learners who study the same cases one at a time or study a single case (d = .50 across 57 experiments), and transfer the principle more often (48% vs 19% in one negotiation experiment); in one algebra experiment the gain was in procedural knowledge and flexibility, not conceptual knowledge. <!-- deprecated (2026-10-05, overstated for Rittle-Johnson & Star 2007): learn the underlying principles better than learners who study the same cases one at a time. -->
@@ -68,6 +86,16 @@ Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case 
 
 A random-effects meta-analysis of 57 laboratory and classroom experiments (336 tests) that compared learning from case-comparison activities with other ways of studying cases (one case, cases in sequence, non-analogous cases) and with traditional instruction or control conditions. Comparison led to greater learning overall, d = .50. Of 15 moderators tested, four reliably changed the effect: asking learners to find similarities, presenting the principle after the comparison, perceptual content, and testing immediately were all associated with larger gains. The pooled estimate mixes several kinds of comparison condition, so it is not solely a "compare vs. study the same cases one at a time" effect.
 
+<!-- merged 2026-10-05 from multiple-contrasting-cases-support-abstraction: that page's entry for this study, which differed from the one above and was dropped when the pages were merged; restored verbatim.
+### Alfieri et al. 2013
+
+Alfieri, L., Nokes-Malach, T. J., & Schunn, C. D. (2013). Learning through case comparisons: A meta-analytic review. *Educational Psychologist, 48*(2), 87–113. [doi:10.1080/00461520.2013.775712](https://doi.org/10.1080/00461520.2013.775712)
+
+`q4 · meta-analysis (random effects)` · `i2 · medium effect, d=0.50, 95% CI [.44, .56]` · `n=57 experiments (336 tests)` · `quant-synthesis · r?`
+
+A random-effects meta-analysis of 57 experiments, in laboratory and classroom settings, comparing case-comparison activities against other ways of studying cases (sequential, single case, nonanalogous) and against traditional instruction and controls. Comparison led to greater learning overall (d = .50). Of 15 candidate moderators, four reliably moderated the effect: asking learners to find similarities, presenting the principle after the comparison, using perceptual content, and testing immediately were each associated with larger gains. The review pools comparison of cases in general; it does not isolate *minimally contrasting* cases, so the page's narrower framing is a subset of what it tests.
+-->
+
 ### Gentner et al. 2003
 
 Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
@@ -75,6 +103,16 @@ Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A ge
 `q3 · peer-reviewed randomised experiment (3 experiments)` · `i? · no standardised effect size reported; 48% vs 19% transfer, χ²(1, N=128)=11.85` · `n=128 (Experiment 2)` · `causal · r?`
 
 In Experiment 2, 128 undergraduates learning negotiation strategies were randomly assigned either to read two example cases on one page and describe their similarities, or to read and describe the same two cases on separate pages. On a later test negotiation, 48% of the comparison group used the target principle against 19% of the separate-cases group, and comparers were also more likely to state the principle in full. Experiment 1 found a benefit of comparison over no case study, and Experiment 3 found that more comparison support raised transfer in a face-to-face negotiation. The n code counts Experiment 2 only, the source of the 48% vs 19% comparison; the paper reports three experiments, and a page counting all three records a larger n.
+
+<!-- merged 2026-10-05 from multiple-contrasting-cases-support-abstraction: that page's entry for this study, which differed from the one above and was dropped when the pages were merged; restored verbatim.
+### Gentner et al. 2003
+
+Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A general role for analogical encoding. *Journal of Educational Psychology, 95*(2), 393–408. [doi:10.1037/0022-0663.95.2.393](https://doi.org/10.1037/0022-0663.95.2.393)
+
+`q3 · peer-reviewed randomised experiments (3 studies)` · `i? · no standardised effect size reported; 48% vs 19% transfer, χ²(1, N=128)=11.85, p<.01` · `n=128 undergraduates (Experiment 2)` · `causal · r?`
+
+Three experiments taught novices negotiation strategies (trade-offs, contingent contracts) from short cases. In Experiment 2, 128 undergraduates were randomly assigned to read two cases on one page and describe their similarities, or to read and describe each case separately; they then negotiated a new lease case. Comparers were more than twice as likely to use the principle in the new negotiation (48% vs 19%), and the benefit held for both strategy types. Experiment 1 found a benefit of comparison over no case study, and Experiment 3 found that more comparison support raised transfer in a face-to-face negotiation. The compared cases were analogous, sharing a principle across different surface stories, rather than contrasting on one dimension.
+-->
 
 ### Rittle-Johnson & Star 2007
 

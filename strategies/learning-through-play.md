@@ -12,7 +12,7 @@ generated:
 # Learning Through Play
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 13 studies (4 quant-synthesis, 3 causal, 2 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning through play embeds learning goals in activities characterized by enjoyment, voluntary engagement, iteration, and learner agency — free play, guided play, and game-based formats. The educator designs the environment and materials so that productive exploration is likely, rather than directing each step. Play ranges on a continuum from child-directed free play to adult-scaffolded [guided play](../strategies/guided-play.md), where the adult co-constructs the activity while preserving learner autonomy.

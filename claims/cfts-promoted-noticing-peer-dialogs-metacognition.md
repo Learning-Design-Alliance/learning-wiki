@@ -46,4 +46,4 @@ The review reports Riddiford's (2006) study in which 32 international participan
 - [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](noticing-with-understanding-improves-l2-writing.md) — related
 - [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](cfts-improved-writing-accuracy-tang-tithecott.md) — related
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related
-- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related

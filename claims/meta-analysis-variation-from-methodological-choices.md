@@ -45,4 +45,4 @@ Theoretical/methodological argument about sources of variation in secondary rese
 ## Related Claims
 - [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md) — a narrower finding that bears on this claim
 - [Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
-- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](deliberate-practice-improves-performance.md) — related
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related

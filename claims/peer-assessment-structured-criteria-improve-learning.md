@@ -64,6 +64,6 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [Self-regulated learning](../theories/self-regulated-learning.md) — evaluating peers against criteria exercises the self-monitoring and judgment central to self-regulation
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — highly structured supports like detailed rubrics can lose value or hinder learners with more developed evaluative skill
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
-- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
-- [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md) — related
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related

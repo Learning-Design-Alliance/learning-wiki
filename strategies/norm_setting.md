@@ -25,7 +25,7 @@ sources:
 # Norm Setting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 15 studies (9 quant-synthesis, 3 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 7 of 15 report an effect size
+> **Evidence** · 7 claims (7 for) · 15 studies (9 quant-synthesis, 4 causal, 1 review, 1 theoretical), `q1`–`q4` · 7 of 15 report an effect size
 
 ## Description
 Norm setting is the practice of establishing an explicit, short set of agreements about how a group will work together, generated with the learners rather than announced to them, and then referred to routinely in the ordinary business of the class. The distinguishing feature is not the list — most classrooms have rules — but that the agreements are stated in terms of observable behaviour, produced by the people bound by them, and used as the shared language for both recognizing and repairing conduct. A norm nobody invokes is decoration.
@@ -34,7 +34,7 @@ Norm setting is the practice of establishing an explicit, short set of agreement
 
 Norms do their work by making the implicit explicit. Learners entering any group are reading the environment for what is actually expected, and in the absence of a stated answer they infer one from what gets tolerated — which means the operative norms of a classroom are set whether or not anyone sets them deliberately. Making them explicit and co-constructed converts that inference problem into a shared reference, and gives learners a legitimate role in enforcing it.
 
-Two bodies of evidence bear on the practice. Norm setting is a standard component of school-based social-emotional learning programmes, which improve both behaviour and academic achievement when they are explicit, sequenced, and actively taught rather than exhorted [SEL Programs Improve Behavior And Achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S], with effects that persist beyond the intervention period [Social-emotional learning benefits persist at follow-up](../claims/sel-benefits-persist-follow-up.md) [+M]. And the relational climate norms are meant to produce is itself associated with engagement and achievement [Teacher Student Relationships Improve Engagement And Achievement](../claims/teacher-student-relationships-improve-engagement.md) [+M]. Giving learners genuine authorship also supplies autonomy, which is the difference between a norm that is owned and a rule that is obeyed [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+Two bodies of evidence bear on the practice. Norm setting is a standard component of school-based social-emotional learning programmes, which improve both behaviour and academic achievement when they are explicit, sequenced, and actively taught rather than exhorted [SEL Programs Improve Behavior And Achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S], with effects that persist beyond the intervention period [Social-emotional learning benefits persist at follow-up](../claims/sel-benefits-persist-follow-up.md) [+M]. And the relational climate norms are meant to produce is itself associated with engagement and achievement [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [+M]. Giving learners genuine authorship also supplies autonomy, which is the difference between a norm that is owned and a rule that is obeyed [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ### Context
 #### Requirements
@@ -71,7 +71,7 @@ Two bodies of evidence bear on the practice. Norm setting is a standard componen
 ### Target Learning Goals
 - A predictable, psychologically safe environment in which uncertainty and error can be shown [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Social-emotional competencies: self-management, social awareness, relationship skills [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
-- Discussion quality — the precondition for talk-based learning to work at all [Discussion Quality Drives Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
+- Discussion quality — the precondition for talk-based learning to work at all [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 - Reduced instructional time lost to low-level disruption
 - Shared responsibility for the climate, rather than climate as the teacher's job
 

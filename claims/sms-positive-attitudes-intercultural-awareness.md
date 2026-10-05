@@ -64,4 +64,4 @@ The review attributes to Li and Erben (2007) the report that instant messaging u
 ## Related Claims
 - [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
-- [Learning vocabulary via mobile phone SMS produces greater vocabulary gains than paper-based materials](sms-vocabulary-learning-beats-paper-materials.md) — related
+- [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related

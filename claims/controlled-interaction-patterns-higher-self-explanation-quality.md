@@ -43,6 +43,6 @@ Post hoc Entropy analysis of students' logged choices in iSTART-2; Entropy score
 
 
 ## Related Claims
-- [Self-explanation improves learning](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Generative processing improves learning](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](real-time-dynamic-analyses-inform-user-models.md) — a broader claim this one bears on

@@ -36,7 +36,7 @@ Information literacy is the element in which learners identify information needs
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Lateral Reading Improves Source Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 - [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
 
 ## Related Elements

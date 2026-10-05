@@ -13,7 +13,7 @@ generated:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (3 for, 6 mixed) · 15 studies (6 causal, 5 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 4 of 15 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (5 for, 6 mixed) · 17 studies (6 causal, 5 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 17 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -89,7 +89,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Elaborated discussion of narrated emotions supports teacher professional learning](../claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) [+W] — for teacher professional learning specifically, reflection that surfaces and probes the *emotional* dimension of a teaching episode (see [Narrated Emotional Storytelling](../strategies/narrated-emotional-storytelling-in-teacher-pd.md)), not just the behavioral or cognitive one, was associated with groups revising their understanding
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M] — reflective practice that explicitly targets how a problem of practice is *framed* (see [Designerly Stances](../theories/designerly-stances.md)), not just what happened, moved pre-service teachers toward more systemic and stakeholder-centered responses
 

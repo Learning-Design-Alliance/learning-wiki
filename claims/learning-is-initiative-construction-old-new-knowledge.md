@@ -43,7 +43,7 @@ Theoretical exposition in the article's section on learning, arguing that constr
 
 
 ## Related Claims
-- [Concept mapping improves learning](concept-mapping-improves-learning.md) — a narrower finding that bears on this claim
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — a narrower finding that bears on this claim
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — a narrower finding that bears on this claim
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — a narrower finding that bears on this claim
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related

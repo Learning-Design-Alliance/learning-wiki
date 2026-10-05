@@ -39,7 +39,7 @@ Because instructional feedback is inherently evaluative and can pose identity th
 
 ### Claims
 
-- [Self-affirmation improves outcomes](../claims/self-affirmation-improves-outcomes.md) [+W]
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [+W]
 
 ## Related Principles
 

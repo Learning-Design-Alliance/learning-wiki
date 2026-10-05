@@ -31,7 +31,7 @@ sources:
 Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
 
 ## Implications
-Metaphors and analogies work because they let learners reason from a known structure toward an unfamiliar one. A good analogy can reduce the effort of building a concept from scratch and make abstract relationships easier to grasp [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], especially when learners explain the mapping in their own words [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that analogies are only partial bridges: unless instructors explicitly mark where the comparison fits and where it breaks, learners may overextend the metaphor and build durable misconceptions.
+Metaphors and analogies work because they let learners reason from a known structure toward an unfamiliar one. A good analogy can reduce the effort of building a concept from scratch and make abstract relationships easier to grasp [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], especially when learners explain the mapping in their own words [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that analogies are only partial bridges: unless instructors explicitly mark where the comparison fits and where it breaks, learners may overextend the metaphor and build durable misconceptions.
 
 ### Context
 #### Requirements
@@ -67,7 +67,7 @@ Metaphors and analogies work because they let learners reason from a known struc
 - Learners may need help separating productive metaphor from literal truth, especially in science, mathematics, and policy topics.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies teach more when learners explain how the source and target actually map
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies teach more when learners explain how the source and target actually map
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
 
 ## Related Principles

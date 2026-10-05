@@ -12,7 +12,7 @@ generated:
 # Mentor Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (5 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Mentor texts are examples of high-quality writing — professional or student-authored — that learners study and imitate to improve their own writing. The strategy involves deconstructing a text to identify effective "writer's moves" (sentence structure, organization, voice, use of detail), then emulating those moves in students' own drafts. Mentor texts can be multimodal: essays, poems, newspaper articles, song lyrics, comic strips, or manuals.

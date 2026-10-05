@@ -44,7 +44,7 @@ The article concludes that instructional strategies should let students generate
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](../claims/elaboration-strategy-affects-posttest-performance.md) [+M]
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](../claims/elaboration-strategy-no-attitude-effect.md) [~W]
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](../claims/gpa-pretest-elaboration-interaction-intellectual-skills.md) [+W]
-- [Self-explanation improves learning](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Elaborative Encoding Improves Retention](../claims/elaborative-encoding-improves-retention.md) [+M]
 - [Generative Learning Improves Retention](../claims/generative-learning-improves-retention.md) [+M]
 

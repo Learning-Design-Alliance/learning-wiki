@@ -83,4 +83,4 @@ Open questions include how summarization compares with other generative strategi
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [Summarization Effective With Training](summarization-effective-with-training.md) — possibly the same claim (merge candidate)
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
-- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related

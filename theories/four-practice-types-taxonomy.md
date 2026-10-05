@@ -16,7 +16,7 @@ sources:
 # Four types of practice: deliberate, purposeful, structured, and naive
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (1 causal, 1 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on Ericsson and Pool (2016) and Ericsson (2020), the article presents a taxonomy of four practice forms. The article states that "there are four main types of practice: deliberate, purposeful, structured, and naïve." Deliberate practice requires an instructor/coach who assesses performance, proposes objectives, and provides exercises affording immediate feedback, repetition, and enhancement; purposeful practice is goal-directed and teacher-guided but does not require a teacher's presence; structured practice comprises teacher-planned group activities not customized to individual levels; naive practice is extended engagement emphasizing time accumulation without specific goals. The taxonomy underpins the framework's distinction between classroom DP and out-of-class PP.
@@ -37,7 +37,7 @@ Drawing on Ericsson and Pool (2016) and Ericsson (2020), the article presents a 
 
 ### Claims
 
-- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](../claims/deliberate-practice-improves-performance.md) [+W]
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+W]
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W]
 - [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
 

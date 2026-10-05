@@ -63,7 +63,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - Social activity alone does not guarantee learning; tasks still need structure and accountability.
 
 ## Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — articulation in social settings often improves understanding beyond passive exposure alone
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — articulation in social settings often improves understanding beyond passive exposure alone
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — comparing one’s thinking with others can improve judgment about current understanding and next steps
 
 ## Related Theories

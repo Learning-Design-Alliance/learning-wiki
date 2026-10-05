@@ -23,7 +23,7 @@ Peer feedback is the element in which learners respond to one another's work wit
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
-- [Peer Feedback Improves Work Quality](../claims/peer-assessment-improves-performance.md) [+M]
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 
 ## Related Elements
 - [Peer Feedback/Peer Review](peer-feedbackpeer-review.md)

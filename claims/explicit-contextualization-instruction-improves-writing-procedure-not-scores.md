@@ -54,4 +54,4 @@ This is a genuine, informative null result on the paper's primary target and sho
 - (none yet linked)
 - [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related
-- [Rubrics improve student work](rubrics-improve-student-work.md) — related
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related

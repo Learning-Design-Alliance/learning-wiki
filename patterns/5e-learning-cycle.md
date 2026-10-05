@@ -62,7 +62,7 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) (Sweller) — concrete experience before formal explanation provides a schema anchor, but insufficient guidance during Explore can overload novices
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) (Zimmerman) — the Evaluate phase positions learners as assessors of their own understanding
 - [Sociocultural Theory](../theories/sociocultural-theory.md) — the Explain stage's introduction of formal terminology by the teacher-as-expert, after the student already has an experiential referent, mirrors scaffolded vocabulary acquisition within a zone of proximal development
-- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+M]
 
 #### Contradicting / Qualifying
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the expertise-reversal literature qualifies the model: learners with high prior knowledge often benefit more from explanation-first sequences [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]

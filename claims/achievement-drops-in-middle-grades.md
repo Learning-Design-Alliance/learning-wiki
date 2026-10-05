@@ -43,5 +43,5 @@ An observational display of district achievement testing data (Figure 4) compari
 
 
 ## Related Claims
-- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related

@@ -17,7 +17,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper's Table 1 asserts that "Wisdom cannot be 'told'" and that understanding must be cultivated rather than described, with understanding becoming deeper as learners "get to know" and explore it. Related functions include learners formulating and modifying initial understanding and errors serving as useful data for refining understanding.

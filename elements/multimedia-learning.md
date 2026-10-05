@@ -44,7 +44,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [+W]
 - [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+W]
 - [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](../claims/animation-phase-dependent-attention-to-print.md) [+W]
-- [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+M]
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
 
 ## Related Elements
 - [Digital Learning](digital-learning.md)

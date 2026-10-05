@@ -12,7 +12,7 @@ generated:
 # Encourage Reading Diverse Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners read a wide range of text types — narrative, informational, argumentative, visual/multimodal — across genres and disciplines, then think and talk about what they read. The strategy treats breadth of reading experience as a driver of academic language acquisition: each genre exposes learners to distinct vocabulary, syntax, and discourse structures that single-genre reading cannot supply.

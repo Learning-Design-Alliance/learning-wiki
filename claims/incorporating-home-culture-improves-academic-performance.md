@@ -13,7 +13,7 @@ sources:
     resource: "https://eric.ed.gov/?id=ED403553"
     title: "Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do with the Preparation of Teachers? Case Studies of \"Culturally-Aware\" Teachers. https://eric.ed.gov/?id=ED403553"
     author: Hulsebosch, Pat; Koerner, Mari
-    q: 2
+    q: 1
     i: "?"
     kind: qualitative
     rigour: 1
@@ -22,7 +22,7 @@ sources:
 # A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence** · 1 study · qualitative `r1` · `q1`
 <!-- deprecated title (2026-10-05, overstated its evidence): Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance -->
 
 ## Subclaims

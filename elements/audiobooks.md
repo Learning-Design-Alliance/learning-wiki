@@ -75,7 +75,7 @@ Listening comprehension and reading comprehension draw on shared language proces
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - Audio support should be faded or strategically combined with print when the long-term goal is independent reading [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
-- Learners understand more when listening is paired with prompts, notes, or explanation rather than treated as background exposure [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- Learners understand more when listening is paired with prompts, notes, or explanation rather than treated as background exposure [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — audiobooks can reduce the processing burden of print decoding, especially when paired with visible chunking or text highlighting
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — guided read-alouds and audio-supported reading work best when instructors respond to confusion with prompts, clarifications, and replay
 

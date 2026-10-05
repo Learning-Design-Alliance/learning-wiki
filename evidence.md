@@ -9,22 +9,22 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | | |
 |---|---|
 | Claims | 3,404 |
-| Evidence entries | 4,216 |
+| Evidence entries | 4,225 |
 | Distinct studies | 1,170 |
 | Claims resting on one study | 3,200 (94%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 338 of 1,170 (29%) |
+| Studies reporting an effect size | 336 of 1,170 (29%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 89 | 75 | 101 | 271 |
+| causal | 6 | 89 | 76 | 101 | 272 |
 | quant-synthesis | 8 | 44 | 3 | 112 | 167 |
 | review | 9 | 63 | 28 | 43 | 143 |
 | associational | 0 | 56 | 82 | 15 | 153 |
 | qualitative | 37 | 72 | 11 | 8 | 128 |
-| design | 9 | 93 | 37 | 1 | 140 |
+| design | 9 | 92 | 37 | 1 | 139 |
 | theoretical | 21 | 116 | 12 | 19 | 168 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
@@ -77,11 +77,11 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 367 pages | 2 | q3–q4 | 1 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 341 pages | 2 | q3 | 0 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 338 pages | 2 | q2 | 0 of 2 |
-| [Comparing Contrasting Cases Improves Learning](claims/comparing-contrasting-cases-improves-learning.md) | 245 pages | 3 | q3–q4 | 1 of 3 |
+| [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 245 pages | 3 | q3–q4 | 1 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 241 pages | 2 | q3–q4 | 2 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 237 pages | 2 | q3 | 0 of 2 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 233 pages | 3 | q2–q3 | 2 of 3 |
-| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 203 pages | 5 | q3–q4 | 0 of 5 |
+| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 203 pages | 5 | q2–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 190 pages | 1 | q3 | 0 of 1 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 188 pages | 2 | q3 | 0 of 2 |
@@ -90,10 +90,10 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 112 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 101 pages | 2 | q3 | 0 of 2 |
-| [Dual Coding Improves Learning](claims/dual-coding-improves-learning.md) | 96 pages | 3 | q2–q4 | 1 of 3 |
+| [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 96 pages | 3 | q2–q4 | 1 of 3 |
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 94 pages | 1 | q3 | 0 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 90 pages | 3 | q3 | 0 of 3 |
-| [Group rewards combined with individual accountability make cooperative learning effective](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
+| [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
 | [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
 
 Of the 39 claims cited from 50 or more pages, **8 rest on one study or none**: [Example-problem sequences reduce cognitive load and improve learning …](claims/example-problem-sequences-reduce-cognitive-load.md), [Instructional guidance that helps novices can become redundant or …](claims/expertise-reversal-effect.md), [Different media combinations significantly affect the recall and …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [Specific, difficult goals lead to higher performance than easy or …](claims/specific-difficult-goals-lead-to-higher-performance.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).

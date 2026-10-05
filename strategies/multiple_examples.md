@@ -12,7 +12,7 @@ generated:
 # Multiple Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 10 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (5 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 When teaching a new technique, providing multiple examples helps students understand and apply the technique in their own writing. A single example risks learners encoding surface features rather than the underlying principle; multiple varied examples support abstraction of the deep structure. Definition alone is insufficient — learners need to see the technique instantiated in different contexts before they can deploy it flexibly.

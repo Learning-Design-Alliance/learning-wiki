@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers and Visual Aids (Attention)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 8 studies (5 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers and visual aids structure content spatially — through mind maps, advance organizers, comparison matrices, flowcharts, and diagrams — so that learners can see which information matters and how it relates. As an attention strategy, the organizer functions as a pre-selection device: it directs the learner's limited attentional resources toward essential relationships rather than surface details.

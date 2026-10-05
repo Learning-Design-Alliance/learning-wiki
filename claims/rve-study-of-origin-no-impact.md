@@ -44,6 +44,6 @@ New robust variance estimation (RVE) analysis of the Leary et al. (2013) data, w
 
 ## Related Claims
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
-- [In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
+- [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related

@@ -85,9 +85,9 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback only helps when it accurately locates work relative to criteria, which is exactly what novice peers struggle to do.
 - [Checklist evaluation is ineffective online](checklist-evaluation-ineffective-online.md) — surface-level evaluation supports do not compensate for missing criterion knowledge.
 - [Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific](expertise-domain-specific-not-general.md) — related
-- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
-- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related
-- [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md) — related
+- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related

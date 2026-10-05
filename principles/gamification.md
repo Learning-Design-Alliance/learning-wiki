@@ -12,7 +12,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 21 studies (8 causal, 7 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 24 studies (11 causal, 7 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 6 claims rest on one study
 
 ## Description
 Gamification is the use of game design elements in non-game contexts (Deterding et al., 2011). In learning design, it means structuring learning activities with mechanics such as points, badges, levels, progress indicators, narratives, and leaderboards. The recommendation is not to decorate learning with rewards, but to align game mechanics with genuine learning behaviors — effortful practice, mastery, collaboration — so that motivational dynamics support rather than substitute for learning.
@@ -63,10 +63,10 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M] — poorly integrated game elements add extraneous load
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — team-based and community mechanics support relatedness and persistence
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [~S]
-- [Group rewards combined with individual accountability make cooperative learning effective](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
 - [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/johnson-meta-analysis-cooperative-achievement.md) [+M]
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [~W]
-- [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](../claims/seductive-details-effect.md) [~M]
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [~M]
 - [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](../claims/mangomon-rpg-gamification-improves-business-vocabulary.md) [+W]
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](../claims/quizizz-gamification-better-memorization.md) [+W]
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](../claims/gamification-raises-motivation-satisfaction.md) [+W]
@@ -89,8 +89,8 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - **Not settled:** the two meta-analyses disagree (Cameron & Pierce 1994 found no overall undermining), and neither tests points or badges in a course; how far the effect reaches sustained engagement in academic settings is debated on the claim page.
 
 ### Individual competition or team-based mechanics?
-- **Default:** where scores are shared, make team scores out of each member's individual learning (as in Teams-Games-Tournament); cooperative methods rewarding every member's learning had a median effect of +.32 on achievement against +.07 without — [Group rewards combined with individual accountability make cooperative learning effective](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M], [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/johnson-meta-analysis-cooperative-achievement.md) [+M]
-- **Changes when:** team rewards are based on a single group product → the gain largely disappears; rewards resting on individual improvement and self-referenced evaluation went with larger effects in a peer-learning meta-analysis — [Group rewards combined with individual accountability make cooperative learning effective](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
+- **Default:** where scores are shared, make team scores out of each member's individual learning (as in Teams-Games-Tournament); cooperative methods rewarding every member's learning had a median effect of +.32 on achievement against +.07 without — [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M], [Meta-analyses by Johnson and Johnson find cooperative learning promotes higher achievement than competition or individual work across ages, subjects, and tasks](../claims/johnson-meta-analysis-cooperative-achievement.md) [+M]
+- **Changes when:** team rewards are based on a single group product → the gain largely disappears; rewards resting on individual improvement and self-referenced evaluation went with larger effects in a peer-learning meta-analysis — [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]
 - **Tested with:** school-based cooperative learning studies of four weeks or more, and elementary peer-assisted learning; none of it gamified.
 - **Not settled:** no wiki claim tests leaderboards; the gamification meta-analysis found that competition combined with collaboration moderated behavioural outcomes, but its claim page does not give the direction.
 
@@ -101,8 +101,8 @@ Gamification's effects on learning are real but conditional. Meta-analytic evide
 - **Not settled:** the claim page notes that autonomy works best with structure and may unsettle novices or learners from high power-distance settings, with no study recorded.
 
 ### How much decoration, story and theme?
-- **Default:** keep theme and decoration tied to the content; interesting but irrelevant additions can hinder learning, with the effect depending on image type, delivery format and other features — [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](../claims/seductive-details-effect.md) [~M]
-- **Changes when:** decoration is purely decorative → in three experiments with 7th and 8th graders decorative pictures neither helped nor harmed overall, improved mood, and weakened the benefit of instructional pictures for low-prior-knowledge learners — [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](../claims/seductive-details-effect.md) [~M]
+- **Default:** keep theme and decoration tied to the content; interesting but irrelevant additions can hinder learning, with the effect depending on image type, delivery format and other features — [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [~M]
+- **Changes when:** decoration is purely decorative → in three experiments with 7th and 8th graders decorative pictures neither helped nor harmed overall, improved mood, and weakened the benefit of instructional pictures for low-prior-knowledge learners — [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [~M]
 - **Tested with:** school students and undergraduates reading instructional texts, not gamified courses.
 - **Not settled:** the gamification meta-analysis found game fiction moderated behavioural outcomes, but the claim page gives no direction; no wiki claim tests narrative framing on learning.
 

@@ -12,7 +12,7 @@ generated:
 # Islamic Geometry Exploration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (4 review, 3 causal, 3 quant-synthesis, 3 associational), `q2`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies (4 causal, 4 review, 3 quant-synthesis, 3 associational), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Students explore Islamic art and architecture — tessellations, rosettes, girih patterns — as a context for geometry standards such as symmetry, congruency, similarity, and composition. A typical entry point is a virtual field trip to the Mosque of Sultan Barquq in Cairo, where students identify patterns and the underlying geometric constructions. Facilitated questioning connects the artistic forms to mathematical ideas and to the cultures that produced them.

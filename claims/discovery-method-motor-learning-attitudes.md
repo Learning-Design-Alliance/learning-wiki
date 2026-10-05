@@ -43,5 +43,5 @@ Zaichkowsky's paper reports, citing Mancini's 1974 doctoral study at Boston Univ
 
 
 ## Related Claims
-- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
 - [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related

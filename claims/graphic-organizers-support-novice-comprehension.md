@@ -78,8 +78,8 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [Irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — decorative or overloaded organizers can backfire
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the load condition organizers are meant to relieve
 - [Dual coding theory](../theories/dual-coding-theory.md) — verbal-plus-visual coding is a proposed mechanism for organizer benefits
-- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
-- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on

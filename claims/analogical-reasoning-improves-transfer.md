@@ -79,6 +79,6 @@ Three experiments taught novice undergraduates negotiation strategies (trade-off
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can frame new material as analogous to known structures
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — explicit mapping imposes load; schema abstraction via analogy is itself a chunking mechanism
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
-- [Interleaving Improves Transfer](interleaving-improves-inductive-learning.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
 - [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — related

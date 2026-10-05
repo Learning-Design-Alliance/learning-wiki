@@ -12,7 +12,7 @@ generated:
 # Broaden Your Palate
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Learners make a deliberate practice of checking news and information sources whose political orientation differs from their own. The goal is not to accept opposing claims uncritically but to know what other audiences are consuming, test the quality of those sources with the same evaluation criteria applied to favored ones, and remain open to the possibility that some falsehoods are sincerely held rather than cynically manufactured. The practice also includes supporting reliable journalism financially, since gathering accurate information is not free and payment aligns a source's incentives with the reader's.

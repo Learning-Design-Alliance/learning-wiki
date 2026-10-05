@@ -92,7 +92,7 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — a narrower finding that bears on this claim
 - [Summarization Improves Learning](summarization-improves-learning.md) — related
 - [Authentic audiences improve student work.](authentic-audiences-improve-student-work.md) — a real peer audience raises the stakes and quality of work

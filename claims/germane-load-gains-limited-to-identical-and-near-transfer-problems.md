@@ -14,7 +14,7 @@ sources:
     title: "Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
     author: Relations between cognitive resources and two types of germane load for learning
     q: 2
-    i: 0
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -22,7 +22,7 @@ sources:
 # Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No condition showed a significant increase in the far-transfer problem category. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)

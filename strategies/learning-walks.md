@@ -12,7 +12,7 @@ generated:
 # Learning Walks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative), `q3`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 A learning walk is a brief (typically 5–15 minute), non-evaluative observation in which a small team of educators visits several classrooms in sequence, gathering evidence of instructional practice and student learning against a shared focus question. Unlike formal evaluation, the purpose is formative: identifying patterns across classrooms, surfacing effective practices worth spreading, and informing professional learning. Observations are followed by structured debriefs in which the team shares only descriptive evidence, not judgments.

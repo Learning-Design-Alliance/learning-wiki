@@ -83,6 +83,6 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — highly skilled readers may need less scaffolding than strategy instruction provides.
 - [Strategy instruction is more effective when contextualized in authentic content-area tasks](learning-strategy-instruction-contextualized-more-effective.md) — related
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
-- [Structured Discussion Approaches Improve Comprehension](structured-discussion-methods-improve-comprehension.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim

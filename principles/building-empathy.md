@@ -21,7 +21,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (1 for, 6 mixed) · 14 studies (6 quant-synthesis, 5 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (1 for, 5 mixed) · 14 studies (6 quant-synthesis, 5 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 
@@ -56,7 +56,7 @@ Keep learners, the exact activity and comparator, the outcome instrument and the
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about mechanisms empathy activities may rely on, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 
 ## Objective and learner-valued goal

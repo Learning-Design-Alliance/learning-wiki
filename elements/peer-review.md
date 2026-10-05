@@ -51,9 +51,9 @@ Peer review is the element in which learners examine and respond to one another'
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+W]
-- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M]
-- [Peer Feedback Accuracy Depends On Expertise](../claims/peer-feedback-accuracy-depends-on-expertise.md) [+M]
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+W]
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [+M]
 
 ## Related Elements
 - [Feedback](feedback.md)

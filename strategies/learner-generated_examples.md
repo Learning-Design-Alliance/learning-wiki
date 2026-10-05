@@ -12,7 +12,7 @@ generated:
 # Learner-Generated Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (5 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Learner-generated examples ask students to produce their own instances of a concept, principle, or procedure — a novel illustration, a personal anecdote, a worked case — rather than only recognizing or studying examples supplied by the instructor. Generating an example requires retrieving the concept's defining features and mapping them onto new content, which promotes reflection, reinforces well-formed concepts, and exposes fuzzy boundaries or misconceptions that passive study leaves hidden.

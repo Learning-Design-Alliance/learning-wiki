@@ -12,7 +12,7 @@ generated:
 # Collect My Data
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Collect My Data is a learner-driven data-collection strategy in which students select a question or category of items to investigate (e.g., favorite fruit, types of pets, weather observations), record observations using tally charts, and then translate the tallies into graphs. The strategy moves learners through the full data cycle — posing a question, gathering data, representing it, and interpreting results — using their own choices as the content.

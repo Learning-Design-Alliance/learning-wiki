@@ -73,7 +73,7 @@ Middle-school math teachers were randomized to a 45–70-minute online empathic-
 - [Building empathy improves intergroup attitudes](building-empathy-improves-intergroup-attitudes.md) — empathy-focused exercises as a lever for changing interpersonal dynamics
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — relational and autonomy-supportive teacher behavior as a motivational foundation
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
-- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement.md) — related
-- [Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy](reading-literary-fiction-improves-theory-of-mind.md) — related
+- [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
+- [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
 - [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — related

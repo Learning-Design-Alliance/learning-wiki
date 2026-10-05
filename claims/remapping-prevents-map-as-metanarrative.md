@@ -45,5 +45,5 @@ Authors' interpretive argument (type e) from the remapping section: because 'No 
 ## Related Claims
 - [Social cartography makes value and power relations in a policy discourse explicit and opens the heuristic circle to readers](mapping-makes-value-power-relations-explicit.md) — related
 - [Reader interactions with the maps produced divergent interpretations, illustrating inclusion of readers in the hermeneutic circle](reader-interpretations-open-hermeneutic-circle.md) — related
-- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
-- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related

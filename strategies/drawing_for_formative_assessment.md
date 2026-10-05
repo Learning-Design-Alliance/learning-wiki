@@ -12,7 +12,7 @@ generated:
 # Drawing for Formative Assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Inviting learners to express their understanding through drawings provides insights into their comprehension and any misconceptions. Because a drawing forces learners to decide how to represent relationships, size, shape, and placement of parts, it externalizes their mental model — revealing preconceptions, gaps, and depth of understanding that verbal answers may mask. Teachers analyze the drawings and use them to adjust instruction, making this a diagnostic [assessment](../elements/assessment.md) technique rather than an artistic exercise.

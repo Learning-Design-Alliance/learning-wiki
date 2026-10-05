@@ -22,7 +22,7 @@ sources:
     resource: "https://doi.org/10.3102/00346543076003413"
     title: "Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)"
     author: "Nesbit, J. C., & Adesope, O. O."
-    q: 3
+    q: 4
     i: "?"
     n: 55 studies (67 effect sizes, 5,818 participants)
     kind: quant-synthesis
@@ -114,7 +114,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — unconstrained map construction can itself overload novices
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative strategy that forces learners to process and restructure text
 - [Cognitive flexibility theory: multiple cases](cognitive-flexibility-theory-multiple-cases.md) — concept mapping is a core tool within cognitive flexibility theory for representing multiple linked perspectives
-- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related

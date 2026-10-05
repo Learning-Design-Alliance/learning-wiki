@@ -28,7 +28,7 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [~M]
 - [Story Mapping Improves Comprehension](../claims/story-mapping-improves-comprehension.md) [+M]
-- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M]
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
 
 ## Related Elements
 - [Concept Mapping](concept-mapping.md)

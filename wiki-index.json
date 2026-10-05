@@ -4490,7 +4490,7 @@
    "id": "comparing-contrasting-cases-improves-learning",
    "path": "claims/comparing-contrasting-cases-improves-learning.md",
    "status": "draft",
-   "title": "Comparing Contrasting Cases Improves Learning",
+   "title": "Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge",
    "type": "claim"
   },
   {
@@ -4627,7 +4627,7 @@
    "id": "concept-mapping-improves-learning",
    "path": "claims/concept-mapping-improves-learning.md",
    "status": "draft",
-   "title": "Concept mapping improves learning",
+   "title": "Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice",
    "type": "claim"
   },
   {
@@ -5286,7 +5286,7 @@
    "id": "cooperative-learning-group-rewards-and-individual-accountability",
    "path": "claims/cooperative-learning-group-rewards-and-individual-accountability.md",
    "status": "draft",
-   "title": "Group rewards combined with individual accountability make cooperative learning effective",
+   "title": "In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards",
    "type": "claim"
   },
   {
@@ -6190,7 +6190,7 @@
    "id": "deliberate-practice-improves-performance",
    "path": "claims/deliberate-practice-improves-performance.md",
    "status": "draft",
-   "title": "Deliberate Practice Improves Performance",
+   "title": "Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions",
    "type": "claim"
   },
   {
@@ -6944,7 +6944,7 @@
    "id": "drawing-improves-learning",
    "path": "claims/drawing-improves-learning.md",
    "status": "draft",
-   "title": "Drawing Improves Learning",
+   "title": "Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis",
    "type": "claim"
   },
   {
@@ -7000,7 +7000,7 @@
    "id": "dual-coding-improves-learning",
    "path": "claims/dual-coding-improves-learning.md",
    "status": "draft",
-   "title": "Dual Coding Improves Learning",
+   "title": "Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed",
    "type": "claim"
   },
   {
@@ -7975,12 +7975,12 @@
    "type": "claim"
   },
   {
-   "description": "Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)",
+   "description": "In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable",
    "evidence_strength": "weak",
    "id": "engineering-rubric-low-scoring-reliability",
    "path": "claims/engineering-rubric-low-scoring-reliability.md",
    "status": "draft",
-   "title": "Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)",
+   "title": "In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable",
    "type": "claim"
   },
   {
@@ -9251,12 +9251,12 @@
    "type": "claim"
   },
   {
-   "description": "All learners, regardless of condition, showed a floor effect on far-transfer problems, and instructional time did not differ between treatment groups",
+   "description": "In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions",
    "evidence_strength": "moderate",
    "id": "far-transfer-floor-effect-and-equal-time",
    "path": "claims/far-transfer-floor-effect-and-equal-time.md",
    "status": "draft",
-   "title": "All learners, regardless of condition, showed a floor effect on far-transfer problems, and instructional time did not differ between treatment groups",
+   "title": "In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions",
    "type": "claim"
   },
   {
@@ -11059,7 +11059,7 @@
    "id": "guided-discovery-outperforms-pure-discovery",
    "path": "claims/guided-discovery-outperforms-pure-discovery.md",
    "status": "draft",
-   "title": "Guided Discovery Outperforms Pure Discovery",
+   "title": "Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction",
    "type": "claim"
   },
   {
@@ -11296,12 +11296,12 @@
    "type": "claim"
   },
   {
-   "description": "Adult learners with high affiliation motive report significantly more favorable attitudes toward small group work than low affiliation learners",
+   "description": "In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work",
    "evidence_strength": "moderate",
    "id": "high-affiliation-motive-favorable-group-attitudes",
    "path": "claims/high-affiliation-motive-favorable-group-attitudes.md",
    "status": "draft",
-   "title": "Adult learners with high affiliation motive report significantly more favorable attitudes toward small group work than low affiliation learners",
+   "title": "In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work",
    "type": "claim"
   },
   {
@@ -12382,12 +12382,12 @@
    "type": "claim"
   },
   {
-   "description": "Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance",
+   "description": "A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance",
    "evidence_strength": "weak",
    "id": "incorporating-home-culture-improves-academic-performance",
    "path": "claims/incorporating-home-culture-improves-academic-performance.md",
    "status": "draft",
-   "title": "Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance",
+   "title": "A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance",
    "type": "claim"
   },
   {
@@ -14332,7 +14332,7 @@
    "id": "learner-constructed-graphic-organizers-outperform-provided",
    "path": "claims/learner-constructed-graphic-organizers-outperform-provided.md",
    "status": "draft",
-   "title": "Learner Constructed Graphic Organizers Outperform Provided",
+   "title": "Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer",
    "type": "claim"
   },
   {
@@ -16725,7 +16725,7 @@
    "id": "misconceptions-interfere-with-new-learning",
    "path": "claims/misconceptions-interfere-with-new-learning.md",
    "status": "draft",
-   "title": "Misconceptions Interfere With New Learning",
+   "title": "Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition",
    "type": "claim"
   },
   {
@@ -19479,7 +19479,7 @@
    "id": "peer-assessment-benefits-assessor",
    "path": "claims/peer-assessment-benefits-assessor.md",
    "status": "draft",
-   "title": "Peer Assessment Benefits Assessor",
+   "title": "The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role",
    "type": "claim"
   },
   {
@@ -19493,7 +19493,7 @@
    "id": "peer-assessment-improves-performance",
    "path": "claims/peer-assessment-improves-performance.md",
    "status": "draft",
-   "title": "Peer Assessment Improves Performance",
+   "title": "Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment",
    "type": "claim"
   },
   {
@@ -21844,7 +21844,7 @@
    "id": "reading-literary-fiction-improves-theory-of-mind",
    "path": "claims/reading-literary-fiction-improves-theory-of-mind.md",
    "status": "draft",
-   "title": "Reading Literary Fiction Improves Theory Of Mind",
+   "title": "Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate",
    "type": "claim"
   },
   {
@@ -23065,12 +23065,12 @@
    "type": "claim"
   },
   {
-   "description": "Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners",
+   "description": "In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas",
    "evidence_strength": "moderate",
    "id": "reward-interdependence-benefit-attitudes",
    "path": "claims/reward-interdependence-benefit-attitudes.md",
    "status": "draft",
-   "title": "Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners",
+   "title": "In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas",
    "type": "claim"
   },
   {
@@ -23279,7 +23279,7 @@
    "id": "rubrics-improve-peer-feedback-quality",
    "path": "claims/rubrics-improve-peer-feedback-quality.md",
    "status": "draft",
-   "title": "Rubrics Improve Peer Feedback Quality",
+   "title": "Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback",
    "type": "claim"
   },
   {
@@ -23290,7 +23290,7 @@
    "id": "rubrics-improve-student-work",
    "path": "claims/rubrics-improve-student-work.md",
    "status": "draft",
-   "title": "Rubrics improve student work",
+   "title": "Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance",
    "type": "claim"
   },
   {
@@ -23711,7 +23711,7 @@
    "id": "seductive-details-effect",
    "path": "claims/seductive-details-effect.md",
    "status": "draft",
-   "title": "Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner",
+   "title": "Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner",
    "type": "claim"
   },
   {
@@ -25050,7 +25050,7 @@
    "id": "small-group-learning-improves-stem-achievement",
    "path": "claims/small-group-learning-improves-stem-achievement.md",
    "status": "draft",
-   "title": "Small Group Learning Improves STEM Achievement",
+   "title": "Small-group learning improves undergraduate STEM achievement",
    "type": "claim"
   },
   {
@@ -25108,12 +25108,12 @@
    "type": "claim"
   },
   {
-   "description": "Learning vocabulary via mobile phone SMS produces greater vocabulary gains than paper-based materials",
+   "description": "In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print",
    "evidence_strength": "moderate",
    "id": "sms-vocabulary-learning-beats-paper-materials",
    "path": "claims/sms-vocabulary-learning-beats-paper-materials.md",
    "status": "draft",
-   "title": "Learning vocabulary via mobile phone SMS produces greater vocabulary gains than paper-based materials",
+   "title": "In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print",
    "type": "claim"
   },
   {
@@ -27983,7 +27983,7 @@
    "id": "teacher-student-relationships-improve-engagement",
    "path": "claims/teacher-student-relationships-improve-engagement.md",
    "status": "draft",
-   "title": "Teacher Student Relationships Improve Engagement",
+   "title": "Positive teacher\u2013student relationships are associated with greater student engagement and, more weakly, with achievement",
    "type": "claim"
   },
   {
@@ -29322,12 +29322,12 @@
    "aliases": [
     "tutor-background-subgroup-differences-nonsignificant"
    ],
-   "description": "In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning",
+   "description": "In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning",
    "evidence_strength": "moderate",
    "id": "tutor-background-meta-regression-not-predictive",
    "path": "claims/tutor-background-meta-regression-not-predictive.md",
    "status": "draft",
-   "title": "In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning",
+   "title": "In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning",
    "type": "claim"
   },
   {
@@ -41331,9 +41331,12 @@
    "type": "principle"
   },
   {
+   "aliases": [
+    "mentoringcoaching"
+   ],
    "description": "Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge.",
-   "id": "mentoringcoaching",
-   "path": "principles/mentoringcoaching.md",
+   "id": "mentoring-and-coaching",
+   "path": "principles/mentoring-and-coaching.md",
    "status": "review",
    "title": "Mentoring/Coaching",
    "type": "principle"
@@ -81115,7 +81118,8 @@
    "measured-pace-one-concept-at-a-time-older-learners": "measured-pace-one-concept-at-a-time-older-learners",
    "mediate-cultural-choices-with-personal-meanings": "mediate-cultural-choices-with-personal-meanings",
    "memory-consolidation": "memory-consolidation",
-   "mentoringcoaching": "mentoringcoaching",
+   "mentoring-and-coaching": "mentoring-and-coaching",
+   "mentoringcoaching": "mentoring-and-coaching",
    "metacognition": "self-regulated-learning",
    "metacognition-prompts-in-inquiry-introduction": "metacognition-prompts-in-inquiry-introduction",
    "metaphors-analogies": "metaphors-analogies",

@@ -41,7 +41,7 @@ The review frames mobile assisted language learning (MALL) as "a burgeoning subd
 - [GPS-supported mobile language learning outside the classroom lets students integrate classroom knowledge with authentic daily-life needs](../claims/gps-mobile-learning-integrates-classroom-and-daily-life.md) [+W]
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](../claims/microblogging-promotes-interaction-community-language-learners.md) [+W]
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](../claims/sms-positive-attitudes-intercultural-awareness.md) [+W]
-- [Learning vocabulary via mobile phone SMS produces greater vocabulary gains than paper-based materials](../claims/sms-vocabulary-learning-beats-paper-materials.md) [+W]
+- [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](../claims/sms-vocabulary-learning-beats-paper-materials.md) [+W]
 - [SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group](../claims/sms-vocabulary-retention-reading-comprehension-efl.md) [+W]
 - [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](../claims/mobile-independent-work-initiative-actors.md) [+W]
 - [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](../claims/mall-vocabulary-most-supported-skill.md) [+W]

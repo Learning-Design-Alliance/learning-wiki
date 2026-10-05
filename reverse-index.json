@@ -2126,9 +2126,7 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
-      "polarity": "+",
-      "slug": "peer-assessment-improves-performance",
-      "strength": "M"
+      "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "peer-discussion-improves-conceptual-understanding"
@@ -26811,9 +26809,7 @@
       "slug": "coherence-principle-irrelevant-material-hurts-learning"
      },
      {
-      "polarity": "~",
-      "slug": "comparing-contrasting-cases-improves-learning",
-      "strength": "M"
+      "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
       "slug": "concept-mapping-improves-learning"
@@ -34213,7 +34209,7 @@
      },
      {
       "polarity": "+",
-      "slug": "mentoringcoaching",
+      "slug": "mentoring-and-coaching",
       "strength": "M"
      },
      {
@@ -49942,7 +49938,7 @@
      },
      {
       "polarity": "+",
-      "slug": "mentoringcoaching",
+      "slug": "mentoring-and-coaching",
       "strength": "S"
      },
      {
@@ -64027,6 +64023,9 @@
      },
      {
       "slug": "cooperative-learning-improves-achievement"
+     },
+     {
+      "slug": "high-affiliation-motive-favorable-group-attitudes"
      },
      {
       "slug": "interaction-quantity-correlates-posttest-online-groups"
@@ -97987,9 +97986,7 @@
       "slug": "assessment-for-learning-improves-achievement"
      },
      {
-      "polarity": "+",
-      "slug": "peer-assessment-improves-performance",
-      "strength": "W"
+      "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
@@ -124135,7 +124132,7 @@
      },
      {
       "polarity": "~",
-      "slug": "mentoringcoaching",
+      "slug": "mentoring-and-coaching",
       "strength": "M"
      },
      {
@@ -179851,7 +179848,7 @@
       "slug": "journaling"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "peer-discussion"
@@ -185819,7 +185816,7 @@
       "slug": "flexible-grouping"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "observationshadowing"
@@ -189093,7 +189090,7 @@
       "slug": "cultural-life-experiences-connections"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "mindfulness-activities"
@@ -189510,7 +189507,7 @@
      }
     ]
    },
-   "mentoringcoaching": {
+   "mentoring-and-coaching": {
     "patterns": [
      {
       "slug": "fostering-communities-of-learning-fcl"
@@ -191763,7 +191760,7 @@
       "slug": "inquiry-based-learning"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "modeling"
@@ -195814,9 +195811,7 @@
       "slug": "collaborative-writing-improves-text-quality"
      },
      {
-      "polarity": "~",
-      "slug": "comparing-contrasting-cases-improves-learning",
-      "strength": "M"
+      "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
       "slug": "concept-mapping-improves-learning"
@@ -198049,7 +198044,9 @@
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
      },
      {
-      "slug": "learning-styles-matching-does-not-improve-learning"
+      "polarity": "+",
+      "slug": "learning-styles-matching-does-not-improve-learning",
+      "strength": "S"
      },
      {
       "slug": "media-combinations-affect-recall-and-retention"

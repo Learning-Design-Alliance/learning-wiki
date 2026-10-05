@@ -16,8 +16,8 @@ sources:
     q: 4
     i: 1
     n: 164 studies
-    kind: design
-    rigour: 3
+    kind: quant-synthesis
+    rigour: "?"
   - id: klahr-nigam-2004
     resource: "https://doi.org/10.1111/j.0956-7976.2004.00737.x"
     title: "Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)"
@@ -41,7 +41,7 @@ sources:
 # Minimal guidance is less effective for novices than explicit instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 1 causal `r?`, 1 review `r?`, 1 design `r3` · `q2`–`q4` · `i1` small
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r?` · `q2`–`q4` · `i1` small
 
 For learners who lack relevant prior knowledge, discovery- or inquiry-style approaches with minimal instructional support produce weaker learning than approaches that provide explicit structure, modeling, and worked examples.
 
@@ -144,7 +144,7 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a form of upfront guidance that structures new material for novices
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — explicit structure is a low-cost form of the guidance novices need
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
-- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
 - [The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect](hpm-directed-activation-zeigarnik-account.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related

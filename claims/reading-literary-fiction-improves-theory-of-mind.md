@@ -18,6 +18,15 @@ sources:
     n: 14 studies (53 effect sizes)
     kind: quant-synthesis
     rigour: "?"
+  - id: dodell-feder-tamir-2018
+    resource: "https://doi.org/10.1037/xge0000395"
+    title: "Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. [doi:10.1037/xge0000395](https://doi.org/10.1037/xge0000395)"
+    author: "Dodell-Feder, D., & Tamir, D. I."
+    q: 3
+    i: 0
+    n: 14 studies (53 effect sizes)
+    kind: quant-synthesis
+    rigour: "?"
   - id: panero-et-al-2016
     resource: "https://doi.org/10.1037/pspa0000064"
     title: "Panero, M. E., Weisberg, D. S., Black, J., Goldstein, T. R., Barnes, J. L., Brownell, H., & Winner, E. (2016). Does reading a single passage of literary fiction really improve theory of mind? An attempt at replication. *Journal of Personality and Social Psychology, 111*(5), e46–e54. [doi:10.1037/pspa0000064](https://doi.org/10.1037/pspa0000064)"
@@ -41,7 +50,7 @@ sources:
 # Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
+> **Evidence** · 3 studies (4 entries) · 2 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
 <!-- deprecated title (2026-10-05, overstated its evidence): Reading Literary Fiction Improves Theory Of Mind -->
 
 Kidd & Castano (2013) reported that reading a short passage of literary fiction — as distinct from popular fiction or non-fiction — temporarily improved performance on theory-of-mind (ToM) tasks, the ability to infer others' mental states. A three-lab replication with 792 adults (Panero et al. 2016) found no such advantage on the main outcome, and a meta-analysis of 14 experiments (Dodell-Feder & Tamir 2018) found fiction reading improved social-cognitive performance by g = .15–.16, below the conventional threshold for a small effect. What the evidence supports is a very small average effect of fiction reading, not a reliable effect of a single literary passage; no study recorded here measures empathy or lasting change.
@@ -65,6 +74,16 @@ Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive im
 `q3 · meta-analysis of experiments` · `i0 · negligible effect, g=.15–.16` · `n=14 studies (53 effect sizes)` · `quant-synthesis · r?`
 
 A multilevel random-effects meta-analysis of published and unpublished experiments in which people were assigned to read fiction, to read nonfiction, or to read nothing, and then completed social-cognition tasks. Fiction reading produced a small but statistically significant improvement over both comparisons. The authors report that the effect survives sensitivity analyses and does not appear to come from publication bias. They call for stronger reading manipulations and for tests of whether the gain carries over into real-world social functioning, which no study had yet shown. (Read from the abstract only.)
+
+<!-- merged 2026-10-05 from fiction-reading-improves-empathy: that page's entry for this study, which differed from the one above and was dropped when the pages were merged; restored verbatim.
+### Dodell-Feder & Tamir 2018
+
+Dodell-Feder, D., & Tamir, D. I. (2018). Fiction reading has a small positive impact on social cognition: A meta-analysis. *Journal of Experimental Psychology: General, 147*(11), 1713–1727. [doi:10.1037/xge0000395](https://doi.org/10.1037/xge0000395)
+
+`q3 · meta-analysis of experiments` · `i0 · negligible effect, g=.15–.16` · `n=14 studies (53 effect sizes)` · `quant-synthesis · r?`
+
+A multilevel random-effects meta-analysis of published and unpublished experiments in which people were assigned to read fiction, to read nonfiction, or to read nothing, and then completed social-cognition tasks. Fiction reading produced a small but statistically significant improvement over both comparisons. The authors report that the effect survives sensitivity analyses and does not appear to come from publication bias. The outcome is performance on social-cognitive tasks, which is not the same thing as empathy, the word in this claim's title. The authors recommend stronger reading manipulations, tests of whether the gain transfers to real-world social functioning, and work on mechanisms. (Read from the abstract only.)
+-->
 
 ### Panero et al. 2016
 

@@ -74,7 +74,7 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — rubric-guided peer feedback is a form of assessment *for* learning, making criteria visible to learners.
 - [Feedback improves learning outcomes](feedback-improves-learning.md) — the downstream mechanism: better feedback should only help if feedback itself improves learning.
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the broader claim this page qualifies: rubrics specify *how* to make peer feedback effective.
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related

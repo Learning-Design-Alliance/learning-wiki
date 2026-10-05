@@ -78,7 +78,7 @@ Open questions include durability (whether effects persist beyond the transition
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — a second basic psychological need with parallel brief-intervention evidence
 - [Belonging](../elements/belonging.md) — the design element this claim operationalizes
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
-- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Growth mindset improves achievement](growth-mindset-improves-achievement.md) — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related

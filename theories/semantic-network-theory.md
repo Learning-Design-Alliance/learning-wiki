@@ -39,7 +39,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 
 - Structural Knowledge Similarity Predicts Exam Performance [+M]
 - Structural Knowledge Mediates Declarative To Procedural [+W]
-- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M]
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
 
 ## Related Theories
 

@@ -45,7 +45,7 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 ## Related Claims
 - [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related
-- [In PBL tutor-background meta-analysis, even the largest subgroup mean difference (mixed vs. content expert tutors) fails to reach statistical significance](tutor-background-meta-regression-not-predictive.md) — related
+- [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
 - [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related

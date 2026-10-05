@@ -86,6 +86,6 @@ Boundary conditions to watch: the greeting must be genuinely positive and person
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — related
 - [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
-- [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement.md) — related
+- [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies](treatment-classrooms-less-disruptive-than-control.md) — related
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — a broader claim this one bears on

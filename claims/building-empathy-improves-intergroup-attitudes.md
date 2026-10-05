@@ -101,6 +101,6 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Building Empathy](../principles/building-empathy.md) — the underlying design principle this claim supports
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — case-based engagement is one operationalization of narrative empathy-building, though its evidence targets cognitive rather than attitudinal outcomes
 - [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
-- [Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy](reading-literary-fiction-improves-theory-of-mind.md) — related
+- [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
