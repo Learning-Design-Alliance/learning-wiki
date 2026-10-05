@@ -13,11 +13,11 @@ sources:
     title: "Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26"
     author: Dunlap, J. C
   - id: larrotta-2009
-    resource: "https://doi.org/10.1002/ace.325"
+    resource: "https://doi.org/10.1002/ace.323"
     title: "Larrotta, C. (2009). Journaling in an adult ESL literacy program. *New Directions for Adult and Continuing Education, 121*, 35-44"
     author: Larrotta, C
   - id: sage-2015
-    resource: "https://doi.org/10.1080/10437797.2015.1076264"
+    resource: "https://doi.org/10.1080/10437797.2015.1076274"
     title: "Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681"
     author: "Sage, M., & Sele, P"
 ---
@@ -25,7 +25,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 21 studies (9 quant-synthesis, 8 causal, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 10 of 21 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -48,7 +48,7 @@ The page's earlier guidance (a clear purpose, prompts or routines, stated privac
 5. **Use the entries, every week.** Open the next class or module with two or three anonymised points from the entries (the commonest confusion, a good question), answer them, and have each learner reread their last "next step" and say whether they did it. A diary kept on its own showed no detected gain on any outcome in a randomised trial with prospective university students; with web-based self-regulation training added, the diary group gained on self-regulation knowledge and self-efficacy, though not on mathematics scores ([diary alone](../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) [-M]; [training with diary](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [~M]). The weekly routine itself is an untested proposal.
 6. **Respond briefly and selectively, not to every line.** A teacher or mentor writes one or two sentences on a sample of entries each week (for example, a third of the class in rotation, so each learner hears back every three weeks), aimed at the stated confusion or plan; no marks for spelling or style. Untested proposal, from the earlier page's caution against feedback overload and performative writing.
 7. **Review the journal across entries at set points.** Every three to four weeks, and at the end, the learner rereads their entries and writes one review entry: what has changed in my understanding or practice, what keeps recurring, what I will work on next. Untested proposal; from the former pattern page's "track learning, sensemaking or growth over time".
-8. **Fade the prompts as entries become analytic.** Early weeks: the teacher's two or three specific prompts, with sentence starters for those who need them. Middle weeks: the learner chooses one of several prompts and adds a "next step" line. Late weeks: the learner sets their own question for the entry and the teacher prompts only the review entries. Move a learner to the next stage when about three consecutive entries name a specific confusion or decision and a concrete next step, rather than only recount events. The stages and the threshold are untested proposals; that novices need more structure than advanced learners is argued on the [structured reflection](../claims/reflective-practice-improves-outcomes-when-structured.md) claim page's Discussion, not tested there.
+8. **Fade the prompts as entries become analytic.** Early weeks: the teacher's two or three specific prompts, with sentence starters for those who need them. Middle weeks: the learner chooses one of several prompts and adds a "next step" line. Late weeks: the learner sets their own question for the entry and the teacher prompts only the review entries. Move a learner to the next stage when about three consecutive entries name a specific confusion or decision and a concrete next step, rather than only recount events. The stages and the threshold are untested proposals; that novices need more structure than advanced learners is argued on the [structured reflection](../claims/reflective-practice-improves-outcomes-when-structured.md) [~W] claim page's Discussion, not tested there.
 9. **Never require personal disclosure.** Offer a content-focused prompt beside any personal one, and let learners mark an entry "not for reading". Untested; from the earlier page's caution on forced disclosure. Expressive writing about emotions is a different activity, with very small average effects on health and none shown on learning ([Expressive Writing Improves Health Outcomes](../claims/expressive-writing-improves-health-outcomes.md) [~M]).
 
 When a condition is not met: if no one can read entries regularly, keep the journal private, make each prompt end in a check the learner can score (an answer key, a worked example) and use step 5 with self-reread only; if there is no next lesson or attempt for the entry to feed, replace the journal with a single end-of-task reflection (see [Reflection](reflection.md)); if writing itself is the barrier, allow spoken, recorded or drawn entries and judge the content, not the prose.

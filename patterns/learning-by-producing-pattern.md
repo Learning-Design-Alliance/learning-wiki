@@ -17,7 +17,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 12 claims (8 for, 4 mixed) · 20 studies (8 quant-synthesis, 7 causal, 2 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 8 of 20 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 

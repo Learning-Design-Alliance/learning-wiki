@@ -12,7 +12,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 24 studies (11 causal, 7 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 28 studies (13 causal, 7 quant-synthesis, 7 review, 1 theoretical), `q1`–`q4` · 8 of 28 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -70,7 +70,7 @@ The three facts that most change the decision:
 | Scarce facilitator time (volunteers, a busy shift, a tutor who checks in briefly) | Automate points, feedback and level checks; the facilitator spends about five minutes a week on the team or progress board and contacts learners whose practice stopped | untested proposal |
 | Time is a `single-session` | Do not build a points economy; at most one team quiz round with feedback after each question and a short debrief; do not claim a motivational effect | untested; no claim here tests a single gamified session |
 | Learners have low confidence or low literacy | No public ranking; self-referenced progress only; badges and messages short, with icons and audio; first level designed so everyone succeeds | untested proposal; the earlier page's warning that leaderboards demotivate low-ranked learners has no claim behind it |
-| Learners are uncomfortable choosing (some high power-distance settings, anxious novices) | Offer two options with a recommended default rather than an open menu | untested; noted in the [autonomy claim](../claims/autonomy-supports-intrinsic-motivation.md)'s Discussion with no study recorded |
+| Learners are uncomfortable choosing (some high power-distance settings, anxious novices) | Offer two options with a recommended default rather than an open menu | untested; noted in the [autonomy claim](../claims/autonomy-supports-intrinsic-motivation.md) [~W]'s Discussion with no study recorded |
 | Points or badges feed a grade, or stakes are high | Keep points formative and separate from the grade; grade on an aligned task outside the game | untested; from the earlier page (effects weaker in high-stakes settings, no claim behind it) |
 | The brief names its own routine (house points, a class reward chart, an existing app's XP or streaks) | Keep it; change only what the evidence says matters: give points for accuracy and improvement rather than attendance or completion, add an informational sentence to each award, and base any team score on each member's learning | [Rewards claim](../claims/rewards-undermine-intrinsic-motivation.md) [~S]; [group rewards on individual learning](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]; the combination is untested |
 

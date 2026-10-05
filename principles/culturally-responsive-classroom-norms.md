@@ -12,7 +12,7 @@ generated:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q3` · 0 of 2 report an effect size
+> **Evidence** · 9 claims (5 for, 4 mixed) · 18 studies (7 causal, 7 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 18 report an effect size · 1 claim rests on one study
 
 ## Conditional relationship
 

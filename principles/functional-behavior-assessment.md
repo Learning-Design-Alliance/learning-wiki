@@ -12,7 +12,7 @@ generated:
 # Functional Behavior Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 16 claims (10 for, 6 mixed) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational), `q1`–`q4` · 4 of 15 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

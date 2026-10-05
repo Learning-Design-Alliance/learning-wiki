@@ -37,23 +37,23 @@
   "methods->principles": 11,
   "methods->processes": 4,
   "methods->theories": 7,
-  "patterns->claims": 115,
+  "patterns->claims": 117,
   "patterns->designs": 18,
-  "patterns->elements": 73,
+  "patterns->elements": 74,
   "patterns->learner-variables": 1,
   "patterns->methods": 4,
-  "patterns->patterns": 85,
-  "patterns->principles": 70,
+  "patterns->patterns": 86,
+  "patterns->principles": 72,
   "patterns->processes": 1,
-  "patterns->theories": 29,
-  "principles->claims": 387,
+  "patterns->theories": 28,
+  "principles->claims": 389,
   "principles->designs": 34,
-  "principles->elements": 93,
-  "principles->methods": 4,
-  "principles->patterns": 72,
-  "principles->principles": 254,
+  "principles->elements": 97,
+  "principles->methods": 5,
+  "principles->patterns": 76,
+  "principles->principles": 255,
   "principles->processes": 2,
-  "principles->theories": 102,
+  "principles->theories": 99,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -322,6 +322,11 @@
      {
       "polarity": "~",
       "slug": "holistic-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "knowledge-organization",
       "strength": "M"
      }
     ]
@@ -1161,6 +1166,11 @@
       "polarity": "~",
       "slug": "develop-understanding",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "experience-with-languaging-activities",
+      "strength": "S"
      },
      {
       "polarity": "~",
@@ -3844,6 +3854,13 @@
      {
       "slug": "inter-subtest-branching-halves-battery-length"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "adaptive-testing-more-precise-achievement-measurement": {
@@ -5462,6 +5479,11 @@
       "polarity": "+",
       "slug": "supporting-students-with-autism-spectrum-disorder",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -6291,6 +6313,11 @@
      {
       "polarity": "~",
       "slug": "annotating",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "note-taking",
       "strength": "M"
      }
     ]
@@ -8964,6 +8991,11 @@
      },
      {
       "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "structured-peer-review",
       "strength": "S"
      }
@@ -10689,12 +10721,17 @@
      {
       "polarity": "+",
       "slug": "gamification",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "motivation",
-      "strength": "S"
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -13119,8 +13156,18 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "reward-punishment-useful-despite-theory-rejection",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -13303,6 +13350,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "engagement",
       "strength": "M"
@@ -13315,6 +13367,11 @@
      {
       "polarity": "~",
       "slug": "instructor-accessibility",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "motivation",
       "strength": "M"
      },
      {
@@ -16243,6 +16300,18 @@
      {
       "polarity": "+",
       "slug": "social-emotional-learning",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
       "strength": "M"
      }
     ],
@@ -19189,6 +19258,11 @@
     "patterns": [
      {
       "slug": "alternative-in-school-steam-learning-infrastructure"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -19909,7 +19983,7 @@
      {
       "polarity": "+",
       "slug": "knowledge-organization",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -24272,6 +24346,11 @@
       "polarity": "+",
       "slug": "retrieval-practice",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -24674,6 +24753,11 @@
      {
       "polarity": "+",
       "slug": "graphic-organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
       "strength": "M"
      }
     ]
@@ -25123,6 +25207,13 @@
      {
       "slug": "supervisory-coaching-mixed-teacher-student-outcomes"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "M"
+     }
     ]
    },
    "coaching-complexity-may-fragment-impact": {
@@ -25189,6 +25280,13 @@
       "slug": "supervisory-coaching-mixed-teacher-student-outcomes"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -25210,6 +25308,13 @@
      },
      {
       "slug": "supervisory-coaching-mixed-teacher-student-outcomes"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "M"
      }
     ]
    },
@@ -29655,6 +29760,11 @@
       "polarity": "+",
       "slug": "collaborative-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -30791,6 +30901,11 @@
       "polarity": "+",
       "slug": "elaborative-reasoning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -31965,6 +32080,13 @@
       "slug": "constructive-alignment",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "competitive-multiple-choice-alternatives-benefit-related-untested-questions": {
@@ -32355,6 +32477,11 @@
      {
       "polarity": "~",
       "slug": "holistic-learning",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "knowledge-organization",
       "strength": "S"
      }
     ],
@@ -33477,6 +33604,13 @@
       "slug": "peer-teacher-workshops-mise",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "M"
+     }
     ]
    },
    "content-triggers-dominate-syntactic-triggers-absent-text-chat": {
@@ -33770,6 +33904,13 @@
     "claims": [
      {
       "slug": "rl-sequencing-beats-fixed-oral-curriculum"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "gamification",
+      "strength": "W"
      }
     ]
    },
@@ -35365,6 +35506,11 @@
      },
      {
       "polarity": "+",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "gamification",
       "strength": "M"
      },
@@ -35828,6 +35974,11 @@
       "polarity": "+",
       "slug": "cooperative-learning",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -36383,6 +36534,11 @@
       "polarity": "~",
       "slug": "computational-essay-writing",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "W"
      }
     ]
    },
@@ -36453,6 +36609,13 @@
      {
       "slug": "statistical-item-selection-conflicts-criterion-referenced-definition"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "criterion-referenced-tests-measure-mastery-not-relative-standing": {
@@ -36471,6 +36634,13 @@
      {
       "polarity": "+",
       "slug": "four-characteristics-criterion-referenced-tests",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
       "strength": "W"
      }
     ],
@@ -36511,6 +36681,13 @@
      {
       "polarity": "~",
       "slug": "mastery-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
       "strength": "W"
      }
     ],
@@ -37305,7 +37482,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "standardized-test-fairness-and-bias",
       "strength": "W"
      },
@@ -37899,6 +38076,13 @@
       "polarity": "+",
       "slug": "simulation",
       "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "debriefing",
+      "strength": "W"
      }
     ]
    },
@@ -39313,6 +39497,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "precise-meaningful-elaboration-facilitates-encoding",
       "strength": "W"
      }
@@ -39891,6 +40080,11 @@
       "polarity": "+",
       "slug": "establish-meaningful-communication-before-correction",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "journaling",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -39993,6 +40187,11 @@
       "polarity": "+",
       "slug": "similar-item-positions-across-booklets",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -40024,6 +40223,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "M"
      }
@@ -40043,6 +40247,13 @@
      {
       "slug": "polytomous-dif-detection-rate-factors"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     }
     ]
    },
    "different-media-yield-different-knowledge-encoding": {
@@ -40055,6 +40266,13 @@
      },
      {
       "slug": "verbal-achievement-tests-may-underestimate-via-symbolic-mismatch"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -40247,6 +40465,13 @@
      {
       "slug": "student-lab-presentations-central-activity"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "W"
+     }
     ]
    },
    "direct-instruction-gains-depend-on-implementation-support": {
@@ -40370,6 +40595,11 @@
      {
       "polarity": "+",
       "slug": "presume-rightful-presence-and-inherent-value",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
       "strength": "W"
      },
      {
@@ -40727,6 +40957,13 @@
      },
      {
       "slug": "self-monitoring-improves-on-task-behavior"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -43296,6 +43533,13 @@
       "slug": "technology-use-right-tool-right-objective"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "motivation",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -44948,6 +45192,16 @@
      },
      {
       "polarity": "~",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "summative-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "W"
      }
@@ -45476,6 +45730,13 @@
      {
       "polarity": "+",
       "slug": "epsrl-management-system",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "journaling",
       "strength": "W"
      }
     ]
@@ -46470,6 +46731,13 @@
       "slug": "within-sector-variability-rivals-between-sector"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -46501,6 +46769,13 @@
       "polarity": "~",
       "slug": "constructive-alignment",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -47162,6 +47437,13 @@
       "slug": "skill-training-effective-techniques"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -47301,6 +47583,13 @@
      },
      {
       "slug": "skill-training-effective-techniques"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -47662,6 +47951,11 @@
      },
      {
       "polarity": "~",
+      "slug": "debriefing",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "deliberate-practice",
       "strength": "M"
      },
@@ -47702,12 +47996,22 @@
      },
      {
       "polarity": "~",
+      "slug": "knowledge-organization",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "learning-embedded-in-the-core-mechanic",
       "strength": "M"
      },
      {
       "polarity": "~",
       "slug": "modeling",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "note-taking",
       "strength": "M"
      },
      {
@@ -49069,6 +49373,18 @@
       "slug": "writing-to-learn-improves-understanding"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "journaling",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -49090,6 +49406,13 @@
      },
      {
       "slug": "story-mine-qualitative-mixed-experiences"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "journaling",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -49627,6 +49950,13 @@
      },
      {
       "slug": "rewards-undermine-intrinsic-motivation"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "summative-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -51622,6 +51952,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "debriefing",
+      "strength": "S"
+     },
+     {
       "polarity": "+",
       "slug": "deliberate-practice",
       "strength": "S"
@@ -51901,6 +52236,11 @@
      {
       "polarity": "+",
       "slug": "adaptive-learning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "debriefing",
       "strength": "S"
      },
      {
@@ -53970,8 +54310,18 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "gamification",
+      "strength": "M"
+     },
+     {
       "polarity": "-",
       "slug": "growth-mindset",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "motivation",
       "strength": "M"
      },
      {
@@ -53983,6 +54333,11 @@
       "polarity": "-",
       "slug": "strengths-based-approach",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -55061,6 +55416,13 @@
      {
       "slug": "positive-greetings-at-the-door-improve-engagement"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
+     }
     ]
    },
    "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks": {
@@ -55590,6 +55952,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -56041,6 +56410,11 @@
      },
      {
       "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "strengths-based-approach",
       "strength": "M"
      }
@@ -56198,6 +56572,11 @@
      {
       "polarity": "+",
       "slug": "game-based-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "gamification",
       "strength": "W"
      }
     ]
@@ -56900,6 +57279,13 @@
       "slug": "self-explanation-improves-conceptual-understanding"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -57100,6 +57486,11 @@
       "polarity": "+",
       "slug": "multiple-criteria-gifted-identification",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
      }
     ]
    },
@@ -57739,6 +58130,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "W"
      }
@@ -57786,10 +58182,22 @@
       "slug": "autonomy-supports-intrinsic-motivation"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "learning-by-producing-pattern",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
       "slug": "assess-process-over-product-maker-education",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "summative-assessment",
       "strength": "W"
      }
     ],
@@ -58203,6 +58611,13 @@
       "slug": "summarization-effective-with-training"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "slug": "small-group-scaffolding-tool"
@@ -58332,6 +58747,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "debriefing",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -58458,6 +58880,11 @@
       "polarity": "+",
       "slug": "growth-mindset",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "S"
      },
      {
       "polarity": "~",
@@ -58720,6 +59147,13 @@
       "slug": "unpressured-within-task-planning-form-focused-accuracy"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "note-taking",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -58807,6 +59241,11 @@
       "polarity": "+",
       "slug": "guided-prompts-and-faculty-involvement-encourage-integrative-reflection",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "journaling",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -58829,6 +59268,13 @@
       "slug": "strategy-instruction-improves-writing-quality"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -58839,6 +59285,11 @@
       "polarity": "+",
       "slug": "guided-prompts-and-faculty-involvement-encourage-integrative-reflection",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "journaling",
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -59359,6 +59810,11 @@
      {
       "polarity": "+",
       "slug": "holistic-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
       "strength": "M"
      }
     ],
@@ -60070,6 +60526,18 @@
      {
       "slug": "tbl-team-dynamics-no-format-differences"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "high-survey-agreement-ideation-discussion": {
@@ -60140,6 +60608,16 @@
       "polarity": "~",
       "slug": "retrieval-practice",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "M"
      }
     ]
    },
@@ -60181,6 +60659,11 @@
      {
       "polarity": "~",
       "slug": "holistic-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
       "strength": "M"
      }
     ],
@@ -60637,6 +61120,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -60754,6 +61244,13 @@
      },
      {
       "slug": "universal-classroom-management-reduces-problem-behavior"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
      }
     ]
    },
@@ -61185,6 +61682,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
@@ -61797,6 +62299,13 @@
       "slug": "if-at-scratch-reveal-form",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "if-at-integrated-testlet-items-excellent-discrimination": {
@@ -62229,6 +62738,13 @@
      },
      {
       "slug": "spoon-to-cup-fading-increases-cup-drinking"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -64202,6 +64718,11 @@
       "polarity": "+",
       "slug": "graphic-organizers",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "W"
      }
     ]
    },
@@ -64482,6 +65003,13 @@
      },
      {
       "slug": "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -65102,6 +65630,13 @@
       "slug": "ldf-superior-to-icc-for-this-performance-assessment"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -65304,6 +65839,13 @@
      {
       "slug": "lords-chi-square-flags-more-dif-items-than-raju-ua"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     }
     ]
    },
    "item-specific-difficulty-helps-only-at-low-and-high-leitner-decks": {
@@ -65418,6 +65960,11 @@
       "polarity": "~",
       "slug": "hunters-effective-teaching-model",
       "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "professional-development",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -67341,6 +67888,11 @@
       "polarity": "~",
       "slug": "digital-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "note-taking",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -67465,6 +68017,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
@@ -67637,6 +68194,13 @@
      },
      {
       "slug": "nonparticipant-barriers-professional-development"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -67845,6 +68409,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -67854,6 +68425,11 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "note-taking",
       "strength": "M"
      }
     ],
@@ -68414,6 +68990,11 @@
       "polarity": "+",
       "slug": "jigsaw-method",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -68587,6 +69168,11 @@
      {
       "polarity": "~",
       "slug": "digital-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "journaling",
       "strength": "M"
      },
      {
@@ -68809,6 +69395,13 @@
       "slug": "synthesis-evaluation-measure-general-ability-lower-grades"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -68900,6 +69493,11 @@
      {
       "polarity": "-",
       "slug": "multimodal-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "multiple-methods-of-assessment",
       "strength": "M"
      },
      {
@@ -70332,6 +70930,13 @@
      {
       "slug": "students-perceive-clicker-levels-equally-helpful"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "M"
+     }
     ]
    },
    "locus-of-control-fails-to-discriminate-delinquents": {
@@ -70565,6 +71170,13 @@
      {
       "slug": "pbis-reduces-syndrome-scores-ed-students"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
+     }
     ]
    },
    "low-group-first-graders-read-few-words": {
@@ -70713,6 +71325,16 @@
       "polarity": "~",
       "slug": "assessment-for-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -70751,6 +71373,13 @@
      },
      {
       "slug": "tbl-trat-isat-improve-over-irat"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -71353,7 +71982,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "standardized-test-fairness-and-bias",
       "strength": "W"
      },
@@ -72086,6 +72715,11 @@
       "polarity": "+",
       "slug": "mastery-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -72296,6 +72930,26 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
@@ -74228,6 +74882,11 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "self-directed-learning",
       "strength": "W"
      },
@@ -74238,6 +74897,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "debriefing",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "self-monitoring",
@@ -74900,6 +75564,11 @@
       "strength": "S"
      },
      {
+      "polarity": "~",
+      "slug": "learning-by-producing-pattern",
+      "strength": "S"
+     },
+     {
       "polarity": "-",
       "slug": "problem-based-learning",
       "strength": "S"
@@ -75170,6 +75839,13 @@
       "slug": "sat-underpredicts-girls-performance"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -75270,6 +75946,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "tests-capitalizing-on-cultural-strengths",
@@ -75511,7 +76192,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "standardized-test-fairness-and-bias",
       "strength": "W"
      }
@@ -75910,6 +76591,11 @@
       "polarity": "+",
       "slug": "dual-coding",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -76284,6 +76970,13 @@
      {
       "polarity": "+",
       "slug": "mangomon-rpg-language-app",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "gamification",
       "strength": "W"
      }
     ]
@@ -76973,6 +77666,13 @@
       "polarity": "~",
       "slug": "motivational-multimedia-instructional-message-model",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
      }
     ]
    },
@@ -78067,6 +78767,13 @@
      },
      {
       "slug": "raters-differed-severity-mfrm"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "M"
      }
     ]
    },
@@ -79392,6 +80099,11 @@
       "polarity": "~",
       "slug": "holistic-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "knowledge-organization",
+      "strength": "M"
      }
     ]
    },
@@ -79870,6 +80582,13 @@
      {
       "slug": "transcript-grades-blurred-currency"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "nonparticipant-barriers-professional-development": {
@@ -79885,6 +80604,13 @@
      },
      {
       "slug": "working-conditions-shape-retention-and-recruitment"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -80021,6 +80747,13 @@
      },
      {
       "slug": "rewriting-solves-more-lexical-gaps"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "note-taking",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -81251,6 +81984,11 @@
       "polarity": "~",
       "slug": "holistic-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -82246,6 +82984,13 @@
       "slug": "parent-involvement-improves-early-reading"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -83100,6 +83845,13 @@
      {
       "slug": "tkss-fidelity-ancova-interaction-problem-behavior"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
+     }
     ]
    },
    "pbis-reduces-externalizing-total-problems-ed-self-contained": {
@@ -83115,6 +83867,13 @@
      },
      {
       "slug": "tkss-fidelity-ancova-interaction-problem-behavior"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -83776,6 +84535,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "process-based-writing",
       "strength": "M"
      }
@@ -84070,6 +84834,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "debriefing",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "peer-discussion",
@@ -84480,6 +85249,13 @@
      {
       "polarity": "+",
       "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
       "strength": "M"
      }
     ],
@@ -87164,6 +87940,11 @@
       "polarity": "+",
       "slug": "engagement",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -88185,6 +88966,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
+     },
+     {
       "polarity": "-",
       "slug": "pre-reading-questioning",
       "strength": "M"
@@ -88524,6 +89310,13 @@
      },
      {
       "slug": "belief-consistent-facts-better-recognized"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "experience-with-languaging-activities",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -89426,7 +90219,7 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
+      "polarity": "+",
       "slug": "motivation",
       "strength": "M"
      },
@@ -90582,6 +91375,11 @@
       "polarity": "+",
       "slug": "authentic-assessment",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -90737,6 +91535,11 @@
      },
      {
       "polarity": "+",
+      "slug": "motivation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "strengths-based-approach",
       "strength": "M"
      }
@@ -90758,6 +91561,13 @@
      },
      {
       "slug": "test-scores-gate-gifted-program-entry"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -90992,6 +91802,11 @@
      {
       "polarity": "~",
       "slug": "authentic-audiences-purposes",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "journaling",
       "strength": "W"
      },
      {
@@ -91369,6 +92184,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "experience-with-languaging-activities",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -91431,6 +92253,13 @@
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
      }
     ]
    },
@@ -91557,6 +92386,11 @@
      {
       "polarity": "~",
       "slug": "competency-based-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "multiple-methods-of-assessment",
       "strength": "M"
      },
      {
@@ -93102,7 +93936,17 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "debriefing",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "experiential-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "journaling",
       "strength": "M"
      },
      {
@@ -93169,6 +94013,11 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "experiential-learning-cycle",
       "strength": "M"
      }
@@ -93176,7 +94025,17 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "debriefing",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "experiential-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "journaling",
       "strength": "M"
      },
      {
@@ -94939,6 +95798,11 @@
       "polarity": "+",
       "slug": "retrieval-practice",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -95206,6 +96070,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "note-taking",
+      "strength": "S"
+     },
      {
       "polarity": "+",
       "slug": "retrieval-practice",
@@ -95625,6 +96494,11 @@
       "polarity": "-",
       "slug": "graphic-organizers",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "knowledge-organization",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -95755,6 +96629,13 @@
       "slug": "explicit-versus-inferred-compliance-prompt-taxonomy",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "note-taking",
+      "strength": "W"
+     }
     ]
    },
    "revise-summary-compliance-predicts-learning-gains": {
@@ -95794,6 +96675,11 @@
       "polarity": "~",
       "slug": "feedback-loops",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "note-taking",
+      "strength": "W"
      }
     ]
    },
@@ -96172,8 +97058,18 @@
      },
      {
       "polarity": "~",
-      "slug": "gamification",
+      "slug": "functional-behavior-assessment",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "gamification",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -96756,6 +97652,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "structured-peer-review",
       "strength": "M"
@@ -96765,6 +97666,11 @@
      {
       "polarity": "~",
       "slug": "competency-based-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
       "strength": "M"
      }
     ]
@@ -96964,7 +97870,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "standardized-test-fairness-and-bias",
       "strength": "W"
      }
@@ -97167,6 +98073,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "precise-meaningful-elaboration-facilitates-encoding",
@@ -98351,6 +99262,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "provide-positive-comments-on-student-writing",
       "strength": "W"
@@ -98358,6 +99274,11 @@
      {
       "polarity": "+",
       "slug": "self-affirmation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
       "strength": "M"
      },
      {
@@ -98511,6 +99432,21 @@
      {
       "polarity": "~",
       "slug": "check-ins",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "debriefing",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "journaling",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "multiple-methods-of-assessment",
       "strength": "M"
      },
      {
@@ -98970,6 +99906,13 @@
       "slug": "self-monitoring-improves-on-task-behavior"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -98994,6 +99937,13 @@
       "slug": "self-directed-iep-increases-student-participation"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -99009,6 +99959,13 @@
      },
      {
       "slug": "self-determined-learning-model-of-instruction-improves-self-determination"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -99076,6 +100033,13 @@
      },
      {
       "slug": "writing-uniquely-corresponds-features-successful-learning"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "motivation",
+      "strength": "M"
      }
     ]
    },
@@ -99311,7 +100275,7 @@
      {
       "polarity": "+",
       "slug": "motivation",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -101703,7 +102667,7 @@
       "strength": "S"
      },
      {
-      "polarity": "~",
+      "polarity": "+",
       "slug": "note-taking",
       "strength": "S"
      },
@@ -103771,6 +104735,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "goal-setting-monitoring",
       "strength": "M"
@@ -103778,6 +104747,11 @@
      {
       "polarity": "+",
       "slug": "self-monitoring",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
       "strength": "M"
      }
     ],
@@ -105533,6 +106507,13 @@
       "slug": "self-monitoring-comprehension-improves-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "S"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -107010,6 +107991,11 @@
     "principles": [
      {
       "polarity": "~",
+      "slug": "debriefing",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "deliberate-practice",
       "strength": "M"
      }
@@ -107065,6 +108051,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "debriefing",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "deliberate-practice",
@@ -107751,6 +108742,13 @@
      },
      {
       "slug": "reflective-versus-technical-coaching-comparison"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -110506,9 +111504,9 @@
       "strength": "M"
      },
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "motivation",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "slug": "self-directed-learning"
@@ -111930,6 +112928,16 @@
       "polarity": "~",
       "slug": "competency-based-assessment",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -112192,6 +113200,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "make-frame-slots-explicit-history-explanations",
@@ -112777,6 +113790,11 @@
       "polarity": "+",
       "slug": "holistic-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "M"
      }
     ]
    },
@@ -113036,6 +114054,11 @@
      {
       "polarity": "~",
       "slug": "debate",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "experience-with-languaging-activities",
       "strength": "M"
      },
      {
@@ -114721,6 +115744,13 @@
      {
       "slug": "spaced-retrieval-improves-retention"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "summative-assessment",
+      "strength": "W"
+     }
     ]
    },
    "students-report-engagement-after-mle-lessons": {
@@ -115415,6 +116445,13 @@
       "slug": "summarization-and-synthesis",
       "strength": "S"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "note-taking",
+      "strength": "M"
+     }
     ]
    },
    "summarization-improves-learning": {
@@ -115436,6 +116473,13 @@
      {
       "polarity": "+",
       "slug": "review-and-summarizing",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "note-taking",
       "strength": "M"
      }
     ],
@@ -115545,6 +116589,13 @@
      },
      {
       "slug": "coaching-maintenance-rarely-measured"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -116045,6 +117096,13 @@
      },
      {
       "slug": "situated-perspective-bilingual-math-meaning"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "-",
+      "slug": "professional-development",
+      "strength": "W"
      }
     ]
    },
@@ -116724,6 +117782,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -116743,7 +117808,7 @@
      {
       "polarity": "+",
       "slug": "motivation",
-      "strength": "S"
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -117788,6 +118853,13 @@
       "slug": "student-uptake-of-support-predicts-small-group-answer-accuracy"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -117979,8 +119051,18 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "strengths-based-approach",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "supporting-students-with-intellectual-disabilities",
       "strength": "M"
      }
     ],
@@ -118501,6 +119583,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "engagement",
       "strength": "M"
@@ -118512,7 +119599,17 @@
      },
      {
       "polarity": "~",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "instructor-accessibility",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "motivation",
       "strength": "M"
      },
      {
@@ -118599,6 +119696,11 @@
       "polarity": "+",
       "slug": "multiple-criteria-gifted-identification",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -118841,6 +119943,13 @@
       "slug": "uneven-icap-mode-distribution-across-units"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "-",
+      "slug": "professional-development",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -118862,6 +119971,13 @@
      },
      {
       "slug": "subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "professional-development",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -119287,6 +120403,13 @@
      {
       "slug": "tefa-t-improves-critical-thinking-skills"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "W"
+     }
     ]
    },
    "tefa-skill-areas-sequential-order": {
@@ -119668,6 +120791,13 @@
      },
      {
       "slug": "sat-underpredicts-girls-performance"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -120537,6 +121667,13 @@
      {
       "slug": "pbis-reduces-syndrome-scores-ed-students"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
+     }
     ]
    },
    "todays-excellence-tomorrows-ignorance": {
@@ -121086,6 +122223,13 @@
       "slug": "norm-referenced-metrics-hide-structural-development"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -121156,6 +122300,13 @@
      },
      {
       "slug": "low-group-first-graders-read-few-words"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "experience-with-languaging-activities",
+      "strength": "M"
      }
     ]
    },
@@ -121327,6 +122478,13 @@
      {
       "polarity": "+",
       "slug": "grading-by-contract-fricke",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "summative-assessment",
       "strength": "W"
      }
     ]
@@ -121558,6 +122716,13 @@
      },
      {
       "slug": "universal-classroom-management-reduces-problem-behavior"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
      }
     ]
    },
@@ -122649,6 +123814,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "use-universal-classroom-management-approaches",
       "strength": "M"
@@ -123113,6 +124283,16 @@
      },
      {
       "polarity": "+",
+      "slug": "multiple-methods-of-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "universal-design-for-learning",
       "strength": "W"
      },
@@ -123375,6 +124555,13 @@
      },
      {
       "slug": "peer-coaching-supports-teacher-professional-development"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "professional-development",
+      "strength": "W"
      }
     ]
    },
@@ -124378,6 +125565,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "journaling",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
       "strength": "M"
@@ -124913,7 +126105,7 @@
      {
       "polarity": "+",
       "slug": "multiple-methods-of-assessment",
-      "strength": "M"
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -124943,7 +126135,7 @@
      {
       "polarity": "~",
       "slug": "summative-assessment",
-      "strength": "S"
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -127306,6 +128498,20 @@
       "slug": "self-monitoring-comprehension-improves-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "experience-with-languaging-activities",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "journaling",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -128775,6 +129981,9 @@
     "principles": [
      {
       "slug": "personalization"
+     },
+     {
+      "slug": "standardized-test-fairness-and-bias"
      },
      {
       "slug": "universal-design-for-learning"
@@ -130524,9 +131733,6 @@
     "principles": [
      {
       "slug": "adaptive-learning"
-     },
-     {
-      "slug": "gamification"
      },
      {
       "slug": "multi-objective-exercise-recommendation-objectives"
@@ -143205,6 +144411,9 @@
       "slug": "debate"
      },
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "professional-development"
      },
      {
@@ -149126,6 +150335,11 @@
       "slug": "peer-instruction"
      }
     ],
+    "principles": [
+     {
+      "slug": "debriefing"
+     }
+    ],
     "strategies": [
      {
       "slug": "case-based-learning"
@@ -151255,6 +152469,9 @@
       "slug": "constructive-alignment"
      },
      {
+      "slug": "learning-by-producing-pattern"
+     },
+     {
       "slug": "structured-peer-review"
      }
     ],
@@ -151318,6 +152535,9 @@
     "patterns": [
      {
       "slug": "anchored-instruction"
+     },
+     {
+      "slug": "learning-by-producing-pattern"
      }
     ]
    },
@@ -152211,6 +153431,9 @@
       "slug": "epistemic-games"
      },
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -152227,6 +153450,9 @@
      },
      {
       "slug": "lda-reflection"
+     },
+     {
+      "slug": "learning-by-producing-pattern"
      },
      {
       "slug": "mastery-learning"
@@ -152274,9 +153500,6 @@
      },
      {
       "slug": "feedback-loops"
-     },
-     {
-      "slug": "gamification"
      },
      {
       "slug": "growth-mindset"
@@ -152859,6 +154082,11 @@
      {
       "slug": "summative-assessment"
      }
+    ],
+    "principles": [
+     {
+      "slug": "summative-assessment"
+     }
     ]
    },
    "flight-sos-interactive-video": {
@@ -153092,6 +154320,13 @@
      },
      {
       "slug": "virtual_embodiment"
+     }
+    ]
+   },
+   "gamification": {
+    "principles": [
+     {
+      "slug": "gamification"
      }
     ]
    },
@@ -153397,6 +154632,9 @@
      },
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "learning-by-producing-pattern"
      },
      {
       "slug": "problem-based-learning"
@@ -153864,6 +155102,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     },
      {
       "slug": "lda-reflection"
      },
@@ -154540,6 +155781,11 @@
      },
      {
       "slug": "reflection-activities"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
      }
     ],
     "strategies": [
@@ -155248,6 +156494,11 @@
       "slug": "reassessment"
      }
     ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     }
+    ],
     "strategies": [
      {
       "slug": "ongoing_feedback_and_reflection"
@@ -155359,6 +156610,9 @@
      },
      {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "professional-development"
      }
     ],
     "strategies": [
@@ -155951,6 +157205,11 @@
       "slug": "summarization-and-synthesis"
      }
     ],
+    "principles": [
+     {
+      "slug": "note-taking"
+     }
+    ],
     "strategies": [
      {
       "slug": "graphic-organizers-guided-notes"
@@ -155976,6 +157235,11 @@
      },
      {
       "slug": "research-data-collection-methods"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "professional-development"
      }
     ],
     "strategies": [
@@ -156712,6 +157976,9 @@
     ],
     "patterns": [
      {
+      "slug": "learning-by-producing-pattern"
+     },
+     {
       "slug": "self-regulated-learning"
      }
     ],
@@ -157072,6 +158339,11 @@
     "patterns": [
      {
       "slug": "authentic-assessment"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "summative-assessment"
      }
     ]
    },
@@ -160454,6 +161726,9 @@
    "prompts": {
     "patterns": [
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "self-regulated-learning"
      }
     ]
@@ -161281,6 +162556,11 @@
       "slug": "metacognitive-strategies"
      }
     ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     }
+    ],
     "strategies": [
      {
       "slug": "ai_in_education_toolkit_for_racial_equity"
@@ -161926,6 +163206,11 @@
      {
       "slug": "metacognitive-reflection"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     }
     ]
    },
    "reflective-journal-interview-flca-instruments": {
@@ -162183,6 +163468,9 @@
     ],
     "patterns": [
      {
+      "slug": "learning-by-producing-pattern"
+     },
+     {
       "slug": "structured-peer-review"
      }
     ],
@@ -162392,6 +163680,9 @@
      },
      {
       "slug": "constructive-alignment"
+     },
+     {
+      "slug": "learning-by-producing-pattern"
      },
      {
       "slug": "structured-peer-review"
@@ -162936,6 +164227,9 @@
      },
      {
       "slug": "competency-based-learning"
+     },
+     {
+      "slug": "learning-by-producing-pattern"
      },
      {
       "slug": "self-regulated-learning"
@@ -164428,6 +165722,9 @@
     ],
     "patterns": [
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "online-course-design"
      },
      {
@@ -164536,6 +165833,11 @@
     "patterns": [
      {
       "slug": "constructive-alignment"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "summative-assessment"
      }
     ],
     "processes": [
@@ -165918,6 +167220,11 @@
       "slug": "video-based-lesson-debrief-cycles-teams"
      }
     ],
+    "patterns": [
+     {
+      "slug": "professional-development"
+     }
+    ],
     "strategies": [
      {
       "slug": "empowering_teachers_with_equip"
@@ -166334,6 +167641,11 @@
      {
       "slug": "writing-improves-mathematical-understanding"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     }
     ]
    },
    "wwt-module-development-technology": {
@@ -166584,6 +167896,9 @@
     "principles": [
      {
       "slug": "cultural-life-experiences-connections"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
      }
     ]
    },
@@ -167473,6 +168788,12 @@
     "principles": [
      {
       "slug": "authentic-audiences-purposes"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
+      "slug": "summative-assessment"
      },
      {
       "slug": "validity-reliability-and-bias-in-classroom-assessment"
@@ -169696,6 +171017,9 @@
       "slug": "fostering-communities-of-learning-fcl"
      },
      {
+      "slug": "learning-by-producing-pattern"
+     },
+     {
       "slug": "structured-peer-review"
      },
      {
@@ -170243,6 +171567,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "summative-assessment"
+     },
      {
       "slug": "validity-reliability-and-bias-in-classroom-assessment"
      }
@@ -171712,6 +173039,9 @@
       "slug": "cooperative-learning"
      },
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "flipped-classroom"
      },
      {
@@ -172093,7 +173423,15 @@
       "slug": "hypothesis-testing"
      }
     ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     }
+    ],
     "principles": [
+     {
+      "slug": "debriefing"
+     },
      {
       "slug": "experiential-learning"
      }
@@ -172563,7 +173901,13 @@
       "slug": "formative-assessment"
      },
      {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
       "slug": "responsive-teaching"
+     },
+     {
+      "slug": "summative-assessment"
      }
     ],
     "processes": [
@@ -172887,6 +174231,9 @@
     "patterns": [
      {
       "slug": "jigsaw-method"
+     },
+     {
+      "slug": "professional-development"
      }
     ],
     "principles": [
@@ -174111,6 +175458,11 @@
     ]
    },
    "positive-behavioral-interventions-and-supports": {
+    "principles": [
+     {
+      "slug": "functional-behavior-assessment"
+     }
+    ],
     "strategies": [
      {
       "slug": "check-in_check-out"
@@ -174654,6 +176006,9 @@
      },
      {
       "slug": "lda-reflection"
+     },
+     {
+      "slug": "learning-by-producing-pattern"
      }
     ],
     "principles": [
@@ -175873,6 +177228,9 @@
       "slug": "develop-understanding"
      },
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -175900,6 +177258,9 @@
      },
      {
       "slug": "graphic-organizers"
+     },
+     {
+      "slug": "knowledge-organization"
      },
      {
       "slug": "personalization"
@@ -177721,6 +179082,9 @@
       "slug": "explicit-instruction-vocabulary"
      },
      {
+      "slug": "note-taking"
+     },
+     {
       "slug": "text-to-speech"
      }
     ],
@@ -179126,6 +180490,9 @@
       "strength": "M"
      },
      {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
       "slug": "personalization"
      },
      {
@@ -179133,6 +180500,9 @@
      },
      {
       "slug": "self-affirmation"
+     },
+     {
+      "slug": "summative-assessment"
      },
      {
       "slug": "universal-design-for-learning"
@@ -180054,6 +181424,9 @@
       "slug": "interdisciplinary-course-based-research-experience"
      },
      {
+      "slug": "learning-by-producing-pattern"
+     },
+     {
       "slug": "learning-for-use-lfu-model"
      },
      {
@@ -180081,6 +181454,12 @@
      },
      {
       "slug": "experiential-learning"
+     },
+     {
+      "slug": "motivation"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
      },
      {
       "slug": "problem-based-learning"
@@ -180550,6 +181929,12 @@
      },
      {
       "slug": "let-learners-request-feedback-after-performing"
+     },
+     {
+      "slug": "motivation"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
      },
      {
       "slug": "strengths-based-approach"
@@ -181338,6 +182723,9 @@
     "principles": [
      {
       "slug": "autonomy"
+     },
+     {
+      "slug": "culturally-responsive-classroom-norms"
      },
      {
       "slug": "debriefing"
@@ -182506,13 +183894,22 @@
       "slug": "holistic-learning"
      },
      {
+      "slug": "knowledge-organization"
+     },
+     {
       "slug": "mnemonic-device"
+     },
+     {
+      "slug": "note-taking"
      },
      {
       "slug": "phonics"
      },
      {
       "slug": "scaffolding-and-fading"
+     },
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
      },
      {
       "slug": "universal-design-for-learning"
@@ -183635,6 +185032,9 @@
       "slug": "explicit-instruction-online-reading-strategies"
      },
      {
+      "slug": "functional-behavior-assessment"
+     },
+     {
       "slug": "graphic-organizers"
      },
      {
@@ -183642,6 +185042,12 @@
      },
      {
       "slug": "holistic-learning"
+     },
+     {
+      "slug": "knowledge-organization"
+     },
+     {
+      "slug": "note-taking"
      },
      {
       "slug": "phonics"
@@ -186688,6 +188094,9 @@
      },
      {
       "slug": "jigsaw-method"
+     },
+     {
+      "slug": "professional-development"
      }
     ],
     "principles": [
@@ -187686,6 +189095,9 @@
       "slug": "collaborative-learning"
      },
      {
+      "slug": "gamification"
+     },
+     {
       "slug": "laboratories-satisfying-cooperative-learning-conditions"
      },
      {
@@ -187776,7 +189188,15 @@
       "slug": "empathy-interviews"
      }
     ],
+    "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     }
+    ],
     "principles": [
+     {
+      "slug": "culturally-responsive-classroom-norms"
+     },
      {
       "slug": "developing-your-cultural-awareness"
      },
@@ -188500,6 +189920,9 @@
     ],
     "principles": [
      {
+      "slug": "gamification"
+     },
+     {
       "slug": "motivation"
      },
      {
@@ -188786,6 +190209,9 @@
     ],
     "patterns": [
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -188796,6 +190222,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "debriefing"
+     },
      {
       "slug": "observationshadowing"
      },
@@ -189251,6 +190680,9 @@
       "slug": "engagement"
      },
      {
+      "slug": "gamification"
+     },
+     {
       "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
@@ -189425,6 +190857,9 @@
      },
      {
       "slug": "handoutsonline-guidesvisual-reading-aids"
+     },
+     {
+      "slug": "knowledge-organization"
      },
      {
       "slug": "metaphors-analogies"
@@ -189626,6 +191061,9 @@
      },
      {
       "slug": "standardized-test-fairness-and-bias"
+     },
+     {
+      "slug": "summative-assessment"
      }
     ]
    },
@@ -189758,6 +191196,9 @@
      },
      {
       "slug": "game-based-learning"
+     },
+     {
+      "slug": "gamification"
      },
      {
       "slug": "guided-practice"
@@ -190260,6 +191701,11 @@
     ]
    },
    "least-restrictive-environment": {
+    "principles": [
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
+     }
+    ],
     "theories": [
      {
       "slug": "lre-dual-components-proximity-and-interaction"
@@ -190379,6 +191825,12 @@
      },
      {
       "slug": "sequencing"
+     },
+     {
+      "slug": "summative-assessment"
+     },
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
      }
     ],
     "strategies": [
@@ -190612,6 +192064,11 @@
     ]
    },
    "multimedia-literacy-through-production": {
+    "patterns": [
+     {
+      "slug": "learning-by-producing-pattern"
+     }
+    ],
     "principles": [
      {
       "slug": "multimedia-projects"
@@ -190627,6 +192084,11 @@
     "methods": [
      {
       "slug": "multimediatizing-didactized-content-direct-expression"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "learning-by-producing-pattern"
      }
     ],
     "principles": [
@@ -190724,6 +192186,9 @@
     "principles": [
      {
       "slug": "assessment-for-learning"
+     },
+     {
+      "slug": "summative-assessment"
      }
     ]
    },
@@ -190942,6 +192407,9 @@
      },
      {
       "slug": "community-of-inquiry"
+     },
+     {
+      "slug": "culturally-responsive-classroom-norms"
      },
      {
       "slug": "discussing-race"
@@ -191254,6 +192722,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "experience-with-languaging-activities"
+     },
      {
       "slug": "guided-discovery-learning"
      }
@@ -191798,6 +193269,9 @@
     ],
     "patterns": [
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "experiential-learning-cycle"
      },
      {
@@ -191805,6 +193279,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "debriefing"
+     },
      {
       "slug": "journaling"
      },
@@ -192004,7 +193481,13 @@
       "slug": "immediate-feedback"
      },
      {
+      "slug": "knowledge-organization"
+     },
+     {
       "slug": "memory-consolidation"
+     },
+     {
+      "slug": "note-taking"
      },
      {
       "slug": "pre-reading-questioning"
@@ -192257,6 +193740,9 @@
      },
      {
       "slug": "sequencing"
+     },
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
      },
      {
       "slug": "vertical-and-horizontal-bonding-in-numerical-routines"
@@ -192629,6 +194115,9 @@
      },
      {
       "slug": "merrills-first-principles-demonstration"
+     },
+     {
+      "slug": "professional-development"
      }
     ],
     "principles": [
@@ -192652,6 +194141,9 @@
      },
      {
       "slug": "communities-of-practice"
+     },
+     {
+      "slug": "debriefing"
      },
      {
       "slug": "deliberate-practice"
@@ -192732,6 +194224,11 @@
     ]
    },
    "self-affirmation": {
+    "principles": [
+     {
+      "slug": "standardized-test-fairness-and-bias"
+     }
+    ],
     "strategies": [
      {
       "slug": "positive_affirmations"
@@ -192812,10 +194309,16 @@
       "slug": "inquiry-based-learning"
      },
      {
+      "slug": "knowledge-organization"
+     },
+     {
       "slug": "metaphors-analogies"
      },
      {
       "slug": "modeling"
+     },
+     {
+      "slug": "note-taking"
      }
     ]
    },
@@ -192830,6 +194333,9 @@
     ],
     "patterns": [
      {
+      "slug": "experience-with-languaging-activities"
+     },
+     {
       "slug": "game-based-mastery-learning-eg-duolingo-pattern"
      },
      {
@@ -192837,6 +194343,18 @@
      }
     ],
     "principles": [
+     {
+      "slug": "functional-behavior-assessment"
+     },
+     {
+      "slug": "journaling"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
+      "slug": "note-taking"
+     },
      {
       "slug": "video-replay-analysis"
      }
@@ -192989,6 +194507,9 @@
       "slug": "knowledge-organization"
      },
      {
+      "slug": "motivation"
+     },
+     {
       "slug": "process-based-writing"
      },
      {
@@ -193053,6 +194574,9 @@
      },
      {
       "slug": "holistic-learning"
+     },
+     {
+      "slug": "knowledge-organization"
      }
     ]
    },
@@ -193162,9 +194686,10 @@
     ],
     "principles": [
      {
-      "polarity": "~",
-      "slug": "culturally-responsive-classroom-norms",
-      "strength": "M"
+      "slug": "culturally-responsive-classroom-norms"
+     },
+     {
+      "slug": "gamification"
      },
      {
       "slug": "gender-equitable-classroom-interaction"
@@ -193383,6 +194908,12 @@
       "slug": "high-stakes-testing-accountability-effects"
      },
      {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
+      "slug": "summative-assessment"
+     },
+     {
       "slug": "validity-reliability-and-bias-in-classroom-assessment"
      }
     ],
@@ -193424,6 +194955,9 @@
      },
      {
       "slug": "prior-knowledge-growth-point-new-knowledge"
+     },
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
      }
     ],
     "theories": [
@@ -193451,6 +194985,11 @@
     "elements": [
      {
       "slug": "summative-assessment"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "multiple-methods-of-assessment"
      }
     ]
    },
@@ -193490,6 +195029,13 @@
     "theories": [
      {
       "slug": "intelligence-testing-uses-and-limits"
+     }
+    ]
+   },
+   "supporting-students-with-autism-spectrum-disorder": {
+    "principles": [
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
      }
     ]
    },
@@ -193912,7 +195458,13 @@
       "slug": "least-restrictive-environment"
      },
      {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
       "slug": "supporting-students-with-autism-spectrum-disorder"
+     },
+     {
+      "slug": "supporting-students-with-intellectual-disabilities"
      }
     ],
     "strategies": [
@@ -193997,9 +195549,13 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "standardized-test-fairness-and-bias",
-      "strength": "M"
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
+      "slug": "standardized-test-fairness-and-bias"
+     },
+     {
+      "slug": "summative-assessment"
      }
     ],
     "processes": [
@@ -195294,18 +196850,10 @@
       "slug": "effective-classroom-management-plan"
      },
      {
-      "polarity": "+",
-      "slug": "functional-behavior-assessment",
-      "strength": "M"
-     },
-     {
-      "slug": "gamification"
+      "slug": "functional-behavior-assessment"
      },
      {
       "slug": "growth-mindset"
-     },
-     {
-      "slug": "motivation"
      },
      {
       "polarity": "+",
@@ -195319,9 +196867,7 @@
       "slug": "rhetorical-skill-development"
      },
      {
-      "polarity": "+",
-      "slug": "supporting-students-with-intellectual-disabilities",
-      "strength": "M"
+      "slug": "supporting-students-with-intellectual-disabilities"
      }
     ],
     "processes": [
@@ -197212,9 +198758,6 @@
       "slug": "mnemonic-device"
      },
      {
-      "slug": "note-taking"
-     },
-     {
       "slug": "pairing-non-examples-with-examples"
      },
      {
@@ -197818,9 +199361,6 @@
       "polarity": "+",
       "slug": "heritage-language-maintenance",
       "strength": "M"
-     },
-     {
-      "slug": "knowledge-organization"
      },
      {
       "slug": "personalization"
@@ -199850,6 +201390,11 @@
       "slug": "motivation"
      }
     ],
+    "principles": [
+     {
+      "slug": "motivation"
+     }
+    ],
     "theories": [
      {
       "slug": "arcs-model-motivational-design-framework-m-tutor"
@@ -200319,11 +201864,6 @@
       "polarity": "~",
       "slug": "learner-analysis",
       "strength": "S"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "professional-development"
      }
     ],
     "principles": [
@@ -202012,9 +203552,6 @@
       "polarity": "+",
       "slug": "elaborative-reasoning",
       "strength": "S"
-     },
-     {
-      "slug": "knowledge-organization"
      },
      {
       "slug": "personalization"
@@ -205621,9 +207158,6 @@
       "slug": "autonomy"
      },
      {
-      "slug": "gamification"
-     },
-     {
       "slug": "growth-mindset"
      },
      {
@@ -205859,6 +207393,11 @@
     ]
    },
    "self-efficacy-theory": {
+    "principles": [
+     {
+      "slug": "motivation"
+     }
+    ],
     "theories": [
      {
       "slug": "arcs-model"
@@ -206128,9 +207667,6 @@
      },
      {
       "slug": "positive-behavioral-interventions-and-supports"
-     },
-     {
-      "slug": "professional-development"
      },
      {
       "slug": "workshop-model"
@@ -207163,9 +208699,6 @@
       "slug": "interdisciplinary-course-based-research-experience"
      },
      {
-      "slug": "professional-development"
-     },
-     {
       "slug": "writing-workshop"
      }
     ],
@@ -207660,9 +209193,6 @@
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
-      "slug": "professional-development"
-     },
-     {
       "slug": "responsive-classroom"
      },
      {
@@ -207677,9 +209207,6 @@
       "polarity": "+",
       "slug": "bullying-prevention-and-intervention",
       "strength": "M"
-     },
-     {
-      "slug": "gamification"
      },
      {
       "slug": "social-presence"

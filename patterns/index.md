@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**136 entries** · 0 stable · 68 in review · 68 drafts
+**136 entries** · 0 stable · 70 in review · 66 drafts
 
 ---
 
@@ -45,6 +45,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Elaboration Theory](elaboration-theory.md) - A reusable course-level sequencing policy: an epitome of the most general ideas, elaborated level by level toward detail and tied back to the whole by learner-built synthesis; one small study of hierarchical knowledge organisation bears on it, and no claim tests the sequence itself.
 * [Epistemic Games](epistemic-games.md) - A reusable policy in which learners take a role in a simulation of a profession's work and learn its way of deciding; expected to improve decisions justified in the practice's terms where the practice has been studied, mentors model decisions and feedback and debriefs are given, and the outcome is judged outside the game; no claim in this wiki tests epistemic games.
+* [Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions](experience-with-languaging-activities.md) - A reusable routine in which learners answer, in talk or writing, what they experienced or read, what they think of it, what they learned and what more needs to be known, expected to improve understanding of content where the learned-answer prompt is content-specific and checked and learners can already make sense of the experience; no claim tests the routine as a whole, only parts of it.
 * [Experiential Learning Cycle](experiential-learning-cycle.md) - A reusable sequence of bounded experience, prompted debrief, a stated and checked principle and a changed attempt with feedback, repeated across sessions with support fading, is expected to improve performance and near transfer where learners can interpret the experience; no claim tests the cycle as a whole, only its steps.
 
 #### F {: #letter-f }
@@ -70,6 +71,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### L {: #letter-l }
 
 * [LDA Reflection](lda-reflection.md) - LDA Reflection is a lightweight reflection pattern used to help learners pause after an activity, analyze what happened, and identify what to carry forward.
+* [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md) - A reusable policy in which learners make a media product for a real audience to learn its content and media skills: study exemplars, learn the content (explicitly, for novices), plan a blueprint checked for content, produce in roles, revise against criteria and present; no claim tests learning by producing itself, and the sequence rests on neighbouring claims about projects, guidance, audiences, teaching others and the quality of learner-made representations.
 * [Learning-for-Use (LfU) Model](learning-for-use-lfu-model.md) - Learning-for-Use is a pattern for designing inquiry so that knowledge is learned in response to a meaningful need and then refined through application.
 
 #### M {: #letter-m }
@@ -94,7 +96,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Positive Behavioral Interventions And Supports](positive-behavioral-interventions-and-supports.md) - PBIS is a school-wide framework that teaches and reinforces expected behavior through tiered prevention rather than reactive punishment.
 * [Problem-Based Learning](problem-based-learning.md) - A reusable policy for problem-centred units: establish what learners already know of the target content, guide novices explicitly, use a problem-first phase only where learners can generate partial solutions and instruction follows, and judge the unit on individual outcomes.
 * [Process-Oriented Guided Inquiry Learning (POGIL)](process-oriented-guided-inquiry-learning-pogil.md) - POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application.
-* [Professional Development](professional-development.md) - Professional development (PD) is the structured, sustained process by which educators build the knowledge, skills, and dispositions needed to improve their teaching practice.
+* [Professional Development](professional-development.md) - A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops.
 
 #### R {: #letter-r }
 
@@ -158,7 +160,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### E {: #letter-e }
 
 * [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
-* [Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions](experience-with-languaging-activities.md) - ELAs are \"the most fundamental class of instructional activities spawned from the LICA design\".
 * [Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items](expert-panel-consensus-item-selection-pattern.md) - The Inquiry's items were not invented: the attitudes tested were heard in methods classes, conventions, workshops, and printed sources such as newspaper editorials.
 
 #### F {: #letter-f }
@@ -207,7 +208,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### L {: #letter-l }
 
-* [Learning by Producing (multimedia production as learning)](learning-by-producing-pattern.md) - Position pupils as multimedia producers: they appreciate exemplar products, investigate content, plan a scenario and design blueprint, produce parts, assemble, and present/perform/appreciate, thereby acquiring multime...
 * [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](coaching-level-2-necessary-supports-implementation-and-dialogue.md) - At the second level, mentoring consists of coaches who \"plan, set goals, observe, and debrief with individual teachers\" implementing new instructional skills, while advocacy consists of regular meetings with small gro...
 * [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md) - At the third level, mentoring turns inward: coaches attend district, regional, and national professional development to deepen literacy knowledge and support sustaining efforts.
 * [Level-differentiated emphases: awareness, exploration, specialization](level-differentiated-awareness-exploration-specialization.md) - The guide differentiates the function of industrial arts by school level: elementary school provides INSIGHTS into and AWARENESS of the industrial-technical society; junior high courses provide EXPLORATION of the adul...

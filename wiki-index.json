@@ -38245,10 +38245,10 @@
    "type": "pattern"
   },
   {
-   "description": "ELAs are \\\"the most fundamental class of instructional activities spawned from the LICA design\\\".",
+   "description": "A reusable routine in which learners answer, in talk or writing, what they experienced or read, what they think of it, what they learned and what more needs to be known, expected to improve understanding of content where the learned-answer prompt is content-specific and checked and learners can already make sense of the experience; no claim tests the routine as a whole, only parts of it.",
    "id": "experience-with-languaging-activities",
    "path": "patterns/experience-with-languaging-activities.md",
-   "status": "draft",
+   "status": "review",
    "title": "Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions",
    "type": "pattern"
   },
@@ -38610,10 +38610,10 @@
    "type": "pattern"
   },
   {
-   "description": "Position pupils as multimedia producers: they appreciate exemplar products, investigate content, plan a scenario and design blueprint, produce parts, assemble, and present/perform/appreciate, thereby acquiring multime...",
+   "description": "A reusable policy in which learners make a media product for a real audience to learn its content and media skills: study exemplars, learn the content (explicitly, for novices), plan a blueprint checked for content, produce in roles, revise against criteria and present; no claim tests learning by producing itself, and the sequence rests on neighbouring claims about projects, guidance, audiences, teaching others and the quality of learner-made representations.",
    "id": "learning-by-producing-pattern",
    "path": "patterns/learning-by-producing-pattern.md",
-   "status": "draft",
+   "status": "review",
    "title": "Learning by Producing (multimedia production as learning)",
    "type": "pattern"
   },
@@ -38887,7 +38887,7 @@
    "type": "pattern"
   },
   {
-   "description": "Professional development (PD) is the structured, sustained process by which educators build the knowledge, skills, and dispositions needed to improve their teaching practice.",
+   "description": "A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops.",
    "grain_size": "program",
    "id": "professional-development",
    "path": "patterns/professional-development.md",
@@ -39905,10 +39905,10 @@
    "type": "principle"
   },
   {
-   "description": "Many taken-for-granted classroom norms \u2014 eye contact, wait time, the purpose of a question, competition versus cooperation, punctuality \u2014 reflect specific cultural assumptions (often an independent, individualist view of the self) that can mismatch a student's own cultural norms and produce misunderstanding on both sides, independent of the student's actual ability or motivation.",
+   "description": "For learners whose home or community norms of talk, questioning, competition, time and conduct differ from the classroom's, widening the classroom's norms (longer wait time, private or all-student response, cooperative options, conventions taught explicitly) and reading a departure from a norm as a possible difference of convention before judging ability or defiance is expected to make questioning show more of what learners know and to raise participation and reduce disciplinary exclusion; no claim here tests this, though claims test wait time, cooperative structures and empathic discipline in general populations.",
    "id": "culturally-responsive-classroom-norms",
    "path": "principles/culturally-responsive-classroom-norms.md",
-   "status": "draft",
+   "status": "review",
    "title": "Culturally Responsive Classroom Norms",
    "type": "principle"
   },
@@ -39953,7 +39953,7 @@
    "type": "principle"
   },
   {
-   "description": "Debriefing is a structured reflection after an activity, simulation, discussion, or performance in which learners revisit what happened, why it happened, and what should change next time.",
+   "description": "For learners who have just shared an experience (a simulation, case, team exercise or real event), a facilitated debrief that establishes what happened, asks for their reasoning at a few decision points against stated criteria, gives task- and process-level feedback and ends with one change to try is expected to improve the next comparable performance more than the experience alone or an unstructured recap, though no claim here compares an experience with and without a debrief.",
    "id": "debriefing",
    "path": "principles/debriefing.md",
    "status": "review",
@@ -40575,10 +40575,10 @@
    "type": "principle"
   },
   {
-   "description": "Disruptive behavior is more effectively addressed by identifying the specific triggering circumstance \u2014 physiological, environmental, or instructional \u2014 than by focusing on a student's personality, and fair, well-documented responses build the collaborative trust that makes long-term support possible.",
+   "description": "For a learner whose disruptive behavior recurs despite sound classroom management, identifying what triggers it and what it gets them, then changing the trigger and teaching a replacement that meets the same need, with consistent documented responses, is expected to reduce it more than generic or escalating discipline, though no claim here tests a function-based plan against a generic one.",
    "id": "functional-behavior-assessment",
    "path": "principles/functional-behavior-assessment.md",
-   "status": "draft",
+   "status": "review",
    "title": "Functional Behavior Assessment",
    "type": "principle"
   },
@@ -40607,7 +40607,7 @@
    "type": "principle"
   },
   {
-   "description": "Gamification applies game design elements (points, badges, levels, narratives, leaderboards) to learning activities to increase engagement and motivation, and works best when mechanics align with learning goals rather than merely rewarding activity.",
+   "description": "For learners whose bottleneck is keeping going through repeated practice, a game layer (points, levels, badges, team scores, a theme) added to sound instruction is expected to give a small gain in later performance when it rewards accuracy and improvement rather than activity, leaves meaningful choice and keeps decoration tied to content; one meta-analysis tests gamification on average, and no claim tests these conditions.",
    "id": "gamification",
    "path": "principles/gamification.md",
    "status": "review",
@@ -40970,7 +40970,7 @@
    "type": "principle"
   },
   {
-   "description": "Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor.",
+   "description": "For a learner keeping a journal over a course, short recurring entries written to task-specific, metacognitive prompts and then read and used are expected to improve understanding and self-regulation more than an unprompted or unused diary, though no claim tests keeping a journal against not keeping one on a learning outcome, and a diary alone showed no detected gain.",
    "id": "journaling",
    "path": "principles/journaling.md",
    "status": "review",
@@ -40994,7 +40994,7 @@
    "type": "principle"
   },
   {
-   "description": "Knowledge organization is the principle of helping learners structure information into meaningful relationships, categories, sequences, or frameworks rather than leaving it as disconnected facts.",
+   "description": "For a learner who holds a topic as unconnected facts and must later use it for tasks that cut across it, teaching the content with an explicit organization built for those tasks, and having learners sort into, explain and rebuild that organization from memory, is expected to improve integrative tasks but not single-detail tasks; one small 1979 physics report tests the core contrast, and no claim tests other kinds of organization or a course-long framework.",
    "id": "knowledge-organization",
    "path": "principles/knowledge-organization.md",
    "status": "review",
@@ -41309,7 +41309,7 @@
    "type": "principle"
   },
   {
-   "description": "Motivation is the principle of designing learning so that learners see value, feel capable of progress, and want to continue engaging with the work.",
+   "description": "For a learner whose effort or persistence is low, motivation is expected to rise when the design repairs the component that is low for that learner (expectancy of success, task value, ownership, or belonging) rather than adding generic boosts, and to raise learning only through effort on a task that demands thinking; claims test single components, and none tests the matching relationship.",
    "id": "motivation",
    "path": "principles/motivation.md",
    "status": "review",
@@ -41373,7 +41373,7 @@
    "type": "principle"
   },
   {
-   "description": "Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance.",
+   "description": "When one assessment method can mislead about a learner (through reading load, an unfamiliar symbol system, anxiety or a capability that shows only with help), a judgement drawn from two or more methods sampling the same goal under common, calibrated criteria is expected to be more accurate than one drawn from a single method, and bounded choice of format to raise motivation rather than achievement; no claim here tests the relationship as a whole.",
    "id": "multiple-methods-of-assessment",
    "path": "principles/multiple-methods-of-assessment.md",
    "status": "review",
@@ -41421,7 +41421,7 @@
    "type": "principle"
   },
   {
-   "description": "Note-taking is the instructional principle of helping learners externalize important information, structure, and interpretation while reading, listening, observing, or solving problems.",
+   "description": "For a learner meeting a dense stream of new material they will need later, selective notes restated in their own words, supported by a teacher-supplied outline that is withdrawn as skill grows and reviewed by recalling from them, are expected to beat no notes or verbatim notes; one claim tests guided notes, and none tests note-taking itself against no notes.",
    "id": "note-taking",
    "path": "principles/note-taking.md",
    "status": "review",
@@ -42346,10 +42346,10 @@
    "type": "principle"
   },
   {
-   "description": "Standardized tests can distort measured performance for specific groups through three distinct, documented mechanisms \u2014 biased item content and format, differential predictive accuracy, and stereotype threat \u2014 each requiring a different fix, and none reducible to \"the test is simply biased or not.\"",
+   "description": "A standardized test score is expected to support a selection or placement decision equally well across groups only where its items do not depend on group background, it predicts the later outcome equally accurately for each group, and the testing conditions do not depress one group's scores; no claim tests this relationship, and the claims bearing on it are second-hand testimony, narrative reviews, psychometric studies of item-bias methods and a values-affirmation intervention that did not replicate.",
    "id": "standardized-test-fairness-and-bias",
    "path": "principles/standardized-test-fairness-and-bias.md",
-   "status": "draft",
+   "status": "review",
    "title": "Standardized Test Fairness and Bias",
    "type": "principle"
   },
@@ -42410,7 +42410,7 @@
    "type": "principle"
   },
   {
-   "description": "Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached.",
+   "description": "An end-of-unit or end-of-course judgment is expected to report a capability fairly, and steer study towards it, when it samples the capability at the outcome's level with several tasks, uses criteria and a cut set in advance, follows low-stakes practice of the same thinking, and adds no demand such as speed or anxiety that the capability lacks; no claim here tests summative assessment as a design.",
    "id": "summative-assessment",
    "path": "principles/summative-assessment.md",
    "status": "review",
@@ -42458,10 +42458,10 @@
    "type": "principle"
   },
   {
-   "description": "Intellectual disability is defined by both cognitive capacity and adaptive functioning, and effective classroom support boils down to three general strategies \u2014 extra time and practice, embedding activities in daily-life context, and full inclusion in both social and academic activities.",
+   "description": "For a student with an intellectual disability who is not yet doing an age-appropriate academic or daily-life task, teaching it in small steps with more practice, specific feedback on what the student did, functional everyday contexts and full participation in the class is expected to raise performance and participation more than lowered expectations or separate, younger-age materials, though no claim in the wiki tests this combination; neighbouring claims test mastery pacing, mnemonics, self-determination instruction, student-led IEPs and praise.",
    "id": "supporting-students-with-intellectual-disabilities",
    "path": "principles/supporting-students-with-intellectual-disabilities.md",
-   "status": "draft",
+   "status": "review",
    "title": "Supporting Students with Intellectual Disabilities",
    "type": "principle"
   },

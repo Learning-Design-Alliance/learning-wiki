@@ -17,7 +17,7 @@ sources:
     title: "Paige, J. T., Arora, S., Fernandez, G., & Seymour, N. (2015). Debriefing 101. *The American Journal of Surgery, 209*(1), 126-131"
     author: "Paige, J. T., Arora, S., Fernandez, G., & Seymour, N"
   - id: secheresse-2021
-    resource: "https://doi.org/10.1016/j.nepr.2020.102967"
+    resource: "https://doi.org/10.1016/j.nepr.2020.102914"
     title: "Secheresse, T., Lima, L., & Pansu, P. (2021). Focusing on explicit debriefing for novice learners in healthcare simulations. *Nurse Education in Practice, 51*"
     author: "Secheresse, T., Lima, L., & Pansu, P"
 ---
@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size
+> **Evidence** · 16 claims (11 for, 5 mixed) · 31 studies (11 quant-synthesis, 10 causal, 4 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 31 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 

@@ -17,7 +17,7 @@ sources:
     title: "Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. *The Journal of Educational Research, 100*(2), 103-111"
     author: "Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A"
   - id: hughes-1994
-    resource: "https://doi.org/10.1177/002221949402700104"
+    resource: "https://doi.org/10.1177/002221949402700105"
     title: "Hughes, C. A., & Suritsky, S. K. (1994). Note-taking skills of university students with and without learning disabilities. *Journal of Learning Disabilities, 27*(1), 20-24"
     author: "Hughes, C. A., & Suritsky, S. K"
 ---
@@ -25,7 +25,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 9 report an effect size
+> **Evidence** · 14 claims (7 for, 7 mixed) · 27 studies (10 causal, 7 quant-synthesis, 5 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 7 of 27 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 

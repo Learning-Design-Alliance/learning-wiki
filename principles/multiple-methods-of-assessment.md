@@ -25,7 +25,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies (2 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 26 studies (6 causal, 6 review, 5 quant-synthesis, 4 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 4 of 26 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 

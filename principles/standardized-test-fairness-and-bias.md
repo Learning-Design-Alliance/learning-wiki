@@ -12,7 +12,7 @@ generated:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 25 claims (25 mixed) · 14 studies (5 causal, 4 review, 3 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 

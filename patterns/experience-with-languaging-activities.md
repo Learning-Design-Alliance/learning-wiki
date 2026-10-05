@@ -17,7 +17,7 @@ sources:
 # Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 12 claims (7 for, 5 mixed) · 20 studies (8 causal, 6 quant-synthesis, 5 review, 1 design), `q1`–`q4` · 8 of 20 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 

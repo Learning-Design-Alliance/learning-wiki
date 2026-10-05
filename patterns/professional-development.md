@@ -14,7 +14,7 @@ grain_size: program
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 quant-synthesis, 4 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 23 claims (11 for, 9 mixed, 3 against) · 22 studies (5 causal, 5 quant-synthesis, 5 review, 4 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 

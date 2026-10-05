@@ -12,7 +12,7 @@ generated:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 22 studies (8 causal, 5 quant-synthesis, 5 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 22 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
