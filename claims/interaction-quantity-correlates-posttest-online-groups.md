@@ -43,4 +43,4 @@ Correlational analysis within the same experiment relating observed interaction 
 
 
 ## Related Claims
-- [Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
+- [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related

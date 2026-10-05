@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Annotating improves learning
+title: "Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,15 @@ sources:
     rigour: 2
 ---
 
-# Annotating improves learning
+# Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i1` small
+<!-- deprecated title (2026-10-05, overstated its evidence): Annotating improves learning -->
 
-Learners who actively mark up texts — highlighting, underlining, margin notes, and other generative annotations — tend to process material more deeply than passive readers. The scope of this claim covers learner-generated annotations on text and multimedia, not instructor-supplied annotations.
+<!-- deprecated (2026-10-05, overstated its evidence): Learners who actively mark up texts — highlighting, underlining, margin notes, and other generative annotations — tend to process material more deeply than passive readers. The scope of this claim covers learner-generated annotations on text and multimedia, not instructor-supplied annotations. -->
+
+Both studies recorded here concern highlighting and underlining only. A meta-analysis found that learner-generated highlighting improved memory for text with a small effect (0.36) but not comprehension (0.20), and helped college students but not school students; a review of study techniques rated highlighting low utility. Neither tests elaborative annotation such as margin notes, summaries or questions, so the slug's broader "annotating" is not established here.
 
 ## Subclaims
 
@@ -69,7 +72,8 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 
 **Design implications.** Because unguided marking is unreliable, designers should pair annotation tasks with training in what to mark (e.g., modeling expert annotation), require elaborative annotations (summaries, questions, connections) rather than mere highlighting, and build in opportunities to revisit and use annotations for retrieval rather than re-reading. Structured annotation tasks fit naturally within [active learning](../principles/active-learning.md) sequences and can serve as an [activation step](activation-improves-learning.md) before discussion or problem-solving. They also align with [dual coding](../theories/dual-coding-theory.md) when annotations combine verbal notes with visual marks.
 
-**Status.** No evidence entries have been ingested for this claim yet. Until controlled or meta-analytic evidence is added, treat this as a plausible but unrated claim: the generative-processing rationale is well grounded in theory, but the empirical support — particularly for unguided highlighting — is contested in the study-strategies literature.
+**Status.** Two sources are recorded: a meta-analysis of 36 articles on highlighting (Ponce et al. 2022, read from its abstract) and a narrative review rating highlighting low utility (Dunlosky et al. 2013). Both concern highlighting and underlining. Evidence on elaborative annotation (margin notes, summaries, self-questions) is still missing, so the generative-processing rationale in the Mechanism paragraph is untested here.
+<!-- deprecated stale text (2026-10-05): **Status.** No evidence entries have been ingested for this claim yet. Until controlled or meta-analytic evidence is added, treat this as a plausible but unrated claim: the generative-processing rationale is well grounded in theory, but the empirical support — particularly for unguided highlighting — is contested in the study-strategies literature. -->
 
 ## Related Claims
 
@@ -81,5 +85,5 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — annotation must not add extraneous load on dense texts
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — reports the opposite
-- [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) — related
+- [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related

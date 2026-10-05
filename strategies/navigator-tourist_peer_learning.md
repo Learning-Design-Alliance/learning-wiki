@@ -12,7 +12,7 @@ generated:
 # Navigator-Tourist Peer Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Navigator-Tourist Peer Learning assigns complementary roles within a dyad or small group: learners who have demonstrated mastery ("navigators") guide learners still developing the skill ("tourists"). Navigators explain directions, diagnose confusion, and keep the pair on task; tourists ask clarifying questions, attempt problems, and articulate their reasoning back. The metaphor makes role expectations concrete and gives both partners an explicit, teachable job.

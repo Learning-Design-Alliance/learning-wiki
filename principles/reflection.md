@@ -13,7 +13,7 @@ generated:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (3 for, 6 mixed) · 13 studies (5 causal, 4 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (3 for, 6 mixed) · 15 studies (6 causal, 5 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q2`–`q4` · 4 of 15 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

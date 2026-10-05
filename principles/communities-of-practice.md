@@ -17,7 +17,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 14 studies (3 causal, 2 quant-synthesis, 2 review, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 0 of 14 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 16 studies (4 causal, 3 quant-synthesis, 2 review, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 1 of 16 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -70,7 +70,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal

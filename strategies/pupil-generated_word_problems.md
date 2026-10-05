@@ -12,7 +12,7 @@ generated:
 # Pupil-Generated Word Problems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Learners author their own word problems — selecting quantities, operations, contexts, and constraints — and then exchange, solve, and critique one another's problems. Problem posing reverses the usual direction of instruction: instead of decoding someone else's problem, learners must construct the semantic structure themselves, which forces them to attend to how quantities, relationships, and question sentences fit together.

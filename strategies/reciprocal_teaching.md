@@ -12,7 +12,7 @@ generated:
 # Reciprocal Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 12 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Reciprocal Teaching is a structured, collaborative reading-comprehension strategy in which small groups of learners rotate the role of discussion leader while applying four concrete strategies: **predicting** what comes next, **questioning** the group about the text, **clarifying** confusing words or ideas, and **summarizing** the main points. The teacher initially models each strategy through [Think-Aloud](../elements/think-aloud.md) demonstration, then progressively transfers responsibility to students as they take turns leading [Fading](../elements/fading.md).

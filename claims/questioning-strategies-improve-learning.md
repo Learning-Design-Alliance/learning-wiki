@@ -100,7 +100,7 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — question complexity must fit working-memory limits
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) — questions function as low-stakes formative assessment when paired with feedback
 - [Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
-- [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md) — related
+- [Discussion Quality Drives Comprehension](structured-discussion-methods-improve-comprehension.md) — related
 - [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — a narrower finding that bears on this claim
 - [Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers](higher-order-bloom-questions-rare.md) — related
 - [Increasing Wait Time Improves Response Quality](increasing-wait-time-improves-response-quality.md) — related

@@ -12,14 +12,14 @@ generated:
 # Hint Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 10 studies (5 quant-synthesis, 3 causal, 1 review, 1 theoretical), `q2`–`q4` · 5 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 11 studies (5 quant-synthesis, 3 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Hint design is the deliberate structuring of help so that learners receive the smallest increment of support needed to resume productive work. Hints are typically sequenced from general (pointing to relevant principles or strategies) to specific (revealing a step or the solution), and delivered on demand rather than automatically.
 
 ## Design Implications
 
-Well-designed hints keep learners in productive struggle rather than either floundering or copying [Hints that support self-explanation improve problem-solving outcomes.](../claims/self-explanation-improves-learning.md) [+M]. The critical design decision is the *first* hint: it should redirect attention or strategy, not supply the answer, because answer-giving short-circuits the retrieval and reasoning that produce learning [Retrieval practice strengthens retention more than restudy.](../claims/retrieval-practice-improves-retention.md) [+S]. Sequencing matters — a ladder of increasingly explicit hints lets learners exit at the level they need, which also gives instructors diagnostic information about where understanding breaks down.
+Well-designed hints keep learners in productive struggle rather than either floundering or copying [Hints that support self-explanation improve problem-solving outcomes.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The critical design decision is the *first* hint: it should redirect attention or strategy, not supply the answer, because answer-giving short-circuits the retrieval and reasoning that produce learning [Retrieval practice strengthens retention more than restudy.](../claims/retrieval-practice-improves-retention.md) [+S]. Sequencing matters — a ladder of increasingly explicit hints lets learners exit at the level they need, which also gives instructors diagnostic information about where understanding breaks down.
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 1. Analyze the task to identify common sticking points and the knowledge each requires.
 2. Write a hint ladder per sticking point: (a) a conceptual prompt pointing to the relevant principle, (b) a strategic prompt suggesting a first step, (c) a worked step or the solution with explanation.
 3. Gate delivery: require an attempt or a stated question before the first hint.
-4. Phrase early hints as questions that prompt self-explanation rather than statements [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-learning.md) [+M].
+4. Phrase early hints as questions that prompt self-explanation rather than statements [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 5. Log hint usage and use it diagnostically — frequent bottom-rung use signals a task or instruction problem, not a learner problem.
 6. Fade hint availability as learners gain competence, consistent with the [expertise-reversal effect](../theories/expertise-reversal-effect.md).
 

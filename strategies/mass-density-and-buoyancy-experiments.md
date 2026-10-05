@@ -12,7 +12,7 @@ generated:
 # Mass, Density, and Buoyancy Experiments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Mass, density, and buoyancy experiments are hands-on physical science activities in which learners investigate how an object's mass and density affect whether — and how deeply — it floats in different liquids. Typical tasks include comparing a pencil's buoyancy in freshwater versus saltwater, weighing various balls, and measuring the water they displace. The goal is to connect observable phenomena (floating, sinking, water level) to the underlying quantitative relationships (mass, volume, density, displaced fluid).

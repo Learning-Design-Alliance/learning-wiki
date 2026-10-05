@@ -25,11 +25,13 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=56 studies / 88 pairwise comparisons
 
-Presenting continuous multimedia material (e.g., a narrated animation) in learner-paced segments rather than as a continuous unit reduces cognitive overload and improves learning.
+Presenting continuous multimedia material (e.g., a narrated animation) in segments rather than as a continuous unit reduces cognitive load and improves retention and transfer. The segmenting effect is usually defined for learner-paced segments, but in the one meta-analysis recorded here the effects on retention, transfer, cognitive load and learning time held specifically for system-paced segmentation.
+<!-- deprecated (2026-10-05, the entry reports the effects for system-paced segmentation): Presenting continuous multimedia material (e.g., a narrated animation) in learner-paced segments rather than as a continuous unit reduces cognitive overload and improves learning. -->
 
 ## Subclaims
 
-`q4 i?` A meta-analysis of 56 studies (88 pairwise comparisons) finds a significant segmenting effect — learner- or system-paced segmentation of multimedia instruction improves retention and transfer versus continuous presentation, with reported effects described as small to medium. [→ Rey et al. 2019](#rey-et-al-2019)
+`q4 i?` A meta-analysis of 56 studies (88 pairwise comparisons) finds a significant segmenting effect — segmentation of multimedia instruction improves retention and transfer versus continuous presentation, with effects described as small to medium, and these effects held specifically for system-paced segmentation; learners with high prior knowledge benefited more on retention than learners with low or no prior knowledge. [→ Rey et al. 2019](#rey-et-al-2019)
+<!-- deprecated (2026-10-05, did not say the effects held for system-paced segmentation): `q4 i?` A meta-analysis of 56 studies (88 pairwise comparisons) finds a significant segmenting effect — learner- or system-paced segmentation of multimedia instruction improves retention and transfer versus continuous presentation, with reported effects described as small to medium. -->
 
 ## Evidence
 
@@ -49,7 +51,8 @@ A meta-analysis of 56 investigations (88 pairwise comparisons) testing whether p
 
 **Design implications.** In practice, segmenting pairs naturally with other load-management moves: adding [advance organizers](../elements/advance-organizers.md) before each segment orients learners to what is coming, and brief summaries or [check-ins](../elements/check-in.md) between segments can consolidate each processing cycle. Video platforms that expose chapter markers and playback-speed control (e.g., YouTube chapters, Khan Academy's lesson-split videos, Coursera's segmented lecture units) operationalize learner-paced segmenting at scale. Designers should resist the temptation to equate "segmented" with "short" — a segment that ends mid-causal-chain can be worse than a longer continuous presentation, because it forces re-activation of incomplete models at each restart.
 
-**Status.** This page currently has no evidence entries. Studies still need to be added before the claim can be rated; the strength field is intentionally left blank.
+**Status.** One study is recorded: the Rey et al. (2019) meta-analysis of 56 studies, read from what was available without a pooled effect size, so the size of the effect is not coded (`i?`). Primary experiments, a pooled effect size, and evidence on learner-paced versus system-paced segmentation are still missing. Note that its prior-knowledge moderator runs against the novice-first boundary condition below: on retention, learners with high prior knowledge benefited more than those with low or no prior knowledge.
+<!-- deprecated (2026-10-05, stale beside an existing entry): **Status.** This page currently has no evidence entries. Studies still need to be added before the claim can be rated; the strength field is intentionally left blank. -->
 
 *Merged from “Segmenting Principle Improves Multimedia Learning” (segmenting-principle-improves-multimedia-learning):* **Mechanism.** Segmenting is grounded in cognitive load theory: continuous animations with narration impose extraneous load because essential processing of one element may be interrupted by the arrival of the next. Segmenting — often operationalized as "continue" buttons after each segment — gives learners time to complete essential processing before moving on. It is closely related to [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) and to pre-training, which achieves a similar effect by front-loading component names and characteristics. Both segmenting and pre-training address the same underlying problem described in [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md): essential processing exceeding working memory capacity.
 

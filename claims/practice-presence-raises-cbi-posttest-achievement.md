@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Including practice with feedback in computer-based instruction significantly raises posttest achievement
-description: Including practice with feedback in computer-based instruction significantly raises posttest achievement
+title: "In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice"
+description: "In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice"
 id: practice-presence-raises-cbi-posttest-achievement
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Including practice with feedback in computer-based instruction significantly raises posttest achievement
+# In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Including practice with feedback in computer-based instruction significantly raises posttest achievement -->
 
 ## Subclaims
 `q3 i?` The four treatment versions that included practice scored significantly higher on the posttest than the two versions without practice. [→ Martin 2003](#martin-2003)
@@ -42,6 +43,7 @@ Experiment with 256 undergraduate computer literacy students randomly assigned w
 
 ## Discussion
 
+The one study recorded here varied which instructional events a computer-based lesson included; its entry describes practice being present or absent and says nothing about the feedback given during practice, so it cannot separate practice from feedback. The size of the difference is not established: the entry prints an F test and group means but no effect size.
 
 ## Related Claims
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — a narrower finding that bears on this claim

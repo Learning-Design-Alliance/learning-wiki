@@ -17,13 +17,13 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 8 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Observation and shadowing are learning designs in which learners watch peers, experts, or practitioners perform authentic work in order to notice strategies, decisions, routines, and contextual demands that are difficult to infer from explanation alone. When structured well, observation is not passive. Learners attend to specific questions, compare what they saw to explicit models, and use the experience to inform their own later performance. Shadowing is especially useful when expertise includes tacit judgment, timing, interaction, or situated problem solving.
 
 ## Implications
-Observation and shadowing are useful because some aspects of expertise are easier to see than to explain. Watching real or realistic performance can expose timing, judgment, interaction, and workflow that would remain hidden in abstract instruction, especially for newcomers to a practice, and observing whole performances can prepare learners for later transfer better than fragmented exposure alone [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]. But observation becomes educative only when learners know what to watch for and later explain what they saw [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. Without prompts, debriefing, and coached interpretation, shadowing can remain passive exposure rather than responsive support for later performance [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
+Observation and shadowing are useful because some aspects of expertise are easier to see than to explain. Watching real or realistic performance can expose timing, judgment, interaction, and workflow that would remain hidden in abstract instruction, especially for newcomers to a practice, and observing whole performances can prepare learners for later transfer better than fragmented exposure alone [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M]. But observation becomes educative only when learners know what to watch for and later explain what they saw [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. Without prompts, debriefing, and coached interpretation, shadowing can remain passive exposure rather than responsive support for later performance [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -59,7 +59,7 @@ Observation and shadowing are useful because some aspects of expertise are easie
 - Learners may misread what they saw unless tacit decisions are surfaced explicitly.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — observing whole authentic performances can prepare learners for later participation better than fragmented exposure alone
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — observing whole authentic performances can prepare learners for later participation better than fragmented exposure alone
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — shadowing becomes more educative when observation is paired with guided interpretation and responsive debrief
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners gain more from observation when they explain what they saw and why it mattered
 

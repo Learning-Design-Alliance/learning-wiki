@@ -12,7 +12,7 @@ generated:
 # Self-Evaluation in Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Self-evaluation involves teaching students how to review their writing to decide if changes are needed. By modeling when to stop and evaluate writing and providing specific questions to ask about each paragraph, students learn to identify areas for improvement. It is a core self-regulation behavior: writers who can judge their own drafts against criteria need less external feedback and can revise independently.

@@ -29,7 +29,7 @@ sources:
 # Teaching as Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (8 for, 1 against) · 17 studies (8 quant-synthesis, 5 causal, 4 associational), `q2`–`q4` · 5 of 17 report an effect size
+> **Evidence** · 9 claims (8 for, 1 against) · 19 studies (9 quant-synthesis, 6 causal, 4 associational), `q2`–`q4` · 6 of 19 report an effect size
 
 ## Description
 Teaching as learning assigns a learner responsibility for explaining material to someone else, and treats that responsibility as the instructional intervention. The learner studies with the knowledge that they will have to present, then delivers the explanation to a peer, a younger student, a camera, or a software agent. The gain accrues to the *teacher*, not the audience: preparing to explain forces the learner to organize the material into something transmissible, and delivering the explanation exposes every place where the organization was incomplete.
@@ -46,7 +46,7 @@ What determines size of benefit is what the tutor actually does while teaching. 
 - Delivery without notes or slides to read from, so the explanation must be generated rather than transmitted ([Articulation](../elements/articulation.md))
 - Questions from the audience, or a prompt structure that forces reasoning rather than restatement ([Eliciting Student Thinking](../elements/eliciting-student-thinking.md))
 - A correctness check after teaching, since a confident wrong explanation is otherwise reinforced ([Feedback](../elements/feedback.md))
-- Material the learner can plausibly master to the point of explaining — the strategy needs a floor of prior knowledge [Activation Improves Learning](../claims/activation-improves-learning.md) [+M]
+- Material the learner can plausibly master to the point of explaining — the strategy needs a floor of prior knowledge [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
 
 #### Constraints
 - Without prompts that require reasoning, tutors default to summarizing, and summarizing produces little learning for the tutor [-M]

@@ -44,7 +44,7 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 
 ## Related Claims
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
-- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaved-practice-improves-retention.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related

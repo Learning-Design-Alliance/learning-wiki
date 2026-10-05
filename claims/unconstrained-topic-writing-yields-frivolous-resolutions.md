@@ -63,5 +63,5 @@ The author recounts a final round at a recent tournament where the resolution ab
 
 ## Related Claims
 - [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
-- [Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related
+- [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related

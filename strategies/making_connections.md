@@ -12,7 +12,7 @@ generated:
 # Making Connections
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Making connections is a strategy in which learners deliberately relate new material to what they already know — to their own experiences (text-to-self), to other texts or domains (text-to-text), or to real-world events and situations (text-to-world). It is carried out through prompts, discussion, or structured activities that require learners to generate the link themselves rather than having it supplied, converting new information from isolated facts into a networked knowledge structure.

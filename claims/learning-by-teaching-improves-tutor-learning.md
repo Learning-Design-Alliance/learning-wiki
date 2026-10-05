@@ -98,7 +98,7 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — like teaching, case work requires learners to organize and apply knowledge in context.
 - [Cognitive load management](cognitive-load-management.md) — explaining imposes generative load on the tutor; baseline knowledge determines whether that load is productive or overwhelming.
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — scaffolds for tutors (reference sheets, scripted prompts) manage the generative load of explaining.
-- [Annotating improves learning](annotating-improves-learning.md) — like teaching, annotating is a generative activity that forces learners to transform and restate material in their own words.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — like teaching, annotating is a generative activity that forces learners to transform and restate material in their own words.
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — peer tutoring and reciprocal teaching are structured collaborative formats in which the teaching role is assigned.
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — unprepared tutors can be overloaded by the demands of explaining, a key constraint on the effect.
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — preparing to teach functions as a demanding retrieval and organization task, a proposed mechanism for the effect.

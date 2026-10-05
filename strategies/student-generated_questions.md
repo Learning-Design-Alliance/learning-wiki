@@ -12,7 +12,7 @@ generated:
 # Student-Generated Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Student-generated questions place learners in the role of question-askers rather than question-answerers: students formulate the questions that drive a project, investigation, or discussion, then pursue answers through research, experimentation, or dialogue. The strategy converts curiosity into an explicit artifact — a question — that structures subsequent inquiry and gives students ownership over the direction of learning.

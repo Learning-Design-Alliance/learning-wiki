@@ -8,10 +8,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,423 |
-| Evidence entries | 4,248 |
+| Claims | 3,415 |
+| Evidence entries | 4,235 |
 | Distinct studies | 1,170 |
-| Claims resting on one study | 3,208 (94%) |
+| Claims resting on one study | 3,205 (94%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 338 of 1,170 (29%) |
 
@@ -19,12 +19,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 89 | 76 | 101 | 272 |
+| causal | 6 | 89 | 75 | 101 | 271 |
 | quant-synthesis | 9 | 43 | 3 | 112 | 167 |
 | review | 9 | 63 | 28 | 43 | 143 |
 | associational | 0 | 56 | 82 | 15 | 153 |
 | qualitative | 37 | 72 | 11 | 8 | 128 |
-| design | 9 | 92 | 37 | 1 | 139 |
+| design | 9 | 93 | 37 | 1 | 140 |
 | theoretical | 21 | 116 | 12 | 19 | 168 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
@@ -33,7 +33,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|
 | 207 (18%) | 581 (50%) | 301 (26%) | 81 (7%) |
 
-**Studies per claim:** 0: 0, 1: 3,208, 2: 158, 3: 53, 4 or more: 4.
+**Studies per claim:** 0: 0, 1: 3,205, 2: 154, 3: 51, 4 or more: 5.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -71,7 +71,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | Claim | Cited from | Studies | q | Effect size reported |
 |---|---|---|---|---|
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 642 pages | 3 | q2–q3 | 0 of 3 |
-| [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 507 pages | 2 | q2–q3 | 0 of 2 |
+| [Self-explanation improves conceptual understanding and problem-solving performance.](claims/self-explanation-improves-conceptual-understanding.md) | 527 pages | 4 | q2–q4 | 1 of 4 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 431 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 421 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 366 pages | 2 | q3–q4 | 1 of 2 |
@@ -84,7 +84,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 189 pages | 2 | q3 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 182 pages | 1 | q3 | 0 of 1 |
-| [Activation Improves Learning](claims/activation-improves-learning.md) | 170 pages | 3 | q3 | 1 of 3 |
+| [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 170 pages | 3 | q3 | 1 of 3 |
 | [Multiple Contrasting Cases Support Abstraction](claims/multiple-contrasting-cases-support-abstraction.md) | 163 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 125 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
@@ -96,7 +96,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Comparing Contrasting Cases Improves Learning](claims/comparing-contrasting-cases-improves-learning.md) | 85 pages | 3 | q3–q4 | 1 of 3 |
 | [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
 
-Of the 40 claims cited from 50 or more pages, **8 rest on one study or none**: [Example-problem sequences reduce cognitive load and improve learning …](claims/example-problem-sequences-reduce-cognitive-load.md), [Instructional guidance that helps novices can become redundant or …](claims/expertise-reversal-effect.md), [Different media combinations significantly affect the recall and …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [Specific, difficult goals lead to higher performance than easy or …](claims/specific-difficult-goals-lead-to-higher-performance.md), [Whole-task performance improves transfer of complex skills to …](claims/whole-task-performance-improves-transfer.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
+Of the 40 claims cited from 50 or more pages, **8 rest on one study or none**: [Example-problem sequences reduce cognitive load and improve learning …](claims/example-problem-sequences-reduce-cognitive-load.md), [Instructional guidance that helps novices can become redundant or …](claims/expertise-reversal-effect.md), [Different media combinations significantly affect the recall and …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [Specific, difficult goals lead to higher performance than easy or …](claims/specific-difficult-goals-lead-to-higher-performance.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
 ## Contested claims
 
@@ -116,6 +116,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 47 | 1 | 9 | 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 291 | 23 | 8 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 11 | 7 | 1 |
+| [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 0 | 6 | 3 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 1 | 0 | 4 | 1 |
 | [Rewarding an already-intrinsically-motivating activity can reduce future engagement with …](claims/overjustification-effect-reduces-intrinsic-motivation.md) | 1 | 1 | 4 | 4 |
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
@@ -125,7 +126,6 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 8 | 3 | 2 |
 | [Social media tools plugged into learning management systems are presented as "social …](claims/social-media-tools-misappropriated-as-social-learning.md) | 1 | 0 | 3 | 1 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 184 | 10 | 2 | 2 |
-| [The complexity of coaching responsibilities may fragment the coaching process and reduce …](claims/coaching-complexity-may-fragment-impact.md) | 1 | 1 | 2 | 1 |
 
 ## Evidence by kind of page
 

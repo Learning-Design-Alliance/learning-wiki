@@ -77,6 +77,6 @@ A monograph by five cognitive/educational psychologists reviewing the empirical 
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — low-effort strategies fail because they do not engage the resources needed for durable encoding
 - [Headings and highlight strategy](../strategies/headings-and-highlight-strategy-variant.md) — a structured use of highlighting embedded in a larger strategy.
 - [Von Restorff effect — text marking](../theories/von-restorff-effect-text-marking.md) — why salient, distinctive marks capture attention but do not guarantee encoding.
-- [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) — related
+- [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related

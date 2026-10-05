@@ -12,7 +12,7 @@ generated:
 # Instructor and Peer Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 This strategy pairs two feedback sources: instructor feedback, which carries expert authority and diagnostic depth, and structured peer feedback, in which learners evaluate one another's work against explicit criteria. The combination is not additive but complementary — the instructor models quality judgments, and peers rehearse those judgments on authentic work while receiving more frequent, more timely input than an instructor alone can provide.

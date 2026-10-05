@@ -12,14 +12,14 @@ generated:
 # Reciprocal Questioning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies (6 quant-synthesis, 3 causal, 2 review, 1 qualitative), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Reciprocal questioning asks learners to formulate questions about material they have just read or studied and to pose those questions to peers, who answer and discuss. The questioner role rotates, so every learner alternates between generating questions and responding to them. It is a core component of [Reciprocal Teaching](../elements/reciprocal-teaching.md) (alongside predicting, clarifying, and summarizing) and can also be run standalone as "question generation" or "reQuest" activities.
 
 ## Design Implications
 
-Generating a question requires learners to identify the main ideas, gaps, and relationships in the material — a generative processing activity that outperforms rereading [Generating explanations and self-explanations improves learning.](../claims/self-explanation-improves-learning.md) [+S]. Answering peers' questions adds retrieval practice and exposes learners to alternative framings of the same content. Because question quality reveals comprehension, the strategy also functions as formative assessment: a vague question signals a vague understanding [Assessment that feeds forward improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M].
+Generating a question requires learners to identify the main ideas, gaps, and relationships in the material — a generative processing activity that outperforms rereading [Generating explanations and self-explanations improves learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Answering peers' questions adds retrieval practice and exposes learners to alternative framings of the same content. Because question quality reveals comprehension, the strategy also functions as formative assessment: a vague question signals a vague understanding [Assessment that feeds forward improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M].
 
 ### Context
 #### Requirements

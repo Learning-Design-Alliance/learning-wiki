@@ -25,14 +25,14 @@ sources:
 # Worked Examples First
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (5 causal, 4 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Worked Examples First is a sequencing strategy: before learners attempt problems on their own, they study one or more fully solved, step-annotated examples of the same problem type. The example substitutes for early problem solving, showing both the procedure and the reasoning behind each step, and is typically followed by a similar problem the learner solves independently.
 
 ## Design Implications
 
-For novices, unguided problem solving forces working memory to be spent on search — trying solution paths, backtracking, and holding partial results — rather than on building a schema for the problem type [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]. Studying a worked example externalizes those intermediate states, letting learners attend to *why* each step follows from the last. The strategy works best when learners actively self-explain the steps rather than passively read them [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-learning.md) [+S], and when each example is immediately paired with a problem to solve [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
+For novices, unguided problem solving forces working memory to be spent on search — trying solution paths, backtracking, and holding partial results — rather than on building a schema for the problem type [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+S]. Studying a worked example externalizes those intermediate states, letting learners attend to *why* each step follows from the last. The strategy works best when learners actively self-explain the steps rather than passively read them [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and when each example is immediately paired with a problem to solve [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 
 ### Context
 #### Requirements
@@ -65,7 +65,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 
 ### Instructions
 1. Select or write a fully solved example isomorphic to the target problem type, with each step annotated with its rationale.
-2. Present the example first, integrated with any diagram, and prompt learners to self-explain key steps [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-learning.md) [+S].
+2. Present the example first, integrated with any diagram, and prompt learners to self-explain key steps [Self-explanation prompts improve learning from worked examples.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 3. Immediately follow with an isomorphic problem the learner solves alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S].
 4. Fade support across the sequence: full example → completion problem → full problem ([Fading](../elements/fading.md)).
 5. As expertise grows, drop examples and shift to unsupported problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S].

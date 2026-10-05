@@ -1,14 +1,14 @@
 {
  "coverage": {
-  "claims->claims": 3409,
+  "claims->claims": 3401,
   "claims->designs": 13,
-  "claims->elements": 117,
+  "claims->elements": 115,
   "claims->learner-variables": 1,
   "claims->methods": 3,
-  "claims->patterns": 78,
-  "claims->principles": 122,
+  "claims->patterns": 76,
+  "claims->principles": 119,
   "claims->processes": 3,
-  "claims->theories": 220,
+  "claims->theories": 216,
   "designs->claims": 93,
   "designs->designs": 27,
   "designs->elements": 26,
@@ -1034,7 +1034,7 @@
       "slug": "seductive-details-effect"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-monitoring-comprehension-improves-learning"
@@ -1945,9 +1945,6 @@
       "slug": "discussion-promotes-more-active-thought-than-lecture"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "peer-assisted-learning-improves-learning-outcomes"
      },
      {
@@ -1955,6 +1952,9 @@
      },
      {
       "slug": "peer-reflective-groups-challenge-student-teacher-views"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
      }
     ]
    },
@@ -2166,7 +2166,7 @@
      },
      {
       "polarity": "+",
-      "slug": "self-explanation-improves-learning",
+      "slug": "self-explanation-improves-conceptual-understanding",
       "strength": "S"
      },
      {
@@ -2183,9 +2183,6 @@
      },
      {
       "slug": "spaced-retrieval-outperforms-restudy"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
@@ -4380,9 +4377,6 @@
       "slug": "developed-schema-higher-recall"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "dual-coding-improves-learning"
      },
      {
@@ -5744,9 +5738,6 @@
       "slug": "fiction-reading-improves-empathy"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
       "slug": "interleaving-improves-inductive-learning"
      },
      {
@@ -5792,7 +5783,7 @@
       "slug": "reading-literary-fiction-improves-theory-of-mind"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "spatial-skills-improve-through-block-building"
@@ -6204,7 +6195,7 @@
       "slug": "scaffolded-close-reading-improves-comprehension-for-struggling-readers"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-monitoring-comprehension-improves-learning"
@@ -6556,9 +6547,6 @@
       "slug": "considering-the-opposite-reduces-bias"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "explicit-reasoning-instruction-preliminary-large-gains"
      },
      {
@@ -6566,9 +6554,6 @@
      },
      {
       "slug": "peer-feedback-improves-writing"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
@@ -6780,13 +6765,7 @@
       "slug": "argumentation-improves-reasoning"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "reliability-challenges-epistemic-games"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
@@ -17437,7 +17416,7 @@
       "slug": "intellectual-test-performances-correlated"
      },
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "learning-styles-matching-does-not-improve-learning"
      },
      {
       "slug": "mi-lacks-empirical-theory-testing"
@@ -17517,7 +17496,7 @@
       "slug": "reflective-practice-evidence-mixed-in-professional-education"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "simulation-based-education-improves-outcomes"
@@ -18667,9 +18646,6 @@
       "slug": "feedback-answers-three-questions"
      },
      {
-      "slug": "lateral-reading-improves-source-evaluation"
-     },
-     {
       "slug": "peer-assessment-benefits-assessor"
      },
      {
@@ -19288,16 +19264,10 @@
       "slug": "incidental-vocabulary-exposure-limited"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
       "slug": "interleaving-improves-discrimination"
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -19477,15 +19447,9 @@
       "slug": "segmenting-improves-multimedia-learning"
      },
      {
-      "slug": "self-explanation-improves-conceptual-understanding"
-     },
-     {
       "polarity": "+",
-      "slug": "self-explanation-improves-learning",
+      "slug": "self-explanation-improves-conceptual-understanding",
       "strength": "M"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
      },
      {
       "slug": "self-monitoring-comprehension-improves-learning"
@@ -23084,9 +23048,6 @@
      },
      {
       "slug": "disciplinary-literacy-instruction-improves-comprehension"
-     },
-     {
-      "slug": "lateral-reading-improves-source-evaluation"
      }
     ],
     "elements": [
@@ -24332,9 +24293,6 @@
       "slug": "direct-instruction-improves-outcomes"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "feedback-improves-learning"
      },
      {
@@ -24389,6 +24347,9 @@
      },
      {
       "slug": "simulation-based-education-improves-outcomes"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
@@ -25586,9 +25547,6 @@
       "slug": "desirable-difficulties-enhance-learning"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "feedback-improves-learning"
      },
      {
@@ -25650,7 +25608,7 @@
       "slug": "questioning-strategies-improve-learning"
      },
      {
-      "slug": "structured-discussion-approaches-improve-comprehension"
+      "slug": "structured-discussion-methods-improve-comprehension"
      }
     ],
     "elements": [
@@ -26432,7 +26390,7 @@
       "slug": "segmenting-improves-multimedia-learning"
      },
      {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "small-group-learning-improves-stem-achievement"
@@ -26549,9 +26507,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-learning"
-     },
-     {
       "slug": "joint-book-reading-predicts-literacy-success"
      },
      {
@@ -26627,7 +26582,7 @@
       "slug": "self-assessment-improves-self-regulated-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-regulated-learning-improves-achievement"
@@ -26872,10 +26827,10 @@
       "slug": "highlighting-low-utility"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-discrimination"
      },
      {
-      "slug": "interleaving-improves-discrimination"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -27033,11 +26988,8 @@
      },
      {
       "polarity": "-",
-      "slug": "self-explanation-improves-learning",
+      "slug": "self-explanation-improves-conceptual-understanding",
       "strength": "M"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
      },
      {
       "slug": "self-monitoring-comprehension-improves-learning"
@@ -29170,7 +29122,7 @@
       "slug": "segmenting-improves-multimedia-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "signaling-improves-learning"
@@ -29544,9 +29496,6 @@
       "slug": "dialogic-reading-improves-expressive-language"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
@@ -29604,9 +29553,6 @@
      },
      {
       "slug": "small-group-learning-improves-stem-achievement"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
@@ -34066,10 +34012,7 @@
       "slug": "real-time-dynamic-analyses-inform-user-models"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      }
     ],
     "elements": [
@@ -35810,10 +35753,10 @@
       "slug": "critics-weak-reflective-observation-phase"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
+      "slug": "institutionalization-criterion-dropped-mle"
      },
      {
-      "slug": "institutionalization-criterion-dropped-mle"
+      "slug": "structured-discussion-methods-improve-comprehension"
      }
     ],
     "theories": [
@@ -38173,7 +38116,7 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -39723,78 +39666,6 @@
      {
       "polarity": "~",
       "slug": "active-learning",
-      "strength": "M"
-     }
-    ]
-   },
-   "discussion-quality-drives-comprehension": {
-    "claims": [
-     {
-      "slug": "active-collaborative-approaches-higher-order-thinking"
-     },
-     {
-      "slug": "advance-organizers-improve-learning"
-     },
-     {
-      "slug": "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence"
-     },
-     {
-      "slug": "critical-thinking-quality-mle"
-     },
-     {
-      "slug": "peer-discussion-improves-conceptual-understanding"
-     },
-     {
-      "slug": "questioning-strategies-improve-learning"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
-     },
-     {
-      "slug": "structured-discussion-methods-improve-comprehension"
-     },
-     {
-      "slug": "teacher-responses-can-close-off-pupil-thinking"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "collaborative-discussion",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "discussion",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "seminar-format",
-      "strength": "S"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "debate",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "structured-academic-controversy",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "norm_setting",
       "strength": "M"
      }
     ]
@@ -42790,10 +42661,7 @@
       "slug": "revised-prompts-advance-sophisticated-analysis"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      }
     ],
     "principles": [
@@ -43445,7 +43313,7 @@
       "slug": "questioning-strategies-improve-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "students-adjust-easily-to-busier-text-pages"
@@ -44770,12 +44638,6 @@
      },
      {
       "slug": "self-explanation-improves-conceptual-understanding"
-     },
-     {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
      },
      {
       "slug": "worked-examples-improve-math-performance"
@@ -55964,10 +55826,7 @@
       "slug": "self-analysis-knowledge-drives-teacher-change"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      }
     ],
     "strategies": [
@@ -55998,10 +55857,7 @@
       "slug": "generative-processing-improves-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      }
     ],
     "principles": [
@@ -56037,10 +55893,7 @@
       "slug": "learner-beliefs-influence-mental-effort-media-processing"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "task-essentialness-goal-directed-vocabulary-retention"
@@ -62681,7 +62534,7 @@
       "slug": "high-scorers-across-intelligences-support-g"
      },
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "learning-styles-matching-does-not-improve-learning"
      },
      {
       "slug": "mi-lacks-empirical-theory-testing"
@@ -62729,7 +62582,7 @@
       "slug": "high-scorers-across-intelligences-support-g"
      },
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "learning-styles-matching-does-not-improve-learning"
      },
      {
       "slug": "multiple-intelligences-weak-on-science-talent"
@@ -63498,75 +63351,10 @@
      }
     ]
    },
-   "interleaved-practice-improves-retention": {
-    "claims": [
-     {
-      "slug": "desirable-difficulties-enhance-learning"
-     },
-     {
-      "slug": "interleaving-improves-discrimination"
-     },
-     {
-      "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
-      "slug": "learning-rate-retention-tradeoff"
-     },
-     {
-      "slug": "spaced-practice-improves-retention"
-     },
-     {
-      "slug": "spaced-repetition-improves-retention"
-     },
-     {
-      "slug": "task-repetition-fluency-complexity-same-task-only"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "~",
-      "slug": "practice",
-      "strength": "M"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "concept-attainment",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "spaced-learning",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "interleaving",
-      "strength": "S"
-     }
-    ]
-   },
    "interleaving-improves-discrimination": {
     "claims": [
      {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -63593,38 +63381,10 @@
    "interleaving-improves-inductive-learning": {
     "claims": [
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "desirable-difficulties-enhance-learning"
      },
      {
       "slug": "interleaving-improves-discrimination"
-     },
-     {
-      "slug": "interleaving-improves-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
-      "slug": "spaced-repetition-improves-retention"
-     },
-     {
-      "slug": "task-type-moderates-induction-error-usefulness"
-     },
-     {
-      "slug": "task-variety-enables-transfer-same-task-type"
-     }
-    ]
-   },
-   "interleaving-improves-learning": {
-    "claims": [
-     {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
-      "slug": "interleaving-improves-discrimination"
-     },
-     {
-      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -63635,7 +63395,29 @@
       "strength": "S"
      },
      {
+      "slug": "learning-rate-retention-tradeoff"
+     },
+     {
       "slug": "spaced-practice-improves-retention"
+     },
+     {
+      "slug": "spaced-repetition-improves-retention"
+     },
+     {
+      "slug": "task-repetition-fluency-complexity-same-task-only"
+     },
+     {
+      "slug": "task-type-moderates-induction-error-usefulness"
+     },
+     {
+      "slug": "task-variety-enables-transfer-same-task-type"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "practice",
+      "strength": "M"
      }
     ],
     "learner-variables": [
@@ -63643,6 +63425,27 @@
       "polarity": "+",
       "slug": "time-and-continuity",
       "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "concept-attainment",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "M"
+     }
+    ],
+    "strategies": [
+     {
+      "polarity": "+",
+      "slug": "interleaving",
+      "strength": "S"
      }
     ]
    },
@@ -63658,16 +63461,10 @@
       "slug": "desirable-difficulties-enhance-learning"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
       "slug": "interleaving-improves-discrimination"
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
      },
      {
       "slug": "learners-misjudge-effective-learning-strategies"
@@ -66364,7 +66161,7 @@
    "larger-class-size-poorer-performance": {
     "claims": [
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "learning-styles-matching-does-not-improve-learning"
      }
     ]
    },
@@ -66467,37 +66264,6 @@
       "polarity": "+",
       "slug": "item-position-effects-interaction-definition",
       "strength": "W"
-     }
-    ]
-   },
-   "lateral-reading-improves-source-evaluation": {
-    "claims": [
-     {
-      "slug": "checklist-evaluation-ineffective-online"
-     },
-     {
-      "slug": "civic-online-reasoning-instruction-improves-evaluation"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "information-literacy",
-      "strength": "S"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "epistemic-cognition",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "sift_method",
-      "strength": "S"
      }
     ]
    },
@@ -67790,7 +67556,7 @@
       "slug": "desirable-difficulty-enhances-long-term-retention"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -67915,7 +67681,22 @@
    "learning-styles-matching-does-not-improve-learning": {
     "claims": [
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "carroll-data-support-hierarchical-g-model"
+     },
+     {
+      "slug": "intellectual-test-performances-correlated"
+     },
+     {
+      "slug": "intelligences-not-interchangeable"
+     },
+     {
+      "slug": "larger-class-size-poorer-performance"
+     },
+     {
+      "slug": "mi-lacks-empirical-theory-testing"
+     },
+     {
+      "slug": "style-distinct-from-intelligence-level"
      },
      {
       "slug": "stylistic-cognitive-rigidity-reduces-adoption-of-opposites"
@@ -67933,6 +67714,11 @@
       "polarity": "-",
       "slug": "adaptive-learning",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "implement-research-based-pedagogy-not-untested-theories",
+      "strength": "M"
      },
      {
       "polarity": "-",
@@ -67953,6 +67739,13 @@
      },
      {
       "slug": "respect_diverse_talents_and_ways_of_learning"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "mi-theory-eight-intelligences-taxonomy",
+      "strength": "M"
      }
     ]
    },
@@ -71139,45 +70932,6 @@
      }
     ]
    },
-   "matching-instruction-to-styles-no-effect": {
-    "claims": [
-     {
-      "slug": "carroll-data-support-hierarchical-g-model"
-     },
-     {
-      "slug": "intellectual-test-performances-correlated"
-     },
-     {
-      "slug": "intelligences-not-interchangeable"
-     },
-     {
-      "slug": "larger-class-size-poorer-performance"
-     },
-     {
-      "slug": "learning-styles-matching-does-not-improve-learning"
-     },
-     {
-      "slug": "mi-lacks-empirical-theory-testing"
-     },
-     {
-      "slug": "style-distinct-from-intelligence-level"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "implement-research-based-pedagogy-not-untested-theories",
-      "strength": "M"
-     }
-    ],
-    "theories": [
-     {
-      "polarity": "-",
-      "slug": "mi-theory-eight-intelligences-taxonomy",
-      "strength": "M"
-     }
-    ]
-   },
    "material-arrangement-affords-stability": {
     "claims": [
      {
@@ -73559,7 +73313,7 @@
       "slug": "intellectual-test-performances-correlated"
      },
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "learning-styles-matching-does-not-improve-learning"
      },
      {
       "slug": "multiple-intelligences-weak-on-science-talent"
@@ -83536,9 +83290,6 @@
       "slug": "discussion-promotes-more-active-thought-than-lecture"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "group-tasks-most-frequent-active-learning-activity"
      },
      {
@@ -83558,6 +83309,9 @@
      },
      {
       "slug": "positioning-students-as-sources-increases-productive-participation-in-science-discourse"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
      }
     ],
     "designs": [
@@ -90835,9 +90589,6 @@
       "slug": "direct-experience-questions-stimulate-thinking"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "embedded-aids-support-cross-disciplinary-transfer-of-reading-skills"
      },
      {
@@ -90854,6 +90605,9 @@
      },
      {
       "slug": "self-questioning-improves-comprehension"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
      }
     ]
    },
@@ -91290,9 +91044,6 @@
      },
      {
       "slug": "self-questioning-improves-comprehension"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
@@ -100209,16 +99960,45 @@
       "slug": "contingent-scaffolding-improves-learning"
      },
      {
+      "slug": "controlled-interaction-patterns-higher-self-explanation-quality"
+     },
+     {
+      "slug": "drawing-improves-learning"
+     },
+     {
+      "slug": "elaborative-encoding-improves-retention"
+     },
+     {
+      "slug": "embedded-aids-support-cross-disciplinary-transfer-of-reading-skills"
+     },
+     {
       "slug": "erroneous-examples-build-conceptual-knowledge"
+     },
+     {
+      "slug": "generative-learning-improves-comprehension"
+     },
+     {
+      "slug": "generative-learning-improves-retention"
+     },
+     {
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "high-confidence-errors-improve-retention"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "strategy-instruction-improves-learning"
+     },
+     {
+      "slug": "teaching-others-generative-strategy"
+     },
+     {
+      "polarity": "+",
+      "slug": "writing-to-learn-improves-understanding",
+      "strength": "S"
      }
     ],
     "elements": [
@@ -100324,6 +100104,16 @@
      },
      {
       "polarity": "+",
+      "slug": "discussion",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "elaboration",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "eliciting-student-thinking",
       "strength": "S"
      },
@@ -100371,6 +100161,11 @@
       "polarity": "+",
       "slug": "integration",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "istart2-game-based-its",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -100454,12 +100249,22 @@
      },
      {
       "polarity": "+",
+      "slug": "probing",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "problem-presentation",
       "strength": "S"
      },
      {
       "polarity": "+",
       "slug": "problem-scenario",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "prompts",
       "strength": "S"
      },
      {
@@ -100529,6 +100334,11 @@
      },
      {
       "polarity": "+",
+      "slug": "self-explanation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "solution-development",
       "strength": "S"
      },
@@ -100541,6 +100351,11 @@
       "polarity": "+",
       "slug": "whole-class-sharing",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "S"
      }
     ],
     "methods": [
@@ -100706,7 +100521,7 @@
      {
       "polarity": "+",
       "slug": "cognitive-activation",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -100921,6 +100736,11 @@
      {
       "polarity": "+",
       "slug": "process-based-writing",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "promote-self-generated-elaboration-for-expertise",
       "strength": "S"
      },
      {
@@ -101305,6 +101125,11 @@
      },
      {
       "polarity": "+",
+      "slug": "completion-problems",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "comprehension_checks",
       "strength": "S"
      },
@@ -101513,6 +101338,11 @@
      {
       "polarity": "+",
       "slug": "educational_infographics",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "elaborative-interrogation",
       "strength": "S"
      },
      {
@@ -101750,6 +101580,11 @@
       "polarity": "+",
       "slug": "highlighting_strategy_with_add-on_tool",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "hint-design",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -102257,6 +102092,16 @@
      },
      {
       "polarity": "+",
+      "slug": "predict-observe-explain",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "probing_questions",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "prompts-questions",
       "strength": "S"
      },
@@ -102284,6 +102129,11 @@
       "polarity": "+",
       "slug": "question_generation",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "questioning-techniques",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -102317,7 +102167,22 @@
      },
      {
       "polarity": "+",
+      "slug": "reciprocal-questioning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "reciprocal_teaching",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "reflection",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "reflection_on_learning",
       "strength": "S"
      },
      {
@@ -102362,6 +102227,11 @@
       "polarity": "+",
       "slug": "role-reversal-20-flipping-the-teacher",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "scaffolded-questioning",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -102445,6 +102315,11 @@
      {
       "polarity": "+",
       "slug": "social_awareness_-_model_empathy_and_explain",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "socratic_questioning",
       "strength": "S"
      },
      {
@@ -102694,6 +102569,11 @@
      },
      {
       "polarity": "+",
+      "slug": "worked-examples-first",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "writing-process-portfolios",
       "strength": "M"
      },
@@ -102718,207 +102598,6 @@
       "polarity": "+",
       "slug": "sociocultural-theory",
       "strength": "S"
-     }
-    ]
-   },
-   "self-explanation-improves-learning": {
-    "claims": [
-     {
-      "slug": "controlled-interaction-patterns-higher-self-explanation-quality"
-     },
-     {
-      "slug": "drawing-improves-learning"
-     },
-     {
-      "slug": "elaborative-encoding-improves-retention"
-     },
-     {
-      "slug": "embedded-aids-support-cross-disciplinary-transfer-of-reading-skills"
-     },
-     {
-      "slug": "erroneous-examples-build-conceptual-knowledge"
-     },
-     {
-      "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
-      "slug": "generative-processing-improves-learning"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
-      "slug": "self-explanation-improves-conceptual-understanding"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
-     },
-     {
-      "slug": "strategy-instruction-improves-learning"
-     },
-     {
-      "slug": "teaching-others-generative-strategy"
-     },
-     {
-      "polarity": "+",
-      "slug": "writing-to-learn-improves-understanding",
-      "strength": "S"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "discussion",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "elaboration",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "istart2-game-based-its",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "probing",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "prompts",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "self-explanation",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
-      "strength": "S"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "elaborative-interrogation",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "hint-design",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "predict-observe-explain",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "probing_questions",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "questioning-techniques",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "reciprocal-questioning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "reflection",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "reflection_on_learning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "scaffolded-questioning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "socratic_questioning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "worked-examples-first",
-      "strength": "S"
-     }
-    ]
-   },
-   "self-explanation-prompts-improve-learning-from-worked-examples": {
-    "claims": [
-     {
-      "slug": "controlled-interaction-patterns-higher-self-explanation-quality"
-     },
-     {
-      "slug": "elaborative-encoding-improves-retention"
-     },
-     {
-      "slug": "erroneous-examples-build-conceptual-knowledge"
-     },
-     {
-      "slug": "generative-learning-improves-comprehension"
-     },
-     {
-      "slug": "generative-learning-improves-retention"
-     },
-     {
-      "slug": "generative-processing-improves-learning"
-     },
-     {
-      "slug": "self-explanation-improves-conceptual-understanding"
-     },
-     {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "strategy-instruction-improves-learning"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "self-explanation",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "worked-examples",
-      "strength": "S"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "cognitive-activation",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "completion-problems",
-      "strength": "M"
      }
     ]
    },
@@ -108287,7 +107966,7 @@
       "slug": "feedback-enhances-retrieval-practice"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -108446,7 +108125,7 @@
       "slug": "incidental-vocabulary-exposure-limited"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -111693,10 +111372,7 @@
       "slug": "metacognitive-strategies-improve-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-monitoring-comprehension-improves-learning"
@@ -112186,22 +111862,47 @@
      }
     ]
    },
-   "structured-discussion-approaches-improve-comprehension": {
+   "structured-discussion-methods-improve-comprehension": {
     "claims": [
+     {
+      "slug": "active-collaborative-approaches-higher-order-thinking"
+     },
+     {
+      "slug": "advance-organizers-improve-learning"
+     },
      {
       "slug": "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
+      "slug": "critical-thinking-quality-mle"
+     },
+     {
+      "slug": "iterative-task-redesign-increased-engagement"
+     },
+     {
+      "slug": "peer-discussion-improves-conceptual-understanding"
+     },
+     {
+      "slug": "questioning-strategies-improve-learning"
      },
      {
       "slug": "reading-strategy-instruction-improves-comprehension"
      },
      {
-      "slug": "structured-discussion-methods-improve-comprehension"
+      "slug": "teacher-responses-can-close-off-pupil-thinking"
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-discussion",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "discussion",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "seminar-format",
@@ -112210,6 +111911,18 @@
      {
       "polarity": "+",
       "slug": "structured-discussion",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "debate",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
       "strength": "M"
      }
     ],
@@ -112227,74 +111940,24 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
+      "polarity": "+",
+      "slug": "discussion-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "norm_setting",
       "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "text-based_discussions",
       "strength": "S"
-     }
-    ]
-   },
-   "structured-discussion-methods-improve-comprehension": {
-    "claims": [
-     {
-      "slug": "advance-organizers-improve-learning"
-     },
-     {
-      "slug": "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence"
-     },
-     {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
-      "slug": "iterative-task-redesign-increased-engagement"
-     },
-     {
-      "slug": "reading-strategy-instruction-improves-comprehension"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "collaborative-discussion",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "seminar-format",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "structured-discussion",
-      "strength": "M"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "structured-academic-controversy",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "talking-and-writing-means-to-learning",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "discussion-based-learning",
-      "strength": "M"
      }
     ]
    },
@@ -114191,7 +113854,7 @@
       "slug": "intellectual-test-performances-correlated"
      },
      {
-      "slug": "matching-instruction-to-styles-no-effect"
+      "slug": "learning-styles-matching-does-not-improve-learning"
      },
      {
       "slug": "schools-reward-executive-styles"
@@ -115638,7 +115301,7 @@
    "task-repetition-fluency-complexity-same-task-only": {
     "claims": [
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -117544,10 +117207,10 @@
    "teacher-responses-can-close-off-pupil-thinking": {
     "claims": [
      {
-      "slug": "discussion-quality-drives-comprehension"
+      "slug": "rewards-undermine-intrinsic-motivation"
      },
      {
-      "slug": "rewards-undermine-intrinsic-motivation"
+      "slug": "structured-discussion-methods-improve-comprehension"
      },
      {
       "slug": "subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration"
@@ -124350,10 +124013,7 @@
       "slug": "identical-example-problem-order-advantage-not-detected-at-final-test"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
-      "slug": "interleaving-improves-learning"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
@@ -124416,7 +124076,7 @@
       "slug": "productive-failure-improves-conceptual-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "worked-examples-reduce-novice-search"
@@ -124577,7 +124237,7 @@
       "slug": "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples"
      },
      {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -124702,7 +124362,7 @@
       "slug": "guided-notes-improve-note-accuracy"
      },
      {
-      "slug": "interleaving-improves-learning"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "interleaving-improves-transfer"
@@ -124752,10 +124412,7 @@
       "slug": "segmentation-benefits-shrink-with-expertise"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-regulated-learning-strategies-improve-writing"
@@ -125307,7 +124964,7 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
-      "slug": "interleaving-improves-learning"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "learning-styles-matching-does-not-improve-learning"
@@ -125328,10 +124985,7 @@
       "slug": "scaffolding-improves-learning"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
@@ -125778,7 +125432,7 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "worked-examples-example-problem-sequences"
@@ -148290,7 +147944,7 @@
       "slug": "hands-on-learning-improves-achievement"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "invention-tasks-prepare-future-learning"
@@ -148335,10 +147989,7 @@
       "slug": "self-directed-iep-increases-student-participation"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "small-group-learning-improves-stem-achievement"
@@ -156279,7 +155930,7 @@
       "slug": "retrieval-practice-improves-retention"
      },
      {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-regulated-learning-improves-achievement"
@@ -161532,9 +161183,6 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
-     },
-     {
-      "slug": "whole-task-performance-improves-transfer"
      }
     ],
     "elements": [
@@ -166506,11 +166154,6 @@
     ]
    },
    "blended-learning": {
-    "claims": [
-     {
-      "slug": "blended-learning-improves-outcomes"
-     }
-    ],
     "elements": [
      {
       "slug": "choice-boards"
@@ -168573,9 +168216,6 @@
       "slug": "cooperative-learning-improves-achievement"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
@@ -168591,6 +168231,9 @@
      },
      {
       "slug": "small-group-learning-improves-stem-achievement"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
      },
      {
       "slug": "structured-peer-tutoring-outperforms-unstructured"
@@ -169696,9 +169339,6 @@
       "slug": "direct-instruction-improves-outcomes"
      },
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
@@ -169724,6 +169364,9 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
@@ -170483,9 +170126,6 @@
    "discussion-based-learning": {
     "claims": [
      {
-      "slug": "discussion-quality-drives-comprehension"
-     },
-     {
       "slug": "fiction-reading-improves-empathy"
      },
      {
@@ -170499,9 +170139,6 @@
      },
      {
       "slug": "reading-literary-fiction-improves-theory-of-mind"
-     },
-     {
-      "slug": "structured-discussion-approaches-improve-comprehension"
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
@@ -171077,6 +170714,9 @@
    },
    "flipped-classroom": {
     "claims": [
+     {
+      "slug": "blended-learning-improves-outcomes"
+     },
      {
       "slug": "pretesting-enhances-learning"
      }
@@ -174717,7 +174357,7 @@
       "slug": "productive-failure-improves-conceptual-learning"
      },
      {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      }
     ],
     "elements": [
@@ -176367,7 +176007,7 @@
       "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-inductive-learning"
      }
     ],
     "elements": [
@@ -183554,10 +183194,10 @@
       "slug": "hands-on-learning-improves-achievement"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
+      "slug": "interleaving-improves-discrimination"
      },
      {
-      "slug": "interleaving-improves-discrimination"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "learner-paced-beats-system-paced-complex-material"
@@ -183593,7 +183233,7 @@
       "slug": "sel-programs-improve-behavior-and-achievement"
      },
      {
-      "slug": "self-explanation-improves-learning"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-regulated-learning-improves-achievement"
@@ -192174,9 +191814,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-learning"
-     },
-     {
       "slug": "rereading-is-a-low-utility-study-strategy"
      },
      {
@@ -195685,6 +195322,9 @@
       "slug": "block-play-predicts-math-achievement"
      },
      {
+      "slug": "civic-online-reasoning-instruction-improves-evaluation"
+     },
+     {
       "slug": "clear-structure-improves-learning"
      },
      {
@@ -195794,19 +195434,10 @@
       "slug": "inquiry-based-teaching-improves-science-achievement"
      },
      {
-      "slug": "interleaved-practice-improves-retention"
-     },
-     {
       "slug": "interleaving-improves-discrimination"
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
-     },
-     {
-      "slug": "lateral-reading-improves-source-evaluation"
      },
      {
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
@@ -195973,10 +195604,7 @@
       "slug": "sel-programs-improve-behavior-and-achievement"
      },
      {
-      "slug": "self-explanation-improves-learning"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
+      "slug": "self-explanation-improves-conceptual-understanding"
      },
      {
       "slug": "self-regulated-learning-improves-achievement"
@@ -199079,18 +198707,10 @@
       "slug": "inquiry-based-teaching-improves-science-achievement"
      },
      {
-      "polarity": "~",
-      "slug": "interleaved-practice-improves-retention",
-      "strength": "M"
-     },
-     {
       "slug": "interleaving-improves-discrimination"
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-learning"
      },
      {
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
@@ -199250,11 +198870,8 @@
      },
      {
       "polarity": "~",
-      "slug": "self-explanation-improves-learning",
+      "slug": "self-explanation-improves-conceptual-understanding",
       "strength": "M"
-     },
-     {
-      "slug": "self-explanation-prompts-improve-learning-from-worked-examples"
      },
      {
       "polarity": "~",
@@ -199298,7 +198915,7 @@
       "slug": "strategy-instruction-needs-conditional-knowledge"
      },
      {
-      "slug": "structured-discussion-approaches-improve-comprehension"
+      "slug": "structured-discussion-methods-improve-comprehension"
      },
      {
       "slug": "structured-literacy-interventions-help-struggling-readers"
@@ -208964,7 +208581,7 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3423,
+  "claims": 3415,
   "designs": 115,
   "elements": 733,
   "learner-variables": 12,

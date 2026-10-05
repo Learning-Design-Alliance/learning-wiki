@@ -12,7 +12,7 @@ generated:
 # Individual Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 10 studies (3 quant-synthesis, 3 review, 2 theoretical, 1 causal, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (4 quant-synthesis, 3 review, 2 causal, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Individual reflection asks learners to step back from an experience or completed task and deliberately examine it — what happened, why it happened, what it means, and what to do differently next time. It is typically carried out through structured prompts, journals, or written debriefs, and differs from mere review by requiring learners to connect the experience to their goals, prior knowledge, and future action.

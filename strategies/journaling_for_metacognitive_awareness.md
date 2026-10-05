@@ -12,7 +12,7 @@ generated:
 # Journaling for Metacognitive Awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Journaling asks learners to regularly record their thinking, reactions, and learning processes in written, audio, or video form, with the goal of making internal processes visible and inspectable. Effective academic journaling is structured — guided by prompts that direct attention to what was done, why, and with what result — rather than open diary writing. The act of articulating one's reasoning in writing functions as a form of [Self-Explanation](../elements/self-explanation.md) and externalizes monitoring processes that would otherwise remain tacit.

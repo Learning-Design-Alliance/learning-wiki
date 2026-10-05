@@ -68,7 +68,7 @@ The worked example in the source is *Noobs vs. Leets*, a middle-school geometry 
 - Learners who can be given genuine choice within the rule system without the goal being lost
 
 ### Target Learning Goals
-- Concept and rule application, at the conceptual level rather than the level of computing the answer [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- Concept and rule application, at the conceptual level rather than the level of computing the answer [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M]
 - Mental models of a system: through the representations and rules of the game, players form understandings of analogous real-world systems, including how the variables in them interact — what Bogost (2008) calls procedural rhetoric, arguments made "through the authorship of rules of behavior, the construction of dynamic models" (p. 125)
 - Strategy selection and revision, since games present series of choices and react to them with new challenges
 

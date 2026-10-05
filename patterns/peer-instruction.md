@@ -19,7 +19,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 17 studies (5 review, 4 causal, 4 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 17 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 19 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 

@@ -17,7 +17,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (4 for, 8 mixed) · 17 studies (4 causal, 4 quant-synthesis, 3 qualitative, 2 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (4 for, 8 mixed) · 19 studies (5 causal, 5 quant-synthesis, 3 qualitative, 2 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

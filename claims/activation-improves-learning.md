@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Activation Improves Learning
+title: "Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment"
 status: draft
 generated:
   by: claude/unspecified
@@ -38,12 +38,15 @@ sources:
     rigour: 2
 ---
 
-# Activation Improves Learning
+# Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
+<!-- deprecated title (2026-10-05, overstated its evidence): Activation Improves Learning -->
 
-Activating learners' relevant prior knowledge before or during instruction improves comprehension and retention of new material. The claim covers deliberate pre-instructional activities — pre-questions, brainstorming, analogies, advance organizers — that surface what learners already know so new material can be connected to it.
+<!-- deprecated (2026-10-05, overstated its evidence): Activating learners' relevant prior knowledge before or during instruction improves comprehension and retention of new material. The claim covers deliberate pre-instructional activities — pre-questions, brainstorming, analogies, advance organizers — that surface what learners already know so new material can be connected to it. -->
+
+The claim covers deliberate pre-instructional activities (pre-questions, brainstorming, analogies, advance organizers) that surface what learners already know so new material can be connected to it. Of the three studies recorded here, one supports it: an early meta-analysis found advance organizers helped learning and retention, with the pooled effect size not established from the abstract read. One qualifies it: in a randomised experiment with 88 primary-school students, activating prior topic knowledge did not improve text comprehension, while activating metacognitive knowledge did. The third compared two amounts of activation, found no significant difference, and had no no-activation control, so it does not test whether activation helps.
 
 ## Subclaims
 
@@ -87,7 +90,8 @@ Secondary-school students studied worked solution attempts on mean absolute devi
 
 **Technique choice.** Structured prompts (pre-questions, advance organizers, analogical prompts) are generally safer than open brainstorming, because unstructured elicitation can surface tangential or incorrect ideas without any mechanism to correct them [~M]. Where activation does surface misconceptions, it can be turned to advantage: the resulting [cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md), but only if instruction explicitly confronts and resolves the misconception rather than proceeding as if activation were neutral [~W].
 
-**Open questions.** The relative effectiveness of different activation techniques (open brainstorming vs. structured pre-questions vs. analogical prompts) and the durability of activation effects beyond immediate post-tests remain under-specified until supporting evidence entries are added.
+**Open questions.** The relative effectiveness of different activation techniques (open brainstorming vs. structured pre-questions vs. analogical prompts) and the durability of activation effects beyond immediate post-tests are not addressed by the three studies recorded here, none of which compares activation techniques with one another.
+<!-- deprecated stale text (2026-10-05): The relative effectiveness of different activation techniques (open brainstorming vs. structured pre-questions vs. analogical prompts) and the durability of activation effects beyond immediate post-tests remain under-specified until supporting evidence entries are added. -->
 
 *Merged from “Activation” (activation):* Activation is typically justified by two mechanisms. First, activating relevant prior knowledge gives new material something to attach to, supporting meaningful encoding rather than rote reception — the rationale behind [Advance organizers](../elements/advance-organizers.md) and [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md). Second, activation makes existing misconceptions visible, so instruction can confront them rather than talk past them; this connects to [Cognitive disequilibrium](../principles/cognitive-disequilibrium.md) and conceptual-change approaches.
 

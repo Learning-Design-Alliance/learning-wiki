@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Whole-task performance improves transfer of complex skills to real-world settings.
+title: "A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills"
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -19,12 +19,15 @@ id: whole-task-performance-improves-transfer
 evidence_strength: strong
 ---
 
-# Whole-task performance improves transfer of complex skills to real-world settings.
+# A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2` · n=N/A
+<!-- deprecated title (2026-10-05, overstated its evidence): Whole-task performance improves transfer of complex skills to real-world settings. -->
 
-Engaging in authentic, integrated tasks during training better prepares learners for the complexity and coordination required in professional practice compared to isolated part-task practice.
+<!-- deprecated (2026-10-05, overstated its evidence): Engaging in authentic, integrated tasks during training better prepares learners for the complexity and coordination required in professional practice compared to isolated part-task practice. -->
+
+The one source recorded here, van Merriënboer, Kester & Paas (2006), is a training-design article, not a study: drawing on prior research, it argues that methods inducing germane load (high variability, limited guidance) during whole-task practice favour transfer, and that intrinsic load should be lowered early for novices. No experiment comparing whole-task with part-task practice is recorded on this page, so the effect is proposed, not shown.
 
 ## Subclaims
 `q2 i?` A design argument, not an experiment, holds that whole-task practice leads to better transfer for complex cognitive skills. [→ van Merriënboer et al. 2006](#van-merrienboer-et-al-2006)
@@ -42,7 +45,8 @@ van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rath
 This article presents a training-design approach rather than a new study. Drawing on prior research, it argues that the load-reducing methods that work for practising complex tasks to high retention (low variability, complete guidance and feedback) are the ones that hinder transfer. Its proposal is to pair learning tasks with methods that induce germane load, such as high variability and limited guidance, and, for novices, to lower intrinsic load early in training by reducing the element interactivity of the tasks.
 
 ## Discussion
-The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [scaffolding](../elements/scaffolding.md).
+<!-- deprecated (2026-10-05, overstated its evidence): The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [scaffolding](../elements/scaffolding.md). -->
+The source proposes lowering intrinsic load early in training for novices, for example by reducing the element interactivity of the tasks; whether that makes whole-task practice work better is not tested by any study recorded here. An experiment comparing whole-task with part-task practice on a transfer measure is what this page still lacks.
 
 ## Related Claims
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)

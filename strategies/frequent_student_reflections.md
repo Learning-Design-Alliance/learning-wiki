@@ -12,7 +12,7 @@ generated:
 # Frequent Student Reflections
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 This strategy embeds short, recurring reflection prompts into the learning cycle — before, during, and after instruction and assessment — so learners routinely examine what they understood, where they struggled, and what they will do differently. Reflections may be written, spoken, or collected digitally, and range from quick exit tickets to structured self-assessment against criteria.

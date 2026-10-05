@@ -12,7 +12,7 @@ generated:
 # Self-instructions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Self-instruction is a strategy in which the teacher first models articulating their own thinking while solving a problem — verbalizing goals, decisions, and self-checks — and then prompts students to produce the same kind of talk for themselves. Rooted in Meichenbaum's cognitive-behavioral training work, the strategy moves learners from observing expert self-talk, to guided overt self-instruction, to covert private speech as competence grows. It serves a dual diagnostic function: students become aware of how they think, and teachers gain direct evidence of student reasoning and misconceptions.

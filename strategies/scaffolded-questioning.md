@@ -12,14 +12,14 @@ generated:
 # Scaffolded Questioning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (6 causal, 5 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (6 causal, 5 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Scaffolded questioning is the deliberate sequencing and adaptive adjustment of questions to move learners from what they can do independently toward reasoning they could not yet produce alone. The instructor begins with questions within reach (recall, observation), then steps up to prompts for explanation, justification, and transfer, adjusting support in real time based on learner responses — offering hints, simplifying the question, or handing back responsibility as competence grows.
 
 ## Design Implications
 
-Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.md) through dialogue: the question sequence provides temporary structure that is withdrawn as learners take over the reasoning themselves [Contingent, responsive scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+S]. Its effectiveness depends on contingency — the next question must respond to what the learner just said, not follow a fixed script [Contingent, responsive scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Questions that require learners to explain and justify their reasoning produce deeper learning than questions answerable by recall alone, because explanation forces integration with prior knowledge [Self-explanation prompts improve learning.](../claims/self-explanation-improves-learning.md) [+S].
+Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.md) through dialogue: the question sequence provides temporary structure that is withdrawn as learners take over the reasoning themselves [Contingent, responsive scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+S]. Its effectiveness depends on contingency — the next question must respond to what the learner just said, not follow a fixed script [Contingent, responsive scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Questions that require learners to explain and justify their reasoning produce deeper learning than questions answerable by recall alone, because explanation forces integration with prior knowledge [Self-explanation prompts improve learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

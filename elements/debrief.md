@@ -63,7 +63,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Knowledge gained by self-analysis is more likely to produce constructive change than insights given by an observer](../claims/self-analysis-knowledge-drives-teacher-change.md) [+W]
 - [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 - [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
-- [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
 
 ## Design Decisions
@@ -95,7 +95,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - **Not settled:** whether peers who share a misconception reinforce it in a debrief (raised in the peer-discussion Discussion, not tested).
 
 ### How long should the debrief be, and in what setting?
-- **Default:** plan duration, peer interaction and the reflective activity deliberately; across 23 controlled studies (n = 2,010) reflection interventions averaged g = 0.56, and the effect depended on all three — [Reflective practice shows mixed evidence of effectiveness in professional education](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
+- **Default:** plan duration, peer interaction and the reflective activity deliberately; across 23 controlled studies (n = 2,010) reflection interventions averaged g = 0.56, and the effect depended on all three — [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - **Default:** allow enough time and lower the evaluative pressure; time for reflection, a high-pressure evaluative atmosphere, and dialogue with peers and mentors shaped the reflective judgment student teachers showed — [Contextual factors influence preservice teachers' demonstration of reflective judgment](../claims/contextual-factors-influence-reflective-judgment-demonstration.md) [+M]
 - **Tested with:** higher-education reflection interventions; six student teachers in one urban school (a qualitative pilot).
 - **Not settled:** the direction of Guo's moderators (which durations and activities do better) is not given on the claim page, and no wiki claim sets a minimum debrief length.

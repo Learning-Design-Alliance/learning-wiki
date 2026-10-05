@@ -12,14 +12,14 @@ generated:
 # Elaborative Interrogation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Elaborative interrogation asks learners to answer "why is this true?" or "why does this make sense?" prompts about facts they are studying, rather than passively rereading them. The generated explanations connect new material to existing knowledge, producing richer, more retrievable memory traces. It is typically applied to factual claims embedded in text or lists, one item at a time.
 
 ## Design Implications
 
-Elaborative interrogation is one of the most consistently supported learning techniques in the strategy literature [Dunlosky et al. rated elaborative interrogation as a moderately effective technique with broad utility.](../claims/elaborative-interrogation-improves-learning.md) [+M]. Its benefit comes from forcing integration: answering "why" requires retrieving relevant prior knowledge and linking it to the new fact, which improves both comprehension and later recall [Generating explanations during learning improves retention and transfer.](../claims/self-explanation-improves-learning.md) [+S]. Prompts should be specific to the material ("Why would this make the population grow?") rather than generic, and learners must actually attempt an answer — reading the prompt without generating a response eliminates the effect.
+Elaborative interrogation is one of the most consistently supported learning techniques in the strategy literature [Dunlosky et al. rated elaborative interrogation as a moderately effective technique with broad utility.](../claims/elaborative-interrogation-improves-learning.md) [+M]. Its benefit comes from forcing integration: answering "why" requires retrieving relevant prior knowledge and linking it to the new fact, which improves both comprehension and later recall [Generating explanations during learning improves retention and transfer.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Prompts should be specific to the material ("Why would this make the population grow?") rather than generic, and learners must actually attempt an answer — reading the prompt without generating a response eliminates the effect.
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Elaborative interrogation is one of the most consistently supported learning tec
 ### Target Learning Goals
 - Factual retention: remembering discrete claims and their justifications
 - Conceptual integration: connecting new facts to existing knowledge structures
-- Not well suited to procedural skill or transfer to novel problem types [Generating explanations improves retention more than far transfer.](../claims/self-explanation-improves-learning.md) [~M]
+- Not well suited to procedural skill or transfer to novel problem types [Generating explanations improves retention more than far transfer.](../claims/self-explanation-improves-conceptual-understanding.md) [~M]
 
 ### Instructions
 1. Present the material as a set of discrete factual claims ([Chunking](../principles/chunking.md) helps keep each unit answerable).

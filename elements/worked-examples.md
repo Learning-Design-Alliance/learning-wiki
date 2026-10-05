@@ -12,7 +12,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 18 studies (11 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 19 studies (11 causal, 4 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 19 report an effect size · 5 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -46,7 +46,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-guidance-hurts-experts.md) [~S]
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [~S]
 - [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]
-- [Self Explanation Prompts Improve Learning From Worked Examples](../claims/self-explanation-prompts-improve-learning-from-worked-examples.md) [+S]
+- [Self Explanation Prompts Improve Learning From Worked Examples](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+S]
 - [Comparing Contrasting Cases Improves Learning](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 
@@ -79,7 +79,7 @@ Worked examples are the element in which learners study complete or partial solu
 - **Not settled:** one small study with a borderline result; no effect size is printed and equivalence was not tested.
 
 ### Should learners be prompted to explain the steps to themselves?
-- **Default:** yes. Across 69 effect sizes from 64 reports, self-explanation prompts improved learning by g = .55, across task types, subjects and levels of education — [Self Explanation Prompts Improve Learning From Worked Examples](../claims/self-explanation-prompts-improve-learning-from-worked-examples.md) [+S]
+- **Default:** yes. Across 69 effect sizes from 64 reports, self-explanation prompts improved learning by g = .55, across task types, subjects and levels of education — [Self Explanation Prompts Improve Learning From Worked Examples](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - **Changes when:** the outcome is classroom or delayed performance in mathematics → the benefit is much less established than for immediate, lab-style tests, and it was stronger when learners were scaffolded toward high-quality explanations — same claim [~S]
 - **Tested with:** meta-analyses spanning school and university levels; mathematics for the Rittle-Johnson et al. synthesis; eighth graders reading a science text (Chi et al. 1994).
 - **Not settled:** the evidence is for self-explanation in general, not with worked examples specifically, as the claim page says; which prompt format works best is not settled there.

@@ -51,7 +51,7 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 #### Constraints
 - Drawing during live input competes for the same working memory the content needs; novices who draw while listening can lose both [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Effort spent on visual polish is effort not spent on the content — decorative embellishment is extraneous processing wearing the costume of engagement [Decorative Illustrations Do Not Improve Learning](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]
-- A learner-built visual whose structure does not fit the content's structure imposes load rather than reducing it [Mismatched Graphic Organizers Increase Extraneous Load](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [-M]
+- A learner-built visual whose structure does not fit the content's structure imposes load rather than reducing it [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](../claims/mismatched-graphic-organizers-increase-extraneous-load.md) [-M]
 - Slow relative to typing or writing; coverage per unit time falls, so it suits depth over breadth
 - Learners with fine-motor or visual impairments may find the modality itself a barrier rather than a support [-M]
 - The strategy's own literature is thin: the transfer from controlled drawing-prompt experiments to open-ended sketchnoting is assumed, not demonstrated [~W]
@@ -64,7 +64,7 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 - **Collaborative wall sketchnote** — a group builds one large visual, making the selection decisions explicit and arguable
 
 ### Target Learners
-- Learners with enough domain knowledge to identify what matters; deciding what to draw presupposes knowing what is important [Activation Improves Learning](../claims/activation-improves-learning.md) [+M]
+- Learners with enough domain knowledge to identify what matters; deciding what to draw presupposes knowing what is important [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
 - Learners whose default note-taking is verbatim transcription, for whom any generative constraint is an improvement [Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking](../claims/laptop-notes-verbatim-shallower.md) [+M]
 - Secondary and adult learners working with conceptually structured material
 - Weaker fit for complete novices facing unfamiliar content at speed, where drawing and comprehending compete

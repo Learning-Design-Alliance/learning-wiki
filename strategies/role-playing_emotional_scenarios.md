@@ -12,7 +12,7 @@ generated:
 # Role-Playing Emotional Scenarios
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Learners act out how to manage emotions in different scenarios — receiving an unwanted gift, being excluded from a game, navigating a disagreement — typically from scenario cards or prompts. After enacting a response, learners discuss the feelings involved and alternative behaviors, connecting emotional states to observable actions. The strategy converts abstract social-emotional concepts into embodied, rehearsed practice rather than lecture-based instruction.

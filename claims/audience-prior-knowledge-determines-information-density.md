@@ -44,4 +44,4 @@ A theoretical claim in the paper's discussion of early writing decisions: once a
 
 ## Related Claims
 - [Cognitive Load Management](cognitive-load-management.md) — related
-- [Activation Improves Learning](activation-improves-learning.md) — related
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related

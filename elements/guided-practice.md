@@ -25,7 +25,7 @@ Guided practice is the element in which learners attempt a task with active supp
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Tutoring Effectiveness Comes From Scaffolding And Feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [+M]
+- [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md)

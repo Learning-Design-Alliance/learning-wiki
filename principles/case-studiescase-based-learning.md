@@ -12,13 +12,13 @@ generated:
 # Case Studies/Case-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action. Rather than receiving rules first and applying them later, learners grapple with ambiguity closer to professional practice: what matters here, what information is missing, what options are plausible, and how should a decision be defended?
 
 ## Implications
-Case-based learning is powerful because it places concepts inside realistic uncertainty instead of leaving them as detached rules. When learners have to interpret evidence, justify a decision, and compare alternatives, they are more likely to build transferable judgment than when they only rehearse isolated subskills [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]. That transfer is stronger when learners explain why their response fits the case rather than simply picking an answer [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The tradeoff is that ambiguity can overload novices, so the strongest case designs combine realism with structure: prompts, expert modeling, staged information release, and responsive questioning that helps learners move through complexity without simply being told the answer [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+Case-based learning is powerful because it places concepts inside realistic uncertainty instead of leaving them as detached rules. When learners have to interpret evidence, justify a decision, and compare alternatives, they are more likely to build transferable judgment than when they only rehearse isolated subskills [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S]. That transfer is stronger when learners explain why their response fits the case rather than simply picking an answer [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The tradeoff is that ambiguity can overload novices, so the strongest case designs combine realism with structure: prompts, expert modeling, staged information release, and responsive questioning that helps learners move through complexity without simply being told the answer [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ Case-based learning is powerful because it places concepts inside realistic unce
 - Situated and experiential perspectives support case work because learners engage with realistic situations that approximate use contexts
 - Constructivist perspectives support case analysis as an active process of interpretation, comparison, and meaning-making
 - Social constructivist perspectives support discussion-based case teaching where reasoning is sharpened through challenge and perspective-taking
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] aligns with case-based learning when the case requires integrating multiple concepts into a coherent response
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] aligns with case-based learning when the case requires integrating multiple concepts into a coherent response
 
 #### Contradicting / Qualifying
 - Cases are not automatically effective for novices; some learners need models, prompts, or worked analyses before open discussion
@@ -58,7 +58,7 @@ Case-based learning is powerful because it places concepts inside realistic unce
 - Facilitation matters: questioning and hints often outperform simply telling learners what the right answer was [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — cases can approximate whole-task professional reasoning better than isolated subskill drills
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — cases can approximate whole-task professional reasoning better than isolated subskill drills
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — discussion and written justification improve learning when learners explain why their interpretation fits the evidence
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — instructor probing and responsive hints improve transfer more than answer-giving alone
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — some novices need component instruction or worked examples before cases become productive

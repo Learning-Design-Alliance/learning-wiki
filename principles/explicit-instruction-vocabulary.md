@@ -29,7 +29,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 causal, 3 review, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 15 studies (6 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 15 report an effect size
 
 ## Description
 Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition. In discussions, reading, and writing, instructors can provide explicit vocabulary instruction and give learners multiple opportunities to see, understand, and apply new words, as well as chances to use strategies for identifying unfamiliar words.

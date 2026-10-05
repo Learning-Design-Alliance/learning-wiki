@@ -135,7 +135,7 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Information Processing Theory](../theories/information-processing-theory.md) — explains how retrieval strengthens memory traces over time
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) — retrieval imposes load; benefits depend on managing it
 - [Chunking Reduces Working Memory Load](../claims/chunking-reduces-working-memory-load.md) — chunked material is easier to retrieve successfully
-- [Activation Improves Learning](../claims/activation-improves-learning.md) — prior retrieval of related knowledge primes new learning
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) — prior retrieval of related knowledge primes new learning
 - [Assessment for Learning Improves Achievement](../claims/assessment-for-learning-improves-achievement.md) — assessment used as a learning event overlaps with retrieval practice
 - [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) — retrieval-based classroom activity is a core active-learning mechanism
 - [Distributed practice improves retention.](distributed-practice-improves-retention.md) — spaced retrievals amplify the testing effect relative to massed testing

@@ -12,14 +12,14 @@ generated:
 # Probing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 12 studies (7 quant-synthesis, 4 causal, 1 review), `q2`–`q4` · 6 of 12 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 13 studies (7 quant-synthesis, 4 causal, 1 review, 1 associational), `q2`–`q4` · 6 of 13 report an effect size
 
 ## Description
 Probing is the instructional element of asking follow-up questions that press past a learner's first response — asking for justification, elaboration, counterexamples, or connections to prior knowledge. It functions as a form of [Assessment for Learning](../principles/assessment-for-learning.md): the probe diagnoses the learner's current understanding while simultaneously prompting the learner to reconstruct and extend it.
 
 ## Design Implications
 
-Probing converts a surface-level answer into an act of retrieval and elaboration, which strengthens memory and reveals gaps that a correct answer alone would hide [Retrieval practice produces stronger long-term retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Probes that ask *why* and *how* elicit self-explanation, a mechanism with consistent positive effects on conceptual understanding [Self-explanation prompts improve conceptual learning.](../claims/self-explanation-improves-learning.md) [+S]. Effective probes are contingent on the learner's response — generic "any questions?" prompts do not function as probes; the question must engage the specific content the learner just produced [Question prompts improve learning outcomes.](../claims/question-prompts-improve-learning.md) [+M].
+Probing converts a surface-level answer into an act of retrieval and elaboration, which strengthens memory and reveals gaps that a correct answer alone would hide [Retrieval practice produces stronger long-term retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Probes that ask *why* and *how* elicit self-explanation, a mechanism with consistent positive effects on conceptual understanding [Self-explanation prompts improve conceptual learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Effective probes are contingent on the learner's response — generic "any questions?" prompts do not function as probes; the question must engage the specific content the learner just produced [Question prompts improve learning outcomes.](../claims/question-prompts-improve-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 - In large groups, only a few learners are probed; unprobed bystanders may disengage unless structures like [Class Discussion](class-discussion.md) protocols or think-pair-share distribute participation [~M]
 
 ### Target Learners
-- Learners with partial or fragile understanding, where probing exposes the gap between recognition and explanation [Self-explanation prompts improve conceptual learning.](../claims/self-explanation-improves-learning.md) [+S]
+- Learners with partial or fragile understanding, where probing exposes the gap between recognition and explanation [Self-explanation prompts improve conceptual learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Learners prone to fluency illusions, who mistake familiarity for understanding
 - Advanced learners benefit from probes demanding justification and transfer; novices need more scaffolded probe types (e.g., "what does this term mean?" before "why is this true?") [~M]
 

@@ -99,7 +99,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Distributed practice yields durable long-term retention advantages over massed practice.](../claims/spaced-practice-improves-retention.md) [+S] — spacing effect confirmed across hundreds of comparisons and retention intervals; partly checked: 2 of 5 entries pass, the rest could not be confirmed (abstract)
 - [Learners prefer massed study despite its inferior outcomes.](../claims/learners-misjudge-spacing-benefits.md) [~M] — learners' study choices are driven by short-term fluency, so spacing often needs structural support; not settled: the text available could not confirm the entries (abstract)
 - [Spaced retrieval outperforms spaced restudy.](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — the spacing effect is amplified when each encounter requires retrieval rather than rereading; not yet checked against its sources
-- [Interleaving Improves Retention](../claims/interleaved-practice-improves-retention.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007); not settled: the text available could not confirm the entries (abstract)
+- [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007); not settled: the text available could not confirm the entries (abstract)
 
 ## Source verification and open tests
 
@@ -176,7 +176,7 @@ Spaced practice trades short-term performance for long-term retention: massed st
 - [Distributed practice yields durable long-term retention advantages over massed practice.](../claims/spaced-practice-improves-retention.md) [+S] — spacing effect confirmed across hundreds of comparisons and retention intervals
 - [Learners prefer massed study despite its inferior outcomes.](../claims/learners-misjudge-spacing-benefits.md) [~M] — learners' study choices are driven by short-term fluency, so spacing often needs structural support
 - [Spaced retrieval outperforms spaced restudy.](../claims/spaced-retrieval-outperforms-restudy.md) [+S] — the spacing effect is amplified when each encounter requires retrieval rather than rereading
-- [Interleaving Improves Retention](../claims/interleaved-practice-improves-retention.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
+- [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
 
 ## Related Principles
 - [Retrieval Practice](retrieval-practice.md) — spacing and retrieval are complementary; spaced testing is the strongest known combination for durable retention
@@ -268,7 +268,7 @@ Spacing works because the partial forgetting that occurs between sessions makes 
 - [Spaced Practice Improves Long Term Retention](../claims/spaced-practice-improves-retention.md) [+S] — Cepeda et al. (2006) meta-analysis; the advantage grows with the retention interval
 - [Spacing Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — distributed practice rated among the highest-utility techniques by Dunlosky et al. (2013)
 - [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+S] — a spaced *retest* is far more powerful than a spaced *reread*
-- [Interleaving Improves Retention](../claims/interleaved-practice-improves-retention.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
+- [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
 
 ## Related Principles
 - [Retrieval Practice](retrieval-practice.md) — spaced retrieval is the most powerful combination; spacing without retrieval (e.g., spaced rereading) forfeits most of the benefit

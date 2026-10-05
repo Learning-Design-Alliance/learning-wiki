@@ -50,7 +50,9 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 
 **Implications for evaluation and adoption.** Evaluations of personalized learning should measure and report fidelity — adherence checklists, usage logs, observation of teacher data practices — rather than treating "personalized learning" as a single undifferentiated treatment. Schools adopting such programs should budget for the implementation supports (professional development, scheduling, data routines) that efficacy trials typically include; without them, expected effects should be discounted accordingly. This is a constraint on interpretation, not a refutation: the claim is that effects are conditional, not that personalization cannot work.
 
-**Open questions.** Because this page currently has no catalogued evidence entries, the specific magnitude of fidelity effects for personalized learning is not yet established in this wiki. Studies are needed that measure implementation fidelity directly and relate it to outcomes, ideally with dose–response designs that link fidelity scores to learner gains. Until then, treat claims of large average effects with caution.
+**Open questions.** One study is recorded (Pane et al. 2017), a quasi-experiment with matched comparison groups in about 40 schools, and its fidelity evidence is indirect: effects were larger in charter schools and second-year schools that reported fuller implementation, but this rests on self-reported surveys and a nine-school district subsample, and the authors call it suggestive. The specific magnitude of fidelity effects for personalized learning is therefore not established in this wiki. Studies are needed that measure implementation fidelity directly and relate it to outcomes, ideally with dose–response designs that link fidelity scores to learner gains. Until then, treat claims of large average effects with caution.
+
+<!-- deprecated (2026-10-05, stale: entries had been added): **Open questions.** Because this page currently has no catalogued evidence entries, the specific magnitude of fidelity effects for personalized learning is not yet established in this wiki. -->
 
 ## Related Claims
 

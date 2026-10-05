@@ -12,7 +12,7 @@ generated:
 # Restate The Question
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Restating the question asks learners to paraphrase a question or problem in their own words before attempting an answer. The instructor treats the restatement as the first required step of any response, refusing the "right answer" shortcut and instead surfacing how the learner has interpreted the task. This converts answering from recall into comprehension, and gives the instructor a diagnostic window into misread instructions, misidentified quantities, or misframed problems.

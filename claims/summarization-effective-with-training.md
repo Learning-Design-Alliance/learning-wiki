@@ -73,7 +73,7 @@ McNamara, D. S., Watanabe, M., Huynh, L., McCarthy, K. S., Allen, L. K., & Magli
 
 ## Related Claims
 
-- [Annotating improves learning](annotating-improves-learning.md) — a related generative text-processing strategy with similar training demands
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — a related generative text-processing strategy with similar training demands
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — summarization works by reorganizing material into fewer, larger units
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — untrained summarization can add rather than reduce load
 - [Activation improves learning](activation-improves-learning.md) — prior knowledge supports identifying main ideas in a text

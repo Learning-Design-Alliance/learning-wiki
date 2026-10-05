@@ -9,11 +9,11 @@ generated:
   at: 2026-10-02
 sources:
   - id: sachs-2019
-    resource: "https://doi.org/10.1080/02699931.2019.1577226"
+    resource: "https://doi.org/10.1080/02699931.2019.1591938"
     title: "Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654"
     author: "Sachs, M. E., Kaplan, J., & Habibi, A"
   - id: setlhodi-2018
-    resource: "https://doi.org/10.4018/978-1-5225-5084-4.ch010"
+    resource: "https://doi.org/10.4018/978-1-5225-5085-3.ch010"
     title: "Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global"
     author: Setlhodi, I. I
 ---
@@ -21,7 +21,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (1 for, 6 mixed) · 12 studies (5 quant-synthesis, 4 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (1 for, 6 mixed) · 14 studies (6 quant-synthesis, 5 causal, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 
@@ -57,7 +57,7 @@ Keep learners, the exact activity and comparator, the outcome instrument and the
 Claims this page cited before it was rewritten as a conditional model. They are evidence about mechanisms empathy activities may rely on, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 
 ## Objective and learner-valued goal
 
@@ -86,7 +86,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 ## Key Sources
 - Nelsestuen, K., & Smith, J. (2020). Empathy interviews. *The Learning Professional, 41*(5), 59-59.
 - Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654. [https://doi.org/10.1080/02699931.2019.1591938](https://doi.org/10.1080/02699931.2019.1591938)
-- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-7998-8598-6.ch040](https://doi.org/10.4018/978-1-7998-8598-6.ch040)
+- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-5225-5085-3.ch010](https://doi.org/10.4018/978-1-5225-5085-3.ch010)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body follows verbatim.
 

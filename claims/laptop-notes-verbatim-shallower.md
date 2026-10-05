@@ -69,7 +69,7 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 
 ## Related Claims
 
-- [Annotating improves learning](../claims/annotating-improves-learning.md) — annotation benefits depend on generative processing, the same mechanism implicated here
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) — annotation benefits depend on generative processing, the same mechanism implicated here
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) — summarizing notes forces chunking; verbatim transcription does not
 - [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — fast-paced lectures can push learners toward transcription as a coping strategy
 - [Active learning improves exam performance](../claims/active-learning-improves-exam-performance.md) — generative note-taking is one form of active engagement during lecture

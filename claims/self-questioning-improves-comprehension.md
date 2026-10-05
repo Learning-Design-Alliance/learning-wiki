@@ -61,7 +61,7 @@ This review examined 35 experimental research studies that taught self-questioni
 
 ## Discussion
 
-**Why it works.** Self-questioning is a generative strategy: constructing a question requires the learner to segment text into idea units, judge which content is central, and formulate the relationship explicitly. Answering one's own question then provides immediate feedback on whether the idea was understood, supporting the comprehension-monitoring component of self-regulated learning. This places self-questioning alongside other generative strategies such as [Annotating improves learning](annotating-improves-learning.md) and [Activation improves learning](activation-improves-learning.md), which similarly require learners to produce content rather than passively receive it.
+**Why it works.** Self-questioning is a generative strategy: constructing a question requires the learner to segment text into idea units, judge which content is central, and formulate the relationship explicitly. Answering one's own question then provides immediate feedback on whether the idea was understood, supporting the comprehension-monitoring component of self-regulated learning. This places self-questioning alongside other generative strategies such as [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) and [Activation improves learning](activation-improves-learning.md), which similarly require learners to produce content rather than passively receive it.
 
 **Moderators and boundary conditions.** The quality of the questions matters. Shallow, fact-recall questions ("what year did...?") are likely to yield smaller comprehension gains than questions targeting causal relations, main ideas, or explanations ("why did...?", "how does X relate to Y?"). Novice learners may need explicit training and question prompts or stems before they can generate productive questions independently; without scaffolding, some learners generate questions about trivial details or skip question generation entirely. Self-questioning also imposes working-memory demands, so for very difficult or high-load material it may compete with comprehension itself — consistent with the conditions described in [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and [Chunking reduces working memory load](chunking-reduces-working-memory-load.md).
 
@@ -71,7 +71,7 @@ This review examined 35 experimental research studies that taught self-questioni
 
 ## Related Claims
 
-- [Annotating improves learning](annotating-improves-learning.md) — another generative strategy that forces active processing of text.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative strategy that forces active processing of text.
 - [Activation improves learning](activation-improves-learning.md) — self-questioning often serves as an activation mechanism, connecting new text to prior knowledge.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — a boundary condition: questioning during very high-load material can compete with comprehension.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — segmenting text into question-sized units supports the strategy.

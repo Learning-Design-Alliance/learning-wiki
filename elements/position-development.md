@@ -12,7 +12,7 @@ generated:
 # Position Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Position development asks learners to form, articulate, and defend a stance on a genuinely contested issue, then refine that stance in response to evidence and counterargument. The stance is treated as provisional: the learning happens in the cycle of claiming, justifying, and revising rather than in arriving at a "correct" answer.

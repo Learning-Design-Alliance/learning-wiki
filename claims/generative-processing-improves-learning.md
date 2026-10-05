@@ -57,11 +57,10 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Annotating improves learning.](annotating-improves-learning.md) — annotation is a concrete generative activity during reading
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — managing load is a precondition for productive generative effort
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — generation helps only when working memory is not overwhelmed
-- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
+- [Self-explanation improves learning](self-explanation-improves-conceptual-understanding.md) — related
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Generative Learning Improves Retention](generative-learning-improves-retention.md) — possibly the same claim (merge candidate)
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
-- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim
 - [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related

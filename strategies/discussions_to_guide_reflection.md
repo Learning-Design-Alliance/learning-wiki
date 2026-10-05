@@ -12,7 +12,7 @@ generated:
 # Discussions to Guide Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (3 quant-synthesis, 2 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Discussions to guide reflection are structured conversations — peer-to-peer, small-group, or instructor-facilitated — in which learners are prompted to explain their reasoning, evaluate their strategies, and consider how their thinking has changed. The strategy converts private thought into talk, making reasoning available for examination, challenge, and revision. It is carried out through deliberate prompts ("Why did you choose that approach?", "What would you do differently?") rather than open-ended "any questions?" exchanges.

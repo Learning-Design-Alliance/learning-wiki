@@ -21,7 +21,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 14 studies (7 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
 
 ## Conditional relationship
 

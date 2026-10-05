@@ -12,14 +12,14 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 3 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
 
 ## Design Implications
 
-Prompts work by triggering self-explanations and strategic processing that learners would not otherwise engage in spontaneously [Self-explanation prompts improve learning by forcing learners to connect steps to underlying principles.](../claims/self-explanation-improves-learning.md) [+S]. Their effectiveness depends on timing and specificity: prompts delivered at the point of decision, and targeted at the process rather than the task level, produce the largest gains [Feedback is most effective at the task and process levels rather than the self level.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Prompts should be faded as competence grows, since persistent prompting can become a crutch that learners cannot function without [Fading support promotes transfer of responsibility from scaffold to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Prompts work by triggering self-explanations and strategic processing that learners would not otherwise engage in spontaneously [Self-explanation prompts improve learning by forcing learners to connect steps to underlying principles.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Their effectiveness depends on timing and specificity: prompts delivered at the point of decision, and targeted at the process rather than the task level, produce the largest gains [Feedback is most effective at the task and process levels rather than the self level.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Prompts should be faded as competence grows, since persistent prompting can become a crutch that learners cannot function without [Fading support promotes transfer of responsibility from scaffold to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - Effectiveness reverses with expertise: highly knowledgeable learners find explicit prompts redundant and distracting [Guidance such as prompts becomes less effective — and can reverse — as learner expertise increases.](../claims/expertise-reversal-effect.md) [~S]
 
 ### Target Learners
-- Novices who do not yet spontaneously use strategies like self-explanation or monitoring [Self-explanation prompts improve learning by forcing learners to connect steps to underlying principles.](../claims/self-explanation-improves-learning.md) [+M]
+- Novices who do not yet spontaneously use strategies like self-explanation or monitoring [Self-explanation prompts improve learning by forcing learners to connect steps to underlying principles.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - Learners with weak metacognitive habits who benefit from externalized self-questioning
 - Less beneficial for experts, for whom prompts impose redundancy [Guidance such as prompts becomes less effective — and can reverse — as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 

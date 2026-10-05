@@ -9,7 +9,7 @@ generated:
   at: 2026-04-07
 sources:
   - id: jacobson-1995
-    resource: "https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M"
+    resource: "https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn"
     title: "Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301-333"
     author: "Jacobson, M. J., & Spiro, R. J"
 author: Rand Spiro et al.
@@ -19,7 +19,7 @@ grain_size: unit
 # Cognitive Flexibility Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 mixed) · 9 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts. Rather than presenting knowledge as a single linear explanation, the pattern helps learners see how ideas shift depending on context, representation, and problem framing. It is especially useful where oversimplified rules break down and learners need to interpret complexity rather than apply a fixed procedure.
@@ -64,7 +64,7 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting

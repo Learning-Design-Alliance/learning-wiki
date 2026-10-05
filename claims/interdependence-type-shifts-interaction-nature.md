@@ -62,6 +62,6 @@ Interaction quantity analysis of transcript data from the same 40 triads; combin
 
 
 ## Related Claims
-- [Structuring positive interdependence (role, reward, or both) does not affect achievement for adult reentry students in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
+- [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
 - [All three structured interdependence conditions produce higher agreement that team members' sense of obligation to contribute aided learning, compared with no structured interdependence](structured-interdependence-contribution-obligation-attitude.md) — related
 - [Reward interdependence raises agreement that group work was beneficial and generated better ideas among adult online learners](reward-interdependence-benefit-attitudes.md) — related

@@ -12,7 +12,7 @@ generated:
 # Comprehension Checks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies (6 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Comprehension checks are brief, targeted questions or tasks inserted at intervals during reading, listening, or instruction to verify that learners are constructing the intended meaning. They interrupt passive reception, surface misconceptions while they can still be corrected, and give the instructor real-time evidence for adjusting pacing and support.

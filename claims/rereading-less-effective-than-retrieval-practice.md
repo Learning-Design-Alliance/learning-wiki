@@ -88,7 +88,7 @@ A systematic review evaluating ten learning techniques against generalisability,
 ## Related Claims
 
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — active engagement during learning generally outperforms passive exposure, of which rereading is a prime case
-- [Annotating improves learning](annotating-improves-learning.md) — another generative alternative to passive restudy
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative alternative to passive restudy
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — relevant to why retrieval demands are manageable when material is well-organized
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the load-management backdrop for choosing between study strategies
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related

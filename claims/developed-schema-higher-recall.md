@@ -44,8 +44,8 @@ The essay cites Brewer and Nakamura (1984) for this basic finding, noting that "
 
 ## Related Claims
 - [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
-- [Advance Organizers Improve Learning](advance-organizers-improve-learning.md) — related
-- [Mismatched Graphic Organizers Increase Extraneous Load](mismatched-graphic-organizers-increase-extraneous-load.md) — related
+- [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
+- [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Readers given a perspective or schema recall more text information than readers instructed to carefully read the story](schema-perspective-improves-text-recall.md) — a narrower finding that bears on this claim

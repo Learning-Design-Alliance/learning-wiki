@@ -65,7 +65,7 @@ The same discipline applies on the measurement side, where the confounds are mor
 - Learners with varying fine motor skill, device access, or prior gaming experience, all of which requirement 3 turns into measurable disadvantage
 
 ### Target Learning Objectives
-- Conceptual understanding that survives outside the game, which requirement 2 exists to protect [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- Conceptual understanding that survives outside the game, which requirement 2 exists to protect [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M]
 - Rule and strategy application at the conceptual level rather than at the level of computing an answer
 - Mental models of a system, built from acting inside its rules
 
@@ -83,7 +83,7 @@ The same discipline applies on the measurement side, where the confounds are mor
 - [Reducing extraneous cognitive load improves learning outcomes.](../claims/cognitive-load-reduction-improves-learning.md) [~M] — requirement 1 accepts some extraneous load for motivational return, so the claim constrains the principle rather than simply supporting it
 - [Desirable difficulties enhance learning.](../claims/desirable-difficulties-enhance-learning.md) [+M] — requirement 2's insistence that the mechanic not do the learner's work for them
 - [Fading support promotes transfer of responsibility](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — the escape clause on requirement 2: scaffolding inside a mechanic is acceptable if a later level removes it
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — why a mechanic that keeps the activity at the conceptual level beats one that collects the answer
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — why a mechanic that keeps the activity at the conceptual level beats one that collects the answer
 - [Guidance that helps novices can become redundant as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — the scaffolding a mechanic bakes in is calibrated to one level of expertise and will be wrong for another
 
 ## Related Principles

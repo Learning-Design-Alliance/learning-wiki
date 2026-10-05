@@ -44,4 +44,4 @@ Synthesis of four retention studies (Block, 1972; Omelich & Covington, 1981; Wen
 
 ## Related Claims
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
-- [Group-based mastery learning raises time-on-task and lowers course attrition, in contrast to PSI findings](mastery-improves-engagement-attrition.md) — related
+- [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related

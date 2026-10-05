@@ -12,7 +12,7 @@ generated:
 # Web-Search Scavenger Hunt
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 A web-search scavenger hunt is a gamified activity in which students answer a series of questions by searching online, with points awarded for each credible source they identify and use. Students typically work in teams, combining search-skill practice with source evaluation. The activity converts the tacit skills of query formulation, result scanning, and credibility judgment into an explicit, practiced task with immediate feedback.

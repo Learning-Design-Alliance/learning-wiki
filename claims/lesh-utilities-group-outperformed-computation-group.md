@@ -43,4 +43,4 @@ The review reports a study comparing two groups (n1 = n2 = 10) of ninth graders 
 
 
 ## Related Claims
-- [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) — related
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related

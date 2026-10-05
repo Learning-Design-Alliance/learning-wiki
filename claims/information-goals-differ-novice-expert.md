@@ -44,4 +44,4 @@ Longitudinal case study of one information worker: "The novice was looking for t
 
 ## Related Claims
 - [Forming a focus, rather than merely gathering information, is the main task in complex information seeking](forming-focus-main-task-information-seeking.md) — related
-- [Reflective practice shows mixed evidence of effectiveness in professional education](reflective-practice-evidence-mixed-in-professional-education.md) — related
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related

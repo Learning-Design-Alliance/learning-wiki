@@ -14,7 +14,7 @@ grain_size: course
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 13 studies (4 causal, 4 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 13 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 

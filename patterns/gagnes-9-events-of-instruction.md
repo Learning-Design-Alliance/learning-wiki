@@ -15,7 +15,7 @@ grain_size: lesson
 # Gagné's 9 Events of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (1 for, 8 mixed) · 12 studies (3 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 0 of 12 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (1 for, 8 mixed) · 14 studies (4 causal, 3 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 14 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 

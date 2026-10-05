@@ -45,6 +45,6 @@ MANOVA on the 12-item Likert attitude survey administered after the lesson and p
 
 ## Related Claims
 - [Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items](no-objectives-group-most-positive-attitudes.md) — related
-- [Including practice with feedback in computer-based instruction significantly raises posttest achievement](practice-presence-raises-cbi-posttest-achievement.md) — related
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related
 - [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](linguist-review-revealed-item-communication-problems.md) — related
 - [Students notice the absence of practice and examples: attitude items about those events are rated lower when the events are missing](students-notice-missing-practice-and-examples.md) — a narrower finding that bears on this claim

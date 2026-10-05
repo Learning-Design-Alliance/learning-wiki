@@ -69,7 +69,9 @@ Using a quasi-experimental design across two sections of a required first-year e
 
 **Constraints on effectiveness.** Reflection prompts that are too open or too vague tend to elicit description rather than analysis, producing little measurable gain [-M]. Reflection imposed as a compliance ritual — completed without follow-through on the plans it generates — risks teaching learners that reflection is performative rather than functional [-W]. For learners already near expertise in a domain, prompted reflection on well-mastered processes can be redundant, echoing the [expertise-reversal effect](../theories/expertise-reversal-effect.md) [~M]. Reflection that displaces substantive practice time, or is layered onto learners experiencing [cognitive overload](../claims/cognitive-overload-degrades-learning.md), can also fail to produce gains [~M].
 
-**Evidence status.** This page needs primary evidence entries before the claim can be rated; see the TODO markers above. Until controlled or meta-analytic evidence is added, treat the claim as a well-motivated design principle rather than an empirically rated one. Candidate evidence to add includes meta-analyses of prompted self-reflection and self-assessment interventions on achievement, and controlled studies comparing structured versus unstructured reflection prompts.
+**Evidence status.** Two studies are recorded: a meta-analysis of 48 school-based writing-to-learn studies (Bangert-Drowns et al. 2004) in which metacognitive-reflection prompts were the only writing-content moderator associated with larger effects (b = 0.48), and a quasi-experiment with 208 first-year engineering students (Menekse et al. 2022) in which specific prompts outperformed generic ones with the number of reflections held constant. The first is a moderator association across studies and the second is non-randomised with no effect size reported, so no randomised comparison of structured versus unstructured reflection is recorded yet. Still missing: randomised studies of that comparison, and meta-analyses of prompted self-reflection and self-assessment interventions on achievement.
+
+<!-- deprecated (2026-10-05, stale: entries had been added): **Evidence status.** This page needs primary evidence entries before the claim can be rated; see the TODO markers above. Until controlled or meta-analytic evidence is added, treat the claim as a well-motivated design principle rather than an empirically rated one. Candidate evidence to add includes meta-analyses of prompted self-reflection and self-assessment interventions on achievement, and controlled studies comparing structured versus unstructured reflection prompts. -->
 
 ## Related Claims
 
@@ -81,7 +83,7 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation](mastery-goals-predict-metacognitive-strategies-fear-of-failure-negative.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
-- [Reflective practice shows mixed evidence of effectiveness in professional education](reflective-practice-evidence-mixed-in-professional-education.md) — related
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

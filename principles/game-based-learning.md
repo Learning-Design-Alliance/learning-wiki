@@ -21,7 +21,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 13 studies (5 causal, 4 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q3` · 4 of 13 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 15 studies (6 causal, 5 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 15 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,7 +102,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M] — not yet checked against its sources
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
 
 ## Objective and learner-valued goal
 

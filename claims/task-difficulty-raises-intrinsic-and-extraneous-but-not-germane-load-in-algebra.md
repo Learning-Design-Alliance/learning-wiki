@@ -62,7 +62,7 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 
 
 ## Related Claims
-- [Mismatched Graphic Organizers Increase Extraneous Load](mismatched-graphic-organizers-increase-extraneous-load.md)
+- [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md)
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related

@@ -12,7 +12,7 @@ generated:
 # Math Talks / Number Talks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Math Talks, also known as Number Talks, are short (5–15 minute), frequent classroom routines in which students solve a computation or estimation problem mentally — no paper or pencil — and then share their answers and the strategies behind them. The instructor records and names each strategy, facilitates comparison across approaches, and uses probing questions to clarify and extend student thinking. The routine builds mental computation fluency, flexibility with numbers and operations, and mathematical communication, while positioning errors and divergent strategies as objects of productive discussion.

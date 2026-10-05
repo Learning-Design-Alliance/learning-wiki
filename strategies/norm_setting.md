@@ -25,7 +25,7 @@ sources:
 # Norm Setting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 15 studies (9 quant-synthesis, 4 causal, 1 review, 1 theoretical), `q1`–`q4` · 7 of 15 report an effect size
+> **Evidence** · 7 claims (7 for) · 15 studies (9 quant-synthesis, 3 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 7 of 15 report an effect size
 
 ## Description
 Norm setting is the practice of establishing an explicit, short set of agreements about how a group will work together, generated with the learners rather than announced to them, and then referred to routinely in the ordinary business of the class. The distinguishing feature is not the list — most classrooms have rules — but that the agreements are stated in terms of observable behaviour, produced by the people bound by them, and used as the shared language for both recognizing and repairing conduct. A norm nobody invokes is decoration.
@@ -71,7 +71,7 @@ Two bodies of evidence bear on the practice. Norm setting is a standard componen
 ### Target Learning Goals
 - A predictable, psychologically safe environment in which uncertainty and error can be shown [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Social-emotional competencies: self-management, social awareness, relationship skills [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
-- Discussion quality — the precondition for talk-based learning to work at all [Discussion Quality Drives Comprehension](../claims/discussion-quality-drives-comprehension.md) [+M]
+- Discussion quality — the precondition for talk-based learning to work at all [Discussion Quality Drives Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 - Reduced instructional time lost to low-level disruption
 - Shared responsibility for the climate, rather than climate as the teacher's job
 

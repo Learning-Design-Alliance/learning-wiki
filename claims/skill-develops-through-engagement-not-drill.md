@@ -44,4 +44,4 @@ Theoretical argument in section II.2 drawing on the cognitive-psychological skil
 
 ## Related Claims
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — reports the opposite
-- [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md) — related
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — related

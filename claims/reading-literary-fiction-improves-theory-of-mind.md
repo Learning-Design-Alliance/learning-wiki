@@ -98,4 +98,4 @@ In five experiments, adults read a short passage and then took tests of affectiv
 - [Discussion-based learning.](../patterns/discussion-based-learning.md) — a natural instructional pairing for converting momentary priming into articulated social inference
 - [Act it out.](../elements/act-it-out.md) — embodied perspective-taking that may exercise the same mental-state inference processes as literary reading
 - [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — related
-- [Fiction Reading Improves Empathy](fiction-reading-improves-empathy.md) — possibly the same claim (merge candidate)
+- [Reading fiction produces a very small improvement in social-cognitive (theory-of-mind) task performance, which has not been shown to be a gain in empathy](fiction-reading-improves-empathy.md) — possibly the same claim (merge candidate)

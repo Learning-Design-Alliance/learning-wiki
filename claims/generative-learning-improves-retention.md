@@ -53,12 +53,11 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 ## Related Claims
 
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — generative tasks are a core mechanism within active learning
-- [Annotating improves learning](annotating-improves-learning.md) — annotation is a common generative strategy, effective when it transforms meaning rather than copies it
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — annotation is a common generative strategy, effective when it transforms meaning rather than copies it
 - [Activation improves learning](activation-improves-learning.md) — generation works by connecting new material to activated prior knowledge
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — generative tasks add load; managing that load determines whether the effort is germane
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — possibly the same claim (merge candidate)
-- [Self-explanation improves learning](self-explanation-improves-learning.md) — related
+- [Self-explanation improves learning](self-explanation-improves-conceptual-understanding.md) — related
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Generative processing improves learning](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
-- [Self Explanation Prompts Improve Learning From Worked Examples](self-explanation-prompts-improve-learning-from-worked-examples.md) — a narrower finding that bears on this claim
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related

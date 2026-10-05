@@ -12,14 +12,14 @@ generated:
 # Reflection On Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (6 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (6 quant-synthesis, 2 causal, 1 review, 1 associational), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Reflection on learning is the deliberate, structured act of prompting learners to examine what they have learned, how they learned it, and what it means for future action. It is carried out through prompts, journals, exit tickets, structured discussions, or portfolio entries that require learners to articulate their understanding and monitor their own learning processes. Unlike unstructured "think about it" exhortations, effective reflection is scaffolded with specific questions tied to content and process.
 
 ## Design Implications
 
-Reflection works by converting experience into articulated knowledge: generating explanations and connections during reflection produces learning gains beyond restudying [Self-explanation prompts improve conceptual understanding compared to reading or solving without explanation.](../claims/self-explanation-improves-learning.md) [+S]. It also builds the self-monitoring habits central to [Self-Regulated Learning](../theories/self-regulated-learning.md), helping learners calibrate confidence against actual performance [High-confidence errors are especially persistent, making confidence-checking reflection valuable.](../claims/high-confidence-errors-improve-retention.md) [+M]. The quality of reflection depends on prompt specificity — vague prompts ("reflect on today's class") yield vague, low-yield responses.
+Reflection works by converting experience into articulated knowledge: generating explanations and connections during reflection produces learning gains beyond restudying [Self-explanation prompts improve conceptual understanding compared to reading or solving without explanation.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. It also builds the self-monitoring habits central to [Self-Regulated Learning](../theories/self-regulated-learning.md), helping learners calibrate confidence against actual performance [High-confidence errors are especially persistent, making confidence-checking reflection valuable.](../claims/high-confidence-errors-improve-retention.md) [+M]. The quality of reflection depends on prompt specificity — vague prompts ("reflect on today's class") yield vague, low-yield responses.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Reflection works by converting experience into articulated knowledge: generating
 - **Portfolio reflection** — learners select and justify artifacts against criteria, connecting reflection to [Assessment](../elements/assessment.md)
 
 ### Target Learners
-- Learners with some foundational knowledge, who have enough schema to generate meaningful explanations [Self-explanation prompts improve conceptual understanding compared to reading or solving without explanation.](../claims/self-explanation-improves-learning.md) [+M]
+- Learners with some foundational knowledge, who have enough schema to generate meaningful explanations [Self-explanation prompts improve conceptual understanding compared to reading or solving without explanation.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - Adolescents through adults; younger learners need heavily scaffolded, concrete prompts
 - High-achievers who overestimate their understanding benefit from confidence-calibration prompts [High-confidence errors are especially persistent, making confidence-checking reflection valuable.](../claims/high-confidence-errors-improve-retention.md) [+M]
 

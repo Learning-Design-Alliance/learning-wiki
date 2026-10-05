@@ -44,7 +44,7 @@ The strategy is most distinctive when it runs *before* instruction. Schwartz and
 #### Requirements
 - A set of cases engineered so that one dimension varies and the rest are held constant — off-the-shelf examples almost never satisfy this and usually have to be built
 - A prompt that requires learners to *articulate* the difference; silent side-by-side presentation produces much weaker effects ([Articulation](../elements/articulation.md))
-- Enough prior knowledge to interpret each individual case; a learner who cannot read one case cannot compare two [Activation Improves Learning](../claims/activation-improves-learning.md) [+M]
+- Enough prior knowledge to interpret each individual case; a learner who cannot read one case cannot compare two [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
 - Simultaneous presentation — cases visible at the same time, not on successive pages or slides
 - A follow-up explanation or consolidation step when the cases are used before instruction ([Demonstration](../elements/demonstration.md))
 

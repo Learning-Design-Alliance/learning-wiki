@@ -69,7 +69,7 @@ Gentner, D., Loewenstein, J., & Thompson, L. (2003). Learning and transfer: A ge
 
 `q3 · peer-reviewed randomised experiment (3 experiments)` · `i? · no standardised effect size reported; 48% vs 19% transfer, χ²(1, N=128)=11.85` · `n=128 (Experiment 2)` · `causal · r?`
 
-In Experiment 2, 128 undergraduates learning negotiation strategies were randomly assigned either to read two example cases on one page and describe their similarities, or to read and describe the same two cases on separate pages. On a later test negotiation, 48% of the comparison group used the target principle against 19% of the separate-cases group, and comparers were also more likely to state the principle in full. Experiment 1 found a benefit of comparison over no case study, and Experiment 3 found that more comparison support raised transfer in a face-to-face negotiation.
+In Experiment 2, 128 undergraduates learning negotiation strategies were randomly assigned either to read two example cases on one page and describe their similarities, or to read and describe the same two cases on separate pages. On a later test negotiation, 48% of the comparison group used the target principle against 19% of the separate-cases group, and comparers were also more likely to state the principle in full. Experiment 1 found a benefit of comparison over no case study, and Experiment 3 found that more comparison support raised transfer in a face-to-face negotiation. The n code counts Experiment 2 only, the source of the 48% vs 19% comparison; the paper reports three experiments, and a page counting all three records a larger n.
 
 ### Rittle-Johnson & Star 2007
 

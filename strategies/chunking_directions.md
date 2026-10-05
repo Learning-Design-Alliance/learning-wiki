@@ -12,7 +12,7 @@ generated:
 # Chunking Directions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Chunking directions means delivering multi-step instructions in short, sequenced segments — one step or small cluster at a time — rather than as a single long block. Each chunk is completed (or rehearsed) before the next is presented, keeping the amount of information learners must hold in mind at any moment within working memory limits.

@@ -21,7 +21,7 @@ sources:
 # Real-world Math
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 mixed) · 8 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 mixed) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study. The point is not merely to decorate abstract content with a story problem; it is to show how mathematical reasoning helps make sense of actual decisions, quantities, tradeoffs, and patterns. For adult learners especially, relevance can improve persistence and reduce the sense that math is disconnected from everyday competence.
@@ -29,7 +29,7 @@ Real-world math connects mathematical ideas to situations learners recognize as 
 This principle also broadens what counts as mathematical experience. When instructors draw on learners' cultural practices, workplace tasks, and informal problem-solving, math becomes something learners already use and can extend, not just something delivered by school. The quality of the context matters: examples should be authentic enough to support transfer without adding unnecessary complexity or stereotyping learner experience.
 
 ## Implications
-Real-world math improves engagement and transfer when the mathematical structure is tied to situations learners actually care about. Authentic contexts can make the purpose of a concept clearer and support whole-task application [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S], but relevance alone is not enough. Learners still need help seeing the underlying structure, explaining why the math fits the situation [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S], and navigating the extra complexity that context can introduce [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. The best real-world math tasks respect learner experience without letting the context overshadow the mathematics.
+Real-world math improves engagement and transfer when the mathematical structure is tied to situations learners actually care about. Authentic contexts can make the purpose of a concept clearer and support whole-task application [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S], but relevance alone is not enough. Learners still need help seeing the underlying structure, explaining why the math fits the situation [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S], and navigating the extra complexity that context can introduce [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. The best real-world math tasks respect learner experience without letting the context overshadow the mathematics.
 
 ### Context
 #### Requirements
@@ -65,7 +65,7 @@ Real-world math improves engagement and transfer when the mathematical structure
 - Context should support abstraction, not trap learning inside a single familiar example.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — contextual math tasks often need responsive support so the situation clarifies rather than obscures the concept
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
 

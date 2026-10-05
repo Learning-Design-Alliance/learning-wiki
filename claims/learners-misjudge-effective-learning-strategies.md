@@ -90,7 +90,7 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — external feedback can substitute for learners' faulty internal monitoring
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the framework this claim constrains: inaccurate monitoring corrupts strategy regulation
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — effective strategies manage load; learners' fluency judgments conflate low load with learning.
-- [Annotating improves learning](annotating-improves-learning.md) — annotating can support processing, but superficial marking is one of the strategies learners overprefer.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — annotating can support processing, but superficial marking is one of the strategies learners overprefer.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the flip side of the fluency trap: strategies that feel easy may not be the ones that manage load well.
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](instructions-increase-self-testing-cumulative-learning.md) — related

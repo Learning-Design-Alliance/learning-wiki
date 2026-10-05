@@ -12,7 +12,7 @@ generated:
 # Trampoline Review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 5 studies (3 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies (4 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Trampoline Review is a kinesthetic strategy in which learners rehearse or retrieve academic content while bouncing on a mini-trampoline or performing comparable rhythmic gross-motor movement (marching, jumping jacks, ball tossing). The movement is intended to raise arousal and engagement while the learner performs retrieval of the target material. The strategy is best understood as retrieval practice delivered under elevated physiological arousal, not as a distinct memory mechanism.

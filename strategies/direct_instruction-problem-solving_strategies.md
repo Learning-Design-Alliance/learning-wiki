@@ -12,7 +12,7 @@ generated:
 # Direct Instruction: Problem-Solving Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 quant-synthesis, 3 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (5 quant-synthesis, 4 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy makes the *strategic layer* of problem solving an explicit object of instruction. Rather than assuming learners will absorb heuristics implicitly, the instructor names, models, and compares strategies (e.g., means-ends analysis, working backwards, drawing a diagram, identifying an analogous problem), demonstrates when each is useful, and then structures practice in which learners select, apply, and evaluate strategies for themselves. The goal is transferable strategic knowledge — knowing *which* approach fits *which* problem — not just execution of a single procedure.

@@ -17,7 +17,7 @@ sources:
     title: "Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465-489"
     author: Metcalfe, J
   - id: hooley-2017
-    resource: "https://doi.org/10.1007/s11423-017-9525-2"
+    resource: "https://doi.org/10.1007/s11423-017-9514-5"
     title: "Hooley, D. S., & Thorpe, J. (2017). The effects of formative reading assessments closely linked to classroom texts on high school reading comprehension. *Educational Technology Research and Development, 65*(5), 1215-1238"
     author: "Hooley, D. S., & Thorpe, J"
 ---

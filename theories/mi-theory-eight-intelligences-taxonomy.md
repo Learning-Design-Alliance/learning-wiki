@@ -16,7 +16,7 @@ sources:
 # Gardner's Multiple Intelligences theory: eight named intelligences with a possible ninth
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (1 mixed, 6 against) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (1 mixed, 6 against) · 4 studies (2 review, 1 causal, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The review briefly outlines Gardner's MI theory before presenting critics. Gardner defines intelligence as "a biopsychological potential to process information that can be activated in a cultural setting to solve problems or create products that are of value in a culture." The theory posits at least seven basic intelligences, later an eighth and a possible ninth: linguistic, logical-mathematical, spatial, musical, body-kinesthetic, interpersonal, intrapersonal, and naturalist, with spiritual or existential intelligence mentioned but not officially included.
@@ -41,7 +41,7 @@ The review briefly outlines Gardner's MI theory before presenting critics. Gardn
 - [Gardner never laid down a detailed plan for applying MI theory in schools, and classroom implementations operate independently of him](../claims/gardner-no-detailed-classroom-application-plan.md) [~M]
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](../claims/high-scorers-across-intelligences-support-g.md) [-M]
 - [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](../claims/intellectual-test-performances-correlated.md) [-M]
-- [Matching instruction to students' learning styles or intelligences has no effect on learning](../claims/matching-instruction-to-styles-no-effect.md) [-M]
+- [Matching instruction to students' learning styles or intelligences has no effect on learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-M]
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](../claims/mi-lacks-empirical-theory-testing.md) [-M]
 - [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](../claims/multiple-intelligences-weak-on-science-talent.md) [-W]
 

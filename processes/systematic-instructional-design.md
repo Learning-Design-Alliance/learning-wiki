@@ -37,7 +37,7 @@ Its defining commitment is **derivation**: nothing enters the course that cannot
 - **Objectives crowd out what cannot be operationalised.** Dispositions, judgement and taste are hard to write as performance objectives and so tend to be dropped rather than taught
 - **Analysis paralysis.** A full hierarchical task analysis of a large domain can outlast the need it was commissioned for
 - **Weak on ill-defined problems.** Where nobody yet knows what the course should achieve, the process has nothing to derive from; [Design Thinking](design-thinking.md) starts there instead
-- **Over-decomposition risks losing the whole task.** Splitting a complex skill into separately-taught subskills can leave learners able to do each part and unable to do the job — the argument [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [-M] makes against fragmenting practice
+- **Over-decomposition risks losing the whole task.** Splitting a complex skill into separately-taught subskills can leave learners able to do each part and unable to do the job — the argument [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [-M] makes against fragmenting practice
 
 #### Grain Size
 - Course
@@ -69,7 +69,7 @@ Its defining commitment is **derivation**: nothing enters the course that cannot
 - [Prior knowledge determines new learning.](../claims/prior-knowledge-determines-new-learning.md) [+S] — the premise of entry-behaviour analysis
 
 #### Contradicting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [-M] — a constraint on part-task decomposition, not on the process as a whole
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [-M] — a constraint on part-task decomposition, not on the process as a whole
 
 ## Design
 

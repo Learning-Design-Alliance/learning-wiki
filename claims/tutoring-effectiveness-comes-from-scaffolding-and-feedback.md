@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Tutoring Effectiveness Comes From Scaffolding And Feedback
+title: "Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,15 @@ sources:
     rigour: "?"
 ---
 
-# Tutoring Effectiveness Comes From Scaffolding And Feedback
+# Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q3` · `i2` medium
+<!-- deprecated title (2026-10-05, overstated its evidence): Tutoring Effectiveness Comes From Scaffolding And Feedback -->
 
-The learning benefits of tutoring are attributed to the tutor's ability to scaffold tasks within the learner's zone of proximal development and to provide immediate, adaptive feedback — not merely to one-on-one attention.
+<!-- deprecated (2026-10-05, overstated its evidence): The learning benefits of tutoring are attributed to the tutor's ability to scaffold tasks within the learner's zone of proximal development and to provide immediate, adaptive feedback — not merely to one-on-one attention. -->
+
+The two studies recorded here show that human tutoring outperforms no tutoring by a medium amount (VanLehn 2011), and that in one small study of 8th-graders students learned as well when tutors were told to withhold explanations and feedback and only prompt as when tutors explained and gave feedback (Chi et al. 2001). Neither study shows that tutor feedback is a source of tutoring's effect; the Chi et al. result points to scaffolded student construction instead.
 
 ## Subclaims
 
@@ -61,7 +64,7 @@ A review of experiments comparing human tutoring, several classes of computer tu
 
 ## Discussion
 
-**The recorded evidence complicates the title.** In Chi et al. (2001), when tutors were told to withhold feedback and explanations and only prompt, students learned as much, which the authors attribute to the students' own construction rather than to tutor feedback. So the evidence recorded here supports scaffolding more than feedback as the source of tutoring's effect.
+**What the recorded evidence supports.** In Chi et al. (2001), when tutors were told to withhold feedback and explanations and only prompt, students learned as much, which the authors attribute to the students' own construction rather than to tutor feedback. So the evidence recorded here supports scaffolding more than feedback as the source of tutoring's effect; the page's former title, which named both, overstated it. The paragraphs below describe the wider literature's proposed mechanisms, which no entry here tests.
 
 **Why tutoring works.** The dominant explanation for tutoring's large learning gains is process-based: effective tutors continuously diagnose the learner's understanding, adjust task difficulty and hints accordingly (scaffolding), and deliver feedback that is immediate, specific, and contingent on the learner's current performance. Bloom's (1984) "two sigma" observation — that one-on-one tutoring combined with mastery learning produced achievement roughly two standard deviations above conventional instruction — framed tutoring as a benchmark, and subsequent work has sought to decompose *which* tutor behaviors drive the effect rather than treating tutoring as an undifferentiated treatment. Scaffolding and contingent feedback are the two most consistently cited candidate mechanisms, and both are independently supported in the broader literature (see [Cognitive load management](../principles/cognitive-load-management.md) and [Feedback improves learning](feedback-improves-learning.md)).
 

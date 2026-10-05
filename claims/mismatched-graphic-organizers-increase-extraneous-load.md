@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Mismatched Graphic Organizers Increase Extraneous Load
+title: "Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,12 +19,15 @@ sources:
     rigour: "?"
 ---
 
-# Mismatched Graphic Organizers Increase Extraneous Load
+# Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium · n=157 (Experiment 1) and n≈134 (Experiment 2), German university students
+<!-- deprecated title (2026-10-05, overstated its evidence): Mismatched Graphic Organizers Increase Extraneous Load -->
 
-A graphic organizer helps learning only when its structure matches the structure of the content and the task; a mismatched organizer forces learners to reconcile two incompatible representations, consuming working-memory resources that do not contribute to schema construction.
+<!-- deprecated (2026-10-05, overstated its evidence): A graphic organizer helps learning only when its structure matches the structure of the content and the task; a mismatched organizer forces learners to reconcile two incompatible representations, consuming working-memory resources that do not contribute to schema construction. -->
+
+The one study recorded here tested bar graphs, not graphic organizers, and did not measure cognitive load. In two experiments, university students recalled election data more accurately when the recall graph matched the format they had studied (η² = .03–.04), and cueing an incongruent perspective degraded recall (d = 0.52–0.54). But students also recalled better from whichever perspective was thematically dominant in the material, regardless of the format studied. The authors interpret the cost as load from an incongruent schema; extending it to graphic organizers, and to extraneous load as such, is this page's inference.
 
 ## Subclaims
 
@@ -41,6 +44,8 @@ Schnotz, W., & Baadte, C. (2015). Surface and deep structures in graphics compre
 Two between-subjects experiments had students study bar graphs of (fictional-data) US election results presented in one of two informationally-equivalent visual formats ("party" graphs vs. "religion" graphs), then recall the content by filling in blank graphs of either the studied or a differently-formatted item. In both experiments a significant graph-format × recall-item-format interaction showed recall was more accurate when the recall format matched the studied format (F(1,151)=6.52, p=.006, η²=.04 in Exp. 1; F(1,128)=4.22, p=.021, η²=.03 in Exp. 2), and cueing an unfamiliar, incongruent processing perspective by instruction significantly *degraded* recall of the previously-studied content (t(151)=2.03, p=.022, d=0.54, and t(151)=1.99, p=.025, d=0.52) — consistent with the authors' framing that an incongruent schema "impose[s] a higher cognitive load on working memory," producing interference. The important qualifier: participants also recalled content more accurately from whichever perspective was *thematically* dominant in the material regardless of which graphic format they had studied — in Experiment 2 they recalled the non-studied format's items *better* than the studied one (t(66)=3.83, p<.001, d=0.51). So format (surface-structure) mismatch imposes a real but modest processing cost, which the content's underlying task-relevance can override.
 
 ## Discussion
+
+**What is and is not shown.** The paragraphs below apply the bar-graph finding to graphic organizers through cognitive load theory. No study recorded here tests a graphic organizer or measures extraneous load, and the strength tags below predate that reading.
 
 **Mechanism.** Within [Cognitive Load Theory](../theories/cognitive-load-theory.md), extraneous load arises from instructional design that requires processing not directed at learning. A well-matched organizer (e.g., a compare/contrast matrix for comparative content, a cycle diagram for cyclical processes) externalizes relationships so learners need not hold them in working memory — consistent with the claim that [chunking reduces working-memory load](../claims/chunking-reduces-working-memory-load.md) [+M]. A mismatched organizer adds a second, partially inconsistent representation: learners must map organizer slots onto content that does not fit them, splitting attention between the two structures — a condition analogous to the split-attention effect. The result is the same outcome described in [cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) [+S]: resources spent on reconciliation rather than schema construction.
 

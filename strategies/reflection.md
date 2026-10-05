@@ -12,14 +12,14 @@ generated:
 # Reflection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 3 causal, 1 review, 1 associational), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Reflection is a structured activity in which learners deliberately revisit an experience, artifact, or problem to examine what happened, why it happened, and what should change next time. It is carried out through prompts, journals, structured protocols (e.g., [3-2-1 Reflection](../strategies/3-2-1_reflection.md)), or discussion, and works best when it produces a concrete artifact or commitment rather than unstructured rumination.
 
 ## Design Implications
 
-Reflection converts experience into transferable knowledge by forcing learners to articulate the reasoning behind outcomes — a mechanism closely related to self-explanation, which reliably improves understanding when learners explain their steps to themselves [Chi et al.'s self-explanation work supports this.](../claims/self-explanation-improves-learning.md) [+M]. Unprompted reflection is rare and shallow; effective designs supply specific prompts, time, and a follow-through mechanism such as [Action Planning](../strategies/action_planning.md). Reflection also functions as formative [Assessment](../elements/assessment.md) data, revealing misconceptions and self-regulation gaps the instructor can act on [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
+Reflection converts experience into transferable knowledge by forcing learners to articulate the reasoning behind outcomes — a mechanism closely related to self-explanation, which reliably improves understanding when learners explain their steps to themselves [Chi et al.'s self-explanation work supports this.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Unprompted reflection is rare and shallow; effective designs supply specific prompts, time, and a follow-through mechanism such as [Action Planning](../strategies/action_planning.md). Reflection also functions as formative [Assessment](../elements/assessment.md) data, revealing misconceptions and self-regulation gaps the instructor can act on [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ### Context
 #### Requirements

@@ -13,8 +13,8 @@ sources:
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     title: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202"
     author: "Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M."
-    q: 3
-    i: 1
+    q: 2
+    i: 3
     kind: associational
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
+> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
-`q3 i1` Conflict between student and community partner negatively correlated with social justice (r = -.38, p < .01) and diversity (r = -.36, p < .01) attitudes; antagonism negatively correlated with social justice (r = -.41, p < .001) and diversity (r = -.36, p < .01) attitudes. [→ Harkins 2020](#harkins-2020)
+`q2 i3` Conflict between student and community partner negatively correlated with social justice (r = -.38, p < .01) and diversity (r = -.36, p < .01) attitudes; antagonism negatively correlated with social justice (r = -.41, p < .001) and diversity (r = -.36, p < .01) attitudes. [→ Harkins 2020](#harkins-2020)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-M. (2020). Building relationships for critical service-learning. Michigan Journal of Community Service Learning, 26(2), 21–38. https://doi.org/10.3998/mjcsloa.3239521.0026.202
 
-`q3 · i1` · `associational · r1`
+`q2 · correlational analysis` · `i3 · r = −.38 and −.41 with social justice attitudes (i3 under r bins), r = −.36 with diversity attitudes (i2)` · `associational · r1`
 
 Correlational analyses of community partner-student NRI-SPV variables against CASQ outcomes across all participants. The article reports that negative relationship qualities specifically undermined social justice and diversity attitudes, while positive qualities correlated with civic action.
 
@@ -41,6 +41,7 @@ Correlational analyses of community partner-student NRI-SPV variables against CA
 
 ## Discussion
 
+One correlational study is recorded. The correlations are moderate to large by r bins (−.36 to −.41) but come from a single sample with no controls reported in the entry, so they do not show that conflict or antagonism lowers these attitudes; the direction could run either way. (Codes corrected 2026-10-05 from `q3 i1`: a correlational analysis is design tier q2, and |r| ≥ .37 is i3.)
 
 ## Related Claims
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — possibly the same claim (merge candidate)

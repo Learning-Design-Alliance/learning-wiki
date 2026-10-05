@@ -12,7 +12,7 @@ generated:
 # Consolidate Key Points
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Consolidate Key Points is the step in a discussion sequence — typically following [pair talk](../patterns/think-pair-share.md) or small-group work — in which the teacher elicits, synthesizes, and explicitly states the ideas students should retain. The teacher draws together student contributions, corrects or sharpens them, and names the takeaway so that every learner leaves the activity with a clear, accurate summary rather than a fragmentary memory of the conversation.

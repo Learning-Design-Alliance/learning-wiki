@@ -12,7 +12,7 @@ generated:
 # Mind Mapping
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Mind mapping is a visual thinking tool in which learners place a central concept at the middle of a page or screen and radiate related ideas outward as branches, sub-branches, and labeled links. It is used to capture, organize, and restructure information — during brainstorming, note-taking, planning, or revision — forcing learners to make relationships between ideas explicit. Unlike a linear outline, a mind map encodes hierarchy and association simultaneously, which can surface connections and gaps in understanding that linear formats obscure.

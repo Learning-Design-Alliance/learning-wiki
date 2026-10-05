@@ -12,7 +12,7 @@ generated:
 # Games + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Students engage with educational games designed to introduce or reinforce specific concepts, then complete a structured activity that requires them to apply, explain, or extend what the game surfaced. The game provides engagement, immediate feedback, and low-stakes experimentation; the structured activity converts that experience into durable understanding through [Practice](../elements/practice.md) and [Application](../elements/application.md). The pairing matters because game play alone rarely produces transfer — the debrief and application work is where consolidation happens.

@@ -73,7 +73,7 @@ Two meta-analyses of elementary and secondary school students related achievemen
 
 ## Related Claims
 
-- [Annotating improves learning](annotating-improves-learning.md) — a specific, well-studied strategy whose instruction exemplifies this claim.
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — a specific, well-studied strategy whose instruction exemplifies this claim.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a mechanism by which strategies improve performance.
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — a structural strategy taught before content to support comprehension.
 - [Activation improves learning](activation-improves-learning.md) — prior-knowledge activation is often embedded in strategy instruction routines.

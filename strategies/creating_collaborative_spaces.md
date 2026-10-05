@@ -12,7 +12,7 @@ generated:
 # Creating Collaborative Spaces
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (5 quant-synthesis, 1 causal, 1 review, 1 associational), `q2`–`q4` · 5 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 2 causal, 1 review, 1 associational), `q2`–`q4` · 6 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating collaborative spaces means structuring the classroom — physically, socially, and procedurally — so that peer interaction and joint problem-solving are the default mode of learning rather than an occasional add-on. This includes room layout, group formation routines, discussion norms, and task designs that require interdependence. The strategy treats collaboration as an environmental condition to be engineered, not a personality trait to be hoped for.

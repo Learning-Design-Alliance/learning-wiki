@@ -12,14 +12,14 @@ generated:
 # Socratic Questioning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (6 quant-synthesis, 5 causal, 1 review, 1 design), `q2`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 14 studies (6 quant-synthesis, 5 causal, 1 review, 1 associational, 1 design), `q2`–`q4` · 5 of 14 report an effect size
 
 ## Description
 Socratic questioning teaches through inquiry: the instructor poses a structured sequence of open-ended, probing questions that push learners to state their assumptions, examine evidence, consider alternatives, and follow the implications of their own reasoning. Rather than correcting errors directly, the questioner exposes contradictions and gaps so learners discover and repair them themselves. The strategy is carried out through disciplined follow-up — each learner answer becomes the basis for the next question — rather than through a fixed script.
 
 ## Design Implications
 
-Socratic questioning works because generating an answer forces deeper processing than receiving one: explaining and justifying reasoning produces self-explanation effects that improve understanding [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]. It also induces productive cognitive conflict — confronting contradictions in one's own reasoning motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. However, its effectiveness depends on question quality and sequencing: poorly scaffolded pure-discovery versions leave novices floundering, while guided questioning approaches consistently outperform unguided exploration [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [~S].
+Socratic questioning works because generating an answer forces deeper processing than receiving one: explaining and justifying reasoning produces self-explanation effects that improve understanding [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. It also induces productive cognitive conflict — confronting contradictions in one's own reasoning motivates conceptual change [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. However, its effectiveness depends on question quality and sequencing: poorly scaffolded pure-discovery versions leave novices floundering, while guided questioning approaches consistently outperform unguided exploration [Minimally guided instruction is less effective than guided instruction for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [~S].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Socratic questioning works because generating an answer forces deeper processing
 - Advanced and professional learners developing judgment in ill-structured domains (law, medicine, ethics)
 
 ### Target Learning Goals
-- Conceptual understanding and misconception repair [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-learning.md) [+S]
+- Conceptual understanding and misconception repair [Eliciting self-explanations improves understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Critical thinking and argument evaluation [Structured argumentation practice improves reasoning quality.](../claims/argumentation-improves-reasoning.md) [+M]
 - Metacognitive awareness of one's own assumptions and reasoning processes
 

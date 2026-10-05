@@ -12,7 +12,7 @@ generated:
 # Build Community Through Peer Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Students regularly exchange structured feedback on one another's work and use it to revise. The strategy serves two goals simultaneously: improving work quality through iterative critique, and building a classroom community in which students see peers as legitimate sources of expertise and support rather than competitors.

@@ -11,15 +11,15 @@ generated:
 grain_size: lesson
 sources:
   - id: vo-2006
-    resource: "https://doi.org/10.3200/JECE.37.3.315-331"
-    title: "Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331"
+    resource: "https://doi.org/10.3200/joeb.81.6.315-320"
+    title: "Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, technique, and some evidence. *Journal of Education for Business, 81*(6), 315-320"
     author: "Vo, H. X., & Morris, R. L"
 ---
 
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (9 mixed, 1 against) · 16 studies (4 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (9 mixed, 1 against) · 18 studies (5 quant-synthesis, 4 causal, 4 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -47,7 +47,7 @@ The default sequence is the earlier page's, kept because no claim here tests a d
 1. **Choose and check the resolution, and state the criteria.** The question must support competing, evidence-bearing claims. Evidence status: untested; from the earlier page (merged Debate Format). [The critique of unconstrained topic writing](../claims/unconstrained-topic-writing-yields-frivolous-resolutions.md) [~W] is one author's argument from tournament examples that frivolous resolutions sustain non-argumentative practice; it is not a test.
 2. **Collect each learner's starting position** in writing, with one reason for and one against. Evidence status: untested; proposed here so a debrief has something to compare with.
 3. **Assign positions or let teams prepare opposing interpretations, and give preparation time with sources.** Evidence status: untested; from the earlier page. Whether to allow evidence in the round is a design choice: [the parliamentary-rules critique](../claims/parliamentary-rules-ban-evidence-and-omit-cross-examination.md) [-W] argues that banning published evidence and omitting cross-examination removes research, evidence use and questioning from the training. It is argument, not a measured comparison.
-4. **Run the debate with openings, rebuttals and closings, under moderation of turn-taking.** Evidence status: untested; from the earlier page. [Discussion quality](../claims/discussion-quality-drives-comprehension.md) [~M] suggests that the amount of talk is not what matters, so the moderator's job is to keep turns responsive to the other case rather than to keep them full.
+4. **Run the debate with openings, rebuttals and closings, under moderation of turn-taking.** Evidence status: untested; from the earlier page. [Discussion quality](../claims/structured-discussion-methods-improve-comprehension.md) [~M] suggests that the amount of talk is not what matters, so the moderator's job is to keep turns responsive to the other case rather than to keep them full.
 5. **Debrief the reasoning, evidence use and what learners now think, and collect a revised individual position.** Evidence status: untested; from the earlier page. [Considering the opposite](../claims/considering-the-opposite-reduces-bias.md) [~W] gives a reason to ask each learner, specifically, what makes the opposing case strongest.
 6. **Reobserve alone**: an individual written argument on a new question at the stated horizon. Evidence status: the closest test is [dialogic peer argumentation transferring to individual essays on new topics](../claims/argumentation-improves-reasoning.md) [~M], against a comparison group with essay practice and whole-class discussion; not a debate.
 
@@ -62,7 +62,7 @@ The default sequence is the earlier page's, kept because no claim here tests a d
 ## Choosing configurations from evidence
 
 - **Argumentation in general.** [Argumentation improves reasoning](../claims/argumentation-improves-reasoning.md) [~M]: a meta-analysis of 46 online science argumentation studies (5,415 students) reports a medium effect on argumentation skill (g = 0.603) and on content learning through argument (g = 0.596), larger in K-12 than in higher education, read from its abstract only, so the comparison conditions are not established; and a multiyear dialogic-argumentation intervention with young adolescents, not described as randomised, transferred to better individual essays on new topics than a comparison group given essay practice and whole-class discussion, with no effect size in the abstract. Neither is a debate, and neither tests adversarial turns, judging or a public audience. Carry it as far as "structured argument with peers can improve individual argument", no further.
-- **Talk is not the active ingredient.** [Discussion quality drives comprehension](../claims/discussion-quality-drives-comprehension.md) [~M]: a meta-analysis of classroom discussion approaches found that only a minority of approaches improved comprehension or critical thinking, with effects moderated by design, outcome measure and student ability (abstract only, no pooled effect read), and a year-long single-group study of 35 fourth-graders had no control group. It qualifies any debate design that counts participation or speaking time as the outcome; it does not test debate.
+- **Talk is not the active ingredient.** [Discussion quality drives comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [~M]: a meta-analysis of classroom discussion approaches found that only a minority of approaches improved comprehension or critical thinking, with effects moderated by design, outcome measure and student ability (abstract only, no pooled effect read), and a year-long single-group study of 35 fourth-graders had no control group. It qualifies any debate design that counts participation or speaking time as the outcome; it does not test debate.
 - **Consider the opposite.** [Considering the opposite reduces bias](../claims/considering-the-opposite-reduces-bias.md) [~W]: a systematic review names the strategy as previously validated in its background, but its own data do not isolate it, and no effect size is reported. It motivates the debrief prompt, not the format.
 - **Format rules in competitive debate.** [The parliamentary-rules critique](../claims/parliamentary-rules-ban-evidence-and-omit-cross-examination.md) [-W] and [unconstrained topic writing](../claims/unconstrained-topic-writing-yields-frivolous-resolutions.md) [~W] are one author's analysis of competitive parliamentary debate (1996), coded `q1`, `theoretical`. They warn that rules can remove evidence use and questioning and that topics can stop being arguable; they measure nothing, and they concern tournaments, not classes.
 
@@ -72,7 +72,7 @@ Do not rank debate against Socratic seminar, Structured Academic Controversy or 
 <!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Coaches and students perceive distinct strengths and weaknesses of parliamentary debate relative to other formats](../claims/survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) [~W] — not yet checked against its sources
+- [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](../claims/survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) [~W] — not yet checked against its sources
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
@@ -97,7 +97,7 @@ This pattern is scoped to structured adversarial argument on a question that adm
 
 ## Key Sources
 - Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
-- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
+- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, technique, and some evidence. *Journal of Education for Business, 81*(6), 315-320. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the body it replaced, kept verbatim.
@@ -224,6 +224,6 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - Strongest when paired with reflection that allows learners to reconsider their initial positions.
 
 ## Key Sources
-- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
+- Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, technique, and some evidence. *Journal of Education for Business, 81*(6), 315-320. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.
 -->

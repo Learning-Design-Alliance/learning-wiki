@@ -12,7 +12,7 @@ generated:
 # Reaction Observations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Reaction observations involve observing and describing the properties of liquids and their mixtures. Learners examine phenomena such as the bleeding of colored inks in water and the behavior of two liquids before and after mixing, then record and explain what they see. The strategy builds foundational observational and descriptive skills while introducing basic chemical concepts (solubility, diffusion, mixing) through direct experience rather than verbal explanation alone.

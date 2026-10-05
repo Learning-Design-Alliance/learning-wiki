@@ -111,7 +111,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — scaffolded map construction manages the load that free-form mapping imposes
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — mapping elicits the same relational-structure comparison that drives analogical transfer
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — unconstrained map construction can itself overload novices
-- [Annotating improves learning](annotating-improves-learning.md) — another generative strategy that forces learners to process and restructure text
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative strategy that forces learners to process and restructure text
 - [Cognitive flexibility theory: multiple cases](cognitive-flexibility-theory-multiple-cases.md) — concept mapping is a core tool within cognitive flexibility theory for representing multiple linked perspectives
 - [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related

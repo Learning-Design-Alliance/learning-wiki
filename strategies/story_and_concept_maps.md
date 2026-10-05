@@ -12,7 +12,7 @@ generated:
 # Story and Concept Maps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Story and concept maps are visual representations used to organize information and enhance comprehension, particularly of narratives and complex relationships. Story maps focus on key story elements — characters, setting, problem, and solution — while concept maps show labeled relationships between concepts arranged hierarchically. Learners construct, complete, or extend the maps before, during, or after reading, converting text into an organized spatial structure that makes relationships explicit.

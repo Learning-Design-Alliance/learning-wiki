@@ -12,7 +12,7 @@ generated:
 # Estimation and Prediction Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (4 review, 3 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (4 quant-synthesis, 4 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Estimation and prediction activities ask learners to commit in advance to a concrete, checkable judgment — how many problems they will solve correctly, how long a task will take, how confident they are in an answer, or what an experiment will show — before they engage with the task. After completing the work, learners compare their predictions against actual outcomes. The gap between predicted and actual performance becomes the object of reflection, targeting the accuracy of learners' self-assessments rather than the task performance alone.

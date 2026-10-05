@@ -34,7 +34,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i2` medium
 
-Learners who receive temporary, adaptive support — hints, prompts, models, or structured tools — during instruction show better learning outcomes than those left to unsupported discovery, provided the support is faded as competence develops.
+Learners who receive support — hints, prompts, models, or structured tools — during instruction show better learning outcomes than those given no support or less contingent support. Whether the support is faded did not change the effect in the one meta-analysis recorded here (Belland et al. 2017), so fading is a design recommendation from scaffolding theory, not a condition these entries show the benefit depends on.
+<!-- deprecated (2026-10-05, the Belland entry found no difference by fading): Learners who receive temporary, adaptive support — hints, prompts, models, or structured tools — during instruction show better learning outcomes than those left to unsupported discovery, provided the support is faded as competence develops. -->
 
 ## Subclaims
 
@@ -64,7 +65,7 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 
 **Mechanism.** Scaffolding is grounded in Vygotsky's zone of proximal development: support allows learners to perform tasks they could not yet complete independently, and that assisted performance is gradually internalized [+M]. It also aligns with [Cognitive Load Theory](../theories/cognitive-load-theory.md) — well-designed scaffolds reduce extraneous load during early skill acquisition [+S], connecting to [Cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md) and [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md).
 
-**Fading is essential.** The defining feature distinguishing scaffolding from mere help is its gradual removal. Support that persists after learners no longer need it becomes redundant and can depress performance [-M] — the same expertise-reversal dynamic documented for worked examples (see [Expertise reversal effect](../theories/expertise-reversal-effect.md)). Designers should plan fading criteria (accuracy, fluency, or self-regulation indicators) at design time, not improvise them.
+**Fading is essential in theory, untested here.** The defining feature distinguishing scaffolding from mere help is its gradual removal. Note, though, that the evidence recorded on this page does not show fading matters: Belland et al. (2017) found the effect of computer-based scaffolding did not differ by whether or how scaffolding was faded. Support that persists after learners no longer need it becomes redundant and can depress performance [-M] — the same expertise-reversal dynamic documented for worked examples (see [Expertise reversal effect](../theories/expertise-reversal-effect.md)). Designers should plan fading criteria (accuracy, fluency, or self-regulation indicators) at design time, not improvise them.
 
 **Adaptivity is hard to scale.** Much of the strongest scaffolding evidence comes from one-to-one tutoring, where a human tutor continuously calibrates support [+S]. Fixed, non-adaptive scaffolds embedded in curricula show weaker and more variable effects [~M], and poorly timed hints can short-circuit productive struggle [-M]. Adaptive systems attempt to automate this calibration with mixed results — see [Adaptive learning improves outcomes](../claims/adaptive-learning-improves-outcomes.md).
 

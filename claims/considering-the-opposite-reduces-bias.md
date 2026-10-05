@@ -48,7 +48,9 @@ This PRISMA-based systematic review screened 86 articles down to 12 studies (17 
 
 **Design implications.** Designers should treat this as a judgment-stage intervention: it is most naturally embedded in activities where learners must evaluate evidence or reach a verdict — [debates](../patterns/debate.md) (especially formats that force learners to argue an [assigned position](../elements/assigned-positions.md)), case analyses, and source evaluation — rather than as a standalone lesson on bias. Prompts should be specific ("list three reasons the opposing interpretation could be correct") rather than general exhortations to objectivity, since the mechanism depends on redirecting the memory search itself.
 
-**Evidence status.** No evidence entries have yet been added to this page; the claim's strength is currently unassessed and should not be treated as established until studies are ingested.
+**Evidence status.** One source is recorded: a systematic review (Korteling et al. 2021) that names "consider the opposite" as a previously validated debiasing method but does not test it itself; the primary experiments it cites on hindsight bias and anchoring are not recorded here. The claim therefore rests on a second-hand report, its magnitude is unassessed, and it should not be treated as established until primary studies are ingested.
+
+<!-- deprecated (2026-10-05, stale: entries had been added): **Evidence status.** No evidence entries have yet been added to this page; the claim's strength is currently unassessed and should not be treated as established until studies are ingested. -->
 
 ## Related Claims
 

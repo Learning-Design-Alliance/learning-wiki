@@ -12,7 +12,7 @@ generated:
 # What’s My Number?
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 One player (or the instructor) selects a secret number within a stated range and reveals incremental clues — comparisons ("greater than 20"), properties ("even," "a multiple of 5"), or digit information — while other players narrow the candidate set through logical deduction. Each clue and guess is an opportunity to reason aloud about what the information eliminates, making the game a low-stakes vehicle for number sense, inequality reasoning, and strategic question-asking.
