@@ -22,7 +22,7 @@ sources:
     title: "Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S. (2021). Current State of the Evidence: Examining the Effects of Orton-Gillingham Reading Interventions for Students With or at Risk for Word-Level Reading Disabilities. *Exceptional Children, 87*(4), 397–417. [doi:10.1177/0014402921993406](https://doi.org/10.1177/0014402921993406)"
     author: "Stevens, E. A., Austin, C., Moore, C., Scammacca, N., Boucher, A. N., & Vaughn, S."
     q: 3
-    i: 0
+    i: 1
     n: 16 studies in meta-analysis (24 identified)
     kind: quant-synthesis
     rigour: "?"
@@ -31,7 +31,7 @@ sources:
 # Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3`–`q4` · `i0` negligible
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3`–`q4` · `i0`–`i1`
 <!-- deprecated title (2026-10-05, overstated its evidence): Structured Literacy Interventions Help Struggling Readers -->
 
 Structured literacy is explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding. Two meta-analyses are recorded for students who struggle: among treatments for children and adolescents with reading disabilities, phonics instruction was the only one with a statistically confirmed effect, and that effect was small after adjustment for publication bias (g′ = 0.198); Orton-Gillingham interventions, a branded structured-literacy approach, showed positive but non-significant effects (ES = 0.22 and 0.14).

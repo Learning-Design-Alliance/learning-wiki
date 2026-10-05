@@ -68,4 +68,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional](co-regulation-strategies-strengthen-facilitation-intentionality.md) — related
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
-- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on

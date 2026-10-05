@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.1037/0022-0663.99.3.445"
     title: "Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)"
     author: "Graham, S., & Perin, D."
-    q: 4
+    q: 3
     i: 3
     n: 20 studies (154 total effect sizes across the review; Grades 4–10)
     kind: quant-synthesis
@@ -23,7 +23,7 @@ sources:
 # Strategy Instruction Improves Writing Quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large · n=20 studies (154 total effect sizes across the review; Grades 4–10)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=20 studies (154 total effect sizes across the review; Grades 4–10)
 
 Explicit instruction in planning, revising, and editing strategies — including self-regulation of the writing process — improves the quality of students' written compositions.
 

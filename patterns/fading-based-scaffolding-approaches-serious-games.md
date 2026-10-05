@@ -17,7 +17,7 @@ sources:
 # Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 5 studies (3 review, 2 causal), `q1`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper enumerates three scaffolding approaches based on fading, drawn from Jackson et al. (1998). "As supportive scaffolding fades, the task is the same as it was before, but the goal is for the learner to have internalized the procedures and concepts which had been scaffolded". In intrinsic scaffolding the task changes as the scaffold fades, gradually introducing underlying complexity. Reflective scaffolding makes reflection explicit by eliciting articulation, for example player-character conversation with an NPC, faded by gradually disabling conversations from most to least helpful.

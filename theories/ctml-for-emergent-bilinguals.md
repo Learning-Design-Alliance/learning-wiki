@@ -16,7 +16,7 @@ sources:
 # Cognitive Theory of Multimedia Learning (CTML) as applied to emergent bilingual instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 6 studies (4 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 CTML (Mayer, 2014) holds that learners process multimedia messages through two channels — visual/pictorial and verbal/auditory — each limited in processing capacity; information is acquired through the channels, processed in working memory, combined with prior knowledge from long-term memory, and stored for retrieval. The article applies CTML to dual language instruction, arguing that design should support three processes: "reducing extraneous processing, (b) managing essential processing, and (c) fostering generative processing," which it links to six SOL principles especially relevant for EBs learning content through a new language.

@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: rich_library-poetry
-title: Rich Library: Poetry
+title: "Rich Library: Poetry"
 description: Provides learners with a curated, browsable collection of poems and poetry-related multimedia resources to build literacy, engagement, and appreciation of poetic language.
 status: review
 generated:

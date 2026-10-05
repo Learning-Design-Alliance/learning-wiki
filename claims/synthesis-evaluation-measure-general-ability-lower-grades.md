@@ -50,5 +50,5 @@ Summary and conclusions of the causal model analyses across 16 replications by g
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [Strategy instruction is more effective when contextualized in authentic content-area tasks](learning-strategy-instruction-contextualized-more-effective.md) — related
 - [Math Anxiety Degrades Performance](math-anxiety-degrades-performance.md) — related
-- [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — related

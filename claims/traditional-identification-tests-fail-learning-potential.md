@@ -44,5 +44,5 @@ Literature review section reporting, citing Johnsen (1997) and Kanevsky (1995), 
 
 ## Related Claims
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
-- [Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased](culturally-diverse-underrepresentation-biased-measures.md) — related
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rupp-2010
-    resource: "http://www.jtla.org"
-    title: "Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W. (2010). Evidence-centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. Journal of Technology, Learning, and Assessment, 8(4). http://www.jtla.org"
+    resource: "https://ejournals.bc.edu/index.php/jtla/article/view/1623"
+    title: "Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W. (2010). Evidence-centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. *Journal of Technology, Learning, and Assessment, 8*(4). https://ejournals.bc.edu/index.php/jtla/article/view/1623"
     author: "Rupp, A.A., Gushta, M., Mislevy, R.J., & Shaffer, D.W."
     q: 2
     i: "?"

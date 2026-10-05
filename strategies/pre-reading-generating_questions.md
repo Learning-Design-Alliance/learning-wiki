@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: pre-reading-generating_questions
-title: Pre-Reading: Generating Questions
+title: "Pre-Reading: Generating Questions"
 description: Learners generate their own questions about a text before reading it, activating prior knowledge, creating curiosity, and setting a purpose for reading.
 status: review
 generated:
@@ -12,7 +12,7 @@ generated:
 # Pre-Reading: Generating Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 review, 1 causal), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Before reading a text, learners generate questions they expect or hope the text will answer. The instructor may scaffold this with a topic, title, headings, or images, and learners record their questions to revisit during and after reading. The strategy combines two mechanisms: activating relevant prior knowledge and creating an information gap that the text can close.

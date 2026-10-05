@@ -76,6 +76,6 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — classroom structures that exercise social skills during and after SEL programs
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — ongoing feedback loops that can support skill consolidation
 - [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
-- [SEL Programs Improve Behavior And Achievement](sel-programs-improve-behavior-and-achievement.md) — related
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency](sr-interventions-improve-cognitive-regulation-young-adults.md) — a narrower finding that bears on this claim

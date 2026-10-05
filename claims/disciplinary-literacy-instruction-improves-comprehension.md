@@ -80,5 +80,5 @@ Eleventh-grade students in five San Francisco high schools took part in a six-mo
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — comparing cases within a discipline supports transfer of disciplinary reading practices
 - [Annotating improves learning.](annotating-improves-learning.md) — annotation is a common disciplinary practice (e.g., sourcing in history) that can carry disciplinary literacy instruction
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling expert disciplinary thinking is the core instructional mechanism
-- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related

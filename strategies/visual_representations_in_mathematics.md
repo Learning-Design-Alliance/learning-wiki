@@ -12,7 +12,7 @@ generated:
 # Visual Representations in Mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 13 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 This strategy teaches learners to construct and interpret visual representations — schematic diagrams, number lines, strip/bar models, graphs, and graphic organizers — that accurately depict the quantities and relationships in a mathematics problem or concept. The visual serves as an intermediate bridge between the concrete situation and abstract symbols, externalizing problem structure so it can be inspected, discussed, and revised. Critically, the benefit comes from *schematic* representations that map mathematical relationships, not from decorative pictures.

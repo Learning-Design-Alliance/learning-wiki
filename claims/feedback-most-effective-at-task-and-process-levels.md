@@ -80,5 +80,5 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Action-oriented feedback](../strategies/action-oriented_feedback.md) — a practical strategy for making task- and process-level feedback usable by learners.
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a narrower finding that bears on this claim
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
-- [Feedback Improves Learning](feedback-improves-learning.md) — related
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)

@@ -18,10 +18,10 @@ sources:
     n: 93
     kind: causal
     rigour: "?"
-  - id: marjorie-ceballos-2022
+  - id: ceballos-nutta-2022
     resource: "https://eric.ed.gov/?id=EJ1380081"
-    title: "Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081"
-    author: Marjorie Ceballos, Joyce W. Nutta
+    title: "Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)"
+    author: "Ceballos, M., & Nutta, J. W."
     q: 2
     i: "?"
     kind: review
@@ -41,8 +41,8 @@ Learners who receive instruction on key concepts, terms, or characteristics of a
 
 `q3 i?` A randomized experiment giving learners a pretraining video naming the parts and functions of an unfamiliar tool before an immersive-VR procedural lesson produced better knowledge-test scores and fewer errors on a subsequent real-world transfer task than the same lesson with no pretraining. [→ Delgado and Mayer 2024](#delgado-and-mayer-2024)
 
-`q1 i?` A practice-to-theory article on dual-language instruction reports, second-hand, that studies it cites (Bos et al. 2009; Gegner et al. 2009; Kennedy et al. 2014) found increased learning outcomes from pretraining, including comprehension of scientific text and positive beliefs about reading it. [→ Ceballos & Nutta 2022](#ceballos-nutta-2022)
-<!-- deprecated (2026-10-05, coded as a review's own finding): `q2 i?` Studies cited by the article demonstrated increased learning outcomes from pretraining, including comprehension of scientific text and positive beliefs about reading it. [→ Marjorie Ceballos 2022](#marjorie-ceballos-2022) -->
+`q2 i?` A practice-to-theory article on dual-language instruction reports, second-hand, that studies it cites (Bos et al. 2009; Gegner et al. 2009; Kennedy et al. 2014) found increased learning outcomes from pretraining, including comprehension of scientific text and positive beliefs about reading it. [→ Ceballos & Nutta 2022](#ceballos-nutta-2022)
+<!-- deprecated (2026-10-05, coded as a review's own finding): `q2 i?` Studies cited by the article demonstrated increased learning outcomes from pretraining, including comprehension of scientific text and positive beliefs about reading it. [→ Marjorie Ceballos 2022] -->
 
 ## Evidence
 
@@ -58,7 +58,7 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 
 Ceballos, M., & Nutta, J. W. (2022). Emergent bilinguals and multimedia instructional design: Applying the science of learning principles to dual language instruction. *Education Leadership Review, 23*(1). [ERIC EJ1380081](https://eric.ed.gov/?id=EJ1380081)
 
-`q1 · practice-to-theory article; reports others' studies second-hand` · `i? · no effect sizes printed` · `theoretical · r?`
+`q2 · narrative review (a practice-to-theory article); reports others' studies second-hand` · `i? · no effect sizes printed` · `review · r1`
 
 No Crossref record was found for this article (title search, 2026-10-05); the ERIC record is its catalogue entry. It is an article applying multimedia-learning principles to dual-language instruction, not a review with a stated search, and it presents no data of its own.
 <!-- deprecated codes (2026-10-05): heading "Marjorie Ceballos 2022", citation "Marjorie Ceballos, Joyce W. Nutta. (2022)...", codes `q2 · i?` · `review · r1` -->

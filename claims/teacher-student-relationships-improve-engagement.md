@@ -18,15 +18,6 @@ sources:
     n: 119 studies (355,325 students; 1,450 findings)
     kind: quant-synthesis
     rigour: 3
-  - id: cornelius-white-2007
-    resource: "https://doi.org/10.3102/003465430298563"
-    title: "Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)"
-    author: Cornelius-White, J.
-    q: 3
-    i: 2
-    n: 119 studies (355,325 students; 1,450 findings)
-    kind: quant-synthesis
-    rigour: 2
   - id: roorda-et-al-2011
     resource: "https://doi.org/10.3102/0034654311421793"
     title: "Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influence of affective teacher–student relationships on students' school engagement and achievement: A meta-analytic approach. *Review of Educational Research, 81*(4), 493–529. [doi:10.3102/0034654311421793](https://doi.org/10.3102/0034654311421793)"
@@ -41,7 +32,7 @@ sources:
 # Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 quant-synthesis `r2`–`r3` · `q3` · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q3` · `i2` medium
 <!-- deprecated title (2026-10-05, overstated its evidence): Teacher Student Relationships Improve Engagement -->
 
 Across two meta-analyses of correlational and longitudinal studies, positive, warm teacher–student relationships go with greater student engagement (medium-to-large associations in Roorda et al. 2011) and, more weakly, with achievement, and learner-centered teacher variables correlate with student outcomes at a mean r = .31 (Cornelius-White 2007). The claim concerns relationship *quality* — warmth, trust, and appropriate structure — not mere contact time. Neither synthesis tests whether improving relationships raises engagement or achievement.
@@ -60,11 +51,11 @@ Across two meta-analyses of correlational and longitudinal studies, positive, wa
 
 Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 
-`q3 · meta-analysis of mostly correlational studies` · `i2 · medium association, mean r=.31` · `n=119 studies (355,325 students; 1,450 findings)` · `quant-synthesis · r2`
+`q3 · meta-analysis of mostly correlational studies` · `i2 · medium association, mean r=.31` · `n=119 studies (355,325 students; 1,450 findings)` · `quant-synthesis · r3`
 
 The author screened about 1,000 articles and synthesised 119 studies published from 1948 to 2004, which together report 1,450 findings on 355,325 students. Nine teacher variables (for example warmth, empathy and encouraging learning) were coded against 18 student outcomes, with 39 moderators. The mean correlation was r = .31, which the author judges above average among educational innovations, and it was higher for affective and behavioral outcomes than for cognitive ones. Correlations varied widely, and methodological and sample features explained part of that variation. Because the synthesis pools correlations, it shows that learner-centered relationships go together with better outcomes. It does not show that they cause them.
 
-<!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from learner-centered-teacher-student-relationships-are-effective and is identical to the entry above except its rigour code; the kept entry was r3 and is now r2, because its text shows a systematic search and heterogeneity analysis but no bias assessment (the quant-synthesis rubric's r3 needs all three).
+<!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from learner-centered-teacher-student-relationships-are-effective and is identical to the entry above except its rigour code (r2 there, r3 here; rigour is coded from the article by code_kind_rigour.py and was not re-judged in this merge).
 ### Cornelius-White 2007
 
 Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)

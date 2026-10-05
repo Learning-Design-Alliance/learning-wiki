@@ -9,29 +9,29 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | | |
 |---|---|
 | Claims | 3,393 |
-| Evidence entries | 4,218 |
-| Distinct studies | 1,170 |
+| Evidence entries | 4,202 |
+| Distinct studies | 1,171 |
 | Claims resting on one study | 3,193 (94%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 336 of 1,170 (29%) |
+| Studies reporting an effect size | 335 of 1,171 (29%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
 | causal | 6 | 89 | 76 | 101 | 272 |
-| quant-synthesis | 8 | 44 | 3 | 112 | 167 |
+| quant-synthesis | 9 | 42 | 3 | 113 | 167 |
 | review | 9 | 63 | 28 | 43 | 143 |
 | associational | 0 | 56 | 82 | 15 | 153 |
 | qualitative | 37 | 72 | 11 | 8 | 128 |
-| design | 9 | 92 | 37 | 1 | 139 |
+| design | 9 | 92 | 38 | 1 | 140 |
 | theoretical | 21 | 116 | 12 | 19 | 168 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 207 (18%) | 581 (50%) | 302 (26%) | 80 (7%) |
+| 209 (18%) | 581 (50%) | 301 (26%) | 80 (7%) |
 
 **Studies per claim:** 0: 0, 1: 3,193, 2: 149, 3: 45, 4 or more: 6.
 
@@ -82,7 +82,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 238 pages | 2 | q3 | 0 of 2 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 233 pages | 3 | q2–q3 | 2 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 203 pages | 5 | q2–q4 | 0 of 5 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 201 pages | 3 | q2–q3 | 0 of 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 201 pages | 3 | q1–q3 | 0 of 3 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 198 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 189 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 173 pages | 3 | q3 | 1 of 3 |

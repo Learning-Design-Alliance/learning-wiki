@@ -17,7 +17,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 quant-synthesis, 1 design), `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -52,7 +52,7 @@ Assessment is the structured collection of evidence about learner understanding,
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](../claims/probing-feedback-revise-resubmit-evidence.md) [+M]
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+M]
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]

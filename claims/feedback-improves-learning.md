@@ -18,15 +18,6 @@ sources:
     n: "435 studies (k=994 effects, N>61,000)"
     kind: quant-synthesis
     rigour: 2
-  - id: wisniewski-zierer-hattie-2020
-    resource: "https://doi.org/10.3389/fpsyg.2019.03087"
-    title: "Wisniewski, B., Zierer, K., & Hattie, J. (2020). The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)"
-    author: "Wisniewski, B., Zierer, K., & Hattie, J."
-    q: 4
-    i: 2
-    n: "994 effect sizes, N>61,000"
-    kind: quant-synthesis
-    rigour: 2
   - id: kluger-denisi-1996
     resource: "https://doi.org/10.1037/0033-2909.119.2.254"
     title: "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. *Psychological Bulletin, 119*(2), 254–284. [doi:10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254)"
@@ -41,7 +32,7 @@ sources:
 # Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 quant-synthesis `r2` · `q4` · `i2` medium
+> **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
 <!-- deprecated title (2026-10-05, overstated its evidence): Feedback Improves Learning -->
 
 Information provided to learners about their performance or understanding can improve subsequent learning, relative to practice without such information. This page covers the general claim; its strength depends heavily on the form, timing, and content of the feedback and on the learner's stage of expertise.
@@ -135,7 +126,7 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Clear structure improves learning](clear-structure-improves-learning.md) — well-structured feedback is easier to locate, interpret, and act on
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-regulation-level feedback aims to make learners their own feedback providers
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems operationalize feedback by tailoring responses to learner performance
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — feedback that surfaces discrepancies between performance and goals can trigger productive disequilibrium
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — feedback that surfaces discrepancies between performance and goals can trigger productive disequilibrium
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a narrower finding that bears on this claim
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related

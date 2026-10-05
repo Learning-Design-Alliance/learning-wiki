@@ -43,6 +43,6 @@ The paper reports, citing DeVries, Reese-Learned, & Morgan (1991), a comparison 
 
 
 ## Related Claims
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — related
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — related
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related
 - [Open groups are proposed to incur and sustain conflict more easily than closed groups](open-groups-incur-conflict-more-easily-than-closed.md) — related

@@ -12,7 +12,7 @@ generated:
 # Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies (6 quant-synthesis, 3 review, 1 causal), `q2`–`q4` · 6 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 12 studies (6 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 6 of 12 report an effect size
 
 ## Description
 A lecture is an instructor-led presentation in which an expert explains content to an audience, typically with visual support such as slides or a board. It functions as an efficient means of transmitting explanation, framing, and expert reasoning to many learners simultaneously, but it is fundamentally a one-way channel: learning depends on what learners do before, during, and after it.

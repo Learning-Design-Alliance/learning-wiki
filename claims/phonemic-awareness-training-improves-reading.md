@@ -18,21 +18,12 @@ sources:
     n: 52 studies, 96 treatment-control comparisons
     kind: quant-synthesis
     rigour: 2
-  - id: ehri-et-al-2001
-    resource: "https://doi.org/10.1598/rrq.36.3.2"
-    title: "Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z., & Shanahan, T. (2001). Phonemic Awareness Instruction Helps Children Learn to Read: Evidence From the National Reading Panel's Meta‐Analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/rrq.36.3.2](https://doi.org/10.1598/rrq.36.3.2)"
-    author: "Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub‐Zadeh, Z., & Shanahan, T."
-    q: 4
-    i: 2
-    n: 52 studies, 96 treatment-control comparisons
-    kind: quant-synthesis
-    rigour: "?"
 ---
 
 # Phonemic Awareness Training Improves Reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4` · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=52 studies, 96 treatment-control comparisons
 
 Explicit instruction in identifying, segmenting, and blending the individual sounds (phonemes) in spoken words improves later reading achievement, primarily by supporting the development of decoding and word-recognition skill.
 
@@ -93,9 +84,9 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — predicts fading benefits once learners can already decode, bounding when training should be delivered
 - [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — a narrower finding that bears on this claim
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
-- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
-- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Reverse transfer from literacy to oral skills is unsupported by research](reverse-transfer-literacy-to-oral-unsupported.md) — related
 - [Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness](rhyming-poetry-improves-reading-fluency.md) — a narrower finding that bears on this claim
 - [Spector argues that beginning reading instruction should be designed to facilitate the acquisition of phonemic awareness](spector-phonemic-awareness-reading-instruction.md) — a narrower finding that bears on this claim

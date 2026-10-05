@@ -12,7 +12,7 @@ generated:
 # Curated Material Selection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (3 causal, 3 review), `q2`–`q3` · 1 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 causal, 3 review, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Curated material selection is the ongoing practice of reviewing an instructional resource collection — readings, videos, examples, datasets, tools — against explicit criteria tied to learning goals, and pruning what no longer serves. It treats materials as a maintained portfolio rather than an accumulating archive: items are added because they meet a defined instructional need, and retired when they are outdated, redundant, or misaligned.

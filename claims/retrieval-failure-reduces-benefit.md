@@ -59,7 +59,7 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Adaptive learning improves outcomes.](adaptive-learning-improves-outcomes.md) — adjusting difficulty to the learner helps keep retrieval attempts in the productive, challenging-but-achievable zone
 - [Cognitive load management.](../principles/cognitive-load-management.md) — the theoretical framework for calibrating task difficulty to learner capacity
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
-- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on

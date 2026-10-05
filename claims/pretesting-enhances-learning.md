@@ -18,25 +18,7 @@ sources:
     n: 63 undergraduates (Experiment 1); 5 experiments, ns 59–158
     kind: causal
     rigour: "?"
-  - id: richland-et-al-2009
-    resource: "https://doi.org/10.1037/a0016496"
-    title: "Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful retrieval attempts enhance learning? *Journal of Experimental Psychology: Applied, 15*(3), 243–257. [doi:10.1037/a0016496](https://doi.org/10.1037/a0016496)"
-    author: "Richland, L. E., Kornell, N., & Kao, L. S."
-    q: 3
-    i: 3
-    n: 63 undergraduates (Experiment 1); 5 experiments, ns 59–158
-    kind: causal
-    rigour: "?"
   - id: kornell-hays-and-bjork-2009
-    resource: "https://doi.org/10.1037/a0015729"
-    title: "Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)"
-    author: "Kornell, N., Hays, M. J., & Bjork, R. A."
-    q: 3
-    i: 2
-    n: 25 UCLA undergraduates (Experiment 1); 6 experiments, ns 20–32
-    kind: causal
-    rigour: 1
-  - id: kornell-et-al-2009
     resource: "https://doi.org/10.1037/a0015729"
     title: "Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)"
     author: "Kornell, N., Hays, M. J., & Bjork, R. A."
@@ -50,7 +32,7 @@ sources:
 # Pretesting enhances learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (4 entries) · 2 causal `r1` · `q3` · `i2`–`i3`
+> **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i2`–`i3`
 
 Attempting to answer questions about material before it has been taught — even when those attempts fail — improves later retention of that material relative to studying for the same time without a pretest, provided the attempt is followed by the answer or the instruction. The two multi-experiment laboratory studies recorded here (undergraduates; expository text, fictional trivia and word pairs) test retention, not transfer.
 <!-- deprecated wording (2026-10-05, overstated its evidence): ...improves retention and transfer of that material relative to studying without a pretest. --> The claim covers pre-instruction testing on *not-yet-learned* material; it is distinct from retrieval practice on already-learned material.
@@ -107,7 +89,7 @@ Experiment 1: 25 UCLA undergraduates were given fictional trivia questions (inve
 
 ## Discussion
 
-**Mechanism.** Pretesting is typically explained through productive failure and search-set activation: an unsuccessful attempt to answer a question makes learners aware of gaps in their knowledge, activates related prior knowledge, and focuses attention on the to-be-learned answer during subsequent instruction. The error itself is not harmful — what matters is that the attempt creates a "search set" that the correct answer can then resolve. This connects to [Activation](../principles/activation.md) [+M] and to [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M].
+**Mechanism.** Pretesting is typically explained through productive failure and search-set activation: an unsuccessful attempt to answer a question makes learners aware of gaps in their knowledge, activates related prior knowledge, and focuses attention on the to-be-learned answer during subsequent instruction. The error itself is not harmful — what matters is that the attempt creates a "search set" that the correct answer can then resolve. This connects to [Activation](../principles/activation.md) [+M] and to [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M].
 
 **Boundary conditions.** The pretesting benefit appears strongest when the pretest questions are conceptually aligned with the subsequent instruction, when learners receive feedback or corrective instruction after the attempt, and when the material is meaningful rather than arbitrary. Pretests on entirely unrelated material, or pretests that consume so much time that instruction is curtailed, show weaker or no benefits [-W]. Low-stakes framing matters: pretests are diagnostic, not evaluative, and grading them can undermine the exploratory mindset that makes them effective [-W] — see [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
@@ -142,11 +124,11 @@ Experiment 1: 25 UCLA undergraduates were given fictional trivia questions (inve
 
 - [Retrieval practice improves retention](retrieval-practice-improves-retention.md) — the closest cousin; pretesting extends testing effects to pre-instruction attempts
 - [Activation improves learning](activation-improves-learning.md) — pretesting is a form of prior-knowledge activation that surfaces gaps
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — failed pretest attempts create the disequilibrium that instruction then resolves
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — failed pretest attempts create the disequilibrium that instruction then resolves
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — pretests as low-stakes, formative rather than evaluative assessment
 - [Productive failure improves learning](productive-failure-improves-conceptual-learning.md) — the broader pattern that failed attempts before instruction can outperform instruction alone
 - [Retrieval practice](../strategies/retrieval_practice.md) — the strategy page covering test–study–test cycles
-- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related

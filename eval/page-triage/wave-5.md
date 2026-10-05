@@ -134,6 +134,8 @@ page has to say how to run that routine well, not replace it. The new row does t
 
 ## Open findings from the agents
 
+Settled in the cleanup that followed (CLAUDE.md, 2026-10-05 late night), except where that entry lists them as still open.
+
 **Duplicate claims:**
 - `fluent-illusions-mislead-self-assessment` and `judgments-of-learning-inaccurate`;
 - `learning-by-teaching-improves-tutor-learning` and `teaching-others-generative-strategy`;

@@ -25,7 +25,7 @@ sources:
 # Leveraging Strengths in Relationship Skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 2 against) · 16 studies (8 quant-synthesis, 6 causal, 2 review), `q2`–`q4` · 7 of 16 report an effect size
+> **Evidence** · 7 claims (5 for, 2 against) · 16 studies (8 quant-synthesis, 6 causal, 2 review), `q2`–`q4` · 7 of 16 report an effect size
 
 ## Description
 Leveraging strengths in relationship skills means starting social-skill instruction from what a learner already does well socially and extending it, instead of starting from the situations they handle badly and remediating. A learner who is patient one-to-one but overwhelmed in a group is taught to bring the one-to-one behaviour into a structured group role; a learner whose humour builds rapport is given a part where that is an asset rather than a disruption. The identified strength is a foothold and a piece of evidence — proof to the learner that the capability exists in them somewhere — not a compliment.
@@ -42,11 +42,11 @@ Two evidential caveats matter. Social-emotional learning as a whole is well supp
 - Structured opportunities where the strength is genuinely useful, so the transfer has somewhere to happen ([Collaborative Learning](../principles/collaborative-learning.md))
 - The target behaviour still named explicitly; a strengths frame changes the entry point, not the requirement to teach the skill ([Demonstration](../elements/demonstration.md))
 - Enough observation to identify strengths accurately, which usually means watching unstructured interaction, not just structured tasks
-- Feedback tied to the behaviour and its effect on others, not to the learner's character [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-M]
+- Feedback tied to the behaviour and its effect on others, not to the learner's character [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]
 
 #### Constraints
 - Strengths framing can become avoidance: naming what a learner does well and never addressing the interaction they consistently damage leaves the actual difficulty untaught [-M]
-- Praise for a stable trait ("you're such a natural leader") invites the fixed attributions that later failure then threatens; describe behaviour instead [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-M]
+- Praise for a stable trait ("you're such a natural leader") invites the fixed attributions that later failure then threatens; describe behaviour instead [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]
 - The evidence for strengths-specific approaches is weak relative to their popularity; the well-evidenced ingredient is explicit, sequenced, active skill instruction [~W]
 - Assigning learners roles that fit their strengths can freeze them there — the sociable learner is always the spokesperson and never practises listening [-M]
 - Judgements about which social behaviours count as strengths are culturally loaded; assertiveness and directness are read differently across communities, and a deficit label often marks a mismatch rather than a lack [-M]

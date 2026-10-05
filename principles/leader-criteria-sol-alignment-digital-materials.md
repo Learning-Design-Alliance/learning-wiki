@@ -17,7 +17,7 @@ sources:
 # Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends that as schools and districts acquire digital multimedia instructional materials for EBs' second language learning, leaders responsible for selecting and creating materials should have set criteria to ensure alignment with the science of learning principles, and that leaders supporting and evaluating EB teaching benefit from understanding these principles so they can guide dual language and other teachers of EBs. This extends EB instructional leadership practices — developing teachers' expertise through observation, data analysis, lesson planning, and professional learning — to multimedia design quality.

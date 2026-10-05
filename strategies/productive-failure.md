@@ -12,7 +12,7 @@ generated:
 # Productive Failure
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies (7 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Productive Failure is a sequencing strategy in which learners first explore a complex problem that targets a concept they have not yet been taught, typically in small groups, and almost always fail to produce the canonical solution. The teacher then provides structured instruction on the standard method, explicitly comparing students' invented (usually suboptimal) solutions with the canonical one. The initial failure is "productive" because the generation attempt activates prior knowledge, surfaces gaps, and prepares learners to encode the canonical solution deeply [Attempting problems before instruction improves conceptual learning despite lower success during exploration.](../claims/productive-failure-improves-conceptual-learning.md) [+S].

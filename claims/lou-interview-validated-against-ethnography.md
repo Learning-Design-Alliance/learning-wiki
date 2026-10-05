@@ -14,7 +14,7 @@ sources:
     title: "Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947"
     author: Loucks, Susan F.
     q: 2
-    i: "?"
+    i: 3
     kind: design
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence** · 1 study · design `r2` · `q2` · `i3` large
 <!-- deprecated title (2026-10-05, overstated its evidence): LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity -->
 
 ## Subclaims

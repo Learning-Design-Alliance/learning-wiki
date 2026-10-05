@@ -13,7 +13,7 @@ sources:
     title: "Furberg, A., & Silseth, K. (2022). Invoking student resources in whole-class conversations in science education: A sociocultural perspective. *Journal of the Learning Sciences, 31*(2), 278-316. [https://doi.org/10.1080/10508406.2021.1954521](https://doi.org/10.1080/10508406.2021.1954521)"
     author: "Furberg, A., & Silseth, K."
     q: 2
-    i: 2
+    i: "?"
     n: 38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
     kind: qualitative
     rigour: 3
@@ -22,7 +22,7 @@ sources:
 # Positioning students as sources increases productive participation in science discourse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
+> **Evidence** · 1 study · qualitative `r3` · `q2` · n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
 
 When a teacher positions students who invoke everyday experiences as accountable "sources" of information — rather than as "listeners" seeking validation — students produce more arguments and counter-arguments and a wider range of students engage, compared to sequences where the teacher retains sole authority over the correct answer.
 

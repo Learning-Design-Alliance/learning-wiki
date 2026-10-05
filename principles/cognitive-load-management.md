@@ -17,7 +17,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 15 studies (8 quant-synthesis, 4 review, 3 causal), `q2`–`q4` · 6 of 15 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 18 studies (8 quant-synthesis, 5 review, 4 causal, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size
 
 ## Conditional relationship
 

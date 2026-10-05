@@ -89,7 +89,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — competence (one of SDT's three needs) links autonomy to efficacy: learners need to believe they can succeed before autonomy feels enabling rather than threatening
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — self-monitoring is a key mechanism through which autonomous learners regulate their own progress
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
-- [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md) — related
+- [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
 - [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — related
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — related
@@ -102,7 +102,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
 - [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](autonomy-not-synonymous-with-independence.md) — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — possibly the same claim (merge candidate)
-- [Explicit statement of tasks and standards for success has a strong positive effect on student motivation in writing](explicit-tasks-standards-boost-writing-motivation.md) — related
+- [A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation](explicit-tasks-standards-boost-writing-motivation.md) — related
 - [IE's doing-with stance and democratic ethos map onto SDT autonomy support](ie-doing-with-maps-onto-autonomy-support.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related

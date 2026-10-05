@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.69772/jes.8.3.1"
     title: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1"
     author: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J."
-    q: 2
+    q: 1
     i: "?"
     kind: design
     rigour: 3
@@ -21,7 +21,7 @@ sources:
     resource: "https://doi.org/10.69772/jes.8.3.1"
     title: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Learning Visible: Shaping Teacher Candidates' Pedagogical Judgment in Clinical Experiences. Journal of Educational Supervision 8(3). https://doi.org/10.69772/jes.8.3.1"
     author: "Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J."
-    q: 2
+    q: 1
     i: "?"
     kind: design
     rigour: 3
@@ -30,7 +30,7 @@ sources:
 # In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q1`
 <!-- deprecated title (2026-10-05, overstated its evidence): Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding -->
 
 ## Subclaims

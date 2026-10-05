@@ -12,7 +12,7 @@ generated:
 # Inquiry Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 21 studies (9 causal, 7 quant-synthesis, 3 review, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 21 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 23 studies (10 causal, 7 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size
 
 ## Description
 Inquiry based learning positions learners as investigators: they pose or explore questions, collect and evaluate evidence, and construct explanations, with the instructor acting as guide rather than transmitter. It spans a continuum from structured inquiry (the question and procedure are given; learners generate the explanation) to open inquiry (learners generate questions and design investigations themselves) [Banchi & Bell's four-level framework](https://www.nsta.org/science-and-children) [~M].

@@ -12,7 +12,7 @@ generated:
 # Logic Puzzles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 Logic puzzles are self-contained problems governed by explicit rules, where the solution must be derived through deduction rather than recalled or guessed. Common forms include grid-logic puzzles (e.g., Einstein's riddle), Sudoku, knights-and-knaves problems, and non-verbal matrix puzzles (e.g., Raven's-style items). As a learning strategy, they are carried out by presenting a puzzle, giving learners time to attempt it individually or in pairs, then debriefing the reasoning path — not just the answer.

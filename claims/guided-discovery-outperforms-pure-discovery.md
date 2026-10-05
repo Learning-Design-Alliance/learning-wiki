@@ -18,24 +18,6 @@ sources:
     n: 164 studies
     kind: quant-synthesis
     rigour: 2
-  - id: alfieri-et-al-2011
-    resource: "https://doi.org/10.1037/a0021017"
-    title: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)"
-    author: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R."
-    q: 4
-    i: 1
-    n: 164 studies
-    kind: quant-synthesis
-    rigour: "?"
-  - id: klahr-nigam-2004
-    resource: "https://doi.org/10.1111/j.0956-7976.2004.00737.x"
-    title: "Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)"
-    author: "Klahr, D., & Nigam, M."
-    q: 3
-    i: "?"
-    n: 112 children
-    kind: causal
-    rigour: "?"
   - id: klahr-nigam-2004
     resource: "https://doi.org/10.1111/j.0956-7976.2004.00737.x"
     title: "Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)"
@@ -59,7 +41,7 @@ sources:
 # Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (5 entries) · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
 <!-- deprecated title (2026-10-05, overstated its evidence: no recorded entry compares guided with pure discovery directly): Guided Discovery Outperforms Pure Discovery -->
 
 Discovery learning in which learners derive target concepts with minimal support produces weaker learning outcomes than explicit instruction, while discovery that includes instructional guidance such as scaffolds, feedback, prompts or worked examples does better than other forms of instruction. The recorded evidence makes these two comparisons separately; none of the entries sets guided discovery directly against pure discovery. <!-- deprecated (2026-10-05, overstated: the entries do not compare guided with pure discovery head to head): Discovery learning in which learners derive target concepts with minimal support produces weaker learning outcomes than discovery learning that includes instructional guidance such as scaffolds, feedback, prompts, or worked examples. -->
@@ -161,7 +143,7 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — active formats generally outperform passive lecture, but the comparison here is specifically about degree of guidance within active formats
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — a structured, guided case format as an example of scaffolded inquiry
 - [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md) — collaboration is another form of support that can structure inquiry
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — the motivational rationale for inquiry, which guidance must balance against load
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the motivational rationale for inquiry, which guidance must balance against load
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — a low-cost guidance structure that orients inquiry before exploration begins
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related

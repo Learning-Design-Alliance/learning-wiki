@@ -44,5 +44,5 @@ The brief reports National Center for Education Statistics (2007) data for 2002 
 
 ## Related Claims
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
-- [Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased](culturally-diverse-underrepresentation-biased-measures.md) — related
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — related

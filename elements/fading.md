@@ -17,7 +17,7 @@ sources:
 # Fading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 causal, 2 review, 1 theoretical), `q3` · 0 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (2 causal, 2 review, 2 theoretical), `q1`–`q3` · 0 of 6 report an effect size
 
 ## Description
 Fading is the element in which instructional support is deliberately reduced as learner competence grows. It is useful when the design goal is to transition from supported performance to independence without either over-supporting or abandoning learners too early.

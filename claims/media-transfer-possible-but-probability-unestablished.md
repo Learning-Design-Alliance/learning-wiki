@@ -43,5 +43,5 @@ The authors argue that experimental demonstrations establish possibility, not pr
 
 
 ## Related Claims
-- [Pretraining Improves Transfer](pretraining-improves-transfer.md) — related
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related

@@ -26,7 +26,7 @@ sources:
 # On-the-Job Training (OJT)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 On-the-job training places the learner at the actual worksite, doing the actual work, with an experienced worker as trainer. The learner observes the task performed on real equipment with real consequences, attempts it under supervision, and takes over progressively as competence shows. Its defining feature is that the training context and the performance context are the same context — which removes the transfer gap that classroom training has to bridge, and simultaneously removes the safety net that classroom training provides.
@@ -45,7 +45,7 @@ Well-run OJT is essentially [Cognitive Apprenticeship](cognitive-apprenticeship.
 - An experienced worker released from production targets for the duration, and prepared to train rather than merely to be shadowed ([Coaching](../elements/coaching.md))
 - A written task breakdown so that coverage does not depend on which jobs happen to arrive that week
 - A defined competence check that says when the learner is signed off, separate from "the trainer thinks they're fine"
-- Immediate corrective feedback while the task is still in the learner's hands [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S]
+- Immediate corrective feedback while the task is still in the learner's hands [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
 
 #### Constraints
 - Unstructured OJT delivers inconsistent coverage: content varies with the day's workload, and errors in one trainer's practice propagate to every learner they train [-M]

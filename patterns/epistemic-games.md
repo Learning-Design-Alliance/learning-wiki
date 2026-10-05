@@ -14,7 +14,7 @@ grain_size: unit
 # Epistemic Games
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (5 for, 9 mixed) · 13 studies (4 quant-synthesis, 3 qualitative, 2 review, 2 theoretical, 1 causal, 1 design), `q2`–`q4` · 5 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (5 for, 9 mixed) · 13 studies (4 quant-synthesis, 3 qualitative, 2 review, 2 theoretical, 1 causal, 1 design), `q2`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 

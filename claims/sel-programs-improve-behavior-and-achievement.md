@@ -18,15 +18,6 @@ sources:
     n: 213 studies (270,034 students)
     kind: quant-synthesis
     rigour: "?"
-  - id: durlak-et-al-2011
-    resource: "https://doi.org/10.1111/j.1467-8624.2010.01564.x"
-    title: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The Impact of Enhancing Students' Social and Emotional Learning: A Meta-Analysis of School-Based Universal Interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)"
-    author: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B."
-    q: 4
-    i: 1
-    n: 213 studies (270,034 students)
-    kind: quant-synthesis
-    rigour: 2
   - id: cipriano-et-al-2023
     resource: "https://doi.org/10.1111/cdev.13968"
     title: "Cipriano, C., Strambler, M. J., Naples, L. H., Ha, C., Kirk, M., Wood, M., Sehgal, K., Zieher, A. K., Eveleigh, A., McCarthy, M., Funaro, M., Ponnock, A., Chow, J. C., & Durlak, J. (2023). The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions. *Child Development, 94*(5), 1181–1204. [doi:10.1111/cdev.13968](https://doi.org/10.1111/cdev.13968)"
@@ -36,15 +27,6 @@ sources:
     n: 424 studies (575,361 students)
     kind: quant-synthesis
     rigour: "?"
-  - id: cipriano-et-al-2023
-    resource: "https://doi.org/10.1111/cdev.13968"
-    title: "Cipriano, C., Strambler, M. J., Naples, L. H., Ha, C., Kirk, M., Wood, M., Sehgal, K., Zieher, A. K., Eveleigh, A., McCarthy, M., Funaro, M., Ponnock, A., Chow, J. C., & Durlak, J. (2023). The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions. *Child Development, 94*(5), 1181–1204. [doi:10.1111/cdev.13968](https://doi.org/10.1111/cdev.13968)"
-    author: "Cipriano, C., Strambler, M. J., Naples, L. H., Ha, C., Kirk, M., Wood, M., Sehgal, K., Zieher, A. K., Eveleigh, A., McCarthy, M., Funaro, M., Ponnock, A., Chow, J. C., & Durlak, J."
-    q: 4
-    i: "?"
-    n: 424 studies (575,361 students)
-    kind: quant-synthesis
-    rigour: 3
   - id: zhao-and-sang-2025
     resource: "https://doi.org/10.3390/bs15111527"
     title: "Zhao, Y., & Sang, B. (2025). The Effect of Social–Emotional Learning Programs on Elementary and Middle School Students' Academic Achievement: A Meta-Analytic Review. *Behavioral Sciences, 15*(11), 1527. [doi:10.3390/bs15111527](https://doi.org/10.3390/bs15111527)"
@@ -59,7 +41,7 @@ sources:
 # Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (5 entries) · 3 quant-synthesis `r2`–`r3` · `q3`–`q4` · `i0`–`i1`
+> **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3`–`q4` · `i0`–`i1`
 <!-- deprecated title (2026-10-05, overstated its evidence): SEL Programs Improve Behavior And Achievement -->
 
 School-based social-emotional learning (SEL) programs that explicitly teach self-regulation, social skills, and responsible decision-making improve students' behavioral outcomes. Their effect on academic achievement is positive but small in the 2011 synthesis (ES 0.27) and negligible in a 2025 synthesis restricted to rigorous designs (g = 0.08; 0.063 in randomised trials).

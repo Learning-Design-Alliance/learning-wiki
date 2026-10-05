@@ -14,7 +14,7 @@ sources:
     title: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050"
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
-    i: 1
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # The computer-based implementation showed no significant difference from individual paper-based work with brief written answers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite more complete onscreen feedback at checkpoints, the computer-based implementation produced no significant differences in understanding of kinetic energy or momentum compared with students working individually through paper tutorials with brief written answers (p = 0.64 and p = 0.40). [→ Slezak 2011](#slezak-2011)
@@ -33,7 +33,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1` · `causal · r2`
+`q2 · i? · no effect size: the entry prints only p = 0.64 and p = 0.40 for a non-significant difference` · `causal · r2`
 
 Comparison of the computer-based group (N=29) with the prior study's individual paper-based group (N=76). The authors had hypothesized richer checkpoint feedback would raise scores; equivalence was not tested, only no significant difference found.
 
@@ -44,5 +44,5 @@ Comparison of the computer-based group (N=29) with the prior study's individual 
 
 ## Related Claims
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) — related
-- [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied](computer-based-tutorial-implementation-lowest-posttest.md) — related
+- [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation](computer-based-tutorial-implementation-lowest-posttest.md) — related
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related

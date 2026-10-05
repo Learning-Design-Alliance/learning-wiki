@@ -7,15 +7,6 @@ generated:
   at: 2026-04-07
 sources:
   - id: kalyuga-et-al-2003
-    resource: "https://doi.org/10.1207/S15326985EP3801_4"
-    title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
-    author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J."
-    q: 3
-    i: "?"
-    n: multiple studies
-    kind: review
-    rigour: "?"
-  - id: kalyuga-et-al-2003
     resource: "https://doi.org/10.1207/s15326985ep3801_4"
     title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. [doi:10.1207/s15326985ep3801_4](https://doi.org/10.1207/s15326985ep3801_4)"
     author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J."
@@ -35,9 +26,9 @@ sources:
     rigour: "?"
   - id: obikwelu-2013
     resource: "https://www.ejel.org"
-    title: "Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. The Electronic Journal of e-Learning Volume 11 Issue 1. https://www.ejel.org"
+    title: "Obikwelu, C, Read, J, and Sim, G. (2013). Children’s Problem-Solving in Serious Games: The “Fine-Tuning System (FTS)” Elaborated. *The Electronic Journal of e-Learning, 11*(1). No Crossref record was found for this article (title search, 2026-10-05); the link formerly given was the journal's homepage, https://www.ejel.org, which is not a citation of it."
     author: Obikwelu, C, Read, J, and Sim, G.
-    q: 2
+    q: 1
     i: "?"
     kind: theoretical
     rigour: 2
@@ -49,7 +40,7 @@ evidence_strength: moderate
 # Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies (4 entries) · 1 causal `r?`, 1 review `r2`, 1 theoretical `r2` · `q2`–`q3`
+> **Evidence** · 3 studies · 1 causal `r?`, 1 review `r2`, 1 theoretical `r2` · `q1`–`q3`
 
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 

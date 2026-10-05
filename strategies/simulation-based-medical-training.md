@@ -12,7 +12,7 @@ generated:
 # Simulation Based Medical Training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Simulation based medical training places learners in replicated clinical situations — high-fidelity manikins, partial task trainers, standardized patients, screen-based scenarios, or immersive virtual reality — where they perform assessments, procedures, and team decisions without risk to real patients. The simulation itself is only half the design: a structured debriefing afterward, in which learners reflect on performance against expert standards, is where much of the durable learning occurs.

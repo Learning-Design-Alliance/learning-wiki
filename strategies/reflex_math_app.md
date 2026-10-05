@@ -12,7 +12,7 @@ generated:
 # Reflex Math App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 review, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Reflex Math is a commercial adaptive platform (ExploreLearning) that develops automatic recall of addition/subtraction and multiplication/division facts. The system continuously assesses which facts a learner can retrieve quickly and accurately, prioritizes instruction and practice on not-yet-mastered facts, and embeds this practice in fast-paced game formats with rewards, coaching characters, and progress monitoring visible to both student and teacher.

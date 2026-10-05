@@ -104,7 +104,7 @@ Open questions include how much guidance activation prompts need (open recall vs
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — structured previews are a canonical activation technique.
 - [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — analogies activate source knowledge to support new learning.
 - [Comparing contrasting cases improve learning](comparing-contrasting-cases-improves-learning.md) — contrast cases activate and differentiate prior schemas before instruction.
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — activation can surface misconceptions, creating the disequilibrium needed to revise them.
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — activation can surface misconceptions, creating the disequilibrium needed to revise them.
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — pre-questions and pretests are a well-studied activation format with errorful-generation benefits.
 - [Prior knowledge determines new learning](prior-knowledge-determines-new-learning.md) — the schema-theoretic foundation for why activation matters.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — activated schemas free working-memory capacity for new learning

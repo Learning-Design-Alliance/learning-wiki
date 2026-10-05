@@ -75,7 +75,7 @@ The active ingredients are the ones shared with any effective SEL work rather th
 - Emotion recognition in others, from face, voice, and situation
 - Perspective-taking: understanding that another person feels differently about the same event [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - A repertoire of responses — what you can do when you feel this way
-- Prosocial behaviour and peer relationships [SEL Programs Improve Behavior And Achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
+- Prosocial behaviour and peer relationships [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
 
 ### Instructions
 1. **Pick a scenario from this group's life, generalized.** Use the kinds of situations that arise here, altered enough that no child recognizes their own week.

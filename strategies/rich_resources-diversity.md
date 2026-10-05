@@ -1,7 +1,7 @@
 ---
 type: strategy
 id: rich_resources-diversity
-title: Rich Resources: Diversity
+title: "Rich Resources: Diversity"
 description: Curating learning materials that represent diverse perspectives, identities, and sources so learners deepen self-understanding and understanding of others.
 status: review
 generated:

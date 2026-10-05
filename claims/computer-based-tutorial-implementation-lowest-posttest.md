@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied
-description: A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied
+title: "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation"
+description: "A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation"
 id: computer-based-tutorial-implementation-lowest-posttest
 status: draft
 generated:
@@ -14,15 +14,16 @@ sources:
     title: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050"
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
-    i: 1
+    i: "?"
     kind: causal
     rigour: 2
 ---
 
-# A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied
+# A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style studied -->
 
 ## Subclaims
 `q2 i?` Students in the computer-based implementation had statistically lower (p < 0.05) post-test momentum scores than any other style in the present study and the ideal implementation of the prior study, and their scores were the lowest of all implementations for both topics. [→ Slezak 2011](#slezak-2011)
@@ -33,7 +34,7 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050
 
-`q2 · i1` · `causal · r2`
+`q2 · i? · no effect size: the entry prints mean post-test scores (16% kinetic energy, 7% momentum) and p < 0.05` · `causal · r2`
 
 Quasi-experimental comparison of five implementation styles with 200 volunteers randomly assigned among groups (Style 1, N=29, computer-based). Post-test scores of 16% (kinetic energy) and 7% (momentum) were "the lowest of all implemen- tations in the two studies."
 
@@ -43,6 +44,6 @@ Quasi-experimental comparison of five implementation styles with 200 volunteers 
 
 
 ## Related Claims
-- [The computer-based implementation showed no significant difference from individual paper-based work with brief written answers](computer-based-no-better-than-individual-paper.md) — reports the opposite
+- [The computer-based implementation showed no significant difference from individual paper-based work with brief written answers](computer-based-no-better-than-individual-paper.md) — related: consistent, not opposite (that comparison group, individual paper-based work, came from the prior study and is not one of the styles this entry reports it lower than) <!-- relabelled 2026-10-05: was "reports the opposite" -->
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
 - [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related

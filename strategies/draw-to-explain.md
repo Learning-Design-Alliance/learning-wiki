@@ -12,7 +12,7 @@ generated:
 # Draw To Explain
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies (6 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 3 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 15 studies (7 causal, 4 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size
 
 ## Description
 Draw To Explain asks learners to produce their own drawing, sketch, or diagram that explains a concept, process, or causal system — not to view or copy one. The act of constructing the visual forces learners to select key ideas, organize spatial relationships, and integrate them with verbal knowledge, making it a generative activity rather than a receptive one. It is typically paired with a short verbal explanation or label requirement so the drawing must communicate, not merely decorate.

@@ -86,8 +86,8 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — untaught decoding consumes working memory that word study and comprehension need
 - [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](balance-whole-language-and-phonics.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
-- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — possibly the same claim (merge candidate)
-- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — possibly the same claim (merge candidate)
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
 - [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — related

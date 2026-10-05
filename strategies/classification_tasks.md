@@ -12,7 +12,7 @@ generated:
 # Classification Tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies (6 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size
 
 ## Description
 Classification tasks ask learners to sort objects, examples, or concepts into categories based on shared properties, and to justify the criteria they used. Learners may develop their own classification schemes or apply a given one, working from binary sorts up to multi-level classification trees. Because learners must attend to features, compare cases, and defend boundaries, classification is fundamentally an inductive activity: the category structure is constructed from evidence rather than delivered as a definition.

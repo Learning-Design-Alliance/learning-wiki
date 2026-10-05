@@ -76,7 +76,7 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - [Activation improves learning.](activation-improves-learning.md) — morphological analysis activates learners' existing word knowledge when encountering unfamiliar vocabulary
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — morphological scaffolds, like other supports, should be faded as learners gain decoding skill
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
-- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
 - [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
 - [Reverse transfer from literacy to oral skills is unsupported by research](reverse-transfer-literacy-to-oral-unsupported.md) — related

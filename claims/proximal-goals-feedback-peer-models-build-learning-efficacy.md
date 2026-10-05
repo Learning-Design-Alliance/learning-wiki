@@ -13,7 +13,7 @@ sources:
     resource: "https://eric.ed.gov/?id=ED394663"
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
-    q: 3
+    q: 2
     i: "?"
     kind: review
     rigour: 2
@@ -21,7 +21,7 @@ sources:
     resource: "https://eric.ed.gov/?id=ED394663"
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
-    q: 3
+    q: 2
     i: "?"
     kind: review
     rigour: 2
@@ -30,7 +30,7 @@ sources:
 # Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 <!-- deprecated title (2026-10-05, overstated its evidence): Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models -->
 
 ## Subclaims

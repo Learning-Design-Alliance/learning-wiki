@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 sources:
-  - id: relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015
-    resource: "https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
-    title: "Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning"
-    author: Relations between cognitive resources and two types of germane load for learning
+  - id: miwa-et-al-2017
+    resource: "https://eric.ed.gov/?id=ED579478"
+    title: "Miwa, K., Terai, H., & Mizuno, Y. (2017). Relations between cognitive resources and two types of germane load for learning. In D. G. Sampson, J. M. Spector, D. Ifenthaler, & P. Isaías (Eds.), *Proceedings of the IADIS International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2017)*. International Association for Development of the Information Society. https://eric.ed.gov/?id=ED579478"
+    author: "Miwa, K., Terai, H., & Mizuno, Y."
     q: 2
     i: 1
     kind: causal
@@ -25,14 +25,15 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 
 ## Subclaims
-`q2 i?` Germane load of one type increases with increases in intrinsic load, as shown by substantial test-score increases in the no hint and Black and White condition. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)
-`q2 i?` Germane load of another type increases as intrinsic load decreases, as shown by substantial test-score increases in the hint presentation and Black and White condition. [→ Relations between cognitive resources and two types of germane load for learning 2015](#relations-between-cognitive-resources-and-two-types-of-germane-load-for-learning-2015)
+`q2 i?` Germane load of one type increases with increases in intrinsic load, as shown by substantial test-score increases in the no hint and Black and White condition. [→ Relations between cognitive resources and two types of germane load for learning 2015](#miwa-et-al-2017)
+`q2 i?` Germane load of another type increases as intrinsic load decreases, as shown by substantial test-score increases in the hint presentation and Black and White condition. [→ Relations between cognitive resources and two types of germane load for learning 2015](#miwa-et-al-2017)
 
 ## Evidence
 
-### Relations between cognitive resources and two types of germane load for learning 2015
+### Miwa et al. 2017
 
-Relations between cognitive resources and two types of germane load for learning. (2015). https://scholar.google.com/scholar?q=Relations+between+cognitive+resources+and+two+types+of+germane+load+for+learning
+Miwa, K., Terai, H., & Mizuno, Y. (2017). Relations between cognitive resources and two types of germane load for learning. In D. G. Sampson, J. M. Spector, D. Ifenthaler, & P. Isaías (Eds.), *Proceedings of the IADIS International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2017)*. International Association for Development of the Information Society. https://eric.ed.gov/?id=ED579478
+<!-- corrected 2026-10-05 from the ERIC record ED579478 (authors, year, proceedings): the citation had no authors, the year 2015, and a Google Scholar search link in place of a source. No DOI record was found in Crossref. -->
 
 `q2 · i1` · `causal · r1`
 

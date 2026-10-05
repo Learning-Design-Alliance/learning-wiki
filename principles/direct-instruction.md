@@ -18,7 +18,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 18 studies (7 causal, 6 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 19 studies (7 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 19 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 

@@ -234,6 +234,10 @@ def parse_evidence_sources(evidence_section: str) -> list:
     """Parse a claim page's '## Evidence' section: one '### Author Year' subsection
     per study, each starting with a full APA citation line containing a doi/URL link."""
     sources = []
+    # Text inside HTML comments is not an entry: a merge keeps a second write-up
+    # of a study, or a deprecated codes line, in a comment, and reading it made
+    # one study two entries (2026-10-05). Same rule as build_reverse_index.
+    evidence_section = re.sub(r"<!--.*?-->", "", evidence_section, flags=re.S)
     headings = list(EVIDENCE_HEADING_RE.finditer(evidence_section))
     for i, h in enumerate(headings):
         heading_text = h.group(1).strip()

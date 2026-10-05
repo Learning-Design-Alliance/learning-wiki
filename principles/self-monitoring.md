@@ -29,7 +29,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (5 for, 5 mixed, 3 against) · 19 studies (7 quant-synthesis, 6 causal, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 5 of 19 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (5 for, 5 mixed, 2 against) · 19 studies (7 quant-synthesis, 6 causal, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 5 of 19 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

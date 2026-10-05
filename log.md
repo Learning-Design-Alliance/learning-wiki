@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-10-05
 
+* **Merge**: eleven duplicate claims folded (judgments of learning, teaching others, SRSD writing, SEL achievement, phonological awareness, learner-centred relationships, feedback use, retrieval without encoding, two expertise-reversal variants, pretraining); principles/explicit-instruction-phonics folded into [phonics](principles/phonics.md)
+* **Fix**: wave 5's claim findings — 16 titles, stale text on about 20 claims, unbacked impact codes, kind codes, and citations for Sweet & Rupp (2012), Rupp et al. (2010), Miwa et al. (2017), Ceballos & Nutta (2022) and Gaofeng & Yeyu (2007) checked against Crossref, DataCite or ERIC
 * **Fix**: ten converted principle and pattern pages — frontmatter DOIs corrected to the Crossref-verified Key Sources DOIs; Vo & Morris (2006) journal, Givens et al. year and Setlhodi (2018) DOI corrected
 * **Fix**: claims flagged by conversion waves 1–3 — 16 overstated titles rewritten, stale "no evidence" text replaced, four impact or design codes corrected to their printed statistics
 * **Merge**: eight duplicate claims folded into their canonical pages (lateral reading, interleaving ×2, self-explanation ×2, learning styles, discussion ×2)

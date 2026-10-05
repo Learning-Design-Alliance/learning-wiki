@@ -74,7 +74,7 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 ## Related Claims
 
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — active engagement underlies both inquiry and active-learning effects
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — the mechanism by which inquiry challenges misconceptions
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the mechanism by which inquiry challenges misconceptions
 - [Argumentation improves reasoning](argumentation-improves-reasoning.md) — evidence evaluation and argumentation are core inquiry practices
 - [5E learning cycle](../patterns/5e-learning-cycle.md) — a structured, guided inquiry pattern that operationalizes this claim
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — explains why unguided inquiry fails for novices and scaffolds are essential

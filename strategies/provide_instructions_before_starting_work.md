@@ -12,7 +12,7 @@ generated:
 # Provide Instructions Before Starting Work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy delivers complete, comprehensible task instructions *before* learners begin work, so they understand the goal, the required steps, and the criteria for success before investing effort. Instructions specify what to do, in what order, with what resources, and against what standard — reducing aimless exploration and wasted effort during the task itself.

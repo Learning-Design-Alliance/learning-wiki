@@ -9,11 +9,11 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008
-    resource: "https://eric.ed.gov"
-    title: "Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov"
-    author: Online peer assisted learning community model and its application in ZJNU
-    q: 2
+  - id: gaofeng-yeyu-2007
+    resource: "https://eric.ed.gov/?id=ED500172"
+    title: "Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)"
+    author: "Gaofeng, R., & Yeyu, L."
+    q: 1
     i: "?"
     kind: design
     rigour: 1
@@ -22,7 +22,7 @@ sources:
 # A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r1` · `q2`
+> **Evidence** · 1 study · design `r1` · `q1`
 <!-- deprecated title (2026-10-05, overstated its evidence): A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning -->
 
 ## Subclaims

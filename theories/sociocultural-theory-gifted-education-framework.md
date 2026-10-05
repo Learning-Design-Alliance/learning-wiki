@@ -37,7 +37,7 @@ The essay proposes applying Vygotsky's sociocultural theory to gifted education,
 
 ### Claims
 
-- [Culturally and linguistically diverse students are underrepresented in gifted education because identification measures are culturally biased](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [+W]
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](../claims/traditional-identification-tests-fail-learning-potential.md) [+W]
 
 ## Related Theories

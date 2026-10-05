@@ -97,7 +97,7 @@ Mindset interventions are best understood as small motivational levers, not stan
 - Mindset interventions reliably change beliefs and goal orientations; achievement effects depend on contextual support [~M]
 - Process-focused feedback supports motivation and persistence more than trait-focused praise [~M]
 - Large-scale trial effects concentrate among lower-achieving students [~M]
-- [Feedback Praise Reduces Learning](../claims/feedback-praise-reduces-learning.md) [-M]
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]
 - [Growth mindset improves achievement](../claims/growth-mindset-improves-achievement.md) [+M]
 - [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](../claims/reading-failure-fixed-ability-attribution.md) [-W]

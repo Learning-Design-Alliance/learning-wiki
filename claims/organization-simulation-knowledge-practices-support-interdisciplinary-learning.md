@@ -13,7 +13,7 @@ sources:
     title: "Muukkonen, H., & Kajamaa, A. (2024). Knowledge objects and knowledge practices in interdisciplinary learning: Example of an organization simulation in higher education. *Journal of the Learning Sciences, 33*(2), 365-404. [https://doi.org/10.1080/10508406.2024.2344794](https://doi.org/10.1080/10508406.2024.2344794)"
     author: "Muukkonen, H., & Kajamaa, A."
     q: 2
-    i: 2
+    i: "?"
     n: "84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)"
     kind: qualitative
     rigour: 3
@@ -22,7 +22,7 @@ sources:
 # Organization-simulation knowledge practices support interdisciplinary learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)
+> **Evidence** · 1 study · qualitative `r3` · `q2` · n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)
 
 Interdisciplinary student teams in a multi-week organization simulation engaged in six identifiable collective knowledge practices while jointly building a shared knowledge object (a client offer); material tools (whiteboards, flip charts) visibly mediated shifts from unfocused discussion to structured, integrated problem-solving, while unclear leadership and time pressure were the most commonly reported barriers to productive collaboration.
 

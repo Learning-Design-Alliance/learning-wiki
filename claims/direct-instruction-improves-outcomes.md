@@ -67,4 +67,4 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 - [Direct instruction](../patterns/direct-instruction.md) — the pattern page describing the instructional model itself
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a narrower finding that bears on this claim
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — a narrower finding that bears on this claim
-- [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md) — related
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related

@@ -12,7 +12,7 @@ generated:
 # Analogical Encoding
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 review, 2 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
 
 ## Description
 Analogical encoding asks learners to compare two or more surface-different cases that share the same underlying structure (e.g., two negotiation dilemmas both hinging on a trade-off between value creation and value claiming). Through comparison, learners extract the shared relational schema and encode it as the case's central meaning, making it more likely they will recognize that structure in a new, surface-dissimilar problem. It is carried out by presenting paired cases, prompting explicit comparison ("How are these two situations alike?"), and naming the abstract principle the comparison reveals.

@@ -17,7 +17,7 @@ sources:
 # SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A lesson-level design pattern the article demonstrates with an Italian fifth-grade social-studies passage: essential information is extracted from the original text and presented across slides that (a) build prior knowledge, (b) limit text to key terms, (c) use words and pictures, (d) place printed words next to pictures, and (e) highlight key terms, following pretraining, coherence, multimedia, spatial contiguity, and signaling, with spoken words added per temporal contiguity. Linguistic complexity then increases gradually from key terms to short sentences with corresponding images and signaled key phrases.

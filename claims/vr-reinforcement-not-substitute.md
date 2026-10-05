@@ -43,5 +43,5 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 
 
 ## Related Claims
-- [Pretraining Improves Transfer](pretraining-improves-transfer.md) — related
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
 - [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related

@@ -58,7 +58,7 @@ A systematic search identified 55 studies comparing mathematics instruction usin
 
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — the broader engagement effect within which hands-on methods sit
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — why unscaffolded hands-on tasks can backfire
-- [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md) — a proposed mechanism linking manipulation to conceptual learning
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a proposed mechanism linking manipulation to conceptual learning
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — an alternative contextualized, activity-based format
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — possibly the same claim (merge candidate)
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related

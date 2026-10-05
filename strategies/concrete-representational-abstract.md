@@ -12,7 +12,7 @@ generated:
 # Concrete Representational Abstract
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 review, 3 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (4 causal, 4 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Concrete Representational Abstract (CRA) is an instructional sequence — rooted in Bruner's enactive–iconic–symbolic progression — in which learners first explore a concept with physical manipulatives, then with drawings or diagrams, and finally with abstract notation. Each phase builds on the previous one, with explicit links made between representations so the abstract symbols inherit meaning from the concrete and pictorial stages.

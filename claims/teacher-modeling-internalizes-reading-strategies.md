@@ -13,16 +13,16 @@ sources:
     resource: "https://www.mextesol.net/journal/"
     title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/"
     author: Üstündağ-Algın, P.
-    q: 2
+    q: 1
     i: "?"
-    kind: causal
-    rigour: 1
+    kind: qualitative
+    rigour: "?"
 ---
 
 # Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence** · 1 study · qualitative `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Students' questionnaire reflections indicated that the teacher explaining and giving examples as a role model supported their internalization of the comprehension strategies. [→ Üstündağ-Algın 2025](#ustundag-algn-2025)

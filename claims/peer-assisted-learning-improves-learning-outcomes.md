@@ -9,10 +9,10 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 sources:
-  - id: online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008
-    resource: "https://eric.ed.gov"
-    title: "Online peer assisted learning community model and its application in ZJNU. (2008). https://eric.ed.gov"
-    author: Online peer assisted learning community model and its application in ZJNU
+  - id: gaofeng-yeyu-2007
+    resource: "https://eric.ed.gov/?id=ED500172"
+    title: "Gaofeng, R., & Yeyu, L. (2007). *An online peer assisted learning community model and its application in ZJNU*. ERIC ED500172 (Online Submission). [https://eric.ed.gov/?id=ED500172](https://eric.ed.gov/?id=ED500172)"
+    author: "Gaofeng, R., & Yeyu, L."
     q: 2
     i: "?"
     kind: design
@@ -45,7 +45,7 @@ The article's review section defines peer assisted learning as "acquiring knowle
 
 ## Related Claims
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
-- [A blended online peer assisted learning community in a Distance Education course at Zhejiang Normal University was effective in promoting interpersonal interactions and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
+- [A descriptive report of a blended online peer-assisted learning community in a Zhejiang Normal University distance-education course asserts, without reported data, that it promoted interpersonal interaction and informal learning](blended-peer-assisted-learning-experiment-effective-at-zjnu.md) — a narrower finding that bears on this claim
 - [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
 - [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — a narrower finding that bears on this claim
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — a narrower finding that bears on this claim

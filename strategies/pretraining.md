@@ -12,7 +12,7 @@ generated:
 # Pretraining
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Pretraining provides learners with prior instruction on the names, characteristics, locations, and functions of the key concepts and components that a subsequent lesson will assume. Rather than learning "what it's called" and "how it works" simultaneously, learners first acquire the vocabulary and component knowledge, then encounter the causal model or procedure with those elements already familiar.
