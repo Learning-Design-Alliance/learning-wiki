@@ -90,7 +90,7 @@ subclaims), then judged blind pairs in both orders.
 to "the page", its sections, steps or tables. Wave 3 found answers citing "page, step 4" marked down, which biased the
 comparison towards the old pages. Scores are therefore not strictly comparable with earlier waves.
 
-$6.26 in all ($3.45 answers, $2.65 grading, $0.16 briefs and re-runs).
+$6.85 in all: $3.68 for answers, including the regenerated ones; $2.65 for grading; $0.51 for the rework re-test; $0.01 for briefs.
 
 **Three NEW answers, and no OLD one, were cut off mid-sentence** at the answerer's 4,000-token limit:
 - experiential learning cycle, complete brief;
@@ -147,7 +147,20 @@ Each losing page gained one situation row, labelled an untested proposal:
   submission into the product (scored on audience criteria) and a short decision memo for the assessor (scored on
   reasoning), and revise both.
 
-REWORK-RESULTS
+Re-tested on the two complete briefs: two fresh NEW answers each against the same OLD answer, with both graders
+and both orders ($0.51):
+
+| Brief | Wave 4 | After rework (answer 1, answer 2) |
+|---|---|---|
+| ask-experts, complete (hybrid makerspace) | 1–3 | **3–1**, 2–2 |
+| authentic-assessment, complete (legal-aid volunteers) | 1–3 | **3–1**, **4–0** |
+
+Graders now credited the relay partner for the phone learners and the separate decision memo. Gemini still preferred
+the old ask-experts answer in three of four judgements. Its reasons were the old answer's clustering of appliances
+by fault, so that every learner gets expert feedback in 30 minutes, and its norms against "stupid questions". DeepSeek
+preferred the new answer in all four. **One missing situation row can lose a brief.** The table is where a page
+earns its fit, and rows for the hybrid setting and for a product whose audience should not see the working were
+both missing.
 
 ## Open findings from the agents
 

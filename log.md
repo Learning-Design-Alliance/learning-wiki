@@ -13,6 +13,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Fix**: ten converted principle and pattern pages — frontmatter DOIs corrected to the Crossref-verified Key Sources DOIs; Vo & Morris (2006) journal, Givens et al. year and Setlhodi (2018) DOI corrected
 * **Fix**: claims flagged by conversion waves 1–3 — 16 overstated titles rewritten, stale "no evidence" text replaced, four impact or design codes corrected to their printed statistics
 * **Merge**: eight duplicate claims folded into their canonical pages (lateral reading, interleaving ×2, self-explanation ×2, learning styles, discussion ×2)
+* **Edit**: conversion wave 4 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-4.md); six frontmatter DOIs corrected against Crossref
 
 ## 2026-10-02
 
