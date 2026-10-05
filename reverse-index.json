@@ -6,7 +6,7 @@
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 67,
-  "claims->principles": 118,
+  "claims->principles": 117,
   "claims->processes": 3,
   "claims->theories": 208,
   "designs->claims": 93,
@@ -20,10 +20,10 @@
   "elements->elements": 468,
   "elements->learner-variables": 1,
   "elements->methods": 1,
-  "elements->patterns": 248,
+  "elements->patterns": 246,
   "elements->principles": 316,
   "elements->processes": 1,
-  "elements->theories": 195,
+  "elements->theories": 197,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -37,21 +37,21 @@
   "methods->principles": 11,
   "methods->processes": 4,
   "methods->theories": 7,
-  "patterns->claims": 116,
+  "patterns->claims": 115,
   "patterns->designs": 18,
-  "patterns->elements": 76,
+  "patterns->elements": 73,
   "patterns->learner-variables": 1,
   "patterns->methods": 4,
-  "patterns->patterns": 86,
-  "patterns->principles": 72,
+  "patterns->patterns": 85,
+  "patterns->principles": 70,
   "patterns->processes": 1,
   "patterns->theories": 29,
-  "principles->claims": 389,
+  "principles->claims": 387,
   "principles->designs": 34,
-  "principles->elements": 94,
+  "principles->elements": 93,
   "principles->methods": 4,
   "principles->patterns": 72,
-  "principles->principles": 257,
+  "principles->principles": 254,
   "principles->processes": 2,
   "principles->theories": 102,
   "processes->claims": 16,
@@ -68,7 +68,7 @@
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 658,
+  "strategies->theories": 659,
   "theories->claims": 757,
   "theories->designs": 60,
   "theories->elements": 158,
@@ -58635,11 +58635,6 @@
       "strength": "S"
      },
      {
-      "polarity": "+",
-      "slug": "inquiry-based-learning",
-      "strength": "S"
-     },
-     {
       "polarity": "~",
       "slug": "research-based-learning",
       "strength": "M"
@@ -63190,11 +63185,6 @@
      {
       "polarity": "+",
       "slug": "5e-learning-cycle",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "inquiry-based-learning",
       "strength": "M"
      },
      {
@@ -81789,11 +81779,6 @@
       "polarity": "~",
       "slug": "gamification",
       "strength": "S"
-     },
-     {
-      "polarity": "-",
-      "slug": "reinforcement-theory",
-      "strength": "M"
      }
     ],
     "theories": [
@@ -89486,15 +89471,7 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "reinforcement-theory",
-      "strength": "M"
-     },
-     {
       "slug": "rhetorical-skill-development"
-     },
-     {
-      "slug": "self-determination-theory"
      },
      {
       "slug": "self-directed-learning"
@@ -89851,6 +89828,11 @@
      {
       "polarity": "~",
       "slug": "behaviorism",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "self-determination-theory",
       "strength": "M"
      },
      {
@@ -104248,15 +104230,7 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "reinforcement-theory",
-      "strength": "M"
-     },
-     {
       "slug": "rhetorical-skill-development"
-     },
-     {
-      "slug": "self-determination-theory"
      },
      {
       "slug": "self-directed-learning"
@@ -110535,14 +110509,6 @@
       "polarity": "+",
       "slug": "motivation",
       "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "reinforcement-theory",
-      "strength": "S"
-     },
-     {
-      "slug": "self-determination-theory"
      },
      {
       "slug": "self-directed-learning"
@@ -118099,11 +118065,6 @@
      {
       "polarity": "+",
       "slug": "fostering-communities-of-learning-fcl",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "inquiry-based-learning",
       "strength": "M"
      }
     ],
@@ -133312,9 +133273,6 @@
     "principles": [
      {
       "slug": "effective-classroom-management-plan"
-     },
-     {
-      "slug": "reinforcement-theory"
      }
     ],
     "strategies": [
@@ -152901,11 +152859,6 @@
      {
       "slug": "summative-assessment"
      }
-    ],
-    "patterns": [
-     {
-      "slug": "summative-assessment"
-     }
     ]
    },
    "flight-sos-interactive-video": {
@@ -153552,9 +153505,6 @@
      },
      {
       "slug": "guided-discovery-learning"
-     },
-     {
-      "slug": "inquiry-based-learning"
      }
     ],
     "strategies": [
@@ -153914,9 +153864,6 @@
      }
     ],
     "patterns": [
-     {
-      "slug": "journaling"
-     },
      {
       "slug": "lda-reflection"
      },
@@ -154411,11 +154358,6 @@
      {
       "slug": "research"
      }
-    ],
-    "patterns": [
-     {
-      "slug": "inquiry-based-learning"
-     }
     ]
    },
    "inquiry-learning": {
@@ -154598,11 +154540,6 @@
      },
      {
       "slug": "reflection-activities"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "journaling"
      }
     ],
     "strategies": [
@@ -157135,9 +157072,6 @@
     "patterns": [
      {
       "slug": "authentic-assessment"
-     },
-     {
-      "slug": "summative-assessment"
      }
     ]
    },
@@ -160389,11 +160323,6 @@
      },
      {
       "slug": "problem-presentation"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "inquiry-based-learning"
      }
     ]
    },
@@ -164607,9 +164536,6 @@
     "patterns": [
      {
       "slug": "constructive-alignment"
-     },
-     {
-      "slug": "summative-assessment"
      }
     ],
     "processes": [
@@ -169623,9 +169549,6 @@
       "slug": "guided-discovery-learning"
      },
      {
-      "slug": "inquiry-based-learning"
-     },
-     {
       "slug": "model-evidence-link-mel-reasoning-pattern"
      },
      {
@@ -173556,26 +173479,6 @@
      }
     ]
    },
-   "inquiry-based-learning": {
-    "elements": [
-     {
-      "slug": "criteria-development"
-     },
-     {
-      "slug": "question-formulation"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "experiential-learning-cycle"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "inquiry-based-learning"
-     }
-    ]
-   },
    "interdisciplinary-course-based-research-experience": {
     "claims": [
      {
@@ -173711,16 +173614,6 @@
     "theories": [
      {
       "slug": "five-basic-elements-of-cooperative-learning"
-     }
-    ]
-   },
-   "journaling": {
-    "elements": [
-     {
-      "slug": "journaling"
-     },
-     {
-      "slug": "reflection-activities"
      }
     ]
    },
@@ -174766,13 +174659,6 @@
     "principles": [
      {
       "slug": "process-based-writing"
-     }
-    ]
-   },
-   "summative-assessment": {
-    "elements": [
-     {
-      "slug": "summative-assessment"
      }
     ]
    },
@@ -188236,9 +188122,6 @@
      },
      {
       "slug": "procedural-learning"
-     },
-     {
-      "slug": "self-determination-theory"
      }
     ],
     "strategies": [
@@ -188621,9 +188504,6 @@
      },
      {
       "slug": "multi-objective-exercise-recommendation-objectives"
-     },
-     {
-      "slug": "self-determination-theory"
      }
     ],
     "theories": [
@@ -189375,12 +189255,6 @@
      },
      {
       "slug": "motivation"
-     },
-     {
-      "slug": "reinforcement-theory"
-     },
-     {
-      "slug": "self-determination-theory"
      }
     ],
     "strategies": [
@@ -189970,6 +189844,9 @@
       "slug": "conceptual-questioning"
      },
      {
+      "slug": "criteria-development"
+     },
+     {
       "slug": "data-analysis"
      },
      {
@@ -189998,6 +189875,9 @@
      },
      {
       "slug": "provide-guidance"
+     },
+     {
+      "slug": "question-formulation"
      },
      {
       "slug": "research"
@@ -190169,6 +190049,14 @@
     ]
    },
    "journaling": {
+    "elements": [
+     {
+      "slug": "journaling"
+     },
+     {
+      "slug": "reflection-activities"
+     }
+    ],
     "principles": [
      {
       "slug": "note-taking"
@@ -190305,9 +190193,6 @@
      },
      {
       "slug": "multiple-methods-of-assessment"
-     },
-     {
-      "slug": "self-determination-theory"
      },
      {
       "slug": "self-directed-learning"
@@ -190491,9 +190376,6 @@
      },
      {
       "slug": "feedback-loops"
-     },
-     {
-      "slug": "reinforcement-theory"
      },
      {
       "slug": "sequencing"
@@ -190700,9 +190582,6 @@
     "principles": [
      {
       "slug": "engagement"
-     },
-     {
-      "slug": "self-determination-theory"
      },
      {
       "slug": "target-expectancy-value-components-in-teacher-ai-training"
@@ -191922,13 +191801,13 @@
       "slug": "experiential-learning-cycle"
      },
      {
-      "slug": "journaling"
-     },
-     {
       "slug": "merrills-first-principles-integration"
      }
     ],
     "principles": [
+     {
+      "slug": "journaling"
+     },
      {
       "slug": "self-monitoring"
      },
@@ -191955,38 +191834,6 @@
      },
      {
       "slug": "moral-dimensions-of-instructional-design"
-     }
-    ]
-   },
-   "reinforcement-theory": {
-    "claims": [
-     {
-      "slug": "overjustification-effect-reduces-intrinsic-motivation"
-     }
-    ],
-    "elements": [
-     {
-      "slug": "antecedent-behavior-consequence-model"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "effective-classroom-management-plan"
-     },
-     {
-      "polarity": "+",
-      "slug": "functional-behavior-assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "natural-and-logical-consequences",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "supporting-students-with-intellectual-disabilities",
-      "strength": "M"
      }
     ]
    },
@@ -192891,24 +192738,6 @@
      }
     ]
    },
-   "self-determination-theory": {
-    "elements": [
-     {
-      "slug": "adaptive-mastery-learning"
-     },
-     {
-      "slug": "learner-choice"
-     },
-     {
-      "slug": "positive-interdependence"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "demonstrating_caring"
-     }
-    ]
-   },
    "self-directed-learning": {
     "patterns": [
      {
@@ -193128,9 +192957,6 @@
       "slug": "blended-learning"
      },
      {
-      "slug": "journaling"
-     },
-     {
       "slug": "online-course-design"
      },
      {
@@ -193155,6 +192981,9 @@
      },
      {
       "slug": "goal-setting-monitoring"
+     },
+     {
+      "slug": "journaling"
      },
      {
       "slug": "knowledge-organization"
@@ -193595,9 +193424,6 @@
      },
      {
       "slug": "prior-knowledge-growth-point-new-knowledge"
-     },
-     {
-      "slug": "self-determination-theory"
      }
     ],
     "theories": [
@@ -193623,11 +193449,6 @@
    },
    "summative-assessment": {
     "elements": [
-     {
-      "slug": "summative-assessment"
-     }
-    ],
-    "patterns": [
      {
       "slug": "summative-assessment"
      }
@@ -195440,6 +195261,9 @@
       "slug": "adaptive-mastery-learning"
      },
      {
+      "slug": "antecedent-behavior-consequence-model"
+     },
+     {
       "slug": "drill-practice"
      },
      {
@@ -195467,6 +195291,14 @@
     ],
     "principles": [
      {
+      "slug": "effective-classroom-management-plan"
+     },
+     {
+      "polarity": "+",
+      "slug": "functional-behavior-assessment",
+      "strength": "M"
+     },
+     {
       "slug": "gamification"
      },
      {
@@ -195476,13 +195308,20 @@
       "slug": "motivation"
      },
      {
+      "polarity": "+",
+      "slug": "natural-and-logical-consequences",
+      "strength": "M"
+     },
+     {
       "slug": "procedural-learning"
      },
      {
-      "slug": "reinforcement-theory"
+      "slug": "rhetorical-skill-development"
      },
      {
-      "slug": "rhetorical-skill-development"
+      "polarity": "+",
+      "slug": "supporting-students-with-intellectual-disabilities",
+      "strength": "M"
      }
     ],
     "processes": [
@@ -205736,6 +205575,9 @@
     ],
     "elements": [
      {
+      "slug": "adaptive-mastery-learning"
+     },
+     {
       "slug": "belonging"
      },
      {
@@ -205743,6 +205585,12 @@
      },
      {
       "slug": "emotion-regulation"
+     },
+     {
+      "slug": "learner-choice"
+     },
+     {
+      "slug": "positive-interdependence"
      },
      {
       "slug": "reinforcement"
@@ -205788,13 +205636,7 @@
       "slug": "personalization"
      },
      {
-      "slug": "reinforcement-theory"
-     },
-     {
       "slug": "self-affirmation"
-     },
-     {
-      "slug": "self-determination-theory"
      },
      {
       "slug": "self-directed-learning"
@@ -205826,6 +205668,9 @@
      },
      {
       "slug": "cultivating_belonging_through_environmental_cues"
+     },
+     {
+      "slug": "demonstrating_caring"
      },
      {
       "slug": "designing_personalized_learning_for_engagement"
@@ -210059,8 +209904,8 @@
   "elements": 733,
   "learner-variables": 12,
   "methods": 38,
-  "patterns": 139,
-  "principles": 467,
+  "patterns": 136,
+  "principles": 465,
   "processes": 18,
   "strategies": 3184,
   "theories": 946

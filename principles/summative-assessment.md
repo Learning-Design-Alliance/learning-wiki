@@ -30,9 +30,12 @@ Summative assessment is most useful when end-point judgments are based on eviden
 - **Clear target outcomes**
 - **Assessment evidence aligned to those outcomes**
 - **Standards or criteria for judging performance**
+- **Defined outcomes**
+- **Valid end-point evidence**
 #### Constraints
 - **One-shot stakes can distort performance**
 - **Overreliance on recall tasks can weaken validity for complex goals**
+- **Summative designs should not be the only assessment structure in a course**
 
 ### Target Learning Objectives
 - Judge cumulative or end-point performance against course or unit expectations.
@@ -41,6 +44,7 @@ Summative assessment is most useful when end-point judgments are based on eviden
 #### Supporting
 - [Competency-Based Assessment](competency-based-assessment.md)
 - Criterion-referenced assessment traditions
+- [Summative Assessment](../principles/summative-assessment.md)
 
 ### Claims
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — end-point judgments are often stronger when they sample meaningful whole-task performance rather than isolated recall alone
@@ -51,6 +55,50 @@ Summative assessment is most useful when end-point judgments are based on eviden
 
 ## Examples
 - Final exams, capstones, final performances, and end-of-unit assessments.
+- End-of-course exams and capstone evaluations.
 
 ## Key Sources
 - Harlen, W. (2005). Teachers' summative practices and assessment for learning. *The Curriculum Journal, 16*(2), 207-223. [https://doi.org/10.1080/09585170500136093](https://doi.org/10.1080/09585170500136093)
+
+<!-- merged 2026-10-05 from patterns/summative-assessment ("Summative Assessment"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Summative Assessment
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
+
+## Implications
+
+### Context
+#### Requirements
+- **Defined outcomes**
+- **Valid end-point evidence**
+#### Constraints
+- **Summative designs should not be the only assessment structure in a course**
+#### Grain Size
+- Unit
+- Course
+
+### Target Goals
+- Make cumulative judgments about achievement or competence.
+
+### Theory
+#### Supporting
+- [Summative Assessment](../principles/summative-assessment.md)
+
+## Design
+
+### Elements Used
+- [Summative Assessment](../elements/summative-assessment.md)
+- [Final Exam](../elements/final-exam.md)
+- [Performance-Based Assessment](../elements/performance-based-assessment.md)
+
+## Examples
+- End-of-course exams and capstone evaluations.
+
+## Key Sources
+- Harlen, W. (2005). Teachers' summative practices and assessment for learning. *The Curriculum Journal, 16*(2), 207-223. [https://doi.org/10.1080/09585170500136093](https://doi.org/10.1080/09585170500136093)
+-->

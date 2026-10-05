@@ -62,7 +62,7 @@ Generating questions forces learners to surface gaps in their own understanding,
 - [Challenge Identification](challenge-identification.md) — naming the problem is a close cousin of framing the question
 
 ## Patterns That Use This Element
-- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md) — learner questions define the focus of the inquiry cycle
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md) — learner questions define the focus of the inquiry cycle
 - [Problem-Based Learning](../patterns/problem-based-learning.md) — the "learning issues" step is structured question formulation about what the group needs to know
 
 ## Examples

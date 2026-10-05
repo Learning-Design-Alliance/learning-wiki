@@ -48,7 +48,7 @@ Journaling is the element in which learners record reflections, observations, qu
 - [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [Journaling](../patterns/journaling.md)
+- [Journaling](../principles/journaling.md)
 - [Reflective Practice](../principles/reflection.md)
 
 ## Examples

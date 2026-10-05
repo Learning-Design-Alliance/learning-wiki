@@ -2,13 +2,13 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**139 entries** · 0 stable · 71 in review · 68 drafts
+**136 entries** · 0 stable · 68 in review · 68 drafts
 
 ---
 
 ## In Review
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [O](#letter-o) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w) · [#](#letter-num)
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [O](#letter-o) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w) · [#](#letter-num)
 
 #### A {: #letter-a }
 
@@ -62,14 +62,9 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Goal-Based Scenarios](goal-based-scenarios.md) - Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario.
 * [Guided Discovery Learning](guided-discovery-learning.md) - Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles.
 
-#### I {: #letter-i }
-
-* [Inquiry-Based Learning](inquiry-based-learning.md) - Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
-
 #### J {: #letter-j }
 
 * [Jigsaw Method](jigsaw-method.md) - The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture.
-* [Journaling](journaling.md) - Journaling is the pattern-level target for recurring written reflection used to track learning, sensemaking, or growth over time.
 * [Just-in-Time Learning](just-in-time-learning.md) - Just-in-time learning is the short-form canonical pattern for providing support, information, or practice at the moment it is needed for performance.
 
 #### L {: #letter-l }
@@ -115,7 +110,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Spaced Learning](spaced-learning.md) - A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.
 * [Structured Academic Controversy](structured-academic-controversy.md) - A reusable policy for cooperative argument on a contested question, in which pairs argue assigned positions, restate and then reverse them, and write a joint conclusion, expected to support each learner's reasoned, individually checked position, conditional on an arguable question, evidence for both sides, an individual check and a stated horizon; untested as a whole.
 * [Structured Peer Review](structured-peer-review.md) - A reusable policy in which learners comment on one another's drafts against explicit criteria and each author then revises before the work is judged; expected to improve the revised work, and possibly the reviewers' own later work, where reviewers are calibrated on the criteria, comments point to the draft and suggest changes, revision is required and stakes are formative; no claim tests the full cycle, though peer feedback on writing and peer assessment are each tested against no feedback.
-* [Summative Assessment](summative-assessment.md) - Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
 
 #### T {: #letter-t }
 

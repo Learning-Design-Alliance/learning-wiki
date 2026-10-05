@@ -51,7 +51,7 @@ A student who fails to listen faces a consequence (missing important information
 
 ### Theory
 #### Supporting
-- [Reinforcement Theory](reinforcement-theory.md) [+M] — logical consequences function as a form of contingent, delayed negative consequence; the same requirements (proportionality, a legible connection to the behavior) mirror what makes reinforcement or punishment procedures actually work
+- [Reinforcement Theory](../theories/behaviorism.md) [+M] — logical consequences function as a form of contingent, delayed negative consequence; the same requirements (proportionality, a legible connection to the behavior) mirror what makes reinforcement or punishment procedures actually work
 #### Contradicting / Qualifying
 - [Functional Behavior Assessment](functional-behavior-assessment.md) [~M] — when misbehavior is driven by an identifiable environmental trigger rather than by a motive consequences can address, removing or altering the trigger is a more targeted response than any consequence
 

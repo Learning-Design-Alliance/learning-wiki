@@ -14846,7 +14846,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [strategies/repairing_harm](strategies/repairing_harm.md) — Cross-linked conflict-resolution and natural/logical consequences pages (Unit 9)
 * **Content**: [theories/turiels-social-domain-theory](theories/turiels-social-domain-theory.md) — Cross-linked classroom rules-vs-procedures application (Unit 9)
 * **Content**: [principles/culturally-responsive-classroom-norms](principles/culturally-responsive-classroom-norms.md) — Enriched with Tharp/Dillon/Bowers & Flinders on culturally responsive behavior management (Unit 9)
-* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched with Thorndike's puzzle box and the negative reinforcement trap (Unit 9)
+* **Content**: [principles/reinforcement-theory](theories/behaviorism.md) — Enriched with Thorndike's puzzle box and the negative reinforcement trap (Unit 9)
 * **Content**: [strategies/conditioning-natural-reinforcers](strategies/conditioning-natural-reinforcers.md) — Enriched with classroom-specific natural reinforcer examples (Unit 9)
 * **Content**: [strategies/establish_consistent_routines](strategies/establish_consistent_routines.md) — Enriched with engaged learning time and the five elements of teaching routines (Unit 9)
 * **Content**: [strategies/classroom_seating_arrangements](strategies/classroom_seating_arrangements.md) — Enriched with seating configuration options, citations, and ABC-model antecedent cross-link (Unit 9)
@@ -14898,7 +14898,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [principles/intelligence-testing-uses-and-limits](theories/intelligence-testing-uses-and-limits.md) — New page: IQ testing, standardization, and bias (Unit 7 ingest)
 * **Ingest**: [claims/flynn-effect-rising-iq-scores-over-generations](claims/flynn-effect-rising-iq-scores-over-generations.md) — New claim ld-7: the Flynn effect (Unit 7 ingest)
 * **Content**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Cross-link seductive details effect as an extraneous-load source (Unit 6 enrichment)
-* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Add overjustification effect as a documented constraint (Unit 6 enrichment)
+* **Content**: [principles/reinforcement-theory](theories/behaviorism.md) — Add overjustification effect as a documented constraint (Unit 6 enrichment)
 * **Content**: [theories/behaviorism](theories/behaviorism.md) — Add overjustification effect cross-link (Unit 6 enrichment)
 * **Content**: [theories/arcs-model](theories/arcs-model.md) — Add sub-tactics table and interest-model/Skinner cross-links (Unit 6 enrichment)
 * **Content**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Add multiplicative expectancy x value formula and expectancy/instrumentality/valence teaching tactics (Unit 6 enrichment)
@@ -14927,7 +14927,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/self-regulated-learning](theories/self-regulated-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
-* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [principles/reinforcement-theory](theories/behaviorism.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/behaviorism](theories/behaviorism.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [principles/transfer-of-learning](principles/transfer-of-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Ingest**: [elements/self-regulation-questionnaire](elements/self-regulation-questionnaire.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose

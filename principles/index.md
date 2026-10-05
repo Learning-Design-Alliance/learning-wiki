@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**467 entries** · 0 stable · 129 in review · 338 drafts
+**465 entries** · 0 stable · 127 in review · 338 drafts
 
 ---
 
@@ -164,7 +164,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Real-world Math](real-world-math.md) - Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study.
 * [Reflection](reflection.md) - For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on.
-* [Reinforcement Theory](reinforcement-theory.md) - Reinforcement theory is the principle of shaping behavior by making desired responses more likely through contingent consequences such as feedback, reward, or progression.
 * [Responsive Teaching](responsive-teaching.md) - Responsive teaching is the in-the-moment adaptation of instruction to learners' emerging ideas, using evidence from student thinking to decide what to do next.
 * [Retrieval Practice](retrieval-practice.md) - For learners who have studied material, recalling it from memory rather than restudying tends to raise delayed retention when initial retrieval mostly succeeds or is corrected by feedback; restudy can lead at a few minutes, transfer gains are smaller and conditional, and high element-interactivity material is contested.
 * [Rhetorical Skill Development](rhetorical-skill-development.md) - Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.
@@ -174,7 +173,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scaffolding](scaffolding.md) - Temporary support given while a learner attempts a task they cannot yet complete alone may improve later cognitive outcomes compared with unsupported attempts, qualified by the learner's task-specific starting response, the kind of support, the setting and whether the outcome is measured without the support.
 * [Scaffolding and Fading](scaffolding-and-fading.md) - Contingent support that is withdrawn as the learner shows unaided success may improve later independent performance on a task the learner cannot yet do alone, qualified by the task-specific starting response, how support ends, the setting and the outcome horizon.
 * [Self Affirmation](self-affirmation.md) - Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.
-* [Self-Determination Theory](self-determination-theory.md) - Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
 * [Self-Directed Learning](self-directed-learning.md) - Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
 * [Self-Explanation](self-explanation.md) - Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
 * [Self-monitoring](self-monitoring.md) - For a learner with a readable criterion and a next move for each result, taught, test-based checks of their own work at set points during a task are expected to improve performance on it, but no claim here isolates self-monitoring against its absence on a learning outcome.

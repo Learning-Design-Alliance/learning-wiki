@@ -47,7 +47,7 @@ Reflection activities are structured tasks that ask learners to examine what the
 
 ## Patterns That Use This Element
 - [Reflective Practice](../principles/reflection.md)
-- [Journaling](../patterns/journaling.md)
+- [Journaling](../principles/journaling.md)
 
 ## Examples
 - Exit reflections, debrief prompts, confidence checks, and after-action reviews.

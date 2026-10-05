@@ -5,8 +5,8 @@
   "element": 733,
   "learner-variable": 12,
   "method": 38,
-  "pattern": 139,
-  "principle": 467,
+  "pattern": 136,
+  "principle": 465,
   "process": 18,
   "strategy": 3184,
   "theory": 946
@@ -38537,15 +38537,6 @@
    "type": "pattern"
   },
   {
-   "description": "Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.",
-   "grain_size": "lesson",
-   "id": "inquiry-based-learning",
-   "path": "patterns/inquiry-based-learning.md",
-   "status": "review",
-   "title": "Inquiry-Based Learning",
-   "type": "pattern"
-  },
-  {
    "description": "A course design that engages disciplinarily diverse learners in a shared, authentic research practice \u2014 organized around a common boundary object that shifts function over the term \u2014 to build both disciplinary writing skill and cross-disciplinary integration.",
    "grain_size": "course",
    "id": "interdisciplinary-course-based-research-experience",
@@ -38581,15 +38572,6 @@
    "path": "patterns/jigsaw-structures-adult-learners.md",
    "status": "draft",
    "title": "Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members",
-   "type": "pattern"
-  },
-  {
-   "description": "Journaling is the pattern-level target for recurring written reflection used to track learning, sensemaking, or growth over time.",
-   "grain_size": "unit",
-   "id": "journaling",
-   "path": "patterns/journaling.md",
-   "status": "review",
-   "title": "Journaling",
    "type": "pattern"
   },
   {
@@ -39063,15 +39045,6 @@
    "path": "patterns/studio-faculty-mentor-consultant-roles.md",
    "status": "draft",
    "title": "Faculty as mentors and consultants guiding open-ended project work",
-   "type": "pattern"
-  },
-  {
-   "description": "Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.",
-   "grain_size": "unit",
-   "id": "summative-assessment",
-   "path": "patterns/summative-assessment.md",
-   "status": "review",
-   "title": "Summative Assessment",
    "type": "pattern"
   },
   {
@@ -42038,14 +42011,6 @@
    "type": "principle"
   },
   {
-   "description": "Reinforcement theory is the principle of shaping behavior by making desired responses more likely through contingent consequences such as feedback, reward, or progression.",
-   "id": "reinforcement-theory",
-   "path": "principles/reinforcement-theory.md",
-   "status": "review",
-   "title": "Reinforcement Theory",
-   "type": "principle"
-  },
-  {
    "description": "Trust, emotional safety, and strong teacher-student and student-student relationships are a necessary foundational layer beneath productive scientific argumentation and equitable classroom discourse \u2014 without them, students are less willing to share, revise, or challenge ideas in front of peers.",
    "id": "relationships-as-foundation-for-argumentation",
    "path": "principles/relationships-as-foundation-for-argumentation.md",
@@ -42191,14 +42156,6 @@
    "path": "principles/self-affirmation.md",
    "status": "review",
    "title": "Self Affirmation",
-   "type": "principle"
-  },
-  {
-   "description": "Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.",
-   "id": "self-determination-theory",
-   "path": "principles/self-determination-theory.md",
-   "status": "review",
-   "title": "Self-Determination Theory",
    "type": "principle"
   },
   {
@@ -80686,14 +80643,12 @@
    "heterogeneity-seeking-modeling-curriculum": "heterogeneity-seeking-modeling-curriculum",
    "hunters-effective-teaching-model": "hunters-effective-teaching-model",
    "industrial-arts-pyramid-program-levels": "industrial-arts-pyramid-program-levels",
-   "inquiry-based-learning": "inquiry-based-learning",
    "interdisciplinary-course-based-research-experience": "interdisciplinary-course-based-research-experience",
    "iupui-epportfolio-taxonomy-four-attributes": "iupui-epportfolio-taxonomy-four-attributes",
    "jigsaw": "jigsaw-method",
    "jigsaw-learning": "jigsaw-method",
    "jigsaw-method": "jigsaw-method",
    "jigsaw-structures-adult-learners": "jigsaw-structures-adult-learners",
-   "journaling": "journaling",
    "just-in-time-learning": "just-in-time-learning",
    "just-in-time-teaching": "just-in-time-teaching",
    "keypad-quizzing-interrupts-lecture-for-formative-assessment": "keypad-quizzing-interrupts-lecture-for-formative-assessment",
@@ -80753,7 +80708,6 @@
    "structured-academic-controversy-sac": "structured-academic-controversy",
    "structured-peer-review": "structured-peer-review",
    "studio-faculty-mentor-consultant-roles": "studio-faculty-mentor-consultant-roles",
-   "summative-assessment": "summative-assessment",
    "synthetic-planning-for-discovery-oriented-writing": "synthetic-planning-for-discovery-oriented-writing",
    "teacher-explicitness-talk-pattern": "teacher-explicitness-talk-pattern",
    "team-based-learning": "team-based-learning",
@@ -81136,7 +81090,6 @@
    "reduce-teacher-talk-increase-student-talk": "reduce-teacher-talk-increase-student-talk",
    "reflection": "reflection",
    "reflective-practice": "reflection",
-   "reinforcement-theory": "reinforcement-theory",
    "relationships-as-foundation-for-argumentation": "relationships-as-foundation-for-argumentation",
    "relaxed-atmosphere-communicative-activities": "relaxed-atmosphere-communicative-activities",
    "relevant-immediately-useful-adult-materials": "relevant-immediately-useful-adult-materials",
@@ -81157,7 +81110,6 @@
    "scaffolding-fading": "scaffolding-and-fading",
    "scale-srl-support-with-web-based-training-and-peer-feedback-groups": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
    "self-affirmation": "self-affirmation",
-   "self-determination-theory": "self-determination-theory",
    "self-directed-learning": "self-directed-learning",
    "self-explanation": "self-explanation",
    "self-monitoring": "self-monitoring",

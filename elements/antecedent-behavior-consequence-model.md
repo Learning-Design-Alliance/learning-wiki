@@ -43,7 +43,7 @@ Only observable actions qualify as "behaviors" in this sense — attitudes, valu
 - Increasing well-defined desirable behaviors and decreasing well-defined undesirable ones, through altering triggers and consequences rather than relying on general encouragement or generic punishment
 
 ### Affordances
-- [Reinforcement Theory](../principles/reinforcement-theory.md) — the ABC model is the diagnostic front end that identifies what a reinforcement or punishment plan should actually target
+- [Reinforcement Theory](../theories/behaviorism.md) — the ABC model is the diagnostic front end that identifies what a reinforcement or punishment plan should actually target
 - [Functional Behavior Assessment](../principles/functional-behavior-assessment.md) — shares the antecedent-identification logic, organizing triggers into physiological, environmental, and instructional categories
 
 ### Claims
