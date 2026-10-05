@@ -826,11 +826,11 @@
 <h1 id="adaptive-learning">Adaptive Learning<a class="headerlink" href="#adaptive-learning" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Principle</strong> · <a href="../">All principles</a>
-<strong>Evidence</strong> · 10 claims (5 for, 3 mixed, 2 against) · 18 studies (7 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative), <code>q2</code>–<code>q4</code> · 5 of 18 report an effect size · 5 claims rest on one study</p>
+<strong>Evidence</strong> · 11 claims (5 for, 4 mixed, 2 against) · 19 studies (7 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative), <code>q2</code>–<code>q4</code> · 5 of 19 report an effect size · 6 claims rest on one study</p>
 </blockquote>
 <h2 id="conditional-relationship">Conditional relationship<a class="headerlink" href="#conditional-relationship" title="Permanent link">&para;</a></h2>
 <p>Where learners in one course start from different observed responses on a task whose parts can be checked separately (cumulative <code>procedure</code>, <code>principle</code> or <code>verbal-association</code> goals; mathematics, programming and language mechanics are the usual cases), selecting each learner's next task, hint, feedback or check from that learner's recent responses, instead of moving everyone through one fixed sequence, is expected to raise achievement on an aligned measure (<code>general-achievement</code>, mostly <code>immediate</code> or end-of-course). The relationship is conditional on four things: the responses must diagnose what the learner can and cannot yet do on the target task; the adaptation must change something that matters for learning (the support given or the task chosen, not only its order); support must be reduced as the learner's unassisted performance improves; and the outcome and horizon must be stated, since aligned test scores, standardised achievement, <code>delayed-retention</code>, <code>far-transfer</code> and <code>learning-time</code> move separately.</p>
-<p>This page owns the general relationship: individualised selection against a fixed path, whoever or whatever does the selecting. Three converted pages hold narrower models inside it. <a href="../scaffolding/">Scaffolding</a> treats support versus none during an attempt, and its model of contingent support is the within-task form of adaptation. <a href="../mastery-learning/">Mastery Learning</a> treats one adaptive rule, a gate with correction and a recheck before advancing. <a href="../formative-assessment/">Formative Assessment</a> treats the interpretation of evidence and the contingent action that any adaptive decision depends on. This page does not repeat them. The <a href="../../patterns/adaptive-learning/">adaptive learning pattern</a> is a short, unconverted stub.</p>
+<p>This page owns the general relationship: individualised selection against a fixed path, whoever or whatever does the selecting. Three converted pages hold narrower models inside it. <a href="../scaffolding/">Scaffolding</a> treats support versus none during an attempt, and its model of contingent support is the within-task form of adaptation. <a href="../mastery-learning/">Mastery Learning</a> treats one adaptive rule, a gate with correction and a recheck before advancing. <a href="../formative-assessment/">Formative Assessment</a> treats the interpretation of evidence and the contingent action that any adaptive decision depends on. This page does not repeat them. The <a href="./">adaptive learning pattern</a> is a short, unconverted stub.</p>
 <p><strong>No claim in the wiki tests adaptation itself against the same content in a fixed sequence at scale.</strong> The strongest evidence below compares intelligent tutoring systems, which bundle adaptation with step-level feedback, practice and a model of the task, with conventional instruction; it shows the bundle can help, not which part of it does.</p>
 <h2 id="default-design-while-the-relationship-is-untested">Default design, while the relationship is untested<a class="headerlink" href="#default-design-while-the-relationship-is-untested" title="Permanent link">&para;</a></h2>
 <p>The page's earlier guidance, kept as a concrete default a designer can act on and revise. Each step is a design proposal, with its evidence status beside it.</p>
@@ -903,6 +903,7 @@
 <li><a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes the transfer of responsibility from instructor to learner.</a> [+S] — not settled: the text available could not confirm the entries (abstract)</li>
 <li><a href="../../claims/example-problem-sequences-reduce-cognitive-load/">Example-problem sequences reduce cognitive load and improve learning outcomes.</a> [+M] — not yet checked against its sources</li>
 <li><a href="../../claims/intuitive-learners-outperform-sensing-learners/">Intuitive learners tend to outperform sensing learners in media-based presentations</a> [-M] — not yet checked against its sources</li>
+<li><a href="../../claims/learning-rate-retention-tradeoff/">Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)</a> [~W]</li>
 </ul>
 <h2 id="objective-and-learner-valued-goal">Objective and learner-valued goal<a class="headerlink" href="#objective-and-learner-valued-goal" title="Permanent link">&para;</a></h2>
 <p>The designer's objective in an adaptive design is usually a criterion on each skill in a map, reached in less time than a fixed path would take. What the learner values may differ: finishing the assigned work quickly, understanding why a method works, preparing for a particular examination, or not being held on one skill while classmates move on. Ask what the learner wants and why, record agreement or divergence as an observation, and do not infer it from time logged in the system.</p>
@@ -914,7 +915,7 @@
 <ul>
 <li><a href="../cognitive-load-management/">Cognitive Load Management</a> — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time</li>
 <li><a href="../assessment-for-learning/">Assessment for Learning</a> — supplies the continuous diagnostic evidence that any adaptive decision depends on</li>
-<li><a href="../competency-based-learning-assessment/">Competency-Based Learning &amp; Assessment</a> — provides the mastery criteria that gate progression in adaptive designs</li>
+<li><a href="../competency-based-assessment/">Competency-Based Learning &amp; Assessment</a> — provides the mastery criteria that gate progression in adaptive designs</li>
 <li><a href="../active-learning/">Active Learning</a> — adaptive systems still require learners to do generative work; adaptation of difficulty does not replace engagement</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
@@ -932,7 +933,6 @@
 <ul>
 <li><strong><a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a></strong> — The core element: dynamically raising or lowering task difficulty based on performance signals such as accuracy, latency, and error patterns.</li>
 <li><strong><a href="../../elements/adaptive-mastery-learning/">Adaptive Mastery Learning</a></strong> — Combines mastery criteria with adaptive routing so learners who fail an assessment are routed to remediation rather than the next unit.</li>
-<li><strong><a href="../../patterns/adaptive-learning/">Adaptive Learning</a></strong> — The full instructional pattern: diagnosis, adaptive task selection, responsive feedback, and mastery gating operating as a cycle.</li>
 <li><strong>Duolingo</strong> — Language-learning app that adapts item scheduling using a spaced-repetition and learner-error model, reinserting items the learner is predicted to forget.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
@@ -942,6 +942,7 @@
 <li>Ma, W., Adesope, O. O., Nesbit, J. C., &amp; Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. <em>Journal of Educational Psychology, 106</em>(4), 901–918. <a href="https://doi.org/10.1037/a0037123">doi:10.1037/a0037123</a></li>
 <li>Corbett, A. T. (2001). Cognitive computer tutors: Solving the two-sigma problem. <em>User Modeling 2001</em>, 137–147. <a href="https://doi.org/10.1007/3-540-44566-8_14">doi:10.1007/3-540-44566-8_14</a></li>
 <li>Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., &amp; Pane, J. D. (2017). Informing progress: Insights on personalized learning implementation and effects. RAND Corporation. <a href="https://www.rand.org/pubs/research_reports/RR2042.html">https://www.rand.org/pubs/research_reports/RR2042.html</a> <a href="https://doi.org/10.7249/rr2042">doi:10.7249/rr2042</a></li>
+<li>Pane, J. F., Steiner, E. D., Baird, M. D., &amp; Hamilton, L. S. (2015). <em>Continued progress</em>. RAND.</li>
 </ul>
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier Description and Implications, verbatim.
 
@@ -993,6 +994,32 @@ Adaptive designs operationalize the zone of proximal development: tasks are matc
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the diagnostic information driving adaptation should feed task- and process-level feedback
 - [Example–problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S] — adaptive sequencing can interleave worked examples with problems based on performance
 
+-->
+
+<!-- merged 2026-10-05 from patterns/adaptive-learning ("Adaptive Learning"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Adaptive Learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
+
+## Design
+
+### Elements Used
+- [Adaptive Learning](../elements/adaptive-learning.md)
+- [Immediate Feedback](../elements/immediate-feedback.md)
+
+## Claims
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](../claims/learning-rate-retention-tradeoff.md) [~W]
+
+## Related Patterns
+- [Mastery Learning](../patterns/mastery-learning.md)
+
+## Key Sources
+- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.
 -->
 
 <details class="info">
