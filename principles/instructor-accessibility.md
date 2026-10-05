@@ -25,7 +25,7 @@ sources:
 # Instructor Accessibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 mixed) · 7 studies (2 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 7 report an effect size
+> **Evidence** · 22 claims (7 for, 15 mixed) · 24 studies (5 causal, 4 quant-synthesis, 4 review, 4 qualitative, 3 associational, 3 design, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 

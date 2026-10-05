@@ -2,13 +2,13 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**139 entries** · 0 stable · 69 in review · 70 drafts
+**139 entries** · 0 stable · 71 in review · 68 drafts
 
 ---
 
 ## In Review
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w) · [#](#letter-num)
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [O](#letter-o) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w) · [#](#letter-num)
 
 #### A {: #letter-a }
 
@@ -44,13 +44,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### E {: #letter-e }
 
 * [Elaboration Theory](elaboration-theory.md) - A reusable course-level sequencing policy: an epitome of the most general ideas, elaborated level by level toward detail and tied back to the whole by learner-built synthesis; one small study of hierarchical knowledge organisation bears on it, and no claim tests the sequence itself.
+* [Epistemic Games](epistemic-games.md) - A reusable policy in which learners take a role in a simulation of a profession's work and learn its way of deciding; expected to improve decisions justified in the practice's terms where the practice has been studied, mentors model decisions and feedback and debriefs are given, and the outcome is judged outside the game; no claim in this wiki tests epistemic games.
 * [Experiential Learning Cycle](experiential-learning-cycle.md) - A reusable sequence of bounded experience, prompted debrief, a stated and checked principle and a changed attempt with feedback, repeated across sessions with support fading, is expected to improve performance and near transfer where learners can interpret the experience; no claim tests the cycle as a whole, only its steps.
 
 #### F {: #letter-f }
 
 * [Flipped Classroom](flipped-classroom.md) - Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback.
 * [Formative Assessment](formative-assessment.md) - A reusable elicit–interpret–act–reobserve policy, qualified by what a response can establish and by whether a relevant next action is available.
-* [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md) - Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners.
+* [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md) - A reusable research-and-teach cycle in which learners become expert on one part of a shared theme, teach it to peers in jigsaw groups and read through reciprocal teaching, expected to raise each learner's understanding of the whole theme where research is guided, teaching is structured and every member is checked on every part; no claim tests the pattern as a whole, only its components.
 
 #### G {: #letter-g }
 
@@ -87,6 +88,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Model-Evidence Link (MEL) Reasoning Pattern](model-evidence-link-mel-reasoning-pattern.md) - The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly.
 * [Multimedia Learning](multimedia-learning.md) - A reusable policy for pairing an explanation's words with an informative picture, choosing placement, channel, pacing and segmentation from the learner's observed response and the intended outcome.
 
+#### O {: #letter-o }
+
+* [Online Course Design (Community of Inquiry)](online-course-design.md) - An online course whose structure stays constant, whose weekly cycle builds interaction with content, the teacher and peers by design, whose first week centres on contact with a person and whose discussion is structured to reach a conclusion is expected to raise end-of-term performance and completion over one left to chance; no claim tests this, and the nearest claims bear on self-regulation support, if-then planning for completion and where online learners drop out.
+
 #### P {: #letter-p }
 
 * [Peer Instruction](peer-instruction.md) - A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.
@@ -105,11 +110,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Self-Directed Learning](self-directed-learning.md) - Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.
 * [Self-Regulated Learning](self-regulated-learning.md) - A reusable plan–monitor–act policy that makes regulation explicit with task-specific prompts, modelled self-assessment and a usable next action, then reads the response before handing regulation to the learner.
-* [Social Emotional Learning](social-emotional-learning.md) - Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.
+* [Social Emotional Learning](social-emotional-learning.md) - For school-age learners, a sustained programme, delivered mainly by their own teachers, that explicitly teaches one named social or emotional skill at a time, rehearses it actively with feedback and cues it in daily routines and academic work is expected to improve those skills most, and conduct, distress and achievement by smaller amounts, with gains persisting at follow-up; meta-analyses test universal K–12 SEL programmes as a whole against controls, but no claim tests this sequence's steps, adult learners or one-off formats.
 * [Socratic Seminar](socratic-seminar.md) - Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
 * [Spaced Learning](spaced-learning.md) - A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules.
 * [Structured Academic Controversy](structured-academic-controversy.md) - A reusable policy for cooperative argument on a contested question, in which pairs argue assigned positions, restate and then reverse them, and write a joint conclusion, expected to support each learner's reasoned, individually checked position, conditional on an arguable question, evidence for both sides, an individual check and a stated horizon; untested as a whole.
-* [Structured Peer Review](structured-peer-review.md) - Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise.
+* [Structured Peer Review](structured-peer-review.md) - A reusable policy in which learners comment on one another's drafts against explicit criteria and each author then revises before the work is judged; expected to improve the revised work, and possibly the reviewers' own later work, where reviewers are calibrated on the criteria, comments point to the draft and suggest changes, revision is required and stakes are formative; no claim tests the full cycle, though peer feedback on writing and peer assessment are each tested against no feedback.
 * [Summative Assessment](summative-assessment.md) - Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
 
 #### T {: #letter-t }
@@ -159,7 +164,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### E {: #letter-e }
 
 * [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
-* [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
 * [Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions](experience-with-languaging-activities.md) - ELAs are \"the most fundamental class of instructional activities spawned from the LICA design\".
 * [Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items](expert-panel-consensus-item-selection-pattern.md) - The Inquiry's items were not invented: the attitudes tested were heard in methods classes, conventions, workshops, and printed sources such as newspaper editorials.
 
@@ -228,7 +232,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### O {: #letter-o }
 
-* [Online Course Design (Community of Inquiry)](online-course-design.md) - A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
 * [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](open-ended-scenario-three-phase-structure.md) - The open-ended scenario is a pedagogical device designed by DiPietro (1981) that \"resembles a role play in that it grows from a set of circumstances\" but differs in that \"the dialogues are planned collaboratively by t...
 
 #### P {: #letter-p }

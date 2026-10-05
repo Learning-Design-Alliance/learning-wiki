@@ -14,7 +14,7 @@ grain_size: course
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 12 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 19 claims (12 for, 7 mixed) · 32 studies (13 quant-synthesis, 8 review, 5 causal, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 32 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 

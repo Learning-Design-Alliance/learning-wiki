@@ -12,7 +12,7 @@ generated:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 4 of 6 report an effect size
+> **Evidence** · 19 claims (10 for, 9 mixed) · 24 studies (10 quant-synthesis, 4 review, 4 associational, 3 causal, 3 theoretical), `q1`–`q4` · 10 of 24 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

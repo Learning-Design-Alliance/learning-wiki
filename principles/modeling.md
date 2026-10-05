@@ -12,7 +12,7 @@ generated:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 21 claims (15 for, 6 mixed) · 29 studies (9 causal, 7 review, 3 quant-synthesis, 3 design, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 29 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 

@@ -14,7 +14,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (6 for) · 16 studies (7 causal, 6 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size
+> **Evidence** · 15 claims (10 for, 5 mixed) · 27 studies (11 causal, 11 quant-synthesis, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 11 of 27 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 

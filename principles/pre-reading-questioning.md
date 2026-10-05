@@ -21,7 +21,7 @@ sources:
 # Pre-reading Questioning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 mixed) · 5 studies (3 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 15 claims (4 for, 9 mixed, 2 against) · 24 studies (8 causal, 7 quant-synthesis, 7 review, 1 associational, 1 theoretical), `q2`–`q4` · 9 of 24 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
