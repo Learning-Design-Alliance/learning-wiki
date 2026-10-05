@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: sturgill-2014
     resource: "https://doi.org/10.20343/teachlearninqu.2.1.81"
-    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://doi.org/10.20343/teachlearninqu.2.1.81"
+    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. *Teaching & Learning Inquiry, 2*(1), 81–93. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)"
     author: "Sturgill, A., & Motley, P."
     q: 2
     i: "?"

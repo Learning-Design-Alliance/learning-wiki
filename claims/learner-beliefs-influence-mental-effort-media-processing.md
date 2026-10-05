@@ -65,7 +65,7 @@ A second review-attributed finding (Salomon & Leigh, in press) on predisposition
 - [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
-- [Generative processing improves learning](generative-processing-improves-learning.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Every medium favors certain symbol systems and cultivates different representational skills and mental operations](media-favor-specific-symbol-systems-and-skills.md) — related
 - [The medium of a story shapes children's apprehension: television highlights action, picture books figurative language, radio sound effects](media-symbol-biases-shape-story-apprehension.md) — related
 - [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related

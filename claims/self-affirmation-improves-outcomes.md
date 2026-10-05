@@ -82,5 +82,5 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [Black students are more likely to complete the apprenticeship component of LC101 when accounting for all other factors, suggesting alternative STEM programs may represent vehicles for racial equity in STEM](black-students-more-likely-complete-apprenticeship.md) — related
 - [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
-- [Growth mindset improves achievement](growth-mindset-improves-achievement.md) — related
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related

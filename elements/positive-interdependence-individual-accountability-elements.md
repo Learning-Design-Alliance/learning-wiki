@@ -17,7 +17,7 @@ sources:
 # Positive interdependence and individual accountability as the two necessary elements of cooperative learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 design), `q2` · 0 of 3 report an effect size
 
 ## Description
 The digest identifies the two elements that all cooperative learning advocates agree are absolutely necessary for cooperative learning to be successful: positive interdependence and individual accountability. Positive interdependence is described as "the glue that helps hold cooperative groups together," existing when members see it is in their best interests to work together and that each member's success is essential for the goal. Individual accountability means no member may do nothing and piggyback off others' efforts; it takes within-group forms (specific tasks or roles such as jigsaw sections, reader, timekeeper, checker) and outside-group forms (individual tests, quizzes, writing assignments, or question answering). Both elements must be specifically structured into activities by the teacher.
@@ -40,7 +40,7 @@ The digest identifies the two elements that all cooperative learning advocates a
 
 ## Claims
 
-- [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W]
+- [Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W]
 
 ## Related Elements
 

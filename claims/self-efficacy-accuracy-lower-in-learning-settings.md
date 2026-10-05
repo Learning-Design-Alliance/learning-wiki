@@ -13,8 +13,8 @@ sources:
     resource: "https://eric.ed.gov/?id=ED394663"
     title: "Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.ed.gov/?id=ED394663"
     author: Schunk, D. H.
-    q: 3
-    i: 1
+    q: 2
+    i: "?"
     kind: review
     rigour: 2
 ---

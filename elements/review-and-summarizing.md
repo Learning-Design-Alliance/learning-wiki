@@ -53,7 +53,7 @@ Summarizing is effective because it forces generative processing: learners must 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Summarization Improves Learning](../claims/summarization-improves-learning.md) [+M]
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [+M]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bookend: organizers structure material before learning; summaries consolidate it after

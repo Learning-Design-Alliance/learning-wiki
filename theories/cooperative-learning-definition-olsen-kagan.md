@@ -16,7 +16,7 @@ sources:
 # Cooperative learning as socially structured, mutually accountable group learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 design), `q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The chapter defines cooperative learning using Olsen and Kagan's formulation: "Cooperative Learning is group learning activity organized so that learning is dependent on the socially structured exchange of information between learners in groups." Each learner "is held accountable for his or her own learning and is motivated to increase the learning of others." The chapter grounds this in Vygotsky's Zone of Proximal Development, Wittrock's Theory of Cognitive Elaboration, and Deutsch's theory of goal structures, and presents it as a method for language teachers whose typical group work disappoints.
@@ -39,7 +39,7 @@ The chapter defines cooperative learning using Olsen and Kagan's formulation: "C
 ### Claims
 
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+W]
-- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-meta-analysis-higher-achievement.md) [+M]
+- [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+M]
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [+W]
 
 ## Related Theories

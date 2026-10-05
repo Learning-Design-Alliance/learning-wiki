@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: pikulski-1973
     resource: "https://eric.ed.gov/?id=ED085660"
-    title: "Pikulski, J. J. (1973). Criterion referenced measures for clinical evaluations. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660"
+    title: "Pikulski, J. J. (1973). *Criterion referenced measures for clinical evaluations*. ERIC Document ED085660. https://eric.ed.gov/?id=ED085660"
     author: Pikulski, J. J.
     q: 2
     i: "?"

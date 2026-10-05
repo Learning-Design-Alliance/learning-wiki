@@ -12,12 +12,24 @@ sources:
     resource: "https://eric.ed.gov/?id=EJ545678"
     title: "Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678"
     author: Tanaka
+  - id: yang-2012
+    resource: "https://doi.org/10.1016/j.compedu.2011.12.012"
+    title: "Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352"
+    author: "Yang, Y. T. C., & Wu, W. C. I"
+  - id: kitalong-2017
+    resource: "https://doi.org/10.1016/j.compcom.2017.08.001"
+    title: "Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55"
+    author: "Kitalong, K. S., & Miner, R. L"
+  - id: lim-2020
+    resource: "https://doi.org/10.1016/j.jslw.2020.100713"
+    title: "Lim, J., & Polio, C. (2020). Multimodal assignments in higher education: Implications for multimodal writing tasks for L2 writers. *Journal of Second Language Writing, 47*, 100713"
+    author: "Lim, J., & Polio, C"
 ---
 
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 12 claims (8 for, 4 mixed) · 20 studies (8 quant-synthesis, 7 causal, 2 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 8 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (9 for, 5 mixed) · 24 studies (9 quant-synthesis, 8 causal, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 24 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -25,7 +37,7 @@ A reusable policy for a unit in which learners make a media product for someone 
 
 **No claim in this wiki tests learning by producing media**, against another way of teaching the same content or against a simpler product. The only source for the pattern is a descriptive article with no comparison, and the claim the earlier page listed for it ("Learning By Producing Multimedia") does not exist as a claim page. What the wiki holds is evidence about neighbouring relationships: sustained projects that end in a product against traditional teaching, writing for a real audience against writing for the teacher, preparing to teach and teaching against studying, guidance for novices, rubric-referenced self-assessment, and one direct test in which building a representation did worse than studying a provided one. Each is carried to this pattern by extrapolation, and every step below says how far. The sequence is the earlier page's, kept as the default; the response-dependent policy is an **untested design proposal**.
 
-**How it sits beside converted pages.** The [problem-based learning pattern](problem-based-learning.md) owns the general decisions for a problem- or project-centred unit (how much guidance novices get, whether a problem-first phase comes before instruction, consolidation); this page applies them and adds only what is specific to making a media product: studying exemplar products, a planning blueprint checked before production, production roles, and a presentation to an audience. The [authentic audiences and purposes principle](../principles/authentic-audiences-purposes.md) owns the model of what a real audience changes in a product; this page uses it for the final step and does not restate it. The [anchored instruction pattern](anchored-instruction.md) is the inverse arrangement: learners work inside a media scenario someone else made, where here they make one. The [Multimedia Projects](../principles/multimedia-projects.md) and [multimedia literacy through production](../principles/multimedia-literacy-through-production.md) principle pages are unconverted and state the same idea without a tested relationship.
+**How it sits beside converted pages.** The [problem-based learning pattern](problem-based-learning.md) owns the general decisions for a problem- or project-centred unit (how much guidance novices get, whether a problem-first phase comes before instruction, consolidation); this page applies them and adds only what is specific to making a media product: studying exemplar products, a planning blueprint checked before production, production roles, and a presentation to an audience. The [authentic audiences and purposes principle](../principles/authentic-audiences-purposes.md) owns the model of what a real audience changes in a product; this page uses it for the final step and does not restate it. The [anchored instruction pattern](anchored-instruction.md) is the inverse arrangement: learners work inside a media scenario someone else made, where here they make one. The [Multimedia Projects](learning-by-producing-pattern.md) and [multimedia literacy through production](learning-by-producing-pattern.md) principle pages are unconverted and state the same idea without a tested relationship.
 
 ## Inputs: establish the design brief
 
@@ -111,6 +123,8 @@ Do not rank these against one another: their comparators (traditional instructio
 - [Choice-rich infrastructure enables self-sustained, self-extending student projects](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W] — a qualitative case of two sixth-graders extending a game-design challenge over a year in an ungraded studio; it bears on open later projects, not on the default sequence.
 - [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](../claims/grading-harms-maker-education-outcomes.md) [~W] — a literature-based argument (q1), cited in the high-stakes row as a caution only.
 - [Creating computational literature develops computational literacy even when code modification is minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W] — a case study of four physics students (q1); bears on exemplars in step 1.
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
 
 ## Illustrative design instance and observation record
 
@@ -136,12 +150,20 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - [Multimedia production project](../elements/multimedia-production-project.md)
 - [Assign diverse production roles in multimedia teams](../strategies/role-assignment-production-teams.md)
 - [Act as a learning supporter during multimedia production](../strategies/teacher-learning-supporter-strategy.md)
+- [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
+- **Digital storytelling**: Learners combine narration, visuals, and sequencing to explain an experience or concept.
+- **Audio plus visual explainer**: Learners create a narrated slide deck or short screencast teaching a concept.
+- **Advocacy video or campaign artifact**: Learners synthesize evidence into a public-facing multimedia message.
+- **Photo-essay or annotated image sequence**: Learners use curated visuals and captions to communicate analysis or reflection.
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678
 - Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. *Educational Research Review, 26*, 71-81. [doi:10.1016/j.edurev.2018.11.001](https://doi.org/10.1016/j.edurev.2018.11.001)
 - Kobayashi, K. (2019). Learning by preparing-to-teach and teaching: A meta-analysis. *Japanese Psychological Research, 61*(3), 192–203. [doi:10.1111/jpr.12221](https://doi.org/10.1111/jpr.12221)
 - Stull, A. T., & Mayer, R. E. (2007). Learning by doing versus learning by viewing: Three experimental comparisons of learner-generated versus author-provided graphic organizers. *Journal of Educational Psychology, 99*(4), 808–820. [doi:10.1037/0022-0663.99.4.808](https://doi.org/10.1037/0022-0663.99.4.808)
+- Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352. [https://doi.org/10.1016/j.compedu.2011.12.012](https://doi.org/10.1016/j.compedu.2011.12.012)
+- Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55. [https://doi.org/10.1016/j.compcom.2017.09.007](https://doi.org/10.1016/j.compcom.2017.09.007)
+- Lim, J., & Polio, C. (2020). Multimodal assignments in higher education: Implications for multimodal writing tasks for L2 writers. *Journal of Second Language Writing, 47*, 100713. [https://doi.org/10.1016/j.jslw.2020.100713](https://doi.org/10.1016/j.jslw.2020.100713)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -179,4 +201,115 @@ Position pupils as multimedia producers: they appreciate exemplar products, inve
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678
+-->
+
+<!-- merged 2026-10-05 from principles/multimedia-literacy-through-production ("Multimedia literacy is developed through producing multimedia"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Multimedia literacy is developed through producing multimedia
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+This principle holds that students acquire multimedia literacy by engaging in multimedia production rather than only by consuming instruction. Literacy here spans understanding media characteristics, selecting and collecting information across media, operating peripherals, presenting, conveying products, and creating integrated multimedia works. The article maps ten literacy items onto production activities, so that producing requires exercising each literacy item in context.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners must actually produce multimedia products, exercising the literacy items in context
+#### Constraints
+- 
+
+### Target Learners
+- school pupils
+
+### Target Learning Objectives
+- multimedia literacy
+
+### Claims
+- Learning By Producing Multimedia [+M]
+
+## Related Principles
+
+- [Multimedia Projects](learning-by-producing-pattern.md)
+
+## Examples
+
+- [Multimedia production project](../elements/multimedia-production-project.md)
+- [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
+
+## Key Sources
+- Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678
+-->
+
+<!-- merged 2026-10-05 from principles/multimedia-projects ("Multimedia Projects"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Multimedia Projects
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+
+## Description
+Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition. The instructional value is not simply using technology; it is requiring learners to make design choices about how best to represent, explain, and communicate an idea. These projects can deepen engagement and expression, but they also raise the complexity of planning, composing, and production.
+
+## Implications
+Multimedia projects are valuable when the medium choices themselves become part of the learning. Asking learners to decide how to explain an idea through text, image, sound, or interaction can deepen synthesis and communication because they must translate understanding into a designed artifact rather than only restate it [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main tradeoff is production overhead: if tool use, editing, or format decisions dominate attention, the project can become a technology exercise instead of a learning task. Strong designs therefore constrain scope, clarify criteria, and assess explanation as well as polish, especially when the project is meant to approximate a meaningful whole-task performance rather than just a polished media object [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M].
+
+### Context
+#### Requirements
+- **A clear communication goal**: Learners need to know what they are trying to explain, argue, document, or create.
+- **Support for medium choice and production**: Multimedia work requires modeling, technical guidance, and criteria beyond content alone.
+- **Alignment between medium and purpose**: The selected media should improve the communication task, not just add novelty.
+- **Reasonable production scope**: The project should balance creative expression with available time, tools, and skill level.
+#### Constraints
+- **Tool overhead**: Production demands can overwhelm the learning goal if learners spend most of their effort on software or format issues.
+- **Uneven access**: Devices, bandwidth, recording conditions, and prior digital literacy vary widely.
+- **Assessment ambiguity**: Learners need clear criteria for both content and multimodal design quality.
+- **Aesthetic masking**: Polished products can conceal weak understanding if explanation and evidence are not assessed explicitly.
+
+### Target Learners
+- **Learners developing multimodal communication**: Strong fit when communication beyond traditional prose is itself a learning goal.
+- **Learners motivated by authentic production**: Multimedia projects often increase ownership when learners create something shareable.
+- **Learners building digital literacy**: Projects can integrate planning, tool use, and design judgment.
+- **Learners who benefit from expressive flexibility**: Multiple media can widen how learners represent understanding.
+
+### Target Learning Objectives
+- **Multimodal composition**: Choosing and combining media to communicate effectively.
+- **Deeper explanation and synthesis**: Translating knowledge into multiple representational forms.
+- **Digital literacy and production judgment**: Planning, editing, and publishing with purpose.
+- **Problem solving through design**: Making tradeoffs about format, audience, clarity, and evidence.
+
+### Theory
+#### Supporting
+- Multimedia learning perspectives — combining modes can improve communication and understanding when each mode carries meaningful information.
+- Constructivist and generative learning views — learners deepen understanding by designing and explaining artifacts themselves.
+- Connectivist and sociocultural perspectives — digital production often happens through networks, tools, and audience interaction.
+#### Contradicting / Qualifying
+- Multimedia projects are not automatically better than simpler formats; they are justified when the medium contributes meaningfully to the goal.
+- For novices, the project may need to be constrained so production demands do not eclipse conceptual learning.
+
+### Claims
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
+
+## Related Principles
+
+- [Multimodal Instruction](../principles/multimodal-instruction.md) — multimedia projects extend multimodal input into multimodal production.
+- [Creating Visual Representations](../principles/dual-coding.md) — many multimedia projects rely on visual representation as part of explanation.
+- [Process-Based Writing](../principles/process-based-writing.md) — multimedia composition still benefits from drafting, feedback, and revision cycles.
+- [Learner Choice](../principles/learner-choice.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
+- [Multimedia literacy is developed through producing multimedia](../patterns/learning-by-producing-pattern.md)
+- [Multimediatizing: express didactized content directly in multimedia form rather than digitizing pre-edited media](../methods/multimediatizing-didactized-content-direct-expression.md)
+
+## Examples
+- **Digital storytelling**: Learners combine narration, visuals, and sequencing to explain an experience or concept.
+- **Audio plus visual explainer**: Learners create a narrated slide deck or short screencast teaching a concept.
+- **Advocacy video or campaign artifact**: Learners synthesize evidence into a public-facing multimedia message.
+- **Photo-essay or annotated image sequence**: Learners use curated visuals and captions to communicate analysis or reflection.
+
+## Key Sources
+- Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352. [https://doi.org/10.1016/j.compedu.2011.12.012](https://doi.org/10.1016/j.compedu.2011.12.012)
+- Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55. [https://doi.org/10.1016/j.compcom.2017.09.007](https://doi.org/10.1016/j.compcom.2017.09.007)
+- Lim, J., & Polio, C. (2020). Multimodal assignments in higher education: Implications for multimodal writing tasks for L2 writers. *Journal of Second Language Writing, 47*, 100713. [https://doi.org/10.1016/j.jslw.2020.100713](https://doi.org/10.1016/j.jslw.2020.100713)
 -->

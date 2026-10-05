@@ -81,7 +81,7 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — overloaded readers cannot execute strategies effectively.
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — strategy instruction works by managing the processing demands of comprehension.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — highly skilled readers may need less scaffolding than strategy instruction provides.
-- [Strategy instruction is more effective when contextualized in authentic content-area tasks](learning-strategy-instruction-contextualized-more-effective.md) — related
+- [Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes](learning-strategy-instruction-contextualized-more-effective.md) — related
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related

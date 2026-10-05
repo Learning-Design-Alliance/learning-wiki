@@ -43,4 +43,4 @@ The guide reports, citing Sidwell's survey, that "Drop-out from language classes
 
 
 ## Related Claims
-- [Math Anxiety Degrades Performance](math-anxiety-degrades-performance.md) — related
+- [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related

@@ -109,7 +109,7 @@ Both subclaims currently lack Evidence entries; the classic experimental and met
 - [Modality principle: narration beats on-screen text.](modality-effect-narration-over-text.md) — defines the audio–visual split that redundancy disrupts
 - [Dual coding theory.](../theories/dual-coding-theory.md) — explains why complementary (not redundant) visual–verbal pairing helps learning
 - [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect.md) — related
-- [Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking](laptop-notes-verbatim-shallower.md) — related
+- [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](laptop-notes-verbatim-shallower.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — possibly the same claim (merge candidate)
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — a narrower finding that bears on this claim

@@ -21,7 +21,7 @@ sources:
     resource: "https://doi.org/10.1177/002248718603700110"
     title: "Rowe, M. B. (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! *Journal of Teacher Education, 37*(1), 43-50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)"
     author: Rowe, M. B.
-    q: 3
+    q: 2
     i: "?"
     n: N/A (narrative synthesis of multiple studies)
     kind: review

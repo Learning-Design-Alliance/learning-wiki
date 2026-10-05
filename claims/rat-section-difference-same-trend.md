@@ -44,4 +44,4 @@ Repeated Measures ANOVA (SPSS v. 22.0) comparing RAT scores between the two cour
 
 ## Related Claims
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
-- [Revised and original TBL formats yield similar student performance on iRAT and tRAT sessions](tbl-formats-similar-irat-trat-performance.md) — related
+- [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related

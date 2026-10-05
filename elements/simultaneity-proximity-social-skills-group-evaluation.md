@@ -17,7 +17,7 @@ sources:
 # Simultaneity, proximity, social skills, and group evaluation as elements differentiating cooperative learning from group work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 design), `q2` · 0 of 3 report an effect size
 
 ## Description
 Digest 3 presents four further elements differentiating cooperative learning from ordinary group work. Simultaneity, proposed by Spencer Kagan, means all groups work on the assigned task at the same time, contrasting with sequential instruction where only one student speaks at a time. Proximity means seating students face to face, close enough to interact, so they cannot avoid each other. Social skills, from basic (quiet voices, listening) to sophisticated (synthesizing information), must be taught, using the Johnsons' multifaceted approach of defining, explaining, modeling, and practicing the skill, often illustrated with a T Chart of what the skill looks like and sounds like. Group evaluation (group processing) lets members assess how effectively they functioned as a group and set goals for future performance.
@@ -41,7 +41,7 @@ Digest 3 presents four further elements differentiating cooperative learning fro
 
 ## Claims
 
-- [Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W]
+- [Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W]
 
 ## Related Elements
 

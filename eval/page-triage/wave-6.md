@@ -146,6 +146,8 @@ Each re-test regenerates one NEW answer, so a single result is noisy.
 
 ## Open findings from the agents
 
+Settled in the cleanup that followed (CLAUDE.md, "wave 6's claim findings settled"), except what that entry lists as still open.
+
 **Duplicate claims:**
 - `summarization-effective-with-training` and `summarization-improves-learning` share the same two entries.
 - `pbis-reduces-clinically-significant-behavior-problems` and `pbis-reduces-externalizing-total-problems-ed-self-contained`

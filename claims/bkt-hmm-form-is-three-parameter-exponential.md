@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: brett-van-de-sande-2013
     resource: "https://doi.org/10.5281/zenodo.3554629"
-    title: "Van de Sande, B. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, 5(2). https://doi.org/10.5281/zenodo.3554629"
+    title: "Van de Sande, B. (2013). Properties of the Bayesian Knowledge Tracing Model. *Journal of Educational Data Mining, 5*(2). [doi:10.5281/zenodo.3554629](https://doi.org/10.5281/zenodo.3554629)"
     author: Van de Sande, B.
     q: 2
     i: "?"

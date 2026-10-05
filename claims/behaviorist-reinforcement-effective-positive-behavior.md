@@ -13,7 +13,7 @@ sources:
     resource: "http://www.juliantrubin.com/bigten/skinnerbox.html"
     title: "Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html"
     author: Qais Faryadi
-    q: 2
+    q: 1
     i: "?"
     kind: review
     rigour: 1

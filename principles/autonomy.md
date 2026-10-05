@@ -12,7 +12,7 @@ generated:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (2 for, 7 mixed) · 10 studies (3 quant-synthesis, 3 review, 2 causal, 2 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (2 for, 7 mixed) · 13 studies (5 review, 3 causal, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 13 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 

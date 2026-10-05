@@ -29,14 +29,14 @@ sources:
 # Sketchnoting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 12 claims (9 for, 3 against) · 20 studies (11 causal, 8 quant-synthesis, 1 review), `q2`–`q4` · 10 of 20 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 against) · 20 studies (11 causal, 8 quant-synthesis, 1 review), `q2`–`q4` · 10 of 20 report an effect size · 4 claims rest on one study
 
 ## Description
 Sketchnoting is note-taking in which learners record ideas as a combination of small hand-drawn images, hand-lettered words, containers, arrows, and layout, rather than as running prose. The claim it rests on is not that learners have a visual style, and not that the notes are attractive: it is that deciding *what to draw* forces the learner to select the key idea, decide what it is like, and commit to a spatial relationship between ideas — three selections that verbatim transcription never requires. The artifact is a by-product; the selection is the learning.
 
 ## Design Implications
 
-Sketchnoting sits at the intersection of two well-supported effects. Generating a drawing of the content one is reading or hearing improves learning over reading alone [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](../claims/drawing-improves-learning.md) [+M], and building one's own visual organizer outperforms studying an equivalent organizer supplied by the instructor [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]. Both are instances of generative processing: the learner has to select, organize, and integrate rather than receive [Generative processing improves learning](../claims/generative-processing-improves-learning.md) [+S]. The dual verbal-and-visual encoding adds a second retrieval route to the same content [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M].
+Sketchnoting sits at the intersection of two well-supported effects. Generating a drawing of the content one is reading or hearing improves learning over reading alone [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](../claims/drawing-improves-learning.md) [+M], and building one's own visual organizer outperforms studying an equivalent organizer supplied by the instructor [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M]. Both are instances of generative processing: the learner has to select, organize, and integrate rather than receive [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+S]. The dual verbal-and-visual encoding adds a second retrieval route to the same content [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M].
 
 The important caveat is that the evidence base is for *drawing to learn*, not for sketchnoting as a named practice. Studies typically use structured drawing prompts with defined target content and support materials; the popular version of sketchnoting — freeform, self-directed, aesthetically driven — is considerably less constrained than anything that has been tested, and the gap should be treated as an open question rather than an established result.
 
@@ -65,13 +65,13 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 
 ### Target Learners
 - Learners with enough domain knowledge to identify what matters; deciding what to draw presupposes knowing what is important [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [+M]
-- Learners whose default note-taking is verbatim transcription, for whom any generative constraint is an improvement [Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking](../claims/laptop-notes-verbatim-shallower.md) [+M]
+- Learners whose default note-taking is verbatim transcription, for whom any generative constraint is an improvement [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](../claims/laptop-notes-verbatim-shallower.md) [+M]
 - Secondary and adult learners working with conceptually structured material
 - Weaker fit for complete novices facing unfamiliar content at speed, where drawing and comprehending compete
 - Weaker fit where the assessment demands precise terminology, since sketchnotes trade wording for gist
 
 ### Target Learning Goals
-- Comprehension and retention of structured explanatory content [Generative Learning Improves Comprehension](../claims/generative-learning-improves-comprehension.md) [+M]
+- Comprehension and retention of structured explanatory content [Generative Learning Improves Comprehension](../claims/generative-processing-improves-learning.md) [+M]
 - Understanding relationships — cause, sequence, containment, contrast — which spatial layout represents more directly than prose
 - Durable recall through combined verbal and visual encoding [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+M]
 - Summarization: reducing an extended input to its load-bearing ideas

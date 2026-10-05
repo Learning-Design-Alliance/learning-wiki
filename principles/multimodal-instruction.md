@@ -119,7 +119,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.
-- [Multimedia Projects](multimedia-projects.md) — project-based multimodal work extends multimodal instruction into production.
+- [Multimedia Projects](../patterns/learning-by-producing-pattern.md) — project-based multimodal work extends multimodal instruction into production.
 - [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — reading aids are one common multimodal support structure.
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — multimodal design helps most when the verbal layer is also clear.
 

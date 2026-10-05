@@ -38,7 +38,7 @@ The review's Table 1 lays out the behaviorist paradigm across objectives, teachi
 
 ### Claims
 
-- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W]
+- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W]
 - [The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity](../claims/behaviorism-fails-linguistic-generativity.md) [-W]
 
 ## Related Patterns

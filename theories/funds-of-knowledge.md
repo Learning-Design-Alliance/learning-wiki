@@ -40,7 +40,7 @@ Funds of knowledge (Moll, Amanti, Neff & Gonzalez, 1992) refers to the historica
 - Revealing competencies (e.g., informal computational thinking: sequencing, abstraction, data reasoning) that decontextualized assessments underestimate or miss entirely
 
 ## Claims
-- [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](../claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) [+M]
+- [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](../claims/funds-of-knowledge-tasks-reveal-computational-thinking.md) [+M]
 - [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+M] — validating culturally specific movement as legitimate disciplinary expression is the mechanism through which this expanded fund of knowledge does its instructional work
 
 ## Related Theories

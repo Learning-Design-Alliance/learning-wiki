@@ -59,5 +59,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers supply the prior-knowledge structure that elaboration connects to
 - [Generative Learning Improves Retention](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — possibly the same claim (merge candidate)
-- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — a narrower finding that bears on this claim

@@ -9,9 +9,9 @@ generated:
   at: 2026-09-25
 sources:
   - id: brett-van-de-sande-2013
-    resource: "https://jedm.educationaldatamining.org"
-    title: "Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org"
-    author: Brett Van de Sande
+    resource: "https://doi.org/10.5281/zenodo.3554629"
+    title: "Van de Sande, B. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, 5(2). https://doi.org/10.5281/zenodo.3554629"
+    author: "Van de Sande, B."
 ---
 
 # Fit the combined parameter A and fix P(G) or P(L0) externally as an alternative to Dirichlet priors when fitting the BKT HMM
@@ -45,4 +45,4 @@ Because the HMM form of BKT is a three-parameter exponential, the article recomm
 -
 
 ## Key Sources
-- Brett Van de Sande. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, Volume 5, No 2. https://jedm.educationaldatamining.org
+- Van de Sande, B. (2013). Properties of the Bayesian Knowledge Tracing Model. Journal of Educational Data Mining, 5(2). https://doi.org/10.5281/zenodo.3554629 <!-- corrected 2026-10-05: was the JEDM homepage; DataCite (Zenodo) DOI verified -->

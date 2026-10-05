@@ -21,7 +21,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 28 studies (11 causal, 8 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 4 claims rest on one study
+> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 31 studies (12 causal, 8 quant-synthesis, 6 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

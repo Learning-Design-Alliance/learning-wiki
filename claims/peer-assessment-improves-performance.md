@@ -94,6 +94,6 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — a narrower finding that bears on this claim
-- [Summarization Improves Learning](summarization-improves-learning.md) — related
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [Authentic audiences improve student work.](authentic-audiences-improve-student-work.md) — a real peer audience raises the stakes and quality of work
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related

@@ -34,7 +34,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 
 ## Claims
 - [Autonomy support increases intrinsic motivation, engagement, and persistence](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — the best-supported design lever here
-- [Growth mindset improves achievement](../claims/growth-mindset-improves-achievement.md) [+W] — stated positively, and worth reading beside the next line
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+W] — stated positively, and worth reading beside the next line
 - [Growth mindset interventions produce small positive effects](../claims/growth-mindset-improves-achievement.md) [~M] — the meta-analytic correction — real but modest, and subgroup-specific
 - [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [~M] — choice is not neutral: what is offered decides who takes it up
 - [Choice-rich infrastructure enables self-sustained student projects](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W] — qualitative — indicative of what sustained autonomy looks like in place

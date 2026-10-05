@@ -1,27 +1,27 @@
 {
  "coverage": {
-  "claims->claims": 3375,
+  "claims->claims": 3373,
   "claims->designs": 13,
-  "claims->elements": 109,
+  "claims->elements": 108,
   "claims->learner-variables": 1,
   "claims->methods": 3,
   "claims->patterns": 67,
   "claims->principles": 117,
   "claims->processes": 3,
-  "claims->theories": 206,
+  "claims->theories": 205,
   "designs->claims": 93,
   "designs->designs": 27,
   "designs->elements": 26,
   "designs->patterns": 21,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 498,
+  "elements->claims": 497,
   "elements->designs": 2,
-  "elements->elements": 468,
+  "elements->elements": 467,
   "elements->learner-variables": 1,
   "elements->methods": 1,
-  "elements->patterns": 246,
-  "elements->principles": 316,
+  "elements->patterns": 247,
+  "elements->principles": 315,
   "elements->processes": 1,
   "elements->theories": 197,
   "learner-variables->claims": 12,
@@ -33,8 +33,8 @@
   "methods->designs": 1,
   "methods->elements": 11,
   "methods->methods": 14,
-  "methods->patterns": 4,
-  "methods->principles": 11,
+  "methods->patterns": 5,
+  "methods->principles": 10,
   "methods->processes": 4,
   "methods->theories": 7,
   "patterns->claims": 117,
@@ -46,12 +46,12 @@
   "patterns->principles": 72,
   "patterns->processes": 1,
   "patterns->theories": 28,
-  "principles->claims": 389,
+  "principles->claims": 388,
   "principles->designs": 34,
-  "principles->elements": 97,
-  "principles->methods": 5,
-  "principles->patterns": 76,
-  "principles->principles": 255,
+  "principles->elements": 96,
+  "principles->methods": 4,
+  "principles->patterns": 75,
+  "principles->principles": 253,
   "principles->processes": 2,
   "principles->theories": 99,
   "processes->claims": 16,
@@ -943,9 +943,6 @@
      },
      {
       "slug": "generation-effect-improves-retention"
-     },
-     {
-      "slug": "generative-learning-improves-comprehension"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -2077,9 +2074,6 @@
      },
      {
       "slug": "generation-effect-improves-retention"
-     },
-     {
-      "slug": "generative-learning-improves-comprehension"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -6197,9 +6191,6 @@
      },
      {
       "slug": "experimenter-underlining-effective-as-student-underlining"
-     },
-     {
-      "slug": "generative-learning-improves-comprehension"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -19379,9 +19370,6 @@
       "slug": "generation-effect-improves-retention"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -26982,9 +26970,6 @@
       "strength": "M"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -29658,9 +29643,6 @@
      },
      {
       "slug": "cooperative-learning-improves-achievement"
-     },
-     {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
      },
      {
       "slug": "dialogic-reading-improves-expressive-language"
@@ -35215,10 +35197,10 @@
       "slug": "cooperative-learning-achievement-synthesis-slavin"
      },
      {
-      "slug": "cooperative-learning-improves-achievement"
+      "slug": "cooperative-learning-higher-achievement-than-competitive-individualistic"
      },
      {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
+      "slug": "cooperative-learning-improves-achievement"
      },
      {
       "slug": "service-learning-improves-civic-and-personal-outcomes"
@@ -35324,9 +35306,6 @@
      },
      {
       "slug": "cooperative-learning-higher-achievement-than-competitive-individualistic"
-     },
-     {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
      }
     ],
     "theories": [
@@ -35827,13 +35806,16 @@
       "slug": "competitive-grading-pits-students-against-each-other"
      },
      {
+      "slug": "cooperation-versus-individualistic-effort-outcomes"
+     },
+     {
       "slug": "cooperative-learning-gifted-students"
      },
      {
       "slug": "cooperative-learning-improves-achievement"
      },
      {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
+      "slug": "small-group-learning-improves-stem-achievement"
      }
     ],
     "elements": [
@@ -35853,6 +35835,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "nine-key-elements-cooperative-lesson",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -35861,6 +35850,16 @@
      }
     ],
     "theories": [
+     {
+      "polarity": "+",
+      "slug": "cooperative-learning-definition-olsen-kagan",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-models-cooperative-learning-taxonomy",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "three-interaction-patterns-competitive-individualistic-cooperative",
@@ -35898,9 +35897,6 @@
      },
      {
       "slug": "cooperative-learning-higher-achievement-than-competitive-individualistic"
-     },
-     {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
      },
      {
       "slug": "interactive-beats-constructive-concept-mapping"
@@ -36028,52 +36024,6 @@
     "claims": [
      {
       "slug": "cooperative-learning-moderate-overall-effect-second-order"
-     }
-    ]
-   },
-   "cooperative-learning-meta-analysis-higher-achievement": {
-    "claims": [
-     {
-      "slug": "collaborative-learning-improves-outcomes"
-     },
-     {
-      "slug": "cooperation-versus-individualistic-effort-outcomes"
-     },
-     {
-      "slug": "cooperative-learning-gifted-students"
-     },
-     {
-      "slug": "cooperative-learning-higher-achievement-than-competitive-individualistic"
-     },
-     {
-      "slug": "cooperative-learning-improves-achievement"
-     },
-     {
-      "slug": "small-group-learning-improves-stem-achievement"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "nine-key-elements-cooperative-lesson",
-      "strength": "M"
-     }
-    ],
-    "theories": [
-     {
-      "polarity": "+",
-      "slug": "cooperative-learning-definition-olsen-kagan",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "five-models-cooperative-learning-taxonomy",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "three-interaction-patterns-competitive-individualistic-cooperative",
-      "strength": "W"
      }
     ]
    },
@@ -38039,7 +37989,7 @@
     "elements": [
      {
       "polarity": "+",
-      "slug": "debriefing",
+      "slug": "debrief",
       "strength": "W"
      },
      {
@@ -43879,9 +43829,6 @@
    },
    "elaborative-encoding-improves-retention": {
     "claims": [
-     {
-      "slug": "generative-learning-improves-comprehension"
-     },
      {
       "slug": "generative-processing-improves-learning"
      },
@@ -53136,11 +53083,6 @@
      },
      {
       "polarity": "+",
-      "slug": "functional-behavior-assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "games-structured-activity",
       "strength": "S"
      },
@@ -57191,37 +57133,6 @@
      }
     ]
    },
-   "generative-learning-improves-comprehension": {
-    "claims": [
-     {
-      "slug": "elaborative-encoding-improves-retention"
-     },
-     {
-      "slug": "generative-processing-improves-learning"
-     },
-     {
-      "slug": "learner-constructed-graphic-organizers-outperform-provided"
-     },
-     {
-      "slug": "self-analysis-knowledge-drives-teacher-change"
-     },
-     {
-      "slug": "self-explanation-improves-conceptual-understanding"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "create_a_character_profile",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "sketchnoting",
-      "strength": "M"
-     }
-    ]
-   },
    "generative-processing-improves-learning": {
     "claims": [
      {
@@ -57234,10 +57145,13 @@
       "slug": "elaborative-encoding-improves-retention"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "learner-beliefs-influence-mental-effort-media-processing"
      },
      {
-      "slug": "learner-beliefs-influence-mental-effort-media-processing"
+      "slug": "learner-constructed-graphic-organizers-outperform-provided"
+     },
+     {
+      "slug": "self-analysis-knowledge-drives-teacher-change"
      },
      {
       "slug": "self-explanation-improves-conceptual-understanding"
@@ -57271,6 +57185,11 @@
      }
     ],
     "strategies": [
+     {
+      "polarity": "+",
+      "slug": "create_a_character_profile",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "headings_and_highlight_strategy",
@@ -68286,7 +68205,7 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "graphic-organizers-support-novice-comprehension"
@@ -99170,7 +99089,7 @@
       "slug": "experiential-training-ecd-workers-better-child-outcomes"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "students-lasting-personal-growth-experiences"
@@ -101817,9 +101736,6 @@
       "slug": "erroneous-examples-build-conceptual-knowledge"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
-     },
-     {
       "slug": "generative-processing-improves-learning"
      },
      {
@@ -102278,6 +102194,11 @@
       "strength": "S"
      },
      {
+      "polarity": "+",
+      "slug": "learning-by-producing-pattern",
+      "strength": "S"
+     },
+     {
       "polarity": "~",
       "slug": "learning-for-use-lfu-model",
       "strength": "S"
@@ -102517,11 +102438,6 @@
      {
       "polarity": "+",
       "slug": "multimedia-learning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "multimedia-projects",
       "strength": "S"
      },
      {
@@ -108969,13 +108885,13 @@
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
+      "slug": "cooperative-learning-higher-achievement-than-competitive-individualistic"
+     },
+     {
       "slug": "cooperative-learning-improves-achievement"
      },
      {
       "slug": "cooperative-learning-language-class-outcomes"
-     },
-     {
-      "slug": "cooperative-learning-meta-analysis-higher-achievement"
      },
      {
       "slug": "cooperative-learning-nonsignificant-moderators"
@@ -116292,6 +116208,9 @@
    },
    "summarization-improves-learning": {
     "claims": [
+     {
+      "slug": "generative-processing-improves-learning"
+     },
      {
       "slug": "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation"
      },
@@ -125854,6 +125773,11 @@
       "strength": "S"
      },
      {
+      "polarity": "~",
+      "slug": "learning-by-producing-pattern",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "learning-for-use-lfu-model",
       "strength": "S"
@@ -125933,11 +125857,6 @@
      {
       "polarity": "~",
       "slug": "mentoring-and-coaching",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "multimedia-projects",
       "strength": "M"
      },
      {
@@ -136003,7 +135922,7 @@
    "articulation": {
     "claims": [
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "writing-improves-mathematical-understanding"
@@ -150157,6 +150076,9 @@
     "elements": [
      {
       "slug": "simulation"
+     },
+     {
+      "slug": "whole-task-performance"
      }
     ],
     "patterns": [
@@ -150168,6 +150090,9 @@
      },
      {
       "slug": "epistemic-games"
+     },
+     {
+      "slug": "experiential-learning-cycle"
      },
      {
       "slug": "peer-instruction"
@@ -150184,21 +150109,7 @@
      },
      {
       "slug": "case-based_learning"
-     }
-    ]
-   },
-   "debriefing": {
-    "elements": [
-     {
-      "slug": "whole-task-performance"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "experiential-learning-cycle"
-     }
-    ],
-    "strategies": [
+     },
      {
       "slug": "simulations"
      }
@@ -156719,9 +156630,6 @@
     "principles": [
      {
       "slug": "cross-curricular-multimedia-units"
-     },
-     {
-      "slug": "multimedia-literacy-through-production"
      }
     ]
    },
@@ -163036,7 +162944,7 @@
    "reflection-activities": {
     "elements": [
      {
-      "slug": "debriefing"
+      "slug": "debrief"
      },
      {
       "slug": "integration"
@@ -167881,13 +167789,6 @@
     "processes": [
      {
       "slug": "design-thinking"
-     }
-    ]
-   },
-   "multimediatizing-didactized-content-direct-expression": {
-    "principles": [
-     {
-      "slug": "multimedia-projects"
      }
     ]
    },
@@ -174832,6 +174733,16 @@
     ]
    },
    "learning-by-producing-pattern": {
+    "elements": [
+     {
+      "slug": "multimedia-projects"
+     }
+    ],
+    "methods": [
+     {
+      "slug": "multimediatizing-didactized-content-direct-expression"
+     }
+    ],
     "patterns": [
      {
       "slug": "anchored-instruction"
@@ -174845,7 +174756,7 @@
       "slug": "cross-curricular-multimedia-units"
      },
      {
-      "slug": "multimedia-literacy-through-production"
+      "slug": "multimodal-instruction"
      }
     ],
     "theories": [
@@ -176956,7 +176867,7 @@
       "slug": "disciplinary-literacy-instruction-improves-comprehension"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "increasing-wait-time-improves-response-quality"
@@ -177502,7 +177413,7 @@
       "slug": "discussion-promotes-more-active-thought-than-lecture"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "joint-book-reading-predicts-literacy-success"
@@ -178845,7 +178756,7 @@
       "slug": "experimenter-underlining-effective-as-student-underlining"
      },
      {
-      "slug": "generative-learning-improves-comprehension"
+      "slug": "generative-processing-improves-learning"
      },
      {
       "slug": "graphic-organizers-support-novice-comprehension"
@@ -189129,7 +189040,7 @@
    "debriefing": {
     "elements": [
      {
-      "slug": "debriefing"
+      "slug": "debrief"
      }
     ],
     "methods": [
@@ -189562,9 +189473,6 @@
      },
      {
       "slug": "multimedia-learning"
-     },
-     {
-      "slug": "multimedia-projects"
      },
      {
       "slug": "multimodal-instruction"
@@ -191468,9 +191376,6 @@
       "slug": "motivation"
      },
      {
-      "slug": "multimedia-projects"
-     },
-     {
       "slug": "multiple-methods-of-assessment"
      },
      {
@@ -191901,43 +191806,6 @@
      }
     ]
    },
-   "multimedia-literacy-through-production": {
-    "patterns": [
-     {
-      "slug": "learning-by-producing-pattern"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "multimedia-projects"
-     }
-    ]
-   },
-   "multimedia-projects": {
-    "elements": [
-     {
-      "slug": "multimedia-projects"
-     }
-    ],
-    "methods": [
-     {
-      "slug": "multimediatizing-didactized-content-direct-expression"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "learning-by-producing-pattern"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "multimedia-literacy-through-production"
-     },
-     {
-      "slug": "multimodal-instruction"
-     }
-    ]
-   },
    "multimodal-instruction": {
     "elements": [
      {
@@ -191982,9 +191850,6 @@
      },
      {
       "slug": "multimedia-learning"
-     },
-     {
-      "slug": "multimedia-projects"
      },
      {
       "slug": "text-chats"
@@ -192833,9 +192698,6 @@
       "slug": "minimize-student-frustration-in-feedback"
      },
      {
-      "slug": "multimedia-projects"
-     },
-     {
       "slug": "peer-feedback"
      },
      {
@@ -193078,7 +192940,7 @@
    "reflection": {
     "elements": [
      {
-      "slug": "debriefing"
+      "slug": "debrief"
      },
      {
       "slug": "individual-reflection"
@@ -198196,11 +198058,6 @@
      },
      {
       "slug": "feedback-most-effective-at-task-and-process-levels"
-     },
-     {
-      "polarity": "~",
-      "slug": "generative-learning-improves-comprehension",
-      "strength": "M"
      },
      {
       "slug": "generative-processing-improves-learning"
@@ -211255,13 +211112,13 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3389,
+  "claims": 3387,
   "designs": 115,
-  "elements": 733,
+  "elements": 732,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 136,
-  "principles": 465,
+  "principles": 463,
   "processes": 18,
   "strategies": 3184,
   "theories": 946

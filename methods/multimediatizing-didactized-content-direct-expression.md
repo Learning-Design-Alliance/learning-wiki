@@ -44,7 +44,7 @@ The principle of multimediatizing "consists in the direct expression of a didact
 
 ## Related Principles
 
-- [Multimedia Projects](../principles/multimedia-projects.md)
+- [Multimedia Projects](../patterns/learning-by-producing-pattern.md)
 
 ## Examples
 

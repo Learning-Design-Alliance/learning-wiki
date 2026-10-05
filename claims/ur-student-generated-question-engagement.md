@@ -43,5 +43,5 @@ The article's authors' assertion in the Formulating a Question element descripti
 
 
 ## Related Claims
-- [Generative processing improves learning](generative-processing-improves-learning.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related

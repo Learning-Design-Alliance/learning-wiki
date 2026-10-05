@@ -44,6 +44,6 @@ Descriptive comparison of the same 21 participants' pre- and post-test scores ma
 
 ## Related Claims
 - [A review of four major CALL journals found 50% of articles targeting 'advanced' proficiency levels had learner populations of only B1 level](call-journals-advanced-claim-b1-populations.md) — related
-- [Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
+- [Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related

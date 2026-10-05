@@ -14,7 +14,7 @@ sources:
     title: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N. (2008). The Impact of Intensive Positive Behavioral Supports on the Behavioral Functioning of Students with Emotional Disturbance: How Much Does Fidelity Matter? JBAIC, Volume 1, No. 1. https://eric.ed.gov/?q=Impact+of+Intensive+Positive+Behavioral+Supports"
     author: "Benner, G. J., Beaudoin, K. M., Chen, P.-Y., Davis, C., & Ralston, N."
     q: 1
-    i: 3
+    i: "?"
     kind: associational
     rigour: 1
 ---

@@ -99,6 +99,6 @@ In three experiments, learners read a passage that came either with author-provi
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
-- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
+- [Generative Learning Improves Comprehension](generative-processing-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](remapping-prevents-map-as-metanarrative.md) — related

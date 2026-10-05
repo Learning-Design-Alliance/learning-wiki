@@ -11,7 +11,7 @@ generated:
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 9 studies (4 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q3` · 0 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 10 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.

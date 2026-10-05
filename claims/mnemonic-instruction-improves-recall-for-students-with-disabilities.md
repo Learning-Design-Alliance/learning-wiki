@@ -78,4 +78,4 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — like mnemonics, organizers provide a retrieval scaffold that reduces memory demands for unfamiliar content
 - [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
 - [Self Monitoring Comprehension Improves Learning](self-monitoring-comprehension-improves-learning.md) — related
-- [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
+- [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related

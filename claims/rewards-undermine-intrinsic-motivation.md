@@ -158,7 +158,7 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Self-determination theory](../theories/self-determination-theory.md) — the theoretical framework explaining why controlling rewards undermine interest
 - [Behaviorism](../theories/behaviorism.md) — the contrasting tradition in which reinforcement strengthens behavior; highlights the tension this claim creates
 - [Autonomy](../principles/autonomy.md) — the learner need most directly threatened by controlling reward structures
-- [Behaviorist reinforcement methods are reported to be effective in creating positive behavior across learning environments](behaviorist-reinforcement-effective-positive-behavior.md) — reports the opposite
+- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](behaviorist-reinforcement-effective-positive-behavior.md) — reports the opposite
 - [Useful cognitive associations acquire secondary-reward value, making information storage an operant event](cognitive-associations-as-generalized-reinforcers.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — a broader claim this one bears on
 - [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](good-idea-reward-no-incentive-effect.md) — related

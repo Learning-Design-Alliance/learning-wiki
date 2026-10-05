@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: generative-processing-improves-learning
-aliases: [generative-learning-improves-retention]
+aliases: [generative-learning-improves-retention, generative-learning-improves-comprehension]
 evidence_strength:
 sources:
   - id: bisra-et-al-2018
@@ -60,6 +60,14 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 
 **Open questions.** Most of the evidence base compares generation against passive control conditions; fewer studies test which generative activity is best for a given material type, or how benefits persist over delay intervals versus immediate tests. The recorded evidence covers self-explanation only, so confidence in the broader claim about generative strategies should stay moderate.
 
+*Merged from “Generative Learning Improves Comprehension” (generative-learning-improves-comprehension):* **Mechanism.** Generative activities are hypothesized to work by forcing learners to select relevant information, organize it into a coherent structure, and relate it to prior knowledge — the three processes in generative models of comprehension (Fiorella & Mayer's selecting–organizing–integrating framework). This aligns with the broader principle that [active learning](../principles/active-learning.md) outperforms passive reception [+M], and with [activation](../principles/activation.md) of prior knowledge as a precondition for meaningful integration [+M].
+
+**Not all generation is equal.** The benefit depends on the quality of the generative process. Copying text verbatim or underlining involves little transformation and yields little gain [~M], whereas activities that require constructing relations — such as [self-explaining](../elements/articulation.md), concept mapping, or [annotating](../principles/annotating.md) — impose the selection–organization–integration cycle that drives comprehension [+M]. Fiorella and Mayer distinguish "summarizing" and "mapping" (organizing strategies) from "self-explaining" and "teaching" (integrating strategies); both families outperform passive study, but through different process routes.
+
+**Moderators and boundary conditions.** Generation is effortful; learners with limited prior knowledge or high working-memory demands may benefit from more scaffolded generative tasks, consistent with [cognitive load theory](../theories/cognitive-load-theory.md) [~M]. Learners also tend to prefer rereading over generating, even though rereading is less effective — so designers should not treat learner preference as a guide [-W]. The benefit is strongest for measures of comprehension and transfer rather than verbatim recall [+M].
+
+**Open questions.** Which generative strategy is optimal for a given domain, learner profile, and outcome measure remains unsettled; comparative studies often find small differences among well-chosen strategies, suggesting that any activity that reliably triggers the underlying processes captures most of the benefit. Studies still need to be added to the Evidence section before this claim can carry an evidence-strength rating.
+
 ## Related Claims
 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — active engagement in class produces better outcomes than lecture alone
@@ -68,10 +76,11 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — managing load is a precondition for productive generative effort
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — generation helps only when working memory is not overwhelmed
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
-- [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — related
 - [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
 - [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — a narrower finding that bears on this claim
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
