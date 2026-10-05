@@ -14,7 +14,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Adaptive Learning](adaptive-learning.md) - Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
 * [Anchored Instruction](anchored-instruction.md) - A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation.
-* [Authentic Assessment](authentic-assessment.md) - Authentic assessment evaluates learning through tasks that mirror the knowledge work of real disciplines, professions, and communities rather than through proxies like multiple-choice tests.
+* [Authentic Assessment](authentic-assessment.md) - Assessing a capability through an extended task that mirrors real practice, with public criteria, feedback and revision before the final judgement, is expected to improve performance and transfer of that capability for learners who already have its components; no claim here tests authentic assessment against conventional tests, and guidance for novices, untrained self-assessment and scorer disagreement limit it.
 
 #### B {: #letter-b }
 
@@ -27,7 +27,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Cognitive Apprenticeship](cognitive-apprenticeship.md) - A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal.
 * [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md) - This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning.
 * [Cognitively Guided Instruction (CGI) for Math](cognitively-guided-instruction-cgi-for-math.md) - CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method.
-* [Collaborative Evaluation](collaborative-evaluation.md) - Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria.
+* [Collaborative Evaluation](collaborative-evaluation.md) - Learners who judge work against shared criteria alone, compare their judgments in a small group and then with a reference judgment are expected to judge new work more accurately and to improve their own work, where they know the domain well enough to see quality and the ratings carry no grade; no claim tests collaborative evaluation itself, and the evidence is peer-assessment, rubric-training and judgment-accuracy studies carried to it.
 * [Collaborative Inquiry](collaborative-inquiry.md) - Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.
 * [Collaborative Learning](collaborative-learning.md) - A reusable policy for joint work that elicits each member's starting response, chooses a task that needs the members' reasoning, and uses individual checks rather than the group's product or self-report to choose the next activity.
 * [Competency-Based Learning](competency-based-learning.md) - A reusable course-level policy that maps a course to stated competencies, places each learner by a criterion-referenced response, lets pace vary and advances on demonstrated competence, with the validity of the evidence, the support offered, time and completion stated as conditions.
@@ -38,14 +38,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### D {: #letter-d }
 
 * [Debate](debate.md) - A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon.
-* [Develop Understanding](develop-understanding.md) - Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then…
+* [Develop Understanding](develop-understanding.md) - For a learner meeting a concept or principle, a lesson that elicits their existing ideas, explains the idea while refuting any wrong one, guides its use with self-explanation prompts, checks on a changed item and connects it by comparing cases is expected to improve explanation and prediction on new cases, though no claim tests the sequence as a whole; its components are tested separately.
 * [Direct Instruction](direct-instruction.md) - A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon.
 * [Discussion-Based Learning](discussion-based-learning.md) - Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone.
 
 #### E {: #letter-e }
 
 * [Elaboration Theory](elaboration-theory.md) - A reusable course-level sequencing policy: an epitome of the most general ideas, elaborated level by level toward detail and tied back to the whole by learner-built synthesis; one small study of hierarchical knowledge organisation bears on it, and no claim tests the sequence itself.
-* [Experiential Learning Cycle](experiential-learning-cycle.md) - The experiential learning cycle organizes learning as a repeating four-stage sequence — concrete experience, reflective observation, abstract conceptualization, and active experimentation — that turns raw experience into tested knowledge.
+* [Experiential Learning Cycle](experiential-learning-cycle.md) - A reusable sequence of bounded experience, prompted debrief, a stated and checked principle and a changed attempt with feedback, repeated across sessions with support fading, is expected to improve performance and near transfer where learners can interpret the experience; no claim tests the cycle as a whole, only its steps.
 
 #### F {: #letter-f }
 

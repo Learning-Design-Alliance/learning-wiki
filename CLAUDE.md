@@ -124,6 +124,29 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 (later) — conversion wave 4: 15 more pages; fit rose on sparse briefs for the first time
+
+- **Fifteen pages converted** (`eval/page-triage/wave-4.md`). Principles: evaluating sources, ask experts, cultural
+  and life experiences, universal design for learning, social interdependence, engagement, deliberate practice,
+  graphic organizers, dual coding, digital learning and transfer of learning. Patterns: experiential learning cycle,
+  authentic assessment, develop understanding and collaborative evaluation. No claim tests 11 of the 15 as a whole;
+  every page keeps a labelled default design with doses across sessions. Stubs, duplicates and theory-like
+  principles in the ranking were skipped for a fold. Six more frontmatter DOIs that disagreed with Key Sources were
+  wrong and are corrected against Crossref.
+- **Tested with 30 briefs ($6.85): blind pairs 86–34 for the new pages** (complete 40–20, sparse 46–14);
+  accuracy 3.33 → 4.08, decision value 4.12 → 4.50, affordances 5.6 → 9.1 of 12. **Situation fit rose on sparse
+  briefs (3.60 → 4.20), where waves 2 and 3 moved only complete ones.** The answer prompt now tells the answerer to
+  write for a designer who has not seen the page. That fixes wave 3's "page, step 4" bias, but makes the numbers
+  not strictly comparable with earlier waves.
+- **Set the answerer's token limit high.** At 4,000 tokens the reasoning model cut off three NEW answers and no OLD
+  one, because the new pages are longer. Each of those briefs went 0–4 until the answers were regenerated; the raw
+  result was 81–39.
+- **Two pages lost a complete brief 1–3, each for want of one situation row**: remote learners in a live expert
+  consultation, and a product whose audience should not see the reasoning (split it from a decision memo). With the
+  rows added: 3–1 and 2–2, and 3–1 and 4–0. **When a page loses, look first for the missing setting row.**
+- Open: the agents' lists of overstated claim titles, stale "no evidence" text (including on the self-explanation
+  claim #163 folded into), merge candidates and codes to recheck are in `wave-4.md`.
+
 ### 2026-10-05 — waves 1–3's open findings settled, before wave 4
 
 - **Citations, Crossref-checked** (first author, year and title): the frontmatter `resource:` disagreed with Key
