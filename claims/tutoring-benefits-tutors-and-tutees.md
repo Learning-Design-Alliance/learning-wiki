@@ -86,6 +86,5 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
-- [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related

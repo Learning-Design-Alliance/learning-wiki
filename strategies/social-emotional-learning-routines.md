@@ -19,7 +19,7 @@ Social Emotional Learning (SEL) routines are brief, repeated, predictable practi
 
 ## Design Implications
 
-SEL routines work through repetition and predictability: consistent rituals lower the cognitive and emotional cost of self-regulation by making it automatic, freeing attention for academic content [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Universal, school-wide SEL programming produces measurable gains in both social-emotional skills and academic achievement [Universal school-based SEL programs improve skills, attitudes, and academic achievement.](../claims/sel-programs-improve-academic-achievement.md) [+S], and effects persist years after programming ends [SEL benefits persist at follow-up.](../claims/sel-benefits-persist-follow-up.md) [+M]. Routines also function as belonging and climate interventions: predictable relational rituals signal safety and membership, which supports engagement [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
+SEL routines work through repetition and predictability: consistent rituals lower the cognitive and emotional cost of self-regulation by making it automatic, freeing attention for academic content [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Universal, school-wide SEL programming produces measurable gains in both social-emotional skills and academic achievement [Universal school-based SEL programs improve skills, attitudes, and academic achievement.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S], and effects persist years after programming ends [SEL benefits persist at follow-up.](../claims/sel-benefits-persist-follow-up.md) [+M]. Routines also function as belonging and climate interventions: predictable relational rituals signal safety and membership, which supports engagement [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ SEL routines work through repetition and predictability: consistent rituals lowe
 - **Restorative routines**: circles and repair conversations replacing purely punitive responses [Brief empathic-discipline interventions cut suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M]
 
 ### Target Learners
-- Elementary and early secondary students, where self-regulation is developing most rapidly [Universal school-based SEL programs improve skills, attitudes, and academic achievement.](../claims/sel-programs-improve-academic-achievement.md) [+S]
+- Elementary and early secondary students, where self-regulation is developing most rapidly [Universal school-based SEL programs improve skills, attitudes, and academic achievement.](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
 - Students from contexts of chronic stress, for whom predictable routines provide external regulation supports [~M]
 - Students experiencing belonging uncertainty; relational rituals signal membership [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Older students benefit more from routines framed as autonomy-supportive choices than from compliance-oriented rituals [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]

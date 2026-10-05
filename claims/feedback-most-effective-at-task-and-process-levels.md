@@ -82,4 +82,3 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
 - [Feedback Improves Learning](feedback-improves-learning.md) — related
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — a broader claim this one bears on

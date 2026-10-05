@@ -49,4 +49,3 @@ Experiment 3 compared training strategies on ASSISTment09 using the Most Recent 
 - [The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture](model1-outperforms-complex-model2.md) — related
 - [The learned question embedding aligns with manually labeled skill categories, showing clear clustering of questions by skill in a multidimensional scaling visualization](dynemb-question-embedding-clusters-by-skill.md) — related
 - [Pretraining Improves Transfer](pretraining-improves-transfer.md) — related
-- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](pretraining-principle-increased-learning-outcomes.md) — related

@@ -19,7 +19,7 @@ This strategy targets the beliefs educators hold about parents and families expe
 
 ## Design Implications
 
-Teacher expectations and beliefs shape interaction quality with families and students, and deficit beliefs reliably depress engagement efforts — educators who attribute non-participation to apathy stop inviting, while those who attribute it to inflexible work schedules redesign when and how they reach out [~M]. Because stereotypes operate largely automatically, awareness alone is insufficient; belief change requires structured counter-evidence and direct, equal-status contact with families [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. Asset-based beliefs are a precondition for the relational trust that makes family engagement effective at all [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M].
+Teacher expectations and beliefs shape interaction quality with families and students, and deficit beliefs reliably depress engagement efforts — educators who attribute non-participation to apathy stop inviting, while those who attribute it to inflexible work schedules redesign when and how they reach out [~M]. Because stereotypes operate largely automatically, awareness alone is insufficient; belief change requires structured counter-evidence and direct, equal-status contact with families [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. Asset-based beliefs are a precondition for the relational trust that makes family engagement effective at all [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 ### Target Learning Goals
 - Attitude change: replacing deficit attributions with structural and asset-based explanations
 - Behavioral change: redesigning engagement practices to lower barriers rather than demand conformity
-- Relational goals: building trust that supports student outcomes [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M]
+- Relational goals: building trust that supports student outcomes [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M]
 
 ### Instructions
 1. Surface current beliefs through anonymous attribution exercises (e.g., interpreting ambiguous parent-behavior scenarios and comparing explanations).

@@ -42,7 +42,7 @@ The paper enumerates three scaffolding approaches based on fading, drawn from Ja
 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
 - [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](../claims/blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) [~W]
-- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](../claims/expertise-reversal-effect-redundant-support-harms-experts.md) [~W]
+- [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](../claims/expertise-reversal-effect.md) [~W]
 
 ## Related Patterns
 

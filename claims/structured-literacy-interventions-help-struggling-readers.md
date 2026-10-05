@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Structured Literacy Interventions Help Struggling Readers
+title: "Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,15 @@ sources:
     rigour: "?"
 ---
 
-# Structured Literacy Interventions Help Struggling Readers
+# Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3`–`q4` · `i0` negligible
+<!-- deprecated title (2026-10-05, overstated its evidence): Structured Literacy Interventions Help Struggling Readers -->
 
-Structured literacy — explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding — improves word reading for students who struggle, relative to less explicit or incidental approaches.
+Structured literacy is explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding. Two meta-analyses are recorded for students who struggle: among treatments for children and adolescents with reading disabilities, phonics instruction was the only one with a statistically confirmed effect, and that effect was small after adjustment for publication bias (g′ = 0.198); Orton-Gillingham interventions, a branded structured-literacy approach, showed positive but non-significant effects (ES = 0.22 and 0.14).
+
+<!-- deprecated 2026-10-05 (stronger than the entries): Structured literacy — explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding — improves word reading for students who struggle, relative to less explicit or incidental approaches. -->
 
 ## Subclaims
 
@@ -81,6 +84,5 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
-- [Phonics Instruction Outperforms Whole Word For Generalization](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
-- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — related

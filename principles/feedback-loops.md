@@ -113,7 +113,7 @@ Learners, tasks, settings and outcomes differ across these claims, so do not ran
 
 Claims this page did not cite before, found while converting it, which bear on parts of the loop but have not been read in full against the model above, or which bear on it only at a distance.
 
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-use-improves-learning.md) [+M]: rests on the same Wisniewski et al. (2020) synthesis as [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S]; its own entry says the synthesis counts feedback delivered, not feedback used, so it does not test the use step despite its slug.
+- [Feedback improves learning, with a medium average effect that varies widely by feedback type](../claims/feedback-improves-learning.md) [+M]: rests on the same Wisniewski et al. (2020) synthesis as [Feedback Improves Learning](../claims/feedback-improves-learning.md) [+S]; its own entry says the synthesis counts feedback delivered, not feedback used, so it does not test the use step despite its slug.
 - [Trained teachers allocated about 20 percent of class time to the feedback-corrective/enrichment loop](../claims/training-increases-feedback-corrective-loop-time.md) [+M]: a time-allocation observation of 40 secondary mathematics teachers; used above only as a planning figure.
 - [Probing feedback with required revise-and-resubmit](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]: one case study of teacher candidates; progress was partial and non-linear.
 - [Rubrics changed what online peer reviewers commented on](../claims/rubrics-improve-peer-feedback-quality.md) [~M]: two quasi-experiments on peer feedback quality, not on learning from it.

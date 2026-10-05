@@ -43,7 +43,7 @@ Pearson correlations between pooled motivational assessments and test/exam resul
 
 
 ## Related Claims
-- [Learner-centered teacher–student relationships are associated with better student outcomes](learner-centered-teacher-student-relationships-are-effective.md) — a broader claim this one bears on
+- [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — a broader claim this one bears on
 - [Students rate multimedia introductory activities as more instructive, interesting and fun than traditional introductory activities](multimedia-introductory-activities-rated-more-motivating.md) — related
 - [Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features](multimedia-activities-less-fun-than-instructive.md) — related
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related

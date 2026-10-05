@@ -19,7 +19,7 @@ This strategy opens a lesson or school day with a brief, structured prompt askin
 
 ## Design Implications
 
-Emotions direct attention and consume working-memory resources; unacknowledged anxiety or frustration competes with instructional content for processing capacity [Cognitive Load Management](../principles/cognitive-load-management.md). Labeling affect ("affect labeling") reduces amygdala reactivity and improves self-regulation, so a brief naming routine functions as a low-cost emotional regulation intervention [+M]. Check-ins also strengthen teacher–student relationships, which are themselves reliably associated with improved engagement and achievement [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+S]. The strategy works best when the teacher visibly responds to what surfaces — a check-in that is collected but never acknowledged teaches students that the routine is performative [-M].
+Emotions direct attention and consume working-memory resources; unacknowledged anxiety or frustration competes with instructional content for processing capacity [Cognitive Load Management](../principles/cognitive-load-management.md). Labeling affect ("affect labeling") reduces amygdala reactivity and improves self-regulation, so a brief naming routine functions as a low-cost emotional regulation intervention [+M]. Check-ins also strengthen teacher–student relationships, which are themselves reliably associated with improved engagement and achievement [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+S]. The strategy works best when the teacher visibly responds to what surfaces — a check-in that is collected but never acknowledged teaches students that the routine is performative [-M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Emotions direct attention and consume working-memory resources; unacknowledged a
 ### Target Learners
 - Students experiencing transitions (new school, post-break, adolescence) where emotional load is elevated [~M]
 - Learners with weak self-regulation or limited emotion vocabulary, for whom naming is the skill being built [+W]
-- Students from backgrounds where a warm, predictable teacher relationship is a key engagement lever [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+S]
+- Students from backgrounds where a warm, predictable teacher relationship is a key engagement lever [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+S]
 - Less suitable as a whole-class requirement for students with trauma histories who need control over disclosure; offer private or opt-out channels [-M]
 
 ### Target Learning Goals

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Cognitive disequilibrium motivates conceptual change
+title: "Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism"
 status: draft
 generated:
   by: claude/unspecified
@@ -37,12 +37,15 @@ sources:
     rigour: 1
 ---
 
-# Cognitive disequilibrium motivates conceptual change
+# Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r1` · `q3`–`q4` · `i3` large
+<!-- deprecated title (2026-10-05, overstated its evidence): Cognitive disequilibrium motivates conceptual change -->
 
-When learners encounter evidence or ideas that conflict with their existing conceptions, the resulting cognitive disequilibrium can motivate them to reorganize their knowledge — the mechanism by which conceptual change occurs.
+Instruction that confronts learners with evidence or ideas conflicting with their existing conceptions produces large gains in science learning in meta-analyses, and a small experiment found staged contradictions helped only when learners reported being confused. The recorded studies measure learning outcomes, not the disequilibrium itself, so the Piagetian account that disequilibrium is what drives the reorganisation (see Discussion) is the claim's proposed mechanism, not something its evidence isolates.
+
+<!-- deprecated 2026-10-05 (asserted the mechanism as established): When learners encounter evidence or ideas that conflict with their existing conceptions, the resulting cognitive disequilibrium can motivate them to reorganize their knowledge — the mechanism by which conceptual change occurs. -->
 
 ## Subclaims
 

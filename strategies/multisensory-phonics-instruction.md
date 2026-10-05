@@ -73,7 +73,7 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 
 ### Target Learning Goals
 - Accurate decoding of unfamiliar words through grapheme–phoneme mapping
-- Phonemic awareness: segmenting, blending, and manipulating sounds [Phonological Awareness Training Improves Reading](../claims/phonological-awareness-training-improves-reading.md) [+S]
+- Phonemic awareness: segmenting, blending, and manipulating sounds [Phonological Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+S]
 - Encoding — spelling, which the same correspondences serve in reverse
 - Automatic word recognition, and through it, reading comprehension [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
 

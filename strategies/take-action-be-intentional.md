@@ -19,7 +19,7 @@ Take Action, Be Intentional is a strategy in which the teacher deliberately desi
 
 ## Design Implications
 
-Learner-centered teacher-student relationships show consistent positive associations with participation, motivation, and achievement, with the strongest effects when teachers combine high warmth with high structure [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [+M]. Intentionality matters because small, deliberate teacher moves — how a misbehavior is framed, whether a struggling student is asked a question publicly or privately — compound into classroom climate. Brief interventions that reframe discipline as relationship-maintenance rather than punishment cut suspension rates roughly in half, showing that intentional teacher action changes outcomes even at low cost [Brief empathic discipline intervention halves suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
+Learner-centered teacher-student relationships show consistent positive associations with participation, motivation, and achievement, with the strongest effects when teachers combine high warmth with high structure [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [+M]. Intentionality matters because small, deliberate teacher moves — how a misbehavior is framed, whether a struggling student is asked a question publicly or privately — compound into classroom climate. Brief interventions that reframe discipline as relationship-maintenance rather than punishment cut suspension rates roughly in half, showing that intentional teacher action changes outcomes even at low cost [Brief empathic discipline intervention halves suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Learner-centered teacher-student relationships show consistent positive associat
 - Consistency across students; intentionality applied selectively reads as favoritism
 
 #### Constraints
-- Warmth without structure does not improve achievement; relationship-building alone, absent instructional demands, shows weak or null effects [Learner-centered teacher-student relationships are effective.](../claims/learner-centered-teacher-student-relationships-are-effective.md) [~M]
+- Warmth without structure does not improve achievement; relationship-building alone, absent instructional demands, shows weak or null effects [Learner-centered teacher-student relationships are effective.](../claims/teacher-student-relationships-improve-engagement.md) [~M]
 - One-shot empathy or climate interventions fade unless embedded in ongoing routines; effects depend on teacher follow-through rather than the initial message [Brief empathic discipline intervention halves suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [~M]
 - Publicly singling out students for support can backfire by signaling low ability; delivery must be private or normalized
 - Teachers under high workload default to reactive discipline; without protected time for check-ins and planning, intentionality degrades

@@ -77,4 +77,3 @@ The design implication is not to remove structure abruptly. It is to fade it as 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
-- [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — a broader claim this one bears on

@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: pretraining-improves-transfer
+aliases: [pretraining-principle-increased-learning-outcomes]
 evidence_strength:
 sources:
   - id: delgado-and-mayer-2024
@@ -17,18 +18,28 @@ sources:
     n: 93
     kind: causal
     rigour: "?"
+  - id: marjorie-ceballos-2022
+    resource: "https://eric.ed.gov/?id=EJ1380081"
+    title: "Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081"
+    author: Marjorie Ceballos, Joyce W. Nutta
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Pretraining Improves Transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3` · n=93
+> **Evidence** · 2 studies · 1 causal `r?`, 1 review `r1` · `q2`–`q3` · n=93
 
 Learners who receive instruction on key concepts, terms, or characteristics of a system *before* the main instruction show better transfer than learners who receive the same content integrated into or after the main instruction.
 
 ## Subclaims
 
 `q3 i?` A randomized experiment giving learners a pretraining video naming the parts and functions of an unfamiliar tool before an immersive-VR procedural lesson produced better knowledge-test scores and fewer errors on a subsequent real-world transfer task than the same lesson with no pretraining. [→ Delgado and Mayer 2024](#delgado-and-mayer-2024)
+
+`q2 i?` Studies cited by the article demonstrated increased learning outcomes from pretraining, including comprehension of scientific text and positive beliefs about reading it. [→ Marjorie Ceballos 2022](#marjorie-ceballos-2022)
 
 ## Evidence
 
@@ -39,6 +50,16 @@ Delgado, C. Y., & Mayer, R. E. (2024). Implementing Pretraining to Optimise Lear
 `q3 · peer-reviewed randomized experiment` · `i? · no standardized effect size reported` · `n=93` · `causal · r?`
 
 Ninety-three participants were randomly assigned to a pretraining group (who watched a video naming the parts and characteristics of a micropipette before an immersive virtual-reality lesson) or a no-pretraining group (who went straight into the same VR lesson). After the VR training phase and an in-VR test, all participants performed a modified version of the task in a real-life setting, plus a knowledge test and cognitive-load, presence, and self-efficacy measures. The pretraining group scored significantly higher on the knowledge test and made fewer errors on the real-life transfer task than the no-pretraining group, with lower reported cognitive load and no group differences in presence, self-efficacy, or errors during the in-VR test itself — i.e., pretraining's benefit showed up specifically on transfer to the real-world task, not on performance inside the VR lesson.
+
+### Marjorie Ceballos 2022
+
+Marjorie Ceballos, Joyce W. Nutta. (2022). Emergent Bilinguals and Multimedia Instructional Design: Applying the Science of Learning Principles to Dual Language Instruction. Education Leadership Review, 23(1). https://eric.ed.gov/?id=EJ1380081
+
+`q2 · i?` · `review · r1`
+
+Narrative review attribution: the article reports that Gegner et al. (2009) found pretraining supported learners' comprehension of scientific text and promoted "positive beliefs," and that Bos et al. (2009) found gains when pretraining was coupled with a pre-test, information presentation, questions, and feedback. No effect sizes printed.
+
+> "Studies on the learning effects of the pretraining principle demonstrated increased learning outcomes (Bos et al., 2009; Gegner et al., 2009; Kennedy et al., 2014)."
 
 ## Discussion
 
@@ -62,4 +83,3 @@ Ninety-three participants were randomly assigned to a pretraining group (who wat
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related
 - [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related
-- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](pretraining-principle-increased-learning-outcomes.md) — a broader claim this one bears on

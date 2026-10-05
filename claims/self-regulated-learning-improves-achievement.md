@@ -195,7 +195,6 @@ Open questions that evidence entries should address include: which strategy fami
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
 - [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — possibly the same claim (merge candidate)
-- [Self-regulated learning strategy instruction improves writing outcomes](self-regulated-learning-strategies-improve-writing.md) — a narrower finding that bears on this claim
 - [Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance](short-srl-strategy-training-enhances-math-performance.md) — a narrower finding that bears on this claim
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — a narrower finding that bears on this claim

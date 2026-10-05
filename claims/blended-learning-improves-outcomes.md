@@ -24,7 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=23 contrasts
 
-Blended learning — instruction that combines face-to-face teaching with online learning activities — is widely claimed to produce better learning outcomes than fully face-to-face or fully online formats. This page concerns that comparative-outcome claim; it does not yet have curated evidence entries.
+Blended learning — instruction that combines face-to-face teaching with online learning activities — is widely claimed to produce better learning outcomes than fully face-to-face or fully online formats. This page concerns that comparative-outcome claim. One synthesis is recorded: Means et al. (2013), whose 23 blended-versus-face-to-face contrasts favoured blended instruction (g+ = 0.35) but confounded the blend with extra learning time and resources; no entry here compares blended with fully online instruction directly. <!-- deprecated (2026-10-05, stale: an entry had been added): This page concerns that comparative-outcome claim; it does not yet have curated evidence entries. -->
 
 ## Subclaims
 

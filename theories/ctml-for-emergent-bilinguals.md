@@ -41,7 +41,7 @@ CTML (Mayer, 2014) holds that learners process multimedia messages through two c
 
 - [Signaling Principle Increased Learning Outcomes](../claims/signaling-principle-increased-learning-outcomes.md) [+M]
 - [Spatial Contiguity Meta Analysis 36 Studies](../claims/spatial-contiguity-meta-analysis-36-studies.md) [+M]
-- [Pretraining Principle Increased Learning Outcomes](../claims/pretraining-principle-increased-learning-outcomes.md) [+M]
+- [Pretraining Principle Increased Learning Outcomes](../claims/pretraining-improves-transfer.md) [+M]
 - [Multimedia Principle Words And Pictures Outcomes](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+M]
 - [Temporal Contiguity Lower Cognitive Load](../claims/temporal-contiguity-lower-cognitive-load.md) [+M]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+W]

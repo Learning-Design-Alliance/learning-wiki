@@ -97,8 +97,7 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — explains why harder phoneme tasks correlate with reading partly through general cognitive demand, a key measurement caveat for this claim
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — if phoneme awareness is the more diagnostic predictor, early screening should prioritize phoneme-level measures over rhyme-only checks
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
-- [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md) — related
-- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Phonological Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Cognitive flexibility is significantly correlated with phonemic awareness, growth in reading comprehension, and spelling ability, especially among children with low cognitive flexibility scores](cognitive-flexibility-correlates-with-early-literacy.md) — related
 - [Increased cognitive flexibility may strengthen the effectiveness of phonemic awareness, reading, and spelling instruction for kindergarten and first-grade students with low cognitive flexibility](cf-training-may-strengthen-early-literacy-instruction.md) — related
 - [Among children with initially low cognitive flexibility, growth in cognitive flexibility correlates with post phonemic awareness, reading comprehension growth, and spelling scores; these correlations are not significant among high-flexibility children](cf-literacy-correlations-limited-to-low-flexibility-children.md) — related

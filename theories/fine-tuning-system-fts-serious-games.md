@@ -41,7 +41,7 @@ The Fine-Tuning System (FTS) is the paper's proposed mechanism for calibrating s
 
 ### Claims
 - [Blanket Scaffolding In Serious Games Contradicts Scaffolding Notion](../claims/blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) [+M]
-- [Expertise Reversal Effect Redundant Support Harms Experts](../claims/expertise-reversal-effect-redundant-support-harms-experts.md) [+M]
+- [Expertise Reversal Effect Redundant Support Harms Experts](../claims/expertise-reversal-effect.md) [+M]
 
 ## Related Theories
 - 

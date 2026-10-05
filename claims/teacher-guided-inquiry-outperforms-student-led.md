@@ -37,7 +37,7 @@ The claim concerns the comparison between teacher-guided (scaffolded) forms of i
 
 ## Subclaims
 
-`q4 i2` A meta-analysis of 37 experimental/quasi-experimental studies (1996–2006) finds an overall mean effect of inquiry-based science teaching on achievement of g=.50, with teacher-led (guided) inquiry conditions outperforming student-led conditions by roughly .40 in effect size. [→ Furtak et al. 2012](#furtak-et-al-2012)
+`q4 i2` A meta-analysis of 37 experimental/quasi-experimental studies (1996–2006) finds an overall mean effect of inquiry-based science teaching on achievement of .50, and studies of teacher-led (guided) inquiry had mean effect sizes about .40 larger than studies of student-led inquiry (a between-study moderator contrast, not a direct comparison). [→ Furtak et al. 2012](#furtak-et-al-2012)
 
 `q3 i?` A research synthesis of 138 studies (1984–2002) finds a consistent positive trend favoring inquiry-based science instruction over more passive/transmission instruction for K–12 conceptual understanding, though it reports no single pooled standardized effect size. [→ Minner et al. 2010](#minner-et-al-2010)
 
@@ -47,9 +47,9 @@ The claim concerns the comparison between teacher-guided (scaffolded) forms of i
 
 Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and Quasi-Experimental Studies of Inquiry-Based Science Teaching: A Meta-Analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)
 
-`q4 · meta-analysis of experimental/quasi-experimental studies` · `i2 · medium effect, g = 0.4` · `n=37 studies` · `quant-synthesis · r?`
+`q4 · meta-analysis of experimental/quasi-experimental studies` · `i2 · the .40 is a difference between study groups: studies with teacher-led activities had mean effect sizes about .40 larger than studies with student-led conditions (abstract); the overall inquiry effect was .50` · `n=37 studies` · `quant-synthesis · r?`
 
-This meta-analysis coded 37 experimental and quasi-experimental studies of inquiry-based science teaching published 1996–2006, distinguishing cognitive features of the activity from the degree of guidance given to students. The overall mean effect size on student learning was .50. Studies with teacher-led activities had mean effect sizes about .40 larger than those with student-led (unguided) conditions, and studies emphasizing epistemic activities or a combination of procedural, epistemic, and social activities showed the highest effects.
+This meta-analysis coded 37 experimental and quasi-experimental studies of inquiry-based science teaching published 1996–2006, distinguishing cognitive features of the activity from the degree of guidance given to students. The overall mean effect size on student learning was .50. Studies with teacher-led activities had mean effect sizes about .40 larger than those with student-led (unguided) conditions — a moderator comparison between groups of studies, not a head-to-head trial of teacher-led against student-led inquiry — and studies emphasizing epistemic activities or a combination of procedural, epistemic, and social activities showed the highest effects.
 
 ### Minner et al. 2010
 
@@ -70,7 +70,7 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 **Boundary conditions to expect in the evidence.** Moderators to test as further evidence is added include learner prior knowledge (guidance benefits should shrink or reverse for experts), domain structure (well-structured domains favor explicit guidance more than ill-structured ones), and outcome type (immediate post-tests tend to favor guided conditions more than delayed or transfer measures). Claims about long-term retention and motivation remain contested in the guided-versus-minimally-guided literature. [~W]
 <!-- deprecated (2026-09-30, stale once evidence was recorded): **Boundary conditions to expect in the evidence.** When evidence entries are added, moderators to watch for include learner prior knowledge (guidance benefits should shrink or reverse for experts), domain structure (well-structured domains favor explicit guidance more than ill-structured ones), and outcome type (immediate post-tests tend to favor guided conditions more than delayed or transfer measures). Claims about long-term retention and motivation remain contested in the guided-versus-minimally-guided literature. [~W] -->
 
-**Open questions.** Two meta-analyses are recorded (Minner et al. 2010 and Furtak et al. 2012, coded medium). The precise dose of guidance, the domains where student-led exploration pays off (e.g., motivated adult learners with prior knowledge), and long-term retention versus immediate test performance remain contested.
+**Open questions.** Two meta-analyses are recorded (Minner et al. 2010 and Furtak et al. 2012; Furtak's .40 is the teacher-led minus student-led difference in mean effect sizes across studies). The precise dose of guidance, the domains where student-led exploration pays off (e.g., motivated adult learners with prior knowledge), and long-term retention versus immediate test performance remain contested.
 <!-- deprecated (2026-09-30, stale once evidence was recorded): **Open questions.** The precise dose of guidance, the domains where student-led exploration pays off (e.g., motivated adult learners with prior knowledge), and long-term retention versus immediate test performance remain contested. This page needs evidence entries before the claim can be treated as established. -->
 
 ## Related Claims

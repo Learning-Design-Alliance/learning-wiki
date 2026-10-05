@@ -41,7 +41,7 @@ The article recommends that as schools and districts acquire digital multimedia 
 - [Sol Multimedia Lesson Sequence Eb](../designs/sol-multimedia-lesson-sequence-eb.md) [+M]
 - [Dual Language Programs Gap Closure Longitudinal](../claims/dual-language-programs-gap-closure-longitudinal.md) [+M]
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W]
-- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-principle-increased-learning-outcomes.md) [+W]
+- [Pretraining before complex lessons is associated with increased learning outcomes, especially for learners with minimal prior knowledge](../claims/pretraining-improves-transfer.md) [+W]
 - [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](../claims/signaling-principle-increased-learning-outcomes.md) [+W]
 - [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](../claims/spatial-contiguity-meta-analysis-36-studies.md) [+W]
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W]

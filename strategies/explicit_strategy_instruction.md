@@ -31,7 +31,7 @@ Strategy instruction works because it converts tacit expert procedures into teac
 #### Constraints
 - Strategies taught as rote procedures, without conditional knowledge, show weak transfer to new tasks and content [Strategy instruction effects are weaker when conditional knowledge is not taught.](../claims/strategy-instruction-improves-learning.md) [-M]
 - Effects fade when instruction is brief; multi-session programs outperform single interventions [Meta-analyses find stronger effects for extended strategy programs.](../claims/strategy-instruction-improves-learning.md) [~M]
-- For learners with high prior knowledge, strategy instruction can be redundant and even depress performance [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-guidance-hurts-experts.md) [~M]
+- For learners with high prior knowledge, strategy instruction can be redundant and even depress performance [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 - Time-intensive: modeling and guided practice consume instructional time that competes with content coverage
 
 #### Implementation Variability
@@ -43,7 +43,7 @@ Strategy instruction works because it converts tacit expert procedures into teac
 ### Target Learners
 - Novices and struggling learners who lack effective default approaches to a task [Strategy instruction benefits low-achieving learners most.](../claims/strategy-instruction-improves-learning.md) [+M]
 - Younger learners, who rarely invent effective strategies spontaneously
-- Less beneficial for experts, who already possess and automate effective procedures [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-guidance-hurts-experts.md) [~M]
+- Less beneficial for experts, who already possess and automate effective procedures [The expertise-reversal effect means guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals
 - Procedural fluency in domain tasks (comprehension, problem solving, writing)

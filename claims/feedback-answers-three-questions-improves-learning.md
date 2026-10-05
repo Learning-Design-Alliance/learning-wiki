@@ -60,4 +60,4 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Feedback Answers Three Questions](feedback-answers-three-questions.md) — possibly the same claim (merge candidate)
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
-- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-use-improves-learning.md) — a broader claim this one bears on
+- [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-improves-learning.md) — a broader claim this one bears on

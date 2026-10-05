@@ -40,7 +40,7 @@ A lesson-level design pattern the article demonstrates with an Italian fifth-gra
 
 ### Claims
 
-- [Pretraining Principle Increased Learning Outcomes](../claims/pretraining-principle-increased-learning-outcomes.md) [+M]
+- [Pretraining Principle Increased Learning Outcomes](../claims/pretraining-improves-transfer.md) [+M]
 - [Signaling Principle Increased Learning Outcomes](../claims/signaling-principle-increased-learning-outcomes.md) [+M]
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W]
 
