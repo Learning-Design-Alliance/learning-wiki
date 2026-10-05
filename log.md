@@ -10,6 +10,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-10-05
 
+* **Edit**: conversion wave 6 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-6.md); SDT and reinforcement-theory principles folded into their theories, three stub patterns into their principles; four frontmatter DOIs corrected against Crossref
 * **Merge**: eleven duplicate claims folded (judgments of learning, teaching others, SRSD writing, SEL achievement, phonological awareness, learner-centred relationships, feedback use, retrieval without encoding, two expertise-reversal variants, pretraining); principles/explicit-instruction-phonics folded into [phonics](principles/phonics.md)
 * **Fix**: wave 5's claim findings — 16 titles, stale text on about 20 claims, unbacked impact codes, kind codes, and citations for Sweet & Rupp (2012), Rupp et al. (2010), Miwa et al. (2017), Ceballos & Nutta (2022) and Gaofeng & Yeyu (2007) checked against Crossref, DataCite or ERIC
 * **Fix**: ten converted principle and pattern pages — frontmatter DOIs corrected to the Crossref-verified Key Sources DOIs; Vo & Morris (2006) journal, Givens et al. year and Setlhodi (2018) DOI corrected
