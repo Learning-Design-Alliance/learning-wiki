@@ -19,7 +19,7 @@ Songwriting asks students to compose original verses or complete songs that inte
 
 ## Design Implications
 
-Songwriting converts passive exposure to language into generative use: composing a verse requires retrieving, selecting, and sequencing target vocabulary, which produces deeper encoding than recognition alone [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Pairing lyrics with illustrations exploits dual coding — verbal and visual representations of the same content support one another in memory [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. Because composition is open-ended, effectiveness depends on strong [guidance](../elements/practice.md) and clear constraints (a fixed tune, a target sound, a verse frame) so that working memory is spent on the language, not on inventing structure from scratch [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Songwriting converts passive exposure to language into generative use: composing a verse requires retrieving, selecting, and sequencing target vocabulary, which produces deeper encoding than recognition alone [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Pairing lyrics with illustrations exploits dual coding — verbal and visual representations of the same content support one another in memory [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. Because composition is open-ended, effectiveness depends on strong [guidance](../elements/practice.md) and clear constraints (a fixed tune, a target sound, a verse frame) so that working memory is spent on the language, not on inventing structure from scratch [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Songwriting converts passive exposure to language into generative use: composing
 
 ### Target Learners
 - Elementary grades (K–2) developing letter–sound correspondence and phonemic awareness [Systematic phonics instruction improves word reading for early readers.](../claims/activation-improves-learning.md) [+S]
-- English language learners, who benefit from meaningful, repeated, multisensory encounters with new vocabulary [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- English language learners, who benefit from meaningful, repeated, multisensory encounters with new vocabulary [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Learners who thrive on creative expression; choice of topic and tune supports engagement and ownership [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ### Target Learning Goals

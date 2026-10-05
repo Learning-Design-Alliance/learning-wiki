@@ -19,7 +19,7 @@ Learners use graphic organizers — matrices, concept maps, Venn diagrams, flowc
 
 ## Design Implications
 
-Graphic organizers externalize relationships among ideas, reducing the working-memory burden of holding unstructured notes while processing new input [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Combining verbal notes with spatial-visual structure recruits dual channels, improving recall over text-only notes [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Meta-analytic evidence shows graphic organizers used as note-taking or study aids improve learning outcomes, with the largest gains when organizers make explicit the relations the learner must infer [Graphic organizers improve learning across content areas.](../claims/advance-organizers-improve-learning.md) [+M]. Critically, the *generative* act of selecting, relating, and arranging information — not the visual format itself — drives the benefit; simply handing learners a completed organizer is far less effective than having them complete one [Learner-generated organizers outperform provided ones.](../claims/advance-organizers-improve-learning.md) [~M].
+Graphic organizers externalize relationships among ideas, reducing the working-memory burden of holding unstructured notes while processing new input [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Combining verbal notes with spatial-visual structure recruits dual channels, improving recall over text-only notes [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Meta-analytic evidence shows graphic organizers used as note-taking or study aids improve learning outcomes, with the largest gains when organizers make explicit the relations the learner must infer [Graphic organizers improve learning across content areas.](../claims/advance-organizers-improve-learning.md) [+M]. Critically, the *generative* act of selecting, relating, and arranging information — not the visual format itself — drives the benefit; simply handing learners a completed organizer is far less effective than having them complete one [Learner-generated organizers outperform provided ones.](../claims/advance-organizers-improve-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Graphic organizers externalize relationships among ideas, reducing the working-m
 - Less beneficial for experts, who already possess schemas and may find imposed structures redundant or constraining [~W]
 
 ### Target Learning Goals
-- Comprehension and retention of structured expository content [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Comprehension and retention of structured expository content [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Identifying relationships: comparisons, hierarchies, cause–effect chains, sequences
 - Selective attention — deciding what is note-worthy rather than transcribing everything
 - Synthesis across sources (research notes, multi-source projects)

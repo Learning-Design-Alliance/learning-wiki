@@ -12,14 +12,14 @@ generated:
 # Propaganda Technique Identification
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 associational), `q2`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners are first taught a named taxonomy of propaganda techniques (e.g., bandwagon, testimonial, glittering generalities, name-calling, loaded language) through direct instruction with annotated examples. They then apply the taxonomy by identifying techniques in authentic online advertisements and reflect on how the interactive medium of online reading — hyperlinks, personalization, native advertising, social sharing — can amplify or blunt a technique's persuasive power. The strategy converts passive exposure to persuasion into active analysis by giving learners a vocabulary for what they are seeing.
 
 ## Design Implications
 
-The strategy works by pairing explicit category instruction with application to authentic artifacts, so learners build a discrimination schema rather than a memorized list. Naming techniques supports transfer because labels act as retrieval cues that learners can apply to novel media [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Contrasting multiple advertisements that use the same technique — and single ads that use several — helps learners abstract the underlying feature rather than surface characteristics [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works by pairing explicit category instruction with application to authentic artifacts, so learners build a discrimination schema rather than a memorized list. Naming techniques supports transfer because labels act as retrieval cues that learners can apply to novel media [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Contrasting multiple advertisements that use the same technique — and single ads that use several — helps learners abstract the underlying feature rather than surface characteristics [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

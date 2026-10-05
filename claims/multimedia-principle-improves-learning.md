@@ -119,14 +119,13 @@ Open questions include how the effect scales across media formats (static illust
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — a narrower finding that bears on this claim
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — a narrower finding that bears on this claim
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a narrower finding that bears on this claim
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a narrower finding that bears on this claim
-- [Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner](seductive-details-effect.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related

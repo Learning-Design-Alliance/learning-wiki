@@ -44,7 +44,7 @@ Review of neuroimaging and developmental findings (Elbert et al., 1995; Schlaug 
 
 ## Related Claims
 - [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](cognition-transient-distributed-functioning.md) — related
-- [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md) — a broader claim this one bears on
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — a broader claim this one bears on
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — related
 - [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
 - [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related

@@ -12,14 +12,14 @@ generated:
 # Exploration Station for Multimodal Pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (4 quant-synthesis, 4 review, 2 causal, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (4 quant-synthesis, 4 review, 3 causal, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 14 report an effect size
 
 ## Description
 An Exploration Station is a designated computer station (or set of stations) stocked with digital images, audio files, video, and writing tools, where students freely explore different pathways for composing multimodal texts. Students may work linearly (linguistic → audio → visual), begin with images and audio, or move recursively between drafts in different modes. The station's purpose is not to deliver instruction but to give students low-stakes time and materials for self-directed experimentation, with the goal of building ownership over mode choice and discovering which pathways serve their composing purposes.
 
 ## Design Implications
 
-The strategy treats mode selection as a learnable design decision rather than a teacher-imposed requirement. Open exploration supports this by letting students encounter the affordances of each mode firsthand — what an audio draft reveals that a prose draft hides, where an image carries meaning words cannot [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Because students choose their own pathway, the station also functions as an autonomy-supportive structure, which strengthens task value and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]. Exploration works best when it is bounded by a composing purpose — a real audience or product — so that experimentation feeds into a composition rather than remaining play.
+The strategy treats mode selection as a learnable design decision rather than a teacher-imposed requirement. Open exploration supports this by letting students encounter the affordances of each mode firsthand — what an audio draft reveals that a prose draft hides, where an image carries meaning words cannot [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Because students choose their own pathway, the station also functions as an autonomy-supportive structure, which strengthens task value and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]. Exploration works best when it is bounded by a composing purpose — a real audience or product — so that experimentation feeds into a composition rather than remaining play.
 
 ### Context
 #### Requirements

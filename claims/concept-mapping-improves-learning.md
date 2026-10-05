@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Concept mapping improves learning
+title: "Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice"
 status: draft
 generated:
   by: claude/unspecified
@@ -22,7 +22,7 @@ sources:
     resource: "https://doi.org/10.3102/00346543076003413"
     title: "Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)"
     author: "Nesbit, J. C., & Adesope, O. O."
-    q: 3
+    q: 4
     i: "?"
     n: 55 studies (67 effect sizes, 5,818 participants)
     kind: quant-synthesis
@@ -38,18 +38,19 @@ sources:
     rigour: 2
 ---
 
-# Concept mapping improves learning
+# Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r2` · `q3`–`q4` · `i2`–`i3`
+<!-- deprecated title (2026-10-05, overstated its evidence): Concept mapping improves learning -->
 
-Learners who construct node-and-link diagrams of relationships among concepts show better understanding and retention than learners using comparable non-mapping study activities. The claim's scope is *construction* of maps by learners; studying a supplied map is treated as a distinct, weaker activity (see Discussion).
+Learners who construct node-and-link diagrams of relationships among concepts show better understanding and retention than learners in most comparison conditions pooled in two meta-analyses, though not better than learners who spend the same time on retrieval practice (Karpicke & Blunt 2011). <!-- deprecated (2026-10-05, overstated): show better understanding and retention than learners using comparable non-mapping study activities. --> The claim's scope is *construction* of maps by learners; studying a supplied map is treated as a distinct, weaker activity (see Discussion).
 
 ## Subclaims
 
 `q4 i2` Across 142 effect sizes, learning with concept maps beat comparison conditions by a moderate margin (g = 0.58), and constructing maps (g = 0.72) helped more than studying supplied ones (g = 0.43), in both STEM and non-STEM domains. [→ Schroeder et al. 2018](#schroeder-et-al-2018)
 
-`q3 i?` An earlier meta-analysis of 55 experimental and quasi-experimental studies (Grade 4 to postsecondary) found concept-map use associated with better knowledge retention, with effects ranging from small to large depending on how maps were used and what they were compared against. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
+`q4 i?` An earlier meta-analysis of 55 experimental and quasi-experimental studies (Grade 4 to postsecondary) found concept-map use associated with better knowledge retention, with effects ranging from small to large depending on how maps were used and what they were compared against. [→ Nesbit & Adesope 2006](#nesbit-adesope-2006)
 
 `q3 i3` When learning time is matched, building a concept map while viewing the text produced much less learning than retrieval practice (d = 1.50 in Experiment 1), and was not significantly better than rereading; this sharply qualifies the claim against generative alternatives. [→ Karpicke & Blunt 2011](#karpicke-blunt-2011)
 
@@ -67,7 +68,7 @@ A random-effects meta-analysis of 142 independent effect sizes from studies in w
 
 Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
 
-`q3 · meta-analysis of experimental and quasi-experimental studies` · `i? · no pooled effect size in the abstract read` · `n=55 studies (67 effect sizes, 5,818 participants)` · `quant-synthesis · r?`
+`q4 · meta-analysis of experimental and quasi-experimental studies` · `i? · no pooled effect size in the abstract read` · `n=55 studies (67 effect sizes, 5,818 participants)` · `quant-synthesis · r?`
 
 A meta-analysis of experimental and quasi-experimental studies in which students learned by constructing, modifying or viewing node-link diagrams. The pool was 67 standardized mean differences from 55 studies with 5,818 participants, from Grade 4 to postsecondary, in domains such as science, psychology, statistics and nursing. Using concept maps was associated with better knowledge retention across conditions and settings. Mean effects ranged from small to large depending on how maps were used and on the comparison treatment, and most subsets were significantly heterogeneous. Read from the abstract only, so no pooled effect size is recorded here.
 
@@ -91,7 +92,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 
 **Scoring and implementation.** When maps are used as [assessment](../elements/assessment.md), scoring the *quality of links* (labeled, directional, hierarchically organized) rather than node count better captures relational understanding. Time-on-task is a persistent confound: mapping is slow, and some reported advantages shrink when matched against other activities given equal time.
 
-**Evidence status.** No studies are yet catalogued on this page. The claim is widely repeated in the learning-strategies literature, but the strength of support depends heavily on the comparison condition (passive study vs. generative alternatives) and on whether time-on-task is matched — both moderators flagged above. Evidence entries are needed before this claim can carry an evidence-strength rating.
+**Evidence status.** <!-- deprecated (2026-10-05, stale): No studies are yet catalogued on this page. --> Three studies are recorded above: two meta-analyses (Schroeder et al. 2018, g = 0.58 overall, constructing g = 0.72 against studying g = 0.43; Nesbit & Adesope 2006, read from the abstract with no pooled effect recorded) and one pair of randomized experiments (Karpicke & Blunt 2011) in which time-matched retrieval practice beat mapping. Both meta-analyses were read from abstracts only, so their moderator results on comparison type and time-on-task are not recorded here. The strength of support depends heavily on the comparison condition (passive study vs. generative alternatives) and on whether time-on-task is matched — both moderators flagged above. <!-- deprecated (2026-10-05, stale): Evidence entries are needed before this claim can carry an evidence-strength rating. --> Reading those moderators from the meta-analyses' full texts is what would settle how far the pooled advantage survives a time-matched generative comparison.
 
 *Merged from “Concept mapping improves learning outcomes” (concept-maps-improve-learning):* **Mechanism.** Concept mapping is typically explained through cognitive load and schema-building arguments: selecting relevant concepts, organizing them into hierarchical structures, and integrating them with prior knowledge forces generative processing that passive reading or rereading does not. This places it in the family of generative, elaborative strategies alongside [advance organizers](../elements/advance-organizers.md) and [chunking](../claims/chunking-reduces-working-memory-load.md), and it depends on learners actively [activating prior knowledge](../strategies/activating-prior-knowledge.md) to link new concepts to what they already know.
 
@@ -99,7 +100,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 
 **Moderators and boundary conditions.** Expected moderators include learner expertise (novices benefit most; experts may find mapping redundant, consistent with [expertise reversal](../theories/expertise-reversal-effect.md) patterns), domain structure (mapping suits hierarchically organized, relational domains better than loosely associated ones), and scoring or feedback on map quality — without feedback, learners may build structurally incorrect maps and consolidate misconceptions. Construction also imposes a high extraneous load on novices unfamiliar with the format, so instruction on how to map is usually necessary first; unconstrained construction can itself produce [cognitive overload](../claims/cognitive-overload-degrades-learning.md).
 
-**Open questions.** The evidence base for this page has not yet been populated; effect sizes, moderator findings, and study quality assessments still need to be added before this claim can be rated. Until then, treat the claim as plausible but unrated rather than established.
+**Open questions.** <!-- deprecated (2026-10-05, stale): The evidence base for this page has not yet been populated; effect sizes, moderator findings, and study quality assessments still need to be added before this claim can be rated. Until then, treat the claim as plausible but unrated rather than established. --> The pooled effects and the time-matched comparison are recorded above; the moderators named in this paragraph (learner expertise, domain structure, feedback on map quality) are not tested by any entry here.
 
 ## Related Claims
 
@@ -113,11 +114,11 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — unconstrained map construction can itself overload novices
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative strategy that forces learners to process and restructure text
 - [Cognitive flexibility theory: multiple cases](cognitive-flexibility-theory-multiple-cases.md) — concept mapping is a core tool within cognitive flexibility theory for representing multiple linked perspectives
-- [Learner Constructed Graphic Organizers Outperform Provided](learner-constructed-graphic-organizers-outperform-provided.md) — related
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement](interactive-beats-constructive-concept-mapping.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
-- [Drawing Improves Learning](drawing-improves-learning.md) — related
+- [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures](retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) — related
 - [Retrieval practice produces more learning than elaborative study techniques, including concept mapping and imagery-based strategies such as the keyword mnemonic](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on

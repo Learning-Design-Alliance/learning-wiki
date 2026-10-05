@@ -15,11 +15,11 @@ generated:
 > **Evidence** · 3 claims (2 for, 1 against) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
-Drawing is a technique in which learners create their own pictorial representations of to-be-learned content — sketching a concept, process, or relationship — rather than viewing a provided image. It requires learners to process information visually, kinesthetically, and semantically: they must elaborate on the meaning of the concept and translate it into a new form (a picture). This active reconstruction produces stronger encoding than reading or listening alone, with the "drawing effect" showing reliable memory advantages over writing, imagining, or viewing [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-recall.md) [+S].
+Drawing is a technique in which learners create their own pictorial representations of to-be-learned content — sketching a concept, process, or relationship — rather than viewing a provided image. It requires learners to process information visually, kinesthetically, and semantically: they must elaborate on the meaning of the concept and translate it into a new form (a picture). This active reconstruction produces stronger encoding than reading or listening alone, with the "drawing effect" showing reliable memory advantages over writing, imagining, or viewing [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [+S].
 
 ## Design Implications
 
-Drawing works because it is generative: learners must select critical information, organize it spatially, and integrate it with prior knowledge — the same processes that underlie effective [Dual Coding Theory](../theories/dual-coding-theory.md) [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-recall.md) [+M]. The benefit comes from *learner-generated* drawing; simply viewing decorative or instructor-supplied illustrations does not produce the same effect [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Drawings need not be artistically skilled — simple, schematic representations capture the benefit.
+Drawing works because it is generative: learners must select critical information, organize it spatially, and integrate it with prior knowledge — the same processes that underlie effective [Dual Coding Theory](../theories/dual-coding-theory.md) [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [+M]. The benefit comes from *learner-generated* drawing; simply viewing decorative or instructor-supplied illustrations does not produce the same effect [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S]. Drawings need not be artistically skilled — simple, schematic representations capture the benefit.
 
 ### Context
 #### Requirements
@@ -28,10 +28,10 @@ Drawing works because it is generative: learners must select critical informatio
 - Enough time for learners to construct and briefly reflect on their drawings
 
 #### Constraints
-- Drawing consumes more time than note-taking or reading; the benefit can disappear when time-on-task is tightly matched [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-recall.md) [~M]
+- Drawing consumes more time than note-taking or reading; the benefit can disappear when time-on-task is tightly matched [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [~M]
 - Learners with high intrinsic-load material may overload working memory when drawing and comprehending simultaneously [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M] — provide partial templates or worked visual models for complex content
 - Learners who perceive themselves as lacking artistic talent may disengage; explicit framing that schematic quality, not artistic quality, matters is necessary
-- Poorly drawn or inaccurate drawings can encode misconceptions; drawings should be checked or discussed [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-recall.md) [~W]
+- Poorly drawn or inaccurate drawings can encode misconceptions; drawings should be checked or discussed [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [~W]
 
 #### Implementation Variability
 - **Free drawing** — learners sketch from a definition or text; strongest generative benefit
@@ -41,7 +41,7 @@ Drawing works because it is generative: learners must select critical informatio
 - **Collaborative drawing** — pairs negotiate a shared representation, adding discussion and elaboration
 
 ### Target Learners
-- Effective across ages and settings: K-12, higher education, and older adults [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-recall.md) [+S]
+- Effective across ages and settings: K-12, higher education, and older adults [Drawing to learn improves recall relative to writing or reading.](../claims/dual-coding-improves-learning.md) [+S]
 - Particularly useful for learners with limited verbal encoding strategies or those learning vocabulary and terminology
 - Less suitable when material is highly abstract with no natural visual form, or when working memory is already heavily loaded [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 

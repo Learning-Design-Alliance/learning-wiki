@@ -12,7 +12,7 @@ generated:
 # Using Manipulatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 13 studies (4 causal, 3 quant-synthesis, 3 review, 3 associational), `q2`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 14 studies (5 causal, 3 quant-synthesis, 3 review, 3 associational), `q2`–`q4` · 3 of 14 report an effect size
 
 ## Description
 Manipulatives are physical objects — counters, base-10 blocks, fraction strips, pattern blocks, geoboards, algebra tiles — that learners handle to model and reason about mathematical concepts. They serve to introduce, practice, or remediate ideas across number, algebra, geometry, measurement, and data strands. Effective use requires making the manipulative's mathematical structure transparent, connecting it explicitly to symbols and language, and fading it as learners internalize the concept.
@@ -38,7 +38,7 @@ Manipulatives work as *symbols* for mathematical ideas, not as self-interpreting
 #### Implementation Variability
 - **Concrete–Representational–Abstract (CRA) sequencing**: manipulatives first, then drawings, then symbols — the most common structured adaptation
 - **Virtual manipulatives**: digital versions (e.g., Brainingcamp, The Math Learning Center apps) offer repeatability and annotation; evidence suggests comparable effects to physical objects when the pedagogy is the same [~W]
-- **Comparing multiple representations**: using two different manipulatives for the same concept supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparing multiple representations**: using two different manipulatives for the same concept supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Learner-created materials**: fraction strips students cut themselves can deepen the object–concept mapping
 
 ### Target Learners

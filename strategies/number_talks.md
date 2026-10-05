@@ -12,14 +12,14 @@ generated:
 # Number Talks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 A Number Talk is a 10–15 minute routine in which the teacher poses a computation problem (e.g., 18 × 5), students solve it mentally, and the teacher records and juxtaposes multiple student strategies. The goal is not the answer but the reasoning: students articulate, compare, and evaluate different solution paths, building number sense and flexible mental computation.
 
 ## Design Implications
 
-Number Talks operationalize [Active Learning](../principles/active-learning.md) in mathematics: students generate and explain strategies rather than reproduce a taught procedure, and explaining one's reasoning to peers improves conceptual understanding [Explaining reasoning improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Publicly recording several strategies creates contrasting cases that help students abstract underlying properties (e.g., the distributive property) rather than memorizing one method [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Because problems are solved mentally, the routine also constrains working-memory load by design — problems are chosen so that efficient decomposition or transformation strategies beat rote procedures [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Number Talks operationalize [Active Learning](../principles/active-learning.md) in mathematics: students generate and explain strategies rather than reproduce a taught procedure, and explaining one's reasoning to peers improves conceptual understanding [Explaining reasoning improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Publicly recording several strategies creates contrasting cases that help students abstract underlying properties (e.g., the distributive property) rather than memorizing one method [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Because problems are solved mentally, the routine also constrains working-memory load by design — problems are chosen so that efficient decomposition or transformation strategies beat rote procedures [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements

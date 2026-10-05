@@ -38,7 +38,7 @@ Formative feedback loops operationalize [Assessment for Learning](../principles/
 - **Teacher-to-learner:** instructor comments on drafts, conferences, whole-class feedback on common errors
 - **Peer loops:** structured [Peer Review](../elements/peer-review.md) with criteria; benefits reviewers as much as recipients [~M]
 - **Self-loops:** learners compare work to exemplars or rubrics, building self-assessment accuracy
-- **Automated loops:** adaptive platforms deliver immediate item-level feedback and adjust difficulty ([Adaptive Learning](../patterns/adaptive-learning.md))
+- **Automated loops:** adaptive platforms deliver immediate item-level feedback and adjust difficulty ([Adaptive Learning](../principles/adaptive-learning.md))
 
 ### Target Learners
 - Struggling learners benefit most from tight, frequent loops with high teacher involvement [+S]

@@ -68,7 +68,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)
 - [Immediate Feedback](immediate-feedback.md)
-- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md)
+- [Competency-Based Learning & Assessment](competency-based-assessment.md)
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 
 ## Examples

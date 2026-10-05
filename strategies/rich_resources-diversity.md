@@ -12,14 +12,14 @@ generated:
 # Rich Resources: Diversity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Rich Resources: Diversity means deliberately curating the texts, examples, cases, media, and expert voices used in instruction so that they represent a range of cultures, identities, disciplines, and viewpoints. Learners encounter both "mirrors" (materials reflecting their own experience) and "windows" (materials opening onto others' experience), which supports identity development, empathy, and more flexible conceptual understanding.
 
 ## Design Implications
 
-Diverse resources do their work through two mechanisms: representational (learners see themselves as capable participants in the domain, which supports belonging and motivation) and cognitive (contrasting perspectives and cases force learners to abstract underlying principles rather than overfitting to a single context) [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Diversity of source *type* matters as much as diversity of authorship — combining text, visual, and audio representations of the same content improves recall and retention [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
+Diverse resources do their work through two mechanisms: representational (learners see themselves as capable participants in the domain, which supports belonging and motivation) and cognitive (contrasting perspectives and cases force learners to abstract underlying principles rather than overfitting to a single context) [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Diversity of source *type* matters as much as diversity of authorship — combining text, visual, and audio representations of the same content improves recall and retention [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Diverse resources do their work through two mechanisms: representational (learne
 ### Target Learners
 - Learners from marginalized or underrepresented groups, who show stronger engagement and self-efficacy when the curriculum includes authentic representation of their communities [+M]
 - Majority-culture learners, who develop perspective-taking and reduced stereotyping through sustained contact with diverse materials and narratives [+M]
-- Advanced learners in ill-structured domains, who benefit from multiple contrasting cases and viewpoints [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Advanced learners in ill-structured domains, who benefit from multiple contrasting cases and viewpoints [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Identity and belonging: learners seeing themselves as legitimate participants in the discipline

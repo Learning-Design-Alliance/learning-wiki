@@ -95,7 +95,7 @@ A review of research on the cognitive and social processes of writing, conceptio
 - [Assessment for Learning Improves Achievement](assessment-for-learning-improves-achievement.md) — real audiences supply meaningful feedback that drives revision
 - [Case-Based Learning Improves Exam Performance](case-based-learning-improves-exam-performance.md) — authentic problems and audiences both situate work in real contexts
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
-- [Rubrics improve student work](rubrics-improve-student-work.md) — related
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related

@@ -127,7 +127,7 @@ Mindset interventions are best understood as small motivational levers, not stan
 
 **Brainology (MIND Research Institute)** — Dweck and Blackwell's computer-based curriculum teaching students how the brain forms new connections with practice; the intervention used in Blackwell, Trzesniewski & Dweck (2007), which reversed declining math grades among seventh graders relative to a study-skills control.
 
-**The National Study of Learning Mindsets (Yeager et al., 2019)** — A preregistered, nationally representative U.S. experiment (n ≈ 12,500 ninth graders) delivering two 25-minute online modules; lower-achieving students in the treatment completed advanced math courses at higher rates and showed modest GPA gains, demonstrating scalable delivery through [adaptive-learning](../patterns/adaptive-learning.md)-style online platforms.
+**The National Study of Learning Mindsets (Yeager et al., 2019)** — A preregistered, nationally representative U.S. experiment (n ≈ 12,500 ninth graders) delivering two 25-minute online modules; lower-achieving students in the treatment completed advanced math courses at higher rates and showed modest GPA gains, demonstrating scalable delivery through [adaptive-learning](adaptive-learning.md)-style online platforms.
 
 **Revision-oriented grading policies** — Course designs (common in writing-intensive programs such as first-year composition) that allow resubmission after feedback, making improvement — not first-attempt performance — the graded unit, and thereby aligning assessment with a malleable-ability message.
 

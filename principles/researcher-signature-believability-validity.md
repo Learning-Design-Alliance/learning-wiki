@@ -42,7 +42,7 @@ In narrative inquiry, the researcher must negotiate between representing the par
 
 ## Related Principles
 
-- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](avoid-appropriating-student-writing.md)
+- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](process-based-writing.md)
 - [Establish a viable trading point between life story giver and research taker through active collaboration](trading-point-between-story-giver-and-research-taker.md)
 - [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md)
 

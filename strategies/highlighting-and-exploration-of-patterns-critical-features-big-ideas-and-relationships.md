@@ -12,14 +12,14 @@ generated:
 # Highlighting and Exploration of Patterns, Critical Features, Big Ideas, and Relationships
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy directs learner attention to what matters most in a task, text, or domain — critical features, recurring patterns, underlying big ideas, and the relationships among them — rather than leaving learners to discover salience on their own. It is carried out through two complementary moves: *highlighting* (signaling, underlining, advance organizers, contrastive framing) and *exploration* (guided comparison of cases, pattern-finding prompts, self-explanation questions that push learners to articulate the structure themselves).
 
 ## Design Implications
 
-Novices cannot reliably distinguish deep structure from surface features, so unguided attention is often spent on salient-but-irrelevant details. Explicit signaling reduces extraneous processing by cueing what to attend to [Relevant emphasis directs attention and improves learning of the emphasized content.](../claims/relevancy-of-emphasis-directs-attention.md) [+M], and pre-organizing structures help learners map new information onto a coherent schema. Exploration matters as much as highlighting: comparing multiple contrasting cases before instruction helps learners abstract the invariant features that define a concept [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M], and prompting learners to explain patterns to themselves consolidates conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Novices cannot reliably distinguish deep structure from surface features, so unguided attention is often spent on salient-but-irrelevant details. Explicit signaling reduces extraneous processing by cueing what to attend to [Relevant emphasis directs attention and improves learning of the emphasized content.](../claims/relevancy-of-emphasis-directs-attention.md) [+M], and pre-organizing structures help learners map new information onto a coherent schema. Exploration matters as much as highlighting: comparing multiple contrasting cases before instruction helps learners abstract the invariant features that define a concept [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M], and prompting learners to explain patterns to themselves consolidates conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Novices cannot reliably distinguish deep structure from surface features, so ung
 ### Instructions
 1. Identify the critical features, patterns, and big ideas of the target content through task analysis before designing anything.
 2. Open with an [Advance Organizer](../elements/advance-organizers.md) that frames the big idea and the relationships learners should watch for.
-3. Present 2–3 contrasting cases side by side and ask learners what varies and what stays constant [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]; include [Non-Examples](../elements/non-examples.md) to sharpen discrimination.
+3. Present 2–3 contrasting cases side by side and ask learners what varies and what stays constant [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]; include [Non-Examples](../elements/non-examples.md) to sharpen discrimination.
 4. Signal critical features in materials — selective underlining, color, headings — rather than asking learners to highlight on their own [Experimenter-provided underlining is more effective than student self-underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M].
 5. Prompt [Self-Explanation](../elements/self-explanation.md): "Why does this work here? Where would it fail?"
 6. Connect the pattern back to the big idea explicitly, using [Analogies](../elements/analogies.md) where a familiar domain shares the same structure.

@@ -19,7 +19,7 @@ One learner briefly flashes a dot card (typically 2–3 seconds) to a partner, t
 
 ## Design Implications
 
-Dot Card Flash is a perceptual-fluency activity: the time limit converts a counting task into a quantity-recognition task, which is exactly the shift from counting-all to subitizing that marks early number-sense development [Clements, 1999]. Recreating the arrangement from memory adds a spatial-working-memory demand, and the reconstruction step provides immediate, self-checkable feedback because the two cards can be compared directly [feedback is most effective at task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because quantities are presented as structured visual patterns rather than numerals, the activity also supports dual coding of number concepts [dual coding improves recall](../claims/dual-coding-improves-recall.md) [+M].
+Dot Card Flash is a perceptual-fluency activity: the time limit converts a counting task into a quantity-recognition task, which is exactly the shift from counting-all to subitizing that marks early number-sense development [Clements, 1999]. Recreating the arrangement from memory adds a spatial-working-memory demand, and the reconstruction step provides immediate, self-checkable feedback because the two cards can be compared directly [feedback is most effective at task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because quantities are presented as structured visual patterns rather than numerals, the activity also supports dual coding of number concepts [dual coding improves recall](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

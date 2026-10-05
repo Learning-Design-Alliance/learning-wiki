@@ -12,14 +12,14 @@ generated:
 # Mentor Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 A mentor text is a short, high-quality exemplar — a published essay, poem, lab report, code snippet, or student-written piece — that learners study closely to understand how a particular craft move works before attempting it in their own work. The strategy treats the text as a coach rather than a content source: learners read like writers, identifying techniques, structures, and stylistic choices they can borrow. Instruction typically follows a cycle of reading, noticing, imitation, and independent application.
 
 ## Design Implications
 
-Mentor texts are demonstrations of craft rather than content, and their effectiveness depends on making the expert's choices visible through guided noticing and annotation [Example-based learning benefits from integrating cognitive and social-cognitive perspectives.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Imitation of a model followed by independent application outperforms either reading or instruction alone for writing skill [Explicit strategy instruction combined with modeling improves writing quality.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. Studying multiple contrasting mentor texts supports abstraction of the underlying technique rather than surface imitation [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Mentor texts are demonstrations of craft rather than content, and their effectiveness depends on making the expert's choices visible through guided noticing and annotation [Example-based learning benefits from integrating cognitive and social-cognitive perspectives.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Imitation of a model followed by independent application outperforms either reading or instruction alone for writing skill [Explicit strategy instruction combined with modeling improves writing quality.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. Studying multiple contrasting mentor texts supports abstraction of the underlying technique rather than surface imitation [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 
 #### Constraints
 - Imitation without guided noticing produces surface copying rather than transfer of technique [-M]
-- A single mentor text can anchor learners to one structure or voice; contrasting multiple texts reduces this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- A single mentor text can anchor learners to one structure or voice; contrasting multiple texts reduces this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Texts far above learners' reading level consume working memory on comprehension, leaving little for craft analysis [-M]
 - For learners already skilled in a genre, additional exemplar study adds little and may feel redundant [Guidance becomes less effective as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 
@@ -57,7 +57,7 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 2. Read it aloud or have learners read it once for meaning before any craft analysis.
 3. Model noticing with a [Think-Aloud](../elements/think-aloud.md): reread passages and name what the author is doing and why ("Notice how this sentence is short — it lands the point").
 4. Have learners annotate the text themselves, marking craft moves ([Annotating](../principles/annotating.md)), and discuss findings as a class.
-5. Optionally show a second, contrasting mentor handling the same move differently to support abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+5. Optionally show a second, contrasting mentor handling the same move differently to support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 6. Assign an imitation task: learners try the move in their own piece, then share and compare against the mentor.
 7. Return to the same mentor across the unit as learners revise ([Practice](../elements/practice.md) with revisiting deepens internalization).
 

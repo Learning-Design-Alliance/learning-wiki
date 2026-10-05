@@ -12,14 +12,14 @@ generated:
 # Bolster Credibility
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Bolster Credibility is a media-literacy strategy centered on a single diagnostic question: did the writer or speaker engage with anyone who disagrees? A credible source calls the senator whose legislation it criticizes, presents the strongest version of the opposing argument, and lets a challenged guest actually answer. Learners use this criterion both to evaluate sources they consume and to strengthen their own arguments — wrestling with opposing views is a service to the reader and typically improves the argument itself.
 
 ## Design Implications
 
-The strategy exploits the contrast between genuine engagement and strawman representation: learners who compare how a source treats its critics develop a transferable heuristic for source evaluation that goes beyond surface cues like design or tone. Presenting contrasting positions side by side supports abstraction of what "fair treatment of disagreement" looks like [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. However, exposure to opposing views alone does not guarantee open-mindedness — people assimilate counterattitudinal information in biased ways, interpreting ambiguous evidence as supporting their prior position [~S]. Structured prompts to articulate the opposing case, rather than merely reading it, are what convert exposure into understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+The strategy exploits the contrast between genuine engagement and strawman representation: learners who compare how a source treats its critics develop a transferable heuristic for source evaluation that goes beyond surface cues like design or tone. Presenting contrasting positions side by side supports abstraction of what "fair treatment of disagreement" looks like [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. However, exposure to opposing views alone does not guarantee open-mindedness — people assimilate counterattitudinal information in biased ways, interpreting ambiguous evidence as supporting their prior position [~S]. Structured prompts to articulate the opposing case, rather than merely reading it, are what convert exposure into understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

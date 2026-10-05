@@ -19,7 +19,7 @@ Cross-curricular art integration embeds artistic production — drawing, paintin
 
 ## Design Implications
 
-Art integration works when the artistic task forces learners to represent, transform, or argue about the target content, which supports dual coding and generative processing [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. It fails when the art is decorative — a poster about a topic learners already understood adds production cost without learning benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Claims that arts instruction broadly raises achievement in other subjects are weakly supported; causal transfer from arts study to general academic gains has largely not survived rigorous review [~W], so integration should be justified by learning *within* the target subject, not by promised spillover.
+Art integration works when the artistic task forces learners to represent, transform, or argue about the target content, which supports dual coding and generative processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. It fails when the art is decorative — a poster about a topic learners already understood adds production cost without learning benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M]. Claims that arts instruction broadly raises achievement in other subjects are weakly supported; causal transfer from arts study to general academic gains has largely not survived rigorous review [~W], so integration should be justified by learning *within* the target subject, not by promised spillover.
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Art integration works when the artistic task forces learners to represent, trans
 ### Target Learning Goals
 - Conceptual understanding through re-representation (drawing a process requires decomposing it)
 - Disciplinary literacy: reading images, music, and artifacts as evidence
-- Retention of content through dual coding [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Retention of content through dual coding [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Transfer and connection-making across disciplines [~W]
 
 ### Instructions

@@ -40,7 +40,7 @@ Drawn from design-studies literature (Schön's reflective practice, Dorst's prob
 - (none yet linked)
 
 ## Examples
-- [Reflective Practice](../patterns/reflective-practice.md) — designerly stances extends reflective practice specifically toward how problems of practice are framed, not only how past actions are reviewed
+- [Reflective Practice](../principles/reflection.md) — designerly stances extends reflective practice specifically toward how problems of practice are framed, not only how past actions are reviewed
 
 ## Key Sources
 - Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S. (2024). Reframing design in education: Proposing a framework to support pre-service teachers in adopting designerly stances. *Journal of the Learning Sciences, 33*(4-5), 613-666. [https://doi.org/10.1080/10508406.2024.2397762](https://doi.org/10.1080/10508406.2024.2397762)

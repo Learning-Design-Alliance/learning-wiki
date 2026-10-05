@@ -60,7 +60,7 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 ### Claims
 #### Supporting
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
@@ -84,7 +84,7 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 - [Communities of Practice](../principles/communities-of-practice.md)
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
-- [Mentoring/Coaching](../principles/mentoringcoaching.md)
+- [Mentoring/Coaching](../principles/mentoring-and-coaching.md)
 
 ### Personalization
 - Learners can contribute different strengths, backgrounds, and inquiry responsibilities.

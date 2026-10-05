@@ -30,7 +30,7 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 - Support applied analysis, judgment, and discussion.
 
 ### Affordances
-- [Case Studies/Case-based Learning](../principles/case-studiescase-based-learning.md)
+- [Case Studies/Case-based Learning](../patterns/case-based-learning.md)
 - [Constructivist Learning](../principles/constructivism.md)
 
 ### Claims

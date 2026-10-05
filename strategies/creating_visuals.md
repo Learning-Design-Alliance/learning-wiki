@@ -12,7 +12,7 @@ generated:
 # Creating Visuals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Creating Visuals asks learners to generate their own visual representations — diagrams, sketches, concept maps, infographics, storyboards — of the content they are studying, rather than only viewing instructor-provided graphics. The act of constructing a visual forces learners to select, organize, and integrate information, making it a generative learning activity rather than a passive one.
@@ -47,7 +47,7 @@ Student-generated visuals are effective because drawing requires translating ver
 
 ### Target Learning Goals
 - Conceptual understanding of systems, processes, and relationships [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
-- Abstraction: comparing multiple student visuals or contrasting cases supports generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction: comparing multiple student visuals or contrasting cases supports generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Communication: translating understanding into a form others can read
 
 ### Instructions

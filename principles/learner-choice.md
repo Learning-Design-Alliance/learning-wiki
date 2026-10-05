@@ -71,7 +71,7 @@ Learner choice improves motivation and ownership when the options are meaningful
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — choice becomes more effective when learners also set goals and monitor progress.
 - [Flexible Grouping](flexible-grouping.md) — choice can include partner, role, or grouping structures.
-- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
+- [Competency-Based Learning & Assessment](competency-based-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
 - [Inquiry-based Learning](inquiry-based-learning.md) — inquiry often incorporates bounded choice around questions, methods, or products.
 
 ## Examples

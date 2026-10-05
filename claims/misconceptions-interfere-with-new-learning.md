@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Misconceptions Interfere With New Learning
+title: "Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,18 +28,21 @@ sources:
     rigour: "?"
 ---
 
-# Misconceptions Interfere With New Learning
+# Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3`–`q4`
+<!-- deprecated title (2026-10-05, overstated its evidence): Misconceptions Interfere With New Learning -->
 
-Pre-existing misconceptions — coherent but incorrect mental models — can interfere with the acquisition of accurate new knowledge, particularly when learners fail to recognize the conflict between their prior beliefs and the to-be-learned content.
+The two syntheses recorded here (a meta-analysis and a review, both of science and reading-education studies, both read from abstracts) find that interventions which deliberately confront learners' misconceptions, by producing conceptual conflict or by refuting the misconception explicitly in text, are more likely to produce conceptual change than standard expository instruction. Neither measures interference itself; that pre-existing misconceptions — coherent but incorrect mental models — interfere with acquiring accurate new knowledge is the theoretical reading of these results, not something the entries test directly.
+
+<!-- deprecated opening (2026-10-05, stated the mechanism as the finding): Pre-existing misconceptions — coherent but incorrect mental models — can interfere with the acquisition of accurate new knowledge, particularly when learners fail to recognize the conflict between their prior beliefs and the to-be-learned content. -->
 
 ## Subclaims
 
-`q4 i?` A quantitative synthesis of experimental and quasi-experimental science/reading-education interventions found that standard exposition alone rarely dislodges learners' misconceptions, while interventions that provoke conceptual conflict were consistently more effective — implying the misconceptions actively resist ordinary instruction. [→ Guzzetti et al. 1993](#guzzetti-et-al-1993)
+`q4 i?` A quantitative synthesis of experimental and quasi-experimental science/reading-education interventions reported that the interventions that worked shared a common element of producing conceptual conflict; read from the abstract, which reports no pooled effect size. <!-- deprecated (2026-10-05, went beyond the abstract): found that standard exposition alone rarely dislodges learners' misconceptions, while interventions that provoke conceptual conflict were consistently more effective — implying the misconceptions actively resist ordinary instruction. --> [→ Guzzetti et al. 1993](#guzzetti-et-al-1993)
 
-`q3 i?` A two-decade review of refutation-text research (text that explicitly states a common misconception and then refutes it) found that students who read refutation text were consistently more likely to achieve conceptual change than students who read traditional expository text on the same topic, indicating that simply presenting correct information does not by itself overcome a pre-existing misconception. [→ Tippett 2010](#tippett-2010)
+`q3 i?` A two-decade review of refutation-text research (text that explicitly states a common misconception and then refutes it) found that students who read refutation text were consistently more likely to achieve conceptual change than students who read traditional expository text on the same topic, which is consistent with, though it does not directly measure, misconceptions resisting the simple presentation of correct information. [→ Tippett 2010](#tippett-2010)
 
 ## Evidence
 

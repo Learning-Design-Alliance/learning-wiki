@@ -19,7 +19,7 @@ generated:
 
 ## Design Implications
 
-The film works as a compact, information-dense case that lets learners observe a full deliberation arc — something rarely visible in real group work — making it a powerful anchor for case analysis [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Because the narrative dramatizes how a lone dissenting minority changes group opinion, it gives learners concrete material for reasoning about argument quality versus social pressure. Structured discussion of the film also functions as narrative-based perspective taking, supporting empathy for the defendant and for jurors with different backgrounds [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M].
+The film works as a compact, information-dense case that lets learners observe a full deliberation arc — something rarely visible in real group work — making it a powerful anchor for case analysis [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Because the narrative dramatizes how a lone dissenting minority changes group opinion, it gives learners concrete material for reasoning about argument quality versus social pressure. Structured discussion of the film also functions as narrative-based perspective taking, supporting empathy for the defendant and for jurors with different backgrounds [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M].
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ The film works as a compact, information-dense case that lets learners observe a
 - Argument analysis: distinguishing evidence-based claims from assertion and prejudice
 - Social influence: understanding conformity, minority influence, and coalition dynamics
 - Bias awareness: recognizing confirmation bias, stereotyping, and anchoring in reasoning
-- Perspective taking and empathy toward decision participants [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Perspective taking and empathy toward decision participants [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 
 ### Instructions
 1. Assign background on jury deliberation or group decision-making, and activate relevant prior knowledge ([Activation](../elements/activation.md)).

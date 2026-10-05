@@ -12,7 +12,7 @@ generated:
 # Emotion Charades
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Emotion Charades is a drama-based activity in which one student acts out a scenario or emotion nonverbally while peers guess the emotion being portrayed. The guessing phase is followed by discussion of the cues (facial expression, posture, tone of gesture) that revealed the emotion, building emotional vocabulary, emotion recognition, and awareness of emotional triggers.
@@ -36,7 +36,7 @@ Emotion recognition is a foundational component of social-emotional competence, 
 
 #### Implementation Variability
 - **Emotion-only rounds** (act *surprised*) for younger students; **scenario rounds** (act out "you dropped your ice cream") to connect emotions to triggers
-- **Contrasting pairs**: two actors portray closely related emotions simultaneously, and the group identifies the difference — a direct application of contrasting-case design [multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting pairs**: two actors portray closely related emotions simultaneously, and the group identifies the difference — a direct application of contrasting-case design [multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Cultural extension**: discuss how the same emotion is expressed differently across cultures and contexts, guarding against the assumption that nonverbal cues are universal [~M]
 - **Digital adaptation**: students photograph or record posed expressions for a class "emotion gallery," useful for students reluctant to perform live
 

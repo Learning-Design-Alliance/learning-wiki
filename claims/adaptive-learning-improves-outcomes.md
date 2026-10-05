@@ -77,7 +77,6 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Feedback improves learning](../elements/assessment.md) — adaptive feedback delivery is a common implementation of adaptation
 - [Adaptive learning](../principles/adaptive-learning.md) — the design principle this claim evaluates empirically
 - [Adaptive difficulty](../elements/adaptive-difficulty.md) — difficulty adjustment is the most common adaptation target in practice
-- [Adaptive learning](../patterns/adaptive-learning.md) — the pattern-level implementation of adaptive sequencing
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related

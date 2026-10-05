@@ -44,8 +44,7 @@ A practice-to-theory article (the authors' own term), not a review of its own: i
 
 ## Related Claims
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
 - [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related

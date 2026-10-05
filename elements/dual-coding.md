@@ -25,7 +25,7 @@ Dual coding is the element in which verbal and visual representations are used t
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+S]
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+S]
 - [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 
 ## Related Elements

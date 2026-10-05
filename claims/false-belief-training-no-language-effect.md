@@ -44,4 +44,4 @@ This is a second-hand citation narrated in the article's discussion of whether T
 
 ## Related Claims
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
-- [Reading Literary Fiction Improves Theory Of Mind](reading-literary-fiction-improves-theory-of-mind.md) — related
+- [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related

@@ -24,7 +24,7 @@ sources:
 # Define and Apply Ethical Responsibility
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (6 quant-synthesis, 3 causal, 1 design), `q2`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (6 quant-synthesis, 4 causal), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 This strategy has two halves that must both be present. **Defining**: making explicit what obligations a domain places on someone acting within it — what a researcher owes participants, a developer owes users, a clinician owes patients, a student owes the people whose work they cite. **Applying**: putting learners into concrete cases where those obligations conflict with each other or with self-interest, and requiring a decision with reasons. The definition alone produces learners who can recite a code; the application is where the learning is, because the difficulty in practice is almost never ignorance of the principle but failure to notice that it applies.
@@ -33,7 +33,7 @@ This strategy has two halves that must both be present. **Defining**: making exp
 
 Rest's four-component model is the most useful frame for design, because it separates what an ethics activity can actually target. Acting ethically requires *sensitivity* (noticing that a situation has an ethical dimension), *judgement* (deciding which action is right), *motivation* (prioritizing the ethical over competing values), and *implementation* (carrying it through). Most classroom ethics instruction targets judgement, which is the component least often responsible for failure — professionals who behave badly usually did not deliberate wrongly, they did not notice, or noticed and were outweighed. Cases designed so the ethical dimension is announced train judgement; cases where the ethical issue is embedded in an ordinary technical problem train sensitivity, which is the harder and more transferable target.
 
-The applying half works largely through argument. Requiring learners to construct and defend a position, and to engage with a genuinely opposed one, improves reasoning quality [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M], and structured disagreement formats outperform open discussion for this [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+M]. Perspective-taking on the affected party is the other active ingredient [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M].
+The applying half works largely through argument. Requiring learners to construct and defend a position, and to engage with a genuinely opposed one, improves reasoning quality [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M], and structured disagreement formats outperform open discussion for this [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]. Perspective-taking on the affected party is the other active ingredient [Building Empathy Improves Intergroup Attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M].
 
 ### Context
 #### Requirements

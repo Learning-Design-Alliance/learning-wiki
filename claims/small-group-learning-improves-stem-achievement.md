@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Small Group Learning Improves STEM Achievement
+title: "Small-group learning improves undergraduate STEM achievement"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,12 +19,14 @@ sources:
     rigour: 2
 ---
 
-# Small Group Learning Improves STEM Achievement
+# Small-group learning improves undergraduate STEM achievement
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=39 studies (49 independent samples)
+<!-- deprecated title (2026-10-05, overstated its evidence): Small Group Learning Improves STEM Achievement -->
 
-Learners working in small structured groups show higher achievement in science, technology, engineering, and mathematics than learners in whole-class or individual formats. The claim applies to *structured* small group learning — groups organized with positive interdependence, individual accountability, and explicit roles — not to grouping per se.
+Undergraduates working in small groups in science, mathematics, engineering and technology courses show higher achievement than those taught without cooperative or collaborative grouping. The one recorded meta-analysis covers North American postsecondary studies only, and compares small-group instruction with non-group instruction without separating structured from unstructured groups; that structure (positive interdependence, individual accountability, explicit roles) is what matters is argued in the Discussion, not shown by that entry.
+<!-- deprecated (2026-10-05, overstated its evidence): Learners working in small structured groups show higher achievement in science, technology, engineering, and mathematics than learners in whole-class or individual formats. The claim applies to *structured* small group learning — groups organized with positive interdependence, individual accountability, and explicit roles — not to grouping per se. -->
 
 ## Subclaims
 
@@ -54,7 +56,8 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 
 **Accountability failure modes.** Free-riding and status-based participation gaps are the best-documented ways structured grouping fails to deliver gains: when individual accountability is absent, stronger students may do the work while weaker students disengage, producing no net achievement benefit and sometimes widening gaps. Designs that assign roles, require individual deliverables, or use techniques like [jigsaw](../strategies/jigsaw-classroom.md) directly target these failure modes.
 
-**Open questions.** The evidence base for this claim still needs to be populated with specific meta-analytic and experimental studies, including their effect sizes, sample sizes, and boundary conditions. Until then, treat the claim as a broad directional hypothesis rather than a calibrated effect.
+**Open questions.** One meta-analysis is recorded (Springer et al. 1999: 39 undergraduate studies, d = 0.51, larger when the investigator was the instructor and at four-year institutions). Still missing: school-age STEM studies, studies after the 1990s, and comparisons of structured with unstructured groups.
+<!-- deprecated (2026-10-05, stale beside a recorded entry): **Open questions.** The evidence base for this claim still needs to be populated with specific meta-analytic and experimental studies, including their effect sizes, sample sizes, and boundary conditions. Until then, treat the claim as a broad directional hypothesis rather than a calibrated effect. -->
 
 ## Related Claims
 
@@ -67,8 +70,7 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — a broader claim this one bears on
 - [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
-- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
-- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — a narrower finding that bears on this claim
 - [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-meta-analysis-higher-achievement.md) — related

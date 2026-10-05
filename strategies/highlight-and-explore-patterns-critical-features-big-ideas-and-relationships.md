@@ -12,14 +12,14 @@ generated:
 # Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 7 studies (3 causal, 3 review, 1 quant-synthesis), `q2`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 8 studies (4 causal, 3 review, 1 quant-synthesis), `q2`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy directs learner attention to the features, patterns, and organizing ideas that matter most for the learning goal, and makes relationships between concepts explicit. It combines *signaling* (visual or verbal cues that mark critical information) with *guided exploration* (activities in which learners compare cases, trace patterns, and articulate how ideas connect). The aim is coherent schema construction rather than accumulation of isolated facts.
 
 ## Design Implications
 
-Attention is the scarcest resource in learning: learners attend to what is salient, not necessarily to what is important. Explicit cues that mark critical features improve selective attention and learning, especially when material is complex or the goal is not obvious [Relevancy of emphasis directs attention to cued information.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. But highlighting alone is passive; the exploration half of the strategy — comparing multiple cases that vary systematically — is what drives abstraction of the underlying pattern [Multiple contrasting cases support abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Signaling also manages extraneous load by reducing the need to search for structure [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Attention is the scarcest resource in learning: learners attend to what is salient, not necessarily to what is important. Explicit cues that mark critical features improve selective attention and learning, especially when material is complex or the goal is not obvious [Relevancy of emphasis directs attention to cued information.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. But highlighting alone is passive; the exploration half of the strategy — comparing multiple cases that vary systematically — is what drives abstraction of the underlying pattern [Multiple contrasting cases support abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Signaling also manages extraneous load by reducing the need to search for structure [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Attention is the scarcest resource in learning: learners attend to what is salie
 ### Target Learning Goals
 - Concept formation: discriminating defining features from surface features
 - Knowledge organization: building relational schemas and seeing "big ideas" that unify topics
-- Transfer: abstracting deep structure that applies across contexts [Multiple contrasting cases support abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer: abstracting deep structure that applies across contexts [Multiple contrasting cases support abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the 2–4 critical features or big ideas the goal depends on; cut everything else from the cueing layer.

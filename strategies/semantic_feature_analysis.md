@@ -12,14 +12,14 @@ generated:
 # Semantic Feature Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Semantic Feature Analysis (SFA) is a vocabulary and comprehension strategy in which learners complete a grid: related concepts (or words) form the rows, and features or properties form the columns. Learners mark each cell (+/−, or a continuum) to indicate whether the feature applies, then discuss and justify their markings. The grid makes the semantic relationships among a word set explicit and forces learners to attend to fine-grained distinctions between similar concepts.
 
 ## Design Implications
 
-SFA works because it requires learners to compare and contrast related concepts systematically, supporting abstraction of shared and distinguishing features [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Completing the grid also activates prior knowledge before new content is encountered [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. The discussion phase — where learners defend contested cells — is where much of the learning occurs; grids completed silently and never discussed produce weaker gains.
+SFA works because it requires learners to compare and contrast related concepts systematically, supporting abstraction of shared and distinguishing features [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Completing the grid also activates prior knowledge before new content is encountered [Activation improves learning.](../claims/activation-improves-learning.md) [+M]. The discussion phase — where learners defend contested cells — is where much of the learning occurs; grids completed silently and never discussed produce weaker gains.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ SFA works because it requires learners to compare and contrast related concepts 
 - **Digital grids:** collaborative spreadsheets allow simultaneous completion and visible disagreement, which fuels discussion
 
 ### Target Learners
-- Elementary and adolescent readers building domain vocabulary (science, social studies) [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Elementary and adolescent readers building domain vocabulary (science, social studies) [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - English language learners, for whom the grid makes connotation and collocational distinctions visible [~M]
 - Students with learning disabilities benefit when the grid is teacher-constructed and analysis is modeled [~W]
 

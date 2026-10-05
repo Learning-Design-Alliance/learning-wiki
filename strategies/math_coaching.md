@@ -12,7 +12,7 @@ generated:
 # Math Coaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (6 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies (6 quant-synthesis, 5 causal, 2 review, 1 associational), `q2`–`q4` · 6 of 14 report an effect size
 
 ## Description
 Math Coaching is a peer-mediated strategy in which small groups of learners work together to solve word problems. One learner reads a word problem aloud while the others act as "math coaches," advising on which mathematical operation to use, underlining key words in the problem, and confirming the choice by "flashing" an operation flashcard. Roles rotate so every learner alternates between solver and coach.
@@ -38,7 +38,7 @@ Math Coaching converts word-problem practice into structured peer tutoring, comb
 #### Implementation Variability
 - Pairs instead of small groups, with stronger solver–coach reciprocity
 - Written justification variant: coaches record *why* the operation fits before flashing the card
-- Schema-broadening variant: mix in problems where key words are absent or misleading to prevent over-reliance on cue matching; contrasting such cases side by side supports abstraction of the underlying structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Schema-broadening variant: mix in problems where key words are absent or misleading to prevent over-reliance on cue matching; contrasting such cases side by side supports abstraction of the underlying structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Fading variant: begin with the full cueing script and flashcards, then withdraw the flashcards and written cues as groups internalize the routine [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 - Digital variant: shared documents replace flashcards, with coaches annotating the problem text directly ([Annotating](../principles/annotating.md))
 

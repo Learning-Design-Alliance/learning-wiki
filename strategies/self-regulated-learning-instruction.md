@@ -39,7 +39,7 @@ SRL instruction works best when strategy teaching is embedded in authentic subje
 - **Embedded modeling:** instructor narrates regulatory decisions while working a task (most common in K-12)
 - **Strategy instruction sequences:** teach a specific strategy (e.g., summarization, self-questioning), model it, guide practice, fade support
 - **Reflective portfolios / learning journals:** periodic structured self-evaluation against criteria
-- **Technology-supported SRL:** dashboards and prompts in learning platforms that cue planning and monitoring (e.g., [Adaptive Learning](../patterns/adaptive-learning.md) systems with visible progress data)
+- **Technology-supported SRL:** dashboards and prompts in learning platforms that cue planning and monitoring (e.g., [Adaptive Learning](../principles/adaptive-learning.md) systems with visible progress data)
 
 ### Target Learners
 - Struggling learners and low achievers benefit most; they typically lack strategies that higher achievers acquired informally [+S]

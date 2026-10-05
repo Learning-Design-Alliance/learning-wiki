@@ -12,14 +12,14 @@ generated:
 # Through the Eyes of the People in a Story
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (4 causal, 4 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (5 causal, 4 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Learners select a character from a short story or novel and retell or re-enact the main events from that character's point of view, articulating the character's thoughts, emotions, and perceptions of other characters and events. The strategy combines close reading, reflective writing, and role-play or presentation, converting narrative comprehension into perspective-taking work. It is carried out through individual reflection on the chosen character, structured discussion with peers who adopted other characters, and optional in-character performance.
 
 ## Design Implications
 
-Perspective-taking tasks deepen narrative comprehension by requiring learners to build a causal model of a character's motivations rather than merely tracking plot events, and reading literary fiction has been linked to improved theory-of-mind performance [Kidd & Castano's literary fiction finding.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The strategy also functions as an empathy intervention: sustained engagement with characters' inner lives supports empathy and perspective-taking gains, particularly when learners must articulate rather than merely infer those inner states [Fiction reading is associated with empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [+M]. Because learners must justify their interpretation from textual evidence, the activity doubles as a [Self-Explanation](../elements/self-explanation.md) task [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Perspective-taking tasks deepen narrative comprehension by requiring learners to build a causal model of a character's motivations rather than merely tracking plot events, and reading literary fiction has been linked to improved theory-of-mind performance [Kidd & Castano's literary fiction finding.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. The strategy also functions as an empathy intervention: sustained engagement with characters' inner lives supports empathy and perspective-taking gains, particularly when learners must articulate rather than merely infer those inner states [Fiction reading is associated with empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]. Because learners must justify their interpretation from textual evidence, the activity doubles as a [Self-Explanation](../elements/self-explanation.md) task [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -32,7 +32,7 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 - Learners frequently impose their own values and biases on the character, producing projection rather than perspective-taking; without evidence-based prompts the exercise can reinforce rather than challenge existing assumptions [~M]
 - Weak readers may lack the comprehension baseline needed to model a character's mental states, causing the task to collapse into plot summary [-M]
 - Empathy gains from a single session are fragile; effects on dispositional empathy require repeated engagement across texts [~W]
-- If all learners choose the same protagonist, the contrasting-perspectives discussion — the mechanism driving abstraction about the story — is lost [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- If all learners choose the same protagonist, the contrasting-perspectives discussion — the mechanism driving abstraction about the story — is lost [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 
 #### Implementation Variability
 - Written form: in-character diary, letter, or interior monologue (lower-risk, suitable for introverts and large classes)
@@ -47,7 +47,7 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 
 ### Target Learning Goals
 - Narrative comprehension: causal modeling of character motivation and theme
-- Perspective-taking and empathy: adopting and articulating another's viewpoint [Fiction reading is associated with empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Perspective-taking and empathy: adopting and articulating another's viewpoint [Fiction reading is associated with empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 - Textual evidence use: grounding interpretation in specific passages [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Oral communication and discussion skills
 

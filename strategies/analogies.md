@@ -12,14 +12,14 @@ generated:
 # Analogies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 An analogies strategy introduces a new or abstract concept by explicitly comparing it to a familiar one, mapping the shared structure between the two ("an atom is like a solar system: the nucleus is the sun, the electrons are the planets"). The comparison functions as an [advance organizer](../elements/advance-organizers.md), giving learners a familiar schema into which new information can be integrated rather than memorized in isolation. Effective use goes beyond stating the comparison — it makes the mapping explicit, identifies where the analogy breaks down, and prompts learners to reason with it.
 
 ## Design Implications
 
-Analogies work because they activate relevant prior knowledge and let learners reuse an existing mental model instead of building one from scratch, reducing the working-memory burden of interpreting unfamiliar material [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their benefit depends on structural alignment: learners gain most when the deep relations between source and target are mapped explicitly, not just surface features [Analogical comparison supports abstraction of shared structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Prompting learners to explain the mapping themselves strengthens the resulting understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Analogies work because they activate relevant prior knowledge and let learners reuse an existing mental model instead of building one from scratch, reducing the working-memory burden of interpreting unfamiliar material [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Their benefit depends on structural alignment: learners gain most when the deep relations between source and target are mapped explicitly, not just surface features [Analogical comparison supports abstraction of shared structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Prompting learners to explain the mapping themselves strengthens the resulting understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

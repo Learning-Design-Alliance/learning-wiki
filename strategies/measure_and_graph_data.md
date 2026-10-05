@@ -12,14 +12,14 @@ generated:
 # Measure and Graph Data
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 quant-synthesis, 3 causal, 3 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 quant-synthesis, 4 causal, 3 review, 1 associational), `q2`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners gather quantitative data through direct measurement — timing, counting, weighing, sensing — and then represent the data in tables and graphs to reveal patterns, relationships, and anomalies. The strategy treats measurement and graphing not as reporting chores but as sense-making activities: deciding *what* to measure forces operationalization of concepts, and constructing a graph forces decisions about scale, axes, and relationships that surface underlying structure.
 
 ## Design Implications
 
-Measurement grounds abstract concepts in observable quantities, and graphing externalizes relationships so learners can inspect them rather than hold them in working memory [Chunking reduces the load on working memory.](../claims/chunking-reduces-working-memory-load.md) [+M]. Learning gains depend on learners actively interpreting the graph — predicting, comparing, explaining — rather than only producing it; prompting [Self-Explanation](../elements/self-explanation.md) during graph interpretation improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Graph construction is itself a skill with known misconceptions (e.g., treating height as the only salient feature of a bar), so instruction should include [Non-Examples](../elements/non-examples.md) and [Comparing Cases](../elements/comparing-cases.md) [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Measurement grounds abstract concepts in observable quantities, and graphing externalizes relationships so learners can inspect them rather than hold them in working memory [Chunking reduces the load on working memory.](../claims/chunking-reduces-working-memory-load.md) [+M]. Learning gains depend on learners actively interpreting the graph — predicting, comparing, explaining — rather than only producing it; prompting [Self-Explanation](../elements/self-explanation.md) during graph interpretation improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Graph construction is itself a skill with known misconceptions (e.g., treating height as the only salient feature of a bar), so instruction should include [Non-Examples](../elements/non-examples.md) and [Comparing Cases](../elements/comparing-cases.md) [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -55,7 +55,7 @@ Measurement grounds abstract concepts in observable quantities, and graphing ext
 2. Have learners decide what to measure and how — operationalizing variables is where conceptual work happens
 3. Collect measurements, ideally with real-time graphing so the representation builds alongside the data
 4. Prompt interpretation with [Self-Explanation](../elements/self-explanation.md): "Why does the curve flatten here?" "What does the slope mean?"
-5. Compare graphs across groups or conditions to support abstraction of the underlying relationship [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+5. Compare graphs across groups or conditions to support abstraction of the underlying relationship [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 6. Provide [Feedback](../elements/feedback.md) focused on interpretation and graph-choice reasoning, not just correctness of plotted points [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies

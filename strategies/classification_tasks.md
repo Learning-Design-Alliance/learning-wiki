@@ -12,14 +12,14 @@ generated:
 # Classification Tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Classification tasks ask learners to sort objects, examples, or concepts into categories based on shared properties, and to justify the criteria they used. Learners may develop their own classification schemes or apply a given one, working from binary sorts up to multi-level classification trees. Because learners must attend to features, compare cases, and defend boundaries, classification is fundamentally an inductive activity: the category structure is constructed from evidence rather than delivered as a definition.
 
 ## Design Implications
 
-Classification tasks build conceptual structure through comparison. Contrasting multiple cases — especially cases that differ on only one dimension — helps learners abstract the underlying features that define a category [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Requiring learners to explain *why* an item belongs in a category converts sorting from a mechanical exercise into self-explanation, which improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Sorting also functions as chunking: grouping items under a category label reduces the number of separate elements learners must hold in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Classification tasks build conceptual structure through comparison. Contrasting multiple cases — especially cases that differ on only one dimension — helps learners abstract the underlying features that define a category [Comparing multiple contrasting cases supports abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Requiring learners to explain *why* an item belongs in a category converts sorting from a mechanical exercise into self-explanation, which improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Sorting also functions as chunking: grouping items under a category label reduces the number of separate elements learners must hold in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -60,7 +60,7 @@ Classification tasks build conceptual structure through comparison. Contrasting 
 6. Assess with novel items: can learners classify examples they have never seen and justify the placement?
 
 ## Related Strategies
-- [Case Studies](../principles/case-studiescase-based-learning.md) — extended classification of a single rich instance rather than many small ones
+- [Case Studies](../patterns/case-based-learning.md) — extended classification of a single rich instance rather than many small ones
 - [Comparing Cases](../elements/comparing-cases.md) — the comparison mechanism that makes classification tasks build abstractions
 
 ## Examples

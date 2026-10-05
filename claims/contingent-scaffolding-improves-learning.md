@@ -19,7 +19,7 @@ sources:
     resource: "https://doi.org/10.1207/s15516709cog2504_1"
     title: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)"
     author: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G."
-    q: 3
+    q: 2
     i: "?"
     n: 11 tutor-student pairs
     kind: causal
@@ -58,7 +58,7 @@ evidence_strength: moderate
 # Contingent scaffolding improves learning more than fixed or absent support.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 5 studies · 2 causal `r1`, 1 quant-synthesis `r?`, 1 review `r2`, 1 qualitative `r?` · `q3`–`q4`
+> **Evidence** · 5 studies · 2 causal `r1`, 1 quant-synthesis `r?`, 1 review `r2`, 1 qualitative `r?` · `q2`–`q4`
 
 Contingent scaffolding adjusts the type and level of support in real time based on the learner's demonstrated understanding, rather than providing a fixed or predetermined sequence of help. Evidence supports this approach over non-contingent or no support, though the evidence base is small and the mechanism is contested.
 
@@ -66,7 +66,7 @@ Contingent scaffolding adjusts the type and level of support in real time based 
 
 `q3 i?` Students receiving fully contingent tutoring (support level adjusted responsively to each response) outperform students receiving fixed, moderate, or no support on both immediate and delayed tests of the same skill. [→ Pratt and Savoy-Levine 1998](#pratt-and-savoy-levine-1998)
 
-`q3 i?` Contingent, interactive tutoring (questioning and hints rather than explaining and feeding back) produces similar immediate learning outcomes to non-interactive tutoring but significantly better transfer and greater student responsibility for learning. [→ Chi et al. 2001](#chi-et-al-2001)
+`q2 i?` Contingent, interactive tutoring (questioning and hints rather than explaining and feeding back) produces similar immediate learning outcomes to non-interactive tutoring but significantly better transfer and greater student responsibility for learning. [→ Chi et al. 2001](#chi-et-al-2001)
 
 `q4 i?` Among forms of dynamic assessment, scaffolding (contingent prompting and mediation) is more effective than coaching but less effective than explicit strategy training for cognitive tasks. [→ Swanson and Lussier 2001](#swanson-and-lussier-2001)
 
@@ -88,7 +88,7 @@ Fourth and fifth grade students were assigned to one of five one-to-one tutoring
 
 Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)
 
-`q3 · peer-reviewed within-subjects experiment` · `i? · the abstract prints no effect size; the full text may` · `n=11 tutor-student pairs` · `causal · r1`
+`q2 · quasi-experimental comparison: the same tutors' interactive sessions against their earlier naturalistic sessions, not randomized` · `i? · the abstract prints no effect size; the full text may` · `n=11 tutor-student pairs` · `causal · r1`
 
 Inexperienced tutors working one-to-one with eighth grade students on the human circulatory system were then instructed to shift to a more interactive/contingent style — more questioning and hints, less explaining and feeding back. More scaffolding episodes were observed in the interactive condition (verified by coding). Immediate learning outcomes were similar across both styles. However, students in the interactive/contingent tutoring condition performed significantly better on transfer questions (topics not directly covered in tutoring) and took greater responsibility for their own learning, shown by higher frequency of self-initiated reading aloud.
 
@@ -126,7 +126,7 @@ Finally, van de Pol et al. treat contingency as definitionally necessary for sca
 
 ## Related Claims
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md)
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](implicit-scaffolding-supports-immediate-exploration.md) — related

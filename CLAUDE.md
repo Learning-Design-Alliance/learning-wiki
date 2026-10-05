@@ -124,6 +124,38 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 (evening) — folds, merges and a claim cleanup before wave 5; merge_claims stopped dropping entries
+
+- **Pages folded** (`merge_pages.py`, maintainer's go-ahead): `competency-based-learning-assessment` into
+  `competency-based-assessment`; `creating-visual-representations` into `dual-coding`; three small writing-response
+  principles (`involve-students-in-revision-process`, `avoid-appropriating-student-writing`, `respond-as-a-reader`)
+  into `process-based-writing`; and across kinds `patterns/adaptive-learning` (a stub) into the principle,
+  `patterns/reflective-practice` into `principles/reflection`, `principles/debate` and
+  `principles/case-studiescase-based-learning` into their patterns, `principles/situated-learning` into the theory.
+  Renamed (old slug an alias): `peer-feedbackpeer-review` → `peer-feedback`, `mentoringcoaching` →
+  `mentoring-and-coaching`. **Not folded**: `scaffolding`/`scaffolding-and-fading` and
+  `assessment-for-learning`/`formative-assessment`, each pair converted with a stated division of labour; and
+  `patterns/game-based-mastery-learning`, which is misfiled rather than a duplicate.
+- **Eleven duplicate claims merged** (`merge_claims.py`), among them the two dual-coding claims, the two seductive-details
+  claims (now six studies), the cooperative free-rider claim into group rewards, the fiction/empathy claim into
+  theory of mind, the two contrasting-cases claims, guided inquiry into guided discovery, and the second-hand
+  deliberate-practice variance claim into its source's claim. Not merged: clear structure and signaling,
+  inquiry and teacher-guided inquiry, the two autonomy claims (different propositions).
+- **`merge_claims.py` dropped the folded page's write-up of a study both pages carried.** On nine entries across
+  #163's and today's merges the write-ups differed (another finding, another quote): the tutor-background subgroup
+  test vanished entirely. They are restored verbatim in `<!-- merged … restored verbatim -->` comments under the
+  surviving entry, and the script now keeps a differing write-up that way itself.
+- **Claim cleanup** (wave 4's list, three agents, each change grounded in the page's own entries): 27 titles
+  rewritten to what their entries show (slugs unchanged, old titles in comments, link text on 500+ links), stale
+  "no evidence yet" text on about 25 pages, recodes where the entry prints the statistic or the design (Macnamara
+  2014's R² is not an effect size → `i?`, q4 → q3 as a meta-analysis of correlations; Alfieri 2011 is
+  `quant-synthesis`; Chi et al. 2001 q2 on both pages; affiliation motive was blocked, not assigned → associational),
+  and the CRAAP-checklist claim no longer cited as evidence that rubrics breed compliance.
+- **Still open**: `cognitive-disequilibrium-motivates-conceptual-change` asserts a mechanism its own entry says it
+  does not isolate (retitle); the germane-load claim's citation has no authors (a Google Scholar link); bare
+  `[±]` markers after related-claim links in older claim Discussions; the sibling of
+  `computer-based-no-better-than-individual-paper` still labels it "reports the opposite".
+
 ### 2026-10-05 (later) — conversion wave 4: 15 more pages; fit rose on sparse briefs for the first time
 
 - **Fifteen pages converted** (`eval/page-triage/wave-4.md`). Principles: evaluating sources, ask experts, cultural

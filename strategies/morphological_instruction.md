@@ -12,7 +12,7 @@ generated:
 # Morphological Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies (4 review, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies (4 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Morphological instruction explicitly teaches the meaningful units of words (morphemes) — base words, roots, prefixes, suffixes, and inflectional endings — and how they combine. Learners are taught to analyze, manipulate, and generate words structurally (e.g., *act → action → inactive → reaction*), rather than memorizing words as unanalyzed wholes. Instruction typically combines direct explanation of common morphemes with word-formation activities, word sorts, and structured inquiry into word origins and families.
@@ -55,7 +55,7 @@ Morphological instruction works because it converts a large memory task (thousan
 ### Instructions
 1. Select a small set of high-utility morphemes tied to current content vocabulary.
 2. Model analysis of a familiar word family aloud, showing how meaning is preserved or shifted across derived forms ([Analogies](../elements/analogies.md) between known and new words).
-3. Contrast words where the morpheme behaves predictably with words where it does not, to sharpen boundaries of the generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+3. Contrast words where the morpheme behaves predictably with words where it does not, to sharpen boundaries of the generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 4. Have learners generate new words from the morpheme and justify their meanings — production, not recognition, is the goal.
 5. Spiral previously taught morphemes into reading and writing tasks so analysis becomes habitual during authentic literacy work.
 

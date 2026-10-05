@@ -1,12 +1,18 @@
 ---
 type: principle
 id: competency-based-assessment
+aliases: [competency-based-learning-assessment]
 title: Competency-Based Assessment
 description: "Scoring a learner's response on a task that represents the intended capability against explicit criteria and a stated threshold, by consistent assessors, is expected to support better teaching, progression and certification decisions than a rank or seat time, though no claim here tests that comparison and assessor agreement is not guaranteed."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-02
+sources:
+  - id: henri-2017
+    resource: "https://doi.org/10.1002/jee.20180"
+    title: "Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638"
+    author: "Henri, M., Johnson, M. D., & Nepal, B"
 ---
 
 # Competency-Based Assessment
@@ -18,7 +24,7 @@ generated:
 
 Competency-based assessment states a relationship about **judgement**, not first about learning: when a learner's response to a task that represents the intended capability is scored against explicit criteria and a stated threshold, by assessors whose scoring agrees, the resulting judgement ("demonstrated" or "not yet") is expected to support better decisions about that learner than a norm-referenced rank or a record of time spent. The decisions are what to teach next, whether to advance, and whether to certify. A second, learning relationship rides on the first: when criteria are visible to learners and a "not yet" leads to correction and another comparable attempt, the quality of the learner's work and later examination performance (`general-achievement`) are expected to improve. Both are conditional on four things a page cannot settle in advance: whether the task elicits the capability itself rather than a proxy for it (most of all for `complex-skill` goals in `workplace-clinical` settings), whether the threshold was set by a defensible procedure, whether assessors are consistent and calibrated, and whether the learner's starting response reflects capability or the conditions of the attempt.
 
-The wider instructional model (pacing, progression and pathways around competencies) is [Competency-based Learning & Assessment](competency-based-learning-assessment.md), and the [Competency-Based Learning pattern](../patterns/competency-based-learning.md) gives a reusable design. Two converted siblings sit inside this page's relationship. [Mastery Learning](mastery-learning.md) holds the conditional model of the progression rule (gate, correct, recheck); this page owns what the gate rests on, a criterion-referenced judgement, and does not repeat the gate's model. [Formative Assessment](formative-assessment.md) holds the model of interpreting a response and choosing a next action; a competency judgement is one such response read against a public standard, and the formative model applies to everything below the threshold.
+The wider instructional model (pacing, progression and pathways around competencies) is [Competency-based Learning & Assessment](competency-based-assessment.md), and the [Competency-Based Learning pattern](../patterns/competency-based-learning.md) gives a reusable design. Two converted siblings sit inside this page's relationship. [Mastery Learning](mastery-learning.md) holds the conditional model of the progression rule (gate, correct, recheck); this page owns what the gate rests on, a criterion-referenced judgement, and does not repeat the gate's model. [Formative Assessment](formative-assessment.md) holds the model of interpreting a response and choosing a next action; a competency judgement is one such response read against a public standard, and the formative model applies to everything below the threshold.
 
 ## Default design, while the relationship is untested
 
@@ -50,10 +56,10 @@ These rows are proposals for interpreting responses, untested with learners. A p
 
 No claim in the wiki tests this relationship as stated: none compares decisions or learning under criterion-referenced competency judgements against norm-referenced grading or seat-time credit. The claims below test neighbouring parts of it, and none has been read at full text with an effect size.
 
-- [Rubrics improve student work](../claims/rubrics-improve-student-work.md) [~M]: two comparison-group studies (`controlled-nonrandom` as far as the claim page reports). Middle-school writers (n = 162) who reviewed a model essay, generated criteria and self-assessed a draft against a rubric scored higher on total essay scores and on every rubric criterion than a comparison condition that generated criteria and reviewed drafts without the rubric step. Pre-service teachers (n = 218) who self-assessed a concept map with a rubric produced work an expert rated higher, and self-assessed more accurately, than those with no tool, but also reported more difficulty coping with stress and a higher performance/avoidance orientation, which the authors judge detrimental to learning. No effect sizes; horizon immediate, one task each. One of two entries passes the judge, on abstracts. It supports making criteria visible and practising their use (step 4); it does not show that a competency threshold improves learning, and it carries a motivational cost to watch for.
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [~M]: two comparison-group studies (`controlled-nonrandom` as far as the claim page reports). Middle-school writers (n = 162) who reviewed a model essay, generated criteria and self-assessed a draft against a rubric scored higher on total essay scores and on every rubric criterion than a comparison condition that generated criteria and reviewed drafts without the rubric step. Pre-service teachers (n = 218) who self-assessed a concept map with a rubric produced work an expert rated higher, and self-assessed more accurately, than those with no tool, but also reported more difficulty coping with stress and a higher performance/avoidance orientation, which the authors judge detrimental to learning. No effect sizes; horizon immediate, one task each. One of two entries passes the judge, on abstracts. It supports making criteria visible and practising their use (step 4); it does not show that a competency threshold improves learning, and it carries a motivational cost to watch for.
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]: a meta-analysis of 108 controlled evaluations (`synthesis-experimental`) at college, high-school and upper-elementary levels reports positive effects of mastery programmes on examination performance against conventionally paced instruction, apparently stronger for weaker students, varying with procedure, design and content; positive effects on attitudes; possibly more time on instructional tasks; and, for self-paced college programmes, often reduced completion. No pooled effect size recorded; checked by the judge on the abstract only. It bears on judging against a criterion and re-attempting rather than averaging, not on the quality of the judgement itself, and it does not predict one learner's gain or a delayed outcome.
 - [Raters differed significantly in severity/leniency in the MFRM analysis](../claims/raters-differed-severity-mfrm.md) [~M]: in a many-facet Rasch analysis of three raters scoring open-ended items in a crossed design (`correlational`), the rater facet was significant, so the raters differed in severity, while item and person reliabilities stayed above .80. Not yet checked against its source. It qualifies the relationship: a judgement depends on who scored it, and high reliability in one facet does not remove differences in another.
-- [Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)](../claims/engineering-rubric-low-scoring-reliability.md) [-W]: six scorers rated six teams on one inquiry-lab rubric; the mean class standard deviation was 1.2 of 9 points, which the authors took to mean the rubric may not have been reliable. One small design report, not yet checked. It limits the relationship: having a rubric does not by itself make judgements consistent.
+- [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](../claims/engineering-rubric-low-scoring-reliability.md) [-W]: six scorers rated six teams on one inquiry-lab rubric; the mean class standard deviation was 1.2 of 9 points, which the authors took to mean the rubric may not have been reliable. One small design report, not yet checked. It limits the relationship: having a rubric does not by itself make judgements consistent.
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](../claims/mean-classification-cut-score-method-robust.md) [~W]: a standard-setting report for alternate portfolio assessments of students with significant disabilities applied two methods of computing a cut score to panelists' ratings of 15 portfolios per grade and content area; one was heavily influenced by deviant ratings, the other more robust. Not yet checked. It bears on how a threshold is computed from panel judgements (step 3), not on whether any threshold is valid for a decision.
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](../claims/static-assessment-misses-emerging-functions.md) [~W]: a theoretical argument in a review paper, attributed to Vygotsky, that unassisted individual testing shows only matured functions, while assisted performance reveals developing ones. No data. It qualifies single-attempt, unassisted judgements: a "not yet" may misread a developing capability, which is a reason to record support and allow reassessment, not evidence that assisted scores should certify.
 
@@ -83,9 +89,11 @@ The model should weaken if criterion-referenced judgements, made with calibrated
 A score on a rubric, agreement between assessors, a threshold's defensibility, learning gains from the assessment process, and performance in the learner's real setting are separate claims. The present evidence does not establish how to set a threshold for a given decision, how much calibration produces acceptable agreement, or whether competency judgements transfer across settings.
 
 ## Related Principles
-- [Competency-based Learning & Assessment](competency-based-learning-assessment.md) — the full instructional model, including pacing and progression; this page is its assessment component
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule
 - [Formative Assessment](formative-assessment.md) — the feedback cycles that make a mastery threshold reachable rather than merely a sorting line
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — credible demonstrations often involve products or performances for real stakeholders
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — competency systems need visible progress and next-step clarity
+- [Guided Practice](guided-practice.md) — repeated coached attempts are often necessary before a valid mastery judgment
 
 ## Examples
 
@@ -93,17 +101,22 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - A cybersecurity course certifies learners on incident response only after they complete a live scenario within defined quality criteria, not merely explain the steps on paper.
 - [Standards-/Mastery-Based Grading](../strategies/standards-based_grading.md) — classroom grading organised around demonstrated standards rather than averaged scores.
 - [Frame course specifications in competencies and build in 'I can do...' benchmark tasks as informal assessment](../strategies/competency-course-specifications-benchmark-tasks.md)
+- Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
+- [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
+- Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.
 - Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638. [doi:10.1002/jee.20180](https://doi.org/10.1002/jee.20180)
+- Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460.
+- Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
 ## Description
 Competency-based assessment judges a learner against explicit statements of what they should be able to do, at a defined standard, using evidence that actually elicits that performance. It replaces the question "how much of the course did this learner complete, and how did they score relative to peers?" with "can this learner do this thing, to this standard, and what is the evidence?"
 
-This principle covers the *assessment* half of competency-based design: specifying competencies so they can be judged, choosing evidence that genuinely elicits them, setting mastery thresholds, and keeping judgments consistent across assessors. The wider instructional model it sits inside — flexible pacing, progression rules, learner pathways, and how instruction is organised around competencies — is [Competency-based Learning & Assessment](competency-based-learning-assessment.md).
+This principle covers the *assessment* half of competency-based design: specifying competencies so they can be judged, choosing evidence that genuinely elicits them, setting mastery thresholds, and keeping judgments consistent across assessors. The wider instructional model it sits inside — flexible pacing, progression rules, learner pathways, and how instruction is organised around competencies — is [Competency-based Learning & Assessment](competency-based-assessment.md).
 
 ## Implications
 Competency-based assessment shifts the design question from time spent to demonstrated capability. That usually improves transfer and the quality of decisions made from assessment results, provided the tasks mirror meaningful performance rather than proxies for it [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S].
@@ -136,7 +149,7 @@ The burden it creates is specification. Competencies, acceptable evidence, and m
 
 ### Theory
 #### Supporting
-- [Competency-based Learning & Assessment](competency-based-learning-assessment.md) — the wider instructional model this assessment approach belongs to
+- [Competency-based Learning & Assessment](competency-based-assessment.md) — the wider instructional model this assessment approach belongs to
 - Experiential and apprenticeship perspectives support performance-based demonstration over purely declarative testing
 
 #### Contradicting / Qualifying
@@ -147,4 +160,82 @@ The burden it creates is specification. Competencies, acceptable evidence, and m
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — competency judgments are stronger when they rest on integrated performances that resemble actual use
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — well-specified mastery criteria focus effort and make expectations legible
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices need process-level guidance before a mastery judgment is meaningful
+-->
+
+<!-- merged 2026-10-05 from principles/competency-based-learning-assessment ("Competency-based Learning & Assessment"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Competency-based Learning & Assessment
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (2 causal, 2 review, 2 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
+
+## Description
+Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages. Learners advance by showing they can perform clearly defined competencies, often through applied tasks, performance assessments, or repeated attempts. The design promise is tighter alignment between what matters and what is assessed, but that promise depends on the quality of the competencies, evidence, and supports.
+
+This page covers the whole model — how instruction, pacing, progression, and assessment are organised around competencies. The narrower question of how to judge a competency credibly (specification, evidence, thresholds, assessor calibration) is [Competency-Based Assessment](competency-based-assessment.md).
+
+## Implications
+Competency-based learning and assessment are strongest when mastery is defined as credible performance rather than completion or time spent. Clear competencies, repeated attempts, and authentic evidence usually make progress more legible and improve transfer because learners are judged on what they can actually do [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S]. But the system only works if competencies are well specified [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] and learners receive enough process support to reach them [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]; otherwise “mastery” becomes either a vague slogan or a fragmented checklist.
+
+### Context
+#### Requirements
+- Explicit competencies that describe observable performance, not vague aspirations
+- Assessments that actually elicit the target competence in credible ways
+- Opportunities for practice, feedback, revision, and reassessment before high-stakes judgments
+- Tracking systems and instructional routines that let learners know where they are and what remains to be demonstrated
+
+#### Constraints
+- Competencies can become atomized checklists if they are defined too narrowly
+- Flexible pacing sounds equitable but can become isolating or unmanageable without strong advising and feedback loops
+- Reliable assessment of complex competencies is labor-intensive and requires shared rubrics or calibration
+- Mastery claims are only as trustworthy as the evidence used to infer them
+
+### Target Learners
+- Adult, professional, and nontraditional learners who need transparent progress markers and flexible routes to mastery
+- Learners whose prior experience should count only when it can be demonstrated through evidence
+- Learners in workforce, technical, health, and performance-oriented domains where competencies can be observed in practice
+- Learners who benefit from multiple attempts and feedback cycles rather than single averaged scores
+
+### Target Learning Objectives
+- Demonstrate usable competence on clearly defined skills or performances
+- Support transfer by linking assessment to authentic or application-rich tasks
+- Make learner progress inspectable so feedback and next steps are concrete
+- Separate "not yet" from failure by allowing revision and reassessment
+
+### Theory
+#### Supporting
+- Self-regulated-learning perspectives support competency systems when progress markers, feedback, and revision make self-monitoring actionable
+- Adult-learning perspectives support flexible pathways and recognition of prior experience, provided competence is still demonstrated
+- Experiential and apprenticeship perspectives support performance-based demonstrations over purely declarative testing
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] supports competency assessment when evidence comes from integrated performances instead of isolated fragments
+
+#### Contradicting / Qualifying
+- Competency systems fail when competencies are underspecified, overfragmented, or detached from authentic performance
+- Learners still need explicit goals and calibrated challenge; mastery alone is not motivational without clear standards [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- Novices often need process coaching and scaffolds before they can demonstrate mastery independently [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+
+### Claims
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — competency claims are stronger when based on integrated performances that resemble real use
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — well-specified mastery criteria focus effort and clarify expectations
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — learners often need process-level guidance before they can demonstrate mastery
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — supports and reassessment opportunities should gradually lead toward independent demonstration, not permanent dependence on scaffolds
+
+## Related Principles
+- [Competency-Based Assessment](competency-based-assessment.md) — the assessment component of this model: specifying competencies, eliciting evidence, and setting defensible mastery thresholds
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — credible demonstrations often involve products or performances for real stakeholders
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — competency systems need visible progress and next-step clarity
+- [Guided Practice](guided-practice.md) — repeated coached attempts are often necessary before a valid mastery judgment
+- [Formative Assessment](formative-assessment.md) — feedback cycles are part of making mastery achievable rather than merely sortable
+
+## Examples
+<!- - Links to elements or patterns that apply this principle - ->
+- Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
+- [Standards-/Mastery-Based Grading](../strategies/standards-based_grading.md) — classroom grading organized around demonstrated standards
+- [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
+- Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
+
+## Key Sources
+- Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638. [doi:10.1002/jee.20180](https://doi.org/10.1002/jee.20180)
+- Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460.
+- Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
 -->

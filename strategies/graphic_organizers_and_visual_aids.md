@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers and Visual Aids
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 12 studies (6 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers and visual aids present content in structured visual formats — concept maps, Venn diagrams, timelines, flowcharts, advance organizers, comparison matrices — that externalize relationships among ideas. They direct attention to the most important information, make structural relationships visible, and offload organization work from working memory onto the display.
@@ -65,7 +65,7 @@ Graphic organizers work by imposing structure on to-be-learned material, which r
 ## Examples
 - **[Reading Rockets](https://www.readingrockets.org)** — published library of story maps, comparison charts, and concept frames used in K– literacy instruction.
 - **[Inspiration Software / Kidspiration](https://www.inspiration.com)** — concept-mapping tools widely used in schools for learner-generated webs and diagrams.
-- **Comparison matrices in history instruction** — a grid of events × causes × outcomes that turns narrative text into comparable cases; contrasting cases in matrix form supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison matrices in history instruction** — a grid of events × causes × outcomes that turns narrative text into comparable cases; contrasting cases in matrix form supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Key Sources
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)

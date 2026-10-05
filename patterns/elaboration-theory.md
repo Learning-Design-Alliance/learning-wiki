@@ -101,7 +101,7 @@ Do not combine these into a predicted effect for the pattern. They differ in lea
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 
 ## Illustrative design instance and observation record
@@ -112,7 +112,7 @@ Record: **opening sketch and placed details → epitome and level given → synt
 
 ## Elements and limits
 
-[Epitome](../elements/epitome-elaboration-theory.md), [simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [advance organizers](../elements/advance-organizers.md), [conceptual overviews](../elements/conceptual-overviews.md), [concept maps](../elements/concept-map.md), [summarization and synthesis](../elements/summarization-and-synthesis.md), [analogies](../elements/analogies.md), [activation](../elements/activation.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md), [reflection](../elements/reflection.md) and [spiral curriculum](../elements/spiral-curriculum.md). The pattern also applies [metaphors and analogies](../principles/metaphors-analogies.md), [creating visual representations](../principles/creating-visual-representations.md), [guided practice](../principles/guided-practice.md), [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md) and [cognitive load theory](../principles/cognitive-load-theory.md).
+[Epitome](../elements/epitome-elaboration-theory.md), [simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [advance organizers](../elements/advance-organizers.md), [conceptual overviews](../elements/conceptual-overviews.md), [concept maps](../elements/concept-map.md), [summarization and synthesis](../elements/summarization-and-synthesis.md), [analogies](../elements/analogies.md), [activation](../elements/activation.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md), [reflection](../elements/reflection.md) and [spiral curriculum](../elements/spiral-curriculum.md). The pattern also applies [metaphors and analogies](../principles/metaphors-analogies.md), [creating visual representations](../principles/dual-coding.md), [guided practice](../principles/guided-practice.md), [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md) and [cognitive load theory](../principles/cognitive-load-theory.md).
 
 This pattern is scoped to sequencing organised content over a unit or course; it is a poor fit for isolated facts, and a forced epitome can distort a domain with no single organising idea. Its design cost is real: choosing the epitome and the levels is a content analysis that needs someone who knows the domain. The evidence above tests a hierarchical organisation of knowledge in small physics studies, not the sequence, and the conditional branches remain to be tested with learners.
 
@@ -251,7 +251,7 @@ It is especially useful for curriculum-scale design where content complexity is 
 
 ### Affordances
 - [Metaphors & Analogies](../principles/metaphors-analogies.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 - [Guided Practice](../principles/guided-practice.md)
 - [Worked Examples](../principles/worked-examples.md)
 

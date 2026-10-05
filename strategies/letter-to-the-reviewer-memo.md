@@ -38,7 +38,7 @@ A Letter to the Reviewer is a short reflective note or memo submitted with each 
 - targeted use of teacher feedback
 
 ### Affordances
-- [Involve Students In Revision Process](../principles/involve-students-in-revision-process.md)
+- [Involve Students In Revision Process](../principles/process-based-writing.md)
 
 ## Related Strategies
 

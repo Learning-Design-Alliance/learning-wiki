@@ -49,7 +49,7 @@ Both tools reduce extraneous load during lecture by shifting the burden of selec
 ### Target Learning Goals
 - Comprehension of relationships: hierarchies, sequences, causal chains, comparisons [Concept and knowledge maps improve learning.](../claims/concept-mapping-improves-learning.md) [+M]
 - Retention of key facts and definitions from lecture [Guided notes improve note accuracy and quiz performance.](../claims/guided-notes-improve-note-accuracy.md) [+M]
-- Dual coding of verbal and visual representations [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Dual coding of verbal and visual representations [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Instructions
 1. Analyze the lesson content to identify its core structure (e.g., cause–effect, classification, sequence).

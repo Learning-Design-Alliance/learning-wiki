@@ -12,14 +12,14 @@ generated:
 # Gallery Walk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Stations, posters, or artifacts are set up around the classroom, on walls, or on tables. Small groups of learners travel from station to station together, performing a task or responding to a prompt at each stop, with written or spoken conversation as the intended outcome. Variations include groups creating posters and acting as tour guides, commenting on peers' work with sticky notes, or rotating through learner-created video tutorials.
 
 ## Design Implications
 
-Gallery Walk is a structured form of [Active Learning](../principles/active-learning.md): it converts passive whole-class presentation time into simultaneous small-group engagement, which is the mechanism behind the exam-performance benefits of active learning [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Its learning value depends on the quality of the task at each station — prompts that require explanation, evaluation, or comparison produce deeper processing than prompts that ask only for recall, because articulating ideas to peers drives [Self-Explanation](../elements/self-explanation.md)-like elaboration [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Reading and building on prior groups' annotations also exposes learners to multiple perspectives on the same problem, supporting abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Gallery Walk is a structured form of [Active Learning](../principles/active-learning.md): it converts passive whole-class presentation time into simultaneous small-group engagement, which is the mechanism behind the exam-performance benefits of active learning [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Its learning value depends on the quality of the task at each station — prompts that require explanation, evaluation, or comparison produce deeper processing than prompts that ask only for recall, because articulating ideas to peers drives [Self-Explanation](../elements/self-explanation.md)-like elaboration [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Reading and building on prior groups' annotations also exposes learners to multiple perspectives on the same problem, supporting abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

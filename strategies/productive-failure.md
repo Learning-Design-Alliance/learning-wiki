@@ -12,7 +12,7 @@ generated:
 # Productive Failure
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Productive Failure is a sequencing strategy in which learners first explore a complex problem that targets a concept they have not yet been taught, typically in small groups, and almost always fail to produce the canonical solution. The teacher then provides structured instruction on the standard method, explicitly comparing students' invented (usually suboptimal) solutions with the canonical one. The initial failure is "productive" because the generation attempt activates prior knowledge, surfaces gaps, and prepares learners to encode the canonical solution deeply [Attempting problems before instruction improves conceptual learning despite lower success during exploration.](../claims/productive-failure-improves-conceptual-learning.md) [+S].
@@ -36,7 +36,7 @@ The strategy inverts the usual instruction-then-practice sequence: exploration p
 - Very low prior knowledge or high working-memory demands can make unguided exploration unproductive; scaffolds during exploration (representational prompts, collaboration) mitigate this
 
 #### Implementation Variability
-- **Invented vs. canonical comparison:** some implementations have students invent solutions; others use contrasting provided cases — both support abstraction from multiple examples [Comparing multiple contrasting cases supports abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Invented vs. canonical comparison:** some implementations have students invent solutions; others use contrasting provided cases — both support abstraction from multiple examples [Comparing multiple contrasting cases supports abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Individual vs. collaborative exploration:** most implementations use small groups, which distribute cognitive load and diversify solution attempts
 - **Domain scope:** strongest evidence in mathematics and science concepts; adaptations exist in design, engineering, and medical education
 - **Duration:** single-lesson cycles (Kapur's original design) vs. multi-week problem-first curricula

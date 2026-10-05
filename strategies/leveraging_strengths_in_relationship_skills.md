@@ -50,7 +50,7 @@ Two evidential caveats matter. Social-emotional learning as a whole is well supp
 - The evidence for strengths-specific approaches is weak relative to their popularity; the well-evidenced ingredient is explicit, sequenced, active skill instruction [~W]
 - Assigning learners roles that fit their strengths can freeze them there — the sociable learner is always the spokesperson and never practises listening [-M]
 - Judgements about which social behaviours count as strengths are culturally loaded; assertiveness and directness are read differently across communities, and a deficit label often marks a mismatch rather than a lack [-M]
-- Group work can be the setting where the strength is displayed and nothing is learned, unless individual accountability is built in [Cooperative learning without individual accountability enables free riding.](../claims/cooperative-learning-free-rider-without-accountability.md) [-M]
+- Group work can be the setting where the strength is displayed and nothing is learned, unless individual accountability is built in [Cooperative learning without individual accountability enables free riding.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [-M]
 
 #### Implementation Variability
 - **Observation-and-name** — the teacher notices and describes a specific social behaviour to the learner, with its effect on others

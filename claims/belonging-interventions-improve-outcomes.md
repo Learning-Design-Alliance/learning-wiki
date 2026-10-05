@@ -67,7 +67,9 @@ Moderators matter. Effects are generally larger for students whose group is ster
 
 Open questions include durability (whether effects persist beyond the transition year), scalability (whether teacher-delivered or online versions retain the careful framing that makes the message credible), and boundary conditions (whether the intervention works in highly selective or overtly hostile climates where belonging doubts are accurate rather than misinterpreted). Related motivational mechanisms are covered in [Self-Determination Theory](../theories/self-determination-theory.md), where belonging is one of three basic psychological needs.
 
-**Evidence status.** This page currently has no vetted Evidence entries; the canonical studies (including the original randomized field experiments on belonging during school transitions and their follow-ups) still need to be added and coded before the claim's strength rating can be finalized. Until then, treat the claim as plausible but unverified at the level of specific effect sizes.
+**Evidence status.** Two randomized experiments are recorded, both read from their abstracts only: Walton & Cohen (2011), 92 first-year college students followed for three years, and Walton et al. (2023), 26,911 students at 22 institutions. Both are college-entry studies, neither entry records an effect size, and the 2023 trial found the effect only where students' groups were afforded opportunities to belong. Still missing: the full texts' effect sizes, and studies of school transitions other than entry to college (middle and high school).
+
+<!-- deprecated (2026-10-05, stale beside two recorded entries): **Evidence status.** This page currently has no vetted Evidence entries; the canonical studies (including the original randomized field experiments on belonging during school transitions and their follow-ups) still need to be added and coded before the claim's strength rating can be finalized. Until then, treat the claim as plausible but unverified at the level of specific effect sizes. -->
 
 ## Related Claims
 
@@ -76,7 +78,7 @@ Open questions include durability (whether effects persist beyond the transition
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — a second basic psychological need with parallel brief-intervention evidence
 - [Belonging](../elements/belonging.md) — the design element this claim operationalizes
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
-- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Growth mindset improves achievement](growth-mindset-improves-achievement.md) — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related

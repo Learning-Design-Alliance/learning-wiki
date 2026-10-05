@@ -12,14 +12,14 @@ generated:
 # Bridging Cultures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 The Bridging Cultures Project is a professional development strategy in which teachers study the contrast between individualistic and collectivistic cultural value systems, then examine how school routines — grading, praise, independence norms, classroom management — encode individualistic assumptions that may conflict with students' home values. Teachers then redesign practices to "bridge" the two systems rather than requiring students to assimilate. The approach originated with a seven-teacher research group working with Latino immigrant students in Southern California (Trumbull et al., 2001).
 
 ## Design Implications
 
-Bridging Cultures treats the teacher, not the student, as the primary learner: the intervention targets teachers' implicit cultural frameworks, which then changes classroom practices and student outcomes. Because cultural value assumptions are largely tacit, the strategy depends on structured reflection and contrast cases that make those assumptions visible — much like [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M] support abstraction of an underlying dimension. Teachers who reframe "misbehavior" through a collectivistic lens (e.g., helping a neighbor as prosocial rather than cheating) report improved classroom climate and family relationships [~M].
+Bridging Cultures treats the teacher, not the student, as the primary learner: the intervention targets teachers' implicit cultural frameworks, which then changes classroom practices and student outcomes. Because cultural value assumptions are largely tacit, the strategy depends on structured reflection and contrast cases that make those assumptions visible — much like [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M] support abstraction of an underlying dimension. Teachers who reframe "misbehavior" through a collectivistic lens (e.g., helping a neighbor as prosocial rather than cheating) report improved classroom climate and family relationships [~M].
 
 ### Context
 #### Requirements

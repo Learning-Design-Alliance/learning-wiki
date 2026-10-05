@@ -49,7 +49,7 @@ This strategy applies social-semiotic analysis to composition instruction: learn
 - Critical media literacy: recognizing how design choices position viewers and construct authority
 - Semiotic vocabulary: naming the affordances and constraints of individual modes
 - Composition transfer: collecting exemplar structures to inform deliberate design decisions in students' own multimodal texts
-- Dual-channel processing: understanding how verbal and visual information combine [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Dual-channel processing: understanding how verbal and visual information combine [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 
 ### Instructions
 1. Select a simple multimodal text and [demonstrate](../elements/demonstration.md) an expert think-aloud analysis, naming specific design choices and their effects on meaning.

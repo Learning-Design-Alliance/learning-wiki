@@ -26,7 +26,7 @@ sources:
 # On-the-Job Training (OJT)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (3 quant-synthesis, 2 causal, 2 review), `q3`–`q4` · 3 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 On-the-job training places the learner at the actual worksite, doing the actual work, with an experienced worker as trainer. The learner observes the task performed on real equipment with real consequences, attempts it under supervision, and takes over progressively as competence shows. Its defining feature is that the training context and the performance context are the same context — which removes the transfer gap that classroom training has to bridge, and simultaneously removes the safety net that classroom training provides.
@@ -71,7 +71,7 @@ Well-run OJT is essentially [Cognitive Apprenticeship](cognitive-apprenticeship.
 ### Target Learning Goals
 - Procedural fluency on specific equipment, systems, or protocols
 - Tacit judgment: recognizing when a task is going wrong from cues that are not in the manual
-- Speed and reliability under authentic time and quality pressure [Deliberate Practice Improves Performance](../claims/deliberate-practice-improves-performance.md) [+M]
+- Speed and reliability under authentic time and quality pressure [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+M]
 - Enculturation into workplace norms, safety practice, and who to ask when something is unfamiliar
 
 ### Instructions

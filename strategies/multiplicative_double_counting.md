@@ -12,7 +12,7 @@ generated:
 # Multiplicative Double Counting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Multiplicative double counting involves tracking all three units in a multiplication situation — the number of groups, the unit rate (items per group), and the total — simultaneously while solving a problem. For instance, with "seven towers with three cubes each," learners track the towers, cubes per tower, and total cubes. It contrasts with repeated addition, where only the unit rate and total are tracked. A student using multiplicative double counting would track the number of towers counted — with fingers, a drawing, or another tally — while also tracking the unit rate and the running total of singletons. The strategy operationalizes the composite-unit structure of multiplication identified in children's multiplying schemes [Steffe, 1994].
@@ -35,7 +35,7 @@ Multiplicative double counting makes the coordination of composite units explici
 
 #### Implementation Variability
 - **Concrete → figural → abstract:** Activities such as "Please Go Bring for Me" (PGBM) begin with physical cubes, move to drawings of the cubes, and end with symbols and equations
-- **Array-based:** Structuring rows-and-columns arrays so learners count rows while counting squares within rows [Students' spatial structuring of arrays supports multiplicative counting.](../claims/multiple-contrasting-cases-support-abstraction.md) [+W]
+- **Array-based:** Structuring rows-and-columns arrays so learners count rows while counting squares within rows [Students' spatial structuring of arrays supports multiplicative counting.](../claims/comparing-contrasting-cases-improves-learning.md) [+W]
 - **Verbalized coordination:** Learners narrate all three counts aloud, adding a [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) component [+M]
 
 ### Target Learners

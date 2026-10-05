@@ -38,7 +38,7 @@ Double-entry journals are a writing-to-learn technique: the act of composing a r
 - **Quote-and-question:** left column quotations, right column questions — useful for close reading of difficult texts
 - **Text-to-self / text-to-text / text-to-world:** response column labeled by connection type, common in ELL and adolescent literacy programs
 - **Say-Mean-Matter:** three columns asking what the text says, what it means, and why it matters — a scaffold toward argumentation
-- **Multimedia variants:** entries in response to read-alouds, films, or lectures; sketches or diagrams in the response column exploit dual coding [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- **Multimedia variants:** entries in response to read-alouds, films, or lectures; sketches or diagrams in the response column exploit dual coding [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - **Digital versions:** shared documents or LMS discussion boards let peers respond to entries, converting the journal into a written dialogue
 
 ### Target Learners

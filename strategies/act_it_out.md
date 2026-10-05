@@ -12,7 +12,7 @@ generated:
 # Act It Out
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (5 quant-synthesis, 3 review, 2 causal), `q2`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 5 claims (5 for) · 11 studies (5 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 Act It Out asks learners to physically enact a scenario — a social interaction, a procedure, a historical event, a mathematical relationship — rather than only hearing or reading about it. One or more students perform the roles while others observe, and the group then debriefs what worked, what didn't, and why. The strategy is most often used for situations learners find difficult to navigate in the abstract: conflict resolution, scientific misconceptions, grammar structures, or professional interactions.
@@ -37,7 +37,7 @@ Enactment converts abstract or social knowledge into concrete, embodied experien
 #### Implementation Variability
 - **Hot-seating**: one learner takes a role and answers questions in character from the class
 - **Freeze-frame**: the facilitator stops the action mid-scene and asks the audience to predict or advise the next move
-- **Replay with variation**: rerun the same scenario with different choices to compare consequences, supporting abstraction from multiple contrasting cases [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Replay with variation**: rerun the same scenario with different choices to compare consequences, supporting abstraction from multiple contrasting cases [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Teacher-in-role**: the instructor enters the drama as a character, raising the stakes and steering the scenario
 - **Physical enactment of concepts**: students embody particles, fractions, or historical actors to model systems with their bodies
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Peer Assessment Benefits Assessor
+title: "The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,12 +28,13 @@ sources:
     rigour: 2
 ---
 
-# Peer Assessment Benefits Assessor
+# The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 associational `r2` · `q2`–`q4` · `i1` small
+<!-- deprecated title (2026-10-05, overstated its evidence): Peer Assessment Benefits Assessor -->
 
-The act of assessing peers' work can produce learning gains for the assessor, not only for the assessee. This page concerns the assessor-side benefit: reviewing, judging, and giving feedback on another learner's work as a learning activity in its own right.
+The act of assessing peers' work is proposed to produce learning gains for the assessor, not only for the assessee; the evidence recorded here is a correlational study of the assessor side and a meta-analysis that pools both roles. This page concerns the assessor-side benefit: reviewing, judging, and giving feedback on another learner's work as a learning activity in its own right.
 
 ## Subclaims
 
@@ -63,28 +64,28 @@ Forty-three undergraduate teacher-education students completed a technology-appl
 
 **Why assessing might benefit the assessor.** Reviewing a peer's work requires the assessor to internalize quality criteria, compare the work against an internal standard, and articulate a judgment — activities that plausibly promote elaboration and criterion knowledge. Because the reviewer must diagnose *why* a piece of work succeeds or fails, the activity resembles self-explanation applied to someone else's product, and may expose gaps in the reviewer's own understanding that reviewing one's own work would not. This aligns with the broader logic of [Assessment for Learning](../principles/assessment-for-learning.md), where the evaluative act itself drives learning, and with claims that [assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md).
 
-**Boundary conditions and open questions.** The size of the assessor benefit likely depends on the availability of usable criteria: without rubrics, exemplars, or reviewer training, peer reviewers may produce judgments that are unreliable or superficial, and the evaluative exercise may yield little criterion knowledge. Structured supports such as rubric-based [checklists](../elements/assessment.md) are one route, though online checklist-style evaluation has been found [ineffective in at least some contexts](../claims/checklist-evaluation-ineffective-online.md) — suggesting that the *form* of scaffolding matters, and that low-effort box-ticking may substitute for rather than prompt genuine evaluative judgment.
+**Boundary conditions and open questions.** The size of the assessor benefit likely depends on the availability of usable criteria: without rubrics, exemplars, or reviewer training, peer reviewers may produce judgments that are unreliable or superficial, and the evaluative exercise may yield little criterion knowledge. Structured supports such as rubric-based [checklists](../elements/assessment.md) are one route; the meta-analysis above found rater training the strongest moderator of peer assessment's effect (Li et al. 2020). <!-- deprecated (2026-10-05, misapplied claim: the CRAAP checklist claim tests source-evaluation instruction, not peer assessment): Structured supports such as rubric-based [checklists](../elements/assessment.md) are one route, though online checklist-style evaluation has been found [ineffective in at least some contexts](../claims/checklist-evaluation-ineffective-online.md) — suggesting that the *form* of scaffolding matters, and that low-effort box-ticking may substitute for rather than prompt genuine evaluative judgment. -->
 
 The benefit also plausibly interacts with expertise: novices may lack the internal standards needed to judge work meaningfully, while more advanced learners can use review as elaborative practice. This mirrors the expertise-reversal logic seen elsewhere in the wiki — the same scaffolds that help novices may add little for experts, and vice versa. Whether assessing benefits the assessor more than, less than, or equal to receiving feedback — and whether reviewing high- versus low-quality work differentially helps (reviewing flawed work may prompt error detection; reviewing exemplary work may build a model of quality) — remain open empirical questions.
 
 The claim also sits within the wider evidence base on [collaborative learning improving outcomes](../claims/collaborative-learning-improves-outcomes.md), but the assessor-side effect is a distinct mechanism that should not be assumed from peer-interaction effects generally.
 
-**Status.** This page currently has no curated evidence entries. Studies comparing assessor, assessee, and control conditions (e.g., in writing and peer feedback research) are needed before the strength of this claim can be rated.
+**Status.** <!-- deprecated (2026-10-05, stale: entries had been added): This page currently has no curated evidence entries. --> Two studies are recorded: a meta-analysis of 58 studies (Li et al. 2020, d = 0.291) that pools assessor and assessee participation, and a correlational study of 43 students (Li et al. 2010) in which the quality of feedback given, not received, predicted final project quality. Studies that assign students to assessor, assessee and control conditions (e.g., in writing and peer feedback research) are still needed to show that the assessor role itself causes the gain.
 
 ## Related Claims
 
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) — the evaluative act itself, not just its outcomes, drives learning
-- [Checklist evaluation is ineffective online.](../claims/checklist-evaluation-ineffective-online.md) — a caution on one common structuring device for peer review
+- [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](../claims/checklist-evaluation-ineffective-online.md) — related: checklists for evaluating web sources, not peer review <!-- deprecated (2026-10-05, misapplied): a caution on one common structuring device for peer review -->
 - [Collaborative learning improves outcomes.](../claims/collaborative-learning-improves-outcomes.md) — the broader peer-interaction context in which peer assessment occurs
 - [Collaborative evaluation](../patterns/collaborative-evaluation.md) — a pattern that operationalizes learners evaluating work together
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
-- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — related
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
-- [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md) — related
+- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
 - [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](cfts-promoted-noticing-peer-dialogs-metacognition.md) — related
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](challenge-support-imbalance-effects-novice-learners.md) — related

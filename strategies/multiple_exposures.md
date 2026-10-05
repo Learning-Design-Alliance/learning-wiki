@@ -12,14 +12,14 @@ generated:
 # Multiple Exposures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 1 of 8 report an effect size
 
 ## Description
 Multiple exposures arrange for learners to encounter the same target content several times, distributed across time and varied in form — a lecture, a reading, a worked example, a discussion, a practice problem. Each exposure should differ in context or task demands so that repetition produces elaboration and abstraction rather than rote familiarity.
 
 ## Design Implications
 
-Repeated, spaced encounters with content strengthen retention far more than a single massed presentation, and spacing the exposures amplifies the benefit of each repetition [Cepeda et al.'s meta-analysis found spaced practice reliably outperforms massed practice across materials and ages.](https://doi.org/10.1037/0033-2909.132.3.354) [+S]. The mechanism is partly encoding variability: each new context forces learners to abstract the invariant structure of the concept [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Exposures must be active — retrieval, comparison, application — because passive re-reading of the same material adds little beyond the first pass [Practice testing and distributed practice are among the highest-utility learning techniques.](https://doi.org/10.1037/a0031308) [+S].
+Repeated, spaced encounters with content strengthen retention far more than a single massed presentation, and spacing the exposures amplifies the benefit of each repetition [Cepeda et al.'s meta-analysis found spaced practice reliably outperforms massed practice across materials and ages.](https://doi.org/10.1037/0033-2909.132.3.354) [+S]. The mechanism is partly encoding variability: each new context forces learners to abstract the invariant structure of the concept [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Exposures must be active — retrieval, comparison, application — because passive re-reading of the same material adds little beyond the first pass [Practice testing and distributed practice are among the highest-utility learning techniques.](https://doi.org/10.1037/a0031308) [+S].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Repeated, spaced encounters with content strengthen retention far more than a si
 
 ### Target Learning Goals
 - Long-term retention of facts, concepts, and procedures
-- Abstraction and generalization: recognizing a concept across varied surface forms [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction and generalization: recognizing a concept across varied surface forms [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Discrimination: distinguishing similar concepts through exposure to confusable cases and [Erroneous Examples](../elements/non-examples.md) [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 
 ### Instructions

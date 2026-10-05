@@ -12,7 +12,7 @@ generated:
 # Character Scrapbooking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Students select four key events from a novel and create scrapbook entries representing a character's inner thoughts, feelings, and experiences during each event. Entries combine drawings, images, magazine cutouts, and textual quotes, and may be shared with peers or reframed as social media posts from the character's perspective. The activity requires students to infer unspoken mental states from textual evidence, then translate that inference into a visual-verbal composition.
@@ -36,7 +36,7 @@ Character scrapbooking is a generative, arts-integrated response to literature: 
 
 #### Implementation Variability
 - **Social media transpose:** entries become character Instagram posts (image + caption + hashtags), leveraging platform familiarity for engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
-- **Contrasting characters:** two students scrapbook the *same* event from different characters' perspectives, making perspective-taking visible through side-by-side comparison [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting characters:** two students scrapbook the *same* event from different characters' perspectives, making perspective-taking visible through side-by-side comparison [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Digital format:** Canva or Google Slides versions allow image search and revision; paper versions slow production and emphasize handcraft
 - **Ongoing vs. culminating:** entries can be added chapter-by-chapter (tracking character change) or produced after finishing the novel (retrospective synthesis)
 

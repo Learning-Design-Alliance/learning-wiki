@@ -11,7 +11,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 against) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 1 claim (1 against) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 6 report an effect size
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies (Hidi & Renninger, 2006; Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -35,7 +35,7 @@ The model is widely cited but only partially validated: it has received limited 
 - A believable route from the material to a personal connection or perceived meaningfulness, needed to move interest from Phase 1 (triggered) to Phase 2 (maintained) — without it, situational interest stays transient and never develops further
 #### Constraints
 - The model does not specify the mechanism of transition between phases, so it functions more as a descriptive stage map than a prescriptive design algorithm
-- Stimulating features added to arouse interest can misfire into distraction if they don't genuinely connect to the material — see [Seductive details can distract from learning](../claims/seductive-details-distract-from-learning.md) [-M]
+- Stimulating features added to arouse interest can misfire into distraction if they don't genuinely connect to the material — see [Seductive details can distract from learning](../claims/seductive-details-effect.md) [-M]
 - Students already struggling academically are more prone to distraction from poorly-integrated "interesting" additions than students who are already learning successfully (Sanchez & Wiley, 2006)
 
 ### Target Learners
@@ -51,7 +51,7 @@ The model is widely cited but only partially validated: it has received limited 
 - [ARCS Model of Motivational Design](arcs-model.md) [+M] — Keller's *perceptual arousal* and *inquiry arousal* attention tactics map closely onto this model's triggered and maintained situational interest phases, respectively
 
 ## Claims
-- [Seductive details can distract from learning](../claims/seductive-details-distract-from-learning.md) [-M]
+- [Seductive details can distract from learning](../claims/seductive-details-effect.md) [-M]
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

@@ -12,14 +12,14 @@ generated:
 # Mentor Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (5 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Mentor texts are examples of high-quality writing — professional or student-authored — that learners study and imitate to improve their own writing. The strategy involves deconstructing a text to identify effective "writer's moves" (sentence structure, organization, voice, use of detail), then emulating those moves in students' own drafts. Mentor texts can be multimodal: essays, poems, newspaper articles, song lyrics, comic strips, or manuals.
 
 ## Design Implications
 
-Mentor texts are an example-based learning strategy for writing: they substitute a studied model for unguided invention, reducing the search burden on novice writers [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Their effectiveness depends on active analysis — students must articulate *why* an author's move works, not just observe it — which converts reading into self-explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Comparing several mentor texts that address the same goal supports abstraction of the underlying technique rather than surface imitation [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Mentor texts are an example-based learning strategy for writing: they substitute a studied model for unguided invention, reducing the search burden on novice writers [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Their effectiveness depends on active analysis — students must articulate *why* an author's move works, not just observe it — which converts reading into self-explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Comparing several mentor texts that address the same goal supports abstraction of the underlying technique rather than surface imitation [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -31,7 +31,7 @@ Mentor texts are an example-based learning strategy for writing: they substitute
 #### Constraints
 - Students may copy surface features of a mentor text without understanding the underlying technique, producing pastiche rather than transfer [-M]
 - Exemplary professional models can intimidate struggling writers or feel unattainable; pairing them with flawed or developing examples lowers the comparison bar [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
-- A single mentor text anchors students to one authorial style; multiple contrasting texts reduce this risk [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- A single mentor text anchors students to one authorial style; multiple contrasting texts reduce this risk [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Techniques studied in isolation often fail to transfer to independent drafting without explicit prompts to apply them [-M]
 
 #### Implementation Variability

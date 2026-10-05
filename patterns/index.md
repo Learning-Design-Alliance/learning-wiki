@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**141 entries** · 0 stable · 71 in review · 70 drafts
+**139 entries** · 0 stable · 69 in review · 70 drafts
 
 ---
 
@@ -12,7 +12,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### A {: #letter-a }
 
-* [Adaptive Learning](adaptive-learning.md) - Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
 * [Anchored Instruction](anchored-instruction.md) - A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation.
 * [Authentic Assessment](authentic-assessment.md) - Assessing a capability through an extended task that mirrors real practice, with public criteria, feedback and revision before the final judgement, is expected to improve performance and transfer of that capability for learners who already have its components; no claim here tests authentic assessment against conventional tests, and guidance for novices, untrained self-assessment and scorer disagreement limit it.
 
@@ -99,7 +98,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### R {: #letter-r }
 
-* [Reflective Practice](reflective-practice.md) - Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance.
 * [Research-Based Learning](research-based-learning.md) - Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry.
 * [Responsive Classroom](responsive-classroom.md) - Responsive Classroom is a whole-school social-emotional learning approach that integrates community-building routines, proactive discipline, and academic choice into daily K–8 instruction.
 

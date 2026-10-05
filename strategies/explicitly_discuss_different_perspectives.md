@@ -12,13 +12,13 @@ generated:
 # Explicitly Discuss Different Perspectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Learners engage in structured discussions that make diverse viewpoints explicit — examining how people with different backgrounds, disciplinary commitments, or stakeholder positions interpret the same phenomenon. The strategy goes beyond exposure: learners must articulate a perspective, compare it against alternatives, and reason about why the differences exist. It is typically carried out through facilitated whole-class discussion, structured controversy, or analysis of contrasting cases and primary sources.
 
 ## Design Implications
-Structured perspective-taking discussion supports conceptual growth because learners must reconcile conflicting interpretations, which prompts elaboration and schema revision [Multiple contrasting cases support abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Diversity-related discussion is associated with gains in cognitive and civic outcomes when it is *structured* rather than merely co-occurring with a diverse group [+M]. The facilitator's role is critical: unstructured discussion tends to reproduce existing opinions, while assigned positions and evidence requirements force genuine engagement with unfamiliar views.
+Structured perspective-taking discussion supports conceptual growth because learners must reconcile conflicting interpretations, which prompts elaboration and schema revision [Multiple contrasting cases support abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Diversity-related discussion is associated with gains in cognitive and civic outcomes when it is *structured* rather than merely co-occurring with a diverse group [+M]. The facilitator's role is critical: unstructured discussion tends to reproduce existing opinions, while assigned positions and evidence requirements force genuine engagement with unfamiliar views.
 
 ### Context
 #### Requirements
@@ -45,7 +45,7 @@ Structured perspective-taking discussion supports conceptual growth because lear
 - Less effective for learners with very low prior knowledge, who cannot distinguish substantive from superficial disagreement
 
 ### Target Learning Goals
-- Conceptual understanding: recognizing how framing and assumptions shape interpretation [Multiple contrasting cases support abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Conceptual understanding: recognizing how framing and assumptions shape interpretation [Multiple contrasting cases support abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Argumentation and critical thinking: constructing, critiquing, and revising claims [Case-based learning improves exam performance when discussion requires reasoning through cases.](../claims/case-based-learning-improves-exam-performance.md) [+M]
 - Empathy and civic dispositions: understanding the experiences and reasoning of others [+M]
 

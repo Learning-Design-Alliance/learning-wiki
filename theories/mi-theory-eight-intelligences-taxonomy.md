@@ -41,7 +41,7 @@ The review briefly outlines Gardner's MI theory before presenting critics. Gardn
 - [Gardner never laid down a detailed plan for applying MI theory in schools, and classroom implementations operate independently of him](../claims/gardner-no-detailed-classroom-application-plan.md) [~M]
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](../claims/high-scorers-across-intelligences-support-g.md) [-M]
 - [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](../claims/intellectual-test-performances-correlated.md) [-M]
-- [Matching instruction to students' learning styles or intelligences has no effect on learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-M]
+- [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-M]
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](../claims/mi-lacks-empirical-theory-testing.md) [-M]
 - [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](../claims/multiple-intelligences-weak-on-science-talent.md) [-W]
 

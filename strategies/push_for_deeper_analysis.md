@@ -12,7 +12,7 @@ generated:
 # Push for Deeper Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Push for Deeper Analysis is a discussion-and-reflection strategy in which the teacher presses students past first-pass comprehension toward explaining *how* a text works: how sentence structure, diction, imagery, and organization produce tone, emphasis, and meaning. Students reread closely, generate and test interpretations, and articulate the relationship between textual evidence and inference. The teacher's role is to sustain questioning at the analytical level rather than accepting plot summary or "right answer" responses.
@@ -36,7 +36,7 @@ Deeper analysis works because it forces elaborative processing: explaining *why*
 
 #### Implementation Variability
 - **Written first, then shared:** students annotate and write initial analyses before discussion, ensuring all voices enter the conversation
-- **Contrastive analysis:** students compare two passages or two drafts of the same sentence to isolate how a structural choice changes meaning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrastive analysis:** students compare two passages or two drafts of the same sentence to isolate how a structural choice changes meaning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Peer-led questioning:** students generate analytical questions for each other using question stems, shifting from answering to asking
 - **Gradual release:** teacher models an analysis aloud, then students replicate the move on a new passage
 

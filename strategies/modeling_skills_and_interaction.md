@@ -12,7 +12,7 @@ generated:
 # Modeling Skills and Interaction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (6 review, 4 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (6 review, 5 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling means the instructor (or a peer, or a recorded expert) performs the target skill — an analysis, a discussion move, a problem-solving procedure, an academic interaction — while learners observe. Effective modeling goes beyond showing correct output: the modeler narrates decisions, monitors their own understanding, and revises course, making expert reasoning visible rather than leaving learners to infer it from finished products. Modeling applies both to *cognitive* skills (how to analyze a text, evaluate a claim) and to *interactional* skills (how to disagree productively, question a peer, build on others' ideas).
@@ -30,7 +30,7 @@ Modeling draws on social learning theory: learners acquire behaviors and standar
 #### Constraints
 - Observation without subsequent practice creates an illusion of mastery and transfers poorly [-S] — learners consistently overestimate what they learned from watching
 - Overly polished expert modeling can hide the struggle and error-recovery that learners most need to see; showing initial flawed attempts and revisions is often more instructive [~M]
-- Modeling a single canonical approach can anchor learners and reduce flexibility on open-ended tasks; contrasting multiple models mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Modeling a single canonical approach can anchor learners and reduce flexibility on open-ended tasks; contrasting multiple models mitigates this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - For learners with substantial prior knowledge, explicit modeling becomes redundant and can depress performance [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~S]
 
 #### Implementation Variability

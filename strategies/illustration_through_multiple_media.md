@@ -12,7 +12,7 @@ generated:
 # Illustration Through Multiple Media
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Illustration through multiple media presents a concept in more than one representational format — for example, an animated diagram with narrated explanation, a physical demonstration, and an interactive simulation of the same phenomenon. The goal is not variety for its own sake but complementary representations: each medium carries the part of the explanation it handles best, and together they support the construction of a richer mental model.
@@ -38,7 +38,7 @@ Multimedia learning research shows that well-designed combinations of words and 
 - Static-first: labeled diagrams with [Advance Organizers](../elements/advance-organizers.md) before any video, letting learners build structure before processing dynamic content
 - Simulation-based: interactive environments (e.g., PhET) where learners manipulate variables and observe outcomes, pairing illustration with guided inquiry
 - Learner-generated media: students create their own diagrams, videos, or [Analogies](../elements/analogies.md) to explain a concept, converting illustration into a generative activity
-- Contrast-based: side-by-side media comparing cases, which supports abstraction of the underlying principle [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Contrast-based: side-by-side media comparing cases, which supports abstraction of the underlying principle [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices, who benefit most from integrated words-and-pictures explanations that reduce unguided search [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]

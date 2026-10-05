@@ -12,7 +12,7 @@ generated:
 # Morphological Analysis of Latin and Greek Roots
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Morphological analysis teaches learners to treat words as built from meaningful units rather than as whole memorized items. Learners are explicitly taught high-frequency Latin and Greek roots (e.g., *spect*, *port*, *bio*, *chron*), common affixes, and a procedure for decomposing unfamiliar words and reasoning from parts to whole meaning. Instruction typically combines direct teaching of a small set of high-yield morphemes with guided analysis of novel words containing them.
@@ -36,7 +36,7 @@ Morphological awareness is one of the strongest predictors of vocabulary growth 
 
 #### Implementation Variability
 - **Word-family approach:** teach one root with a cluster of derivatives (*port*: export, import, portable, transport) — supports abstraction of the root meaning
-- **Contrastive sets:** compare words sharing a root against similar-looking non-cognates to sharpen discrimination, echoing the logic of [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrastive sets:** compare words sharing a root against similar-looking non-cognates to sharpen discrimination, echoing the logic of [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Embedded vs. standalone:** morpheme analysis woven into content reading outperforms isolated etymology lessons [~M]
 - **Digital tools:** online etymological dictionaries and morpheme-building activities (e.g., vocabulary.com's root-based word webs) extend practice beyond the classroom
 

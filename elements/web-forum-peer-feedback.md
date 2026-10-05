@@ -38,7 +38,7 @@ Abraham, Stengel, and Welsh (2014) used a Web forum as a tool for facilitating p
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+M]
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
 
 ## Related Elements
 - 

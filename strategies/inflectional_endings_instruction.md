@@ -25,7 +25,7 @@ sources:
 # Inflectional Endings Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 13 studies (6 quant-synthesis, 5 causal, 1 review, 1 associational), `q2`–`q4` · 5 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 unmarked) · 14 studies (6 causal, 6 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Inflectional endings instruction explicitly teaches the rules for adding suffixes such as -ed, -s, -es, -ing, -er, and -est to base words. These suffixes change number, person, or tense without changing a word's part of speech. Instruction typically includes making learners aware of the sounds suffixes make (e.g., the three pronunciations of past-tense -ed), sorting words by ending sound, and explicitly teaching orthographic rules — the doubling rule (*commit → committed*), the drop-e rule (*hope → hoping*), and the change-y-to-i rule (*carry → carried*). Meta-analytic evidence shows morphological instruction, of which inflectional endings are the entry point, improves literacy outcomes including word reading, spelling, and comprehension [Goodwin & Ahn's meta-analysis of morphological interventions.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S].
@@ -43,7 +43,7 @@ Explicit, systematic teaching of ending rules outperforms incidental exposure be
 #### Constraints
 - Less effective when taught as isolated rote spelling lists disconnected from reading and writing use [~M] — transfer to authentic writing drops when rules are practiced only on worksheets
 - Learners with significant phonological or language processing deficits may need smaller steps and more repetitions before rule generalization occurs [~W]
-- Teaching rules as absolute ("drop the e") without contrast cases produces overgeneralization errors (*hoping* spelled *hopping*); contrasting correct and incorrect forms reduces this [Multiple contrasting cases support abstraction of the underlying rule.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Teaching rules as absolute ("drop the e") without contrast cases produces overgeneralization errors (*hoping* spelled *hopping*); contrasting correct and incorrect forms reduces this [Multiple contrasting cases support abstraction of the underlying rule.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - Sound-first approach: sort words by how -ed sounds (/t/, /d/, /əd/) before teaching spelling
@@ -63,13 +63,13 @@ Explicit, systematic teaching of ending rules outperforms incidental exposure be
 ### Instructions
 1. **Activate awareness of sounds.** Have students sort words by the sound of the ending (e.g., /t/, /d/, /əd/ for -ed) before introducing spelling.
 2. **Model with direct instruction.** Explicitly state and demonstrate each orthographic rule (doubling, drop-e, y-to-i) using worked examples, following the modeling phase of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md).
-3. **Guide contrastive practice.** Use word pairs and triads that isolate one rule at a time (*hope/hoping/hopped*) so learners abstract the condition under which each rule applies [Multiple contrasting cases support abstraction of the underlying rule.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. **Guide contrastive practice.** Use word pairs and triads that isolate one rule at a time (*hope/hoping/hopped*) so learners abstract the condition under which each rule applies [Multiple contrasting cases support abstraction of the underlying rule.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. **Fade support into application.** Move from structured worksheets to dictation to authentic writing, prompting students to self-explain which rule applies and why [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 5. **Distribute review.** Revisit previously taught endings in short spaced sessions rather than massed blocks [Spaced practice improves retention of spelling patterns.](../claims/spaced-repetition-improves-retention.md) [+M].
 
 ## Related Strategies
 - [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — inflectional endings extend phonics into the morphological layer; both depend on systematic, explicit sequencing
-- [Word sorting](../claims/multiple-contrasting-cases-support-abstraction.md) — the primary practice format for contrasting ending patterns
+- [Word sorting](../claims/comparing-contrasting-cases-improves-learning.md) — the primary practice format for contrasting ending patterns
 
 ## Examples
 - A third-grade teacher decomposes words on the board (*hoping = hope + ing*), then guides students to combine base words and endings (*commit + ed = committed*) to illustrate the doubling rule, before students hunt for examples in their own reading.

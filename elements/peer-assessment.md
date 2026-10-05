@@ -17,7 +17,7 @@ sources:
 # Peer Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (3 quant-synthesis, 3 associational, 2 causal), `q2`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 quant-synthesis, 3 associational, 2 causal), `q2`–`q4` · 3 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria. It is useful when the goal is both better feedback for the work and stronger learner judgment about quality.
@@ -35,17 +35,17 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - Improve evaluative judgment, feedback literacy, and revision quality.
 
 ### Affordances
-- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
 - [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
-- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M]
-- [Peer Assessment Improves Performance](../claims/peer-assessment-improves-performance.md) [+M]
-- [Rubrics Improve Peer Feedback Quality](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
-- [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+M]
-- [Peer Feedback Accuracy Depends On Expertise](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](../claims/rubrics-improve-peer-feedback-quality.md) [+M]
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
 
 ## Related Elements
 - [Peer Review](peer-review.md)

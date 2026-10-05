@@ -64,7 +64,7 @@ Observation during grid games (Teddy Bear Bingo-type cards with dice): Rachel do
 ## Related Claims
 - [Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials](free-play-reveals-behavioral-math-knowledge.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
-- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — related
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](teacher-growth-three-areas-guiding-preschool-math.md) — related
 - [Rote counting is of surprisingly little help to preoperational children in judging whether two groups have the same number](rote-counting-little-help-number-judgment.md) — related

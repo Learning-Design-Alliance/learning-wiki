@@ -12,7 +12,7 @@ generated:
 # Emotion Identification Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 8 studies (5 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Emotion identification games are structured playful activities in which learners practice recognizing, naming, and expressing emotions. Typical formats include guessing a feeling from facial expressions or body cues, using puppets to enact emotionally charged situations, emotion-themed movement games, and songs that greet or label feelings. The playfulness lowers the affective stakes of discussing emotions while providing repeated, low-cost practice trials on the core discrimination task: mapping internal states and expressive cues to emotion labels.
@@ -55,7 +55,7 @@ Emotion identification games work because they pair repeated exposure to express
 3. Play the recognition round: learners guess a feeling from a puppet, card, or acted cue; require a justification ("How can you tell?") to prompt attention to cues [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 4. Give immediate, specific feedback on incorrect guesses, pointing to the discriminating cue ("See how her eyebrows go up? That's surprise, not anger") ([Provide Feedback](../elements/provide-feedback.md)).
 5. Connect to real situations through [Peer Discussion](../elements/peer-discussion.md): "When have you felt this?" — linking labels to lived experience.
-6. Increase difficulty over time: add intensity gradations, mixed emotions, and context-dependent cues, using [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) to sharpen category boundaries [+M].
+6. Increase difficulty over time: add intensity gradations, mixed emotions, and context-dependent cues, using [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) to sharpen category boundaries [+M].
 
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a specific check-in variant of the same recognition task

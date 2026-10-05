@@ -12,7 +12,7 @@ generated:
 # Reading and Writing for Real-World Math Applications
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 12 studies (5 quant-synthesis, 3 causal, 3 review, 1 theoretical), `q1`–`q4` · 5 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 13 studies (5 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Learners locate, read, and summarize published articles — news features, science reporting, consumer finance pieces — in which mathematics plays a visible role in a real-world context. They then produce short written summaries or annotations that identify the mathematical ideas at work, explain how they are used, and connect them to concepts from class. The strategy combines literacy practices with mathematics content, positioning learners as interpreters of quantitative information rather than only producers of calculations.
@@ -55,7 +55,7 @@ Reading authentic quantitative texts builds the connection between abstract math
 2. **Activate prior knowledge.** Before reading, surface the mathematical concepts the article will use ([Activation](../principles/activation.md)).
 3. **Read with annotation.** Learners mark quantities, relationships, and claims using a structured [Annotating](../principles/annotating.md) protocol.
 4. **Summarize mathematically.** Learners write a short summary that names the mathematical ideas, explains how they function in the context, and notes any assumptions or limitations.
-5. **Discuss and compare.** Learners share summaries; contrasting interpretations across readers of the same text supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+5. **Discuss and compare.** Learners share summaries; contrasting interpretations across readers of the same text supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 6. **Connect back.** Close by linking the article's mathematics to a related classroom problem or [Application](../elements/application.md) task.
 
 ## Related Strategies

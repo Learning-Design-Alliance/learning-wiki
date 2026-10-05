@@ -19,7 +19,7 @@ Learners use graphic organizers — matrices, concept maps, flowcharts, hierarch
 
 ## Design Implications
 
-Graphic organizers reduce extraneous load by imposing a structure on incoming information and support dual coding by pairing verbal content with spatial-visual organization [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Their benefit is largest when the organizer's structure matches the underlying structure of the content — a matrix for comparisons, a hierarchy for taxonomies, a flowchart for processes [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]. Meta-analytic evidence shows graphic organizers generally outperform standard note-taking and text-only study, with instructor-provided organizers especially effective for novices and learner-generated ones more valuable for building deeper processing [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M].
+Graphic organizers reduce extraneous load by imposing a structure on incoming information and support dual coding by pairing verbal content with spatial-visual organization [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Their benefit is largest when the organizer's structure matches the underlying structure of the content — a matrix for comparisons, a hierarchy for taxonomies, a flowchart for processes [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M]. Meta-analytic evidence shows graphic organizers generally outperform standard note-taking and text-only study, with instructor-provided organizers especially effective for novices and learner-generated ones more valuable for building deeper processing [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Graphic organizers reduce extraneous load by imposing a structure on incoming in
 
 ### Target Learning Goals
 - Comprehension of relationships: hierarchies, comparisons, cause-effect, and sequences in expository content
-- Retention of structured factual and conceptual knowledge [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Retention of structured factual and conceptual knowledge [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Summarization and synthesis: producing an organized representation of a source as preparation for writing or discussion
 
 ### Instructions

@@ -12,14 +12,14 @@ generated:
 # Student Models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 6 studies (3 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
 Student models are authentic examples of peer work — essays, lab reports, solutions, designs — that instructors curate and share so learners can see what the target performance actually looks like at various quality levels. Unlike expert demonstrations, they show work produced by someone at (or near) the learners' own level, making quality criteria concrete and attainable. They are typically used before or during a writing or production task, often alongside rubrics or [Assessment](../elements/assessment.md) criteria.
 
 ## Design Implications
 
-Student models make abstract quality criteria concrete: learners judge their own drafts against a visible peer example rather than a vague standard, which supports self-assessment and revision [~S]. Their effectiveness depends on how they are used — models paired with explicit criteria or structured comparison activities outperform models presented alone [~M]. Including multiple models of varying quality is more effective than a single exemplar, because contrasting cases help learners abstract the underlying criteria rather than imitating surface features [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Flawed or weak models can be especially valuable: analyzing erroneous examples builds conceptual understanding of *why* something fails [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
+Student models make abstract quality criteria concrete: learners judge their own drafts against a visible peer example rather than a vague standard, which supports self-assessment and revision [~S]. Their effectiveness depends on how they are used — models paired with explicit criteria or structured comparison activities outperform models presented alone [~M]. Including multiple models of varying quality is more effective than a single exemplar, because contrasting cases help learners abstract the underlying criteria rather than imitating surface features [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Flawed or weak models can be especially valuable: analyzing erroneous examples builds conceptual understanding of *why* something fails [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Student models make abstract quality criteria concrete: learners judge their own
 ### Instructions
 1. Select 2–4 anonymized models spanning a quality range; obtain student consent.
 2. Attach explicit criteria or a rubric so learners know what to look for.
-3. Have learners critique the models against the criteria — identify strengths, weaknesses, and what distinguishes the strongest from the weakest [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. Have learners critique the models against the criteria — identify strengths, weaknesses, and what distinguishes the strongest from the weakest [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. Debrief as a class to consolidate the criteria into shared language.
 5. Require learners to apply the same criteria to their own draft and revise ([Assessment for Learning](../principles/assessment-for-learning.md)).
 

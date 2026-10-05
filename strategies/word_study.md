@@ -12,14 +12,14 @@ generated:
 # Word Study
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size
 
 ## Description
 Word study is an approach to spelling and word knowledge instruction in which students actively investigate regularities in words — sound, pattern, and meaning relationships — rather than memorizing arbitrary word lists. Students examine words with shared features, compare and contrast them through sorting activities, and discover spelling generalizations they can apply to unfamiliar words. Instruction is differentiated: teachers assess each student's developmental spelling stage (typically via a spelling inventory) and group accordingly, following the developmental sequence from emergent to derivational relations described in the Words Their Way framework (Bear et al., 2020).
 
 ## Design Implications
 
-Word study aligns with research showing that instruction connecting spelling to phonics and meaning supports generalization better than whole-word memorization [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Its core activity — sorting contrasting word sets — is a form of case comparison that supports abstraction of the underlying rule [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Because fluent word recognition frees cognitive resources for comprehension, building automaticity with patterns has downstream reading benefits [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
+Word study aligns with research showing that instruction connecting spelling to phonics and meaning supports generalization better than whole-word memorization [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Its core activity — sorting contrasting word sets — is a form of case comparison that supports abstraction of the underlying rule [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Because fluent word recognition frees cognitive resources for comprehension, building automaticity with patterns has downstream reading benefits [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements

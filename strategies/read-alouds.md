@@ -50,7 +50,7 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 - Vocabulary acquisition and oral language development [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
 - Narrative skills and understanding of story structures
 - Comprehension strategy modeling: questioning, inferencing, using context cues
-- Motivation to read and extending worldview through literature [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+W]
+- Motivation to read and extending worldview through literature [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+W]
 
 ### Instructions
 1. **Select the text** — choose a high-interest text above learners' independent reading level but within their listening comprehension; pre-identify target vocabulary and stopping points.

@@ -80,10 +80,10 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets](group-tasks-most-frequent-active-learning-activity.md) — related
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — related
-- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
-- [Discussion Quality Drives Comprehension](structured-discussion-methods-improve-comprehension.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related
 - [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — a narrower finding that bears on this claim
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related

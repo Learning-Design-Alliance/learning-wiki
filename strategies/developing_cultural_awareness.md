@@ -12,7 +12,7 @@ generated:
 # Developing Cultural Awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Developing cultural awareness is the deliberate, ongoing practice by which educators come to understand their learners' cultural backgrounds, identities, and funds of knowledge — and simultaneously examine how their own cultural positioning, assumptions, and implicit biases shape their instructional decisions. It is carried out through structured self-reflection, sustained engagement with learners' communities, and the design of instruction that treats learners' cultural knowledge as an asset rather than an obstacle.
@@ -37,7 +37,7 @@ Cultural awareness is a precondition for culturally responsive pedagogy: instruc
 #### Implementation Variability
 - **Self-study cycles:** educators video-record their own teaching and analyze participation patterns for whose voices dominate
 - **Community immersion:** home visits, community walks, or partnerships that situate educator learning in learners' contexts
-- **Contrasting cases:** analyzing multiple authentic teaching scenarios side by side builds more flexible judgment than single exemplars [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting cases:** analyzing multiple authentic teaching scenarios side by side builds more flexible judgment than single exemplars [Comparing multiple contrasting cases supports abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Intercultural competence frameworks:** developmental models (e.g., Byram's knowledges/skills/attitudes) that treat awareness as a progression rather than a binary
 
 ### Target Learners

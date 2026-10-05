@@ -149,5 +149,5 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 ### Affordances
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Formative Assessment](../principles/formative-assessment.md)
-- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
 -->

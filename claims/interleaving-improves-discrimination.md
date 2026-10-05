@@ -103,5 +103,4 @@ narrow claim may be better supported than a general "interleaving improves learn
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — sequencing choices (blocked vs. interleaved) are a core load-management lever
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the practice-performance paradox makes external checks on learning essential when interleaving
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
-- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — a broader claim this one bears on
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related

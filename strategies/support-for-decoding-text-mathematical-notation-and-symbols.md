@@ -12,7 +12,7 @@ generated:
 # Support for Decoding Text, Mathematical Notation, and Symbols
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 11 studies (4 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 12 studies (5 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy reduces the decoding burden of written text, mathematical notation, and domain symbols so that learners' limited working memory is spent on the target learning goal rather than on parsing the representation itself. Supports include pre-teaching symbol meanings, glossaries and pronunciation guides, scaffolded notation introduction, read-aloud and text-to-speech options, and progressively fading decoding aids as fluency develops.
@@ -36,7 +36,7 @@ Decoding is a resource-consuming process: until word recognition and symbol inte
 #### Implementation Variability
 - **Text decoding:** glossaries, embedded vocabulary support, [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) editing, text-to-speech, audiobook pairings
 - **Mathematical notation:** side-by-side translation of notation into natural language, color-coding symbol roles, worked examples that annotate what each symbol represents
-- **Domain symbols (chemistry, music, logic):** symbol keys, [Chunking](../principles/chunking.md) of symbol strings into meaningful units, [Multiple contrasting cases to support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Domain symbols (chemistry, music, logic):** symbol keys, [Chunking](../principles/chunking.md) of symbol strings into meaningful units, [Multiple contrasting cases to support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Digital environments:** hover definitions, toggleable notation layers, adjustable reading level
 
 ### Target Learners

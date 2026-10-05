@@ -12,7 +12,7 @@ generated:
 # Lecture Support with Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Instructors present lecture content using graphic organizers — concept maps, matrices, flowcharts, hierarchical trees, comparison tables — rather than bullet-point slides or prose outlines. The organizer externalizes the relational structure of the content (hierarchies, sequences, cause–effect links, contrasts) so that learners see how ideas connect while hearing them explained, rather than reconstructing those connections later from linear notes.
@@ -39,7 +39,7 @@ Graphic organizers exploit the [Dual Coding Theory](../theories/dual-coding-theo
 - **Progressively built** organizer, revealed node by node as content unfolds
 - **Partial organizer** with blank nodes or unlabeled links that students fill in during the lecture (cloze-style)
 - **Student-generated** organizers as a post-lecture consolidation activity, which shifts toward [Annotating](../principles/annotating.md) and generative processing
-- **Matrices and comparison tables** for multi-concept contrasts, which support abstraction better than single-concept diagrams [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Matrices and comparison tables** for multi-concept contrasts, which support abstraction better than single-concept diagrams [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices who lack the prior knowledge to impose structure on the content themselves; the organizer substitutes for missing schemas [+M]

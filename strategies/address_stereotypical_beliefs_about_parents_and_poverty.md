@@ -38,7 +38,7 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 - Book studies and case discussions using counter-stereotypical family narratives
 - Home visits and community walks designed as learning opportunities for staff, not surveillance or service delivery
 - Redesign of engagement mechanisms: flexible conference times, two-way communication channels, family expertise inventories
-- Empathy-oriented narrative work — fiction and first-person accounts of poverty — as a lower-stakes entry point [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Empathy-oriented narrative work — fiction and first-person accounts of poverty — as a lower-stakes entry point [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 
 ### Target Learners
 - Practicing teachers and school staff whose family-contact practices are shaped by unexamined attributions

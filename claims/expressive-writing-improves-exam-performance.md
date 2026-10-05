@@ -76,7 +76,7 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — brief pre-assessment psychological interventions with similar logic
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — an alternative lever on the same exam-performance outcome
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — a broader claim this one bears on
-- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Growth mindset improves achievement](growth-mindset-improves-achievement.md) — related
 - [Math Anxiety Degrades Performance](math-anxiety-degrades-performance.md) — related

@@ -97,4 +97,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — classroom practices that make growth visible, reinforcing the mindset message
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — instructional context that gives students opportunities to act on a growth mindset
 - [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related
-- [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md) — related
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related

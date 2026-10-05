@@ -62,7 +62,7 @@ Same planned contrasts on the mathematics focus score (ten self-chosen chapters)
 
 
 ## Related Claims
-- [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md)
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md)
 - [Srl Web Training Peer Feedback Group By Time Interaction Online Math Prep](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md)
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related

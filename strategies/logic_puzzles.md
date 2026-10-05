@@ -12,7 +12,7 @@ generated:
 # Logic Puzzles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Logic puzzles are self-contained problems governed by explicit rules, where the solution must be derived through deduction rather than recalled or guessed. Common forms include grid-logic puzzles (e.g., Einstein's riddle), Sudoku, knights-and-knaves problems, and non-verbal matrix puzzles (e.g., Raven's-style items). As a learning strategy, they are carried out by presenting a puzzle, giving learners time to attempt it individually or in pairs, then debriefing the reasoning path — not just the answer.
@@ -31,7 +31,7 @@ Logic puzzles engage learners in sustained, rule-governed deduction, which can s
 #### Constraints
 - Far transfer is weak: training on puzzles reliably improves performance on similar puzzles but shows little or no transfer to general intelligence, academic reasoning, or unrelated domains [Does far transfer exist? Negative evidence from chess, music, and working memory training.](https://doi.org/10.1177/0963721417712760) [-S] — claims that puzzles "train the brain" in general are not supported
 - Puzzles beyond a learner's skill level produce frustration and disengagement rather than productive struggle [~M]
-- Over-reliance on a single puzzle type encourages pattern-matching to surface features rather than genuine deduction; varying puzzle structures mitigates this [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Over-reliance on a single puzzle type encourages pattern-matching to surface features rather than genuine deduction; varying puzzle structures mitigates this [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Puzzles with a single correct solution offer little practice in evaluating ambiguous evidence or open-ended argumentation
 
 #### Implementation Variability

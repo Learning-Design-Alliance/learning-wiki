@@ -1,14 +1,14 @@
 {
  "coverage": {
-  "claims->claims": 3401,
+  "claims->claims": 3390,
   "claims->designs": 13,
-  "claims->elements": 115,
+  "claims->elements": 113,
   "claims->learner-variables": 1,
   "claims->methods": 3,
-  "claims->patterns": 76,
+  "claims->patterns": 67,
   "claims->principles": 119,
   "claims->processes": 3,
-  "claims->theories": 216,
+  "claims->theories": 212,
   "designs->claims": 93,
   "designs->designs": 27,
   "designs->elements": 26,
@@ -20,10 +20,10 @@
   "elements->elements": 468,
   "elements->learner-variables": 1,
   "elements->methods": 1,
-  "elements->patterns": 246,
+  "elements->patterns": 248,
   "elements->principles": 316,
   "elements->processes": 1,
-  "elements->theories": 191,
+  "elements->theories": 195,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -33,26 +33,26 @@
   "methods->designs": 1,
   "methods->elements": 11,
   "methods->methods": 14,
-  "methods->patterns": 5,
+  "methods->patterns": 4,
   "methods->principles": 11,
   "methods->processes": 4,
   "methods->theories": 7,
-  "patterns->claims": 117,
+  "patterns->claims": 115,
   "patterns->designs": 18,
-  "patterns->elements": 78,
+  "patterns->elements": 76,
   "patterns->methods": 4,
-  "patterns->patterns": 88,
-  "patterns->principles": 73,
+  "patterns->patterns": 86,
+  "patterns->principles": 72,
   "patterns->processes": 1,
-  "patterns->theories": 30,
-  "principles->claims": 396,
+  "patterns->theories": 29,
+  "principles->claims": 390,
   "principles->designs": 34,
   "principles->elements": 90,
   "principles->methods": 4,
-  "principles->patterns": 71,
-  "principles->principles": 266,
+  "principles->patterns": 69,
+  "principles->principles": 258,
   "principles->processes": 2,
-  "principles->theories": 105,
+  "principles->theories": 106,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -64,15 +64,15 @@
   "strategies->designs": 2,
   "strategies->elements": 2396,
   "strategies->methods": 14,
-  "strategies->patterns": 811,
-  "strategies->principles": 1736,
+  "strategies->patterns": 815,
+  "strategies->principles": 1735,
   "strategies->processes": 9,
   "strategies->theories": 658,
   "theories->claims": 757,
   "theories->designs": 60,
   "theories->elements": 158,
   "theories->methods": 14,
-  "theories->patterns": 63,
+  "theories->patterns": 62,
   "theories->principles": 213,
   "theories->processes": 7,
   "theories->theories": 662
@@ -920,7 +920,7 @@
       "slug": "drawing-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
+      "slug": "dual-coding-improves-learning"
      },
      {
       "slug": "elaborative-encoding-improves-retention"
@@ -2074,7 +2074,7 @@
       "slug": "growth-mindset-improves-achievement"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "guided-play-improves-academic-outcomes"
@@ -2126,9 +2126,7 @@
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
-      "polarity": "+",
-      "slug": "peer-assessment-improves-performance",
-      "strength": "M"
+      "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "peer-discussion-improves-conceptual-understanding"
@@ -4404,7 +4402,7 @@
       "slug": "graphic-organizers-support-novice-comprehension"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "guided-notes-improve-note-accuracy"
@@ -5654,7 +5652,7 @@
       "slug": "assumptions-dictate-foundation-operationalization"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
@@ -5762,13 +5760,7 @@
       "slug": "encoding-variability-decontextualization-transfer"
      },
      {
-      "slug": "fiction-reading-improves-empathy"
-     },
-     {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
      },
      {
       "slug": "invention-tasks-prepare-future-learning"
@@ -5787,9 +5779,6 @@
      },
      {
       "slug": "multiple-contexts-generalization-transfer"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction"
@@ -6279,9 +6268,6 @@
    },
    "anonymity-mitigates-evaluation-apprehension": {
     "claims": [
-     {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
      {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
@@ -7058,9 +7044,6 @@
    "assess-pjbl-outcomes-across-quadrants": {
     "claims": [
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
@@ -7112,9 +7095,6 @@
       "strength": "S"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
@@ -7163,7 +7143,7 @@
       "slug": "increasing-wait-time-improves-response-quality"
      },
      {
-      "slug": "interleaving-improves-transfer"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "judgments-of-learning-inaccurate"
@@ -7200,9 +7180,6 @@
      },
      {
       "slug": "peer-feedback-accuracy-depends-on-expertise"
-     },
-     {
-      "slug": "peer-feedback-improves-work-quality"
      },
      {
       "slug": "peer-feedback-improves-writing"
@@ -7293,7 +7270,7 @@
       "slug": "teacher-expectation-effects-on-achievement"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      },
      {
       "slug": "writing-improves-mathematical-understanding"
@@ -8897,7 +8874,7 @@
       "slug": "extrinsic-rewards-undermine-intrinsic-motivation-argument"
      },
      {
-      "slug": "peer-feedback-improves-work-quality"
+      "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "peer-feedback-improves-writing"
@@ -10545,9 +10522,6 @@
      },
      {
       "slug": "teacher-expectation-effects-on-achievement"
-     },
-     {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
@@ -13244,9 +13218,6 @@
       "slug": "teacher-expectation-effects-on-achievement"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
-     },
-     {
       "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
@@ -15869,7 +15840,7 @@
    "board-certification-identifies-more-expert-teachers": {
     "claims": [
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "designs": [
@@ -16194,9 +16165,6 @@
       "slug": "emotion-labeling-improves-regulation"
      },
      {
-      "slug": "fiction-reading-improves-empathy"
-     },
-     {
       "slug": "formal-discipline-plan-increases-teacher-control-and-competence"
      },
      {
@@ -16206,10 +16174,10 @@
       "slug": "positive-greetings-at-the-door-improve-engagement"
      },
      {
-      "slug": "teacher-expectation-effects-on-achievement"
+      "slug": "reading-literary-fiction-improves-theory-of-mind"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-expectation-effects-on-achievement"
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
@@ -16582,9 +16550,6 @@
      },
      {
       "slug": "emotion-labeling-improves-regulation"
-     },
-     {
-      "slug": "fiction-reading-improves-empathy"
      },
      {
       "slug": "lack-of-trafficking-training-linked-stigma-rape-myths"
@@ -17519,10 +17484,7 @@
       "slug": "discussion-promotes-more-active-thought-than-lecture"
      },
      {
-      "slug": "fiction-reading-improves-empathy"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "hands-on-learning-improves-achievement"
@@ -17540,13 +17502,13 @@
       "slug": "mastery-learning-improves-outcomes"
      },
      {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
       "slug": "nvcc-bridge-program-full-retention"
      },
      {
       "slug": "project-based-learning-improves-achievement"
+     },
+     {
+      "slug": "reading-literary-fiction-improves-theory-of-mind"
      },
      {
       "slug": "reflective-practice-evidence-mixed-in-professional-education"
@@ -19284,9 +19246,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "elaborative-encoding-improves-retention"
      },
      {
@@ -19351,9 +19310,6 @@
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
      },
      {
       "slug": "intuitive-learners-outperform-sensing-learners"
@@ -19426,9 +19382,6 @@
      },
      {
       "slug": "multimedia-principles-benefit-novices"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "multiple-representations-improve-learning"
@@ -19869,11 +19822,6 @@
      {
       "polarity": "+",
       "slug": "cognitive-load-theory",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "creating-visual-representations",
       "strength": "S"
      },
      {
@@ -25659,7 +25607,7 @@
       "slug": "feedback-improves-learning"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "guided-play-improves-academic-outcomes"
@@ -26161,9 +26109,6 @@
       "slug": "manipulatives-require-connection-to-concept"
      },
      {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
       "slug": "multiple-representations-improve-learning"
      },
      {
@@ -26454,7 +26399,7 @@
       "slug": "heavy-cognitive-demands-of-mapping-can-be-counterproductive"
      },
      {
-      "slug": "interleaving-improves-transfer"
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "learner-paced-beats-system-paced-complex-material"
@@ -26864,9 +26809,7 @@
       "slug": "coherence-principle-irrelevant-material-hurts-learning"
      },
      {
-      "polarity": "~",
-      "slug": "comparing-contrasting-cases-improves-learning",
-      "strength": "M"
+      "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
       "slug": "concept-mapping-improves-learning"
@@ -26882,9 +26825,6 @@
      },
      {
       "slug": "dual-coding-improves-learning"
-     },
-     {
-      "slug": "dual-coding-improves-recall"
      },
      {
       "slug": "elaborative-encoding-improves-retention"
@@ -26931,9 +26871,6 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
-     },
-     {
       "slug": "guided-notes-improve-note-accuracy"
      },
      {
@@ -26947,9 +26884,6 @@
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
      },
      {
       "polarity": "~",
@@ -29165,9 +29099,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "experimenter-underlining-effective-as-student-underlining"
      },
      {
@@ -29227,9 +29158,6 @@
       "polarity": "+",
       "slug": "relevancy-of-emphasis-directs-attention",
       "strength": "M"
-     },
-     {
-      "slug": "seductive-details-distract-from-learning"
      },
      {
       "polarity": "+",
@@ -29601,9 +29529,6 @@
       "slug": "cooperation-versus-individualistic-effort-outcomes"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-gifted-students"
      },
      {
@@ -29622,7 +29547,7 @@
       "slug": "dialogic-reading-improves-expressive-language"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "johnson-meta-analysis-cooperative-achievement"
@@ -29649,9 +29574,6 @@
      },
      {
       "slug": "peer-discussion-improves-conceptual-understanding"
-     },
-     {
-      "slug": "peer-feedback-improves-work-quality"
      },
      {
       "slug": "peer-feedback-improves-writing"
@@ -30699,13 +30621,13 @@
       "slug": "cognitive-flexibility-theory-multiple-cases"
      },
      {
-      "slug": "interleaving-improves-transfer"
+      "slug": "encoding-variability-decontextualization-transfer"
+     },
+     {
+      "slug": "interleaving-improves-inductive-learning"
      },
      {
       "slug": "multiple-contexts-generalization-transfer"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction"
@@ -30714,7 +30636,22 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "application-of-knowledge",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "case-study",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "comparing-cases",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "conceptual-scaffolding",
       "strength": "M"
      },
      {
@@ -30734,7 +30671,22 @@
      },
      {
       "polarity": "+",
+      "slug": "knowledge-synthesis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "misconception-probes",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "perspective-taking",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "resource-evaluation",
       "strength": "M"
      },
      {
@@ -30772,7 +30724,7 @@
     ],
     "principles": [
      {
-      "polarity": "~",
+      "polarity": "+",
       "slug": "analogical-reasoning",
       "strength": "M"
      },
@@ -30805,7 +30757,27 @@
     "strategies": [
      {
       "polarity": "+",
+      "slug": "a_finders_guide_to_facts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "act_it_out",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "affinity_mapping",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "after-action-review",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "analogies",
       "strength": "M"
      },
      {
@@ -30820,6 +30792,36 @@
      },
      {
       "polarity": "+",
+      "slug": "applied_science_testing",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "bolster_credibility",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "bridging_cultures",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "broaden_your_palate",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "building_cultural_competency_skills_for_school_staff",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "calibrated_peer_review",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "card-sorting",
       "strength": "S"
      },
@@ -30830,8 +30832,38 @@
      },
      {
       "polarity": "+",
+      "slug": "case-based-learningcase-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "case-based-teaching",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "case-based_learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "case_studies",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "character_profile_creation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "character_scrapbooking",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "choral_counting",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -30840,7 +30872,32 @@
      },
      {
       "polarity": "+",
+      "slug": "classification_tasks",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "cognitively_demanding_tasks",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "collaborative_creation_of_exemplars",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "collect_my_data",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "comparing-contrasting-cases",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "comparing_cases",
       "strength": "S"
      },
      {
@@ -30865,12 +30922,32 @@
      },
      {
       "polarity": "+",
+      "slug": "connecting_concepts_to_procedures",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "contrasting-cases",
       "strength": "S"
      },
      {
       "polarity": "+",
+      "slug": "creating_visuals",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "critical_lens_development",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "critique-protocol",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "descriptive_feature_chart",
       "strength": "M"
      },
      {
@@ -30880,7 +30957,98 @@
      },
      {
       "polarity": "+",
+      "slug": "desmos-classroom-activities",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "developing_cultural_awareness",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "digital_literacy_instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "direct_instruction-genre-specific_writing_strategies",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "direct_instruction-keyword_search",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "direct_instruction-problem-solving_strategies",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "discussions_to_guide_reflection",
+      "strength": "M"
+     },
+     {
+      "slug": "diversity_of_perspectives_and_identities"
+     },
+     {
+      "polarity": "+",
+      "slug": "dot_card_matching_games",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "doubles-minus-one",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "drawing-to-learn",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "drawing_for_formative_assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "emotion_charades",
+      "strength": "M"
+     },
+     {
+      "slug": "emotion_identification_games"
+     },
+     {
+      "polarity": "+",
+      "slug": "emotion_identification_through_literature",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "emphasize_reasoning_over_answers",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "employ_common_language_and_strategies_across_disciplines",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "encourage_reading_diverse_texts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "environmental_interaction_analysis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "evaluating_online_sources",
       "strength": "M"
      },
      {
@@ -30900,7 +31068,32 @@
      },
      {
       "polarity": "+",
+      "slug": "explicit_discussion_of_perspectives",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "explicit_discussions_of_perspectives",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "explicitly_discuss_different_perspectives",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "exploration_station_for_multimodal_pathways",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "fact-checking-routines",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "fictional_characters_to_teach_social_awareness",
       "strength": "M"
      },
      {
@@ -30910,7 +31103,57 @@
      },
      {
       "polarity": "+",
+      "slug": "four_moves_and_a_habit",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "gallery_walk",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "genre-scaffolding",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers-and-visual-aids-attention",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic_notes",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "graphic_organizers",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic_organizers_and_visual_aids",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "heat_transfer_investigations",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "highlight-and-explore-patterns-critical-features-big-ideas-and-relationships",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "highlighting-and-exploration-of-patterns-critical-features-big-ideas-and-relationships",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "hoax_website_analysis",
       "strength": "M"
      },
      {
@@ -30925,6 +31168,39 @@
      },
      {
       "polarity": "+",
+      "slug": "ikea_vr_kitchen_visualizer",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "illustrate_through_multiple_media",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "illustration_through_multiple_media",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "inflectional_endings_instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "inquiry-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "inquiry-based_writing",
+      "strength": "S"
+     },
+     {
+      "slug": "integrating_art_and_science"
+     },
+     {
+      "polarity": "+",
       "slug": "interleave_practice_types",
       "strength": "S"
      },
@@ -30935,7 +31211,37 @@
      },
      {
       "polarity": "+",
+      "slug": "interpreting_the_news",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "islamic_geometry_exploration",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "kids_react",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "laboratory-reports",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "learner-generated_examples",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "lecture_support_with_graphic_organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "lesson-study",
       "strength": "M"
      },
      {
@@ -30945,7 +31251,97 @@
      },
      {
       "polarity": "+",
+      "slug": "logic_puzzles",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "manipulatives-sentence_combining",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mass-density-and-buoyancy-experiments",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "matched_examples_and_non-examples",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "math-talks-number-talks",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "math_art",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "math_coach_role-playing",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "math_coaching",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "maximization_of_transfer_and_generalization",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "maximize_transfer_and_generalization",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "measure_and_graph_data",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "media-literacy-education",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mentor-texts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mentor_texts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mini-lessons_on_features",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "model-eliciting-activities-meas",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "model-texts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "model_and_example_feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "model_the_assignment_or_skill",
       "strength": "M"
      },
      {
@@ -30955,12 +31351,75 @@
      },
      {
       "polarity": "+",
+      "slug": "modeling_skills_and_interaction",
+      "strength": "M"
+     },
+     {
+      "slug": "morphological-analysis"
+     },
+     {
+      "polarity": "+",
       "slug": "morphological-instruction",
       "strength": "M"
      },
      {
       "polarity": "+",
+      "slug": "morphological_analysis_of_latin_and_greek_roots",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "morphological_instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "morphology-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "motion_and_forces_experiments",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple-representations",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple_examples",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple_exposures",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiple_texts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multiplicative_double_counting",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mystery_emotion",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "number-talks",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "number_talks",
       "strength": "M"
      },
      {
@@ -30975,12 +31434,57 @@
      },
      {
       "polarity": "+",
+      "slug": "peer_critique",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "philosophical_chairs",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "playing_with_techniques",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "poetry_exploration_through_digital_libraries",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "predicting-observing-explaining",
       "strength": "S"
      },
      {
       "polarity": "+",
+      "slug": "productive-failure",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "productive_struggle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "propaganda_technique_identification",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "provide_writing_models",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "providing_multiple_means_of_representation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "push_for_deeper_analysis",
       "strength": "M"
      },
      {
@@ -30990,7 +31494,45 @@
      },
      {
       "polarity": "+",
+      "slug": "rapid_sequencing_of_examples",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "reaction_observations",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "reading_and_writing_for_real-world_math_applications",
+      "strength": "M"
+     },
+     {
+      "slug": "real-world_math_applications"
+     },
+     {
+      "polarity": "+",
       "slug": "reflection",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "regular_text_referencing",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "repertoire_of_strategies",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "representation_of_diverse_perspectives_and_identities",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "rich_resources-diversity",
       "strength": "M"
      },
      {
@@ -31023,8 +31565,56 @@
      },
      {
       "polarity": "+",
+      "slug": "self-assessment-rubrics",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "self-explanation-prompting",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "semantic_feature_analysis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "sentence-combining",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "sentence_combining",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "shape_search",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "show_and_tell_for_multimodal_composition",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "show_and_tell_for_multimodal_design",
+      "strength": "M"
+     },
+     {
+      "slug": "simulation-based-learning"
+     },
+     {
+      "polarity": "+",
+      "slug": "simulations-structured-activity",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "six_thinking_hats",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -31041,7 +31631,32 @@
      },
      {
       "polarity": "+",
+      "slug": "stations-interacting_with_multiple_texts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "student-generated_problems",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "student_models",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "student_presentation_of_collaborative_work",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "studio-critique",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "study_of_written_models",
       "strength": "M"
      },
      {
@@ -31051,7 +31666,27 @@
      },
      {
       "polarity": "+",
+      "slug": "support-for-decoding-text-mathematical-notation-and-symbols",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "t-chart",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "take-home_practice_sets",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach_key_words_for_standardized_test_prompts",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teaching_academic_vocabulary_in_pbl",
       "strength": "M"
      },
      {
@@ -31059,7 +31694,17 @@
      },
      {
       "polarity": "+",
+      "slug": "the_frayer_model",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "think-aloud_modeling",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "thinking_tools_with_graphic_organizers",
       "strength": "M"
      },
      {
@@ -31073,9 +31718,24 @@
       "strength": "S"
      },
      {
+      "polarity": "~",
+      "slug": "through_the_eyes_of_the_people_in_a_story",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "tier_two_vocabulary_instruction",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "tiered-vocabulary-instruction",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "trait_identification_and_construction",
+      "strength": "S"
      },
      {
       "polarity": "+",
@@ -31088,9 +31748,39 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "use_body_language_and_demonstrations",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "use_concrete_examples",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "use_quotations_to_cite_textual_evidence",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "using_manipulatives",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "visual_representations_in_mathematics",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "vocabulary_meaning_through_context",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "whats_below_the_surface_(iceberg_analysis)",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -31129,12 +31819,27 @@
      },
      {
       "polarity": "+",
+      "slug": "word_sort",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "word_study",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "worked-examples-first",
       "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "worked_examples_first",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "wwyd_critical_incidents",
       "strength": "M"
      },
      {
@@ -33132,6 +33837,11 @@
      },
      {
       "polarity": "+",
+      "slug": "case-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "cognitive-apprenticeship",
       "strength": "M"
      },
@@ -33338,11 +34048,6 @@
       "strength": "M"
      },
      {
-      "polarity": "+",
-      "slug": "case-studiescase-based-learning",
-      "strength": "M"
-     },
-     {
       "polarity": "~",
       "slug": "check-ins",
       "strength": "M"
@@ -33385,11 +34090,6 @@
      {
       "polarity": "~",
       "slug": "cultural-life-experiences-connections",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "debate",
       "strength": "M"
      },
      {
@@ -33509,7 +34209,7 @@
      },
      {
       "polarity": "+",
-      "slug": "mentoringcoaching",
+      "slug": "mentoring-and-coaching",
       "strength": "M"
      },
      {
@@ -33524,7 +34224,7 @@
      },
      {
       "polarity": "~",
-      "slug": "peer-feedbackpeer-review",
+      "slug": "peer-feedback",
       "strength": "M"
      },
      {
@@ -33576,9 +34276,6 @@
       "polarity": "~",
       "slug": "simulations-immersive-virtual-environments",
       "strength": "M"
-     },
-     {
-      "slug": "situated-learning"
      },
      {
       "polarity": "~",
@@ -34066,6 +34763,11 @@
       "polarity": "~",
       "slug": "constructivism",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "situated-learning",
+      "strength": "M"
      }
     ]
    },
@@ -34422,9 +35124,6 @@
       "slug": "cooperation-versus-individualistic-effort-outcomes"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
@@ -34449,77 +35148,6 @@
      {
       "polarity": "+",
       "slug": "varieties-of-cooperative-learning",
-      "strength": "M"
-     }
-    ]
-   },
-   "cooperative-learning-free-rider-without-accountability": {
-    "claims": [
-     {
-      "slug": "anonymity-mitigates-evaluation-apprehension"
-     },
-     {
-      "slug": "assess-pjbl-outcomes-across-quadrants"
-     },
-     {
-      "slug": "cooperative-learning-achievement-synthesis-slavin"
-     },
-     {
-      "slug": "cooperative-learning-group-rewards-and-individual-accountability"
-     },
-     {
-      "slug": "cooperative-learning-moderate-overall-effect-second-order"
-     },
-     {
-      "slug": "cooperative-learning-versus-individual-endeavors"
-     },
-     {
-      "slug": "interdependence-type-no-achievement-effect-asynchronous"
-     },
-     {
-      "slug": "lazarowitz-cooperative-biology-achievement"
-     },
-     {
-      "slug": "pairs-better-than-triads-in-stellar-inquiry"
-     },
-     {
-      "slug": "peer-assisted-learning-improves-achievement"
-     },
-     {
-      "slug": "secondary-cooperative-learning-newmann-thompson"
-     },
-     {
-      "slug": "small-group-learning-improves-stem-achievement"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "~",
-      "slug": "structured-academic-controversy",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "think-pair-share",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "cooperative-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "social-interdependence",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "-",
-      "slug": "leveraging_strengths_in_relationship_skills",
       "strength": "M"
      }
     ]
@@ -34562,9 +35190,6 @@
       "slug": "cooperative-learning-achievement-synthesis-slavin"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-improves-achievement"
      },
      {
@@ -34584,6 +35209,9 @@
      },
      {
       "slug": "interdependence-type-no-achievement-effect-asynchronous"
+     },
+     {
+      "slug": "lazarowitz-cooperative-biology-achievement"
      },
      {
       "slug": "pairs-better-than-triads-in-stellar-inquiry"
@@ -34655,12 +35283,27 @@
       "strength": "S"
      },
      {
+      "polarity": "~",
+      "slug": "structured-academic-controversy",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "team-based-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "think-pair-share",
+      "strength": "M"
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "cooperative-learning",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "gamification",
@@ -34860,6 +35503,11 @@
       "polarity": "+",
       "slug": "learning-communities",
       "strength": "S"
+     },
+     {
+      "polarity": "-",
+      "slug": "leveraging_strengths_in_relationship_skills",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -35252,9 +35900,6 @@
    "cooperative-learning-moderate-overall-effect-second-order": {
     "claims": [
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
@@ -35334,9 +35979,6 @@
     "claims": [
      {
       "slug": "assess-pjbl-outcomes-across-quadrants"
-     },
-     {
-      "slug": "cooperative-learning-free-rider-without-accountability"
      },
      {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
@@ -35515,10 +36157,10 @@
       "slug": "word-frequency-shifts-in-reflections"
      }
     ],
-    "patterns": [
+    "principles": [
      {
       "polarity": "+",
-      "slug": "reflective-practice",
+      "slug": "reflection",
       "strength": "M"
      }
     ],
@@ -37293,9 +37935,6 @@
       "slug": "multimedia-principle-improves-learning"
      },
      {
-      "slug": "seductive-details-distract-from-learning"
-     },
-     {
       "slug": "seductive-details-effect"
      }
     ],
@@ -37973,10 +38612,10 @@
       "slug": "early-training-adaptations-misread-as-talent"
      },
      {
-      "slug": "education-dp-4-5-percent-variance"
+      "slug": "historical-improvements-reject-immutable-limits"
      },
      {
-      "slug": "historical-improvements-reject-immutable-limits"
+      "slug": "meta-analysis-variation-from-methodological-choices"
      },
      {
       "slug": "relative-age-effect-talent-selection-bias"
@@ -37998,6 +38637,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "three-phase-dp-pp-practice-protocol",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -38010,6 +38656,18 @@
       "polarity": "+",
       "slug": "on-the-job-training-ojt",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "deliberate-practice-second-language-learning-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "four-practice-types-taxonomy",
+      "strength": "W"
      }
     ]
    },
@@ -38371,9 +39029,6 @@
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
      },
      {
       "slug": "learning-rate-retention-tradeoff"
@@ -39865,7 +40520,7 @@
       "slug": "e-teacher-shift-to-facilitator-role"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "ideation-discussion-creative-thought-gains-not-logic"
@@ -41026,90 +41681,6 @@
       "slug": "decorative-illustrations-do-not-improve-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
-      "slug": "graphic-organizers-support-novice-comprehension"
-     },
-     {
-      "slug": "learner-constructed-graphic-organizers-outperform-provided"
-     },
-     {
-      "slug": "media-combinations-affect-recall-and-retention"
-     },
-     {
-      "slug": "modality-effect-narration-over-text"
-     },
-     {
-      "slug": "multimedia-principle-improves-learning"
-     },
-     {
-      "slug": "multimedia-principle-words-and-pictures-outcomes"
-     },
-     {
-      "slug": "multimodal-glosses-improve-incidental-vocabulary-learning"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "dual-coding",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "multimedia-instruction",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multimedia-learning",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "dual-coding",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "graphic-organizers",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multimodal-instruction",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "providing_multiple_means_of_representation",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "sketchnoting",
-      "strength": "M"
-     }
-    ],
-    "theories": [
-     {
-      "polarity": "+",
-      "slug": "multimedia-gloss-theoretical-foundations-mit-dct-gtml",
-      "strength": "M"
-     }
-    ]
-   },
-   "dual-coding-improves-recall": {
-    "claims": [
-     {
-      "slug": "dual-coding-improves-learning"
-     },
-     {
       "slug": "graphic-organizers-support-novice-comprehension"
      },
      {
@@ -41137,8 +41708,23 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "dual-coding",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "mental-models",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "multimedia-instruction",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -41148,8 +41734,18 @@
     ],
     "principles": [
      {
-      "polarity": "~",
+      "polarity": "+",
       "slug": "dual-coding",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "graphic-organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "multimodal-instruction",
       "strength": "M"
      },
      {
@@ -41525,6 +42121,16 @@
      {
       "polarity": "+",
       "slug": "problem_solving-draw_a_picture",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "providing_multiple_means_of_representation",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "sketchnoting",
       "strength": "M"
      },
      {
@@ -42160,42 +42766,6 @@
      {
       "polarity": "+",
       "slug": "rjm-seven-stage-epistemic-framework",
-      "strength": "W"
-     }
-    ]
-   },
-   "education-dp-4-5-percent-variance": {
-    "claims": [
-     {
-      "slug": "deliberate-practice-improves-performance"
-     },
-     {
-      "slug": "meta-analysis-variation-from-methodological-choices"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "three-phase-dp-pp-practice-protocol",
-      "strength": "W"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "deliberate-practice",
-      "strength": "M"
-     }
-    ],
-    "theories": [
-     {
-      "polarity": "+",
-      "slug": "deliberate-practice-second-language-learning-framework",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "four-practice-types-taxonomy",
       "strength": "W"
      }
     ]
@@ -42877,10 +43447,10 @@
       "slug": "expressive-writing-improves-health-outcomes"
      }
     ],
-    "patterns": [
+    "principles": [
      {
       "polarity": "+",
-      "slug": "reflective-practice",
+      "slug": "reflection",
       "strength": "W"
      }
     ],
@@ -44135,7 +44705,7 @@
       "slug": "analogical-reasoning-improves-transfer"
      },
      {
-      "slug": "multiple-contrasting-cases-support-abstraction"
+      "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
       "slug": "task-variety-enables-transfer-same-task-type"
@@ -49328,11 +49898,6 @@
      },
      {
       "polarity": "~",
-      "slug": "competency-based-learning-assessment",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
       "slug": "expanding-social-networks",
       "strength": "S"
      },
@@ -49373,7 +49938,7 @@
      },
      {
       "polarity": "+",
-      "slug": "mentoringcoaching",
+      "slug": "mentoring-and-coaching",
       "strength": "S"
      },
      {
@@ -53465,100 +54030,6 @@
      }
     ]
    },
-   "fiction-reading-improves-empathy": {
-    "claims": [
-     {
-      "slug": "brief-intervention-empathic-discipline-cuts-suspensions"
-     },
-     {
-      "slug": "building-empathy-improves-intergroup-attitudes"
-     },
-     {
-      "slug": "reading-literary-fiction-improves-theory-of-mind"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "social-emotional-learning",
-      "strength": "W"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "building-empathy",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "address_stereotypical_beliefs_about_parents_and_poverty",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "audiobooks_for_literacy_reinforcement",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "blackout_conversation",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "classroom-library-curation",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "classroom_library",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "independent-reading",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "read-alouds",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "through_the_eyes_of_the_people_in_a_story",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "twelve-angry-men",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "use-current-events-fictional-characters",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "use_current_events_and_fictional_characters_to_teach_social_awareness",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "virtual-reality-vr-for-empathy-training",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "windows-mirrors-and-sliding-glass-doors",
-      "strength": "M"
-     }
-    ]
-   },
    "field-independent-better-map-feature-placement": {
     "claims": [
      {
@@ -57328,9 +57799,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
      },
      {
@@ -57894,10 +58362,19 @@
    "guided-discovery-outperforms-pure-discovery": {
     "claims": [
      {
+      "slug": "ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions"
+     },
+     {
       "slug": "discovery-method-motor-learning-attitudes"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "discussion-promotes-more-active-thought-than-lecture"
+     },
+     {
+      "slug": "guided-matching-and-peer-scaffolding-build-correspondence"
+     },
+     {
+      "slug": "inquiry-based-teaching-improves-science-achievement"
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
@@ -57931,11 +58408,21 @@
      },
      {
       "polarity": "+",
+      "slug": "inquiry-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "simulation",
       "strength": "S"
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "5e-learning-cycle",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "authentic-assessment",
@@ -57945,84 +58432,6 @@
       "polarity": "~",
       "slug": "concept-attainment",
       "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "inquiry-based-learning",
-      "strength": "S"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "concept_discovery_through_examples_and_non-examples",
-      "strength": "S"
-     }
-    ]
-   },
-   "guided-inquiry-computational-model-overcomes-amplitude-misconception": {
-    "claims": [
-     {
-      "slug": "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning"
-     }
-    ],
-    "designs": [
-     {
-      "polarity": "+",
-      "slug": "demo-inquiry-model-discussion-sequence",
-      "strength": "M"
-     }
-    ]
-   },
-   "guided-inquiry-outperforms-pure-discovery": {
-    "claims": [
-     {
-      "slug": "ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions"
-     },
-     {
-      "slug": "discussion-promotes-more-active-thought-than-lecture"
-     },
-     {
-      "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-matching-and-peer-scaffolding-build-correspondence"
-     },
-     {
-      "slug": "inquiry-based-teaching-improves-science-achievement"
-     },
-     {
-      "slug": "minimal-guidance-less-effective-for-novices"
-     },
-     {
-      "slug": "productive-failure-improves-conceptual-learning"
-     },
-     {
-      "slug": "teacher-guided-inquiry-outperforms-student-led"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "guided-discovery",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "guided-inquiry",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "inquiry-based-learning",
-      "strength": "M"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "5e-learning-cycle",
-      "strength": "M"
      },
      {
       "polarity": "~",
@@ -58055,8 +58464,27 @@
     "strategies": [
      {
       "polarity": "+",
+      "slug": "concept_discovery_through_examples_and_non-examples",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "rice_tables_and_sandboxes-science_through_inquiry",
       "strength": "S"
+     }
+    ]
+   },
+   "guided-inquiry-computational-model-overcomes-amplitude-misconception": {
+    "claims": [
+     {
+      "slug": "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "demo-inquiry-model-discussion-sequence",
+      "strength": "M"
      }
     ]
    },
@@ -58066,7 +58494,7 @@
       "slug": "free-play-reveals-behavioral-math-knowledge"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "number-board-games-improve-numerical-knowledge"
@@ -62450,7 +62878,7 @@
       "slug": "explicit-instruction-context-dependent-synthesis"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "learning-cycle-effective-science-learning"
@@ -63591,13 +64019,13 @@
    "interdependence-type-no-achievement-effect-asynchronous": {
     "claims": [
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
       "slug": "cooperative-learning-improves-achievement"
+     },
+     {
+      "slug": "high-affiliation-motive-favorable-group-attitudes"
      },
      {
       "slug": "interaction-quantity-correlates-posttest-online-groups"
@@ -63872,9 +64300,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
       "slug": "learners-misjudge-spacing-benefits"
      }
     ],
@@ -63896,18 +64321,24 @@
    "interleaving-improves-inductive-learning": {
     "claims": [
      {
+      "slug": "analogical-reasoning-improves-transfer"
+     },
+     {
+      "slug": "comparing-contrasting-cases-improves-learning"
+     },
+     {
       "slug": "desirable-difficulties-enhance-learning"
      },
      {
       "slug": "interleaving-improves-discrimination"
      },
      {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
       "polarity": "+",
       "slug": "judgments-of-learning-inaccurate",
       "strength": "S"
+     },
+     {
+      "slug": "learners-misjudge-effective-learning-strategies"
      },
      {
       "slug": "learning-rate-retention-tradeoff"
@@ -63942,6 +64373,13 @@
       "strength": "M"
      }
     ],
+    "methods": [
+     {
+      "polarity": "~",
+      "slug": "logic-model",
+      "strength": "M"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -63954,6 +64392,11 @@
       "polarity": "+",
       "slug": "spaced-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "transfer-of-learning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -63961,54 +64404,6 @@
       "polarity": "+",
       "slug": "interleaving",
       "strength": "S"
-     }
-    ]
-   },
-   "interleaving-improves-transfer": {
-    "claims": [
-     {
-      "slug": "analogical-reasoning-improves-transfer"
-     },
-     {
-      "slug": "comparing-contrasting-cases-improves-learning"
-     },
-     {
-      "slug": "desirable-difficulties-enhance-learning"
-     },
-     {
-      "slug": "interleaving-improves-discrimination"
-     },
-     {
-      "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "learners-misjudge-effective-learning-strategies"
-     },
-     {
-      "slug": "learning-rate-retention-tradeoff"
-     },
-     {
-      "slug": "spaced-practice-improves-retention"
-     },
-     {
-      "slug": "spaced-repetition-improves-retention"
-     },
-     {
-      "slug": "task-repetition-fluency-complexity-same-task-only"
-     }
-    ],
-    "methods": [
-     {
-      "polarity": "~",
-      "slug": "logic-model",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "transfer-of-learning",
-      "strength": "M"
      }
     ]
    },
@@ -66863,7 +67258,7 @@
       "slug": "cooperative-conceptual-change-chemistry-misconceptions"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
+      "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
       "slug": "cooperative-learning-science-studies-mixed"
@@ -67141,9 +67536,6 @@
       "slug": "stronger-belonging-linked-engagement-achievement"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
-     },
-     {
       "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
@@ -67227,9 +67619,6 @@
      },
      {
       "slug": "dual-coding-improves-learning"
-     },
-     {
-      "slug": "dual-coding-improves-recall"
      },
      {
       "slug": "generative-learning-improves-comprehension"
@@ -68138,9 +68527,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
       "slug": "retrieval-practice-improves-retention"
      },
      {
@@ -68150,14 +68536,12 @@
       "slug": "spaced-retrieval-improves-retention"
      }
     ],
-    "patterns": [
+    "principles": [
      {
       "polarity": "~",
       "slug": "adaptive-learning",
       "strength": "W"
-     }
-    ],
-    "principles": [
+     },
      {
       "polarity": "+",
       "slug": "stratify-learners-by-learning-efficiency",
@@ -71200,9 +71584,6 @@
      },
      {
       "slug": "tutor-background-meta-regression-not-predictive"
-     },
-     {
-      "slug": "tutor-background-subgroup-differences-nonsignificant"
      }
     ],
     "patterns": [
@@ -72195,9 +72576,6 @@
      },
      {
       "slug": "dual-coding-improves-learning"
-     },
-     {
-      "slug": "dual-coding-improves-recall"
      },
      {
       "slug": "multimedia-principle-improves-learning"
@@ -73468,7 +73846,7 @@
       "slug": "call-meta-analyses-mean-effect-d-064"
      },
      {
-      "slug": "education-dp-4-5-percent-variance"
+      "slug": "deliberate-practice-improves-performance"
      }
     ],
     "methods": [
@@ -74155,9 +74533,6 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "guided-play-improves-academic-outcomes"
@@ -75356,9 +75731,6 @@
     "claims": [
      {
       "slug": "dual-coding-improves-learning"
-     },
-     {
-      "slug": "dual-coding-improves-recall"
      },
      {
       "slug": "enhancing-features-direct-attention-dual-language-e-books"
@@ -76765,9 +77137,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "media-combinations-affect-recall-and-retention"
      },
      {
@@ -76864,9 +77233,6 @@
     "claims": [
      {
       "slug": "dual-coding-improves-learning"
-     },
-     {
-      "slug": "dual-coding-improves-recall"
      },
      {
       "slug": "media-combinations-affect-recall-and-retention"
@@ -77003,9 +77369,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "glossing-medium-large-effects-l2-vocabulary"
      },
      {
@@ -77115,9 +77478,6 @@
       "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
       "slug": "teachers-synthesize-pd-practices-with-context-not-just-transfer-them"
      }
     ],
@@ -77133,839 +77493,6 @@
       "polarity": "~",
       "slug": "situated-learning-contexts-of-use",
       "strength": "W"
-     }
-    ]
-   },
-   "multiple-contrasting-cases-support-abstraction": {
-    "claims": [
-     {
-      "slug": "analogical-reasoning-improves-transfer"
-     },
-     {
-      "slug": "cognitive-flexibility-theory-multiple-cases"
-     },
-     {
-      "slug": "comparing-contrasting-cases-improves-learning"
-     },
-     {
-      "slug": "encoding-variability-decontextualization-transfer"
-     },
-     {
-      "slug": "multiple-contexts-generalization-transfer"
-     },
-     {
-      "slug": "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "application-of-knowledge",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "case-study",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "comparing-cases",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "conceptual-scaffolding",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "knowledge-synthesis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "perspective-taking",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "resource-evaluation",
-      "strength": "M"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "case-based-learning",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "analogical-reasoning",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
-      "slug": "a_finders_guide_to_facts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "act_it_out",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "affinity_mapping",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "analogies",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "applied_science_testing",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "bolster_credibility",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "bridging_cultures",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "broaden_your_palate",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "building_cultural_competency_skills_for_school_staff",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "calibrated_peer_review",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "case-based-learningcase-based-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "case-based_learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "case_studies",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "character_profile_creation",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "character_scrapbooking",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "choral_counting",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "classification_tasks",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "cognitively_demanding_tasks",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "collaborative_creation_of_exemplars",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "collect_my_data",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "comparing_cases",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "connecting_concepts_to_procedures",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "contrasting-cases",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "creating_visuals",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "critical_lens_development",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "descriptive_feature_chart",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "desmos-classroom-activities",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "developing_cultural_awareness",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "digital_literacy_instruction",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "direct_instruction-genre-specific_writing_strategies",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "direct_instruction-keyword_search",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "direct_instruction-problem-solving_strategies",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "discussions_to_guide_reflection",
-      "strength": "M"
-     },
-     {
-      "slug": "diversity_of_perspectives_and_identities"
-     },
-     {
-      "polarity": "+",
-      "slug": "dot_card_matching_games",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "drawing-to-learn",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "drawing_for_formative_assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "emotion_charades",
-      "strength": "M"
-     },
-     {
-      "slug": "emotion_identification_games"
-     },
-     {
-      "polarity": "+",
-      "slug": "emotion_identification_through_literature",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "emphasize_reasoning_over_answers",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "employ_common_language_and_strategies_across_disciplines",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "encourage_reading_diverse_texts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "environmental_interaction_analysis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "evaluating_online_sources",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "explicit_discussion_of_perspectives",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "explicit_discussions_of_perspectives",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "explicitly_discuss_different_perspectives",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "exploration_station_for_multimodal_pathways",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "fictional_characters_to_teach_social_awareness",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "four_moves_and_a_habit",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "gallery_walk",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "graphic-organizers-and-visual-aids-attention",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "graphic_notes",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "graphic_organizers",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "graphic_organizers_and_visual_aids",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "heat_transfer_investigations",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "highlight-and-explore-patterns-critical-features-big-ideas-and-relationships",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "highlighting-and-exploration-of-patterns-critical-features-big-ideas-and-relationships",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "hoax_website_analysis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "ikea_vr_kitchen_visualizer",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "illustrate_through_multiple_media",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "illustration_through_multiple_media",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "inflectional_endings_instruction",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "inquiry-based-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "inquiry-based_writing",
-      "strength": "S"
-     },
-     {
-      "slug": "integrating_art_and_science"
-     },
-     {
-      "polarity": "+",
-      "slug": "interpreting_the_news",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "islamic_geometry_exploration",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "kids_react",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "learner-generated_examples",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "lecture_support_with_graphic_organizers",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "lesson-study",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "logic_puzzles",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "manipulatives-sentence_combining",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "mass-density-and-buoyancy-experiments",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "matched_examples_and_non-examples",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "math-talks-number-talks",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "math_art",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "math_coach_role-playing",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "math_coaching",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "maximization_of_transfer_and_generalization",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "maximize_transfer_and_generalization",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "measure_and_graph_data",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "mentor-texts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "mentor_texts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "mini-lessons_on_features",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "model-eliciting-activities-meas",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "model-texts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "model_and_example_feedback",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "model_the_assignment_or_skill",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "modeling_skills_and_interaction",
-      "strength": "M"
-     },
-     {
-      "slug": "morphological-analysis"
-     },
-     {
-      "polarity": "+",
-      "slug": "morphological_analysis_of_latin_and_greek_roots",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "morphological_instruction",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "motion_and_forces_experiments",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multiple-representations",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multiple_examples",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multiple_exposures",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multiple_texts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multiplicative_double_counting",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "mystery_emotion",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "number-talks",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "number_talks",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "peer_critique",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "philosophical_chairs",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "playing_with_techniques",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "poetry_exploration_through_digital_libraries",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "productive-failure",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "productive_struggle",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "propaganda_technique_identification",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "provide_writing_models",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "push_for_deeper_analysis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "rapid_sequencing_of_examples",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "reaction_observations",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "reading_and_writing_for_real-world_math_applications",
-      "strength": "M"
-     },
-     {
-      "slug": "real-world_math_applications"
-     },
-     {
-      "polarity": "+",
-      "slug": "regular_text_referencing",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "repertoire_of_strategies",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "representation_of_diverse_perspectives_and_identities",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "rich_resources-diversity",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "self-assessment-rubrics",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "semantic_feature_analysis",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "sentence-combining",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "sentence_combining",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "shape_search",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "show_and_tell_for_multimodal_composition",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "show_and_tell_for_multimodal_design",
-      "strength": "M"
-     },
-     {
-      "slug": "simulation-based-learning"
-     },
-     {
-      "polarity": "+",
-      "slug": "simulations-structured-activity",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "six_thinking_hats",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "stations-interacting_with_multiple_texts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "student-generated_problems",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "student_models",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "student_presentation_of_collaborative_work",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "study_of_written_models",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "support-for-decoding-text-mathematical-notation-and-symbols",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "t-chart",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "teach_key_words_for_standardized_test_prompts",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "teaching_academic_vocabulary_in_pbl",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "the_frayer_model",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "thinking_tools_with_graphic_organizers",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "through_the_eyes_of_the_people_in_a_story",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "tier_two_vocabulary_instruction",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "trait_identification_and_construction",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "use_body_language_and_demonstrations",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "use_quotations_to_cite_textual_evidence",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "using_manipulatives",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "visual_representations_in_mathematics",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "vocabulary_meaning_through_context",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "whats_below_the_surface_(iceberg_analysis)",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "word_sort",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "word_study",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "wwyd_critical_incidents",
-      "strength": "M"
      }
     ]
    },
@@ -81852,7 +81379,7 @@
       "slug": "rewards-undermine-intrinsic-motivation"
      },
      {
-      "slug": "seductive-details-distract-from-learning"
+      "slug": "seductive-details-effect"
      },
      {
       "slug": "task-value-increases-motivation-and-engagement"
@@ -82011,9 +81538,6 @@
       "slug": "inquiry-based-teaching-improves-science-achievement"
      },
      {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
       "slug": "teacher-guided-inquiry-outperforms-student-led"
      },
      {
@@ -82112,9 +81636,6 @@
    },
    "pairs-better-than-triads-in-stellar-inquiry": {
     "claims": [
-     {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
      {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
@@ -82389,7 +81910,7 @@
       "slug": "parent-involvement-increased-three-years"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "strategies": [
@@ -82615,6 +82136,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "case-based-learning",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "cognitive-load-reduction-clt-scaffolding-approach",
       "strength": "M"
@@ -82663,11 +82189,6 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "case-studiescase-based-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
       "slug": "cognitive-flexibility",
       "strength": "M"
      },
@@ -82688,9 +82209,6 @@
       "polarity": "~",
       "slug": "simulations-immersive-virtual-environments",
       "strength": "M"
-     },
-     {
-      "slug": "situated-learning"
      },
      {
       "polarity": "~",
@@ -82855,6 +82373,11 @@
      {
       "polarity": "+",
       "slug": "information-processing-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "situated-learning",
       "strength": "M"
      }
     ]
@@ -83365,9 +82888,6 @@
      },
      {
       "slug": "tutor-background-meta-regression-not-predictive"
-     },
-     {
-      "slug": "tutor-background-subgroup-differences-nonsignificant"
      }
     ],
     "patterns": [
@@ -83797,10 +83317,16 @@
       "slug": "peer-feedback-accuracy-depends-on-expertise"
      },
      {
-      "slug": "peer-feedback-improves-work-quality"
+      "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
      },
      {
       "slug": "peer-feedback-improves-writing"
+     },
+     {
+      "slug": "process-writing-improves-writing-quality"
+     },
+     {
+      "slug": "rubrics-improve-peer-feedback-quality"
      },
      {
       "slug": "rubrics-improve-student-work"
@@ -83812,7 +83338,22 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "feedback",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "peer-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "peer-feedback",
       "strength": "M"
      },
      {
@@ -83843,6 +83384,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -83866,9 +83414,6 @@
      },
      {
       "slug": "peer-feedback-accuracy-depends-on-expertise"
-     },
-     {
-      "slug": "peer-feedback-improves-work-quality"
      },
      {
       "slug": "rubrics-improve-peer-feedback-quality"
@@ -83901,9 +83446,6 @@
    },
    "peer-assisted-learning-improves-achievement": {
     "claims": [
-     {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
      {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
@@ -84297,72 +83839,6 @@
      }
     ]
    },
-   "peer-feedback-improves-work-quality": {
-    "claims": [
-     {
-      "slug": "peer-assessment-improves-performance"
-     },
-     {
-      "slug": "peer-assessment-structured-criteria-improve-learning"
-     },
-     {
-      "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
-     },
-     {
-      "slug": "peer-feedback-improves-writing"
-     },
-     {
-      "slug": "process-writing-improves-writing-quality"
-     },
-     {
-      "slug": "rubrics-improve-peer-feedback-quality"
-     },
-     {
-      "slug": "rubrics-improve-student-work"
-     }
-    ],
-    "elements": [
-     {
-      "polarity": "+",
-      "slug": "assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "feedback",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "peer-assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "peer-feedback",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "peer-feedbackpeer-review",
-      "strength": "M"
-     }
-    ],
-    "patterns": [
-     {
-      "polarity": "+",
-      "slug": "collaborative-evaluation",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "involve-students-in-revision-process",
-      "strength": "M"
-     }
-    ]
-   },
    "peer-feedback-improves-writing": {
     "claims": [
      {
@@ -84376,9 +83852,6 @@
      },
      {
       "slug": "peer-assessment-improves-performance"
-     },
-     {
-      "slug": "peer-feedback-improves-work-quality"
      },
      {
       "slug": "personalized-normative-feedback-corrects-misperceived-norms"
@@ -84420,7 +83893,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "involve-students-in-revision-process",
+      "slug": "process-based-writing",
       "strength": "M"
      }
     ],
@@ -87246,7 +86719,7 @@
       "slug": "formal-discipline-plan-increases-teacher-control-and-competence"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      },
      {
       "slug": "treatment-classrooms-less-disruptive-than-control"
@@ -88652,7 +88125,7 @@
       "slug": "synaptic-connectionism-implausible-complex-cognition"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "principles": [
@@ -89348,6 +88821,11 @@
     ],
     "patterns": [
      {
+      "polarity": "+",
+      "slug": "debate",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "lda-reflection",
       "strength": "M"
@@ -89387,16 +88865,6 @@
      {
       "polarity": "+",
       "slug": "competency-based-assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "competency-based-learning-assessment",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "debate",
       "strength": "M"
      },
      {
@@ -89931,7 +89399,7 @@
       "slug": "gbsri-improves-thai-undergraduate-writing-scores"
      },
      {
-      "slug": "peer-feedback-improves-work-quality"
+      "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "self-regulated-learning-strategies-improve-writing"
@@ -90007,9 +89475,6 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "invention-tasks-prepare-future-learning"
@@ -91835,13 +91300,20 @@
    "reading-literary-fiction-improves-theory-of-mind": {
     "claims": [
      {
+      "slug": "brief-intervention-empathic-discipline-cuts-suspensions"
+     },
+     {
       "slug": "building-empathy-improves-intergroup-attitudes"
      },
      {
       "slug": "false-belief-training-no-language-effect"
-     },
+     }
+    ],
+    "patterns": [
      {
-      "slug": "fiction-reading-improves-empathy"
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -91854,7 +91326,67 @@
     "strategies": [
      {
       "polarity": "+",
+      "slug": "address_stereotypical_beliefs_about_parents_and_poverty",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "audiobooks_for_literacy_reinforcement",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "blackout_conversation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "classroom-library-curation",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "classroom_library",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "independent-reading",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "read-alouds",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "through_the_eyes_of_the_people_in_a_story",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "twelve-angry-men",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "use-current-events-fictional-characters",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "use_current_events_and_fictional_characters_to_teach_social_awareness",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "virtual-reality-vr-for-empathy-training",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "windows-mirrors-and-sliding-glass-doors",
       "strength": "M"
      }
     ]
@@ -93503,9 +93035,6 @@
      },
      {
       "slug": "perception-determines-behavior-ie-sdt"
-     },
-     {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
@@ -96657,9 +96186,6 @@
       "slug": "peer-assessment-improves-performance"
      },
      {
-      "slug": "peer-feedback-improves-work-quality"
-     },
-     {
       "slug": "rubrics-improve-peer-feedback-quality"
      }
     ],
@@ -96793,9 +96319,6 @@
      },
      {
       "slug": "tutor-background-meta-regression-not-predictive"
-     },
-     {
-      "slug": "tutor-background-subgroup-differences-nonsignificant"
      }
     ]
    },
@@ -97614,9 +97137,6 @@
       "slug": "cooperative-learning-achievement-synthesis-slavin"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
@@ -97738,45 +97258,6 @@
      }
     ]
    },
-   "seductive-details-distract-from-learning": {
-    "claims": [
-     {
-      "slug": "coherence-principle-irrelevant-material-hurts-learning"
-     },
-     {
-      "slug": "decorative-illustrations-do-not-improve-learning"
-     },
-     {
-      "slug": "seductive-details-effect"
-     }
-    ],
-    "learner-variables": [
-     {
-      "polarity": "-",
-      "slug": "attention",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "-",
-      "slug": "engagement",
-      "strength": "M"
-     }
-    ],
-    "theories": [
-     {
-      "polarity": "-",
-      "slug": "cognitive-load-theory",
-      "strength": "M"
-     },
-     {
-      "polarity": "-",
-      "slug": "four-phase-interest-development",
-      "strength": "M"
-     }
-    ]
-   },
    "seductive-details-effect": {
     "claims": [
      {
@@ -97793,9 +97274,6 @@
      },
      {
       "slug": "redundancy-effect-impairs-learning"
-     },
-     {
-      "slug": "seductive-details-distract-from-learning"
      }
     ],
     "elements": [
@@ -97803,6 +97281,13 @@
       "polarity": "-",
       "slug": "attention",
       "strength": "S"
+     }
+    ],
+    "learner-variables": [
+     {
+      "polarity": "-",
+      "slug": "attention",
+      "strength": "M"
      }
     ],
     "patterns": [
@@ -97833,6 +97318,18 @@
      {
       "polarity": "~",
       "slug": "weeding",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "cognitive-load-theory",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "four-phase-interest-development",
       "strength": "M"
      }
     ]
@@ -98489,9 +97986,7 @@
       "slug": "assessment-for-learning-improves-achievement"
      },
      {
-      "polarity": "+",
-      "slug": "peer-assessment-improves-performance",
-      "strength": "W"
+      "slug": "peer-assessment-improves-performance"
      },
      {
       "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
@@ -100889,6 +100384,9 @@
    "self-explanation-improves-conceptual-understanding": {
     "claims": [
      {
+      "slug": "comparing-contrasting-cases-improves-learning"
+     },
+     {
       "slug": "contingent-scaffolding-improves-learning"
      },
      {
@@ -100917,9 +100415,6 @@
      },
      {
       "slug": "high-confidence-errors-improve-retention"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "strategy-instruction-improves-learning"
@@ -101310,6 +100805,11 @@
      },
      {
       "polarity": "+",
+      "slug": "case-based-learning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "cognitively-guided-instruction-cgi-for-math",
       "strength": "S"
      },
@@ -101447,11 +100947,6 @@
      },
      {
       "polarity": "+",
-      "slug": "case-studiescase-based-learning",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
       "slug": "cognitive-activation",
       "strength": "M"
      },
@@ -101486,18 +100981,8 @@
       "strength": "S"
      },
      {
-      "polarity": "+",
-      "slug": "creating-visual-representations",
-      "strength": "S"
-     },
-     {
       "polarity": "~",
       "slug": "cultural-life-experiences-connections",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "debate",
       "strength": "S"
      },
      {
@@ -101518,6 +101003,11 @@
      {
       "polarity": "~",
       "slug": "discussing-race",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "dual-coding",
       "strength": "S"
      },
      {
@@ -101647,7 +101137,7 @@
      },
      {
       "polarity": "+",
-      "slug": "peer-feedbackpeer-review",
+      "slug": "peer-feedback",
       "strength": "S"
      },
      {
@@ -103935,11 +103425,6 @@
      },
      {
       "polarity": "+",
-      "slug": "reflective-practice",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "self-regulated-learning",
       "strength": "M"
      },
@@ -104102,7 +103587,7 @@
      },
      {
       "polarity": "+",
-      "slug": "peer-feedbackpeer-review",
+      "slug": "peer-feedback",
       "strength": "M"
      },
      {
@@ -105692,7 +105177,7 @@
       "slug": "strategy-instruction-needs-conditional-knowledge"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      },
      {
       "slug": "three-srl-strategy-factors-predict-efl-proficiency"
@@ -108035,9 +107520,6 @@
       "slug": "cooperative-learning-achievement-synthesis-slavin"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
-     },
-     {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      },
      {
@@ -108961,9 +108443,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
       "slug": "judgments-of-learning-inaccurate"
      },
      {
@@ -109123,9 +108602,6 @@
      },
      {
       "slug": "interleaving-improves-inductive-learning"
-     },
-     {
-      "slug": "interleaving-improves-transfer"
      },
      {
       "slug": "learning-rate-retention-tradeoff"
@@ -110374,16 +109850,6 @@
       "polarity": "+",
       "slug": "competency-based-assessment",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "competency-based-learning-assessment",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "debate",
-      "strength": "S"
      },
      {
       "polarity": "+",
@@ -112720,7 +112186,7 @@
       "slug": "student-educator-relationship-builds-self-efficacy-and-belonging"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "elements": [
@@ -116334,9 +115800,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
       "slug": "l2-fluency-gains-persist-weeks-without-practice"
      },
      {
@@ -117873,9 +117336,6 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
-     },
-     {
       "slug": "inquiry-based-teaching-improves-science-achievement"
      },
      {
@@ -118307,6 +117767,9 @@
    "teacher-student-relationships-improve-engagement": {
     "claims": [
      {
+      "slug": "board-certification-identifies-more-expert-teachers"
+     },
+     {
       "slug": "brief-intervention-empathic-discipline-cuts-suspensions"
      },
      {
@@ -118316,10 +117779,22 @@
       "slug": "learner-centered-teacher-student-relationships-are-effective"
      },
      {
+      "slug": "parent-involvement-improves-achievement"
+     },
+     {
+      "slug": "positive-greetings-at-the-door-improve-engagement"
+     },
+     {
+      "slug": "prior-knowledge-determines-new-learning"
+     },
+     {
       "slug": "relatedness-care-support-internalization"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "self-regulated-learning-predicts-achievement"
+     },
+     {
+      "slug": "stronger-belonging-linked-engagement-achievement"
      }
     ],
     "principles": [
@@ -118347,54 +117822,6 @@
      },
      {
       "polarity": "+",
-      "slug": "promoting_belonging_through_cues_and_representations",
-      "strength": "M"
-     }
-    ]
-   },
-   "teacher-student-relationships-improve-engagement-and-achievement": {
-    "claims": [
-     {
-      "slug": "board-certification-identifies-more-expert-teachers"
-     },
-     {
-      "slug": "brief-intervention-empathic-discipline-cuts-suspensions"
-     },
-     {
-      "slug": "learner-centered-teacher-student-relationships-are-effective"
-     },
-     {
-      "slug": "parent-involvement-improves-achievement"
-     },
-     {
-      "slug": "positive-greetings-at-the-door-improve-engagement"
-     },
-     {
-      "slug": "prior-knowledge-determines-new-learning"
-     },
-     {
-      "slug": "relatedness-care-support-internalization"
-     },
-     {
-      "slug": "self-regulated-learning-predicts-achievement"
-     },
-     {
-      "slug": "stronger-belonging-linked-engagement-achievement"
-     },
-     {
-      "slug": "teacher-student-relationships-improve-engagement"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "engagement",
-      "strength": "M"
-     }
-    ],
-    "strategies": [
-     {
-      "polarity": "+",
       "slug": "norm_setting",
       "strength": "M"
      },
@@ -118402,6 +117829,11 @@
       "polarity": "+",
       "slug": "positive-greetings-at-the-door",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "promoting_belonging_through_cues_and_representations",
+      "strength": "M"
      }
     ]
    },
@@ -121648,9 +121080,6 @@
      },
      {
       "slug": "rve-study-of-origin-no-impact"
-     },
-     {
-      "slug": "tutor-background-subgroup-differences-nonsignificant"
      }
     ],
     "patterns": [
@@ -121658,34 +121087,6 @@
       "polarity": "~",
       "slug": "problem-based-learning",
       "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "ask-experts",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "problem-based-learning",
-      "strength": "M"
-     }
-    ]
-   },
-   "tutor-background-subgroup-differences-nonsignificant": {
-    "claims": [
-     {
-      "slug": "massive-range-pbl-outcome-effect-sizes"
-     },
-     {
-      "slug": "pbl-overall-effect-modest-large-heterogeneity"
-     },
-     {
-      "slug": "rve-study-of-origin-no-impact"
-     },
-     {
-      "slug": "tutor-background-meta-regression-not-predictive"
      }
     ],
     "principles": [
@@ -122948,7 +122349,7 @@
       "slug": "different-media-yield-different-knowledge-encoding"
      },
      {
-      "slug": "dual-coding-improves-recall"
+      "slug": "dual-coding-improves-learning"
      },
      {
       "slug": "excellence-for-all-questionable"
@@ -124613,6 +124014,11 @@
       "strength": "S"
      },
      {
+      "polarity": "+",
+      "slug": "case-based-learning",
+      "strength": "S"
+     },
+     {
       "polarity": "~",
       "slug": "cognitively-guided-instruction-cgi-for-math",
       "strength": "S"
@@ -124675,11 +124081,6 @@
       "strength": "M"
      },
      {
-      "polarity": "+",
-      "slug": "case-studiescase-based-learning",
-      "strength": "S"
-     },
-     {
       "polarity": "~",
       "slug": "cognitive-flexibility",
       "strength": "M"
@@ -124698,11 +124099,6 @@
       "polarity": "~",
       "slug": "competency-based-assessment",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "competency-based-learning-assessment",
-      "strength": "S"
      },
      {
       "polarity": "~",
@@ -124736,7 +124132,7 @@
      },
      {
       "polarity": "~",
-      "slug": "mentoringcoaching",
+      "slug": "mentoring-and-coaching",
       "strength": "M"
      },
      {
@@ -124768,9 +124164,6 @@
       "polarity": "~",
       "slug": "simulations-immersive-virtual-environments",
       "strength": "S"
-     },
-     {
-      "slug": "situated-learning"
      },
      {
       "polarity": "~",
@@ -124881,6 +124274,11 @@
      {
       "polarity": "~",
       "slug": "constructivism",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "situated-learning",
       "strength": "S"
      }
     ]
@@ -125490,9 +124888,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "interleaving-improves-transfer"
-     },
-     {
       "slug": "invention-tasks-prepare-future-learning"
      },
      {
@@ -126079,6 +125474,9 @@
       "slug": "cognitive-load-reduction-improves-learning"
      },
      {
+      "slug": "comparing-contrasting-cases-improves-learning"
+     },
+     {
       "slug": "direct-instruction-improves-outcomes"
      },
      {
@@ -126098,9 +125496,6 @@
      },
      {
       "slug": "minimal-guidance-less-effective-for-novices"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "parent-coaching-outperforms-information-only"
@@ -130558,11 +129953,6 @@
      {
       "slug": "time-and-continuity"
      }
-    ],
-    "patterns": [
-     {
-      "slug": "adaptive-learning"
-     }
     ]
    },
    "adaptive-mastery-learning": {
@@ -130680,7 +130070,7 @@
       "slug": "graphic-organizers-support-novice-comprehension"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "guided-notes-improve-note-accuracy"
@@ -149073,9 +148463,6 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
-     },
-     {
       "slug": "hands-on-learning-improves-achievement"
      },
      {
@@ -151902,9 +151289,6 @@
       "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
-     },
-     {
       "slug": "minimal-guidance-less-effective-for-novices"
      },
      {
@@ -152066,9 +151450,6 @@
      },
      {
       "slug": "professional-development"
-     },
-     {
-      "slug": "reflective-practice"
      },
      {
       "slug": "self-regulated-learning"
@@ -153615,9 +152996,6 @@
     ],
     "patterns": [
      {
-      "slug": "adaptive-learning"
-     },
-     {
       "slug": "programmed-instruction"
      }
     ],
@@ -153704,9 +153082,6 @@
      },
      {
       "slug": "lda-reflection"
-     },
-     {
-      "slug": "reflective-practice"
      },
      {
       "slug": "think-pair-share"
@@ -155116,9 +154491,6 @@
      }
     ],
     "patterns": [
-     {
-      "slug": "reflective-practice"
-     },
      {
       "slug": "self-regulated-learning"
      }
@@ -162187,10 +161559,10 @@
    "rubrics": {
     "claims": [
      {
-      "slug": "peer-feedback-accuracy-depends-on-expertise"
+      "slug": "peer-assessment-improves-performance"
      },
      {
-      "slug": "peer-feedback-improves-work-quality"
+      "slug": "peer-feedback-accuracy-depends-on-expertise"
      }
     ],
     "elements": [
@@ -166989,7 +166361,7 @@
       "slug": "direct-instruction-improves-outcomes"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "inquiry-based-teaching-improves-science-achievement"
@@ -167059,74 +166431,6 @@
     "theories": [
      {
       "slug": "blooms-taxonomy"
-     }
-    ]
-   },
-   "adaptive-learning": {
-    "claims": [
-     {
-      "slug": "adaptive-learning-improves-outcomes"
-     },
-     {
-      "polarity": "+",
-      "slug": "blended-learning-improves-outcomes",
-      "strength": "M"
-     },
-     {
-      "slug": "learners-misjudge-spacing-benefits"
-     },
-     {
-      "slug": "retrieval-failure-reduces-benefit"
-     },
-     {
-      "slug": "self-regulated-learning-improves-achievement"
-     },
-     {
-      "slug": "spaced-repetition-improves-retention"
-     }
-    ],
-    "elements": [
-     {
-      "slug": "hypertext-navigation"
-     },
-     {
-      "slug": "mastery-progression"
-     }
-    ],
-    "methods": [
-     {
-      "slug": "learner-personas"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "adaptive-learning"
-     },
-     {
-      "slug": "growth-mindset"
-     },
-     {
-      "slug": "personalization"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "data-driven-instruction"
-     },
-     {
-      "slug": "formative-feedback-loops"
-     },
-     {
-      "slug": "mastery-based-progression"
-     },
-     {
-      "slug": "mastery-reassessment"
-     },
-     {
-      "slug": "rate-and-change-tasks"
-     },
-     {
-      "slug": "self-regulated-learning-instruction"
      }
     ]
    },
@@ -167454,7 +166758,7 @@
       "slug": "direct-instruction-improves-outcomes"
      },
      {
-      "slug": "fiction-reading-improves-empathy"
+      "slug": "reading-literary-fiction-improves-theory-of-mind"
      }
     ],
     "elements": [
@@ -167474,6 +166778,9 @@
       "slug": "case-based-learning"
      },
      {
+      "slug": "case-studies"
+     },
+     {
       "slug": "case-study"
      },
      {
@@ -167487,6 +166794,9 @@
      },
      {
       "slug": "debrief"
+     },
+     {
+      "slug": "decision-making"
      },
      {
       "slug": "differentiated-team-roles"
@@ -167577,6 +166887,9 @@
       "slug": "authentic-assessment"
      },
      {
+      "slug": "case-based-learning-harvard-method"
+     },
+     {
       "slug": "concept-attainment"
      },
      {
@@ -167594,6 +166907,9 @@
       "slug": "cognitive-flexibility"
      },
      {
+      "slug": "disciplinary-literacy"
+     },
+     {
       "slug": "transfer-of-learning"
      }
     ],
@@ -167603,6 +166919,15 @@
      }
     ],
     "strategies": [
+     {
+      "slug": "analyze_the_project"
+     },
+     {
+      "slug": "applied_science_testing"
+     },
+     {
+      "slug": "arts_integration"
+     },
      {
       "slug": "assigned_readings"
      },
@@ -167617,6 +166942,9 @@
      },
      {
       "slug": "choice-based_learning"
+     },
+     {
+      "slug": "classification_tasks"
      },
      {
       "slug": "collect_my_data"
@@ -167831,6 +167159,9 @@
       "slug": "reading_and_writing_for_real-world_math_applications"
      },
      {
+      "slug": "reading_laterally"
+     },
+     {
       "slug": "real-world_math_applications"
      },
      {
@@ -167903,6 +167234,9 @@
       "slug": "student-generated_questions_in_pbl"
      },
      {
+      "slug": "text-social-annotation-structured-activity"
+     },
+     {
       "slug": "thinking_critically"
      },
      {
@@ -167921,7 +167255,15 @@
       "slug": "waste_reduction_solutions"
      },
      {
+      "slug": "where_are_the_people_like_me"
+     },
+     {
       "slug": "word_problem_creation"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -167963,11 +167305,6 @@
      },
      {
       "slug": "problem-based-learning"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "case-studiescase-based-learning"
      }
     ],
     "strategies": [
@@ -168326,9 +167663,6 @@
      },
      {
       "slug": "scaffolding"
-     },
-     {
-      "slug": "situated-learning"
      }
     ],
     "strategies": [
@@ -169439,7 +168773,7 @@
       "slug": "cooperative-learning-improves-achievement"
      },
      {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
+      "slug": "guided-discovery-outperforms-pure-discovery"
      },
      {
       "slug": "learning-by-teaching-improves-tutor-learning"
@@ -169953,9 +169287,6 @@
     "claims": [
      {
       "slug": "comparing-contrasting-cases-improves-learning"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      }
     ],
     "elements": [
@@ -170098,9 +169429,6 @@
      },
      {
       "slug": "collaborative-writing-improves-text-quality"
-     },
-     {
-      "slug": "cooperative-learning-free-rider-without-accountability"
      },
      {
       "slug": "cooperative-learning-group-rewards-and-individual-accountability"
@@ -170335,6 +169663,9 @@
       "slug": "consensus-building"
      },
      {
+      "slug": "debate"
+     },
+     {
       "slug": "decision-making"
      },
      {
@@ -170368,10 +169699,16 @@
       "slug": "role-reversal"
      },
      {
+      "slug": "structured-academic-controversy"
+     },
+     {
       "slug": "structured-debate"
      }
     ],
     "patterns": [
+     {
+      "slug": "case-based-learning-harvard-method"
+     },
      {
       "slug": "debate-laboratory-for-argumentation"
      },
@@ -170384,10 +169721,16 @@
     ],
     "principles": [
      {
-      "slug": "debate"
+      "slug": "epistemic-cognition"
+     },
+     {
+      "slug": "evaluating-sources"
      },
      {
       "slug": "reduce-teacher-talk-increase-student-talk"
+     },
+     {
+      "slug": "rhetorical-skill-development"
      }
     ],
     "strategies": [
@@ -170512,11 +169855,6 @@
       "slug": "structured-academic-controversy"
      }
     ],
-    "principles": [
-     {
-      "slug": "debate"
-     }
-    ],
     "theories": [
      {
       "slug": "debate-as-argumentation-laboratory"
@@ -170574,9 +169912,6 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "guided-play-improves-academic-outcomes"
@@ -171368,9 +170703,6 @@
    },
    "discussion-based-learning": {
     "claims": [
-     {
-      "slug": "fiction-reading-improves-empathy"
-     },
      {
       "slug": "increasing-wait-time-improves-response-quality"
      },
@@ -173596,9 +172928,6 @@
     ],
     "patterns": [
      {
-      "slug": "adaptive-learning"
-     },
-     {
       "slug": "competency-based-learning"
      },
      {
@@ -174156,43 +173485,6 @@
     "patterns": [
      {
       "slug": "game-based-mastery-learning"
-     }
-    ]
-   },
-   "reflective-practice": {
-    "elements": [
-     {
-      "slug": "individual-reflection"
-     },
-     {
-      "slug": "iterative-learning"
-     },
-     {
-      "slug": "journaling"
-     },
-     {
-      "slug": "metacognitive-reflection"
-     },
-     {
-      "slug": "metacognitive-strategies"
-     },
-     {
-      "slug": "reflection-activities"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "journaling"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "narrated-emotional-storytelling-in-teacher-pd"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "designerly-stances"
      }
     ]
    },
@@ -177100,15 +176392,35 @@
       "slug": "adaptive-learning-improves-outcomes"
      },
      {
+      "polarity": "+",
+      "slug": "blended-learning-improves-outcomes",
+      "strength": "M"
+     },
+     {
       "slug": "fluent-illusions-mislead-self-assessment"
      },
      {
+      "slug": "learners-misjudge-spacing-benefits"
+     },
+     {
+      "slug": "retrieval-failure-reduces-benefit"
+     },
+     {
       "slug": "scaffolding-improves-learning"
+     },
+     {
+      "slug": "self-regulated-learning-improves-achievement"
+     },
+     {
+      "slug": "spaced-repetition-improves-retention"
      }
     ],
     "elements": [
      {
       "slug": "choice-boards"
+     },
+     {
+      "slug": "hypertext-navigation"
      },
      {
       "slug": "mastery-progression"
@@ -177120,6 +176432,9 @@
      },
      {
       "slug": "learner-and-context-analysis"
+     },
+     {
+      "slug": "learner-personas"
      }
     ],
     "principles": [
@@ -177131,6 +176446,9 @@
      },
      {
       "slug": "gamification"
+     },
+     {
+      "slug": "growth-mindset"
      },
      {
       "slug": "personalization"
@@ -177160,6 +176478,9 @@
      },
      {
       "slug": "curated_material_selection"
+     },
+     {
+      "slug": "data-driven-instruction"
      },
      {
       "slug": "designing_personalized_learning_for_engagement"
@@ -177192,10 +176513,19 @@
       "slug": "formative-assessment"
      },
      {
+      "slug": "formative-feedback-loops"
+     },
+     {
       "slug": "just-in-time-learning"
      },
      {
       "slug": "learning-dashboards"
+     },
+     {
+      "slug": "mastery-based-progression"
+     },
+     {
+      "slug": "mastery-reassessment"
      },
      {
       "slug": "math-fact-fluency-games"
@@ -177204,7 +176534,13 @@
       "slug": "mini-lessons"
      },
      {
+      "slug": "rate-and-change-tasks"
+     },
+     {
       "slug": "reflex_math_app"
+     },
+     {
+      "slug": "self-regulated-learning-instruction"
      },
      {
       "slug": "spaced-practice-scheduling"
@@ -178579,9 +177915,6 @@
     ],
     "principles": [
      {
-      "slug": "case-studiescase-based-learning"
-     },
-     {
       "slug": "communities-of-practice"
      },
      {
@@ -179853,16 +179186,13 @@
     ],
     "principles": [
      {
-      "slug": "case-studiescase-based-learning"
-     },
-     {
       "slug": "communities-of-practice"
      },
      {
       "slug": "community-based-learning"
      },
      {
-      "slug": "competency-based-learning-assessment"
+      "slug": "competency-based-assessment"
      },
      {
       "slug": "cultural-life-experiences-connections"
@@ -180433,30 +179763,6 @@
      }
     ]
    },
-   "avoid-appropriating-student-writing": {
-    "principles": [
-     {
-      "slug": "involve-students-in-revision-process"
-     },
-     {
-      "slug": "minimize-student-frustration-in-feedback"
-     },
-     {
-      "slug": "provide-positive-comments-on-student-writing"
-     },
-     {
-      "slug": "researcher-signature-believability-validity"
-     },
-     {
-      "slug": "respond-as-a-reader"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "interpersonal-dimension-of-teacher-feedback"
-     }
-    ]
-   },
    "backward-design-goals-first-inquiry": {
     "principles": [
      {
@@ -180542,13 +179848,13 @@
       "slug": "journaling"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "peer-discussion"
      },
      {
-      "slug": "peer-feedbackpeer-review"
+      "slug": "peer-feedback"
      },
      {
       "slug": "perspective-seekingmultiple-perspectives"
@@ -181070,57 +180376,6 @@
      }
     ]
    },
-   "case-studiescase-based-learning": {
-    "elements": [
-     {
-      "slug": "case-studies"
-     },
-     {
-      "slug": "decision-making"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "case-based-learning-harvard-method"
-     },
-     {
-      "slug": "case-based-learning"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "disciplinary-literacy"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "analyze_the_project"
-     },
-     {
-      "slug": "applied_science_testing"
-     },
-     {
-      "slug": "arts_integration"
-     },
-     {
-      "slug": "classification_tasks"
-     },
-     {
-      "slug": "reading_laterally"
-     },
-     {
-      "slug": "text-social-annotation-structured-activity"
-     },
-     {
-      "slug": "where_are_the_people_like_me"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "cognitive-flexibility-theory"
-     }
-    ]
-   },
    "character-education": {
     "principles": [
      {
@@ -181145,9 +180400,6 @@
      },
      {
       "slug": "positive-greetings-at-the-door-improve-engagement"
-     },
-     {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
@@ -183357,7 +182609,7 @@
       "slug": "sel-programs-improve-social-emotional-skills"
      },
      {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
     "elements": [
@@ -184563,9 +183815,6 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
-     },
-     {
-      "slug": "teacher-student-relationships-improve-engagement-and-achievement"
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
@@ -185864,7 +185113,7 @@
       "slug": "collaborative-learning-improves-outcomes"
      },
      {
-      "slug": "cooperative-learning-free-rider-without-accountability"
+      "slug": "cooperative-learning-group-rewards-and-individual-accountability"
      }
     ],
     "designs": [
@@ -186567,16 +185816,13 @@
       "slug": "flexible-grouping"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "observationshadowing"
      },
      {
       "slug": "peer-discussion"
-     },
-     {
-      "slug": "situated-learning"
      }
     ],
     "strategies": [
@@ -186726,9 +185972,6 @@
     "principles": [
      {
       "slug": "cultural-life-experiences-connections"
-     },
-     {
-      "slug": "situated-learning"
      }
     ],
     "processes": [
@@ -187123,6 +186366,9 @@
       "slug": "assess-performance"
      },
      {
+      "slug": "competency-based-learning"
+     },
+     {
       "slug": "final-exam"
      },
      {
@@ -187158,6 +186404,9 @@
     ],
     "patterns": [
      {
+      "slug": "4cid-four-component-instructional-design"
+     },
+     {
       "slug": "authentic-assessment"
      },
      {
@@ -187165,11 +186414,29 @@
      },
      {
       "slug": "constructive-alignment"
+     },
+     {
+      "slug": "game-based-mastery-learning-eg-duolingo-pattern"
      }
     ],
     "principles": [
      {
-      "slug": "competency-based-learning-assessment"
+      "slug": "adaptive-learning"
+     },
+     {
+      "slug": "assessment-for-learning"
+     },
+     {
+      "slug": "authentic-audiences-purposes"
+     },
+     {
+      "slug": "learner-choice"
+     },
+     {
+      "slug": "mastery-learning"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
      },
      {
       "slug": "summative-assessment"
@@ -187247,47 +186514,6 @@
      },
      {
       "slug": "use_mastery_learning"
-     }
-    ]
-   },
-   "competency-based-learning-assessment": {
-    "elements": [
-     {
-      "slug": "competency-based-learning"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "4cid-four-component-instructional-design"
-     },
-     {
-      "slug": "competency-based-learning"
-     },
-     {
-      "slug": "game-based-mastery-learning-eg-duolingo-pattern"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "adaptive-learning"
-     },
-     {
-      "slug": "assessment-for-learning"
-     },
-     {
-      "slug": "authentic-audiences-purposes"
-     },
-     {
-      "slug": "competency-based-assessment"
-     },
-     {
-      "slug": "learner-choice"
-     },
-     {
-      "slug": "mastery-learning"
-     },
-     {
-      "slug": "multiple-methods-of-assessment"
      }
     ]
    },
@@ -187582,79 +186808,6 @@
      }
     ]
    },
-   "creating-visual-representations": {
-    "elements": [
-     {
-      "slug": "concept-mapping"
-     },
-     {
-      "slug": "concrete-modeling"
-     },
-     {
-      "slug": "creating-visual-representations"
-     },
-     {
-      "slug": "representational-drawing"
-     },
-     {
-      "slug": "virtual-whiteboards"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "cognitive-load-reduction-clt-scaffolding-approach"
-     },
-     {
-      "slug": "develop-understanding"
-     },
-     {
-      "slug": "elaboration-theory"
-     },
-     {
-      "slug": "model-evidence-link-mel-reasoning-pattern"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "constructivism"
-     },
-     {
-      "slug": "dual-coding"
-     },
-     {
-      "slug": "graphic-organizers"
-     },
-     {
-      "slug": "handoutsonline-guidesvisual-reading-aids"
-     },
-     {
-      "slug": "holistic-learning"
-     },
-     {
-      "slug": "knowledge-organization"
-     },
-     {
-      "slug": "metaphors-analogies"
-     },
-     {
-      "slug": "multimedia-projects"
-     },
-     {
-      "slug": "multimodal-instruction"
-     },
-     {
-      "slug": "multiple-methods-of-assessment"
-     },
-     {
-      "slug": "real-world-math"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "cognitive-flexibility-theory"
-     }
-    ]
-   },
    "criterion-and-norm-referenced-testing": {
     "principles": [
      {
@@ -187806,41 +186959,6 @@
     "theories": [
      {
       "slug": "ctt-decision-consistency-methods-taxonomy"
-     }
-    ]
-   },
-   "debate": {
-    "elements": [
-     {
-      "slug": "debate"
-     },
-     {
-      "slug": "structured-academic-controversy"
-     },
-     {
-      "slug": "structured-debate"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "case-based-learning-harvard-method"
-     },
-     {
-      "slug": "debate"
-     },
-     {
-      "slug": "structured-academic-controversy"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "epistemic-cognition"
-     },
-     {
-      "slug": "evaluating-sources"
-     },
-     {
-      "slug": "rhetorical-skill-development"
      }
     ]
    },
@@ -188235,11 +187353,63 @@
      },
      {
       "slug": "representational-drawing"
+     },
+     {
+      "slug": "virtual-whiteboards"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "cognitive-load-reduction-clt-scaffolding-approach"
+     },
+     {
+      "slug": "develop-understanding"
+     },
+     {
+      "slug": "elaboration-theory"
+     },
+     {
+      "slug": "model-evidence-link-mel-reasoning-pattern"
      }
     ],
     "principles": [
      {
+      "slug": "constructivism"
+     },
+     {
+      "slug": "graphic-organizers"
+     },
+     {
+      "slug": "handoutsonline-guidesvisual-reading-aids"
+     },
+     {
+      "slug": "holistic-learning"
+     },
+     {
+      "slug": "knowledge-organization"
+     },
+     {
+      "slug": "metaphors-analogies"
+     },
+     {
       "slug": "multimedia-learning"
+     },
+     {
+      "slug": "multimedia-projects"
+     },
+     {
+      "slug": "multimodal-instruction"
+     },
+     {
+      "slug": "multiple-methods-of-assessment"
+     },
+     {
+      "slug": "real-world-math"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "cognitive-flexibility-theory"
      }
     ]
    },
@@ -188382,7 +187552,7 @@
       "slug": "find-strengths-and-entry-points-per-teacher"
      },
      {
-      "slug": "respond-as-a-reader"
+      "slug": "process-based-writing"
      }
     ],
     "theories": [
@@ -188629,9 +187799,6 @@
       "slug": "annotating"
      },
      {
-      "slug": "debate"
-     },
-     {
       "slug": "epistemic-cognition"
      },
      {
@@ -188727,9 +187894,6 @@
      },
      {
       "slug": "simulations-immersive-virtual-environments"
-     },
-     {
-      "slug": "situated-learning"
      },
      {
       "slug": "skills-sprint"
@@ -188985,9 +188149,6 @@
       "slug": "competency-based-assessment"
      },
      {
-      "slug": "competency-based-learning-assessment"
-     },
-     {
       "slug": "feedback-loops"
      },
      {
@@ -189003,7 +188164,7 @@
       "slug": "multiple-methods-of-assessment"
      },
      {
-      "slug": "peer-feedbackpeer-review"
+      "slug": "peer-feedback"
      },
      {
       "slug": "purposeful-reflection"
@@ -189266,7 +188427,7 @@
     ],
     "principles": [
      {
-      "slug": "competency-based-learning-assessment"
+      "slug": "competency-based-assessment"
      },
      {
       "slug": "deliberate-practice"
@@ -189354,7 +188515,7 @@
       "slug": "chunking"
      },
      {
-      "slug": "creating-visual-representations"
+      "slug": "dual-coding"
      },
      {
       "slug": "handoutsonline-guidesvisual-reading-aids"
@@ -189465,7 +188626,7 @@
       "slug": "ask-experts"
      },
      {
-      "slug": "competency-based-learning-assessment"
+      "slug": "competency-based-assessment"
      },
      {
       "slug": "deliberate-practice"
@@ -189862,9 +189023,6 @@
       "slug": "authentic-audiences-purposes"
      },
      {
-      "slug": "case-studiescase-based-learning"
-     },
-     {
       "slug": "epistemic-cognition"
      },
      {
@@ -189932,7 +189090,7 @@
       "slug": "cultural-life-experiences-connections"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "mindfulness-activities"
@@ -189966,35 +189124,6 @@
     "theories": [
      {
       "slug": "dct-account-video-l2-comprehension"
-     }
-    ]
-   },
-   "involve-students-in-revision-process": {
-    "principles": [
-     {
-      "slug": "avoid-appropriating-student-writing"
-     },
-     {
-      "slug": "minimize-student-frustration-in-feedback"
-     },
-     {
-      "slug": "respond-as-a-reader"
-     },
-     {
-      "slug": "trading-point-between-story-giver-and-research-taker"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "letter-to-the-reviewer-memo"
-     },
-     {
-      "slug": "one-on-one-writing-conferences"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "interpersonal-dimension-of-teacher-feedback"
      }
     ]
    },
@@ -190378,7 +189507,7 @@
      }
     ]
    },
-   "mentoringcoaching": {
+   "mentoring-and-coaching": {
     "patterns": [
      {
       "slug": "fostering-communities-of-learning-fcl"
@@ -190428,7 +189557,7 @@
       "slug": "analogical-reasoning"
      },
      {
-      "slug": "creating-visual-representations"
+      "slug": "dual-coding"
      },
      {
       "slug": "graphic-organizers"
@@ -190460,10 +189589,7 @@
    "minimize-student-frustration-in-feedback": {
     "principles": [
      {
-      "slug": "avoid-appropriating-student-writing"
-     },
-     {
-      "slug": "involve-students-in-revision-process"
+      "slug": "process-based-writing"
      },
      {
       "slug": "provide-positive-comments-on-student-writing"
@@ -190619,9 +189745,6 @@
      },
      {
       "slug": "clear-structure"
-     },
-     {
-      "slug": "creating-visual-representations"
      },
      {
       "slug": "dual-coding"
@@ -190893,16 +190016,13 @@
       "slug": "community-of-inquiry"
      },
      {
-      "slug": "debate"
-     },
-     {
       "slug": "discussing-race"
      },
      {
       "slug": "flexible-grouping"
      },
      {
-      "slug": "peer-feedbackpeer-review"
+      "slug": "peer-feedback"
      },
      {
       "slug": "peer-learning"
@@ -190923,7 +190043,7 @@
      }
     ]
    },
-   "peer-feedbackpeer-review": {
+   "peer-feedback": {
     "elements": [
      {
       "slug": "peer-assessment"
@@ -191053,9 +190173,6 @@
      },
      {
       "slug": "collaborative-learning"
-     },
-     {
-      "slug": "debate"
      },
      {
       "slug": "discussing-race"
@@ -191454,16 +190571,44 @@
     ],
     "principles": [
      {
+      "slug": "engage-teachers-literacy-events-learner-to-learner"
+     },
+     {
       "slug": "graphic-organizers"
      },
      {
       "slug": "journaling"
      },
      {
+      "slug": "minimize-student-frustration-in-feedback"
+     },
+     {
       "slug": "multimedia-projects"
      },
      {
-      "slug": "peer-feedbackpeer-review"
+      "slug": "peer-feedback"
+     },
+     {
+      "slug": "provide-positive-comments-on-student-writing"
+     },
+     {
+      "slug": "researcher-signature-believability-validity"
+     },
+     {
+      "slug": "trading-point-between-story-giver-and-research-taker"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "letter-to-the-reviewer-memo"
+     },
+     {
+      "slug": "one-on-one-writing-conferences"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "interpersonal-dimension-of-teacher-feedback"
      }
     ]
    },
@@ -191498,13 +190643,10 @@
    "provide-positive-comments-on-student-writing": {
     "principles": [
      {
-      "slug": "avoid-appropriating-student-writing"
-     },
-     {
       "slug": "minimize-student-frustration-in-feedback"
      },
      {
-      "slug": "respond-as-a-reader"
+      "slug": "process-based-writing"
      }
     ],
     "theories": [
@@ -191695,6 +190837,9 @@
       "slug": "integration"
      },
      {
+      "slug": "iterative-learning"
+     },
+     {
       "slug": "journaling"
      },
      {
@@ -191719,9 +190864,6 @@
      },
      {
       "slug": "merrills-first-principles-integration"
-     },
-     {
-      "slug": "reflective-practice"
      }
     ],
     "principles": [
@@ -191734,7 +190876,15 @@
       "slug": "humanizing-co-design-with-educators"
      }
     ],
+    "strategies": [
+     {
+      "slug": "narrated-emotional-storytelling-in-teacher-pd"
+     }
+    ],
     "theories": [
+     {
+      "slug": "designerly-stances"
+     },
      {
       "slug": "educational-psychology-as-art-and-science"
      },
@@ -191848,10 +190998,10 @@
    "researcher-signature-believability-validity": {
     "principles": [
      {
-      "slug": "avoid-appropriating-student-writing"
+      "slug": "perspective-seekingmultiple-perspectives"
      },
      {
-      "slug": "perspective-seekingmultiple-perspectives"
+      "slug": "process-based-writing"
      },
      {
       "slug": "trading-point-between-story-giver-and-research-taker"
@@ -191860,27 +191010,6 @@
     "theories": [
      {
       "slug": "narrative-inquiry-experience-based-research-method"
-     }
-    ]
-   },
-   "respond-as-a-reader": {
-    "principles": [
-     {
-      "slug": "avoid-appropriating-student-writing"
-     },
-     {
-      "slug": "engage-teachers-literacy-events-learner-to-learner"
-     },
-     {
-      "slug": "involve-students-in-revision-process"
-     },
-     {
-      "slug": "provide-positive-comments-on-student-writing"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "interpersonal-dimension-of-teacher-feedback"
      }
     ]
    },
@@ -192631,7 +191760,7 @@
       "slug": "inquiry-based-learning"
      },
      {
-      "slug": "mentoringcoaching"
+      "slug": "mentoring-and-coaching"
      },
      {
       "slug": "modeling"
@@ -192644,9 +191773,6 @@
      },
      {
       "slug": "self-explanation"
-     },
-     {
-      "slug": "situated-learning"
      },
      {
       "slug": "supporting-early-language-development"
@@ -192750,9 +191876,6 @@
       "slug": "ask-experts"
      },
      {
-      "slug": "case-studiescase-based-learning"
-     },
-     {
       "slug": "cognitive-activation"
      },
      {
@@ -192762,16 +191885,13 @@
       "slug": "constructivism"
      },
      {
-      "slug": "creating-visual-representations"
-     },
-     {
       "slug": "cultural-life-experiences-connections"
      },
      {
-      "slug": "debate"
+      "slug": "debriefing"
      },
      {
-      "slug": "debriefing"
+      "slug": "dual-coding"
      },
      {
       "slug": "error-analysis"
@@ -192931,9 +192051,6 @@
       "slug": "journaling"
      },
      {
-      "slug": "reflective-practice"
-     },
-     {
       "slug": "self-directed-learning"
      },
      {
@@ -193054,43 +192171,6 @@
      },
      {
       "slug": "situated-cognition-framework-plc"
-     }
-    ]
-   },
-   "situated-learning": {
-    "elements": [
-     {
-      "slug": "case-based-learning"
-     },
-     {
-      "slug": "case-study"
-     },
-     {
-      "slug": "problem-presentation"
-     },
-     {
-      "slug": "problem-scenarios"
-     },
-     {
-      "slug": "whole-task-performance"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "epistemic-games"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "community-based-learning"
-     },
-     {
-      "slug": "distributed-cognition"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "situated-cognition-context-authenticity-activity"
      }
     ]
    },
@@ -193816,7 +192896,7 @@
    "trading-point-between-story-giver-and-research-taker": {
     "principles": [
      {
-      "slug": "involve-students-in-revision-process"
+      "slug": "process-based-writing"
      },
      {
       "slug": "researcher-signature-believability-validity"
@@ -196530,9 +195610,6 @@
       "slug": "interleaving-improves-inductive-learning"
      },
      {
-      "slug": "multiple-contrasting-cases-support-abstraction"
-     },
-     {
       "slug": "multiple-representations-improve-learning"
      },
      {
@@ -196734,9 +195811,7 @@
       "slug": "collaborative-writing-improves-text-quality"
      },
      {
-      "polarity": "~",
-      "slug": "comparing-contrasting-cases-improves-learning",
-      "strength": "M"
+      "slug": "comparing-contrasting-cases-improves-learning"
      },
      {
       "slug": "concept-mapping-improves-learning"
@@ -196802,9 +195877,6 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "hands-on-learning-improves-achievement"
@@ -196877,9 +195949,6 @@
      },
      {
       "slug": "multimedia-principles-benefit-novices"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "multiple-representations-improve-learning"
@@ -196978,9 +196047,6 @@
      },
      {
       "slug": "scaffolding-improves-learning"
-     },
-     {
-      "slug": "seductive-details-distract-from-learning"
      },
      {
       "slug": "seductive-details-effect"
@@ -197706,9 +196772,6 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "guided-play-improves-academic-outcomes"
@@ -198678,9 +197741,9 @@
       "slug": "course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances"
      }
     ],
-    "patterns": [
+    "principles": [
      {
-      "slug": "reflective-practice"
+      "slug": "reflection"
      }
     ],
     "processes": [
@@ -198972,9 +198035,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "graphic-organizers-support-novice-comprehension"
      },
      {
@@ -198984,7 +198044,9 @@
       "slug": "learner-constructed-graphic-organizers-outperform-provided"
      },
      {
-      "slug": "learning-styles-matching-does-not-improve-learning"
+      "polarity": "+",
+      "slug": "learning-styles-matching-does-not-improve-learning",
+      "strength": "S"
      },
      {
       "slug": "media-combinations-affect-recall-and-retention"
@@ -200015,9 +199077,6 @@
       "slug": "dual-coding-improves-learning"
      },
      {
-      "slug": "dual-coding-improves-recall"
-     },
-     {
       "slug": "expertise-reversal-guidance-hurts-experts"
      },
      {
@@ -200058,9 +199117,6 @@
      },
      {
       "slug": "guided-discovery-outperforms-pure-discovery"
-     },
-     {
-      "slug": "guided-inquiry-outperforms-pure-discovery"
      },
      {
       "slug": "guided-notes-improve-note-accuracy"
@@ -200124,9 +199180,6 @@
      },
      {
       "slug": "multimedia-principles-benefit-novices"
-     },
-     {
-      "slug": "multiple-contrasting-cases-support-abstraction"
      },
      {
       "slug": "multiple-representations-improve-learning"
@@ -201062,7 +200115,7 @@
    "four-phase-interest-development": {
     "claims": [
      {
-      "slug": "seductive-details-distract-from-learning"
+      "slug": "seductive-details-effect"
      }
     ],
     "learner-variables": [
@@ -202038,9 +201091,6 @@
      },
      {
       "slug": "self-explanation"
-     },
-     {
-      "slug": "situated-learning"
      }
     ],
     "processes": [
@@ -207150,13 +206200,28 @@
     ],
     "elements": [
      {
+      "slug": "case-based-learning"
+     },
+     {
+      "slug": "case-study"
+     },
+     {
       "slug": "decision-making"
      },
      {
       "slug": "learning-mechanic"
      },
      {
+      "slug": "problem-presentation"
+     },
+     {
+      "slug": "problem-scenarios"
+     },
+     {
       "slug": "reflection"
+     },
+     {
+      "slug": "whole-task-performance"
      }
     ],
     "patterns": [
@@ -207183,6 +206248,9 @@
     ],
     "principles": [
      {
+      "slug": "community-based-learning"
+     },
+     {
       "slug": "disciplinary-literacy"
      },
      {
@@ -207193,9 +206261,6 @@
      },
      {
       "slug": "responsive-teaching"
-     },
-     {
-      "slug": "situated-learning"
      },
      {
       "slug": "social-constructivism"
@@ -209917,13 +208982,13 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3415,
+  "claims": 3404,
   "designs": 115,
   "elements": 733,
   "learner-variables": 12,
   "methods": 38,
-  "patterns": 141,
-  "principles": 476,
+  "patterns": 139,
+  "principles": 468,
   "processes": 18,
   "strategies": 3184,
   "theories": 946

@@ -57,7 +57,7 @@ Self affirmation works by decoupling self-worth from performance in the threaten
 - None identified — though the threat-dependency of effects qualifies any claim that affirmation improves learning generally
 
 ### Claims
-- [Self-affirmation improves outcomes](../claims/self-affirmation-improves-outcomes.md) [+M] — values-affirmation interventions improve academic performance for threatened groups
+- [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](../claims/self-affirmation-improves-outcomes.md) [+M] — values-affirmation interventions improve academic performance for threatened groups
 - [Belonging interventions improve outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — a closely related identity-threat intervention, with the same contingency on threat being present
 
 ## Related Principles

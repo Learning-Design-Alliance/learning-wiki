@@ -103,11 +103,11 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — unprepared tutors can be overloaded by the demands of explaining, a key constraint on the effect.
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — preparing to teach functions as a demanding retrieval and organization task, a proposed mechanism for the effect.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why teach-before-study can overload novices
-- [Drawing Improves Learning](drawing-improves-learning.md) — related
+- [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
 - [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — possibly the same claim (merge candidate)
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
-- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related

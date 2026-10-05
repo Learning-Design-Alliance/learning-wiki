@@ -12,14 +12,14 @@ generated:
 # Hoax Website Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Learners analyze famous hoax or fabricated websites (e.g., the DHMO "dihydrogen monoxide" site, the Pacific Northwest Tree Octopus, or satirical news pages) to identify the visual, linguistic, and structural cues that signal a site is not a legitimate source. The strategy typically pairs guided inspection of the hoax with comparison against a credible site, then asks learners to articulate the discriminating features and verify claims through independent searching.
 
 ## Design Implications
 
-Hoax websites function as [erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]: analyzing a deliberately flawed artifact directs attention to features learners would otherwise overlook and builds the conceptual criteria underlying source evaluation. The strategy works best when hoaxes are contrasted with credible sites, since [multiple contrasting cases support abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M] of the underlying evaluation criteria rather than surface heuristics. Research on civic online reasoning shows that students rarely evaluate sources spontaneously; explicit structured analysis is needed [Wineburg & McGrew, 2019] [+S].
+Hoax websites function as [erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]: analyzing a deliberately flawed artifact directs attention to features learners would otherwise overlook and builds the conceptual criteria underlying source evaluation. The strategy works best when hoaxes are contrasted with credible sites, since [multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M] of the underlying evaluation criteria rather than surface heuristics. Research on civic online reasoning shows that students rarely evaluate sources spontaneously; explicit structured analysis is needed [Wineburg & McGrew, 2019] [+S].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Hoax websites function as [erroneous examples](../claims/erroneous-examples-buil
 ### Instructions
 1. Present a professionally designed hoax website without revealing its status; ask learners to assess its credibility and record their reasoning ([self-explanation improves conceptual understanding](../claims/self-explanation-improves-conceptual-understanding.md) [+S]).
 2. Reveal the hoax and debrief: which cues misled learners, and why were those cues unreliable?
-3. Contrast with a credible source on a similar topic, guiding learners to abstract the discriminating criteria ([multiple contrasting cases support abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]).
+3. Contrast with a credible source on a similar topic, guiding learners to abstract the discriminating criteria ([multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]).
 4. Model lateral reading: demonstrate leaving the site to search for the organization, check fact-checking databases (Snopes, FactCheck.org), and trace domain ownership.
 5. Have learners repeat the full analysis on a new, unseen site and compare their verification moves against the modeled strategy.
 6. Distribute follow-up practice across the term with varied artifact types (satire, advocacy sites, AI-generated content) rather than a single lesson.

@@ -12,7 +12,7 @@ generated:
 # Connecting Concepts to Procedures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 10 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (5 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy treats conceptual knowledge (why a procedure works) and procedural knowledge (how to execute it) as mutually reinforcing rather than separate instructional tracks. Instruction sequences and interleaves the two: procedures are introduced with explicit reference to the concepts that justify them, and conceptual discussion is grounded in the procedures learners are mastering. The relationship is iterative — procedural fluency creates material for conceptual reasoning, and conceptual insight improves procedural flexibility and error detection.
@@ -38,7 +38,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 - **Concepts-first:** develop the conceptual model, then formalize the procedure (common in [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md))
 - **Procedures-first with retroactive connection:** teach the algorithm, then unpack why it works — efficient when the procedure is simple but the concept is abstract
 - **Interleaved/iterative:** alternate between the two across a unit, the design most consistent with the bidirectional-development evidence [+M]
-- **Comparison-based:** present two procedures side by side and ask what conceptual difference explains their difference [Comparing multiple cases supports abstraction of the underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison-based:** present two procedures side by side and ask what conceptual difference explains their difference [Comparing multiple cases supports abstraction of the underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Novices in a domain, who otherwise memorize algorithms they cannot adapt or debug [Self-explanation of why steps work improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

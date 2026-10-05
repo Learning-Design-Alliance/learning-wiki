@@ -12,7 +12,7 @@ generated:
 # Application of Knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 16 studies (5 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 16 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 17 report an effect size · 2 claims rest on one study
 
 ## Description
 Application of Knowledge asks learners to use newly acquired concepts, procedures, or principles to solve real-world problems, analyze case studies, or complete authentic tasks. Rather than ending instruction at recall or explanation, it requires learners to act on content — deciding, diagnosing, designing, or performing — which consolidates understanding and reveals gaps that passive study conceals.
@@ -26,12 +26,12 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - Problems or cases that genuinely require the target concepts — not tasks solvable by surface matching
 - Sufficient prior instruction or resources ([Demonstration](demonstration.md), worked examples) so learners are not searching blindly
 - Feedback or expert coaching during and after application ([Coaching](coaching.md), [Assessment](assessment.md))
-- Variation across problems so learners abstract the underlying principle rather than memorizing one solution path [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Variation across problems so learners abstract the underlying principle rather than memorizing one solution path [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Constraints
 - Unguided application for novices can overload working memory and produce minimal learning; guidance or scaffolds must be present [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-S]
 - Pure discovery-style application without feedback often entrenches errors and misconceptions
-- If all application tasks share one surface format, learners bind knowledge to that context and fail to transfer [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- If all application tasks share one surface format, learners bind knowledge to that context and fail to transfer [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Application tasks consume substantial time; for simple factual objectives, retrieval practice may be more efficient
 
 ### Target Learners

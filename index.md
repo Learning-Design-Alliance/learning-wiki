@@ -12,13 +12,13 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (476)
+### [Principles](principles/index.md) (468)
 Research-backed design commitments: what to do and why.
 
 ### [Elements](elements/index.md) (733)
 Instructional building blocks — the components you compose into patterns.
 
-### [Patterns](patterns/index.md) (141)
+### [Patterns](patterns/index.md) (139)
 Reusable instructional designs at the lesson or unit level.
 
 ### [Designs](designs/index.md) (115)
@@ -39,7 +39,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (3415)
+### [Claims](claims/index.md) (3404)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

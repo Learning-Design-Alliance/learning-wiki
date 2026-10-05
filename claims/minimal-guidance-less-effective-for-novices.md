@@ -16,8 +16,8 @@ sources:
     q: 4
     i: 1
     n: 164 studies
-    kind: design
-    rigour: 3
+    kind: quant-synthesis
+    rigour: "?"
   - id: klahr-nigam-2004
     resource: "https://doi.org/10.1111/j.0956-7976.2004.00737.x"
     title: "Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)"
@@ -41,7 +41,7 @@ sources:
 # Minimal guidance is less effective for novices than explicit instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 1 causal `r?`, 1 review `r?`, 1 design `r3` · `q2`–`q4` · `i1` small
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r?` · `q2`–`q4` · `i1` small
 
 For learners who lack relevant prior knowledge, discovery- or inquiry-style approaches with minimal instructional support produce weaker learning than approaches that provide explicit structure, modeling, and worked examples.
 
@@ -59,7 +59,7 @@ For learners who lack relevant prior knowledge, discovery- or inquiry-style appr
 
 Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 
-`q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `design · r3`
+`q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `quant-synthesis · r?`
 
 Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for *unguided* discovery. They also qualify it: guided forms of discovery ([feedback](../elements/feedback.md), [worked examples](../elements/demonstration.md), scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.
 
@@ -144,8 +144,7 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a form of upfront guidance that structures new material for novices
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — explicit structure is a low-cost form of the guidance novices need
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — related
-- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
-- [Guided Inquiry Outperforms Pure Discovery](guided-inquiry-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — possibly the same claim (merge candidate)
 - [The HPM learning simulation's directed activation mechanism, developed to minimize working memory load, yields a new account of the Zeigarnik effect](hpm-directed-activation-zeigarnik-account.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related

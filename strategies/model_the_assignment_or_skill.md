@@ -29,7 +29,7 @@ sources:
 # Model the Assignment or Skill
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 causal, 4 review, 2 quant-synthesis), `q2`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 causal, 4 review, 2 quant-synthesis), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling means the teacher performs the target task — writing a paragraph, solving a problem, annotating a text, critiquing an argument — while verbalizing the decisions, checks, and revisions that expert performance involves. The goal is to make invisible expert thinking observable, so learners acquire not just the product but the process that produces it.
@@ -49,7 +49,7 @@ Modeling works because observation of a competent performance provides a templat
 - Observation without subsequent practice produces illusions of competence; learners overestimate what they learned from watching [van Gog & Rummel, 2010] [-M]
 - Overly fluent expert performance can be hard to follow; novices benefit when the model works at a realistic pace, makes and corrects plausible errors, and explains why alternatives fail
 - Less effective for learners with strong prior knowledge, for whom explicit modeling is redundant and can slow performance [expertise-reversal-effect](../claims/expertise-reversal-effect.md) [~M]
-- Modeling a single fixed approach can anchor learners; contrasting two solved cases supports abstraction better than one [multiple-contrasting-cases-support-abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Modeling a single fixed approach can anchor learners; contrasting two solved cases supports abstraction better than one [multiple-contrasting-cases-support-abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - **Full modeling**: teacher completes the entire task with narration — appropriate when the task is entirely new

@@ -72,7 +72,7 @@ Belonging matters because doubt about it is self-confirming. Learners uncertain 
 - Interest and continued participation in the subject, particularly the decision to take the next course
 - Reduced stereotype threat in performance settings
 - Willingness to participate visibly — asking questions, seeking help, contributing in seminar
-- Engagement, via the relational climate the cues support [Teacher Student Relationships Improve Engagement](../claims/teacher-student-relationships-improve-engagement.md) [+M]
+- Engagement, via the relational climate the cues support [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [+M]
 
 ### Instructions
 1. **Audit with fresh eyes.** Photograph the space and list what a newcomer would infer about who belongs here. Ask someone outside the prototype to do this; the cues are invisible to those they fit.

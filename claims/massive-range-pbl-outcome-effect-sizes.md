@@ -44,7 +44,6 @@ Forest plot of content-novice-tutor outcomes from Leary et al. (2013) (Figure 5)
 
 ## Related Claims
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
-- [In PBL tutor-background meta-analysis, even the largest subgroup mean difference (mixed vs. content expert tutors) fails to reach statistical significance](tutor-background-subgroup-differences-nonsignificant.md) — related
+- [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
 - [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
-- [In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning](tutor-background-meta-regression-not-predictive.md) — related

@@ -12,14 +12,14 @@ generated:
 # Student Presentation of Collaborative Work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (5 causal, 4 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 4 of 13 report an effect size
 
 ## Description
 After completing a collaborative problem-solving task, groups project their work and present their final responses to the class. Learners take turns explaining how they arrived at their answers and why they believe they accomplished the task of building the best answer they could. The presentation phase converts group work from a private activity into a public performance of reasoning, making each group's thinking visible and available for peer critique.
 
 ## Design Implications
 
-Presenting group work requires learners to reconstruct and verbalize their reasoning, which functions as a form of [self-explanation](../elements/self-explanation.md) and deepens conceptual understanding [Explaining material to oneself improves conceptual learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The public, audience-facing structure also raises accountability within groups and gives the class access to multiple solution approaches for comparison — a form of contrasting cases that supports abstraction of general principles [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Presenting group work requires learners to reconstruct and verbalize their reasoning, which functions as a form of [self-explanation](../elements/self-explanation.md) and deepens conceptual understanding [Explaining material to oneself improves conceptual learning.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The public, audience-facing structure also raises accountability within groups and gives the class access to multiple solution approaches for comparison — a form of contrasting cases that supports abstraction of general principles [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

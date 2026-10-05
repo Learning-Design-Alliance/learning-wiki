@@ -19,7 +19,7 @@ Graphic organizers (concept maps, flowcharts, comparison matrices, story maps) a
 
 ## Design Implications
 
-Graphic organizers work by spatially representing relational structure, which supports both attention allocation and encoding: combining verbal and visual representations improves recall [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M], and organizing material into coherent visual chunks reduces extraneous working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Provided organizers are most effective when they require learners to actively complete or apply them; simply viewing a pre-filled organizer produces weaker learning than constructing or filling in the structure [~M]. Visuals must be relevant to the content — decorative illustrations that do not carry information do not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
+Graphic organizers work by spatially representing relational structure, which supports both attention allocation and encoding: combining verbal and visual representations improves recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M], and organizing material into coherent visual chunks reduces extraneous working-memory load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Provided organizers are most effective when they require learners to actively complete or apply them; simply viewing a pre-filled organizer produces weaker learning than constructing or filling in the structure [~M]. Visuals must be relevant to the content — decorative illustrations that do not carry information do not improve learning and can distract [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Graphic organizers work by spatially representing relational structure, which su
 ### Target Learning Goals
 - Comprehension of relational content: hierarchies, processes, comparisons, cause–effect chains
 - Selective attention: identifying key ideas in dense text or multimedia
-- Retention of structured knowledge [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Retention of structured knowledge [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Instructions
 1. Analyze the content to determine its dominant structure (sequence, hierarchy, comparison, cycle) and select a matching organizer type.

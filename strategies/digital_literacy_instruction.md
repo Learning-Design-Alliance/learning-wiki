@@ -12,7 +12,7 @@ generated:
 # Digital Literacy Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 15 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Digital literacy instruction teaches learners how to effectively use digital technology, communication tools, and networks to locate, evaluate, use, and create information. It spans operational skills (using devices, search engines, and platforms), information literacy (judging credibility and relevance of sources), and productive skills (creating and communicating digital content). Effective programs treat evaluation and creation as core, not add-ons: learners who only receive tool training do not transfer skills to new platforms or unfamiliar information contexts.
@@ -53,7 +53,7 @@ Digital literacy is best taught through authentic tasks — real searches, real 
 ### Instructions
 1. Diagnose actual skills with an authentic task (find and evaluate a source on an unfamiliar topic), not a self-report survey
 2. [Model](../elements/coaching.md) expert search and evaluation moves aloud — lateral reading, checking authorship, comparing sources — making decisions visible
-3. Provide guided [Practice](../elements/practice.md) on curated sets of contrasting sources (credible, biased, sponsored, fabricated); [multiple contrasting cases support abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+3. Provide guided [Practice](../elements/practice.md) on curated sets of contrasting sources (credible, biased, sponsored, fabricated); [multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 4. Prompt learners to [articulate](../elements/articulation.md) why they judged a source credible or not; [self-explanation improves conceptual understanding](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 5. Assign an authentic creation task — a researched product for a real audience — with [assessment](../elements/assessment.md) criteria covering evaluation and creation, and [feedback at the task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 6. Revisit and re-practice across the term; [spaced repetition improves retention](../claims/spaced-repetition-improves-retention.md) [+M]

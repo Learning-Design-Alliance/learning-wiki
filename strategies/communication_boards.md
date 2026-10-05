@@ -19,7 +19,7 @@ Communication boards are visual displays — physical or electronic — that pre
 
 ## Design Implications
 
-Communication boards convert expressive language demands into recognition and selection tasks, offloading the production demands that make verbal communication inaccessible for some learners. Because they pair visual symbols with meaning and often with spoken output, they can support receptive vocabulary and symbol-learning alongside expression [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. Critically, effectiveness depends on the communication environment: boards work best when partners are trained to model symbol use on the board themselves (aided language stimulation), not merely wait for the learner to point [~M].
+Communication boards convert expressive language demands into recognition and selection tasks, offloading the production demands that make verbal communication inaccessible for some learners. Because they pair visual symbols with meaning and often with spoken output, they can support receptive vocabulary and symbol-learning alongside expression [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Critically, effectiveness depends on the communication environment: boards work best when partners are trained to model symbol use on the board themselves (aided language stimulation), not merely wait for the learner to point [~M].
 
 ### Context
 #### Requirements

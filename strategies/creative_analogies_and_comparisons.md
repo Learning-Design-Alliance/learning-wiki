@@ -26,7 +26,7 @@ Analogies reduce intrinsic load by letting learners import an existing schema in
 - A source domain that is genuinely familiar to the target learners — familiarity is relative to the audience, not the instructor
 - Structural correspondence between source and target at the level of relations, not just appearance
 - Explicit identification of the analogy's boundaries — where the mapping breaks down ([Non-Examples](../elements/non-examples.md) and contrast cases help)
-- Optional visual support that reinforces the mapping ([Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M])
+- Optional visual support that reinforces the mapping ([Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M])
 
 #### Constraints
 - Misleading mappings: learners may transfer incorrect features from the source to the target, producing misconceptions that are harder to correct than gaps [-M] — e.g., the "solar system" atom analogy leads students to believe electrons orbit in fixed planetary paths

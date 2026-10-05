@@ -12,14 +12,14 @@ generated:
 # Philosophical Chairs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (5 quant-synthesis, 1 causal), `q3`–`q4` · 4 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 2 causal), `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Philosophical Chairs is a structured discussion activity in which the teacher presents a provocative, debatable statement and learners physically position themselves along an agree–disagree continuum. Learners then take turns defending their positions with reasons and evidence — often drawn from an assigned text — and may move to a new position at any point if they are persuaded. The physical movement externalizes stance, makes the distribution of views visible, and lowers the social cost of changing one's mind, since switching positions is a normal, expected part of the activity.
 
 ## Design Implications
 
-The format combines embodied commitment with [Argumentation](../elements/argumentation.md), which drives deeper processing than passive listening: learners must articulate, defend, and revise claims [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Because learners hear contrasting arguments from peers, the activity functions as a live version of [Multiple Contrasting Cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M], helping them discriminate stronger from weaker reasoning. The expectation that positions are revisable reframes persuasion as evaluation rather than performance, which supports the argumentative reasoning that discussion is meant to develop [~M].
+The format combines embodied commitment with [Argumentation](../elements/argumentation.md), which drives deeper processing than passive listening: learners must articulate, defend, and revise claims [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S]. Because learners hear contrasting arguments from peers, the activity functions as a live version of [Multiple Contrasting Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M], helping them discriminate stronger from weaker reasoning. The expectation that positions are revisable reframes persuasion as evaluation rather than performance, which supports the argumentative reasoning that discussion is meant to develop [~M].
 
 ### Context
 #### Requirements

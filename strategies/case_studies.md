@@ -12,7 +12,7 @@ generated:
 # Case Studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 A case study presents learners with a detailed account of a real or realistic situation — a business dilemma, patient history, engineering failure, or classroom conflict — which they must analyze, discuss, and resolve. Rather than receiving principles first and applying them later, learners work from the concrete situation toward the underlying concepts, making decisions under the same ambiguity and incomplete information the original actors faced.
@@ -31,7 +31,7 @@ Case-based learning improves exam performance and higher-order reasoning compare
 #### Constraints
 - Cases without a decision point or analysis task degrade into narrative reading with little learning [-M]
 - Novices can flounder when a case demands domain knowledge they lack; unstructured case discussion can exceed working memory capacity and produce shallow pattern-matching [~M] — pair with [Advance Organizers](../elements/advance-organizers.md) or targeted [Scaffolding](../elements/scaffolding.md)
-- A single case can anchor learners to surface features rather than underlying principles; comparing multiple contrasting cases supports abstraction of the general principle [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- A single case can anchor learners to surface features rather than underlying principles; comparing multiple contrasting cases supports abstraction of the general principle [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Time-intensive: cases consume substantial class and preparation time relative to the number of concepts covered [-M]
 
 #### Implementation Variability
@@ -58,7 +58,7 @@ Case-based learning improves exam performance and higher-order reasoning compare
 3. **Set the task** — pose specific analysis questions or a decision requirement; require a written or oral position ([Challenge Identification](../elements/challenge-identification.md))
 4. **Facilitate analysis** — small groups analyze first, then whole-class discussion surfaces competing interpretations; instructor probes with questions rather than supplying answers ([Coaching](../elements/coaching.md))
 5. **Close the loop** — debrief by connecting the case analysis to the underlying principles, and compare with how experts actually resolved the situation ([Think-Aloud](../elements/think-aloud.md) by the instructor or an expert commentary)
-6. **Generalize** — follow with a second, contrasting case so learners abstract the principle rather than memorizing one story [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+6. **Generalize** — follow with a second, contrasting case so learners abstract the principle rather than memorizing one story [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 
 ## Related Strategies
 - [Problem-Based Learning](../patterns/case-based-learning.md) — cases as the driver of self-directed inquiry; PBL uses cases to *generate* the need for learning, while classic case discussion assumes concepts are already in play

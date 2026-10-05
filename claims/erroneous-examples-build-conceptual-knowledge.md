@@ -67,6 +67,6 @@ Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tut
 
 ## Related Claims
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md)
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

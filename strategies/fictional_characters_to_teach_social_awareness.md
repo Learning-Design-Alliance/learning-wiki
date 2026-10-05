@@ -12,7 +12,7 @@ generated:
 # Fictional Characters to Teach Social Awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size
 
 ## Description
 This strategy uses fictional characters and narratives — from literature, film, or purpose-built scenarios — as safe proxies through which learners examine social situations, perspectives, and ethical dilemmas. Because the characters are not real, learners can discuss sensitive topics (prejudice, exclusion, conflict, inequity) without the interpersonal risk of naming real peers or communities. The fiction is deliberately connected to current events or learners' lived contexts so that insights transfer outward from the story to the world.
@@ -38,7 +38,7 @@ Fictional narrative engages the same social-cognitive machinery used to understa
 - **Literature circles** on novels featuring characters navigating identity, migration, or injustice
 - **Role-play and hot-seating**, where learners answer questions *as* the character ([Acting/Role-Play](acting-role-play.md))
 - **Film and media clips** paired with structured perspective-analysis worksheets
-- **Comparing multiple narratives** featuring different characters in parallel dilemmas, which supports abstraction of the underlying social principle [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparing multiple narratives** featuring different characters in parallel dilemmas, which supports abstraction of the underlying social principle [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Children and adolescents, for whom fictional characters provide a developmentally appropriate entry into abstract social concepts [~M]

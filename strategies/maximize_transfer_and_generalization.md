@@ -12,14 +12,14 @@ generated:
 # Maximize Transfer and Generalization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 15 report an effect size
+> **Evidence** · 6 claims (6 for) · 16 studies (7 quant-synthesis, 6 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 16 report an effect size
 
 ## Description
 Transfer is the application of knowledge or skills learned in one context to a new context; generalization is the abstraction of a principle from specific instances so it applies across cases. This strategy designs for both: instruction presents concepts in multiple varied contexts, requires application to novel problems, and prompts learners to abstract the underlying principles that connect cases. Near transfer (to similar problems) is far easier to achieve than far transfer (to dissimilar domains), and instruction must be deliberately engineered for the latter — it rarely emerges from single-context practice alone.
 
 ## Design Implications
 
-Transfer depends on learners encoding knowledge in a form that is decontextualized enough to travel but concrete enough to be usable. Multiple contrasting cases support abstraction of the deep structure that single examples leave implicit [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S], and prompting learners to explain how cases relate strengthens the resulting schema [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because far transfer is notoriously difficult to produce [Barnett & Ceci document how rarely far transfer occurs without explicit support.](https://doi.org/10.1037/0033-2909.128.4.612) [~M], designs should teach the abstraction explicitly (e.g., naming the principle, comparing surface-identical and surface-different problems) rather than hoping learners will induce it from exposure.
+Transfer depends on learners encoding knowledge in a form that is decontextualized enough to travel but concrete enough to be usable. Multiple contrasting cases support abstraction of the deep structure that single examples leave implicit [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S], and prompting learners to explain how cases relate strengthens the resulting schema [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Because far transfer is notoriously difficult to produce [Barnett & Ceci document how rarely far transfer occurs without explicit support.](https://doi.org/10.1037/0033-2909.128.4.612) [~M], designs should teach the abstraction explicitly (e.g., naming the principle, comparing surface-identical and surface-different problems) rather than hoping learners will induce it from exposure.
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 
 ### Target Learners
 - Learners who already have a baseline schema in the target domain — transfer tasks presuppose something to transfer; complete novices need initial structured instruction first [~M]
-- Intermediate learners benefit most from contrasting-case comparison, which reveals structure they would otherwise miss [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Intermediate learners benefit most from contrasting-case comparison, which reveals structure they would otherwise miss [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Learners with strong prior knowledge can be given far-transfer tasks earlier; novices need near-transfer tasks first (expertise reversal pattern) [~M]
 
 ### Target Learning Goals
@@ -53,7 +53,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 
 ### Instructions
 1. Teach the target concept with an initial worked example or model ([Demonstration](../elements/demonstration.md), [Worked Examples](../elements/worked-examples.md))
-2. Present a second, surface-different example of the same principle and prompt learners to compare: "What is the same underneath?" ([Comparing Cases](../elements/comparing-cases.md)) [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+2. Present a second, surface-different example of the same principle and prompt learners to compare: "What is the same underneath?" ([Comparing Cases](../elements/comparing-cases.md)) [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 3. Have learners state the general principle in their own words and generate one additional context where it applies ([Integration](../elements/integration.md), [Self-Explanation](../elements/self-explanation.md)) [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 4. Assign a novel application task that differs in surface features but shares deep structure ([Application](../elements/application.md))
 5. Provide feedback focused on process and principle use, not just answers [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]

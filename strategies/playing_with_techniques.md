@@ -12,14 +12,14 @@ generated:
 # Playing With Techniques
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Playing with techniques is a strategy in which learners experiment with a specific authoring technique — sentence combining, imagery, dialogue, structural moves — in short, low-stakes exercises before or alongside composing full texts. The technique is typically first studied in mentor texts, then rehearsed in isolation or in small chunks, so that learners can manipulate it without the simultaneous demands of planning, drafting, and editing a whole piece.
 
 ## Design Implications
 
-The strategy works by isolating one craft variable at a time, reducing the working-memory and motivational load of full composition while building a repertoire of moves learners can later deploy deliberately [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because the exercises are explicitly low-stakes, they encourage risk-taking and revision-oriented experimentation that graded full drafts suppress; process-focused framing outperforms outcome-focused framing for learners still acquiring a skill [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. The technique study that precedes play matters: analyzing how published authors use a move gives learners a model to imitate and vary, and contrasting multiple cases of the technique supports abstraction of what the move is *for* [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works by isolating one craft variable at a time, reducing the working-memory and motivational load of full composition while building a repertoire of moves learners can later deploy deliberately [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because the exercises are explicitly low-stakes, they encourage risk-taking and revision-oriented experimentation that graded full drafts suppress; process-focused framing outperforms outcome-focused framing for learners still acquiring a skill [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. The technique study that precedes play matters: analyzing how published authors use a move gives learners a model to imitate and vary, and contrasting multiple cases of the technique supports abstraction of what the move is *for* [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ The strategy works by isolating one craft variable at a time, reducing the worki
 
 ### Instructions
 1. **Select one technique** tied to a current writing goal (e.g., varying sentence openings for rhythm).
-2. **Analyze models:** read 2–3 mentor passages aloud and annotate where and how the technique appears; contrasting cases helps learners abstract the move's function [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. **Analyze models:** read 2–3 mentor passages aloud and annotate where and how the technique appears; contrasting cases helps learners abstract the move's function [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. **Demonstrate:** the teacher composes an example live, thinking aloud about the choices being made, consistent with [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) modeling.
 4. **Play:** learners complete a short exercise (3–10 minutes) applying the technique to their own content; use [Act It Out](../elements/act-it-out.md) or oral rehearsal first for learners who struggle to start.
 5. **Share and compare:** volunteers read examples; the class discusses what each version accomplishes, using [Analogies](../elements/analogies.md) to connect moves across examples.

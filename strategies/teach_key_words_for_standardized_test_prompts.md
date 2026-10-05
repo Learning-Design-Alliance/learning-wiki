@@ -12,14 +12,14 @@ generated:
 # Teach Key Words for Standardized Test Prompts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 14 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 5 claims (5 for) · 15 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 15 report an effect size
 
 ## Description
 This strategy involves identifying the small set of high-frequency terms that recur in standardized test prompts — verbs like *analyze*, *compare*, *justify*, *trace*, and *evaluate*, plus directional words like *except*, *most likely*, and *primarily* — and teaching them explicitly before test practice. Instruction pairs each term with a definition, a worked prompt example, and student-generated responses, so learners can rapidly classify what a prompt demands instead of losing time or misreading intent during the test itself.
 
 ## Design Implications
 
-Explicit vocabulary instruction has one of the most consistent evidence bases in education: direct teaching of targeted words improves comprehension of texts containing them [Stahl & Fairbanks' meta-analysis of vocabulary instruction.](https://doi.org/10.1080/00220973.1986.10806936) [+S]. For test prompts specifically, the payoff is in reducing misread questions — a substantial share of errors on constructed-response items stem from answering a different question than the one asked. Teaching command terms functions as a form of [Cognitive Load Management](../principles/cognitive-load-management.md): under timed conditions, learners who must simultaneously decode unfamiliar directive language and compose an answer face extraneous load that fluent term recognition removes [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy works best when terms are taught through contrasting prompt examples rather than definitions alone, so learners discriminate *compare* from *contrast* or *describe* from *explain* [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Explicit vocabulary instruction has one of the most consistent evidence bases in education: direct teaching of targeted words improves comprehension of texts containing them [Stahl & Fairbanks' meta-analysis of vocabulary instruction.](https://doi.org/10.1080/00220973.1986.10806936) [+S]. For test prompts specifically, the payoff is in reducing misread questions — a substantial share of errors on constructed-response items stem from answering a different question than the one asked. Teaching command terms functions as a form of [Cognitive Load Management](../principles/cognitive-load-management.md): under timed conditions, learners who must simultaneously decode unfamiliar directive language and compose an answer face extraneous load that fluent term recognition removes [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy works best when terms are taught through contrasting prompt examples rather than definitions alone, so learners discriminate *compare* from *contrast* or *describe* from *explain* [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Explicit vocabulary instruction has one of the most consistent evidence bases in
 ### Instructions
 1. Collect released prompts from the target assessment and tally recurring terms; prioritize the highest-frequency 8–12.
 2. Introduce each term through [Direct Instruction](../elements/cognitive-strategies.md): definition, a student-friendly paraphrase, and a worked prompt with a model response.
-3. Present contrasting prompts side by side (e.g., *describe* vs. *explain*) and have students classify the demanded response before answering [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. Present contrasting prompts side by side (e.g., *describe* vs. *explain*) and have students classify the demanded response before answering [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. Have students underline or annotate the key term in each practice prompt and state aloud what the response must do — an [Advance Organizer](../elements/advance-organizers.md) for their answer.
 5. Follow with timed [Practice](../elements/cognitive-strategies.md) on full prompts, then [Assessment](../elements/assessment.md) via practice tests, giving feedback on whether the response matched the prompt's demand [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 6. Space review of terms across weeks rather than massing them before the test [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].

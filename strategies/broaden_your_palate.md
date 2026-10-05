@@ -12,14 +12,14 @@ generated:
 # Broaden Your Palate
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Learners make a deliberate practice of checking news and information sources whose political orientation differs from their own. The goal is not to accept opposing claims uncritically but to know what other audiences are consuming, test the quality of those sources with the same evaluation criteria applied to favored ones, and remain open to the possibility that some falsehoods are sincerely held rather than cynically manufactured. The practice also includes supporting reliable journalism financially, since gathering accurate information is not free and payment aligns a source's incentives with the reader's.
 
 ## Design Implications
 
-The strategy targets biased assimilation and selective exposure: people evaluate identical evidence more favorably when it confirms their prior commitments [~S], and deliberately diversifying one's information diet is one of the few practical countermeasures available to an individual reader. Encountering opposing framings works best when learners actively compare and explain across sources rather than passively skimming [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Contrasting how multiple outlets cover the same event supports abstraction of the underlying reporting patterns, much as contrasting cases support concept formation [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy targets biased assimilation and selective exposure: people evaluate identical evidence more favorably when it confirms their prior commitments [~S], and deliberately diversifying one's information diet is one of the few practical countermeasures available to an individual reader. Encountering opposing framings works best when learners actively compare and explain across sources rather than passively skimming [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Contrasting how multiple outlets cover the same event supports abstraction of the underlying reporting patterns, much as contrasting cases support concept formation [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

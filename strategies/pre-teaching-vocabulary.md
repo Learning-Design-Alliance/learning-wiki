@@ -52,7 +52,7 @@ Pre-teaching reduces the extraneous cognitive load of decoding unfamiliar words 
 
 ### Instructions
 1. **Select** 5–10 words that are (a) central to understanding the text and (b) unlikely to be known; skip words learners can infer from context.
-2. **Explain** each word in student-friendly language with an example, [Analogy](../elements/analogies.md), or image — avoid dictionary-style definitions ([Dual Coding](../theories/dual-coding-theory.md) supports recall [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]).
+2. **Explain** each word in student-friendly language with an example, [Analogy](../elements/analogies.md), or image — avoid dictionary-style definitions ([Dual Coding](../theories/dual-coding-theory.md) supports recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]).
 3. **Engage** learners actively: have them sort examples/non-examples, rate their familiarity, or use the word in a sentence.
 4. **Check** quickly that learners can recognize or use the words before reading begins.
 5. **Revisit** the words during and after reading through discussion and writing, so learners meet them repeatedly in context.

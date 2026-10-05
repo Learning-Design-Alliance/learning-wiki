@@ -81,7 +81,7 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
-- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — possibly the same claim (merge candidate)
 - [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — related

@@ -44,5 +44,5 @@ The review reports Motallebzadeh and Ganjali's (2011) study of 40 Iranian EFL le
 
 ## Related Claims
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related
-- [Learning vocabulary via mobile phone SMS produces greater vocabulary gains than paper-based materials](sms-vocabulary-learning-beats-paper-materials.md) — related
+- [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related

@@ -49,7 +49,7 @@ Audiobooks leverage the auditory channel to deliver rich language input while by
 
 ### Target Learning Goals
 - Listening comprehension and vocabulary development
-- Motivation and positive reading identity — fiction listening also supports perspective-taking [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+M]
+- Motivation and positive reading identity — fiction listening also supports perspective-taking [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 - Fluency and prosody modeling when audio is paired with print
 - Access to grade-level content for learners whose decoding lags behind comprehension
 

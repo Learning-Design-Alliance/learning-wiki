@@ -40,7 +40,7 @@ iSTART-2 is "a game-based ITS designed to improve high school students' reading 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](../claims/controlled-interaction-patterns-higher-self-explanation-quality.md) [+W]
-- [Self-explanation improves learning](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](../claims/real-time-dynamic-analyses-inform-user-models.md) [+W]
 
 ## Related Elements

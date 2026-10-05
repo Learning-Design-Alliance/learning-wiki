@@ -63,5 +63,5 @@ Inter-rater reliability from the same human evaluation, using exact overlap and 
 
 ## Related Claims
 - [Gpt 4O Final Turn Correctness Labeling Is Close To Human Level](gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md)
-- [Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)](engineering-rubric-low-scoring-reliability.md) — related
+- [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) — related

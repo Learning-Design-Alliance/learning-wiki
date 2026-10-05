@@ -43,7 +43,7 @@ The article reports, citing prior ICAP papers, a study comparing concept-mapping
 
 
 ## Related Claims
-- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related

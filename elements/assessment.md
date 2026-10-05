@@ -53,8 +53,8 @@ Assessment is the structured collection of evidence about learner understanding,
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding](../claims/probing-feedback-revise-resubmit-evidence.md) [+M]
-- [Rubrics improve student work](../claims/rubrics-improve-student-work.md) [+M]
-- [Peer Feedback Improves Work Quality](../claims/peer-feedback-improves-work-quality.md) [+M]
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 
 ## Related Elements

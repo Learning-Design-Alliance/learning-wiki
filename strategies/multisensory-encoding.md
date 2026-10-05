@@ -19,7 +19,7 @@ Multisensory encoding presents the same core content through more than one senso
 
 ## Design Implications
 
-Multisensory presentation works because separate processing channels for visual and auditory input allow parallel information intake, and because dual-format traces improve retrieval [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The effect is strongest when each modality adds information rather than duplicating it verbatim: narrated animation outperforms on-screen text read aloud, which overloads the visual channel [Multimedia learning is improved by presenting words as narration rather than on-screen text.](../claims/modality-effect-narration-over-text.md) [+S]. Adding irrelevant sensory material — background music, decorative images — impairs rather than helps learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
+Multisensory presentation works because separate processing channels for visual and auditory input allow parallel information intake, and because dual-format traces improve retrieval [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The effect is strongest when each modality adds information rather than duplicating it verbatim: narrated animation outperforms on-screen text read aloud, which overloads the visual channel [Multimedia learning is improved by presenting words as narration rather than on-screen text.](../claims/modality-effect-narration-over-text.md) [+S]. Adding irrelevant sensory material — background music, decorative images — impairs rather than helps learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
 
 ### Context
 #### Requirements
@@ -40,12 +40,12 @@ Multisensory presentation works because separate processing channels for visual 
 - **Text-plus-visual:** annotated diagrams and [Annotating](../principles/annotating.md) as a learner-generated dual-code
 
 ### Target Learners
-- Novices, who benefit most from complementary representations that reduce integration demands [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Novices, who benefit most from complementary representations that reduce integration demands [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Beginning readers and language learners, for whom pictures scaffold word meaning
 - Less beneficial for experts, for whom extra representations can be redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals
-- Recall and comprehension of verbal material paired with imagery [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Recall and comprehension of verbal material paired with imagery [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Mental model construction for dynamic systems and processes
 - Vocabulary and concept acquisition in early literacy and second-language learning
 

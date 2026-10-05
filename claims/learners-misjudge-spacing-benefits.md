@@ -76,7 +76,7 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 
 **Boundary conditions.** The misjudgment is strongest for verbal, fact-like material where massing produces rapid apparent fluency; learners with domain expertise may judge spacing more accurately because they have experienced delayed retrieval success — a moderation consistent with the general pattern described by the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md), in which instructional conditions that help novices are judged and used differently by more advanced learners. The illusion also weakens when learners receive test-based feedback on spaced versus massed conditions rather than relying on study-phase impressions.
 
-**Design implications.** Where the schedule can be controlled by the instructor rather than the learner — e.g., cumulative quizzing, automatically rescheduled review in [adaptive learning](../patterns/adaptive-learning.md) systems — the misjudgment becomes moot; this is one mechanism by which [adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) for self-directed study. Where scheduling cannot be system-controlled, designers should treat the illusion itself as a training target, teaching learners to distrust fluency as a cue for learning and to prefer schedules that feel harder.
+**Design implications.** Where the schedule can be controlled by the instructor rather than the learner — e.g., cumulative quizzing, automatically rescheduled review in [adaptive learning](../principles/adaptive-learning.md) systems — the misjudgment becomes moot; this is one mechanism by which [adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) for self-directed study. Where scheduling cannot be system-controlled, designers should treat the illusion itself as a training target, teaching learners to distrust fluency as a cue for learning and to prefer schedules that feel harder.
 
 **Open questions.** Both studies recorded above were read as abstracts and report no effect sizes. How large the misjudgment is, and whether it holds in authentic course settings rather than laboratory tasks, remain to be recorded.
 
@@ -88,7 +88,7 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another case where structural conditions of study, not learner intuition, determine retention
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the framework in which learners' scheduling decisions are made, and where this illusion does its damage
 - [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — expertise moderates how learners respond to and judge instructional conditions
-- [Adaptive learning](../patterns/adaptive-learning.md) — system-controlled scheduling sidesteps learner misjudgment entirely
+- [Adaptive learning](../principles/adaptive-learning.md) — system-controlled scheduling sidesteps learner misjudgment entirely
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — algorithmic scheduling is one route to removing the scheduling decision from the learner
 - [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related

@@ -12,7 +12,7 @@ generated:
 # Teaching Academic Vocabulary in PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 In project-based learning (PBL), teaching academic vocabulary means identifying the specialized and high-utility academic words students will need to read, discuss, and produce during a project, then planning deliberate instruction for those words rather than leaving acquisition to incidental exposure. Instruction typically combines explicit teaching of word meanings and morphology, multiple encounters across contexts, and structured opportunities to use the words in authentic project tasks. This is especially consequential for English Language Learners (ELLs), who must build academic language while simultaneously learning content.
@@ -38,7 +38,7 @@ Vocabulary knowledge is one of the strongest predictors of academic reading comp
 #### Implementation Variability
 - **Just-in-time mini-lessons:** introduce vocabulary at the moment a text or task requires it, tying meaning to immediate use
 - **Morphological analysis:** teach roots, prefixes, and suffixes so students can decompose unfamiliar academic words independently
-- **Frayer models and semantic mapping:** students define, exemplify, and contrast target words; contrasting cases supports abstraction of word meaning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Frayer models and semantic mapping:** students define, exemplify, and contrast target words; contrasting cases supports abstraction of word meaning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Peer talk structures:** structured discussion protocols require use of target terms before formal writing
 - **Embedded glossaries and digital supports:** hyperlinked definitions in project documents for self-service support
 

@@ -19,7 +19,7 @@ Rice tables and sandboxes are sensory play stations stocked with pourable materi
 
 ## Design Implications
 
-Sensory materials make abstract physical concepts directly manipulable, which supports conceptual change in young learners whose reasoning is grounded in physical action [Hands-on activity supports learning when it is paired with sense-making rather than left unstructured.](../claims/hands-on-learning-improves-achievement.md) [~M]. The critical design move is the adult's framing: unstructured sand play alone produces engagement but little science learning; adding prediction prompts, comparison questions, and brief discussion turns manipulation into investigation [Guided inquiry outperforms pure discovery for novices.](../claims/guided-inquiry-outperforms-pure-discovery.md) [+S].
+Sensory materials make abstract physical concepts directly manipulable, which supports conceptual change in young learners whose reasoning is grounded in physical action [Hands-on activity supports learning when it is paired with sense-making rather than left unstructured.](../claims/hands-on-learning-improves-achievement.md) [~M]. The critical design move is the adult's framing: unstructured sand play alone produces engagement but little science learning; adding prediction prompts, comparison questions, and brief discussion turns manipulation into investigation [Guided inquiry outperforms pure discovery for novices.](../claims/guided-discovery-outperforms-pure-discovery.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Sensory materials make abstract physical concepts directly manipulable, which su
 - Time for children to represent findings verbally, in drawing, or through [annotating](../principles/annotating.md) simple records
 
 #### Constraints
-- Free play without framing produces exploration but rarely measurable science learning [Guided inquiry outperforms pure discovery for novices.](../claims/guided-inquiry-outperforms-pure-discovery.md) [-S] — young children do not spontaneously extract the target concept from materials alone
+- Free play without framing produces exploration but rarely measurable science learning [Guided inquiry outperforms pure discovery for novices.](../claims/guided-discovery-outperforms-pure-discovery.md) [-S] — young children do not spontaneously extract the target concept from materials alone
 - Overly directive scripting collapses the activity into [demonstration](../elements/demonstration.md) and removes the prediction–test cycle that drives learning
 - Sensory tables can overload children with sensory or attention difficulties; some learners need reduced materials or structured turns
 - Mess, allergy, and safety constraints (choking hazards for children under 3; gluten concerns with some grain fillers) limit material choice

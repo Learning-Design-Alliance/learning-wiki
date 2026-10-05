@@ -12,14 +12,14 @@ generated:
 # Show and Tell for Multimodal Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Devoting time each week for students to show the effects of different multimodal combinations or tell about their multimodal composition process. Similar to an author's chair in writing workshop, students explain their design decisions and receive constructive feedback from their peers. These student-led discussions generate concrete examples of the various processes used for multimodal composition.
 
 ## Design Implications
 
-Show and tell converts private design decisions into public, discussable reasoning, functioning as a form of [Articulation](../elements/articulation.md) within a [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) cycle. Requiring students to explain *why* they combined modes in a particular way prompts self-explanation, which improves conceptual understanding beyond simply producing the artifact [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because presenters hear how peers solved the same design problem, the routine also generates multiple contrasting cases that support abstraction of design principles [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Show and tell converts private design decisions into public, discussable reasoning, functioning as a form of [Articulation](../elements/articulation.md) within a [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) cycle. Requiring students to explain *why* they combined modes in a particular way prompts self-explanation, which improves conceptual understanding beyond simply producing the artifact [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because presenters hear how peers solved the same design problem, the routine also generates multiple contrasting cases that support abstraction of design principles [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

@@ -1,11 +1,12 @@
 ---
 type: claim
-title: Group rewards combined with individual accountability make cooperative learning effective
+title: "In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards"
 status: draft
 generated:
   by: claude/unspecified
   at: 2026-09-25
 id: cooperative-learning-group-rewards-and-individual-accountability
+aliases: [cooperative-learning-free-rider-without-accountability]
 evidence_strength: weak
 sources:
   - id: slavin-1996
@@ -37,12 +38,14 @@ sources:
     rigour: "?"
 ---
 
-# Group rewards combined with individual accountability make cooperative learning effective
+# In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q2`–`q3` · `i1` small
+<!-- deprecated title (2026-10-05, overstated its evidence): Group rewards combined with individual accountability make cooperative learning effective -->
 
-Cooperative learning reliably improves achievement when two conditions hold together: the group's success depends on each member's learning (individual accountability), and groups receive recognition or rewards based on member learning gains (group rewards).
+Cooperative learning raises achievement more when the group's success depends on each member's learning (individual accountability) and groups are recognised or rewarded on members' learning gains (group rewards). The recorded evidence is from elementary and secondary schools: a best-evidence review, an elementary meta-analysis and one randomised component analysis. It does not make the rewards strictly necessary, since Slavin (1996) also reports structured-interaction methods that work without them, and no entry measures free-riding directly.
+<!-- deprecated (2026-10-05, overstated its evidence): Cooperative learning reliably improves achievement when two conditions hold together: the group's success depends on each member's learning (individual accountability), and groups receive recognition or rewards based on member learning gains (group rewards). -->
 
 ## Subclaims
 
@@ -86,7 +89,15 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 
 **Constraints on generalization.** The claim fails when rewards are normative rather than improvement-based: fixed team scores on a curve penalize groups containing lower-achieving members and can produce resentment rather than helping [-M]. It also fails when individual accountability is implemented as a single group product with no way to attribute contribution — the free-riding condition [-M] — or when accountability pressure is so salient that it suppresses help-seeking, since students may hide confusion to avoid lowering the team score [~M]. The evidence base is strongest for structured, curriculum-specific methods in elementary and secondary settings; extrapolation to open-ended or adult professional learning tasks is not yet supported [-W]. Whether extrinsic group rewards undermine intrinsic motivation over time, as [self-determination theory](../theories/self-determination-theory.md) would predict, or whether team-based recognition functions more as feedback than as contingent reward, remains unresolved [~W].
 
-**Open questions.** How group rewards interact with developmental level, group composition, and individualistic vs. collectivist classroom norms remains under-specified here. Studies isolating the two conditions factorially — group rewards with and without individual accountability, and vice versa — are needed before this page can carry evidence entries; until then, the claim should be treated as a well-motivated design principle rather than an independently verified effect.
+**Open questions.** How group rewards interact with developmental level, group composition, and individualistic vs. collectivist classroom norms remains under-specified here. Three entries are recorded: Slavin's (1996) review of 99 school studies, Rohrbeck et al.'s (2003) elementary meta-analysis, and Fantuzzo et al.'s (1992) randomised component analysis of reward and structure in reciprocal peer tutoring. None crosses group rewards with individual accountability factorially, so the two conditions' separate contributions are still untested here. <!-- deprecated (2026-10-05, stale beside three recorded entries): Studies isolating the two conditions factorially — group rewards with and without individual accountability, and vice versa — are needed before this page can carry evidence entries; until then, the claim should be treated as a well-motivated design principle rather than an independently verified effect. -->
+
+*Merged from “Cooperative learning without individual accountability produces free-riding that reduces learning outcomes” (cooperative-learning-free-rider-without-accountability):* The free-riding account below is the usual explanation of the reward-and-accountability finding; none of the three recorded entries measures free-riding or social loafing directly. This claim describes a boundary condition on cooperative learning rather than a failure of the method itself. The free-rider (or "social loafing") problem arises when individual contributions to a group product are invisible or when the group receives a single undifferentiated reward: members who expect to receive the outcome regardless of effort have no incentive to engage, and motivated members may compensate by doing more than their share, masking the non-learning of others.
+
+The standard remedy in the cooperative learning literature is **individual accountability** — structuring tasks so each member's learning or contribution is separately assessed (e.g., individual quizzes, randomly selected reporters, jigsaw segments, distinct roles, or group grades adjusted by individual performance). Accountability is one of the core elements distinguishing effective cooperative learning from mere group work; without it, group interaction can produce discussion without individual mastery. Designers should pair collaborative structures with individual assessment checkpoints — see [Cooperative learning](../patterns/cooperative-learning.md) and [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md).
+
+**Moderators and boundary conditions.** Accountability requirements interact with task structure: divisible tasks (where work can be split and contributions hidden) are more vulnerable to free-riding than unitary tasks requiring genuine joint reasoning. Group size matters — loafing increases as groups get larger because individual impact on the group outcome becomes less visible. Over-accountability is a real risk: if every contribution is individually graded, students may divide labor mechanically and skip the peer explanation and elaboration that make group work valuable, undermining the positive effect documented in [Collaborative learning improves outcomes](collaborative-learning-improves-outcomes.md). The design goal is accountability for *learning* (each member can demonstrate mastery), not surveillance of every interaction.
+
+**Open questions.** How much accountability is optimal, and whether accountability requirements differ by task type (divisible vs. unitary) and learner age — younger learners may need more explicit structures, while adults may respond to reputational accountability within ongoing teams.
 
 ## Related Claims
 
@@ -98,7 +109,6 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
 - [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
 - [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
-- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — possibly the same claim (merge candidate)
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
@@ -106,8 +116,10 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — a narrower finding that bears on this claim
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
-- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
 - [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
+- [Collaborative learning](../principles/collaborative-learning.md) — principle-level guidance on structuring group interaction
+- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related

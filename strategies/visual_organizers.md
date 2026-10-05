@@ -19,7 +19,7 @@ Visual organizers are spatial-graphic representations — concept maps, advance 
 
 ## Design Implications
 
-Visual organizers work by making relational structure explicit, reducing the working-memory demand of holding multiple elements in mind and adding a second (visual) representation to verbal content [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]. Combining words and corresponding pictures leverages dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The largest gains come when learners actively generate the organizer rather than passively receive one [Learner-constructed graphic organizers outperform provided ones.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M], though provided organizers remain useful for novices who lack the knowledge to build one.
+Visual organizers work by making relational structure explicit, reducing the working-memory demand of holding multiple elements in mind and adding a second (visual) representation to verbal content [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]. Combining words and corresponding pictures leverages dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The largest gains come when learners actively generate the organizer rather than passively receive one [Learner-constructed graphic organizers outperform provided ones.](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [+M], though provided organizers remain useful for novices who lack the knowledge to build one.
 
 ### Context
 #### Requirements

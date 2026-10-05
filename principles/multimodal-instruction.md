@@ -103,7 +103,7 @@ Retain learners, assignment, materials, pacing, comparator, instrument and horiz
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal
 
@@ -118,7 +118,7 @@ The expectation should weaken if comparable learners, on aligned tasks that need
 A learner's preference for a mode, immediate comprehension, the ability to translate between representations, delayed retention and use in a real setting are separate claims. The present evidence does not establish an optimal number of modes, a best mode for any learner, or effects of gesture, demonstration or sign.
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md) — multimodal instruction often incorporates learner-generated visuals and explanations.
+- [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.
 - [Multimedia Projects](multimedia-projects.md) — project-based multimodal work extends multimodal instruction into production.
 - [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — reading aids are one common multimodal support structure.
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — multimodal design helps most when the verbal layer is also clear.

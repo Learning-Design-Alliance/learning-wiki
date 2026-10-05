@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers and Visual Aids (Attention)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 8 studies (5 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers and visual aids structure content spatially — through mind maps, advance organizers, comparison matrices, flowcharts, and diagrams — so that learners can see which information matters and how it relates. As an attention strategy, the organizer functions as a pre-selection device: it directs the learner's limited attentional resources toward essential relationships rather than surface details.
@@ -63,7 +63,7 @@ Graphic organizers work by externalizing structure, reducing the working-memory 
 
 ## Examples
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — concept-mapping software widely used in K–12 for learner-constructed graphic organizers across content areas.
-- **Comparison matrices in history instruction** — a grid with civilizations as rows and institutions (religion, economy, government) as columns directs attention to comparable features across cases; multiple contrasting cases presented in such a matrix support abstraction of shared principles [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison matrices in history instruction** — a grid with civilizations as rows and institutions (religion, economy, government) as columns directs attention to comparable features across cases; multiple contrasting cases presented in such a matrix support abstraction of shared principles [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Khan Academy unit maps (https://www.khanacademy.org)** — visual course maps showing lesson hierarchy, orienting learners to where the current lesson sits in the unit's structure.
 
 ## Key Sources

@@ -37,7 +37,7 @@ Note taking supports learning only when it induces generative processing; verbat
 #### Implementation Variability
 - **Two-column (Cornell) notes** — cue column for questions, notes column for content, summary section at the bottom
 - **Guided/partial notes** — instructor provides skeleton with gaps learners fill and elaborate; reduces transcription load while preserving generative work
-- **Sketchnoting / visual notes** — combining words and drawings leverages two channels [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- **Sketchnoting / visual notes** — combining words and drawings leverages two channels [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - **Pause-and-elaborate lectures** — brief stops where learners write a summary or question before continuing
 - **Collaborative note taking** — pairs compare and merge notes, exposing missed points and prompting discussion
 

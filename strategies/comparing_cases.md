@@ -12,14 +12,14 @@ generated:
 # Comparing Cases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Comparing cases asks learners to examine two or more worked instances — problems, examples, or scenarios — side by side and identify what varies and what stays constant. The comparison itself, not any single case, is the instructional event: alignment of the cases makes the underlying relational structure visible, supporting abstraction of general principles.
 
 ## Design Implications
 
-Comparison is one of the most reliable routes to schema abstraction, because variation across cases isolates which features are incidental and which are structural [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Comparisons also prompt self-explanation, which independently improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design burden is on case selection and alignment: cases must be isomorphic enough to map onto each other, and learners need explicit prompts to compare rather than merely read each case in sequence.
+Comparison is one of the most reliable routes to schema abstraction, because variation across cases isolates which features are incidental and which are structural [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Comparisons also prompt self-explanation, which independently improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design burden is on case selection and alignment: cases must be isomorphic enough to map onto each other, and learners need explicit prompts to compare rather than merely read each case in sequence.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Comparison is one of the most reliable routes to schema abstraction, because var
 - **Invention before comparison:** learners attempt to invent a solution first, then compare cases — the "time for telling" sequence that prepares learners to benefit from instruction
 
 ### Target Learners
-- Novices, who otherwise encode only surface features of a single example [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Novices, who otherwise encode only surface features of a single example [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Learners prone to overgeneralizing from one instance or anchoring to a single solution method
 - Intermediate learners comparing alternative solution strategies; less valuable for experts, for whom a single case suffices [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 

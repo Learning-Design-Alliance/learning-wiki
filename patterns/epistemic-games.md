@@ -70,7 +70,7 @@ The mechanism connects to **serious play** (Rieber, Smith, & Noah, 1998): learne
 - [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Situated Learning](../principles/situated-learning.md)
+- [Situated Learning](../theories/situated-learning.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
 
 ### Personalization

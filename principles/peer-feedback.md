@@ -1,6 +1,7 @@
 ---
 type: principle
-id: peer-feedbackpeer-review
+id: peer-feedback
+aliases: [peer-feedbackpeer-review]
 title: Peer Feedback/Peer Review
 description: "Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding."
 status: review
@@ -31,7 +32,7 @@ sources:
 Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
 
 ## Implications
-Peer feedback improves learning when it teaches learners to recognize quality and act on revision cues, not just receive more comments. Reviewing a peer’s work can sharpen evaluative judgment because learners must explain what is working, what is weak, and why [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], while recipients gain additional information they can use to monitor and revise their own work [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. The design challenge is credibility and specificity: peer review collapses quickly into vague praise, surface correction, or distrust unless learners share criteria, practice giving feedback, and have time to revise in response. In practice, peer review often needs modeled prompts and structured protocols before it becomes reliably useful [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
+Peer feedback improves learning when it teaches learners to recognize quality and act on revision cues, not just receive more comments. Reviewing a peer’s work can sharpen evaluative judgment because learners must explain what is working, what is weak, and why [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], while recipients gain additional information they can use to monitor and revise their own work [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. The design challenge is credibility and specificity: peer review collapses quickly into vague praise, surface correction, or distrust unless learners share criteria, practice giving feedback, and have time to revise in response. In practice, peer review often needs modeled prompts and structured protocols before it becomes reliably useful [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -67,7 +68,7 @@ Peer feedback improves learning when it teaches learners to recognize quality an
 - Anonymous peer review can reduce some social friction, but it can also reduce accountability or relational learning depending on the context.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — reviewing peer work deepens learning when learners explain what is strong, weak, and why
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — reviewing peer work deepens learning when learners explain what is strong, weak, and why
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — peer review helps recipients and reviewers monitor quality and identify concrete next steps
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer feedback improves when the process includes modeled prompts, protocols, and responsive support
 

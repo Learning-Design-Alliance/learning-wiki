@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Rubrics Improve Peer Feedback Quality
+title: "Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: "?"
 ---
 
-# Rubrics Improve Peer Feedback Quality
+# Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q2`
+<!-- deprecated title (2026-10-05, overstated its evidence): Rubrics Improve Peer Feedback Quality -->
 
 Rubrics — explicit criteria describing expected performance levels — guide peer reviewers toward specific, criterion-referenced comments rather than vague or purely affective feedback.
 
@@ -63,18 +64,18 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 
 **Mechanism.** Peer reviewers, especially novices, often lack a model of what quality work looks like. A rubric supplies that model, giving reviewers concrete criteria to evaluate against and vocabulary for articulating strengths and weaknesses. This should reduce the cognitive demands of judging unfamiliar work — consistent with the broader logic of [Cognitive Load Theory](../theories/cognitive-load-theory.md) — and redirect reviewer attention from surface features (spelling, length) toward substantive qualities. Rubric use in peer review also serves an assessment-for-learning function: reviewers internalize the criteria while applying them, which may support later self-assessment of their own work (see [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md)).
 
-**Boundary conditions.** Rubric benefits likely depend on rubric quality: criteria that are too generic, too numerous, or phrased in inaccessible language may not help novice reviewers, and may even encourage box-ticking rather than genuine evaluation. This caution is sharpened by the finding that simple checklist evaluation can be ineffective in online peer settings — see [Checklist evaluation ineffective online](checklist-evaluation-ineffective-online.md) — suggesting that a rubric must do more than enumerate surface criteria to change feedback quality. Training in how to apply a rubric — e.g., calibrating judgments against exemplar work — is often paired with rubric use in practice, and the claim here should be read as rubrics *within* a supported peer-review process, not as a stand-alone intervention. Effects may also be weaker for highly subjective or creative tasks where criteria are contested, and for advanced reviewers who already possess internalized quality standards — a pattern consistent with the [expertise reversal effect](../theories/expertise-reversal-effect.md), in which instructional supports that help novices add little or become redundant for more experienced learners.
+**Boundary conditions.** Rubric benefits likely depend on rubric quality: criteria that are too generic, too numerous, or phrased in inaccessible language may not help novice reviewers, and may even encourage box-ticking rather than genuine evaluation. <!-- deprecated (2026-10-05, misapplied claim: the CRAAP checklist claim tests source-evaluation instruction, not peer feedback): This caution is sharpened by the finding that simple checklist evaluation can be ineffective in online peer settings — see [Checklist evaluation ineffective online](checklist-evaluation-ineffective-online.md) — suggesting that a rubric must do more than enumerate surface criteria to change feedback quality. --> Within this page's own evidence, Li et al. (2022) report that the rubric "restrained" reviewers' reflective and divergent commentary, and Ashton and Davies (2015) found rubric guidance made little difference on simple, objective criteria. Training in how to apply a rubric — e.g., calibrating judgments against exemplar work — is often paired with rubric use in practice, and the claim here should be read as rubrics *within* a supported peer-review process, not as a stand-alone intervention. Effects may also be weaker for highly subjective or creative tasks where criteria are contested, and for advanced reviewers who already possess internalized quality standards — a pattern consistent with the [expertise reversal effect](../theories/expertise-reversal-effect.md), in which instructional supports that help novices add little or become redundant for more experienced learners.
 
-**Open questions.** Whether rubric-guided peer feedback improves the *receiver's* subsequent work (not just feedback quality), and whether rubric use in peer review transfers to better self-assessment, remain to be established by evidence added to this page. The claim is also currently about feedback *quality* (specificity, criterion-referencing) rather than downstream learning outcomes; linking it to outcome evidence would require the mediation chain rubric → feedback quality → revised work to be demonstrated. Until studies are added, the strength of this claim should be treated as unestablished rather than assumed.
+**Open questions.** Whether rubric-guided peer feedback improves the *receiver's* subsequent work (not just feedback quality), and whether rubric use in peer review transfers to better self-assessment, are not tested by either study recorded here. The claim is also currently about feedback *quality* (specificity, criterion-referencing) rather than downstream learning outcomes; linking it to outcome evidence would require the mediation chain rubric → feedback quality → revised work to be demonstrated. <!-- deprecated (2026-10-05, stale: entries had been added): Until studies are added, the strength of this claim should be treated as unestablished rather than assumed. --> Two quasi-experiments are recorded (Li et al. 2022, 47 graduate students; Ashton and Davies 2015, a MOOC writing course), neither reporting a standardised effect size, and one shows a cost as well as a change, so the claim is weakly supported for feedback content and rating accuracy and untested for downstream learning.
 
 ## Related Claims
 
-- [Checklist evaluation ineffective online](checklist-evaluation-ineffective-online.md) — a cautionary contrast: simple checklists may not yield quality online peer evaluation, sharpening what "rubric" must mean here.
+- [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related: criteria checklists for evaluating web sources, not peer feedback <!-- deprecated (2026-10-05, misapplied): a cautionary contrast: simple checklists may not yield quality online peer evaluation, sharpening what "rubric" must mean here. -->
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — rubric-guided peer feedback is a form of assessment *for* learning, making criteria visible to learners.
 - [Feedback improves learning outcomes](feedback-improves-learning.md) — the downstream mechanism: better feedback should only help if feedback itself improves learning.
-- [Peer feedback improves work quality](peer-feedback-improves-work-quality.md) — the broader claim this page qualifies: rubrics specify *how* to make peer feedback effective.
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the broader claim this page qualifies: rubrics specify *how* to make peer feedback effective.
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
-- [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md) — related
-- [Rubrics improve student work](rubrics-improve-student-work.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision](teacher-workshops-validate-app-evaluation-framework.md) — related

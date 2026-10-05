@@ -12,7 +12,7 @@ generated:
 # Regular Text Referencing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Regular text referencing means deliberately and repeatedly returning to previously studied mentor texts — published works, exemplar student writing, or shared class texts — during conferences, mini-lessons, and discussions. Each return visit names the technique being studied, shows it in context, and prompts students to connect it to their own writing. The strategy converts a one-time exposure into spaced, elaborated review, and explicitly signals to students that the technique is reusable in future work.
@@ -31,7 +31,7 @@ Repeated, spaced encounters with the same exemplar combat the forgetting curve f
 #### Constraints
 - Referencing becomes noise if it is repetitive or untethered to a current writing goal [-W] — students disengage when re-reading feels ceremonial rather than purposeful
 - If the teacher always does the pointing, students never develop the retrieval habit; unguided re-exposure produces weak retention gains compared with student-initiated search [+S]
-- Over-reliance on a single mentor text can anchor students to one author's style; multiple contrasting exemplars support abstraction better [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Over-reliance on a single mentor text can anchor students to one author's style; multiple contrasting exemplars support abstraction better [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Implementation Variability
 - **Conference referencing** — individualized: the teacher opens a specific student's draft next to a mentor text and locates the move together

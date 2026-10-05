@@ -19,7 +19,7 @@ Multi-sensory learning presents content through more than one sensory channel �
 
 ## Design Implications
 
-The evidence base is narrower than the popular "learning styles" framing suggests: there is no support for matching instruction to a learner's preferred modality [X], but there is solid support for combining *complementary* channels — words with corresponding pictures — because verbal and visual channels are processed separately in working memory [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-recall.md) [+S]. The combination must be integrated in time and space; separated or redundant inputs add extraneous load instead of supporting encoding [Cognitive overload degrades learning when channels are overloaded or inputs are split.](../claims/cognitive-overload-degrades-learning.md) [-M]. Adding a second modality only helps when each channel carries *different, essential* information — decorative pictures or verbatim narration of on-screen text do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M].
+The evidence base is narrower than the popular "learning styles" framing suggests: there is no support for matching instruction to a learner's preferred modality [X], but there is solid support for combining *complementary* channels — words with corresponding pictures — because verbal and visual channels are processed separately in working memory [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+S]. The combination must be integrated in time and space; separated or redundant inputs add extraneous load instead of supporting encoding [Cognitive overload degrades learning when channels are overloaded or inputs are split.](../claims/cognitive-overload-degrades-learning.md) [-M]. Adding a second modality only helps when each channel carries *different, essential* information — decorative pictures or verbatim narration of on-screen text do not improve learning [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-M].
 
 ### Context
 #### Requirements
@@ -40,14 +40,14 @@ The evidence base is narrower than the popular "learning styles" framing suggest
 - Tactile: sand-paper letters and letter-tracing in Orton-Gillingham–style literacy instruction
 
 ### Target Learners
-- Novices, who benefit most from dual-channel encoding because they lack schemas to integrate information mentally [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-recall.md) [+S]
+- Novices, who benefit most from dual-channel encoding because they lack schemas to integrate information mentally [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+S]
 - Learners with reading difficulties or limited [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) support, for whom an additional non-text channel reduces dependence on print
 - Less beneficial for experts, who can hold the content in a single integrated schema and may find redundant channels burdensome [~M]
 
 ### Target Learning Goals
 - Conceptual understanding of spatial or dynamic content (processes, structures, systems)
 - Vocabulary and symbol learning (phonics, letter–sound mapping, scientific diagrams)
-- Retention of paired verbal–visual associations [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-recall.md) [+M]
+- Retention of paired verbal–visual associations [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the essential content and decide which channel best carries each part — visuals for spatial/structural relations, words for causal or sequential explanation.

@@ -55,7 +55,7 @@ Lateral reading works because it shifts evaluation from judging a source's self-
 2. Open new tabs and search the source's name, authors, or domain alongside evaluative terms ("funding," "bias," "retractation").
 3. Consult at least two independent, reputable external sources — encyclopedias, established news outlets, fact-checking organizations — and note what they report about the original source.
 4. Record the verdict: trusted, untrusted, or unresolved, with the external evidence that supports it (see [Annotating](../principles/annotating.md) for structured note-taking during this step).
-5. Only then decide whether to read, cite, or share the original source; pair the routine with [Case Studies](../principles/case-studiescase-based-learning.md) using real deceptive sites to build discrimination.
+5. Only then decide whether to read, cite, or share the original source; pair the routine with [Case Studies](../patterns/case-based-learning.md) using real deceptive sites to build discrimination.
 
 ## Related Strategies
 - [3-Source Rule](3-source_rule.md) — a corroboration heuristic that operationalizes lateral triangulation for content claims

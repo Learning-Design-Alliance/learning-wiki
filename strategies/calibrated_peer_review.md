@@ -12,14 +12,14 @@ generated:
 # Calibrated Peer Review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (5 quant-synthesis, 2 causal, 1 review, 1 associational), `q2`–`q4` · 4 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (5 quant-synthesis, 3 causal, 1 review, 1 associational), `q2`–`q4` · 4 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Calibrated Peer Review (CPR) is a peer assessment strategy in which learners first evaluate benchmark samples of work — typically strong, average, and weak exemplars — and compare their judgments against expert ratings. Only after demonstrating acceptable calibration do they review peers' work and receive reviews of their own. The calibration phase converts peer review from an unstructured exchange into a training sequence for evaluative judgment.
 
 ## Design Implications
 
-Calibration addresses the central weakness of peer review — untrained reviewers give unreliable feedback — by building evaluative skill before it is applied [~M]. Comparing one's own ratings against expert ratings on the same artifacts provides immediate feedback on judgment quality, and the exemplar comparison itself supports abstraction of quality criteria [Multiple contrasting cases support abstraction of criteria.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Reviewing others' work also prompts self-explanation and comparison with one's own drafts, which can improve the reviewer's own performance as much as receiving feedback does [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The strategy thus enacts [Assessment for Learning](../principles/assessment-for-learning.md): the assessment activity itself is the learning activity.
+Calibration addresses the central weakness of peer review — untrained reviewers give unreliable feedback — by building evaluative skill before it is applied [~M]. Comparing one's own ratings against expert ratings on the same artifacts provides immediate feedback on judgment quality, and the exemplar comparison itself supports abstraction of quality criteria [Multiple contrasting cases support abstraction of criteria.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Reviewing others' work also prompts self-explanation and comparison with one's own drafts, which can improve the reviewer's own performance as much as receiving feedback does [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. The strategy thus enacts [Assessment for Learning](../principles/assessment-for-learning.md): the assessment activity itself is the learning activity.
 
 ### Context
 #### Requirements

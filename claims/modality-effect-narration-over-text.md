@@ -93,8 +93,7 @@ Open questions include how the effect interacts with learner control over pacing
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — the theoretical framework from which the modality effect is derived
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — theoretical background on combining verbal and visual channels
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — why the narration advantage fades or reverses for advanced learners
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related

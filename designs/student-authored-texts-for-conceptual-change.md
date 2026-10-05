@@ -43,7 +43,7 @@ A literacy-instruction pattern in which students research a concept in voluntary
 - Student Written Texts Foster Conceptual Change [+M]
 - Peer Interaction Reconstructs Shared Knowledge [+M]
 - [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
-- [Misconceptions Interfere With New Learning](../claims/misconceptions-interfere-with-new-learning.md) [+M]
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+M]
 
 ## Related Patterns
 - 

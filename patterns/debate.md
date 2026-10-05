@@ -14,16 +14,20 @@ sources:
     resource: "https://doi.org/10.3200/joeb.81.6.315-320"
     title: "Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, technique, and some evidence. *Journal of Education for Business, 81*(6), 315-320"
     author: "Vo, H. X., & Morris, R. L"
+  - id: healey-2012
+    resource: "https://doi.org/10.1080/03098265.2011.619522"
+    title: "Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257"
+    author: Healey, R. L
 ---
 
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (9 mixed, 1 against) · 18 studies (5 quant-synthesis, 4 causal, 4 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (1 for, 9 mixed, 1 against) · 20 studies (6 causal, 5 quant-synthesis, 4 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
-A reusable policy for structured argument on a contested question: **a debatable resolution → assigned or chosen positions → preparation with evidence → timed turns with opening, rebuttal and closing → judging against stated criteria → debrief in which learners say what they now think and why**. It instantiates the [Debate principle](../principles/debate.md), and it is one configuration of the broader activity of [argumentation](../elements/argumentation.md). [Structured Academic Controversy](structured-academic-controversy.md) sits beside it as a cooperative variant: positions are argued, then reversed, and the group ends by building a joint conclusion rather than a winner. Choose between them by the target (an adversarial case defended under challenge, or an integrated position), not by habit.
+A reusable policy for structured argument on a contested question: **a debatable resolution → assigned or chosen positions → preparation with evidence → timed turns with opening, rebuttal and closing → judging against stated criteria → debrief in which learners say what they now think and why**. It instantiates the [Debate principle](debate.md), and it is one configuration of the broader activity of [argumentation](../elements/argumentation.md). [Structured Academic Controversy](structured-academic-controversy.md) sits beside it as a cooperative variant: positions are argued, then reversed, and the group ends by building a joint conclusion rather than a winner. Choose between them by the target (an adversarial case defended under challenge, or an integrated position), not by habit.
 
 **No claim in this wiki tests classroom debate as such**, against another format or against no debate. The claims that bear on it are of three kinds: syntheses and comparison-group studies of argumentation and discussion in general, which the page carries over to debate by extrapolation; one review naming "consider the opposite" as a debiasing strategy; and one 1996 author's critique and informal tournament survey of competitive parliamentary debate, which are argument and perception, not tests of learning. The response-dependent policy below is an **untested design proposal**. Use it to gather better observations of how learners reason about a contested question, not to certify reasoning because a round was won.
 
@@ -73,10 +77,11 @@ Do not rank debate against Socratic seminar, Structured Academic Controversy or 
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](../claims/survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) [~W] — not yet checked against its sources
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debaters benefit from explicit routines for claim-evidence-reasoning rather than only being told to "argue well"
 
 ## Illustrative design instance and observation record
 
@@ -86,7 +91,7 @@ Record: **resolution and intended target → starting written position → assig
 
 ## Elements and limits
 
-[Debate](../elements/debate.md), [structured debate](../elements/structured-debate.md), [argumentation](../elements/argumentation.md), [assigned positions](../elements/assigned-positions.md), [justification](../elements/justification.md), [role reversal](../elements/role-reversal.md), [peer discussion](../elements/peer-discussion.md), [class discussion](../elements/class-discussion.md), [rubric](../elements/rubric.md), [feedback](../elements/feedback.md), [assessment](../elements/assessment.md) and [debrief](../elements/debrief.md). Principles the pattern draws on: [Debate](../principles/debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md) and [Peer Discussion](../principles/peer-discussion.md).
+[Debate](../elements/debate.md), [structured debate](../elements/structured-debate.md), [argumentation](../elements/argumentation.md), [assigned positions](../elements/assigned-positions.md), [justification](../elements/justification.md), [role reversal](../elements/role-reversal.md), [peer discussion](../elements/peer-discussion.md), [class discussion](../elements/class-discussion.md), [rubric](../elements/rubric.md), [feedback](../elements/feedback.md), [assessment](../elements/assessment.md) and [debrief](../elements/debrief.md). Principles the pattern draws on: [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md) and [Peer Discussion](../principles/peer-discussion.md).
 
 This pattern is scoped to structured adversarial argument on a question that admits more than one defensible answer. Questions with one correct answer, topics where a pro/con frame would create a false equivalence, and goals that call for collaborative synthesis need other configurations (Structured Academic Controversy, seminar or discussion formats). The policy supports observation and design reasoning; whether debate improves individual reasoning, topic understanding or speaking more than another argument format, for which learners and at what horizon, remains to be tested.
 
@@ -99,6 +104,9 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
 - Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, technique, and some evidence. *Journal of Education for Business, 81*(6), 315-320. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.
+- Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2).
+- Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257. [doi:10.1080/03098265.2011.619522](https://doi.org/10.1080/03098265.2011.619522)
+- Chikeleze, M., Johnson, I., & Gibson, T. (2018). Let's argue. *Journal of Leadership Education, 17*(2).
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the body it replaced, kept verbatim.
 
@@ -198,7 +206,7 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Debate](../principles/debate.md)
+- [Debate](debate.md)
 - [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Positive Self-Talk](../principles/positive-self-talk.md)
@@ -226,4 +234,81 @@ The pattern can take many forms, but the core features are role clarity, timed t
 ## Key Sources
 - Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, technique, and some evidence. *Journal of Education for Business, 81*(6), 315-320. [https://doi.org/10.3200/joeb.81.6.315-320](https://doi.org/10.3200/joeb.81.6.315-320)
 - Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2), 183-190.
+-->
+
+<!-- merged 2026-10-05 from principles/debate ("Debate"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Debate
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 12 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
+
+## Description
+Debate structures learning around the preparation, presentation, and critique of competing arguments. When designed well, it pushes learners to research evidence, understand multiple perspectives, justify claims publicly, and respond under challenge. The value is not argument for its own sake; it is disciplined reasoning made visible through structured speaking and rebuttal.
+
+## Implications
+Debate improves learning when it requires learners to justify positions with evidence, anticipate counterarguments, and revise claims under challenge. Those demands make reasoning visible in ways that simple opinion sharing does not, which is why debate can deepen conceptual understanding when learners must explain and defend their thinking explicitly [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that debate can easily reward confidence over thinking, so novices need explicit claim-evidence-reasoning routines [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], clear quality criteria [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and facilitator support that keeps the exchange focused on evidence and reasoning rather than mere performance [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+
+### Context
+#### Requirements
+- A debatable question with more than one defensible position
+- Access to evidence and time to prepare claims, warrants, counterarguments, and rebuttals
+- Clear norms for respectful disagreement, evidence use, and turn-taking
+- A structure that prevents the activity from becoming free-form opinion sharing
+
+#### Constraints
+- Debate can reward speed, confidence, or prior verbal fluency unless participation structures are carefully designed
+- Public argument can heighten anxiety for some learners, especially when stakes or topics are personal
+- Learners may perform positions superficially if they are not held to evidence quality and reasoning standards
+- Some topics are not appropriate for classroom debate, especially where a learner's identity or humanity is implicitly put up for contest
+
+### Target Learners
+- Learners developing argumentation, oral communication, and perspective-taking
+- Learners in domains where evidence-based disagreement is part of disciplinary practice
+- Learners who benefit from high-engagement, socially structured reasoning tasks
+- Less accessible without scaffolds for learners with low background knowledge or high speaking anxiety
+
+### Target Learning Objectives
+- Build evidence-based claims and rebuttals
+- Strengthen oral communication, listening, and structured response skills
+- Improve perspective-taking by requiring attention to counterarguments
+- Increase disciplinary literacy by reading, evaluating, and using evidence in support of a position
+
+### Theory
+#### Supporting
+- Social and constructivist perspectives support learning through argument, challenge, and collaborative meaning-making
+- Sociocultural perspectives support debate when discourse practices are explicit and learners build understanding through public reasoning
+- Self-regulated-learning perspectives support debate preparation as planning, monitoring, revision, and strategic adaptation
+- Motivation theories help explain why consequential speaking tasks can raise engagement when learners see relevance and autonomy
+
+#### Contradicting / Qualifying
+- Debate improves thinking only when the emphasis is on evidence and reasoning rather than winning rhetorically
+- Learners often need explicit argument structures, modeled rebuttals, and research support before debate is productive
+- Forced-position or perspective-switch formats can deepen learning, but they need psychological safety and careful topic selection
+
+### Claims
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — debate requires learners to explain and justify ideas rather than only recognize them
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — facilitator prompts and structured rebuttal coaching improve transfer from speaking to reasoning
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debaters benefit from explicit routines for claim-evidence-reasoning rather than only being told to "argue well"
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — debates are more educative when quality criteria for evidence, rebuttal, and participation are explicit
+
+## Related Principles
+- [Peer Discussion](../principles/peer-discussion.md) — debate is a more structured, adversarial form of discussion
+- [Perspective Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md) — debate can force consideration of alternative viewpoints
+- [Explaining Their Thinking](../principles/self-explanation.md) — debate externalizes reasoning under pressure
+- [Evaluating Sources](../principles/evaluating-sources.md) — evidence quality matters as much as speaking performance
+
+## Examples
+
+<!- - Links to elements or patterns that apply this principle - ->
+- [Debate Format](../patterns/debate.md) — formalized opening, rebuttal, and closing sequence
+- [Debate for the Opposite Team](../strategies/debate_for_the_opposite_team.md) — learners argue against their initial position to deepen perspective-taking
+- Policy, ethics, clinical decision, and civic issues often work better than purely factual prompts
+- Structured prep sheets for claim, evidence, counterclaim, and rebuttal help novices participate more equitably
+- [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](../patterns/debate-laboratory-for-argumentation.md)
+
+## Key Sources
+- Kennedy, R. (2007). In-class debates: Fertile ground for active learning and the cultivation of critical thinking and oral communication skills. *International Journal of Teaching and Learning in Higher Education, 19*(2).
+- Healey, R. L. (2012). The power of debate. *Journal of Geography in Higher Education, 36*(2), 239-257. [doi:10.1080/03098265.2011.619522](https://doi.org/10.1080/03098265.2011.619522)
+- Chikeleze, M., Johnson, I., & Gibson, T. (2018). Let's argue. *Journal of Leadership Education, 17*(2).
 -->

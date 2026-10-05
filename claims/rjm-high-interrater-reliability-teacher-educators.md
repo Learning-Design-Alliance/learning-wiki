@@ -46,5 +46,5 @@ Mixed-method study of eight teacher educators: two raters independently coded 95
 - [No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores](no-item-differences-anova-rjm.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
-- [Rubric scoring showed low inter-assessor reliability (mean class standard deviation 1.2 of 9 points)](engineering-rubric-low-scoring-reliability.md) — related
+- [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Every teacher educator participant produced narrative from every RJM level, with a preponderance near a typical level slightly above 4.0](typical-level-slightly-above-four.md) — related

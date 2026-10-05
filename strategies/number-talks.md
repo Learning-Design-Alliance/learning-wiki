@@ -12,14 +12,14 @@ generated:
 # Number Talks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 A Number Talk is a 10–15 minute routine in which the teacher poses a computation problem — typically one with multiple solution paths — and students solve it mentally, then share and defend their strategies while the teacher records each method on the board. The goal is not the answer but the reasoning: students compare strategies, evaluate efficiency, and build number sense through structured [class discussion](../elements/class-discussion.md). The teacher acts as facilitator and scribe, not evaluator, using questioning to elicit and connect student thinking.
 
 ## Design Implications
 
-Number Talks operationalize [Active Learning](../principles/active-learning.md) and [Cognitive Activation](../principles/cognitive-activation.md) by requiring students to generate and justify solution methods rather than reproduce a taught procedure. Mental computation removes paper-and-pencil supports, forcing attention to number relationships and place value rather than algorithm execution [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M] — well-chosen numbers let students decompose and recombine quantities within working memory limits. Publicly comparing multiple strategies supports abstraction of underlying properties (commutativity, distributivity) [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S].
+Number Talks operationalize [Active Learning](../principles/active-learning.md) and [Cognitive Activation](../principles/cognitive-activation.md) by requiring students to generate and justify solution methods rather than reproduce a taught procedure. Mental computation removes paper-and-pencil supports, forcing attention to number relationships and place value rather than algorithm execution [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M] — well-chosen numbers let students decompose and recombine quantities within working memory limits. Publicly comparing multiple strategies supports abstraction of underlying properties (commutativity, distributivity) [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+S].
 
 ### Context
 #### Requirements

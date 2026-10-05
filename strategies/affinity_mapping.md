@@ -12,14 +12,14 @@ generated:
 # Affinity Mapping
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Affinity mapping (also called affinity diagramming or the KJ method) asks learners to respond to a broad, generative question — "What were the impacts of the Great Depression?" — by writing one idea per note and posting all notes publicly. The group then clusters related notes into categories, labels the categories, and discusses how the clusters relate. Variants include silent generation and sorting before discussion, and a second round of re-clustering into new categories to reveal alternative structures.
 
 ## Design Implications
 
-Affinity mapping converts divergent idea generation into convergent organization, forcing learners to discriminate similarities and differences among ideas and to construct category structure themselves rather than receiving it [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The physical manipulation and discussion of ideas also raises engagement relative to listening [Active learning improves exam performance over lecture alone.](../principles/active-learning.md) [+S], and explaining why ideas belong together prompts self-explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Affinity mapping converts divergent idea generation into convergent organization, forcing learners to discriminate similarities and differences among ideas and to construct category structure themselves rather than receiving it [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The physical manipulation and discussion of ideas also raises engagement relative to listening [Active learning improves exam performance over lecture alone.](../principles/active-learning.md) [+S], and explaining why ideas belong together prompts self-explanation [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements

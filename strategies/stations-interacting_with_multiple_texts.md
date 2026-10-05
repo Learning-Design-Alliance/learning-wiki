@@ -12,14 +12,14 @@ generated:
 # Stations: Interacting with Multiple Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Small groups rotate through a sequence of stations, each presenting a different resource — informational text, poetry, art, photography, maps, video, or audio — related to a single event, theme, or anchor question. At each station, learners engage the material and complete a short task before rotating. A whole-group debrief follows, where learners synthesize across stations. The strategy works well to launch a new unit or to deepen study of an already-introduced topic.
 
 ## Design Implications
 
-Stations exploit the benefits of multiple, contrasting representations: encountering the same idea through different texts and modalities supports abstraction of the underlying concept and guards against the distortions of any single source [Multiple contrasting cases support abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The rotation structure also embeds movement and varied activity, which sustains attention relative to extended single-format seatwork [Active learning improves exam performance relative to lecture-only formats.](../claims/active-learning-improves-exam-performance.md) [+S]. Because each station is short and self-contained, the design must manage load carefully: one focused task per station, with clear instructions, prevents the variety itself from becoming distracting [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Stations exploit the benefits of multiple, contrasting representations: encountering the same idea through different texts and modalities supports abstraction of the underlying concept and guards against the distortions of any single source [Multiple contrasting cases support abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The rotation structure also embeds movement and varied activity, which sustains attention relative to extended single-format seatwork [Active learning improves exam performance relative to lecture-only formats.](../claims/active-learning-improves-exam-performance.md) [+S]. Because each station is short and self-contained, the design must manage load carefully: one focused task per station, with clear instructions, prevents the variety itself from becoming distracting [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Stations exploit the benefits of multiple, contrasting representations: encounte
 - Novices to a topic benefit most from the contrasting-representations structure; learners with strong prior knowledge may find short, varied excerpts fragmentary unless tasks demand integration [~M]
 
 ### Target Learning Goals
-- Multi-perspective understanding: seeing one event or question through multiple genres, voices, and media [Multiple contrasting cases support abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Multi-perspective understanding: seeing one event or question through multiple genres, voices, and media [Multiple contrasting cases support abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Source evaluation and synthesis across texts
 - Conceptual understanding deepened by prompted reflection at each station [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 

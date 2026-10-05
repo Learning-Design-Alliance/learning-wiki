@@ -44,7 +44,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Misconceptions Interfere With New Learning](../claims/misconceptions-interfere-with-new-learning.md) [+M]
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+M]
 - [Cognitive disequilibrium motivates conceptual change](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
 
 ## Related Elements

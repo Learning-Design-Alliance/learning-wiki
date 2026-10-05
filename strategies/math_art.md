@@ -12,14 +12,14 @@ generated:
 # Math Art
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Math Art involves creating drawings and designs that explore mathematical concepts and patterns. Learners use stencils, compasses, symmetry folding, tessellations, or freehand construction to produce visual work while identifying the mathematical relationships embedded in it — symmetry, ratio, number patterns, geometric properties. The strategy pairs visual production with verbal articulation: the art is the occasion for mathematical reasoning, not a substitute for it.
 
 ## Design Implications
 
-Math Art leverages dual coding — representing concepts both visually and verbally — and gives abstract structure a manipulable, inspectable form [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Its effectiveness depends on the mathematical conversation surrounding the making: art produced without explicit attention to the underlying concepts becomes craft practice with little learning payoff. Young learners' awareness of mathematical pattern and structure predicts later achievement, and structured visual tasks are one documented route to developing that awareness [~M].
+Math Art leverages dual coding — representing concepts both visually and verbally — and gives abstract structure a manipulable, inspectable form [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Its effectiveness depends on the mathematical conversation surrounding the making: art produced without explicit attention to the underlying concepts becomes craft practice with little learning payoff. Young learners' awareness of mathematical pattern and structure predicts later achievement, and structured visual tasks are one documented route to developing that awareness [~M].
 
 ### Context
 #### Requirements

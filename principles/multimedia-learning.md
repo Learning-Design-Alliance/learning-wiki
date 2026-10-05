@@ -17,7 +17,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 17 studies (9 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 17 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 20 studies (12 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 20 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -55,7 +55,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal
 

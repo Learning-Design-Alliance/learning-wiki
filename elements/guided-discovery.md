@@ -17,7 +17,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 4 claims (4 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
@@ -47,10 +47,10 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
-- [Guided Inquiry Outperforms Pure Discovery](../claims/guided-inquiry-outperforms-pure-discovery.md) [+S]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 - [Teacher Guided Inquiry Outperforms Student Led](../claims/teacher-guided-inquiry-outperforms-student-led.md) [+M]
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
-- [Guided Discovery Outperforms Pure Discovery](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/guided-discovery-outperforms-pure-discovery.md) [+S]
 
 ## Related Elements
 - [Scaffolded Inquiry](scaffolded-inquiry.md)

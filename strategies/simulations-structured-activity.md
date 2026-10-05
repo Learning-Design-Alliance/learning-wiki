@@ -12,7 +12,7 @@ generated:
 # Simulations + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Students engage with simulations — physical or digital environments that model real-world systems, processes, or phenomena — combined with a structured activity that specifies goals, roles, decision points, and reflection prompts. The simulation provides safe, consequential experimentation; the structure ensures that exploration is directed toward the target concepts rather than left to unguided discovery. Debriefing and reflection convert the experience into transferable knowledge.
@@ -38,7 +38,7 @@ Simulation alone is an experience; learning comes from the structure wrapped aro
 - **Pre-simulation briefing**: orient learners to the model's variables and rules before interaction
 - **In-simulation structure**: role assignments, decision logs, embedded challenges, or staged scenarios that escalate complexity
 - **Post-simulation debriefing**: whole-class discussion, structured worksheets, or prediction–observation–explanation cycles
-- **Iterative runs**: repeat the simulation with modified parameters so learners test hypotheses across [Multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Iterative runs**: repeat the simulation with modified parameters so learners test hypotheses across [Multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Failure-first variants**: let learners attempt the task before formal instruction, then use the simulation to confront gaps [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]
 
 ### Target Learners

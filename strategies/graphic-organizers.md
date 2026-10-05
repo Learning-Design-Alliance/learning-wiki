@@ -19,7 +19,7 @@ A graphic organizer is a visual-spatial representation of content — concept ma
 
 ## Design Implications
 
-Graphic organizers exploit the visual channel to convey relational information that would otherwise impose heavy working-memory demands on verbal processing [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Meta-analytic evidence shows knowledge maps and similar spatial displays improve learning and transfer relative to text-only conditions, particularly when the organizer highlights the same structure the learner must acquire [Graphic organizers improve learning relative to text-only conditions.](../claims/advance-organizers-improve-learning.md) [+M]. The dual-channel benefit is strongest when the visual genuinely encodes relationships rather than repeating the text verbatim [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M].
+Graphic organizers exploit the visual channel to convey relational information that would otherwise impose heavy working-memory demands on verbal processing [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Meta-analytic evidence shows knowledge maps and similar spatial displays improve learning and transfer relative to text-only conditions, particularly when the organizer highlights the same structure the learner must acquire [Graphic organizers improve learning relative to text-only conditions.](../claims/advance-organizers-improve-learning.md) [+M]. The dual-channel benefit is strongest when the visual genuinely encodes relationships rather than repeating the text verbatim [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

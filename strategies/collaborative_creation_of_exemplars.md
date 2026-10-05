@@ -12,14 +12,14 @@ generated:
 # Collaborative Creation of Exemplars
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 12 studies (5 quant-synthesis, 4 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 13 studies (5 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 After completing collaborative problem-solving tasks, learners examine leveled exemplars of responses and identify the characteristics that distinguish each level. They then create posters or anchor charts — often using their own work — that illustrate the differences between levels. The activity converts assessment criteria from teacher-held secrets into shared, learner-articulated standards, promoting metacognition, self-assessment, and a common understanding of quality work.
 
 ## Design Implications
 
-The strategy works because comparing multiple worked responses at different quality levels supports abstraction of the underlying criteria — learners induce what "good" looks like rather than being told [Comparing multiple contrasting cases supports abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Explaining *why* an exemplar merits its level is a form of self-explanation that deepens conceptual understanding of both the content and the evaluative criteria [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because the discussion centers on task and process qualities rather than the self, the resulting peer feedback aligns with the feedback levels most associated with learning gains [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+The strategy works because comparing multiple worked responses at different quality levels supports abstraction of the underlying criteria — learners induce what "good" looks like rather than being told [Comparing multiple contrasting cases supports abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Explaining *why* an exemplar merits its level is a form of self-explanation that deepens conceptual understanding of both the content and the evaluative criteria [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because the discussion centers on task and process qualities rather than the self, the resulting peer feedback aligns with the feedback levels most associated with learning gains [Feedback is most effective at the task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

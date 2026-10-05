@@ -52,7 +52,7 @@ CRA sequencing manages the transition from embodied, perceptual understanding to
 ### Instructions
 1. **Concrete stage:** introduce the concept with manipulable objects; learners solve several problems physically ([Act It Out](../elements/act-it-out.md))
 2. **Bridge:** while objects are still present, record the same problem in pictures and begin writing symbols alongside ([Annotating](../principles/annotating.md))
-3. **Representational stage:** replace objects with student-drawn or provided diagrams; solve the same problem types ([Dual coding improves recall when verbal and visual channels are used together.](../claims/dual-coding-improves-recall.md) [+S])
+3. **Representational stage:** replace objects with student-drawn or provided diagrams; solve the same problem types ([Dual coding improves recall when verbal and visual channels are used together.](../claims/dual-coding-improves-learning.md) [+S])
 4. **Abstract stage:** move to symbols alone, keeping representations available on request; connect new abstract problems back to a remembered representation ([Application](../elements/application.md))
 5. **Assess across representations:** check that learners can translate among all three forms, not just execute the abstract procedure ([Assessment](../elements/assessment.md))
 

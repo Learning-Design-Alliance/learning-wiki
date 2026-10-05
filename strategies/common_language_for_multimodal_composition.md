@@ -19,7 +19,7 @@ Creating a shared vocabulary or metalanguage empowers learners to analyze and di
 
 ## Design Implications
 
-A shared metalanguage converts tacit design intuitions into discussable, revisable decisions — learners who can name a technique (e.g., salience, framing, vector) can critique and improve their own work rather than relying on vague impressions [~M]. Building the vocabulary through analysis of concrete exemplars, rather than delivering definitions first, grounds abstract terms in perceivable features and supports retention [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M]. The glossary itself functions as an [Advance Organizer](../elements/advance-organizers.md) for subsequent composition and critique activities.
+A shared metalanguage converts tacit design intuitions into discussable, revisable decisions — learners who can name a technique (e.g., salience, framing, vector) can critique and improve their own work rather than relying on vague impressions [~M]. Building the vocabulary through analysis of concrete exemplars, rather than delivering definitions first, grounds abstract terms in perceivable features and supports retention [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The glossary itself functions as an [Advance Organizer](../elements/advance-organizers.md) for subsequent composition and critique activities.
 
 ### Context
 #### Requirements

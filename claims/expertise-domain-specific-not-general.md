@@ -43,4 +43,4 @@ The review reports, citing Voss et al. (2010), that evidence for domain-generic 
 
 
 ## Related Claims
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related

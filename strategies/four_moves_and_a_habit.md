@@ -12,7 +12,7 @@ generated:
 # Four Moves and a Habit
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 quant-synthesis, 2 causal, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 The Four Moves and a Habit (also known as SIFT) is a fact-checking framework developed by Mike Caulfield for evaluating online information. The four moves are: **Stop** and check your emotional reaction (the habit), **Investigate the source** before engaging with its content, **Find better coverage** of the claim from more reliable outlets, and **Trace claims, quotes, and media to their original context**. Unlike traditional checklist approaches (e.g., CRAAP), it treats the web as the fact-checker's tool rather than the object of suspicion — learners open new tabs and consult external sources about a source instead of scrutinizing the source page itself.
@@ -51,7 +51,7 @@ The framework works because it replaces exhaustive, page-internal evaluation wit
 
 ### Instructions
 1. **Stop.** Notice your emotional reaction to the claim; if it is strong, slow down before sharing or accepting it. This habit precedes and frames every other move.
-2. **Investigate the source.** Open a new tab and search for what known references say about the source or author — not what the source says about itself. Compare coverage of the same source across outlets to sharpen discrimination between reliable and unreliable publishers [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. **Investigate the source.** Open a new tab and search for what known references say about the source or author — not what the source says about itself. Compare coverage of the same source across outlets to sharpen discrimination between reliable and unreliable publishers [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. **Find better coverage.** Look for the claim in more authoritative outlets; the goal is the *claim's* credibility, not the original page's.
 4. **Trace to the original.** Follow quotes, figures, and media upstream to their original context — via citation-chasing, reverse image search, or archival links — and check whether the original supports the framing. Verbalizing why a source passed or failed each move strengthens the evaluative schema [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 

@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 18 studies (7 causal, 5 quant-synthesis, 4 review, 1 design, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 21 studies (9 causal, 7 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 4 of 21 report an effect size · 5 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -53,7 +53,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - Applies wherever learning requires holding multiple interacting elements in working memory simultaneously — mathematics, programming, language acquisition, clinical reasoning, reading comprehension
 - Effect is strongest with novices; as expertise develops, previously separated elements are chunked into single schemas and cease to impose separate load demands (the basis of the [expertise reversal effect](expertise-reversal-effect.md))
 - Design choices that reduce extraneous load are never harmful; but scaffolding that reduces intrinsic load too aggressively can prevent the element-interactivity processing needed for schema formation
-- Additions intended to make material more *interesting* rather than to reduce load can themselves become an extraneous-load source — see [Seductive details can distract from learning](../claims/seductive-details-distract-from-learning.md) [-M]
+- Additions intended to make material more *interesting* rather than to reduce load can themselves become an extraneous-load source — see [Seductive details can distract from learning](../claims/seductive-details-effect.md) [-M]
 
 ### Target Learners
 - Novices with limited prior knowledge in the domain benefit most from CLT-informed design

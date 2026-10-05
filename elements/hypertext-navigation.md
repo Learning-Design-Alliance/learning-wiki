@@ -60,7 +60,7 @@ Hypertext supports flexible, non-linear exploration and can help learners build 
 
 ## Patterns That Use This Element
 - [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md) — hypertext as the delivery mechanism for criss-crossing complex content
-- [Adaptive Learning](../patterns/adaptive-learning.md) — hypertext networks whose links are selected based on learner model or learner choice
+- [Adaptive Learning](../principles/adaptive-learning.md) — hypertext networks whose links are selected based on learner model or learner choice
 - [Blended Learning](../patterns/blended-learning.md) — online hypertext resources complementing face-to-face instruction
 
 ## Examples

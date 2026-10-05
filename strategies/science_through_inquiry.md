@@ -12,7 +12,7 @@ generated:
 # Science Through Inquiry
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 15 studies (7 quant-synthesis, 3 causal, 3 review, 1 design, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 15 studies (8 quant-synthesis, 3 causal, 3 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 Science Through Inquiry positions learners as investigators: they pose questions, design and conduct investigations, gather and interpret evidence, and revise explanations or models in light of data. Rather than first receiving canonical explanations, learners construct understanding through structured exploration that mirrors authentic scientific practice. The strategy spans a continuum from fully guided (confirmation, structured inquiry) to open inquiry, with the degree of learner autonomy over question, method, and solution varying by design.

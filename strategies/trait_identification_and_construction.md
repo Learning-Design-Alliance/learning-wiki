@@ -12,14 +12,14 @@ generated:
 # Trait Identification and Construction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 These tasks involve the study of traits: learners identify animal body parts from puzzle pieces, then construct either real or mythical animals from those parts. Learners measure, observe, and justify the design of their constructions, connecting each physical feature to a function or classification. The strategy converts abstract life-science vocabulary (fur, scales, wings, webbed feet) into manipulable objects that can be compared, sorted, and recombined.
 
 ## Design Implications
 
-Hands-on manipulation of concrete parts supports early science learning by letting children build classifications from direct observation rather than from verbal definitions alone [Hands-on, inquiry-oriented science activity is associated with stronger science achievement in elementary grades.](https://doi.org/10.1002/tea.3660330107) [+M]. The construction phase works best when it follows a structured comparison phase: examining several contrasting animals before building helps learners abstract the *feature–function* relationships rather than memorizing individual animals [Contrasting cases prepare learners to understand subsequent explanations.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Requiring learners to justify each part choice ("I gave it webbed feet because it lives in water") adds a [Self-Explanation](../elements/self-explanation.md) component that improves conceptual understanding beyond assembly alone [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Hands-on manipulation of concrete parts supports early science learning by letting children build classifications from direct observation rather than from verbal definitions alone [Hands-on, inquiry-oriented science activity is associated with stronger science achievement in elementary grades.](https://doi.org/10.1002/tea.3660330107) [+M]. The construction phase works best when it follows a structured comparison phase: examining several contrasting animals before building helps learners abstract the *feature–function* relationships rather than memorizing individual animals [Contrasting cases prepare learners to understand subsequent explanations.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Requiring learners to justify each part choice ("I gave it webbed feet because it lives in water") adds a [Self-Explanation](../elements/self-explanation.md) component that improves conceptual understanding beyond assembly alone [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

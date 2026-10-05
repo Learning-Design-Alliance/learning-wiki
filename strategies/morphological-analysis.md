@@ -12,7 +12,7 @@ generated:
 # Morphological Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies (4 review, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 11 studies (4 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Morphological analysis teaches learners to break words into morphemes — the smallest units of meaning — and to use those parts (roots, prefixes, suffixes, inflections) to reason about a word's meaning. Rather than memorizing each word as an unanalyzed whole, learners acquire a generative system: knowing that *bio-* means life and *-ology* means study of lets them interpret *biology*, *biopsy*, and *biography* on first encounter. Instruction typically involves explicit teaching of high-frequency affixes and Latin/Greek roots, guided word dissection, and structured comparison of related word families.
@@ -53,7 +53,7 @@ Morphological analysis converts vocabulary learning from item-by-item memorizati
 
 ### Instructions
 1. Select 3–5 high-frequency morphemes aligned to current content reading; avoid rare affixes with low transfer payoff.
-2. Present a word family containing the target morpheme and have learners identify what the words share ([Comparing cases](../claims/multiple-contrasting-cases-support-abstraction.md) supports abstraction of the pattern).
+2. Present a word family containing the target morpheme and have learners identify what the words share ([Comparing cases](../claims/comparing-contrasting-cases-improves-learning.md) supports abstraction of the pattern).
 3. Guide learners to hypothesize the morpheme's meaning from the family, then confirm or correct — generation before confirmation strengthens retention.
 4. Have learners apply the morpheme to new, unseen words and verify against sentence context, pairing analysis with [Activation](../principles/activation.md) of surrounding-context clues.
 5. Spiral previously taught morphemes into new texts so analysis becomes habitual rather than a one-off lesson.

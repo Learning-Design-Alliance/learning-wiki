@@ -12,7 +12,7 @@ generated:
 # Case Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 12 studies (4 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 2 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 A case study presents learners with a rich, realistic scenario — a business decision, a patient presentation, a legal dispute — that they must analyze, discuss, and resolve using concepts from the domain. The case functions as an authentic problem context: learners bridge theory and practice by deciding what matters, what principles apply, and what to recommend, rather than receiving those judgments pre-packaged.
@@ -30,7 +30,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 
 #### Constraints
 - Novices without relevant schemas can flounder in open-ended cases, wasting working memory on unguided search; providing worked or expert analyses alongside the case mitigates this [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M]
-- Cases teach the *specifics* of one context; learners may fail to abstract the general principle unless multiple contrasting cases are compared [Multiple contrasting cases support abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Cases teach the *specifics* of one context; learners may fail to abstract the general principle unless multiple contrasting cases are compared [Multiple contrasting cases support abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Poorly facilitated discussion can entrench misconceptions or reward confident-but-wrong reasoning
 - Time-intensive: cases consume substantial class and preparation time relative to the number of concepts covered
 
@@ -46,7 +46,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 - Integration: connecting multiple concepts within one coherent scenario
 
 ### Affordances
-- [Situated Learning](../principles/situated-learning.md) — a case embeds knowledge in the social and professional context of its use, so learners practice the discipline's actual work rather than abstracted exercises
+- [Situated Learning](../theories/situated-learning.md) — a case embeds knowledge in the social and professional context of its use, so learners practice the discipline's actual work rather than abstracted exercises
 - [Cognitive Apprenticeship](../principles/scaffolding-and-fading.md) — analyzing a case exposes learners to expert-style reasoning about messy situations; pairing with expert commentary or [Think-Aloud](think-aloud.md) makes that reasoning visible
 - [Constructivism](../principles/constructivism.md) — learners must construct their own interpretation and solution, integrating new concepts with prior experience rather than receiving conclusions
 - [Active Learning](../principles/active-learning.md) — case analysis requires decision-making and justification, not reception

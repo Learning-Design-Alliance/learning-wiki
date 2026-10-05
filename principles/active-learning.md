@@ -21,7 +21,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (3 for, 7 mixed) · 19 studies (6 causal, 5 review, 4 quant-synthesis, 2 associational, 1 design, 1 theoretical), `q2`–`q4` · 6 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (3 for, 7 mixed) · 19 studies (6 causal, 5 quant-synthesis, 5 review, 2 associational, 1 theoretical), `q2`–`q4` · 6 of 19 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -61,7 +61,7 @@ Retain the learners, setting, comparator, which course features changed, the ins
 <!-- Kept 2026-10-02: claims this page cited before the 2026-10-02 rewrite, plus two neighbours from the same review as a core claim, found while writing it. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model, and two neighbours of a core claim. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S] — not yet checked against its sources
 - [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](../claims/active-learning-courses-retain-lecture-component.md) [~M] — not yet checked against its sources

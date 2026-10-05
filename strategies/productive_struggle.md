@@ -12,7 +12,7 @@ generated:
 # Productive Struggle
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 11 studies (5 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 4 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 12 studies (6 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Productive struggle is the deliberate design of a phase in which learners attempt problems that are beyond their current independent competence, generating methods, errors, and questions before canonical instruction is provided. The struggle is "productive" when it activates relevant prior knowledge, surfaces misconceptions, and creates a need for the explanation that follows — not when it degenerates into unguided floundering.
@@ -36,7 +36,7 @@ The core evidence comes from productive failure studies: learners who explore co
 
 #### Implementation Variability
 - **Problem-first designs** (productive failure): exploration of a complex problem, then canonical instruction
-- **Contrast-first designs**: comparing multiple contrasting cases before the rule is stated [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrast-first designs**: comparing multiple contrasting cases before the rule is stated [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Invention tasks**: learners invent a solution or index before being shown the standard one
 - **Erroneous examples**: analyzing flawed worked solutions rather than generating from scratch [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 

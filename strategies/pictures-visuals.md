@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (1 for, 2 against) · 8 studies (4 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
-This strategy uses images, diagrams, videos, animations, and graphic organizers to represent content alongside or instead of verbal explanation. Its theoretical basis is [Dual Coding Theory](../theories/dual-coding-theory.md): information encoded both verbally and visually leaves two retrieval paths, improving recall [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-recall.md) [+S]. The benefit is conditional, not automatic — visuals help when they are relevant, explanatory, and integrated with text, and can harm learning when they are decorative or overloaded [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
+This strategy uses images, diagrams, videos, animations, and graphic organizers to represent content alongside or instead of verbal explanation. Its theoretical basis is [Dual Coding Theory](../theories/dual-coding-theory.md): information encoded both verbally and visually leaves two retrieval paths, improving recall [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, not automatic — visuals help when they are relevant, explanatory, and integrated with text, and can harm learning when they are decorative or overloaded [Decorative illustrations do not improve learning and can reduce it by diverting attention.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S].
 
 ## Design Implications
 
@@ -45,7 +45,7 @@ Visuals work by directing attention to essential content, making abstract or inv
 - Less beneficial for experts, who already hold adequate mental models and may find explanatory visuals redundant [~M]
 
 ### Target Learning Goals
-- Recall and retention of factual and conceptual content [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-recall.md) [+S]
+- Recall and retention of factual and conceptual content [Pairing words with relevant images improves recall compared with words alone.](../claims/dual-coding-improves-learning.md) [+S]
 - Comprehension of systems, processes, and spatial relationships (anatomy, circuits, maps, workflows)
 - Vocabulary development through image-mediated meaning
 - Transfer of principles to new situations, when visuals illustrate underlying structure rather than surface detail [+M]

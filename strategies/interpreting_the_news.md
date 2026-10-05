@@ -12,14 +12,14 @@ generated:
 # Interpreting the News
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Learners select a current news item and examine how it is reported across multiple outlets, comparing framing, sourcing, and emphasis to infer the assumptions and perspectives of each reporter. The activity treats news texts as constructed artifacts rather than transparent windows on events, building media literacy, critical evaluation skills, and perspective-taking through structured comparison and discussion.
 
 ## Design Implications
 
-Comparing multiple accounts of the same event is a form of multiple-document analysis that pushes learners beyond single-text comprehension toward evaluating source, purpose, and bias [~M]. Contrasting cases support abstraction of the underlying dimensions — framing, omission, word choice — that any single text cannot reveal [Multiple contrasting cases help learners abstract the features that distinguish them.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The strategy works best when learners are prompted to explain *why* accounts differ, not just that they differ [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Comparing multiple accounts of the same event is a form of multiple-document analysis that pushes learners beyond single-text comprehension toward evaluating source, purpose, and bias [~M]. Contrasting cases support abstraction of the underlying dimensions — framing, omission, word choice — that any single text cannot reveal [Multiple contrasting cases help learners abstract the features that distinguish them.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The strategy works best when learners are prompted to explain *why* accounts differ, not just that they differ [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

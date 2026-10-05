@@ -12,14 +12,14 @@ generated:
 # What’s Below the Surface? (Iceberg Analysis)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Iceberg analysis uses the waterline metaphor to separate observable events from their underlying causes. Students select a key event in a text — typically featuring an adolescent protagonist — and record the visible "above the surface" causes (explicit scenes, actions, dialogue) on the iceberg's tip, then generate "below the surface" explanations (character traits, identity facets, social pressures, unspoken motivations) beneath the waterline. Discussion follows, connecting the hidden layers to a fuller understanding of the event. The visible/hidden structure makes inference an explicit, scaffolded act rather than an unmarked expectation.
 
 ## Design Implications
 
-The strategy works because it externalizes the inference process: separating evidence (above the line) from interpretation (below the line) mirrors the evidence–claim structure of analytical reasoning and prompts generative processing of the text [Generating explanations during learning improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The graphic organizer functions as an advance organizer, giving students a stable schema for literary analysis that can be reused across texts. Because the below-surface layer is inherently interpretive, the strategy benefits from contrasting multiple plausible readings rather than converging on one "correct" answer [Multiple contrasting cases support abstraction of deeper principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works because it externalizes the inference process: separating evidence (above the line) from interpretation (below the line) mirrors the evidence–claim structure of analytical reasoning and prompts generative processing of the text [Generating explanations during learning improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The graphic organizer functions as an advance organizer, giving students a stable schema for literary analysis that can be reused across texts. Because the below-surface layer is inherently interpretive, the strategy benefits from contrasting multiple plausible readings rather than converging on one "correct" answer [Multiple contrasting cases support abstraction of deeper principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

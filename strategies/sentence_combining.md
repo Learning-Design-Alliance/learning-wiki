@@ -12,7 +12,7 @@ generated:
 # Sentence Combining
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Sentence combining is a writing strategy in which learners take two or more short, simple sentences and merge them into a single compound or complex sentence, choosing among coordination, subordination, embedding, or appositive structures. Instruction typically pairs explicit teacher modeling of the combining move with guided and independent practice on carefully sequenced exercises. Meta-analytic evidence identifies sentence combining as one of the most effective writing interventions, with reliable gains in writing quality [Graham & Perin meta-analysis of adolescent writing instruction.](https://doi.org/10.1037/0022-0663.99.3.445) [+S].
@@ -36,7 +36,7 @@ Sentence combining works because it makes syntactic construction the explicit ob
 #### Implementation Variability
 - **Kernel-to-text**: combine sentence pairs, then apply the same moves to the student's own draft
 - **Peer-assisted combining**: pairs negotiate combinations and justify choices; peer discussion adds gains for weaker writers [+M]
-- **Contrasting combinations**: present two acceptable combinations of the same kernels and discuss the difference in emphasis and meaning, supporting abstraction of syntactic options [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting combinations**: present two acceptable combinations of the same kernels and discuss the difference in emphasis and meaning, supporting abstraction of syntactic options [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Embedded in genre writing**: exercises use kernels drawn from the genre students are currently writing
 
 ### Target Learners

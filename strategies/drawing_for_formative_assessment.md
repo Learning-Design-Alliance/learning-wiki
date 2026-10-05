@@ -12,7 +12,7 @@ generated:
 # Drawing for Formative Assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Inviting learners to express their understanding through drawings provides insights into their comprehension and any misconceptions. Because a drawing forces learners to decide how to represent relationships, size, shape, and placement of parts, it externalizes their mental model — revealing preconceptions, gaps, and depth of understanding that verbal answers may mask. Teachers analyze the drawings and use them to adjust instruction, making this a diagnostic [assessment](../elements/assessment.md) technique rather than an artistic exercise.
@@ -38,7 +38,7 @@ Drawing is a generative activity: constructing an external visual representation
 - **Pre-instruction drawings** surface prior conceptions and misconceptions before teaching begins
 - **Mid-unit drawings** (e.g., "draw the process so far") act as a check-in comparable to other [check-ins](../principles/check-ins.md)
 - **Model revision** — asking learners to redraw after instruction makes conceptual change visible and doubles as a [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunity
-- **Comparative drawing** — having students compare their drawings with peers' exposes alternative representations and supports abstraction from [multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparative drawing** — having students compare their drawings with peers' exposes alternative representations and supports abstraction from [multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Middle and high school students, and adults; the technique scales across ages when prompts are calibrated

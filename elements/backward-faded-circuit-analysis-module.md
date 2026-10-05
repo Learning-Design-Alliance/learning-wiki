@@ -44,7 +44,7 @@ A Director MX multimedia module that taught resistance calculation for parallel 
 - [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](../claims/textual-prompts-stronger-continuing-motivation.md) [+M]
 - [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](../claims/prompt-format-first-second-attempt-accuracy.md) [~M]
 - [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](../claims/prompt-presentation-no-performance-effect.md) [~M]
-- [All learners, regardless of condition, showed a floor effect on far-transfer problems, and instructional time did not differ between treatment groups](../claims/far-transfer-floor-effect-and-equal-time.md) [~M]
+- [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](../claims/far-transfer-floor-effect-and-equal-time.md) [~M]
 - [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](../claims/external-prompt-regulation-more-positive-attitudes.md) [~M]
 
 ## Related Elements

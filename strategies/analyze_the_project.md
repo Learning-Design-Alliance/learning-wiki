@@ -62,7 +62,7 @@ Project-based learning embeds content learning in complex, language-rich tasks, 
 ## Examples
 - A middle-school science PBL unit on water quality: before launch, the teacher identifies that students must *explain cause-and-effect relationships* in writing and *negotiate findings* in groups, then prepares cause-effect sentence frames and a tiered glossary (everyday → technical terms) introduced at each milestone.
 - **PBLWorks (Buck Institute)** guidance on ELLs in project-based learning recommends exactly this pre-launch language audit as a design step (https://www.pblworks.org).
-- A high school civics project analyzed for the language of argumentation, with claim-evidence-reasoning frames prepared before the first [case-based discussion](../principles/case-studiescase-based-learning.md).
+- A high school civics project analyzed for the language of argumentation, with claim-evidence-reasoning frames prepared before the first [case-based discussion](../patterns/case-based-learning.md).
 
 ## Key Sources
 - Echevarría, J., Vogt, M., & Short, D. J. (2017). *Making content comprehensible for English learners: The SIOP model* (5th ed.). Pearson.

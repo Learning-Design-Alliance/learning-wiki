@@ -1,18 +1,32 @@
 ---
 type: principle
 id: dual-coding
+aliases: [creating-visual-representations]
 title: Dual Coding
 description: "For a learner without a working model of a structure or process, pairing the words that explain it with a visual of the same idea, supplied or learner-made, is expected to improve comprehension over words alone; claims test each half against words alone, none tests the sequence, and direct tests favour provided over learner-built organizers for transfer."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: cromley-2020
+    resource: "https://doi.org/10.1007/s10956-020-09836-y"
+    title: "Cromley, J. G., Du, Y., & Dane, A. P. (2020). Drawing-to-learn: Does meta-analysis show differences between technology-based drawing and paper-and-pencil drawing? *Journal of Science Education and Technology, 29*(2), 216-229"
+    author: "Cromley, J. G., Du, Y., & Dane, A. P"
+  - id: fiorella-2016
+    resource: "https://doi.org/10.1007/s10648-015-9348-9"
+    title: "Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717-741"
+    author: "Fiorella, L., & Mayer, R. E"
+  - id: ainsworth-2006
+    resource: "https://doi.org/10.1016/j.learninstruc.2006.03.001"
+    title: "Ainsworth, S. (2006). DeFT: A conceptual framework for learning with multiple representations. *Learning and Instruction, 16*(3), 183-198"
+    author: Ainsworth, S
 ---
 
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 6 mixed, 2 against) · 24 studies (10 review, 8 causal, 6 quant-synthesis), `q1`–`q4` · 8 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 28 studies (10 review, 9 causal, 8 quant-synthesis, 1 associational), `q1`–`q4` · 9 of 28 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -22,7 +36,7 @@ Claims test the two halves separately against words alone, mostly on immediate t
 
 The relationship is conditional on four things: whether the content has a visual structure at all; the learner's prior knowledge of it (a supplied visual may be redundant for an `advanced` learner); whether a learner-made visual is checked against a correct one; and how much time construction takes compared with other study. It does not rest on Paivio's two-code mechanism ([Dual Coding Theory](../theories/dual-coding-theory.md) describes it): one set of experiments found the picture-superiority effect in memory followed physical distinctiveness, not dual coding. The design advice stands on comparisons of materials and activities, whatever the mechanism.
 
-How the converted siblings sit beside this page: [Multimedia Learning](multimedia-learning.md) holds the presented explanation with a picture, where the picture goes, duplicated words, decorative additions and segmenting; this page does not repeat that model. [Multimodal Instruction](multimodal-instruction.md) holds the choice of modes beyond words and a picture, spoken against written words, and translation between representations. This page holds the wider study practice: a visual paired with the words of a reading or a lesson, and the learner's own visual of the same idea, across several sessions. [Retrieval Practice](retrieval-practice.md) holds the comparison with recall from memory, which this page uses in its last steps. [Creating Visual Representations](creating-visual-representations.md), not yet converted, describes learner-made visuals as a general activity.
+How the converted siblings sit beside this page: [Multimedia Learning](multimedia-learning.md) holds the presented explanation with a picture, where the picture goes, duplicated words, decorative additions and segmenting; this page does not repeat that model. [Multimodal Instruction](multimodal-instruction.md) holds the choice of modes beyond words and a picture, spoken against written words, and translation between representations. This page holds the wider study practice: a visual paired with the words of a reading or a lesson, and the learner's own visual of the same idea, across several sessions. [Retrieval Practice](retrieval-practice.md) holds the comparison with recall from memory, which this page uses in its last steps. [Creating Visual Representations](dual-coding.md), not yet converted, describes learner-made visuals as a general activity.
 
 ## Default design
 
@@ -81,10 +95,10 @@ These rows are proposals, untested as diagnostics. A probe is itself practice an
 
 ## Evidence and qualifications
 
-- [Dual Coding Improves Learning](../claims/dual-coding-improves-learning.md) [+M]: a random-effects meta-analysis of 39 experiments (2,103 participants, 1985–2018; `synthesis-experimental`) comparing reading text with graphics against text alone found g = 0.39, 95% CI [0.26, 0.51], with moderate heterogeneity and no significant publication bias. The effect held across grade levels, picture types did not differ, and graphics helped more on open-ended and mixed-format tests. The outcome is reading comprehension, and some included studies found diagrams reduced verbatim recall. A narrative review (abstract only) reaches the same direction. The same page records experiments finding the picture-superiority effect follows distinctiveness, not dual coding, which challenges the mechanism the claim's opening states, not the effect. The page's title is broader than its evidence (comprehension from reading).
-- [Drawing Improves Learning](../claims/drawing-improves-learning.md) [+M]: a conference meta-analysis of 35 STEM studies (160 effects, 3,635 participants), read from its abstract: drawing beat not drawing (g = 0.362) and other active strategies (g = 0.400); scaffolds saved time (g = 1.693) but did not improve outcomes; larger benefit in secondary than primary school; online drawing benefited more from scaffolds than paper drawing. **The claim page's opening still says its evidence base "has not yet been populated"**, which its own entry contradicts.
-- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M] for construction, [~M] against retrieval: across 142 effect sizes (11,814 participants, abstract only), learning with maps beat comparison conditions (g = 0.58), constructing (g = 0.72) more than studying (g = 0.43), in STEM and non-STEM domains; an earlier meta-analysis of 55 studies (Grade 4 to postsecondary) agreed in direction. But with time matched, 80 undergraduates who practised free recall after studying a science text beat those who built a concept map while viewing it a week later (d = 1.50), and mapping was not significantly better than rereading; a second experiment (120 students) replicated the retrieval advantage, even on a map-building test. The page's own Discussion still says no studies are catalogued, which is stale.
-- [Learner Constructed Graphic Organizers Outperform Provided](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~M], **the limiting claim**: in three experiments, college readers given author-provided graphic organizers did better on transfer than those who built their own (d = 0.24, not significant; 0.43; 0.84), with no difference on retention; the meta-analytic contrast favouring construction sets each condition against its own controls. The claim page says its title is a hypothesis the direct evidence does not support. It is why step 4 is scaffolded and checked rather than "let learners make their own".
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]: a random-effects meta-analysis of 39 experiments (2,103 participants, 1985–2018; `synthesis-experimental`) comparing reading text with graphics against text alone found g = 0.39, 95% CI [0.26, 0.51], with moderate heterogeneity and no significant publication bias. The effect held across grade levels, picture types did not differ, and graphics helped more on open-ended and mixed-format tests. The outcome is reading comprehension, and some included studies found diagrams reduced verbatim recall. A narrative review (abstract only) reaches the same direction. The same page records experiments finding the picture-superiority effect follows distinctiveness, not dual coding, which challenges the mechanism the claim's opening states, not the effect. The page's title is broader than its evidence (comprehension from reading).
+- [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](../claims/drawing-improves-learning.md) [+M]: a conference meta-analysis of 35 STEM studies (160 effects, 3,635 participants), read from its abstract: drawing beat not drawing (g = 0.362) and other active strategies (g = 0.400); scaffolds saved time (g = 1.693) but did not improve outcomes; larger benefit in secondary than primary school; online drawing benefited more from scaffolds than paper drawing. **The claim page's opening still says its evidence base "has not yet been populated"**, which its own entry contradicts.
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M] for construction, [~M] against retrieval: across 142 effect sizes (11,814 participants, abstract only), learning with maps beat comparison conditions (g = 0.58), constructing (g = 0.72) more than studying (g = 0.43), in STEM and non-STEM domains; an earlier meta-analysis of 55 studies (Grade 4 to postsecondary) agreed in direction. But with time matched, 80 undergraduates who practised free recall after studying a science text beat those who built a concept map while viewing it a week later (d = 1.50), and mapping was not significantly better than rereading; a second experiment (120 students) replicated the retrieval advantage, even on a map-building test. The page's own Discussion still says no studies are catalogued, which is stale.
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~M], **the limiting claim**: in three experiments, college readers given author-provided graphic organizers did better on transfer than those who built their own (d = 0.24, not significant; 0.43; 0.84), with no difference on retention; the meta-analytic contrast favouring construction sets each condition against its own controls. The claim page says its title is a hypothesis the direct evidence does not support. It is why step 4 is scaffolded and checked rather than "let learners make their own".
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [~M]: concept maps were associated with better retention overall (g = 0.60 across 67 effect sizes), less when studying a preconstructed map instead of text, lists or outlines (g = 0.37); in a few studies split at the median, lower-ability or lower prior knowledge learners benefited (g = 0.40, k = 5) and higher-ability learners did not (g = −0.13), subsets the authors call low-powered. It supports, weakly, supplying visuals to novices and withdrawing them for others.
 - [Decorative Illustrations Do Not Improve Learning](../claims/decorative-illustrations-do-not-improve-learning.md) [-M]: a seductive-details meta-analysis (abstract only), three experiments with 7th and 8th graders (decorative pictures neither helped nor harmed overall but weakened the benefit of instructional pictures, most for lower prior knowledge), and an e-learning study with undergraduates (a very small comprehension cost, η² = .04; in harder texts, harm only for students with low attentional inhibition). It limits "add a visual" to visuals that carry the idea.
 
@@ -95,9 +109,10 @@ Learners, tasks and outcomes differ across these claims (readers of a text, STEM
 Claims the earlier page cited or that bear on this page but have not been used in the model above.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — cited by the earlier page for the idea that a visual reduces the burden of inferring structure. It is about working-memory capacity and chunking, with no visual condition, so it does not test dual coding; its sources are reviews and one experiment, read from abstracts.
-- [Dual Coding Improves Recall](../claims/dual-coding-improves-recall.md) [~M] — carries the same three evidence entries as Dual Coding Improves Learning (a merge candidate, as both pages say), and its outcome is comprehension, not recall, so its title overstates recall.
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [~M] — carries the same three evidence entries as Dual Coding Improves Learning (a merge candidate, as both pages say), and its outcome is comprehension, not recall, so its title overstates recall.
 - [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+W] — one in-class conference experiment (n=37) reporting results in the direction dual coding theory predicts, with no effect size; no source text was available to check it.
 - [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W] — a practice-to-theory article reporting others' findings second-hand, no effect sizes; it belongs with [Multimedia Learning](multimedia-learning.md).
+- **Interpretation support**: Instructors should prompt learners to explain what the visual means, not only produce it [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ## Objective and learner-valued goal
 
@@ -112,11 +127,13 @@ The expectation should weaken if comparisons with comparable learners and aligne
 Comprehension while the visual is in view, recall a week later, transfer to a new problem and use in the setting the learner values are separate claims. The present evidence establishes no number of visuals per lesson, no length of drawing activity and no criterion for moving from supplied to learner-made visuals.
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md)
 - [Multimodal Instruction](multimodal-instruction.md)
 - [Multimedia Learning](multimedia-learning.md) — holds the presented explanation with a picture: placement, duplicated words, decoration and segmenting
 - [Retrieval Practice](retrieval-practice.md) — redrawing or explaining a visual from memory is the recall step of the default design
 - [Dual Coding Theory](../theories/dual-coding-theory.md) — Paivio's account, which the page's advice does not depend on
+- [Graphic Organizers](graphic-organizers.md) — one common implementation of visual representation for organizing and comparing ideas.
+- [Metaphors & Analogies](metaphors-analogies.md) — visual representations often help concretize analogical relationships.
+- [Explaining Their Thinking](self-explanation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
 
 ## Examples
 - A geography lesson pairs concise text with an annotated map so spatial relationships do not have to be inferred only from prose.
@@ -124,10 +141,17 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Concept map](../elements/concept-map.md), [graphic organizer](../elements/graphic-organizer.md), [representational drawing](../elements/representational-drawing.md) and [visual imagery](../elements/visual-imagery.md) — elements that carry a visual of the idea
 - [Drawing to learn](../strategies/drawing-to-learn.md) — a strategy for learner-made drawings
 - [Multimedia Learning pattern](../patterns/multimedia-learning.md) — a reusable design for presented words and pictures
+- **Concept maps**: Learners diagram how ideas, causes, or terms connect, then explain the map to a peer.
+- **Annotated diagrams**: Learners label a process, system, or text structure and add notes about why the parts matter.
+- **Data visualizations**: Learners convert raw data into graphs or charts and interpret what the visual shows.
+- **Sketch-to-explain routines**: Before solving a complex problem, learners draw the situation, sequence, or relationship structure first.
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
+- Cromley, J. G., Du, Y., & Dane, A. P. (2020). Drawing-to-learn: Does meta-analysis show differences between technology-based drawing and paper-and-pencil drawing? *Journal of Science Education and Technology, 29*(2), 216-229. [https://doi.org/10.1007/s10956-019-09807-6](https://doi.org/10.1007/s10956-019-09807-6)
+- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717-741. [https://doi.org/10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
+- Ainsworth, S. (2006). DeFT: A conceptual framework for learning with multiple representations. *Learning and Instruction, 16*(3), 183-198.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -161,7 +185,7 @@ Dual coding works when words and visuals reinforce the same underlying idea from
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — coordinated verbal and visual representations can reduce inferential burden and make structure easier to hold in mind
 
 ## Related Principles
-- [Creating Visual Representations](creating-visual-representations.md)
+- [Creating Visual Representations](dual-coding.md)
 - [Multimodal Instruction](multimodal-instruction.md)
 
 ## Examples
@@ -171,4 +195,72 @@ Dual coding works when words and visuals reinforce the same underlying idea from
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
+-->
+
+<!-- merged 2026-10-05 from principles/creating-visual-representations ("Creating Visual Representations"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Creating Visual Representations
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+
+## Description
+Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts. Externalizing thinking visually can reduce the burden of holding complex relations entirely in working memory while also making structure, comparison, and gaps in understanding easier to inspect. It is especially useful when the learning goal involves systems, patterns, relationships, sequences, or multi-step reasoning.
+
+## Implications
+Creating visual representations helps when the structure of an idea is hard to hold or communicate in linear language alone. Diagrams, maps, timelines, and sketches can reduce working-memory burden by making relationships visible [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S], and they often deepen understanding when learners also explain what the representation means [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The important distinction is that the visual should encode reasoning, not just decoration: the strongest tasks require learners to choose a representation that fits the content and then use it to inspect, discuss, or revise their thinking.
+
+### Context
+#### Requirements
+- **A meaningful mapping task**: Learners need a clear reason to represent something visually, such as showing sequence, causality, hierarchy, comparison, or spatial arrangement.
+- **Modeling or exemplars**: Many learners need examples of how a visual representation should encode information, not just blank space.
+- **Interpretation support**: Instructors should prompt learners to explain what the visual means, not only produce it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+- **Fit to content**: The representation type should match the structure of the knowledge being learned.
+#### Constraints
+- **Decorative visuals**: Visual production can become superficial if aesthetics replace reasoning or explanation.
+- **Unclear conventions**: Learners may struggle if symbol systems, labels, or expectations are not made explicit.
+- **Accessibility limits**: Visual tasks need alternatives or supports for learners with visual-processing, motor, or technology constraints.
+- **Cognitive overload**: Highly complex diagrams can overwhelm novices unless structure is chunked or scaffolded [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S].
+
+### Target Learners
+- **Learners grappling with complex relationships**: Useful when understanding depends on seeing connections, sequence, or structure.
+- **Learners who benefit from externalizing thought**: Visuals can make tacit reasoning discussable and revisable.
+- **Learners in numeracy and data contexts**: Graphs, charts, and models can support both interpretation and communication of quantitative ideas.
+- **Learners with multimodal strengths**: Visual representation can provide additional access routes beyond text-only explanation.
+
+### Target Learning Objectives
+- **Organizing knowledge**: Making categories, relationships, and patterns visible.
+- **Explaining reasoning**: Showing how ideas connect rather than listing them linearly.
+- **Supporting retention and transfer**: Creating an artifact that can be revisited, discussed, or adapted in new contexts.
+- **Improving problem solving**: Representing the structure of a problem before or during solution.
+
+### Theory
+#### Supporting
+- Dual coding and multimedia learning perspectives — combining verbal and visual processing can strengthen comprehension when the modes are aligned.
+- Information processing views of learning — visual externalization can reduce memory burden and support comparison across parts of a task.
+- Generative learning perspectives — drawing, mapping, and diagramming can deepen understanding when learners actively organize meaning.
+#### Contradicting / Qualifying
+- Visual production does not guarantee understanding; learners can create polished representations that mask weak reasoning.
+- Some content is better clarified through direct verbal explanation before learners are asked to visualize it independently.
+
+### Claims
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — external visual structure helps learners manage complex relationships without holding every connection in working memory
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — visual representations become more instructive when learners explain how the representation encodes the underlying idea
+
+## Related Principles
+- [Graphic Organizers](graphic-organizers.md) — one common implementation of visual representation for organizing and comparing ideas.
+- [Metaphors & Analogies](metaphors-analogies.md) — visual representations often help concretize analogical relationships.
+- [Multimodal Instruction](multimodal-instruction.md) — creating visuals complements learning across multiple modes.
+- [Explaining Their Thinking](self-explanation.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
+
+## Examples
+- **Concept maps**: Learners diagram how ideas, causes, or terms connect, then explain the map to a peer.
+- **Annotated diagrams**: Learners label a process, system, or text structure and add notes about why the parts matter.
+- **Data visualizations**: Learners convert raw data into graphs or charts and interpret what the visual shows.
+- **Sketch-to-explain routines**: Before solving a complex problem, learners draw the situation, sequence, or relationship structure first.
+
+## Key Sources
+- Cromley, J. G., Du, Y., & Dane, A. P. (2020). Drawing-to-learn: Does meta-analysis show differences between technology-based drawing and paper-and-pencil drawing? *Journal of Science Education and Technology, 29*(2), 216-229. [https://doi.org/10.1007/s10956-019-09807-6](https://doi.org/10.1007/s10956-019-09807-6)
+- Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717-741. [https://doi.org/10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
+- Ainsworth, S. (2006). DeFT: A conceptual framework for learning with multiple representations. *Learning and Instruction, 16*(3), 183-198.
 -->

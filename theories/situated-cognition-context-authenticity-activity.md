@@ -52,7 +52,7 @@ Situated cognition holds that cognitive processes are located in physical and so
 
 ## Examples
 
-- [Situated Learning](../principles/situated-learning.md)
+- [Situated Learning](situated-learning.md)
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
 - [Embed situated, context-triggered language learning activities in learners' everyday environments](../strategies/situated-context-triggered-language-learning.md)
 

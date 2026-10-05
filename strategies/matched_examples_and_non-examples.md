@@ -12,14 +12,14 @@ generated:
 # Matched Examples and Non-examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (5 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy pairs an example of a target concept with a non-example — an instance that is specifically *not* an instance of the concept — that differs from the example in one critical attribute. The pairs are presented simultaneously or in close succession so both can be held in working memory at once, allowing learners to isolate the attribute that separates the concept from its near neighbors. The goal is accurate concept formation: learners learn the boundaries of a concept, not just its center.
 
 ## Design Implications
 
-Contrasting cases sharpen discrimination by making the defining attribute visible through variation; learners who compare multiple contrasting cases abstract more robust schemas than those who study examples alone [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Non-examples are most valuable when they are *near misses* — instances sharing most attributes with the example but differing on the defining one — because far non-examples are trivially rejected and teach nothing about boundaries. Simultaneous presentation supports comparison; asking learners to explain *why* one instance qualifies and the other does not further strengthens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Contrasting cases sharpen discrimination by making the defining attribute visible through variation; learners who compare multiple contrasting cases abstract more robust schemas than those who study examples alone [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Non-examples are most valuable when they are *near misses* — instances sharing most attributes with the example but differing on the defining one — because far non-examples are trivially rejected and teach nothing about boundaries. Simultaneous presentation supports comparison; asking learners to explain *why* one instance qualifies and the other does not further strengthens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Contrasting cases sharpen discrimination by making the defining attribute visibl
 ### Target Learning Goals
 - Concept formation and accurate classification
 - Boundary knowledge: knowing what a concept is *not*, preventing overgeneralization
-- Schema abstraction across varied surface features [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Schema abstraction across varied surface features [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 
 ### Instructions
 1. Identify the defining attribute(s) of the concept and the common misconceptions or confusable concepts.

@@ -91,7 +91,7 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — the surrounding loop that generates the evidence this feedback responds to
 - [Effective Feedback](effective_feedback.md) — the general characteristics of feedback that works, across formative and other uses
 - [Drafting and Feedback Cycles](drafting-and-feedback-cycles.md) — the structural guarantee that feedback has something to act on
-- [Peer Feedback](peer_feedback.md) — distributes the giving, and benefits the giver [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+M]
+- [Peer Feedback](peer_feedback.md) — distributes the giving, and benefits the giver [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
 - [Audio Feedback](audio-feedback.md) — a delivery variation that raises nuance per minute of teacher time
 - [Exemplar-Based Feedback](exemplar-based-feedback.md) — using annotated examples to communicate the standard rather than describing it
 

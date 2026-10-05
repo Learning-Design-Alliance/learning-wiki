@@ -48,5 +48,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
-- [Interleaving Improves Transfer](interleaving-improves-transfer.md) — related
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — possibly the same claim (merge candidate)

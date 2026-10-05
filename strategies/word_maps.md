@@ -19,7 +19,7 @@ A word map is a visual organizer that promotes vocabulary development. Most word
 
 ## Design Implications
 
-Word maps work because they force elaborative processing: learners must connect a new term to prior knowledge, generate related words, and represent it in multiple formats [Elaborative encoding improves retention.](../claims/elaborative-encoding-improves-retention.md) [+S]. Combining verbal definition with a drawn image engages dual coding pathways, giving learners two retrieval routes to the word [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-recall.md) [+M]. The map's structure also functions as a chunking device, organizing a word's semantic neighborhood into a single retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Word maps work because they force elaborative processing: learners must connect a new term to prior knowledge, generate related words, and represent it in multiple formats [Elaborative encoding improves retention.](../claims/elaborative-encoding-improves-retention.md) [+S]. Combining verbal definition with a drawn image engages dual coding pathways, giving learners two retrieval routes to the word [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]. The map's structure also functions as a chunking device, organizing a word's semantic neighborhood into a single retrievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Word maps work because they force elaborative processing: learners must connect 
 - **Digital variants** — collaborative concept-mapping tools let classes build shared maps on a word wall
 
 ### Target Learners
-- All learners, particularly English language learners and students with varying reading skills, who benefit from the visual and relational scaffolding [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- All learners, particularly English language learners and students with varying reading skills, who benefit from the visual and relational scaffolding [Dual coding of verbal and visual information improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 - Struggling readers who need explicit structure for word analysis rather than open-ended note-taking
 - Younger learners may need teacher-completed exemplars and picture-based entries before generating their own
 

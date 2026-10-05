@@ -1,6 +1,7 @@
 ---
 type: principle
-id: mentoringcoaching
+id: mentoring-and-coaching
+aliases: [mentoringcoaching]
 title: Mentoring/Coaching
 description: Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge.
 status: review

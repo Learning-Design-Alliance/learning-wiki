@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Drawing Improves Learning
+title: "Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis"
 status: draft
 generated:
   by: claude/unspecified
@@ -19,12 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# Drawing Improves Learning
+# Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=3635 (160 effects, 35 studies)
+<!-- deprecated title (2026-10-05, overstated its evidence): Drawing Improves Learning -->
 
-Learners who create drawings of to-be-learned material during study show better understanding and recall than learners who read or summarize the same material. This page's evidence base has not yet been populated; no effect direction or magnitude should be asserted from it until studies are added.
+Learners who create drawings of to-be-learned material during study learn more than learners who do not draw (g = 0.362) and than learners using other active strategies such as imaging, explaining or re-watching (g = 0.400), in one meta-analysis of 35 STEM studies read from its abstract. No recorded study compares drawing with summarizing, and none covers subjects outside STEM. <!-- deprecated (2026-10-05, stale and overstated: an entry had been added, and it does not compare drawing with reading or summarizing): Learners who create drawings of to-be-learned material during study show better understanding and recall than learners who read or summarize the same material. This page's evidence base has not yet been populated; no effect direction or magnitude should be asserted from it until studies are added. -->
 
 ## Subclaims
 
@@ -55,11 +56,11 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — drawing must fit within the same working-memory limits it is meant to exploit
 - [Coherence principle: irrelevant material hurts learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) — drawings must represent core content, not decorative detail
 - [Activation improves learning.](../claims/activation-improves-learning.md) — drawing activates and externalizes prior knowledge during study
-- [Self-explanation improves learning.](self-explanation-improves-conceptual-understanding.md) — a competing generative strategy; comparisons with drawing are a key open question
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a competing generative strategy; comparisons with drawing are a key open question
 - [Annotating improves learning.](../claims/annotating-improves-learning.md) — a lower-cost generative alternative that pairs naturally with drawing
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) — model illustrations paired with drawing scaffold accurate pictorial representation, paralleling example-based support
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
 - [Teaching Others Generative Strategy](teaching-others-generative-strategy.md) — related
-- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related

@@ -12,7 +12,7 @@ generated:
 # Provide Writing Models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (3 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q3`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Providing writing models means giving learners access to exemplary (and sometimes flawed) texts — mentor texts, annotated exemplars, or teacher-written drafts — so they can observe how skilled writers handle structure, genre conventions, and craft before producing their own work. The strategy is most effective when models are actively analyzed (what makes this work? why did the writer choose this?) rather than merely read, and when analysis feeds directly into the learner's own drafting.
@@ -26,7 +26,7 @@ Writing models function as worked examples for a domain where the "procedure" is
 - Models that are genuinely exemplary but within reach — slightly above learners' current level, not professional outliers
 - Guided analysis: prompts or [annotating](../principles/annotating.md) tasks that direct attention to specific moves (thesis placement, transitions, evidence use), since unguided exposure rarely transfers
 - Explicit connection between the analyzed feature and the learner's upcoming writing task
-- Multiple models per genre where possible, so learners abstract features rather than imitate one voice [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Multiple models per genre where possible, so learners abstract features rather than imitate one voice [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 #### Constraints
 - A single strong model can anchor learners to one structure or voice, producing formulaic imitation rather than flexible genre control [~M] — mitigate with contrasting models
@@ -53,7 +53,7 @@ Writing models function as worked examples for a domain where the "procedure" is
 
 ### Instructions
 1. Select 2–3 authentic models of the target genre at an attainable level of quality.
-2. Have learners read and [annotating](../principles/annotating.md)-analyze the models against explicit criteria (structure, moves, language choices), ideally comparing texts to abstract shared features [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+2. Have learners read and [annotating](../principles/annotating.md)-analyze the models against explicit criteria (structure, moves, language choices), ideally comparing texts to abstract shared features [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 3. Co-construct a criteria list or rubric from the analysis so learners articulate the standards themselves.
 4. Move into guided drafting — a partially completed model text learners extend, then independent writing — following a worked-example-to-problem sequence [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M].
 5. Return to the models during revision as reference points for self- and peer-evaluation.

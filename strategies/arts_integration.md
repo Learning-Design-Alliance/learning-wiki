@@ -63,7 +63,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 ## Related Strategies
 - [Acting-Role-Play](acting-role-play.md) — the drama-specific variant, useful for perspective-taking in history and literature
 - [Act It Out](act_it_out.md) — a lightweight embodiment version requiring no artistic training
-- [Case Studies/Case-Based Learning](../principles/case-studiescase-based-learning.md) — an alternative active-learning strategy when artistic production is impractical
+- [Case Studies/Case-Based Learning](../patterns/case-based-learning.md) — an alternative active-learning strategy when artistic production is impractical
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — exemplar products show learners how artistic choices carry content meaning

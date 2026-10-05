@@ -12,7 +12,7 @@ generated:
 # Building Cultural Competency Skills for School Staff
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Building cultural competency develops staff knowledge, skills, and dispositions for working effectively across cultural differences — shifting from deficit thinking (viewing families' backgrounds as obstacles) to strengths-based thinking (viewing families as holders of expertise and resources). It is carried out through sustained professional learning that combines conceptual reframing, structured reflection on one's own cultural assumptions, and applied practice in real family and community interactions, supported by school-wide policies that make welcoming practices routine rather than individual heroics.
@@ -53,7 +53,7 @@ Cultural competency training works when it moves beyond awareness-raising toward
 ### Instructions
 1. Assess current practice — survey staff and families to identify specific partnership gaps rather than generic "cultural awareness" needs
 2. Surface assumptions — use structured [Individual Reflection](../elements/articulation.md) and identity-mapping activities to make staff members' own cultural lenses visible before examining others'
-3. Examine contrasting cases — analyze [Case Studies](../elements/case-studies.md) pairing deficit-framed and strengths-framed interpretations of the same family situation; contrasting cases support abstraction of the underlying principle [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+3. Examine contrasting cases — analyze [Case Studies](../elements/case-studies.md) pairing deficit-framed and strengths-framed interpretations of the same family situation; contrasting cases support abstraction of the underlying principle [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 4. Practice skills — rehearse family conferences, difficult conversations, and welcoming routines through role-play with feedback from peers and community members
 5. Apply in context — assign concrete relationship-building tasks (positive phone calls home, attendance at community events) with follow-up debriefs
 6. Sustain through community — embed the work in ongoing professional learning communities and coaching cycles [Communities of practice sustain learning through shared norms and mutual engagement.](../principles/communities-of-practice.md) [~M]

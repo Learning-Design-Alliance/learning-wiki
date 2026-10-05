@@ -57,7 +57,7 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Activation improves learning](activation-improves-learning.md) — generation works by connecting new material to activated prior knowledge
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — generative tasks add load; managing that load determines whether the effort is germane
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — possibly the same claim (merge candidate)
-- [Self-explanation improves learning](self-explanation-improves-conceptual-understanding.md) — related
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Generative processing improves learning](generative-processing-improves-learning.md) — possibly the same claim (merge candidate)
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related

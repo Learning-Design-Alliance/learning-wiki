@@ -12,14 +12,14 @@ generated:
 # Multiple Representations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 7 studies (3 causal, 3 review, 1 quant-synthesis), `q2`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 causal, 3 review, 1 quant-synthesis), `q2`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Multiple representations present the same concept or relation in two or more forms — for example, a graph alongside its equation, a physical model alongside a verbal description, or a diagram alongside symbolic notation. The goal is for learners to map between forms, so each representation constrains and enriches interpretation of the others. This is the instructional application of dual coding: verbal and visual codes provide independent retrieval routes [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ## Design Implications
 
-Multiple representations support abstraction and transfer because identifying the invariant structure across differing surface forms is exactly what abstraction requires [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. But representations are not automatically better in quantity: each added form imposes coordination costs in working memory, so representations must be explicitly linked (color coding, dynamic linking, prompts to translate between forms) or they become competing sources of load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Sequencing matters — introduce representations one at a time and build mappings incrementally rather than presenting all forms simultaneously.
+Multiple representations support abstraction and transfer because identifying the invariant structure across differing surface forms is exactly what abstraction requires [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. But representations are not automatically better in quantity: each added form imposes coordination costs in working memory, so representations must be explicitly linked (color coding, dynamic linking, prompts to translate between forms) or they become competing sources of load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Sequencing matters — introduce representations one at a time and build mappings incrementally rather than presenting all forms simultaneously.
 
 ### Context
 #### Requirements
@@ -39,7 +39,7 @@ Multiple representations support abstraction and transfer because identifying th
 - **Concrete-to-symbolic progression** — physical manipulatives or [Analogies](../elements/analogies.md) bridging everyday knowledge to formal notation
 
 ### Target Learners
-- Novices in symbolically dense domains (mathematics, chemistry, physics) who must learn to interpret formal notations [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Novices in symbolically dense domains (mathematics, chemistry, physics) who must learn to interpret formal notations [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Learners with weak prior knowledge who benefit from concrete anchors before formal forms
 - Less beneficial for experts, for whom additional representations are often redundant [Expertise reversal: guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
 

@@ -42,9 +42,8 @@ Teachers should avoid responding in ways that cause frustration: unclear or cryp
 
 ## Related Principles
 
-- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](avoid-appropriating-student-writing.md)
+- [Avoid appropriating student writing; distinguish appropriation from helpful intervention](process-based-writing.md)
 - [Provide positive comments alongside constructive criticism when responding to student writing](provide-positive-comments-on-student-writing.md)
-- [Involve students in the revision process as a collaborative endeavor rather than a giver-receiver relationship](involve-students-in-revision-process.md)
 
 ## Examples
 

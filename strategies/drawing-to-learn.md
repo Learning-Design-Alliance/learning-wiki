@@ -12,7 +12,7 @@ generated:
 # Drawing To Learn
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing to learn asks learners to create their own external visual representations — sketches, concept diagrams, annotated illustrations — of the content they are studying. The generative act of translating verbal or numerical information into spatial form forces selection, organization, and integration of ideas, which is where the learning benefit arises. It differs from studying prepared visuals: the cognitive work of constructing the representation is done by the learner, not the designer.
@@ -54,7 +54,7 @@ Drawing is a generative learning activity: it requires learners to select key in
 1. Select content with a depictable structure and set a clear purpose ("draw how X causes Y").
 2. Provide a prompt specifying required components and relations, or a partial diagram to complete — a form of [Annotating](../principles/annotating.md) when learners label given visuals.
 3. Have learners draw, then self-explain: articulate why each component and arrow is placed as it is [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
-4. Compare drawings against an expert or peer representation and revise; contrasting multiple versions supports abstraction of the underlying structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+4. Compare drawings against an expert or peer representation and revise; contrasting multiple versions supports abstraction of the underlying structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 5. Revisit the drawing later (e.g., as a retrieval prompt) to leverage its value for retention.
 
 ## Related Strategies

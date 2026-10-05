@@ -12,7 +12,7 @@ generated:
 # Show and Tell for Multimodal Composition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (5 quant-synthesis, 1 causal), `q3`–`q4` · 4 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 2 causal), `q3`–`q4` · 4 of 7 report an effect size
 
 ## Description
 Show and tell for multimodal composition devotes a few minutes each week for learners to display the effects of different multimodal combinations (image, sound, gesture, layout, moving image) or to narrate their composition process to peers. It creates a space akin to the author's chair in writing workshops, but extended beyond print: learners explain *why* they paired a mode with a meaning, making design decisions — usually tacit — explicit and discussable. The strategy treats multimodal design as a teachable, critiquable craft rather than an intuitive act.
@@ -35,7 +35,7 @@ Explaining one's own work to peers converts composing knowledge into articulate,
 - Large classes make whole-class show and tell impractical; small-group rotations preserve frequency but weaken the whole-class community function [~M]
 
 #### Implementation Variability
-- **Design-focus rounds**: all presenters show the *same* design problem solved differently, enabling comparison across cases [Comparing multiple contrasting cases supports abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- **Design-focus rounds**: all presenters show the *same* design problem solved differently, enabling comparison across cases [Comparing multiple contrasting cases supports abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - **Process rounds**: presenters show two versions of a segment and narrate what changed and why
 - **Asynchronous variants**: annotated screencasts or voice-over slides posted to a class forum, with written peer response
 - **Expert models**: instructor or professional designer shows and tells first, modeling the rationale language before students take the chair

@@ -12,7 +12,7 @@ generated:
 # Illustrate Through Multiple Media
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Illustrating through multiple media means presenting the same core content through complementary channels — diagrams and animations alongside narration or text, simulations alongside static graphics, video alongside worked demonstrations. The strategy is grounded in dual coding: combining verbal and visual representations gives learners two coordinated memory codes rather than one [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. It is not about adding more media, but about selecting media whose affordances match the content — animation for dynamic processes, static diagrams for structure, simulation for manipulation.
@@ -46,7 +46,7 @@ Multimedia works when the combination reduces extraneous load and enables refere
 ### Target Learning Goals
 - Conceptual understanding of structures, systems, and spatial relationships
 - Procedural knowledge via narrated video or animated [Demonstration](../elements/demonstration.md)
-- Abstraction from varied representations — presenting contrasting cases across media supports generalization [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction from varied representations — presenting contrasting cases across media supports generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the core concept and choose the medium that matches its structure (diagram, animation, simulation, video) rather than defaulting to text-plus-slides

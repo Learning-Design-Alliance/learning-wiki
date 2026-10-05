@@ -12,14 +12,14 @@ generated:
 # Environmental Interaction Analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Environmental Interaction Analysis engages learners in examining environments, their inhabitants, and the physical traces they leave — tracks, soil disturbance, water flow, plant growth — to infer relationships between organisms and their surroundings. Learners write narratives about ecological events (e.g., a predation sequence reconstructed from tracks) or analyze the functional role of environmental components (rocks, soil, water) in a contained ecosystem such as a terrarium. The strategy converts direct observation of authentic materials into evidence-based reasoning and expressive writing.
 
 ## Design Implications
 
-The strategy works because it grounds abstract ecological concepts in concrete, inspectable evidence, letting learners construct causal accounts from observable traces rather than from text alone [~M]. Its effectiveness depends on learners actively explaining *why* a trace implies a relationship — unstructured observation without prompted inference produces little conceptual gain [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Comparing multiple environments or track sets helps learners abstract general organism–environment relationships rather than memorizing single instances [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works because it grounds abstract ecological concepts in concrete, inspectable evidence, letting learners construct causal accounts from observable traces rather than from text alone [~M]. Its effectiveness depends on learners actively explaining *why* a trace implies a relationship — unstructured observation without prompted inference produces little conceptual gain [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Comparing multiple environments or track sets helps learners abstract general organism–environment relationships rather than memorizing single instances [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

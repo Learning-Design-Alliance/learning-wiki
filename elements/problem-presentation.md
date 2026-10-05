@@ -47,7 +47,7 @@ A well-presented problem engages learners in authentic problem-solving by making
 
 ### Affordances
 - [Problem-Based Learning](../principles/problem-based-learning.md) — problem presentation is the initiating element of this principle; the problem precedes and drives all instruction rather than following it
-- [Situated Learning](../principles/situated-learning.md) — presenting a problem embedded in a realistic context grounds knowledge in the situations of its use, supporting transfer to professional practice
+- [Situated Learning](../theories/situated-learning.md) — presenting a problem embedded in a realistic context grounds knowledge in the situations of its use, supporting transfer to professional practice
 - [Activation](../principles/activation.md) — a well-chosen problem forces learners to retrieve and mobilize prior knowledge before new instruction begins
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the presenter controls complexity, scaffolds, and resource availability, shaping how much of the problem's load learners must carry unaided
 

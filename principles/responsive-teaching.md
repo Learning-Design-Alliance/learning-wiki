@@ -12,7 +12,7 @@ generated:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q3`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Responsive teaching means continuously eliciting learner thinking and adjusting instruction in real time — re-sequencing, re-explaining, extending, or redirecting — based on what students actually say and do rather than on the planned lesson script. It treats student ideas, including errors and partial understandings, as the primary evidence for instructional decisions.

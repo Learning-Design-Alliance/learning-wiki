@@ -46,5 +46,5 @@ Stated as the digest's opening premise: the deficit perception "has too often le
 - [Funds Of Knowledge Research Raises Teacher Expectations](funds-of-knowledge-research-raises-teacher-expectations.md)
 - [Teacher Expectation Effects On Achievement](teacher-expectation-effects-on-achievement.md)
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — reports the opposite
-- [Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance](incorporating-home-culture-improves-academic-performance.md) — related
+- [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — related
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related

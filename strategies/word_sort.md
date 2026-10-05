@@ -12,14 +12,14 @@ generated:
 # Word Sort
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 4 quant-synthesis, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Students work in small groups, each given an envelope containing key terms on separate slips of paper. Before reading or lecture, they discuss what the terms might mean and organize them into categories based on perceived relationships. After encountering the terms in text or lecture, groups re-sort the words and compare their new arrangements with their initial ones, making conceptual revision visible.
 
 ## Design Implications
 
-Word sort is a pre-instruction activation activity: by forcing learners to organize unfamiliar terms, it surfaces prior knowledge and creates a readiness for the explanations that follow. The before/after re-sort structure turns the sort into a form of contrasting cases — learners experience why the expert categorization is better than their naive one, which supports abstraction of the underlying structure [Multiple contrasting cases support abstraction of deep features.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Struggling productively with the initial sort before receiving definitions also improves subsequent learning from instruction [Productive failure improves conceptual learning compared with direct instruction first.](../claims/productive-failure-improves-conceptual-learning.md) [+M]. The discussion component adds a self-explanation benefit: articulating *why* two terms belong together forces relational processing rather than rote pairing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Word sort is a pre-instruction activation activity: by forcing learners to organize unfamiliar terms, it surfaces prior knowledge and creates a readiness for the explanations that follow. The before/after re-sort structure turns the sort into a form of contrasting cases — learners experience why the expert categorization is better than their naive one, which supports abstraction of the underlying structure [Multiple contrasting cases support abstraction of deep features.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Struggling productively with the initial sort before receiving definitions also improves subsequent learning from instruction [Productive failure improves conceptual learning compared with direct instruction first.](../claims/productive-failure-improves-conceptual-learning.md) [+M]. The discussion component adds a self-explanation benefit: articulating *why* two terms belong together forces relational processing rather than rote pairing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements

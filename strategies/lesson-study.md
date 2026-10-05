@@ -12,7 +12,7 @@ generated:
 # Lesson Study
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
 
 ## Description
 Lesson Study (jugyō kenkyū) is a teacher-led professional development cycle in which a small team of teachers jointly (1) identifies a long-term learning goal for students, (2) collaboratively plans a single "research lesson," (3) teaches it while team members observe and collect detailed evidence of student thinking, (4) debriefs and revises the lesson, and (5) often re-teaches it to a new class. The unit of study is not the teacher's performance but the students' learning — observation notes record what students said, wrote, and struggled with, not what the teacher did.
@@ -43,7 +43,7 @@ Lesson Study works because it converts teaching into a site of systematic inquir
 ### Target Learners
 - The "learners" in lesson study are teachers, from novice to veteran; novices gain exposure to expert reasoning about student thinking, while veterans gain structured opportunities to articulate tacit knowledge (a form of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) for teachers)
 - Whole-school adoption works best when teams share students or curriculum, so insights from one cycle transfer to colleagues' classrooms
-- Comparing how different students respond to the same lesson across re-teachings functions like contrasting cases, supporting abstraction of general principles about learning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Comparing how different students respond to the same lesson across re-teachings functions like contrasting cases, supporting abstraction of general principles about learning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Teacher pedagogical content knowledge: anticipating and interpreting student misconceptions

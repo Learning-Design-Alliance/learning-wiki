@@ -68,7 +68,7 @@ The pattern works best when the review process is designed carefully. Unstructur
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
@@ -90,7 +90,7 @@ The pattern works best when the review process is designed carefully. Unstructur
 - [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedback.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 - [Process-Based Writing](../principles/process-based-writing.md)

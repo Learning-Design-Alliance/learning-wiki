@@ -12,14 +12,14 @@ generated:
 # Maximization of Transfer and Generalization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (5 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Maximization of transfer and generalization is the deliberate design of instruction so that what learners acquire can be applied to novel problems, contexts, and situations beyond the original learning conditions. It is carried out by varying practice conditions, using multiple contrasting examples, making underlying principles explicit, and prompting learners to abstract and articulate the generalizable structure of what they are learning. Transfer is notoriously difficult to achieve without such design effort; near transfer (to similar problems) occurs more readily than far transfer (to dissimilar contexts), and instruction must be engineered for the latter rather than assumed [Salomon & Perkins, 1989].
 
 ## Design Implications
 
-Transfer depends on learners encoding knowledge in a form that is abstract enough to apply elsewhere but concrete enough to be usable. Multiple contrasting cases that share deep structure but differ in surface features support abstraction of the underlying principle [Multiple contrasting cases support abstraction of shared structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]. Prompting learners to explain why a solution works — rather than only producing solutions — builds the conceptual understanding that far transfer requires [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Transfer is also improved when learners practice in varied contexts and when support is progressively withdrawn so responsibility for application shifts to the learner [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Transfer depends on learners encoding knowledge in a form that is abstract enough to apply elsewhere but concrete enough to be usable. Multiple contrasting cases that share deep structure but differ in surface features support abstraction of the underlying principle [Multiple contrasting cases support abstraction of shared structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Prompting learners to explain why a solution works — rather than only producing solutions — builds the conceptual understanding that far transfer requires [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Transfer is also improved when learners practice in varied contexts and when support is progressively withdrawn so responsibility for application shifts to the learner [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Transfer depends on learners encoding knowledge in a form that is abstract enoug
 
 ### Target Learning Goals
 - Application of principles to novel problems (near and far transfer)
-- Abstraction: extracting generalizable rules and schemas from specific instances [Multiple contrasting cases support abstraction of shared structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S]
+- Abstraction: extracting generalizable rules and schemas from specific instances [Multiple contrasting cases support abstraction of shared structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Durable, flexible knowledge rather than context-bound procedural routines
 - Adaptive expertise: knowing when and how to modify learned procedures
 

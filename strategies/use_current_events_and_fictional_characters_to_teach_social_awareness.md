@@ -19,7 +19,7 @@ This strategy teaches social awareness — perspective-taking, empathy, and reco
 
 ## Design Implications
 
-Narrative material is effective for social-emotional learning because characters provide psychologically safe, low-stakes targets for perspective-taking: learners can discuss a fictional character's dilemma or a distant news event without the interpersonal risk of disclosing personal experience [Reading literary fiction improves empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [+W]. Current events add authenticity and perceived relevance, which supports engagement and transfer to real social contexts [Authentic purposes increase motivation and learning.](../principles/authentic-audiences-purposes.md) [+M]. The strategy enacts [Building Empathy](../principles/building-empathy.md) by giving learners repeated, structured practice adopting others' viewpoints.
+Narrative material is effective for social-emotional learning because characters provide psychologically safe, low-stakes targets for perspective-taking: learners can discuss a fictional character's dilemma or a distant news event without the interpersonal risk of disclosing personal experience [Reading literary fiction improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+W]. Current events add authenticity and perceived relevance, which supports engagement and transfer to real social contexts [Authentic purposes increase motivation and learning.](../principles/authentic-audiences-purposes.md) [+M]. The strategy enacts [Building Empathy](../principles/building-empathy.md) by giving learners repeated, structured practice adopting others' viewpoints.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Narrative material is effective for social-emotional learning because characters
 - A bridge activity connecting the case to learners' own experience ([Class Discussion](../elements/class-discussion.md), reflective writing, or [Act It Out](../elements/act-it-out.md))
 
 #### Constraints
-- Effects of fiction on empathy are small and depend on transport and quality of reflection; passive consumption without guided discussion produces little measurable gain [Reading literary fiction improves empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [~W]
+- Effects of fiction on empathy are small and depend on transport and quality of reflection; passive consumption without guided discussion produces little measurable gain [Reading literary fiction improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [~W]
 - Poorly framed current events can heighten anxiety, stereotype threat, or polarization, particularly when events involve learners' own communities [-M]
 - Fictional exemplars that are one-dimensional or stereotyped can reinforce rather than reduce biased social schemas [-M]
 - Discussion dominated by a few voices limits perspective-taking benefits for the rest of the group [-W]
@@ -49,7 +49,7 @@ Narrative material is effective for social-emotional learning because characters
 - Perspective-taking: inferring others' emotions, motives, and constraints
 - Ethical reasoning: evaluating choices and consequences in social dilemmas
 - Social awareness: recognizing group norms, inequities, and community issues
-- Empathy and prosocial attitude formation [Reading literary fiction improves empathy and perspective-taking.](../claims/fiction-reading-improves-empathy.md) [+W]
+- Empathy and prosocial attitude formation [Reading literary fiction improves empathy and perspective-taking.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+W]
 
 ### Instructions
 1. Select a current event or fictional narrative with a clear social dilemma and multiple stakeholder perspectives.

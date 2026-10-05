@@ -42,7 +42,7 @@ A graphic organizer in which concepts are represented as nodes and their relatio
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
-- [Concept mapping improves learning](../claims/concept-mapping-improves-learning.md) [+M]
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [-W]
 - [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](../claims/remapping-prevents-map-as-metanarrative.md) [~W]
 

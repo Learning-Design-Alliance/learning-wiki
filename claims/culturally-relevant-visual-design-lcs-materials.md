@@ -47,5 +47,5 @@ Theme 4 of the focus-group analysis. Participants said colorful, culturally fami
 - [Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear](fear-fatalism-shape-lcs-decisions-balanced-risk-communication.md) — related
 - [Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms](hispanic-adults-limited-lcs-awareness-focus-groups.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — a broader claim this one bears on
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a broader claim this one bears on
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related

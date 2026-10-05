@@ -12,14 +12,14 @@ generated:
 # Dot Card Matching Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (3 causal, 3 quant-synthesis, 3 associational, 2 review), `q2`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (4 causal, 3 quant-synthesis, 3 associational, 2 review), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Dot card matching games present learners with cards showing dots in varied arrangements (dice patterns, ten-frames, irregular clusters) and ask them to find pairs with equal quantities or to pair dot cards with numeral cards. Because the same quantity appears in different spatial configurations, learners must abstract "fiveness" from any particular layout — either by rapid recognition (subitizing) or by structured counting. The game format turns repeated quantity comparison into a low-stakes, self-checking activity suited to early childhood and early elementary mathematics.
 
 ## Design Implications
 
-Matching different arrangements of the same quantity is a form of contrasting cases: comparing configurations that differ perceptually but match numerically directs attention to the invariant quantity rather than surface features [Multiple contrasting cases support abstraction of the underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Small dot sets (1–5) leverage perceptual subitizing, freeing working memory for reasoning about equivalence rather than laborious counting [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Games should be sequenced from canonical patterns (dice, ten-frames) toward irregular arrangements, and from dot-to-dot matching toward dot-to-numeral matching, so that symbolic connection follows perceptual quantity knowledge.
+Matching different arrangements of the same quantity is a form of contrasting cases: comparing configurations that differ perceptually but match numerically directs attention to the invariant quantity rather than surface features [Multiple contrasting cases support abstraction of the underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Small dot sets (1–5) leverage perceptual subitizing, freeing working memory for reasoning about equivalence rather than laborious counting [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Games should be sequenced from canonical patterns (dice, ten-frames) toward irregular arrangements, and from dot-to-dot matching toward dot-to-numeral matching, so that symbolic connection follows perceptual quantity knowledge.
 
 ### Context
 #### Requirements
@@ -56,7 +56,7 @@ Matching different arrangements of the same quantity is a form of contrasting ca
 1. **Diagnose starting quantities.** Quickly flash small dot cards to determine which quantities each learner recognizes without counting; begin instruction at that boundary.
 2. **Model the matching rule.** Demonstrate finding a match and, critically, verbalize the quantity reasoning ("I see 3 on top and 2 on bottom, so 5 — this one is 5 too") ([coaching](../elements/coaching.md)).
 3. **Play with dot-to-dot sets first.** Use 2–3 arrangements per quantity within the learner's subitizing range; require a justification for each match before keeping it.
-4. **Vary arrangements across rounds.** Swap in irregular configurations so matching must be by quantity, not by picture [Multiple contrasting cases support abstraction of the underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+4. **Vary arrangements across rounds.** Swap in irregular configurations so matching must be by quantity, not by picture [Multiple contrasting cases support abstraction of the underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 5. **Bridge to numerals.** Replace one side of the deck with numeral cards, then ask learners to name the quantity aloud when matching.
 6. **Extend and discuss.** Increase quantity range with ten-frame arrangements; close sessions with a brief discussion of strategies ("Who knew without counting? How?") to promote verbalization of quantity structure [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 

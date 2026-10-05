@@ -46,7 +46,7 @@ AR's core learning advantage is spatial contiguity: instructions are presented a
 
 ### Target Learning Goals
 - Procedural fluency: executing multi-step maintenance and assembly sequences accurately
-- Spatial understanding: internalizing the 3D structure of equipment and environments (dual coding of verbal and visual channels supports this [Dual coding improves recall.](../claims/dual-coding-improves-recall.md) [+M])
+- Spatial understanding: internalizing the 3D structure of equipment and environments (dual coding of verbal and visual channels supports this [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M])
 - Situated readiness: rehearsing exploration tasks in realistic reconstructed environments
 
 ### Instructions

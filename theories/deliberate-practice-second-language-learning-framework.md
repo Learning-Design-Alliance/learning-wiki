@@ -16,7 +16,7 @@ sources:
 # Deliberate Practice for Second Language Learning Framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 quant-synthesis, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes a framework guiding educators to design classroom-based deliberate practice (DP) and out-of-class purposeful practice (PP) protocols for language learning. It is built on seven concepts: feedback and feedforward, the Zone of Proximal Development, engagement and depth of processing, repetition, cognitive load, optimal challenges and desirable difficulties, and learner autonomy. The authors state they "have developed the following framework to not only inform educators how they can employ DP in the classroom, but also how PP can be deployed to maximize the learning outcomes of OCLL." It posits that outcomes are optimized when practice is structured around explicit objectives, targeted feedback, and iterative improvement.
@@ -40,7 +40,7 @@ The article proposes a framework guiding educators to design classroom-based del
 
 - [Deeper processing of target language improves lexical retention and long-term learning](../claims/depth-of-processing-improves-l2-retention.md) [+W]
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](../claims/desirable-difficulty-enhances-long-term-retention.md) [+W]
-- [Education-related deliberate practice accounts for a modest share of performance variance in meta-analyses](../claims/education-dp-4-5-percent-variance.md) [+W]
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+W]
 - [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](../claims/quality-ocll-meaning-form-synergy-higher-grades.md) [+W]
 - [Structured repetition gains in fluency depend on repeating the same task](../claims/structured-repetition-fluency-task-specific.md) [+W]
 

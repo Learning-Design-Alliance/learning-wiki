@@ -12,7 +12,7 @@ generated:
 # Collect My Data
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Collect My Data is a learner-driven data-collection strategy in which students select a question or category of items to investigate (e.g., favorite fruit, types of pets, weather observations), record observations using tally charts, and then translate the tallies into graphs. The strategy moves learners through the full data cycle — posing a question, gathering data, representing it, and interpreting results — using their own choices as the content.
@@ -47,7 +47,7 @@ Giving learners ownership of the data question and collection process turns an a
 
 ### Target Learning Goals
 - Representational understanding: how tallies and graphs encode frequency
-- Categorization: deciding what counts as "the same" — the conceptual core of classification [multiple-contrasting-cases-support-abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Categorization: deciding what counts as "the same" — the conceptual core of classification [multiple-contrasting-cases-support-abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Data literacy practices: posing questions, collecting evidence, and making claims from data
 - Self-regulated inquiry: managing an extended observation task [self-monitoring-improves-self-regulation](../claims/self-monitoring-improves-self-regulation.md) [+M]
 

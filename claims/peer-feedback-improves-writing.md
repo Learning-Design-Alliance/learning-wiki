@@ -72,9 +72,8 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [Argumentation improves reasoning](argumentation-improves-reasoning.md) — giving feedback requires justified evaluative arguments about a text
 - [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — related
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](online-peer-assessment-shifts-assessment-control-to-students.md) — related
-- [Peer Assessment Improves Performance](peer-assessment-improves-performance.md) — a broader claim this one bears on
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — a broader claim this one bears on
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
-- [Peer Feedback Improves Work Quality](peer-feedback-improves-work-quality.md) — a broader claim this one bears on
 - [Personalized Normative Feedback Corrects Misperceived Norms](personalized-normative-feedback-corrects-misperceived-norms.md) — related
 - [Summarization Improves Learning](summarization-improves-learning.md) — related
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related

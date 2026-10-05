@@ -45,5 +45,4 @@ Second-order meta-analysis combining 23 first-order meta-analyses (684 primary s
 ## Related Claims
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — a narrower finding that bears on this claim
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — related
-- [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md) — related
-- [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related

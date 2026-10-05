@@ -12,14 +12,14 @@ generated:
 # Perspective-Taking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Perspective-taking asks learners to adopt, articulate, and reason from viewpoints other than their own — historical actors, stakeholders in a policy dispute, or holders of opposing positions on a controversy. It functions both as a social-affective goal (empathy, reduced stereotyping) and a cognitive one (flexible, multi-angle understanding of contested content).
 
 ## Design Implications
 
-Perspective-taking deepens learning when learners must actively construct the other position rather than passively acknowledge it; structured tasks that require arguing, writing, or deciding *from* a viewpoint outperform simple exposure to multiple views [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Adopting a perspective also improves memory for that position's arguments and reduces stereotyped reasoning [~M]. The activity works best when positions are genuinely in tension, forcing learners to reconcile or contrast them rather than treat them as parallel facts.
+Perspective-taking deepens learning when learners must actively construct the other position rather than passively acknowledge it; structured tasks that require arguing, writing, or deciding *from* a viewpoint outperform simple exposure to multiple views [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Adopting a perspective also improves memory for that position's arguments and reduces stereotyped reasoning [~M]. The activity works best when positions are genuinely in tension, forcing learners to reconcile or contrast them rather than treat them as parallel facts.
 
 ### Context
 #### Requirements

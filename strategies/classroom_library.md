@@ -50,7 +50,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 - Reading engagement and motivation: building voluntary reading habits [+M]
 - Vocabulary and background knowledge growth through volume of reading [+M]
 - Reading fluency and automaticity — practice from wide reading supports [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
-- Perspective-taking and empathy through diverse fiction [Fiction reading improves empathy.](../claims/fiction-reading-improves-empathy.md) [+W]
+- Perspective-taking and empathy through diverse fiction [Fiction reading improves empathy.](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+W]
 
 ### Instructions
 1. **Curate the collection** — audit for level range, genre diversity, mirrors-and-windows representation; remove worn or unengaging titles

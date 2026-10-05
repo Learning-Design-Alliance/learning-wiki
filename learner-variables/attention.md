@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 9 studies (4 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 3 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 12 studies (6 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -33,7 +33,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - Largely irrelevant to short retrieval tasks, which is why brief checks survive conditions long tasks do not.
 
 ## Claims
-- [Interesting but irrelevant details can distract from learning](../claims/seductive-details-distract-from-learning.md) [-M] — the effect that makes 'engaging' and 'effective' come apart
+- [Interesting but irrelevant details can distract from learning](../claims/seductive-details-effect.md) [-M] — the effect that makes 'engaging' and 'effective' come apart
 - [Signaling improves learning](../claims/signaling-improves-learning.md) [+M] — cueing what matters directs attention rather than competing for it
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] — learner-paced segments let attention reset at a boundary the learner chooses
 - [Classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy

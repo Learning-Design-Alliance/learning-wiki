@@ -38,7 +38,7 @@ Explicit vocabulary instruction reliably improves word learning and, more modest
 - **Pre-teaching before reading**: brief front-loading of 3–8 critical terms before a text
 - **Rich instruction**: [Frayer-type four-square work](../strategies/acronyms_and_acrostics.md), [analogies](../elements/analogies.md), semantic maps, and [act-it-out](../elements/act-it-out.md) dramatization
 - **Morphological analysis**: teaching roots, prefixes, and suffixes so students can unlock untaught words
-- **Multimodal formats**: definitions delivered as text, [visuals](../claims/dual-coding-improves-recall.md), and audio to support diverse learners
+- **Multimodal formats**: definitions delivered as text, [visuals](../claims/dual-coding-improves-learning.md), and audio to support diverse learners
 - **Incidental + embedded**: word walls, classroom discourse norms, and teacher modeling of academic language
 
 ### Target Learners

@@ -69,7 +69,7 @@ The self level interacts with motivation as well as cognition. Person-directed p
 
 Feedback at the task and process levels is also a core mechanism of [Assessment for learning](../claims/assessment-for-learning-improves-achievement.md): formative assessment only improves achievement when the information it generates is fed back in a form learners can use to close the gap between current and desired performance. And because learners must interpret feedback within working-memory limits, overly dense multi-level feedback can overload novices — see [Cognitive load theory](../theories/cognitive-load-theory.md).
 
-Open questions: how the four levels interact in real classrooms (e.g., whether process feedback presupposes accurate task feedback), and how the effectiveness of each level varies by learner expertise and subject domain. Studies still need to be added to substantiate the subclaims.
+Open questions: how the four levels interact in real classrooms (e.g., whether process feedback presupposes accurate task feedback), and how the effectiveness of each level varies by learner expertise and subject domain. <!-- deprecated (2026-10-05, stale: entries had been added): Studies still need to be added to substantiate the subclaims. --> Two meta-analyses are recorded (Wisniewski et al. 2020 in education; Kluger & DeNisi 1996 across settings), and both support the claim only indirectly: one coded the information content of feedback rather than the four levels, and the other used its own attention levels, with no effect size for the level moderator in the abstract. No recorded study compares task-level with process-level feedback directly, so the ordering between those two in the paragraphs above is untested here.
 
 ## Related Claims
 

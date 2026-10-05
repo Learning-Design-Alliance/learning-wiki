@@ -50,5 +50,5 @@ This study's honest null result (contingency did not predict uptake) is as impor
 
 ## Related Claims
 - (none yet linked)
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — related

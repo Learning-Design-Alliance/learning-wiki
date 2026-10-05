@@ -25,7 +25,7 @@ sources:
 # Heat Transfer Investigations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (5 causal, 4 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Heat transfer investigations are structured hands-on experiments in which learners compare how different materials, colors, or environments conduct, insulate, or radiate heat — for example, testing which cup keeps water warmest or which surface melts ice fastest. Learners generate predictions, collect temperature data, and reconcile results with their initial conceptions of conduction, convection, and insulation. The strategy pairs conceptual learning about thermal energy with authentic practice in scientific investigation: controlling variables, measuring, and reasoning from evidence.
@@ -37,7 +37,7 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 ### Context
 #### Requirements
 - Simple, reliable measurement tools (thermometers, timers) so data quality does not swamp conceptual reasoning
-- A comparison structure — at least two contrasting conditions per investigation, since [multiple contrasting cases support abstraction of the underlying principle](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- A comparison structure — at least two contrasting conditions per investigation, since [multiple contrasting cases support abstraction of the underlying principle](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Prediction and discussion phases before and after data collection, where [self-explanation improves conceptual understanding](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Teacher guidance that structures the question, variables, and interpretation rather than leaving learners to search aimlessly
 
@@ -65,7 +65,7 @@ Inquiry-based science teaching produces moderate positive effects on conceptual 
 
 ### Instructions
 1. **Activate prior conceptions.** Pose a familiar question ("Why does a metal bench feel colder than a wooden one?") and collect predictions, surfacing misconceptions for later contrast.
-2. **Structure the comparison.** Present or co-design a fair test with two or more contrasting conditions; contrasting cases support abstraction of the conduction principle [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+2. **Structure the comparison.** Present or co-design a fair test with two or more contrasting conditions; contrasting cases support abstraction of the conduction principle [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 3. **Predict and commit.** Learners record predictions before data collection to maximize the impact of disconfirming evidence.
 4. **Collect data.** Use simple tools and pre-structured tables to keep measurement from overloading working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 5. **Explain and reconcile.** Learners explain results in their own words and compare against predictions; self-explanation at this step drives conceptual change [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

@@ -13,11 +13,11 @@ grain_size: lesson
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies (4 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 7 claims (4 for, 3 mixed) · 17 studies (8 causal, 4 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
 
 ## Description and scope
 
-A reusable policy for organizing a lesson around realistic cases (scenarios, incidents, dilemmas or worked situations) that learners analyse, and for deciding how many cases to use, how learners work with them, and when the principle they share is made explicit. It applies the [case-based learning principle](../principles/case-studiescase-based-learning.md), which has not yet been rewritten as a conditional model, and draws on [analogical reasoning](../principles/analogical-reasoning.md) and [cognitive flexibility](../principles/cognitive-flexibility.md). The study configurations below are evidence; the response-dependent policy is an **untested design proposal**. Use it to gather better evidence about a learner group, not to certify that a learner "can reason from cases".
+A reusable policy for organizing a lesson around realistic cases (scenarios, incidents, dilemmas or worked situations) that learners analyse, and for deciding how many cases to use, how learners work with them, and when the principle they share is made explicit. It applies the [case-based learning principle](case-based-learning.md), which has not yet been rewritten as a conditional model, and draws on [analogical reasoning](../principles/analogical-reasoning.md) and [cognitive flexibility](../principles/cognitive-flexibility.md). The study configurations below are evidence; the response-dependent policy is an **untested design proposal**. Use it to gather better evidence about a learner group, not to certify that a learner "can reason from cases".
 
 **What the evidence does and does not test.** The wiki's strongest evidence concerns one component, *comparing* cases (`case-comparison`), against studying the same cases one at a time, single cases, or conventional instruction. Case-based learning as a whole format has one non-randomized classroom comparison and a systematic review that found its effect on learning inconclusive. So this page treats comparison, an explicit principle and a transfer probe as the configuration, and treats "use cases" on its own as an unsupported promise.
 
@@ -54,7 +54,7 @@ A request for "more realistic, engaging teaching" does not specify these inputs.
 ## Choosing configurations from evidence
 
 - **Whether to expect anything from the format itself.** [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M] rests on one non-randomized within-cohort comparison in an introductory community-college biology course (56 students; case-taught topics scored higher on regular exams than matched topics taught by short lecture, reading and discussion, an 18-percentage-point average difference, no standardized effect size) and on a systematic review of 104 papers in health professional education that found the evidence inconclusive on whether case-based learning improves learning more than other activities, noting that gains may come from the group work. Plan and evaluate a specific configuration; do not promise a gain from the label. Neither entry reports a delayed outcome.
-- **Compare cases rather than study them one at a time.** [Comparing contrasting cases improves learning](../claims/comparing-contrasting-cases-improves-learning.md) [+M]: across 57 experiments (336 tests) case comparison produced greater learning than single, sequential or non-analogous case study, traditional instruction and controls (d = .50, 95% CI [.44, .56]); in a randomized experiment with undergraduate novices learning negotiation, 48% of those who compared two cases on one page used the principle in a new negotiation against 19% of those who studied the same cases separately. The pooled estimate mixes several comparison conditions, so it is not solely a "compare vs. same cases separately" effect. The same evidence underlies [multiple contrasting cases support abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+- **Compare cases rather than study them one at a time.** [Comparing contrasting cases improves learning](../claims/comparing-contrasting-cases-improves-learning.md) [+M]: across 57 experiments (336 tests) case comparison produced greater learning than single, sequential or non-analogous case study, traditional instruction and controls (d = .50, 95% CI [.44, .56]); in a randomized experiment with undergraduate novices learning negotiation, 48% of those who compared two cases on one page used the principle in a new negotiation against 19% of those who studied the same cases separately. The pooled estimate mixes several comparison conditions, so it is not solely a "compare vs. same cases separately" effect. The same evidence underlies [multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 - **When the principle is stated, and on which outcome to judge.** The same meta-analysis found larger benefits when learners were asked to find similarities, when the principle was given *after* the comparison, with perceptual content, and on immediate tests. That supports step 4's order and the delayed probe in the table; it does not set a lag or a dose. In seventh-grade algebra, comparing solution methods side by side raised procedural knowledge and flexibility but not conceptual knowledge (abstract only), so a comparison may change how learners use and choose methods without changing their grasp of the concept.
 - **Multiple perspectives in ill-structured domains.** [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [~M]: in a small randomized experiment (34 paid university volunteers, the social impact of technology), revisiting short cases under several themes produced better transfer essays than computer drill, while drill produced better factual recall; the treatment bundled several features, so which one mattered is not known. The comparison meta-analysis does not isolate ill-structured domains or multiple perspectives, and its smaller delayed benefit cuts against the theory's prediction that the advantage grows at delay. Choose this configuration for an ill-structured target judged on transfer, and measure recall separately.
 - **Novices.** No claim recorded here tests case-based learning by prior knowledge. The claim pages' discussions propose, without evidence entries, that novices may need the concept supplied or comparison scaffolded; the comparison experiments themselves used novices. Treat expertise as an open moderator and elicit the starting response rather than assume.
@@ -64,6 +64,10 @@ Do not rank these results against one another: their comparators (separate cases
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. Both claims it cited before the 2026-10-02 rewrite are now read in the model above, so none remains here.
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] aligns with case-based learning when the case requires integrating multiple concepts into a coherent response
+- Transfer is stronger when learners articulate why a response fits the case rather than merely selecting an option [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- Facilitation matters: questioning and hints often outperform simply telling learners what the right answer was [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — some novices need component instruction or worked examples before cases become productive
 
 ## Illustrative design instance and observation record
 
@@ -82,6 +86,10 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 
 ## Key Sources
 - Herreid, C. F. (2011). *Case study teaching*. NSTA Press.
+- Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. *International Journal for the Scholarship of Teaching and Learning, 5*(2).
+- Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. *International Journal on Social and Educational Sciences, 2*(2), 75-80.
+- Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104.
+- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*.
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -96,5 +104,81 @@ Case-based learning is the short-form canonical pattern for learning through ana
 
 ## Claims
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
-- [Multiple Contrasting Cases Support Abstraction](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- [Multiple Contrasting Cases Support Abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
+-->
+
+<!-- merged 2026-10-05 from principles/case-studiescase-based-learning ("Case Studies/Case-based Learning"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Case Studies/Case-based Learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+
+## Description
+Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action. Rather than receiving rules first and applying them later, learners grapple with ambiguity closer to professional practice: what matters here, what information is missing, what options are plausible, and how should a decision be defended?
+
+## Implications
+Case-based learning is powerful because it places concepts inside realistic uncertainty instead of leaving them as detached rules. When learners have to interpret evidence, justify a decision, and compare alternatives, they are more likely to build transferable judgment than when they only rehearse isolated subskills [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S]. That transfer is stronger when learners explain why their response fits the case rather than simply picking an answer [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The tradeoff is that ambiguity can overload novices, so the strongest case designs combine realism with structure: prompts, expert modeling, staged information release, and responsive questioning that helps learners move through complexity without simply being told the answer [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+
+### Context
+#### Requirements
+- A well-chosen case with enough complexity to require interpretation, not just recall
+- Time for analysis, discussion, and revision of judgment rather than a single quick answer
+- Facilitation that pushes learners to justify claims with evidence from the case
+- Clear connection between case analysis and underlying concepts, frameworks, or procedures
+
+#### Constraints
+- Poorly written or overly contrived cases reduce authenticity and invite superficial discussion
+- Novices can become overwhelmed by ambiguity if cases are introduced without enough framing, vocabulary, or modeling
+- Discussion can collapse into opinion-sharing unless learners are held to evidence, criteria, and reasoning
+- Case learning is weaker when learners never compare their judgment to expert reasoning or later outcomes
+
+### Target Learners
+- Learners preparing for professions where judgment under uncertainty matters
+- Learners developing analytical reasoning, decision-making, and argumentation
+- Learners who benefit from concrete scenarios instead of abstract exposition alone
+- More effective once learners have at least minimal background knowledge about the domain and its core concepts
+
+### Target Learning Objectives
+- Apply concepts to realistic, messy, and incomplete situations
+- Strengthen evidence-based reasoning and decision justification
+- Compare multiple interpretations or solution paths without assuming one obvious answer
+- Build transfer from classroom knowledge to practice-oriented situations
+
+### Theory
+#### Supporting
+- Situated and experiential perspectives support case work because learners engage with realistic situations that approximate use contexts
+- Constructivist perspectives support case analysis as an active process of interpretation, comparison, and meaning-making
+- Social constructivist perspectives support discussion-based case teaching where reasoning is sharpened through challenge and perspective-taking
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] aligns with case-based learning when the case requires integrating multiple concepts into a coherent response
+
+#### Contradicting / Qualifying
+- Cases are not automatically effective for novices; some learners need models, prompts, or worked analyses before open discussion
+- Transfer is stronger when learners articulate why a response fits the case rather than merely selecting an option [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- Facilitation matters: questioning and hints often outperform simply telling learners what the right answer was [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+
+### Claims
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — cases can approximate whole-task professional reasoning better than isolated subskill drills
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — discussion and written justification improve learning when learners explain why their interpretation fits the evidence
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — instructor probing and responsive hints improve transfer more than answer-giving alone
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — some novices need component instruction or worked examples before cases become productive
+
+## Related Principles
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — cases become stronger when decisions are framed for realistic stakeholders
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md) — case work often begins with uncertainty, question generation, and evidence seeking
+- [Explaining Their Thinking](../principles/self-explanation.md) — case analysis depends on visible reasoning, not just chosen conclusions
+- [Ask Experts](../principles/ask-experts.md) — expert commentary can make tacit judgment visible after learners attempt a case themselves
+
+## Examples
+<!- - Links to elements or patterns that apply this principle - ->
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — structured whole-class analysis of a complex case
+- [Case Studies](../strategies/case_studies.md) — localized use of real or simulated scenarios for application and discussion
+- Medical diagnosis cases, business decision memos, legal briefs, and engineering incident reviews are all common implementations
+- Interrupted cases, where new information is released in stages, can preserve uncertainty while creating natural decision points
+
+## Key Sources
+- Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. *International Journal for the Scholarship of Teaching and Learning, 5*(2).
+- Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. *International Journal on Social and Educational Sciences, 2*(2), 75-80.
+- Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104.
+- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*.
 -->

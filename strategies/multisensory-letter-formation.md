@@ -19,7 +19,7 @@ Multisensory letter formation teaches letter shapes through simultaneous engagem
 
 ## Design Implications
 
-Pairing a letter's visual form with its spoken sound and a motor trace exploits redundant encoding across verbal and nonverbal channels [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-recall.md) [+M]. The motor component matters most for handwriting automaticity: repeated, correctly formed letter production builds the motor memory that later frees working memory for spelling and composition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The technique is most defensible as structured, explicit handwriting-and-phonics instruction — not as a general claim that "more senses = more learning."
+Pairing a letter's visual form with its spoken sound and a motor trace exploits redundant encoding across verbal and nonverbal channels [Dual coding improves recall when verbal and visual representations are integrated.](../claims/dual-coding-improves-learning.md) [+M]. The motor component matters most for handwriting automaticity: repeated, correctly formed letter production builds the motor memory that later frees working memory for spelling and composition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The technique is most defensible as structured, explicit handwriting-and-phonics instruction — not as a general claim that "more senses = more learning."
 
 ### Context
 #### Requirements

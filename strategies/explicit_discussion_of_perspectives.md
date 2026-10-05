@@ -12,14 +12,14 @@ generated:
 # Explicit Discussion of Perspectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 The instructor deliberately surfaces, names, and compares multiple perspectives on a contested or multi-faceted topic — including perspectives students do not hold — and structures discussion so learners must articulate, evaluate, and respond to viewpoints other than their own. The strategy goes beyond open discussion: the instructor makes the existence of alternative framings explicit and models how to characterize a position fairly before critiquing it.
 
 ## Design Implications
 
-Explicitly comparing perspectives supports abstraction and transfer, because learners must identify what varies across viewpoints and what remains constant [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The strategy also builds argumentation skill: learners who are prompted to generate and address counterarguments produce stronger, more defensible reasoning [Strategies for teaching critical thinking, including perspective-taking and argument analysis, produce meaningful gains.](https://doi.org/10.3102/0034654308326084) [+M]. Structured controversy — requiring learners to argue for an assigned position and then switch — improves achievement and perspective-taking relative to debate-without-switching [Cooperative learning with structured controversy improves achievement and relationships.](https://doi.org/10.3102/0013189X08318457) [+S].
+Explicitly comparing perspectives supports abstraction and transfer, because learners must identify what varies across viewpoints and what remains constant [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The strategy also builds argumentation skill: learners who are prompted to generate and address counterarguments produce stronger, more defensible reasoning [Strategies for teaching critical thinking, including perspective-taking and argument analysis, produce meaningful gains.](https://doi.org/10.3102/0034654308326084) [+M]. Structured controversy — requiring learners to argue for an assigned position and then switch — improves achievement and perspective-taking relative to debate-without-switching [Cooperative learning with structured controversy improves achievement and relationships.](https://doi.org/10.3102/0013189X08318457) [+S].
 
 ### Context
 #### Requirements

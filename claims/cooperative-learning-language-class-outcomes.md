@@ -62,7 +62,7 @@ The chapter reports, citing Deen (1991), that cooperative learning "encouraged s
 
 
 ## Related Claims
-- [Small Group Learning Improves STEM Achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
+- [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
 - [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related

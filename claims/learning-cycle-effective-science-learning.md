@@ -45,5 +45,5 @@ The guide asserts, citing a 4-H SERIES curriculum introduction, that the learnin
 ## Related Claims
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
 - [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — related
-- [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md) — related
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series](field-trip-activity-series-builds-knowledge.md) — a narrower finding that bears on this claim

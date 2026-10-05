@@ -12,7 +12,7 @@ generated:
 # Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Graphic organizers are visual-spatial representations of content — concept maps, Venn diagrams, flowcharts, comparison matrices, timelines, and hierarchy charts — that make the relational structure of a topic visible. They are used in two directions: *instructor-provided* organizers given before or during instruction, and *learner-generated* organizers constructed by students as an elaboration activity. Both exploit the spatial and visual channels to offload relational information that would otherwise have to be held in working memory or inferred from linear prose.
@@ -31,7 +31,7 @@ Graphic organizers improve learning primarily by revealing structure — the hie
 - Completing a pre-made organizer by copying or filling blanks can become a low-level transcription task with little elaboration [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [-M]
 - Learners with high prior knowledge may gain little from provided organizers and can be slowed by redundant visual processing [Guidance becomes less effective — and can reverse — as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 - Overly dense or decorative organizers add extraneous load rather than reducing it [Reducing extraneous load improves learning.](../principles/cognitive-load-management.md) [-M]
-- Organizers impose a single structure on content; for ill-structured domains, a fixed map can mislead — multiple representations are preferable [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~W]
+- Organizers impose a single structure on content; for ill-structured domains, a fixed map can mislead — multiple representations are preferable [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~W]
 
 #### Implementation Variability
 - **Advance organizer** (instructor-provided, before instruction): primes structure and prior knowledge

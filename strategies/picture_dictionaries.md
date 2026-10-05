@@ -19,7 +19,7 @@ Picture dictionaries are reference tools that use illustrations to define words 
 
 ## Design Implications
 
-Pairing words with relevant images supports recall better than words alone, consistent with dual coding theory — verbal and pictorial codes provide two retrieval routes [Learning improves when information is presented with complementary visuals rather than words alone.](../claims/dual-coding-improves-recall.md) [+S]. However, the image must carry the meaning, not merely decorate the page: illustrations that are attractive but uninformative add no learning value and can distract [Decorative illustrations that do not support the learning goal do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Picture dictionaries work best as one component of vocabulary instruction that includes contextualized encounters and productive use, not as a stand-alone memorization aid.
+Pairing words with relevant images supports recall better than words alone, consistent with dual coding theory — verbal and pictorial codes provide two retrieval routes [Learning improves when information is presented with complementary visuals rather than words alone.](../claims/dual-coding-improves-learning.md) [+S]. However, the image must carry the meaning, not merely decorate the page: illustrations that are attractive but uninformative add no learning value and can distract [Decorative illustrations that do not support the learning goal do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [-S]. Picture dictionaries work best as one component of vocabulary instruction that includes contextualized encounters and productive use, not as a stand-alone memorization aid.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Pairing words with relevant images supports recall better than words alone, cons
 - **Content-area picture dictionaries** — customized for science, trades, or medical vocabulary where technical terms benefit from labeled diagrams
 
 ### Target Learners
-- Beginning language learners and ESL students with limited print vocabulary [Dual coding supports recall of vocabulary learned with images.](../claims/dual-coding-improves-recall.md) [+M]
+- Beginning language learners and ESL students with limited print vocabulary [Dual coding supports recall of vocabulary learned with images.](../claims/dual-coding-improves-learning.md) [+M]
 - Young children and emergent readers still building the orthography–meaning connection
 - Learners with limited literacy in any language, including adults in workplace or settlement programs
 - Less necessary for advanced learners, who benefit more from monolingual definitions and contextual inference; pictures may add little beyond what text already provides [~W]

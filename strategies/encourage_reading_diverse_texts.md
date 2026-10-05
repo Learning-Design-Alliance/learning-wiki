@@ -12,14 +12,14 @@ generated:
 # Encourage Reading Diverse Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners read a wide range of text types — narrative, informational, argumentative, visual/multimodal — across genres and disciplines, then think and talk about what they read. The strategy treats breadth of reading experience as a driver of academic language acquisition: each genre exposes learners to distinct vocabulary, syntax, and discourse structures that single-genre reading cannot supply.
 
 ## Design Implications
 
-Exposure to varied text structures builds the genre knowledge and vocabulary that underpin academic comprehension, and discussing texts converts passive exposure into productive language use [~M]. The sequence matters: reading followed by structured thinking and talking about different genres is a robust routine for acquiring academic language, because talk forces learners to rehearse discipline-specific registers rather than merely recognize them. Text diversity also supports transfer, since learners must repeatedly map ideas across different structures and perspectives [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Exposure to varied text structures builds the genre knowledge and vocabulary that underpin academic comprehension, and discussing texts converts passive exposure into productive language use [~M]. The sequence matters: reading followed by structured thinking and talking about different genres is a robust routine for acquiring academic language, because talk forces learners to rehearse discipline-specific registers rather than merely recognize them. Text diversity also supports transfer, since learners must repeatedly map ideas across different structures and perspectives [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

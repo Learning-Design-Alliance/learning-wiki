@@ -49,9 +49,8 @@ This is a single-domain (natural selection), single-population (pre-service teac
 ## Related Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — PAIR-C is a form of dimension-targeted, contingent scaffolding aimed at learners' specific misconceptions
 - [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md) — related
-- [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md) — related
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
-- [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — a broader claim this one bears on
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related

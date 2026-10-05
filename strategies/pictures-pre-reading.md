@@ -47,7 +47,7 @@ Pre-reading pictures work as a schema-activation device: they give learners a sh
 ### Target Learning Goals
 - Reading comprehension: building a predictive schema that the text can confirm or contradict
 - Oral language: justifying interpretations and negotiating meaning within groups
-- Visual literacy: inferring meaning from images and connecting visual and verbal information [Pairing verbal and visual representations improves recall.](../claims/dual-coding-improves-recall.md) [+M]
+- Visual literacy: inferring meaning from images and connecting visual and verbal information [Pairing verbal and visual representations improves recall.](../claims/dual-coding-improves-learning.md) [+M]
 
 ### Instructions
 1. Select three or four information-rich pictures connected to the reading's central topic or conflict.

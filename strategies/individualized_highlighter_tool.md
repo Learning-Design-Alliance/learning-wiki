@@ -61,7 +61,7 @@ The strategy converts passive marking into a generative activity: the labeled co
 ## Related Strategies
 - [Annotating](../principles/annotating.md) — the broader family of text-marking practices; the labeled color scheme is a structured subset
 - [Concept Mapping](../principles/annotating.md) — a follow-on step that turns exported categories into relational structure
-- [Dual Coding](../claims/dual-coding-improves-recall.md) — color categories add a visual-verbal code that can support recall
+- [Dual Coding](../claims/dual-coding-improves-learning.md) — color categories add a visual-verbal code that can support recall
 
 ## Examples
 - **Google Docs + Highlight Tool add-on** (https://workspace.google.com/marketplace/app/highlight_tool/2078802590): students build custom labeled highlighters, then export highlights by color to a Doc table for summarizing.

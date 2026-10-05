@@ -12,14 +12,14 @@ generated:
 # Repertoire of Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 Procedural fluency requires having a repertoire of strategies. Before learners can flexibly choose an appropriate strategy, they must have strategies from which to choose. Strategies are flexible ways to solve a problem; algorithms are step-by-step procedures. Students should be able to flexibly use and adapt strategies and switch to a different strategy when their first choice is not working well. Every student must have the opportunity to learn more than one method — limiting students to only one method puts them at a disadvantage, denying them access to more intuitive methods and the opportunity to flexibly choose a method that fits the problem at hand.
 
 ## Design Implications
 
-Building a strategy repertoire shifts instruction from single-procedure mastery toward comparison and adaptive choice. Comparing multiple solution methods for the same problem improves procedural flexibility and conceptual knowledge relative to studying methods in isolation [Comparing solution methods supports flexible procedural knowledge.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The goal is not maximal breadth but a curated set of methods whose trade-offs (speed, reliability, transparency) learners can articulate and justify.
+Building a strategy repertoire shifts instruction from single-procedure mastery toward comparison and adaptive choice. Comparing multiple solution methods for the same problem improves procedural flexibility and conceptual knowledge relative to studying methods in isolation [Comparing solution methods supports flexible procedural knowledge.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The goal is not maximal breadth but a curated set of methods whose trade-offs (speed, reliability, transparency) learners can articulate and justify.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 - **Faded repertoire:** begin with one anchor strategy, add alternatives as expertise grows, consistent with the expertise-reversal principle [~S]
 
 ### Target Learners
-- Learners who have secured at least one workable method and are ready to compare alternatives [Comparing solution methods supports flexible procedural knowledge.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Learners who have secured at least one workable method and are ready to compare alternatives [Comparing solution methods supports flexible procedural knowledge.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Intermediate learners moving from accuracy toward efficiency and adaptivity; complete novices benefit first from a single clear method
 - Students prone to rigid procedure-following, who need explicit permission and practice in switching strategies
 

@@ -19,7 +19,7 @@ Multimodal presentation delivers content through two or more coordinated channel
 
 ## Design Implications
 
-Multimodal presentation rests on dual coding: information presented simultaneously in verbal and visual form can be processed in parallel by separate cognitive channels, producing richer representations than either modality alone [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-recall.md) [+S]. The benefit is conditional, not automatic — the modalities must be coordinated and the visual must carry meaning. Decorative images that do not support the content add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M], and poorly integrated media can overload working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Multimodal presentation rests on dual coding: information presented simultaneously in verbal and visual form can be processed in parallel by separate cognitive channels, producing richer representations than either modality alone [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-learning.md) [+S]. The benefit is conditional, not automatic — the modalities must be coordinated and the visual must carry meaning. Decorative images that do not support the content add load without benefit [Decorative illustrations do not improve learning.](../claims/decorative-illustrations-do-not-improve-learning.md) [+M], and poorly integrated media can overload working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Multimodal presentation rests on dual coding: information presented simultaneous
 
 ### Target Learning Goals
 - Conceptual understanding of systems, processes, and spatial structures (circulation, weather, mechanisms)
-- Recall of verbal content supported by imagery [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-recall.md) [+S]
+- Recall of verbal content supported by imagery [Presenting information in both verbal and visual form improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Transfer to novel problems requiring an integrated mental model
 
 ### Instructions

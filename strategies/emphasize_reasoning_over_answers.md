@@ -12,7 +12,7 @@ generated:
 # Emphasize Reasoning over Answers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 13 studies (5 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 6 claims (6 for) · 14 studies (6 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 De-emphasizing correct answers and spending more time on reasoning shifts the instructional focus from the product of problem solving to the process. Teachers elicit and examine students' thinking — initial ideas, solution paths, and errors — before or instead of revealing the correct answer. Common enactments include presenting worked examples containing deliberate errors for students to diagnose, asking students to share approaches before confirming answers, and grading or giving feedback on the quality of justification rather than only on correctness.
@@ -38,7 +38,7 @@ Attending to reasoning converts answer-checking into [Self-Explanation](../eleme
 - **Erroneous examples**: present a fully worked but incorrect solution; students find and fix the error, then explain why it was wrong
 - **Answer-delayed discussion**: collect answers to a conceptual question, have students defend or revise them in [Class Discussion](../elements/class-discussion.md) before the teacher confirms
 - **Reasoning-first norms**: teacher opens with "Tell me the first thing you thought about," explicitly banning immediate answer-giving
-- **Two approaches compared**: display two student solutions side by side and ask which is more efficient or generalizable — a [Comparing Cases](../elements/case-studies.md) move that supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Two approaches compared**: display two student solutions side by side and ask which is more efficient or generalizable — a [Comparing Cases](../elements/case-studies.md) move that supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Learners with moderate prior knowledge who can meaningfully evaluate solution steps [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]

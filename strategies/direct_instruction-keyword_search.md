@@ -12,7 +12,7 @@ generated:
 # Direct Instruction: Keyword Search
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Direct instruction of keyword search explicitly teaches learners how to translate an information need into effective search terms: generating synonyms, combining terms with Boolean operators, using field limits and phrase quotes, and iterating when results disappoint. It also teaches evaluation criteria (authority, currency, evidence) so learners can judge what retrieval returns. The instructor models each move — thinking aloud while decomposing a question into concepts, choosing terms, and revising — then guides learners through practice with feedback.
@@ -37,7 +37,7 @@ Search is a procedural skill with a large novice search space: unguided, novices
 #### Implementation Variability
 - **Full modeling → guided practice → independent search**: a fading sequence from instructor demonstration to solo retrieval
 - **Query worksheets**: learners plan concepts and synonyms on paper before touching the search box, reducing load during formulation [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
-- **Contrasting query cases**: showing a weak query beside a strong one for the same question helps learners abstract what makes terms effective [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrasting query cases**: showing a weak query beside a strong one for the same question helps learners abstract what makes terms effective [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Embedded instruction**: keyword teaching integrated into a content unit (e.g., a research essay) rather than a standalone library session, improving transfer to real tasks
 
 ### Target Learners

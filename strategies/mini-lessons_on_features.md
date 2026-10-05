@@ -12,7 +12,7 @@ generated:
 # Mini-Lessons on Features
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 A mini-lesson on features is a brief (5–15 minute), tightly focused instructional episode targeting a single, nameable craft feature of writing — e.g., how a strong title works, how sentence variety controls rhythm, how evidence is introduced and cited. Each lesson typically follows a consistent arc: name the feature, show it in a mentor text or [Demonstration](../elements/demonstration.md), then have students try it immediately in their own drafts. Mini-lessons are sequenced across a unit so that features accumulate into a repertoire rather than arriving as a one-time lecture.
@@ -38,7 +38,7 @@ Mini-lessons work because they isolate one skill at a time, keeping working-memo
 - **Whole-class launch:** teacher delivers the mini-lesson to all students before writing time (classic workshop model)
 - **Needs-based small group:** re-teach a feature only to students whose drafts show the gap, using draft-based data
 - **Student-selected:** students choose from a menu of feature mini-lessons (recorded videos or stations) based on their own revision goals
-- **Mentor-text inquiry:** instead of direct telling, students examine contrasting mentor examples and name the feature themselves — a [comparing-cases](../elements/comparing-cases.md) variant that supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Mentor-text inquiry:** instead of direct telling, students examine contrasting mentor examples and name the feature themselves — a [comparing-cases](../elements/comparing-cases.md) variant that supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Developing writers in upper elementary through college who have drafts in progress and can apply a feature the same day

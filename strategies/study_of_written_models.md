@@ -12,7 +12,7 @@ generated:
 # Study of Written Models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Study of written models asks learners to closely examine exemplary texts — their formats, structures, tones, vocabulary, and sentence patterns — and then imitate or adapt those features in their own writing. The strategy treats expert writing as a [Demonstration](../elements/demonstration.md) in text form: the model makes visible what a successful product looks like, and guided analysis makes its reasoning and craft explicit. It is especially valuable for learners unfamiliar with a genre, who otherwise must infer its conventions from vague instructions alone.
@@ -23,7 +23,7 @@ Models work the way worked examples do in problem solving: they eliminate unguid
 
 ### Context
 #### Requirements
-- High-quality, authentic models of the target genre, ideally more than one [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- High-quality, authentic models of the target genre, ideally more than one [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Guided analysis prompts that direct attention to specific craft features (structure, tone, sentence patterns)
 - An imitation or application task immediately following analysis ([Practice](../elements/practice.md))
 - Feedback on how well learners' imitations capture the model's features ([Provide Feedback](../elements/provide-feedback.md))

@@ -12,7 +12,7 @@ generated:
 # Thinking Tools with Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 When teachers deliver content through lectures, readings, or video, they can have students interact with the content by completing a graphic organizer in groups, pairs, or even on their own. The organizer — a concept map, comparison matrix, flowchart, or hierarchical outline — externalizes the structure of the material, requiring learners to select, relate, and arrange key ideas rather than passively receive them. The strategy pairs content delivery with an active processing task, converting a presentation into a [learning-by-doing](../principles/active-learning.md) episode.
@@ -49,7 +49,7 @@ Graphic organizers improve learning when they force generative processing: learn
 ### Target Learning Goals
 - Conceptual understanding: identifying relationships, similarities, and differences among ideas [Learner-generated concept maps improve conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 - Knowledge organization: building hierarchical or sequential schema rather than isolated facts
-- Abstraction from multiple examples: comparison organizers support noticing shared structure [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Abstraction from multiple examples: comparison organizers support noticing shared structure [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Choose an organizer type that matches the content structure (matrix for comparisons, flowchart for processes, hierarchy for taxonomies).

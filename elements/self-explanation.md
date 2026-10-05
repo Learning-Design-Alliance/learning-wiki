@@ -40,8 +40,8 @@ Self-explanation is the element in which learners explain to themselves why some
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Self Explanation Prompts Improve Learning From Worked Examples](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
-- [Self-explanation improves learning](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 ## Related Elements
 - [Articulation](articulation.md)

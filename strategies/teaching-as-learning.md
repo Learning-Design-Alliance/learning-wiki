@@ -73,7 +73,7 @@ What determines size of benefit is what the tutor actually does while teaching. 
 ### Target Learning Goals
 - Conceptual understanding and knowledge organization rather than recall of isolated facts
 - Ability to explain: articulating causal structure in one's own words
-- Metacognitive calibration — discovering the boundary of one's own understanding [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- Metacognitive calibration — discovering the boundary of one's own understanding [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Retention and transfer, via the retrieval demand built into explaining without notes
 
 ### Instructions
@@ -90,7 +90,7 @@ What determines size of benefit is what the tutor actually does while teaching. 
 - [Cross-Age Tutoring](cross-age-tutoring.md) — an older learner teaches a younger one, raising accountability without raising peer exposure
 - [Jigsaw](jigsaw.md) — makes teaching structurally necessary by distributing content across group members
 - [Peer Instruction](peer-instruction.md) — the same explain-to-a-peer mechanism compressed into a lecture, around a concept question [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+S]
-- [Peer Feedback](peer_feedback.md) — a related arrangement where the assessor gains from evaluating, as the tutor gains from explaining [Peer Assessment Benefits Assessor](../claims/peer-assessment-benefits-assessor.md) [+M]
+- [Peer Feedback](peer_feedback.md) — a related arrangement where the assessor gains from evaluating, as the tutor gains from explaining [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](../claims/peer-assessment-benefits-assessor.md) [+M]
 
 ## Examples
 

@@ -12,7 +12,7 @@ generated:
 # Vocabulary Meaning Through Context
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Instructors present vocabulary in context so that learners can deduce meaning for themselves, aiding understanding and retention, rather than simply defining words and phrases. If learners guess incorrectly, the instructor supplies another example or has learners compare examples. Learners then practice using new words in their own words — for example, through a 5–10 minute opening conversation that requires reuse of recently learned vocabulary.
@@ -36,7 +36,7 @@ Inferring word meaning from context engages learners in generative processing, w
 
 #### Implementation Variability
 - **Guided vs. incidental:** instructor-selected target words with structured guessing tasks vs. simply reading rich texts; guided versions produce larger gains
-- **Contrast sets:** presenting the word in multiple, contrasting contexts so learners triangulate meaning [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Contrast sets:** presenting the word in multiple, contrasting contexts so learners triangulate meaning [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Verification timing:** confirm meanings immediately after guessing, or delay confirmation to create a testing effect
 - **Production-first vs. comprehension-first:** learners use the word in their own sentence before vs. after confirming meaning
 
@@ -53,7 +53,7 @@ Inferring word meaning from context engages learners in generative processing, w
 ### Instructions
 1. Select target words that are inferable from context and high-frequency enough to recur; pre-read the text to verify the context actually supports the meaning.
 2. Present the word in its context (sentence, paragraph, dialogue) without giving the definition; ask learners to propose a meaning and justify it from textual evidence.
-3. If guesses are wrong, provide another example or have learners compare examples rather than correcting directly [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+3. If guesses are wrong, provide another example or have learners compare examples rather than correcting directly [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 4. Confirm and refine the meaning, including typical usage and collocations.
 5. Have learners use the word productively — original sentences, role play, or a 5–10 minute opening conversation on a topic that invites reuse ([Practice](../elements/practice.md), [Act It Out](../elements/act-it-out.md)).
 6. Recycle the words in later lessons at increasing intervals [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].

@@ -71,7 +71,7 @@ The strategy combines two mechanisms: it gives the learner a low-cost way to sig
 - [Cognitive load management](../elements/cognitive-load-management.md) — lowering task difficulty reduces extraneous or intrinsic load when it exceeds working memory capacity [Chunking and reducing element interactivity reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 
 ## Patterns That Use This Strategy
-- [Adaptive learning](../patterns/adaptive-learning.md) — learner-supplied difficulty ratings are one input to adaptive task selection
+- [Adaptive learning](../principles/adaptive-learning.md) — learner-supplied difficulty ratings are one input to adaptive task selection
 - [Formative assessment](../patterns/formative-assessment.md) — the rating functions as minute-to-minute formative evidence for adjusting instruction
 
 ## Examples

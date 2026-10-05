@@ -12,7 +12,7 @@ generated:
 # Peer Critique
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Peer critique is a structured strategy in which learners review one another's work against explicit criteria and deliver actionable feedback, then revise their own work in response. It is carried out through protocols (e.g., gallery walks, "two stars and a wish," critical friends protocols) that specify what reviewers look for, how comments are phrased, and how authors respond.
@@ -51,7 +51,7 @@ Peer critique works because evaluating someone else's work forces learners to ar
 - Communication and professional feedback practices
 
 ### Instructions
-1. Establish criteria: share a rubric or co-construct one; show annotated exemplars of strong and weak work (contrast supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M])
+1. Establish criteria: share a rubric or co-construct one; show annotated exemplars of strong and weak work (contrast supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M])
 2. Model critique: as a class, critique a sample work using the protocol, with the instructor thinking aloud about phrasing and specificity
 3. Exchange work in pairs or small groups; reviewers identify strengths and specific, actionable improvements tied to criteria
 4. Authors paraphrase the feedback back and state what they will change (ensures uptake)

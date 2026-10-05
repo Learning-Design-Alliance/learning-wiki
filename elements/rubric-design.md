@@ -40,7 +40,7 @@ Rubric design is the element in which criteria and performance levels are made e
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Rubrics improve student work](../claims/rubrics-improve-student-work.md) [+M]
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]
 
 ## Related Elements
 - [Criteria Development](criteria-development.md)

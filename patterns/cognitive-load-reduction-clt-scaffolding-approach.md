@@ -27,7 +27,7 @@ grain_size: lesson
 # Cognitive Load Reduction (CLT Scaffolding Approach)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q3`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (4 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning. In practice, it often combines clear sequencing, worked examples, careful multimedia use, segmentation, and guided practice that fades over time. The aim is not to make learning effortless; it is to prevent avoidable overload so learners can focus on understanding and performance.
@@ -96,7 +96,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md)
 - [Guided Practice](../principles/guided-practice.md)
-- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Creating Visual Representations](../principles/dual-coding.md)
 - [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ### Personalization

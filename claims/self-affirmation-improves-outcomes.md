@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self-affirmation improves outcomes
+title: "A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: 3
 ---
 
-# Self-affirmation improves outcomes
+# A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
+<!-- deprecated title (2026-10-05, overstated its evidence): Self-affirmation improves outcomes -->
 
 Self-affirmation — briefly reflecting on personally important values before an evaluative or threatening task — reduces defensiveness and stress, which in turn can improve performance and persistence.
 <!-- deprecated (2026-09-29): This page currently has no verified evidence entries; the sections below are placeholders pending ingestion of the underlying studies. -->
@@ -64,13 +65,14 @@ Following an earlier successful large-scale replication in the same Midwestern s
 
 **Mechanism.** The standard account is that affirming a valued aspect of the self provides an alternative source of self-integrity, so that a subsequent threat (a test, critical feedback, a stereotype-relevant situation) no longer demands defensive processing. Freed from defending the self, learners can attend to the task and use feedback productively.
 
-**Boundary conditions to verify when evidence is added.** Effects in this literature are typically strongest under conditions of identity threat or evaluative stress, and weakest or absent for learners who are not under threat — an affirmation delivered to an unthreatened learner may be a neutral or even distracting activity. Effects also depend on the affirmation being genuinely self-relevant (a values-ranking task completed thoughtfully, not a perfunctory writing exercise) and on timing relative to the threatening event. Small, early, well-timed interventions appear to matter more than repeated generic prompts. These moderators should be confirmed against the specific studies once they are entered in Evidence.
+**Boundary conditions.** <!-- deprecated heading (2026-10-05): Boundary conditions to verify when evidence is added. --> Effects in this literature are typically strongest under conditions of identity threat or evaluative stress, and weakest or absent for learners who are not under threat — an affirmation delivered to an unthreatened learner may be a neutral or even distracting activity. Effects also depend on the affirmation being genuinely self-relevant (a values-ranking task completed thoughtfully, not a perfunctory writing exercise) and on timing relative to the threatening event. Small, early, well-timed interventions appear to matter more than repeated generic prompts. These moderators come from the wider literature, not from the entries recorded here. Hanselman et al. (2017) tested fidelity of delivery, timing, student engagement with the writing task, race and gender subgroups, prior achievement and school composition, and none explained their null result. <!-- deprecated (2026-10-05, stale beside two recorded entries): These moderators should be confirmed against the specific studies once they are entered in Evidence. -->
 
 **Fragility of small brief interventions.** Like other brief social-psychological interventions (see [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md)), values-affirmation effects have been questioned for sensitivity to sample, context, and analytic choices. Any evidence entries added here should record sample size, population, and whether the effect was on grades, persistence, or a lab measure, since these often diverge.
 
 **Design implications.** The evidence recorded above is mixed: two small field experiments found large gains, and a large replication with the same procedure found no benefit. If the effect holds where it is used, the practical form is a short values-writing activity placed before high-stakes moments — an exam, first feedback on drafts, entry into a stereotype-relevant field — rather than a recurring motivational exercise. It pairs naturally with [Belonging](../elements/belonging.md) supports and feedback practices that reduce the threat the affirmation must buffer; affirmation cannot compensate for instruction that is itself threatening or poorly structured.
 
-**Open questions for enrichment.** When studies are ingested, this page should resolve: (a) whether effects hold on cumulative performance (grades over a term) versus single-task measures; (b) which populations benefit most — the literature suggests effects concentrate among students under identifiable threat, and any entry should state the population explicitly; and (c) whether repeated administrations help, harm, or simply dilute the effect. Until then, treat this claim as unverified rather than supported.
+**Open questions.** Two studies are recorded, both randomized field experiments with seventh-graders and both measuring grades: Cohen et al. (2006), two small studies at one school, and Hanselman et al. (2017), a larger replication with the same protocol that found no benefit. They leave open (a) whether effects hold on single-task or lab measures as well as on term grades; (b) which populations benefit, beyond African American, Black and Hispanic middle-schoolers; and (c) whether repeated administrations help, harm or dilute the effect. Treat the claim as mixed, not supported.
+<!-- deprecated (2026-10-05, stale beside two recorded entries): **Open questions for enrichment.** When studies are ingested, this page should resolve: (a) whether effects hold on cumulative performance (grades over a term) versus single-task measures; (b) which populations benefit most — the literature suggests effects concentrate among students under identifiable threat, and any entry should state the population explicitly; and (c) whether repeated administrations help, harm, or simply dilute the effect. Until then, treat this claim as unverified rather than supported. -->
 
 ## Related Claims
 

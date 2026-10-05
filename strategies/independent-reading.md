@@ -51,7 +51,7 @@ Independent reading provides the volume of practice that builds fluency, vocabul
 - Vocabulary growth from wide exposure to varied texts
 - Comprehension strategy application — practicing taught strategies on self-selected texts
 - Reading motivation and identity: fostering a lifelong reading habit
-- Empathy and perspective-taking through fiction exposure [fiction-reading-improves-empathy](../claims/fiction-reading-improves-empathy.md) [+M]
+- Empathy and perspective-taking through fiction exposure [fiction-reading-improves-empathy](../claims/reading-literary-fiction-improves-theory-of-mind.md) [+M]
 
 ### Instructions
 1. Build or curate a diverse classroom library spanning levels, genres, and interests; organize it so students can browse and select independently.

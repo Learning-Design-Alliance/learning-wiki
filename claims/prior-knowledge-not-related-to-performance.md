@@ -54,6 +54,6 @@ In an analysis of correlations, the authors found that "prior knowledge was not 
 - [Prior knowledge activation improves learning.](activation-improves-learning.md) — the positive general finding this null result must be read against
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — prior knowledge as a moderator of strategy effectiveness
 - [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — transfer depends on relevant prior knowledge being available
-- [Peer Feedback Accuracy Depends On Expertise](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related

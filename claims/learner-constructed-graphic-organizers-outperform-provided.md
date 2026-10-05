@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Learner Constructed Graphic Organizers Outperform Provided
+title: "Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer"
 status: draft
 generated:
   by: claude/unspecified
@@ -29,12 +29,15 @@ sources:
     rigour: "?"
 ---
 
-# Learner Constructed Graphic Organizers Outperform Provided
+# Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+<!-- deprecated title (2026-10-05, overstated its evidence): Learner Constructed Graphic Organizers Outperform Provided -->
 
-Learners who construct their own graphic organizers (concept maps, diagrams, knowledge maps) tend to show deeper learning than learners who study organizer diagrams provided to them, because construction forces active selection, organization, and integration of material. This page currently states a plausible hypothesis; no controlled comparison has yet been added to Evidence.
+The hypothesis that learners who construct their own graphic organizers (concept maps, diagrams, knowledge maps) learn more deeply than learners who study provided ones, because construction forces active selection, organization and integration, is not supported by the evidence recorded here. The one controlled head-to-head comparison (Stull & Mayer 2007, three experiments with college readers of a textbook passage) found provided organizers produced better transfer and no difference in retention; a meta-analysis (Schroeder et al. 2018) found a larger effect for constructing concept maps than for studying them, but each against its own comparison conditions, so it does not test the two against each other.
+
+<!-- deprecated opening (2026-10-05, overstated its evidence and stale): Learners who construct their own graphic organizers (concept maps, diagrams, knowledge maps) tend to show deeper learning than learners who study organizer diagrams provided to them, because construction forces active selection, organization, and integration of material. This page currently states a plausible hypothesis; no controlled comparison has yet been added to Evidence. -->
 
 ## Subclaims
 
@@ -62,7 +65,7 @@ In three experiments, learners read a passage that came either with author-provi
 
 ## Discussion
 
-**The direct evidence runs against the title.** The only head-to-head test below, Stull & Mayer (2007), found provided organizers produced better transfer than learner-built ones across three experiments, with no difference on retention. The meta-analytic comparison favouring construction (Schroeder et al. 2018) sets each condition against its own controls, so it does not test the claim directly. Read this page's title as a hypothesis the evidence does not currently support.
+**The direct evidence runs against the title.** The only head-to-head test below, Stull & Mayer (2007), found provided organizers produced better transfer than learner-built ones across three experiments, with no difference on retention. The meta-analytic comparison favouring construction (Schroeder et al. 2018) sets each condition against its own controls, so it does not test the claim directly. The title now says so.
 
 **Generation as the mechanism.** The proposed advantage of learner-constructed organizers rests on generation: deciding which concepts matter, how they relate, and how to represent them spatially engages selective organizing processes that studying a finished diagram can bypass. This aligns with the broader pattern that [annotating improves learning](../claims/annotating-improves-learning.md) and that [activation improves learning](../claims/activation-improves-learning.md) — tasks requiring learners to produce structure outperform tasks requiring only recognition of structure. Dual coding may add a further benefit when learners translate verbal material into spatial form ([dual coding theory](../theories/dual-coding-theory.md)).
 
@@ -72,13 +75,13 @@ In three experiments, learners read a passage that came either with author-provi
 
 **What a decisive test would look like.** A strong comparison would hold content and time constant across a construction condition and a provided-organizer condition, measure both immediate and delayed outcomes, and include a no-organizer control to isolate whether provided organizers help, harm, or merely fall short of construction. Outcome measures matter: construction should show its largest advantage on transfer and relational-knowledge items, and may show none on simple recall, where a provided organizer's chunking support could suffice.
 
-**Open questions.** No evidence entries have yet been added to this page. Key moderators to establish empirically: learner expertise, domain (well-structured vs. ill-structured content), whether provided organizers are complete or partial, and whether outcome measures reward recall or transfer. Until controlled comparisons are added, this claim should be treated as a plausible hypothesis rather than an established finding.
+**Open questions.** Two entries are recorded: one set of three direct experiments (against the hypothesis, for college readers of a text) and one meta-analysis whose comparison is indirect. Missing are direct comparisons in other settings and with younger learners. <!-- deprecated (2026-10-05, stale): No evidence entries have yet been added to this page. --> Key moderators to establish empirically: learner expertise, domain (well-structured vs. ill-structured content), whether provided organizers are complete or partial, and whether outcome measures reward recall or transfer. Until further controlled comparisons are added, the advantage of construction should be treated as a hypothesis the one direct test contradicts. <!-- deprecated (2026-10-05, stale): Until controlled comparisons are added, this claim should be treated as a plausible hypothesis rather than an established finding. -->
 
 *Merged from “Learner Generated Organizers Beat Provided Organizers” (learner-generated-organizers-beat-provided-organizers):* **Mechanism.** Generation requires learners to select main ideas, decide on relational structure, and map content onto that structure — activities consistent with generative processing and with the benefits described in [Activation improves learning](activation-improves-learning.md) and [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md). A provided organizer, by contrast, can be skimmed passively, and may impose its own structure rather than the learner's. Self-constructed organizers also serve as a form of retrieval and elaboration: deciding what belongs at the top of an outline or which nodes connect in a concept map forces learners to reorganize material in their own words rather than recognize someone else's.
 
 **Boundary conditions.** The advantage of generation is likely moderated by learner expertise and by the quality of the generated organizer. Novices may lack the knowledge to construct a useful structure, in which case a well-designed provided organizer (see [Advance organizers improve learning](advance-organizers-improve-learning.md)) may outperform a poor self-generated one — an instance of the expertise reversal pattern described in [Expertise reversal effect](../theories/expertise-reversal-effect.md). Generation also costs time and working-memory resources, so under high [cognitive load](../theories/cognitive-load-theory.md) the benefit may shrink or reverse; scaffolds such as partially completed concept maps or provided node lists may capture much of the benefit while limiting the cost. A further caveat: a poorly constructed organizer can entrench misconceptions, since the learner's erroneous relational structure goes uncorrected unless reviewed.
 
-**Open questions.** **The direct evidence runs against the title.** The only head-to-head test recorded above, Stull & Mayer (2007), found provided organizers produced better transfer than learner-built ones across three experiments, with no difference on retention. The meta-analysis favouring construction (Schroeder et al. 2018) sets each condition against its own controls, so it does not test the claim directly. Read this page's title as a hypothesis the evidence does not currently support; renaming is the maintainer's call. Key comparisons to document include same-time-on-task controls (generation takes longer, so unequal-time comparisons overstate the advantage) and measures of *quality* of the generated organizer as a mediator of learning gains.
+**Open questions.** **The direct evidence runs against the title.** The only head-to-head test recorded above, Stull & Mayer (2007), found provided organizers produced better transfer than learner-built ones across three experiments, with no difference on retention. The meta-analysis favouring construction (Schroeder et al. 2018) sets each condition against its own controls, so it does not test the claim directly. The page was retitled on 2026-10-05 to say so. <!-- deprecated (2026-10-05): Read this page's title as a hypothesis the evidence does not currently support; renaming is the maintainer's call. --> Key comparisons to document include same-time-on-task controls (generation takes longer, so unequal-time comparisons overstate the advantage) and measures of *quality* of the generated organizer as a mediator of learning gains.
 
 ## Related Claims
 
@@ -93,9 +96,8 @@ In three experiments, learners read a passage that came either with author-provi
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another learner-generated processing activity with similar generative mechanisms
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — organizers work by imposing structure that chunks content
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — generation costs resources that overloaded learners may not have
-- [Concept mapping improves learning](concept-mapping-improves-learning.md) — related
-- [Dual Coding Improves Learning](dual-coding-improves-learning.md) — related
-- [Dual Coding Improves Recall](dual-coding-improves-recall.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Generative Learning Improves Comprehension](generative-learning-improves-comprehension.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

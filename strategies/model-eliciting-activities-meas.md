@@ -12,7 +12,7 @@ generated:
 # Model-Eliciting Activities (MEAs)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (4 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (4 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Model-Eliciting Activities are open-ended, realistic problems in which teams of learners must invent, document, test, and revise a generalizable procedure or model — a ranking system, a selection rule, a predictive tool — that a hypothetical client could actually use. Developed by Lesh and colleagues in mathematics education, MEAs are structured around a client letter and a "readiness questions" sequence, and they require learners to externalize their thinking in a written product that can be interpreted, critiqued, and improved by others. The activity is "model-eliciting" because the problem cannot be solved by applying a known procedure; learners must construct the procedure itself.
@@ -55,7 +55,7 @@ MEAs operationalize model-building as the unit of learning: learners reveal and 
 1. **Present the client letter** — a realistic stakeholder describes a need in non-textbook language; use [Advance Organizers](../elements/advance-organizers.md) sparingly so the ambiguity is preserved
 2. **Readiness questions** — individual short questions that activate relevant knowledge and ensure every team member engages before group work ([Activation](../elements/activation.md))
 3. **Team model development** — teams invent and document a generalizable procedure; instructor circulates as [Coaching](../elements/coaching.md), asking teams to test their model against cases it might fail
-4. **Test and revise** — teams apply their model to new data or a peer team's scenario and revise; contrasting multiple team models supports abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+4. **Test and revise** — teams apply their model to new data or a peer team's scenario and revise; contrasting multiple team models supports abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 5. **Deliver and debrief** — teams submit the written model; a whole-class [Class Discussion](../elements/class-discussion.md) compares approaches and connects to formal disciplinary content ([Articulation](../elements/articulation.md))
 
 ## Related Strategies

@@ -12,7 +12,7 @@ generated:
 # Real World Math Applications
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 5 studies (3 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 5 report an effect size
 
 ## Description
 Real-world math applications anchor mathematical concepts in authentic contexts — budgeting, design, sports statistics, engineering, commerce — so learners see how the mathematics functions outside the classroom. The strategy is carried out by selecting or constructing tasks whose context genuinely requires the target mathematics, then having learners model, compute, and interpret results within that context rather than practicing decontextualized procedures alone.
@@ -30,7 +30,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 
 #### Constraints
 - Contexts impose extraneous processing: reading comprehension of the scenario can consume working memory needed for the mathematics, especially for struggling readers or second-language learners [~M] — see [Cognitive Load Management](../principles/cognitive-load-management.md)
-- Surface features can mislead: learners may attend to the story details rather than the underlying structure, producing worse transfer than [multiple contrasting cases](../claims/multiple-contrasting-cases-support-abstraction.md) that strip context away [~S]
+- Surface features can mislead: learners may attend to the story details rather than the underlying structure, producing worse transfer than [multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) that strip context away [~S]
 - Authenticity without instructional guidance risks unproductive struggle; productive failure works only when followed by structured consolidation [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [~M]
 - Contrived "real-world" problems (e.g., unrealistic numbers, artificial scenarios) can reduce rather than increase engagement and credibility [-W]
 

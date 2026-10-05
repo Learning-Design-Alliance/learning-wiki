@@ -12,7 +12,7 @@ generated:
 # Inquiry Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 20 studies (8 causal, 7 quant-synthesis, 3 review, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 20 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 21 studies (9 causal, 7 quant-synthesis, 3 review, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 21 report an effect size · 1 claim rests on one study
 
 ## Description
 Inquiry based learning positions learners as investigators: they pose or explore questions, collect and evaluate evidence, and construct explanations, with the instructor acting as guide rather than transmitter. It spans a continuum from structured inquiry (the question and procedure are given; learners generate the explanation) to open inquiry (learners generate questions and design investigations themselves) [Banchi & Bell's four-level framework](https://www.nsta.org/science-and-children) [~M].
@@ -55,7 +55,7 @@ Inquiry can produce strong conceptual learning, but only when it is scaffolded �
 2. Present a driving question or phenomenon that creates a gap between what learners know and what they need to explain
 3. Support investigation with structured tools — data tables, question prompts, evidence organizers — fading support as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
 4. Coach during investigation, using process-level feedback and [Check-Ins](../elements/check-in.md) to monitor reasoning [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M]
-5. Have learners construct and defend explanations, comparing cases to support abstraction [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+5. Have learners construct and defend explanations, comparing cases to support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 6. Consolidate with instructor-led synthesis that names the canonical concepts and corrects residual misconceptions — the phase most often omitted and most needed by novices
 
 ## Related Strategies

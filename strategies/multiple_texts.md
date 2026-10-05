@@ -12,14 +12,14 @@ generated:
 # Multiple Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Reading multiple texts on the same topic expands learners' understanding, encourages critical thinking, and fosters synthesis skills. Learners establish a clear purpose for reading, work through short texts from varied sources (news articles, video clips, trade books, diagrams), record and cross-reference information using tools like Inquiry Charts, and integrate ideas through discussion, sketching, and writing. The goal is not accumulation but *inter-textual* reasoning — evaluating source credibility, reconciling conflicting accounts, and building an integrated situation model that no single text provides.
 
 ## Design Implications
 
-Multiple texts push learners beyond single-document comprehension toward the disciplinary skills of sourcing, corroboration, and synthesis [~M]. Benefits depend on learners actively connecting documents rather than reading them serially; explicit prompts to compare and integrate sources produce substantially better learning than simply supplying more texts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. Self-explanation prompts ("How does this account differ from the first?") help learners construct the cross-document links that distinguish expert multiple-document readers [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Multiple texts push learners beyond single-document comprehension toward the disciplinary skills of sourcing, corroboration, and synthesis [~M]. Benefits depend on learners actively connecting documents rather than reading them serially; explicit prompts to compare and integrate sources produce substantially better learning than simply supplying more texts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Self-explanation prompts ("How does this account differ from the first?") help learners construct the cross-document links that distinguish expert multiple-document readers [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,13 +41,13 @@ Multiple texts push learners beyond single-document comprehension toward the dis
 
 ### Target Learners
 - Intermediate to advanced readers who have fluent single-text comprehension and can benefit from added inter-textual demands [~M]
-- Learners developing disciplinary literacy — history, science, and civics students evaluating competing accounts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Learners developing disciplinary literacy — history, science, and civics students evaluating competing accounts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Novices need substantial scaffolding (short texts, guided questions, modeled comparisons); the full strategy is too demanding for beginning readers without it
 
 ### Target Learning Goals
 - Synthesis: building an integrated understanding across sources
 - Critical evaluation: judging source credibility, bias, and corroboration
-- Conceptual abstraction: seeing what varies and what holds across accounts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Conceptual abstraction: seeing what varies and what holds across accounts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Epistemic cognition: understanding knowledge as constructed and contested rather than given
 
 ### Instructions

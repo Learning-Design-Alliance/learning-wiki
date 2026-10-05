@@ -61,7 +61,7 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why unscaffolded discovery through play can overload novices
 - [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](autonomy-at-one-level-may-inhibit-another.md) — related
 - [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
-- [Guided Discovery Outperforms Pure Discovery](guided-discovery-outperforms-pure-discovery.md) — related
+- [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — related
 - [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — possibly the same claim (merge candidate)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md) — related

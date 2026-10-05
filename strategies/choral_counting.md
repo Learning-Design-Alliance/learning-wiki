@@ -12,14 +12,14 @@ generated:
 # Choral Counting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Choral Counting is a whole-class mathematics routine in which learners count aloud together by a chosen starting number and increment (e.g., by 6 starting at 15) while the teacher records the count in a deliberate visual arrangement — typically rows of a fixed length on a chart or whiteboard. After counting, the class studies the recorded sequence, noticing and discussing patterns in the numbers, their digits, and their spatial arrangement. The routine is a core practice in Cognitively Guided Instruction classrooms and is usually paired with [Number Talks](../strategies/number-talks.md) as a complementary discussion-based routine.
 
 ## Design Implications
 
-Choral Counting converts a procedural skill (skip counting) into an object of collective mathematical inquiry: the organized recording layout makes structural patterns — column regularities, digit cycles, place-value shifts — visually salient so learners can abstract them [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]. The choral format lowers the participation barrier for learners who would not count alone, while the shared public record anchors [class discussion](../elements/class-discussion.md) in a common artifact. Grouping the count into fixed-length rows functions as chunking, reducing the working-memory demand of tracking position in the sequence [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Choral Counting converts a procedural skill (skip counting) into an object of collective mathematical inquiry: the organized recording layout makes structural patterns — column regularities, digit cycles, place-value shifts — visually salient so learners can abstract them [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The choral format lowers the participation barrier for learners who would not count alone, while the shared public record anchors [class discussion](../elements/class-discussion.md) in a common artifact. Grouping the count into fixed-length rows functions as chunking, reducing the working-memory demand of tracking position in the sequence [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements

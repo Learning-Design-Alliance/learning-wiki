@@ -12,7 +12,7 @@ generated:
 # Poetry Exploration through Digital Libraries
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy uses curated digital poetry libraries — collections that pair text with audio performances, author readings, and visual design — as the primary environment for exploring poems. Learners browse, select, listen to, and annotate poems matched to their interests and reading levels, then discuss and write about what they encounter. The library functions as an inquiry space rather than a fixed anthology: choice and multimodal presentation drive engagement.
@@ -37,7 +37,7 @@ Multimodal presentation of poetry aligns with dual coding: hearing a poem perfor
 #### Implementation Variability
 - **Listen-first:** play a performance before showing text to build anticipation and attention to sound
 - **Read-first:** silent reading and annotation before hearing a performance, then compare interpretations
-- **Comparison sets:** curate 2–3 poems on one theme or in one form to support abstraction across cases [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Comparison sets:** curate 2–3 poems on one theme or in one form to support abstraction across cases [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Student curation:** older learners build their own themed collections, shifting from consumer to curator
 
 ### Target Learners

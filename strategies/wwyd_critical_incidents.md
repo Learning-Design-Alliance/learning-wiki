@@ -12,14 +12,14 @@ generated:
 # WWYD Critical Incidents
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 Learners are presented with mini case studies that feature a conflict or misunderstanding and are asked, "What would you do if you were person X/person Y?" Each learner commits to an interpretation and a course of action from a specific role's viewpoint, then compares responses in discussion. The strategy converts a [Case Study](../elements/case-study.md) into a forced decision point, which surfaces prior assumptions and makes disagreement between learners visible and discussable.
 
 ## Design Implications
 
-The strategy works because committing to a decision before instruction creates the conditions for productive failure and self-explanation: learners who first generate their own resolution process expert feedback and alternative framings more deeply than learners who receive the analysis passively [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M] [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Asking the WWYD question from *both* parties' perspectives builds in contrasting cases, which supports abstraction of the underlying principle rather than memorization of one resolution [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+The strategy works because committing to a decision before instruction creates the conditions for productive failure and self-explanation: learners who first generate their own resolution process expert feedback and alternative framings more deeply than learners who receive the analysis passively [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M] [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Asking the WWYD question from *both* parties' perspectives builds in contrasting cases, which supports abstraction of the underlying principle rather than memorization of one resolution [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

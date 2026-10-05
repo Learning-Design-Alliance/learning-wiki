@@ -12,14 +12,14 @@ generated:
 # Case Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Case based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute, a classroom incident. Learners work through the case individually or in groups, applying concepts to diagnose problems, weigh options, and justify decisions. It is carried out through structured case discussion, written case analysis, or sequenced case sets that reveal information progressively.
 
 ## Design Implications
 
-Cases situate abstract principles in concrete, messy contexts, forcing learners to retrieve and apply knowledge rather than recognize it [Case based learning improves exam performance in health professions education.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Learning depends on the quality of the discussion and analysis, not the case document itself: cases must be paired with prompts that elicit reasoning and [Self-Explanation](../elements/self-explanation.md), since a case read passively produces little transfer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because real problems are ill-structured, multiple contrasting cases are more effective than a single case for building flexible, adaptable knowledge [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Cases situate abstract principles in concrete, messy contexts, forcing learners to retrieve and apply knowledge rather than recognize it [Case based learning improves exam performance in health professions education.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Learning depends on the quality of the discussion and analysis, not the case document itself: cases must be paired with prompts that elicit reasoning and [Self-Explanation](../elements/self-explanation.md), since a case read passively produces little transfer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Because real problems are ill-structured, multiple contrasting cases are more effective than a single case for building flexible, adaptable knowledge [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Cases situate abstract principles in concrete, messy contexts, forcing learners 
 ### Target Learning Goals
 - Applied reasoning and diagnosis: connecting principles to ambiguous situations
 - Decision-making under uncertainty: weighing trade-offs and justifying choices
-- Flexible knowledge representation: seeing how the same concept manifests across contexts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Flexible knowledge representation: seeing how the same concept manifests across contexts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Professional identity and judgment: practicing the role, not just the content
 
 ### Instructions

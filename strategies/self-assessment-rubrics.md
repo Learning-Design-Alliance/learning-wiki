@@ -12,7 +12,7 @@ generated:
 # Self Assessment Rubrics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Self assessment rubrics are explicit scoring guides listing quality criteria and performance levels that learners apply to their own drafts, performances, or solutions. The learner, not the instructor, performs the evaluative act: judging work against criteria, identifying gaps, and planning revisions. The strategy is typically carried out before submission (draft-stage self-scoring), at submission (reflective cover sheets), or after feedback (comparing self-scores with instructor scores).
@@ -38,7 +38,7 @@ Self assessment with rubrics develops *evaluative judgment* — the capacity to 
 - **Calibration comparison:** learners score their work, then compare with instructor scores; discrepancies become discussion points
 - **Co-constructed rubrics:** the class negotiates criteria, deepening ownership of the standards [+W]
 - **Single-point rubrics:** criteria listed once with blank space for evidence of meeting/falling short; reduces box-ticking and prompts specific self-commentary
-- **Exemplar-anchored rubrics:** each level illustrated with authentic samples, which supports abstraction of quality criteria [Comparing multiple contrasting cases helps learners abstract the dimensions that define quality.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- **Exemplar-anchored rubrics:** each level illustrated with authentic samples, which supports abstraction of quality criteria [Comparing multiple contrasting cases helps learners abstract the dimensions that define quality.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Intermediate learners who have enough domain knowledge to apply criteria but not yet the judgment to self-correct without support

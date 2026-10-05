@@ -12,14 +12,14 @@ generated:
 # Case Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (3 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 3 quant-synthesis, 1 review), `q2`–`q4` · 3 of 7 report an effect size
 
 ## Description
 Case based learning places learners in the role of analyst or decision-maker confronting a realistic narrative — a patient history, a business dilemma, a legal dispute, an engineering failure. Learners must identify the salient issues, apply disciplinary concepts to messy particulars, and defend a course of action, typically through structured discussion. The case functions as a situated proxy for experience: it carries the ambiguity, competing constraints, and incomplete information of real practice without its risks.
 
 ## Design Implications
 
-Cases work because they situate abstract principles in concrete, storied contexts, forcing learners to retrieve and apply knowledge under conditions resembling transfer [Case based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Their effectiveness depends less on the case text itself than on the discussion structure around it — learners must actively reason and commit to positions, not merely read [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Because real cases are ill-structured and context-bound, revisiting multiple cases that share underlying principles supports abstraction and flexible application [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Cases work because they situate abstract principles in concrete, storied contexts, forcing learners to retrieve and apply knowledge under conditions resembling transfer [Case based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]. Their effectiveness depends less on the case text itself than on the discussion structure around it — learners must actively reason and commit to positions, not merely read [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Because real cases are ill-structured and context-bound, revisiting multiple cases that share underlying principles supports abstraction and flexible application [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Cases work because they situate abstract principles in concrete, storied context
 
 ### Target Learning Goals
 - Applied reasoning: using concepts to diagnose, decide, and justify
-- Transfer: recognizing when principles apply across surface-different situations [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer: recognizing when principles apply across surface-different situations [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Professional judgment and argumentation: weighing competing values and evidence
 - Perspective-taking: understanding stakeholder positions within a situation
 

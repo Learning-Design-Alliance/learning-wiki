@@ -12,7 +12,7 @@ generated:
 # Seminar Format
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 design), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Seminar format is the element in which learning is organized around sustained discussion of a shared text, question, or issue with facilitator support but strong learner participation. It is useful when interpretation, reasoning, and dialogue are central.
@@ -36,9 +36,9 @@ Seminar format is the element in which learning is organized around sustained di
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
-- [Structured Discussion Approaches Improve Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
-- [Discussion Quality Drives Comprehension](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
 
 ## Related Elements

@@ -12,14 +12,14 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
 
 ## Design Implications
 
-Resource evaluation works when learners actively apply criteria to real, contrasting sources rather than memorizing a rubric. Professional fact-checkers outperform academics by *lateral reading* — leaving a page to investigate the source elsewhere — and teaching this strategy explicitly improves students' evaluative judgments [Wineburg & McGrew, 2019] [+S]. Evaluation tasks also deepen content learning: prompting readers to attend to source features (author, purpose, corroboration) improves their ability to integrate multiple documents [Braasch et al., 2013] [+M]. Structured comparison of credible and non-credible sources supports abstraction of the underlying criteria [Multiple contrasting cases help learners abstract general principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Resource evaluation works when learners actively apply criteria to real, contrasting sources rather than memorizing a rubric. Professional fact-checkers outperform academics by *lateral reading* — leaving a page to investigate the source elsewhere — and teaching this strategy explicitly improves students' evaluative judgments [Wineburg & McGrew, 2019] [+S]. Evaluation tasks also deepen content learning: prompting readers to attend to source features (author, purpose, corroboration) improves their ability to integrate multiple documents [Braasch et al., 2013] [+M]. Structured comparison of credible and non-credible sources supports abstraction of the underlying criteria [Multiple contrasting cases help learners abstract general principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

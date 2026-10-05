@@ -12,7 +12,7 @@ generated:
 # Inquiry-Based Writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Inquiry-based writing positions a focused investigation — collecting "immediate and concrete data" through observation, interviews, surveys, experiments, or document analysis — as the generative engine of a writing task. Learners write about something they have actually examined rather than something they must invent or recall, so the composing problem shifts from "what do I have to say?" to "how do I best say what I found?" The strategy is carried out by sequencing a genuine data-gathering activity, structured analysis of that data, and then drafting, revising, and publishing writing grounded in the evidence.
@@ -57,7 +57,7 @@ Inquiry-based writing works because it supplies rich, personally processed conte
 1. Pose a focused, answerable question connected to the curriculum and to learners' interests.
 2. Activate relevant background knowledge before data collection ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)).
 3. Have learners gather immediate, concrete data — observations, measurements, interviews, or source documents — using structured recording tools.
-4. Support analysis: learners code, categorize, and [Annotate](../principles/annotating.md) their data, comparing cases to abstract patterns [Analyzing multiple contrasting cases supports abstraction of underlying principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+S].
+4. Support analysis: learners code, categorize, and [Annotate](../principles/annotating.md) their data, comparing cases to abstract patterns [Analyzing multiple contrasting cases supports abstraction of underlying principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+S].
 5. Orally rehearse findings in [Class Discussion](../elements/class-discussion.md) or small groups before drafting, converting talk into compositional raw material.
 6. Draft the target genre with mini-lessons on its structure; encourage [Self-Explanation](../elements/self-explanation.md) of why each piece of evidence is included [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 7. Revise with feedback focused on claims and evidence use rather than surface errors [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].

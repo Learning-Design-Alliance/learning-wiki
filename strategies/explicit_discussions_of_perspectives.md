@@ -12,14 +12,14 @@ generated:
 # Explicit Discussions of Perspectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (5 quant-synthesis, 2 causal, 1 associational), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Explicit discussions of perspectives are structured conversations in which learners deliberately examine how different individuals or groups might experience, interpret, or evaluate the same event, text, or problem. The instructor makes perspective-taking an explicit goal — naming the perspectives, prompting learners to articulate them, and requiring learners to justify or critique each viewpoint rather than merely acknowledging it.
 
 ## Design Implications
 
-Perspective-taking does not reliably emerge from exposure to diverse material alone; it improves when learners are prompted to actively construct another person's viewpoint and reasoning [Perspective-taking interventions improve interpersonal outcomes when they require active construction of another's viewpoint.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Structured discussion formats that require learners to defend positions they did not choose produce deeper engagement with alternative viewpoints than unstructured sharing [Cooperative goal structures with structured controversy improve learning and relationships compared with individualistic structures.](../claims/active-learning-improves-exam-performance.md) [+S]. The strategy works best when perspectives are anchored in concrete cases rather than abstract categories, so learners reason about specific people and situations [Multiple contrasting cases support abstraction of underlying structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Perspective-taking does not reliably emerge from exposure to diverse material alone; it improves when learners are prompted to actively construct another person's viewpoint and reasoning [Perspective-taking interventions improve interpersonal outcomes when they require active construction of another's viewpoint.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Structured discussion formats that require learners to defend positions they did not choose produce deeper engagement with alternative viewpoints than unstructured sharing [Cooperative goal structures with structured controversy improve learning and relationships compared with individualistic structures.](../claims/active-learning-improves-exam-performance.md) [+S]. The strategy works best when perspectives are anchored in concrete cases rather than abstract categories, so learners reason about specific people and situations [Multiple contrasting cases support abstraction of underlying structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

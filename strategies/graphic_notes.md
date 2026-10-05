@@ -12,7 +12,7 @@ generated:
 # Graphic Notes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Graphic notes combine verbal lecture content with visual structures — diagrams, mind maps, timelines, charts, sketches, and spatial layout — so that learners record and organize spoken information graphically rather than as linear text. The instructor models or provides the visual scaffolding during presentation, and learners revisit the notes afterward as a study artifact.
@@ -48,7 +48,7 @@ Pairing spoken information with visual organization recruits both verbal and vis
 
 ### Target Learning Goals
 - Comprehension and retention of lecture-based expository content [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]
-- Relational knowledge: seeing hierarchies, sequences, and comparisons among concepts [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [~M]
+- Relational knowledge: seeing hierarchies, sequences, and comparisons among concepts [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Study-skill development: building a reusable personal note-taking system
 
 ### Instructions

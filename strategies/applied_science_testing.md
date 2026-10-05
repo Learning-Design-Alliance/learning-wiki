@@ -12,14 +12,14 @@ generated:
 # Applied Science Testing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Applied science testing engages learners in using scientific principles and procedures to evaluate real-world materials and products — for example, testing the solubility of different packing materials or comparing the quality and price of plastic kitchen wraps. Learners design or follow test protocols, collect data, and justify evaluative conclusions, treating everyday products as objects of scientific inquiry.
 
 ## Design Implications
 
-Hands-on evaluation of authentic products situates science content in contexts learners recognize, supporting transfer and motivation [Hands-on laboratory work improves science understanding when structured with clear goals.](../claims/active-learning-improves-exam-performance.md) [+M]. The evaluative framing matters: learners must articulate criteria, apply a consistent procedure, and defend judgments with evidence, which converts a demonstration into genuine [Application](../elements/application.md) of scientific reasoning. Comparing multiple products side by side supports abstraction of the underlying property being tested [Comparing multiple contrasting cases supports abstraction of domain principles.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+Hands-on evaluation of authentic products situates science content in contexts learners recognize, supporting transfer and motivation [Hands-on laboratory work improves science understanding when structured with clear goals.](../claims/active-learning-improves-exam-performance.md) [+M]. The evaluative framing matters: learners must articulate criteria, apply a consistent procedure, and defend judgments with evidence, which converts a demonstration into genuine [Application](../elements/application.md) of scientific reasoning. Comparing multiple products side by side supports abstraction of the underlying property being tested [Comparing multiple contrasting cases supports abstraction of domain principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -57,7 +57,7 @@ Hands-on evaluation of authentic products situates science content in contexts l
 5. Conclude with a justified recommendation or claim-evidence-reasoning write-up ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
-- [Case Studies/Case-Based Learning](../principles/case-studiescase-based-learning.md) — also grounds science in real-world contexts, but through narrative analysis rather than direct testing
+- [Case Studies/Case-Based Learning](../patterns/case-based-learning.md) — also grounds science in real-world contexts, but through narrative analysis rather than direct testing
 - [Product Testing](product-testing.md) — the broader family of consumer-evaluation activities
 
 ## Examples

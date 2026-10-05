@@ -12,7 +12,7 @@ generated:
 # Student-Generated Problems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (5 causal, 5 quant-synthesis), `q3`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 11 studies (6 causal, 5 quant-synthesis), `q3`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Student-generated problems ask learners to author problems, questions, or tasks based on the concepts they are studying, rather than only solving problems supplied by the instructor. Authoring requires learners to identify the deep structure of a concept — what makes a problem solvable, what quantities or relationships matter, and what makes a distractor plausible. Problems are typically exchanged with peers, who solve them and give feedback, closing the loop between generation and application.
@@ -50,7 +50,7 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 - Conceptual understanding: identifying the deep structure that defines a problem type
 - Discrimination: distinguishing well-posed from ill-posed problems and core features from surface features
 - Metacognition and self-assessment: authoring forces learners to evaluate their own grasp of what is askable
-- Transfer: generating variants of a problem type supports recognizing that structure in new contexts [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+- Transfer: generating variants of a problem type supports recognizing that structure in new contexts [Multiple contrasting cases support abstraction of deep structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Teach or review the target concept and show one or two exemplar problems, making their structure explicit ([Advance Organizers](../elements/advance-organizers.md) can frame the problem schema).
