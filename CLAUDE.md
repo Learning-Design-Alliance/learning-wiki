@@ -124,6 +124,24 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 (late night) — conversion wave 7: the first wave below the core; "no claim here" is not "no research"
+
+- **Fifteen principles converted** (`eval/page-triage/wave-7.md`), each with 3–5 inbound links: sequencing, social
+  presence, procedural learning, positive self-talk, observation and shadowing, memory consolidation, explicit
+  vocabulary instruction, classroom management plans, developing cultural awareness, criterion- and norm-referenced
+  testing, flipped learning, flexible grouping, wise feedback across difference, supporting gifted students and
+  text-to-speech. Two are partly tested (vocabulary, classroom management); thirteen keep a labelled default design.
+  Seven frontmatter DOIs and one journal (Dudai 2004 is *Annual Review of Psychology*) corrected against Crossref.
+- **Tested with 30 briefs (about $5.9): blind pairs 76–44** (sparse 43–17, complete 33–27), the weakest wave;
+  accuracy 3.08 → 3.78, decision value 3.57 → 3.95. DeepSeek picked the first-shown answer 48 times in 60.
+  Seven briefs lost 1–3; one row each (or one regeneration, for a garbled answer) took five to 3–1 or 4–0 and two to 2–2.
+- **New lesson: answers turned "no claim in this wiki compares X" into "X has never been compared"**, and graders
+  marked it inaccurate (flipped learning). **A page stating an absence of claims must say it is an absence in the
+  wiki, not in the literature.** The other losses were wave 6's lesson again: the brief's own stages, assessment
+  criteria and learner (a tutor being trained, not students) must be taken as given.
+- Open: the agents' lists (about ten duplicate pairs, ten overstated titles, homepage citations, miscoded kinds, and
+  ingest candidates such as Richardson et al. 2017 and Kraft et al. 2018) are in `wave-7.md`.
+
 ### 2026-10-05 (late night) — wave 6's claim findings settled
 
 - **Six duplicate claims merged** (`merge_claims.py`): summarization with training into summarization; overjustification
