@@ -37,9 +37,10 @@
   "methods->principles": 11,
   "methods->processes": 4,
   "methods->theories": 7,
-  "patterns->claims": 115,
+  "patterns->claims": 116,
   "patterns->designs": 18,
   "patterns->elements": 76,
+  "patterns->learner-variables": 1,
   "patterns->methods": 4,
   "patterns->patterns": 86,
   "patterns->principles": 72,
@@ -47,12 +48,12 @@
   "patterns->theories": 29,
   "principles->claims": 390,
   "principles->designs": 34,
-  "principles->elements": 90,
+  "principles->elements": 94,
   "principles->methods": 4,
-  "principles->patterns": 69,
+  "principles->patterns": 72,
   "principles->principles": 258,
   "principles->processes": 2,
-  "principles->theories": 106,
+  "principles->theories": 103,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -314,6 +315,13 @@
      {
       "polarity": "~",
       "slug": "elaboration-theory",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "holistic-learning",
       "strength": "M"
      }
     ]
@@ -1183,6 +1191,11 @@
       "polarity": "~",
       "slug": "graphic-organizers-scaffold-comprehension-principle",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -2289,6 +2302,11 @@
      {
       "polarity": "+",
       "slug": "experiential-learning-cycle",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
       "strength": "S"
      },
      {
@@ -3473,6 +3491,13 @@
       "slug": "virtual-communities-counter-supervision-isolation"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -3715,6 +3740,11 @@
      {
       "polarity": "+",
       "slug": "digital-learning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
       "strength": "S"
      }
     ],
@@ -4528,6 +4558,11 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "holistic-learning",
       "strength": "M"
      }
     ],
@@ -6293,6 +6328,11 @@
       "polarity": "~",
       "slug": "collaborative-evaluation",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -6876,6 +6916,13 @@
      },
      {
       "slug": "scheduling-strategy-no-effect-resolved-requests-wait-time"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -8932,6 +8979,11 @@
       "polarity": "+",
       "slug": "authentic-assessment",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "S"
      }
     ],
     "principles": [
@@ -9253,7 +9305,7 @@
      {
       "polarity": "+",
       "slug": "phonics",
-      "strength": "S"
+      "strength": "W"
      }
     ],
     "strategies": [
@@ -10630,9 +10682,9 @@
       "strength": "S"
      },
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "social-emotional-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -12863,6 +12915,11 @@
       "polarity": "+",
       "slug": "harmonize-opposites-in-educational-change",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "W"
      }
     ]
    },
@@ -13286,6 +13343,11 @@
      {
       "polarity": "+",
       "slug": "gamification",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
       "strength": "M"
      },
      {
@@ -15475,6 +15537,11 @@
     "patterns": [
      {
       "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
       "slug": "fading-based-scaffolding-approaches-serious-games",
       "strength": "W"
      }
@@ -15572,6 +15639,11 @@
      {
       "polarity": "~",
       "slug": "blended-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
       "strength": "M"
      }
     ],
@@ -16590,7 +16662,7 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "social-emotional-learning",
       "strength": "M"
      }
@@ -18939,6 +19011,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "modeling",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "teacher-preparation-enhance-learning-potential",
@@ -25049,6 +25126,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -29038,6 +29122,11 @@
       "polarity": "+",
       "slug": "dc-estimate-guideline-085",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -29754,12 +29843,22 @@
       "polarity": "+",
       "slug": "collaborative-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "S"
      }
     ],
     "principles": [
      {
       "polarity": "+",
       "slug": "cooperative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
       "strength": "M"
      }
     ],
@@ -32312,6 +32411,11 @@
       "polarity": "+",
       "slug": "graphic-organizers",
       "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "holistic-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -33239,6 +33343,11 @@
       "polarity": "~",
       "slug": "engagement",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "modeling",
+      "strength": "M"
      }
     ]
    },
@@ -33668,6 +33777,11 @@
      {
       "polarity": "+",
       "slug": "authentic-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "epistemic-games",
       "strength": "W"
      }
     ],
@@ -34198,7 +34312,7 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
+      "polarity": "+",
       "slug": "instructor-accessibility",
       "strength": "M"
      },
@@ -35279,8 +35393,13 @@
      },
      {
       "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "social-emotional-learning",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -36032,6 +36151,13 @@
       "slug": "sociocultural-sla-demonizes-socially-resistant-learners"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "-",
@@ -36078,6 +36204,13 @@
      {
       "polarity": "+",
       "slug": "feedback",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
       "strength": "S"
      }
     ],
@@ -36191,6 +36324,13 @@
      {
       "polarity": "+",
       "slug": "online-course-design",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "instructor-accessibility",
       "strength": "W"
      }
     ]
@@ -36453,6 +36593,13 @@
     ]
    },
    "critical-constructive-feedback-is-neglected-at-multiple-stages": {
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
+      "strength": "M"
+     }
+    ],
     "processes": [
      {
       "polarity": "-",
@@ -36699,7 +36846,7 @@
     ],
     "principles": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "W"
      }
@@ -37224,6 +37371,11 @@
       "polarity": "+",
       "slug": "standardized-test-fairness-and-bias",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -37558,6 +37710,11 @@
      {
       "polarity": "+",
       "slug": "dc-estimate-guideline-085",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "M"
      }
     ],
@@ -38465,6 +38622,13 @@
       "slug": "teacher-underreferral-diverse-gifted"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "-",
@@ -38525,6 +38689,13 @@
      {
       "polarity": "+",
       "slug": "drop-in-tutoring-center-model-tutortrac",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
       "strength": "W"
      }
     ]
@@ -39912,6 +40083,13 @@
      {
       "slug": "thinking-styles-scale-dif-items"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "M"
+     }
     ]
    },
    "dif-type-i-error-increases-with-dif-items-and-magnitude": {
@@ -40477,6 +40655,13 @@
       "slug": "videoconferencing-more-negotiated-turns-than-chat-and-board"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "-",
@@ -40621,6 +40806,13 @@
      },
      {
       "slug": "withdrawal-reasons-similar-across-modalities"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ]
    },
@@ -41621,6 +41813,13 @@
       "slug": "learning-support-raises-level1-physics-passrate"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -42494,6 +42693,13 @@
       "slug": "false-beginners-true-beginners-no-step3-differences"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -42658,6 +42864,13 @@
      {
       "polarity": "+",
       "slug": "epistemic-network-analysis-weighted-density",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
       "strength": "W"
      }
     ],
@@ -44581,6 +44794,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "social-emotional-learning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -44793,6 +45013,11 @@
      {
       "polarity": "-",
       "slug": "competency-based-assessment",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "W"
      }
     ]
@@ -45129,6 +45354,13 @@
      },
      {
       "slug": "subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -45573,6 +45805,11 @@
      {
       "polarity": "+",
       "slug": "error-analysis",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "modeling",
       "strength": "M"
      },
      {
@@ -47467,6 +47704,11 @@
      },
      {
       "polarity": "~",
+      "slug": "feedback-loops",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "graphic-organizers",
       "strength": "M"
      },
@@ -47477,12 +47719,32 @@
      },
      {
       "polarity": "~",
+      "slug": "holistic-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "learning-embedded-in-the-core-mechanic",
       "strength": "M"
      },
      {
       "polarity": "~",
+      "slug": "modeling",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "personalization",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "process-based-writing",
       "strength": "M"
      },
      {
@@ -48766,6 +49028,13 @@
      {
       "slug": "task-value-increases-motivation-and-engagement"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "W"
+     }
     ]
    },
    "explicit-teaching-complex-rules-only-advantage": {
@@ -49940,6 +50209,11 @@
       "polarity": "+",
       "slug": "mentoring-and-coaching",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "modeling",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -51170,9 +51444,19 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "feedback-loops",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "immediate-feedback",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
      }
     ]
    },
@@ -51460,6 +51744,11 @@
      },
      {
       "polarity": "+",
+      "slug": "epistemic-games",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "formative-assessment",
       "strength": "S"
      }
@@ -51468,6 +51757,11 @@
      {
       "polarity": "+",
       "slug": "deliberate-practice",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
       "strength": "S"
      }
     ],
@@ -51555,11 +51849,23 @@
       "slug": "tool-change-most-disruption-online-teaching"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
       "slug": "design-feedback-on-external-outputs-asynchronous",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "instructor-accessibility",
+      "strength": "W"
      }
     ]
    },
@@ -51707,6 +52013,11 @@
      {
       "polarity": "+",
       "slug": "social-emotional-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
       "strength": "S"
      },
      {
@@ -51725,6 +52036,11 @@
       "polarity": "+",
       "slug": "adaptive-learning",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -53774,11 +54090,33 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
+      "strength": "S"
+     }
+    ],
     "principles": [
+     {
+      "polarity": "-",
+      "slug": "feedback-loops",
+      "strength": "M"
+     },
      {
       "polarity": "-",
       "slug": "growth-mindset",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "process-based-writing",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "strengths-based-approach",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -53850,6 +54188,20 @@
      {
       "polarity": "+",
       "slug": "iterative-learning",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
       "strength": "M"
      }
     ],
@@ -54618,6 +54970,13 @@
      {
       "polarity": "-",
       "slug": "self-regulation",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "self-monitoring",
       "strength": "M"
      }
     ],
@@ -55830,6 +56189,11 @@
       "polarity": "+",
       "slug": "cultural-life-experiences-connections",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -55865,6 +56229,11 @@
      {
       "polarity": "+",
       "slug": "cultural-life-experiences-connections",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
       "strength": "M"
      }
     ],
@@ -57562,6 +57931,13 @@
       "slug": "nonassessment-unacceptable-alternative"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -58277,6 +58653,11 @@
       "polarity": "+",
       "slug": "growth-mindset",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "strengths-based-approach",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -58435,7 +58816,17 @@
      },
      {
       "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
       "slug": "experiential-learning-cycle",
+      "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "fostering-communities-of-learning-fcl",
       "strength": "S"
      },
      {
@@ -59164,6 +59555,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "holistic-learning",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -59395,6 +59793,11 @@
       "polarity": "~",
       "slug": "pairing-non-examples-with-examples",
       "strength": "S"
+     },
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -59910,6 +60313,13 @@
       "slug": "drop-in-tutoring-center-model-tutortrac",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
+     }
     ]
    },
    "high-variability-passages-longer-study-time": {
@@ -59964,6 +60374,13 @@
      {
       "polarity": "~",
       "slug": "elaboration-theory",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "holistic-learning",
       "strength": "M"
      }
     ],
@@ -60771,6 +61188,13 @@
       "slug": "guo-video-style-engagement-findings"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -60780,6 +61204,11 @@
      {
       "polarity": "+",
       "slug": "holistic-video-style-selection-principle",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
       "strength": "W"
      }
     ],
@@ -60917,6 +61346,13 @@
       "slug": "uneven-icap-mode-distribution-across-units"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -60946,6 +61382,13 @@
      },
      {
       "slug": "ldf-superior-to-icc-for-this-performance-assessment"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "M"
      }
     ]
    },
@@ -61642,6 +62085,13 @@
       "slug": "real-data-reliability-overestimated-2-3-to-4-9-percent"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -61856,6 +62306,13 @@
     ]
    },
    "implementation-intentions-improve-goal-attainment": {
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
+      "strength": "S"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -62353,6 +62810,11 @@
      {
       "polarity": "+",
       "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
       "strength": "W"
      }
     ],
@@ -63305,6 +63767,13 @@
      {
       "slug": "writing-class-inadequate-attention-tem-driven"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "process-based-writing",
+      "strength": "W"
+     }
     ]
    },
    "integrated-hours-beat-standalone-tech-courses": {
@@ -63686,6 +64155,11 @@
       "polarity": "~",
       "slug": "blended-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -63775,6 +64249,13 @@
     "claims": [
      {
       "slug": "interdependence-type-no-achievement-effect-asynchronous"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -64054,6 +64535,11 @@
      {
       "polarity": "~",
       "slug": "collaborative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "online-course-design",
       "strength": "M"
      }
     ],
@@ -65486,6 +65972,11 @@
      {
       "polarity": "-",
       "slug": "check-ins",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "self-monitoring",
       "strength": "M"
      }
     ]
@@ -67188,6 +67679,13 @@
      {
       "slug": "second-order-model-equivalent-to-testlet-model"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
     ]
    },
    "later-position-item-more-difficult-fatigue-effect": {
@@ -67200,6 +67698,13 @@
      },
      {
       "slug": "intra-testlet-items-slightly-more-difficult"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -67543,6 +68048,11 @@
      {
       "polarity": "+",
       "slug": "equal-democratic-teacher-student-relations",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
       "strength": "M"
      },
      {
@@ -68208,6 +68718,11 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "jigsaw-method",
       "strength": "M"
      }
@@ -68383,6 +68898,11 @@
      {
       "polarity": "~",
       "slug": "digital-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "self-monitoring",
       "strength": "M"
      }
     ],
@@ -69933,6 +70453,13 @@
      {
       "slug": "loa-videoconferencing-significant-post-posttest-increase"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "modeling",
+      "strength": "W"
+     }
     ]
    },
    "loa-revised-ten-level-scale-from-respondent-feedback": {
@@ -70218,6 +70745,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -70306,6 +70840,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -70347,6 +70888,13 @@
      },
      {
       "slug": "trained-elaboration-beats-question-stimulated-elaboration"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -70551,6 +71099,11 @@
       "polarity": "~",
       "slug": "match-worked-example-type-to-learner-prior-knowledge",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "modeling",
+      "strength": "M"
      }
     ]
    },
@@ -70664,6 +71217,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "prefer-feedback-loops-over-feedback-systems",
@@ -71108,6 +71666,11 @@
      {
       "polarity": "+",
       "slug": "standardized-test-fairness-and-bias",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "W"
      }
     ],
@@ -71827,6 +72390,11 @@
      },
      {
       "polarity": "+",
+      "slug": "feedback-loops",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "mastery-learning",
       "strength": "M"
      }
@@ -72035,6 +72603,13 @@
      {
       "polarity": "-",
       "slug": "affect-regulation",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "M"
      }
     ],
@@ -73498,6 +74073,11 @@
       "polarity": "+",
       "slug": "ask-experts",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "modeling",
+      "strength": "W"
      }
     ]
    },
@@ -73969,6 +74549,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "self-monitoring",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "self-regulated-learning",
@@ -74473,6 +75058,13 @@
      {
       "slug": "sr-interventions-improve-cognitive-regulation-young-adults"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "W"
+     }
     ]
    },
    "mindset-goal-orientation-correlation-student-teachers": {
@@ -74653,6 +75245,11 @@
      {
       "polarity": "+",
       "slug": "minimize-errors-for-precision-and-associations",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "modeling",
       "strength": "M"
      },
      {
@@ -74959,6 +75556,13 @@
       "slug": "drop-in-tutoring-center-model-tutortrac",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
+     }
     ]
    },
    "minority-testing-research-neglects-alternative-symbolic-forms": {
@@ -75117,6 +75721,11 @@
      {
       "polarity": "+",
       "slug": "cognitive-disequilibrium",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
       "strength": "M"
      }
     ],
@@ -75849,6 +76458,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "modeling",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -75934,6 +76550,13 @@
      },
      {
       "slug": "toy-structure-little-difference-fantasy-predisposition"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "modeling",
+      "strength": "W"
      }
     ]
    },
@@ -76353,6 +76976,13 @@
      {
       "polarity": "+",
       "slug": "reading-and-language",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "phonics",
       "strength": "M"
      }
     ],
@@ -78559,6 +79189,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -79064,6 +79701,13 @@
      {
       "polarity": "~",
       "slug": "elaboration-theory",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "holistic-learning",
       "strength": "M"
      }
     ]
@@ -79733,6 +80377,11 @@
       "polarity": "+",
       "slug": "error-analysis",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -79849,6 +80498,13 @@
      },
      {
       "slug": "scheduling-strategy-no-effect-resolved-requests-wait-time"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "instructor-accessibility",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -80308,6 +80964,13 @@
       "slug": "redesigned-unit-engaged-all-framework-elements"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -80345,6 +81008,13 @@
       "slug": "online-course-design",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "instructor-accessibility",
+      "strength": "W"
+     }
     ]
    },
    "online-continuing-education-persistence-lower-than-onground": {
@@ -80374,6 +81044,11 @@
       "polarity": "~",
       "slug": "blended-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -80427,6 +81102,13 @@
      },
      {
       "slug": "peer-feedback-improves-writing"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
+      "strength": "W"
      }
     ]
    },
@@ -80831,6 +81513,13 @@
       "slug": "organization-simulation-for-interdisciplinary-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -80873,6 +81562,11 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "holistic-learning",
       "strength": "M"
      }
     ],
@@ -80965,6 +81659,13 @@
       "polarity": "+",
       "slug": "dropout-timing-stage-definitions",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -83276,6 +83977,11 @@
       "polarity": "+",
       "slug": "collaborative-evaluation",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -83382,6 +84088,11 @@
       "polarity": "+",
       "slug": "formative-assessment",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -83433,6 +84144,11 @@
      {
       "polarity": "~",
       "slug": "formative-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
       "strength": "M"
      }
     ],
@@ -83748,12 +84464,22 @@
       "polarity": "~",
       "slug": "collaborative-evaluation",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
+      "strength": "M"
      }
     ],
     "principles": [
      {
       "polarity": "~",
       "slug": "ask-experts",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "process-based-writing",
       "strength": "M"
      }
     ],
@@ -83890,7 +84616,19 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "M"
+     }
+    ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "process-based-writing",
@@ -84061,6 +84799,13 @@
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -84918,6 +85663,13 @@
       "slug": "spector-phonemic-awareness-reading-instruction"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "phonics",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -84959,6 +85711,13 @@
       "slug": "systematic-phonics-improves-word-reading"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "phonics",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -84988,6 +85747,13 @@
      },
      {
       "slug": "systematic-phonics-improves-word-reading"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -85224,6 +85990,11 @@
       "polarity": "+",
       "slug": "devote-reading-class-time-to-phonological-practice",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "phonics",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -85266,6 +86037,13 @@
       "slug": "systematic-phonics-improves-word-reading"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "phonics",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -85295,6 +86073,11 @@
      {
       "polarity": "+",
       "slug": "devote-reading-class-time-to-phonological-practice",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "phonics",
       "strength": "W"
      }
     ]
@@ -86060,6 +86843,13 @@
       "slug": "plc-object-outcome-mismatch"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -86648,6 +87438,13 @@
       "slug": "peer-discussion-improves-conceptual-understanding"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "slug": "dialogic-facilitation-of-student-resources"
@@ -86726,6 +87523,13 @@
      },
      {
       "slug": "universal-classroom-management-reduces-problem-behavior"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -87283,6 +88087,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -87652,6 +88463,13 @@
       "slug": "week6-attendance-interaction-favors-flex"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -87741,6 +88559,13 @@
       "slug": "retrieval-failure-reduces-benefit"
      }
     ],
+    "principles": [
+     {
+      "polarity": "-",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -87791,6 +88616,11 @@
       "polarity": "+",
       "slug": "activation",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      }
     ]
    },
@@ -87826,6 +88656,11 @@
      {
       "polarity": "+",
       "slug": "cognitive-load-management",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "holistic-learning",
       "strength": "M"
      },
      {
@@ -88072,6 +88907,11 @@
       "polarity": "-",
       "slug": "activation",
       "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      }
     ]
    },
@@ -88235,6 +89075,11 @@
      {
       "polarity": "~",
       "slug": "assessment-for-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "self-monitoring",
       "strength": "M"
      },
      {
@@ -88611,6 +89456,25 @@
      {
       "polarity": "+",
       "slug": "iterative-learning",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
       "strength": "W"
      }
     ],
@@ -89415,6 +90279,20 @@
      },
      {
       "slug": "writing-to-learn-improves-understanding"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -90233,6 +91111,16 @@
       "polarity": "+",
       "slug": "goal-setting-monitoring",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "modeling",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
+      "strength": "M"
      }
     ]
    },
@@ -90863,6 +91751,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -91047,9 +91942,9 @@
       "strength": "M"
      },
      {
-      "polarity": "-",
+      "polarity": "~",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
-      "strength": "W"
+      "strength": "M"
      }
     ],
     "theories": [
@@ -91311,7 +92206,7 @@
     ],
     "patterns": [
      {
-      "polarity": "+",
+      "polarity": "~",
       "slug": "social-emotional-learning",
       "strength": "W"
      }
@@ -91424,6 +92319,13 @@
      },
      {
       "slug": "structured-discussion-methods-improve-comprehension"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -91942,6 +92844,18 @@
       "polarity": "+",
       "slug": "cognitive-apprenticeship",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -91959,6 +92873,13 @@
      },
      {
       "slug": "reciprocal-teaching-improves-reading-comprehension"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -93482,6 +94403,13 @@
      {
       "slug": "latent-variable-models-limit-grain-size"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
     ]
    },
    "religious-prayer-pain-reduction-versus-secular": {
@@ -93914,6 +94842,13 @@
       "slug": "differentiated-activity-structures-for-inclusive-participation"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -94214,6 +95149,13 @@
      {
       "polarity": "+",
       "slug": "retrieval-practice",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
       "strength": "M"
      }
     ],
@@ -95283,6 +96225,13 @@
       "slug": "explicit-versus-inferred-compliance-prompt-taxonomy",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "feedback-loops",
+      "strength": "M"
+     }
     ]
    },
    "revised-prompts-advance-sophisticated-analysis": {
@@ -95550,6 +96499,13 @@
      },
      {
       "slug": "structured-interdependence-contribution-obligation-attitude"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -96164,6 +97120,28 @@
       "polarity": "+",
       "slug": "collaborative-evaluation",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "structured-peer-review",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "feedback-loops",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "process-based-writing",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -96215,6 +97193,11 @@
      {
       "polarity": "+",
       "slug": "collaborative-evaluation",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "structured-peer-review",
       "strength": "M"
      }
     ],
@@ -96603,6 +97586,13 @@
      },
      {
       "slug": "nsf-strategy-increases-helped-students-busy-normal-queues"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -97150,6 +98140,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -97202,6 +98199,13 @@
      {
       "polarity": "+",
       "slug": "metacognitive-interview-form-ncrel",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "pre-reading-questioning",
       "strength": "W"
      }
     ],
@@ -97421,6 +98425,13 @@
       "slug": "epistemic-network-analysis-weighted-density",
       "strength": "W"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
     ]
    },
    "segmenting-improves-multimedia-learning": {
@@ -97516,6 +98527,13 @@
       "slug": "sr-interventions-improve-cognitive-regulation-young-adults"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -97555,6 +98573,13 @@
      },
      {
       "slug": "stronger-belonging-linked-engagement-achievement"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "social-emotional-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -97608,6 +98633,13 @@
      },
      {
       "slug": "sel-programs-improve-social-emotional-skills"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -97674,6 +98706,13 @@
      },
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "S"
      }
     ],
     "principles": [
@@ -97802,6 +98841,11 @@
       "polarity": "+",
       "slug": "self-affirmation",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "strengths-based-approach",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -97958,6 +99002,11 @@
      },
      {
       "polarity": "~",
+      "slug": "self-monitoring",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "self-regulated-learning",
       "strength": "M"
      }
@@ -98022,6 +99071,11 @@
      {
       "polarity": "+",
       "slug": "assessment-for-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-monitoring",
       "strength": "M"
      }
     ],
@@ -98733,8 +99787,18 @@
      },
      {
       "polarity": "+",
+      "slug": "modeling",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "motivation",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -103148,6 +104212,13 @@
       "strength": "M"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "self-monitoring",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -103184,6 +104255,11 @@
      {
       "polarity": "~",
       "slug": "goal-setting-monitoring",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-monitoring",
       "strength": "M"
      }
     ],
@@ -103543,7 +104619,7 @@
      {
       "polarity": "~",
       "slug": "instructor-accessibility",
-      "strength": "M"
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -104952,6 +106028,11 @@
       "polarity": "+",
       "slug": "annotating",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "pre-reading-questioning",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -105210,6 +106291,13 @@
      },
      {
       "slug": "strategy-instruction-improves-writing-quality"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -106441,6 +107529,13 @@
       "strength": "M"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "epistemic-games",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -106824,6 +107919,13 @@
       "slug": "practice-presence-raises-cbi-posttest-achievement"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -107069,6 +108171,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "holistic-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "provide-experiences-not-direct-teaching-sla",
       "strength": "M"
      }
@@ -107293,6 +108400,13 @@
      },
      {
       "slug": "skilled-writers-topic-familiarity-knowledge"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -107545,6 +108659,11 @@
      {
       "polarity": "+",
       "slug": "cooperative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
       "strength": "M"
      }
     ],
@@ -107963,6 +109082,13 @@
      {
       "slug": "vicarious-experiences-positive-teaching-efficacy"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "strengths-based-approach",
+      "strength": "M"
+     }
     ]
    },
    "social-presence-strongest-metacognition-association-cbi": {
@@ -107977,11 +109103,23 @@
       "slug": "self-co-regulation-highly-correlated-online-cbi"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
       "slug": "community-of-inquiry",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -109792,7 +110930,7 @@
      {
       "polarity": "~",
       "slug": "fostering-communities-of-learning-fcl",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -109827,7 +110965,7 @@
      {
       "polarity": "~",
       "slug": "structured-peer-review",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -109915,7 +111053,7 @@
      {
       "polarity": "~",
       "slug": "self-monitoring",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "~",
@@ -109925,7 +111063,7 @@
      {
       "polarity": "~",
       "slug": "strengths-based-approach",
-      "strength": "S"
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -110490,6 +111628,13 @@
      {
       "slug": "sel-benefits-persist-follow-up"
      }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "social-emotional-learning",
+      "strength": "W"
+     }
     ]
    },
    "srae-co-regulation-training-increases-self-regulation-knowledge": {
@@ -110786,6 +111931,11 @@
      {
       "polarity": "+",
       "slug": "blended-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
       "strength": "M"
      }
     ],
@@ -111926,6 +113076,13 @@
       "slug": "spontaneous-sentence-production-in-synthetic-planning-increases-understanding"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "process-based-writing",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -112144,6 +113301,13 @@
      {
       "polarity": "+",
       "slug": "elaboration-theory",
+      "strength": "M"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "holistic-learning",
       "strength": "M"
      }
     ]
@@ -112600,6 +113764,13 @@
       "slug": "systematic-phonics-improves-word-reading"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "S"
+     }
+    ],
     "strategies": [
      {
       "polarity": "+",
@@ -112633,6 +113804,11 @@
      {
       "polarity": "+",
       "slug": "cooperative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
       "strength": "M"
      }
     ],
@@ -112691,6 +113867,13 @@
      },
      {
       "slug": "young-readers-rely-on-semantic-syntactic-context-for-word-analysis"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "W"
      }
     ]
    },
@@ -112891,6 +114074,13 @@
       "slug": "student-engagement-wcf-hotspot-tripartite"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "process-based-writing",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -113045,6 +114235,13 @@
       "slug": "online-community-requires-conscious-effort"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -113172,6 +114369,13 @@
      {
       "polarity": "+",
       "slug": "multimediatizing-didactized-content-direct-expression",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "modeling",
       "strength": "W"
      }
     ]
@@ -113957,6 +115161,13 @@
      },
      {
       "slug": "vocational-students-low-mental-health-literacy-4-3-percent"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "W"
      }
     ]
    },
@@ -114847,6 +116058,13 @@
       "slug": "virtual-communities-counter-supervision-isolation"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "instructor-accessibility",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -115326,6 +116544,13 @@
      {
       "polarity": "+",
       "slug": "reading-and-language",
+      "strength": "S"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "phonics",
       "strength": "S"
      }
     ],
@@ -117296,6 +118521,13 @@
       "slug": "teacher-effectiveness-compounds-over-consecutive-years"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
+      "strength": "M"
+     }
+    ],
     "strategies": [
      {
       "polarity": "~",
@@ -117373,6 +118605,11 @@
       "polarity": "+",
       "slug": "direct-instruction",
       "strength": "S"
+     },
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -117578,6 +118815,11 @@
      {
       "polarity": "+",
       "slug": "explicit-strategy-instruction-in-preparatory-curricula",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "modeling",
       "strength": "W"
      }
     ]
@@ -117802,6 +119044,11 @@
       "polarity": "+",
       "slug": "engagement",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "instructor-accessibility",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -117857,6 +119104,11 @@
       "polarity": "+",
       "slug": "multiple-criteria-gifted-identification",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "strengths-based-approach",
+      "strength": "W"
      }
     ]
    },
@@ -118284,6 +119536,13 @@
      },
      {
       "slug": "tutoring-benefits-tutors-and-tutees"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "fostering-communities-of-learning-fcl",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -119768,6 +121027,13 @@
       "slug": "online-continuing-education-persistence-lower-than-onground"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -120484,6 +121750,13 @@
       "polarity": "+",
       "slug": "mastery-learning-classroom-management-staff-development-program",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "feedback-loops",
+      "strength": "M"
      }
     ]
    },
@@ -121224,6 +122497,11 @@
      {
       "polarity": "~",
       "slug": "guided-practice",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "instructor-accessibility",
       "strength": "M"
      },
      {
@@ -122381,6 +123659,11 @@
       "polarity": "+",
       "slug": "universal-design-for-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -122464,6 +123747,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "modeling",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "vicarious-before-mastery-teacher-development",
@@ -122551,6 +123839,13 @@
      {
       "polarity": "+",
       "slug": "osp-ejs-tracker-toolkit",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "modeling",
       "strength": "W"
      }
     ],
@@ -123530,6 +124825,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "epistemic-games",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -123626,6 +124928,11 @@
      },
      {
       "polarity": "~",
+      "slug": "self-monitoring",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "self-regulated-learning",
       "strength": "M"
      }
@@ -123645,6 +124952,13 @@
      },
      {
       "slug": "redesigned-unit-engaged-all-framework-elements"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -124118,7 +125432,7 @@
      {
       "polarity": "+",
       "slug": "holistic-learning",
-      "strength": "S"
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -124422,6 +125736,13 @@
       "polarity": "+",
       "slug": "dropout-timing-stage-definitions",
       "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "~",
+      "slug": "online-course-design",
+      "strength": "M"
      }
     ]
    },
@@ -126046,6 +127367,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "modeling",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "worked-examples",
       "strength": "S"
      }
@@ -126737,6 +128063,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "phonics",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "provide-peer-authored-syntactically-appropriate-texts",
@@ -135805,9 +137136,6 @@
       "slug": "personalization"
      },
      {
-      "slug": "phonics"
-     },
-     {
       "slug": "responsive-teaching"
      }
     ],
@@ -138292,6 +139620,9 @@
      },
      {
       "slug": "responsive-classroom"
+     },
+     {
+      "slug": "social-emotional-learning"
      }
     ],
     "strategies": [
@@ -148342,6 +149673,9 @@
       "slug": "debate"
      },
      {
+      "slug": "epistemic-games"
+     },
+     {
       "slug": "peer-instruction"
      }
     ],
@@ -149885,6 +151219,9 @@
       "slug": "discussion-based-learning"
      },
      {
+      "slug": "online-course-design"
+     },
+     {
       "slug": "socratic-seminar"
      },
      {
@@ -150250,6 +151587,11 @@
       "slug": "learning-mechanic"
      }
     ],
+    "patterns": [
+     {
+      "slug": "epistemic-games"
+     }
+    ],
     "theories": [
      {
       "slug": "epistemic-games"
@@ -150464,6 +151806,9 @@
      },
      {
       "slug": "constructive-alignment"
+     },
+     {
+      "slug": "structured-peer-review"
      }
     ],
     "strategies": [
@@ -151479,6 +152824,9 @@
     "principles": [
      {
       "slug": "adaptive-learning"
+     },
+     {
+      "slug": "feedback-loops"
      },
      {
       "slug": "gamification"
@@ -153925,6 +155273,11 @@
      {
       "slug": "moderation"
      }
+    ],
+    "patterns": [
+     {
+      "slug": "fostering-communities-of-learning-fcl"
+     }
     ]
    },
    "knowledge-map-content-understanding-assessment": {
@@ -154861,6 +156214,13 @@
      }
     ]
    },
+   "mydigitalhand-office-hours-ticketing-system": {
+    "principles": [
+     {
+      "slug": "instructor-accessibility"
+     }
+    ]
+   },
    "narrative-experience-multicultural-education-exemplar": {
     "theories": [
      {
@@ -155391,6 +156751,9 @@
     "patterns": [
      {
       "slug": "authentic-assessment"
+     },
+     {
+      "slug": "structured-peer-review"
      },
      {
       "slug": "team-based-learning"
@@ -156094,6 +157457,11 @@
      },
      {
       "slug": "rubric"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "structured-peer-review"
      }
     ],
     "strategies": [
@@ -159269,6 +160637,11 @@
      {
       "slug": "recall-prior-knowledge"
      }
+    ],
+    "principles": [
+     {
+      "slug": "pre-reading-questioning"
+     }
     ]
    },
    "pre-seminar-preparation": {
@@ -160693,6 +162066,11 @@
       "slug": "knowledge-building"
      }
     ],
+    "patterns": [
+     {
+      "slug": "fostering-communities-of-learning-fcl"
+     }
+    ],
     "strategies": [
      {
       "slug": "book-clubs-literature-circles"
@@ -161388,6 +162766,11 @@
       "slug": "submission"
      }
     ],
+    "patterns": [
+     {
+      "slug": "structured-peer-review"
+     }
+    ],
     "strategies": [
      {
       "slug": "authors_chair"
@@ -161594,6 +162977,9 @@
      },
      {
       "slug": "constructive-alignment"
+     },
+     {
+      "slug": "structured-peer-review"
      }
     ],
     "strategies": [
@@ -162758,6 +164144,11 @@
       "slug": "self-regulated-learning"
      }
     ],
+    "principles": [
+     {
+      "slug": "self-monitoring"
+     }
+    ],
     "strategies": [
      {
       "slug": "5-minute_writing_conferences"
@@ -163624,6 +165015,9 @@
      }
     ],
     "patterns": [
+     {
+      "slug": "online-course-design"
+     },
      {
       "slug": "structured-academic-controversy"
      }
@@ -165227,6 +166621,13 @@
      }
     ]
    },
+   "web-forum-peer-feedback": {
+    "patterns": [
+     {
+      "slug": "online-course-design"
+     }
+    ]
+   },
    "welna-deceptive-pairs-lists": {
     "theories": [
      {
@@ -165584,6 +166985,13 @@
      }
     ]
    },
+   "belonging": {
+    "patterns": [
+     {
+      "slug": "social-emotional-learning"
+     }
+    ]
+   },
    "digital-literacy": {
     "learner-variables": [
      {
@@ -165602,6 +167010,11 @@
     "elements": [
      {
       "slug": "assessment-mechanic"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "social-emotional-learning"
      }
     ]
    },
@@ -166234,6 +167647,9 @@
       "slug": "cognitive-load-theory"
      },
      {
+      "slug": "holistic-learning"
+     },
+     {
       "slug": "transfer-of-learning"
      }
     ],
@@ -166640,9 +168056,17 @@
       "slug": "domain-context"
      }
     ],
+    "patterns": [
+     {
+      "slug": "epistemic-games"
+     }
+    ],
     "principles": [
      {
       "slug": "authentic-audiences-purposes"
+     },
+     {
+      "slug": "validity-reliability-and-bias-in-classroom-assessment"
      }
     ],
     "processes": [
@@ -166688,6 +168112,11 @@
      },
      {
       "slug": "pre-class-videolecture"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "online-course-design"
      }
     ],
     "principles": [
@@ -166891,6 +168320,9 @@
      },
      {
       "slug": "concept-attainment"
+     },
+     {
+      "slug": "epistemic-games"
      },
      {
       "slug": "social-emotional-learning"
@@ -167631,6 +169063,9 @@
      },
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "epistemic-games"
      },
      {
       "slug": "experiential-learning-cycle"
@@ -168594,6 +170029,11 @@
       "slug": "structured-peer-review"
      }
     ],
+    "principles": [
+     {
+      "slug": "process-based-writing"
+     }
+    ],
     "strategies": [
      {
       "slug": "critique-protocols"
@@ -168845,6 +170285,12 @@
      },
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "fostering-communities-of-learning-fcl"
+     },
+     {
+      "slug": "structured-peer-review"
      },
      {
       "slug": "writing-workshop"
@@ -169390,6 +170836,11 @@
       "slug": "positive-behavioral-interventions-and-supports"
      }
     ],
+    "principles": [
+     {
+      "slug": "validity-reliability-and-bias-in-classroom-assessment"
+     }
+    ],
     "processes": [
      {
       "slug": "data-wise-improvement-process"
@@ -169457,6 +170908,9 @@
     "patterns": [
      {
       "slug": "collaborative-learning"
+     },
+     {
+      "slug": "fostering-communities-of-learning-fcl"
      },
      {
       "slug": "jigsaw-structures-adult-learners"
@@ -170047,7 +171501,13 @@
       "slug": "develop-understanding"
      },
      {
+      "slug": "epistemic-games"
+     },
+     {
       "slug": "experiential-learning-cycle"
+     },
+     {
+      "slug": "fostering-communities-of-learning-fcl"
      },
      {
       "slug": "gagnes-9-events-of-instruction"
@@ -170856,6 +172316,9 @@
      },
      {
       "slug": "model-evidence-link-mel-reasoning-pattern"
+     },
+     {
+      "slug": "online-course-design"
      },
      {
       "slug": "peer-instruction"
@@ -171674,6 +173137,9 @@
       "slug": "social-emotional-learning"
      },
      {
+      "slug": "structured-peer-review"
+     },
+     {
       "slug": "workshop-model"
      },
      {
@@ -171683,6 +173149,9 @@
     "principles": [
      {
       "slug": "assessment-for-learning"
+     },
+     {
+      "slug": "feedback-loops"
      },
      {
       "slug": "formative-assessment"
@@ -172939,6 +174408,9 @@
       "slug": "deliberate-practice"
      },
      {
+      "slug": "feedback-loops"
+     },
+     {
       "slug": "mastery-learning"
      },
      {
@@ -173218,6 +174690,9 @@
      },
      {
       "slug": "collaborative-learning"
+     },
+     {
+      "slug": "fostering-communities-of-learning-fcl"
      },
      {
       "slug": "peer-teaching"
@@ -173576,6 +175051,11 @@
       "slug": "self-regulation"
      }
     ],
+    "patterns": [
+     {
+      "slug": "social-emotional-learning"
+     }
+    ],
     "principles": [
      {
       "slug": "goal-setting-monitoring"
@@ -173798,6 +175278,11 @@
      },
      {
       "slug": "lda-reflection"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "process-based-writing"
      }
     ]
    },
@@ -174321,6 +175806,16 @@
       "slug": "social-constructionist-collaborative-writing-classroom"
      }
     ],
+    "patterns": [
+     {
+      "slug": "structured-peer-review"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "process-based-writing"
+     }
+    ],
     "strategies": [
      {
       "slug": "5-minute_writing_conferences"
@@ -174423,6 +175918,9 @@
      },
      {
       "slug": "multimodal-instruction"
+     },
+     {
+      "slug": "phonics"
      },
      {
       "slug": "text-to-speech"
@@ -175039,6 +176537,9 @@
      },
      {
       "slug": "personalization"
+     },
+     {
+      "slug": "pre-reading-questioning"
      }
     ],
     "strategies": [
@@ -177922,6 +179423,9 @@
      },
      {
       "slug": "expanding-social-networks"
+     },
+     {
+      "slug": "instructor-accessibility"
      }
     ],
     "strategies": [
@@ -178225,6 +179729,9 @@
       "slug": "social-emotional-learning"
      },
      {
+      "slug": "structured-peer-review"
+     },
+     {
       "slug": "workshop-model"
      }
     ],
@@ -178237,6 +179744,9 @@
      },
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "feedback-loops"
      },
      {
       "slug": "gamification"
@@ -179181,6 +180691,9 @@
       "slug": "learning-for-use-lfu-model"
      },
      {
+      "slug": "structured-peer-review"
+     },
+     {
       "slug": "writing-workshop"
      }
     ],
@@ -179214,6 +180727,9 @@
      },
      {
       "slug": "text-chats"
+     },
+     {
+      "slug": "validity-reliability-and-bias-in-classroom-assessment"
      }
     ],
     "strategies": [
@@ -179654,6 +181170,9 @@
     "patterns": [
      {
       "slug": "positive-behavioral-interventions-and-supports"
+     },
+     {
+      "slug": "social-emotional-learning"
      }
     ],
     "principles": [
@@ -179665,6 +181184,9 @@
      },
      {
       "slug": "let-learners-request-feedback-after-performing"
+     },
+     {
+      "slug": "strengths-based-approach"
      },
      {
       "slug": "universal-design-for-learning"
@@ -181618,6 +183140,9 @@
       "slug": "guided-practice"
      },
      {
+      "slug": "holistic-learning"
+     },
+     {
       "slug": "mnemonic-device"
      },
      {
@@ -182756,6 +184281,9 @@
       "slug": "handoutsonline-guidesvisual-reading-aids"
      },
      {
+      "slug": "holistic-learning"
+     },
+     {
       "slug": "phonics"
      },
      {
@@ -183416,6 +184944,9 @@
      },
      {
       "slug": "growth-mindset"
+     },
+     {
+      "slug": "pre-reading-questioning"
      },
      {
       "slug": "responsive-teaching"
@@ -184107,9 +185638,6 @@
      },
      {
       "slug": "disciplinary-literacy"
-     },
-     {
-      "slug": "holistic-learning"
      },
      {
       "slug": "knowledge-organization"
@@ -185068,6 +186596,9 @@
       "slug": "cognitive-load-reduction"
      },
      {
+      "slug": "holistic-learning"
+     },
+     {
       "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
      }
     ],
@@ -185790,6 +187321,9 @@
     ],
     "patterns": [
      {
+      "slug": "epistemic-games"
+     },
+     {
       "slug": "fostering-communities-of-learning-fcl"
      },
      {
@@ -185972,6 +187506,9 @@
     "principles": [
      {
       "slug": "cultural-life-experiences-connections"
+     },
+     {
+      "slug": "strengths-based-approach"
      }
     ],
     "processes": [
@@ -186174,6 +187711,9 @@
     "principles": [
      {
       "slug": "distributed-cognition"
+     },
+     {
+      "slug": "instructor-accessibility"
      },
      {
       "slug": "peer-learning"
@@ -186440,6 +187980,9 @@
      },
      {
       "slug": "summative-assessment"
+     },
+     {
+      "slug": "validity-reliability-and-bias-in-classroom-assessment"
      }
     ],
     "strategies": [
@@ -186888,6 +188431,9 @@
      },
      {
       "slug": "relevant-immediately-useful-adult-materials"
+     },
+     {
+      "slug": "strengths-based-approach"
      }
     ],
     "theories": [
@@ -187146,6 +188692,11 @@
       "slug": "virtual-whiteboards"
      }
     ],
+    "patterns": [
+     {
+      "slug": "online-course-design"
+     }
+    ],
     "principles": [
      {
       "slug": "flipped-learning"
@@ -187205,6 +188756,9 @@
      },
      {
       "slug": "modeling"
+     },
+     {
+      "slug": "phonics"
      },
      {
       "slug": "procedural-learning"
@@ -187580,6 +189134,11 @@
      },
      {
       "slug": "video-prompts"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "social-emotional-learning"
      }
     ],
     "principles": [
@@ -187966,6 +189525,9 @@
     "principles": [
      {
       "slug": "explicit-instruction-vocabulary"
+     },
+     {
+      "slug": "phonics"
      }
     ]
    },
@@ -188325,6 +189887,9 @@
     ],
     "patterns": [
      {
+      "slug": "epistemic-games"
+     },
+     {
       "slug": "game-based-mastery-learning-duolingo-pattern"
      },
      {
@@ -188452,6 +190017,9 @@
      },
      {
       "slug": "positive-self-talk"
+     },
+     {
+      "slug": "process-based-writing"
      },
      {
       "slug": "purposeful-reflection"
@@ -188651,6 +190219,12 @@
      },
      {
       "slug": "learning-embedded-in-the-core-mechanic"
+     },
+     {
+      "slug": "modeling"
+     },
+     {
+      "slug": "phonics"
      },
      {
       "slug": "problem-based-learning"
@@ -188861,6 +190435,9 @@
      },
      {
       "slug": "mindfulness-activities"
+     },
+     {
+      "slug": "process-based-writing"
      },
      {
       "slug": "retrieval-practice"
@@ -189322,6 +190899,11 @@
       "slug": "learning-mechanic"
      }
     ],
+    "patterns": [
+     {
+      "slug": "epistemic-games"
+     }
+    ],
     "principles": [
      {
       "slug": "game-based-learning"
@@ -189442,6 +191024,9 @@
      },
      {
       "slug": "deliberate-practice"
+     },
+     {
+      "slug": "feedback-loops"
      },
      {
       "slug": "reinforcement-theory"
@@ -190068,6 +191653,9 @@
     ],
     "principles": [
      {
+      "slug": "feedback-loops"
+     },
+     {
       "slug": "peer-discussion"
      },
      {
@@ -190364,6 +191952,11 @@
     ]
    },
    "prefer-feedback-loops-over-feedback-systems": {
+    "principles": [
+     {
+      "slug": "feedback-loops"
+     }
+    ],
     "theories": [
      {
       "slug": "feedback-loop-participant-roles"
@@ -190868,6 +192461,9 @@
     ],
     "principles": [
      {
+      "slug": "self-monitoring"
+     },
+     {
       "slug": "trust-environment-context-for-reflection"
      }
     ],
@@ -191093,6 +192689,9 @@
      },
      {
       "slug": "memory-consolidation"
+     },
+     {
+      "slug": "pre-reading-questioning"
      },
      {
       "slug": "transfer-of-learning"
@@ -191707,6 +193306,12 @@
       "slug": "cognitive-apprenticeship"
      },
      {
+      "slug": "epistemic-games"
+     },
+     {
+      "slug": "fostering-communities-of-learning-fcl"
+     },
+     {
       "slug": "merrills-first-principles-demonstration"
      }
     ],
@@ -191758,6 +193363,9 @@
      },
      {
       "slug": "inquiry-based-learning"
+     },
+     {
+      "slug": "instructor-accessibility"
      },
      {
       "slug": "mentoring-and-coaching"
@@ -191907,6 +193515,9 @@
      },
      {
       "slug": "metaphors-analogies"
+     },
+     {
+      "slug": "modeling"
      }
     ]
    },
@@ -192051,10 +193662,16 @@
       "slug": "journaling"
      },
      {
+      "slug": "online-course-design"
+     },
+     {
       "slug": "self-directed-learning"
      },
      {
       "slug": "self-regulated-learning"
+     },
+     {
+      "slug": "social-emotional-learning"
      }
     ],
     "principles": [
@@ -192065,10 +193682,16 @@
       "slug": "digital-learning"
      },
      {
+      "slug": "feedback-loops"
+     },
+     {
       "slug": "goal-setting-monitoring"
      },
      {
       "slug": "knowledge-organization"
+     },
+     {
+      "slug": "process-based-writing"
      },
      {
       "slug": "reflection"
@@ -192078,6 +193701,12 @@
      },
      {
       "slug": "self-directed-learning"
+     },
+     {
+      "slug": "self-monitoring"
+     },
+     {
+      "slug": "strengths-based-approach"
      }
     ],
     "strategies": [
@@ -192123,6 +193752,9 @@
     "principles": [
      {
       "slug": "clear-structure"
+     },
+     {
+      "slug": "holistic-learning"
      }
     ]
    },
@@ -192225,6 +193857,11 @@
       "slug": "task-management"
      }
     ],
+    "patterns": [
+     {
+      "slug": "fostering-communities-of-learning-fcl"
+     }
+    ],
     "principles": [
      {
       "polarity": "~",
@@ -192254,9 +193891,17 @@
     ]
    },
    "social-presence": {
+    "patterns": [
+     {
+      "slug": "online-course-design"
+     }
+    ],
     "principles": [
      {
       "slug": "community-of-inquiry"
+     },
+     {
+      "slug": "instructor-accessibility"
      }
     ],
     "strategies": [
@@ -192920,6 +194565,9 @@
      },
      {
       "slug": "fostering-creative-thinking"
+     },
+     {
+      "slug": "holistic-learning"
      }
     ],
     "strategies": [
@@ -193113,6 +194761,9 @@
     "principles": [
      {
       "slug": "assessment-for-learning"
+     },
+     {
+      "slug": "strengths-based-approach"
      }
     ],
     "strategies": [
@@ -193930,6 +195581,11 @@
     ]
    },
    "anderson-six-modes-interaction-online-education": {
+    "patterns": [
+     {
+      "slug": "online-course-design"
+     }
+    ],
     "theories": [
      {
       "slug": "architectonics-science-of-relations"
@@ -194338,9 +195994,6 @@
      },
      {
       "slug": "responsive-classroom"
-     },
-     {
-      "slug": "social-emotional-learning"
      }
     ],
     "principles": [
@@ -194352,9 +196005,6 @@
      },
      {
       "slug": "motivation"
-     },
-     {
-      "slug": "phonics"
      },
      {
       "slug": "procedural-learning"
@@ -196272,9 +197922,6 @@
       "slug": "personalization"
      },
      {
-      "slug": "phonics"
-     },
-     {
       "slug": "self-directed-learning"
      },
      {
@@ -196493,6 +198140,11 @@
     "elements": [
      {
       "slug": "coi-survey-and-metacognition-questionnaire-instruments"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "online-course-design"
      }
     ],
     "principles": [
@@ -196869,13 +198521,7 @@
       "slug": "knowledge-organization"
      },
      {
-      "slug": "modeling"
-     },
-     {
       "slug": "personalization"
-     },
-     {
-      "slug": "phonics"
      },
      {
       "slug": "procedural-learning"
@@ -201075,16 +202721,10 @@
       "strength": "S"
      },
      {
-      "slug": "holistic-learning"
-     },
-     {
       "slug": "knowledge-organization"
      },
      {
       "slug": "personalization"
-     },
-     {
-      "slug": "phonics"
      },
      {
       "slug": "procedural-learning"
@@ -201228,6 +202868,11 @@
     "elements": [
      {
       "slug": "interaction-equivalency-theorem-indicator"
+     }
+    ],
+    "patterns": [
+     {
+      "slug": "online-course-design"
      }
     ],
     "theories": [
@@ -204660,18 +206305,13 @@
       "slug": "authentic-assessment"
      },
      {
-      "polarity": "+",
-      "slug": "epistemic-games",
-      "strength": "M"
+      "slug": "epistemic-games"
      },
      {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
       "slug": "responsive-classroom"
-     },
-     {
-      "slug": "social-emotional-learning"
      }
     ],
     "principles": [
@@ -205203,9 +206843,6 @@
      },
      {
       "slug": "professional-development"
-     },
-     {
-      "slug": "social-emotional-learning"
      },
      {
       "slug": "workshop-model"
@@ -206232,9 +207869,7 @@
       "slug": "data-storytelling-forage-remix-diy"
      },
      {
-      "polarity": "+",
-      "slug": "epistemic-games",
-      "strength": "S"
+      "slug": "epistemic-games"
      },
      {
       "slug": "interdisciplinary-course-based-research-experience"
@@ -206743,9 +208378,6 @@
       "slug": "responsive-classroom"
      },
      {
-      "slug": "social-emotional-learning"
-     },
-     {
       "slug": "workshop-model"
      },
      {
@@ -206760,9 +208392,6 @@
      },
      {
       "slug": "gamification"
-     },
-     {
-      "slug": "modeling"
      },
      {
       "slug": "social-presence"

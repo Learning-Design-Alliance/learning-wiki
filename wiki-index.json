@@ -38306,11 +38306,11 @@
    "type": "pattern"
   },
   {
-   "description": "Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.",
+   "description": "A reusable policy in which learners take a role in a simulation of a profession's work and learn its way of deciding; expected to improve decisions justified in the practice's terms where the practice has been studied, mentors model decisions and feedback and debriefs are given, and the outcome is judged outside the game; no claim in this wiki tests epistemic games.",
    "grain_size": "unit",
    "id": "epistemic-games",
    "path": "patterns/epistemic-games.md",
-   "status": "draft",
+   "status": "review",
    "title": "Epistemic Games",
    "type": "pattern"
   },
@@ -38393,7 +38393,7 @@
    "type": "pattern"
   },
   {
-   "description": "Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners.",
+   "description": "A reusable research-and-teach cycle in which learners become expert on one part of a shared theme, teach it to peers in jigsaw groups and read through reciprocal teaching, expected to raise each learner's understanding of the whole theme where research is guided, teaching is structured and every member is checked on every part; no claim tests the pattern as a whole, only its components.",
    "grain_size": "course",
    "id": "fostering-communities-of-learning-fcl",
    "path": "patterns/fostering-communities-of-learning-fcl.md",
@@ -38857,11 +38857,11 @@
    "type": "pattern"
   },
   {
-   "description": "A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.",
+   "description": "An online course whose structure stays constant, whose weekly cycle builds interaction with content, the teacher and peers by design, whose first week centres on contact with a person and whose discussion is structured to reach a conclusion is expected to raise end-of-term performance and completion over one left to chance; no claim tests this, and the nearest claims bear on self-regulation support, if-then planning for completion and where online learners drop out.",
    "grain_size": "course",
    "id": "online-course-design",
    "path": "patterns/online-course-design.md",
-   "status": "draft",
+   "status": "review",
    "title": "Online Course Design (Community of Inquiry)",
    "type": "pattern"
   },
@@ -39079,7 +39079,7 @@
    "type": "pattern"
   },
   {
-   "description": "Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.",
+   "description": "For school-age learners, a sustained programme, delivered mainly by their own teachers, that explicitly teaches one named social or emotional skill at a time, rehearses it actively with feedback and cues it in daily routines and academic work is expected to improve those skills most, and conduct, distress and achievement by smaller amounts, with gains persisting at follow-up; meta-analyses test universal K\u201312 SEL programmes as a whole against controls, but no claim tests this sequence's steps, adult learners or one-off formats.",
    "grain_size": "program, course, unit",
    "id": "social-emotional-learning",
    "path": "patterns/social-emotional-learning.md",
@@ -39127,7 +39127,7 @@
    "type": "pattern"
   },
   {
-   "description": "Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise.",
+   "description": "A reusable policy in which learners comment on one another's drafts against explicit criteria and each author then revises before the work is judged; expected to improve the revised work, and possibly the reviewers' own later work, where reviewers are calibrated on the criteria, comments point to the draft and suggest changes, revision is required and stakes are formative; no claim tests the full cycle, though peer feedback on writing and peer assessment are each tested against no feedback.",
    "grain_size": "lesson",
    "id": "structured-peer-review",
    "path": "patterns/structured-peer-review.md",
@@ -40544,7 +40544,7 @@
    "type": "principle"
   },
   {
-   "description": "Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system.",
+   "description": "For a learner whose performance can be observed, information about it is expected to improve later performance only when the loop closes (the information says what to change, a next attempt uses it, and that attempt is checked again on a new item); corrective feedback and correct-and-recheck programmes are supported on average, but no claim here tests a closed loop against the same feedback without a next attempt.",
    "id": "feedback-loops",
    "path": "principles/feedback-loops.md",
    "status": "review",
@@ -40867,7 +40867,7 @@
    "type": "principle"
   },
   {
-   "description": "Holistic learning is the principle of helping learners grasp the overall structure, purpose, or whole of a domain before becoming lost in isolated details.",
+   "description": "For a learner without an organisation of their own for interconnected content, giving a usable whole early (a map of the main ideas, a model or a complete simple task) and keeping later details attached to it is expected to help integrative tasks more than learning details in isolation, unless the whole is too complex for a novice to follow; no claim tests whole-first against parts-first, and one small set of physics experiments on hierarchical organisation bears on it.",
    "id": "holistic-learning",
    "path": "principles/holistic-learning.md",
    "status": "review",
@@ -40987,7 +40987,7 @@
    "type": "principle"
   },
   {
-   "description": "Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it.",
+   "description": "For a learner who gets stuck on course work between contacts, published channels, a kept reply window, an invitation that makes asking normal and replies that respond to the learner's attempt are expected to raise the share who get help before they disengage, though no claim here tests instructor accessibility as such.",
    "id": "instructor-accessibility",
    "path": "principles/instructor-accessibility.md",
    "status": "review",
@@ -41406,7 +41406,7 @@
    "type": "principle"
   },
   {
-   "description": "Modeling is the principle of making successful performance visible so learners can study processes, standards, and reasoning before attempting work themselves.",
+   "description": "For a novice on a task whose key decisions a finished product hides, a model that narrates those decisions, studied actively and followed at once by supported practice, is expected to give better unaided performance than the product alone or no model, though no claim here tests live or narrated modelling directly; the evidence is carried from worked examples and self-explanation.",
    "id": "modeling",
    "path": "principles/modeling.md",
    "status": "review",
@@ -41761,7 +41761,7 @@
    "type": "principle"
   },
   {
-   "description": "Phonics instruction teaches learners to map graphemes (letters) onto phonemes (speech sounds) so they can decode unfamiliar words systematically rather than guess from context or pictures.",
+   "description": "For a beginning reader who cannot yet turn print into sound, explicit teaching of letter\u2013sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching.",
    "id": "phonics",
    "path": "principles/phonics.md",
    "status": "review",
@@ -41865,7 +41865,7 @@
    "type": "principle"
   },
   {
-   "description": "Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading.",
+   "description": "For a reader about to meet an expository text whose central ideas they do not yet know, attempting a few aligned questions before reading and checking the attempts against the text afterwards is expected to improve later memory of the questioned content over reading alone, possibly at some cost to unquestioned content; one laboratory claim tests this with undergraduates, and no claim tests its classroom, comprehension or purpose-setting forms.",
    "id": "pre-reading-questioning",
    "path": "principles/pre-reading-questioning.md",
    "status": "review",
@@ -41974,7 +41974,7 @@
     "avoid-appropriating-student-writing",
     "respond-as-a-reader"
    ],
-   "description": "Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product.",
+   "description": "Teaching writing as a staged process (plan, draft, respond, revise, edit) with feedback on drafts gives developing writers a modest gain in writing quality over product-focused teaching, tested by one meta-analysis in grades 1\u201312 that found no gain for struggling writers, who gain more from explicit strategy instruction.",
    "id": "process-based-writing",
    "path": "principles/process-based-writing.md",
    "status": "review",
@@ -42304,7 +42304,7 @@
    "type": "principle"
   },
   {
-   "description": "Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion.",
+   "description": "For a learner with a readable criterion and a next move for each result, taught, test-based checks of their own work at set points during a task are expected to improve performance on it, but no claim here isolates self-monitoring against its absence on a learning outcome.",
    "id": "self-monitoring",
    "path": "principles/self-monitoring.md",
    "status": "review",
@@ -42496,7 +42496,7 @@
    "type": "principle"
   },
   {
-   "description": "A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.",
+   "description": "For a learner described mainly by gaps, collecting evidence of what they can already do, naming it as specific performances and building tasks, roles and support from it, with barriers still addressed, is expected to raise teacher expectations, make competence visible and support self-efficacy and persistence; no claim here compares it with deficit-organized instruction, and praise of the person or brief belief exercises limit it.",
    "id": "strengths-based-approach",
    "path": "principles/strengths-based-approach.md",
    "status": "review",
@@ -42960,10 +42960,10 @@
    "type": "principle"
   },
   {
-   "description": "A high-quality classroom assessment needs validity (the interpretations and uses made of its results are justified), reliability (its results are consistent across occasions, raters, and items), and freedom from bias (it doesn't distort performance based on a student's group membership) \u2014 three genuinely distinct properties, each with its own failure modes.",
+   "description": "A classroom assessment score is expected to support a decision about a learner only as far as the tasks sample the intended capability without demands unrelated to it, the score is consistent across items, occasions and raters, and no group is disadvantaged by content or administration; no claim here tests that relationship in classrooms, and the claims that bear on it come mostly from large-scale testing and simulations.",
    "id": "validity-reliability-and-bias-in-classroom-assessment",
    "path": "principles/validity-reliability-and-bias-in-classroom-assessment.md",
-   "status": "draft",
+   "status": "review",
    "title": "Validity, Reliability, and Bias in Classroom Assessment",
    "type": "principle"
   },

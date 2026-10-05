@@ -124,6 +124,26 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-05 (night) — conversion wave 5: 15 more pages; the biggest gain in fit so far
+
+- **Fifteen pages converted** (`eval/page-triage/wave-5.md`): strengths-based approach, pre-reading questioning,
+  instructor accessibility, feedback loops, validity/reliability/bias in classroom assessment, self-monitoring,
+  process-based writing (which had absorbed three writing-response pages), modeling, holistic learning and phonics;
+  the patterns fostering communities of learning, epistemic games, structured peer review, social-emotional learning
+  and online course design. Only phonics has a claim testing its relationship; every page keeps a labelled default
+  design with doses across sessions. Four more frontmatter DOIs corrected against Crossref.
+- **Tested with 30 briefs (about $6.8): blind pairs 93–27 for the new pages** (complete 47–13, sparse 46–14);
+  accuracy 3.27 → 4.17, decision value 3.72 → 4.53, **brief fit 4.07 → 4.60 and situation fit 3.83 → 4.57**, up on
+  complete and sparse briefs alike. No answer was cut off (answer limit 16,000 tokens).
+- **Losses came from one missing row, again: scarce facilitator time** (volunteers, busy shifts). Rows added to
+  self-monitoring and feedback loops; feedback loops' sparse brief went 1–3 → 2–2 / 3–1. **Self-monitoring lost by
+  overriding the brief**: asked for a "know / unsure / next move" pause, answers replaced it with the page's "tests, not
+  feelings" rule. A row saying to keep a routine the brief names, with one check on its "know" line, took the complete
+  brief 1–3 → 3–1 / 2–2. Its sparse brief still loses 1–3 (open). **When a brief names the routine it wants, a page
+  must say how to run it well, not replace it.**
+- Open: the agents' lists (13 duplicate-claim pairs, ~15 overstated titles, stale text, mis-coded impacts and kinds,
+  two primary-evidence links that disagree with their citations) are in `wave-5.md`.
+
 ### 2026-10-05 (evening) — folds, merges and a claim cleanup before wave 5; merge_claims stopped dropping entries
 
 - **Pages folded** (`merge_pages.py`, maintainer's go-ahead): `competency-based-learning-assessment` into

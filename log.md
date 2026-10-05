@@ -16,6 +16,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Edit**: conversion wave 4 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-4.md); six frontmatter DOIs corrected against Crossref
 * **Merge**: nine principle and pattern pages folded into their canonical pages, two malformed slugs renamed, eleven duplicate claims merged
 * **Fix**: claim cleanup from wave 4's findings — 27 overstated titles rewritten, stale text replaced, codes corrected; nine merged entries restored
+* **Edit**: conversion wave 5 — 15 principle and pattern pages rewritten in the conditional-model format (eval/page-triage/wave-5.md); four frontmatter DOIs corrected against Crossref
 
 ## 2026-10-02
 

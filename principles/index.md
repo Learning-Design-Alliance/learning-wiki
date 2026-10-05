@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**468 entries** · 0 stable · 129 in review · 339 drafts
+**468 entries** · 0 stable · 130 in review · 338 drafts
 
 ---
 
@@ -78,7 +78,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### F {: #letter-f }
 
-* [Feedback Loops](feedback-loops.md) - Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system.
+* [Feedback Loops](feedback-loops.md) - For a learner whose performance can be observed, information about it is expected to improve later performance only when the loop closes (the information says what to change, a next attempt uses it, and that attempt is checked again on a new item); corrective feedback and correct-and-recheck programmes are supported on average, but no claim here tests a closed loop against the same feedback without a next attempt.
 * [Flexible Grouping](flexible-grouping.md) - Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities.
 * [Flipped Learning](flipped-learning.md) - Flipped learning is the principle of shifting initial content exposure outside class so that live time can be used for application, coaching, and discussion.
 * [Formative Assessment](formative-assessment.md) - A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
@@ -95,13 +95,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### H {: #letter-h }
 
 * [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) - Handouts, online guides, and visual reading aids support learning by externalizing structure, highlighting key information, and reducing the amount learners must infer or hold in working memory while reading.
-* [Holistic Learning](holistic-learning.md) - Holistic learning is the principle of helping learners grasp the overall structure, purpose, or whole of a domain before becoming lost in isolated details.
+* [Holistic Learning](holistic-learning.md) - For a learner without an organisation of their own for interconnected content, giving a usable whole early (a map of the main ideas, a model or a complete simple task) and keeping later details attached to it is expected to help integrative tasks more than learning details in isolation, unless the whole is too complex for a novice to follow; no claim tests whole-first against parts-first, and one small set of physics experiments on hierarchical organisation bears on it.
 
 #### I {: #letter-i }
 
 * [Immediate Feedback](immediate-feedback.md) - For a learner practising a task where errors can be seen, correction before the next attempt is expected to stop errors being rehearsed, but whether immediate rather than delayed feedback improves delayed retention is not settled: the comparisons recorded here find no advantage or favour delay.
 * [Inquiry-based Learning](inquiry-based-learning.md) - For school science learners, inquiry that is guided (prompts, feedback, teacher-led explanation and a synthesis) is associated with better conceptual understanding than comparison instruction, while unguided discovery of essential content learns less than explicit instruction for novices.
-* [Instructor Accessibility](instructor-accessibility.md) - Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it.
+* [Instructor Accessibility](instructor-accessibility.md) - For a learner who gets stuck on course work between contacts, published channels, a kept reply window, an invitation that makes asking normal and replies that respond to the learner's attempt are expected to raise the share who get help before they disengage, though no claim here tests instructor accessibility as such.
 
 #### J {: #letter-j }
 
@@ -124,7 +124,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Metaphors & Analogies](metaphors-analogies.md) - Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images.
 * [Mindfulness Activities](mindfulness-activities.md) - Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting.
 * [Mnemonic Device](mnemonic-device.md) - Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently.
-* [Modeling](modeling.md) - Modeling is the principle of making successful performance visible so learners can study processes, standards, and reasoning before attempting work themselves.
+* [Modeling](modeling.md) - For a novice on a task whose key decisions a finished product hides, a model that narrates those decisions, studied actively and followed at once by supported practice, is expected to give better unaided performance than the product alone or no model, though no claim here tests live or narrated modelling directly; the evidence is carried from worked examples and self-explanation.
 * [Motivation](motivation.md) - Motivation is the principle of designing learning so that learners see value, feel capable of progress, and want to continue engaging with the work.
 * [Multimedia Learning](multimedia-learning.md) - For a learner without a working model of a structure or process, a relevant picture placed with the words that explain it may improve a learning test over words alone, qualified by redundancy, decorative additions, pacing, prior knowledge and assessment horizon.
 * [Multimedia Projects](multimedia-projects.md) - Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition.
@@ -148,13 +148,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Personalization](personalization.md) - Personalization adapts content, pacing, difficulty, or context to individual learners' prior knowledge, needs, or interests rather than delivering a uniform experience to all.
 * [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) - Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem.
 * [Perspective-Taking](perspective-taking.md) - Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own.
-* [Phonics](phonics.md) - Phonics instruction teaches learners to map graphemes (letters) onto phonemes (speech sounds) so they can decode unfamiliar words systematically rather than guess from context or pictures.
+* [Phonics](phonics.md) - For a beginning reader who cannot yet turn print into sound, explicit teaching of letter–sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching.
 * [Physical Activity](physical-activity.md) - Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn.
 * [Positive Self-talk](positive-self-talk.md) - Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance.
-* [Pre-reading Questioning](pre-reading-questioning.md) - Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading.
+* [Pre-reading Questioning](pre-reading-questioning.md) - For a reader about to meet an expository text whose central ideas they do not yet know, attempting a few aligned questions before reading and checking the attempts against the text afterwards is expected to improve later memory of the questioned content over reading alone, possibly at some cost to unquestioned content; one laboratory claim tests this with undergraduates, and no claim tests its classroom, comprehension or purpose-setting forms.
 * [Problem-based Learning](problem-based-learning.md) - For learners who must apply knowledge to ill-structured problems, organizing work around problems has a small, highly variable and possibly inflated average effect; what is better supported is guidance for novices on the target content, with a problem-first phase as a narrower option followed by instruction.
 * [Procedural Learning](procedural-learning.md) - Procedural learning is the principle of helping learners acquire and refine sequences of action, routines, or task procedures until performance becomes more accurate, fluent, and reliable.
-* [Process-based Writing](process-based-writing.md) - Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product.
+* [Process-based Writing](process-based-writing.md) - Teaching writing as a staged process (plan, draft, respond, revise, edit) with feedback on drafts gives developing writers a modest gain in writing quality over product-focused teaching, tested by one meta-analysis in grades 1–12 that found no gain for struggling writers, who gain more from explicit strategy instruction.
 * [Purposeful Reflection](purposeful-reflection.md) - Purposeful reflection is structured time for learners to examine what they did, what they understood, where they struggled, and what they should do next.
 
 #### Q {: #letter-q }
@@ -178,7 +178,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Self-Determination Theory](self-determination-theory.md) - Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
 * [Self-Directed Learning](self-directed-learning.md) - Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
 * [Self-Explanation](self-explanation.md) - Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples.
-* [Self-monitoring](self-monitoring.md) - Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion.
+* [Self-monitoring](self-monitoring.md) - For a learner with a readable criterion and a next move for each result, taught, test-based checks of their own work at set points during a task are expected to improve performance on it, but no claim here isolates self-monitoring against its absence on a learning outcome.
 * [Self-Regulated Learning](self-regulated-learning.md) - When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured.
 * [Sequencing](sequencing.md) - Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively.
 * [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) - Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality.
@@ -187,7 +187,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social Interdependence](social-interdependence.md) - For learners who can contribute to a multi-week group task, making the group's success depend on every member's individually assessed learning (a shared goal, team recognition built from individual results, and distinct roles or resources) is expected to make members help and hold one another to account and so raise individual achievement; claims test the reward-plus-accountability component in school studies, while one online experiment found role or reward structures changed interaction and attitudes but not achievement.
 * [Social Presence](social-presence.md) - Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
 * [Spaced Learning](spaced-learning.md) - A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy.
-* [Strengths-based Approach](strengths-based-approach.md) - A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.
+* [Strengths-based Approach](strengths-based-approach.md) - For a learner described mainly by gaps, collecting evidence of what they can already do, naming it as specific performances and building tasks, roles and support from it, with barriers still addressed, is expected to raise teacher expectations, make competence visible and support self-efficacy and persistence; no claim here compares it with deficit-organized instruction, and praise of the person or brief belief exercises limit it.
 * [Summative Assessment](summative-assessment.md) - Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached.
 
 #### T {: #letter-t }
@@ -202,6 +202,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### V {: #letter-v }
 
+* [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) - A classroom assessment score is expected to support a decision about a learner only as far as the tasks sample the intended capability without demands unrelated to it, the score is consistent across items, occasions and raters, and no group is disadvantaged by content or administration; no claim here tests that relationship in classrooms, and the claims that bear on it come mostly from large-scale testing and simulations.
 * [Video Replay Analysis](video-replay-analysis.md) - Video replay analysis uses recorded performance, instruction, or interaction as an object for review.
 
 #### W {: #letter-w }
@@ -602,7 +603,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### V {: #letter-v }
 
-* [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) - A high-quality classroom assessment needs validity (the interpretations and uses made of its results are justified), reliability (its results are consistent across occasions, raters, and items), and freedom from bias (it doesn't distort performance based on a student's group membership) — three genuinely distinct properties, each with its own failure modes.
 * [Vertical and Horizontal Bonding in Numerical Routines](vertical-and-horizontal-bonding-in-numerical-routines.md) - Support young children's shift from rote, imitative numerical routines to flexible, outcome-sensitive ones by making explicit the connection between a procedure's steps and its outcome, and by exposing children to multiple procedures that solve the same comparison task.
 * [Vocabulary materials should offer diverse exercise types to accommodate varied learning styles](diverse-exercise-types-learning-styles.md) - Robinson argues there is no single way of learning vocabulary suitable to all learners: some enjoy lists, dictionary work or sifting stories for unknown words, while others differ in eagerness to convert passive knowl...
 
