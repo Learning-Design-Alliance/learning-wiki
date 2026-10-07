@@ -1,6 +1,7 @@
 ---
 type: principle
 id: chunking
+aliases: [keep-chunking-study-outlines-short]
 title: Chunking
 description: "For a learner who cannot yet treat a task's elements as familiar units, presenting the material in meaningful units with boundaries at conceptual breaks, then recombining them, is expected to ease processing and may improve immediate performance; what counts as a unit depends on that learner's prior knowledge."
 status: review
@@ -20,6 +21,10 @@ sources:
     resource: "https://doi.org/10.18502/kss.v9i8.15489"
     title: "Juanengsih, N., et al. (2024). The Use of Chunking Technique Combined with the Writing Is Thinking Technique to Control Students' Cognitive Load When Learning About the Human Reproductive System. *KnE Social Sciences*, 83–90"
     author: Juanengsih, N., et al
+  - id: furukawa-1978
+    resource: "https://eric.ed.gov/?id=ED165097"
+    title: "Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097"
+    author: "Furukawa, J. M., Sumpter, K., & Cohen, N"
 ---
 
 # Chunking
@@ -31,7 +36,7 @@ sources:
 
 For a learner who cannot yet treat the elements of a particular task as familiar units (a **novice on that task**, not necessarily in the wider domain), on material **high in element interactivity** or presented transiently (narrated animation, video, a long run of directions), presenting the material in **meaningful units with boundaries at conceptual breaks**, and then deliberately recombining those units, is expected to ease processing during study and may improve **immediate performance** or **near transfer**, compared with the same material presented as one continuous or ungrouped stream. What counts as one unit is not a property of the material: it depends on what the learner already holds as a chunk, so the same grouping can be necessary for one learner and redundant for another. Whether the gain survives to **delayed retention**, and whether it shows in performance or only in reported effort, has to be stated for each design. The wiki holds no claim that tests designer-grouped (as distinct from time-segmented) static material against ungrouped material; the instructional evidence below is mostly about segmenting transient media, plus one weak study of study-outline length.
 
-This page owns the narrower question inside load management: **what size a unit is, where its boundaries fall, and how units are recombined**. [Cognitive Load Theory](cognitive-load-theory.md) states the general relationship that removing avoidable processing helps task-specific novices on high-element-interactivity material, and treats segmentation as one of several load-reducing techniques; its expertise qualification applies here and is not restated. No chunking pattern exists; strategies that apply this relationship include [Chunking Content](../strategies/chunking-content.md) and [chunked animations with pauses](../strategies/chunked-animations-with-pauses.md), and [Keep chunking study outlines short](keep-chunking-study-outlines-short.md) is a narrower principle from one study.
+This page owns the narrower question inside load management: **what size a unit is, where its boundaries fall, and how units are recombined**. [Cognitive Load Theory](cognitive-load-theory.md) states the general relationship that removing avoidable processing helps task-specific novices on high-element-interactivity material, and treats segmentation as one of several load-reducing techniques; its expertise qualification applies here and is not restated. No chunking pattern exists; strategies that apply this relationship include [Chunking Content](../strategies/chunking-content.md) and [chunked animations with pauses](../strategies/chunked-animations-with-pauses.md), and [Keep chunking study outlines short](chunking.md) is a narrower principle from one study.
 
 ## Observation, state and explanation
 
@@ -90,6 +95,7 @@ Easier study, immediate performance on a unit, recombined whole-task performance
 - Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)
 - Juanengsih, N., et al. (2024). The Use of Chunking Technique Combined with the Writing Is Thinking Technique to Control Students' Cognitive Load When Learning About the Human Reproductive System. *KnE Social Sciences*, 83–90. [https://doi.org/10.18502/kss.v9i8.15489](https://doi.org/10.18502/kss.v9i8.15489)
 - Lin, H., & Dwyer, F. M. (2010). The effect of different chunking strategies in complementing animated instruction. *Journal of Instructional Psychology*, 37(2).
+- Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the principle body as it stood before the rewrite, kept verbatim.
 
@@ -127,4 +133,41 @@ Chunking matters because learners cannot process unlimited novelty at once. When
 
 ### Claims
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — organizing information into meaningful units lowers working-memory burden and improves manageability
+-->
+
+<!-- merged 2026-10-07 from principles/keep-chunking-study-outlines-short ("Keep chunking study outlines short, limited to headings and key words"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Keep chunking study outlines short, limited to headings and key words
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The chunking study outline (CSO) is a teacher-provided study aid consisting of chapter, section, and subsection headings plus key words that students process in quantities matching their cognitive processing capacity. The article's evidence shows longer outlines with added definitions and descriptions lower test performance, so outlines "should be limited to headings of. chapters, sections and subsections" and key words. This principle operationalizes the CSO as a "critical element" of the chunking method.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The CSO must be limited to essential information: headings and nouns or adjective-noun pairs that are subjects of paragraphs and sentences
+#### Constraints
+- Students observed disregarding the caveat by adding complete definitions and descriptions, which reduced performance
+
+### Target Learners
+- higher education students, including provisionally accepted students with low SAT-Verbal scores
+
+### Target Learning Objectives
+- retention of course content such as general psychology concepts and principles
+
+### Claims
+- [Short Cso Improves Test Performance](../claims/short-cso-improves-test-performance.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Furukawa, J. M., Sumpter, K., & Cohen, N. (1978). Chunking Method of Teaching and Studying: II. Paper presented at a meeting of the American Psychological Association, Toronto. https://eric.ed.gov/?id=ED165097
 -->

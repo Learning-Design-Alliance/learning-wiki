@@ -1,12 +1,18 @@
 ---
 type: principle
 id: standardized-test-fairness-and-bias
+aliases: [similar-item-positions-across-booklets]
 title: Standardized Test Fairness and Bias
 description: "A standardized test score is expected to support a selection or placement decision equally well across groups only where its items do not depend on group background, it predicts the later outcome equally accurately for each group, and the testing conditions do not depress one group's scores; no claim tests this relationship, and the claims bearing on it are second-hand testimony, narrative reviews, psychometric studies of item-bias methods and a values-affirmation intervention that did not replicate."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: soysal-2021
+    resource: "https://doi.org/10.21449/ijate.779963"
+    title: "Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963"
+    author: "Soysal, S., & Yilmaz Kogar, E"
 ---
 
 # Standardized Test Fairness and Bias
@@ -155,6 +161,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - Aronson, J., & Steele, C. M. (2005). Stereotypes and the fragility of academic competence, motivation, and self-concept. In A. J. Elliot & C. S. Dweck (Eds.), *Handbook of competence and motivation* (pp. 436-456). Guilford Press.
 - Arduini-Van Hoose, N. (2020). Issues with standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary, House of Representatives, One Hundredth Congress, First Session. (1989). https://eric.ed.gov/?id=ED312276
+- Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -211,4 +218,41 @@ Whether standardized tests are biased against particular social class, racial, o
 - Young, J. W. (2004). Differential validity and prediction: Race and sex differences in college admissions testing. In R. Zwick (Ed.), *Rethinking the SAT: The future of standardized testing in university admissions* (pp. 289-301). RoutledgeFalmer.
 - Aronson, J., & Steele, C. M. (2005). Stereotypes and the fragility of academic competence, motivation, and self-concept. In A. J. Elliot & C. S. Dweck (Eds.), *Handbook of competence and motivation* (pp. 436-456). Guilford Press.
 - Arduini-Van Hoose, N. (2020). Issues with standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+-->
+
+<!-- merged 2026-10-07 from principles/similar-item-positions-across-booklets ("Position the same items in similar locations across different test booklets to avoid position-related DIF"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Position the same items in similar locations across different test booklets to avoid position-related DIF
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+This test-assembly principle holds that when multiple booklets are formed from the same items, the items should occupy similar positions in each booklet. The article's DIF analysis of TEOG booklets found that items flagged as DIF were "generally positioned at considerably different places between booklets", and on this basis recommends that "the same items be positioned in similar locations in the different booklets" to avoid DIF resulting from item position effects.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Test forms must be built from the same items arranged into multiple booklets, so item positions can be coordinated across booklets.
+#### Constraints
+- The article notes some similarly positioned items were still flagged as DIF, possibly due to Type I error from sampling, so similar positioning reduces but may not eliminate DIF flags.
+
+### Target Learners
+- 8th-grade students taking large-scale achievement exams
+
+### Target Learning Objectives
+- Fair and valid score interpretation across test booklets in large-scale assessment
+
+### Claims
+- [Dif Items Differently Positioned Across Booklets](../claims/dif-items-differently-positioned-across-booklets.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963
 -->

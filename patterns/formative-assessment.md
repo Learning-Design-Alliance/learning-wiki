@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: formative-assessment
+aliases: [keypad-quizzing-interrupts-lecture-for-formative-assessment]
 title: Formative Assessment
 description: "A reusable elicit–interpret–act–reobserve policy, qualified by what a response can establish and by whether a relevant next action is available."
 status: review
@@ -16,6 +17,10 @@ sources:
     resource: "https://doi.org/10.1007/s10648-011-9191-6"
     title: "Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249"
     author: Clark, I
+  - id: burnstein-2007
+    resource: "https://iopscience.iop.org/journal/0031-9120"
+    title: "Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120"
+    author: Burnstein, R. A. and Lederman, L. M
 author: formative assessment tradition
 grain_size: lesson
 ---
@@ -81,6 +86,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M] — not settled: the abstract available could not confirm the entries
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](../claims/peer-assessment-structured-criteria-improve-learning.md) [~M] — not yet checked against its sources
 - [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](../claims/tefa-formative-information-changed-lessons.md) [+M] — checked by the judge: all 1 entries pass (full text)
+- [Wireless Keypads Convert Passive Audience To Active Learners](../claims/wireless-keypads-convert-passive-audience-to-active-learners.md) [+W]
 
 ## Design Decisions
 <!-- Restored 2026-10-01 with the claims above; written 2026-09-30 for the earlier version of this page, so its decisions predate the conditional model. Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -136,3 +142,41 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 Kingston & Nash (2011), [2015 publisher erratum](https://onlinelibrary.wiley.com/doi/10.1111/emip.12075). Corrected content-area table checked; full primary-study assignment and measurement details remain unverified in this run.
 
 The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.
+
+<!-- merged 2026-10-07 from patterns/keypad-quizzing-interrupts-lecture-for-formative-assessment ("Keypad quizzing that interrupts a lecture 5-15 times with multiple-choice questions to insert rapid feedback"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Keypad quizzing that interrupts a lecture 5-15 times with multiple-choice questions to insert rapid feedback
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+This is the article's described classroom pattern for formative assessment in large lectures: 'Quizzing with keypads 8 involves interrupting a 60 to 90 minute lecture 5-15 times with multiple-choice quiz questions and evaluating and recording the results.' Results are projected to the class, and the teacher can immediately respond by presenting a new or related question or initiating group discussion. The authors note fewer questions fit when questions are complicated or presented in peer-learning mode, and more when questions are simple.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A wireless keypad or other on-line polling system with automated grading and projection of response histograms
+#### Constraints
+- When questions are complicated or presented with group discussion in peer learning mode, fewer questions can be asked during a class session
+
+### Target Learners
+- large college classes, from secondary school through university levels
+
+### Target Goals
+- formative assessment with rapid feedback during lecture
+- checking whether reading assignments were done
+
+### Claims
+- [Wireless Keypads Convert Passive Audience To Active Learners](../claims/wireless-keypads-convert-passive-audience-to-active-learners.md) [+M]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120
+-->

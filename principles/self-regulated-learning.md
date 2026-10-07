@@ -1,7 +1,7 @@
 ---
 type: principle
 id: self-regulated-learning
-aliases: [metacognition, self-regulation]
+aliases: [metacognition, self-regulation, scale-srl-support-with-web-based-training-and-peer-feedback-groups]
 title: Self-Regulated Learning
 description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
 status: review
@@ -17,6 +17,10 @@ sources:
     resource: "https://doi.org/10.1037/0003-066X.34.10.906"
     title: "Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911"
     author: Flavell, J. H
+  - id: bellhäuser-2022
+    resource: "https://doi.org/10.3389/fpsyg.2022.813381"
+    title: "Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381"
+    author: "Bellhäuser, H., Liborius, P., & Schmitz, B"
 ---
 
 # Self-Regulated Learning
@@ -60,6 +64,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners often need reflection focused on what to do next, not just whether they reached the endpoint; not settled: the text available could not confirm the entries (abstract)
+- [Peer Feedback Groups Added To Web Based Srl Training Raise Srl Self Efficacy And Math Focus Score](../claims/peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) [+M]
+- [Srl Interventions Math Overall Score Marginal Focus Score Significant Online Prep Course](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~M]
 
 ## Objective and learner-valued goal
 
@@ -77,6 +83,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
 - [Formative Assessment](formative-assessment.md)
 - [Purposeful Reflection](purposeful-reflection.md)
+- [Peer Feedbackpeer Review](peer-feedback.md)
 
 ## Examples
 
@@ -92,6 +99,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906-911. [https://doi.org/10.1037/0003-066X.34.10.906](https://doi.org/10.1037/0003-066X.34.10.906)
 - Dunlosky, J., & Metcalfe, J. (2008). *Metacognition*. Sage.
+- Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The original body follows verbatim.
 
@@ -214,4 +222,47 @@ Self-regulation becomes more likely when learners have clear goals, usable feedb
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+-->
+
+<!-- merged 2026-10-07 from principles/scale-srl-support-with-web-based-training-and-peer-feedback-groups ("Scale SRL Support With Web-Based Training Supplemented by Peer Feedback Groups"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Scale SRL Support With Web-Based Training Supplemented by Peer Feedback Groups
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The authors recommend web-based SRL training where many students need support: "we advocate its application in educational settings in which large groups of students require support in their self-regulated learning, particularly in distance learning environments that prevent face-to-face training." They add that peer feedback "appears to be a useful supplement to WBT, and its organizational costs are comparably low", and name future refinements such as teaching feedback criteria and rubrics.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A web-based training that, once created, can serve virtually unlimited numbers of participants
+- Groups of five given a group discussion task after each of the three training lessons
+#### Constraints
+- The sample was predominantly male and may not be representative of students from other fields
+- A nested design tested three combinations of interventions rather than separating the diary, training and peer feedback
+- The effect on mathematics performance was found only for the focus score and was small
+
+### Target Learners
+- Prospective university students in mathematically oriented fields (computer science, civil engineering, mechanical engineering, mathematics) taking a voluntary online mathematics preparation course
+
+### Target Learning Objectives
+- Self-regulated learning, self-efficacy and time investment in distance learning environments
+
+### Claims
+- [Peer Feedback Groups Added To Web Based Srl Training Raise Srl Self Efficacy And Math Focus Score](../claims/peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) [+M]
+- [Web Based Srl Training With Diary Raises Srl Knowledge And Self Efficacy Not Math](../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) [+M]
+- [Srl Interventions Math Overall Score Marginal Focus Score Significant Online Prep Course](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~M]
+
+## Related Principles
+- [Self Regulated Learning](self-regulated-learning.md)
+- [Peer Feedbackpeer Review](peer-feedback.md)
+
+## Examples
+-
+
+## Key Sources
+- Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381
 -->

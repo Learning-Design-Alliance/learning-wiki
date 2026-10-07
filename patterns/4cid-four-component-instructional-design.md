@@ -1,7 +1,7 @@
 ---
 type: pattern
 id: 4cid-four-component-instructional-design
-aliases: [4cid]
+aliases: [4cid, tell-show-do-distributed-across-whole-tasks, whole-task-progression-increasing-complexity]
 title: 4C/ID (Four-Component Instructional Design)
 description: "A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals."
 status: review
@@ -13,6 +13,10 @@ sources:
     resource: "https://doi.org/10.1002/acp.1250"
     title: "van Merrienboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343-352"
     author: "van Merrienboer, J. J. G., Kester, L., & Paas, F"
+  - id: m-david-merrill-2007
+    resource: "https://eric.ed.gov/?id=EJ826059"
+    title: "M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059"
+    author: M. David Merrill
 author: Jeroen J. G. van Merrienboer
 grain_size: unit
 ---
@@ -69,6 +73,8 @@ Do not combine these into a predicted effect for the whole pattern. They differ 
 Every claim this page cited before the rewrite has been read against the model and appears above, so none is listed here.
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](../claims/osce-advantage-4cid-not-significant.md) [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training"; tests this page's relationship.
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](../claims/no-knowledge-difference-lecture-vs-4cid-consent-training.md) [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training".
+- [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](../claims/entrepreneur-course-trial-matches-business-majors.md) [+W]
+- [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../claims/task-variety-enables-transfer-same-task-type.md) [+W]
 
 ## Illustrative design instance and observation record
 
@@ -85,16 +91,20 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)
 - [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Reigeluth's Elaboration Theory](elaboration-theory.md)
 
 ## Examples
 - Clinical training programs that move from simpler to more complex patient cases while fading support.
 - Technical workforce training where learners perform increasingly realistic troubleshooting tasks.
 - Professional education sequences that combine authentic tasks, coaching, and targeted subskill drills.
+- [Whole Task Practice](../strategies/whole-task-practice.md)
+- [Scaffolded Difficulty Progression](../strategies/scaffolded-difficulty-progression.md)
 
 ## Key Sources
 - van Merrienboer, J. J. G. (1997). *Training complex cognitive skills*. Educational Technology Publications.
 - van Merrienboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343-352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)
 - van Merrienboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.
+- M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the pattern body as it stood before the rewrite, kept verbatim.
 
@@ -174,4 +184,87 @@ The pattern is strongest when learners need transfer to authentic performance. I
 ## Impact
 - Strong fit for complex-skill domains where transfer matters more than short-term task ease.
 - Helps preserve authentic performance demands while still protecting novices from overload.
+-->
+
+<!-- merged 2026-10-07 from patterns/tell-show-do-distributed-across-whole-tasks ("Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Whereas traditional instruction implements tell, show, recall, and apply for each topic in turn, in a task-centered strategy "this strategy is distributed across the several whole tasks in the progression": components are presented and demonstrated in early whole tasks and applied in subsequent ones. The instruction starts by demonstrating the least complex whole task, which forms a comprehensible objective for learners, and components may need additional demonstrations, information, or extra examples in later tasks depending on difficulty.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The first demonstration should be a complete but least complex version of the whole task, overviewing components at a high level to avoid overwhelming learners.
+#### Constraints
+- Some components may be so complex that additional demonstration or application examples outside the progression of whole tasks are necessary.
+
+### Target Learners
+- learners new to a content area
+
+### Target Goals
+- forming mental models of how component skills integrate into complete performance
+
+### Claims
+
+- [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](../claims/entrepreneur-course-trial-matches-business-majors.md) [+W]
+- [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../claims/task-variety-enables-transfer-same-task-type.md) [+W]
+
+## Related Patterns
+
+- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](4cid-four-component-instructional-design.md)
+
+## Examples
+-
+
+## Key Sources
+- M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
+-->
+
+<!-- merged 2026-10-07 from patterns/whole-task-progression-increasing-complexity ("Task progression pattern: complete whole tasks of increasing complexity with limited new components"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Task progression pattern: complete whole tasks of increasing complexity with limited new components
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The pattern sequences a series of complete worked-example tasks rather than topic-by-topic instruction. "In a good progression each succeeding task is more complex than the preceding task", and "To manage cognitive load it is advisable to introduce only a limited number of new components or revised components for each succeeding task." Tasks should be as divergent as possible while remaining of the same type, and all component skills required by the final tasks must appear across the progression.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Each task in the progression should be complete, a worked example rather than a mere description, and require the same or similar knowledge and skill components.
+#### Constraints
+- For very complex tasks, an early two-phase variant progressively increases the complexity of a single whole task before additional whole examples are given.
+
+### Target Learners
+- learners new to a content area
+
+### Target Goals
+- transfer of knowledge and skill to yet unencountered tasks of the same type
+
+### Claims
+
+- [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](../claims/entrepreneur-course-trial-matches-business-majors.md) [+W]
+- [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](../claims/task-variety-enables-transfer-same-task-type.md) [+W]
+
+## Related Patterns
+
+- [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](4cid-four-component-instructional-design.md)
+- [Reigeluth's Elaboration Theory](elaboration-theory.md)
+
+## Examples
+
+- [Whole Task Practice](../strategies/whole-task-practice.md)
+- [Scaffolded Difficulty Progression](../strategies/scaffolded-difficulty-progression.md)
+
+## Key Sources
+- M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059
 -->

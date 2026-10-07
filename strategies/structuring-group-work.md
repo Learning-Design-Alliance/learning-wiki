@@ -62,7 +62,7 @@ Group work improves outcomes when it creates genuine interdependence and individ
 
 - [Peer Instruction](peer-instruction.md) — a tightly structured pair-discussion protocol with individual voting accountability
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role rotation applied to reading comprehension dialogue
-- [Jigsaw Method](../patterns/jigsaw-method.md) — the canonical interdependence structure
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — the canonical interdependence structure
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 
 ## Examples

@@ -48,7 +48,7 @@ Group work is the element in which learners work together on a shared task, prod
 - [Differentiated Team Roles](differentiated-team-roles.md)
 
 ## Patterns That Use This Element
-- [Jigsaw Method](../patterns/jigsaw-method.md)
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md)
 

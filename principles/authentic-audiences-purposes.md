@@ -64,7 +64,7 @@ The expectation should weaken if comparisons that hold topic, time and order con
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — authentic audiences often emerge from real questions and investigations
 - [Competency-based Learning & Assessment](competency-based-assessment.md) — authentic products can serve as demonstrations of competence
-- [Learner Choice](learner-choice.md) — choice over topic, format, or audience can amplify authenticity when still aligned to goals
+- [Learner Choice](autonomy.md) — choice over topic, format, or audience can amplify authenticity when still aligned to goals
 - [Clear Structure & Presentation](clear-structure.md) — real-world work still needs explicit expectations and supports
 
 ## Examples

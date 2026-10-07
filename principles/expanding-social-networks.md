@@ -1,6 +1,7 @@
 ---
 type: principle
 id: expanding-social-networks
+aliases: [age-friendly-classroom-remedy-social-isolation]
 title: Expanding Social Networks
 description: Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation.
 status: review
@@ -12,6 +13,10 @@ sources:
     resource: "https://doi.org/10.1080/08923647.2012.697697"
     title: "Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments. *American Journal of Distance Education, 26*(3), 157-171"
     author: Dorner, H
+  - id: weintraub-2025
+    resource: "http://doi.org/10.35847/LWeintraub.7.1.37"
+    title: "Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37"
+    author: Weintraub, L
 ---
 
 # Expanding Social Networks
@@ -25,7 +30,7 @@ Networking and supporting adult learners in expanding their social networks prov
 Proactive networking behaviors have been associated with increased productivity, hope, and a more positive view of one's future work self. Access to peers, expertise, and learning networks are strong predictors of opportunities to engage in workplace learning. Across the adult work lifespan, the informal learning that takes place in personal and social networks is important across many contexts such as hearing about job opportunities, gaining initial entry, connecting with potential employers, and gaining access to choices about different ways of updating skills, knowledge and experience.
 
 ## Implications
-Expanding social networks matters because access to opportunity is often mediated through people, not just through formal curriculum. New ties to peers, mentors, community organizations, and professional groups can increase belonging, information flow, and practical access to learning or work opportunities, especially for learners who start with limited institutional access. But networks do not become educative automatically: learners usually need explicit support for outreach, help-seeking, and follow-through [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], they benefit when they can explain their goals and problems clearly to others [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and strong networks should gradually support greater independence rather than permanent reliance on a single gatekeeper [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]. Programs also have to design against the tendency for networking to simply reproduce existing privilege, which is easier when learners have clear goals for what kinds of ties and opportunities they are trying to build [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+Expanding social networks matters because access to opportunity is often mediated through people, not just through formal curriculum. New ties to peers, mentors, community organizations, and professional groups can increase belonging, information flow, and practical access to learning or work opportunities, especially for learners who start with limited institutional access. But networks do not become educative automatically: learners usually need explicit support for outreach, help-seeking, and follow-through [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], they benefit when they can explain their goals and problems clearly to others [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and strong networks should gradually support greater independence rather than permanent reliance on a single gatekeeper [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]. Programs also have to design against the tendency for networking to simply reproduce existing privilege, which is easier when learners have clear goals for what kinds of ties and opportunities they are trying to build [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M].
 
 ### Context
 #### Requirements
@@ -33,24 +38,29 @@ Expanding social networks matters because access to opportunity is often mediate
 - Access to peers, mentors, community organizations, affinity groups, or professional communities that can widen opportunity
 - Support for networking behaviors such as outreach, reciprocal exchange, and asking for help
 - Attention to inclusion so learners with fewer existing connections are not left behind by a “networking” norm that rewards the already connected
+- Instructors must actively foster cooperation, peer mentoring, and many opportunities to succeed in each class
 
 #### Constraints
 - Network-building can reproduce inequity if programs simply leverage existing privilege rather than intentionally broadening access
 - Learners with adverse experiences, language barriers, or low confidence may need explicit support to participate in networking spaces
 - Large or loosely structured networking events often produce weak ties without durable follow-through
 - Social-network expansion is valuable only if connections are relevant, trusted, and usable for learning or opportunity
+- The author acknowledges depression, homesickness, bereavement, and loss of independence affect some students' outlook and concentration, and does not gloss over these realities
 
 ### Target Learners
 - Adult learners entering new educational, workplace, or community environments
 - Learners with limited professional or institutional access who need bridges to opportunity
 - Learners in transition: immigrants, re-entry populations, career changers, and first-generation participants in formal learning systems
 - Learners whose persistence and belonging improve when they can locate trusted peers and mentors
+- socially isolated older immigrant English learners
 
 ### Target Learning Objectives
 - Increase access to information, guidance, and opportunity through new ties
 - Strengthen help-seeking, peer support, and professional communication
 - Build belonging and identity within a learning or professional community
 - Support persistence by reducing isolation and increasing access to practical resources
+- English communication
+- social connection and confidence as language learners
 
 ### Theory
 #### Supporting
@@ -68,13 +78,17 @@ Expanding social networks matters because access to opportunity is often mediate
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — mentoring and networked support are most useful when people respond to learners’ actual needs rather than offering generic advice
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — networks become more educative when learners explain problems, reasoning, and goals clearly to others
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — strong networks support independence over time rather than permanent dependency on a single gatekeeper
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — networking support is stronger when learners have clear goals for who they need to meet and why
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — networking support is stronger when learners have clear goals for who they need to meet and why
+- [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
+- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — networks deepen when they become recurring communities around shared work
 - [Ask Experts](ask-experts.md) — expert access is often a key reason to expand networks
 - [Check-ins](check-ins.md) — regular low-stakes contact can help relationships form before higher-stakes support is needed
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — network-building should respect and build from learners’ existing communities and identities
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
@@ -82,9 +96,54 @@ Expanding social networks matters because access to opportunity is often mediate
 - [Community Involvement](../strategies/community_involvement.md) — builds bridges between learners and broader support systems
 - Online professional networks or cohort channels can widen access when paired with structured participation norms
 - Networking routines tied to concrete goals, such as informational interviews or resource-mapping exercises, are stronger than generic mixers
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
 
 ## Key Sources
 - Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.
 - Hellerstein, J. K., & Neumark, D. (2020). Social capital, networks, and economic wellbeing. *The Future of Children, 30*(1).
 - Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments. *American Journal of Distance Education, 26*(3), 157-171. [doi:10.1080/08923647.2012.692265](https://doi.org/10.1080/08923647.2012.692265)
 - Ngcoza, K., & Southwood, S. (2019). Webs of development: Professional networks as spaces for learning. *Pythagoras, 40*(1).
+- Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
+
+<!-- merged 2026-10-07 from principles/age-friendly-classroom-remedy-social-isolation ("Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+The author argues the social and linguistic isolation older immigrants face has physical and psychological consequences, citing CDC material linking isolation to heart disease, stroke, and dementia. She holds that "An age-friendly ESL classroom can serve as a remedy for social isolation and the feelings of helplessness and depression that may accompany it," offering a warm, low-stress environment where students form a community of learners. Practices include fostering cooperation, having classmates assist struggling peers, veteran students mentoring new arrivals, and abundant praise and applause for gains.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must actively foster cooperation, peer mentoring, and many opportunities to succeed in each class
+#### Constraints
+- The author acknowledges depression, homesickness, bereavement, and loss of independence affect some students' outlook and concentration, and does not gloss over these realities
+
+### Target Learners
+- socially isolated older immigrant English learners
+
+### Target Learning Objectives
+- English communication
+- social connection and confidence as language learners
+
+### Claims
+
+- [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
+- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+
+## Related Principles
+
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+- [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
+
+## Examples
+
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+
+## Key Sources
+- Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
+-->

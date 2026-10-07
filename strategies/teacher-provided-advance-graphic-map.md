@@ -38,7 +38,7 @@ The instructor supplies a completed graphic map of key concepts and interrelatio
 
 ## Related Strategies
 
-- [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)
+- [Semantic Mapping Principle](../principles/graphic-organizers.md)
 - [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 - [Graphic Organizers](graphic-organizers.md)
 - [Lecture Support with Graphic Organizers](lecture_support_with_graphic_organizers.md)

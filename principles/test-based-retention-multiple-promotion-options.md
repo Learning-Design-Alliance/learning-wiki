@@ -46,7 +46,7 @@ The toolkit's retention principle holds that students unable to demonstrate suff
 
 ## Related Principles
 
-- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](literacy-coaches-job-embedded-support.md)
+- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](ongoing-study-teams-peer-coaching-in-service.md)
 
 ## Examples
 

@@ -16,6 +16,10 @@ sources:
     resource: "https://doi.org/10.4324/9781315113210"
     title: "van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge"
     author: "van Merriënboer, J. J. G., & Kirschner, P. A"
+  - id: dozier-2008
+    resource: "https://eric.ed.gov/?id=EJ1059644"
+    title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
+    author: Dozier, C. L
 author: "Collins, Brown, & Newman (1989)"
 grain_size: course, unit
 ---
@@ -101,12 +105,17 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 **Engineering education — design studios:** Expert designers walk through a design decision process on a real project; students work on their own projects with structured critiques (charettes) that fade from expert-led to peer-led over the semester.
 
 **[Replit](https://replit.com) and paired programming environments:** Expert-novice pairing where the expert narrates code decisions; over time the novice takes the keyboard while the expert coaches. Fading occurs as the novice's contributions increase.
+- [Interactive Modeling](../strategies/interactive_modeling.md)
+- [Model Empathy and Explain](../strategies/model_empathy_and_explain.md)
+- [Connecting Struggles to Strategies](../strategies/connecting_struggles_to_strategies.md)
+- [Mentor Text Analysis](../strategies/mentor-text-analysis.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
 - Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. *American Educator, 15*(3), 6–11, 38–46.
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.1017/cbo9780511815355](https://doi.org/10.1017/cbo9780511815355)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [doi:10.4324/9781315113210](https://doi.org/10.4324/9781315113210)
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The former body, kept verbatim:
 
@@ -189,4 +198,46 @@ Course or unit — the full modeling → coaching → fading arc typically unfol
 **Learners with diverse prior knowledge in the same cohort:** Use differentiated fading — keep scaffolds available for those who need them while allowing more advanced learners to bypass them. Pair-based coaching (stronger with weaker) can extend reach in large classrooms.
 
 **Learners with language or learning differences:** Supplement verbal think-alouds with written annotations or visual step-maps so the reasoning is persistent and reviewable, not just heard once. Extend the coaching phase and reduce the pace of fading.
+-->
+
+<!-- merged 2026-10-07 from principles/notice-and-name-instructional-practices ("Notice and name instructional practices and the purposes behind them"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Notice and name instructional practices and the purposes behind them
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Drawing on Johnston (2004), the author names for teachers the practices enacted with them and articulates the purpose of each, so explicitness operates on two levels: it names the practice and the purpose behind it. The same specificity is modeled with children, for example asking a child after a Running Record how she knew to self-correct. As teachers model naming for students, students begin to name their own practices, which the author says encourages a shared language.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The coach must articulate purpose aloud while enacting a practice with teachers or students
+#### Constraints
+- 
+
+### Target Learners
+- classroom teachers and elementary students
+
+### Target Learning Objectives
+- developing a shared professional language for literacy practices
+- students articulating their own literate strategies
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Interactive Modeling](../strategies/interactive_modeling.md)
+- [Model Empathy and Explain](../strategies/model_empathy_and_explain.md)
+- [Connecting Struggles to Strategies](../strategies/connecting_struggles_to_strategies.md)
+- [Mentor Text Analysis](../strategies/mentor-text-analysis.md)
+
+## Key Sources
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
 -->

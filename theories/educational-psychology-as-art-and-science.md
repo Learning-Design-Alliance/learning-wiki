@@ -42,7 +42,7 @@ Educational psychology is both. Researchers use the scientific method and resear
 ## Related Principles
 
 - [Reflective Practice](../principles/reflection.md)
-- [Teach both the truth of the scientist and the truth of the poet, since neither paradigm of truth is sufficient alone](../principles/teach-scientist-and-poet-truths.md)
+- [Teach both the truth of the scientist and the truth of the poet, since neither paradigm of truth is sufficient alone](../principles/harmonize-opposites-in-educational-change.md)
 
 ## Examples
 - A teacher whose classroom-management approach draws on both a study of effective techniques and their own accumulated read of a specific group of students

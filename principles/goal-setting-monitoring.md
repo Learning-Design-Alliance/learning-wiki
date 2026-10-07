@@ -116,7 +116,7 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.
 - [Error Analysis](error-analysis.md) — monitoring leads to the detection of errors, which can then be analyzed for deeper learning.
-- [Learner Choice](learner-choice.md) — allowing learners to set their own goals increases commitment and autonomy.
+- [Learner Choice](autonomy.md) — allowing learners to set their own goals increases commitment and autonomy.
 
 ## Examples
 - **[Khan Academy Progress Tracking](https://www.khanacademy.org)** — Uses specific "Mastery Goals" and progress bars to help learners set targets and monitor their progress in real-time.

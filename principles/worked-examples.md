@@ -1,6 +1,7 @@
 ---
 type: principle
 id: worked-examples
+aliases: [match-worked-example-type-to-learner-prior-knowledge]
 title: Worked Examples
 description: "An example-first relationship qualified by task knowledge, representation, configuration and assessment horizon."
 status: review
@@ -20,6 +21,10 @@ sources:
     resource: "https://doi.org/10.1037/0022-0663.95.4.774"
     title: "Transitioning From Studying Examples to Solving Problems: Effects of Self-Explanation Prompts and Fading Worked-Out Steps"
     author: "Atkinson, R. K.; Renkl, A.; Merrill, M. M."
+  - id: gupta-2020
+    resource: "https://doi.org/10.20897/ejsteme/9252"
+    title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
+    author: "Gupta, U., & Zheng, R. Z"
 ---
 
 # Worked Examples
@@ -63,6 +68,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the abstract available could not confirm the entries
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the abstract available could not confirm the entries
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M] — not yet checked against its sources
+- [Lower Prior Knowledge Learners Score Higher With Full Than Completion Worked Examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]
+- [Prior Knowledge By Worked Example Type Interaction On Germane Load](../claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) [+M]
+- [Prior Knowledge Worked Example Task Difficulty Three Way Interaction On Algebra Posttest](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [~M]
 
 ## Objective and learner-valued goal
 
@@ -75,3 +83,45 @@ For example, a learner may value explaining an equipment fault while a designer 
 A bounded example-first expectation should weaken if comparable learners, configurations and aligned outcomes fail to reproduce it under defensible comparisons. If matched access changes explain performance better than schema support, revise the local state interpretation. If independent procedural success fails to predict later conceptual application, retain that distinction rather than calling both mastery. Do not protect the model by retrospectively relabelling every failure as low motivation or insufficient prior knowledge.
 
 A learning-phase advantage, immediate changed-task success, delayed retention and valued real-world use are separate claims. The present evidence does not establish an optimal fading policy, a numerical individual forecast or universal benefit across domains.
+
+<!-- merged 2026-10-07 from principles/match-worked-example-type-to-learner-prior-knowledge ("Match worked-example type (full vs completion) to the learner's prior knowledge"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Match worked-example type (full vs completion) to the learner's prior knowledge
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 unmarked) · 3 studies (1 causal, 1 review, 1 theoretical), `q3` · 1 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The authors recommend assigning worked-example type by prior knowledge: "by applying the type of worked examples to individual learners based on their prior knowledge, learners are more likely to exert t heir efforts in learning". They single out low-prior-knowledge learners with full examples and high-prior-knowledge learners with completion examples, in line with the expertise reversal effect hypothesis.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Assess domain prior knowledge first; the study used a pretest to classify learners as high or low prior knowledge.
+#### Constraints
+- The prior knowledge by worked example interaction on the posttest was not significant, and the higher-prior-knowledge advantage for completion examples did not reach significance.
+- Only immediate effects were examined; the authors call for studies of long-term retention and transfer and for larger samples.
+
+### Target Learners
+- Non-science major college students at a Research I university in the western United States
+
+### Target Learning Objectives
+- Solving simultaneous equation (systems of equations) algebra problems
+
+### Claims
+- [Lower Prior Knowledge Learners Score Higher With Full Than Completion Worked Examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]
+- [Prior Knowledge By Worked Example Type Interaction On Germane Load](../claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) [+M]
+- [Prior Knowledge Worked Example Task Difficulty Three Way Interaction On Algebra Posttest](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [~M]
+
+## Related Principles
+- [Worked Examples](worked-examples.md)
+- Expertise Reversal Effect
+- [Worked Examples Expertise Reversal](../claims/worked-examples-less-effective-with-expertise.md)
+
+## Examples
+-
+
+## Key Sources
+- Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+-->

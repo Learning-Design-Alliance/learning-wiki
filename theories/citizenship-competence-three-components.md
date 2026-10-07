@@ -47,7 +47,7 @@ The article defines civic or citizenship competence drawing on the National Stan
 
 ## Examples
 
-- [Promote civic competence at the formal level through a character education approach grounded in virtue development](../principles/character-education-promotes-civic-competence.md)
+- [Promote civic competence at the formal level through a character education approach grounded in virtue development](../principles/character-education.md)
 
 ## Key Sources
 - Naval, C.; Villacís, J.L.; Ibarrola-García, S. (2022). The Transversality of Civic Learning as the Basis for Development in the University. Educ. Sci. 2022, 12, 240. https://doi.org/10.3390/educsci12040240

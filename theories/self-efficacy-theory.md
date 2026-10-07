@@ -64,7 +64,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
-- [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/vicarious-before-mastery-teacher-development.md)
+- [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/sequencing.md)
 
 ## Key Sources
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*, 191–215. [doi:10.1037/0033-295x.84.2.191](https://doi.org/10.1037/0033-295x.84.2.191)

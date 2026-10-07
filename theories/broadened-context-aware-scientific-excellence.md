@@ -49,7 +49,7 @@ The editorial proposes an alternative view of excellence that goes beyond narrow
 
 ## Examples
 
-- [Evaluate mentorship records, method-sharing contributions, and community engagement with the same rigor as citation metrics in promotion and tenure](../principles/portfolio-review-nontraditional-contributions-rigor.md)
+- [Evaluate mentorship records, method-sharing contributions, and community engagement with the same rigor as citation metrics in promotion and tenure](../principles/discipline-specific-engaged-scholarship-policies.md)
 - [Establish an inter-institutional, society-level mentorship registry providing continuous support from undergraduate entry through faculty appointment](../strategies/inter-institutional-society-mentorship-registry.md)
 - [Develop discipline-specific transparency toolkits coauthored by first-generation faculty covering the unwritten mechanics of academic chemistry careers](../strategies/discipline-specific-transparency-toolkits.md)
 

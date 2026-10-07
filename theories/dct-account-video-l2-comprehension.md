@@ -49,7 +49,7 @@ The article uses Paivio's dual coding theory (DCT) to explain why video plus nar
 
 ## Examples
 
-- [Integrate video with narration and on-screen text in L2 reading comprehension instruction to foster macrostructure comprehension](../principles/integrate-video-narration-text-for-l2-macs-comprehension.md)
+- [Integrate video with narration and on-screen text in L2 reading comprehension instruction to foster macrostructure comprehension](../principles/multimodal-instruction.md)
 - [Dual Coding](../strategies/dual-coding.md)
 - [Multisensory Encoding](../strategies/multisensory-encoding.md)
 - [Illustration Through Multiple Media](../strategies/illustration_through_multiple_media.md)

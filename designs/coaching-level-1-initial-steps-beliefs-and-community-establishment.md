@@ -46,7 +46,7 @@ At the first level of the trajectory, mentoring work consists of conversations w
 
 ## Related Patterns
 
-- [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](../patterns/coaching-level-2-necessary-supports-implementation-and-dialogue.md)
+- [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](../patterns/professional-development.md)
 - [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](../patterns/coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
 
 ## Examples

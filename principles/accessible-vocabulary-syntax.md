@@ -1,6 +1,7 @@
 ---
 type: principle
 id: accessible-vocabulary-syntax
+aliases: [plain-english-workplace-materials]
 title: "Accessible Vocabulary & Syntax"
 description: "For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention."
 status: review
@@ -12,6 +13,10 @@ sources:
     resource: "https://doi.org/10.1111/1467-9817.12314"
     title: "Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416"
     author: "Binder, K. S., Tremblay, K. A., & Joseph, A"
+  - id: dyer-1992
+    resource: "https://eric.ed.gov/?id=ED378844"
+    title: "Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844"
+    author: Dyer, Penny
 ---
 
 # Accessible Vocabulary & Syntax
@@ -72,6 +77,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -99,12 +105,14 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Simplify and Clarify Instructions](../strategies/simplify_and_clarify_instructions.md) — removes avoidable ambiguity from task directions
 - [Assigned Readings](../elements/assigned-readings.md) paired with glossaries, margin notes, or sentence frames can make complex texts usable without replacing them
 - [Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms](../strategies/guide-questions-simplification-glossary-for-proposal-writing.md)
+- [Simplifying Language](../strategies/simplifying-language.md)
 
 ## Key Sources
 - Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)
 - Alloway, T. P. (2006). How does working memory work in the classroom? *Educational Research and Reviews, 1*(4), 134-139.
 - Centers for Disease Control and Prevention. (2009). *Simply put: A guide for creating easy-to-understand materials*.
 - Devlin, M., Kift, S., Nelson, K., Smith, L., & McKay, J. (2012). *Effective teaching and support of students from low socioeconomic status backgrounds*. Office for Learning and Teaching.
+- Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -156,4 +164,44 @@ Accessible vocabulary and syntax matter because learners can fail a task for lan
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — vocabulary becomes durable when learners explain and apply it in their own words
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — language support is most effective when instructors respond to the learner's actual confusion rather than pre-scripted simplification
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — syntax frames and glossaries should be withdrawn gradually as learners internalize disciplinary language
+-->
+
+<!-- merged 2026-10-07 from principles/plain-english-workplace-materials ("Rewrite workplace instructional material in Plain English matched to the audience's reading skills"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Rewrite workplace instructional material in Plain English matched to the audience's reading skills
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The package holds that written workplace genres (narrative, informal, instructional, imperative) each demand different reading skills, and that "Many writers of instructional or imperative material lose sight of the reading skills of their intended audience and hence the material becomes incomprehensible". Supervisors therefore practise converting officialese and jargonistic training text into Plain English, selecting style according to audience and purpose.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Real workplace documents for participants to analyse and rewrite
+- Awareness of the audience's reading skills
+#### Constraints
+- Aimed at instructional and imperative workplace writing rather than all writing
+
+### Target Learners
+- Workplace supervisors who produce training and instructional documents
+
+### Target Learning Objectives
+- Identifying unnecessarily complicated language and rewriting workplace material in simpler form
+
+### Claims
+
+- [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Simplifying Language](../strategies/simplifying-language.md)
+
+## Key Sources
+- Dyer, Penny. (1992). Training a Multicultural Workforce. Hobart Institute of Technical and Further Education. https://eric.ed.gov/?id=ED378844
 -->

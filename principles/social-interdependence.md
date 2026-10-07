@@ -130,7 +130,7 @@ Group product quality, individual achievement at the end of a unit, delayed rete
 
 - In a jigsaw discussion, each learner becomes responsible for one source and the final synthesis depends on every member bringing that expertise back to the group.
 - In an engineering design sprint, teams submit one shared prototype score plus a short reflection on how each role contributed to tradeoff decisions.
-- [Jigsaw Method](../patterns/jigsaw-method.md) — resource interdependence: each member holds one segment the group needs; add an individual check so teaching, not only presenting, is rewarded
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — resource interdependence: each member holds one segment the group needs; add an individual check so teaching, not only presenting, is rewarded
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](../strategies/cooperative-learning-group-work-recommendation.md)
 
 ## Key Sources

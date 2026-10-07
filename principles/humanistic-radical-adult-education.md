@@ -48,7 +48,7 @@ The article presents two further approaches within the pragmatic progressive sta
 ## Related Principles
 
 - [Interrogate Voice, Credibility and Testimony When Studying Inequality in Education](../strategies/interrogate-voice-credibility-and-testimony-in-educational-inequality-research.md)
-- [Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment](culturally-responsive-adult-curriculum.md)
+- [Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment](cultural-life-experiences-connections.md)
 - [Build productive instructor-learner relationships so adults feel connected and take an active role in learning](productive-instructor-learner-relationships.md)
 
 ## Examples

@@ -43,7 +43,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 
 ## Related Theories
 
-- [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)
+- [Semantic Mapping Principle](../principles/graphic-organizers.md)
 - [Connectivism](connectivism.md)
 
 ## Examples

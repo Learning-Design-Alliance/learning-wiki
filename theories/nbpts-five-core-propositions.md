@@ -41,7 +41,7 @@ The National Board for Professional Teaching Standards proposes five core propos
 
 - [Twelve Characteristics of Effective Teachers](../principles/twelve-characteristics-of-effective-teachers.md) — a complementary, bottom-up framework (derived from students' own accounts of their most effective teachers) covering similar ground from a different angle
 - [Communities of Practice](../principles/communities-of-practice.md) — the professional-community proposition (5) maps directly onto this broader concept
-- [Performance-based assessment should anchor advanced teacher certification](../principles/performance-based-teacher-certification-assessment.md)
+- [Performance-based assessment should anchor advanced teacher certification](../principles/competency-based-assessment.md)
 
 ## Examples
 - A National Board Certification portfolio requiring evidence against each of the five propositions, not just a demonstration of subject knowledge

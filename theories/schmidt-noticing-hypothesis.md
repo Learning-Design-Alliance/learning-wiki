@@ -71,7 +71,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Train and model the collaborative feedback process before students notice gaps (pre-noticing stage)](../strategies/model-cft-process-before-noticing.md)
 - [Close the feedback cycle with guided reflection on what was learned (post-noticing stage)](../strategies/post-noticing-reflection-guides.md)
 - [Start grammar instruction from the problems learners notice in their own written output](../strategies/grammar-instruction-from-noticed-writing-problems.md)
-- [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/low-task-complexity-child-learners-recasts.md)
+- [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/cognitive-load-management.md)
 - [Modeling feedback: an original native-speaker text used as a comparison model](../elements/modeling-feedback-native-speaker-text.md)
 
 ## Key Sources

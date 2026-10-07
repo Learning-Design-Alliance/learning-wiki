@@ -67,7 +67,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Active Learning](active-learning.md) — cooperative structures are one of the most effective vehicles for active learning at scale
 - [Assessment for Learning](assessment-for-learning.md) — individual accountability depends on frequent, low-stakes checks of each member's learning
 - [Building Empathy](building-empathy.md) — structured interdependence across diverse groups improves intergroup attitudes as well as achievement
-- [Design laboratories to satisfy all five cooperative-learning conditions](laboratories-satisfying-cooperative-learning-conditions.md)
+- [Design laboratories to satisfy all five cooperative-learning conditions](../patterns/cooperative-learning.md)
 
 ## Examples
 

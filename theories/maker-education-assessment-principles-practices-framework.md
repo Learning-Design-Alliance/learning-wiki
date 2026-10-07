@@ -46,9 +46,9 @@ The paper's central contribution is an organizing framework answering its essent
 
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
 - [Teach a simple, clear, memorable design cycle without treating it as a rigid checklist](../principles/teach-simple-design-cycle-maker-education.md)
-- [Focus assessment on process over product in maker education](../principles/assess-process-over-product-maker-education.md)
+- [Focus assessment on process over product in maker education](../principles/fostering-creative-thinking.md)
 - [Involve students in real-world problem solving to deepen engagement, retention, and understanding](../principles/real-world-problem-solving-maker-context.md)
-- [Provide student choice to build ownership and self-efficacy in maker education](../principles/student-choice-builds-ownership-maker-education.md)
+- [Provide student choice to build ownership and self-efficacy in maker education](../principles/autonomy.md)
 
 ## Key Sources
 - Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517

@@ -662,7 +662,9 @@ def main() -> None:
 
     cands = cl.load_candidates()
     decisions = cl.load_decisions()
-    todo = [c for i, c in cands.items() if decisions.get(i, {}).get("outcome") not in cl.SETTLED]
+    canon = canonical_keys()
+    todo = [c for i, c in cands.items() if decisions.get(i, {}).get("outcome") not in cl.SETTLED
+            and c.get("page") not in canon]   # a page now canonical is a target, not a candidate
     if args.limit:
         todo = todo[:args.limit]
     if not todo:

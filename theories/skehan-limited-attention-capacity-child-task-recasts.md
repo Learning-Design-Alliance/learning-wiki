@@ -48,7 +48,7 @@ Skehan's limited attention capacity model holds that learners have finite attent
 
 ## Examples
 
-- [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/low-task-complexity-child-learners-recasts.md)
+- [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/cognitive-load-management.md)
 
 ## Key Sources
 - Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: feedback-loops
+aliases: [design-feedback-on-external-outputs-asynchronous]
 title: Feedback Loops
 description: "For a learner whose performance can be observed, information about it is expected to improve later performance only when the loop closes (the information says what to change, a next attempt uses it, and that attempt is checked again on a new item); corrective feedback and correct-and-recheck programmes are supported on average, but no claim here tests a closed loop against the same feedback without a next attempt."
 status: review
@@ -16,6 +17,10 @@ sources:
     resource: "https://doi.org/10.1007/s10648-011-9191-6"
     title: "Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249"
     author: Clark, I
+  - id: pollard-2025
+    resource: "https://doi.org/10.24059/olj.v29i3.4555"
+    title: "Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555"
+    author: "Pollard, V. & Armatas, C"
 ---
 
 # Feedback Loops
@@ -122,6 +127,7 @@ Claims this page did not cite before, found while converting it, which bear on p
 - [Providing feedback after initial multiple-choice tests cut lure intrusions roughly in half, with immediate and delayed feedback equally effective](../claims/feedback-after-multiple-choice-tests-halves-lure-intrusions.md) [+M]: reported second-hand in a review chapter; timing is held on [Immediate Feedback](immediate-feedback.md).
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]: a review of cognitive-load studies about guidance, carried here to how much external feedback an advanced learner needs.
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](prefer-feedback-loops-over-feedback-systems.md) holds that sense.
+- [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -155,6 +161,7 @@ Following the information on the corrected item, unaided performance on a new it
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
+- Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -212,4 +219,45 @@ Feedback loops matter because information about performance is useful only when 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
+-->
+
+<!-- merged 2026-10-07 from principles/design-feedback-on-external-outputs-asynchronous ("Design asynchronous online activities so that external outputs receive formative feedback, enabling higher ICAP modes"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design asynchronous online activities so that external outputs receive formative feedback, enabling higher ICAP modes
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article recommends explicitly designing task-based formative feedback into asynchronous online learning activities so that student-produced external outputs are used to move thinking to higher engagement modes. The audit found "Limited opportunities for feedback on external outputs was also identified as an area requiring attention to produce higher modes of activity and feedback." Simulations and multimedia assets producing reviewable external outputs used in assessments exemplify this design.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Activities must produce an external output on which peers, the teacher, or another party can provide feedback
+- Feedback must be incorporated into a further output for the Interactive mode (double-loop learning)
+#### Constraints
+- The article notes a place remains for simpler activities such as click and reveals, provided there is a coherent whole-of-course approach to variety and higher modes
+
+### Target Learners
+- post-graduate online students
+
+### Target Learning Objectives
+- active learning
+- higher-order engagement
+- use of feedback
+
+### Claims
+- [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+M]
+- Audit Most Activities Passive Active Icap [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Pollard, V. & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
 -->

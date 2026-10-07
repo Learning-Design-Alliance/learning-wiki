@@ -47,7 +47,7 @@ The fifth operationalization values a multiplicity of voices while developing a 
 - [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](teach-canonicity-not-canon.md)
 - [The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency](teach-civic-responsibility-not-proficiency.md)
 - [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](teach-popular-culture-not-speech-making.md)
-- [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](teach-rhetorical-choices-not-tools.md)
+- [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](rhetorical-skill-development.md)
 - [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](teach-persuasive-standards-not-just-persuasive-skill.md)
 
 ## Examples

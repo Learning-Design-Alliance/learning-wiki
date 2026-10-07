@@ -1,7 +1,7 @@
 ---
 type: principle
 id: clear-structure
-aliases: [clear-structure-presentation]
+aliases: [clear-structure-presentation, combine-signalling-and-cueing-to-highlight-changes]
 title: Clear Structure
 description: "For learners without an organization of their own for unfamiliar material, making its organization explicit (signals, lean organizers, graphics that match the content and task) may improve what they select and recall on immediate tests, an effect qualified by prior knowledge, structural match and outcome."
 status: review
@@ -13,6 +13,10 @@ sources:
     resource: "https://doi.org/10.4103/0974-9233.129748"
     title: "Palis, A. G., & Quiros, P. A. (2014). Adult learning principles and presentation pearls. *Middle East African Journal of Ophthalmology, 21*(2), 114-122"
     author: "Palis, A. G., & Quiros, P. A"
+  - id: mutlu-bayraktar-2018
+    resource: "https://eric.ed.gov/?id=EJ1205386"
+    title: "Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386"
+    author: "Mutlu-Bayraktar, D. & Bayram, S"
 ---
 
 # Clear Structure
@@ -58,6 +62,11 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — not yet checked against its sources
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Signalled And Cued Object Change Most Detected](../claims/signalled-and-cued-object-change-most-detected.md) [+M]
+- [Central Object Change Detection Low Without Cueing](../claims/central-object-change-detection-low-without-cueing.md) [+M]
+- [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](../claims/cueing-outcompetes-signalling-alone-for-attention.md) [+W]
+- [Changes were detected more easily on screens presenting fewer objects (66.66%)](../claims/fewer-objects-easier-change-detection.md) [+W]
+- [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](../claims/signalling-focuses-attention-reduces-change-detection-elsewhere.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -99,6 +108,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - Diep, A. N., Zhu, C., Cocquyt, C., De Greef, M., Vo, M. H., & Vanwing, T. (2019). Adult learners' needs in online and blended learning. *Australian Journal of Adult Learning, 59*(2), 223-253.
 - Palis, A. G., & Quiros, P. A. (2014). Adult learning principles and presentation pearls. *Middle East African Journal of Ophthalmology, 21*(2), 114-122. [doi:10.4103/0974-9233.129748](https://doi.org/10.4103/0974-9233.129748)
 - Miraldi, L. B., & Miraldi, P. N. (2018). Best practices in slide design. In *The handbook of communication training*.
+- Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body, verbatim.
 
@@ -239,4 +249,46 @@ Clear structure and presentation matter because learners often waste effort tryi
 - Diep, A. N., Zhu, C., Cocquyt, C., De Greef, M., Vo, M. H., & Vanwing, T. (2019). Adult learners' needs in online and blended learning. *Australian Journal of Adult Learning, 59*(2), 223-253.
 - Palis, A. G., & Quiros, P. A. (2014). Adult learning principles and presentation pearls. *Middle East African Journal of Ophthalmology, 21*(2), 114-122. [doi:10.4103/0974-9233.129748](https://doi.org/10.4103/0974-9233.129748)
 - Miraldi, L. B., & Miraldi, P. N. (2018). Best practices in slide design. In *The handbook of communication training*.
+-->
+
+<!-- merged 2026-10-07 from principles/combine-signalling-and-cueing-to-highlight-changes ("Use signalling and visual cueing together in multimedia learning materials so changes are recognised more easily"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Use signalling and visual cueing together in multimedia learning materials so changes are recognised more easily
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+The authors recommend that multimedia materials designed according to multimedia learning principles use signalling and cueing techniques together to emphasise changes, because their case study showed changes in signalled and visually cued areas were the most detected. They state it is "recommended to use signalling and cueing at the same time in learning environments" so change can be recognised more easily. They also warn that the redundancy principle and split-attention effect may cause more change blindness.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Materials should be designed in the light of multimedia learning principles
+#### Constraints
+- The authors caution that the redundancy principle and split-attention effect can cause change blindness more
+
+### Target Learners
+- undergraduate students in science education
+
+### Target Learning Objectives
+- detecting changes in multimedia animations about computer components
+
+### Claims
+
+- [Signalled And Cued Object Change Most Detected](../claims/signalled-and-cued-object-change-most-detected.md) [+M]
+- [Central Object Change Detection Low Without Cueing](../claims/central-object-change-detection-low-without-cueing.md) [+M]
+- [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](../claims/cueing-outcompetes-signalling-alone-for-attention.md) [+W]
+- [Changes were detected more easily on screens presenting fewer objects (66.66%)](../claims/fewer-objects-easier-change-detection.md) [+W]
+- [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](../claims/signalling-focuses-attention-reduces-change-detection-elsewhere.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Mutlu-Bayraktar, D. & Bayram, S. (2018). Effects of cueing and signaling on change blindness in multimedia learning environment. World Journal on Educational Technology: Current Issues, 11(1), 128–139. https://eric.ed.gov/?id=EJ1205386
 -->

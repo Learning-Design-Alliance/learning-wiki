@@ -23,7 +23,7 @@ Cooperative learning works because talking through ideas with peers forces elabo
 
 ### Context
 #### Requirements
-- A task with genuine positive interdependence — a single product, division of expertise (as in [Jigsaw](../patterns/jigsaw-method.md)-style roles), or shared materials that make members need one another
+- A task with genuine positive interdependence — a single product, division of expertise (as in [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md)-style roles), or shared materials that make members need one another
 - Individual accountability: individual quizzes, randomly selected reporters, or separately graded contributions
 - Explicit teaching of collaborative skills (turn-taking, disagreeing with ideas not people) rather than assuming them
 - Post-activity processing: brief group reflection on what worked and what didn't

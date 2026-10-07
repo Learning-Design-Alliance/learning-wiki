@@ -71,25 +71,25 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | Claim | Cited from | Studies | q | Effect size reported |
 |---|---|---|---|---|
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 641 pages | 3 | q2–q3 | 0 of 3 |
-| [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 526 pages | 4 | q2–q4 | 1 of 4 |
+| [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 525 pages | 4 | q2–q4 | 1 of 4 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 434 pages | 2 | q4 | 2 of 2 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 422 pages | 3 | q1–q4 | 1 of 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 421 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 367 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 340 pages | 2 | q2 | 0 of 2 |
-| [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 339 pages | 2 | q3 | 0 of 2 |
+| [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 338 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 247 pages | 3 | q3–q4 | 1 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 243 pages | 2 | q3–q4 | 2 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 242 pages | 2 | q3 | 0 of 2 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 234 pages | 3 | q2–q3 | 2 of 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 210 pages | 3 | q1–q3 | 0 of 3 |
-| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 203 pages | 5 | q2–q4 | 0 of 5 |
+| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 202 pages | 5 | q2–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 201 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 189 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 174 pages | 3 | q3 | 1 of 3 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 128 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 111 pages | 2 | q3 | 0 of 2 |
-| [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 102 pages | 2 | q3 | 0 of 2 |
+| [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 101 pages | 2 | q3 | 0 of 2 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 97 pages | 3 | q2–q4 | 1 of 3 |
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 94 pages | 1 | q3 | 0 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 90 pages | 3 | q3 | 0 of 3 |
@@ -108,7 +108,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 136 | 84 | 146 | 2 |
 | [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 20 | 8 | 46 | 3 |
-| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 354 | 45 | 22 | 3 |
+| [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 353 | 45 | 22 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 551 | 68 | 19 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 9 | 8 | 12 | 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 4 | 192 | 11 | 3 |
@@ -133,9 +133,9 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 463 | 391 | 1 | 0 |
+| [principles](principles/index.md) | 375 | 317 | 2 | 0 |
 | [elements](elements/index.md) | 762 | 522 | 2 | 0 |
-| [patterns](patterns/index.md) | 136 | 117 | 7 | 0 |
+| [patterns](patterns/index.md) | 126 | 108 | 8 | 0 |
 | [strategies](strategies/index.md) | 3,230 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |

@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: professional-development
+aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue]
 title: Professional Development
 description: "A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops."
 status: review
@@ -9,6 +10,11 @@ generated:
   at: 2026-10-05
 author: "Darling-Hammond, Hyler, & Gardner (2017); Guskey (2000)"
 grain_size: program
+sources:
+  - id: smith-2009
+    resource: "https://eric.ed.gov/?id=ED530353"
+    title: "Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353"
+    author: Smith, A. T
 ---
 
 # Professional Development
@@ -107,6 +113,8 @@ Claims the earlier page cited, or that bear on teacher PD, which are not core ev
 - [Non-participation in intensive PD reflected enjoyment, preparation and conceptions of PD](../claims/nonparticipant-barriers-professional-development.md) [~W] — one program's recruitment change.
 - [The expert-presenter model is the most prevalent](../claims/expert-presenter-model-most-prevalent.md) [~W] — prevalence data from 1982, reported second-hand; not an effect.
 - [Short, fragmented in-service training is reported to hinder a holistic view](../claims/systemic-approach-in-service-teacher-education.md) [-W] — a narrative review's report of preliminary results.
+- [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](../claims/coaching-responsibilities-mentoring-and-advocacy.md) [+W]
+- [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](../claims/coaching-complexity-may-fragment-impact.md) [-W]
 
 ## Illustrative design instance and observation record
 
@@ -127,6 +135,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Flipped Classroom](flipped-classroom.md) — a frequent target of PD and itself a model for PD design: content study outside meetings frees session time for active practice
 - [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
 - [Fostering Communities of Learning](fostering-communities-of-learning-fcl.md) — the nearest community pattern, where the PD is carried by a standing group of colleagues
+- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
 
 ## Examples
 
@@ -137,6 +146,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 **Japan's lesson study (jugyō kenkyū):** Teacher teams collaboratively plan, observe, and refine a single research lesson over weeks — collective participation, practice focus, and sustained duration in one structure.
 
 **[NCSM](https://www.mathedleadership.org) / Illustrative Mathematics professional learning (https://illustrativemathematics.org):** Curriculum-embedded PD in which teachers experience the lessons as learners, then analyze and rehearse facilitation — coherence with enacted materials.
+- [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](../strategies/coaching-framework-discussion-guide-grid-questions.md)
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)
@@ -144,7 +154,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - Guskey, T. R. (2000). *Evaluating professional development*. Corwin Press.
 - Darling-Hammond, L., Wei, R. C., Andree, A., Richardson, N., & Orphanos, S. (2009). Professional learning in the learning profession: A status report on teacher development in the United States and abroad. *National Staff Development Council*.
 - Timperley, H., Wilson, A., Barrar, H., & Fung, I. (2007). *Teacher professional learning and development: Best evidence synthesis iteration*. New Zealand Ministry of Education.
-
+- Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -256,4 +266,49 @@ Program — effective PD unfolds over months to years, embedded in teachers' ong
 - Guskey, T. R. (2000). *Evaluating professional development*. Corwin Press.
 - Darling-Hammond, L., Wei, R. C., Andree, A., Richardson, N., & Orphanos, S. (2009). Professional learning in the learning profession: A status report on teacher development in the United States and abroad. *National Staff Development Council*.
 - Timperley, H., Wilson, A., Barrar, H., & Fung, I. (2007). *Teacher professional learning and development: Best evidence synthesis iteration*. New Zealand Ministry of Education.
+-->
+
+<!-- merged 2026-10-07 from patterns/coaching-level-2-necessary-supports-implementation-and-dialogue ("Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+At the second level, mentoring consists of coaches who "plan, set goals, observe, and debrief with individual teachers" implementing new instructional skills, while advocacy consists of regular meetings with small groups of collaborating teachers. Diane's reciprocal teaching example shows a plan-observe-debrief cycle: co-planning a prediction lesson, observing implementation, and debriefing after school to outline next steps. Grace's example shows facilitation of describing and analyzing student work to identify next steps in writing instruction.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Regular meetings with teacher groups who have decided to collaborate
+- A plan-observe-debrief cycle with individual teachers
+#### Constraints
+- 
+
+### Target Learners
+- middle school teachers implementing new instructional strategies
+- middle school literacy coaches
+
+### Target Goals
+- implement new instructional skills such as reciprocal teaching
+- analyze student work to inform instruction
+
+### Claims
+
+- [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](../claims/coaching-responsibilities-mentoring-and-advocacy.md) [+W]
+- [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](../claims/coaching-complexity-may-fragment-impact.md) [-W]
+
+## Related Patterns
+
+- [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
+- [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md)
+
+## Examples
+
+- [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](../strategies/coaching-framework-discussion-guide-grid-questions.md)
+
+## Key Sources
+- Smith, A. T. (2009). Considering Literacy Coaching Responsibilities in Terms of Teacher Change. University of Washington Bothell. https://eric.ed.gov/?id=ED530353
 -->

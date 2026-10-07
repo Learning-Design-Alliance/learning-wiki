@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cognitive-load-management
+aliases: [design-principles-depend-on-prior-knowledge, determine-element-interactivity-before-designing-instruction, low-task-complexity-child-learners-recasts, measured-pace-one-concept-at-a-time-older-learners, reduce-extraneous-optimize-intrinsic-increase-germane]
 title: Cognitive Load Management
 description: "Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need."
 status: review
@@ -12,6 +13,26 @@ sources:
     resource: "https://doi.org/10.1023/A:1022193728205"
     title: "Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296"
     author: "Sweller, J., van Merriënboer, J. J. G., & Paas, F"
+  - id: clinton-2017
+    resource: "https://eric.ed.gov/?id=ED574984"
+    title: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984"
+    author: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J"
+  - id: kala-2023
+    resource: "https://doi.org/10.36681/tused.2023.027"
+    title: "Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027"
+    author: "Kala, N., & Ayas, A"
+  - id: lihui-lv-chunyan-liu-2022
+    resource: "https://doi.org/10.5539/elt.v15n9p95"
+    title: "Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95"
+    author: "Lihui Lv & Chunyan Liu"
+  - id: weintraub-2025
+    resource: "http://doi.org/10.35847/LWeintraub.7.1.37"
+    title: "Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37"
+    author: Weintraub, L
+  - id: houichi-2020
+    resource: "https://dx.doi.org/10.24093/awej/vol11no4.8"
+    title: "Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8"
+    author: "Houichi, A., & Sarnou, D"
 ---
 
 # Cognitive Load Management
@@ -57,6 +78,23 @@ Keep learners, task, comparator, outcome and horizon with each result when trans
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Revised Visuals No Learning Effect](../claims/revised-visuals-no-learning-effect.md) [~M]
+- [Revised Visuals Processing Text Prior Knowledge Interaction](../claims/revised-visuals-processing-text-prior-knowledge-interaction.md) [+M]
+- [Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [+W]
+- [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) [+W]
+- [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-processing-math-visuals-interaction.md) [+W]
+- [Revisions made no reliable difference to total time spent with the lesson](../claims/revisions-no-effect-time-with-lesson.md) [+W]
+- [Mental Effort Study Time Indicate Element Interactivity](../claims/mental-effort-study-time-indicate-element-interactivity.md) [+M]
+- [Clt Design Effective Learning Retention Transfer](../claims/clt-design-effective-learning-retention-transfer.md) [+M]
+- [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](../claims/retention-transfer-scores-decrease-with-element-interactivity.md) [+W]
+- [A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span](../claims/clt-instructional-design-raises-retention-transfer-thermodynamics.md) [+W]
+- [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](../claims/no-group-difference-tat-posttest-cls.md) [~W]
+- [Task Complexity Negatively Related Child Written Production](../claims/task-complexity-negatively-related-child-written-production.md) [+M]
+- [Task Complexity No Effect Child Oral Production](../claims/task-complexity-no-effect-child-oral-production.md) [~M]
+- [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [+W]
+- [Learning ability does not decline with age in healthy older adults](../claims/learning-ability-does-not-decline-with-age.md) [~W]
+- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](../claims/no-evidence-older-adults-cannot-learn-language.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -72,13 +110,28 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 
 ## Related Principles
 - [Cognitive Load Theory](cognitive-load-theory.md)
+- [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
 
 ## Examples
 - A math lesson introduces multi-step equation solving in short worked chunks, with each step visually separated and narrated before learners attempt a full problem.
 - A science simulation hides advanced controls for novices, then gradually reveals more variables once learners can explain the core system.
+- [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](../strategies/focused-more-is-more-generative-processing.md)
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md)
+- [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
+- [Wait Time](../strategies/wait_time.md)
+- [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
+- [Think-Time and Re-Reading](../strategies/think-time_and_re-reading.md)
+- [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
+- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
+- Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027
+- Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95
+- Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
+- Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the principle body as it stood before the rewrite, kept verbatim.
 
@@ -105,4 +158,219 @@ Cognitive load management matters when instruction risks overwhelming working me
 ### Claims
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — reducing unnecessary processing and organizing material into coherent units preserves capacity for schema formation
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — supports that help novices can become inefficient or redundant as learner expertise increases
+-->
+
+<!-- merged 2026-10-07 from principles/design-principles-depend-on-prior-knowledge ("Apply instructional design principles with attention to learners' prior knowledge, since effects on cognition depend on proficiency level"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Apply instructional design principles with attention to learners' prior knowledge, since effects on cognition depend on proficiency level
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+The article concludes that although many instructional design principles are framed as "one size fits all," their effects on student cognition may depend on students' level of prior knowledge. Revisions based on signaling, contiguity, and coherence principles reduced cognitive load and processing for low prior knowledge students but increased them for middle prior knowledge students. Curriculum developers should therefore consider prior knowledge when applying such principles, and the authors caution it "may be premature to apply these principles to curriculum development on a large scale."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Assessment of learners' prior knowledge before applying design revisions
+#### Constraints
+- The findings do not support the effectiveness of the "less is more" approach in improving student learning; combining principles makes it uncertain how each principle individually related to the findings
+
+### Target Learners
+- middle-school mathematics students
+
+### Target Learning Objectives
+- learning from lessons with text and visual representations
+
+### Claims
+
+- [Revised Visuals No Learning Effect](../claims/revised-visuals-no-learning-effect.md) [~M]
+- [Revised Visuals Processing Text Prior Knowledge Interaction](../claims/revised-visuals-processing-text-prior-knowledge-interaction.md) [+M]
+- [Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [+W]
+- [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) [+W]
+- [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-processing-math-visuals-interaction.md) [+W]
+- [Revisions made no reliable difference to total time spent with the lesson](../claims/revisions-no-effect-time-with-lesson.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing](../strategies/focused-more-is-more-generative-processing.md)
+
+## Key Sources
+- Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
+-->
+
+<!-- merged 2026-10-07 from principles/determine-element-interactivity-before-designing-instruction ("Teachers should determine a topic's element interactivity level and develop an instructional design appropriate to it"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Teachers should determine a topic's element interactivity level and develop an instructional design appropriate to it
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+The article concludes that "Teachers are responsible for determining a topic's level of element interactivity and developing an appropriate instructional design." Because complexity within CLT arises from element interactivity, teachers should first classify the topics they teach (e.g. with expert judgement into low, high, very high) and then design instruction — such as CLT-based materials — that manages working memory load accordingly. The study's evidence that scores, mental effort and study time track interactivity level grounds this recommendation.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Determination of students' prior knowledge before classifying topics, since interactivity level depends on the learner's existing schemata.
+#### Constraints
+- The study's classification was made relative to topics within one unit, judged by two expert lecturers with over ten years' experience each.
+
+### Target Learners
+- first-year university chemistry students
+- high school chemistry students
+
+### Target Learning Objectives
+- effective learning of high element interactivity science topics at retention and transfer levels
+
+### Claims
+
+- [Mental Effort Study Time Indicate Element Interactivity](../claims/mental-effort-study-time-indicate-element-interactivity.md) [+M]
+- [Clt Design Effective Learning Retention Transfer](../claims/clt-design-effective-learning-retention-transfer.md) [+M]
+- [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](../claims/retention-transfer-scores-decrease-with-element-interactivity.md) [+W]
+- [A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span](../claims/clt-instructional-design-raises-retention-transfer-thermodynamics.md) [+W]
+- [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](../claims/no-group-difference-tat-posttest-cls.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive load theory on students' performances and the indicators of element interactivity. Journal of Turkish Science Education, 20(3), 468-489. https://doi.org/10.36681/tused.2023.027
+-->
+
+<!-- merged 2026-10-07 from principles/low-task-complexity-child-learners-recasts ("For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends that when designing tasks for young foreign language beginners, cognitive demands should match learners' cognitive development level: "it is better to set a moderate or low task complexity level to allow the learners to have more attention available for the development of the target-like language." Otherwise learners become cognitively overloaded and have little attention left to notice recasts and process the target language.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Tasks must still elicit production of the target form so that recasts can be supplied in response to errors
+#### Constraints
+- Grounded in child learners aged 11-12 learning English in China; the authors state task complexity should not exceed child learners' cognitive load
+
+### Target Learners
+- child beginner EFL learners in primary school
+
+### Target Learning Objectives
+- grammar acquisition through corrective feedback during task-based interaction
+
+### Claims
+- [Task Complexity Negatively Related Child Written Production](../claims/task-complexity-negatively-related-child-written-production.md) [+M]
+- [Task Complexity No Effect Child Oral Production](../claims/task-complexity-no-effect-child-oral-production.md) [~M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Lihui Lv & Chunyan Liu. (2022). Recast, Task Complexity and Child Learners' L2 Development. English Language Teaching, 15(9). https://doi.org/10.5539/elt.v15n9p95
+-->
+
+<!-- merged 2026-10-07 from principles/measured-pace-one-concept-at-a-time-older-learners ("Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 review, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+
+## Description
+Because older adults tend to process information more slowly and may have declining working memory, the author delivers instruction in careful stages, provides more repetition and review than a typical ESL class, and lets students demonstrate comprehension (yes/no, "or", and "show me" tasks) before producing new language from memory. She reports that "A few extra seconds of "wait time" can make a big difference in students' willingness to take risks, their ability to produce responses, and to develop confidence in speaking English." She also found combining several new concepts in one activity caused lessons to fail to connect.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must plan staged presentation of new information and resist combining multiple new concepts in a single activity
+#### Constraints
+- The author notes not every older student exhibits the same characteristics, but the older the student, the more likely modifications are needed
+
+### Target Learners
+- older adult beginning-level English learners
+
+### Target Learning Objectives
+- oral English comprehension and production
+- retention of new vocabulary and concepts
+
+### Claims
+
+- [Older Beginner Esl Outcome Gains](../claims/older-beginner-esl-outcome-gains.md) [+M]
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [+W]
+- [Learning ability does not decline with age in healthy older adults](../claims/learning-ability-does-not-decline-with-age.md) [~W]
+- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](../claims/no-evidence-older-adults-cannot-learn-language.md) [~W]
+
+## Related Principles
+
+- [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
+- [Contextualize abstract content in familiar, personal topics and teach new vocabulary primarily through visuals and body language](contextualize-abstract-content-older-learners.md)
+
+## Examples
+
+- [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
+- [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md)
+- [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
+- [Wait Time](../strategies/wait_time.md)
+- [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
+- [Think-Time and Re-Reading](../strategies/think-time_and_re-reading.md)
+
+## Key Sources
+- Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
+-->
+
+<!-- merged 2026-10-07 from principles/reduce-extraneous-optimize-intrinsic-increase-germane ("Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q4` · 1 of 2 report an effect size
+
+## Description
+The article states that instructional material is most effective when no load type overburdens working memory capacity, and that educators must manage the three loads differentially. It attributes to Van Merrienboer and Sweller the directive that "Educators must seek to reduce extraneous load, optimize intrinsic load, and increase germane load". Reducing extraneous load frees working-memory capacity that can then be allocated to germane processing, supporting schema construction in long-term memory.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must understand human cognitive architecture and the three load types to apply the principle
+#### Constraints
+- The extent to which instructional features contribute to extraneous or germane load may depend on the learner and their experienced intrinsic load
+
+### Target Learners
+- university EFL students
+
+### Target Learning Objectives
+- effective instructional design that avoids working memory overload
+
+### Claims
+
+- [Clt Three Load Types Framework](../theories/clt-three-load-types-framework.md) [+M]
+- [Cognitive Load Management](../claims/cognitive-load-management.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
+
+## Key Sources
+- Houichi, A., & Sarnou, D. (2020). Cognitive Load Theory and its Relation to Instructional Design: Perspectives of Some Algerian University Teachers of English. Arab World English Journal. https://dx.doi.org/10.24093/awej/vol11no4.8
 -->

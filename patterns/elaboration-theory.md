@@ -119,7 +119,6 @@ This pattern is scoped to sequencing organised content over a unit or course; it
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
-- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](whole-task-progression-increasing-complexity.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
@@ -264,7 +263,7 @@ It is especially useful for curriculum-scale design where content complexity is 
 
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
 - [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
-- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](whole-task-progression-increasing-complexity.md)
+- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](4cid-four-component-instructional-design.md)
 
 ## Examples
 - Anatomy curricula that begin with major systems before elaborating organs, tissues, and specialized cases.

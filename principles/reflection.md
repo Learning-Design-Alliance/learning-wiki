@@ -1,13 +1,18 @@
 ---
 type: principle
 id: reflection
-aliases: [reflective-practice]
+aliases: [reflective-practice, guided-prompts-and-faculty-involvement-encourage-integrative-reflection]
 title: Reflection
 description: "For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-02
+sources:
+  - id: sturgill-2014
+    resource: "https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
+    title: "Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning"
+    author: "Sturgill, A., & Motley, P"
 ---
 
 # Reflection
@@ -92,6 +97,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Elaborated discussion of narrated emotions supports teacher professional learning](../claims/elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) [+W] — for teacher professional learning specifically, reflection that surfaces and probes the *emotional* dimension of a teaching episode (see [Narrated Emotional Storytelling](../strategies/narrated-emotional-storytelling-in-teacher-pd.md)), not just the behavioral or cognitive one, was associated with groups revising their understanding
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M] — reflective practice that explicitly targets how a problem of practice is *framed* (see [Designerly Stances](../theories/designerly-stances.md)), not just what happened, moved pre-service teachers toward more systemic and stakeholder-centered responses
+- [Guided Reflection Produces Longer Reflections](../claims/guided-reflection-produces-longer-reflections.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -115,10 +121,12 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
 - [Schon's design-studio practicum as a reflective learning environment](../elements/schon-design-studio-practicum.md)
 - Post-practicum debriefs that identify one concrete change for the next round.
+- [Reflective Journaling](../strategies/reflective_journaling.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
 - Boud, D., Keogh, R., & Walker, D. (Eds.). (1985). *Reflection: Turning experience into learning*. Kogan Page.
+- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The original body follows verbatim.
 
@@ -304,4 +312,44 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
+-->
+
+<!-- merged 2026-10-07 from principles/guided-prompts-and-faculty-involvement-encourage-integrative-reflection ("Provide guided reflection prompts and explicit faculty involvement before and during service learning to encourage higher-order and integrative thinking"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Provide guided reflection prompts and explicit faculty involvement before and during service learning to encourage higher-order and integrative thinking
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends structuring written reflection with instructor prompts rather than leaving it free, because guided assignments in this study produced more analytic and integrative paragraphs and nearly twice the volume of writing. The authors conclude that "some explicit faculty involvement before and during the reflection process is useful in encouraging students to engage in more integrative thinking." Prompts should ask meaningful questions connecting daily activity to the client and the project.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must design daily prompts that connect student activity to course goals, such as what the day's work meant for the client and the project.
+#### Constraints
+- The study used an interpretivist design without experimental control, so the authors caution the results may not be generalizable to other classes, students, or contexts.
+
+### Target Learners
+- graduate students in professional communication programs doing service learning
+
+### Target Learning Objectives
+- higher-order critical thinking
+- integrating service experience with academic content
+
+### Claims
+- [Guided Reflection Yields More Higher Order Paragraphs Than Free](../claims/guided-reflection-yields-more-higher-order-paragraphs-than-free.md) [+M]
+- [Guided Reflection Produces Longer Reflections](../claims/guided-reflection-produces-longer-reflections.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Reflective Journaling](../strategies/reflective_journaling.md)
+
+## Key Sources
+- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)
 -->

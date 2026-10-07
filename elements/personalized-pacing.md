@@ -18,7 +18,7 @@ generated:
 Personalized pacing is the element in which learners move through content or practice at different rates based on need and progress.
 
 ## Affordances
-- [Learner Choice](../principles/learner-choice.md)
+- [Learner Choice](../principles/autonomy.md)
 - [Mastery Learning](../principles/mastery-learning.md)
 
 ### Claims

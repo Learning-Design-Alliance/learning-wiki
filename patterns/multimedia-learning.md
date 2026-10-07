@@ -9,6 +9,11 @@ generated:
   at: 2026-10-01
 author: multimedia learning tradition
 grain_size: lesson
+sources:
+  - id: kutbay-2020
+    resource: "https://eric.ed.gov/?id=EJ1255527"
+    title: "Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527"
+    author: "Kutbay, E. & Akpınar, Y"
 ---
 
 # Multimedia Learning
@@ -65,6 +70,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+W] — not yet checked against its sources
 - [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Modality Effect Holds Middle School Electricity](../claims/modality-effect-holds-middle-school-electricity.md) [+M]
 
 ## Illustrative design instance and observation record
 
@@ -84,6 +90,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)
+- Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The old body follows verbatim.
 
@@ -124,4 +131,44 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [~W]
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [~M]
 - [Redundancy Hurts Learning](../claims/redundancy-hurts-learning.md) [~S]
+-->
+
+<!-- merged 2026-10-07 from principles/prefer-narration-over-on-screen-text-middle-school ("Prefer narration over on-screen text when designing multimedia science instruction for middle school students"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Prefer narration over on-screen text when designing multimedia science instruction for middle school students
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+
+## Description
+The article's practical recommendation is that multimedia designers and teachers working with middle school students should use spoken rather than written text alongside visual materials. As the authors put it, "They should prefer using narration rather than on-screen text with visual materials in a multimedia instruction for more effective learning," because this makes it "possible to avoid extraneous cognitive load for learners." The recommendation rests on the study's modality findings in real middle school settings.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Spoken (narrated) text must be available as an alternative to on-screen written text in the multimedia material.
+#### Constraints
+- The recommendation is grounded in the modality comparisons in this study; the authors note conflicting results in some prior studies and that redundancy and signaling principles need further research with children.
+
+### Target Learners
+- Middle school students (aged 11-12) studying science in real school settings
+
+### Target Learning Objectives
+- Conceptual and procedural knowledge of an electricity unit
+
+### Claims
+
+- [Modality Effect Holds Middle School Electricity](../claims/modality-effect-holds-middle-school-electricity.md) [+M]
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+S]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Modality](../strategies/modality.md)
+
+## Key Sources
+- Kutbay, E. & Akpınar, Y. (2020). Investigating modality, redundancy and signaling principles with abstract and concrete representation. International Journal of Education in Mathematics, Science and Technology (IJEMST), 8(2), 131-145. https://eric.ed.gov/?id=EJ1255527
 -->

@@ -46,8 +46,7 @@ When learners control their knowledge-of-results (KR) schedule, the article find
 - [Self Controlled Kr Decided After Trial Improves Error Estimation Accuracy](../claims/self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) [+M]
 
 ## Related Principles
-- [Learner Choice](learner-choice.md)
-- [Autonomy](autonomy.md)
+- [Learner Choice](autonomy.md)
 - [Feedback](../elements/feedback.md)
 
 ## Examples

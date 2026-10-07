@@ -49,7 +49,7 @@ Self-directed learning is most valuable when learners are expected to take meani
 ### Theory
 #### Supporting
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — self-directed learning depends on the learner’s ability to plan, monitor, and revise actions over time
-- [Learner Choice](learner-choice.md) — meaningful choice is one of the practical mechanisms that makes self-direction possible
+- [Learner Choice](autonomy.md) — meaningful choice is one of the practical mechanisms that makes self-direction possible
 - [Self-Determination Theory](../theories/self-determination-theory.md) — autonomy can increase motivation when paired with competence support and relatedness
 
 #### Contradicting / Qualifying
@@ -62,7 +62,7 @@ Self-directed learning is most valuable when learners are expected to take meani
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise
-- [Learner Choice](learner-choice.md) — one of the most visible design levers for enabling self-direction
+- [Learner Choice](autonomy.md) — one of the most visible design levers for enabling self-direction
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — helps operationalize self-direction through explicit plans and progress checks
 
 ## Related Patterns

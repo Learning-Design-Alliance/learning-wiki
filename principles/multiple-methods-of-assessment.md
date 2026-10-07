@@ -143,12 +143,11 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.
 - [Competency-Based Learning & Assessment](competency-based-assessment.md) — varied evidence can strengthen mastery judgments when competence is complex.
-- [Learner Choice](learner-choice.md) — bounded choice in assessment format can increase agency while preserving standards.
+- [Learner Choice](autonomy.md) — bounded choice in assessment format can increase agency while preserving standards.
 - [Creating Visual Representations](dual-coding.md) — visual forms of evidence can complement written or oral assessment.
 - [Universal Design for Learning](universal-design-for-learning.md) — owns the planning audit that offers several ways to show an outcome held to one standard; this page owns how the resulting evidence is combined.
 - [Validity, Reliability and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) — the measurement properties each single method needs.
 - [Assessment for Learning](assessment-for-learning.md) — shared criteria and a revision step around the evidence each method yields.
-- [Autonomy](autonomy.md) — choice within structure, the basis of a bounded choice of format.
 - [Self-Monitoring](self-monitoring.md) — learners checking their work against criteria, one of the methods combined here.
 
 ## Examples
@@ -216,7 +215,7 @@ Multiple methods of assessment improve judgment when one format alone would unde
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.
 - [Competency-Based Learning & Assessment](competency-based-assessment.md) — varied evidence can strengthen mastery judgments when competence is complex.
-- [Learner Choice](learner-choice.md) — bounded choice in assessment format can increase agency while preserving standards.
+- [Learner Choice](autonomy.md) — bounded choice in assessment format can increase agency while preserving standards.
 - [Creating Visual Representations](dual-coding.md) — visual forms of evidence can complement written or oral assessment.
 
 ## Examples

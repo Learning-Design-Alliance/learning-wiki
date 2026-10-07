@@ -43,7 +43,7 @@ The article advises that "Practitioners might want to strongly consider aided sy
 
 ## Related Principles
 
-- [Assess children's AAC system preferences as part of the AAC decision-making process](assess-child-preference-in-aac-decision-making.md)
+- [Assess children's AAC system preferences as part of the AAC decision-making process](personalization.md)
 
 ## Examples
 -

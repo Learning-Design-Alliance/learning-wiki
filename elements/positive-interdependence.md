@@ -62,7 +62,7 @@ Positive interdependence is the mechanism through which cooperative structures o
 ## Patterns That Use This Element
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the defining element of the Johnson & Johnson model
 - [Collaborative Learning](../patterns/collaborative-learning.md) — supplies the outcome linkage that distinguishes collaboration from parallel individual work
-- [Jigsaw](../patterns/jigsaw-method.md) — resource interdependence in its purest form: each member holds a unique piece
+- [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md) — resource interdependence in its purest form: each member holds a unique piece
 
 ## Examples
 

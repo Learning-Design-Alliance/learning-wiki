@@ -48,7 +48,7 @@ The packet presents Canale and Swain's (1980) framework as an integrative theory
 
 ## Examples
 
-- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/dual-teacher-role-acquisition-and-learning.md)
+- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
 
 ## Key Sources

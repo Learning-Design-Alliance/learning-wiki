@@ -65,7 +65,7 @@ Synthesis tasks push learners beyond comprehension toward higher-order organizat
 
 ## Patterns That Use This Element
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — the integration phase where group findings are merged into shared conclusions
-- [Jigsaw](../patterns/jigsaw-method.md) — the expert-group → home-group structure makes synthesis structurally unavoidable: each member holds a piece no one else has
+- [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md) — the expert-group → home-group structure makes synthesis structurally unavoidable: each member holds a piece no one else has
 
 ## Examples
 

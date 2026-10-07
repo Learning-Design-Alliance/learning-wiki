@@ -71,7 +71,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 ## Examples
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/comprehensible-input-communicative-reading-activities.md)
 - [Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities](../principles/learning-activities-legitimate-place-syllabus.md)
-- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/dual-teacher-role-acquisition-and-learning.md)
+- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
 - [Sustained Silent Reading](../strategies/sustained-silent-reading.md) — its free voluntary reading variant draws on Krashen
 

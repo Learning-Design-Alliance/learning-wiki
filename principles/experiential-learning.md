@@ -1,12 +1,18 @@
 ---
 type: principle
 id: experiential-learning
+aliases: [experiential-course-design-practice-centered-diagnostic]
 title: Experiential Learning
 description: "For learners building applied, professional or interpersonal capability, an experience followed by structured reflection and a further attempt with feedback is expected to improve performance and transfer, while unguided experience for novices learns less than guided instruction."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-02
+sources:
+  - id: torkington-1996
+    resource: "https://eric.ed.gov/?id=ED392940"
+    title: "Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940"
+    author: Torkington, Kate
 ---
 
 # Experiential Learning
@@ -101,6 +107,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Parent Education Experiential Evaluations Positive](../claims/parent-education-experiential-evaluations-positive.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -126,12 +133,15 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Project-Based Learning (PBL)](../strategies/project-based-learning-pbl.md) — learners build knowledge through extended authentic work
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic scenarios anchor inquiry and applied reasoning
 - Reflection journals, post-task debriefs, and iteration cycles are typical implementation supports
+- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [doi:10.1002/ace.7](https://doi.org/10.1002/ace.7)
 - Zeivots, S. (2016). Emotional highs in adult experiential learning. *Australian Journal of Adult Learning, 56*(3), 353-373.
 - Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.).
+- Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
 
@@ -184,4 +194,46 @@ Experiential learning works because it puts learners in situations where concept
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — experiential tasks are stronger when coaching responds to learner decisions in real time
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices in experiential settings benefit from guidance on what to attend to and how to act, not only from immersion
 
+-->
+
+<!-- merged 2026-10-07 from principles/experiential-course-design-practice-centered-diagnostic ("Design experiential training courses with practice at the centre, beginning diagnostically rather than with theory"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design experiential training courses with practice at the centre, beginning diagnostically rather than with theory
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The paper closes with concrete guidance for trainers designing their own experiential courses: they "should decide that practice will be the focus of the training, begin with a diagnostic approach, avoid beginning courses with theory, use analysis of practice as the basis of the group training session, encourage peer support". It further advises spending time with trainees in their practice situation, being sensitive to cultural and traditional practices, developing materials and activities, and reviewing assessment methods. The rationale is that theory should illuminate practice rather than precede it.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Trainers must act as facilitators and should themselves be trained in experiential learning methodology
+#### Constraints
+- The paper notes credibility demands from ministries and universities can pressure programmes toward theory-heavy formats, and large trainee numbers and training-of-trainers pose difficulties
+
+### Target Learners
+- adult ECD trainees
+- para-professionals
+- parents in development programmes
+
+### Target Learning Objectives
+- professional skills for working with young children and families
+- integration of theory with practice
+
+### Claims
+- [Parent Education Experiential Evaluations Positive](../claims/parent-education-experiential-evaluations-positive.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Enhancing the Skills of Early Childhood Trainers training pack](../elements/enhancing-skills-early-childhood-trainers-pack.md)
+- [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
+
+## Key Sources
+- Torkington, Kate. (1996). The Rationale for Experiential/Participatory Learning. Working Papers in Early Childhood Development 16. Bernard van Leer Foundation. https://eric.ed.gov/?id=ED392940
 -->

@@ -5,8 +5,8 @@
   "claims->elements": 108,
   "claims->learner-variables": 1,
   "claims->methods": 3,
-  "claims->patterns": 67,
-  "claims->principles": 117,
+  "claims->patterns": 66,
+  "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
   "designs->claims": 93,
@@ -37,23 +37,23 @@
   "methods->principles": 10,
   "methods->processes": 4,
   "methods->theories": 7,
-  "patterns->claims": 117,
-  "patterns->designs": 18,
-  "patterns->elements": 74,
+  "patterns->claims": 108,
+  "patterns->designs": 19,
+  "patterns->elements": 72,
   "patterns->learner-variables": 1,
   "patterns->methods": 4,
-  "patterns->patterns": 86,
-  "patterns->principles": 72,
+  "patterns->patterns": 80,
+  "patterns->principles": 71,
   "patterns->processes": 1,
   "patterns->theories": 28,
-  "principles->claims": 391,
-  "principles->designs": 34,
-  "principles->elements": 97,
+  "principles->claims": 317,
+  "principles->designs": 30,
+  "principles->elements": 89,
   "principles->methods": 5,
-  "principles->patterns": 81,
-  "principles->principles": 253,
+  "principles->patterns": 78,
+  "principles->principles": 226,
   "principles->processes": 2,
-  "principles->theories": 95,
+  "principles->theories": 86,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -73,8 +73,8 @@
   "theories->designs": 60,
   "theories->elements": 173,
   "theories->methods": 14,
-  "theories->patterns": 66,
-  "theories->principles": 216,
+  "theories->patterns": 65,
+  "theories->principles": 214,
   "theories->processes": 7,
   "theories->theories": 699
  },
@@ -494,7 +494,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "articulate-partial-meanings-integral-planning",
+      "slug": "sequencing",
       "strength": "W"
      }
     ],
@@ -1446,7 +1446,7 @@
      },
      {
       "polarity": "~",
-      "slug": "graphic-organizers-scaffold-comprehension-principle",
+      "slug": "graphic-organizers",
       "strength": "W"
      },
      {
@@ -5802,7 +5802,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "podcasts-as-revision-adjunct-distributed-listening",
+      "slug": "spaced-learning",
       "strength": "W"
      }
     ]
@@ -6755,8 +6755,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "low-stakes-nonjudgmental-creativity-environment",
-      "strength": "M"
+      "slug": "fostering-creative-thinking",
+      "strength": "W"
      },
      {
       "polarity": "~",
@@ -9335,7 +9335,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "pair-audio-discussions-with-feedback-and-self-assessment",
+      "slug": "formative-assessment",
       "strength": "M"
      }
     ]
@@ -11242,11 +11242,6 @@
       "polarity": "+",
       "slug": "personalization",
       "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "student-choice-builds-ownership-maker-education",
-      "strength": "M"
      },
      {
       "polarity": "+",
@@ -16537,7 +16532,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "performance-based-teacher-certification-assessment",
+      "slug": "competency-based-assessment",
       "strength": "W"
      }
     ]
@@ -16684,7 +16679,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "formative-assessment-embedded-explicit-reflective-instruction",
+      "slug": "assessment-for-learning",
       "strength": "M"
      }
     ]
@@ -18802,7 +18797,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "combine-signalling-and-cueing-to-highlight-changes",
+      "slug": "clear-structure",
       "strength": "M"
      }
     ]
@@ -19360,8 +19355,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "indirect-moral-education-through-school-life",
-      "strength": "M"
+      "slug": "character-education",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -19964,7 +19959,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "learner-choice",
+      "slug": "autonomy",
       "strength": "W"
      }
     ]
@@ -20021,7 +20016,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "combine-communicative-with-traditional-methods",
+      "slug": "harmonize-opposites-in-educational-change",
       "strength": "W"
      }
     ],
@@ -20112,15 +20107,15 @@
     ],
     "patterns": [
      {
-      "slug": "alternative-in-school-steam-learning-infrastructure"
-     },
-     {
       "polarity": "+",
       "slug": "learning-by-producing-pattern",
       "strength": "W"
      }
     ],
     "principles": [
+     {
+      "slug": "free-choice-learning-environment-design"
+     },
      {
       "polarity": "+",
       "slug": "real-world-problem-solving-maker-context",
@@ -20701,7 +20696,7 @@
      },
      {
       "polarity": "~",
-      "slug": "jigsaw-method",
+      "slug": "fostering-communities-of-learning-fcl",
       "strength": "S"
      },
      {
@@ -24215,7 +24210,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "character-education-promotes-civic-competence",
+      "slug": "character-education",
       "strength": "M"
      }
     ],
@@ -25686,7 +25681,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "combine-communicative-with-traditional-methods",
+      "slug": "harmonize-opposites-in-educational-change",
       "strength": "W"
      }
     ],
@@ -25733,7 +25728,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "determine-element-interactivity-before-designing-instruction",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ]
@@ -25760,7 +25755,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "determine-element-interactivity-before-designing-instruction",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ]
@@ -26151,12 +26146,12 @@
     "patterns": [
      {
       "polarity": "-",
-      "slug": "coaching-level-2-necessary-supports-implementation-and-dialogue",
+      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence",
       "strength": "W"
      },
      {
       "polarity": "-",
-      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence",
+      "slug": "professional-development",
       "strength": "W"
      }
     ],
@@ -26320,12 +26315,12 @@
     "patterns": [
      {
       "polarity": "+",
-      "slug": "coaching-level-2-necessary-supports-implementation-and-dialogue",
+      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence",
       "strength": "W"
      },
      {
       "polarity": "+",
-      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence",
+      "slug": "professional-development",
       "strength": "W"
      }
     ]
@@ -27547,11 +27542,6 @@
       "polarity": "+",
       "slug": "cognitive-load-management",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "reduce-extraneous-optimize-intrinsic-increase-germane",
-      "strength": "M"
      }
     ],
     "processes": [
@@ -27771,7 +27761,7 @@
      },
      {
       "polarity": "+",
-      "slug": "learning-embedded-in-the-core-mechanic",
+      "slug": "game-based-learning",
       "strength": "M"
      }
     ],
@@ -30718,6 +30708,11 @@
      },
      {
       "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "learning-by-producing-pattern",
       "strength": "M"
      }
@@ -30731,11 +30726,6 @@
      {
       "polarity": "+",
       "slug": "flexible-grouping",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "laboratories-satisfying-cooperative-learning-conditions",
       "strength": "M"
      },
      {
@@ -30774,7 +30764,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "writing-teacher-as-facilitator-not-lecturer",
+      "slug": "teacher-as-mediator-not-content-disseminator",
       "strength": "W"
      }
     ],
@@ -31372,7 +31362,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "physical-world-augments-simulation-learning",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "M"
      }
     ],
@@ -35168,11 +35158,6 @@
      },
      {
       "polarity": "~",
-      "slug": "jigsaw-method",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
       "slug": "learning-for-use-lfu-model",
       "strength": "M"
      },
@@ -36188,7 +36173,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vr-radiation-training-complementary-to-hands-on",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "M"
      }
     ]
@@ -36332,7 +36317,7 @@
     "patterns": [
      {
       "polarity": "+",
-      "slug": "jigsaw-structures-adult-learners",
+      "slug": "cooperative-learning",
       "strength": "W"
      }
     ],
@@ -37067,6 +37052,11 @@
     ],
     "patterns": [
      {
+      "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "structured-academic-controversy",
       "strength": "M"
@@ -37086,11 +37076,6 @@
      {
       "polarity": "+",
       "slug": "flexible-grouping",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "laboratories-satisfying-cooperative-learning-conditions",
       "strength": "M"
      },
      {
@@ -38539,7 +38524,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "combine-signalling-and-cueing-to-highlight-changes",
+      "slug": "clear-structure",
       "strength": "W"
      }
     ]
@@ -38864,7 +38849,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "recommend-polya-style-instruction-for-verbal-problems",
+      "slug": "explicit-instruction-math-strategies",
       "strength": "W"
      }
     ]
@@ -39856,7 +39841,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "pair-audio-discussions-with-feedback-and-self-assessment",
+      "slug": "formative-assessment",
       "strength": "M"
      }
     ]
@@ -40293,11 +40278,6 @@
       "polarity": "+",
       "slug": "deliberate-practice",
       "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "structured-deliberate-practice-for-licensing-review",
-      "strength": "M"
      }
     ],
     "theories": [
@@ -40328,11 +40308,6 @@
       "polarity": "+",
       "slug": "deliberate-practice",
       "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "structured-deliberate-practice-for-licensing-review",
-      "strength": "M"
      }
     ],
     "theories": [
@@ -40743,9 +40718,6 @@
     ],
     "principles": [
      {
-      "slug": "balance-retrieval-success-and-retrieval-effort"
-     },
-     {
       "polarity": "~",
       "slug": "cognitive-load-management",
       "strength": "M"
@@ -40757,8 +40729,11 @@
      },
      {
       "polarity": "+",
-      "slug": "learning-embedded-in-the-core-mechanic",
+      "slug": "game-based-learning",
       "strength": "M"
+     },
+     {
+      "slug": "retrieval-practice"
      }
     ],
     "theories": [
@@ -40884,12 +40859,12 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "knowledge-organization",
+      "slug": "elaborative-reasoning",
       "strength": "W"
      },
      {
       "polarity": "+",
-      "slug": "precise-meaningful-elaboration-facilitates-encoding",
+      "slug": "knowledge-organization",
       "strength": "W"
      }
     ],
@@ -41080,7 +41055,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "visual-representations-benefit-only-with-adequate-processing-resources",
+      "slug": "multimedia-learning",
       "strength": "M"
      }
     ]
@@ -41602,11 +41577,6 @@
      }
     ],
     "principles": [
-     {
-      "polarity": "+",
-      "slug": "similar-item-positions-across-booklets",
-      "strength": "M"
-     },
      {
       "polarity": "~",
       "slug": "standardized-test-fairness-and-bias",
@@ -43114,7 +43084,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "weave-diversity-into-community-based-learning",
+      "slug": "community-based-learning",
       "strength": "M"
      }
     ],
@@ -43497,7 +43467,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "dual-teacher-role-acquisition-and-learning",
+      "slug": "teacher-as-mediator-not-content-disseminator",
       "strength": "W"
      }
     ],
@@ -45073,7 +45043,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "balance-retrieval-success-and-retrieval-effort",
+      "slug": "retrieval-practice",
       "strength": "W"
      }
     ]
@@ -45177,7 +45147,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vicarious-before-mastery-teacher-development",
+      "slug": "sequencing",
       "strength": "W"
      }
     ]
@@ -45363,7 +45333,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "M"
      }
     ]
@@ -45398,7 +45368,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "M"
      }
     ]
@@ -45421,7 +45391,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "M"
      }
     ]
@@ -45590,7 +45560,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
+      "slug": "elaborative-reasoning",
       "strength": "M"
      }
     ],
@@ -45611,7 +45581,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "promote-self-generated-elaboration-for-expertise",
+      "slug": "elaborative-reasoning",
       "strength": "W"
      }
     ],
@@ -45638,7 +45608,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
+      "slug": "elaborative-reasoning",
       "strength": "M"
      }
     ],
@@ -45676,7 +45646,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "model-and-monitor-elaborative-interrogation-answer-quality",
+      "slug": "elaborative-reasoning",
       "strength": "M"
      }
     ]
@@ -46550,13 +46520,13 @@
     ],
     "principles": [
      {
-      "polarity": "~",
-      "slug": "explicit-morphology-in-integral-efl-curriculum",
+      "polarity": "+",
+      "slug": "always-report-interpret-effect-sizes",
       "strength": "M"
      },
      {
-      "polarity": "+",
-      "slug": "report-effect-sizes-with-p-values",
+      "polarity": "~",
+      "slug": "explicit-morphology-in-integral-efl-curriculum",
       "strength": "M"
      }
     ]
@@ -47156,12 +47126,7 @@
     "patterns": [
      {
       "polarity": "+",
-      "slug": "tell-show-do-distributed-across-whole-tasks",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "whole-task-progression-increasing-complexity",
+      "slug": "4cid-four-component-instructional-design",
       "strength": "W"
      }
     ],
@@ -49922,6 +49887,11 @@
      },
      {
       "polarity": "~",
+      "slug": "game-based-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
       "slug": "graphic-organizers",
       "strength": "M"
      },
@@ -49938,11 +49908,6 @@
      {
       "polarity": "~",
       "slug": "knowledge-organization",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "learning-embedded-in-the-core-mechanic",
       "strength": "M"
      },
      {
@@ -51736,7 +51701,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "text-system-controlled-prompts-for-novices",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ]
@@ -51890,7 +51855,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem",
+      "slug": "cognitive-load-theory",
       "strength": "M"
      }
     ]
@@ -52124,7 +52089,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
      }
     ]
@@ -52464,12 +52429,12 @@
      },
      {
       "polarity": "+",
-      "slug": "guided-practice",
+      "slug": "game-based-learning",
       "strength": "M"
      },
      {
       "polarity": "+",
-      "slug": "learning-embedded-in-the-core-mechanic",
+      "slug": "guided-practice",
       "strength": "M"
      },
      {
@@ -53471,7 +53436,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "text-system-controlled-prompts-for-novices",
+      "slug": "scaffolding",
       "strength": "M"
      },
      {
@@ -54161,8 +54126,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "design-feedback-on-external-outputs-asynchronous",
-      "strength": "M"
+      "slug": "feedback-loops",
+      "strength": "W"
      },
      {
       "polarity": "+",
@@ -56569,7 +56534,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "free-exploration-before-organized-plan-sequence",
+      "slug": "sequencing",
       "strength": "M"
      }
     ]
@@ -56619,7 +56584,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "combine-signalling-and-cueing-to-highlight-changes",
+      "slug": "clear-structure",
       "strength": "W"
      }
     ]
@@ -57355,7 +57320,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "diagnostic-prescriptive-change-facilitation",
+      "slug": "match-interventions-to-stages-of-concern",
       "strength": "M"
      }
     ],
@@ -57404,7 +57369,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
      }
     ]
@@ -57587,7 +57552,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "formative-assessment-embedded-explicit-reflective-instruction",
+      "slug": "assessment-for-learning",
       "strength": "M"
      },
      {
@@ -57627,7 +57592,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "formative-assessment-embedded-explicit-reflective-instruction",
+      "slug": "assessment-for-learning",
       "strength": "M"
      }
     ]
@@ -58669,7 +58634,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "gain-then-time-constant-adaptive-progression",
+      "slug": "adaptive-learning",
       "strength": "W"
      }
     ],
@@ -59550,7 +59515,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
+      "slug": "elaborative-reasoning",
       "strength": "M"
      }
     ],
@@ -59614,7 +59579,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem",
+      "slug": "cognitive-load-theory",
       "strength": "M"
      }
     ]
@@ -60333,7 +60298,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
+      "slug": "elaborative-reasoning",
       "strength": "W"
      }
     ],
@@ -60478,7 +60443,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "assess-process-over-product-maker-education",
+      "slug": "fostering-creative-thinking",
       "strength": "W"
      },
      {
@@ -60777,18 +60742,8 @@
      },
      {
       "polarity": "+",
-      "slug": "graphic-organizers-scaffold-comprehension-principle",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
       "slug": "graphic-organizers",
       "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "semantic-mapping-principle",
-      "strength": "M"
      }
     ],
     "strategies": [
@@ -61615,13 +61570,13 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "guided-prompts-and-faculty-involvement-encourage-integrative-reflection",
-      "strength": "M"
+      "slug": "journaling",
+      "strength": "W"
      },
      {
       "polarity": "+",
-      "slug": "journaling",
-      "strength": "W"
+      "slug": "reflection",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -61656,11 +61611,6 @@
       "polarity": "+",
       "slug": "community-based-learning",
       "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "guided-prompts-and-faculty-involvement-encourage-integrative-reflection",
-      "strength": "M"
      },
      {
       "polarity": "+",
@@ -62005,11 +61955,6 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
-      "strength": "W"
-     },
-     {
-      "polarity": "~",
-      "slug": "semantic-mapping-principle",
       "strength": "W"
      }
     ]
@@ -68980,7 +68925,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "shared-whiteboard-dual-cohort-workspace",
+      "slug": "digital-learning",
       "strength": "M"
      }
     ]
@@ -70978,8 +70923,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "teach-scientist-and-poet-truths",
-      "strength": "M"
+      "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
      }
     ]
    },
@@ -72007,7 +71952,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "measured-pace-one-concept-at-a-time-older-learners",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ],
@@ -72121,11 +72066,6 @@
      {
       "polarity": "+",
       "slug": "fostering-communities-of-learning-fcl",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "jigsaw-method",
       "strength": "M"
      },
      {
@@ -72408,7 +72348,7 @@
      {
       "polarity": "+",
       "slug": "teacher-as-designer-guider-consultant",
-      "strength": "M"
+      "strength": "W"
      }
     ],
     "theories": [
@@ -72664,7 +72604,7 @@
      },
      {
       "polarity": "+",
-      "slug": "implement-research-based-pedagogy-not-untested-theories",
+      "slug": "evidence-based-teaching-and-scientific-reasoning",
       "strength": "M"
      },
      {
@@ -72976,11 +72916,6 @@
      }
     ],
     "principles": [
-     {
-      "polarity": "+",
-      "slug": "balance-retrieval-success-and-retrieval-effort",
-      "strength": "W"
-     },
      {
       "polarity": "~",
       "slug": "retrieval-practice",
@@ -73446,10 +73381,10 @@
       "slug": "teachers-favor-delayed-ocf-over-immediate"
      }
     ],
-    "patterns": [
+    "principles": [
      {
       "polarity": "+",
-      "slug": "rivers-four-stages-teaching-listening",
+      "slug": "sequencing",
       "strength": "W"
      }
     ],
@@ -73811,7 +73746,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "analyze-student-dialogue-turns-as-formative-assessment",
+      "slug": "formative-assessment",
       "strength": "W"
      }
     ],
@@ -74730,12 +74665,12 @@
      },
      {
       "polarity": "~",
-      "slug": "match-worked-example-type-to-learner-prior-knowledge",
+      "slug": "modeling",
       "strength": "M"
      },
      {
       "polarity": "~",
-      "slug": "modeling",
+      "slug": "worked-examples",
       "strength": "M"
      }
     ]
@@ -75587,7 +75522,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "gain-then-time-constant-adaptive-progression",
+      "slug": "adaptive-learning",
       "strength": "W"
      }
     ],
@@ -75811,10 +75746,10 @@
       "slug": "sex-advantage-diminishes-under-mastery-learning"
      }
     ],
-    "principles": [
+    "patterns": [
      {
       "polarity": "~",
-      "slug": "superimpose-mastery-learning-on-lecture-courses",
+      "slug": "mastery-learning",
       "strength": "W"
      }
     ]
@@ -75856,7 +75791,7 @@
      },
      {
       "polarity": "+",
-      "slug": "vicarious-before-mastery-teacher-development",
+      "slug": "sequencing",
       "strength": "M"
      }
     ]
@@ -75940,11 +75875,6 @@
      }
     ],
     "patterns": [
-     {
-      "polarity": "+",
-      "slug": "mastery-learning-formative-corrective-cycle",
-      "strength": "M"
-     },
      {
       "polarity": "~",
       "slug": "mastery-learning",
@@ -76499,7 +76429,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "number-difficulty-impacts-mdc-construction",
+      "slug": "sequencing",
       "strength": "M"
      }
     ],
@@ -77653,7 +77583,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "determine-element-interactivity-before-designing-instruction",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ],
@@ -77995,7 +77925,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "portfolio-review-nontraditional-contributions-rigor",
+      "slug": "discipline-specific-engaged-scholarship-policies",
       "strength": "W"
      }
     ],
@@ -78669,7 +78599,7 @@
      },
      {
       "polarity": "+",
-      "slug": "teacher-as-facilitator-for-discovery",
+      "slug": "teacher-as-mediator-not-content-disseminator",
       "strength": "W"
      }
     ],
@@ -78702,7 +78632,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "implement-research-based-pedagogy-not-untested-theories",
+      "slug": "evidence-based-teaching-and-scientific-reasoning",
       "strength": "M"
      }
     ],
@@ -79193,12 +79123,12 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "comprehensible-training-benefits-all-workers",
+      "slug": "accessible-vocabulary-syntax",
       "strength": "W"
      },
      {
       "polarity": "+",
-      "slug": "plain-english-workplace-materials",
+      "slug": "comprehensible-training-benefits-all-workers",
       "strength": "W"
      }
     ]
@@ -79921,7 +79851,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "multimedia-modules-for-pre-lecture-preparation",
+      "slug": "flipped-learning",
       "strength": "M"
      }
     ]
@@ -80167,10 +80097,10 @@
       "slug": "treatment-science-pretest-independent-effects"
      }
     ],
-    "principles": [
+    "patterns": [
      {
       "polarity": "+",
-      "slug": "prefer-narration-over-on-screen-text-middle-school",
+      "slug": "multimedia-learning",
       "strength": "M"
      }
     ]
@@ -80248,11 +80178,6 @@
       "polarity": "~",
       "slug": "multimodal-instruction",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "prefer-narration-over-on-screen-text-middle-school",
-      "strength": "S"
      },
      {
       "polarity": "~",
@@ -80783,8 +80708,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "indirect-moral-education-through-school-life",
-      "strength": "M"
+      "slug": "character-education",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -83118,7 +83043,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vr-radiation-training-complementary-to-hands-on",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "M"
      }
     ]
@@ -83273,14 +83198,14 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "cognitive-load-management",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "four-strategies-older-refugee-language-learners",
       "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "measured-pace-one-concept-at-a-time-older-learners",
-      "strength": "W"
      }
     ]
    },
@@ -83372,7 +83297,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "determine-element-interactivity-before-designing-instruction",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ]
@@ -83984,7 +83909,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "formative-assessment-embedded-explicit-reflective-instruction",
+      "slug": "assessment-for-learning",
       "strength": "W"
      }
     ]
@@ -84154,7 +84079,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "recommend-polya-style-instruction-for-verbal-problems",
+      "slug": "explicit-instruction-math-strategies",
       "strength": "M"
      }
     ]
@@ -85116,7 +85041,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "age-friendly-classroom-remedy-social-isolation",
+      "slug": "cognitive-load-management",
       "strength": "M"
      },
      {
@@ -85126,7 +85051,7 @@
      },
      {
       "polarity": "+",
-      "slug": "measured-pace-one-concept-at-a-time-older-learners",
+      "slug": "expanding-social-networks",
       "strength": "M"
      }
     ]
@@ -86923,7 +86848,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "experiential-course-design-practice-centered-diagnostic",
+      "slug": "experiential-learning",
       "strength": "W"
      }
     ],
@@ -89053,7 +88978,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
+      "slug": "self-regulated-learning",
       "strength": "M"
      }
     ]
@@ -89377,7 +89302,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "pre-assessment-scaffolding-hypothesized-quality-driver",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ]
@@ -91441,7 +91366,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "podcasts-as-revision-adjunct-distributed-listening",
+      "slug": "spaced-learning",
       "strength": "W"
      }
     ]
@@ -91468,7 +91393,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "podcasts-as-revision-adjunct-distributed-listening",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ]
@@ -91495,7 +91420,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "podcasts-as-revision-adjunct-distributed-listening",
+      "slug": "spaced-learning",
       "strength": "W"
      }
     ]
@@ -91528,7 +91453,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "podcasts-as-revision-adjunct-distributed-listening",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ]
@@ -91558,7 +91483,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "podcasts-as-revision-adjunct-distributed-listening",
+      "slug": "spaced-learning",
       "strength": "W"
      }
     ]
@@ -91687,7 +91612,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "recommend-polya-style-instruction-for-verbal-problems",
+      "slug": "explicit-instruction-math-strategies",
       "strength": "M"
      }
     ]
@@ -91902,7 +91827,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "remedial-instruction-build-on-strengths-integrate-sources",
+      "slug": "strengths-based-approach",
       "strength": "M"
      }
     ],
@@ -92249,7 +92174,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "structure-with-student-control-cross-cultural-tasks",
+      "slug": "autonomy",
       "strength": "M"
      }
     ]
@@ -92542,11 +92467,6 @@
      },
      {
       "polarity": "+",
-      "slug": "include-aligned-practice-in-cbi",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "procedural-learning",
       "strength": "M"
      }
@@ -92801,7 +92721,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
      }
     ]
@@ -93123,7 +93043,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "formative-assessment-embedded-explicit-reflective-instruction",
+      "slug": "assessment-for-learning",
       "strength": "W"
      }
     ]
@@ -93584,7 +93504,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "match-worked-example-type-to-learner-prior-knowledge",
+      "slug": "worked-examples",
       "strength": "M"
      }
     ]
@@ -93895,7 +93815,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "match-worked-example-type-to-learner-prior-knowledge",
+      "slug": "worked-examples",
       "strength": "M"
      }
     ]
@@ -94178,13 +94098,13 @@
     ],
     "principles": [
      {
-      "polarity": "+",
-      "slug": "combine-pb-and-simulation-il-instruction",
+      "polarity": "~",
+      "slug": "evaluating-sources",
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "evaluating-sources",
+      "polarity": "+",
+      "slug": "harmonize-opposites-in-educational-change",
       "strength": "M"
      }
     ]
@@ -94296,14 +94216,14 @@
     ],
     "principles": [
      {
-      "polarity": "+",
-      "slug": "articulate-partial-meanings-integral-planning",
-      "strength": "M"
-     },
-     {
       "polarity": "~",
       "slug": "procedural-learning",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "sequencing",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -94406,6 +94326,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "clear-structure",
       "strength": "M"
@@ -94478,11 +94403,6 @@
      {
       "polarity": "+",
       "slug": "growth-mindset",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "learner-choice",
       "strength": "M"
      },
      {
@@ -95528,7 +95448,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "age-friendly-classroom-remedy-social-isolation",
+      "slug": "expanding-social-networks",
       "strength": "W"
      }
     ],
@@ -95688,7 +95608,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "text-system-controlled-prompts-for-novices",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ]
@@ -95715,7 +95635,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "text-system-controlled-prompts-for-novices",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ]
@@ -96437,7 +96357,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vr-radiation-training-complementary-to-hands-on",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "W"
      }
     ]
@@ -97018,7 +96938,7 @@
      },
      {
       "polarity": "+",
-      "slug": "remedial-instruction-build-on-strengths-integrate-sources",
+      "slug": "strengths-based-approach",
       "strength": "M"
      }
     ]
@@ -99843,7 +99763,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "portfolio-review-nontraditional-contributions-rigor",
+      "slug": "discipline-specific-engaged-scholarship-policies",
       "strength": "W"
      }
     ],
@@ -100049,7 +99969,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "determine-element-interactivity-before-designing-instruction",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ],
@@ -100465,11 +100385,6 @@
      }
     ],
     "principles": [
-     {
-      "polarity": "+",
-      "slug": "balance-retrieval-success-and-retrieval-effort",
-      "strength": "M"
-     },
      {
       "polarity": "~",
       "slug": "guided-practice",
@@ -101262,7 +101177,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "design-principles-depend-on-prior-knowledge",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ],
@@ -101299,7 +101214,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "design-principles-depend-on-prior-knowledge",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ],
@@ -101339,7 +101254,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "design-principles-depend-on-prior-knowledge",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ],
@@ -101376,7 +101291,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "design-principles-depend-on-prior-knowledge",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ],
@@ -101413,7 +101328,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "design-principles-depend-on-prior-knowledge",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ],
@@ -101441,7 +101356,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "design-principles-depend-on-prior-knowledge",
+      "slug": "cognitive-load-management",
       "strength": "W"
      }
     ],
@@ -102005,14 +101920,14 @@
     ],
     "principles": [
      {
+      "polarity": "+",
+      "slug": "cognitive-load-management",
+      "strength": "W"
+     },
+     {
       "polarity": "~",
       "slug": "combine-audio-visual-compensate-sensory-loss",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "measured-pace-one-concept-at-a-time-older-learners",
-      "strength": "W"
      }
     ]
    },
@@ -102689,13 +102604,13 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "knowledge-organization",
-      "strength": "W"
+      "slug": "elaborative-reasoning",
+      "strength": "M"
      },
      {
       "polarity": "+",
-      "slug": "precise-meaningful-elaboration-facilitates-encoding",
-      "strength": "M"
+      "slug": "knowledge-organization",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -102839,8 +102754,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "teach-to-intellectual-styles-flexibly",
-      "strength": "M"
+      "slug": "cognitive-styles",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -102866,8 +102781,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "teach-scientist-and-poet-truths",
-      "strength": "M"
+      "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
      }
     ]
    },
@@ -107101,11 +107016,6 @@
      },
      {
       "polarity": "~",
-      "slug": "jigsaw-method",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
       "slug": "lda-reflection",
       "strength": "S"
      },
@@ -107258,6 +107168,11 @@
      },
      {
       "polarity": "+",
+      "slug": "elaborative-reasoning",
+      "strength": "S"
+     },
+     {
+      "polarity": "+",
       "slug": "epistemic-cognition",
       "strength": "S"
      },
@@ -107399,11 +107314,6 @@
      {
       "polarity": "+",
       "slug": "process-based-writing",
-      "strength": "S"
-     },
-     {
-      "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
       "strength": "S"
      },
      {
@@ -109279,7 +109189,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
+      "slug": "elaborative-reasoning",
       "strength": "M"
      }
     ],
@@ -109309,13 +109219,13 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "procedural-learning",
-      "strength": "W"
+      "slug": "elaborative-reasoning",
+      "strength": "M"
      },
      {
       "polarity": "+",
-      "slug": "promote-self-generated-elaboration-for-expertise",
-      "strength": "M"
+      "slug": "procedural-learning",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -109697,11 +109607,6 @@
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "jigsaw-method",
-      "strength": "M"
-     },
-     {
       "polarity": "+",
       "slug": "lda-reflection",
       "strength": "M"
@@ -109761,6 +109666,11 @@
      {
       "polarity": "+",
       "slug": "assessment-for-learning",
+      "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "autonomy",
       "strength": "M"
      },
      {
@@ -109851,11 +109761,6 @@
      {
       "polarity": "+",
       "slug": "journaling",
-      "strength": "M"
-     },
-     {
-      "polarity": "~",
-      "slug": "learner-choice",
       "strength": "M"
      },
      {
@@ -111989,10 +111894,10 @@
       "slug": "stronger-belonging-linked-engagement-achievement"
      }
     ],
-    "principles": [
+    "patterns": [
      {
       "polarity": "~",
-      "slug": "superimpose-mastery-learning-on-lecture-courses",
+      "slug": "mastery-learning",
       "strength": "W"
      }
     ]
@@ -112049,7 +111954,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "assess-child-preference-in-aac-decision-making",
+      "slug": "personalization",
       "strength": "M"
      },
      {
@@ -112179,7 +112084,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "culturally-responsive-adult-curriculum",
+      "slug": "cultural-life-experiences-connections",
       "strength": "W"
      }
     ]
@@ -112249,11 +112154,6 @@
       "polarity": "+",
       "slug": "chunking",
       "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "keep-chunking-study-outlines-short",
-      "strength": "M"
      }
     ],
     "theories": [
@@ -112474,7 +112374,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "combine-signalling-and-cueing-to-highlight-changes",
+      "slug": "clear-structure",
       "strength": "M"
      }
     ]
@@ -112497,7 +112397,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "combine-signalling-and-cueing-to-highlight-changes",
+      "slug": "clear-structure",
       "strength": "W"
      }
     ]
@@ -112928,13 +112828,13 @@
     ],
     "principles": [
      {
-      "polarity": "+",
-      "slug": "combine-pb-and-simulation-il-instruction",
+      "polarity": "~",
+      "slug": "evaluating-sources",
       "strength": "M"
      },
      {
-      "polarity": "~",
-      "slug": "evaluating-sources",
+      "polarity": "+",
+      "slug": "harmonize-opposites-in-educational-change",
       "strength": "M"
      }
     ]
@@ -112958,13 +112858,13 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "combine-pb-and-simulation-il-instruction",
-      "strength": "W"
+      "slug": "evaluating-sources",
+      "strength": "M"
      },
      {
       "polarity": "~",
-      "slug": "evaluating-sources",
-      "strength": "M"
+      "slug": "harmonize-opposites-in-educational-change",
+      "strength": "W"
      }
     ]
    },
@@ -113050,13 +112950,6 @@
      {
       "polarity": "~",
       "slug": "gagnes-9-events-of-instruction",
-      "strength": "M"
-     }
-    ],
-    "principles": [
-     {
-      "polarity": "~",
-      "slug": "include-aligned-practice-in-cbi",
       "strength": "M"
      }
     ]
@@ -113844,7 +113737,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "number-difficulty-impacts-mdc-construction",
+      "slug": "sequencing",
       "strength": "M"
      }
     ],
@@ -113973,11 +113866,6 @@
      {
       "polarity": "+",
       "slug": "cooperative-learning",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "laboratories-satisfying-cooperative-learning-conditions",
       "strength": "M"
      },
      {
@@ -114859,7 +114747,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "augment-single-session-workshop-with-spaced-retrieval",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ],
@@ -114883,7 +114771,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "augment-single-session-workshop-with-spaced-retrieval",
+      "slug": "spaced-learning",
       "strength": "W"
      }
     ],
@@ -115004,11 +114892,6 @@
      }
     ],
     "principles": [
-     {
-      "polarity": "+",
-      "slug": "augment-single-session-workshop-with-spaced-retrieval",
-      "strength": "M"
-     },
      {
       "polarity": "+",
       "slug": "deliberate-practice",
@@ -115907,7 +115790,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "balance-retrieval-success-and-retrieval-effort",
+      "slug": "retrieval-practice",
       "strength": "W"
      }
     ]
@@ -115964,7 +115847,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "augment-single-session-workshop-with-spaced-retrieval",
+      "slug": "spaced-learning",
       "strength": "M"
      }
     ],
@@ -116327,6 +116210,11 @@
       "strength": "M"
      },
      {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "clear-structure",
       "strength": "M"
@@ -116354,7 +116242,7 @@
      {
       "polarity": "+",
       "slug": "expanding-social-networks",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -116369,11 +116257,6 @@
      {
       "polarity": "+",
       "slug": "growth-mindset",
-      "strength": "S"
-     },
-     {
-      "polarity": "~",
-      "slug": "learner-choice",
       "strength": "S"
      },
      {
@@ -117231,7 +117114,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
+      "slug": "self-regulated-learning",
       "strength": "M"
      }
     ]
@@ -117281,13 +117164,13 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "digital-learning",
-      "strength": "M"
+      "slug": "always-report-interpret-effect-sizes",
+      "strength": "W"
      },
      {
       "polarity": "+",
-      "slug": "report-effect-sizes-with-p-values",
-      "strength": "W"
+      "slug": "digital-learning",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -117474,7 +117357,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "report-effect-sizes-with-p-values",
+      "slug": "always-report-interpret-effect-sizes",
       "strength": "W"
      }
     ],
@@ -117774,7 +117657,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "articulate-partial-meanings-integral-planning",
+      "slug": "sequencing",
       "strength": "W"
      }
     ],
@@ -117972,7 +117855,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "articulate-partial-meanings-integral-planning",
+      "slug": "sequencing",
       "strength": "W"
      }
     ],
@@ -119340,7 +119223,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
      }
     ]
@@ -120023,7 +119906,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "represent-procedures-as-shared-resources-to-clarify-thinking",
+      "slug": "cognitive-flexibility",
       "strength": "W"
      }
     ],
@@ -120102,7 +119985,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "physical-world-augments-simulation-learning",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "W"
      }
     ],
@@ -120216,7 +120099,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "guiding-problem-question-structures-astronomy-sequence",
+      "slug": "inquiry-based-learning",
       "strength": "M"
      }
     ],
@@ -120268,7 +120151,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "instructor-indirect-narration-studio",
+      "slug": "understanding-cultivated-not-described",
       "strength": "M"
      }
     ],
@@ -120333,7 +120216,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "represent-procedures-as-shared-resources-to-clarify-thinking",
+      "slug": "cognitive-flexibility",
       "strength": "W"
      }
     ],
@@ -120699,11 +120582,6 @@
       "polarity": "~",
       "slug": "flipped-learning",
       "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "multimedia-modules-for-pre-lecture-preparation",
-      "strength": "W"
      }
     ]
    },
@@ -120871,7 +120749,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "physical-world-augments-simulation-learning",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "W"
      }
     ]
@@ -120888,7 +120766,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "represent-procedures-as-shared-resources-to-clarify-thinking",
+      "slug": "cognitive-flexibility",
       "strength": "W"
      }
     ],
@@ -121177,8 +121055,8 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "teach-to-intellectual-styles-flexibly",
-      "strength": "M"
+      "slug": "cognitive-styles",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -122084,7 +121962,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "gain-then-time-constant-adaptive-progression",
+      "slug": "adaptive-learning",
       "strength": "W"
      }
     ],
@@ -122338,7 +122216,7 @@
     "principles": [
      {
       "polarity": "-",
-      "slug": "teacher-as-facilitator-constructivist-classroom",
+      "slug": "teacher-as-mediator-not-content-disseminator",
       "strength": "W"
      }
     ]
@@ -122452,7 +122330,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "low-task-complexity-child-learners-recasts",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ],
@@ -122491,7 +122369,7 @@
     "principles": [
      {
       "polarity": "~",
-      "slug": "low-task-complexity-child-learners-recasts",
+      "slug": "cognitive-load-management",
       "strength": "M"
      }
     ],
@@ -123507,12 +123385,7 @@
     "patterns": [
      {
       "polarity": "+",
-      "slug": "tell-show-do-distributed-across-whole-tasks",
-      "strength": "W"
-     },
-     {
-      "polarity": "+",
-      "slug": "whole-task-progression-increasing-complexity",
+      "slug": "4cid-four-component-instructional-design",
       "strength": "W"
      }
     ],
@@ -123941,7 +123814,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "slug": "motivation",
       "strength": "W"
      }
     ],
@@ -124192,7 +124065,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "slug": "motivation",
       "strength": "W"
      }
     ],
@@ -124427,7 +124300,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "slug": "motivation",
       "strength": "W"
      }
     ],
@@ -124566,7 +124439,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "slug": "motivation",
       "strength": "W"
      }
     ],
@@ -124962,7 +124835,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "target-expectancy-value-components-in-teacher-ai-training",
+      "slug": "motivation",
       "strength": "W"
      }
     ],
@@ -126244,7 +126117,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "text-system-controlled-prompts-for-novices",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ]
@@ -126274,7 +126147,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "text-system-controlled-prompts-for-novices",
+      "slug": "scaffolding",
       "strength": "M"
      }
     ]
@@ -126849,7 +126722,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "free-exploration-before-organized-plan-sequence",
+      "slug": "sequencing",
       "strength": "M"
      }
     ]
@@ -129871,7 +129744,7 @@
      },
      {
       "polarity": "+",
-      "slug": "vicarious-before-mastery-teacher-development",
+      "slug": "sequencing",
       "strength": "M"
      }
     ]
@@ -129989,11 +129862,6 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "integrate-video-narration-text-for-l2-macs-comprehension",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
       "slug": "multimodal-instruction",
       "strength": "M"
      }
@@ -130099,7 +129967,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "integrate-video-narration-text-for-l2-macs-comprehension",
+      "slug": "multimodal-instruction",
       "strength": "M"
      }
     ],
@@ -130342,7 +130210,7 @@
      },
      {
       "polarity": "+",
-      "slug": "graphic-organizers-scaffold-comprehension-principle",
+      "slug": "graphic-organizers",
       "strength": "M"
      }
     ],
@@ -130565,7 +130433,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vr-radiation-training-complementary-to-hands-on",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "M"
      }
     ]
@@ -130608,7 +130476,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vr-radiation-training-complementary-to-hands-on",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "W"
      }
     ]
@@ -130638,7 +130506,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "vr-radiation-training-complementary-to-hands-on",
+      "slug": "technology-augments-not-supplants-processes",
       "strength": "W"
      }
     ]
@@ -131128,11 +130996,6 @@
      {
       "polarity": "~",
       "slug": "journaling",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups",
       "strength": "M"
      },
      {
@@ -131674,11 +131537,6 @@
       "strength": "M"
      },
      {
-      "polarity": "+",
-      "slug": "learning-embedded-in-the-core-mechanic",
-      "strength": "M"
-     },
-     {
       "polarity": "~",
       "slug": "mentoring-and-coaching",
       "strength": "M"
@@ -131920,8 +131778,8 @@
     "patterns": [
      {
       "polarity": "+",
-      "slug": "keypad-quizzing-interrupts-lecture-for-formative-assessment",
-      "strength": "M"
+      "slug": "formative-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -132214,7 +132072,7 @@
      {
       "polarity": "+",
       "slug": "explicit-instruction-math-strategies",
-      "strength": "S"
+      "strength": "M"
      },
      {
       "polarity": "+",
@@ -132690,9 +132548,6 @@
       "polarity": "~",
       "slug": "direct-instruction",
       "strength": "M"
-     },
-     {
-      "slug": "match-worked-example-type-to-learner-prior-knowledge"
      },
      {
       "polarity": "~",
@@ -134296,7 +134151,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "align-grammar-instruction-with-learner-beliefs",
+      "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
      }
     ]
@@ -134652,10 +134507,10 @@
    "coaching-level-1-initial-steps-beliefs-and-community-establishment": {
     "patterns": [
      {
-      "slug": "coaching-level-2-necessary-supports-implementation-and-dialogue"
+      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence"
      },
      {
-      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence"
+      "slug": "professional-development"
      }
     ],
     "theories": [
@@ -134679,7 +134534,7 @@
     ],
     "principles": [
      {
-      "slug": "teacher-as-facilitator-constructivist-classroom"
+      "slug": "teacher-as-mediator-not-content-disseminator"
      }
     ],
     "theories": [
@@ -134876,7 +134731,7 @@
    "five-activity-shadow-to-sundial-sequence": {
     "principles": [
      {
-      "slug": "guiding-problem-question-structures-astronomy-sequence"
+      "slug": "inquiry-based-learning"
      }
     ]
    },
@@ -134943,12 +134798,12 @@
     "patterns": [
      {
       "slug": "5e-learning-cycle"
+     },
+     {
+      "slug": "cooperative-learning"
      }
     ],
     "principles": [
-     {
-      "slug": "laboratories-satisfying-cooperative-learning-conditions"
-     },
      {
       "slug": "paradox-puzzle-before-theory-lecture"
      }
@@ -135073,7 +134928,7 @@
     ],
     "principles": [
      {
-      "slug": "teach-scientist-and-poet-truths"
+      "slug": "harmonize-opposites-in-educational-change"
      }
     ]
    },
@@ -135232,7 +135087,7 @@
    "portfolio-with-written-commentary-assessment": {
     "principles": [
      {
-      "slug": "performance-based-teacher-certification-assessment"
+      "slug": "competency-based-assessment"
      }
     ]
    },
@@ -135244,7 +135099,7 @@
     ],
     "principles": [
      {
-      "slug": "reduce-teacher-talk-increase-student-talk"
+      "slug": "talking-and-writing-means-to-learning"
      }
     ]
    },
@@ -135289,7 +135144,7 @@
    "reversi-training-conditions-varying-intrinsic-and-extraneous-load": {
     "principles": [
      {
-      "slug": "reduce-extraneous-optimize-intrinsic-increase-germane"
+      "slug": "cognitive-load-management"
      }
     ]
    },
@@ -137359,9 +137214,6 @@
     "principles": [
      {
       "slug": "adaptive-learning"
-     },
-     {
-      "slug": "multi-objective-exercise-recommendation-objectives"
      },
      {
       "slug": "personalization"
@@ -143399,9 +143251,6 @@
       "slug": "gagnes-9-events-of-instruction"
      },
      {
-      "slug": "jigsaw-method"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -144706,9 +144555,6 @@
     "principles": [
      {
       "slug": "game-based-learning"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ]
    },
@@ -145830,7 +145676,7 @@
    "backward-faded-circuit-analysis-module": {
     "principles": [
      {
-      "slug": "text-system-controlled-prompts-for-novices"
+      "slug": "scaffolding"
      }
     ]
    },
@@ -155771,7 +155617,7 @@
    "cooperative-learning-activities-adult-learners-manual": {
     "patterns": [
      {
-      "slug": "jigsaw-structures-adult-learners"
+      "slug": "cooperative-learning"
      }
     ]
    },
@@ -157637,13 +157483,6 @@
      }
     ]
    },
-   "ears-for-examinations-ai-podcast-intervention": {
-    "principles": [
-     {
-      "slug": "podcasts-as-revision-adjunct-distributed-listening"
-     }
-    ]
-   },
    "eckersley-design-helper-programs": {
     "theories": [
      {
@@ -157891,7 +157730,7 @@
    "enhancing-skills-early-childhood-trainers-pack": {
     "principles": [
      {
-      "slug": "experiential-course-design-practice-centered-diagnostic"
+      "slug": "experiential-learning"
      }
     ],
     "theories": [
@@ -160380,9 +160219,6 @@
      },
      {
       "slug": "cooperative-learning"
-     },
-     {
-      "slug": "jigsaw-method"
      }
     ]
    },
@@ -161386,7 +161222,7 @@
    "intermediate-mechanics-tutorials-imt": {
     "principles": [
      {
-      "slug": "represent-procedures-as-shared-resources-to-clarify-thinking"
+      "slug": "cognitive-flexibility"
      }
     ]
    },
@@ -161876,9 +161712,6 @@
     "principles": [
      {
       "slug": "game-based-learning"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ]
    },
@@ -162057,7 +161890,7 @@
       "slug": "career-education-through-industrial-arts"
      },
      {
-      "slug": "continuous-pupil-progress-individualized-structure"
+      "slug": "personalization"
      }
     ],
     "theories": [
@@ -162573,11 +162406,6 @@
     "patterns": [
      {
       "slug": "learning-by-producing-pattern"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "cross-curricular-multimedia-units"
      }
     ]
    },
@@ -163248,9 +163076,6 @@
       "slug": "fostering-communities-of-learning-fcl"
      },
      {
-      "slug": "jigsaw-method"
-     },
-     {
       "slug": "online-course-design"
      },
      {
@@ -163359,9 +163184,6 @@
      },
      {
       "slug": "fostering-communities-of-learning-fcl"
-     },
-     {
-      "slug": "jigsaw-method"
      },
      {
       "slug": "lda-reflection"
@@ -164028,9 +163850,6 @@
     ],
     "patterns": [
      {
-      "slug": "jigsaw-method"
-     },
-     {
       "slug": "peer-teaching"
      }
     ],
@@ -164174,10 +163993,12 @@
       "slug": "how-it-works-lab-activity"
      }
     ],
-    "principles": [
+    "patterns": [
      {
-      "slug": "laboratories-satisfying-cooperative-learning-conditions"
-     },
+      "slug": "cooperative-learning"
+     }
+    ],
+    "principles": [
      {
       "slug": "paradox-puzzle-before-theory-lecture"
      }
@@ -169889,9 +169710,9 @@
     ]
    },
    "scenario-based-simulated-interaction-assessments": {
-    "principles": [
+    "patterns": [
      {
-      "slug": "interactional-authenticity-large-scale-assessment"
+      "slug": "authentic-assessment"
      }
     ]
    },
@@ -171441,13 +171262,13 @@
     ],
     "principles": [
      {
-      "slug": "age-friendly-classroom-remedy-social-isolation"
+      "slug": "cognitive-load-management"
      },
      {
       "slug": "contextualize-abstract-content-older-learners"
      },
      {
-      "slug": "measured-pace-one-concept-at-a-time-older-learners"
+      "slug": "expanding-social-networks"
      }
     ]
    },
@@ -173099,11 +172920,6 @@
     ]
    },
    "voicethread-interpersonal-audio-discussions": {
-    "principles": [
-     {
-      "slug": "pair-audio-discussions-with-feedback-and-self-assessment"
-     }
-    ],
     "theories": [
      {
       "slug": "willingness-to-communicate-in-l2"
@@ -173123,7 +172939,7 @@
    "vr-radiopharmaceutical-administration-module-radiation-visualization": {
     "principles": [
      {
-      "slug": "vr-radiation-training-complementary-to-hands-on"
+      "slug": "technology-augments-not-supplants-processes"
      }
     ]
    },
@@ -174293,6 +174109,12 @@
     "theories": [
      {
       "slug": "element-interactivity-complexity-criterion-clt"
+     },
+     {
+      "slug": "first-principles-of-instruction"
+     },
+     {
+      "slug": "merrill-first-principles-instruction-cycle"
      }
     ]
    },
@@ -174375,13 +174197,6 @@
     "theories": [
      {
       "slug": "blooms-taxonomy"
-     }
-    ]
-   },
-   "alternative-in-school-steam-learning-infrastructure": {
-    "claims": [
-     {
-      "slug": "choice-rich-infrastructure-supports-productive-deviation-and-learning"
      }
     ]
    },
@@ -175332,23 +175147,6 @@
      }
     ]
    },
-   "coaching-level-2-necessary-supports-implementation-and-dialogue": {
-    "designs": [
-     {
-      "slug": "coaching-level-1-initial-steps-beliefs-and-community-establishment"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "three-level-instructional-coaching-trajectory-teacher-change"
-     }
-    ]
-   },
    "coaching-level-3-sustaining-efforts-coach-learning-and-independence": {
     "designs": [
      {
@@ -175356,9 +175154,6 @@
      }
     ],
     "patterns": [
-     {
-      "slug": "coaching-level-2-necessary-supports-implementation-and-dialogue"
-     },
      {
       "slug": "professional-development"
      }
@@ -177456,9 +177251,6 @@
       "slug": "fostering-communities-of-learning-fcl"
      },
      {
-      "slug": "jigsaw-structures-adult-learners"
-     },
-     {
       "slug": "positive-behavioral-interventions-and-supports"
      },
      {
@@ -177477,6 +177269,9 @@
     "principles": [
      {
       "slug": "cooperative-learning"
+     },
+     {
+      "slug": "paradox-puzzle-before-theory-lecture"
      },
      {
       "slug": "social-interdependence"
@@ -177617,6 +177412,9 @@
       "slug": "cooperative-learning-model-definition-characteristics"
      },
      {
+      "slug": "five-basic-elements-of-cooperative-learning"
+     },
+     {
       "slug": "kagan-pies-cooperative-learning-principles"
      }
     ]
@@ -177724,10 +177522,10 @@
       "slug": "evaluating-sources"
      },
      {
-      "slug": "reduce-teacher-talk-increase-student-talk"
+      "slug": "rhetorical-skill-development"
      },
      {
-      "slug": "rhetorical-skill-development"
+      "slug": "talking-and-writing-means-to-learning"
      }
     ],
     "strategies": [
@@ -178855,7 +178653,7 @@
       "slug": "flipped-classroom"
      },
      {
-      "slug": "jigsaw-method"
+      "slug": "fostering-communities-of-learning-fcl"
      },
      {
       "slug": "lda-reflection"
@@ -179158,7 +178956,7 @@
     ],
     "patterns": [
      {
-      "slug": "whole-task-progression-increasing-complexity"
+      "slug": "4cid-four-component-instructional-design"
      }
     ],
     "principles": [
@@ -179198,9 +178996,6 @@
     "principles": [
      {
       "slug": "game-based-learning"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ],
     "theories": [
@@ -180043,15 +179838,39 @@
       "slug": "group-processing"
      },
      {
+      "slug": "group-work"
+     },
+     {
+      "slug": "individual-accountability"
+     },
+     {
+      "slug": "jigsaw-learning"
+     },
+     {
+      "slug": "jigsaw"
+     },
+     {
       "slug": "knowledge-building-discourse"
      },
      {
+      "slug": "knowledge-synthesis"
+     },
+     {
+      "slug": "positive-interdependence"
+     },
+     {
       "slug": "reciprocal-teaching"
+     },
+     {
+      "slug": "whole-class-sharing"
      }
     ],
     "patterns": [
      {
-      "slug": "jigsaw-method"
+      "slug": "collaborative-learning"
+     },
+     {
+      "slug": "peer-teaching"
      },
      {
       "slug": "professional-development"
@@ -180059,12 +179878,50 @@
     ],
     "principles": [
      {
+      "slug": "collaborative-learning"
+     },
+     {
       "slug": "communities-of-practice"
+     },
+     {
+      "slug": "peer-learning"
+     },
+     {
+      "slug": "social-interdependence"
      }
     ],
     "strategies": [
      {
       "slug": "building_a_trusting_community"
+     },
+     {
+      "slug": "cooperative_learning_activities"
+     },
+     {
+      "slug": "cooperative_teaching"
+     },
+     {
+      "slug": "math_art"
+     },
+     {
+      "slug": "peer-teaching"
+     },
+     {
+      "slug": "problem-based-learning"
+     },
+     {
+      "slug": "structuring-group-work"
+     },
+     {
+      "slug": "student-teams-achievement-divisions"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "self-determination-theory"
+     },
+     {
+      "slug": "varieties-of-cooperative-learning"
      }
     ]
    },
@@ -180397,9 +180254,6 @@
     "principles": [
      {
       "slug": "game-based-learning"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      }
     ]
    },
@@ -180441,9 +180295,6 @@
      },
      {
       "slug": "game-based-mastery-learning"
-     },
-     {
-      "slug": "mastery-learning-formative-corrective-cycle"
      },
      {
       "slug": "mastery-learning"
@@ -180519,11 +180370,6 @@
       "slug": "mastery-criterion-remediation"
      }
     ],
-    "principles": [
-     {
-      "slug": "formative-evaluation-conferences-fricke"
-     }
-    ],
     "strategies": [
      {
       "slug": "negotiate-contracts-allow-retakes"
@@ -180541,10 +180387,10 @@
       "slug": "engage-teachers-literacy-events-learner-to-learner"
      },
      {
-      "slug": "find-strengths-and-entry-points-per-teacher"
+      "slug": "side-by-side-assessment-analysis-with-teachers"
      },
      {
-      "slug": "side-by-side-assessment-analysis-with-teachers"
+      "slug": "strengths-based-approach"
      }
     ]
    },
@@ -180703,96 +180549,6 @@
      }
     ]
    },
-   "jigsaw-method": {
-    "elements": [
-     {
-      "slug": "group-work"
-     },
-     {
-      "slug": "individual-accountability"
-     },
-     {
-      "slug": "jigsaw-learning"
-     },
-     {
-      "slug": "jigsaw"
-     },
-     {
-      "slug": "knowledge-synthesis"
-     },
-     {
-      "slug": "positive-interdependence"
-     },
-     {
-      "slug": "whole-class-sharing"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "collaborative-learning"
-     },
-     {
-      "slug": "fostering-communities-of-learning-fcl"
-     },
-     {
-      "slug": "peer-teaching"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "collaborative-learning"
-     },
-     {
-      "slug": "peer-learning"
-     },
-     {
-      "slug": "social-interdependence"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "cooperative_learning_activities"
-     },
-     {
-      "slug": "cooperative_teaching"
-     },
-     {
-      "slug": "math_art"
-     },
-     {
-      "slug": "peer-teaching"
-     },
-     {
-      "slug": "problem-based-learning"
-     },
-     {
-      "slug": "structuring-group-work"
-     },
-     {
-      "slug": "student-teams-achievement-divisions"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "self-determination-theory"
-     },
-     {
-      "slug": "varieties-of-cooperative-learning"
-     }
-    ]
-   },
-   "jigsaw-structures-adult-learners": {
-    "patterns": [
-     {
-      "slug": "cooperative-learning"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "five-basic-elements-of-cooperative-learning"
-     }
-    ]
-   },
    "just-in-time-teaching": {
     "elements": [
      {
@@ -180842,9 +180598,6 @@
      }
     ],
     "principles": [
-     {
-      "slug": "cross-curricular-multimedia-units"
-     },
      {
       "slug": "multimodal-instruction"
      }
@@ -180962,6 +180715,9 @@
       "slug": "competency-based-learning"
      },
      {
+      "slug": "game-based-mastery-learning-eg-duolingo-pattern"
+     },
+     {
       "slug": "hunters-effective-teaching-model"
      }
     ],
@@ -180974,9 +180730,6 @@
      },
      {
       "slug": "mastery-learning"
-     },
-     {
-      "slug": "superimpose-mastery-learning-on-lecture-courses"
      }
     ],
     "strategies": [
@@ -180996,13 +180749,6 @@
      },
      {
       "slug": "group-based-teacher-paced-mastery-learning-model"
-     }
-    ]
-   },
-   "mastery-learning-formative-corrective-cycle": {
-    "patterns": [
-     {
-      "slug": "game-based-mastery-learning-eg-duolingo-pattern"
      }
     ]
    },
@@ -181512,6 +181258,11 @@
     ]
    },
    "professional-development": {
+    "designs": [
+     {
+      "slug": "coaching-level-1-initial-steps-beliefs-and-community-establishment"
+     }
+    ],
     "patterns": [
      {
       "slug": "coaching-level-3-sustaining-efforts-coach-learning-and-independence"
@@ -181533,6 +181284,11 @@
      },
      {
       "slug": "supports-to-raise-teacher-expectancy-and-value-for-ai-use"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "three-level-instructional-coaching-trajectory-teacher-change"
      }
     ]
    },
@@ -181570,13 +181326,6 @@
     "strategies": [
      {
       "slug": "emotion_emojis_check-in"
-     }
-    ]
-   },
-   "rivers-four-stages-teaching-listening": {
-    "theories": [
-     {
-      "slug": "listening-macro-micro-skills-taxonomy"
      }
     ]
    },
@@ -181919,21 +181668,6 @@
     "theories": [
      {
       "slug": "tbl-three-phase-laboratory-format"
-     }
-    ]
-   },
-   "tell-show-do-distributed-across-whole-tasks": {
-    "patterns": [
-     {
-      "slug": "whole-task-progression-increasing-complexity"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "first-principles-of-instruction"
-     },
-     {
-      "slug": "merrill-first-principles-instruction-cycle"
      }
     ]
    },
@@ -182337,24 +182071,6 @@
      },
      {
       "slug": "traditional-lecture-based-instruction"
-     }
-    ]
-   },
-   "whole-task-progression-increasing-complexity": {
-    "patterns": [
-     {
-      "slug": "elaboration-theory"
-     },
-     {
-      "slug": "tell-show-do-distributed-across-whole-tasks"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "first-principles-of-instruction"
-     },
-     {
-      "slug": "merrill-first-principles-instruction-cycle"
      }
     ]
    },
@@ -184530,9 +184246,6 @@
     ],
     "principles": [
      {
-      "slug": "adaptive-learning-consistent-with-cognitive-structure"
-     },
-     {
       "slug": "digital-learning"
      },
      {
@@ -184660,6 +184373,11 @@
      {
       "slug": "using_technology"
      }
+    ],
+    "theories": [
+     {
+      "slug": "effective-time-constant-construct"
+     }
     ]
    },
    "adult-help-promotes-active-agents-learning": {
@@ -184686,16 +184404,6 @@
      }
     ]
    },
-   "age-friendly-classroom-remedy-social-isolation": {
-    "principles": [
-     {
-      "slug": "contextualize-abstract-content-older-learners"
-     },
-     {
-      "slug": "measured-pace-one-concept-at-a-time-older-learners"
-     }
-    ]
-   },
    "align-professional-learning-with-preparation-and-induction": {
     "principles": [
      {
@@ -184707,11 +184415,6 @@
     "methods": [
      {
       "slug": "designing-a-valid-experiment"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "report-effect-sizes-with-p-values"
      }
     ]
    },
@@ -186005,13 +185708,6 @@
      }
     ]
    },
-   "articulate-partial-meanings-integral-planning": {
-    "theories": [
-     {
-      "slug": "definite-integral-four-partial-meanings"
-     }
-    ]
-   },
    "ask-experts": {
     "elements": [
      {
@@ -186071,25 +185767,6 @@
      },
      {
       "slug": "vygotsky-zone-of-proximal-development"
-     }
-    ]
-   },
-   "assess-child-preference-in-aac-decision-making": {
-    "principles": [
-     {
-      "slug": "prefer-aided-systems-over-manual-signs"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "aac-decision-making-unaided-aided-options"
-     }
-    ]
-   },
-   "assess-process-over-product-maker-education": {
-    "theories": [
-     {
-      "slug": "maker-education-assessment-principles-practices-framework"
      }
     ]
    },
@@ -187193,13 +186870,6 @@
      }
     ]
    },
-   "augment-single-session-workshop-with-spaced-retrieval": {
-    "theories": [
-     {
-      "slug": "spaced-retrieval-practice-elaborative-feedback-framework"
-     }
-    ]
-   },
    "authentic-audiences-purposes": {
     "claims": [
      {
@@ -187775,7 +187445,13 @@
       "slug": "experimentation"
      },
      {
+      "slug": "learner-choice"
+     },
+     {
       "slug": "learning-contracts"
+     },
+     {
+      "slug": "personalized-pacing"
      },
      {
       "slug": "writing-prompts"
@@ -187799,10 +187475,22 @@
     ],
     "principles": [
      {
+      "slug": "authentic-audiences-purposes"
+     },
+     {
+      "slug": "digital-learning"
+     },
+     {
       "slug": "engagement"
      },
      {
+      "slug": "free-choice-learning-environment-design"
+     },
+     {
       "slug": "gamification"
+     },
+     {
+      "slug": "goal-setting-monitoring"
      },
      {
       "slug": "let-learners-request-feedback-after-performing"
@@ -187812,6 +187500,12 @@
      },
      {
       "slug": "multiple-methods-of-assessment"
+     },
+     {
+      "slug": "real-world-problem-solving-maker-context"
+     },
+     {
+      "slug": "self-directed-learning"
      },
      {
       "slug": "strengths-based-approach"
@@ -187903,6 +187597,14 @@
      },
      {
       "slug": "withitness"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "maker-education-assessment-principles-practices-framework"
+     },
+     {
+      "slug": "self-determination-theory"
      }
     ]
    },
@@ -188531,12 +188233,13 @@
      {
       "slug": "bullying-prevention-and-intervention"
      }
-    ]
-   },
-   "character-education-promotes-civic-competence": {
+    ],
     "theories": [
      {
       "slug": "citizenship-competence-three-components"
+     },
+     {
+      "slug": "dewey-moral-deliberation-dramatic-rehearsal"
      },
      {
       "slug": "three-levels-civic-learning-university"
@@ -191880,6 +191583,9 @@
     "theories": [
      {
       "slug": "cognitive-flexibility-theory-five-principles-barhoumi"
+     },
+     {
+      "slug": "procedural-resources-resource-graphs-integration"
      }
     ]
    },
@@ -192289,16 +191995,22 @@
       "slug": "cognitive-load-reduction"
      },
      {
+      "slug": "cognitive-load-theory"
+     },
+     {
+      "slug": "contextualize-abstract-content-older-learners"
+     },
+     {
       "slug": "digital-learning"
      },
      {
       "slug": "disciplinary-literacy"
      },
      {
-      "slug": "knowledge-organization"
+      "slug": "expanding-social-networks"
      },
      {
-      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
+      "slug": "knowledge-organization"
      },
      {
       "slug": "personalization"
@@ -193117,6 +192829,29 @@
      {
       "slug": "yoga-breathing-and-meditation"
      }
+    ],
+    "theories": [
+     {
+      "slug": "clt-three-load-types-framework"
+     },
+     {
+      "slug": "cognitive-load-theory"
+     },
+     {
+      "slug": "element-interactivity-complexity-criterion-clt"
+     },
+     {
+      "slug": "expertise-reversal-multimedia-revisions"
+     },
+     {
+      "slug": "long-interaction-hypothesis"
+     },
+     {
+      "slug": "schmidt-noticing-hypothesis"
+     },
+     {
+      "slug": "skehan-limited-attention-capacity-child-task-recasts"
+     }
     ]
    },
    "cognitive-load-reduction": {
@@ -193167,7 +192902,7 @@
     ],
     "principles": [
      {
-      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
+      "slug": "cognitive-load-theory"
      }
     ],
     "strategies": [
@@ -193249,9 +192984,6 @@
      },
      {
       "slug": "holistic-learning"
-     },
-     {
-      "slug": "lower-extraneous-load-to-increase-germane-effort-in-stem"
      }
     ],
     "strategies": [
@@ -193272,6 +193004,9 @@
      }
     ],
     "principles": [
+     {
+      "slug": "four-factor-teaching-compatibility"
+     },
      {
       "slug": "supporting-students-with-adhd"
      }
@@ -193937,13 +193672,6 @@
      }
     ]
    },
-   "combine-communicative-with-traditional-methods": {
-    "theories": [
-     {
-      "slug": "communicative-approach-language-as-interaction-framework"
-     }
-    ]
-   },
    "common-language-talent-framework-wil-stakeholders": {
     "theories": [
      {
@@ -193980,9 +193708,6 @@
      },
      {
       "slug": "fostering-communities-of-learning-fcl"
-     },
-     {
-      "slug": "jigsaw-method"
      },
      {
       "slug": "professional-development"
@@ -194559,6 +194284,11 @@
     ]
    },
    "competency-based-assessment": {
+    "designs": [
+     {
+      "slug": "portfolio-with-written-commentary-assessment"
+     }
+    ],
     "elements": [
      {
       "slug": "assess-performance"
@@ -194592,6 +194322,9 @@
      },
      {
       "slug": "rubric-design"
+     },
+     {
+      "slug": "standards-based-certification-framework"
      },
      {
       "slug": "submission"
@@ -194628,10 +194361,10 @@
       "slug": "authentic-audiences-purposes"
      },
      {
-      "slug": "criterion-and-norm-referenced-testing"
+      "slug": "autonomy"
      },
      {
-      "slug": "learner-choice"
+      "slug": "criterion-and-norm-referenced-testing"
      },
      {
       "slug": "mastery-learning"
@@ -194719,6 +194452,11 @@
      {
       "slug": "use_mastery_learning"
      }
+    ],
+    "theories": [
+     {
+      "slug": "nbpts-five-core-propositions"
+     }
     ]
    },
    "complementary-delivery-modes-for-retrieval-tools": {
@@ -194731,10 +194469,10 @@
    "comprehensible-input-communicative-reading-activities": {
     "principles": [
      {
-      "slug": "reduce-teacher-talk-increase-student-talk"
+      "slug": "relaxed-atmosphere-communicative-activities"
      },
      {
-      "slug": "relaxed-atmosphere-communicative-activities"
+      "slug": "talking-and-writing-means-to-learning"
      },
      {
       "slug": "teach-writing-based-on-reading"
@@ -194932,7 +194670,7 @@
       "slug": "cognitive-flexibility"
      },
      {
-      "slug": "teacher-as-facilitator-constructivist-classroom"
+      "slug": "teacher-as-mediator-not-content-disseminator"
      }
     ]
    },
@@ -194946,10 +194684,10 @@
    "contextualize-abstract-content-older-learners": {
     "principles": [
      {
-      "slug": "age-friendly-classroom-remedy-social-isolation"
+      "slug": "cognitive-load-management"
      },
      {
-      "slug": "measured-pace-one-concept-at-a-time-older-learners"
+      "slug": "expanding-social-networks"
      }
     ]
    },
@@ -194991,9 +194729,6 @@
      },
      {
       "slug": "gamification"
-     },
-     {
-      "slug": "laboratories-satisfying-cooperative-learning-conditions"
      },
      {
       "slug": "social-interdependence"
@@ -195062,13 +194797,6 @@
      }
     ]
    },
-   "cross-curricular-multimedia-units": {
-    "theories": [
-     {
-      "slug": "cross-curricular-model-of-multimedia-learning"
-     }
-    ]
-   },
    "cultural-life-experiences-connections": {
     "elements": [
      {
@@ -195099,6 +194827,9 @@
       "slug": "expanding-social-networks"
      },
      {
+      "slug": "humanistic-radical-adult-education"
+     },
+     {
       "slug": "instructor-accessibility"
      },
      {
@@ -195120,13 +194851,6 @@
      },
      {
       "slug": "onto-epistemic-heterogeneity"
-     }
-    ]
-   },
-   "culturally-responsive-adult-curriculum": {
-    "principles": [
-     {
-      "slug": "humanistic-radical-adult-education"
      }
     ]
    },
@@ -195259,27 +194983,10 @@
      }
     ]
    },
-   "design-principles-depend-on-prior-knowledge": {
-    "theories": [
-     {
-      "slug": "expertise-reversal-multimedia-revisions"
-     }
-    ]
-   },
    "design-public-social-student-directed-tasks": {
     "theories": [
      {
       "slug": "engagement-framework-five-dimensions"
-     }
-    ]
-   },
-   "determine-element-interactivity-before-designing-instruction": {
-    "theories": [
-     {
-      "slug": "cognitive-load-theory"
-     },
-     {
-      "slug": "element-interactivity-complexity-criterion-clt"
      }
     ]
    },
@@ -195303,21 +195010,6 @@
     "theories": [
      {
       "slug": "automaticity-theory-phonological-component-processing"
-     }
-    ]
-   },
-   "diagnostic-prescriptive-change-facilitation": {
-    "principles": [
-     {
-      "slug": "match-interventions-to-stages-of-concern"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "levels-of-use-innovation-eight-levels"
-     },
-     {
-      "slug": "six-change-agent-roles-staff-development"
      }
     ]
    },
@@ -195510,14 +195202,12 @@
     ]
    },
    "discipline-specific-engaged-scholarship-policies": {
-    "principles": [
-     {
-      "slug": "portfolio-review-nontraditional-contributions-rigor"
-     }
-    ],
     "theories": [
      {
       "slug": "biglan-classification-three-dimensions"
+     },
+     {
+      "slug": "broadened-context-aware-scientific-excellence"
      }
     ]
    },
@@ -195645,22 +195335,6 @@
      }
     ]
    },
-   "dual-teacher-role-acquisition-and-learning": {
-    "theories": [
-     {
-      "slug": "canale-swain-communicative-competence-framework"
-     },
-     {
-      "slug": "canale-swain-integrative-communicative-competence-framework"
-     },
-     {
-      "slug": "krashen-five-hypotheses-l2-acquisition"
-     },
-     {
-      "slug": "krashen-input-hypothesis-monitor-model"
-     }
-    ]
-   },
    "easy-accurate-complete-access-motivates-retrieval-design": {
     "principles": [
      {
@@ -195732,14 +195406,17 @@
     ]
    },
    "elaborative-reasoning": {
-    "principles": [
-     {
-      "slug": "precise-meaningful-elaboration-facilitates-encoding"
-     }
-    ],
     "strategies": [
      {
       "slug": "estimation_activities"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "schema-theory-knowledge-networks"
+     },
+     {
+      "slug": "three-forms-cognitive-elaboration"
      }
     ]
    },
@@ -195784,10 +195461,10 @@
       "slug": "coach-advocates-for-teachers-purposeful-change"
      },
      {
-      "slug": "find-strengths-and-entry-points-per-teacher"
+      "slug": "process-based-writing"
      },
      {
-      "slug": "process-based-writing"
+      "slug": "strengths-based-approach"
      }
     ],
     "theories": [
@@ -195824,13 +195501,13 @@
     ],
     "principles": [
      {
+      "slug": "adaptive-learning"
+     },
+     {
       "slug": "gamification"
      },
      {
       "slug": "motivation"
-     },
-     {
-      "slug": "multi-objective-exercise-recommendation-objectives"
      }
     ],
     "theories": [
@@ -196096,6 +195773,16 @@
      }
     ]
    },
+   "expanding-social-networks": {
+    "principles": [
+     {
+      "slug": "cognitive-load-management"
+     },
+     {
+      "slug": "contextualize-abstract-content-older-learners"
+     }
+    ]
+   },
    "experiential-learning": {
     "elements": [
      {
@@ -196272,13 +195959,6 @@
      }
     ]
    },
-   "find-strengths-and-entry-points-per-teacher": {
-    "principles": [
-     {
-      "slug": "engage-teachers-literacy-events-learner-to-learner"
-     }
-    ]
-   },
    "flexible-error-treatment-strategies": {
     "principles": [
      {
@@ -196294,10 +195974,10 @@
     ],
     "principles": [
      {
-      "slug": "check-ins"
+      "slug": "autonomy"
      },
      {
-      "slug": "learner-choice"
+      "slug": "check-ins"
      }
     ]
    },
@@ -196384,9 +196064,6 @@
       "slug": "adaptive-learning"
      },
      {
-      "slug": "analyze-student-dialogue-turns-as-formative-assessment"
-     },
-     {
       "slug": "assessment-for-learning"
      },
      {
@@ -196399,10 +196076,10 @@
       "slug": "feedback-loops"
      },
      {
-      "slug": "immediate-feedback"
+      "slug": "game-based-learning"
      },
      {
-      "slug": "learning-embedded-in-the-core-mechanic"
+      "slug": "immediate-feedback"
      },
      {
       "slug": "mastery-learning"
@@ -196468,6 +196145,9 @@
    "fostering-creative-thinking": {
     "theories": [
      {
+      "slug": "maker-education-assessment-principles-practices-framework"
+     },
+     {
       "slug": "triarchic-theory-of-intelligence"
      }
     ]
@@ -196475,10 +196155,10 @@
    "four-factor-teaching-compatibility": {
     "principles": [
      {
-      "slug": "holistic-video-style-selection-principle"
+      "slug": "cognitive-styles"
      },
      {
-      "slug": "teach-to-intellectual-styles-flexibly"
+      "slug": "holistic-video-style-selection-principle"
      }
     ],
     "theories": [
@@ -196508,6 +196188,11 @@
     ]
    },
    "free-choice-learning-environment-design": {
+    "claims": [
+     {
+      "slug": "choice-rich-infrastructure-supports-productive-deviation-and-learning"
+     }
+    ],
     "theories": [
      {
       "slug": "free-choice-learning-cultural-pathway-everyday"
@@ -196543,13 +196228,6 @@
     "theories": [
      {
       "slug": "communicative-cognitive-pronunciation-teaching-framework"
-     }
-    ]
-   },
-   "gain-then-time-constant-adaptive-progression": {
-    "theories": [
-     {
-      "slug": "effective-time-constant-construct"
      }
     ]
    },
@@ -196593,9 +196271,6 @@
      },
      {
       "slug": "gamification"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "motivation"
@@ -196674,6 +196349,9 @@
     ],
     "principles": [
      {
+      "slug": "autonomy"
+     },
+     {
       "slug": "competency-based-assessment"
      },
      {
@@ -196687,9 +196365,6 @@
      },
      {
       "slug": "growth-mindset"
-     },
-     {
-      "slug": "learner-choice"
      },
      {
       "slug": "mastery-learning"
@@ -196760,6 +196435,9 @@
    "graphic-organizers": {
     "elements": [
      {
+      "slug": "concept-semantic-map-element"
+     },
+     {
       "slug": "graphic-organizers"
      }
     ],
@@ -196790,6 +196468,19 @@
      },
      {
       "slug": "process-based-writing"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "student-generated-mapping-strategy"
+     },
+     {
+      "slug": "teacher-provided-advance-graphic-map"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "semantic-network-theory"
      }
     ]
    },
@@ -196909,9 +196600,6 @@
       "slug": "inquiry-based-learning"
      },
      {
-      "slug": "learning-embedded-in-the-core-mechanic"
-     },
-     {
       "slug": "modeling"
      },
      {
@@ -196957,6 +196645,14 @@
     "designs": [
      {
       "slug": "materials-reflect-principles-of-learning"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "communicative-approach-language-as-interaction-framework"
+     },
+     {
+      "slug": "educational-psychology-as-art-and-science"
      }
     ]
    },
@@ -197030,14 +196726,14 @@
       "slug": "eliminate-three-cueing-instruction"
      },
      {
-      "slug": "literacy-coaches-job-embedded-support"
+      "slug": "ongoing-study-teams-peer-coaching-in-service"
      }
     ]
    },
    "humanistic-radical-adult-education": {
     "principles": [
      {
-      "slug": "culturally-responsive-adult-curriculum"
+      "slug": "cultural-life-experiences-connections"
      },
      {
       "slug": "productive-instructor-learner-relationships"
@@ -197128,9 +196824,6 @@
       "slug": "instructor-accessibility"
      },
      {
-      "slug": "learning-embedded-in-the-core-mechanic"
-     },
-     {
       "slug": "mastery-learning"
      },
      {
@@ -197169,13 +196862,6 @@
     "theories": [
      {
       "slug": "co-regulation-framework-adolescents"
-     }
-    ]
-   },
-   "indirect-moral-education-through-school-life": {
-    "theories": [
-     {
-      "slug": "dewey-moral-deliberation-dramatic-rehearsal"
      }
     ]
    },
@@ -197306,6 +196992,9 @@
       "slug": "authentic-audiences-purposes"
      },
      {
+      "slug": "autonomy"
+     },
+     {
       "slug": "epistemic-cognition"
      },
      {
@@ -197322,9 +197011,6 @@
      },
      {
       "slug": "instructor-accessibility"
-     },
-     {
-      "slug": "learner-choice"
      },
      {
       "slug": "metaphors-analogies"
@@ -197406,13 +197092,6 @@
      }
     ]
    },
-   "integrate-video-narration-text-for-l2-macs-comprehension": {
-    "theories": [
-     {
-      "slug": "dct-account-video-l2-comprehension"
-     }
-    ]
-   },
    "irt-preferred-for-repeated-measurement-linking": {
     "theories": [
      {
@@ -197450,13 +197129,6 @@
     "theories": [
      {
       "slug": "siegel-two-component-critical-thinking"
-     }
-    ]
-   },
-   "keep-chunking-study-outlines-short": {
-    "principles": [
-     {
-      "slug": "chunking"
      }
     ]
    },
@@ -197508,21 +197180,6 @@
      }
     ]
    },
-   "laboratories-satisfying-cooperative-learning-conditions": {
-    "principles": [
-     {
-      "slug": "cooperative-learning"
-     },
-     {
-      "slug": "paradox-puzzle-before-theory-lecture"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "five-basic-elements-of-cooperative-learning"
-     }
-    ]
-   },
    "lateral-transmission-alongside-vertical": {
     "principles": [
      {
@@ -197532,53 +197189,6 @@
     "theories": [
      {
       "slug": "mead-post-co-pre-figurative-cultures"
-     }
-    ]
-   },
-   "learner-choice": {
-    "elements": [
-     {
-      "slug": "learner-choice"
-     },
-     {
-      "slug": "personalized-pacing"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "authentic-audiences-purposes"
-     },
-     {
-      "slug": "digital-learning"
-     },
-     {
-      "slug": "engagement"
-     },
-     {
-      "slug": "free-choice-learning-environment-design"
-     },
-     {
-      "slug": "goal-setting-monitoring"
-     },
-     {
-      "slug": "let-learners-request-feedback-after-performing"
-     },
-     {
-      "slug": "motivation"
-     },
-     {
-      "slug": "multiple-methods-of-assessment"
-     },
-     {
-      "slug": "self-directed-learning"
-     },
-     {
-      "slug": "strengths-based-approach"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "self-determination-theory"
      }
     ]
    },
@@ -197614,26 +197224,6 @@
      }
     ]
    },
-   "learning-embedded-in-the-core-mechanic": {
-    "elements": [
-     {
-      "slug": "assessment-mechanic"
-     },
-     {
-      "slug": "learning-mechanic"
-     }
-    ],
-    "patterns": [
-     {
-      "slug": "epistemic-games"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "game-based-learning"
-     }
-    ]
-   },
    "least-restrictive-environment": {
     "principles": [
      {
@@ -197643,29 +197233,6 @@
     "theories": [
      {
       "slug": "lre-dual-components-proximity-and-interaction"
-     }
-    ]
-   },
-   "literacy-coaches-job-embedded-support": {
-    "principles": [
-     {
-      "slug": "hqim-adoption-with-professional-development"
-     },
-     {
-      "slug": "test-based-retention-multiple-promotion-options"
-     }
-    ]
-   },
-   "low-task-complexity-child-learners-recasts": {
-    "theories": [
-     {
-      "slug": "long-interaction-hypothesis"
-     },
-     {
-      "slug": "schmidt-noticing-hypothesis"
-     },
-     {
-      "slug": "skehan-limited-attention-capacity-child-task-recasts"
      }
     ]
    },
@@ -197743,9 +197310,6 @@
     ],
     "principles": [
      {
-      "slug": "adaptive-learning-consistent-with-cognitive-structure"
-     },
-     {
       "slug": "adaptive-learning"
      },
      {
@@ -197780,17 +197344,18 @@
     ]
    },
    "match-interventions-to-stages-of-concern": {
-    "principles": [
-     {
-      "slug": "diagnostic-prescriptive-change-facilitation"
-     }
-    ],
     "theories": [
      {
       "slug": "cbam-change-process-diagnostic-dimensions"
      },
      {
       "slug": "cbam-stages-of-concern-model"
+     },
+     {
+      "slug": "levels-of-use-innovation-eight-levels"
+     },
+     {
+      "slug": "six-change-agent-roles-staff-development"
      },
      {
       "slug": "stages-of-concern-seven-stage-taxonomy"
@@ -197801,16 +197366,6 @@
     "principles": [
      {
       "slug": "lateral-transmission-alongside-vertical"
-     }
-    ]
-   },
-   "measured-pace-one-concept-at-a-time-older-learners": {
-    "principles": [
-     {
-      "slug": "age-friendly-classroom-remedy-social-isolation"
-     },
-     {
-      "slug": "contextualize-abstract-content-older-learners"
      }
     ]
    },
@@ -197834,9 +197389,6 @@
     "patterns": [
      {
       "slug": "fostering-communities-of-learning-fcl"
-     },
-     {
-      "slug": "jigsaw-method"
      }
     ],
     "principles": [
@@ -197983,9 +197535,6 @@
      },
      {
       "slug": "positive-self-talk"
-     },
-     {
-      "slug": "target-expectancy-value-components-in-teacher-ai-training"
      }
     ]
    },
@@ -198071,6 +197620,11 @@
      },
      {
       "slug": "video-replay-analysis"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "dct-account-video-l2-comprehension"
      }
     ]
    },
@@ -198170,13 +197724,6 @@
      }
     ]
    },
-   "number-difficulty-impacts-mdc-construction": {
-    "theories": [
-     {
-      "slug": "cl-number-sequence-hierarchy-defined-by-units-coordination-and-splitting-models-students-algebraic-reasoning"
-     }
-    ]
-   },
    "nurture-ubuntu-spirit-students": {
     "theories": [
      {
@@ -198211,6 +197758,12 @@
       "slug": "coach-advocates-for-teachers-purposeful-change"
      },
      {
+      "slug": "hqim-adoption-with-professional-development"
+     },
+     {
+      "slug": "test-based-retention-multiple-promotion-options"
+     },
+     {
       "slug": "trust-environment-context-for-reflection"
      }
     ]
@@ -198231,13 +197784,6 @@
     "principles": [
      {
       "slug": "considering-the-opposite"
-     }
-    ]
-   },
-   "paradox-puzzle-before-theory-lecture": {
-    "principles": [
-     {
-      "slug": "laboratories-satisfying-cooperative-learning-conditions"
      }
     ]
    },
@@ -198284,9 +197830,6 @@
      },
      {
       "slug": "fostering-communities-of-learning-fcl"
-     },
-     {
-      "slug": "jigsaw-method"
      },
      {
       "slug": "lda-reflection"
@@ -198394,7 +197937,7 @@
       "slug": "process-based-writing"
      },
      {
-      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups"
+      "slug": "self-regulated-learning"
      },
      {
       "slug": "skills-sprint"
@@ -198425,23 +197968,6 @@
      }
     ]
    },
-   "performance-based-teacher-certification-assessment": {
-    "designs": [
-     {
-      "slug": "portfolio-with-written-commentary-assessment"
-     }
-    ],
-    "elements": [
-     {
-      "slug": "standards-based-certification-framework"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "nbpts-five-core-propositions"
-     }
-    ]
-   },
    "persistent-autonomy-support-during-resistance": {
     "claims": [
      {
@@ -198450,12 +197976,22 @@
     ]
    },
    "personalization": {
+    "principles": [
+     {
+      "slug": "prefer-aided-systems-over-manual-signs"
+     }
+    ],
     "strategies": [
      {
       "slug": "audiobooks"
      },
      {
       "slug": "future-directions-for-dialogue-knowledge-tracing"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "aac-decision-making-unaided-aided-options"
      }
     ]
    },
@@ -198481,9 +198017,6 @@
      },
      {
       "slug": "discussion-based-learning"
-     },
-     {
-      "slug": "jigsaw-method"
      },
      {
       "slug": "socratic-seminar"
@@ -198606,18 +198139,6 @@
      }
     ]
    },
-   "portfolio-review-nontraditional-contributions-rigor": {
-    "principles": [
-     {
-      "slug": "discipline-specific-engaged-scholarship-policies"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "broadened-context-aware-scientific-excellence"
-     }
-    ]
-   },
    "positive-self-talk": {
     "principles": [
      {
@@ -198672,22 +198193,10 @@
      }
     ]
    },
-   "precise-meaningful-elaboration-facilitates-encoding": {
-    "principles": [
-     {
-      "slug": "elaborative-reasoning"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "schema-theory-knowledge-networks"
-     }
-    ]
-   },
    "prefer-aided-systems-over-manual-signs": {
     "principles": [
      {
-      "slug": "assess-child-preference-in-aac-decision-making"
+      "slug": "personalization"
      }
     ],
     "theories": [
@@ -198961,13 +198470,6 @@
      }
     ]
    },
-   "promote-self-generated-elaboration-for-expertise": {
-    "theories": [
-     {
-      "slug": "three-forms-cognitive-elaboration"
-     }
-    ]
-   },
    "provide-experiences-not-direct-teaching-sla": {
     "theories": [
      {
@@ -199114,10 +198616,10 @@
    "real-world-problem-solving-maker-context": {
     "principles": [
      {
-      "slug": "real-world-math"
+      "slug": "autonomy"
      },
      {
-      "slug": "student-choice-builds-ownership-maker-education"
+      "slug": "real-world-math"
      }
     ],
     "theories": [
@@ -199137,26 +198639,6 @@
     "theories": [
      {
       "slug": "collingwood-method-re-enactment-interpolating-interrogating"
-     }
-    ]
-   },
-   "reduce-extraneous-optimize-intrinsic-increase-germane": {
-    "theories": [
-     {
-      "slug": "clt-three-load-types-framework"
-     },
-     {
-      "slug": "cognitive-load-theory"
-     }
-    ]
-   },
-   "reduce-teacher-talk-increase-student-talk": {
-    "principles": [
-     {
-      "slug": "comprehensible-input-communicative-reading-activities"
-     },
-     {
-      "slug": "relaxed-atmosphere-communicative-activities"
      }
     ]
    },
@@ -199256,7 +198738,7 @@
       "slug": "comprehensible-input-communicative-reading-activities"
      },
      {
-      "slug": "reduce-teacher-talk-increase-student-talk"
+      "slug": "talking-and-writing-means-to-learning"
      }
     ]
    },
@@ -199296,20 +198778,6 @@
     "theories": [
      {
       "slug": "ecologically-attuned-ccp-five-commitments"
-     }
-    ]
-   },
-   "report-effect-sizes-with-p-values": {
-    "principles": [
-     {
-      "slug": "always-report-interpret-effect-sizes"
-     }
-    ]
-   },
-   "represent-procedures-as-shared-resources-to-clarify-thinking": {
-    "theories": [
-     {
-      "slug": "procedural-resources-resource-graphs-integration"
      }
     ]
    },
@@ -199395,9 +198863,6 @@
       "slug": "active-learning"
      },
      {
-      "slug": "balance-retrieval-success-and-retrieval-effort"
-     },
-     {
       "slug": "deliberate-practice"
      },
      {
@@ -199463,6 +198928,28 @@
      },
      {
       "slug": "rhetorical-strategies"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "teach-canonicity-not-canon"
+     },
+     {
+      "slug": "teach-civic-responsibility-not-proficiency"
+     },
+     {
+      "slug": "teach-persuasive-standards-not-just-persuasive-skill"
+     },
+     {
+      "slug": "teach-popular-culture-not-speech-making"
+     },
+     {
+      "slug": "teach-rhetorics-not-rhetoric"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "critical-pedagogy-as-rhetorical-education"
      }
     ]
    },
@@ -200475,9 +199962,6 @@
       "slug": "reflection"
      },
      {
-      "slug": "scale-srl-support-with-web-based-training-and-peer-feedback-groups"
-     },
-     {
       "slug": "self-directed-learning"
      },
      {
@@ -200493,26 +199977,6 @@
      },
      {
       "slug": "name_the_negative_voice"
-     }
-    ]
-   },
-   "semantic-mapping-principle": {
-    "elements": [
-     {
-      "slug": "concept-semantic-map-element"
-     }
-    ],
-    "strategies": [
-     {
-      "slug": "student-generated-mapping-strategy"
-     },
-     {
-      "slug": "teacher-provided-advance-graphic-map"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "semantic-network-theory"
      }
     ]
    },
@@ -200537,19 +200001,29 @@
      {
       "slug": "knowledge-organization"
      }
+    ],
+    "theories": [
+     {
+      "slug": "bandura-four-self-efficacy-building-experiences"
+     },
+     {
+      "slug": "cl-number-sequence-hierarchy-defined-by-units-coordination-and-splitting-models-students-algebraic-reasoning"
+     },
+     {
+      "slug": "definite-integral-four-partial-meanings"
+     },
+     {
+      "slug": "listening-macro-micro-skills-taxonomy"
+     },
+     {
+      "slug": "self-efficacy-theory"
+     }
     ]
    },
    "sequential-noisy-estimation-principle": {
     "theories": [
      {
       "slug": "robbins-monro-stochastic-approximation"
-     }
-    ]
-   },
-   "similar-item-positions-across-booklets": {
-    "theories": [
-     {
-      "slug": "item-position-effects-interaction-definition"
      }
     ]
    },
@@ -200858,6 +200332,11 @@
      {
       "slug": "word_sorts"
      }
+    ],
+    "theories": [
+     {
+      "slug": "spaced-retrieval-practice-elaborative-feedback-framework"
+     }
     ]
    },
    "special-classrooms-within-regular-schools-for-integration": {
@@ -200896,6 +200375,9 @@
     "theories": [
      {
       "slug": "intelligence-testing-uses-and-limits"
+     },
+     {
+      "slug": "item-position-effects-interaction-definition"
      }
     ]
    },
@@ -200925,6 +200407,9 @@
       "slug": "developing-your-cultural-awareness"
      },
      {
+      "slug": "engage-teachers-literacy-events-learner-to-learner"
+     },
+     {
       "slug": "prior-knowledge-growth-point-new-knowledge"
      },
      {
@@ -200943,18 +200428,6 @@
      }
     ]
    },
-   "student-choice-builds-ownership-maker-education": {
-    "principles": [
-     {
-      "slug": "real-world-problem-solving-maker-context"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "maker-education-assessment-principles-practices-framework"
-     }
-    ]
-   },
    "summative-assessment": {
     "elements": [
      {
@@ -200967,13 +200440,6 @@
      },
      {
       "slug": "multiple-methods-of-assessment"
-     }
-    ]
-   },
-   "superimpose-mastery-learning-on-lecture-courses": {
-    "theories": [
-     {
-      "slug": "group-based-teacher-paced-mastery-learning-model"
      }
     ]
    },
@@ -201050,6 +200516,14 @@
     ]
    },
    "talking-and-writing-means-to-learning": {
+    "principles": [
+     {
+      "slug": "comprehensible-input-communicative-reading-activities"
+     },
+     {
+      "slug": "relaxed-atmosphere-communicative-activities"
+     }
+    ],
     "theories": [
      {
       "slug": "bruner-language-acquisition-cognitive-development"
@@ -201059,6 +200533,9 @@
    "teach-canonicity-not-canon": {
     "principles": [
      {
+      "slug": "rhetorical-skill-development"
+     },
+     {
       "slug": "teach-civic-responsibility-not-proficiency"
      },
      {
@@ -201066,9 +200543,6 @@
      },
      {
       "slug": "teach-popular-culture-not-speech-making"
-     },
-     {
-      "slug": "teach-rhetorical-choices-not-tools"
      },
      {
       "slug": "teach-rhetorics-not-rhetoric"
@@ -201083,6 +200557,9 @@
    "teach-civic-responsibility-not-proficiency": {
     "principles": [
      {
+      "slug": "rhetorical-skill-development"
+     },
+     {
       "slug": "teach-canonicity-not-canon"
      },
      {
@@ -201090,9 +200567,6 @@
      },
      {
       "slug": "teach-popular-culture-not-speech-making"
-     },
-     {
-      "slug": "teach-rhetorical-choices-not-tools"
      },
      {
       "slug": "teach-rhetorics-not-rhetoric"
@@ -201117,13 +200591,13 @@
    "teach-persuasive-standards-not-just-persuasive-skill": {
     "principles": [
      {
+      "slug": "rhetorical-skill-development"
+     },
+     {
       "slug": "teach-canonicity-not-canon"
      },
      {
       "slug": "teach-civic-responsibility-not-proficiency"
-     },
-     {
-      "slug": "teach-rhetorical-choices-not-tools"
      },
      {
       "slug": "teach-rhetorics-not-rhetoric"
@@ -201133,37 +200607,13 @@
    "teach-popular-culture-not-speech-making": {
     "principles": [
      {
-      "slug": "teach-canonicity-not-canon"
+      "slug": "rhetorical-skill-development"
      },
-     {
-      "slug": "teach-civic-responsibility-not-proficiency"
-     },
-     {
-      "slug": "teach-rhetorical-choices-not-tools"
-     },
-     {
-      "slug": "teach-rhetorics-not-rhetoric"
-     }
-    ],
-    "theories": [
-     {
-      "slug": "critical-pedagogy-as-rhetorical-education"
-     }
-    ]
-   },
-   "teach-rhetorical-choices-not-tools": {
-    "principles": [
      {
       "slug": "teach-canonicity-not-canon"
      },
      {
       "slug": "teach-civic-responsibility-not-proficiency"
-     },
-     {
-      "slug": "teach-persuasive-standards-not-just-persuasive-skill"
-     },
-     {
-      "slug": "teach-popular-culture-not-speech-making"
      },
      {
       "slug": "teach-rhetorics-not-rhetoric"
@@ -201178,6 +200628,9 @@
    "teach-rhetorics-not-rhetoric": {
     "principles": [
      {
+      "slug": "rhetorical-skill-development"
+     },
+     {
       "slug": "teach-canonicity-not-canon"
      },
      {
@@ -201188,9 +200641,6 @@
      },
      {
       "slug": "teach-popular-culture-not-speech-making"
-     },
-     {
-      "slug": "teach-rhetorical-choices-not-tools"
      }
     ],
     "theories": [
@@ -201199,24 +200649,10 @@
      }
     ]
    },
-   "teach-scientist-and-poet-truths": {
-    "theories": [
-     {
-      "slug": "educational-psychology-as-art-and-science"
-     }
-    ]
-   },
    "teach-simple-design-cycle-maker-education": {
     "theories": [
      {
       "slug": "maker-education-assessment-principles-practices-framework"
-     }
-    ]
-   },
-   "teach-to-intellectual-styles-flexibly": {
-    "principles": [
-     {
-      "slug": "four-factor-teaching-compatibility"
      }
     ]
    },
@@ -201252,7 +200688,7 @@
      }
     ]
    },
-   "teacher-as-facilitator-constructivist-classroom": {
+   "teacher-as-mediator-not-content-disseminator": {
     "principles": [
      {
       "slug": "constructivism"
@@ -201260,33 +200696,37 @@
     ],
     "theories": [
      {
+      "slug": "canale-swain-communicative-competence-framework"
+     },
+     {
+      "slug": "canale-swain-integrative-communicative-competence-framework"
+     },
+     {
       "slug": "co-constructionism-active-individual-environment-culture"
      },
      {
-      "slug": "social-constructivism-vygotsky-social-interaction"
-     }
-    ]
-   },
-   "teacher-as-facilitator-for-discovery": {
-    "theories": [
-     {
-      "slug": "piaget-four-stage-cognitive-development-theory"
+      "slug": "feuerstein-mle-twelve-criteria"
      },
      {
-      "slug": "stages-of-cognitive-development"
-     }
-    ]
-   },
-   "teacher-as-mediator-not-content-disseminator": {
-    "theories": [
+      "slug": "krashen-five-hypotheses-l2-acquisition"
+     },
      {
-      "slug": "feuerstein-mle-twelve-criteria"
+      "slug": "krashen-input-hypothesis-monitor-model"
      },
      {
       "slug": "mle-theory-human-mediator-cognitive-modifiability"
      },
      {
       "slug": "mle-three-universal-criteria"
+     },
+     {
+      "slug": "piaget-four-stage-cognitive-development-theory"
+     },
+     {
+      "slug": "social-constructivism-vygotsky-social-interaction"
+     },
+     {
+      "slug": "stages-of-cognitive-development"
      },
      {
       "slug": "structural-cognitive-modifiability-mle"
@@ -201328,7 +200768,7 @@
    "test-based-retention-multiple-promotion-options": {
     "principles": [
      {
-      "slug": "literacy-coaches-job-embedded-support"
+      "slug": "ongoing-study-teams-peer-coaching-in-service"
      }
     ]
    },
@@ -201554,16 +200994,6 @@
      }
     ]
    },
-   "vicarious-before-mastery-teacher-development": {
-    "theories": [
-     {
-      "slug": "bandura-four-self-efficacy-building-experiences"
-     },
-     {
-      "slug": "self-efficacy-theory"
-     }
-    ]
-   },
    "video-replay-analysis": {
     "elements": [
      {
@@ -201688,9 +201118,6 @@
      },
      {
       "slug": "guided-practice"
-     },
-     {
-      "slug": "match-worked-example-type-to-learner-prior-knowledge"
      },
      {
       "slug": "modeling"
@@ -203563,7 +202990,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "portfolio-review-nontraditional-contributions-rigor",
+      "slug": "discipline-specific-engaged-scholarship-policies",
       "strength": "M"
      }
     ]
@@ -203915,13 +203342,6 @@
     ]
    },
    "clt-three-load-types-framework": {
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "reduce-extraneous-optimize-intrinsic-increase-germane",
-      "strength": "M"
-     }
-    ],
     "theories": [
      {
       "slug": "cognitive-load-theory"
@@ -204091,9 +203511,6 @@
     "principles": [
      {
       "slug": "disciplinary-literacy"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "responsive-teaching"
@@ -204865,9 +204282,6 @@
      },
      {
       "slug": "handoutsonline-guidesvisual-reading-aids"
-     },
-     {
-      "slug": "learning-embedded-in-the-core-mechanic"
      },
      {
       "slug": "mnemonic-device"
@@ -205972,6 +205386,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "rhetorical-skill-development",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "teach-canonicity-not-canon",
       "strength": "M"
      },
@@ -205988,11 +205407,6 @@
      {
       "polarity": "+",
       "slug": "teach-popular-culture-not-speech-making",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "teach-rhetorical-choices-not-tools",
       "strength": "M"
      },
      {
@@ -206365,15 +205779,6 @@
      }
     ]
    },
-   "definite-integral-four-partial-meanings": {
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "articulate-partial-meanings-integral-planning",
-      "strength": "M"
-     }
-    ]
-   },
    "deliberate-practice-framework-ericsson-pool": {
     "principles": [
      {
@@ -206668,11 +206073,6 @@
      },
      {
       "slug": "llmkt-llm-based-knowledge-tracing"
-     }
-    ],
-    "principles": [
-     {
-      "slug": "analyze-student-dialogue-turns-as-formative-assessment"
      }
     ],
     "strategies": [
@@ -207226,7 +206626,7 @@
       "slug": "evidence-based-teaching-and-scientific-reasoning"
      },
      {
-      "slug": "teach-scientist-and-poet-truths"
+      "slug": "harmonize-opposites-in-educational-change"
      }
     ],
     "theories": [
@@ -210384,7 +209784,7 @@
     ],
     "principles": [
      {
-      "slug": "adaptive-learning-consistent-with-cognitive-structure"
+      "slug": "adaptive-learning"
      }
     ],
     "strategies": [
@@ -211378,17 +210778,12 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "assess-process-over-product-maker-education",
+      "slug": "fostering-creative-thinking",
       "strength": "M"
      },
      {
       "polarity": "+",
       "slug": "real-world-problem-solving-maker-context",
-      "strength": "M"
-     },
-     {
-      "polarity": "+",
-      "slug": "student-choice-builds-ownership-maker-education",
       "strength": "M"
      },
      {
@@ -212058,7 +211453,7 @@
    "nbpts-five-core-propositions": {
     "principles": [
      {
-      "slug": "performance-based-teacher-certification-assessment"
+      "slug": "competency-based-assessment"
      },
      {
       "slug": "twelve-characteristics-of-effective-teachers"
@@ -212448,7 +211843,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "teacher-as-facilitator-for-discovery",
+      "slug": "teacher-as-mediator-not-content-disseminator",
       "strength": "M"
      }
     ],
@@ -212594,7 +211989,7 @@
     "principles": [
      {
       "polarity": "+",
-      "slug": "teacher-as-facilitator-for-discovery",
+      "slug": "teacher-as-mediator-not-content-disseminator",
       "strength": "M"
      }
     ],
@@ -212742,13 +212137,6 @@
     ]
    },
    "proactive-reactive-autonomy-distinction": {
-    "principles": [
-     {
-      "polarity": "+",
-      "slug": "structure-with-student-control-cross-cultural-tasks",
-      "strength": "M"
-     }
-    ],
     "theories": [
      {
       "slug": "littlewood-pragmatic-social-needs-model"
@@ -215198,9 +214586,6 @@
       "slug": "distributed-cognition"
      },
      {
-      "slug": "learning-embedded-in-the-core-mechanic"
-     },
-     {
       "slug": "responsive-teaching"
      },
      {
@@ -217310,7 +216695,7 @@
    "two-facets-making-meaning-of-mathematics-epistemic-game": {
     "principles": [
      {
-      "slug": "represent-procedures-as-shared-resources-to-clarify-thinking"
+      "slug": "cognitive-flexibility"
      }
     ],
     "theories": [
@@ -217980,8 +217365,8 @@
   "elements": 762,
   "learner-variables": 12,
   "methods": 38,
-  "patterns": 136,
-  "principles": 463,
+  "patterns": 126,
+  "principles": 375,
   "processes": 18,
   "strategies": 3230,
   "theories": 995

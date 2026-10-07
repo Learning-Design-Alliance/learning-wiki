@@ -25,7 +25,7 @@ In instructional design, SDT is most often used to explain why some environments
 
 "Pure" self-determination is an ideal rather than a realistic classroom default: class size, curricular obligations, and students' own personal histories all limit how fully a teacher can meet every student's basic needs at all times. The practical result is that most students experience only a partial sense of self-determination, and SDT treats the "intrinsic-ness" of any given motivation as a matter of degree rather than an all-or-nothing state — ranging from "pure" extrinsic motivation (no intention to act regardless of pressure or incentive), through externally-controlled, introjected (acting to avoid guilt or shame, without reflection), identified (recognizing an action's value toward a goal the learner does value, e.g. grades toward college admission), and integrated regulation (an action adopted as part of the learner's own self-concept), up to "pure" intrinsic regulation (acting solely because the activity itself is enjoyable) (Koestner & Losier, 2004). This reframes the teacher's job: not to expect purely intrinsic motivation at all times, but to arrange conditions that make each of a student's motivations as intrinsic as possible by supporting autonomy, competence, and relatedness.
 
-Concrete tactics cluster around each need. **Autonomy** is supported chiefly by offering students choices wherever possible — the largest gains come from choices with real consequences (e.g., choosing project partners), but even minor choices (desk organization, folder color) contribute some sense of self-control, and choices should be offered to every student, not reserved for the highest performers (Ryan & Lynch, 2003). Minimizing external rewards and social comparison, and orienting instruction around students' own expressed interests, reinforces the same need. **Competence** is best supported by selecting tasks that are challenging but achievable with reasonable effort and assistance, favoring activities and questions (divergent rather than single-answer) that require an active response, giving feedback as immediately as possible, and providing accessible routes to help (a teacher, aide, reading, or program) when students get stuck (Elliott, McGregor, & Thrash, 2004). **Relatedness** is supported by structuring cooperative work that recognizes students' diversity and minimizes competition — "rich group work" tasks that deliberately require a mix of talents so each student contributes something distinct (Cohen, 1994; Cohen, Brody, & Sapon-Shevin, 2004; see also [Social Interdependence](../principles/social-interdependence.md)) — and by the teacher's own relationship-building, such as habitually speaking of "we" rather than "you students." The [Jigsaw Method](../patterns/jigsaw-method.md) (Aronson & Patnoe, 1997) is a structured example: expert groups research a subtopic, then reform into generalist groups so each member both contributes unique expertise and depends on peers for the rest.
+Concrete tactics cluster around each need. **Autonomy** is supported chiefly by offering students choices wherever possible — the largest gains come from choices with real consequences (e.g., choosing project partners), but even minor choices (desk organization, folder color) contribute some sense of self-control, and choices should be offered to every student, not reserved for the highest performers (Ryan & Lynch, 2003). Minimizing external rewards and social comparison, and orienting instruction around students' own expressed interests, reinforces the same need. **Competence** is best supported by selecting tasks that are challenging but achievable with reasonable effort and assistance, favoring activities and questions (divergent rather than single-answer) that require an active response, giving feedback as immediately as possible, and providing accessible routes to help (a teacher, aide, reading, or program) when students get stuck (Elliott, McGregor, & Thrash, 2004). **Relatedness** is supported by structuring cooperative work that recognizes students' diversity and minimizes competition — "rich group work" tasks that deliberately require a mix of talents so each student contributes something distinct (Cohen, 1994; Cohen, Brody, & Sapon-Shevin, 2004; see also [Social Interdependence](../principles/social-interdependence.md)) — and by the teacher's own relationship-building, such as habitually speaking of "we" rather than "you students." The [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) (Aronson & Patnoe, 1997) is a structured example: expert groups research a subtopic, then reform into generalist groups so each member both contributes unique expertise and depends on peers for the rest.
 
 These tactics are not unconditionally beneficial, however. Offering choice can help or backfire depending on how many options are offered and how meaningfully they differ: too many options, or options that don't actually differ in ways the learner cares about, can increase anxiety and indecision rather than autonomy — the evidence on how much choice is "enough" is genuinely mixed (Flowerday & Schraw, 2003; Deci & Ryan, 2003), and Schwartz (2004) argues explicitly that more choice is not always better once a threshold is passed.
 
@@ -76,7 +76,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
-- [Learner Choice](../principles/learner-choice.md)
+- [Learner Choice](../principles/autonomy.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
 - [Identity-Centered e-Textile Making](../designs/identity-centered-e-textile-making.md) — autonomy over identity expression, competence through scaffolded technical projects, and relatedness through an affirming peer community
@@ -135,7 +135,7 @@ Self-determination theory is most useful in learning design when motivation, per
 ### Theory
 #### Supporting
 - [Self-Determination Theory](../theories/self-determination-theory.md) — provides the clearest conceptual basis for the autonomy–competence–relatedness triad
-- [Learner Choice](../principles/learner-choice.md) — one practical route to autonomy support
+- [Learner Choice](../principles/autonomy.md) — one practical route to autonomy support
 - [Engagement](../principles/engagement.md) — SDT helps explain why some learners invest effort and others withdraw or comply minimally
 
 #### Contradicting / Qualifying
@@ -149,13 +149,13 @@ Self-determination theory is most useful in learning design when motivation, per
 ## Related Principles
 - [Motivation](../principles/motivation.md) — SDT is one of the strongest explanatory frameworks for why motivation rises or falls
 - [Engagement](../principles/engagement.md) — autonomy, competence, and relatedness often determine whether learners actually participate and persist
-- [Learner Choice](../principles/learner-choice.md) — one of the most visible ways to operationalize autonomy support
+- [Learner Choice](../principles/autonomy.md) — one of the most visible ways to operationalize autonomy support
 
 ## Examples
 
 ### Illustrative
 
-**[Learner Choice](../principles/learner-choice.md)** — Learners select among meaningful tasks or products while still working toward shared goals, increasing ownership without removing structure.
+**[Learner Choice](../principles/autonomy.md)** — Learners select among meaningful tasks or products while still working toward shared goals, increasing ownership without removing structure.
 
 **[Strengths-Based Approach](../principles/strengths-based-approach.md)** — Instruction emphasizes existing capabilities and growth, which can reinforce felt competence and willingness to engage.
 

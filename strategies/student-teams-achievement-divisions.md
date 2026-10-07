@@ -40,7 +40,7 @@ Student-Teams Achievement Divisions (STAD; Slavin, 1994) is a cooperative-learni
 5. Score individuals partly on their own improvement relative to their own baseline, and partly on the team's collective improvement — not solely on absolute performance level.
 
 ## Related Strategies
-- [Jigsaw Method](../patterns/jigsaw-method.md) — another 4-6-student cooperative structure, but organized around expert specialization on subtopics rather than shared study of the same whole-class content
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — another 4-6-student cooperative structure, but organized around expert specialization on subtopics rather than shared study of the same whole-class content
 
 ## Examples
 

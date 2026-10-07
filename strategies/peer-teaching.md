@@ -63,7 +63,7 @@ Peer teaching benefits both parties, but the larger and more reliable gains ofte
 ## Related Strategies
 - [Learning by Teaching](../strategies/learning-by-teaching.md) — the broader generative-learning family; peer teaching is its social instantiation
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured role rotation applied to reading comprehension
-- [Jigsaw Method](../patterns/jigsaw-method.md) — peer teaching organized around interdependent content segments
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — peer teaching organized around interdependent content segments
 - [Cross-Age Tutoring](../strategies/cross-age-tutoring.md) — pairs learners across grade levels
 
 ## Examples

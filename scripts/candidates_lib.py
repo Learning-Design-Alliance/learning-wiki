@@ -16,6 +16,12 @@ So ingest now appends each principle or pattern contribution here, and
     new      a general idea no canonical page or open candidate covers: it waits
     design   a design for one setting (the settled rule: never a pattern)
     drop     too thin to be a page: it restates one finding, or is an opinion
+    promoted written (or converted) as a canonical page by an agent; settled
+
+A candidate may also be an existing page (`origin: page`, id `page:<kind>/<slug>`): the
+batch-written principles and patterns from before the ledger that were not folded into a
+canonical page (backlog-folds.ndjson records each fold and each refusal). They wait like any
+`new` candidate, so a later batch's candidate can join them.
 
 A cluster is PROMOTED, for an agent to write as a canonical page in the
 conditional-model format, once it rests on two independent sources, or on one
@@ -38,10 +44,10 @@ LEDGER_DIR = WIKI_ROOT / "eval" / "candidates"
 CANDIDATES = LEDGER_DIR / "candidates.ndjson"
 DECISIONS = LEDGER_DIR / "decisions.ndjson"
 CANDIDATE_TYPES = ("principle", "pattern")
-OUTCOMES = ("attach", "join", "new", "design", "drop")
+OUTCOMES = ("attach", "join", "new", "design", "drop", "promoted")
 # Decisions after which a candidate is settled and never re-asked. `new` and `join`
 # stay open: a later batch may bring the canonical page or the second source.
-SETTLED = ("attach", "design", "drop")
+SETTLED = ("attach", "design", "drop", "promoted")
 FIELDS = ("type", "slug", "title", "description", "requirements", "constraints",
           "target_learners", "target_learning_goals", "claims_cited", "related",
           "theory_supporting", "examples", "key_sources", "grain_size")

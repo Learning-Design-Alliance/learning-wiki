@@ -45,7 +45,7 @@ Within the Knowledge-in-Pieces resources framework, a resource is "an idea or a 
 
 ## Examples
 
-- [Represent two correct mathematical procedures in terms of shared resources to clarify student thinking and address failures to connect ideas](../principles/represent-procedures-as-shared-resources-to-clarify-thinking.md)
+- [Represent two correct mathematical procedures in terms of shared resources to clarify student thinking and address failures to connect ideas](../principles/cognitive-flexibility.md)
 
 ## Key Sources
 - Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/

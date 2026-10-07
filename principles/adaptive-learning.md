@@ -1,12 +1,22 @@
 ---
 type: principle
 id: adaptive-learning
+aliases: [adaptive-learning-consistent-with-cognitive-structure, gain-then-time-constant-adaptive-progression, multi-objective-exercise-recommendation-objectives]
 title: Adaptive Learning
 description: "When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-02
+sources:
+  - id: shuanghong-shen-2021
+    resource: "https://arxiv.org/abs/2105.15106"
+    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106"
+    author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
+  - id: norman-1972
+    resource: "https://eric.ed.gov/?id=ED059585"
+    title: "Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585"
+    author: Norman, D. A.; And Others
 ---
 
 # Adaptive Learning
@@ -72,6 +82,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] — not yet checked against its sources
 - [Intuitive learners tend to outperform sensing learners in media-based presentations](../claims/intuitive-learners-outperform-sensing-learners.md) [-M] — not yet checked against its sources
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](../claims/learning-rate-retention-tradeoff.md) [~W]
+- [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](../claims/gain-time-constant-product-superior-forcing-function-amplitude.md) [+W]
+- [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](../claims/manual-adaptation-slightly-superior-automatic-adaptive-training.md) [+W]
+- [System compensation as implemented is not a satisfactory adaptive variable](../claims/system-compensation-unsatisfactory-adaptive-variable.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -90,11 +103,17 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Assessment for Learning](assessment-for-learning.md) — supplies the continuous diagnostic evidence that any adaptive decision depends on
 - [Competency-Based Learning & Assessment](competency-based-assessment.md) — provides the mastery criteria that gate progression in adaptive designs
 - [Active Learning](active-learning.md) — adaptive systems still require learners to do generative work; adaptation of difficulty does not replace engagement
+- [Mastery Learning](mastery-learning.md)
+- [Knowledge Tracing Learner Modeling Task](../theories/knowledge-tracing-learner-modeling-task.md)
+- [Knowledge Tracing Driven Exercise Recommendation](../strategies/knowledge-tracing-driven-exercise-recommendation.md)
+- [Adaptive Difficulty](../elements/adaptive-difficulty.md)
+- [Engagement](engagement.md)
 
 ## Examples
 
 - [Four-layer system architecture for intelligent oral diagnosis and adaptive training](../elements/four-layer-oral-diagnosis-system-architecture.md)
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)
+- [Use shaped-spectrum filtered error for rapid adaptive logic response](../strategies/shaped-spectrum-filtered-error-adaptive-logic.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).
@@ -113,6 +132,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - Corbett, A. T. (2001). Cognitive computer tutors: Solving the two-sigma problem. *User Modeling 2001*, 137–147. [doi:10.1007/3-540-44566-8_14](https://doi.org/10.1007/3-540-44566-8_14)
 - Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). Informing progress: Insights on personalized learning implementation and effects. RAND Corporation. [https://www.rand.org/pubs/research_reports/RR2042.html](https://www.rand.org/pubs/research_reports/RR2042.html) [doi:10.7249/rr2042](https://doi.org/10.7249/rr2042)
 - Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.
+- Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier Description and Implications, verbatim.
 
@@ -190,4 +211,125 @@ Adaptive learning is the short-form canonical pattern for adjusting pacing, diff
 
 ## Key Sources
 - Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.
+-->
+
+<!-- merged 2026-10-07 from principles/adaptive-learning-consistent-with-cognitive-structure ("Adaptive Learning Consistent with Knowledge Level and Knowledge Structure"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Adaptive Learning Consistent with Knowledge Level and Knowledge Structure
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The survey argues that because students' cognitive structures include both their knowledge level and the knowledge structure of learning items (e.g., prerequisites), "adaptive learning should maintain consistency with both students’ knowledge level and the latent knowledge structure." It cites CSEAL, which uses DKT to trace knowledge states, a knowledge-structure navigation algorithm for logical learning paths, and an actor-critic algorithm to decide what to learn next.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A KT model tracing each student's evolving knowledge state
+- A representation of prerequisite relations among learning items to constrain learning paths
+#### Constraints
+- The survey states that existing adaptive learning methods often focus separately on either students' knowledge levels or the knowledge structure of learning items
+
+### Target Learners
+- Students in adaptive learning systems, including MOOCs and programming tutors
+
+### Target Learning Objectives
+- Following individualized, logically ordered learning paths until each rule or concept is mastered
+
+### Claims
+- 
+
+## Related Principles
+- [Adaptive Learning](adaptive-learning.md)
+- [Mastery Learning](mastery-learning.md)
+- [Knowledge Tracing Learner Modeling Task](../theories/knowledge-tracing-learner-modeling-task.md)
+
+## Examples
+-
+
+## Key Sources
+- Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+-->
+
+<!-- merged 2026-10-07 from principles/gain-then-time-constant-adaptive-progression ("Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article recommends that at the beginning of training a low value for both gain and effective time constant be provided. Based upon student improvement, gain would then be increased to provide a more difficult task, followed by increasing te to make the task progressively more difficult. The rationale is that low gain lets trainees learn the gross pattern of control movement without sorting out random movements, and short time constants permit immediate feedback for adjusting control inputs.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Gain must be low enough early in training so the trainee can learn the gross pattern of control movement without sorting out random, erratic movements
+#### Constraints
+- The effect of gain is particularly evident during early training trials with the effect decreasing as learning progresses
+
+### Target Learners
+- novice manual-control trainees
+
+### Target Learning Objectives
+- learning spatial and temporal patterns of control movement
+
+### Claims
+
+- [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](../claims/gain-time-constant-product-superior-forcing-function-amplitude.md) [+W]
+- [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](../claims/manual-adaptation-slightly-superior-automatic-adaptive-training.md) [+W]
+- [System compensation as implemented is not a satisfactory adaptive variable](../claims/system-compensation-unsatisfactory-adaptive-variable.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use shaped-spectrum filtered error for rapid adaptive logic response](../strategies/shaped-spectrum-filtered-error-adaptive-logic.md)
+- [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)
+
+## Key Sources
+- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+-->
+
+<!-- merged 2026-10-07 from principles/multi-objective-exercise-recommendation-objectives ("Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The survey reports three objectives proposed by Huang et al. to go beyond assigning non-mastered exercises: "review and explore , smoothness of difficulty level and student engagement ." Review and explore reinforces non-mastered concepts with timely reviews while keeping opportunities to explore new knowledge; smooth difficulty keeps consecutive exercises within a small difficulty range; engagement aligns recommended exercises with student preferences. These objectives are optimized in a multi-objective deep reinforcement learning (DRE) framework.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Traced knowledge states plus reward functions that capture and quantify each of the three objectives, as in the DRE framework
+#### Constraints
+- The survey reports only that DRE can effectively learn from learning records to optimize multiple objectives; no magnitude of learning benefit is given
+
+### Target Learners
+- Students receiving exercise recommendations in online intelligent education systems
+
+### Target Learning Objectives
+- Reviewing non-mastered concepts, exploring new knowledge, and sustaining enthusiasm during learning
+
+### Claims
+- 
+
+## Related Principles
+- [Knowledge Tracing Driven Exercise Recommendation](../strategies/knowledge-tracing-driven-exercise-recommendation.md)
+- [Adaptive Difficulty](../elements/adaptive-difficulty.md)
+- [Engagement](engagement.md)
+
+## Examples
+-
+
+## Key Sources
+- Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
 -->

@@ -47,7 +47,7 @@ The article argues that communicative activities are harder to engage in under s
 ## Related Principles
 
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](comprehensible-input-communicative-reading-activities.md)
-- [Reduce teacher talk time and improve its quality to give students adequate discussion time](reduce-teacher-talk-increase-student-talk.md)
+- [Reduce teacher talk time and improve its quality to give students adequate discussion time](talking-and-writing-means-to-learning.md)
 
 ## Examples
 

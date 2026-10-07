@@ -1,6 +1,7 @@
 ---
 type: principle
 id: scaffolding
+aliases: [pre-assessment-scaffolding-hypothesized-quality-driver, text-system-controlled-prompts-for-novices]
 title: Scaffolding
 description: "Temporary support given while a learner attempts a task they cannot yet complete alone may improve later cognitive outcomes compared with unsupported attempts, qualified by the learner's task-specific starting response, the kind of support, the setting and whether the outcome is measured without the support."
 status: review
@@ -12,6 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/j.1469-7610.1976.tb00381.x"
     title: "Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100"
     author: "Wood, D., Bruner, J. S., & Ross, G"
+  - id: bates-2013
+    resource: "https://arxiv.org/abs/1308.2202"
+    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202"
+    author: Bates, S. P., Galloway, R. K., Riise, J., and Homer, D
+  - id: reisslein-2004
+    resource: "https://eric.ed.gov/?id=ED484994"
+    title: "Reisslein, J., Atkinson, R. K., & Reisslein, M. (2004). Exploring the Presentation and Format of Help in a Computer-Based Electrical Engineering Learning Environment. Arizona State University. https://eric.ed.gov/?id=ED484994"
+    author: "Reisslein, J., Atkinson, R. K., & Reisslein, M"
 ---
 
 # Scaffolding
@@ -54,6 +63,13 @@ The wiki has no claim that compares kinds of support (structuring the task versu
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Peerwise Student Questions 75 Percent High Quality](../claims/peerwise-student-questions-75-percent-high-quality.md) [~M]
+- [Textual Prompts Better Near Transfer Than Pictorial](../claims/textual-prompts-better-near-transfer-than-pictorial.md) [+M]
+- [External Prompt Regulation More Positive Attitudes](../claims/external-prompt-regulation-more-positive-attitudes.md) [+M]
+- [Prompt Presentation No Performance Effect](../claims/prompt-presentation-no-performance-effect.md) [~M]
+- [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](../claims/textual-prompts-stronger-continuing-motivation.md) [+M]
+- [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](../claims/prompt-format-first-second-attempt-accuracy.md) [~M]
+- [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](../claims/far-transfer-floor-effect-and-equal-time.md) [~M]
 
 ## Objective and learner-valued goal
 
@@ -72,9 +88,12 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 
 ## Examples
 - Hints, worked examples, modeling, and coaching that are reduced as competence grows.
+- [Backward-faded worked-example computer module for series and parallel circuit analysis](../elements/backward-faded-circuit-analysis-module.md)
 
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+- Reisslein, J., Atkinson, R. K., & Reisslein, M. (2004). Exploring the Presentation and Format of Help in a Computer-Based Electrical Engineering Learning Environment. Arizona State University. https://eric.ed.gov/?id=ED484994
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The former body, kept verbatim:
 
@@ -107,4 +126,85 @@ Scaffolding is useful when learners can succeed with support but not yet on thei
 ### Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — support helps most when it is matched to the learner’s current difficulty
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — effective scaffolds are designed to hand more of the task back to the learner over time
+-->
+
+<!-- merged 2026-10-07 from principles/pre-assessment-scaffolding-hypothesized-quality-driver ("Provide scaffolding and support activities before student question-authoring tasks, because context and support appear to bear on question quality"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Provide scaffolding and support activities before student question-authoring tasks, because context and support appear to bear on question quality
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article proposes that the quality of student-authored questions depends substantially on the material and support provided before authoring. It states: "It is our hypothesis that the higher quality of student-authored questions found in the present study is connected to the introductory exercises and scaﬀolding activities that we provided to students ahead of the ﬁrst PeerWise assessment task." The scaffolding set a high bar via a worked example and pushed students beyond what they currently know. This remains an untested hypothesis in this study.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Class time (about 90 minutes) devoted to preparatory scaffolding activities before the first authoring task, including a high-quality example question setting the expected bar.
+#### Constraints
+- The article states this is a hypothesis not yet tested: the proposed controlled experiment contrasting no PeerWise, PeerWise without scaffolding, and PeerWise with scaffolding has not been run, and prior studies reporting scaffolding examined engagement, not question quality.
+
+### Target Learners
+- first-year undergraduate physics students, majors and non-majors
+
+### Target Learning Objectives
+- authoring high-cognitive-level assessment questions and explanations
+
+### Claims
+- [Peerwise Student Questions 75 Percent High Quality](../claims/peerwise-student-questions-75-percent-high-quality.md) [~M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+-->
+
+<!-- merged 2026-10-07 from principles/text-system-controlled-prompts-for-novices ("For novice learners in highly structured domains, use text-based prompts delivered under the control of the instructional module"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# For novice learners in highly structured domains, use text-based prompts delivered under the control of the instructional module
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+The article recommends that for high school students with little domain knowledge, help in computer-based modules should be textual and system-controlled. The authors conclude that "employing text-based prompts and having the prompts under the control of the instructional module are preferred by students" in their circuit-analysis module. This rests on their findings that textual prompts improved near-transfer performance and that externally regulated prompts were rated more favorably despite no performance difference.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners with low prior knowledge in the structured content domain, as in the studied population
+#### Constraints
+- The authors note the advantage of textual prompts did not extend to far-transfer performance, and recommend testing learners with higher prior knowledge and more elaborate pictorial prompts
+
+### Target Learners
+- High school students without prior knowledge of electrical circuit analysis
+
+### Target Learning Objectives
+- Initial acquisition of structured, algorithmic problem-solving procedures such as series and parallel circuit resistance calculation
+
+### Claims
+
+- [Textual Prompts Better Near Transfer Than Pictorial](../claims/textual-prompts-better-near-transfer-than-pictorial.md) [+M]
+- [External Prompt Regulation More Positive Attitudes](../claims/external-prompt-regulation-more-positive-attitudes.md) [+M]
+- [Prompt Presentation No Performance Effect](../claims/prompt-presentation-no-performance-effect.md) [~M]
+- [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](../claims/textual-prompts-stronger-continuing-motivation.md) [+M]
+- [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](../claims/prompt-format-first-second-attempt-accuracy.md) [~M]
+- [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](../claims/far-transfer-floor-effect-and-equal-time.md) [~M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Backward-faded worked-example computer module for series and parallel circuit analysis](../elements/backward-faded-circuit-analysis-module.md)
+
+## Key Sources
+- Reisslein, J., Atkinson, R. K., & Reisslein, M. (2004). Exploring the Presentation and Format of Help in a Computer-Based Electrical Engineering Learning Environment. Arizona State University. https://eric.ed.gov/?id=ED484994
 -->

@@ -50,7 +50,7 @@ The article identifies Vygotsky as the pioneer of social constructivism, whose s
 
 ## Examples
 
-- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](../principles/teacher-as-facilitator-constructivist-classroom.md)
+- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources
 - Liu, C. C., & Chen, I. J. (2010). Evolution Of Constructivism. Contemporary Issues In Education Research, 3(4). https://www.cluteinstitute.com/ojs/index.php/cier

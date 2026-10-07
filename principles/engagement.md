@@ -49,7 +49,7 @@ The earlier page's guidance, kept as a concrete default and labelled. Each step 
 7. **Keep success reachable.** Plan for most attempts to succeed with the help available; when a learner stops after failing, shorten the step or give a worked example before the next attempt rather than more encouragement. Untested proposal, from the earlier page ("engagement is fragile when success feels unattainable").
 8. **Use hooks only if they carry the target.** A surprising fact, image, story or video prompt may open a lesson if it shows the idea to be learned; cut or move to the end anything whose job is only to entertain, especially for learners who are struggling. Evidence: [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [-M].
 9. **Do not pay learners for doing a task they already find interesting.** Prefer informational feedback and specific praise to tangible rewards given for taking part; treat points and badges as a small, uncertain addition, not the engine. Evidence: [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [~S] (two competing meta-analyses agree on expected tangible rewards for doing a task); [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](../claims/gamification-has-small-positive-effects-on-learning-outcomes.md) [~M] (the motivational and behavioural effects were not significant in the more rigorous studies).
-10. **Offer choices that matter, inside a structure.** Two or three options for topic, product or order, all aligned to the same goal. Untested here; modelled in [Autonomy](autonomy.md) and [Learner Choice](learner-choice.md).
+10. **Offer choices that matter, inside a structure.** Two or three options for topic, product or order, all aligned to the same goal. Untested here; modelled in [Autonomy](autonomy.md) and [Learner Choice](autonomy.md).
 
 **Across sessions** (an untested arc; adjust from the indicator and probe in step 1):
 
@@ -141,19 +141,18 @@ The first link should weaken if controlled comparisons of these conditions (a co
 On-task behaviour, interest, completion, voluntary persistence and learning of the target are separate claims. The present evidence does not establish how much engagement is enough, how long a raised level lasts, or that engagement causes learning.
 
 ## Related Principles
-- [Learner Choice](learner-choice.md) — meaningful choice is one common route to stronger engagement
+- [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement
 - [Game-Based Learning](game-based-learning.md) — can increase participation and persistence when challenge, progress, and feedback are well designed
 - [Motivation](motivation.md) — engagement is often the most visible outcome of motivational conditions
 - [Active Learning](active-learning.md) — owns the format-level model: tasks in which learners generate, with feedback, raise course-end performance
 - [Cognitive Activation](cognitive-activation.md) — owns the cognitive demand of the task, the link from engagement to learning
-- [Autonomy](autonomy.md) — owns autonomy support and the controlling side of rewards and praise
 - [Goal Setting and Monitoring](goal-setting-monitoring.md) — owns what the goal should be and how progress is made visible
 
 ## Examples
 
 ### Illustrative
 
-**[Learner Choice](learner-choice.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.
+**[Learner Choice](autonomy.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.
 
 **[Video Prompts](../elements/video-prompts.md)** — A short, concrete stimulus can focus attention and launch interpretation, especially when followed by explanation or discussion.
 
@@ -208,7 +207,7 @@ Engagement matters because even strong content design has little effect if learn
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — engagement may be easier to sustain when novices can focus on actionable process rather than distant outcomes
 
 ## Related Principles
-- [Learner Choice](learner-choice.md) — meaningful choice is one common route to stronger engagement
+- [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement
 - [Game-Based Learning](game-based-learning.md) — can increase participation and persistence when challenge, progress, and feedback are well designed
 - [Motivation](motivation.md) — engagement is often the most visible outcome of motivational conditions
 
@@ -216,7 +215,7 @@ Engagement matters because even strong content design has little effect if learn
 
 ### Illustrative
 
-**[Learner Choice](learner-choice.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.
+**[Learner Choice](autonomy.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.
 
 **[Video Prompts](../elements/video-prompts.md)** — A short, concrete stimulus can focus attention and launch interpretation, especially when followed by explanation or discussion.
 

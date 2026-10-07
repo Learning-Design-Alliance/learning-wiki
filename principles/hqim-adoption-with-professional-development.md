@@ -44,7 +44,7 @@ The toolkit states that core curricula choices "greatly impact student learning 
 ## Related Principles
 
 - [Eliminate three-cueing from elementary reading curricula and educator preparation materials](eliminate-three-cueing-instruction.md)
-- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](literacy-coaches-job-embedded-support.md)
+- [Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches](ongoing-study-teams-peer-coaching-in-service.md)
 
 ## Examples
 -

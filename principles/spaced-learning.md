@@ -1,7 +1,7 @@
 ---
 type: principle
 id: spaced-learning
-aliases: [spacing, spaced-practice]
+aliases: [spacing, spaced-practice, augment-single-session-workshop-with-spaced-retrieval, podcasts-as-revision-adjunct-distributed-listening]
 title: Spaced Learning
 description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
 status: review
@@ -45,6 +45,14 @@ sources:
     resource: "https://doi.org/10.1007/s11251-007-9015-8"
     title: "Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498"
     author: "Rohrer, D., & Taylor, K"
+  - id: kang-2023
+    resource: "https://doi.org/10.1891/JFCP-2021-0032"
+    title: "Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032"
+    author: "Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J"
+  - id: joshi-u-2026
+    resource: "https://doi.org/10.1186/s12909-026-10080-6"
+    title: "Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6"
+    author: Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S
 ---
 
 # Spaced Learning
@@ -100,6 +108,15 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learners prefer massed study despite its inferior outcomes.](../claims/learners-misjudge-spacing-benefits.md) [~M] — learners' study choices are driven by short-term fluency, so spacing often needs structural support; not settled: the text available could not confirm the entries (abstract)
 - [Spaced retrieval outperforms spaced restudy.](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — the spacing effect is amplified when each encounter requires retrieval rather than rereading; not yet checked against its sources
 - [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007); not settled: the text available could not confirm the entries (abstract)
+- [Spaced Beats Massed And Control Financial Knowledge](../claims/spaced-beats-massed-and-control-financial-knowledge.md) [+M]
+- [Spaced Retrieval Practice Improves Financial Knowledge Retention](../claims/spaced-retrieval-practice-improves-financial-knowledge-retention.md) [+M]
+- [The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items](../claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md) [+W]
+- [Podcast Dose Response Learning Gain](../claims/podcast-dose-response-learning-gain.md) [+M]
+- [Podcast Retention Divergence Massed Vs Distributed](../claims/podcast-retention-divergence-massed-vs-distributed.md) [+M]
+- [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](../claims/ai-revision-podcasts-immediate-learning-gains-medical-students.md) [+W]
+- [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](../claims/podcast-design-barriers-pauses-voice-monotony.md) [+W]
+- [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](../claims/podcast-gains-higher-order-domains.md) [+W]
+- [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](../claims/podcast-topic-wise-gain-heterogeneity.md) [~W]
 
 ## Source verification and open tests
 
@@ -298,4 +315,92 @@ Spacing works because the partial forgetting that occurs between sessions makes 
 - Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning science. *Policy Insights from the Behavioral and Brain Sciences, 3*(1), 12–19. [doi:10.1177/2372732215624708](https://doi.org/10.1177/2372732215624708)
 - Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*(6), 481–498. [doi:10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
 - ->
+-->
+
+<!-- merged 2026-10-07 from principles/augment-single-session-workshop-with-spaced-retrieval ("Augment a single-session financial education workshop with spaced retrieval practice opportunities scheduled days and weeks later"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Augment a single-session financial education workshop with spaced retrieval practice opportunities scheduled days and weeks later
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 3 of 6 report an effect size · 3 claims rest on one study
+
+## Description
+The article recommends that educators augment one-time financial education workshops by creating opportunities for participants to retrieve and use what they learned, not immediately after the workshop but several days later and again a few weeks later, with corrective feedback that explains and elaborates on the concepts. This helps consolidate learning and make it more durable and transferable, and mobile devices can be used to provide timely reminders and encourage spaced retrieval practice.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners must have mobile devices/computers and access to reliable Internet for app-based delivery
+- Practice must be scheduled several days after the workshop and again a few weeks later, not immediately after
+#### Constraints
+- The tested intervention was brief (two short bouts of practice each lasting less than 10 minutes); the article notes more sessions might yield larger effects but could raise dropout or attrition
+
+### Target Learners
+- college students
+- workshop participants in financial education
+
+### Target Learning Objectives
+- long-term retention and transfer of financial knowledge
+
+### Claims
+
+- [Spaced Beats Massed And Control Financial Knowledge](../claims/spaced-beats-massed-and-control-financial-knowledge.md) [+M]
+- [Spaced Retrieval Practice Improves Financial Knowledge Retention](../claims/spaced-retrieval-practice-improves-financial-knowledge-retention.md) [+M]
+- [The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items](../claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md) [+W]
+- [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032
+-->
+
+<!-- merged 2026-10-07 from principles/podcasts-as-revision-adjunct-distributed-listening ("Position AI-generated podcasts as a mobile-first revision adjunct and encourage distributed, opportunistic listening over binge use"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Position AI-generated podcasts as a mobile-first revision adjunct and encourage distributed, opportunistic listening over binge use
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+The article concludes that AI-generated podcasts are best positioned as a 'mobile-first' revision adjunct rather than a primary learning resource, and that implementation strategies should focus on supporting adherence, perhaps through structured listening plans or faculty 'nudges'. It further suggests that encouraging opportunistic listening during commute or chores is a valid educational strategy that may support long-term retention, because distributed usage at Centre 1 was associated with stable 30-day retention while high-intensity usage at Centre 2 decayed.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Implementation must support adherence, since higher episode completion was independently associated with greater learning gain.
+#### Constraints
+- The study lacked a non-intervention control group, so co-intervention from concurrent exam preparation cannot be ruled out; the massed-versus-spaced interpretation is the authors' theoretical reading of naturally occurring usage differences, not an experimentally manipulated contrast.
+
+### Target Learners
+- Undergraduate medical students in resource-constrained settings with high smartphone penetration
+
+### Target Learning Objectives
+- Immediate knowledge gain and intermediate-term (30-day) retention of revised curricular content
+
+### Claims
+
+- [Podcast Dose Response Learning Gain](../claims/podcast-dose-response-learning-gain.md) [+M]
+- [Podcast Retention Divergence Massed Vs Distributed](../claims/podcast-retention-divergence-massed-vs-distributed.md) [+M]
+- [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](../claims/ai-revision-podcasts-immediate-learning-gains-medical-students.md) [+W]
+- [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](../claims/podcast-design-barriers-pauses-voice-monotony.md) [+W]
+- [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](../claims/podcast-gains-higher-order-domains.md) [+W]
+- [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](../claims/podcast-topic-wise-gain-heterogeneity.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Ears for Examinations: AI-generated, faculty-validated conversational revision podcasts hosted on YouTube](../elements/ears-for-examinations-ai-podcast-intervention.md)
+- [Engineer pauses, multimodal anchors, and improved prosody into AI-generated audio revision tools](../strategies/engineer-pauses-anchors-prosody-ai-audio.md)
+
+## Key Sources
+- Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 -->

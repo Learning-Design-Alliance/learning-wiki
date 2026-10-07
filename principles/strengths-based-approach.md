@@ -1,6 +1,7 @@
 ---
 type: principle
 id: strengths-based-approach
+aliases: [find-strengths-and-entry-points-per-teacher, remedial-instruction-build-on-strengths-integrate-sources]
 title: Strengths-based Approach
 description: "For a learner described mainly by gaps, collecting evidence of what they can already do, naming it as specific performances and building tasks, roles and support from it, with barriers still addressed, is expected to raise teacher expectations, make competence visible and support self-efficacy and persistence; no claim here compares it with deficit-organized instruction, and praise of the person or brief belief exercises limit it."
 status: review
@@ -24,6 +25,14 @@ sources:
     resource: "https://doi.org/10.1080/07294360.2020.1852185"
     title: "Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193"
     author: "Uink, B., Bennett, R., & van den Berg, C"
+  - id: dozier-2008
+    resource: "https://eric.ed.gov/?id=EJ1059644"
+    title: "Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644"
+    author: Dozier, C. L
+  - id: walker-1989
+    resource: "https://eric.ed.gov/?id=ED315726"
+    title: "Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726"
+    author: Walker, B. J
 ---
 
 # Strengths-based Approach
@@ -119,6 +128,8 @@ Claims in the wiki that bear on the page's premise, not used in the model above.
 
 - [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](../claims/deficit-view-of-minority-households-lowers-academic-expectations.md) [+W] — an ERIC digest's opening premise, stated without evidence (`q1`); it names the problem this page addresses but does not establish it.
 - [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](../claims/incorporating-home-culture-improves-academic-performance.md) [+W] — an assertion resting on cited literature (`q1`); it bears more on [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) than on this page.
+- [Poor Readers Overrely Single Information Source](../claims/poor-readers-overrely-single-information-source.md) [+M]
+- [Reading Failure Fixed Ability Attribution](../claims/reading-failure-fixed-ability-attribution.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -134,14 +145,14 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 
 ## Related Principles
 
-- [Learner Choice](learner-choice.md) — strengths-based design often creates multiple legitimate pathways into a task.
+- [Learner Choice](autonomy.md) — strengths-based design often creates multiple legitimate pathways into a task.
 - [Foster Growth Mindset](growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
 - [Take students' previous knowledge and experience as the growth point of new knowledge](prior-knowledge-growth-point-new-knowledge.md)
 - [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — owns using learners' own experience as the material of tasks; this page owns naming and building on demonstrated capability.
-- [Autonomy](autonomy.md) — choice within structure, including several ways into a task.
 - [Wise Feedback Across Difference](wise-feedback-across-difference.md) — critical feedback that conveys high standards and assurance the learner can meet them.
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
 
 ## Examples
 
@@ -150,12 +161,17 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - **Asset-based feedback**: Instructor names what the learner already does well and connects it to the next improvement target.
 - **Experience-informed task entry**: Learners can begin with examples from work, family, language, or community knowledge.
 - [Choose fading starting points by identifying a response already in the child's repertoire](../strategies/repertoire-response-as-fading-starting-point.md)
+- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Leveraging Strengths in Relationship Skills](../strategies/leveraging_strengths_in_relationship_skills.md)
+- [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 
 ## Key Sources
 - Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)
 - Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D. (2015). Through the lens of strength: A framework for educating the heart. *The Journal of Positive Psychology, 10*(1), 64-68. [https://doi.org/10.1080/17439760.2014.888581](https://doi.org/10.1080/17439760.2014.888581)
 - Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. *Journal of College and Character, 10*(4). [https://doi.org/10.2202/1940-1639.1041](https://doi.org/10.2202/1940-1639.1041)
 - Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193. [https://doi.org/10.1080/07294360.2020.1852185](https://doi.org/10.1080/07294360.2020.1852185)
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+- Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -206,7 +222,7 @@ A strengths-based approach improves learning when instructors make existing capa
 
 ## Related Principles
 
-- [Learner Choice](learner-choice.md) — strengths-based design often creates multiple legitimate pathways into a task.
+- [Learner Choice](autonomy.md) — strengths-based design often creates multiple legitimate pathways into a task.
 - [Foster Growth Mindset](growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
 - [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
@@ -225,4 +241,87 @@ A strengths-based approach improves learning when instructors make existing capa
 - Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D. (2015). Through the lens of strength: A framework for educating the heart. *The Journal of Positive Psychology, 10*(1), 64-68. [https://doi.org/10.1080/17439760.2014.888581](https://doi.org/10.1080/17439760.2014.888581)
 - Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. *Journal of College and Character, 10*(4). [https://doi.org/10.2202/1940-1639.1041](https://doi.org/10.2202/1940-1639.1041)
 - Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193. [https://doi.org/10.1080/07294360.2020.1852185](https://doi.org/10.1080/07294360.2020.1852185)
+-->
+
+<!-- merged 2026-10-07 from principles/find-strengths-and-entry-points-per-teacher ("Find each teacher's strengths and entry point before asking for instructional change"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Find each teacher's strengths and entry point before asking for instructional change
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The author recommends beginning professional development sessions with celebrations of teaching and student learning and locating each teacher's accessible entry point for change, because change requires risk-taking. Entry points named include more detailed book introductions, mentor texts during writer's workshop, and a range of paper choices. The author warns against deficit-driven theorizing and notes that some teachers "will toe in, some will dive in, and some will observe other teachers" before committing.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Identify a concrete entry point for each teacher, such as a practice the teacher is already motivated to refine
+#### Constraints
+- Relationship building can take longer than expected and some coaching relationships start contentiously
+
+### Target Learners
+- K-12 classroom teachers
+
+### Target Learning Objectives
+- willingness to take instructional risks
+- expanded writing and reading instruction
+
+### Claims
+- 
+
+## Related Principles
+
+- [Engage teachers in literacy events learner-to-learner to build trusting coaching relationships](engage-teachers-literacy-events-learner-to-learner.md)
+
+## Examples
+
+- [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
+- [Leveraging Strengths in Relationship Skills](../strategies/leveraging_strengths_in_relationship_skills.md)
+- [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
+
+## Key Sources
+- Dozier, C. L. (2008). Literacy coaching: Engaging and learning with teachers. The Language and Literacy Spectrum, 18. https://eric.ed.gov/?id=EJ1059644
+-->
+
+<!-- merged 2026-10-07 from principles/remedial-instruction-build-on-strengths-integrate-sources ("Remedial reading instruction should build on strengths and support integration of information sources rather than concentrating on deficits"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Remedial reading instruction should build on strengths and support integration of information sources rather than concentrating on deficits
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The paper recommends that remedial programs focus on strengths and consciously support them, instead of the deficit-focused skills approach in which "the whole thrust is to identify weaknesses and concentrate on problems." Instruction should show readers how to integrate information sources, provide texts they can read fluently so they can elaborate content and strategies, and redefine reading as a strategic process rather than a fixed ability. This follows from the model's account of how compensatory overreliance becomes disabling.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instruction must show students how to integrate information sources
+- Texts must be at a level students can read fluently enough to elaborate meaning and strategies
+#### Constraints
+- For students who already define reading as failure, the paper states instruction must begin with redefining the context of reading and reading ability before text-level or strategy changes alone will help
+
+### Target Learners
+- remedial and struggling elementary readers
+
+### Target Learning Objectives
+- coordinating sources of information in reading
+- reading comprehension
+- reading motivation
+
+### Claims
+- [Poor Readers Overrely Single Information Source](../claims/poor-readers-overrely-single-information-source.md) [+M]
+- [Reading Failure Fixed Ability Attribution](../claims/reading-failure-fixed-ability-attribution.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability Occurs. https://eric.ed.gov/?id=ED315726
 -->
