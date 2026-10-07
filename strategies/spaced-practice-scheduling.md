@@ -65,6 +65,7 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - [Interleaved practice](interleaved-practice.md) — mixing item types within sessions; combines with spacing for the strongest durable-learning schedules
 - [Cumulative review quizzing](cumulative-review-quizzing.md) — a classroom implementation that builds spacing into assessment
 - [Build regular reiteration of previously covered vocabulary topics into the EFL curriculum](curriculum-reiteration-one-step-forward-two-steps-back.md)
+- [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source flashcard system implementing expanding spaced repetition with per-item scheduling; widely used in medical education.

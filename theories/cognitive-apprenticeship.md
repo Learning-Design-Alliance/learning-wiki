@@ -22,6 +22,7 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [Cognitive Load Theory](cognitive-load-theory.md)
 - [Sociocultural Theory](sociocultural-theory.md) — operationalizes the Zone of Proximal Development and scaffolding via modeling, coaching, and fading
 - [Cognitive apprenticeship applies the modelling, coaching, and fading paradigm of traditional apprenticeship to cognitive skills, with technology realizing resource-intensive learning environments](cognitive-apprenticeship-technology-framework.md)
+- [Cognitive apprenticeship model (Collins et al.) as a framework for Web-based teacher education](cognitive-apprenticeship-web-teacher-education.md)
 
 ## Examples
 - [Computational Essay Writing](../patterns/computational-essay-writing.md) — students work from modeled expert artifacts (example computational essays) toward independent investigation, articulating their reasoning in writing

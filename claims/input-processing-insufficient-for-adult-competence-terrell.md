@@ -47,3 +47,4 @@ The bibliography reports, citing Terrell (1991), a discussion of Krashen's model
 - [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
+- [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — reports the opposite

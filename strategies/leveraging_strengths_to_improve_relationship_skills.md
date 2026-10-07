@@ -60,9 +60,11 @@ Strengths-based framing raises self-efficacy, which in turn predicts persistence
 6. **Reflect and consolidate.** Close with [Peer Discussion](../elements/peer-discussion.md) or individual reflection on what worked, reinforcing the link between the student's strength and the new skill.
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — a concrete relationship skill frequently targeted as the "stretch" component
 - [Acting-Role-Play](acting-role-play.md) — the rehearsal method for practicing new social behaviors in low-stakes conditions
 - [Peer Tutoring](../strategies/peer_tutoring.md) — a formalized version of strength-based peer pairing
+- [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — in-the-moment support during authentic social interaction

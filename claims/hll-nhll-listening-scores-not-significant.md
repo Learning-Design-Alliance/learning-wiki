@@ -48,3 +48,4 @@ Non-parametric Mann-Whitney U tests on listening task scores of 12 HLLs and 11 N
 - [Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information](hlls-broader-and-selective-listening-attention.md) — related
 - [Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills](hlls-rate-listening-easiest-nhlls-challenging.md) — related
 - [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](perceived-hll-advantage-and-dialect-difficulty.md) — reports the opposite
+- [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related

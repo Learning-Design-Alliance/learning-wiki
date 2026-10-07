@@ -37,7 +37,8 @@ The authors recommend modifying the evaluation rubric when moving from science i
 - solving engineering design problems and justifying how a solution works
 
 ## Related Strategies
-- 
+
+- [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](assess-disruption-reclamation-adaptability.md)
 
 ## Examples
 -

@@ -49,3 +49,7 @@ Item-level results from the same cross-sectional parent survey in Nablus. Barrie
 - [Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children](limited-parental-awareness-of-alternative-aac-systems.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md)
 - [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md)
+- [Many children with communication needs who require AAC lack access to appropriate supports, and embedding AAC interventions in the classroom is challenging](aac-classroom-access-barriers-challenge.md) — a broader claim this one bears on
+- [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
+- [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
+- [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related

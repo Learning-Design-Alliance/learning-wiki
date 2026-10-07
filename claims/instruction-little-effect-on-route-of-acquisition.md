@@ -47,3 +47,5 @@ The paper reports, citing Ellis and LaPorte (1997), that "it has been demonstrat
 - [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — a narrower finding that bears on this claim
+- [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — related

@@ -60,9 +60,11 @@ The model forces learners to engage in the two operations that concept-learning 
 7. Revisit and revise the completed model after subsequent instruction; treat it as a living artifact, not a one-time worksheet.
 
 ## Related Strategies
+
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — the launch step that determines whether new concept attributes connect to existing schemas
 - [Semantic feature analysis](../strategies/semantic_feature_analysis.md) — a matrix-based sibling that compares multiple concepts across attributes rather than deepening one
 - [Word walls](../strategies/word_walls.md) — a lower-intensity vocabulary routine; the Frayer Model supplies the depth that walls alone lack
+- [Twelve-step teacher-led concept-diagram vocabulary lesson routine](twelve-step-concept-diagram-routine.md)
 
 ## Examples
 - **Mathematics**: a Frayer Model for *prime number* — definition ("a whole number greater than 1 with exactly two factors"), characteristics (exactly two factors, greater than 1), examples (2, 7, 13), non-examples (1, which fails the "greater than 1" criterion; 9, which has three factors). The non-example *1* is the critical case that corrects the most common misconception.

@@ -48,3 +48,4 @@ Random-effects meta-analysis of three differentiated-instruction studies; pooled
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
 - [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
+- [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related

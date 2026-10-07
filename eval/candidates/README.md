@@ -27,6 +27,11 @@ So the extraction proposes and a second pass decides. Rationale: `scripts/candid
    | `design` | A draft page in `designs/`. |
    | `drop` | Nothing: the candidate restates one finding or is an opinion. |
 
+   Every claim an `attach` would write is then read again by `link_pages.py`'s verifier, and only the ones it keeps
+   with the direction confirmed are written. The deciding call judges all of a candidate's claims at once. On batch
+   13 it attached null results as `+`, and learning-style subgroup results to cognitive-load management, and the
+   verifier kept 4 of 13. A null or non-significant result is never `+`.
+
    `new` and `join` stay open and are asked again on each run.
 3. **Promote and update (agents, as in the conversion waves).** `settle_candidates.py --report` lists:
    - **promoted clusters**: two independent sources, or one claim whose evidence is a quant-synthesis or review
@@ -55,3 +60,20 @@ converted.
 
 `settle_candidates.py --backlog` settles the 277 non-canonical principle and pattern pages that batches wrote before
 the ledger, as if they were candidates. It writes nothing: it measures what folding them would do.
+
+## First runs (2026-10-07)
+
+| Run | Candidates | attach | new | join | design | drop | Cost |
+|---|---|---|---|---|---|---|---|
+| Backlog, BM25 neighbours only | 277 | 148 | 109 | 6 | 4 | 10 | $0.24 |
+| Backlog, whole canonical index | 277 | 220 | 41 | 5 | 2 | 8 | $0.28 |
+| Batch 13 (47 articles) | 28 | 17 | 8 | 0 | 2 | 1 | $0.03 |
+
+- **The canonical index matters.** With only BM25's ten neighbours, the model called a support-fading progression
+  `new` because Scaffolding and Fading was not among them.
+- **Batch 13 wrote no principle or pattern page.** Before the ledger it would have written 28. Of the 13 claims its
+  attachments proposed, the verifier kept 4. No cluster has a second source yet.
+- **Backlog clusters reported for promotion:**
+  - Hall (1978) with Hall & Rutherford (1983): stages of concern;
+  - Murray & Rosanbalm (2017): adults in self-regulation interventions;
+  - Bue (1979) with Chorianopoulos (2018). This join looks loose, so whoever promotes it must judge it first.

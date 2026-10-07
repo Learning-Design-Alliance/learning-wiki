@@ -49,6 +49,7 @@ The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Comp
 - [Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning](krashen-monitor-model-five-hypotheses.md)
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
 - [Larsen-Freeman's tri-part grammatical framework: form, meaning, and pragmatics](tripart-grammar-framework-form-meaning-pragmatics.md)
+- [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
 

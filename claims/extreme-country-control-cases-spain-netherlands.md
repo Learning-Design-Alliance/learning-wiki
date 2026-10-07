@@ -66,3 +66,4 @@ Descriptive finding from Table 2 of the TALIS 2013 analysis: the Netherlands sco
 - [Country classifications of control type differ sharply by domain: mixed control dominates assessment, internal control dominates curriculum](control-type-classification-counts-by-domain.md) — related
 - [Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control](control-score-distributions-vary-by-domain.md) — related
 - [A few countries follow relatively pure accountability logics, but most countries follow mixed forms](most-countries-follow-mixed-accountability-logics.md) — a broader claim this one bears on
+- [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related

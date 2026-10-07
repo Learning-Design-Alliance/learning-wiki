@@ -48,3 +48,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
+- [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related

@@ -47,3 +47,4 @@ Authors' overall evaluation in the Conclusions of a single implementation of the
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — a broader claim this one bears on
 - [Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion](telelecture-seminar-enjoyed-by-graduate-students.md) — related
+- [Goal attainment was low, and child development goals were accomplished at a higher rate than adult centered goals](low-goal-attainment-child-goals-higher-rate.md) — related

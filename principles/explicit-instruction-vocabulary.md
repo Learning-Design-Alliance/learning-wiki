@@ -29,7 +29,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (19 for, 3 mixed, 1 against) · 31 studies (11 quant-synthesis, 9 causal, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 31 report an effect size · 13 claims rest on one study
+> **Evidence** · 24 claims (20 for, 3 mixed, 1 against) · 32 studies (11 quant-synthesis, 10 causal, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 32 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](../claims/l1-glosses-improve-immediate-vocabulary-recall.md) [+M] — one study of 135 Taiwanese undergraduates; bears on first-language glosses for second-language learners
 - [Morphological Instruction Improves Literacy](../claims/morphological-instruction-improves-literacy.md) [+M] — the same two syntheses as the vocabulary claim, on literacy outcomes
 - [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](../claims/math-vocabulary-levels-improve-post-test.md) [+W] — one class of 40 grade 8 students, pre–post without a comparison group, in a mathematical-communication intervention; bears on disciplinary vocabulary only weakly
+- [The concept model of vocabulary instruction produced larger gains in content-area vocabulary test performance than the definition/sentence-writing model for all six middle school students with learning disabilities](../claims/concept-model-beats-definition-model-vocabulary-ld.md) [+W] — attached 2026-10-07 from Fore III et al. (2007), which proposed "Teach content-area vocabulary to students with learning disabilities through explicit concept-model instruction rather than definition-only methods"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

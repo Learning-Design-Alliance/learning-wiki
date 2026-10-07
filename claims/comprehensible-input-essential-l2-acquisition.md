@@ -52,3 +52,4 @@ Theoretical exposition of Krashen's Input Hypothesis within the article's review
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — a narrower finding that bears on this claim
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
+- [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — related

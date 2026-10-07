@@ -50,4 +50,4 @@ The article operationalizes reflection quality as a three-level ordinal scale mo
 -
 
 ## Key Sources
-- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning
+- Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)

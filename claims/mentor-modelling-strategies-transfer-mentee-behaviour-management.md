@@ -49,3 +49,4 @@ Conclusion of the qualitative case study, drawing on lesson observations, interv
 - [Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning](mentor-program-concepts-support-student-teacher-learning.md) — a broader claim this one bears on
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
+- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](mentor-modeling-shapes-novice-advocacy-beliefs.md) — related

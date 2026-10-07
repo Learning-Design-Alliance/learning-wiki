@@ -44,6 +44,7 @@ The developmental interdependence hypothesis is the paper's central explanatory 
 ## Related Theories
 
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
+- [Cummins' theoretical framework relating language proficiency to academic achievement via threshold and interdependence hypotheses](cummins-framework-language-proficiency-academic-achievement.md)
 
 ## Examples
 -

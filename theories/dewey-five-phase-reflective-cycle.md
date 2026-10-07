@@ -48,6 +48,7 @@ The paper describes Dewey's (1933) account of disciplined, problem-centered refl
 - [Experiential Learning Theory](experiential-learning-theory.md)
 - [Mead's theory of the social origin of reflective consciousness](mead-social-origin-of-reflective-consciousness.md)
 - [Pragmatism and Progressivism (Educational Philosophy)](pragmatism-and-progressivism-educational-philosophy.md)
+- [Dewey's theory of inquiry: reflection as the instrument that resolves problematic situations](dewey-theory-of-inquiry-instrumentalism.md)
 
 ## Examples
 

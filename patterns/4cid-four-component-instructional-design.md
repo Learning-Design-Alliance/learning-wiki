@@ -20,7 +20,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (4 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 11 studies (5 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 11 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -67,6 +67,8 @@ Do not combine these into a predicted effect for the whole pattern. They differ 
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Every claim this page cited before the rewrite has been read against the model and appears above, so none is listed here.
+- [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](../claims/osce-advantage-4cid-not-significant.md) [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training"; tests this page's relationship.
+- [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](../claims/no-knowledge-difference-lecture-vs-4cid-consent-training.md) [~W] — attached 2026-10-07 from Khan Abdus Salam et al. (2025), which proposed "Blend efficient lectures with structured 4C/ID-based workshops and role-play for consent-taking training".
 
 ## Illustrative design instance and observation record
 

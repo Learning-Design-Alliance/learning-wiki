@@ -61,10 +61,12 @@ Fluency in basic facts is a well-documented predictor of later mathematics achie
 6. **Space across days.** Distribute sessions daily over weeks rather than massing them, exploiting the spacing effect for retention.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice.md) — the general mechanism drills instantiate; facts are a special case of retrieval targets
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling principle that makes drill sessions durable
 - [Incremental Rehearsal](incremental-rehearsal.md) — the high-success variant for struggling learners
 - [Cover-Copy-Compare](cover-copy-compare.md) — a self-managed, untimed alternative
+- [Use CRA-based small-group math tutoring with scripts, manipulatives, and computer fact practice as secondary prevention](cra-small-group-math-tutoring-secondary-prevention.md)
 
 ## Examples
 - **[Reflex Math](https://www.reflexmath.com)** — adaptive game-based fact fluency software that individualizes fact sets and uses fluency milestones rather than class speed rankings.

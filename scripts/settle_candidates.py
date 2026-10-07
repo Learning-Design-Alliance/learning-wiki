@@ -110,7 +110,8 @@ Outcomes:
 For "attach" only, judge each of the candidate's claims against THAT page: "bears" (is the claim directly
 about the page's practice or idea?), "marker" (+ supports the page, ~ depends on conditions, - counts against
 it; then S/M/W from the claim's evidence line, e.g. "+W"), and "tests" (does the claim test the page's central
-relationship, as opposed to illustrating it?).
+relationship, as opposed to illustrating it?). A null, non-significant or "no difference" result is never "+":
+it is "~" (the relationship did not show here) or "-" (it counts against the page).
 Reply: {{"outcome": "...", "n": <number or letter or null>, "why": "one sentence",
  "claims": [{{"k": <claim number>, "bears": true, "marker": "+W", "tests": false}}]}}"""
 
@@ -215,9 +216,15 @@ class Similar:
 # ---------------------------------------------------------------- deciding
 
 def short_source(cand: dict) -> str:
+    """'Surname et al. (2025)' from the citation, else the article title."""
     cit = cand.get("citation") or ""
-    m = re.match(r"(.{0,80}?\(\d{4}[a-z]?\))", cit)
-    return m.group(1) if m else (cand.get("article_title") or cand["article_id"])[:90]
+    m = re.match(r"\s*(.+?)\.?\s*\((\d{4}[a-z]?)\)", cit)
+    if not m or len(m.group(1)) > 300:
+        return (cand.get("article_title") or cand["article_id"])[:90]
+    authors, year = m.group(1), m.group(2)
+    first = re.split(r",|&| and ", authors)[0].strip()
+    several = bool(re.search(r"&| and |,.*,", authors)) or authors.count(",") > 1
+    return f"{first}{' et al.' if several else ''} ({year})"
 
 
 def canon_neighbours(db, cand: dict, canon: set, k: int = 10) -> list:
@@ -294,6 +301,49 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
             return {**out, "outcome": "new", "why": f"{d.get('why')} (join named no listed candidate: {n!r})"}
         out["with"] = open_rows[idx]["id"]
     return out
+
+
+def verify_attachments(decs: list, cands: dict, model: str, concurrency: int) -> None:
+    """A second read of every claim an `attach` decision would write, with
+    link_pages' verifier: the deciding call judges fit and direction for all of a
+    candidate's claims at once, and on batch 13 it attached null results as `+`
+    and learning-style subgroup results to cognitive-load management. Only claims
+    the verifier keeps, with the direction confirmed, are written; the rest are
+    kept on the decision as `rejected`, so the record shows what was refused."""
+    from scripts.eval import openrouter_client as oc
+    from scripts.eval.jsonutil import extract_json
+    key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
+    pages = lp.all_pages()
+
+    def one(dec, a):
+        page = dec["target"]
+        prec = lp.record(page, pages[page])
+        crec = lp.record(f"claims/{a['claim']}", WIKI_ROOT / "claims" / f"{a['claim']}.md")
+        sub = next((l for l in (WIKI_ROOT / "claims" / f"{a['claim']}.md").read_text(encoding="utf-8").split("\n")
+                    if re.match(r"^`q[\d?]", l)), "")
+        prompt = lp.VERIFY_PROMPT.format(
+            kind=lp.KIND[prec["folder"]], ptitle=prec["title"],
+            pdesc=(prec["description"] + " " + lp._desc_section(pages[page]))[:900],
+            ctitle=crec["title"], cevidence="Evidence: " + (crec["evidence"] or "none recorded"),
+            csub=("Subclaim: " + sub[:300]) if sub else "", marker=a["marker"],
+            direction={"+": "supports the page", "~": "depends on conditions",
+                       "-": "counts against the page"}[a["marker"][0]])
+        gen = oc.generate(model, lp.SYSTEM, prompt, key, max_tokens=800)
+        d = extract_json(gen.raw_text)
+        return bool(d.get("keep")) and bool(d.get("direction_ok")), d.get("why"), gen.cost_usd
+
+    jobs = [(d, a) for d in decs if d["outcome"] == "attach" for a in d.get("claims") or []]
+    with concurrent.futures.ThreadPoolExecutor(concurrency) as ex:
+        results = list(ex.map(lambda j: one(*j), jobs))
+    for (d, a), (keep, why, cost) in zip(jobs, results):
+        d["cost_usd"] = (d.get("cost_usd") or 0) + (cost or 0)
+        a["verifier"] = why
+        if not keep:
+            d.setdefault("rejected", []).append(a)
+    for d in decs:
+        if d.get("rejected"):
+            d["claims"] = [a for a in d["claims"] if a not in d["rejected"]]
+    print(f"verified {len(jobs)} attachment(s): kept {len(jobs) - sum(len(d.get('rejected') or []) for d in decs)}")
 
 
 def settle(cands: list, open_pool: list, model: str, concurrency: int) -> list:
@@ -499,6 +549,7 @@ def main() -> None:
     pool = [c for i, c in cands.items() if decisions.get(i, {}).get("outcome") not in cl.SETTLED]
     print(f"settling {len(todo)} open candidate(s){'' if args.apply else ' (dry run)'}")
     decs = settle(todo, pool, args.model, args.concurrency)
+    verify_attachments(decs, cands, args.model, args.concurrency)
     stats = collections.Counter(d["outcome"] for d in decs)
     print(f"outcomes: {dict(stats)}; cost ${sum(d.get('cost_usd') or 0 for d in decs):.3f}")
     for d in decs:

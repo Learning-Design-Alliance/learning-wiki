@@ -52,6 +52,7 @@ Krashen's Monitor Model divides classroom activities into acquisition activities
 - [Labov's monitor model: monitoring as attention paid to speech form on a continuum](labov-monitor-model-attention-continuum.md)
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — the canonical page for this theory
 - [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
+- [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
 

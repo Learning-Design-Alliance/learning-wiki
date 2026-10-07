@@ -57,8 +57,10 @@ CRA manages the transition from embodied understanding to symbolic fluency, redu
 5. **Check for representational flexibility**: ask students to explain a symbolic step using a drawing or material to verify the concept, not just the procedure, transferred
 
 ## Related Strategies
+
 - Concreteness fading — the general principle CRA instantiates; research supports fading across mathematics and science domains
 - Multiple representations — CRA is a specific, ordered case of teaching with linked representations
+- [Use CRA-based small-group math tutoring with scripts, manipulatives, and computer fact practice as secondary prevention](cra-small-group-math-tutoring-secondary-prevention.md)
 
 ## Patterns That Use This Strategy
 - [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds from children's informal, concrete problem-solving strategies toward symbolic procedures

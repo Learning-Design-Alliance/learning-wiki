@@ -52,3 +52,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — a broader claim this one bears on
 - [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — a broader claim this one bears on
+- [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related

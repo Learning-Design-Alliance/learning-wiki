@@ -66,6 +66,7 @@ Help-seeking is a core component of [Self-Regulated Learning](../theories/self-r
 - Peer tutoring structures — institutionalize help-seeking between students
 - Mastery-oriented grading — removes the performance cost of admitting confusion
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
+- [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 
 ## Examples
 - **Carnegie Learning's MATHia (Cognitive Tutor)** — implements an on-demand hint system with sequenced hints and a Help-Seeking tutor that coaches students on *when and how* to request help, based on Aleven and Koedinger's research (https://www.carnegielearning.com).

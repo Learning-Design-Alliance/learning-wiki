@@ -47,6 +47,7 @@ The article's central explanatory framework is skill acquisition theory, which i
 - [Metacognitive knowledge framework: knowledge of cognition divided into declarative, procedural, and conditional knowledge](metacognitive-knowledge-declarative-procedural-conditional.md)
 - [Declarative/procedural (D/P) model of L2 morphological learning](dp-model-regular-irregular-past-tense-memory-systems.md)
 - [Skill acquisition theory in second language learning](skill-acquisition-theory-second-language.md) — the canonical page for this theory
+- [Skill acquisition theory account of written CF effects: declarative knowledge proceduralized into implicit knowledge through repeated practice](skill-acquisition-theory-cf-account.md)
 
 ## Examples
 -

@@ -51,9 +51,20 @@ def entries(new_only: bool = False):
     pages = clb.claim_pages()
     for r in clb.ranking(pages):
         _, units = clb.units(pages[r["claim"]])
+        # units() strips the kind span before hashing, so "has it a kind yet" must be
+        # read from the page itself. Read from the block, every entry looked new, and
+        # only the ignored decision cache kept --new from re-coding the corpus: in a
+        # fresh container (batch 13, 2026-10-07) it re-coded 3,400 entries and reset
+        # rigour to r? wherever it had no text of the study.
+        coded = set()
+        if new_only:
+            ev = okf_lib.get_section(pages[r["claim"]].read_text(encoding="utf-8"), "Evidence") or ""
+            for part in re.split(r"(?m)^(?=### )", ev):
+                if part.startswith("### ") and KR_SPAN.search(part):
+                    coded.add(okf_lib.slugify(part.split("\n", 1)[0][4:].strip()))
         for anchor, block, _ in units:
             codes = okf_lib.parse_evidence_codes(block)
-            if "q" not in codes or (new_only and "kind" in codes):
+            if "q" not in codes or (new_only and anchor in coded):
                 continue
             hit = clb.cached_article(block, r["articles"])
             if hit:

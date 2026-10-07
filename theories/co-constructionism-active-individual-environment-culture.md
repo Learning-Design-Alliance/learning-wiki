@@ -50,6 +50,7 @@ The article reports Cole and Wertsch's (1996) argument that researchers overfocu
 - [Social constructionism as the basis for collaborative writing instruction](social-constructionism-in-composition.md)
 - [OSP's two pedagogical approaches: guided inquiry and constructionism](osp-guided-inquiry-and-constructionism.md)
 - [Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction](vygotsky-sociocultural-theory-overview.md)
+- [Design-Based Implementation Research (DBIR) as an approach for co-developing differentiated instruction practice](dbir-approach-differentiated-instruction.md)
 
 ## Examples
 

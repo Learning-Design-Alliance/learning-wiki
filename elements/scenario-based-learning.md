@@ -53,8 +53,10 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Problem-Based Learning (PBL)](../patterns/problem-based-learning.md)
 
 ## Examples
+
 - Learners respond to a client brief with incomplete information and evolving constraints.
 - A safety training module requires decisions inside a realistic workplace scenario.
+- [Cognitive performance training embedded in operational scenarios under fatigue](../strategies/cognitive-training-embedded-operational-scenarios.md)
 
 ## Key Sources
 - Clark, R. C. (2013). *Scenario-based e-learning*. Pfeiffer.

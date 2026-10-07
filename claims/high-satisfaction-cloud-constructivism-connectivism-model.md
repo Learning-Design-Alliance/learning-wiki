@@ -46,3 +46,4 @@ A one-shot case study evaluated satisfaction of 60 undergraduates recruited by s
 - [Students in the cloud-based constructivism and connectivism model created 21 educational innovations, four accepted for academic publication](students-create-21-educational-innovations.md) — related
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
 - [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related

@@ -60,9 +60,11 @@ Facilitation works because it supports learners' basic psychological needs for a
 6. Close each cycle with synthesis and corrective feedback, ensuring misconceptions surfaced during student-led work are addressed.
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — frees class time for the facilitation-driven activity that defines this stance
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the primary vehicle through which facilitation is enacted
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer structures that let the instructor step back without leaving learners unsupported
+- [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](tutor-coenactment-fading-dynamical-scaffold.md)
 
 ## Examples
 - **Learner-centered teaching (Weimer, 2013)** — a framework in which the instructor progressively transfers responsibility for content, assessment, and course policies to students across a semester.

@@ -45,6 +45,7 @@ CTT (True Score Theory) describes an observed score as composed of a true score 
 - [Many-Facet Rasch Model (MFRM)](mfrm-many-facet-rasch-model-ilhan-2018.md)
 - [Three classical test theory decision consistency estimation methods differing in assumptions and complexity](ctt-decision-consistency-methods-taxonomy.md)
 - [Cosine similarity framework for item and test parameters under classical test theory](cosine-similarity-item-test-parameter-framework.md)
+- [Item Response Theory as a framework for scale development](irt-framework-scale-development.md)
 
 ## Examples
 

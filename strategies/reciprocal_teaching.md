@@ -64,6 +64,7 @@ Reciprocal Teaching works because it combines explicit strategy instruction with
 - [Jigsaw](../strategies/jigsaw.md) — an alternative cooperative structure that distributes responsibility for content
 - [Question-Answer Relationships](../strategies/question-answer-relationships.md) — a complementary strategy for teaching students where answers live in a text
 - [Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff](student-led-rotating-discussion-leader-groups.md)
+- [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](tutor-coenactment-fading-dynamical-scaffold.md)
 
 ## Examples
 - **Palincsar & Brown (1984)** — seventh-grade poor comprehenders improved from roughly 30% to 70–80% on comprehension assessments after ~20 sessions of reciprocal teaching dialogue.

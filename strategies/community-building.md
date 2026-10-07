@@ -62,6 +62,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Check-In](../strategies/whats_my_emotion_game_check-in.md) — routine low-stakes openings that sustain relational contact
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](cooperative-learning-group-work-recommendation.md)
+- [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

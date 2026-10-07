@@ -45,6 +45,7 @@ The article uses Paivio's dual coding theory (DCT) to explain why video plus nar
 ## Related Theories
 
 - [Dual coding theory: parallel verbal and nonverbal representation systems as an alternative to schema theory](dual-coding-verbal-nonverbal-alternative.md)
+- [Dual coding theory (Paivio) as an account of visual facilitation of L2 lexical knowledge](dual-coding-theory-l2-lexical-application.md)
 
 ## Examples
 

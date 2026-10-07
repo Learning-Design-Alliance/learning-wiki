@@ -47,3 +47,4 @@ Eye-tracking findings for the central-object scene: five of 12 participants (41.
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
+- [Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location](eye-tracking-confirms-attentional-anchor-shift.md) — related

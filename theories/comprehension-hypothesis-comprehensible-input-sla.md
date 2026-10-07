@@ -46,6 +46,7 @@ The Comprehension Hypothesis (CH) states that language is acquired when learners
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](../claims/single-novel-reading-incidental-vocabulary-gains.md) [+W]
 
 ## Related Theories
+
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — the canonical page for this theory
 
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md)
@@ -54,6 +55,7 @@ The Comprehension Hypothesis (CH) states that language is acquired when learners
 - [Long's interaction hypothesis](long-interaction-hypothesis.md)
 - [Swain's Comprehensible Output Hypothesis with a circular input-output-intake model](comprehensible-output-hypothesis-liming-account.md)
 - [Swain's output hypothesis](swain-output-hypothesis.md)
+- [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
 -

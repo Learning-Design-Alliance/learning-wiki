@@ -83,3 +83,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
 - [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim

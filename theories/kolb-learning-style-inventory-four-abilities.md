@@ -44,6 +44,7 @@ Kolb's Learning Style Inventory, derived from experiential learning theory, meas
 
 - [Kolb's four-stage experiential learning model and its four learning style categories](kolb-four-stage-experiential-learning-model.md)
 - [Experiential Learning Theory](experiential-learning-theory.md)
+- [Kolb's experiential learning cycle and four learning styles](kolb-experiential-learning-cycle-styles.md)
 
 ## Examples
 

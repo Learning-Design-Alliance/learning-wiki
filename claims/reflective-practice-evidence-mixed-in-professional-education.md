@@ -70,3 +70,5 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Novice and expert information seekers pursue different information goals, producing different outcomes on the same task](information-goals-differ-novice-expert.md) — related
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
+- [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
+- [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](reflective-methods-overanalysis-limits.md) — related

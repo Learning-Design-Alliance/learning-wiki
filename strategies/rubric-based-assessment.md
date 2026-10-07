@@ -59,9 +59,11 @@ Rubrics make quality criteria visible, converting tacit evaluative standards int
 6. Fade rubric detail as learners gain expertise, moving toward learner-generated criteria [Fading support promotes transfer of responsibility from teacher to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — rubrics supply the criteria that make formative feedback actionable
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — rubrics operationalize proficiency levels for competency decisions
 - [Self-Assessment](../elements/self-assessment.md) — rubrics are the primary tool learners use to evaluate their own work
+- [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](assess-disruption-reclamation-adaptability.md)
 
 ## Examples
 - **[Exemplars](https://www.exemplars.com)** — publishes performance tasks with rubrics and annotated student work samples, used in K–12 mathematics and science to make quality criteria concrete.

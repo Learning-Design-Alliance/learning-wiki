@@ -124,6 +124,39 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-07 — batches no longer write principle or pattern pages; a candidate ledger decides; batch 13
+
+- **Ingest writes each extracted principle or pattern to `eval/candidates/candidates.ndjson`, not as a page**
+  (`candidates_lib.py`; the README there has the process). Batches had written 430 principles and 232 patterns,
+  one page per article in that article's words, and the conversion waves spent much of their effort folding them
+  back in. **`settle_candidates.py --apply` runs in every batch** after linking. It does three things:
+  - **Decides each candidate** against the whole canonical index (the triage's canonical pages plus every converted
+    page), as `attach`, `join`, `new`, `design` or `drop`.
+  - **Writes an `attach`'s claims** under the canonical page's `## Further evidence, not yet read against this
+    model`. Only the claims `link_pages.py`'s verifier keeps are written, and markers are capped.
+  - **Reports clusters for promotion**: two independent sources, or one synthesis at q3 or above. Promotion and
+    model updates stay with agents, as in the waves, and every page they write must pass
+    **`scripts/check_design_page.py`**, the waves' checks as a script.
+
+  `--direct-pages` restores the old behaviour. **Do not re-enable it in the batch.**
+- **Batch 13** (47 articles fetched): 44 ingested and 3 rejected, adding 309 pages and **no principle or pattern
+  page**. Its 28 candidates settled as 17 attach, 8 new, 2 design and 1 drop. Only 4 of the 13 claims proposed for
+  attachment passed the verifier: it refused null results tagged `+` and learning-style subgroups attached to
+  cognitive-load management. **Backlog dry run** (`--backlog`, 277 non-canonical batch pages, writes nothing): 220
+  would attach, 41 are new. Folding them is the maintainer's call.
+- **`code_kind_rigour.py --new` re-coded the whole corpus in a fresh container**, resetting rigour to `r?` on about
+  2,000 claims wherever it had no text of the study.
+  - **Cause:** it read "has a kind" from a block `units()` had already stripped of its kind span, so every entry
+    looked new. Only the ignored decision cache had hidden this.
+  - **Fix:** it now reads the span from the page. The 2,485 entries were restored from the committed text, and the
+    batch's 158 new entries were coded properly.
+  - **A step whose correctness depends on an ignored cache is a bug.** Check a fresh-container batch's claim diff
+    before committing.
+- **ERIC discovery asks for 25 results per topic** and takes the topic's share. Asking for 2 per topic across 1,400
+  wiki topics had cost about 290 queries for 45 articles.
+- **A fresh container needs `pip install -r requirements-eval.txt`** before a batch. Without pypdf, 45 of 50 PDFs
+  failed to fetch.
+
 ### 2026-10-05 (late night) — conversion wave 7: the first wave below the core; "no claim here" is not "no research"
 
 - **Fifteen principles converted** (`eval/page-triage/wave-7.md`), each with 3–5 inbound links: sequencing, social

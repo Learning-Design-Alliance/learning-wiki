@@ -58,10 +58,12 @@ Spacing produces substantially better long-term retention than massed study of t
 5. Make the schedule visible to learners and explain why spacing feels harder but works better, to counteract the preference for cramming.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice.md) — the active component that makes each spaced encounter effective
 - [Interleaving](interleaving.md) — mixes item types within and across sessions; combines with spacing for large retention gains
 - [Cumulative Review](cumulative-review.md) — a course-level way of institutionalizing spacing
 - [Cramming](cramming.md) — the massed alternative; useful for immediate performance but poor for retention
+- [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source spaced-repetition system using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual learning.

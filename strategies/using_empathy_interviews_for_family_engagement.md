@@ -72,6 +72,8 @@ Empathy interviews work because they position families as experts on their own e
 - [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](empathy-interview-conduct-practices.md)
 - [Have students interview study-abroad returnees to learn about living abroad first hand](guest-speaker-interviews-returnees.md)
 - [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
+- [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
+- [Use sentence completion interviews to elicit learner concerns and generate group themes](sentence-completion-interviews-theme-generation.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the opening move that establishes psychological safety

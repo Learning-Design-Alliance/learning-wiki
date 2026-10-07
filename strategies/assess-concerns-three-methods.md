@@ -40,7 +40,8 @@ The paper describes three practical ways to determine individuals' or groups' co
 - [Stages Of Concern Seven Stage Taxonomy](../theories/stages-of-concern-seven-stage-taxonomy.md)
 
 ## Related Strategies
-- 
+
+- [Use sentence completion interviews to elicit learner concerns and generate group themes](sentence-completion-interviews-theme-generation.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Cross-sectional questionnaire study of 75 parents/caregivers of children with au
 - [Parents more often report initial difficulty accepting AAC than continued difficulty after time has passed](aac-acceptance-difficulty-declines-over-time.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) — related
+- [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related

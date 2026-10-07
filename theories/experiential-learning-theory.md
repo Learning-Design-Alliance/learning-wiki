@@ -52,6 +52,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module](kolb-elt-cycle-engineering-module-basis.md)
 - [Experiential learning: students develop opinions of a concept through interaction with information](dewey-experiential-learning-vr.md)
 - [Dewey's five-phase reflective cycle of thought](dewey-five-phase-reflective-cycle.md)
+- [Kolb's experiential learning cycle and four learning styles](kolb-experiential-learning-cycle-styles.md)
 
 ## Examples
 

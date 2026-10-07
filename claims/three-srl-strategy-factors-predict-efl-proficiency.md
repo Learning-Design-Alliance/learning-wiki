@@ -48,3 +48,4 @@ Multiple regression on MSLQ learning-strategy factors from 97 Japanese universit
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
+- [Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance)](teacher-ratings-outpredict-language-tests.md) — related

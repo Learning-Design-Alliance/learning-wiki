@@ -61,9 +61,11 @@ Low-stakes writing works because it decouples writing practice from evaluation a
 5. Occasionally escalate: select strong low-stakes pieces as seeds for formal, graded writing, making the pathway from informal to polished writing explicit.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — quick writes are a common vehicle for surfacing what students already know before new instruction
 - [Formative Assessment](../patterns/formative-assessment.md) — exit tickets and quick writes give the teacher actionable evidence without a graded test
 - [Active Learning](../principles/active-learning.md) — low-stakes writing is one of the most logistically simple ways to make every student generate ideas during class
+- [Use freewriting as a private, ungraded warm-up to unlock ideas and release tension](freewriting-private-ungraded-warmup.md)
 
 ## Examples
 - **University Park Campus School (Worcester, MA)** — a school-wide strategy in every subject; daily writing built the voice and confidence that underpinned the school's college-preparatory results for a high-poverty student body.

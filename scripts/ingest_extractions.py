@@ -16,6 +16,11 @@ Pattern's Sequence/Personalization, a Strategy's Instructions) is left as
 the same blank `- ` placeholder bullet CLAUDE.md's own templates use for an
 unfilled section — never invented content.
 
+Principles and patterns are not written as pages (2026-10-07): each goes to the
+candidate ledger, eval/candidates/candidates.ndjson, and settle_candidates.py
+decides what it becomes (candidates_lib.py has the why). --direct-pages restores
+the old behaviour.
+
 Only creates NEW pages. If a contribution's slug collides with an existing
 wiki page, it's skipped with a warning rather than attempted as an automated
 merge — CLAUDE.md's "never delete content on update" merge step needs real

@@ -47,11 +47,14 @@ The packet explains that "Cummins divides language proficiency into two dimensio
 - [BICS/CALP distinction: conversational and academic language proficiency as conceptually distinct dimensions with different developmental patterns](bics-calp-distinction.md)
 - [Common underlying proficiency (CUP): interdependence of L1 and L2 academic language proficiency](common-underlying-proficiency-cup.md)
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)
+- [Cummins' BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency, developmental along two continuums](bics-calph-two-dimensions-proficiency-framework.md)
+- [Cummins' theoretical framework relating language proficiency to academic achievement via threshold and interdependence hypotheses](cummins-framework-language-proficiency-academic-achievement.md)
 
 ## Examples
 
 - [Instruction promoting bilingual students' CALP should integrate cognitive challenge, academic content, and critical language awareness](../principles/calp-instruction-three-components.md)
 - [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](../patterns/functional-approach-bics-to-calp-progression.md)
+- [Functional Approach model: a five-step progression taking students from BICS (oral dialogue) to CALP (written discourse)](../elements/functional-approach-oral-dialogue-to-written-discourse-model.md)
 
 ## Key Sources
 - Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607

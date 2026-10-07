@@ -46,6 +46,7 @@ Andragogy, the art and science of leading and educating adults, is the study's o
 
 - [Self-directed learning as a five-step process learners control themselves](self-directed-learning-five-step-process.md)
 - [Three-dimension framework distinguishing self-initiated learning, self-direction as personal attribute, and self-direction as educational goal](sdl-three-dimensions-framework.md)
+- [Andragogy: Knowles' framework of assumptions about adult learning, distinct from pedagogy](knowles-andragogy-assumptions-framework.md)
 
 ## Examples
 

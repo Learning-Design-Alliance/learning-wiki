@@ -86,3 +86,5 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — the broader claim that reducing extraneous load, including transcription effort, benefits learning
 - [Clear structure improves learning.](clear-structure-improves-learning.md) — structured, explicit instruction is a common ingredient across handwriting intervention types
 - [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — related
+- [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
+- [Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners](letter-writing-automaticity-marginal-spelling-not-word-reading.md) — related

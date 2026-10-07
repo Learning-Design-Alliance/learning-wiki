@@ -44,6 +44,7 @@ The paper adopts Gombert's (1992) account in which children pass from an initial
 ## Related Theories
 
 - [Metacognition](metacognition.md)
+- [Affordance-based assessment framework: linguistic ability as emergent property of organism-environment interaction](affordance-based-language-assessment-framework.md)
 
 ## Examples
 

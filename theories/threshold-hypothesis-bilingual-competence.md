@@ -43,6 +43,7 @@ The threshold hypothesis holds that there are threshold levels of linguistic com
 ## Related Theories
 
 - [Linguistic Threshold Hypothesis versus Linguistic Interdependence Hypothesis for ELL reading comprehension](linguistic-threshold-vs-interdependence-hypotheses.md)
+- [Cummins' theoretical framework relating language proficiency to academic achievement via threshold and interdependence hypotheses](cummins-framework-language-proficiency-academic-achievement.md)
 
 ## Examples
 -

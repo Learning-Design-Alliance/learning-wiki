@@ -48,3 +48,4 @@ Facilitator subtheme; trainees described head nurses assigning health education 
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
 - [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](transfer-extends-to-specialty-development-roles.md) — related
+- [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related

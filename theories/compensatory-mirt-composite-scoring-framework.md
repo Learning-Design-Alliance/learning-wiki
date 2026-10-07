@@ -43,6 +43,7 @@ The article presents compensatory multidimensional IRT (MIRT), estimated via the
 ## Related Theories
 
 - [Composite transformation framework for MIRT equating: orthogonal procrustes rotation, translation, and single dilation](mirt-composite-transformation-framework.md)
+- [Item Response Theory as a framework for scale development](irt-framework-scale-development.md)
 
 ## Examples
 -

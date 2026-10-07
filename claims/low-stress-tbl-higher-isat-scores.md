@@ -51,3 +51,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-perceived-effectiveness.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance](tbl-team-dynamics-no-format-differences.md) — related
+- [Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring](assessment-plans-outcome-based-dominant.md) — related

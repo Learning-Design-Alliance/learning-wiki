@@ -46,6 +46,7 @@ The essay presents dual coding (Sadoski, Paivio, & Goetz, 1991) as an alternativ
 - [Dual Coding Theory](dual-coding-theory.md)
 - [Mental models as a situational alternative to schema theory for comprehending novel situations and texts](mental-models-situational-alternative.md)
 - [Schema theory as a theory of knowledge: networks of a superordinate concept with supporting information that interface with incoming information](schema-theory-knowledge-networks.md)
+- [Dual coding theory (Paivio) as an account of visual facilitation of L2 lexical knowledge](dual-coding-theory-l2-lexical-application.md)
 
 ## Examples
 

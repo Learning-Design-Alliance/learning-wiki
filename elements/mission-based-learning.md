@@ -69,10 +69,12 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 - [Anchored Instruction](../patterns/anchored-instruction.md) — missions anchor learning in a rich, realistic context (e.g., The Jasper Woodbury Problem Solving series)
 
 ## Examples
+
 - **[Goal-Based Scenarios](../patterns/goal-based-scenarios.md)** — Schank's design pattern: learners take on a role (e.g., journalist, diagnostician) and must accomplish a mission, with failure treated as diagnostic feedback rather than penalty.
 - **[Jasper Woodbury Problem Solving Project](https://peabody.vanderbilt.edu/departments/teachingandlearning/research/jasper_project.php)** — Vanderbilt's video-based adventure series in which students plan rescue missions requiring integrated mathematics and science reasoning.
 - **Duolingo** — gamified missions (daily goals, streaks, unit challenges) that structure language practice as bounded, goal-oriented challenges.
 - **Sales/business simulations (e.g., [Capsim](https://www.capsim.com), Harvard Business Publishing simulations)** — learners run a company or negotiate a deal under constraints, with market outcomes serving as mission feedback.
+- [Cognitive performance training embedded in operational scenarios under fatigue](../strategies/cognitive-training-embedded-operational-scenarios.md)
 
 ## Key Sources
 - Schank, R. C., Fano, A., Bell, B., & Jona, M. (1993/1994). The design of goal-based scenarios. *Journal of the Learning Sciences, 3*(4), 305–345. [doi:10.1207/s15327809jls0304_1](https://doi.org/10.1207/s15327809jls0304_1)

@@ -45,6 +45,7 @@ The report issues a set of dated recommendations directed at educators, administ
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 - [Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons](teacher-professional-development-srl-strategies.md)
+- [Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools](early-staff-preparation-digital-competency-training.md)
 
 ## Examples
 -

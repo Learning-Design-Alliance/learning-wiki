@@ -57,9 +57,11 @@ Icebreakers work by accelerating the interpersonal familiarity that would otherw
 4. Debrief into the first substantive task, and plan recurring low-stakes interaction ([check-in](../elements/check-in.md), [think-pair-share](../elements/class-discussion.md)) so the initial connection is maintained.
 
 ## Related Strategies
+
 - [Check-in](../elements/check-in.md) — the recurring, lighter-weight descendant of the icebreaker; sustains what a one-off icebreaker starts
 - [Class Discussion](../elements/class-discussion.md) — icebreakers establish the participation norms discussion depends on
 - [Team-building](cooperative-learning.md) — extended activities for groups who will collaborate over a term
+- [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
 
 ## Examples
 - **Content-linked first-day pairs:** in an introductory statistics course, pairs interview each other about "a decision you made using data," then report the partner's answer — building familiarity while surfacing prior conceptions of statistics.

@@ -60,9 +60,11 @@ Perspective-taking does not reliably emerge from exposure to diverse material al
 6. Debrief: have learners step out of role, reflect on what was difficult or surprising, and connect to the broader concept ([Whole-Class Sharing](../elements/whole-class-sharing.md)).
 
 ## Related Strategies
+
 - [Structured Academic Controversy](../strategies/structured_academic_controversy.md) — a formalized sequence for arguing both sides of an issue
 - [Role-Play](../strategies/acting-role-play.md) — embodied perspective adoption
 - [Socratic Seminar](../strategies/socratic_seminar.md) — text-based discussion that surfaces interpretive differences
+- [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core delivery format

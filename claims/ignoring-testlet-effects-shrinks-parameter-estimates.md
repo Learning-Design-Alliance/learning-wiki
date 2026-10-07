@@ -50,3 +50,4 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
 - [Applying a MIRT model to unidimensional data yields larger difficulty-parameter error but smaller first-dimension discrimination error than multidimensional data](mirt-recovers-unidimensional-parameters.md) — related
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
+- [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related

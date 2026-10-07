@@ -71,3 +71,4 @@ Meta-analysis of 33 primary studies of corrective feedback in second language ac
 - [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](time-treatment-interaction-corrective-feedback.md) — a broader claim this one bears on
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a broader claim this one bears on
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — reports the opposite
+- [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of implicit L2 knowledge.](cf-type-implicit-long-term-benefits.md) — related

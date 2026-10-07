@@ -48,3 +48,4 @@ Correlational analysis (Table 4) of the 210-learner survey identified the four h
 - [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — related
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](ten-motivation-subfactors-correlate-self-efficacy.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related
+- [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](motivation-associated-better-pronunciation-outcomes.md) — related

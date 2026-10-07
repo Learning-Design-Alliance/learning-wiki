@@ -39,6 +39,7 @@ The review recommends that future MALL research explore teachers' and learners' 
 ## Related Strategies
 
 - [Prioritize research on app design quality, user behaviour, appsmashing, normalization, and attainment outcomes](mall-app-research-agenda-rosell-aguilar.md)
+- [Integrate pronunciation-focused technology such as language learning apps and mobile-assisted pronunciation training into the CLT curriculum](technology-integrated-pronunciation-practice.md)
 
 ## Examples
 -

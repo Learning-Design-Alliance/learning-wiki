@@ -61,7 +61,9 @@ Error is one of the most information-rich events in learning, but only when it i
 5. Periodically analyze errors as a class — treat a representative mistake as a puzzle the group solves together, converting individual error into shared instruction
 
 ## Related Strategies
+
 - Related pages on error analysis, revision policies, and growth-mindset framing complement this strategy; see [Check-Ins](../elements/check-in.md) for surfacing confusion early.
+- [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 
 ## Examples
 - **"Mistake of the Week" bulletin board** — an anonymized student error is posted; the class discusses what the reasoning reveals and how to fix it, positioning the error as instructive rather than shameful.

@@ -57,9 +57,11 @@ Distributed practice is one of the most robust findings in learning science: acr
 6. Tell learners explicitly that spaced retrieval feels harder but works better, to counteract the fluency illusion.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice.md) — the activity that fills the spaced sessions; spacing and retrieval combine multiplicatively
 - [Interleaved Practice](interleaved-practice.md) — a within-session complement that mixes problem types across spaced reviews
 - [Cumulative Review](cumulative-review.md) — curriculum-level mechanism for guaranteeing spacing without learner self-management
+- [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core activity being distributed

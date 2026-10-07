@@ -56,8 +56,10 @@ The framework works because it replaces exhaustive, page-internal evaluation wit
 4. **Trace to the original.** Follow quotes, figures, and media upstream to their original context — via citation-chasing, reverse image search, or archival links — and check whether the original supports the framing. Verbalizing why a source passed or failed each move strengthens the evaluative schema [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 ## Related Strategies
+
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — complementary framework emphasizing how to locate authoritative sources rather than vet a given one
 - [3-Source Rule](3-source_rule.md) — a corroboration heuristic that operationalizes the "find better coverage" move
+- [Use Mozilla's four basic web literacies to frame open learning for personal development](mozilla-four-web-literacies.md)
 
 ## Examples
 - **[Web Literacy for Student Fact-Checkers](https://webliteracy.pressbooks.com/)** — Caulfield's open textbook, the canonical statement of the four moves, with worked demonstrations of each technique

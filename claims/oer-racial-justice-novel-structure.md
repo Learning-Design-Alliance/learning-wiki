@@ -42,3 +42,4 @@ Case study of a design process engaging 13 districts, with one core district co-
 
 ## Related Claims
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](maker-cohort-amplifier-case.md) — related
+- [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — related

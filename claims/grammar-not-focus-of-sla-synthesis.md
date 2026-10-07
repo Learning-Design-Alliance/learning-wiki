@@ -49,3 +49,4 @@ Qualitative comparative analysis of SLA theories and teaching methods, reported 
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
 - [Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence](metaphoric-competence-central-to-language-use.md) — related
+- [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — related

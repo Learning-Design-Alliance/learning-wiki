@@ -15,6 +15,8 @@ sources:
     author: "Khiat, H., & Vogel, S."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
   - id: khiat-2022-2
     resource: "https://doi.org/10.53761/1.19.2.4"
     title: "Khiat, H., & Vogel, S. (2022). A self-regulated learning management system: Enhancing performance, motivation and reflection in learning. Journal of University Teaching & Learning Practice, 19(2), 43-59. https://doi.org/10.53761/1.19.2.4"
@@ -28,7 +30,7 @@ sources:
 # Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i2`–`i3`
 
 ## Subclaims
 `q2 i3` System users spent significantly more time in the system per month than non-users (dCohen = 0.809). [→ Khiat 2022](#khiat-2022)
@@ -40,7 +42,7 @@ sources:
 
 Khiat, H., & Vogel, S. (2022). A self-regulated learning management system: Enhancing performance, motivation and reflection in learning. Journal of University Teaching & Learning Practice, 19(2), 43-59. https://doi.org/10.53761/1.19.2.4
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Mann–Whitney U comparison of time spent on learning resources per month between the 76 intervention and 79 control students, used as a motivational indicator. The test "was significant with U = 1698.000, p = 0.000 < 0.05 and dCohen = 0. 809", an effect size of dCohen = 0.809.
 

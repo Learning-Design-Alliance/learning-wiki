@@ -69,3 +69,5 @@ The author argues that ignoring acquisition-rate differences caused premature ex
 - [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related
 - [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
+- [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — related
+- [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — related

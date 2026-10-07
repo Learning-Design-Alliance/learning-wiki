@@ -49,3 +49,4 @@ The one entry is a single class at Maui Community College: six scorers, six team
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
 - [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
+- [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related

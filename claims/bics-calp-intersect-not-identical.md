@@ -49,3 +49,5 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 - [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — related
 - [The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes](cognitive-model-omits-social-aspect-of-writing.md) — related
 - [Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time](reading-difficulty-excluded-aspect-extended-time.md) — related
+- [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — related
+- [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — reports the opposite

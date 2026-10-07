@@ -46,3 +46,4 @@ Illustrated in Figure 2, contrasting the course of improvement of expert perform
 - [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](no-heritability-extrapolation-to-expert-performance.md) — related
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-effect.md) — related
 - [Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants](experts-show-emotionality-and-responsibility.md) — related
+- [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related

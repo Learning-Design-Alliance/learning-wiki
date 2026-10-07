@@ -48,3 +48,5 @@ Item-level survey results on AAC knowledge and perceived general suitability. "A
 - [Parents of children with autism using AAC commonly report perceived benefits, most frequently increased communication opportunities](parents-report-high-perceived-aac-benefits-nablus.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) — related
+- [Many children with communication needs who require AAC lack access to appropriate supports, and embedding AAC interventions in the classroom is challenging](aac-classroom-access-barriers-challenge.md) — related
+- [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related

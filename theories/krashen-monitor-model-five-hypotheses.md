@@ -56,6 +56,7 @@ The article presents Krashen's theory of second language acquisition as an expla
 - [Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics](sla-three-theory-comparison-framework.md)
 - [Two-faces framework: language acquisition as distinct mental representation and skill components](two-faces-sla-representation-and-skill-framework.md)
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — the canonical page for this theory
+- [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
 -

@@ -44,6 +44,10 @@ The handbook defines collaborative approaches to adult learning as participatory
 - [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](../claims/group-membership-alone-does-not-produce-cooperation.md) [~W]
 - [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](../claims/teacher-questions-low-bloom-levels-cooperative-dialogue.md) [~W]
 
+## Related Theories
+
+- [Collaborative learning in adult literacy is defined by nine interlocking characteristics](collaborative-learning-nine-characteristics-adult-literacy.md)
+
 ## Related Patterns
 - 
 

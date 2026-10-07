@@ -53,12 +53,14 @@ The packet operationalizes Cummins's and Canale & Swain's theories using Steve K
 - [Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics](sla-three-theory-comparison-framework.md)
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — the canonical page for this theory
 - [The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition](comprehension-hypothesis-comprehensible-input-sla.md)
+- [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
 
 - [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/dual-teacher-role-acquisition-and-learning.md)
 - [Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition](../strategies/process-writing-natural-settings-facilitate-acquisition.md)
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/comprehensible-input-communicative-reading-activities.md)
+- [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
 
 ## Key Sources
 - Calderon, Margarita; And Others. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Language Proficiency Acquisition, Assessment, and Communicative Behavior, Series B. Student Edition. Bilingual Education Teacher Training Packets. https://eric.ed.gov/?id=ED226607
