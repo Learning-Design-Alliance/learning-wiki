@@ -1,18 +1,24 @@
 ---
 type: principle
 id: community-based-learning
+aliases: [weave-diversity-into-community-based-learning]
 title: Community-Based Learning
 description: "For a learner whose coursework stays school-internal, giving the work a real role in a community is associated with civic attitudes, self-reported growth and deeper reflection when the work is tied to course concepts, reflection is structured and relationships are supported; no claim here tests its effect on content learning."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-02
+sources:
+  - id: stokamer-2013
+    resource: "https://www.proquest.com/docview/3468983"
+    title: "Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983"
+    author: Stokamer, S
 ---
 
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 13 studies (3 causal, 3 review, 2 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 3 of 13 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 13 studies (3 causal, 3 review, 2 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 3 of 13 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -64,6 +70,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Diversity Enhances All Civic Competence Outcomes](../claims/diversity-enhances-all-civic-competence-outcomes.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -98,6 +105,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - Eyler, J., & Giles, D. E. (1999). *Where's the learning in service-learning?* Jossey-Bass.
 - Bringle, R. G., & Hatcher, J. A. (1995). A service-learning curriculum for faculty. *Michigan Journal of Community Service Learning, 2*(1), 112-122.
 - Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object across school and out-of-school contexts: A case of entrepreneurship education. *Journal of the Learning Sciences, 30*(3), 401-432. [https://doi.org/10.1080/10508406.2021.1908296](https://doi.org/10.1080/10508406.2021.1908296)
+- Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -144,4 +152,42 @@ Community-based learning is strongest when learners are not only consuming conte
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — learners often need responsive support to participate productively in complex real-world settings
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — reflection and progress tracking strengthen the learning value of community participation
 - [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [~W] — a single case study found that without disciplinary framing, a boundary-crossing community project converged on the most tractable shared meaning (e.g., "making money") rather than its intended broader goal
+-->
+
+<!-- merged 2026-10-07 from principles/weave-diversity-into-community-based-learning ("Weave exploration of diversity into all types of community-based learning, which was associated with higher civic competence outcomes"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Weave exploration of diversity into all types of community-based learning, which was associated with higher civic competence outcomes
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Because exploration of diversity was associated with all civic competence outcomes and showed one of the strongest correlations with the construct (r = .552) in this observational survey study, the article recommends that "diversity should be creatively woven into all types of community-based learning to enhance civic competence." It further argues critical pedagogy is necessary to create space for dialogue around issues of privilege and difference and to challenge systems of oppression.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Faculty willing to delve into topics of diversity and social justice, and institutional support for doing so
+#### Constraints
+- The supporting evidence is correlational course-evaluation data from one university, so the recommendation rests on association rather than demonstrated causation
+- The article warns that without this, institutions risk reinforcing the systems of oppression that community-based learning could otherwise help dismantle
+
+### Target Learners
+- undergraduate students in community-based learning courses
+
+### Target Learning Objectives
+- civic competence for participation in a pluralistic democracy and social justice
+
+### Claims
+- [Diversity Enhances All Civic Competence Outcomes](../claims/diversity-enhances-all-civic-competence-outcomes.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Stokamer, S. (2013). Pedagogical Catalysts of Civic Competence: The Development of a Critical Epistemological Model for Community-Based Learning. Journal of Higher Education Outreach and Engagement, 17(1). https://www.proquest.com/docview/3468983
 -->

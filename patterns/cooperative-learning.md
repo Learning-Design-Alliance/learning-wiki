@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: cooperative-learning
+aliases: [jigsaw-structures-adult-learners]
 title: Cooperative Learning
 description: "A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity."
 status: review
@@ -9,12 +10,21 @@ generated:
   at: 2026-10-01
 author: "Johnson & Johnson; Kagan"
 grain_size: lesson, unit
+sources:
+  - id: rood-1998
+    resource: "https://eric.ed.gov/?id=ED427216"
+    title: "Rood, M. E. (1998). Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98. Luzerne County Community College. https://eric.ed.gov/?id=ED427216"
+    author: Rood, M. E
+  - id: benedetti-r-2011
+    resource: "https://www.sif.it"
+    title: "Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it"
+    author: Benedetti R., Mariotti E., Montalbano V., Porri A
 ---
 
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (8 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 7 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 14 studies (10 quant-synthesis, 2 causal, 1 review, 1 design), `q1`–`q4` · 8 of 14 report an effect size · 3 claims rest on one study
 
 ## Description and scope
 
@@ -64,6 +74,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S] — partly checked: 1 of 2 entries pass, the rest could not be confirmed (abstract)
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](../claims/cooperation-versus-individualistic-effort-outcomes.md) [+W]
+- [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M]
+- [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
 
 ## Illustrative design instance and observation record
 
@@ -82,7 +95,6 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Collaborative Learning](collaborative-learning.md) — the broader category; cooperative learning is its most structured and best-evidenced form
 - [Discussion-Based Learning](discussion-based-learning.md) — shares the mechanism of peer explanation, but at whole-class scale without built-in individual accountability
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — complementary: peer coaching within cooperative teams can enact the coaching and articulation phases
-- [Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members](jigsaw-structures-adult-learners.md)
 
 ## Examples
 
@@ -93,6 +105,12 @@ This pattern is scoped to small-group work where each member's individual learni
 **Peer Instruction (Mazur, Harvard physics):** Students answer individually, convince a neighbor, then answer again — individual accountability plus peer explanation in a large lecture. See [https://peerinstruction.mit.edu](https://peerinstruction.mit.edu).
 
 **PALS (Peer-Assisted Learning Strategies):** Structured reciprocal peer tutoring pairs in reading and math, with role switching and point systems; extensively validated in elementary classrooms.
+- [Cooperative Learning Activities for Adult Learners manual with instructor-contributed scripts and handouts](../elements/cooperative-learning-activities-adult-learners-manual.md)
+- [Jigsaw Method](../strategies/jigsaw_method.md)
+- [Jigsaw Classroom](../strategies/jigsaw-classroom.md)
+- [Jigsaw](../strategies/jigsaw.md)
+- [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
@@ -100,6 +118,8 @@ This pattern is scoped to small-group work where each member's individual learni
 - Slavin, R. E. (1996). Research on cooperative learning and achievement: What we know, what we need to know. *Contemporary Educational Psychology, 21*(1), 43–69. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
 - Kagan, S. (1994). *Cooperative learning*. Kagan Publishing.
 - Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.
+- Rood, M. E. (1998). Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98. Luzerne County Community College. https://eric.ed.gov/?id=ED427216
+- Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the earlier body is kept verbatim below.
 
@@ -186,4 +206,93 @@ Lesson to unit — a single cooperative activity can run 15–40 minutes; longer
 
 **High-achieving students:** Assign the role of questioner rather than answer-giver; explaining through questioning produces deeper elaboration than simply supplying solutions.
 
+-->
+
+<!-- merged 2026-10-07 from patterns/jigsaw-structures-adult-learners ("Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The manual's activities are built on two jigsaw variants. In Within Team Jigsaw, "adult learners within home teams master material to be shared with the team": each student works independently to master material, then shares it with teammates in a Roundrobin. In Expert Jigsaw, individuals become experts on a particular topic in expert teams and then return to home teams to share their knowledge to complete a new assignment. The manual states that jigsaw structures ensure the instructor can create a positively interdependent team with individually accountable team members, for each team member has a task to complete and the team is dependent on that individual's task completion.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Each team member must have a task to complete on which the team depends; roles such as reader, recorder, and encourager are assigned and explained by the instructor
+#### Constraints
+- 
+
+### Target Learners
+- Adult learners in ABE, GED preparation, and ESL programs
+
+### Target Goals
+- Content mastery in reading, writing, mathematics, and ESL through interdependent team work
+
+### Claims
+
+- [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](../claims/cooperation-versus-individualistic-effort-outcomes.md) [+W]
+
+## Related Patterns
+
+- [Cooperative Learning](cooperative-learning.md)
+
+## Examples
+
+- [Cooperative Learning Activities for Adult Learners manual with instructor-contributed scripts and handouts](../elements/cooperative-learning-activities-adult-learners-manual.md)
+- [Jigsaw Method](../strategies/jigsaw_method.md)
+- [Jigsaw Classroom](../strategies/jigsaw-classroom.md)
+- [Jigsaw](../strategies/jigsaw.md)
+
+## Key Sources
+- Rood, M. E. (1998). Cooperative Learning Staff Development. Final Report. Fiscal Year 1997-98. Luzerne County Community College. https://eric.ed.gov/?id=ED427216
+-->
+
+<!-- merged 2026-10-07 from principles/laboratories-satisfying-cooperative-learning-conditions ("Design laboratories to satisfy all five cooperative-learning conditions"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design laboratories to satisfy all five cooperative-learning conditions
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (3 quant-synthesis), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+
+## Description
+The authors organize laboratory work so that "cooperative learning is implemented", and report that "all requests for achieving a cooperative learning are satisfied (Curseo 1992, Johnson 1999), such as positive interdependence, individual accountability, face-to-face promotive interaction, social skills and group processing." Groups are deliberately inhomogeneous and formed following teachers' suggestions to promote the best collaboration.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Groups should be inhomogeneous and formed following teachers' suggestions to promote collaboration
+- Each group must prepare a brief presentation describing to other students what it learned in lab
+#### Constraints
+- 
+
+### Target Learners
+- high-school students working in small mixed-school groups
+
+### Target Learning Objectives
+- cooperative laboratory investigation
+- sharing achieved results
+
+### Claims
+
+- [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M]
+- [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
+- [Small-group learning improves undergraduate STEM achievement](../claims/small-group-learning-improves-stem-achievement.md) [+M]
+
+## Related Principles
+
+- [Cooperative Learning](../principles/cooperative-learning.md)
+- [Engage students with paradoxes and puzzles before presenting theory](../principles/paradox-puzzle-before-theory-lecture.md)
+
+## Examples
+
+- [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
+- [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](../designs/full-immersion-lecture-lab-day-structure.md)
+
+## Key Sources
+- Benedetti R., Mariotti E., Montalbano V., Porri A. (2011). Active and cooperative learning paths in the Pigelleto's Summer School of Physics. FFP12, Udine. https://www.sif.it
 -->

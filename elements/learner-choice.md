@@ -20,7 +20,7 @@ Learner choice is the element in which learners are given meaningful options abo
 ## Design Implications
 
 ### Affordances
-- [Learner Choice](../principles/learner-choice.md)
+- [Learner Choice](../principles/autonomy.md)
 - [Self-Determination Theory](../theories/self-determination-theory.md)
 
 ### Claims

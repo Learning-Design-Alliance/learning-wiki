@@ -1,7 +1,7 @@
 ---
 type: principle
 id: competency-based-assessment
-aliases: [competency-based-learning-assessment]
+aliases: [competency-based-learning-assessment, performance-based-teacher-certification-assessment]
 title: Competency-Based Assessment
 description: "Scoring a learner's response on a task that represents the intended capability against explicit criteria and a stated threshold, by consistent assessors, is expected to support better teaching, progression and certification decisions than a rank or seat time, though no claim here tests that comparison and assessor agreement is not guaranteed."
 status: review
@@ -13,12 +13,16 @@ sources:
     resource: "https://doi.org/10.1002/jee.20180"
     title: "Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638"
     author: "Henri, M., Johnson, M. D., & Nepal, B"
+  - id: national-board-for-professional-teaching-standards-national-teacher-certification-and-a-performance-based-assessment-system-2000
+    resource: "https://eric.ed.gov/"
+    title: "National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/"
+    author: "National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System"
 ---
 
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (3 for, 6 mixed, 1 against) · 13 studies (4 causal, 3 theoretical, 2 review, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 13 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (4 for, 6 mixed, 1 against) · 14 studies (4 causal, 3 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 14 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -75,6 +79,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M] — not yet checked against its sources
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -94,6 +99,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — credible demonstrations often involve products or performances for real stakeholders
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — competency systems need visible progress and next-step clarity
 - [Guided Practice](guided-practice.md) — repeated coached attempts are often necessary before a valid mastery judgment
+- [NBPTS Five Core Propositions for Accomplished Teaching](../theories/nbpts-five-core-propositions.md)
 
 ## Examples
 
@@ -104,12 +110,14 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
 - [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
 - Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
+- [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.
 - Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638. [doi:10.1002/jee.20180](https://doi.org/10.1002/jee.20180)
 - Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460.
 - Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
+- National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -238,4 +246,44 @@ Competency-based learning and assessment are strongest when mastery is defined a
 - Henri, M., Johnson, M. D., & Nepal, B. (2017). A review of competency-based learning: Tools, assessments, and recommendations. *Journal of Engineering Education, 106*(4), 607-638. [doi:10.1002/jee.20180](https://doi.org/10.1002/jee.20180)
 - Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460.
 - Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
+-->
+
+<!-- merged 2026-10-07 from principles/performance-based-teacher-certification-assessment ("Performance-based assessment should anchor advanced teacher certification"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Performance-based assessment should anchor advanced teacher certification
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The digest states that "From the beginning, the National Board has been committed to developing an assessment that is performance-based that also serves as a professional development" experience, contrasting with state licensure that merely indicates a licensee has satisfied minimum entry-level requirements. Certification of advanced teaching expertise should therefore rest on demonstrated performance of teaching practice, including classroom artifacts, videotaped instruction, and student work, rather than on tests of knowledge alone, so that what is certified is what teachers can actually do with students.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Advanced certification assessments must include direct performance evidence of teaching practice, such as portfolios, videotaped instruction, and student work samples, rather than relying solely on examinations of declarative knowledge.
+#### Constraints
+- 
+
+### Target Learners
+- experienced teachers seeking advanced certification
+
+### Target Learning Objectives
+- demonstrate advanced teaching expertise through authentic performance evidence
+
+### Claims
+
+- [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
+
+## Related Principles
+
+- [NBPTS Five Core Propositions for Accomplished Teaching](../theories/nbpts-five-core-propositions.md)
+
+## Examples
+
+- [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
+
+## Key Sources
+- National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
 -->

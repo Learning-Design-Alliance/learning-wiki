@@ -1,18 +1,24 @@
 ---
 type: principle
 id: flipped-learning
+aliases: [multimedia-modules-for-pre-lecture-preparation]
 title: Flipped Learning
 description: "For learners who can follow a topic's first explanation on their own, moving that first exposure before the live session and spending the freed time on application with feedback is expected to give better course outcomes than spending live time on the same exposition, provided learners prepare and the home time is not simply added; no claim here compares a flipped course with the same course unflipped."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: stelzer-2008
+    resource: "https://arxiv.org/abs/0806.0405"
+    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405"
+    author: Stelzer, Gladding, Mestre, and Brookes
 ---
 
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (8 for, 11 mixed) · 21 studies (7 causal, 6 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 8 of 21 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (9 for, 11 mixed) · 21 studies (7 causal, 6 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 8 of 21 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +123,7 @@ Claims found while writing this page, from the same study as a core claim or on 
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W] — a review reporting one large study of engagement with MOOC videos on one platform; bears on how pre-class video is made, measures engagement rather than learning, and gives no length.
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M] — studies reported second-hand in a review chapter; supports the opening check as quizzing, not as a check on preparation.
 - [Most active learning comparison studies differ on more than one course feature, limiting attribution of effects to single features](../claims/most-comparisons-differ-on-multiple-features.md) [~M] — same review as the home-time claim; a flipped redesign usually changes several features at once, so a gain cannot be credited to the flip alone.
+- [Mlm Retention Advantage Two Weeks](../claims/mlm-retention-advantage-two-weeks.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -154,6 +161,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 ## Key Sources
 - Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom. In *ASEE National Conference Proceedings*. [doi:10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.
+- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -220,4 +228,43 @@ Flipped learning is most valuable when synchronous time is scarce and worth pres
 - Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom. In *ASEE National Conference Proceedings*. [doi:10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.
 
+-->
+
+<!-- merged 2026-10-07 from principles/multimedia-modules-for-pre-lecture-preparation ("Use multimedia learning modules as pre-lecture preparation for introductory physics instead of textbook reading assignments"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Use multimedia learning modules as pre-lecture preparation for introductory physics instead of textbook reading assignments
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends assigning web-based multimedia learning modules, designed according to multimedia learning principles, as the pre-lecture exposure that lecture-based active learning requires. The authors conclude that "multimedia learning modules represent a viable, and more easily enforceable alternative means of pre-lecture preparation for introductory physics students". Modules can embed assessments and carry course credit, making completion monitorable in a way textbook reading is not, and their study showed large learning and retention advantages over textbook presentations.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Modules should be designed on multimedia learning principles (dual channels, minimal extraneous load, embedded assessments) and credit assigned for viewing and embedded-assessment performance
+#### Constraints
+- Evidence comes from one randomized study of 45 volunteers at a single institution covering the first two weeks of E&M; the article notes no prior university-level research compared multimedia to textbook learning
+
+### Target Learners
+- undergraduate students in large-enrollment introductory physics courses
+
+### Target Learning Objectives
+- basic content knowledge and retention of introductory electricity and magnetism concepts prior to lecture
+
+### Claims
+- Mlm Outperforms Textbook Post Lesson Assessments [+M]
+- [Mlm Retention Advantage Two Weeks](../claims/mlm-retention-advantage-two-weeks.md) [+M]
+- [Students Rarely Read Textbook](../claims/students-rarely-read-textbook.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
 -->

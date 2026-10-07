@@ -48,7 +48,7 @@ A graphic organizer in which concepts are represented as nodes and their relatio
 
 ## Related Elements
 
-- [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)
+- [Semantic Mapping Principle](../principles/graphic-organizers.md)
 - [Concept Mapping](concept-mapping.md)
 - [Concept Map](concept-map.md)
 

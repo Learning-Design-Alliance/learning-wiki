@@ -45,7 +45,7 @@ The article holds that in communicative activities the focus is not on particula
 
 ## Related Principles
 
-- [Reduce teacher talk time and improve its quality to give students adequate discussion time](reduce-teacher-talk-increase-student-talk.md)
+- [Reduce teacher talk time and improve its quality to give students adequate discussion time](talking-and-writing-means-to-learning.md)
 - [Create a relaxed, non-threatening atmosphere before engaging students in communicative activities](relaxed-atmosphere-communicative-activities.md)
 - [Teach writing based on reading so learners use meaningful input to accomplish output tasks](teach-writing-based-on-reading.md)
 

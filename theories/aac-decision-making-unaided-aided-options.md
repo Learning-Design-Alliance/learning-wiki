@@ -47,7 +47,7 @@ The article organizes AAC selection as a decision process across decision points
 
 ## Examples
 
-- [Assess children's AAC system preferences as part of the AAC decision-making process](../principles/assess-child-preference-in-aac-decision-making.md)
+- [Assess children's AAC system preferences as part of the AAC decision-making process](../principles/personalization.md)
 - [Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations](../principles/prefer-aided-systems-over-manual-signs.md)
 - [Communication Boards](../strategies/communication_boards.md)
 - [Pair AAC introduction with structured parent training, follow-up, and practical guidance for everyday routines](../strategies/structured-parent-training-and-follow-up-for-aac.md)

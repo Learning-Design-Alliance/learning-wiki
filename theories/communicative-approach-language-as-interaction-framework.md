@@ -51,7 +51,7 @@ The Communicative Approach treats language as "it is interpersonal activity and 
 
 ## Examples
 
-- [Combine communicative and traditional teaching methods rather than adopting either exclusively](../principles/combine-communicative-with-traditional-methods.md)
+- [Combine communicative and traditional teaching methods rather than adopting either exclusively](../principles/harmonize-opposites-in-educational-change.md)
 
 ## Key Sources
 - Yang Xu. (2010). Theories Analyzing Communicative Approach in China's EFL Classes. English Language Teaching, 3(1). https://eric.ed.gov/?id=EJ1081496

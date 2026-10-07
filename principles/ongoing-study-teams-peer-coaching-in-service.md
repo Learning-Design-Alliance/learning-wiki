@@ -1,6 +1,7 @@
 ---
 type: principle
 id: ongoing-study-teams-peer-coaching-in-service
+aliases: [literacy-coaches-job-embedded-support]
 title: Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 description: "Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning."
 status: draft
@@ -12,6 +13,10 @@ sources:
     resource: "https://eric.ed.gov/?id=ED449120"
     title: "Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120"
     author: Ferraro, Joan M
+  - id: comprehensive-early-literacy-policy-fundamental-principles-2024
+    resource: "https://www.excelined.org"
+    title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
+    author: "Comprehensive Early Literacy Policy: Fundamental Principles"
 ---
 
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
@@ -27,15 +32,20 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 ### Context
 #### Requirements
 - Activities in which teachers continuously examine their assumptions and practices
+- States must first establish the science of reading as the common language for literacy instruction through statewide training for K–4 teachers and elementary administrators.
 #### Constraints
 - 
 
 ### Target Learners
 - In-service teachers
+- K–3 classroom teachers
+- Elementary school administrators
 
 ### Target Learning Objectives
 - Continuous professional growth
 - Critical reflection on assumptions and practices
+- Teacher capacity to teach foundational reading skills
+- Evidence-based reading instruction
 
 ### Claims
 
@@ -45,6 +55,8 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 
 - [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
 - [Advocate for teachers' voices, purposeful change, and continued professional development](coach-advocates-for-teachers-purposeful-change.md)
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
+- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](test-based-retention-multiple-promotion-options.md)
 
 ## Examples
 
@@ -56,3 +68,45 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
+
+<!-- merged 2026-10-07 from principles/literacy-coaches-job-embedded-support ("Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Support teachers with ongoing job-embedded science-of-reading training through school-based literacy coaches
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The toolkit positions literacy coaches as "an important support mechanism for teachers in the classroom": site-based coaches "facilitate teacher training on evidence-based reading instruction and data-based decision making; demonstrate lessons; co-teach and/or observe teaching and provide immediate feedback." Coaches serve as a stable professional-development resource intended to build master teachers of reading schoolwide and improve student reading achievement.
+
+## Design Implications
+
+### Context
+#### Requirements
+- States must first establish the science of reading as the common language for literacy instruction through statewide training for K–4 teachers and elementary administrators.
+#### Constraints
+- 
+
+### Target Learners
+- K–3 classroom teachers
+- Elementary school administrators
+
+### Target Learning Objectives
+- Teacher capacity to teach foundational reading skills
+- Evidence-based reading instruction
+
+### Claims
+- 
+
+## Related Principles
+
+- [Adopt high-quality instructional materials aligned to the science of reading, accompanied by professional development](hqim-adoption-with-professional-development.md)
+- [Use test-based 3rd-grade retention with multiple promotion options and good cause exemptions](test-based-retention-multiple-promotion-options.md)
+
+## Examples
+-
+
+## Key Sources
+- Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
+-->

@@ -47,7 +47,7 @@ The fourth operationalization treats rhetorical competence as communal and ethic
 - [The basic course should teach canonicity — how communities standardize and enforce discourse — rather than the canon itself](teach-canonicity-not-canon.md)
 - [The basic course should teach rhetorics — multiple voices and how communities create public spheres — rather than a single rhetoric](teach-rhetorics-not-rhetoric.md)
 - [The basic course should teach how audiences learn to be persuaded, not just persuasive technique](teach-persuasive-standards-not-just-persuasive-skill.md)
-- [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](teach-rhetorical-choices-not-tools.md)
+- [The basic course should teach students to make strategic rhetorical choices rather than use a fixed set of rhetorical tools](rhetorical-skill-development.md)
 - [The basic course should use popular culture, not speech making, as the text through which students discern a community's rhetorical rules](teach-popular-culture-not-speech-making.md)
 
 ## Examples

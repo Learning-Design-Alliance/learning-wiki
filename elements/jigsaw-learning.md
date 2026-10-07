@@ -18,7 +18,7 @@ generated:
 Jigsaw learning is the short-form canonical target for the jigsaw-style distribution of expertise and peer teaching.
 
 ## Affordances
-- [Jigsaw Learning](../patterns/jigsaw-method.md)
+- [Jigsaw Learning](../patterns/fostering-communities-of-learning-fcl.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

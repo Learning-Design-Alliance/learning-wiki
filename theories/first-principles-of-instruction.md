@@ -67,8 +67,7 @@ The **problem-centered** principle further restructures the typical topic-by-top
 - [Demonstration](../elements/demonstration.md)
 - [Practice](../elements/practice.md)
 - [Worked Examples](../elements/worked-examples.md)
-- [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](../patterns/tell-show-do-distributed-across-whole-tasks.md)
-- [Task progression pattern: complete whole tasks of increasing complexity with limited new components](../patterns/whole-task-progression-increasing-complexity.md)
+- [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](../patterns/4cid-four-component-instructional-design.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/bf02505024](https://doi.org/10.1007/bf02505024)

@@ -1,18 +1,40 @@
 ---
 type: principle
 id: sequencing
+aliases: [articulate-partial-meanings-integral-planning, free-exploration-before-organized-plan-sequence, number-difficulty-impacts-mdc-construction, vicarious-before-mastery-teacher-development]
 title: Sequencing
 description: "For a novice on a target whose parts depend on each other, meeting the parts in an order that puts what a step rests on before it and moves from what the learner can process toward full complexity, revised from the learner's responses, is expected to improve performance on tasks that draw on the whole; no claim tests that general rule, and tests of particular orders (example or problem first, parts or whole first, blocked or mixed) favour different orders for different learners and goals."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-05
+sources:
+  - id: cheung-2010
+    resource: "https://eric.ed.gov/?id=ED512082"
+    title: "Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082"
+    author: Cheung, Yun Kul
+  - id: burgos-2021
+    resource: "https://doi.org/10.17583/redimat.2021.6778"
+    title: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
+    author: "Burgos, M., Bueno, S., Godino, J.D., & Pérez, O"
+  - id: zambo-1994
+    resource: "https://eric.ed.gov/?id=ED375005"
+    title: "Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005"
+    author: Zambo, Ron; Hess, Robert
+  - id: risley-2016
+    resource: "https://www.pmena.org/proceedings/"
+    title: "Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/"
+    author: "Risley, R., Hodkowski, N. M., & Tzur, R"
+  - id: mckim-2016
+    resource: "https://doi.org/10.5032/jae.2016.01073"
+    title: "McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073"
+    author: "McKim, A. J., & Velez, J. J"
 ---
 
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 21 studies (9 causal, 6 theoretical, 4 review, 2 quant-synthesis), `q1`–`q4` · 2 of 21 report an effect size · 15 claims rest on one study
+> **Evidence** · 31 claims (23 for, 8 mixed) · 26 studies (10 causal, 7 theoretical, 6 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 26 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +146,18 @@ Claims this page cited before it was rewritten, and claims found while rewriting
 - [The review reports that undergraduates in a fading condition performed significantly better than those in generic or concrete conditions](../claims/fading-condition-outperformed-generic-and-concrete.md) [+W] — concrete-to-abstract order ("concreteness fading"), reported second-hand from one experiment on abelian group properties; see [concrete–representational–abstract sequencing](../strategies/concrete-representational-abstract-sequencing.md).
 - [Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work](../claims/rule-example-sequence-efficient-rule-introduction.md) [+W] — rule, then example, then incomplete example; reported second-hand from 1960s programmed instruction, no data.
 - [PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships](../claims/paths-topical-sequencing-four-guidelines.md) [+W], [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W], [PATHS spiral sequencing treats basic emotions as prerequisites for complex emotions across four levels of complexity](../claims/paths-basic-to-complex-hierarchical-spiral-sequencing.md) [+W] and [Within-lesson sequencing in the PATHS Feelings and Relationships Unit proceeds from cognitive to behavioral to affective and from external to internal](../claims/paths-within-lesson-cognitive-to-affective-sequencing.md) [+W] — a document analysis of how one emotional-literacy curriculum orders its lessons; they describe an order, they do not test it.
+- [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
+- [Procedural Strong Conceptual Limited Integral](../claims/procedural-strong-conceptual-limited-integral.md) [+M]
+- [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](../claims/abusive-generalization-semiotic-conflicts.md) [+W]
+- [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](../claims/starbird-intuitive-integral-five-configurations.md) [+W]
+- [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](../claims/stewart-definition-prior-knowledge-demands.md) [+W]
+- [Females Benefit Free Exploration Then Plan](../claims/females-benefit-free-exploration-then-plan.md) [+M]
+- [Time By Group Interaction Problem Solving Plan](../claims/time-by-group-interaction-problem-solving-plan.md) [+M]
+- [Sld Anticipates Start But Not Stop In Mdc Hard Numbers](../claims/sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) [+M]
+- [Mdc Stop Anticipation Remains Prompt Dependent](../claims/mdc-stop-anticipation-remains-prompt-dependent.md) [+M]
+- [Vicarious Experiences Positive Teaching Efficacy](../claims/vicarious-experiences-positive-teaching-efficacy.md) [+M]
+- [Mastery Experiences Not Optimal Initially Preservice Efficacy](../claims/mastery-experiences-not-optimal-initially-preservice-efficacy.md) [+M]
+- [Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end](../claims/efficacy-dips-midpoint-student-teaching.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -152,9 +186,15 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - A statistics unit starts with interpreting distributions, then moves to sampling, and only later introduces inference once learners can reason about variation.
 - A carpentry course teaches tool setup and key subskills before asking learners to complete a full cabinet build, then integrates the pieces into a whole-task performance.
 - [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [Spiral curriculum](../elements/spiral-curriculum.md) and [Part-task practice](../elements/part-task-practice.md) are elements that carry an order; [Learning hierarchy task analysis](../methods/learning-hierarchy-task-analysis.md) is the method for mapping dependencies; [4C/ID](../patterns/4cid-four-component-instructional-design.md) sequences whole tasks.
+- [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
+- Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082
+- Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
+- Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
+- Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/
+- McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -193,4 +233,203 @@ Sequencing matters because the same content can feel coherent or overwhelming de
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
+-->
+
+<!-- merged 2026-10-07 from patterns/rivers-four-stages-teaching-listening ("Four-stage progression for teaching listening skills across proficiency levels"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Four-stage progression for teaching listening skills across proficiency levels
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The paper presents Rivers' (1981) four stages for teaching listening at elementary, intermediate and advanced levels: identification; identification and selection without retention; identification and guided selection with short-term retention; and identification, selection, and long-term retention. Each stage progressively adds demands, from holistic perception of sounds and phrases to demonstrating comprehension or recalling material after the listening experience is complete.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Stages are sequenced from perception toward active demonstration and long-term retention of comprehended material
+#### Constraints
+- 
+
+### Target Learners
+- EFL learners at elementary, intermediate, and advanced levels
+
+### Target Goals
+- Progressive development of listening comprehension and retention
+
+### Claims
+
+- [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
+
+## Related Patterns
+- 
+
+## Examples
+-
+
+## Key Sources
+- Cheung, Yun Kul. (2010). The Importance of Teaching Listening in the EFL Classroom. ERIC Classroom Teacher Guide. https://eric.ed.gov/?id=ED512082
+-->
+
+<!-- merged 2026-10-07 from principles/articulate-partial-meanings-integral-planning ("Plan integral instruction around the articulation of partial meanings, since the intuitive meaning alone is insufficient"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Plan integral instruction around the articulation of partial meanings, since the intuitive meaning alone is insufficient
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The article recommends that curricular planning treat the definite integral's partial meanings macroscopically and articulate them progressively. "The curricular planning of the integral study should consider this macroscopic perspective on the various partial meanings and their articulation as a strategy to promote the students' understanding and competence." The intuitive first meaning "alone is not enough for robust understanding of integrals", and teachers must be aware of the ontological and semiotic complexity of each meaning, even informal ones.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must be aware of the onto-semiotic complexity of each partial meaning before organizing teaching
+#### Constraints
+- Presenting the integral abruptly with all its generality can make conceptual understanding and justification of procedures difficult
+
+### Target Learners
+- high school and university calculus students
+
+### Target Learning Objectives
+- robust understanding of the definite integral and problem-solving competence
+
+### Claims
+
+- [Definite Integral Four Partial Meanings](../theories/definite-integral-four-partial-meanings.md) [+M]
+- [Procedural Strong Conceptual Limited Integral](../claims/procedural-strong-conceptual-limited-integral.md) [+M]
+- [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](../claims/abusive-generalization-semiotic-conflicts.md) [+W]
+- [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](../claims/starbird-intuitive-integral-five-configurations.md) [+W]
+- [Understanding Stewart's formal definition of the definite integral demands mobilizing a system of prior knowledge across a network of semiotic functions](../claims/stewart-definition-prior-knowledge-demands.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](../strategies/problem-situation-sequences-progressive-comprehension.md)
+
+## Key Sources
+- Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
+-->
+
+<!-- merged 2026-10-07 from principles/free-exploration-before-organized-plan-sequence ("Sequence free exploration of problem situations before organized plan-based analysis, especially for female learners"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Sequence free exploration of problem situations before organized plan-based analysis, especially for female learners
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article concludes that "females benefited from free exploration of problem situations followed by an organized exploration": learners should first attempt word problems on their own, then work them again within an explicit step-by-step problem-solving plan. The authors suggest this ordering "could be used to as a guide to conducting instruction that could help to mediate gender-related differences in problem solving ability." It derives from the disordinal interaction in which females gained with the plan second and lost when the plan was withheld.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Learners must have an initial unstructured encounter with the problems before the organized plan-based experience, matching the unformatted-to-formatted sequence.
+#### Constraints
+- The authors state the study's design "does not allow a direct analysis of the influence of the initial exploration of the problems on the second organized experience."
+
+### Target Learners
+- sixth-grade elementary mathematics students
+
+### Target Learning Objectives
+- solving routine mathematical word problems
+
+### Claims
+- [Females Benefit Free Exploration Then Plan](../claims/females-benefit-free-exploration-then-plan.md) [+M]
+- [Time By Group Interaction Problem Solving Plan](../claims/time-by-group-interaction-problem-solving-plan.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Zambo, Ron; Hess, Robert. (1994). The Gender Differential Effects of a Procedural Plan for Solving Mathematical Word Problems. ERIC. https://eric.ed.gov/?id=ED375005
+-->
+
+<!-- merged 2026-10-07 from principles/number-difficulty-impacts-mdc-construction ("In multiplicative task design, deliberately vary number difficulty because harder numbers that exceed available figural counters challenge the dual anticipation"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# In multiplicative task design, deliberately vary number difficulty because harder numbers that exceed available figural counters challenge the dual anticipation
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article's practical implication is that task design and sequencing should attend to number choice: with easy numbers a student's units properly regulate the coordinated count, while harder numbers disrupt it. The authors write that "the more difficult (5+n) numbers impact construction of mDC can be demonstrated," and that operating on harder numbers, when composite units and/or 1s exceed the fingers on one hand, is a challenging feat. Teachers should therefore sequence tasks so number difficulty is increased purposefully to target the stop anticipation.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Tasks must be sequenced so the teacher can observe whether the student's anticipation of start and stop holds as numbers grow beyond easily tracked ranges
+#### Constraints
+- The principle is grounded in one case study with one student; the authors frame it as a demonstration of what harder numbers can reveal, not a validated design rule
+
+### Target Learners
+- students with learning difficulties in mathematics transitioning from additive to multiplicative reasoning
+
+### Target Learning Objectives
+- constructing the multiplicative Double Counting scheme
+- anticipating start and stop points in coordinated counting
+
+### Claims
+- [Sld Anticipates Start But Not Stop In Mdc Hard Numbers](../claims/sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) [+M]
+- [Mdc Stop Anticipation Remains Prompt Dependent](../claims/mdc-stop-anticipation-remains-prompt-dependent.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Risley, R., Hodkowski, N. M., & Tzur, R. (2016). Devin's construction of a multiplicative double counting scheme: Dual anticipation of start and stop. Proceedings of the 38th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. https://www.pmena.org/proceedings/
+-->
+
+<!-- merged 2026-10-07 from principles/vicarious-before-mastery-teacher-development ("Sequence teacher development so vicarious experiences come before mastery experiences"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Sequence teacher development so vicarious experiences come before mastery experiences
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+This principle holds that agriculture teacher preparation programs should build preservice teachers' self-efficacy first through observation of others teaching, before requiring successful teaching performance itself. The authors recommend that "programs should consider shifting their initial focus from providing potential mastery experiences to initially providing vicarious experiences," because the synthesized studies suggest mastery experiences may not optimally raise efficacy early in preparation. Vicarious experience such as observing a first year teacher is expected to lay a foundation for later mastery opportunities like student teaching.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Vicarious experiences must precede mastery experiences in the developmental sequence
+- Observed models should be perceived as similar to the observer for maximum effect
+#### Constraints
+- The recommendation rests on a limited set of studies in agricultural education; peer teaching confounds mastery and vicarious experiences
+
+### Target Learners
+- preservice agriculture teachers
+
+### Target Learning Objectives
+- building teaching self-efficacy before independent teaching
+
+### Claims
+
+- [Vicarious Experiences Positive Teaching Efficacy](../claims/vicarious-experiences-positive-teaching-efficacy.md) [+M]
+- [Mastery Experiences Not Optimal Initially Preservice Efficacy](../claims/mastery-experiences-not-optimal-initially-preservice-efficacy.md) [+M]
+- [Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end](../claims/efficacy-dips-midpoint-student-teaching.md) [+W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073
 -->

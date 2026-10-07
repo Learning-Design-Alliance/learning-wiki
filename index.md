@@ -12,13 +12,13 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## Knowledge Types
 
-### [Principles](principles/index.md) (463)
+### [Principles](principles/index.md) (375)
 Research-backed design commitments: what to do and why.
 
 ### [Elements](elements/index.md) (762)
 Instructional building blocks — the components you compose into patterns.
 
-### [Patterns](patterns/index.md) (136)
+### [Patterns](patterns/index.md) (126)
 Reusable instructional designs at the lesson or unit level.
 
 ### [Designs](designs/index.md) (117)

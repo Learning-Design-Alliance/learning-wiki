@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cultural-life-experiences-connections
+aliases: [culturally-responsive-adult-curriculum]
 title: "Cultural & Life Experiences Connections"
 description: "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection."
 status: review
@@ -24,12 +25,16 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2026.2686084"
     title: "Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for \"Outward\" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. Journal of the Learning Sciences"
     author: "Higgs, J. M., Kaimana, M., & Isero, M"
+  - id: ellis-2012
+    resource: "http://www.historylearningsite.co.uk/Mexico_1968.htm"
+    title: "Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm"
+    author: Ellis, M. L
 ---
 
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 9 mixed) · 29 studies (9 causal, 7 qualitative, 4 quant-synthesis, 4 review, 3 design, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 29 report an effect size · 12 claims rest on one study
+> **Evidence** · 19 claims (10 for, 9 mixed) · 30 studies (9 causal, 7 qualitative, 4 quant-synthesis, 4 review, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 30 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +132,7 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](../claims/funds-of-knowledge-research-raises-teacher-expectations.md) [+W] — an ERIC digest's report of teacher change in the Tucson project, coded `q1`; bears on step 1 (learning learners' contexts) from the teacher's side, with no learner outcome.
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](../claims/home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) [+W] — the same digest, `q1`; says what household visits found, not what instruction built on it did.
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](../claims/mead-mother-tongue-status-affects-bilingual-learning.md) [~W] — a theoretical argument reported second-hand, `q1`; bears on accepting home language as a resource.
+- [Sharing Experiences Modifies Attitudes](../claims/sharing-experiences-modifies-attitudes.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -152,6 +158,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Community-Based Learning](community-based-learning.md) — giving coursework a real role in a community, one place where learners' experience can carry the work.
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — addressing a product to a real reader, often someone from the learner's own community.
 - [Self-Explanation](self-explanation.md) — the explanation prompt this page uses to make a connection the learner's own.
+- [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
 
 ## Examples
 - **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.
@@ -164,6 +171,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures*. National Academies Press. [https://doi.org/10.17226/24783](https://doi.org/10.17226/24783)
 - Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1585756](https://doi.org/10.1080/03057925.2019.1585756)
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)
+- Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -239,4 +247,45 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures*. National Academies Press. [https://doi.org/10.17226/24783](https://doi.org/10.17226/24783)
 - Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1585756](https://doi.org/10.1080/03057925.2019.1585756)
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)
+-->
+
+<!-- merged 2026-10-07 from principles/culturally-responsive-adult-curriculum ("Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Incorporate adult learners' cultural knowledge into curriculum to foster an inclusive, democratic learning environment
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article recommends that adult education curriculum be flexible and reflect the class description, allowing "growth, individuality, creativity and critical thinking." Because adult classrooms are situated within systems of power such as class, race, and gender, curriculum developers should "incorporate the cultural knowledge of adult learners so as not to marginalize them from the subject matter," fostering inclusion and democracy.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Curriculum flexible enough for a culturally diverse classroom environment
+- Educator-student connection that opens learning about students' cultural identity
+#### Constraints
+- The article frames this as a recommendation (attributed to Kubow, 2009) rather than a tested intervention
+
+### Target Learners
+- culturally diverse adult learners
+
+### Target Learning Objectives
+- inclusive participation
+- critical thinking
+- understanding across cultural identities
+
+### Claims
+- [Sharing Experiences Modifies Attitudes](../claims/sharing-experiences-modifies-attitudes.md) [+W]
+
+## Related Principles
+
+- [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
+
+## Examples
+-
+
+## Key Sources
+- Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
 -->

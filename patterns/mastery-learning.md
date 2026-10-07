@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: mastery-learning
+aliases: [mastery-learning-formative-corrective-cycle]
 title: Mastery Learning
 description: "A reusable gate-correct-recheck policy for cumulative units: elicit a criterion-referenced response, interpret a shortfall, give responsive correction and recheck on a parallel task before advancing, with time, attempts and the outcome horizon stated."
 status: review
@@ -12,6 +13,14 @@ sources:
     resource: "https://doi.org/10.3102/00346543060002265"
     title: "Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299"
     author: "Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L"
+  - id: bonczar-1983
+    resource: "https://eric.ed.gov/?id=ED238505"
+    title: "Bonczar, Thomas P., & Easton, John Q. (1983). The Effect of Mastery Learning on Student Achievement. https://eric.ed.gov/?id=ED238505"
+    author: "Bonczar, Thomas P., & Easton, John Q"
+  - id: guskey-1982
+    resource: "https://eric.ed.gov/?id=ED213702"
+    title: "Guskey, Thomas R., et al. (1982). The Effectiveness of Mastery Learning Strategies in Undergraduate Education Courses. Paper presented at the Annual Meeting of the American Educational Research Association, New York. https://eric.ed.gov/?id=ED213702"
+    author: Guskey, Thomas R., et al
 author: Bloom / mastery learning tradition
 grain_size: unit
 ---
@@ -19,7 +28,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 15 studies (6 quant-synthesis, 3 review, 2 causal, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 16 studies (6 quant-synthesis, 3 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 16 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -72,6 +81,8 @@ Do not combine these into one strength, rank the syntheses by effect labels whil
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](../claims/mastery-control-no-entry-differences.md) [~W]
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~W]
 
 ## Illustrative design instance and observation record
 
@@ -90,10 +101,15 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 
 ## Examples
 - A unit where learners receive targeted reteaching and then reassess until they meet the rubric threshold.
+- [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
+- [Mastery Learning](../strategies/mastery-learning.md)
+- [Use Mastery Learning](../strategies/use_mastery_learning.md)
 
 ## Key Sources
 - Bloom, B. S. (1971). Mastery learning. In J. H. Block (Ed.), *Mastery learning: Theory and practice*. Holt, Rinehart and Winston.
 - Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299. [https://doi.org/10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
+- Bonczar, Thomas P., & Easton, John Q. (1983). The Effect of Mastery Learning on Student Achievement. https://eric.ed.gov/?id=ED238505
+- Guskey, Thomas R., et al. (1982). The Effectiveness of Mastery Learning Strategies in Undergraduate Education Courses. Paper presented at the Annual Meeting of the American Educational Research Association, New York. https://eric.ed.gov/?id=ED213702
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The page's earlier body, kept verbatim:
 
@@ -150,4 +166,90 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 - [Mastery Learning](../principles/mastery-learning.md)
 - [Formative Assessment](../principles/formative-assessment.md)
 - [Competency-Based Learning & Assessment](../principles/competency-based-assessment.md)
+-->
+
+<!-- merged 2026-10-07 from patterns/mastery-learning-formative-corrective-cycle ("Mastery learning cycle of formative tests, correctives, and relearning"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Mastery learning cycle of formative tests, correctives, and relearning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+A lesson-level instructional pattern in which "Students take frequent \"formative tests\" to measure their learning progress" and these are "followed by correc-"tions and opportunities to relearn material not yet understood before new content is introduced. The City Colleges of Chicago implemented this pattern system-wide for over a decade: "What began as an experimental project on one campus developed into an" institution-wide approach. The pattern pairs assessment with corrective action rather than using tests only for grading.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Frequent formative tests that measure learning progress
+- Corrective activities and opportunities for students to relearn ideas and concepts they have not understood
+#### Constraints
+- 
+
+### Target Learners
+- full-time community college students at the City Colleges of Chicago
+
+### Target Goals
+- course achievement as measured by earned credit rates
+
+### Claims
+- [Mastery Learning Higher Earned Credit Rates](../claims/mastery-learning-higher-earned-credit-rates.md) [+M]
+
+## Related Patterns
+
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
+
+## Examples
+
+- [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
+
+## Key Sources
+- Bonczar, Thomas P., & Easton, John Q. (1983). The Effect of Mastery Learning on Student Achievement. https://eric.ed.gov/?id=ED238505
+-->
+
+<!-- merged 2026-10-07 from principles/superimpose-mastery-learning-on-lecture-courses ("Superimpose group-based mastery learning on traditional lecture-format courses with formative tests and corrective activities"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Superimpose group-based mastery learning on traditional lecture-format courses with formative tests and corrective activities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends the teacher-paced, group-based mastery model for postsecondary instruction because it can be added to existing lecture courses with minimal restructuring: "The teacher -paced,rgroug-based model canbe easily superimposed on thetraditional lecture4rimatactually affording little or no changein the way a course is taught." Instructors state objectives clearly, administer short formative tests with feedback after each unit, and require corrective work for students below the mastery criterion, while keeping content, topic sequence, and group-based instruction identical across sections.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A series of formative tests with accompanying feedback and corrective activities administered following instruction on each unit
+- A detailed set of common course objectives shared with students, on which the final examination is based
+#### Constraints
+- The article notes mastery learning is not a panacea, though it may be a step toward demonstrating competencies in teacher preparation
+
+### Target Learners
+- undergraduate education majors
+- preservice teachers
+
+### Target Learning Objectives
+- increased learning and achievement in coursework
+- more enthusiasm toward learning
+
+### Claims
+
+- Mastery Learning Higher Achievement Grades Attendance Undergraduate [+M]
+- [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](../claims/mastery-control-no-entry-differences.md) [~W]
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Mastery Learning](../strategies/mastery-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Use Mastery Learning](../strategies/use_mastery_learning.md)
+
+## Key Sources
+- Guskey, Thomas R., et al. (1982). The Effectiveness of Mastery Learning Strategies in Undergraduate Education Courses. Paper presented at the Annual Meeting of the American Educational Research Association, New York. https://eric.ed.gov/?id=ED213702
 -->

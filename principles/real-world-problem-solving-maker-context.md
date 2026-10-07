@@ -45,7 +45,7 @@ The paper argues that achieving high levels of engagement, increasing graduation
 ## Related Principles
 
 - [Real-world Math](real-world-math.md)
-- [Provide student choice to build ownership and self-efficacy in maker education](student-choice-builds-ownership-maker-education.md)
+- [Provide student choice to build ownership and self-efficacy in maker education](autonomy.md)
 
 ## Examples
 -

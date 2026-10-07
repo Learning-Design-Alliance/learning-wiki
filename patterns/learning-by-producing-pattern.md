@@ -298,7 +298,7 @@ Multimedia projects are valuable when the medium choices themselves become part 
 - [Multimodal Instruction](../principles/multimodal-instruction.md) — multimedia projects extend multimodal input into multimodal production.
 - [Creating Visual Representations](../principles/dual-coding.md) — many multimedia projects rely on visual representation as part of explanation.
 - [Process-Based Writing](../principles/process-based-writing.md) — multimedia composition still benefits from drafting, feedback, and revision cycles.
-- [Learner Choice](../principles/learner-choice.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
+- [Learner Choice](../principles/autonomy.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
 - [Multimedia literacy is developed through producing multimedia](../patterns/learning-by-producing-pattern.md)
 - [Multimediatizing: express didactized content directly in multimedia form rather than digitizing pre-edited media](../methods/multimediatizing-didactized-content-direct-expression.md)
 
@@ -312,4 +312,46 @@ Multimedia projects are valuable when the medium choices themselves become part 
 - Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352. [https://doi.org/10.1016/j.compedu.2011.12.012](https://doi.org/10.1016/j.compedu.2011.12.012)
 - Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55. [https://doi.org/10.1016/j.compcom.2017.09.007](https://doi.org/10.1016/j.compcom.2017.09.007)
 - Lim, J., & Polio, C. (2020). Multimodal assignments in higher education: Implications for multimodal writing tasks for L2 writers. *Journal of Second Language Writing, 47*, 100713. [https://doi.org/10.1016/j.jslw.2020.100713](https://doi.org/10.1016/j.jslw.2020.100713)
+-->
+
+<!-- merged 2026-10-07 from principles/cross-curricular-multimedia-units ("Design cross-curricular learning units around multimedia production"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design cross-curricular learning units around multimedia production
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Integrated learning units for multimedia production should follow a sequence: appreciation of multimedia products, investigation, image enrichment, creation of scenario and design blueprint, production of parts, assembly, and presentation/performance/appreciation. The article's learning unit model (Figure 2) was constructed from common features of two classroom implementations and links multiple subjects including language, social studies, science, art, and music.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Units must support both the content of expression and expression itself across multiple subjects
+#### Constraints
+- 
+
+### Target Learners
+- school pupils
+
+### Target Learning Objectives
+- subject content learning
+- multimedia literacy
+- cross-curricular integration
+
+### Claims
+- Multimedia Cross Curricular Isomorphism [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Multimedia production project](../elements/multimedia-production-project.md)
+- [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
+- [Assign diverse production roles in multimedia teams](../strategies/role-assignment-production-teams.md)
+
+## Key Sources
+- Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678
 -->

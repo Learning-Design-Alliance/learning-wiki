@@ -49,7 +49,7 @@ The packet presents Canale & Swain's (1980) framework as an integrative theory i
 ## Examples
 
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](../strategies/workshop-packet-operationalize-communicative-competence-theory.md)
-- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/dual-teacher-role-acquisition-and-learning.md)
+- [Adopting a communicative approach requires teachers to take a dual role facilitating both natural acquisition and learning](../principles/teacher-as-mediator-not-content-disseminator.md)
 
 ## Key Sources
 - Calderon, Margarita; DiPietro, Robert J.; Larsen-Pusey, Mary Ann; Rubio, Olga. (1982). Methods and Techniques for Communicative Competence in Bilingual Education, Packet II. Series B. Teacher Edition. Evaluation, Dissemination and Assessment Center, Dallas. https://eric.ed.gov/?id=ED226608

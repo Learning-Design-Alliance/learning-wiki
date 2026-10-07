@@ -54,6 +54,7 @@ import math
 import os
 import re
 import sqlite3
+import subprocess
 import sys
 from datetime import date
 from pathlib import Path
@@ -446,7 +447,10 @@ def clusters(cands: dict, decisions: dict) -> list:
     out = []
     for members in groups.values():
         sources = {m["article_id"] for m in members}
-        synth = any(c["synthesis"] for m in members for c in cited_claims(m))
+        # A synthesis counts only from an extracted candidate, whose cited claims are its own
+        # article's. An existing page's claim links include every claim later linking added,
+        # so for a page only two independent sources promote.
+        synth = any(c["synthesis"] for m in members if m.get("origin") != "page" for c in cited_claims(m))
         out.append({"members": members, "sources": len(sources), "synthesis": synth,
                     "promote": len(sources) >= 2 or synth})
     return sorted(out, key=lambda g: (-g["promote"], -g["sources"]))
@@ -477,6 +481,120 @@ def report(cands: dict, decisions: dict) -> None:
 
 
 # ---------------------------------------------------------------- backlog
+
+FOLD_PROMPT = """A learning-design wiki keeps one canonical page per general principle or pattern. A first model
+proposed folding PAGE into CANONICAL: PAGE's text would be kept in a comment on CANONICAL, its claims listed
+there, and its links repointed. Decide whether that fold is right.
+
+PAGE [{fkind}]: {ftitle}
+{fdesc}
+
+CANONICAL [{kkind}]: {ktitle}
+{kdesc}
+
+Fold only if PAGE states CANONICAL's idea, or a narrower case of it (one setting, population, medium or
+component), so that a reader looking for PAGE's idea would be well served by CANONICAL. Refuse if PAGE's idea
+is distinct, broader than CANONICAL, or only shares a topic or a word with it.
+Reply: {{"fold": true/false, "why": "one clause"}}"""
+
+
+def fold_backlog(path: Path, model: str, concurrency: int, apply: bool, out: Path) -> None:
+    """Fold the backlog pages a --backlog run decided to attach, once a second read
+    agrees. merge_pages.py does the fold (bullets, sources, the body in a merged
+    comment, links repointed, an alias within one kind); markers it moved are then
+    capped at what each claim's evidence allows."""
+    from scripts.eval import openrouter_client as oc
+    from scripts.eval.jsonutil import extract_json
+    key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
+    pages = lp.all_pages()
+    decs = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    todo = [d for d in decs if d["outcome"] == "attach" and d["id"][5:] in pages and d["target"] in pages
+            and d["id"][5:] != d["target"]]
+
+    cache_path = WIKI_ROOT / "eval" / "runs" / "candidates" / "fold-check.ndjson"
+    cache = {}
+    if cache_path.exists():   # apply what the dry run decided, not a fresh sample of it
+        for l in cache_path.read_text(encoding="utf-8").splitlines():
+            r = json.loads(l)
+            cache[(r["page"], r["target"])] = r
+
+    def one(d):
+        fold, keep = d["id"][5:], d["target"]
+        if (fold, keep) in cache:
+            return cache[(fold, keep)]
+        for attempt in range(3):
+            try:
+                return ask(fold, keep, d)
+            except Exception as e:
+                err = f"{type(e).__name__}: {e}"[:200]
+        return {"page": fold, "target": keep, "fold": False, "why": None, "error": err, "cost_usd": 0}
+
+    def ask(fold, keep, d):
+        f, k = lp.record(fold, pages[fold]), lp.record(keep, pages[keep])
+        prompt = FOLD_PROMPT.format(
+            fkind=lp.KIND[f["folder"]], ftitle=f["title"],
+            fdesc=(f["description"] + " " + lp._desc_section(pages[fold]))[:900],
+            kkind=lp.KIND[k["folder"]], ktitle=k["title"],
+            kdesc=(k["description"] + " " + lp._desc_section(pages[keep]))[:900])
+        gen = oc.generate(model, SYSTEM, prompt, key, max_tokens=800)
+        v = extract_json(gen.raw_text) or {}
+        return {"page": fold, "target": keep, "fold": bool(v.get("fold")), "why": v.get("why"),
+                "first_why": d.get("why"), "cost_usd": gen.cost_usd, "at": date.today().isoformat()}
+
+    with concurrent.futures.ThreadPoolExecutor(concurrency) as ex:
+        results = list(ex.map(one, todo))
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
+    cache_path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in results
+                                  if not r.get("error")), encoding="utf-8")
+    kept = [r for r in results if r["fold"]]
+    print(f"errors: {sum(bool(r.get('error')) for r in results)}")
+    print(f"fold decisions read again: {len(results)}; confirmed {len(kept)}; "
+          f"cost ${sum(r['cost_usd'] or 0 for r in results):.3f}")
+    for r in results:
+        if not r["fold"]:
+            print(f"  refused {r['page']} -> {r['target']}: {r['why']}")
+    if not apply:
+        return
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with out.open("a", encoding="utf-8") as fh:
+        for r in results:
+            fh.write(json.dumps(r, ensure_ascii=False) + "\n")
+    import merge_pages
+    for r in kept:
+        kkind, keep = r["target"].split("/")
+        fkind, fold = r["page"].split("/")
+        print(" ", merge_pages.merge(kkind, keep, fold if fkind == kkind else r["page"], True))
+    capped = cap_markers(sorted({r["target"] for r in kept}))
+    print(f"markers above their claim's cap lowered: {capped}")
+    subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "build_indexes.py")], cwd=WIKI_ROOT,
+                   capture_output=True)
+
+
+def cap_markers(keys: list) -> int:
+    """Lower every live claim marker on these pages that is stronger than the claim's
+    recorded evidence allows (link_pages.strength_cap); direction is left alone."""
+    n = 0
+    for key in keys:
+        path = WIKI_ROOT / f"{key}.md"
+        if not path.exists():
+            continue
+        parts = re.split(r"(<!--.*?-->)", path.read_text(encoding="utf-8"), flags=re.S)
+
+        def fix(m):
+            nonlocal n
+            info = claim_info(m.group(1))
+            if not info:
+                return m.group(0)
+            cap = lp.strength_cap(info["evidence"])
+            if "WMS".index(m.group(3)) > "WMS".index(cap):
+                n += 1
+                return m.group(0)[:-2] + cap + "]"
+            return m.group(0)
+        out = [x if x.startswith("<!--") else
+               re.sub(r"\]\(\.\./claims/([^)#\s]+)\.md\)\s*\[([+~-])([SMW])\]", fix, x) for x in parts]
+        path.write_text("".join(out), encoding="utf-8")
+    return n
+
 
 def backlog_candidates() -> list:
     """The principle and pattern pages batches wrote before the ledger existed, as
@@ -512,6 +630,8 @@ def main() -> None:
     ap.add_argument("--apply", action="store_true", help="write attachments and designs, and record decisions")
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--backlog", action="store_true", help="dry run over pre-ledger batch pages")
+    ap.add_argument("--fold-backlog", type=Path, metavar="DECISIONS",
+                    help="fold the pages a --backlog run attached, after a second read (with --apply)")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--out", default=None, help="decisions file for --backlog")
     ap.add_argument("--model", default=DEFAULT_MODEL)
@@ -521,6 +641,11 @@ def main() -> None:
 
     if args.report:
         report(cl.load_candidates(), cl.load_decisions())
+        return
+
+    if args.fold_backlog:
+        fold_backlog(args.fold_backlog, args.model, args.concurrency, args.apply,
+                     cl.LEDGER_DIR / "backlog-folds.ndjson")
         return
 
     if args.backlog:
@@ -540,7 +665,9 @@ def main() -> None:
 
     cands = cl.load_candidates()
     decisions = cl.load_decisions()
-    todo = [c for i, c in cands.items() if decisions.get(i, {}).get("outcome") not in cl.SETTLED]
+    canon = canonical_keys()
+    todo = [c for i, c in cands.items() if decisions.get(i, {}).get("outcome") not in cl.SETTLED
+            and c.get("page") not in canon]   # a page now canonical is a target, not a candidate
     if args.limit:
         todo = todo[:args.limit]
     if not todo:

@@ -52,7 +52,7 @@ Levels of Use (LoU) is a CBAM diagnostic dimension that "focuses on describing, 
 - [The LoU Chart: operational definitions of the eight levels across seven categories of user knowledge and activity](../elements/lou-chart-seven-categories-operational-definitions.md)
 - [The Levels of Use Interview: a 20-minute focused branching interview assigning a LoU level to any individual](../elements/lou-focused-branching-interview.md)
 - [Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs](../strategies/use-lou-data-for-change-monitoring-and-staff-development.md)
-- [Change facilitators should work in a diagnostic/prescriptive mode, matching interventions to the user's level](../principles/diagnostic-prescriptive-change-facilitation.md)
+- [Change facilitators should work in a diagnostic/prescriptive mode, matching interventions to the user's level](../principles/match-interventions-to-stages-of-concern.md)
 - [For refinement-level use, shift the unit of intervention from the individual to the school building](../strategies/shift-intervention-unit-to-school-building-for-refinement.md)
 
 ## Key Sources

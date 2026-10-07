@@ -1,6 +1,7 @@
 ---
 type: principle
 id: multimodal-instruction
+aliases: [integrate-video-narration-text-for-l2-macs-comprehension]
 title: Multimodal Instruction
 description: "For a learner who cannot yet explain a structure that one mode shows poorly, coordinated modes that each carry part of the meaning, with the learner translating between them, may improve immediate comprehension over a single mode, qualified by representational competence, pacing, redundancy and access; matching modes to learning styles does not."
 status: review
@@ -20,12 +21,16 @@ sources:
     resource: "https://doi.org/10.4018/978-1-7998-0246-4.ch005"
     title: "Givens, M., Holdsworth, L., Mi, X., Rascoe, F., Valk, A., & Viars, K. E. (2019). Multimodal information literacy in higher education: Critical thinking, technology, and technical skill. In *Handbook of research on integrating digital technology with literacy pedagogies* (pp. 97-120). IGI Global"
     author: "Givens, M., Holdsworth, L., Mi, X., Rascoe, F., Valk, A., & Viars, K. E"
+  - id: lin-2016
+    resource: "https://doi.org/10.5539/elt.v9n10p1"
+    title: "Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1"
+    author: Lin, L.-F
 ---
 
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (2 for, 5 mixed, 1 against) · 19 studies (7 causal, 7 review, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 19 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 19 studies (7 causal, 7 review, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 19 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -104,6 +109,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
+- [Video Treatment Significant Macs Pre Post Gain](../claims/video-treatment-significant-macs-pre-post-gain.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -122,6 +128,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Multimedia Projects](../patterns/learning-by-producing-pattern.md) — project-based multimodal work extends multimodal instruction into production.
 - [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — reading aids are one common multimodal support structure.
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — multimodal design helps most when the verbal layer is also clear.
+- [Multiliteracies Video Comprehension Activities](../strategies/multiliteracies-video-comprehension-activities.md)
 
 ## Examples
 
@@ -135,6 +142,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)
 - Holmström, I., & Schönström, K. (2018). Deaf lecturers' translanguaging in a higher education setting: A multimodal multilingual perspective. *Applied Linguistics Review, 9*(1), 90-111. [https://doi.org/10.1515/applirev-2017-0071](https://doi.org/10.1515/applirev-2017-0071)
 - Givens, M., Holdsworth, L., Mi, X., Rascoe, F., Valk, A., & Viars, K. E. (2019). Multimodal information literacy in higher education: Critical thinking, technology, and technical skill. In *Handbook of research on integrating digital technology with literacy pedagogies* (pp. 97-120). IGI Global. [https://doi.org/10.4018/978-1-7998-0246-4.ch005](https://doi.org/10.4018/978-1-7998-0246-4.ch005)
+- Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -180,4 +188,42 @@ Multimodal instruction works when different modes carry different parts of the m
 ### Claims
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — well-coordinated modes can reduce interpretive burden by distributing meaning across useful representations
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — multimodal instruction is stronger when learners explain how different representations relate
+-->
+
+<!-- merged 2026-10-07 from principles/integrate-video-narration-text-for-l2-macs-comprehension ("Integrate video with narration and on-screen text in L2 reading comprehension instruction to foster macrostructure comprehension"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Integrate video with narration and on-screen text in L2 reading comprehension instruction to foster macrostructure comprehension
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article concludes that multimedia materials integrated with on-screen text, narrations, and video are recommended for L2 comprehension instruction, because the VNT group outperformed the text-only and narration-plus-text groups on macrostructure comprehension. It argues that video plays an essential role in fostering MACS comprehension ability, helping learners distinguish main ideas from details, attend to the theme, identify writer's devices, and draw conclusions.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Presentation must combine video images with concurrent narration and on-screen text rather than text or narration alone.
+#### Constraints
+- The article notes the exact strategies contributing to MACS and MICS comprehension could be greater in number and could not be disentangled in this study; test instruments were written rather than aural.
+
+### Target Learners
+- Chinese-speaking EFL university students
+
+### Target Learning Objectives
+- Macrostructure (gist-level) L2 reading comprehension
+
+### Claims
+- [Video Treatment Significant Macs Pre Post Gain](../claims/video-treatment-significant-macs-pre-post-gain.md) [+M]
+- [Video Narration Text Improves Immediate Macs Comprehension](../claims/video-narration-text-improves-immediate-macs-comprehension.md) [+M]
+
+## Related Principles
+- [Multiliteracies Video Comprehension Activities](../strategies/multiliteracies-video-comprehension-activities.md)
+
+## Examples
+-
+
+## Key Sources
+- Lin, L.-F. (2016). The Impact of Video-based Materials on Chinese-Speaking Learners’ English Text Comprehension. English Language Teaching, 9(10). https://doi.org/10.5539/elt.v9n10p1
 -->

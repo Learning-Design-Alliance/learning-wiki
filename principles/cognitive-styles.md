@@ -1,18 +1,24 @@
 ---
 type: principle
 id: cognitive-styles
+aliases: [teach-to-intellectual-styles-flexibly]
 title: Cognitive Styles
 description: Cognitive styles are relatively stable individual differences in how people typically perceive, remember, and solve problems — distinct from the broader, less reliable notion of "learning styles" — and knowledge of a student's style can be used either to play to their existing strengths or to deliberately build the balance they lack.
 status: draft
 generated:
   by: claude/unspecified
   at: 2026-08-29
+sources:
+  - id: presseisen-1990
+    resource: "https://eric.ed.gov/?id=ED327322"
+    title: "Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322"
+    author: Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven
 ---
 
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Teachers commonly speak of students' **learning styles** — preferred ways of engaging with material — but the term can misleadingly imply more cross-situational consistency than actually exists: a student who prefers diagrams to outlines can typically still learn well from either, given the chance (Loo, 2004; Stahl, 2002). **Cognitive styles** are a more specific and better-evidenced construct: relatively stable (though not perfectly so) individual differences in *how* a person typically perceives, remembers, and solves problems, rather than a mere preference (Zhang & Sternberg, 2006).
@@ -26,25 +32,32 @@ There are two distinct ways to use knowledge of a student's cognitive style (Pri
 ### Context
 #### Requirements
 - Enough observation of a student across multiple contexts to distinguish a genuine, relatively stable cognitive style from a momentary preference or a single task's demands
+- Teachers must hold a dynamic rather than static view of intelligence and diagnose students' style preferences.
 #### Constraints
 - Field dependence/independence and impulsivity/reflectivity are tendencies, not fixed categories — a meaningful fraction of students will contradict the general trend for their style, so styles should never be used to "lock" a student into one mode of learning or to substitute for the student's own expressed preferences and choices
 - The reflective/field-independent profile is not simply "better" — it fits some academic tasks well and others (spontaneous cooperative work, quick teamwork) poorly
+- Some remediation of weaknesses is probably possible but not always; compensation mechanisms may be needed instead.
 
 ### Target Learners
 - Students whose task performance seems to depend more on *how* they characteristically process information than on effort or general ability
 - Students who could benefit from deliberately practicing the style they currently lack, not only tasks that flatter their existing style
+- All students across diverse backgrounds and preparation levels
 
 ### Target Learning Objectives
 - Task and activity design that matches a student's current cognitive-style strengths where efficient
 - Deliberately built cognitive flexibility, for students whose style creates a real limitation in specific academic domains (e.g., an impulsive style undermining multi-step math problem-solving)
+- Optimizing application of intelligence in and out of school
 
 ### Theory
 #### Contradicting / Qualifying
 - [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) [~M] — critics (Morgan, 1996, cited on that page) argue MI theory's proposed "intelligences" may in part simply relabel existing cognitive-style research rather than identify genuinely separate abilities, suggesting real conceptual overlap between the two frameworks
 
 ## Claims
+- [Schools Reward Executive Styles](../claims/schools-reward-executive-styles.md) [+W]
+- [Styles Socialized And Modifiable](../claims/styles-socialized-and-modifiable.md) [+W]
 
 ## Related Principles
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
 
 ## Examples
 
@@ -57,3 +70,43 @@ There are two distinct ways to use knowledge of a student's cognitive style (Pri
 - Loo, R. (2004). Kolb's learning styles and learning preferences: Is there a linkage? *Educational Psychology, 24*(1), 99-108.
 - Stahl, S. A. (2002). Different strokes for different folks? A critique of learning styles. *American Educator, 26*(3), 29-49.
 - Arduini-Van Hoose, N. (2020). Learning differences. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322
+
+<!-- merged 2026-10-07 from principles/teach-to-intellectual-styles-flexibly ("Teach students to make the best of their intellectual styles rather than forcing one mandated mode"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Teach students to make the best of their intellectual styles rather than forcing one mandated mode
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article argues that teachers should recognize students' style preferences and teach for flexible use of styles, since a bright individual forced to work in an unsuitable mode may perform below capability. Classrooms should allow learners to use preferred styles rather than constrain them to a singular form of approved expression. The article states "We need to teach students to make the best of their intellectual styles."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers must hold a dynamic rather than static view of intelligence and diagnose students' style preferences.
+#### Constraints
+- Some remediation of weaknesses is probably possible but not always; compensation mechanisms may be needed instead.
+
+### Target Learners
+- All students across diverse backgrounds and preparation levels
+
+### Target Learning Objectives
+- Optimizing application of intelligence in and out of school
+
+### Claims
+- [Schools Reward Executive Styles](../claims/schools-reward-executive-styles.md) [+M]
+- [Styles Socialized And Modifiable](../claims/styles-socialized-and-modifiable.md) [+M]
+
+## Related Principles
+
+- [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](four-factor-teaching-compatibility.md)
+
+## Examples
+-
+
+## Key Sources
+- Presseisen, Barbara Z.; Sternberg, Robert J.; Fischer, Kurt W.; Knight, Catharine C.; Feuerstein, Reuven. (1990). Learning and Thinking Styles: Classroom Interaction. National Education Association. https://eric.ed.gov/?id=ED327322
+-->

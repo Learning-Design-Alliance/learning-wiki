@@ -1,6 +1,7 @@
 ---
 type: principle
 id: multimedia-learning
+aliases: [visual-representations-benefit-only-with-adequate-processing-resources]
 title: Multimedia Learning
 description: "For a learner without a working model of a structure or process, a relevant picture placed with the words that explain it may improve a learning test over words alone, qualified by redundancy, decorative additions, pacing, prior knowledge and assessment horizon."
 status: review
@@ -12,12 +13,16 @@ sources:
     resource: "https://doi.org/10.1017/CBO9781107707085"
     title: "Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity*. Cambridge University Press"
     author: "Fiorella, L., & Mayer, R. E"
+  - id: clinton-2016
+    resource: "https://doi.org/10.1080/00220973.2015.1048847"
+    title: "Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847"
+    author: "Clinton, V., Alibali, M. W., & Nathan, M. J"
 ---
 
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 20 studies (12 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 21 studies (13 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 21 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -56,6 +61,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Diagrams Help Posttest Only Read Twice Condition](../claims/diagrams-help-posttest-only-read-twice-condition.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -90,6 +96,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity*. Cambridge University Press. [https://doi.org/10.1017/CBO9781107707085](https://doi.org/10.1017/CBO9781107707085)
+- Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above. The old body follows verbatim.
 
@@ -131,4 +138,41 @@ Multimedia learning is strongest when multiple representations clarify a concept
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — multimedia can help when it organizes information into more meaningful units, but only if the design is coherent
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — explicit visual-verbal models can reduce unproductive search for novices when the representation clarifies task structure
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia environments become stronger when learners are prompted to explain the relationship between representations
+-->
+
+<!-- merged 2026-10-07 from principles/visual-representations-benefit-only-with-adequate-processing-resources ("Incorporate relevant visual representations in lessons, but consider the resource demands of working with them"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Incorporate relevant visual representations in lessons, but consider the resource demands of working with them
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article concludes that relevant visual information such as diagrams in texts can improve learning, though not under all instructional conditions: "diagrams fostered students' application of the lesson content relative to text alone only if students read the lesson twice, and not if they answered questions while reading". Visual representations may be beneficial only if students have adequate resources available to process them, so teachers should consider the resource demands of working with visuals.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Students must have adequate resources available to process the visual representations
+#### Constraints
+- The benefit of diagrams was limited to the read-twice condition in this study and did not appear when students answered questions while reading
+
+### Target Learners
+- undergraduate students reading lessons independently
+
+### Target Learning Objectives
+- applying lesson content to posterior probability problems
+
+### Claims
+- [Diagrams Help Posttest Only Read Twice Condition](../claims/diagrams-help-posttest-only-read-twice-condition.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Probability: Do Diagrams and Elaborative Interrogation Help? The Journal of Experimental Education, 84(3), 579-599. https://doi.org/10.1080/00220973.2015.1048847
 -->

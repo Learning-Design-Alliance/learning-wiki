@@ -41,7 +41,7 @@ The digest explains that the National Board rejected a single general certificat
 - 
 
 ## Related Elements
-- [Performance Based Teacher Certification Assessment](../principles/performance-based-teacher-certification-assessment.md)
+- [Performance Based Teacher Certification Assessment](../principles/competency-based-assessment.md)
 
 ## Examples
 -

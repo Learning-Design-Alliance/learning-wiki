@@ -50,8 +50,7 @@ The report presents five essential basic elements that must be "precisely struct
 
 ## Examples
 
-- [Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members](../patterns/jigsaw-structures-adult-learners.md)
-- [Design laboratories to satisfy all five cooperative-learning conditions](../principles/laboratories-satisfying-cooperative-learning-conditions.md)
+- [Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members](../patterns/cooperative-learning.md)
 - [Cooperative Learning](../elements/cooperative-learning.md)
 - [Positive Interdependence](../elements/positive-interdependence.md)
 - [Group Processing](../elements/group-processing.md)

@@ -44,8 +44,8 @@ The author reports that abstract information is challenging for older learners, 
 
 ## Related Principles
 
-- [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](age-friendly-classroom-remedy-social-isolation.md)
-- [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](measured-pace-one-concept-at-a-time-older-learners.md)
+- [Use the age-friendly ESL classroom as a remedy for social isolation by building a supportive community of learners with confidence-building and peer mentoring](expanding-social-networks.md)
+- [Teach older language learners at a measured pace, one new skill or concept at a time, with extra review and wait time](cognitive-load-management.md)
 
 ## Examples
 

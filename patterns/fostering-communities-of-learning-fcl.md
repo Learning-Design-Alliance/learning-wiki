@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: fostering-communities-of-learning-fcl
+aliases: [jigsaw, jigsaw-learning, jigsaw-method]
 title: Fostering Communities of Learning (FCL)
 description: "A reusable research-and-teach cycle in which learners become expert on one part of a shared theme, teach it to peers in jigsaw groups and read through reciprocal teaching, expected to raise each learner's understanding of the whole theme where research is guided, teaching is structured and every member is checked on every part; no claim tests the pattern as a whole, only its components."
 status: review
@@ -14,13 +15,13 @@ grain_size: course
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (11 for, 7 mixed) · 32 studies (13 quant-synthesis, 8 review, 5 causal, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 32 report an effect size · 9 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 35 studies (13 quant-synthesis, 10 review, 6 causal, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
 A reusable policy for running a unit or course as a research-and-teach cycle: **a shared inquiry theme → each learner joins a research group that becomes expert on one part of it → research groups re-form as teaching groups in which each member teaches their part (jigsaw) → reading and discussion run as reciprocal teaching, with roles handed from teacher to learners → a shared task that needs every part → individual checks and reflection decide the next cycle**. The intended change is in each learner's `conceptual-understanding` of the whole theme, not only their own part, and, over several cycles, in their ability to question, explain and summarise without the teacher leading (`self-regulation`). A shared product, lively talk or a sense of community is not the target.
 
-The pattern combines components that have their own pages and evidence: [peer tutoring and learning by teaching](../claims/learning-by-teaching-improves-tutor-learning.md) [+M], [reciprocal teaching](../elements/reciprocal-teaching.md), the [jigsaw method](jigsaw-method.md) and guided [inquiry](../principles/inquiry-based-learning.md). It sits inside three converted relationships and does not restate them: the [inquiry-based learning principle](../principles/inquiry-based-learning.md) (guided inquiry, not unguided discovery, carries the benefit for novices), the [collaborative learning pattern](collaborative-learning.md) (joint work judged by what each member can do afterwards, with a move to [cooperative learning](cooperative-learning.md)'s fixed interdependence and individual accountability when checks show free-riding), and the [communities of practice principle](../principles/communities-of-practice.md), which names this page as its nearest pattern. That principle concerns adults joining a practice over a term or more; this page owns the classroom version, in which the teacher deliberately distributes expertise among learners who then teach it.
+The pattern combines components that have their own pages and evidence: [peer tutoring and learning by teaching](../claims/learning-by-teaching-improves-tutor-learning.md) [+M], [reciprocal teaching](../elements/reciprocal-teaching.md), the [jigsaw method](fostering-communities-of-learning-fcl.md) and guided [inquiry](../principles/inquiry-based-learning.md). It sits inside three converted relationships and does not restate them: the [inquiry-based learning principle](../principles/inquiry-based-learning.md) (guided inquiry, not unguided discovery, carries the benefit for novices), the [collaborative learning pattern](collaborative-learning.md) (joint work judged by what each member can do afterwards, with a move to [cooperative learning](cooperative-learning.md)'s fixed interdependence and individual accountability when checks show free-riding), and the [communities of practice principle](../principles/communities-of-practice.md), which names this page as its nearest pattern. That principle concerns adults joining a practice over a term or more; this page owns the classroom version, in which the teacher deliberately distributes expertise among learners who then teach it.
 
 **No claim in this wiki tests Fostering Communities of Learning as a whole**, against ordinary instruction or anything else. The claims that bear on it test its components one at a time: preparing to teach and teaching, against studying for oneself; structured against unstructured peer tutoring; group rewards built on each member's individual learning; reciprocal teaching of reading; guided against unguided inquiry; and one secondary-school review in which jigsaw was the least successful cooperative method. Each is carried to this pattern by extrapolation, and the page says how far. The sequence below is the earlier page's five steps, made concrete and with the individual check given a step of its own, with each step's evidence status stated; the response-dependent branches are **untested design proposals**.
 
@@ -104,6 +105,7 @@ Claims this page cited before the 2026-10-05 rewrite, and claims found while rew
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — cited before as contradicting (marker lowered from S to the claim's cap, one narrative review at `q2`). It bears on the pattern only as a reason to give each cycle a specific question and an individual target rather than an open "explore the topic".
 - [Active participation in a community has a more significant impact on learning than mere membership](../claims/active-participation-beats-mere-membership-for-learning.md) [+W] — the authors' interpretation of a perception survey of 28 honours students; not a tested contrast.
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [~W] — a theoretical critique; a reason to define what a valued contribution from a quieter member looks like.
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Illustrative design instance and observation record
 
@@ -119,16 +121,27 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 
 ## Related Patterns
 - [Collaborative Inquiry](collaborative-inquiry.md)
-- [Jigsaw Method](jigsaw-method.md)
+- [Discussion Group](discussion-based-learning.md)
+- [Student-Teams Achievement Divisions (STAD)](../strategies/student-teams-achievement-divisions.md) — another small-team cooperative structure, organized around shared whole-class content and individual testing rather than subtopic specialization
 
 ## Examples
 - Science communities where learners investigate subtopics and teach findings back to the class.
 - Humanities courses where groups develop domain expertise and contribute to shared interpretive discussions.
 - Professional learning cohorts that collectively build a shared evidence base around practice problems.
+- History learners examining different primary sources and teaching their significance to peers.
+- Science groups becoming experts on different parts of a system before building a shared explanation.
+- Professional learning cohorts dividing complex policy or process documents for peer teaching.
 
 ## Key Sources
 - Brown, A. L., & Campione, J. C. (1996). Psychological theory and the design of innovative learning environments: On procedures, principles, and systems. In L. Schauble & R. Glaser (Eds.), *Innovations in learning* (pp. 289-325). Erlbaum.
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method* (3rd ed.). Pinter & Martin.
+- Aronson, E., Wilson, T., & Akert, A. M. (2001). *Social psychology* (4th ed.). Prentice Hall.
+- Slavin, R. E. (1994). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
+- Hattie, J. (2009). *Visible learning*. Routledge.
+- Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -209,7 +222,7 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 
 ## Related Patterns
 - [Collaborative Inquiry](collaborative-inquiry.md)
-- [Jigsaw Method](jigsaw-method.md)
+- [Jigsaw Method](fostering-communities-of-learning-fcl.md)
 
 ## Examples
 - Science communities where learners investigate subtopics and teach findings back to the class.
@@ -223,4 +236,178 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 ## Key Sources
 - Brown, A. L., & Campione, J. C. (1996). Psychological theory and the design of innovative learning environments: On procedures, principles, and systems. In L. Schauble & R. Glaser (Eds.), *Innovations in learning* (pp. 289-325). Erlbaum.
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
+-->
+
+<!-- merged 2026-10-07 from patterns/jigsaw-method ("Jigsaw Method"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Jigsaw Method
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 5 claims (1 for, 4 mixed) · 16 studies (5 quant-synthesis, 4 causal, 4 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 16 report an effect size
+
+## Description
+The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture. The pattern is designed to create positive interdependence: no learner can complete the full task alone without contributions from others.
+
+Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw can improve engagement and accountability when each role matters, but it can fail if expert preparation is weak or if the final synthesis never checks what peers actually learned from one another.
+
+Two documented variants differ in when specialization happens. In the original version (Aronson et al., 2001), 5-6-student groups are each assigned one aspect of a complex problem from the start; expert groups then disband and re-form so each new group contains one student from each former expert group. In a second version (Slavin, 1994), 4-5-student groups first work together on the *entire* problem before disbanding into expert groups focused on one aspect, and finally reform into the original groups to add each member's new expertise back into the group's shared understanding — giving every learner a whole-problem orientation before specialization narrows their focus.
+
+## Implications
+
+### Context
+#### Requirements
+- **A topic divisible into meaningful parts**: The content should break into components that can later be recombined.
+- **Expert preparation time**: Learners need time and support to understand their assigned piece well enough to teach it.
+- **Interdependence by design**: The final task should require contributions from all parts.
+- **Synthesis and correction**: The instructor needs to consolidate and address misconceptions after peer teaching.
+- **Distributed expertise across group members**
+- **Interdependence so each role matters**
+#### Constraints
+- **Weak expert preparation weakens the whole pattern**: If learners do not become real experts, peer teaching is shallow.
+- **Participation imbalance**: Some learners may carry more than others unless accountability is explicit.
+- **Fragmentation risk**: Learners may miss the whole unless the final synthesis is strong.
+- **Not ideal when content cannot be partitioned cleanly**: Some tasks resist meaningful jigsaw structure.
+- **Learners need support to explain accurately to one another**
+#### Grain Size
+- Lesson
+- Unit
+
+### Target Goals
+- **Distributed expertise**: Learners develop and share responsibility for different content segments.
+- **Peer teaching**: Teaching becomes part of learning.
+- **Knowledge synthesis**: Learners reassemble parts into a coherent whole.
+- Build peer learning, accountability, and distributed expertise.
+
+### Target Learners
+- **Learners in collaborative classrooms**: Strong fit where peer learning is a central norm.
+- **Mixed-ability groups**: Jigsaw can give many learners meaningful contribution roles when designed well.
+- **Learners working with broad topics or multi-part content**: Best when the whole benefits from division and recombination.
+
+### Theory
+#### Supporting
+- Cooperative learning perspectives — positive interdependence can improve participation and shared responsibility.
+- Social constructivist perspectives — teaching and discussion deepen understanding.
+- Generative learning perspectives — preparing to explain to others strengthens processing.
+#### Contradicting / Qualifying
+- Peer teaching needs support; the pattern does not guarantee accuracy or depth on its own.
+- A jigsaw is only as strong as its synthesis and accountability mechanisms.
+
+### Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
+#### Supporting
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+#### Contradicting
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+
+## Design
+
+### Sequence
+1. Divide the topic into meaningful subtopics and assign expert roles.
+2. Have expert groups study and prepare their subtopic.
+3. Re-form mixed groups where each learner teaches their portion.
+4. Synthesize the full topic through discussion or a shared task.
+5. Assess whole-group or individual understanding of the complete content.
+
+### Elements Used
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assessment](../elements/assessment.md)
+- [Group Work](../elements/group-work.md)
+
+### Affordances
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Communities of Practice](../principles/communities-of-practice.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Mentoring/Coaching](../principles/mentoring-and-coaching.md)
+
+### Personalization
+- Different learners can take roles aligned with interest or readiness.
+- Expert materials can vary in complexity depending on learner support needs.
+- Accountability can be individual, group-based, or mixed.
+
+## Related Patterns
+- [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md)
+- [Discussion Group](discussion-based-learning.md)
+- [Student-Teams Achievement Divisions (STAD)](../strategies/student-teams-achievement-divisions.md) — another small-team cooperative structure, organized around shared whole-class content and individual testing rather than subtopic specialization
+
+## Examples
+- History learners examining different primary sources and teaching their significance to peers.
+- Science groups becoming experts on different parts of a system before building a shared explanation.
+- Professional learning cohorts dividing complex policy or process documents for peer teaching.
+
+## Impact
+- Can improve engagement and responsibility when every learner's part matters.
+- Strongest when expert preparation, peer teaching, and final synthesis are all treated as essential.
+
+## Key Sources
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method* (3rd ed.). Pinter & Martin.
+- Aronson, E., Wilson, T., & Akert, A. M. (2001). *Social psychology* (4th ed.). Prentice Hall.
+- Slavin, R. E. (1994). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
+- Hattie, J. (2009). *Visible learning*. Routledge.
+- Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
+
+<!- - merged 2026-10-02 from patterns/jigsaw ("Jigsaw"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Jigsaw
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
+
+## Description
+Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.
+
+## Design
+
+### Elements Used
+- [Group Work](../elements/group-work.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+
+## Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
+
+## Related Patterns
+- [Jigsaw Method](fostering-communities-of-learning-fcl.md)
+- [Jigsaw Learning](fostering-communities-of-learning-fcl.md)
+
+## Key Sources
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.
+- ->
+
+<!- - merged 2026-10-02 from patterns/jigsaw-learning ("Jigsaw Learning"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Jigsaw Learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
+
+## Description
+Jigsaw Learning is the short-form canonical target for the jigsaw pattern in which learners develop expertise on one part of the material and then teach it to peers so the group can assemble a fuller understanding.
+
+## Implications
+
+### Context
+#### Requirements
+- **Distributed expertise across group members**
+- **Interdependence so each role matters**
+#### Constraints
+- **Learners need support to explain accurately to one another**
+
+### Target Goals
+- Build peer learning, accountability, and distributed expertise.
+
+### Related Patterns
+- [Jigsaw Method](fostering-communities-of-learning-fcl.md)
+
+## Claims
+- [Learning By Teaching Improves Tutor Learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
+
+## Key Sources
+- Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.
+- ->
 -->

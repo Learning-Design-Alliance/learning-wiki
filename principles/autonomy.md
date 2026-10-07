@@ -1,18 +1,36 @@
 ---
 type: principle
 id: autonomy
+aliases: [learner-choice, structure-with-student-control-cross-cultural-tasks, student-choice-builds-ownership-maker-education]
 title: Autonomy
 description: "For a learner whose engagement is controlled by pressure or reward, meaningful choice within structure, a rationale for required work and non-controlling language are expected to sustain motivation and voluntary engagement; their effect on learning outcomes is small, inconsistent and depends on what the learner controls and when."
 status: review
 generated:
   by: claude/unspecified
   at: 2026-10-02
+sources:
+  - id: hanewicz-2017
+    resource: "https://doi.org/10.1080/01587919.2017.1369008"
+    title: "Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287"
+    author: "Hanewicz, C., Platt, A., & Arendt, A"
+  - id: stefanou-2004
+    resource: "https://doi.org/10.1207/s15326985ep3902_2"
+    title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110"
+    author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C"
+  - id: murray-2001
+    resource: "https://teslcanadajournal.ca"
+    title: "Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca"
+    author: "Murray, G. L., & Bollinger, D. J"
+  - id: lundberg-2018
+    resource: "https://eric.ed.gov/?id=EJ1179517"
+    title: "Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517"
+    author: "Lundberg, M., & Rasmussen, J"
 ---
 
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (2 for, 7 mixed) · 13 studies (5 review, 3 causal, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 13 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (4 for, 10 mixed) · 20 studies (7 review, 4 causal, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 20 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -73,6 +91,11 @@ Taken together: controlling incentives can reduce voluntary engagement with inte
 Claims this page cited before it was rewritten as a conditional model. The page cited one claim before the 2026-10-02 rewrite, [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M], and it has been read into the model above as a core claim. No cited claim remains to list here.
 
 Several statements on the earlier page carried evidence markers with no claim behind them: the choice meta-analysis it named, the complementarity of autonomy and structure, and the age and culture moderators. They are kept in the deprecated block below. The wiki has no claim page for them, so they are not evidence here until one is written.
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — choice becomes educative when learners track whether their selected path is actually helping them progress
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need more guidance in how to choose and proceed before broad autonomy becomes productive
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — choice works better when standards and success criteria remain explicit even as pathways vary
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](../claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) [+W] — when children chose what to notice and interpret in their own unscripted play, they surfaced real mathematical reasoning alongside social and affective meaning
+- [Positive Student Response Cross Cultural Activities](../claims/positive-student-response-cross-cultural-activities.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -91,11 +114,21 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Assessment for Learning](assessment-for-learning.md) — involving learners in evaluating their own work informationalizes feedback and reduces the controlling quality of evaluation
 - [Active Learning](active-learning.md) — autonomy gives learners ownership of the generative activities that active learning requires
 - [Cognitive Activation](cognitive-activation.md) — autonomy-supportive classrooms more often invite learners to reason, justify, and connect ideas rather than reproduce procedures
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — choice becomes more effective when learners also set goals and monitor progress.
+- [Flexible Grouping](flexible-grouping.md) — choice can include partner, role, or grouping structures.
+- [Competency-Based Learning & Assessment](competency-based-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
+- [Inquiry-based Learning](inquiry-based-learning.md) — inquiry often incorporates bounded choice around questions, methods, or products.
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
 
 ## Examples
 
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
+- **Choice boards**: Learners select from several tasks that address the same learning goal through different formats or contexts.
+- **Topic selection within a fixed rubric**: Learners choose the issue, case, or text they will analyze while using common criteria.
+- **Product choice**: Learners demonstrate understanding through writing, presentation, model, or multimedia artifact.
+- **Paced pathway choices**: Learners decide whether to review, practice more, or move into extension work.
+- [Have students interview study-abroad returnees to learn about living abroad first hand](../strategies/guest-speaker-interviews-returnees.md)
 
 ### Illustrative
 
@@ -115,6 +148,11 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - Reeve, J. (2006). Teachers as facilitators: What autonomy-supportive teachers do and why their students benefit. *The Elementary School Journal, 106*(3), 225–236. [doi:10.1086/501484](https://doi.org/10.1086/501484)
 - Katz, I., & Assor, A. (2007). When choice motivates and when it does not. *Educational Psychology Review, 19*(4), 429–442. [doi:10.1007/s10648-006-9027-y](https://doi.org/10.1007/s10648-006-9027-y)
 - Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions. *Contemporary Educational Psychology, 61*, 101860. [doi:10.1016/j.cedpsych.2020.101860](https://doi.org/10.1016/j.cedpsych.2020.101860)
+- Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369349](https://doi.org/10.1080/01587919.2017.1369349)
+- Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
+- Herbold, K. (2011). Giving student choice in online learning environments: Addressing adult learner needs. *International Journal of Technology, Knowledge & Society, 7*(5).
+- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -163,4 +201,155 @@ Autonomy is one of three basic psychological needs in [Self-Determination Theory
 - Providing choice improves motivation and effort, with smaller and more variable effects on objective performance [~M] — see Patall et al. (2008) meta-analysis
 - Autonomy and structure are complementary, not opposed; autonomy support plus clear structure outperforms either alone [+M]
 
+-->
+
+<!-- merged 2026-10-07 from principles/learner-choice ("Learner Choice"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Learner Choice
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (1 for, 3 mixed) · 6 studies (2 review, 2 theoretical, 1 causal, 1 qualitative), `q1`–`q3` · 1 of 6 report an effect size · 2 claims rest on one study
+
+## Description
+Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding. The instructional value of choice comes from agency with purpose: when learners can make decisions that matter, they are more likely to experience ownership, motivation, and relevance. Effective choice is not unlimited freedom. It is bounded in ways that preserve learning goals, quality standards, and sufficient support.
+
+## Implications
+Learner choice improves motivation and ownership when the options are meaningful and the learner has enough support to choose well. Choice can strengthen self-regulation because learners must weigh options, commit to a path, and monitor whether that path is working [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. But too much freedom too early can create overload or inequity, especially for novices who do not yet know which option fits the goal [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The practical design move is bounded choice: keep outcomes and standards clear [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] while varying the path, topic, or product in ways that genuinely matter.
+
+### Context
+#### Requirements
+- **Meaningful options**: Choices should affect how learners engage, not merely offer cosmetic variation.
+- **Clear criteria and boundaries**: Learners need to know what stays fixed and what is flexible.
+- **Support for decision-making**: Some learners need models, examples, or prompts to choose well.
+- **Alignment to the target outcome**: Different paths or products should still aim at comparable learning goals.
+#### Constraints
+- **Choice overload**: Too many options can increase uncertainty and reduce participation.
+- **Unequal option quality**: If some choices are clearly easier, richer, or better supported, the design can become inequitable.
+- **False autonomy**: Learners can be offered "choice" that changes little about the actual learning experience.
+- **Premature freedom**: Novices may need more structure before choosing among tasks, strategies, or goals.
+
+### Target Learners
+- **Adult learners**: Particularly relevant when learners bring clear goals, interests, and prior experience.
+- **Learners needing motivation and ownership**: Choice can increase commitment when the task still has enough support.
+- **Learners developing self-regulation**: Choice becomes productive when paired with planning and reflection.
+- **Learners with diverse strengths or needs**: Multiple pathways can make participation more accessible and meaningful.
+
+### Target Learning Objectives
+- **Ownership of learning**: Helping learners see themselves as active participants rather than passive recipients.
+- **Motivation and persistence**: Increasing willingness to invest effort in meaningful work.
+- **Metacognitive decision-making**: Practicing how to choose tools, strategies, or products that fit a goal.
+- **Flexible demonstration of understanding**: Allowing different valid ways to show competence.
+
+### Theory
+#### Supporting
+- Self-determination theory — meaningful choice can support autonomy and increase intrinsic motivation.
+- Andragogical views of learning — adults are more engaged when learning connects to their goals and allows some self-direction.
+- Expectancy-value perspectives — choice can increase task value when learners see the work as relevant and self-endorsed.
+#### Contradicting / Qualifying
+- Choice is not inherently motivating if learners feel unprepared to choose or unclear about the consequences of options.
+- Strong learning design often requires more structure for novices before broad choice becomes productive.
+
+### Claims
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — choice becomes educative when learners track whether their selected path is actually helping them progress
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need more guidance in how to choose and proceed before broad autonomy becomes productive
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — choice works better when standards and success criteria remain explicit even as pathways vary
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](../claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) [+W] — when children chose what to notice and interpret in their own unscripted play, they surfaced real mathematical reasoning alongside social and affective meaning
+
+## Related Principles
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — choice becomes more effective when learners also set goals and monitor progress.
+- [Flexible Grouping](flexible-grouping.md) — choice can include partner, role, or grouping structures.
+- [Competency-Based Learning & Assessment](competency-based-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
+- [Inquiry-based Learning](inquiry-based-learning.md) — inquiry often incorporates bounded choice around questions, methods, or products.
+
+## Examples
+- **Choice boards**: Learners select from several tasks that address the same learning goal through different formats or contexts.
+- **Topic selection within a fixed rubric**: Learners choose the issue, case, or text they will analyze while using common criteria.
+- **Product choice**: Learners demonstrate understanding through writing, presentation, model, or multimedia artifact.
+- **Paced pathway choices**: Learners decide whether to review, practice more, or move into extension work.
+
+## Key Sources
+- Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369349](https://doi.org/10.1080/01587919.2017.1369349)
+- Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
+- Herbold, K. (2011). Giving student choice in online learning environments: Addressing adult learner needs. *International Journal of Technology, Knowledge & Society, 7*(5).
+-->
+
+<!-- merged 2026-10-07 from principles/structure-with-student-control-cross-cultural-tasks ("Balance teacher support with student control when designing constructivist language activities"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Balance teacher support with student control when designing constructivist language activities
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article recommends that teachers create structures offering support while leaving learners a degree of control, so activities remain guided but personalizable. The authors state: "The challenge for the teacher is to create a structure that offers the students the support they need while enabling them to exercise a degree of control over their work and learning." This principle operationalizes reactive autonomy in concrete task design, from preliminary e-mail tasks to the staged video project.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Clearly defined guidelines, staged deadlines, conferencing opportunities, and assessment criteria communicated in advance.
+#### Constraints
+- Grounded in the authors' experience with Japanese university learners; presented as practitioner guidance rather than a tested manipulation.
+
+### Target Learners
+- Japanese university foreign language students, beginner to intermediate
+
+### Target Learning Objectives
+- cross-cultural awareness
+- learner autonomy
+- communicative competence
+
+### Claims
+- [Proactive Reactive Autonomy Distinction](../theories/proactive-reactive-autonomy-distinction.md) [+M]
+- [Positive Student Response Cross Cultural Activities](../claims/positive-student-response-cross-cultural-activities.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Have students interview study-abroad returnees to learn about living abroad first hand](../strategies/guest-speaker-interviews-returnees.md)
+
+## Key Sources
+- Murray, G. L., & Bollinger, D. J. (2001). Developing Cross-Cultural Awareness: Learning Through the Experiences of Others. TESL Canada Journal, 19(1). https://teslcanadajournal.ca
+-->
+
+<!-- merged 2026-10-07 from principles/student-choice-builds-ownership-maker-education ("Provide student choice to build ownership and self-efficacy in maker education"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Provide student choice to build ownership and self-efficacy in maker education
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 3 report an effect size
+
+## Description
+Student choice is identified as a common theme in maker education best practice: student interests and passions should shape the makerspace, the tools available, and the types of projects selected. The paper states that "One of the goals of maker education is increased student ownership and self-efficacy, and providing student choice encourages this."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Student interests and passions should inform makerspace design, available tools, and project selection
+#### Constraints
+- 
+
+### Target Learners
+- K-12 students in maker education programs
+
+### Target Learning Objectives
+- Student ownership and self-efficacy
+
+### Claims
+
+- [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+
+## Related Principles
+
+- [Involve students in real-world problem solving to deepen engagement, retention, and understanding](real-world-problem-solving-maker-context.md)
+
+## Examples
+-
+
+## Key Sources
+- Lundberg, M., & Rasmussen, J. (2018). Foundational Principles and Practices to Consider in Assessing Maker Education. i-manager's Journal of Educational Technology, Vol. 14 No. 4, January - March 2018. https://eric.ed.gov/?id=EJ1179517
 -->

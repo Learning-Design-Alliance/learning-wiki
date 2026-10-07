@@ -43,7 +43,7 @@ In morning lectures the school implements active learning by having students do 
 
 ## Related Principles
 
-- [Design laboratories to satisfy all five cooperative-learning conditions](laboratories-satisfying-cooperative-learning-conditions.md)
+- [Design laboratories to satisfy all five cooperative-learning conditions](../patterns/cooperative-learning.md)
 
 ## Examples
 

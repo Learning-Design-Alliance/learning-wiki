@@ -1,6 +1,7 @@
 ---
 type: principle
 id: deliberate-practice
+aliases: [structured-deliberate-practice-for-licensing-review]
 title: Deliberate Practice
 description: "For a learner who can already perform a task but has stopped improving on part of it, repeated attempts on that one diagnosed component, set just beyond reliable performance, judged against an explicit standard with feedback and a deliberate change on each next attempt, are expected to improve whole-task performance more than repeating the whole task; no claim tests this in schooling, and the nearest causal evidence is simulation training with deliberate practice in the health professions."
 status: review
@@ -12,6 +13,10 @@ sources:
     resource: "https://doi.org/10.1037/0033-295X.100.3.363"
     title: "Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363-406"
     author: "Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C"
+  - id: do-2024
+    resource: "https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate"
+    title: "Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate"
+    author: Do, P. D
 ---
 
 # Deliberate Practice
@@ -150,6 +155,7 @@ See also the strategies [Deliberate Practice](../strategies/deliberate_practice.
 ## Key Sources
 - Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363-406. [https://doi.org/10.1037/0033-295X.100.3.363](https://doi.org/10.1037/0033-295X.100.3.363)
 - Ericsson, K. A. (2006). The influence of experience and deliberate practice on the development of superior expert performance. In K. A. Ericsson et al. (Eds.), *The Cambridge handbook of expertise and expert performance*. Cambridge University Press.
+- Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -211,4 +217,43 @@ Deliberate practice is most useful when the goal is not just exposure or time-on
 ## Key Sources
 - Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363-406. [https://doi.org/10.1037/0033-295X.100.3.363](https://doi.org/10.1037/0033-295X.100.3.363)
 - Ericsson, K. A. (2006). The influence of experience and deliberate practice on the development of superior expert performance. In K. A. Ericsson et al. (Eds.), *The Cambridge handbook of expertise and expert performance*. Cambridge University Press.
+-->
+
+<!-- merged 2026-10-07 from principles/structured-deliberate-practice-for-licensing-review ("Replace outline-and-practice-exam review courses with structured deliberate practice sessions including expert feedback"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Replace outline-and-practice-exam review courses with structured deliberate practice sessions including expert feedback
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+The article recommends that licensing review courses abandon their homogeneous format of lecture outlines plus at-home sample exams and instead use "targeted exercises such as expert feedback, focused practice sessions, and continuous performance assessments." Its quasi-experiment found the deliberate practice group "exhibited higher exam pass rates" and greater satisfaction, supporting integration of deliberate practice into professional training programs.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Structured skill-building activities, personalized expert feedback, and repeated performance assessments aimed at continuous improvement.
+#### Constraints
+- The supporting study used a non-randomized sample, relied on self-reported data, and had a short study duration.
+
+### Target Learners
+- adult candidates preparing for professional licensing exams
+
+### Target Learning Objectives
+- passing professional licensing exams
+- retention and application of knowledge
+
+### Claims
+- [Deliberate Practice Raises Licensing Pass Rate](../claims/deliberate-practice-raises-licensing-pass-rate.md) [+M]
+- [Deliberate Practice Increases Student Satisfaction](../claims/deliberate-practice-increases-student-satisfaction.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Do, P. D. (2024). Deliberate practice: An effective way to raise the real estate licensing passing rate. Bradley University. https://scholar.google.com/scholar?q=Deliberate+Practice+Real+Estate+Licensing+Passing+Rate
 -->

@@ -52,7 +52,7 @@ The handbook presents Piaget's theory that children's thinking differs from adul
 
 ## Examples
 
-- [The teacher's major role is facilitator for discovery rather than dispenser of knowledge](../principles/teacher-as-facilitator-for-discovery.md)
+- [The teacher's major role is facilitator for discovery rather than dispenser of knowledge](../principles/teacher-as-mediator-not-content-disseminator.md)
 - [Introduce Piagetian activities simply, one variable at a time, with ample time and repetition](../strategies/one-variable-at-a-time-activity-introduction.md)
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](../strategies/questioning-contrepreuve-disequilibration.md)
 

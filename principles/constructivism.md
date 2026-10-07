@@ -55,7 +55,7 @@ Constructivism implies that learning strengthens when learners have to make sens
 - [Explaining Their Thinking](self-explanation.md)
 - [Creating Visual Representations](dual-coding.md)
 - [Error Analysis](error-analysis.md)
-- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](teacher-as-facilitator-constructivist-classroom.md)
+- [In constructivist classrooms the teacher acts as a facilitator while learners construct, question, and integrate meaning](teacher-as-mediator-not-content-disseminator.md)
 
 ## Examples
 - Learners explain and revise a model after seeing conflicting evidence.

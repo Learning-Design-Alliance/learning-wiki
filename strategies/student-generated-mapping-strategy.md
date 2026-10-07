@@ -38,7 +38,7 @@ Provide students with skeletal map templates and term lists and have them analyz
 
 ## Related Strategies
 
-- [Semantic Mapping Principle](../principles/semantic-mapping-principle.md)
+- [Semantic Mapping Principle](../principles/graphic-organizers.md)
 - [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
 - [Hexagonal Thinking](hexagonal_thinking.md)
 - [Graphic Organizers](graphic_organizers.md)

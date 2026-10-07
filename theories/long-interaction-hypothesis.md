@@ -87,7 +87,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 
 ## Examples
 
-- [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/low-task-complexity-child-learners-recasts.md)
+- [For child beginner language learners, keep task complexity low or moderate so attention remains available for noticing recasts](../principles/cognitive-load-management.md)
 - [Provide incidental corrective feedback through clarification requests, recasts, and a P.S.](../strategies/incidental-corrective-feedback-in-dialogue-journals.md)
 
 ## Key Sources

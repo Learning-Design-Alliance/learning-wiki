@@ -1,6 +1,7 @@
 ---
 type: principle
 id: universal-design-for-learning
+aliases: [diverse-exercise-types-learning-styles]
 title: Universal Design For Learning
 description: "For a class whose learners vary in access, language, prior knowledge and motivation, planning several routes into content, engagement and expression while the goal and criteria stay fixed is expected to let more learners reach the goal than a single-route design; no claim here tests UDL as a framework, only its parts."
 status: review
@@ -20,6 +21,10 @@ sources:
     resource: "https://www.cast.org/products-teaching-every-student"
     title: "Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning*. ASCD"
     author: "Rose, D. H., & Meyer, A"
+  - id: robinson-1988
+    resource: "https://eric.ed.gov/?id=ED296585"
+    title: "Robinson, Peter J. (1988). Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon. Paper presented at the 22nd Annual TESOL Convention, Chicago. https://eric.ed.gov/?id=ED296585"
+    author: Robinson, Peter J
 ---
 
 # Universal Design For Learning
@@ -142,6 +147,13 @@ The expectation should weaken if comparisons of a design with several routes aga
 ## Examples
 
 - [Offering Multiple Options for Family Engagement](../strategies/offering_multiple_options_for_family_engagement.md)
+- [Paraphrase exercises using general basic words to assimilate meaning](../strategies/basic-word-paraphrase-strategic-exercises.md)
+- [Word-net exercises linking lexical knowledge to grammatical awareness](../strategies/word-net-grammar-via-lexis.md)
+- [Word-set exercises for contextualising vocabulary via imagined possible worlds](../strategies/word-set-possible-worlds-exercises.md)
+- [Respect Diverse Talents and Ways of Learning](../strategies/respect_diverse_talents_and_ways_of_learning.md)
+- [Cultivate Multiple Ways of Knowing and Making Meaning](../strategies/cultivate_multiple_ways_of_knowing_and_making_meaning.md)
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
+- [Accommodate Varying Technology Experience](../strategies/accommodate_varying_technology_experience.md)
 
 ### Illustrative
 
@@ -162,6 +174,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - Capp, M. J. (2017). The effectiveness of universal design for learning: A meta-analysis of literature between 2013 and 2016. *International Journal of Inclusive Education, 21*(8), 791–807. [doi:10.1080/13603116.2017.1325074](https://doi.org/10.1080/13603116.2017.1325074)
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning*. ASCD. [https://www.cast.org/products-teaching-every-student](https://www.cast.org/products-teaching-every-student)
 - U.S. Office of Educational Technology. (2016). *United States National Educational Technology Plan*. U.S. Department of Education. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/us_national_ed_tech_plan](https://edtechbooks.org/lidtfoundations/us_national_ed_tech_plan)
+- Robinson, Peter J. (1988). Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon. Paper presented at the 22nd Annual TESOL Convention, Chicago. https://eric.ed.gov/?id=ED296585
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -245,4 +258,48 @@ UDL shifts the design question from "how do we fix this learner?" to "how do we 
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning*. ASCD. [https://www.cast.org/products-teaching-every-student](https://www.cast.org/products-teaching-every-student)
 - U.S. Office of Educational Technology. (2016). *United States National Educational Technology Plan*. U.S. Department of Education. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/us_national_ed_tech_plan](https://edtechbooks.org/lidtfoundations/us_national_ed_tech_plan)
 
+-->
+
+<!-- merged 2026-10-07 from principles/diverse-exercise-types-learning-styles ("Vocabulary materials should offer diverse exercise types to accommodate varied learning styles"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Vocabulary materials should offer diverse exercise types to accommodate varied learning styles
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Robinson argues there is no single way of learning vocabulary suitable to all learners: some enjoy lists, dictionary work or sifting stories for unknown words, while others differ in eagerness to convert passive knowledge into use. Materials should therefore present as diverse a range of exercise types as possible, rather than being preoccupied with one technique such as the keyword approach, collocational grids, or gap-filling in contrived text.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Materials need to attempt to present as diverse a range of exercise types as possible to accommodate the plurality of learner preferences
+#### Constraints
+- In Bahrain, rote-style declarative exercises were retained deliberately as a starting point and for learning comfort and continuity with Koranic study habits, not as the main way to learn vocabulary use
+
+### Target Learners
+- second language learners with differing study preferences, including learners with rote-memorisation learning backgrounds
+
+### Target Learning Objectives
+- vocabulary development across declarative and procedural dimensions
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Paraphrase exercises using general basic words to assimilate meaning](../strategies/basic-word-paraphrase-strategic-exercises.md)
+- [Word-net exercises linking lexical knowledge to grammatical awareness](../strategies/word-net-grammar-via-lexis.md)
+- [Word-set exercises for contextualising vocabulary via imagined possible worlds](../strategies/word-set-possible-worlds-exercises.md)
+- [Respect Diverse Talents and Ways of Learning](../strategies/respect_diverse_talents_and_ways_of_learning.md)
+- [Cultivate Multiple Ways of Knowing and Making Meaning](../strategies/cultivate_multiple_ways_of_knowing_and_making_meaning.md)
+- [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
+- [Accommodate Varying Technology Experience](../strategies/accommodate_varying_technology_experience.md)
+
+## Key Sources
+- Robinson, Peter J. (1988). Procedural and Declarative Knowledge in Vocabulary Learning: Communication and the Language Learner's Lexicon. Paper presented at the 22nd Annual TESOL Convention, Chicago. https://eric.ed.gov/?id=ED296585
 -->

@@ -48,7 +48,7 @@ The article organizes its synthesis around Bandura's four experiences critical t
 
 ## Examples
 
-- [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/vicarious-before-mastery-teacher-development.md)
+- [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/sequencing.md)
 
 ## Key Sources
 - McKim, A. J., & Velez, J. J. (2016). An Evaluation of the Self-Efficacy Theory in Agricultural Education. Journal of Agricultural Education, 57(1), 73-90. https://doi.org/10.5032/jae.2016.01073

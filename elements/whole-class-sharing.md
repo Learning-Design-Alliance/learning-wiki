@@ -65,13 +65,13 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 
 ## Patterns That Use This Element
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the "share" phase is whole-class reporting of pair conclusions
-- [Jigsaw](../patterns/jigsaw-method.md) — expert groups report back so the class assembles the full picture
+- [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md) — expert groups report back so the class assembles the full picture
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — sharing structures the whole-class segment of discussion sequences
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — groups present findings for collective critique and synthesis
 
 ## Examples
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** — pairs rehearse ideas privately before public sharing, lowering the risk of the whole-class phase
-- **[Jigsaw Method](../patterns/jigsaw-method.md)** — each expert reports a piece of the content; the class cannot succeed without every share
+- **[Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)** — each expert reports a piece of the content; the class cannot succeed without every share
 - **Socratic Seminar** — students present and challenge interpretations in a whole-class circle governed by text-evidence norms
 - **Gallery Walk** — written group products are posted and toured, converting simultaneous small-group sharing into a whole-class exchange
 

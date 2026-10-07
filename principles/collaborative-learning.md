@@ -85,7 +85,7 @@ Group performance during the task, individual understanding straight after it, d
 
 **[Collaborative Learning](../patterns/collaborative-learning.md)** — A shared-work pattern in which learners are jointly responsible for meaning-making rather than simply co-located.
 
-**[Jigsaw Method](../patterns/jigsaw-method.md)** — Learners build distributed expertise and then teach one another, making interdependence explicit.
+**[Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)** — Learners build distributed expertise and then teach one another, making interdependence explicit.
 
 **[Collaborative Inquiry](../elements/collaborative-inquiry.md)** — Groups investigate a question together and synthesize evidence, requiring reasoning to be externalized and coordinated.
 

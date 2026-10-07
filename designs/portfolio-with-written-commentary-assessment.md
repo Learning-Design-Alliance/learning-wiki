@@ -41,7 +41,7 @@ The digest describes a uniform assessment structure in which "a school-site port
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
 
 ## Related Patterns
-- [Performance Based Teacher Certification Assessment](../principles/performance-based-teacher-certification-assessment.md)
+- [Performance Based Teacher Certification Assessment](../principles/competency-based-assessment.md)
 
 ## Examples
 -

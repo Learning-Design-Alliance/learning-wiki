@@ -47,7 +47,7 @@ The effective time constant (te) is a construct embodying machine properties des
 
 ## Examples
 
-- [Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant](../principles/gain-then-time-constant-adaptive-progression.md)
+- [Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant](../principles/adaptive-learning.md)
 
 ## Key Sources
 - Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585

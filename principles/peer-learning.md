@@ -74,7 +74,7 @@ Peer learning is strongest when learners are asked to do real intellectual work 
 
 **[Peer Instruction](../patterns/peer-instruction.md)** — Learners answer a conceptual question individually, discuss reasoning with peers, then revise their answer.
 
-**[Jigsaw Method](../patterns/jigsaw-method.md)** — Each learner becomes a temporary expert and teaches part of the whole to peers.
+**[Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)** — Each learner becomes a temporary expert and teaches part of the whole to peers.
 
 **Peer revision or peer explanation routines** — Learners respond to drafts, interpretations, or solutions and improve their own understanding through explaining what works and why.
 

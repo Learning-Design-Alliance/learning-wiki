@@ -61,6 +61,29 @@ converted.
 `settle_candidates.py --backlog` settles the 277 non-canonical principle and pattern pages that batches wrote before
 the ledger, as if they were candidates. It writes nothing: it measures what folding them would do.
 
+**Applied 2026-10-07 (maintainer's go-ahead).** Of the 220 pages the backlog run would attach, `--fold-backlog`
+asked a second model, twice and independently, whether each page really is the canonical page's idea or a narrower
+case of it.
+- **The two reads agreed on 97, and only those were folded** by `merge_pages.py`. On the folded-into pages, 15
+  markers above their claim's cap were lowered, and 10 aliases stamped across kinds were removed.
+- **The refusals read right**: Hunter's model is not Direct Instruction, and JiTT is not generic just-in-time
+  support.
+- **Every decision and refusal is in `backlog-folds.ndjson`.**
+- **The 179 pages not folded are open candidates in the ledger** (`origin: page`), so a later batch can join a
+  second source to them.
+
+**A synthesis promotes only an extracted candidate.** An existing page's claim links include every claim later
+linking added, so for a page only two independent sources promote.
+
+**Promoted:**
+- `principles/match-interventions-to-stages-of-concern`: Hall & Rutherford (1983), with Hall (1978) folded in;
+- `principles/include-caregivers-as-self-regulation-coaches`: Murray & Rosanbalm (2017).
+
+Both were converted by agents and pass `check_design_page.py`, and neither has a claim that tests its relationship.
+
+**Not promoted:** Bue (1979) with Chorianopoulos (2018). The pairing is loose, and teaching- and learning-style
+compatibility is the matching idea that `learning-styles-matching-does-not-improve-learning` counts against.
+
 ## First runs (2026-10-07)
 
 | Run | Candidates | attach | new | join | design | drop | Cost |

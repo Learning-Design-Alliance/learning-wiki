@@ -1,6 +1,7 @@
 ---
 type: principle
 id: motivation
+aliases: [target-expectancy-value-components-in-teacher-ai-training]
 title: Motivation
 description: "For a learner whose effort or persistence is low, motivation is expected to rise when the design repairs the component that is low for that learner (expectancy of success, task value, ownership, or belonging) rather than adding generic boosts, and to raise learning only through effort on a task that demands thinking; claims test single components, and none tests the matching relationship."
 status: review
@@ -16,12 +17,16 @@ sources:
     resource: "https://doi.org/10.1146/annurev.psych.53.100901.135153"
     title: "Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109-132"
     author: "Eccles, J. S., & Wigfield, A"
+  - id: yurt-2024
+    resource: "https://eric.ed.gov/?id=ED673212"
+    title: "Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212"
+    author: Yurt, E
 ---
 
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 29 studies (12 review, 8 causal, 6 quant-synthesis, 3 theoretical), `q1`–`q4` · 5 of 29 report an effect size · 7 claims rest on one study
+> **Evidence** · 22 claims (13 for, 9 mixed) · 30 studies (12 review, 8 causal, 6 quant-synthesis, 4 theoretical), `q1`–`q4` · 5 of 30 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +138,11 @@ Claims that bear on the relationship but are not part of the model above; severa
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [~M] — a meta-analysis of correlations (r = −.28); direction not established. Bears on learners whose expectancy is low because of anxiety.
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [+M] — two meta-analyses of correlational studies; bears on the belonging component, and is modelled on [Engagement](engagement.md).
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](../claims/effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) [+W] — an ERIC digest's argument from expectancy-value theory, coded `q1`, no data. It states the expectancy and value components this page uses; it is not evidence that addressing them works.
+- [Teacher Expectancy Beliefs Shape Motivation To Use Ai](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]
+- [Teacher Attainment Value Increases Motivation To Use Ai](../claims/teacher-attainment-value-increases-motivation-to-use-ai.md) [+W]
+- [Teacher Utility Value Increases Motivation To Use Ai](../claims/teacher-utility-value-increases-motivation-to-use-ai.md) [+W]
+- [Teacher Intrinsic Interest Value Increases Motivation To Use Ai](../claims/teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) [+W]
+- [Teacher Perceived Cost Reduces Motivation To Use Ai](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -147,18 +157,18 @@ The matching rule should be dropped if comparisons show that a move aimed at the
 Starting, effort, voluntary persistence, enjoyment, reported motivation and learning of the target are separate claims. The present evidence does not establish how to diagnose the low component reliably, how long a raised level lasts, or how much motivation is enough.
 
 ## Related Principles
-- [Learner Choice](learner-choice.md) — one route to stronger ownership and autonomy
+- [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — motivation often strengthens when learners can see progress toward meaningful goals
 - [Engagement](engagement.md) — motivation and engagement are closely linked but not identical
-- [Autonomy](autonomy.md) — owns the ownership component of this page's model: when choice helps, and the controlling side of rewards and praise
 - [Self-Regulated Learning](self-regulated-learning.md) — what a motivated learner does next: planning, monitoring and choosing a strategy
 - [Authentic Audiences and Purposes](authentic-audiences-purposes.md) — a real audience as a source of task value
+- [Supports To Raise Teacher Expectancy And Value For Ai Use](../strategies/supports-to-raise-teacher-expectancy-and-value-for-ai-use.md)
 
 ## Examples
 
 ### Illustrative
 
-**[Learner Choice](learner-choice.md)** — Meaningful options can increase ownership when they remain aligned to shared goals.
+**[Learner Choice](autonomy.md)** — Meaningful options can increase ownership when they remain aligned to shared goals.
 
 **[Game-Based Learning](game-based-learning.md)** — Carefully designed challenge, progression, and feedback can increase willingness to persist.
 
@@ -167,6 +177,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 ## Key Sources
 - Ryan, R. M., & Deci, E. L. (2020). *Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions*. Contemporary Educational Psychology, 61, 101860. [https://doi.org/10.1016/j.cedpsych.2020.101860](https://doi.org/10.1016/j.cedpsych.2020.101860)
 - Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109-132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)
+- Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -214,7 +225,7 @@ Motivation matters because learners do not invest effort purely because instruct
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can strengthen motivation by making effort feel productive
 
 ## Related Principles
-- [Learner Choice](learner-choice.md) — one route to stronger ownership and autonomy
+- [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — motivation often strengthens when learners can see progress toward meaningful goals
 - [Engagement](engagement.md) — motivation and engagement are closely linked but not identical
 
@@ -222,7 +233,7 @@ Motivation matters because learners do not invest effort purely because instruct
 
 ### Illustrative
 
-**[Learner Choice](learner-choice.md)** — Meaningful options can increase ownership when they remain aligned to shared goals.
+**[Learner Choice](autonomy.md)** — Meaningful options can increase ownership when they remain aligned to shared goals.
 
 **[Game-Based Learning](game-based-learning.md)** — Carefully designed challenge, progression, and feedback can increase willingness to persist.
 
@@ -231,4 +242,46 @@ Motivation matters because learners do not invest effort purely because instruct
 ## Key Sources
 - Ryan, R. M., & Deci, E. L. (2020). *Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions*. Contemporary Educational Psychology, 61, 101860. [https://doi.org/10.1016/j.cedpsych.2020.101860](https://doi.org/10.1016/j.cedpsych.2020.101860)
 - Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109-132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)
+-->
+
+<!-- merged 2026-10-07 from principles/target-expectancy-value-components-in-teacher-ai-training ("Target Each Expectancy-Value Component in Policy and Teacher Training for AI"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Target Each Expectancy-Value Component in Policy and Teacher Training for AI
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+The paper's concluding recommendation: educational policies and teacher training programs for AI integration should address every component of Expectancy-Value Theory. It "highlighted the importance of increasing teachers' expectations, attainment values, utility values, and intrinsic/interest values regarding the use of AI applications", and discussed strategies for reducing cost perceptions, repeating in each section that such programs are "of great importance".
+
+## Design Implications
+
+### Context
+#### Requirements
+- Programs aim to increase expectancy, attainment value, utility value and intrinsic/interest value, and to reduce cost perceptions, regarding AI use.
+#### Constraints
+- Offered as a theoretical recommendation; the paper calls for future research on the specific factors that influence teachers' expectancy and value components.
+
+### Target Learners
+- In-service teachers considering the use of AI applications in their classrooms
+
+### Target Learning Objectives
+- More widespread and effective use of AI technologies in education by teachers
+
+### Claims
+- [Teacher Expectancy Beliefs Shape Motivation To Use Ai](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]
+- [Teacher Attainment Value Increases Motivation To Use Ai](../claims/teacher-attainment-value-increases-motivation-to-use-ai.md) [+W]
+- [Teacher Utility Value Increases Motivation To Use Ai](../claims/teacher-utility-value-increases-motivation-to-use-ai.md) [+W]
+- [Teacher Intrinsic Interest Value Increases Motivation To Use Ai](../claims/teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) [+W]
+- [Teacher Perceived Cost Reduces Motivation To Use Ai](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
+
+## Related Principles
+- [Motivation](motivation.md)
+- [Supports To Raise Teacher Expectancy And Value For Ai Use](../strategies/supports-to-raise-teacher-expectancy-and-value-for-ai-use.md)
+
+## Examples
+-
+
+## Key Sources
+- Yurt, E. (2024). Theoretical Examination of Teachers' Motivations for Using Artificial Intelligence Applications in Education: Expectancy-Value Theory Perspective. In M. S. Ozturk, A. Kaban, & M. Unal (Eds.), Proceedings of ICSES 2024-- International Conference on Studies in Education and Social Sciences (pp. 149-158), Istanbul, Turkiye. ISTES. https://eric.ed.gov/?id=ED673212
 -->

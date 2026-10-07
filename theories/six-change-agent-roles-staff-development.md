@@ -48,7 +48,7 @@ The project adopts a change-agent role framework, attributed by the report to wr
 
 ## Examples
 
-- [Change facilitators should work in a diagnostic/prescriptive mode, matching interventions to the user's level](../principles/diagnostic-prescriptive-change-facilitation.md)
+- [Change facilitators should work in a diagnostic/prescriptive mode, matching interventions to the user's level](../principles/match-interventions-to-stages-of-concern.md)
 - [Train indigenous adult educators in task analysis to build state needs-assessment capability](../strategies/task-analysis-training-indigenous-educators.md)
 
 ## Key Sources

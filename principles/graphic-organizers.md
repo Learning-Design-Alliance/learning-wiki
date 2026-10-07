@@ -1,6 +1,7 @@
 ---
 type: principle
 id: graphic-organizers
+aliases: [graphic-organizers-scaffold-comprehension-principle, semantic-mapping-principle]
 title: Graphic Organizers
 description: "For learners who do not yet hold a material's structure, a diagram whose layout matches that structure, provided first and later built and explained by the learner, is expected to improve comprehension and retention over text alone; concept-map meta-analyses test this for node-link maps, and no claim tests other organizer forms, partial organizers or fading."
 status: review
@@ -20,12 +21,20 @@ sources:
     resource: "https://doi.org/10.1007/s11145-008-9142-x"
     title: "MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. *Reading and Writing, 22*(9), 1021-1039"
     author: "MacArthur, C. A., & Lembo, L"
+  - id: using-graphic-organizers-in-instruction-a-review-of-research-and-teacher-practice-1998
+    resource: "https://eric.ed.gov/?id=ED427095"
+    title: "Using Graphic Organizers in Instruction: A Review of Research and Teacher Practice. (1998). https://eric.ed.gov/?id=ED427095"
+    author: "Using Graphic Organizers in Instruction: A Review of Research and Teacher Practice"
+  - id: jonassen-1984
+    resource: "https://eric.ed.gov/?id=ED258538"
+    title: "Jonassen, D. H. (1984). Semantic relationships and structural knowledge acquisition in introductory psychology. https://eric.ed.gov/?id=ED258538"
+    author: Jonassen, D. H
 ---
 
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 28 studies (11 causal, 7 quant-synthesis, 6 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 8 of 28 report an effect size · 7 claims rest on one study
+> **Evidence** · 18 claims (10 for, 7 mixed, 1 against) · 32 studies (13 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 32 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +123,8 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [The same quizzing or concept-mapping activity produces more learning when done without viewing the material](../claims/closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) [+M] and [Collaborative concept mapping enhances learning more than individual concept mapping](../claims/interactive-beats-constructive-concept-mapping.md) [+W]: both second-hand, from review or framework articles that summarise other studies.
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [~W]: an author's interpretation in a 1984 study, not a tested result.
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]: graphics added to text improved reading comprehension (g = 0.39, 39 experiments, elementary to adult), with pictures, pictorial diagrams and flow diagrams not differing; it does not isolate graphic organizers.
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~W]
+- [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -145,12 +156,28 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - **Partially completed organizers**: Instructors prefill key nodes and ask learners to supply connections or examples.
 - [Graphic Organizers](../elements/graphic-organizers.md), [Concept Mapping](../elements/concept-mapping.md) and [Advance Organizers](../elements/advance-organizers.md) — the elements that carry this principle.
 - [Graphic Organizers for Note-Taking](../strategies/graphic_organizers_for_note-taking.md) — learners structure notes from readings or lectures in an organizer.
+- [KWL Charts](../strategies/kwl-charts.md)
+- [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
+- [KWL Chart](../strategies/kwl_chart.md)
+- [KWL Chart](../strategies/kwl-chart.md)
+- [Note-Taking Using Graphic Organizers](../strategies/note-taking_using_graphic_organizers.md)
+- [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
+- [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
+- [Clarifying](../strategies/clarifying.md)
+- [KWL Charts](../strategies/kwl_charts.md)
+- [Student-generated mapping exercise](../strategies/student-generated-mapping-strategy.md)
+- [Teacher-provided graphic map as review](../strategies/teacher-provided-advance-graphic-map.md)
+- [Text Illustrations With Graphic Organizers](../strategies/text_illustrations_with_graphic_organizers.md)
+- [Graphic Organizers as Text Illustrations](../strategies/graphic_organizers_as_text_illustrations.md)
+- [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-guided-notes.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.
 - Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. *The Journal of Educational Research, 100*(2), 103-111. [https://doi.org/10.3200/JOER.100.2.103-111](https://doi.org/10.3200/JOER.100.2.103-111)
 - Singleton, S. M., & Filce, H. G. (2015). Graphic organizers for secondary students with learning disabilities. *Teaching Exceptional Children, 48*(2), 110-117. [https://doi.org/10.1177/0040059915605799](https://doi.org/10.1177/0040059915605799)
 - MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. *Reading and Writing, 22*(9), 1021-1039. [https://doi.org/10.1007/s11145-008-9142-x](https://doi.org/10.1007/s11145-008-9142-x)
+- Using Graphic Organizers in Instruction: A Review of Research and Teacher Practice. (1998). https://eric.ed.gov/?id=ED427095
+- Jonassen, D. H. (1984). Semantic relationships and structural knowledge acquisition in introductory psychology. https://eric.ed.gov/?id=ED258538
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -214,4 +241,103 @@ Graphic organizers help when the structure of a task matters as much as its cont
 - Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. *The Journal of Educational Research, 100*(2), 103-111. [https://doi.org/10.3200/JOER.100.2.103-111](https://doi.org/10.3200/JOER.100.2.103-111)
 - Singleton, S. M., & Filce, H. G. (2015). Graphic organizers for secondary students with learning disabilities. *Teaching Exceptional Children, 48*(2), 110-117. [https://doi.org/10.1177/0040059915605799](https://doi.org/10.1177/0040059915605799)
 - MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. *Reading and Writing, 22*(9), 1021-1039. [https://doi.org/10.1007/s11145-008-9142-x](https://doi.org/10.1007/s11145-008-9142-x)
+-->
+
+<!-- merged 2026-10-07 from principles/graphic-organizers-scaffold-comprehension-principle ("Use graphic organizers to scaffold expository text comprehension and involve students in completing them"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Use graphic organizers to scaffold expository text comprehension and involve students in completing them
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q3`–`q4` · 4 of 7 report an effect size
+
+## Description
+Teachers should use graphic organizers to structure lessons and material, pre-teach vocabulary, and activate prior knowledge when teaching expository text. To optimize learning, instructors should involve students in completing organizers rather than always providing completed ones, train learners in their correct use, and choose timing strategically: before reading to activate prior knowledge, during or after reading to organize and consolidate information. The document reports that teachers perceive greater engagement when students are actively involved in completing organizers.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Train learners in the correct use of organizers
+- Involve students actively in completing organizers
+#### Constraints
+- Long-term comprehension gains are less consistently reported than short-term gains; effectiveness varies by grade level and method of completion
+
+### Target Learners
+- K-12 students reading expository text
+
+### Target Learning Objectives
+- Comprehension of expository text
+- Engagement with instructional material
+
+### Claims
+
+- Graphic Organizers Improve Expository Comprehension [+M]
+- [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+S]
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~W]
+- [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [KWL Charts](../strategies/kwl-charts.md)
+- [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
+- [KWL Chart](../strategies/kwl_chart.md)
+- [KWL Chart](../strategies/kwl-chart.md)
+- [Note-Taking Using Graphic Organizers](../strategies/note-taking_using_graphic_organizers.md)
+- [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
+- [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
+- [Clarifying](../strategies/clarifying.md)
+- [KWL Charts](../strategies/kwl_charts.md)
+
+## Key Sources
+- Using Graphic Organizers in Instruction: A Review of Research and Teacher Practice. (1998). https://eric.ed.gov/?id=ED427095
+-->
+
+<!-- merged 2026-10-07 from principles/semantic-mapping-principle ("Semantic mapping"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Semantic mapping
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+
+## Description
+Graphically depicting key concepts and their interrelationships helps convey and build structural knowledge by mapping the expert's knowledge structure onto the learner's. The article shows this can be done either by providing expert-generated maps or by having students generate their own maps, and that both routes produced similar overall structural-knowledge outcomes in introductory psychology.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Requires term lists and content selected so that cognitive demands on learners are not excessive
+#### Constraints
+- Benefits may be reduced when mapping tasks impose too great a cognitive load, e.g., too many terms to relate
+
+### Target Learners
+- introductory psychology students
+
+### Target Learning Objectives
+- acquisition of structural knowledge of concept interrelationships
+
+### Claims
+
+- Semantic Mapping Improves Structural Knowledge [+M]
+- Teacher Provided And Student Generated Maps Similarly Effective [+M]
+- [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [~W]
+- [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Student-generated mapping exercise](../strategies/student-generated-mapping-strategy.md)
+- [Teacher-provided graphic map as review](../strategies/teacher-provided-advance-graphic-map.md)
+- [Text Illustrations With Graphic Organizers](../strategies/text_illustrations_with_graphic_organizers.md)
+- [Graphic Organizers as Text Illustrations](../strategies/graphic_organizers_as_text_illustrations.md)
+- [Graphic Organizers](../strategies/graphic-organizers.md)
+- [Graphic Organizers/Guided Notes](../strategies/graphic-organizers-guided-notes.md)
+
+## Key Sources
+- Jonassen, D. H. (1984). Semantic relationships and structural knowledge acquisition in introductory psychology. https://eric.ed.gov/?id=ED258538
 -->

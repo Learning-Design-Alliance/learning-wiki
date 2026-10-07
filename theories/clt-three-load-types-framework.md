@@ -52,7 +52,7 @@ The article presents Cognitive Load Theory as a psychological theory from cognit
 
 ## Examples
 
-- [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/reduce-extraneous-optimize-intrinsic-increase-germane.md)
+- [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/cognitive-load-management.md)
 - [Chunking Text](../strategies/chunking-text.md)
 - [Chunking to Reduce Working Memory Load](../strategies/chunking_reduces_working_memory_load.md)
 - [Weeding](../strategies/weeding.md)

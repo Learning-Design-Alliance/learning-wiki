@@ -60,7 +60,7 @@ Cooperative learning reliably improves achievement when — and largely only whe
 
 ## Patterns That Use This Element
 - [Collaborative Learning](../patterns/collaborative-learning.md) — one of the defining conditions of effective cooperative structures
-- [Jigsaw](../patterns/jigsaw-method.md) — each member owns a unique segment and must teach it to peers; the interdependence is built on individual responsibility *(if linked page does not exist, see Johnson & Johnson, 2009)*
+- [Jigsaw](../patterns/fostering-communities-of-learning-fcl.md) — each member owns a unique segment and must teach it to peers; the interdependence is built on individual responsibility *(if linked page does not exist, see Johnson & Johnson, 2009)*
 
 ## Examples
 

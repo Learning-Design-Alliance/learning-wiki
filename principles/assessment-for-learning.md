@@ -1,6 +1,7 @@
 ---
 type: principle
 id: assessment-for-learning
+aliases: [formative-assessment-embedded-explicit-reflective-instruction]
 title: Assessment for Learning
 description: "Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged."
 status: review
@@ -16,12 +17,16 @@ sources:
     resource: "https://doi.org/10.1080/02602938.2016.1236360"
     title: "Hawe, E., & Dixon, H. (2017). Assessment for learning: A catalyst for student self-regulation. *Assessment & Evaluation in Higher Education, 42*(8), 1181-1192"
     author: "Hawe, E., & Dixon, H"
+  - id: mustafa-metin-2022
+    resource: "https://doi.org/10.17509/jsl.v5i1.33190"
+    title: "Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190"
+    author: Mustafa Metin
 ---
 
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 18 studies (6 quant-synthesis, 5 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 19 studies (6 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 6 of 19 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -59,6 +64,11 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Formative Assessment Embedded Explicit Reflective Higher Posttest Nos Sks](../claims/formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) [+M]
+- [Formative Assessment Embedded Explicit Reflective Higher Retention Nos Sks](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+M]
+- [Both Conditions Significant Prepost Gains Larger Experimental Effect Sizes](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]
+- [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](../claims/no-significant-posttest-retention-decline-either-group.md) [~W]
+- [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -90,6 +100,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - Harlen, W. (2006). On the relationship between assessment for formative and summative purposes. In J. Gardner (Ed.), *Assessment and learning* (pp. 103-117). Sage.
 - Patrick, H., Anderman, L. H., Ryan, A. M., Edelin, K. C., & Midgley, C. (2001). Teachers' communication of goal orientations in four fifth-grade classrooms. *The Elementary School Journal, 102*(1), 35-58.
 - Arduini-Van Hoose, N. (2020). Teacher's purpose and belief. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
+- Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; kept verbatim.
 ## Description
@@ -133,4 +144,51 @@ Assessment for learning works when evidence changes what happens next for the le
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — assessment evidence matters when it leads to a responsive next instructional move
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — low-stakes checks help learners notice what they understand and what still needs work
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — assessment for learning is stronger when it directs attention toward revision strategy and criteria, not only correctness
+-->
+
+<!-- merged 2026-10-07 from principles/formative-assessment-embedded-explicit-reflective-instruction ("Embed formative assessment within explicit-reflective NOS instruction by having prospective teachers design activities and revise them from feedback"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Embed formative assessment within explicit-reflective NOS instruction by having prospective teachers design activities and revise them from feedback
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+This principle holds that explicit-reflective teaching of the nature of science becomes more effective and durable when formative assessment is embedded in it. In the study, after each NOS activity the experimental group designed their own activities, presented them, and received feedback: "the academician provided feedback on whether the activities reflected the nature of scien ce" and then "rearranged their activities according to this feedback." The article reports this combination "caused more positive changes in pre -school prospective teachers' thoughts about the NOS and SK than explicit -reflective teaching instruction."
+
+## Design Implications
+
+### Context
+#### Requirements
+- Explicit-reflective NOS activities already in place
+- Prospective teachers design and present their own NOS activities
+- Instructor gives feedback on whether activities reflect NOS, and learners revise accordingly
+- Formative assessment integrated into instruction and continuous
+#### Constraints
+- Evidence comes from one quasi-experimental study with 66 pre-school prospective teachers; groups were pre-formed classes, not individually randomized
+
+### Target Learners
+- pre-school prospective teachers
+- pre-service science teachers
+
+### Target Learning Objectives
+- informed views about the nature of science
+- understanding of the characteristics of scientific knowledge
+
+### Claims
+
+- [Formative Assessment Embedded Explicit Reflective Higher Posttest Nos Sks](../claims/formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) [+M]
+- [Formative Assessment Embedded Explicit Reflective Higher Retention Nos Sks](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+M]
+- [Both Conditions Significant Prepost Gains Larger Experimental Effect Sizes](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]
+- [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](../claims/no-significant-posttest-retention-decline-either-group.md) [~W]
+- [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [~W]
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190
 -->

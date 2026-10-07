@@ -1,6 +1,7 @@
 ---
 type: principle
 id: understanding-cultivated-not-described
+aliases: [instructor-indirect-narration-studio]
 title: Understanding must be cultivated through exploration, not described or told
 description: "The paper's Table 1 asserts that \"Wisdom cannot be 'told'\" and that understanding must be cultivated rather than described, with understanding becoming deeper as learners \"get to know\" and explore it."
 status: draft
@@ -12,12 +13,16 @@ sources:
     resource: "https://eric.ed.gov/?id=ED397810"
     title: "Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810"
     author: Land, Susan M.; Hannafin, Michael J
+  - id: sözen-2024
+    resource: "https://doi.org/10.19128/turje.1495965"
+    title: "Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965"
+    author: "Sözen, G., & Özen-Yavuz, A"
 ---
 
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 design, 1 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper's Table 1 asserts that "Wisdom cannot be 'told'" and that understanding must be cultivated rather than described, with understanding becoming deeper as learners "get to know" and explore it. Related functions include learners formulating and modifying initial understanding and errors serving as useful data for refining understanding.
@@ -27,20 +32,27 @@ The paper's Table 1 asserts that "Wisdom cannot be 'told'" and that understandin
 ### Context
 #### Requirements
 - Environments must allow time for exploration and treat errors as data for refining understanding
+- Instructors must guide with clues and criticisms rather than theoretical lectures
+- Discussion environment examining all student practices without distinguishing good and bad compositions
 #### Constraints
 - Stated as an assumption grounded in the authors' synthesis, not an experimentally tested result
+- Applied in a face-to-face 6-hour weekly studio format
 
 ### Target Learners
 - learners in student-centered environments
+- first-year architecture students
 
 ### Target Learning Objectives
 - deep understanding beyond the information given
+- discovery of design principles
+- independent creative thinking
 
 ### Claims
 
 - [Student Centered Environments Assumptions Framework](../theories/student-centered-environments-assumptions-framework.md) [+M]
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](../claims/subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) [+W]
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W]
+- [Students Exemplified Clues Orally](../claims/students-exemplified-clues-orally.md) [+M]
 
 ## Related Principles
 
@@ -48,6 +60,48 @@ The paper's Table 1 asserts that "Wisdom cannot be 'told'" and that understandin
 
 ## Examples
 -
+- [Use discipline-specific clues as design problems to foster analyze and evaluate steps](../strategies/discipline-clues-as-design-problems.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810
+- Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965
+
+<!-- merged 2026-10-07 from principles/instructor-indirect-narration-studio ("Instructor avoids direct narration of design principles and shares only indirectly"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Instructor avoids direct narration of design principles and shares only indirectly
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+In the BRT-guided studio, the instructor's role shifts from lecturing to guiding through clues and indirect sharing. The article states: "the role of the instructor in this environment is to avoid direct narration about design principles, rules, and compositional concepts and to share only indirectly." A single truth is never referenced; positive and negative aspects of examples are discussed together, allowing all student discoveries to be revealed.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Instructors must guide with clues and criticisms rather than theoretical lectures
+- Discussion environment examining all student practices without distinguishing good and bad compositions
+#### Constraints
+- Applied in a face-to-face 6-hour weekly studio format
+
+### Target Learners
+- first-year architecture students
+
+### Target Learning Objectives
+- discovery of design principles
+- independent creative thinking
+
+### Claims
+- [Students Exemplified Clues Orally](../claims/students-exemplified-clues-orally.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use discipline-specific clues as design problems to foster analyze and evaluate steps](../strategies/discipline-clues-as-design-problems.md)
+
+## Key Sources
+- Sözen, G., & Özen-Yavuz, A. (2024). Proposing a course schedule for architectural basic design studio guided by Bloom's Revised Taxonomy. Turkish Journal of Education, 13(4), 379-409. https://doi.org/10.19128/turje.1495965
+-->

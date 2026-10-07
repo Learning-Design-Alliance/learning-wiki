@@ -1,6 +1,7 @@
 ---
 type: principle
 id: digital-learning
+aliases: [shared-whiteboard-dual-cohort-workspace]
 title: Digital Learning
 description: "Putting part of a course on a digital tool is expected to help only through the method it makes affordable (more practice with feedback, adaptive hints, prompts to explain, visible progress) and not through the medium itself; no claim here tests a digital against a non-digital version of the same method."
 status: review
@@ -12,12 +13,16 @@ sources:
     resource: "https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning"
     title: "Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online learning. *EDUCAUSE Review*"
     author: "Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A"
+  - id: qi-2022
+    resource: "https://doi.org/10.29140/jaltcall.v18n1.569"
+    title: "Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569"
+    author: "Qi, G. Y., & Wang, Y"
 ---
 
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (12 for, 14 mixed, 1 against) · 38 studies (11 causal, 9 quant-synthesis, 6 review, 6 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 9 of 38 report an effect size · 19 claims rest on one study
+> **Evidence** · 28 claims (13 for, 14 mixed, 1 against) · 39 studies (11 causal, 9 quant-synthesis, 6 review, 6 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 9 of 39 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +133,7 @@ Claims the earlier page cited, and claims found while rewriting, that bear on pa
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](../claims/online-communities-must-be-designed-and-scaffolded.md) [+W]. Authors' reflection on fully online units, coded q1.
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](../claims/human-embodiment-video-presence-effects.md) [~W]. A review of video-lecture studies: preference without a performance difference.
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](../claims/sms-vocabulary-learning-beats-paper-materials.md) [~W]. One 30-student study reported second-hand in a review. It is a whole-medium comparison of exactly the kind the media-comparison claim calls uninterpretable.
+- [Iterative Task Redesign Increased Engagement](../claims/iterative-task-redesign-increased-engagement.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -150,7 +156,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
-- [Learner Choice](learner-choice.md) — platforms can support alternative pathways, modalities, and pacing
+- [Learner Choice](autonomy.md) — platforms can support alternative pathways, modalities, and pacing
 - [Multimedia Learning](multimedia-learning.md) — digital environments frequently instantiate multimedia principles in practice
 - [Adaptive Learning](adaptive-learning.md) — owns choosing each learner's next task from their responses, the main reason to put practice on software
 - [Immediate Feedback](immediate-feedback.md) — owns when feedback should arrive; software makes it immediate by default, which is a choice to make, not a given
@@ -160,6 +166,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 ## Examples
 
 - [PeerWise online tool for student-authored multiple-choice question repositories](../elements/peerwise-online-mcq-authoring-tool.md)
+- [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
 
 ### Illustrative
 
@@ -174,6 +181,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 ## Key Sources
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.
 - Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online learning. *EDUCAUSE Review*. [https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning](https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning)
+- Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -220,7 +228,7 @@ Digital learning matters when technology changes what learners can access, rehea
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
-- [Learner Choice](learner-choice.md) — platforms can support alternative pathways, modalities, and pacing
+- [Learner Choice](autonomy.md) — platforms can support alternative pathways, modalities, and pacing
 - [Multimedia Learning](multimedia-learning.md) — digital environments frequently instantiate multimedia principles in practice
 
 ## Examples
@@ -239,4 +247,44 @@ Digital learning matters when technology changes what learners can access, rehea
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.
 - Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020). The difference between emergency remote teaching and online learning. *EDUCAUSE Review*. [https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning](https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning)
 
+-->
+
+<!-- merged 2026-10-07 from principles/shared-whiteboard-dual-cohort-workspace ("Use a shared synchronous whiteboard as the common workspace for both face-to-face and online cohorts"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Use a shared synchronous whiteboard as the common workspace for both face-to-face and online cohorts
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article shows a teacher uploading slides to the Collaborate whiteboard rather than projecting them, so that "both cohorts to see, write and highlight the contents on the slides to help with their task completion". The whiteboard served as a shared learning space, reduced multitasking and device-switching, allowed anonymous colour-coded student notetaking, and sat centrally in the interface to draw both cohorts' attention.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A synchronous platform with a shared, annotatable whiteboard visible to both cohorts
+#### Constraints
+- Described for a dual-cohort blended classroom using Blackboard Collaborate; anonymity depended on students choosing their own colour codes
+
+### Target Learners
+- higher-education language students in blended face-to-face and online cohorts
+
+### Target Learning Objectives
+- task participation and interaction
+- comprehension support during synchronous tasks
+- peer notetaking and feedback
+
+### Claims
+- [Iterative Task Redesign Increased Engagement](../claims/iterative-task-redesign-increased-engagement.md) [+M]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
+
+## Key Sources
+- Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic Systems approach to exploring language teacher agency in a blended classroom. The JALT CALL Journal, 18(1). https://doi.org/10.29140/jaltcall.v18n1.569
 -->

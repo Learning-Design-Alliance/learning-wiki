@@ -45,7 +45,7 @@ Item position effects (IP effects) are defined as "the interaction between the p
 
 ## Examples
 
-- [Position the same items in similar locations across different test booklets to avoid position-related DIF](../principles/similar-item-positions-across-booklets.md)
+- [Position the same items in similar locations across different test booklets to avoid position-related DIF](../principles/standardized-test-fairness-and-bias.md)
 
 ## Key Sources
 - Soysal, S., & Yilmaz Kogar, E. (2021). An Investigation of Item Position Effects by Means of IRT-Based Differential Item Functioning Methods. International Journal of Assessment Tools in Education, 8(2), 239-256. https://doi.org/10.21449/ijate.779963

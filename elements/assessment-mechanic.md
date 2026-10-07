@@ -75,7 +75,6 @@ The source's central warning is that instantiating an assessment mechanic as a g
 ### Affordances
 - [Formative Assessment](../principles/formative-assessment.md) — an assessment mechanic is formative assessment that runs continuously and invisibly rather than at a checkpoint
 - [Game-based Learning](../principles/game-based-learning.md) — the measurement half of designing a game that teaches
-- [Learning Embedded in the Core Mechanic](../principles/learning-embedded-in-the-core-mechanic.md) — the same bolt-on failure, and the same remedy, applied to assessment
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->

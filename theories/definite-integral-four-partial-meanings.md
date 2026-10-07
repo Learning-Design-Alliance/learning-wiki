@@ -46,7 +46,7 @@ The article proposes that instruction should distinguish four partial meanings o
 
 ## Examples
 
-- [Plan integral instruction around the articulation of partial meanings, since the intuitive meaning alone is insufficient](../principles/articulate-partial-meanings-integral-planning.md)
+- [Plan integral instruction around the articulation of partial meanings, since the intuitive meaning alone is insufficient](../principles/sequencing.md)
 
 ## Key Sources
 - Burgos, M., Bueno, S., Godino, J.D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cognitive-flexibility
+aliases: [represent-procedures-as-shared-resources-to-clarify-thinking]
 title: Cognitive Flexibility
 description: "Revisiting the same concepts across several cases, perspectives or representations that differ in how the concept applies, with explicit prompts to compare them, is expected to help learners with some but rigid knowledge of an ill-structured domain transfer it to a new case at a short horizon; it may cost factual recall, novices may need a simpler start, and delayed effects are untested here."
 status: review
@@ -12,12 +13,16 @@ sources:
     resource: "https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn"
     title: "Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301-333"
     author: "Jacobson, M. J., & Spiro, R. J"
+  - id: black-2009
+    resource: "https://perlnet.umaine.edu/imt/"
+    title: "Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/"
+    author: Black, K.E. and Wittmann, M.C
 ---
 
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 14 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 15 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +104,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
+- [Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method](../claims/students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) [+W]
+- [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](../claims/students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) [+W]
+- [Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar](../claims/students-initially-omit-variables-from-integration-limits.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -116,8 +124,12 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 - [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation
 - [Constructivist Learning](constructivism.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
 - [Cognitive Disequilibrium](cognitive-disequilibrium.md) — contradiction and instability can sometimes trigger the need for more flexible models
+- [Two Facets Making Meaning Of Mathematics Epistemic Game](../theories/two-facets-making-meaning-of-mathematics-epistemic-game.md)
 
 ## Examples
+- [Intermediate Mechanics Tutorials](../elements/intermediate-mechanics-tutorials-imt.md)
+- [Math Talks](../strategies/math_talks.md)
+- [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
 
 ### Illustrative
 
@@ -130,6 +142,7 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 ## Key Sources
 - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1991). Cognitive flexibility, constructivism, and hypertext. *Educational Technology, 31*(5), 24-33.
 - Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. *Journal of Educational Computing Research, 12*(4), 301-333. [https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn](https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn)
+- Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above; the previous body is kept verbatim.
 
@@ -172,4 +185,48 @@ Cognitive flexibility matters most in ill-structured domains where oversimplifie
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — flexible transfer is stronger when learners encounter knowledge in integrated, contextualized use
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explanation across cases and perspectives can deepen flexible understanding
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices may still need staged simplification before they can benefit from high variability
+-->
+
+<!-- merged 2026-10-07 from principles/represent-procedures-as-shared-resources-to-clarify-thinking ("Represent two correct mathematical procedures in terms of shared resources to clarify student thinking and address failures to connect ideas"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Represent two correct mathematical procedures in terms of shared resources to clarify student thinking and address failures to connect ideas
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The authors recommend modeling multiple valid solution procedures as pathways over shared conceptual and procedural resources, so instruction can target the connections between them. By representing the +C and limits methods "in terms of shared resources", they "help clarify the types of thinking in which students engage when learning to apply mathematical reasoning to physics" and illustrate how a "failure to connect" two ideas often hinders students' successful problem solving.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Requires transcript or observational data from which procedural resources and their activation can be inferred, and a resource graph representation linking procedural to conceptual resources.
+#### Constraints
+- The authors note their description of three chosen instances is not meant to deny that other events could have happened at other times, and resource-graph links reflect only what was observed in this context.
+
+### Target Learners
+- intermediate mechanics undergraduates learning to apply mathematical reasoning to physics
+
+### Target Learning Objectives
+- connecting mathematical procedures to physical reasoning when solving differential equations
+
+### Claims
+
+- Students Initially Leave Out Variables From Integration Limits [+M]
+- [Intermediate mechanics students start the semester more familiar with the integration constants (+C) method than with the limits method, and the +C method remains preferred by at least one student even after instruction modeling the limits method](../claims/students-start-semester-more-familiar-with-integration-constants-method-than-limits-method.md) [+W]
+- [Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign](../claims/students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign.md) [+W]
+- [Students initially leave variables out of their integration limits, using only numerical values, suggesting that variable ('running') limits of integration are unfamiliar](../claims/students-initially-omit-variables-from-integration-limits.md) [+W]
+
+## Related Principles
+- [Two Facets Making Meaning Of Mathematics Epistemic Game](../theories/two-facets-making-meaning-of-mathematics-epistemic-game.md)
+
+## Examples
+
+- [Intermediate Mechanics Tutorials](../elements/intermediate-mechanics-tutorials-imt.md)
+- [Math Talks](../strategies/math_talks.md)
+- [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
+
+## Key Sources
+- Black, K.E. and Wittmann, M.C. (2009). Understanding the use of two integration methods on separable first order differential equations. https://perlnet.umaine.edu/imt/
 -->

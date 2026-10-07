@@ -51,7 +51,7 @@ Cognitive elaboration is defined as the generation and integration of new inform
 
 ## Examples
 
-- [Choose instructional strategies that promote self-generated elaboration to foster knowledge transfer and accounting expertise](../principles/promote-self-generated-elaboration-for-expertise.md)
+- [Choose instructional strategies that promote self-generated elaboration to foster knowledge transfer and accounting expertise](../principles/elaborative-reasoning.md)
 - [Connect Prior Knowledge to New Learning](../strategies/connect_prior_knowledge_to_new_learning.md)
 - [Making Connections](../strategies/making_connections.md)
 - [Elaborative Interrogation](../strategies/elaborative-interrogation.md)

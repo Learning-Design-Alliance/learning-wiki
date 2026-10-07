@@ -62,7 +62,7 @@ Cooperative teaching works because explanation requires learners to retrieve, or
 ## Related Strategies
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a formalized turn-taking structure in which students alternate teaching roles on comprehension strategies
 - [Peer Tutoring](../strategies/peer-tutoring.md) — the dyadic, often ability-matched variant of the same mechanism
-- [Jigsaw Method](../patterns/jigsaw-method.md) — cooperative teaching where each student owns a unique content segment
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — cooperative teaching where each student owns a unique content segment
 
 ## Examples
 - **Math teach-back**: after solving a multi-step problem, students explain their solution path to a partner before the class debrief; the partner must restate the reasoning in their own words.

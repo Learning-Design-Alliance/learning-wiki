@@ -48,7 +48,7 @@ The paper organizes listening skills into macro-language use, "the learning of e
 
 ## Examples
 
-- [Four-stage progression for teaching listening skills across proficiency levels](../patterns/rivers-four-stages-teaching-listening.md)
+- [Four-stage progression for teaching listening skills across proficiency levels](../principles/sequencing.md)
 - [Increase listening instruction time and replace audio-lingual pattern drills with listening comprehension materials](../strategies/increase-listening-time-replace-drills.md)
 
 ## Key Sources

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cognitive-load-theory
+aliases: [lower-extraneous-load-to-increase-germane-effort-in-stem]
 title: Cognitive Load Theory
 description: "For a task-specific novice on high-element-interactivity material, reducing avoidable processing is expected to improve performance or efficiency, a relationship that weakens or reverses as task-specific expertise grows."
 status: review
@@ -12,12 +13,16 @@ sources:
     resource: "https://doi.org/10.1023/A:1022193728205"
     title: "Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296"
     author: "Sweller, J., van Merriënboer, J. J. G., & Paas, F"
+  - id: gupta-2020
+    resource: "https://doi.org/10.20897/ejsteme/9252"
+    title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
+    author: "Gupta, U., & Zheng, R. Z"
 ---
 
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -53,6 +58,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Extraneous Cognitive Load Correlates Negatively With Germane Load And Probability Of Success](../claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) [+M]
+- [Germane Cognitive Load Correlates Positively With Interest](../claims/germane-cognitive-load-correlates-positively-with-interest.md) [+M]
 
 ## Objective and learner-valued goal
 
@@ -70,6 +77,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Scaffolding](scaffolding.md)
 - [Worked Examples](worked-examples.md)
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md)
+- [Cognitive Load Reduction](cognitive-load-reduction.md)
+- [Cognitive Load Management](cognitive-load-management.md)
 
 ## Examples
 - A novice algebra lesson uses a single integrated visual instead of separate text and diagram panels that learners must constantly coordinate.
@@ -77,6 +86,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)
+- Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
 <!-- deprecated 2026-10-01: superseded by the conditional model above; the principle body as it stood before the rewrite, kept verbatim.
 
@@ -109,4 +119,44 @@ Cognitive Load Theory implies that performance problems are often design problem
 ### Claims
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — design choices that organize information and reduce unnecessary search help preserve working-memory capacity
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — guidance calibrated for novices can lose value or become burdensome as expertise increases
+-->
+
+<!-- merged 2026-10-07 from principles/lower-extraneous-load-to-increase-germane-effort-in-stem ("Lower extraneous load in STEM materials to leave room for germane effort"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Lower extraneous load in STEM materials to leave room for germane effort
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Drawing on the negative extraneous-germane correlation, the authors state that "in order to increase learners’ efforts to learn (germane cognitive load), the educators must improve the design of instructional materials to lower the extraneous cognitive load", for example by removing redundancy or split-attention content. They also suggest interest may be used as a proxy for germane load.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Identify and remove redundant or split-attention content from instructional materials.
+#### Constraints
+- The supporting evidence is correlational self-report data; the study did not manipulate extraneous load.
+
+### Target Learners
+- Non-science major college students at a Research I university in the western United States
+
+### Target Learning Objectives
+- Solving simultaneous equation (systems of equations) algebra problems
+
+### Claims
+- [Extraneous Cognitive Load Correlates Negatively With Germane Load And Probability Of Success](../claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) [+M]
+- [Germane Cognitive Load Correlates Positively With Interest](../claims/germane-cognitive-load-correlates-positively-with-interest.md) [+M]
+
+## Related Principles
+- [Cognitive Load Reduction](cognitive-load-reduction.md)
+- [Cognitive Load Management](cognitive-load-management.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
+
+## Examples
+-
+
+## Key Sources
+- Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 -->

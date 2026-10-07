@@ -9,6 +9,11 @@ generated:
   at: 2026-10-05
 author: "Wiggins (1989, 1998)"
 grain_size: unit, course
+sources:
+  - id: dean-2014
+    resource: "https://eric.ed.gov/?id=EJ1176847"
+    title: "Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847"
+    author: Dean, A. C
 ---
 
 # Authentic Assessment
@@ -131,6 +136,7 @@ This pattern is scoped to judging a performance capability through an extended, 
 
 **Medical education — OSCEs (Objective Structured Clinical Examinations):** Students perform standardized patient encounters assessed with structured checklists and global ratings — a hybrid that adds scoring reliability to authentic performance.
 - [Blueprint-aligned OSCE station assessment for consent-taking skills](../elements/osce-blueprint-consent-domains-assessment.md)
+- [Scenario-based standardized assessments with simulated peer and teacher interaction](../elements/scenario-based-simulated-interaction-assessments.md)
 
 ## Key Sources
 - Wiggins, G. (1989). A true test: Toward more authentic and equitable assessment. *Phi Delta Kappan, 70*(9), 703–713. [doi:10.1177/003172171109200721](https://doi.org/10.1177/003172171109200721)
@@ -138,6 +144,7 @@ This pattern is scoped to judging a performance capability through an extended, 
 - Gulikers, J. T. M., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. *Educational Technology Research and Development, 52*(3), 67–86. [doi:10.1007/BF02504676](https://doi.org/10.1007/BF02504676)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*, 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
+- Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -246,4 +253,42 @@ Unit or course — authentic tasks typically anchor an extended sequence of prep
 - Gulikers, J. T. M., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. *Educational Technology Research and Development, 52*(3), 67–86. [doi:10.1007/BF02504676](https://doi.org/10.1007/BF02504676)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*, 261–292. [doi:10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5)
+-->
+
+<!-- merged 2026-10-07 from principles/interactional-authenticity-large-scale-assessment ("Design large-scale speaking assessments for interactional authenticity so tasks stimulate engagement and promote learning"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design large-scale speaking assessments for interactional authenticity so tasks stimulate engagement and promote learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The forum reports Hamp-Lyons's (2014) proposal to reconfigure the interlocutor's role in a Cambridge English speaking exam. A study of the current format found it "does not elicit language naturally or supply sufficient scaffolding to promote maximal performance and learning." If the interactional dimension of the assessment imitated real conversation scenarios, the task would stimulate engagement, improve performance, and promote learning; large-scale tests must align with classroom practices.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Interlocutor roles and elicitation formats that emulate real conversation scenarios
+#### Constraints
+- The current exam format's interlocutor role does not elicit language naturally or supply sufficient scaffolding
+
+### Target Learners
+- large-scale language exam candidates
+
+### Target Learning Objectives
+- language proficiency performance and learning through authentic interaction
+
+### Claims
+- 
+
+## Related Principles
+- 
+
+## Examples
+
+- [Scenario-based standardized assessments with simulated peer and teacher interaction](../elements/scenario-based-simulated-interaction-assessments.md)
+
+## Key Sources
+- Dean, A. C. (2014). The Interactional Dimension of LOA: Within and Beyond the Classroom. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176847
 -->

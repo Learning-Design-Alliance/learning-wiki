@@ -53,7 +53,7 @@ The article organizes its intervention around three robust and complementary lea
 
 ## Examples
 
-- [Augment a single-session financial education workshop with spaced retrieval practice opportunities scheduled days and weeks later](../principles/augment-single-session-workshop-with-spaced-retrieval.md)
+- [Augment a single-session financial education workshop with spaced retrieval practice opportunities scheduled days and weeks later](../principles/spaced-learning.md)
 
 ## Key Sources
 - Kang, S. H. K., Eglington, L. G., Schuetze, B. A., Lu, X., Hinterstoisser, T. M., & Huaco, J. (2023). Using Cognitive Science and Technology to Enhance Financial Education: The Effect of Spaced Retrieval Practice. Journal of Financial Counseling and Planning, 34(1), 20–31. https://doi.org/10.1891/JFCP-2021-0032

@@ -59,7 +59,7 @@ The bulletin organizes the main cooperative learning methods: Circles of Learnin
 - [Jigsaw Method](../strategies/jigsaw_method.md)
 - [Numbered Heads Together](../strategies/numbered-heads-together.md)
 - [Cooperative Classroom Activities](../strategies/cooperative_classroom_activities.md)
-- [Jigsaw Method](../patterns/jigsaw-method.md)
+- [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)
 - [Modified Jigsaw Activities](../strategies/modified_jigsaw_activities.md)
 - [Cooperative Learning Strategies](../strategies/cooperative_learning_strategies.md)
 

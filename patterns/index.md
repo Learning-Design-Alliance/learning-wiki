@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**136 entries** · 0 stable · 70 in review · 66 drafts
+**126 entries** · 0 stable · 69 in review · 57 drafts
 
 ---
 
@@ -65,7 +65,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### J {: #letter-j }
 
-* [Jigsaw Method](jigsaw-method.md) - The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture.
 * [Just-in-Time Learning](just-in-time-learning.md) - Just-in-time learning is the short-form canonical pattern for providing support, information, or practice at the moment it is needed for performance.
 
 #### L {: #letter-l }
@@ -134,48 +133,23 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [S](#letter-s) · [T](#letter-t)
-
-#### A {: #letter-a }
-
-* [Alternative In-School STEAM Learning Infrastructure](alternative-in-school-steam-learning-infrastructure.md) - A dedicated, ungraded, choice-rich block of school time built around a library of leveled STEAM challenges, peer expertise, and observing (not directing) facilitators — designed to make genuine interest-driven learning possible within, not just outside, the school day.
-
-#### B {: #letter-b }
-
 * [Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis](balanced-pronunciation-curriculum-three-areas.md) - The article proposes that a pronunciation curriculum balance three areas — suprasegmentals, segmentals, and fluency — because research has uncovered speech dimensions in all three that affect intelligibility and compr...
-
-#### C {: #letter-c }
-
 * [Computational Essay Writing](computational-essay-writing.md) - Students investigate a disciplinary question by extending a provided code simulation and writing a computational essay — a document mixing prose, executable code, and visualization — to explain their question, method, and findings to peers.
 * [Continually culling, clustering, and redefining the technology catalogue to track converging emergent technologies](evolving-technology-catalogue-for-adoption-survey.md) - The LoA instrument's technology list is treated as an evolving artifact: the authors report \"continually culling, refining, redefining and clustering our list of technologies\" to represent current emergent yet applica...
-
-#### D {: #letter-d }
-
 * [Data Storytelling — Forage, Remix, DIY](data-storytelling-forage-remix-diy.md) - A three-stage pattern that builds learners' data-storytelling and critical-data-literacy skills by moving from analyzing existing data stories, to remixing an exemplary one, to authoring and performing an original one with open data.
 * [Debate as a laboratory for argumentation theory, contingent on keeping debate practices accountable to argumentation principles](debate-laboratory-for-argumentation.md) - This pattern holds that academic debate can serve as a laboratory for studying argumentation theory — for example, testing standards for assessing arguments and decision-making — but only if debate practices remain ac...
 * [Demonstration, application, and integration corollaries of Merrill's framework](merrill-demonstration-application-integration-corollaries.md) - The digest enumerates the supporting generalizations for Merrill's remaining phases.
 * [Differentiated Activity Structures for Inclusive Participation](differentiated-activity-structures-for-inclusive-participation.md) - When a participatory or deliberative process fails to sustain an underrepresented group's engagement despite outreach and translation, redesign the activity's own tools, norms, and division of labor — a dedicated deliberative space, native-language deliberation instead of sequential interpretation, and flexible agendas — rather than adding more interpretation or outreach to the existing structure.
 * [Direct Instruction's distinctive teaching practices: scripted presentation, small groups, unison responding, signals, pacing, correction procedures, and oral reading](direct-instruction-distinctive-teaching-practices.md) - According to the article, Watkins (1988) identified the practices that distinguish Direct Instruction from more traditional approaches.
-
-#### E {: #letter-e }
-
 * [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
 * [Expert-panel item selection: statements drawn from real settings, winnowed by linguist votes to consensus items](expert-panel-consensus-item-selection-pattern.md) - The Inquiry's items were not invented: the attitudes tested were heard in methods classes, conventions, workshops, and printed sources such as newspaper editorials.
-
-#### F {: #letter-f }
-
-* [Faculty as mentors and consultants guiding open-ended project work](studio-faculty-mentor-consultant-roles.md) - In the studio courses, faculty served as mentors and consultants rather than traditional teachers, enacting three primary roles apparent in the data: guiding students through the design process (brainstorming, prototy...
 * [Five core areas of classroom technology use as organizing units for assessment](five-core-areas-classroom-technology-use.md) - The Toolkit structures its materials around five recurring forms of student work with technology.
 * [Four characteristics inherent in criterion-referenced tests](four-characteristics-criterion-referenced-tests.md) - The paper enumerates four design characteristics of criterion-referenced tests: \"the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed...
 * [Four methods of reflection on performance: imitation, replay, abstracted replay, and spatial reification](four-reflection-methods-reification.md) - The paper enumerates four ways of permitting students to reflect on their performance: \"(1) imitation, (2) replay, (3) abstracted replay and (4) spatial reification,\" illustrated via tennis coaching.
 * [Four-category design pattern for implicit scaffolding in simulations](four-category-implicit-scaffolding-pattern.md) - The article organizes implicit scaffolding strategies into four categories that work together: scaffolding the general concept (scope, sequence, interactivity), scaffolding students' framing of sim use (opening screen...
 * [Four-quadrant progression from unready learner to independent library user with matching instructor behavior](four-quadrant-library-learner-progression.md) - The paper organizes library learners into four developmental quadrants, each calling for a different instructor stance.
-* [Four-stage progression for teaching listening skills across proficiency levels](rivers-four-stages-teaching-listening.md) - The paper presents Rivers' (1981) four stages for teaching listening at elementary, intermediate and advanced levels: identification; identification and selection without retention; identification and guided selection...
 * [Functional Approach progression from oral dialogue (BICS) to written discourse (CALP)](functional-approach-bics-to-calp-progression.md) - Larsen-Pusey's Functional Approach is a teaching model that bridges the gap between oral skills and academic language: \"This model focuses on taking the students from BICS(oral dialogue) to *6ALP (written discourse)\".
 * [Funds of Knowledge Teacher-Research Model (Tucson Project)](funds-of-knowledge-teacher-research-model.md) - A research model, described in the digest, in which teachers and university researchers in education and anthropology \"enter minority households and discover knowledge and other resources therein\" and then build class...
-
-#### G {: #letter-g }
-
 * [Grade-span structure of program goals with illustrative, non-sequential level objectives](grade-span-illustrative-objectives-pattern.md) - The framework organizes objectives across four grade spans—K-3, 4-6, 7-8, and 9-12—stating program goals for the whole span and illustrative level objectives for each.
 * [Grading by contract: students propose specific work and criteria within teacher-presented options](grading-by-contract-fricke.md) - Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may th...
 * [Ground coaching conversations in the work of children](ground-conversations-in-childrens-work.md) - A recurring coaching pattern: conversations about instruction start from authentic artifacts of student learning such as written responses, writing samples, and actual Running Records.
@@ -183,53 +157,22 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Guided Equation Appropriation](guided-equation-appropriation.md) - A mentored research-apprenticeship sequence that first builds intuitive, mechanistic reasoning about a phenomenon's quantitative behavior, then introduces a formal equation, then guides the student through progressively deeper levels of reading comprehension of that equation.
 * [Guided participation: five components of adult-child learning activity](guided-participation-five-components.md) - Drawing on Rogoff (1990), the paper describes guided participation as \"a process during which the adult and child determine and carry out the learning activity\" in real world activities.
 * [Guided practice serves four broad, overlapping purposes for teacher learning](guided-practice-four-purposes.md) - In their reading of the literature, the authors found that guided practice may serve four broad and overlapping purposes: \"They include helping teachers (1) realize visions of teaching in their daily practice; (2) imp...
-
-#### H {: #letter-h }
-
 * [Herbart's Formal Steps](herbarts-formal-steps.md) - Johann Herbart's five-step lesson sequence — review, prepare, present, relate, apply — is one of the earliest systematic lesson-design patterns, built on the premise that new material must be deliberately connected to what a learner already knows.
 * [Heterogeneity-Seeking Modeling Curriculum](heterogeneity-seeking-modeling-curriculum.md) - A science modeling unit that deliberately maintains multiple, complementary model types for the same phenomenon — physical, computational, diagrammatic, embodied, observational — without converging students toward one canonical model, using open-ended facilitation prompts that ask what each model reveals rather than which model is correct.
 * [High-mediating teachers share an 'Explicitness' talk pattern across teacher talk categories](teacher-explicitness-talk-pattern.md) - Analysis of variance over the six teacher talk categories revealed a characteristic talk pattern of high-mediating teachers, which the author names \"Explicitness\".
 * [Hunter's Effective Teaching Model](hunters-effective-teaching-model.md) - Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
-
-#### I {: #letter-i }
-
 * [Industrial arts pyramid program across operational levels](industrial-arts-pyramid-program-levels.md) - The guide recommends a pyramid program structure (Figure 4) in which elementary level activities introduce industrial technology in the world of work with emphasis on self-concepts, insights, and awareness; junior hig...
 * [Interdisciplinary Course-Based Research Experience](interdisciplinary-course-based-research-experience.md) - A course design that engages disciplinarily diverse learners in a shared, authentic research practice — organized around a common boundary object that shifts function over the term — to build both disciplinary writing skill and cross-disciplinary integration.
 * [IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact](iupui-epportfolio-taxonomy-four-attributes.md) - The taxonomy identifies four attributes of high-impact ePortfolio practice: \"1.
-
-#### J {: #letter-j }
-
-* [Jigsaw structures (within-team and expert jigsaw) create positively interdependent teams with individually accountable members](jigsaw-structures-adult-learners.md) - The manual's activities are built on two jigsaw variants.
 * [Just-In-Time Teaching (JiTT)](just-in-time-teaching.md) - Just-In-Time Teaching has students submit short web-based responses hours before class, letting the instructor adapt that day's activities to exactly where students are struggling, so class time shifts from content transfer to active, cooperative problem-solving.
-
-#### K {: #letter-k }
-
-* [Keypad quizzing that interrupts a lecture 5-15 times with multiple-choice questions to insert rapid feedback](keypad-quizzing-interrupts-lecture-for-formative-assessment.md) - This is the article's described classroom pattern for formative assessment in large lectures: 'Quizzing with keypads 8 involves interrupting a 60 to 90 minute lecture 5-15 times with multiple-choice quiz questions and...
-
-#### L {: #letter-l }
-
-* [Level 2 necessary supports: guide implementation of new instructional skills and facilitate learning community dialogue](coaching-level-2-necessary-supports-implementation-and-dialogue.md) - At the second level, mentoring consists of coaches who \"plan, set goals, observe, and debrief with individual teachers\" implementing new instructional skills, while advocacy consists of regular meetings with small gro...
 * [Level 3 sustaining efforts: extend coach learning and foster independent teacher learning communities](coaching-level-3-sustaining-efforts-coach-learning-and-independence.md) - At the third level, mentoring turns inward: coaches attend district, regional, and national professional development to deepen literacy knowledge and support sustaining efforts.
 * [Level-differentiated emphases: awareness, exploration, specialization](level-differentiated-awareness-exploration-specialization.md) - The guide differentiates the function of industrial arts by school level: elementary school provides INSIGHTS into and AWARENESS of the industrial-technical society; junior high courses provide EXPLORATION of the adul...
 * [Literature Circles with rotating collaborative-skill roles for small-group pleasure reading](literature-circles-rotating-collaborative-roles.md) - Midway between whole-class and individual reading, Literature Circles have \"L2 students read for pleasure in small, self-selected groups that meet regularly to discuss books that the members themselves have chosen.\" T...
-
-#### M {: #letter-m }
-
 * [Massive Open Online Course (MOOC)](massive-open-online-course.md) - A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial "xMOOC" platforms adopted a broadcast, video-lecture-plus-quiz model instead.
-* [Mastery learning cycle of formative tests, correctives, and relearning](mastery-learning-formative-corrective-cycle.md) - A lesson-level instructional pattern in which \"Students take frequent \\\"formative tests\\\" to measure their learning progress\" and these are \"followed by correc-\"tions and opportunities to relearn material not yet unde...
 * [Mediating artifacts in mathematics PLC are selected according to the PLC's object](plc-mediating-artifacts-vary-by-object.md) - Across the reviewed studies, PLC used infrastructural frameworks (most commonly lesson studies and video clubs) plus operative-level artifacts such as video clips, classroom data, and mathematical problems.
 * [Mediation typology of implicit-to-explicit moves in SCMC DA](scmc-da-mediation-typology.md) - Emerging from thematic analysis of the DA sessions, the mediation typology orders mediator moves from most implicit to most explicit.
-
-#### N {: #letter-n }
-
 * [Nine key elements structuring a cooperative lesson](nine-key-elements-cooperative-lesson.md) - The chapter enumerates the key elements of a cooperative lesson: positive interdependence (with goal, resource, reward, identity, role, and outside enemy variants), team formation, accountability, social skills, struc...
-
-#### O {: #letter-o }
-
 * [Open-ended scenario: collaboratively planned, acted-out, and debriefed role play for language learners](open-ended-scenario-three-phase-structure.md) - The open-ended scenario is a pedagogical device designed by DiPietro (1981) that \"resembles a role play in that it grows from a set of circumstances\" but differs in that \"the dialogues are planned collaboratively by t...
-
-#### P {: #letter-p }
-
 * [PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)](pair-c-framework.md) - A five-dimension instructional scaffold for teaching emergent phenomena (e.g., natural selection, collective behavior) by explicitly contrasting decentralized, collective causal structure with sequential, individualistic causal structure.
 * [PLC facets that catalyze scholarship epistemology: trust, common goal, reflection opportunity, dialogue, and accountability for results](plc-facets-catalyze-scholarship-epistemology.md) - In contrast to traditional institutional epistemology where knowledge is transmitted from one person to another, the article describes scholarship epistemology as bringing together theory and practice and constructing...
 * [Pre-visit, on-site, post-visit field-trip activity arc](pre-visit-onsite-post-visit-field-trip-arc.md) - The Sea Turtle Trek packet structures a park field trip as three sequential activity phases: classroom preparation before the trip, hands-on activities conducted at the park, and classroom follow-up afterward.
@@ -237,22 +180,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Productive Ambiguity Task Design for Assumptions](productive-ambiguity-task-design-for-assumptions.md) - A mathematics task design that deliberately leaves a local assumption (a task condition or the meaning of a lay term) unspecified, so that students generate genuinely contradictory yet individually legitimate answers, then are guided to recognize why an explicit assumption is needed and to revise the task's wording themselves.
 * [Programmed Instruction](programmed-instruction.md) - Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.
 * [Project Space and Instructional Space](project-and-instructional-space.md) - Reigeluth's response to problem-based instruction's weaknesses — learners work on an authentic project and "freeze" it whenever they hit a learning gap, moving into an individualized instructional space for targeted mastery practice before returning to apply the new skill.
-
-#### S {: #letter-s }
-
 * [Scripted Personally Meaningful Inquiry](scripted-personally-meaningful-inquiry.md) - A six-step classroom-to-field-to-classroom inquiry sequence, supported by a persistent visual inquiry-cycle diagram, in which students collectively frame a personally meaningful question, collect data individually outside the classroom, and return to jointly analyze shared results — including explaining unexpected or inconclusive findings.
 * [Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation](maastricht-seven-step-pbl-tutorial-cycle.md) - The course used a hybrid form of the 7-step Maastricht PBL model in which a case 'story' unfolds progressively over tutorials through 'pages' of information following a trigger scenario.
 * [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](shared-power-co-creation-of-educational-systems.md) - The brief characterizes rightful presence by \"a fundamental shift in power\" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of...
 * [Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching](practice-spectrum-drills-to-task-based.md) - The article presents systematic practice as \"a house with many rooms\": a spectrum far beyond mechanical drills.
 * [Storyline Science Curriculum Design](storyline-science-curriculum-design.md) - A science unit design in which lessons are organized around a sequence of questions students themselves generate in response to an anchoring phenomenon, written from the student's own perspective, rather than around a sequence of disciplinary topics.
 * [Synthetic Planning for Discovery-Oriented Writing](synthetic-planning-for-discovery-oriented-writing.md) - A writing-task design that deliberately withholds a detailed structural outline — asking writers only to state their overall goal before drafting — so that spontaneous, minimally-planned sentence production can generate new ideas, at the cost of initial text quality that must be repaired through global revision.
-
-#### T {: #letter-t }
-
-* [Task progression pattern: complete whole tasks of increasing complexity with limited new components](whole-task-progression-increasing-complexity.md) - The pattern sequences a series of complete worked-example tasks rather than topic-by-topic instruction.
-* [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](tell-show-do-distributed-across-whole-tasks.md) - Whereas traditional instruction implements tell, show, recall, and apply for each topic in turn, in a task-centered strategy \"this strategy is distributed across the several whole tasks in the progression\": components...
 * [The Four P's: aligning places, people, policies, and programs to make each school day an invitation to learning](four-ps-invitational-school-pattern.md) - The article organizes school practice around four coordinated levers: 'the places (classrooms, offices, hallways, commons, restrooms, playing fields, gymnasiums, lawns, libraries); the people...; the policies (rules,...
 * [Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding](fading-based-scaffolding-approaches-serious-games.md) - The paper enumerates three scaffolding approaches based on fading, drawn from Jackson et al.
 * [Three-phase DP/PP practice protocol pattern](three-phase-dp-pp-practice-protocol.md) - The framework organizes practice into three phases, summarized in Table 1 as criteria for deliberate, purposeful, and naive practice for language learning: (1) individualized design of effective practice, (2) actively...
 * [Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts](explicit-versus-inferred-compliance-prompt-taxonomy.md) - The article classifies MetaTutor's SRL prompts into two categories based on how compliance can be evaluated.
-

@@ -50,7 +50,7 @@ The expertise reversal effect is the phenomenon in which "guidance intended to a
 
 ## Examples
 
-- [Apply instructional design principles with attention to learners' prior knowledge, since effects on cognition depend on proficiency level](../principles/design-principles-depend-on-prior-knowledge.md)
+- [Apply instructional design principles with attention to learners' prior knowledge, since effects on cognition depend on proficiency level](../principles/cognitive-load-management.md)
 
 ## Key Sources
 - Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
