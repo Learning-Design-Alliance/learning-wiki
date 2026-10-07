@@ -42461,10 +42461,10 @@
    "type": "principle"
   },
   {
-   "description": "The brief's third guideline holds that self-regulation interventions for adolescents and young adults should include parents, teachers, or mentors.",
+   "description": "For adolescents and young adults in a self-regulation programme, adding coached support for the adults around them (their own regulation, and rehearsed co-regulation of the young person) is expected to make gains larger and more transferable, a practice brief's guideline that no claim in this wiki tests directly; neighbouring syntheses show coached parent training beating information alone for younger children.",
    "id": "include-caregivers-as-self-regulation-coaches",
    "path": "principles/include-caregivers-as-self-regulation-coaches.md",
-   "status": "draft",
+   "status": "review",
    "title": "Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity",
    "type": "principle"
   },
@@ -42715,10 +42715,10 @@
    "aliases": [
     "diagnostic-prescriptive-change-facilitation"
    ],
-   "description": "From a concerns-based perspective, staff development interventions should be designed and delivered to address assessed concerns.",
+   "description": "For adults adopting an innovation in their work, support whose form and content are matched to each person's assessed Stages of Concern and Levels of Use, and kept up after use begins, is expected to move concerns and use forward more than uniform support, though no claim in this wiki tests matched against unmatched support.",
    "id": "match-interventions-to-stages-of-concern",
    "path": "principles/match-interventions-to-stages-of-concern.md",
-   "status": "draft",
+   "status": "review",
    "title": "Match the form and content of staff development interventions to clients' assessed Stages of Concern",
    "type": "principle"
   },

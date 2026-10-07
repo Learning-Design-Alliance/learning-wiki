@@ -24,7 +24,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 11 studies (5 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 12 studies (5 causal, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 12 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 

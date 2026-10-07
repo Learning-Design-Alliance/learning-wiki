@@ -26,7 +26,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (4 causal, 4 quant-synthesis), `q3`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 15 claims (13 for, 2 mixed) · 15 studies (7 causal, 6 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 6 of 15 report an effect size · 10 claims rest on one study
 
 ## Description
 Elaborative reasoning is the practice of prompting learners to expand on new material — explaining why it is true, connecting it to what they already know, generating their own examples, and drawing inferences beyond what was explicitly taught. Rather than receiving or rehearsing content verbatim, learners construct additional meaning around it. The recommendation is to design tasks and prompts that require this generative work, because elaborated encodings are richer, better organized, and more retrievable than surface-level ones.

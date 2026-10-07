@@ -30,7 +30,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 1 mixed, 3 unmarked) · 7 studies (5 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (5 for, 3 mixed, 3 unmarked) · 8 studies (6 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

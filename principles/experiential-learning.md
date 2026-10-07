@@ -18,7 +18,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (9 for, 3 mixed) · 24 studies (8 causal, 8 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (10 for, 3 mixed) · 25 studies (8 causal, 8 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 25 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 

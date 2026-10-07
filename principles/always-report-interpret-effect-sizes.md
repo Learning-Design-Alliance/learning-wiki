@@ -22,7 +22,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The principle, drawn from the APA Task Force on Statistical Inference report, is that researchers must report effect-size estimates whenever p values are reported, and interpret them in practical and theoretical context against previously reported effects. The paper notes the 1994 APA manual merely "encourage" (p. 18) effect size reporting, and that this encouragement proved ineffectual, so journals now require it.

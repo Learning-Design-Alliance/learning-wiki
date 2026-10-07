@@ -22,7 +22,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (5 for, 4 mixed, 2 against) · 21 studies (8 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (8 for, 4 mixed, 2 against) · 22 studies (9 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

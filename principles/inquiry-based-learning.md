@@ -26,7 +26,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 15 studies (6 causal, 5 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 16 studies (6 causal, 5 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 16 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 

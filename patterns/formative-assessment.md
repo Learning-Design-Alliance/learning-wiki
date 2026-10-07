@@ -28,7 +28,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (10 for, 6 mixed, 1 unmarked) · 27 studies (11 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 13 of 27 report an effect size · 7 claims rest on one study
+> **Evidence** · 18 claims (11 for, 6 mixed, 1 unmarked) · 28 studies (11 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 13 of 28 report an effect size · 8 claims rest on one study
 
 ## Description
 

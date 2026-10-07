@@ -30,7 +30,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (2 for, 5 mixed, 1 against) · 19 studies (7 causal, 7 review, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 19 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 19 studies (7 causal, 7 review, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 19 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 

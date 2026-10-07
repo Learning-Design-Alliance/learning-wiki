@@ -154,6 +154,15 @@ finds out.
     before committing.
 - **ERIC discovery asks for 25 results per topic** and takes the topic's share. Asking for 2 per topic across 1,400
   wiki topics had cost about 290 queries for 45 articles.
+- **The backlog was then folded** (maintainer's go-ahead).
+  - **Folded:** 97 of the 220 pages, the ones two independent second reads agreed on (`--fold-backlog`,
+    `eval/candidates/backlog-folds.ndjson`). The other 179 are open candidates in the ledger.
+  - **Promoted** to canonical pages by agents: the stages-of-concern principle (Hall 1978 folded into Hall &
+    Rutherford 1983) and the caregivers-as-self-regulation-coaches principle.
+  - **Not promoted:** Bue (1979) with Chorianopoulos (2018), a loose pairing around style matching.
+  - **Waiting for the maintainer:** two two-source clusters, industrial-arts career education with value education,
+    and Rassaei (2011) with Adamson (1983).
+  - **Cost:** batch 13 cost $3.53 all in. $2.00 of it was the kind/rigour bug, so it should have been about $1.53.
 - **A fresh container needs `pip install -r requirements-eval.txt`** before a batch. Without pypdf, 45 of 50 PDFs
   failed to fetch.
 

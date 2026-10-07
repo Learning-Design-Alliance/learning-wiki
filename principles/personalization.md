@@ -22,7 +22,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 unmarked) · 13 studies (5 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 unmarked) · 14 studies (5 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.

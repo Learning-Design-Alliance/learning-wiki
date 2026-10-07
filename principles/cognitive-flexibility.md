@@ -22,7 +22,7 @@ sources:
 # Cognitive Flexibility
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (3 for, 5 mixed) · 14 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 15 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 

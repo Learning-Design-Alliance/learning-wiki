@@ -22,7 +22,7 @@ sources:
 # Match the form and content of staff development interventions to clients' assessed Stages of Concern
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 8 studies (3 review, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 1 of 8 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 

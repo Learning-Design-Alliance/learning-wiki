@@ -22,7 +22,7 @@ sources:
 # Base decisions about teaching grammar primarily on learner needs and variables (Celce-Murcia)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (9 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 1 of 2 report an effect size · 9 claims rest on one study
 
 ## Description
 The bibliography reports, citing Celce-Murcia (1985), that whether to teach grammar should be based primarily upon the need of the learner. Learner variables such as age, proficiency level and education, and instructional variables such as skill, register and need/use should be taken into consideration. The article is described as helpful for teachers making informed decisions about the place of grammar, and also suggests effective ways to focus on form and correct errors.

@@ -447,7 +447,10 @@ def clusters(cands: dict, decisions: dict) -> list:
     out = []
     for members in groups.values():
         sources = {m["article_id"] for m in members}
-        synth = any(c["synthesis"] for m in members for c in cited_claims(m))
+        # A synthesis counts only from an extracted candidate, whose cited claims are its own
+        # article's. An existing page's claim links include every claim later linking added,
+        # so for a page only two independent sources promote.
+        synth = any(c["synthesis"] for m in members if m.get("origin") != "page" for c in cited_claims(m))
         out.append({"members": members, "sources": len(sources), "synthesis": synth,
                     "promote": len(sources) >= 2 or synth})
     return sorted(out, key=lambda g: (-g["promote"], -g["sources"]))

@@ -50,10 +50,10 @@
   "principles->designs": 30,
   "principles->elements": 89,
   "principles->methods": 5,
-  "principles->patterns": 78,
-  "principles->principles": 226,
+  "principles->patterns": 80,
+  "principles->principles": 228,
   "principles->processes": 2,
-  "principles->theories": 86,
+  "principles->theories": 88,
   "processes->claims": 16,
   "processes->elements": 13,
   "processes->methods": 7,
@@ -4377,6 +4377,13 @@
      },
      {
       "slug": "early-delay-of-gratification-predicts-later-outcomes"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "W"
      }
     ]
    },
@@ -16940,6 +16947,11 @@
       "strength": "M"
      },
      {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "M"
+     },
+     {
       "polarity": "~",
       "slug": "wise-feedback-across-difference",
       "strength": "M"
@@ -25938,6 +25950,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -25964,6 +25983,13 @@
       "slug": "co-regulation-strategies-welcoming-praise-breath-to-focus",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "W"
+     }
     ]
    },
    "co-regulation-strategies-strengthen-facilitation-intentionality": {
@@ -25982,6 +26008,13 @@
      {
       "polarity": "+",
       "slug": "co-regulation-strategies-welcoming-praise-breath-to-focus",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
       "strength": "W"
      }
     ]
@@ -26068,6 +26101,13 @@
      {
       "polarity": "+",
       "slug": "social-emotional-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
       "strength": "W"
      }
     ],
@@ -26173,6 +26213,13 @@
      },
      {
       "slug": "supervisory-coaching-mixed-teacher-student-outcomes"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "W"
      }
     ]
    },
@@ -44427,6 +44474,13 @@
      },
      {
       "slug": "voluntary-investigation-and-experimentation-adoption-activities"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -65871,6 +65925,13 @@
       "slug": "voluntary-investigation-and-experimentation-adoption-activities"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -65951,6 +66012,13 @@
      {
       "polarity": "+",
       "slug": "stages-of-concern-questionnaire-35-item",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
       "strength": "W"
      }
     ],
@@ -68723,6 +68791,13 @@
      },
      {
       "slug": "teacher-internal-drive-successful-change"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -74281,6 +74356,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
       "strength": "W"
      }
@@ -74307,6 +74387,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "validity-reliability-and-bias-in-classroom-assessment",
@@ -75373,6 +75458,13 @@
      },
      {
       "slug": "stages-of-concern-developmental-trend"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -77900,6 +77992,11 @@
       "polarity": "~",
       "slug": "ask-experts",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -78786,6 +78883,13 @@
      {
       "polarity": "+",
       "slug": "social-emotional-learning",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
       "strength": "W"
      }
     ]
@@ -86904,6 +87008,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "supporting-students-with-intellectual-disabilities",
       "strength": "M"
      }
@@ -86955,6 +87064,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "wise-feedback-across-difference",
@@ -93864,6 +93978,13 @@
       "polarity": "+",
       "slug": "socq-stages-of-concern-questionnaire",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -103636,6 +103757,11 @@
       "polarity": "+",
       "slug": "effective-classroom-management-plan",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "S"
      }
     ],
     "strategies": [
@@ -111278,6 +111404,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "M"
+     },
+     {
       "polarity": "+",
       "slug": "self-regulated-learning",
       "strength": "M"
@@ -116857,6 +116988,13 @@
       "slug": "social-emotional-learning",
       "strength": "W"
      }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "W"
+     }
     ]
    },
    "srae-co-regulation-training-increases-self-regulation-knowledge": {
@@ -116875,6 +117013,13 @@
      },
      {
       "slug": "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -117534,6 +117679,13 @@
       "polarity": "+",
       "slug": "socq-stages-of-concern-questionnaire",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -121511,6 +121663,11 @@
       "polarity": "~",
       "slug": "effective-classroom-management-plan",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -123937,6 +124094,13 @@
       "slug": "unmentored-first-year-task-concerns-flat"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -124692,6 +124856,11 @@
      {
       "polarity": "~",
       "slug": "functional-behavior-assessment",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "include-caregivers-as-self-regulation-coaches",
       "strength": "M"
      },
      {
@@ -126532,6 +126701,13 @@
       "slug": "follow-up-contact-strongest-adoption-success-factor"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -127258,6 +127434,13 @@
      {
       "polarity": "+",
       "slug": "create-a-low-stress-environment",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "include-caregivers-as-self-regulation-coaches",
       "strength": "W"
      }
     ]
@@ -129185,6 +129368,13 @@
       "slug": "teacher-concern-progression-and-retreat"
      }
     ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -130402,6 +130592,13 @@
      },
      {
       "slug": "platform-switch-catalyses-teaching-innovation"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ]
    },
@@ -133840,6 +134037,13 @@
       "polarity": "+",
       "slug": "stages-of-concern-questionnaire-35-item",
       "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "match-interventions-to-stages-of-concern",
+      "strength": "M"
      }
     ],
     "theories": [
@@ -181271,6 +181475,12 @@
     "principles": [
      {
       "slug": "developing-your-cultural-awareness"
+     },
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
+     },
+     {
+      "slug": "match-interventions-to-stages-of-concern"
      }
     ],
     "processes": [
@@ -181424,6 +181634,11 @@
     "learner-variables": [
      {
       "slug": "affect-regulation"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
      }
     ],
     "strategies": [
@@ -187493,6 +187708,9 @@
       "slug": "goal-setting-monitoring"
      },
      {
+      "slug": "include-caregivers-as-self-regulation-coaches"
+     },
+     {
       "slug": "let-learners-request-feedback-after-performing"
      },
      {
@@ -188327,6 +188545,9 @@
      },
      {
       "slug": "immediate-feedback"
+     },
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
      },
      {
       "slug": "instructor-accessibility"
@@ -197399,6 +197620,9 @@
       "slug": "communities-of-practice"
      },
      {
+      "slug": "include-caregivers-as-self-regulation-coaches"
+     },
+     {
       "slug": "observationshadowing"
      }
     ]
@@ -197493,6 +197717,9 @@
     "principles": [
      {
       "slug": "direct-instruction"
+     },
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
      },
      {
       "slug": "observationshadowing"
@@ -199589,10 +199816,16 @@
       "slug": "guided-practice"
      },
      {
+      "slug": "include-caregivers-as-self-regulation-coaches"
+     },
+     {
       "slug": "inquiry-based-learning"
      },
      {
       "slug": "instructor-accessibility"
+     },
+     {
+      "slug": "match-interventions-to-stages-of-concern"
      },
      {
       "slug": "mentoring-and-coaching"
@@ -199942,6 +200175,9 @@
      },
      {
       "slug": "goal-setting-monitoring"
+     },
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
      },
      {
       "slug": "journaling"
@@ -200506,6 +200742,11 @@
     ]
    },
    "systemic-understanding-guides-change-efforts": {
+    "principles": [
+     {
+      "slug": "match-interventions-to-stages-of-concern"
+     }
+    ],
     "theories": [
      {
       "slug": "ellsworth-educational-change-model-framework"
@@ -203130,6 +203371,11 @@
     ]
    },
    "cbam-change-process-diagnostic-dimensions": {
+    "principles": [
+     {
+      "slug": "match-interventions-to-stages-of-concern"
+     }
+    ],
     "theories": [
      {
       "slug": "cbam-stages-of-concern-model"
@@ -203152,6 +203398,11 @@
     ]
    },
    "cbam-intervention-taxonomy-six-levels": {
+    "principles": [
+     {
+      "slug": "match-interventions-to-stages-of-concern"
+     }
+    ],
     "theories": [
      {
       "slug": "stages-of-concern-seven-stage-taxonomy"
@@ -203162,6 +203413,11 @@
     "elements": [
      {
       "slug": "stages-of-concern-questionnaire-socq"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "match-interventions-to-stages-of-concern"
      }
     ],
     "strategies": [
@@ -203411,6 +203667,11 @@
     ]
    },
    "co-regulation-framework-adolescents": {
+    "principles": [
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
+     }
+    ],
     "strategies": [
      {
       "slug": "tiered-self-regulation-intervention-support"
@@ -203426,6 +203687,11 @@
     "elements": [
      {
       "slug": "co-regulation-strategies-welcoming-praise-breath-to-focus"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "include-caregivers-as-self-regulation-coaches"
      }
     ],
     "strategies": [
@@ -208411,6 +208677,11 @@
     ]
    },
    "fuller-teacher-concerns-theory-three-stages": {
+    "principles": [
+     {
+      "slug": "match-interventions-to-stages-of-concern"
+     }
+    ],
     "strategies": [
      {
       "slug": "withdraw-mentor-support-earlier"
@@ -210415,6 +210686,11 @@
      },
      {
       "slug": "lou-focused-branching-interview"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "match-interventions-to-stages-of-concern"
      }
     ],
     "strategies": [

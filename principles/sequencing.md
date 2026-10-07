@@ -34,7 +34,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 21 studies (9 causal, 6 theoretical, 4 review, 2 quant-synthesis), `q1`–`q4` · 2 of 21 report an effect size · 15 claims rest on one study
+> **Evidence** · 31 claims (23 for, 8 mixed) · 26 studies (10 causal, 7 theoretical, 6 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 26 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 

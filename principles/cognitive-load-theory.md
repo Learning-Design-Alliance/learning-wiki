@@ -22,7 +22,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 

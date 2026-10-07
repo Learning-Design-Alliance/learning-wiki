@@ -26,7 +26,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 18 studies (6 quant-synthesis, 5 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 18 report an effect size · 2 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 19 studies (6 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 6 of 19 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 

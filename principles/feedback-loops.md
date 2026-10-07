@@ -26,7 +26,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (11 for, 4 mixed, 1 against) · 29 studies (9 quant-synthesis, 8 causal, 6 review, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 29 report an effect size · 7 claims rest on one study
+> **Evidence** · 17 claims (12 for, 4 mixed, 1 against) · 30 studies (9 quant-synthesis, 8 causal, 6 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 30 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

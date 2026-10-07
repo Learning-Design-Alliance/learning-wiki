@@ -28,7 +28,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 15 studies (6 quant-synthesis, 3 review, 2 causal, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 16 studies (6 quant-synthesis, 3 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 16 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 

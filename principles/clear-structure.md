@@ -22,7 +22,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 23 studies (9 causal, 6 review, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 4 of 23 report an effect size · 4 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 24 studies (10 causal, 6 review, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 4 of 24 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

@@ -22,7 +22,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (3 for, 6 mixed, 1 against) · 13 studies (4 causal, 3 theoretical, 2 review, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 13 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (4 for, 6 mixed, 1 against) · 14 studies (4 causal, 3 review, 3 theoretical, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 14 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
