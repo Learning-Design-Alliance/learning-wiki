@@ -75,6 +75,71 @@ def _extract_pdf_text(content: bytes) -> str:
     return text
 
 
+def _extract_html_text(html: str) -> str:
+    """The readable text of a report or article page: <main>/<article> when the page
+    has one, else <body>, with scripts, styles, navigation, headers and footers
+    dropped. A page whose text is short is a landing page, not the work, and fails
+    like a scanned PDF does, so the run records it rather than extracting from a menu."""
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "form", "aside"]):
+        tag.decompose()
+    root = soup.find("main") or soup.find("article") or soup.body or soup
+    text = "\n".join(l.strip() for l in root.get_text("\n").splitlines() if l.strip())
+    if len(text) < 1500:
+        raise FetchError("Extracted page text is short (<1500 chars): a landing or index page, "
+                         "or one rendered by JavaScript, not the work itself.")
+    return text
+
+
+def _report_pdf_link(html: str, base: str) -> "str | None":
+    """The link to the work's own PDF on a landing page, when it has one: a report page
+    (WWC, CREDO, Campbell, an OJS journal's article page) is usually a summary with the
+    full text one link away. Prefers links whose text or address says download, full
+    text, report or PDF; never a link to another site's PDF that is not the work."""
+    from urllib.parse import urljoin, urlparse
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, "html.parser")
+    host = urlparse(base).netloc
+    best, best_score = None, 0
+    for a in soup.find_all("a", href=True):
+        href = urljoin(base, a["href"])
+        label = (a.get_text(" ") + " " + " ".join(a.get("class") or [])).lower()
+        low = href.lower()
+        if not (low.split("?")[0].endswith(".pdf") or "/download/" in low or "pdf" in label
+                or "/article/download/" in low):
+            continue
+        score = 1
+        score += 3 if any(w in label for w in ("full report", "download", "full text", "pdf", "read the report")) else 0
+        score += 2 if urlparse(href).netloc == host or not urlparse(href).netloc else 0
+        score -= 3 if any(w in low for w in ("appendix", "brief", "summary", "snapshot", "infographic")) else 0
+        if score > best_score:
+            best, best_score = href, score
+    return best
+
+
+def _fetch_web(fetch_url: str) -> str:
+    """A report or article on the publisher's own site (the curated lists in
+    scripts/eval/source_lists.py: WWC, Evidence for ESSA, Mathematica, Brookings, ...).
+    PDF or HTML, decided by what the server sends. An HTML landing page that links
+    the work's PDF is followed to it; otherwise the page's own text is the work, if it
+    is long enough to be one. robots.txt and the per-domain rate floor apply through
+    compliance.guard, as for every other source."""
+    resp = _get(fetch_url)
+    ctype = resp.headers.get("Content-Type", "").lower()
+    if "pdf" in ctype or resp.content[:5] == b"%PDF-":
+        return _extract_pdf_text(resp.content)
+    pdf = _report_pdf_link(resp.text, resp.url)
+    if pdf:
+        try:
+            r2 = _get(pdf)
+            if "pdf" in r2.headers.get("Content-Type", "").lower() or r2.content[:5] == b"%PDF-":
+                return _extract_pdf_text(r2.content)
+        except (FetchError, requests.RequestException, compliance.ComplianceError):
+            pass   # fall back to the page itself
+    return _extract_html_text(resp.text)
+
+
 def _fetch_pmc_via_aws(entry: dict) -> str:
     """Fetches full text via the PMC Article Datasets on AWS (pmc_aws.py)
     instead of the old BioC-PMC API — see that module's docstring. Uses the
@@ -125,6 +190,8 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
         if source in ("arxiv", "eric", "oa"):
             resp = _get(fetch_url)
             text = _extract_pdf_text(resp.content)
+        elif source == "web":
+            text = _fetch_web(fetch_url)
         elif source == "pubmed":
             text = _fetch_pmc_via_aws(entry)
         else:

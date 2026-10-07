@@ -48,6 +48,7 @@ RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
 SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
 SCRAPE_CONSOLE_LOG_PATH = RUNS_DIR / ".scrape_console.log"
+QUEUE_FAILED = RUNS_DIR / "queues" / "fetch-failed.ndjson"   # queue entries no fetch could read
 SCRAPE_REPORT_PATH = RUNS_DIR / "scrape.html"
 MAX_HISTORY = 20
 
@@ -196,8 +197,24 @@ def run(args) -> None:
             targets["eric"] = args.eric
 
         manifest = []
+        if args.queue:
+            # A curated list goes before any topic search (scripts/eval/source_lists.py):
+            # the next --take entries of the queue that nothing has settled yet.
+            failed = set()
+            if QUEUE_FAILED.exists():
+                failed = {json.loads(l)["id"] for l in QUEUE_FAILED.read_text(encoding="utf-8").splitlines() if l.strip()}
+            for qfile in args.queue:
+                for line in Path(qfile).read_text(encoding="utf-8").splitlines():
+                    if len(manifest) >= args.take:
+                        break
+                    e = json.loads(line)
+                    if e["id"] not in existing_ids and e["id"] not in failed and e["id"] not in {m["id"] for m in manifest}:
+                        manifest.append(e)
+            state["discover"]["by_source"]["queue"] = {"found": len(manifest), "target": args.take}
+            _save_state(state)
+            print(f"Took {len(manifest)} entries from {', '.join(args.queue)}.", flush=True)
         if targets:
-            manifest = discover_articles.build_manifest(targets, topics, existing_ids,
+            manifest += discover_articles.build_manifest(targets, topics, existing_ids | {m["id"] for m in manifest},
                                                           use_cache=not args.refresh_cache)
             for source, target in targets.items():
                 entry_source = _SOURCE_KEY_TO_ENTRY_SOURCE[source]
@@ -241,6 +258,12 @@ def run(args) -> None:
             except Exception as e:  # noqa: BLE001 - one bad article must not abort the whole batch
                 state["fetch"]["fail"] += 1
                 state["fetch"]["results"].append({"id": entry["id"], "ok": False, "chars_or_detail": str(e)})
+                if entry.get("list_key"):
+                    # A queue entry that cannot be fetched (robots, paywall, a JavaScript page)
+                    # is recorded, so the next batch takes the next entry rather than this one.
+                    QUEUE_FAILED.parent.mkdir(parents=True, exist_ok=True)
+                    with QUEUE_FAILED.open("a", encoding="utf-8") as fh:
+                        fh.write(json.dumps({"id": entry["id"], "error": str(e)[:300]}) + "\n")
                 print(f"[FAIL] {entry['id']:20s} {e}", flush=True)
             _save_state(state)
 
@@ -500,6 +523,10 @@ def main() -> None:
                          help="Articles generated in parallel. The harness default is 1, and with GLM's "
                               "providers taking 4-8 minutes per article a 78-article batch then takes "
                               "most of a day.")
+    parser.add_argument("--queue", nargs="+", default=None,
+                        help="one or more queue files from scripts/eval/source_lists.py; the batch takes its "
+                             "first --take unsettled entries before any --pmc/--eric/--arxiv discovery")
+    parser.add_argument("--take", type=int, default=50, help="how many queue entries a batch takes")
     parser.add_argument("--resume", action="store_true",
                          help="Skip discover and fetch, reuse the manifest at --out, and generate only "
                               "articles with no record under this --label; then ingest and validate as "
