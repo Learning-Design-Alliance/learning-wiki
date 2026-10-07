@@ -63,9 +63,11 @@ Token economies reliably increase targeted on-task and prosocial behaviors in cl
 5. Fade systematically: move to intermittent delivery, then replace tokens with natural consequences and self-monitoring.
 
 ## Related Strategies
+
 - [Positive Reinforcement Schedules](positive-reinforcement-schedules.md) — the reinforcement-scheduling machinery token economies run on
 - [Precorrection](precorrection.md) — prompting expected behavior before the setting, reducing the need for corrective tokens
 - [Check-In/Check-Out](check-incheck-out.md) — a mentoring structure that often embeds a token-based daily point card
+- [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 
 ## Examples
 - **Class Dojo** (https://www.classdojo.com) — digital point awarding for named behaviors; most defensible when points are private and tied to specific, stated behaviors rather than public leaderboards.

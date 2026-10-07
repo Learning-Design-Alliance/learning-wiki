@@ -49,3 +49,5 @@ Randomized study across 12 Texas schools in 2022-23 with 2,085 K-2 students assi
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
 - [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](renzulli-learning-oral-reading-fluency-growth.md) — related
+- [Chapter One tutoring significantly improves kindergarten students' oral reading fluency (ES = +0.23)](chapter-one-improves-orf-kindergarten.md) — related
+- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](literacy-first-grade2-itbs-comprehension-effect.md) — related

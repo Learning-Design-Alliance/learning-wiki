@@ -47,3 +47,4 @@ Subgroup analysis within the same cluster-randomized Rocketship study: students 
 - [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](once-dosage-80-sessions-larger-gains.md) — related
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
 - [Black students show stronger reading gains from the tutoring program (ES = +0.24)](ignite-reading-black-students-subgroup-gains.md) — related
+- [The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial](pathblazer-positive-reading-achievement-cluster-rct.md) — related

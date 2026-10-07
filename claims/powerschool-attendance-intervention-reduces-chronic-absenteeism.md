@@ -47,3 +47,7 @@ A randomized control trial in 3 DC public schools randomly assigned 31 teachers 
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](powerschool-attendance-intervention-in-seat-attendance-null.md) — related
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
 - [Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)](green-dot-attendance-year-four-only.md) — related
+- [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — related
+- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](ati-up-increases-average-daily-attendance.md) — related
+- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](ati-up-reduces-chronic-absenteeism.md) — possibly the same claim (merge candidate)
+- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related

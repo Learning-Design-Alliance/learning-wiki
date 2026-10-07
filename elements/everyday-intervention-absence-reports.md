@@ -46,6 +46,7 @@ The EveryDay Intervention (formerly InClassToday) Absence Reports intervention p
 ## Related Elements
 
 - [PowerSchool Attendance Intervention platform for attendance monitoring and two-way family messaging](powerschool-attendance-intervention-platform.md)
+- [EveryDay Intervention Absence Reports program](everyday-intervention-absence-reports-program.md)
 
 ## Examples
 

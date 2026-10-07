@@ -54,9 +54,13 @@ Future Forward is a freestanding early literacy program for kindergarten through
 ## Related Elements
 
 - [Future Forward literacy program model](future-forward-program-model.md)
+- [Future Forward literacy program model](future-forward-literacy-program-model-eir.md)
+- [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
+- [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 
 ## Examples
--
+
+- [Deliver FF tutoring and family engagement through a distance-learning version when in-person schooling is disrupted](../strategies/distance-learning-version-of-ff.md)
 
 ## Key Sources
 - Future Forward: Evidence Rating Strong program description. (2022). https://www.evidenceforlearners.org/future-forward

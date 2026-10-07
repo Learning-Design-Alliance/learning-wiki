@@ -52,6 +52,7 @@ BookNook is a virtual tutoring provider for reading intervention that "uses a sy
 - [OnYourMark virtual early literacy tutoring program](onyourmark-virtual-tutoring-program.md)
 - [Education Corps in-person high-dosage literacy tutoring program model](education-corps-high-dosage-literacy-tutoring-program.md)
 - [Hoot Reading online one-to-one literacy tutoring program](hoot-reading-online-one-to-one-literacy-tutoring.md)
+- [Chapter One one-on-one in-class tutoring program for early literacy](chapter-one-one-on-one-tutoring-program.md)
 
 ## Examples
 

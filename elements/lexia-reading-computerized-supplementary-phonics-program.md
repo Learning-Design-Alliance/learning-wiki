@@ -49,6 +49,7 @@ Lexia Reading is a computerized reading program that "provides phonics instructi
 
 - [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path-adaptive-program.md)
 - [Headsprout Early Reading: adaptive Internet-based supplemental early literacy curriculum](headsprout-early-reading-curriculum.md)
+- [Lexia Core5 Reading blended literacy program](lexia-core5-reading-program.md)
 
 ## Examples
 -

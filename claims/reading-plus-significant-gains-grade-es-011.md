@@ -45,3 +45,4 @@ A randomized study in six elementary schools in an urban district in the northea
 ## Related Claims
 - [INSIGHTS students grew significantly faster than attention-control students in reading achievement (effect size +0.55)](insights-reading-growth-es-055.md) — related
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
+- [PCP use in a Missouri randomized trial produced significantly greater gains on Acadience Reading for K-2 students (ES +0.09)](pcp-missouri-rct-acadience-gains.md) — related

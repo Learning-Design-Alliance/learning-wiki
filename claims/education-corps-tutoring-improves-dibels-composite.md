@@ -50,3 +50,6 @@ A randomized study across 9 schools in a single large North Carolina district du
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
 - [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](once-dosage-80-sessions-larger-gains.md) — related
 - [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](renzulli-learning-oral-reading-fluency-growth.md) — related
+- [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
+- [Experience Corps tutoring improves reading outcomes for struggling K-3 readers, with an average effect size of +0.13 across two qualifying studies](experience-corps-average-effect-0-13.md) — related
+- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](literacy-first-grade2-itbs-comprehension-effect.md) — related

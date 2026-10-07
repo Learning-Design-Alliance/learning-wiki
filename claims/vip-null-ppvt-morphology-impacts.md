@@ -46,3 +46,4 @@ In the same WWC subsample analysis of the randomized controlled trial, the PPVT-
 - [VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)](vip-potentially-positive-reading-achievement.md) — related
 - [VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03](vip-word-mastery-significant-effect.md) — related
 - [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](morphology-plus-subdomain-effects-informational-vocabulary.md) — related
+- [Content-Focused Coaching shows a larger effect for English learners (+0.46) than for non-English learners (+0.18)](cfc-english-learners-effect-046.md) — related

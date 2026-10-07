@@ -39,6 +39,7 @@ Rather than hiring external tutors or adding after-school programming, the Once 
 ## Related Strategies
 
 - [Operate high-dosage virtual tutoring with program-managed tutors and monthly literacy-specialist data meetings so school staff need no additional professional development](program-managed-tutoring-with-specialist-data-meetings.md)
+- [Staff Passport to Literacy with trained paraprofessional interventionists receiving 8 hours of training over 2 days](passport-to-literacy-staffing-training-strategy.md)
 
 ## Examples
 -

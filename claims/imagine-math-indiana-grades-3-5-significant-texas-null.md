@@ -47,3 +47,4 @@ A quasi-experimental study during the 2023–2024 school year in two public scho
 - [K–8 students using Imagine Math in a charter network scored significantly higher than matched non-users on NWEA MAP Growth Math (ES +0.08)](imagine-math-charter-network-study-positive-effect.md) — related
 - [Across grades 1-5, the overall effect of Imagine Math Facts on Ren Star math growth was small (effect size +0.05)](imagine-math-facts-overall-effect-small.md) — related
 - [Imagine Math Facts use was not associated with statistically significant growth for upper elementary students (grades 3-5)](imagine-math-facts-upper-elementary-not-significant.md) — related
+- [TalkingPoints use is associated with significant math score improvements in grades 3-8](talkingpoints-significant-math-gains-grades-3-8.md) — related

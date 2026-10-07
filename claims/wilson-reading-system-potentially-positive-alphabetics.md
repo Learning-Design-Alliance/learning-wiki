@@ -64,3 +64,4 @@ The alphabetics findings table reports the WRMT-R word attack subtest with Wilso
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related
 - [The Wilson Reading System shows no discernible effects on reading comprehension](wilson-reading-system-no-discernible-comprehension-effects.md) — related
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — a narrower finding that bears on this claim
+- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related

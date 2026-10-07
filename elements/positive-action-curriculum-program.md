@@ -52,6 +52,7 @@ Positive Action is a K-12 program promoting "character development, academic ach
 ## Related Elements
 
 - [Too Good for Violence: a scripted K-8 character education curriculum with role-playing, cooperative learning, and eight character values](too-good-for-violence-curriculum.md)
+- [Positive Action whole-school program: structured lessons, teacher manuals, and parallel parent handbooks](positive-action-program-element.md)
 
 ## Examples
 

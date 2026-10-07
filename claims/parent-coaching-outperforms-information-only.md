@@ -86,3 +86,4 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related
+- [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related

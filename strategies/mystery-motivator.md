@@ -59,9 +59,11 @@ Mystery Motivators apply the variable-ratio/variable-interval logic of reinforce
 5. Fade systematically: lengthen intervals, raise criteria, and shift toward self-monitoring and natural reinforcers.
 
 ## Related Strategies
+
 - [Token Economies](token-economies.md) — the broader point-system framework a Mystery Motivator often sits inside
 - [Group Contingencies](group-contingencies.md) — the whole-class variant that Mystery Motivators frequently implement
 - [Precision Requests](precision-requests.md) — complementary behavioral strategy for managing noncompliance
+- [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 
 ## Examples
 - **The Tough Kid Book (Rhode, Jenson & Reavis)** — the original classroom package: a laminated Mystery Motivator chart with hidden ink-revealed reward squares, used with individual students or whole classes.

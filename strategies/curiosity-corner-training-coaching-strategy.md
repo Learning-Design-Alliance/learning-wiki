@@ -42,6 +42,9 @@ The program's professional development model combines initial training with sust
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
+- [Provide refresher training after implementation begins, not only pre-adoption training](pathblazer-refresher-training-after-implementation.md)
+- [Support tutors with a 2-day initial workshop plus weekly per-child progress meetings](tutor-workshop-weekly-progress-meetings.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Retrospective study in the 2021-2022 school year of 1,367 second-grade students 
 - [Across a matched quasi-experimental evaluation of 1,686 students in grades 4–8, Magma Math showed an average effect size of +0.09, earning a Promising evidence rating](magma-math-overall-promising-rating-es-009.md) — related
 - [Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students](imagine-math-indiana-grades-3-5-significant-texas-null.md) — related
 - [Using the Simple Solutions spiral-review supplement produces significantly greater math gains than not using it, with a small effect size of +0.13](simple-solutions-spiral-review-greater-i-ready-gains.md) — related
+- [TalkingPoints use is associated with significant math score improvements in grades 3-8](talkingpoints-significant-math-gains-grades-3-8.md) — related

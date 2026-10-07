@@ -50,6 +50,7 @@ ALAS (Spanish for "wings") is an intervention for middle and high school student
 
 - [Check & Connect: monitored mentoring dropout-prevention program](check-and-connect-program.md)
 - [Accelerated middle schools program model](accelerated-middle-schools-program.md)
+- [Early Warning Intervention and Monitoring System (EWIMS)](ewims-program-element.md)
 
 ## Examples
 

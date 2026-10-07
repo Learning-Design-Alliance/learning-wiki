@@ -48,3 +48,5 @@ A randomized study with school-level random assignment examined BARR's impact on
 - [ALAS increases the likelihood that high-risk students stay on track to graduate on time at the end of the intervention](alas-progressing-in-school-positive-end-of-intervention.md) — related
 - [BARR is rated Strong for Math, Reading, and SEL impacts in addition to Attendance](barr-strong-math-reading-sel-ratings.md) — related
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
+- [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — related
+- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related

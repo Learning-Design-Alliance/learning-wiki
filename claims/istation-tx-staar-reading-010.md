@@ -45,3 +45,4 @@ Second quasi-experimental study: 884 students in Grades 5–7 from 11 schools in
 ## Related Claims
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related
 - [Students using Imagine Language & Literacy in Texas grades 4-5 showed significantly greater improvement in reading skills than non-using students (ES +0.18)](imagine-ll-texas-reading-gain.md) — related
+- [PCP use in a Texas matched study produced significantly greater growth on ISIP and STAAR for grades 4-5 (ES +0.15 and +0.10)](pcp-texas-matched-isip-staar-growth.md) — related

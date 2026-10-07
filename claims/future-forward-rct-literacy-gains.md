@@ -46,3 +46,5 @@ Two-year randomized control trial across seven low-income Milwaukee schools (N=5
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](future-forward-improves-school-attendance.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](future-forward-strong-ratings-family-engagement-attendance.md) — related
+- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](ff-prior-rct-literacy-attendance-impacts.md) — related
+- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](ff-rct-significant-attendance-impact.md) — related

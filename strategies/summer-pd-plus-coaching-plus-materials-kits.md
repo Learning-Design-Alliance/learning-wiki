@@ -48,6 +48,7 @@ The article's implementation model pairs a 2-week summer training session with o
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
+- [Deliver professional development through a 2-week summer institute followed by year-long on-site coaching](summer-training-plus-onsite-coaching-strategy.md)
 
 ## Examples
 -

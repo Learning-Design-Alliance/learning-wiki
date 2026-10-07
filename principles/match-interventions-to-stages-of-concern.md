@@ -154,10 +154,11 @@ Changes in concerns, changes in use, fidelity of use and effects on students are
 - Theory: [CBAM Stages of Concern](../theories/cbam-stages-of-concern-model.md), [CBAM diagnostic dimensions](../theories/cbam-change-process-diagnostic-dimensions.md), [six-level intervention taxonomy](../theories/cbam-intervention-taxonomy-six-levels.md), [Levels of Use](../theories/levels-of-use-innovation-eight-level-framework.md), [Fuller's teacher concerns theory](../theories/fuller-teacher-concerns-theory-three-stages.md)
 
 ## Examples
--
+
 - [Use individual and group Stages of Concern data to tailor inservice and training decisions](../strategies/use-soc-data-to-tailor-inservice-decisions.md)
 - [Three ways to assess concerns about an innovation](../strategies/assess-concerns-three-methods.md)
 - [Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs](../strategies/use-lou-data-for-change-monitoring-and-staff-development.md)
+- [Provide refresher training after implementation begins, not only pre-adoption training](../strategies/pathblazer-refresher-training-after-implementation.md)
 
 ## Key Sources
 - Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728

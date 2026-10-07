@@ -44,3 +44,4 @@ Teacher and interventionist survey reported in the Florida-based study (Schechte
 
 ## Related Claims
 - [In the supporting RCT, Read Well® was delivered as a mastery-paced core reading program for about three months alongside a 90-minute daily literacy block](read-well-rct-mastery-paced-core-program-implementation.md) — related
+- [Teachers implementing ARC Core in the Philadelphia study reported positive effects on student engagement, learning, and behavior, but noted full implementation required extra classroom support and occasional supplementing of materials.](arc-core-teacher-reported-engagement-and-implementation-challenges.md) — related

@@ -61,9 +61,11 @@ Reinforcement reliably strengthens specific, observable behaviors when the reinf
 6. Monitor for substitution effects — if voluntary engagement with the activity drops when rewards stop, the schedule was controlling rather than informational; restart with social reinforcers.
 
 ## Related Strategies
+
 - [Token Economy](token-economy.md) — the formalized, exchangeable-reinforcer implementation of reinforcement scheduling
 - [Gamification](gamification.md) — applies variable-ratio schedules through points, badges, and streaks; inherits both the persistence benefits and the compulsion risks
 - [Formative Feedback](formative-feedback.md) — the informational successor to reinforcement once behaviors are established
+- [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — classroom points system delivering immediate contingent reinforcement for target behaviors, with parent-visible summaries.

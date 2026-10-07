@@ -53,6 +53,9 @@ Reading Recovery® is a supplemental intervention providing daily 30-minute one-
 
 - [Reading Recovery one-on-one tutoring program for struggling first-grade readers](reading-recovery-tutoring-program.md)
 - [Once Early-Reading Program: school-embedded one-on-one structured literacy tutoring delivered by trained paraprofessionals](once-early-reading-program-element.md)
+- [Chapter One one-on-one in-class tutoring program for early literacy](chapter-one-one-on-one-tutoring-program.md)
+- [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
+- [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 
 ## Examples
 

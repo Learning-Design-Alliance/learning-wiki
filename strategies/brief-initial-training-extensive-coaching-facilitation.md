@@ -49,6 +49,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
+- [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](ellm-two-tier-professional-development.md)
 
 ## Examples
 -

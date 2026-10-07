@@ -47,3 +47,5 @@ Cluster-randomized study in six Rocketship public charter schools in Northern Ca
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related
 - [Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21)](ignite-reading-dibels-gain-first-grade.md) — related
 - [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](renzulli-learning-oral-reading-fluency-growth.md) — related
+- [Chapter One tutoring significantly improves kindergarten students' oral reading fluency (ES = +0.23)](chapter-one-improves-orf-kindergarten.md) — related
+- [The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial](pathblazer-positive-reading-achievement-cluster-rct.md) — related

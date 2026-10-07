@@ -45,3 +45,4 @@ Randomized trial of 47 first- and second-grade students in Newfoundland; the rev
 ## Related Claims
 - [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — related
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — a broader claim this one bears on
+- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related

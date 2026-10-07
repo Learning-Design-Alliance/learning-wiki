@@ -8,19 +8,19 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 4,277 |
-| Evidence entries | 5,205 |
-| Distinct studies | 1,459 |
-| Claims resting on one study | 4,063 (95%) |
+| Claims | 4,356 |
+| Evidence entries | 5,287 |
+| Distinct studies | 1,488 |
+| Claims resting on one study | 4,142 (95%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 497 of 1,459 (34%) |
+| Studies reporting an effect size | 522 of 1,488 (35%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 37 | 204 | 84 | 138 | 463 |
-| quant-synthesis | 9 | 59 | 29 | 115 | 212 |
+| causal | 37 | 211 | 84 | 158 | 490 |
+| quant-synthesis | 9 | 59 | 29 | 117 | 214 |
 | review | 20 | 67 | 28 | 44 | 159 |
 | associational | 0 | 63 | 87 | 15 | 165 |
 | qualitative | 38 | 77 | 11 | 8 | 134 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 224 (15%) | 703 (48%) | 433 (30%) | 99 (7%) |
+| 224 (15%) | 712 (48%) | 451 (30%) | 101 (7%) |
 
-**Studies per claim:** 0: 0, 1: 4,063, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 4,142, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -48,6 +48,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 19 | 19 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
+| [Curtis J. Jones and DongMei Li, University of Wisconsin-Milwaukee. (2021). Testing the Impact and Scalability …](claims/ff-differential-attendance-subgroups.md) | q3 | 12 | 12 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 | [Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of …](claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) | q3 | 10 | 10 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Guskey, Thomas R.; Gates, Sally L. (1985). A Synthesis of Research on Group-Based Mastery Learning Programs. …](claims/group-mastery-positive-achievement-all-studies.md) | q3 | 8 | 8 |
 | [Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students …](claims/belief-consistent-facts-better-recognized.md) | q3 | 8 | 8 |
 | [Winer, L. R., Vázquez-Abad, J. A., & Tessmer, M. (1994). Enriching the Layers of Necessity Model. Paper …](claims/consensus-eleven-core-id-tasks.md) | q2 | 8 | 8 |
-| [Malhotra S, Biswas P, Sharan P, Grover S. (2007). Characteristics of Patients Visiting the Child & Adolescent …](claims/cap-clinic-adolescent-registrations-increased.md) | q2 | 8 | 8 |
 
 ## Citation load against evidence base
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 320 | 2 | 0 |
-| [elements](elements/index.md) | 963 | 708 | 1 | 0 |
+| [elements](elements/index.md) | 1,003 | 744 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 109 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,328 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,363 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,004 | 810 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 166 | 118 | 1 | 0 |
+| [designs](designs/index.md) | 174 | 121 | 1 | 0 |
 
 ## Toward pooled estimates
 

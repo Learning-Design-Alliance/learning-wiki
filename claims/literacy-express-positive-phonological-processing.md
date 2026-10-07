@@ -89,3 +89,4 @@ PCER Florida randomized trial (188 children analyzed) using the Pre-CTOPPP Elisi
 - [Dialogic Reading shows no discernible effects on phonological processing](dialogic-reading-no-phonological-processing-effects.md) — related
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](lonigan-2003-significant-four-of-eight-outcomes.md) — related
 - [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](wwc-positive-effects-rating-daisyquest.md) — related
+- [REDI improves preschool language and literacy outcomes with a mean end-of-preschool effect size of +0.23](redi-end-of-preschool-mean-effect-023.md) — related

@@ -59,9 +59,11 @@ DDI operationalizes [Assessment for Learning](../principles/assessment-for-learn
 6. **Feed results forward** into feedback that names the process or strategy to change [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — the assessment layer DDI depends on; DDI adds the decision protocol
 - [Direct Instruction](../patterns/direct-instruction.md) — a common reteaching response when data reveals whole-group gaps
 - [Adaptive Learning](../principles/adaptive-learning.md) — automates the measure-adjust cycle at scale
+- [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
 
 ## Examples
 - **Uncommon Schools / Relay GSE DDI model** — weekly interim assessments, item-level analysis in teacher meetings, and scripted reteach plans; widely replicated in charter networks

@@ -53,6 +53,7 @@ Ignite Reading pairs young learners with "highly-trained reading tutors for dail
 - [OnYourMark virtual early literacy tutoring program](onyourmark-virtual-tutoring-program.md)
 - [Once Early-Reading Program: school-embedded one-on-one structured literacy tutoring delivered by trained paraprofessionals](once-early-reading-program-element.md)
 - [Education Corps in-person high-dosage literacy tutoring program model](education-corps-high-dosage-literacy-tutoring-program.md)
+- [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 
 ## Examples
 -

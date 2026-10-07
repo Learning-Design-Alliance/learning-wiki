@@ -88,3 +88,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — related
 - [The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions](cbi-advantage-shrinks-same-teacher-comparisons.md) — related
 - [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related
+- [Strategic speeded practice outperformed strategic non-speeded practice within Galaxy Math, with a +0.57 effect size for the disseminated speeded version](galaxy-math-speeded-practice-advantage.md) — related

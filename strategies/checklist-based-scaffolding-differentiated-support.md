@@ -39,6 +39,7 @@ Within Ladders to Literacy, teachers first use "the program's observational chec
 ## Related Strategies
 
 - [Scaffolded Questioning](scaffolded-questioning.md)
+- [Personalize and differentiate family text messages to each child's developmental level](personalize-family-texts-to-developmental-level.md)
 
 ## Examples
 -

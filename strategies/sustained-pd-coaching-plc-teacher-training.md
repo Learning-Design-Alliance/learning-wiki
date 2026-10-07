@@ -48,6 +48,9 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
+- [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](ellm-two-tier-professional-development.md)
+- [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
+- [Sustained, coached professional development over up to two years for RA implementation](ra-extended-pd-with-coaching.md)
 
 ## Examples
 -

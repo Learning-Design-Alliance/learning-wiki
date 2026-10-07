@@ -44,3 +44,5 @@ The same randomized control trial (31 teachers, nearly 1500 students, 3 DC publi
 
 ## Related Claims
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
+- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](ati-up-increases-average-daily-attendance.md) — related
+- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](ati-up-reduces-chronic-absenteeism.md) — related

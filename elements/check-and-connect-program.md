@@ -50,6 +50,7 @@ Check & Connect is a dropout-prevention intervention built on monitoring of scho
 ## Related Elements
 
 - [ALAS dropout prevention program](alas-dropout-prevention-program.md)
+- [Early Warning Intervention and Monitoring System (EWIMS)](ewims-program-element.md)
 
 ## Examples
 -

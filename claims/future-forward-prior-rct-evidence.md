@@ -52,3 +52,6 @@ The report's summary of its own prior evaluations (Table 1): the 2011-13 pilot f
 - [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](future-forward-family-engagement-not-scaled.md) — related
 - [Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT](future-forward-rct-literacy-gains.md) — related
 - [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](future-forward-rd-nonsignificant-positive-effect.md) — related
+- [FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance](ff-intersectional-impact-black-male-low-attendance.md) — related
+- [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](ff-prior-rct-literacy-attendance-impacts.md) — possibly the same claim (merge candidate)
+- [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](ff-rct-significant-attendance-impact.md) — related

@@ -52,6 +52,7 @@ SpellRead™, formerly SpellRead Phonological Auditory Training®, is a small-gr
 
 - [SpellRead™ literacy program for struggling readers](spellread-program-element.md)
 - [Strategic Adolescent Reading Intervention (STARI)](stari-supplemental-reading-intervention.md)
+- [Lexia PowerUp Literacy: blended adaptive literacy program for struggling adolescent readers](lexia-powerup-literacy-program.md)
 
 ## Examples
 -

@@ -39,6 +39,7 @@ GO Tutor Corps pairs pre-service training with regular professional development 
 ## Related Strategies
 
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
+- [Provide at least 25 hours of targeted volunteer training, with at least half pre-service and the remainder throughout the year](experience-corps-25-hour-training-model.md)
 
 ## Examples
 -

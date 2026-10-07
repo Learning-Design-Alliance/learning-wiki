@@ -48,6 +48,7 @@ Hoot Reading provides online, one-to-one literacy instruction delivered by train
 - [Ignite Reading one-to-one virtual literacy tutoring program](ignite-reading-program-element.md)
 - [BookNook virtual tutoring platform and science-of-reading curriculum for K-8 reading intervention](booknook-virtual-tutoring-platform.md)
 - [Once Early-Reading Program: school-embedded one-on-one structured literacy tutoring delivered by trained paraprofessionals](once-early-reading-program-element.md)
+- [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 
 ## Examples
 -
