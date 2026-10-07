@@ -108,3 +108,5 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness](rhyming-poetry-improves-reading-fluency.md) — related
 - [Spector argues that beginning reading instruction should be designed to facilitate the acquisition of phonemic awareness](spector-phonemic-awareness-reading-instruction.md) — related
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related
+- [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
+- [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — a narrower finding that bears on this claim

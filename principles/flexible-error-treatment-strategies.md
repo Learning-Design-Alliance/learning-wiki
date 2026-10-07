@@ -17,7 +17,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article proposes that "teachers should employ different and flexible error treatment strategies in accordance with the teaching objectives, students' linguistic competence, their affective factors and the effectiveness of the error correction". Error treatment decisions — whether to treat or ignore, when and how to correct — should rest on theoretical foundations combining affective and cognitive feedback, reinforcement theory, and communicative language teaching.
@@ -37,8 +37,13 @@ The article proposes that "teachers should employ different and flexible error t
 - Balancing fluency and accuracy in second language development
 
 ### Claims
+
 - [Global Versus Local Errors Correction](../claims/global-versus-local-errors-correction.md) [+M]
 - [Errors As Feedback Fossilization Risk](../claims/errors-as-feedback-fossilization-risk.md) [+M]
+- [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [+W] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
+- [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [~W] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
+- [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~M] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
+- [Corrective feedback treatment and time interact significantly in shaping wh-question learning gains across the three testing periods](../claims/time-treatment-interaction-corrective-feedback.md) [+W] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
 
 ## Related Principles
 

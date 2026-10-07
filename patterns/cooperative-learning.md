@@ -24,7 +24,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 14 studies (10 quant-synthesis, 2 causal, 1 review, 1 design), `q1`–`q4` · 8 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 16 studies (10 quant-synthesis, 2 causal, 2 review, 2 design), `q1`–`q4` · 8 of 16 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -77,6 +77,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](../claims/cooperation-versus-individualistic-effort-outcomes.md) [+W]
 - [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
+- [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+W] — attached 2026-10-07 from Kluge (1999), which proposed "Nine key elements structuring a cooperative lesson".
+- [Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W] — attached 2026-10-07 from Kluge (1999), which proposed "Nine key elements structuring a cooperative lesson".
 
 ## Illustrative design instance and observation record
 

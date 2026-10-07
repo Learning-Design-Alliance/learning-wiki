@@ -58,9 +58,11 @@ Service learning works because it situates learning in an authentic context with
 5. Close with a synthesis product and assessment that evaluates the learning, and debrief with the partner to sustain the relationship.
 
 ## Related Strategies
+
 - [Community-Based Learning](../principles/community-based-learning.md) — the broader principle; service learning is its most structured curricular form
 - [Case Studies](../elements/case-studies.md) — a lower-logistics alternative when authentic placements are infeasible
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — the concrete-experience → reflective-observation → abstract-conceptualization → active-experimentation cycle that service learning's reflection structure should follow
+- [Pairing an ethics curriculum with integrated community service learning](ethics-curriculum-with-integrated-service-learning.md)
 
 ## Patterns That Use This Strategy
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — service placements provide authentic practice and articulation opportunities with real practitioners and clients

@@ -8,20 +8,20 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,571 |
-| Evidence entries | 4,396 |
-| Distinct studies | 1,214 |
-| Claims resting on one study | 3,372 (94%) |
+| Claims | 3,794 |
+| Evidence entries | 4,660 |
+| Distinct studies | 1,264 |
+| Claims resting on one study | 3,592 (95%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 338 of 1,214 (28%) |
+| Studies reporting an effect size | 376 of 1,264 (30%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 92 | 79 | 101 | 278 |
-| quant-synthesis | 9 | 42 | 3 | 113 | 167 |
-| review | 9 | 67 | 28 | 44 | 148 |
+| causal | 8 | 126 | 79 | 106 | 319 |
+| quant-synthesis | 9 | 44 | 9 | 113 | 175 |
+| review | 10 | 67 | 28 | 44 | 149 |
 | associational | 0 | 61 | 86 | 15 | 162 |
 | qualitative | 38 | 77 | 11 | 8 | 134 |
 | design | 9 | 94 | 42 | 1 | 146 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 222 (18%) | 608 (50%) | 304 (25%) | 80 (7%) |
+| 222 (18%) | 621 (49%) | 341 (27%) | 80 (6%) |
 
-**Studies per claim:** 0: 0, 1: 3,372, 2: 147, 3: 46, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 3,592, 2: 150, 3: 46, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -44,10 +44,15 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | Study | q | Claims citing it | Resting on it alone |
 |---|---|---|---|
 | [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 33 |
+| [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
+| [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 19 | 19 |
+| [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 | [Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of …](claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) | q3 | 10 | 10 |
 | [Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A …](claims/attentive-knowledge-tracing-benefits-from-repeated-interactions.md) | q2 | 10 | 10 |
+| [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Phonological …](claims/alignment-trained-skill-larger-effects-phonological-awareness.md) | q2 | 9 | 9 |
+| [Building Decision Skills. (2006). WWC Intervention Report, What Works Clearinghouse. …](claims/bds-curriculum-adds-beyond-service-learning-alone.md) | q2 | 9 | 9 |
 | [Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach …](claims/best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) | q2 | 9 | 9 |
 | [Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student …](claims/dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) | q2 | 9 | 9 |
 | [Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. …](claims/achievement-dimensionality-changes-during-instruction.md) | q2 | 8 | 8 |
@@ -58,11 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Denise Santos & Gláucia Silva. (2015). Exploring Portuguese Heritage and Non-Heritage Learners' Perceptions …](claims/four-difficulty-themes-textbook-listening.md) | q2 | 8 | 8 |
 | [Restrepo Ramos, F. D. (2015). Incidental vocabulary learning in second language acquisition: A literature …](claims/incidental-vocabulary-learning-through-reading-for-meaning.md) | q2 | 8 | 6 |
 | [Elisabet Pladevall-Ballester, Alexandra Vraciu. (2020). EFL child peer interaction: Measuring the effect of …](claims/clarification-requests-three-way-interaction.md) | q3 | 8 | 8 |
-| [Daloglu, A. (2020). EFL Students' Beliefs about How They Learn Grammar Best. English Language Teaching, …](claims/efl-students-prefer-deductive-over-inductive-grammar-instruction.md) | q2 | 8 | 8 |
-| [Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual …](claims/majors-background-affects-outcomes.md) | q2 | 8 | 8 |
-| [Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: …](claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) | q3 | 8 | 8 |
-| [Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula …](claims/ablation-all-features-maximize-auc.md) | q2 | 8 | 8 |
-| [Truong, T. D. (2025). Factors Determining Governance Effectiveness in Vietnamese Universities: A Mixed-Method …](claims/education-level-internationalization-perceptions.md) | q2 | 8 | 8 |
 
 ## Citation load against evidence base
 
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-113 claims are cited both ways.
+114 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -133,15 +133,15 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 375 | 317 | 2 | 0 |
-| [elements](elements/index.md) | 762 | 522 | 2 | 0 |
+| [principles](principles/index.md) | 375 | 320 | 2 | 0 |
+| [elements](elements/index.md) | 816 | 571 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 108 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,230 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,251 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 995 | 801 | 1 | 0 |
+| [theories](theories/index.md) | 999 | 805 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 117 | 93 | 1 | 0 |
+| [designs](designs/index.md) | 135 | 103 | 1 | 0 |
 
 ## Toward pooled estimates
 

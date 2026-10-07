@@ -47,6 +47,7 @@ The report argues that the traditional pattern of one-shot workshops, without fo
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](../strategies/ceoforum-teacher-tech-integration-recommendations.md)
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](../strategies/gamification-implementation-support-strategy.md)
+- [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](../strategies/fhao-teacher-professional-development.md)
 
 ## Key Sources
 - CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747

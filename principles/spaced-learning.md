@@ -58,7 +58,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (11 for, 6 mixed, 1 unmarked) · 20 studies (10 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 6 of 20 report an effect size · 13 claims rest on one study
+> **Evidence** · 20 claims (13 for, 6 mixed, 1 unmarked) · 22 studies (12 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size · 15 claims rest on one study
 
 ## Description
 
@@ -117,6 +117,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](../claims/podcast-design-barriers-pauses-voice-monotony.md) [+W]
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](../claims/podcast-gains-higher-order-domains.md) [+W]
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](../claims/podcast-topic-wise-gain-heterogeneity.md) [~W]
+- [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](../claims/structured-cai-spacing-improves-recall-and-retention.md) [+W] — attached 2026-10-07 from Caple (1996), which proposed "Incorporate spacing effects into the design and structure of computer assisted instruction programs"; tests this page's relationship.
+- [ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test](../claims/svas-spaced-listening-outperforms-comparison-end-of-experiment.md) [+W] — attached 2026-10-07 from Tetiana Zubenko et al. (2022), which proposed "When introducing spaced learning, explain the approach to learners and tailor repetition intervals to the audience and content"; tests this page's relationship.
 
 ## Source verification and open tests
 

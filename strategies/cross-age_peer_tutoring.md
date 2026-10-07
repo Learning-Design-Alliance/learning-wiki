@@ -60,9 +60,11 @@ Tutoring works because explaining content to another person forces elaboration, 
 5. **Debrief tutors** — short reflection on what was hard to explain, which doubles as formative assessment of the tutor's own understanding.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — same role-rotation logic applied to comprehension strategies
 - [Peer Tutoring](peer-tutoring.md) — the same-age variant; cross-age pairing trades role fluidity for stability
 - [Cooperative Learning](cooperative-learning.md) — the symmetric-group alternative when role asymmetry is not needed
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Reading Buddies programs** — common in elementary schools, where upper-grade students read with and to early-grade students several times weekly; widely used within [Success for All](https://www.successforall.org) and described by [Reading Rockets](https://www.readingrockets.org/topics/peer-assisted-learning/articles/peer-tutoring)

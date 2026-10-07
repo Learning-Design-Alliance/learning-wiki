@@ -63,9 +63,12 @@ Peer tutoring works because explaining material to another person forces the tut
 6. **Rotate roles and review.** Reverse roles on a fixed schedule; debrief what explanations worked and where the tutee got stuck.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a scripted peer-dialogue routine for reading comprehension; the closest structural cousin
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the broader family of structured peer interaction; tutoring is its most tightly scripted dyadic form
 - [Direct Instruction](../patterns/direct-instruction.md) — supplies the scripted, sequenced materials that peer tutors then deliver to each other
+- [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Classwide Peer Tutoring (CWPT)** — developed at the University of Kansas ([junipergardenprogram.org](https://www.specialconnections.ku.edu)); weekly team-based dyads with point systems, role switching, and teacher-designed materials.

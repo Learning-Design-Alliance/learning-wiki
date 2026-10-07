@@ -55,3 +55,4 @@ The understanding measure is a single pre/post self-rating on a 7-point scale (a
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — related
+- [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related

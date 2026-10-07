@@ -62,9 +62,11 @@ FBA rests on the behavioral principle that behavior is maintained by its consequ
 6. **Monitor and fade**: track behavior change against baseline data, and use regular [check-ins](../elements/check-in.md) to adjust the plan as the learner's needs change.
 
 ## Related Strategies
+
 - Positive Behavior Interventions and Supports (PBIS) — FBA is the individual (Tier 3) assessment layer within a schoolwide prevention framework
 - Behavior Intervention Planning — the plan document that operationalizes FBA findings
 - Precorrection and antecedent strategies — proactive adjustments derived from the FBA's antecedent analysis
+- [Select individualized FBA-based intervention components matched to each student's assessed behavior function](fba-individualized-intervention-selection.md)
 
 ## Examples
 - A student calls out during independent work; ABC data show outages cluster when worksheets are assigned and produce teacher attention. The plan teaches a request-for-help card (functionally equivalent attention/access) and reduces worksheet difficulty at entry.

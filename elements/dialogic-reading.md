@@ -55,10 +55,12 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 - 
 
 ## Related Elements
+
 - [Coaching](coaching.md) — the in-the-moment prompting and feedback that constitutes the adult role
 - [Articulation](articulation.md) — the child's prompted retellings are structured articulation of developing knowledge
 - [Act It Out](act-it-out.md) — a complementary way to deepen engagement with story content through enactment
 - [Check-In](check-in.md) — brief comprehension and distancing prompts ("Has that ever happened to you?") embedded in the reading
+- [Dialogic Reading practice with CROWD prompts and PEER technique](dialogic-reading-crowd-peer-practice.md)
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the adult models storytelling language, then fades support as the child takes over the narration

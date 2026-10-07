@@ -59,9 +59,11 @@ RPT works because preparing to teach forces deeper processing than preparing to 
 5. Monitor pairs, correct emerging misconceptions, and re-pair periodically.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — applies role alternation to comprehension strategies rather than content review
 - [Cross-Age Tutoring](../strategies/cross-age-tutoring.md) — fixed-role variant trading reciprocity for expertise distance
 - [Jigsaw](../strategies/jigsaw.md) — another structure where every student must teach to complete the task
+- [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
 
 ## Examples
 - **Classwide Peer Tutoring (Juniper Gardens Children's Project, Kansas)** — weekly teacher-led routines in which entire classes tutor in pairs with point systems and weekly role switching; extensively studied in Title I elementary schools.

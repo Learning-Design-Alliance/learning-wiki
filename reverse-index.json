@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 3557,
+  "claims->claims": 3779,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -9,21 +9,21 @@
   "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
-  "designs->claims": 93,
+  "designs->claims": 103,
   "designs->designs": 27,
   "designs->elements": 26,
   "designs->patterns": 21,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 522,
+  "elements->claims": 571,
   "elements->designs": 2,
-  "elements->elements": 474,
+  "elements->elements": 502,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 247,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 206,
+  "elements->theories": 207,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -46,9 +46,9 @@
   "patterns->principles": 71,
   "patterns->processes": 1,
   "patterns->theories": 28,
-  "principles->claims": 317,
+  "principles->claims": 320,
   "principles->designs": 30,
-  "principles->elements": 89,
+  "principles->elements": 90,
   "principles->methods": 5,
   "principles->patterns": 80,
   "principles->principles": 228,
@@ -63,20 +63,20 @@
   "processes->theories": 10,
   "strategies->claims": 2336,
   "strategies->designs": 2,
-  "strategies->elements": 2396,
+  "strategies->elements": 2398,
   "strategies->methods": 14,
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 671,
-  "theories->claims": 801,
+  "strategies->theories": 672,
+  "theories->claims": 805,
   "theories->designs": 60,
-  "theories->elements": 173,
+  "theories->elements": 175,
   "theories->methods": 14,
   "theories->patterns": 65,
-  "theories->principles": 214,
+  "theories->principles": 215,
   "theories->processes": 7,
-  "theories->theories": 699
+  "theories->theories": 700
  },
  "edges": {
   "claims": {
@@ -5930,6 +5930,26 @@
      }
     ]
    },
+   "alignment-trained-skill-larger-effects-phonological-awareness": {
+    "claims": [
+     {
+      "slug": "phonemic-awareness-training-improves-reading"
+     },
+     {
+      "slug": "segmentation-only-consistently-confirmed-outcome"
+     },
+     {
+      "slug": "spatial-training-improves-math-performance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "phonological-awareness-training-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "all-attachment-styles-predict-loneliness": {
     "claims": [
      {
@@ -7389,6 +7409,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "bullying-prevention-and-intervention",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "frequent-conversations-clear-limits-internet-safety",
@@ -9423,6 +9448,9 @@
       "slug": "peer-feedback-improves-writing"
      },
      {
+      "slug": "peer-response-groups-writing-idea-units"
+     },
+     {
       "slug": "process-writing-improves-writing-quality"
      },
      {
@@ -10865,6 +10893,11 @@
       "polarity": "~",
       "slug": "autonomy-goal-and-route-early-literacy",
       "strength": "M"
+     },
+     {
+      "polarity": "~",
+      "slug": "autonomy",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -13436,6 +13469,23 @@
      }
     ]
    },
+   "baker-trial-pretest-difference-covariate-control": {
+    "claims": [
+     {
+      "slug": "expert-mathematician-potentially-positive-math-achievement"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-expert-mathematician"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "expert-mathematician-logo-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "balance-whole-language-and-phonics": {
     "claims": [
      {
@@ -13457,6 +13507,100 @@
      {
       "polarity": "~",
       "slug": "phonics",
+      "strength": "W"
+     }
+    ]
+   },
+   "balanced-leadership-comparison-contamination": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-other-outcomes-not-established"
+     },
+     {
+      "slug": "balanced-leadership-potentially-positive-school-leader-retention"
+     },
+     {
+      "slug": "balanced-leadership-retention-not-statistically-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "balanced-leadership-pd-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "balanced-leadership-21-actions-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "balanced-leadership-other-outcomes-not-established": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-comparison-contamination"
+     },
+     {
+      "slug": "balanced-leadership-potentially-positive-school-leader-retention"
+     },
+     {
+      "slug": "balanced-leadership-retention-not-statistically-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "balanced-leadership-pd-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "balanced-leadership-21-actions-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "balanced-leadership-potentially-positive-school-leader-retention": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-comparison-contamination"
+     },
+     {
+      "slug": "balanced-leadership-other-outcomes-not-established"
+     },
+     {
+      "slug": "balanced-leadership-retention-not-statistically-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "balanced-leadership-pd-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "balanced-leadership-retention-not-statistically-significant": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-comparison-contamination"
+     },
+     {
+      "slug": "balanced-leadership-other-outcomes-not-established"
+     },
+     {
+      "slug": "balanced-leadership-potentially-positive-school-leader-retention"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "balanced-leadership-pd-program",
       "strength": "W"
      }
     ]
@@ -13604,6 +13748,201 @@
      {
       "polarity": "+",
       "slug": "teach-rhetorics-not-rhetoric",
+      "strength": "W"
+     }
+    ]
+   },
+   "bcirc-higher-language-exit-criterion-rate-not-significant": {
+    "claims": [
+     {
+      "slug": "bcirc-higher-reading-exit-criterion-rate"
+     },
+     {
+      "slug": "bcirc-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "bcirc-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "bcirc-two-years-larger-reading-gains-than-one-year"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bcirc-higher-reading-exit-criterion-rate": {
+    "claims": [
+     {
+      "slug": "bcirc-higher-language-exit-criterion-rate-not-significant"
+     },
+     {
+      "slug": "bcirc-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "bcirc-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "bcirc-two-years-larger-reading-gains-than-one-year"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bcirc-potentially-positive-english-language-development": {
+    "claims": [
+     {
+      "slug": "bcirc-higher-language-exit-criterion-rate-not-significant"
+     },
+     {
+      "slug": "bcirc-higher-reading-exit-criterion-rate"
+     },
+     {
+      "slug": "bcirc-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "bcirc-two-years-larger-reading-gains-than-one-year"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bcirc-potentially-positive-reading-achievement": {
+    "claims": [
+     {
+      "slug": "bcirc-higher-language-exit-criterion-rate-not-significant"
+     },
+     {
+      "slug": "bcirc-higher-reading-exit-criterion-rate"
+     },
+     {
+      "slug": "bcirc-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "bcirc-two-years-larger-reading-gains-than-one-year"
+     },
+     {
+      "slug": "ic-ll-longitudinal-reading-quasi-experiment"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bcirc-two-years-larger-reading-gains-than-one-year": {
+    "claims": [
+     {
+      "slug": "bcirc-higher-language-exit-criterion-rate-not-significant"
+     },
+     {
+      "slug": "bcirc-higher-reading-exit-criterion-rate"
+     },
+     {
+      "slug": "bcirc-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "bcirc-potentially-positive-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bds-curriculum-adds-beyond-service-learning-alone": {
+    "claims": [
+     {
+      "slug": "bds-improves-ethical-perspective"
+     },
+     {
+      "slug": "bds-null-self-esteem-general-responsibility"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "building-decision-skills-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "bds-improves-ethical-perspective": {
+    "claims": [
+     {
+      "slug": "bds-curriculum-adds-beyond-service-learning-alone"
+     },
+     {
+      "slug": "bds-null-self-esteem-general-responsibility"
+     },
+     {
+      "slug": "bds-service-learning-potentially-positive-kav"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "building-decision-skills-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "bds-null-self-esteem-general-responsibility": {
+    "claims": [
+     {
+      "slug": "bds-curriculum-adds-beyond-service-learning-alone"
+     },
+     {
+      "slug": "bds-improves-ethical-perspective"
+     },
+     {
+      "slug": "service-learning-improves-civic-and-personal-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "building-decision-skills-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "bds-service-learning-potentially-positive-kav": {
+    "claims": [
+     {
+      "slug": "bds-improves-ethical-perspective"
+     },
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgfdv-quasi-experimental-significant-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "building-decision-skills-curriculum",
       "strength": "W"
      }
     ]
@@ -16155,6 +16494,13 @@
       "strength": "W"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "scaffolding-and-fading",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
@@ -17225,6 +17571,133 @@
      }
     ]
    },
+   "bright-beginnings-no-discernible-effects-preschool": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-null-math"
+     },
+     {
+      "slug": "bright-beginnings-null-oral-language"
+     },
+     {
+      "slug": "bright-beginnings-null-phonological-processing"
+     },
+     {
+      "slug": "bright-beginnings-print-knowledge-tera3-mixed"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "bright-beginnings-curriculum-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bright-beginnings-null-math": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "bright-beginnings-null-oral-language"
+     },
+     {
+      "slug": "bright-beginnings-print-knowledge-tera3-mixed"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-math-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "bright-beginnings-curriculum-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bright-beginnings-null-oral-language": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "bright-beginnings-null-math"
+     },
+     {
+      "slug": "bright-beginnings-print-knowledge-tera3-mixed"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "bright-beginnings-curriculum-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bright-beginnings-null-phonological-processing": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "bright-beginnings-print-knowledge-tera3-mixed"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-phonological-effects"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "bright-beginnings-curriculum-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bright-beginnings-print-knowledge-tera3-mixed": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "bright-beginnings-null-math"
+     },
+     {
+      "slug": "bright-beginnings-null-oral-language"
+     },
+     {
+      "slug": "bright-beginnings-null-phonological-processing"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "pat-lk-positive-print-knowledge-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "bright-beginnings-curriculum-element",
+      "strength": "W"
+     }
+    ]
+   },
    "brownsville-primary-reading-below-grade-level": {
     "claims": [
      {
@@ -17829,6 +18302,32 @@
       "polarity": "+",
       "slug": "situated-cognition-context-authenticity-activity",
       "strength": "M"
+     }
+    ]
+   },
+   "cal-learn-evidence-standards-reservations-attrition": {
+    "claims": [
+     {
+      "slug": "financial-incentives-ged-receipt-significant"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-completing-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-progressing-in-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-staying-in-school"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-staying-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
+      "strength": "W"
      }
     ]
    },
@@ -19277,6 +19776,11 @@
       "polarity": "~",
       "slug": "deliberate-practice",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "scaffolding-and-fading",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -20131,6 +20635,23 @@
      {
       "polarity": "+",
       "slug": "real-world-problem-solving-maker-context",
+      "strength": "W"
+     }
+    ]
+   },
+   "christ-davie-2009-significant-fluency-gains": {
+    "claims": [
+     {
+      "slug": "heistad-2008-significant-nalt-reading-effect"
+     },
+     {
+      "slug": "read-naturally-no-discernible-effects-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "read-naturally-fluency-program",
       "strength": "W"
      }
     ]
@@ -24311,6 +24832,11 @@
     "patterns": [
      {
       "polarity": "~",
+      "slug": "collaborative-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
       "slug": "literature-circles-rotating-collaborative-roles",
       "strength": "W"
      }
@@ -25419,6 +25945,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "clear-structure",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "positive-clarity-moves-design-principle",
@@ -33674,6 +34205,9 @@
       "slug": "good-idea-reward-no-incentive-effect"
      },
      {
+      "slug": "peer-response-groups-writing-idea-units"
+     },
+     {
       "slug": "reward-effects-hold-across-individual-tasks"
      },
      {
@@ -37001,6 +37535,11 @@
     "patterns": [
      {
       "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "nine-key-elements-cooperative-lesson",
       "strength": "M"
      }
@@ -37172,6 +37711,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "cooperative-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "nine-key-elements-cooperative-lesson",
@@ -37418,6 +37962,109 @@
       "polarity": "+",
       "slug": "cf-types-explicit-implicit-continuum",
       "strength": "S"
+     }
+    ]
+   },
+   "corrective-reading-alphabetics-mixed-outcomes": {
+    "claims": [
+     {
+      "slug": "corrective-reading-no-comprehension-effects"
+     },
+     {
+      "slug": "corrective-reading-subgroup-moderators"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "corrective-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "corrective-reading-no-comprehension-effects": {
+    "claims": [
+     {
+      "slug": "corrective-reading-alphabetics-mixed-outcomes"
+     },
+     {
+      "slug": "corrective-reading-significant-fluency-effect"
+     },
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "corrective-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "corrective-reading-significant-fluency-effect": {
+    "claims": [
+     {
+      "slug": "corrective-reading-no-comprehension-effects"
+     },
+     {
+      "slug": "rashotte-2001-spellread-significant-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "corrective-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "corrective-reading-small-evidence-base": {
+    "claims": [
+     {
+      "slug": "cwpt-evidence-base-small-reading-domains"
+     },
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "smart-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "corrective-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "corrective-reading-subgroup-moderators": {
+    "claims": [
+     {
+      "slug": "corrective-reading-alphabetics-mixed-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "corrective-reading-program",
+      "strength": "W"
      }
     ]
    },
@@ -38104,6 +38751,26 @@
      }
     ]
    },
+   "cross-level-peer-tutoring-null-oral-proficiency": {
+    "claims": [
+     {
+      "slug": "peer-pairing-language-behavior-jun-aust"
+     },
+     {
+      "slug": "peer-tutoring-improves-achievement"
+     },
+     {
+      "slug": "tutoring-benefits-tutors-and-tutees"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "peer-tutoring-response-groups-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "cross-linguistic-dissimilation-spanish-french": {
     "claims": [
      {
@@ -38149,6 +38816,90 @@
      },
      {
       "slug": "mobile-user-typology-predicts-adoption-intention"
+     }
+    ]
+   },
+   "csc-no-discernible-academic-effects": {
+    "claims": [
+     {
+      "slug": "csc-no-discernible-kav-effects"
+     },
+     {
+      "slug": "csc-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "lessons-in-character-improvement-index-all-domains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "caring-school-community-four-component-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "caring-community-developmental-rationale",
+      "strength": "W"
+     }
+    ]
+   },
+   "csc-no-discernible-kav-effects": {
+    "claims": [
+     {
+      "slug": "csc-no-discernible-academic-effects"
+     },
+     {
+      "slug": "csc-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "lessons-in-character-improvement-index-all-domains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "caring-school-community-four-component-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "caring-community-developmental-rationale",
+      "strength": "W"
+     }
+    ]
+   },
+   "csc-potentially-positive-behavior-effects": {
+    "claims": [
+     {
+      "slug": "csc-no-discernible-academic-effects"
+     },
+     {
+      "slug": "csc-no-discernible-kav-effects"
+     },
+     {
+      "slug": "positive-action-positive-effects-behavior"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "caring-school-community-four-component-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "caring-community-developmental-rationale",
+      "strength": "W"
      }
     ]
    },
@@ -38798,6 +39549,176 @@
      }
     ]
    },
+   "curiosity-corner-expressive-language-age-group-mixed": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-no-discernible-cognition-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-kindergarten-followup-print-gains": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-no-discernible-math-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-no-discernible-cognition-effects": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-age-group-mixed"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-no-discernible-math-effects": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-null-math"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-followup-print-gains"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-phonological-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-no-discernible-oral-language-effects": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-age-group-mixed"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-cognition-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-math-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-phonological-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-no-discernible-phonological-effects": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-null-phonological-processing"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-math-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-no-discernible-print-knowledge-effects": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "bright-beginnings-print-knowledge-tera3-mixed"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-followup-print-gains"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-math-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-phonological-effects"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "curricular-knowledge-enables-responsive-instructional-moves": {
     "claims": [
      {
@@ -38874,6 +39795,177 @@
      }
     ]
    },
+   "cwk-domain-average-behavior-effect": {
+    "claims": [
+     {
+      "slug": "cwk-elementary-null-behavior-effects"
+     },
+     {
+      "slug": "cwk-middle-high-school-behavior-gains"
+     },
+     {
+      "slug": "positive-action-positive-effects-behavior"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "connect-with-kids-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "cwk-elementary-null-behavior-effects": {
+    "claims": [
+     {
+      "slug": "cwk-domain-average-behavior-effect"
+     },
+     {
+      "slug": "cwk-middle-high-school-behavior-gains"
+     },
+     {
+      "slug": "cwk-potentially-positive-rating-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "connect-with-kids-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "cwk-middle-high-school-behavior-gains": {
+    "claims": [
+     {
+      "slug": "cwk-domain-average-behavior-effect"
+     },
+     {
+      "slug": "cwk-elementary-null-behavior-effects"
+     },
+     {
+      "slug": "cwk-potentially-positive-rating-single-study"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "cwk-video-discussion-followup-lesson-sequence",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "connect-with-kids-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "cwk-potentially-positive-rating-single-study": {
+    "claims": [
+     {
+      "slug": "cwk-elementary-null-behavior-effects"
+     },
+     {
+      "slug": "cwk-middle-high-school-behavior-gains"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-staying-in-school"
+     },
+     {
+      "slug": "wwc-rating-ucsmp-algebra-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "connect-with-kids-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "cwpt-ctbs-effect-significance-discrepancy": {
+    "claims": [
+     {
+      "slug": "eir-comprehension-substantively-important-ns"
+     },
+     {
+      "slug": "ic-ll-english-language-development-unconfirmed"
+     },
+     {
+      "slug": "ic-ll-longitudinal-reading-quasi-experiment"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "classwide-peer-tutoring-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "cwpt-learning-management-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "cwpt-evidence-base-small-reading-domains": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "reading-plus-evidence-extent-small-one-study"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "classwide-peer-tutoring-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "cwpt-learning-management-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "cwpt-grade4-differential-attrition-excluded": {
+    "claims": [
+     {
+      "slug": "vip-potentially-positive-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "classwide-peer-tutoring-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "cwpt-learning-management-system",
+      "strength": "W"
+     }
+    ]
+   },
    "dahmus-students-translate-but-no-single-equation": {
     "claims": [
      {
@@ -38914,6 +40006,276 @@
      },
      {
       "slug": "time-of-day-and-scan-interval-predict-within-person-brain-volume-variance"
+     }
+    ]
+   },
+   "daisyquest-beats-math-software-alphabetics": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-reading-software-phonological-awareness"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-alphabetics"
+     },
+     {
+      "slug": "daisyquest-versus-teacher-instruction-mixed"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "W"
+     }
+    ]
+   },
+   "daisyquest-beats-reading-software-phonological-awareness": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-math-software-alphabetics"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-versus-teacher-instruction-mixed"
+     },
+     {
+      "slug": "lonigan-2003-significant-four-of-eight-outcomes"
+     },
+     {
+      "slug": "wwc-positive-effects-rating-daisyquest"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "W"
+     }
+    ]
+   },
+   "daisyquest-blending-outcomes-not-significant": {
+    "claims": [
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "lonigan-2003-significant-four-of-eight-outcomes"
+     }
+    ]
+   },
+   "daisyquest-child-care-significant-gains": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-math-software-alphabetics"
+     },
+     {
+      "slug": "daisyquest-beats-reading-software-phonological-awareness"
+     },
+     {
+      "slug": "daisyquest-blending-outcomes-not-significant"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "daisyquest-versus-teacher-instruction-mixed"
+     },
+     {
+      "slug": "foster-1994-daisyquest-significant-both-measures"
+     },
+     {
+      "slug": "lonigan-2003-significant-four-of-eight-outcomes"
+     },
+     {
+      "slug": "wwc-positive-effects-rating-daisyquest"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "W"
+     }
+    ]
+   },
+   "daisyquest-kindergarten-significant-gains": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-math-software-alphabetics"
+     },
+     {
+      "slug": "daisyquest-beats-reading-software-phonological-awareness"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "daisyquest-versus-teacher-instruction-mixed"
+     },
+     {
+      "slug": "foster-1994-daisyquest-significant-both-measures"
+     },
+     {
+      "slug": "lonigan-2003-significant-four-of-eight-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "W"
+     }
+    ]
+   },
+   "daisyquest-positive-effects-alphabetics": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-math-software-alphabetics"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "daisyquest-versus-teacher-instruction-mixed"
+     },
+     {
+      "slug": "lonigan-2003-significant-four-of-eight-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     }
+    ]
+   },
+   "daisyquest-positive-effects-phonological-processing": {
+    "claims": [
+     {
+      "slug": "daisyquest-blending-outcomes-not-significant"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-alphabetics"
+     },
+     {
+      "slug": "daisyquest-versus-teacher-instruction-mixed"
+     },
+     {
+      "slug": "foster-1994-daisyquest-significant-both-measures"
+     },
+     {
+      "slug": "ladders-to-literacy-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "lonigan-2003-significant-four-of-eight-outcomes"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     },
+     {
+      "slug": "phonological-awareness-training-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-null-phonological-processing"
+     },
+     {
+      "slug": "wwc-positive-effects-rating-daisyquest"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "M"
+     }
+    ]
+   },
+   "daisyquest-versus-teacher-instruction-mixed": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-math-software-alphabetics"
+     },
+     {
+      "slug": "daisyquest-beats-reading-software-phonological-awareness"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-alphabetics"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "W"
      }
     ]
    },
@@ -41140,6 +42502,9 @@
       "slug": "dialogic-reading-improves-language-outcomes"
      },
      {
+      "slug": "implementation-level-moderates-dialogic-reading-effects"
+     },
+     {
       "slug": "interactional-structures-shape-content-processing"
      },
      {
@@ -41410,6 +42775,9 @@
       "slug": "dialogic-reading-improves-expressive-language"
      },
      {
+      "slug": "implementation-level-moderates-dialogic-reading-effects"
+     },
+     {
       "slug": "interactional-structures-shape-content-processing"
      },
      {
@@ -41437,6 +42805,72 @@
       "polarity": "+",
       "slug": "dialogic-teaching-versus-conversation",
       "strength": "M"
+     }
+    ]
+   },
+   "dialogic-reading-no-phonological-processing-effects": {
+    "claims": [
+     {
+      "slug": "dialogic-reading-positive-oral-language-effects"
+     },
+     {
+      "slug": "dialogic-reading-sound-foundations-combined-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "dialogic-reading-crowd-peer-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "dialogic-reading-oral-language-improvement-index": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "dialogic-reading-crowd-peer-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "dialogic-reading-positive-oral-language-effects": {
+    "claims": [
+     {
+      "slug": "dialogic-reading-no-phonological-processing-effects"
+     },
+     {
+      "slug": "dialogic-reading-sound-foundations-combined-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "dialogic-reading-crowd-peer-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "dialogic-reading-sound-foundations-combined-outcomes": {
+    "claims": [
+     {
+      "slug": "dialogic-reading-no-phonological-processing-effects"
+     },
+     {
+      "slug": "dialogic-reading-positive-oral-language-effects"
+     },
+     {
+      "slug": "implementation-level-moderates-dialogic-reading-effects"
+     },
+     {
+      "slug": "pat-lk-oral-language-negative-artifact-of-comparison"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "dialogic-reading-crowd-peer-practice",
+      "strength": "W"
      }
     ]
    },
@@ -44614,6 +46048,127 @@
      }
     ]
    },
+   "early-risers-no-effect-external-behavior": {
+    "claims": [
+     {
+      "slug": "early-risers-no-effect-internal-behavior"
+     },
+     {
+      "slug": "early-risers-potentially-positive-academic-performance"
+     },
+     {
+      "slug": "early-risers-potentially-positive-social-outcomes"
+     },
+     {
+      "slug": "early-risers-two-year-academic-competence-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "early-risers-prevention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-risers-no-effect-internal-behavior": {
+    "claims": [
+     {
+      "slug": "early-risers-no-effect-external-behavior"
+     },
+     {
+      "slug": "early-risers-potentially-positive-academic-performance"
+     },
+     {
+      "slug": "early-risers-potentially-positive-social-outcomes"
+     },
+     {
+      "slug": "early-risers-two-year-academic-competence-significant"
+     },
+     {
+      "slug": "fba-potentially-positive-school-engagement"
+     },
+     {
+      "slug": "pbis-reduces-clinically-significant-behavior-problems"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "early-risers-prevention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-risers-potentially-positive-academic-performance": {
+    "claims": [
+     {
+      "slug": "early-risers-no-effect-external-behavior"
+     },
+     {
+      "slug": "early-risers-no-effect-internal-behavior"
+     },
+     {
+      "slug": "early-risers-potentially-positive-social-outcomes"
+     },
+     {
+      "slug": "early-risers-two-year-academic-competence-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-risers-prevention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-risers-potentially-positive-social-outcomes": {
+    "claims": [
+     {
+      "slug": "early-risers-no-effect-external-behavior"
+     },
+     {
+      "slug": "early-risers-no-effect-internal-behavior"
+     },
+     {
+      "slug": "early-risers-potentially-positive-academic-performance"
+     },
+     {
+      "slug": "early-risers-two-year-academic-competence-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-risers-prevention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-risers-two-year-academic-competence-significant": {
+    "claims": [
+     {
+      "slug": "early-risers-no-effect-external-behavior"
+     },
+     {
+      "slug": "early-risers-no-effect-internal-behavior"
+     },
+     {
+      "slug": "early-risers-potentially-positive-academic-performance"
+     },
+     {
+      "slug": "early-risers-potentially-positive-social-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-risers-prevention-program",
+      "strength": "W"
+     }
+    ]
+   },
    "early-stage-maladjustment-elicits-complementarity": {
     "claims": [
      {
@@ -45358,6 +46913,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -45546,6 +47108,99 @@
       "polarity": "~",
       "slug": "spaced-learning",
       "strength": "M"
+     }
+    ]
+   },
+   "eir-alphabetics-effect-sizes-improvement-index": {
+    "claims": [
+     {
+      "slug": "eir-significant-alphabetics-effects-grade1"
+     },
+     {
+      "slug": "eir-small-evidence-base-one-rct"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-intervention-in-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "eir-comprehension-substantively-important-ns": {
+    "claims": [
+     {
+      "slug": "cwpt-ctbs-effect-significance-discrepancy"
+     },
+     {
+      "slug": "eir-significant-alphabetics-effects-grade1"
+     },
+     {
+      "slug": "eir-small-evidence-base-one-rct"
+     },
+     {
+      "slug": "failure-free-reading-potentially-positive-comprehension"
+     },
+     {
+      "slug": "vip-potentially-positive-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-intervention-in-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "eir-significant-alphabetics-effects-grade1": {
+    "claims": [
+     {
+      "slug": "eir-alphabetics-effect-sizes-improvement-index"
+     },
+     {
+      "slug": "eir-comprehension-substantively-important-ns"
+     },
+     {
+      "slug": "eir-small-evidence-base-one-rct"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "eir-daily-supplemental-reading-cycle",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-intervention-in-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "eir-small-evidence-base-one-rct": {
+    "claims": [
+     {
+      "slug": "eir-alphabetics-effect-sizes-improvement-index"
+     },
+     {
+      "slug": "eir-comprehension-substantively-important-ns"
+     },
+     {
+      "slug": "eir-significant-alphabetics-effects-grade1"
+     },
+     {
+      "slug": "smart-evidence-base-single-small-rct"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "early-intervention-in-reading-program",
+      "strength": "W"
      }
     ]
    },
@@ -46163,6 +47818,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "invite-everyday-registers-science-activities",
@@ -47020,6 +48680,11 @@
     ],
     "elements": [
      {
+      "polarity": "-",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "leigh-two-way-bilingual-immersion-program",
       "strength": "W"
@@ -47029,6 +48694,103 @@
      {
       "polarity": "+",
       "slug": "asymmetry-framework-dual-language-equality",
+      "strength": "W"
+     }
+    ]
+   },
+   "enhanced-proactive-reading-cirino-substantively-important-nonsignificant": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-no-discernible-english-language-development"
+     },
+     {
+      "slug": "enhanced-proactive-reading-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "enhanced-proactive-reading-significant-word-attack-passage-comprehension"
+     },
+     {
+      "slug": "reading-mastery-immediate-posttest-reading-outcomes-ell"
+     },
+     {
+      "slug": "voyager-study-average-effect-sizes-differ"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "~",
+      "slug": "supplemental-small-group-daily-reading-instruction-ell",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "enhanced-proactive-reading-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "enhanced-proactive-reading-no-discernible-english-language-development": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-cirino-substantively-important-nonsignificant"
+     },
+     {
+      "slug": "enhanced-proactive-reading-significant-word-attack-passage-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "enhanced-proactive-reading-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "enhanced-proactive-reading-potentially-positive-reading-achievement": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-cirino-substantively-important-nonsignificant"
+     },
+     {
+      "slug": "enhanced-proactive-reading-significant-word-attack-passage-comprehension"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "enhanced-proactive-reading-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "enhanced-proactive-reading-significant-word-attack-passage-comprehension": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-cirino-substantively-important-nonsignificant"
+     },
+     {
+      "slug": "enhanced-proactive-reading-no-discernible-english-language-development"
+     },
+     {
+      "slug": "enhanced-proactive-reading-potentially-positive-reading-achievement"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "supplemental-small-group-daily-reading-instruction-ell",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "enhanced-proactive-reading-curriculum",
       "strength": "W"
      }
     ]
@@ -47775,6 +49537,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "literature-circles-rotating-collaborative-roles",
@@ -49511,6 +51278,23 @@
      }
     ]
    },
+   "expert-mathematician-potentially-positive-math-achievement": {
+    "claims": [
+     {
+      "slug": "baker-trial-pretest-difference-covariate-control"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-expert-mathematician"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "expert-mathematician-logo-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "expert-presenter-model-most-prevalent": {
     "claims": [
      {
@@ -51171,6 +52955,13 @@
      {
       "polarity": "+",
       "slug": "short-story-explicit-strategy-instruction-package",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
       "strength": "W"
      }
     ],
@@ -53244,6 +55035,60 @@
      }
     ]
    },
+   "failure-free-reading-no-discernible-effects-alphabetics": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-no-discernible-effects-fluency"
+     },
+     {
+      "slug": "voyager-study-average-effect-sizes-differ"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "failure-free-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "failure-free-reading-no-discernible-effects-fluency": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-no-discernible-effects-alphabetics"
+     },
+     {
+      "slug": "failure-free-reading-potentially-positive-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "failure-free-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "failure-free-reading-potentially-positive-comprehension": {
+    "claims": [
+     {
+      "slug": "eir-comprehension-substantively-important-ns"
+     },
+     {
+      "slug": "failure-free-reading-no-discernible-effects-fluency"
+     },
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "failure-free-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
    "false-beginners-backsliding-comprehension-decoding": {
     "claims": [
      {
@@ -53500,6 +55345,65 @@
      }
     ]
    },
+   "fast-forword-improvement-index-eld-reading": {
+    "claims": [
+     {
+      "slug": "fast-forword-language-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "ic-ll-potentially-positive-wwc-rating"
+     },
+     {
+      "slug": "reading-mastery-domain-average-effect-size-076"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "fast-forword-language-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "instructional-conversations-literature-logs-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "fast-forword-language-no-discernible-reading-achievement-effects": {
+    "claims": [
+     {
+      "slug": "fast-forword-language-potentially-positive-english-language-development"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "fast-forword-language-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "fast-forword-language-potentially-positive-english-language-development": {
+    "claims": [
+     {
+      "slug": "fast-forword-improvement-index-eld-reading"
+     },
+     {
+      "slug": "fast-forword-language-no-discernible-reading-achievement-effects"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "fast-forword-language-program",
+      "strength": "W"
+     }
+    ]
+   },
    "fast-mapping-full-mapping-word-learning": {
     "claims": [
      {
@@ -53522,6 +55426,60 @@
      {
       "polarity": "+",
       "slug": "comprehension-hypothesis-comprehensible-input-sla",
+      "strength": "W"
+     }
+    ]
+   },
+   "fba-evidence-base-single-case-only": {
+    "claims": [
+     {
+      "slug": "fba-potentially-positive-school-engagement"
+     },
+     {
+      "slug": "fba-social-emotional-competence-below-threshold"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "fba-individualized-problem-solving-process",
+      "strength": "W"
+     }
+    ]
+   },
+   "fba-potentially-positive-school-engagement": {
+    "claims": [
+     {
+      "slug": "early-risers-no-effect-internal-behavior"
+     },
+     {
+      "slug": "fba-evidence-base-single-case-only"
+     },
+     {
+      "slug": "fba-social-emotional-competence-below-threshold"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "fba-individualized-problem-solving-process",
+      "strength": "M"
+     }
+    ]
+   },
+   "fba-social-emotional-competence-below-threshold": {
+    "claims": [
+     {
+      "slug": "fba-evidence-base-single-case-only"
+     },
+     {
+      "slug": "fba-potentially-positive-school-engagement"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "fba-individualized-problem-solving-process",
       "strength": "W"
      }
     ]
@@ -56643,6 +58601,98 @@
      }
     ]
    },
+   "fhao-four-outcomes-favor-comparison-group": {
+    "claims": [
+     {
+      "slug": "fhao-no-discernible-effects-behavior"
+     },
+     {
+      "slug": "fhao-three-of-seven-outcomes-favor-program"
+     },
+     {
+      "slug": "lessons-in-character-improvement-index-all-domains"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-kav-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "facing-history-and-ourselves-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "fhao-limited-evidence-base-one-quasi-experiment": {
+    "claims": [
+     {
+      "slug": "fhao-no-discernible-effects-behavior"
+     },
+     {
+      "slug": "fhao-three-of-seven-outcomes-favor-program"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "facing-history-and-ourselves-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "fhao-no-discernible-effects-behavior": {
+    "claims": [
+     {
+      "slug": "fhao-four-outcomes-favor-comparison-group"
+     },
+     {
+      "slug": "fhao-limited-evidence-base-one-quasi-experiment"
+     },
+     {
+      "slug": "fhao-three-of-seven-outcomes-favor-program"
+     },
+     {
+      "slug": "tgfdv-intentions-null-results"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "facing-history-and-ourselves-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "fhao-three-of-seven-outcomes-favor-program": {
+    "claims": [
+     {
+      "slug": "fhao-four-outcomes-favor-comparison-group"
+     },
+     {
+      "slug": "fhao-limited-evidence-base-one-quasi-experiment"
+     },
+     {
+      "slug": "fhao-no-discernible-effects-behavior"
+     },
+     {
+      "slug": "tgfdv-rct-average-effect-not-significant"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "facing-history-and-ourselves-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "fiber-crafting-develops-proportional-reasoning-through-unitizing": {
     "claims": [
      {
@@ -56719,6 +58769,13 @@
       "slug": "learning-cycle-effective-science-learning"
      }
     ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "pre-visit-onsite-post-visit-field-trip-arc",
+      "strength": "W"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -56759,6 +58816,110 @@
      {
       "polarity": "+",
       "slug": "broadened-context-aware-scientific-excellence",
+      "strength": "W"
+     }
+    ]
+   },
+   "financial-incentives-ged-receipt-significant": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-completing-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-progressing-in-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-staying-in-school"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-staying-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
+      "strength": "W"
+     }
+    ]
+   },
+   "financial-incentives-teen-parents-completing-school": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "financial-incentives-ged-receipt-significant"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-progressing-in-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-staying-in-school"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-staying-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
+      "strength": "W"
+     }
+    ]
+   },
+   "financial-incentives-teen-parents-progressing-in-school": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "financial-incentives-ged-receipt-significant"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-completing-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-staying-in-school"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-staying-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
+      "strength": "W"
+     }
+    ]
+   },
+   "financial-incentives-teen-parents-staying-in-school": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "financial-incentives-ged-receipt-significant"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-completing-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-progressing-in-school"
+     },
+     {
+      "slug": "wwc-potentially-positive-rating-staying-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
       "strength": "W"
      }
     ]
@@ -57190,6 +59351,108 @@
      },
      {
       "slug": "learner-paced-beats-system-paced-complex-material"
+     }
+    ]
+   },
+   "fluency-formula-evidence-base-single-small-rct": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "fluency-formula-fluency-effects-differ-by-initial-ability"
+     },
+     {
+      "slug": "fluency-formula-negative-nonsignificant-comprehension-effect"
+     },
+     {
+      "slug": "fluency-formula-positive-nonsignificant-fluency-effect"
+     },
+     {
+      "slug": "reading-plus-evidence-extent-small-one-study"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "smart-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "fluency-formula-supplemental-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "fluency-formula-fluency-effects-differ-by-initial-ability": {
+    "claims": [
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "fluency-formula-negative-nonsignificant-comprehension-effect"
+     },
+     {
+      "slug": "fluency-formula-positive-nonsignificant-fluency-effect"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "~",
+      "slug": "weekly-fluency-cycle-ability-differentiated-practice",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "fluency-formula-supplemental-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "fluency-formula-negative-nonsignificant-comprehension-effect": {
+    "claims": [
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "fluency-formula-fluency-effects-differ-by-initial-ability"
+     },
+     {
+      "slug": "fluency-formula-positive-nonsignificant-fluency-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "fluency-formula-supplemental-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "fluency-formula-positive-nonsignificant-fluency-effect": {
+    "claims": [
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "fluency-formula-fluency-effects-differ-by-initial-ability"
+     },
+     {
+      "slug": "fluency-formula-negative-nonsignificant-comprehension-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "fluency-formula-supplemental-curriculum",
+      "strength": "W"
      }
     ]
    },
@@ -57738,6 +60001,32 @@
      }
     ]
    },
+   "foster-1994-daisyquest-significant-both-measures": {
+    "claims": [
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "wwc-positive-effects-rating-daisyquest"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "M"
+     }
+    ]
+   },
    "foundation-integration-predicts-environment-success": {
     "claims": [
      {
@@ -58180,6 +60469,9 @@
      },
      {
       "slug": "tc-effect-larger-for-chinese-supplementary"
+     },
+     {
+      "slug": "vip-no-treatment-language-status-interaction"
      }
     ],
     "theories": [
@@ -60930,6 +63222,103 @@
      }
     ]
    },
+   "green-dot-attendance-year-four-only": {
+    "claims": [
+     {
+      "slug": "green-dot-ela-first-year-only"
+     },
+     {
+      "slug": "green-dot-positive-math-achievement"
+     },
+     {
+      "slug": "green-dot-positive-student-progression"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "large-school-conversion-into-small-charter-schools",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "green-dot-six-principle-charter-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "green-dot-ela-first-year-only": {
+    "claims": [
+     {
+      "slug": "green-dot-attendance-year-four-only"
+     },
+     {
+      "slug": "green-dot-positive-math-achievement"
+     },
+     {
+      "slug": "green-dot-positive-student-progression"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "green-dot-six-principle-charter-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "green-dot-positive-math-achievement": {
+    "claims": [
+     {
+      "slug": "green-dot-attendance-year-four-only"
+     },
+     {
+      "slug": "green-dot-ela-first-year-only"
+     },
+     {
+      "slug": "green-dot-positive-student-progression"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "large-school-conversion-into-small-charter-schools",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "green-dot-six-principle-charter-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "green-dot-positive-student-progression": {
+    "claims": [
+     {
+      "slug": "green-dot-attendance-year-four-only"
+     },
+     {
+      "slug": "green-dot-ela-first-year-only"
+     },
+     {
+      "slug": "green-dot-positive-math-achievement"
+     },
+     {
+      "slug": "hsr-potentially-positive-progressing-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "green-dot-six-principle-charter-model",
+      "strength": "W"
+     }
+    ]
+   },
    "grid-overlay-reifies-anchor-shifts-routine": {
     "claims": [
      {
@@ -61715,6 +64104,23 @@
      }
     ]
    },
+   "gunn-1996-negative-nonsignificant-alphabetics": {
+    "claims": [
+     {
+      "slug": "lips-mixed-alphabetics-effects"
+     },
+     {
+      "slug": "torgesen-2010-positive-alphabetics-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "lips-program-articulation-phonemic-sequencing",
+      "strength": "W"
+     }
+    ]
+   },
    "guo-video-style-engagement-findings": {
     "claims": [
      {
@@ -61834,6 +64240,13 @@
      },
      {
       "slug": "personal-construction-required-stable-conceptual-change"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "maastricht-seven-step-pbl-tutorial-cycle",
+      "strength": "W"
      }
     ],
     "patterns": [
@@ -62009,6 +64422,20 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
+      "strength": "W"
+     }
+    ]
+   },
+   "heistad-2008-significant-nalt-reading-effect": {
+    "claims": [
+     {
+      "slug": "christ-davie-2009-significant-fluency-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "read-naturally-fluency-program",
       "strength": "W"
      }
     ]
@@ -64051,6 +66478,13 @@
       "strength": "W"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -64079,6 +66513,89 @@
      },
      {
       "slug": "simulation-rigor-enforcement-claim-overstated"
+     }
+    ]
+   },
+   "hsr-cincinnati-diploma-effect": {
+    "claims": [
+     {
+      "slug": "hsr-mixed-effects-staying-in-school"
+     },
+     {
+      "slug": "hsr-no-discernible-effects-completing-school"
+     },
+     {
+      "slug": "hsr-potentially-positive-progressing-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "high-school-redirection-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "hsr-mixed-effects-staying-in-school": {
+    "claims": [
+     {
+      "slug": "hsr-cincinnati-diploma-effect"
+     },
+     {
+      "slug": "hsr-no-discernible-effects-completing-school"
+     },
+     {
+      "slug": "hsr-potentially-positive-progressing-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "high-school-redirection-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "hsr-no-discernible-effects-completing-school": {
+    "claims": [
+     {
+      "slug": "hsr-cincinnati-diploma-effect"
+     },
+     {
+      "slug": "hsr-mixed-effects-staying-in-school"
+     },
+     {
+      "slug": "hsr-potentially-positive-progressing-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "high-school-redirection-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "hsr-potentially-positive-progressing-in-school": {
+    "claims": [
+     {
+      "slug": "green-dot-positive-student-progression"
+     },
+     {
+      "slug": "hsr-cincinnati-diploma-effect"
+     },
+     {
+      "slug": "hsr-mixed-effects-staying-in-school"
+     },
+     {
+      "slug": "hsr-no-discernible-effects-completing-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "high-school-redirection-program-model",
+      "strength": "W"
      }
     ]
    },
@@ -64309,6 +66826,108 @@
       "polarity": "+",
       "slug": "balance-situations-sources-control-items",
       "strength": "M"
+     }
+    ]
+   },
+   "ic-ll-english-language-development-unconfirmed": {
+    "claims": [
+     {
+      "slug": "cwpt-ctbs-effect-significance-discrepancy"
+     },
+     {
+      "slug": "ic-ll-longitudinal-reading-quasi-experiment"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "instructional-conversations-literature-logs-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "ic-ll-longitudinal-reading-quasi-experiment": {
+    "claims": [
+     {
+      "slug": "bcirc-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "cwpt-ctbs-effect-significance-discrepancy"
+     },
+     {
+      "slug": "ic-ll-english-language-development-unconfirmed"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "bcirc-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "instructional-conversations-literature-logs-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "ic-ll-potentially-positive-wwc-rating": {
+    "claims": [
+     {
+      "slug": "fast-forword-improvement-index-eld-reading"
+     },
+     {
+      "slug": "ic-ll-significant-story-comprehension-rct"
+     },
+     {
+      "slug": "peer-tutoring-response-groups-positive-eld-effects"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "instructional-conversations-literature-logs-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "ic-ll-significant-story-comprehension-rct": {
+    "claims": [
+     {
+      "slug": "ic-ll-potentially-positive-wwc-rating"
+     },
+     {
+      "slug": "ic-ll-single-component-effects-nonsignificant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "instructional-conversations-literature-logs-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "ic-ll-single-component-effects-nonsignificant": {
+    "claims": [
+     {
+      "slug": "ic-ll-significant-story-comprehension-rct"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "instructional-conversations-literature-logs-intervention",
+      "strength": "W"
      }
     ]
    },
@@ -65365,6 +67984,26 @@
       "polarity": "+",
       "slug": "mental-contrasting-with-implementation-intentions",
       "strength": "S"
+     }
+    ]
+   },
+   "implementation-level-moderates-dialogic-reading-effects": {
+    "claims": [
+     {
+      "slug": "dialogic-reading-improves-expressive-language"
+     },
+     {
+      "slug": "dialogic-reading-improves-language-outcomes"
+     },
+     {
+      "slug": "dialogic-reading-sound-foundations-combined-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "dialogic-reading-crowd-peer-practice",
+      "strength": "W"
      }
     ]
    },
@@ -69023,6 +71662,11 @@
     "patterns": [
      {
       "polarity": "~",
+      "slug": "direct-instruction",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
       "slug": "hunters-effective-teaching-model",
       "strength": "W"
      },
@@ -69191,6 +71835,9 @@
       "slug": "dialogic-reading-improves-language-outcomes"
      },
      {
+      "slug": "little-books-potentially-positive-general-reading-achievement"
+     },
+     {
       "slug": "meta-analyses-validate-extensive-reading-benefits-length-moderates"
      },
      {
@@ -69214,6 +71861,11 @@
       "polarity": "+",
       "slug": "dialogic-reading",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "little-books-reproducible-beginning-reading-books",
+      "strength": "S"
      }
     ],
     "principles": [
@@ -70703,6 +73355,11 @@
       "strength": "W"
      },
      {
+      "polarity": "~",
+      "slug": "exploration-tools-fast-hypothesis-testing",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "use-lab-technology-to-free-time-for-analysis",
       "strength": "M"
@@ -70835,6 +73492,93 @@
      {
       "polarity": "+",
       "slug": "atts-trafficked-women-attitude-scale",
+      "strength": "W"
+     }
+    ]
+   },
+   "ladders-to-literacy-mixed-comprehension": {
+    "claims": [
+     {
+      "slug": "ladders-to-literacy-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "ladders-to-literacy-potentially-positive-fluency"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ladders-to-literacy-kindergarten-activity-book",
+      "strength": "W"
+     }
+    ]
+   },
+   "ladders-to-literacy-no-general-reading-evidence": {
+    "claims": [
+     {
+      "slug": "ladders-to-literacy-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ladders-to-literacy-kindergarten-activity-book",
+      "strength": "W"
+     }
+    ]
+   },
+   "ladders-to-literacy-potentially-positive-alphabetics": {
+    "claims": [
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "ladders-to-literacy-mixed-comprehension"
+     },
+     {
+      "slug": "ladders-to-literacy-no-general-reading-evidence"
+     },
+     {
+      "slug": "ladders-to-literacy-potentially-positive-fluency"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     },
+     {
+      "slug": "spellread-potentially-positive-alphabetics"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "low-preparation-activities-within-classroom-routines",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ladders-to-literacy-kindergarten-activity-book",
+      "strength": "W"
+     }
+    ]
+   },
+   "ladders-to-literacy-potentially-positive-fluency": {
+    "claims": [
+     {
+      "slug": "ladders-to-literacy-mixed-comprehension"
+     },
+     {
+      "slug": "ladders-to-literacy-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "segmentation-only-consistently-confirmed-outcome"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ladders-to-literacy-kindergarten-activity-book",
       "strength": "W"
      }
     ]
@@ -72270,6 +75014,13 @@
       "slug": "misconceptions-interfere-with-new-learning"
      }
     ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "pre-visit-onsite-post-visit-field-trip-arc",
+      "strength": "W"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -72812,6 +75563,11 @@
       "polarity": "+",
       "slug": "integrated-constructivist-value-education-transaction",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "teacher-as-mediator-not-content-disseminator",
+      "strength": "W"
      }
     ]
    },
@@ -72891,6 +75647,13 @@
      },
      {
       "slug": "mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -73011,6 +75774,112 @@
      {
       "polarity": "-",
       "slug": "transfer-appropriate-processing-account-of-retrieval-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "lessons-in-character-improvement-index-all-domains": {
+    "claims": [
+     {
+      "slug": "csc-no-discernible-academic-effects"
+     },
+     {
+      "slug": "csc-no-discernible-kav-effects"
+     },
+     {
+      "slug": "fhao-four-outcomes-favor-comparison-group"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-behavior-effects"
+     },
+     {
+      "slug": "lessons-in-character-potentially-positive-academic-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lessons-in-character-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "lessons-in-character-no-discernible-behavior-effects": {
+    "claims": [
+     {
+      "slug": "lessons-in-character-improvement-index-all-domains"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-kav-effects"
+     },
+     {
+      "slug": "lessons-in-character-potentially-positive-academic-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "lessons-in-character-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "lessons-in-character-no-discernible-kav-effects": {
+    "claims": [
+     {
+      "slug": "fhao-four-outcomes-favor-comparison-group"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-behavior-effects"
+     },
+     {
+      "slug": "lessons-in-character-potentially-positive-academic-achievement"
+     },
+     {
+      "slug": "lessons-in-character-teacher-help-item-significant"
+     },
+     {
+      "slug": "tgfdv-rct-average-effect-not-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "lessons-in-character-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "lessons-in-character-potentially-positive-academic-achievement": {
+    "claims": [
+     {
+      "slug": "lessons-in-character-improvement-index-all-domains"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-behavior-effects"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-kav-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lessons-in-character-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "lessons-in-character-teacher-help-item-significant": {
+    "claims": [
+     {
+      "slug": "lessons-in-character-no-discernible-kav-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lessons-in-character-curriculum",
       "strength": "W"
      }
     ]
@@ -73427,6 +76296,83 @@
      }
     ]
    },
+   "lips-mixed-alphabetics-effects": {
+    "claims": [
+     {
+      "slug": "gunn-1996-negative-nonsignificant-alphabetics"
+     },
+     {
+      "slug": "lips-potentially-positive-comprehension-effects"
+     },
+     {
+      "slug": "torgesen-2010-positive-alphabetics-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "lips-program-articulation-phonemic-sequencing",
+      "strength": "W"
+     }
+    ]
+   },
+   "lips-potentially-positive-comprehension-effects": {
+    "claims": [
+     {
+      "slug": "lips-mixed-alphabetics-effects"
+     },
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     },
+     {
+      "slug": "torgesen-2010-positive-alphabetics-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lips-program-articulation-phonemic-sequencing",
+      "strength": "W"
+     }
+    ]
+   },
+   "lips-supplemental-followup-mixed-findings": {
+    "claims": [
+     {
+      "slug": "lips-potentially-positive-comprehension-effects"
+     },
+     {
+      "slug": "reading-mastery-followup-word-attack-significant-ell"
+     },
+     {
+      "slug": "rwt-no-advantage-over-auditory-discrimination-in-depth"
+     },
+     {
+      "slug": "rwt-no-discernible-comprehension-effects"
+     },
+     {
+      "slug": "spellread-one-year-followup-not-significant"
+     },
+     {
+      "slug": "torgesen-2010-positive-alphabetics-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "lips-program-articulation-phonemic-sequencing",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "spellread-program",
+      "strength": "W"
+     }
+    ]
+   },
    "listen-trial-nonpsychologist-delivery-effective": {
     "claims": [
      {
@@ -73662,6 +76608,69 @@
      {
       "polarity": "+",
       "slug": "active-ingredients-coaching-conceptual-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "little-books-evidence-base-small-one-domain": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "cwpt-evidence-base-small-reading-domains"
+     },
+     {
+      "slug": "reading-plus-evidence-extent-small-one-study"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "little-books-reproducible-beginning-reading-books",
+      "strength": "W"
+     }
+    ]
+   },
+   "little-books-improvement-index-plus-12-percentile": {
+    "claims": [
+     {
+      "slug": "little-books-potentially-positive-general-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "little-books-reproducible-beginning-reading-books",
+      "strength": "W"
+     }
+    ]
+   },
+   "little-books-potentially-positive-general-reading-achievement": {
+    "claims": [
+     {
+      "slug": "joint-book-reading-predicts-literacy-success"
+     },
+     {
+      "slug": "little-books-improvement-index-plus-12-percentile"
+     },
+     {
+      "slug": "parent-involvement-improves-early-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "little-books-reproducible-beginning-reading-books",
       "strength": "W"
      }
     ]
@@ -74122,6 +77131,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "cultural-life-experiences-connections",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "embed-local-indigenous-knowledge-community-experts",
       "strength": "W"
      }
@@ -74315,6 +77329,40 @@
       "polarity": "+",
       "slug": "neurotheology-distributed-networks-state-trait-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "lonigan-2003-significant-four-of-eight-outcomes": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-reading-software-phonological-awareness"
+     },
+     {
+      "slug": "daisyquest-blending-outcomes-not-significant"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-kindergarten-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-alphabetics"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "daisyquest-software-bundle",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "undersea-challenge-adaptive-test",
+      "strength": "M"
      }
     ]
    },
@@ -78482,6 +81530,11 @@
     ],
     "principles": [
      {
+      "polarity": "~",
+      "slug": "flexible-error-treatment-strategies",
+      "strength": "W"
+     },
+     {
       "polarity": "+",
       "slug": "integrate-explicit-correction-with-meaningful-activities",
       "strength": "W"
@@ -78550,6 +81603,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "flexible-error-treatment-strategies",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "integrate-explicit-correction-with-meaningful-activities",
@@ -79181,6 +82239,13 @@
     "claims": [
      {
       "slug": "pbl-knowledge-generation-application-dissemination"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "~",
+      "slug": "maastricht-seven-step-pbl-tutorial-cycle",
+      "strength": "W"
      }
     ],
     "patterns": [
@@ -81901,6 +84966,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -82237,6 +85309,29 @@
      }
     ]
    },
+   "multiple-ucsmp-courses-positive-general-math-achievement": {
+    "claims": [
+     {
+      "slug": "no-evidence-other-ucsmp-secondary-courses"
+     },
+     {
+      "slug": "ucsmp-algebra-positive-general-mathematics-achievement"
+     },
+     {
+      "slug": "wwc-rating-multiple-ucsmp-courses-potentially-positive"
+     },
+     {
+      "slug": "wwc-rating-ucsmp-algebra-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection": {
     "claims": [
      {
@@ -82345,6 +85440,9 @@
     "claims": [
      {
       "slug": "olr-conflicts-drive-course-changes"
+     },
+     {
+      "slug": "vip-no-treatment-language-status-interaction"
      }
     ],
     "theories": [
@@ -83313,6 +86411,32 @@
      }
     ]
    },
+   "no-evidence-other-ucsmp-secondary-courses": {
+    "claims": [
+     {
+      "slug": "multiple-ucsmp-courses-positive-general-math-achievement"
+     },
+     {
+      "slug": "ucsmp-algebra-mixed-algebra-domain-effects"
+     },
+     {
+      "slug": "ucsmp-algebra-positive-general-mathematics-achievement"
+     },
+     {
+      "slug": "wwc-rating-multiple-ucsmp-courses-potentially-positive"
+     },
+     {
+      "slug": "wwc-rating-ucsmp-algebra-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "no-gender-difference-animistic-explanations": {
     "claims": [
      {
@@ -83613,6 +86737,11 @@
      {
       "polarity": "~",
       "slug": "explicit-versus-inferred-compliance-prompt-taxonomy",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "self-regulated-learning",
       "strength": "W"
      }
     ]
@@ -85698,6 +88827,13 @@
       "strength": "W"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -87106,6 +90242,9 @@
       "slug": "joint-book-reading-predicts-literacy-success"
      },
      {
+      "slug": "little-books-potentially-positive-general-reading-achievement"
+     },
+     {
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
@@ -87113,6 +90252,18 @@
      },
      {
       "slug": "parent-involvement-improves-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bright-beginnings-curriculum-element",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "little-books-reproducible-beginning-reading-books",
+      "strength": "M"
      }
     ],
     "strategies": [
@@ -87690,6 +90841,122 @@
      }
     ]
    },
+   "pat-lk-oral-language-negative-artifact-of-comparison": {
+    "claims": [
+     {
+      "slug": "dialogic-reading-sound-foundations-combined-outcomes"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "pat-lk-preschool-early-literacy-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "pat-lk-positive-print-knowledge-preschool": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-print-knowledge-tera3-mixed"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     },
+     {
+      "slug": "phonological-awareness-training-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pat-lk-preschool-early-literacy-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "pat-lk-potentially-positive-early-reading-writing": {
+    "claims": [
+     {
+      "slug": "foster-1994-daisyquest-significant-both-measures"
+     },
+     {
+      "slug": "pat-lk-oral-language-negative-artifact-of-comparison"
+     },
+     {
+      "slug": "pat-lk-positive-print-knowledge-preschool"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     },
+     {
+      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonemic-awareness-training-improves-reading"
+     },
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
+     },
+     {
+      "slug": "phonological-awareness-training-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pat-lk-preschool-early-literacy-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "pat-lk-potentially-positive-phonological-processing": {
+    "claims": [
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "pat-lk-oral-language-negative-artifact-of-comparison"
+     },
+     {
+      "slug": "pat-lk-positive-print-knowledge-preschool"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
+     },
+     {
+      "slug": "phonological-awareness-training-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pat-lk-preschool-early-literacy-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "paths-basic-to-complex-hierarchical-spiral-sequencing": {
     "claims": [
      {
@@ -87846,6 +91113,83 @@
      }
     ]
    },
+   "pathway-implementation-differences-emerged-late": {
+    "claims": [
+     {
+      "slug": "pathway-project-potentially-positive-writing-quality"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pathway-to-academic-success-project-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "pathway-project-potentially-positive-literacy-achievement": {
+    "claims": [
+     {
+      "slug": "pathway-project-potentially-positive-writing-conventions"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-writing-quality"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pathway-to-academic-success-project-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "pathway-project-potentially-positive-writing-conventions": {
+    "claims": [
+     {
+      "slug": "pathway-project-potentially-positive-literacy-achievement"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-writing-quality"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pathway-to-academic-success-project-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "pathway-project-potentially-positive-writing-quality": {
+    "claims": [
+     {
+      "slug": "pathway-implementation-differences-emerged-late"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-literacy-achievement"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-writing-conventions"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pathway-to-academic-success-project-intervention",
+      "strength": "W"
+     }
+    ]
+   },
    "patterson-person-centered-views-widely-debated": {
     "claims": [
      {
@@ -87901,6 +91245,9 @@
    },
    "pbis-reduces-clinically-significant-behavior-problems": {
     "claims": [
+     {
+      "slug": "early-risers-no-effect-internal-behavior"
+     },
      {
       "slug": "low-fidelity-pbis-smaller-student-improvements"
      },
@@ -88000,6 +91347,13 @@
       "slug": "pbl-skills-interpersonal-problem-solving-group"
      }
     ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "maastricht-seven-step-pbl-tutorial-cycle",
+      "strength": "W"
+     }
+    ],
     "patterns": [
      {
       "polarity": "+",
@@ -88022,6 +91376,13 @@
      },
      {
       "slug": "pbl-attitudes-valuing-interdependence-self"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "maastricht-seven-step-pbl-tutorial-cycle",
+      "strength": "W"
      }
     ],
     "patterns": [
@@ -88122,6 +91483,13 @@
     "claims": [
      {
       "slug": "pbl-attitudes-valuing-interdependence-self"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "maastricht-seven-step-pbl-tutorial-cycle",
+      "strength": "W"
      }
     ],
     "patterns": [
@@ -89275,6 +92643,23 @@
      }
     ]
    },
+   "peer-pairing-language-behavior-jun-aust": {
+    "claims": [
+     {
+      "slug": "cross-level-peer-tutoring-null-oral-proficiency"
+     },
+     {
+      "slug": "peer-response-groups-writing-idea-units"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "peer-tutoring-response-groups-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "peer-reflective-groups-challenge-student-teacher-views": {
     "claims": [
      {
@@ -89307,6 +92692,32 @@
      }
     ]
    },
+   "peer-response-groups-writing-idea-units": {
+    "claims": [
+     {
+      "slug": "authentic-audiences-improve-student-work"
+     },
+     {
+      "slug": "concrete-reward-increases-mean-ideational-fluency"
+     },
+     {
+      "slug": "peer-pairing-language-behavior-jun-aust"
+     },
+     {
+      "slug": "process-writing-improves-writing-quality"
+     },
+     {
+      "slug": "spontaneous-sentence-production-in-synthetic-planning-increases-understanding"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "peer-tutoring-response-groups-practice",
+      "strength": "W"
+     }
+    ]
+   },
    "peer-review-approval-clarification-requests": {
     "claims": [
      {
@@ -89325,6 +92736,9 @@
     "claims": [
      {
       "slug": "adaptive-learning-improves-outcomes"
+     },
+     {
+      "slug": "cross-level-peer-tutoring-null-oral-proficiency"
      },
      {
       "slug": "direct-instruction-improves-outcomes"
@@ -89375,6 +92789,20 @@
       "polarity": "+",
       "slug": "teaching-as-learning",
       "strength": "S"
+     }
+    ]
+   },
+   "peer-tutoring-response-groups-positive-eld-effects": {
+    "claims": [
+     {
+      "slug": "ic-ll-potentially-positive-wwc-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "peer-tutoring-response-groups-practice",
+      "strength": "W"
      }
     ]
    },
@@ -90214,7 +93642,13 @@
       "slug": "pa-and-ak-fluency-uniquely-related-word-reading-spelling"
      },
      {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
       "slug": "phonemic-awareness-training-improves-reading"
+     },
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
      },
      {
       "slug": "phonological-automatization-improves-esp-reading-comprehension"
@@ -90244,6 +93678,9 @@
    "phonemic-awareness-training-improves-reading": {
     "claims": [
      {
+      "slug": "alignment-trained-skill-larger-effects-phonological-awareness"
+     },
+     {
       "slug": "automatic-word-recognition-frees-resources-for-comprehension"
      },
      {
@@ -90253,7 +93690,13 @@
       "slug": "morphological-awareness-contributes-reading-development"
      },
      {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
       "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
      },
      {
       "slug": "phonics-instruction-outperforms-whole-word-for-generalization"
@@ -90296,6 +93739,41 @@
       "polarity": "+",
       "slug": "phonological_awareness_development_through_rhyming",
       "strength": "S"
+     }
+    ]
+   },
+   "phonemic-segmentation-favored-over-rhyme-alliteration-yeh": {
+    "claims": [
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     },
+     {
+      "slug": "phoneme-awareness-stronger-predictor-than-rhyme"
+     },
+     {
+      "slug": "phonemic-awareness-training-improves-reading"
+     },
+     {
+      "slug": "phonological-awareness-training-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     },
+     {
+      "slug": "sound-box-favored-over-sound-sort-maslanka-joseph"
+     },
+     {
+      "slug": "werp-alphabetics-effects-vary-by-outcome"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "phonological-awareness-training-practice",
+      "strength": "W"
      }
     ]
    },
@@ -90572,6 +94050,70 @@
       "polarity": "+",
       "slug": "skill-acquisition-theory-second-language",
       "strength": "M"
+     }
+    ]
+   },
+   "phonological-awareness-training-positive-effects-phonological-processing": {
+    "claims": [
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "pat-lk-positive-print-knowledge-preschool"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     },
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
+     },
+     {
+      "slug": "sound-box-favored-over-sound-sort-maslanka-joseph"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "phonological-awareness-training-practice",
+      "strength": "W"
+     }
+    ]
+   },
+   "phonological-awareness-training-six-studies-significance-pattern": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "corrective-reading-alphabetics-mixed-outcomes"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-phonological-processing"
+     },
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
+     },
+     {
+      "slug": "sound-box-favored-over-sound-sort-maslanka-joseph"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     },
+     {
+      "slug": "torgesen-2010-positive-alphabetics-effects"
+     },
+     {
+      "slug": "wwc-positive-effects-rating-daisyquest"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "phonological-awareness-training-practice",
+      "strength": "W"
      }
     ]
    },
@@ -90992,6 +94534,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "community-based-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "cross-university-collaboration-structural-administrative-reforms",
@@ -92064,6 +95611,135 @@
      }
     ]
    },
+   "positive-action-extent-of-evidence-domains": {
+    "claims": [
+     {
+      "slug": "positive-action-positive-effects-academic-achievement"
+     },
+     {
+      "slug": "positive-action-positive-effects-behavior"
+     },
+     {
+      "slug": "positive-action-reduces-grade-retention"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "positive-action-curriculum-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "positive-action-no-significant-effect-state-test-scores": {
+    "claims": [
+     {
+      "slug": "positive-action-positive-effects-academic-achievement"
+     },
+     {
+      "slug": "positive-action-reduces-grade-retention"
+     },
+     {
+      "slug": "positive-action-violence-reduced-boys-not-girls"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "positive-action-curriculum-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "positive-action-positive-effects-academic-achievement": {
+    "claims": [
+     {
+      "slug": "positive-action-extent-of-evidence-domains"
+     },
+     {
+      "slug": "positive-action-no-significant-effect-state-test-scores"
+     },
+     {
+      "slug": "positive-action-positive-effects-behavior"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "positive-action-curriculum-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "positive-action-positive-effects-behavior": {
+    "claims": [
+     {
+      "slug": "csc-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "cwk-domain-average-behavior-effect"
+     },
+     {
+      "slug": "positive-action-extent-of-evidence-domains"
+     },
+     {
+      "slug": "positive-action-positive-effects-academic-achievement"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "positive-action-curriculum-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "positive-action-reduces-grade-retention": {
+    "claims": [
+     {
+      "slug": "positive-action-extent-of-evidence-domains"
+     },
+     {
+      "slug": "positive-action-no-significant-effect-state-test-scores"
+     },
+     {
+      "slug": "positive-action-violence-reduced-boys-not-girls"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "positive-action-curriculum-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "positive-action-violence-reduced-boys-not-girls": {
+    "claims": [
+     {
+      "slug": "positive-action-no-significant-effect-state-test-scores"
+     },
+     {
+      "slug": "positive-action-reduces-grade-retention"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "positive-action-curriculum-program",
+      "strength": "W"
+     }
+    ]
+   },
    "positive-bias-predicts-modal-level-advance": {
     "claims": [
      {
@@ -92094,6 +95770,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "clear-structure",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "positive-clarity-moves-design-principle",
@@ -94988,6 +98669,9 @@
       "slug": "peer-assessment-improves-performance"
      },
      {
+      "slug": "peer-response-groups-writing-idea-units"
+     },
+     {
       "slug": "spontaneous-sentence-production-in-synthetic-planning-increases-understanding"
      },
      {
@@ -95707,6 +99391,96 @@
       "polarity": "+",
       "slug": "project-based_learning",
       "strength": "M"
+     }
+    ]
+   },
+   "project-criss-null-effects-grade5-randomized-trial": {
+    "claims": [
+     {
+      "slug": "project-criss-significant-free-recall-gains-grades-4-6"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "project-criss-teacher-professional-development-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "criss-three-concepts-strategic-learning-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "project-criss-potentially-positive-comprehension-rating": {
+    "claims": [
+     {
+      "slug": "csc-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "ic-ll-potentially-positive-wwc-rating"
+     },
+     {
+      "slug": "ladders-to-literacy-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "positive-action-positive-effects-academic-achievement"
+     },
+     {
+      "slug": "positive-action-positive-effects-behavior"
+     },
+     {
+      "slug": "project-criss-significant-free-recall-gains-grades-4-6"
+     },
+     {
+      "slug": "read-naturally-potentially-positive-general-reading-achievement"
+     },
+     {
+      "slug": "spellread-potentially-positive-comprehension"
+     },
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "project-criss-teacher-professional-development-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "criss-three-concepts-strategic-learning-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "project-criss-significant-free-recall-gains-grades-4-6": {
+    "claims": [
+     {
+      "slug": "project-criss-null-effects-grade5-randomized-trial"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "project-criss-teacher-professional-development-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "criss-three-concepts-strategic-learning-framework",
+      "strength": "W"
      }
     ]
    },
@@ -96746,6 +100520,32 @@
      }
     ]
    },
+   "rashotte-2001-spellread-significant-gains": {
+    "claims": [
+     {
+      "slug": "corrective-reading-significant-fluency-effect"
+     },
+     {
+      "slug": "spellread-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "spellread-potentially-positive-comprehension"
+     },
+     {
+      "slug": "spellread-potentially-positive-reading-fluency"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spellread-program",
+      "strength": "M"
+     }
+    ]
+   },
    "rat-module-high-scores-no-distinction": {
     "claims": [
      {
@@ -96968,6 +100768,86 @@
      }
     ]
    },
+   "read-naturally-mixed-effects-reading-fluency": {
+    "claims": [
+     {
+      "slug": "read-naturally-no-discernible-effects-alphabetics"
+     },
+     {
+      "slug": "read-naturally-no-discernible-effects-comprehension"
+     },
+     {
+      "slug": "read-naturally-potentially-positive-general-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "read-naturally-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "read-naturally-no-discernible-effects-alphabetics": {
+    "claims": [
+     {
+      "slug": "christ-davie-2009-significant-fluency-gains"
+     },
+     {
+      "slug": "read-naturally-mixed-effects-reading-fluency"
+     },
+     {
+      "slug": "read-naturally-no-discernible-effects-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "read-naturally-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "read-naturally-no-discernible-effects-comprehension": {
+    "claims": [
+     {
+      "slug": "read-naturally-mixed-effects-reading-fluency"
+     },
+     {
+      "slug": "read-naturally-no-discernible-effects-alphabetics"
+     },
+     {
+      "slug": "read-naturally-potentially-positive-general-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "read-naturally-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "read-naturally-potentially-positive-general-reading-achievement": {
+    "claims": [
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     },
+     {
+      "slug": "read-naturally-mixed-effects-reading-fluency"
+     },
+     {
+      "slug": "read-naturally-no-discernible-effects-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "read-naturally-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
    "reader-interpretations-open-hermeneutic-circle": {
     "claims": [
      {
@@ -97158,6 +101038,154 @@
      }
     ]
    },
+   "reading-mastery-domain-average-effect-size-076": {
+    "claims": [
+     {
+      "slug": "fast-forword-improvement-index-eld-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-mastery-direct-instruction-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "reading-mastery-followup-word-attack-significant-ell": {
+    "claims": [
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "reading-mastery-immediate-posttest-reading-outcomes-ell"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-mastery-direct-instruction-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "reading-mastery-immediate-posttest-reading-outcomes-ell": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-cirino-substantively-important-nonsignificant"
+     },
+     {
+      "slug": "reading-mastery-followup-word-attack-significant-ell"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-mastery-direct-instruction-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "reading-mastery-potentially-positive-effects-ell-reading": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "fast-forword-language-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "ic-ll-potentially-positive-wwc-rating"
+     },
+     {
+      "slug": "lips-potentially-positive-comprehension-effects"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-literacy-achievement"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-writing-conventions"
+     },
+     {
+      "slug": "pathway-project-potentially-positive-writing-quality"
+     },
+     {
+      "slug": "vip-potentially-positive-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-mastery-direct-instruction-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "reading-plus-baseline-equivalence-low-achievers-only": {
+    "claims": [
+     {
+      "slug": "werp-evidence-base-single-study"
+     },
+     {
+      "slug": "werp-hecht-close-study-design"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "reading-plus-scaffolded-silent-reading-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "waterford-early-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "reading-plus-evidence-extent-small-one-study": {
+    "claims": [
+     {
+      "slug": "cwpt-evidence-base-small-reading-domains"
+     },
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "reading-plus-small-significant-comprehension-effect-low-achievers"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "reading-plus-scaffolded-silent-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "reading-plus-small-significant-comprehension-effect-low-achievers": {
+    "claims": [
+     {
+      "slug": "reading-plus-evidence-extent-small-one-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-plus-scaffolded-silent-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
    "reading-scores-range-by-chapter-book-status": {
     "claims": [
      {
@@ -97258,6 +101286,221 @@
       "polarity": "+",
       "slug": "teach-writing-based-on-reading",
       "strength": "M"
+     }
+    ]
+   },
+   "ready-set-leap-no-discernible-effects-preschool": {
+    "claims": [
+     {
+      "slug": "bright-beginnings-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "bright-beginnings-null-phonological-processing"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-math-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-phonological-effects"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "ready-set-leap-null-kindergarten-followup"
+     },
+     {
+      "slug": "ready-set-leap-null-math"
+     },
+     {
+      "slug": "ready-set-leap-null-oral-language"
+     },
+     {
+      "slug": "ready-set-leap-null-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ready-set-leap-null-early-reading-writing": {
+    "claims": [
+     {
+      "slug": "ready-set-leap-null-kindergarten-followup"
+     },
+     {
+      "slug": "ready-set-leap-null-math"
+     },
+     {
+      "slug": "ready-set-leap-null-oral-language"
+     },
+     {
+      "slug": "ready-set-leap-null-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ready-set-leap-null-kindergarten-followup": {
+    "claims": [
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "ready-set-leap-null-early-reading-writing"
+     },
+     {
+      "slug": "ready-set-leap-null-math"
+     },
+     {
+      "slug": "ready-set-leap-null-oral-language"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ready-set-leap-null-math": {
+    "claims": [
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "ready-set-leap-null-early-reading-writing"
+     },
+     {
+      "slug": "ready-set-leap-null-kindergarten-followup"
+     },
+     {
+      "slug": "ready-set-leap-null-oral-language"
+     },
+     {
+      "slug": "ready-set-leap-null-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ready-set-leap-null-oral-language": {
+    "claims": [
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "ready-set-leap-null-early-reading-writing"
+     },
+     {
+      "slug": "ready-set-leap-null-kindergarten-followup"
+     },
+     {
+      "slug": "ready-set-leap-null-math"
+     },
+     {
+      "slug": "ready-set-leap-null-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ready-set-leap-null-phonological-processing": {
+    "claims": [
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "ready-set-leap-null-early-reading-writing"
+     },
+     {
+      "slug": "ready-set-leap-null-math"
+     },
+     {
+      "slug": "ready-set-leap-null-oral-language"
+     },
+     {
+      "slug": "ready-set-leap-null-print-knowledge"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ready-set-leap-null-print-knowledge": {
+    "claims": [
+     {
+      "slug": "pat-lk-positive-print-knowledge-preschool"
+     },
+     {
+      "slug": "ready-set-leap-no-discernible-effects-preschool"
+     },
+     {
+      "slug": "ready-set-leap-null-early-reading-writing"
+     },
+     {
+      "slug": "ready-set-leap-null-kindergarten-followup"
+     },
+     {
+      "slug": "ready-set-leap-null-math"
+     },
+     {
+      "slug": "ready-set-leap-null-oral-language"
+     },
+     {
+      "slug": "ready-set-leap-null-phonological-processing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "ready-set-leap-curriculum",
+      "strength": "W"
      }
     ]
    },
@@ -97551,6 +101794,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "~",
+      "slug": "flexible-error-treatment-strategies",
+      "strength": "M"
+     },
      {
       "polarity": "~",
       "slug": "integrate-explicit-correction-with-meaningful-activities",
@@ -100144,6 +104392,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "resist-equating-sociocultural-framework-with-participation-methods",
       "strength": "W"
      }
@@ -101198,6 +105451,11 @@
       "polarity": "+",
       "slug": "explicit-versus-inferred-compliance-prompt-taxonomy",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
+      "strength": "W"
      }
     ],
     "principles": [
@@ -101237,6 +105495,11 @@
      {
       "polarity": "+",
       "slug": "explicit-versus-inferred-compliance-prompt-taxonomy",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
       "strength": "W"
      }
     ],
@@ -102416,6 +106679,80 @@
      }
     ]
    },
+   "rwt-evidence-base-single-small-trial": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "cwpt-evidence-base-small-reading-domains"
+     },
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "reading-plus-evidence-extent-small-one-study"
+     },
+     {
+      "slug": "smart-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     },
+     {
+      "slug": "voyager-extent-of-evidence-by-domain"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     }
+    ]
+   },
+   "rwt-no-advantage-over-auditory-discrimination-in-depth": {
+    "claims": [
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "rwt-no-discernible-comprehension-effects"
+     },
+     {
+      "slug": "rwt-significant-alphabetics-gains-versus-regular-instruction"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "lips-program-articulation-phonemic-sequencing",
+      "strength": "W"
+     }
+    ]
+   },
+   "rwt-no-discernible-comprehension-effects": {
+    "claims": [
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "rwt-no-advantage-over-auditory-discrimination-in-depth"
+     }
+    ]
+   },
+   "rwt-significant-alphabetics-gains-versus-regular-instruction": {
+    "claims": [
+     {
+      "slug": "rwt-no-advantage-over-auditory-discrimination-in-depth"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ]
+   },
    "sage-schools-no-significant-rating-change": {
     "claims": [
      {
@@ -103052,6 +107389,13 @@
       "slug": "scripted-personally-meaningful-inquiry"
      }
     ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "inquiry-based-learning",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "~",
@@ -103201,6 +107545,11 @@
       "polarity": "+",
       "slug": "foster-enjoyment-and-l2-learning-experience",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "motivation",
+      "strength": "W"
      }
     ]
    },
@@ -103591,6 +107940,23 @@
      {
       "polarity": "~",
       "slug": "epistemic-games",
+      "strength": "W"
+     }
+    ]
+   },
+   "segmentation-only-consistently-confirmed-outcome": {
+    "claims": [
+     {
+      "slug": "alignment-trained-skill-larger-effects-phonological-awareness"
+     },
+     {
+      "slug": "ladders-to-literacy-potentially-positive-fluency"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ladders-to-literacy-kindergarten-activity-book",
       "strength": "W"
      }
     ]
@@ -104382,6 +108748,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "autonomy",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "let-learners-request-feedback-after-performing",
@@ -111885,6 +116256,9 @@
    "service-learning-improves-civic-and-personal-outcomes": {
     "claims": [
      {
+      "slug": "bds-null-self-esteem-general-responsibility"
+     },
+     {
       "slug": "community-partner-conflict-negatively-correlates-social-justice"
      },
      {
@@ -112466,6 +116840,13 @@
      {
       "polarity": "+",
       "slug": "sol-multimedia-lesson-sequence-eb",
+      "strength": "M"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
       "strength": "M"
      }
     ],
@@ -114054,6 +118435,134 @@
      }
     ]
    },
+   "smart-comprehension-nonsignificant-substantive-average": {
+    "claims": [
+     {
+      "slug": "corrective-reading-no-comprehension-effects"
+     },
+     {
+      "slug": "failure-free-reading-potentially-positive-comprehension"
+     },
+     {
+      "slug": "smart-one-year-interim-mixed-significance"
+     },
+     {
+      "slug": "smart-significant-oral-reading-fluency-effects"
+     },
+     {
+      "slug": "smart-significant-word-identification-effect"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     },
+     {
+      "slug": "werp-no-discernible-comprehension"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "smart-volunteer-reading-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "smart-evidence-base-single-small-rct": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "eir-small-evidence-base-one-rct"
+     },
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "smart-volunteer-reading-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "smart-one-year-interim-mixed-significance": {
+    "claims": [
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     },
+     {
+      "slug": "smart-significant-oral-reading-fluency-effects"
+     },
+     {
+      "slug": "smart-significant-word-identification-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "smart-volunteer-reading-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "smart-significant-oral-reading-fluency-effects": {
+    "claims": [
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     },
+     {
+      "slug": "smart-one-year-interim-mixed-significance"
+     },
+     {
+      "slug": "smart-significant-word-identification-effect"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "smart-four-reading-strategies-pattern",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "smart-volunteer-reading-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "smart-significant-word-identification-effect": {
+    "claims": [
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     },
+     {
+      "slug": "smart-one-year-interim-mixed-significance"
+     },
+     {
+      "slug": "smart-significant-oral-reading-fluency-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "smart-volunteer-reading-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
    "smartphone-attachment-impatience-impulsivity": {
     "claims": [
      {
@@ -114609,6 +119118,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "culturally-responsive-classroom-norms",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "resist-equating-sociocultural-framework-with-participation-methods",
       "strength": "M"
      }
@@ -114796,6 +119310,29 @@
       "polarity": "+",
       "slug": "cognitive-framework-hierarchical-navigation",
       "strength": "M"
+     }
+    ]
+   },
+   "sound-box-favored-over-sound-sort-maslanka-joseph": {
+    "claims": [
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
+     },
+     {
+      "slug": "phonological-awareness-training-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     },
+     {
+      "slug": "werp-alphabetics-effects-vary-by-outcome"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "phonological-awareness-training-practice",
+      "strength": "W"
      }
     ]
    },
@@ -116009,6 +120546,13 @@
       "slug": "split-attention-effect-degrades-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -116066,6 +120610,9 @@
    },
    "spatial-training-improves-math-performance": {
     "claims": [
+     {
+      "slug": "alignment-trained-skill-larger-effects-phonological-awareness"
+     },
      {
       "slug": "block-play-predicts-math-achievement"
      },
@@ -116136,6 +120683,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "relaxed-atmosphere-communicative-activities",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "teacher-support-and-speaking-practice-reduce-flca",
@@ -116633,6 +121185,92 @@
      }
     ]
    },
+   "spellread-one-year-followup-not-significant": {
+    "claims": [
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "spellread-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "spellread-potentially-positive-alphabetics": {
+    "claims": [
+     {
+      "slug": "ladders-to-literacy-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "rashotte-2001-spellread-significant-gains"
+     },
+     {
+      "slug": "spellread-potentially-positive-comprehension"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spellread-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "spellread-potentially-positive-comprehension": {
+    "claims": [
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     },
+     {
+      "slug": "rashotte-2001-spellread-significant-gains"
+     },
+     {
+      "slug": "spellread-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "spellread-potentially-positive-reading-fluency"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spellread-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "spellread-potentially-positive-reading-fluency": {
+    "claims": [
+     {
+      "slug": "rashotte-2001-spellread-significant-gains"
+     },
+     {
+      "slug": "spellread-potentially-positive-comprehension"
+     },
+     {
+      "slug": "torgesen-2006-spellread-indeterminate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spellread-program",
+      "strength": "W"
+     }
+    ]
+   },
    "split-attention-effect-degrades-learning": {
     "claims": [
      {
@@ -116894,6 +121532,9 @@
     "claims": [
      {
       "slug": "extensive-reading-improves-grammar-and-writing-style"
+     },
+     {
+      "slug": "peer-response-groups-writing-idea-units"
      },
      {
       "slug": "process-writing-improves-writing-quality"
@@ -117510,6 +122151,75 @@
      {
       "polarity": "+",
       "slug": "srl-four-strategy-coding-scheme-ol-bl",
+      "strength": "M"
+     }
+    ]
+   },
+   "ssl-evidence-gaps-fluency-comprehension": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "cwpt-evidence-base-small-reading-domains"
+     },
+     {
+      "slug": "fluency-formula-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "smart-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "voyager-extent-of-evidence-by-domain"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "stepping-stones-to-literacy-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ssl-nelson-benner-gonzalez-2005-significant-outcomes": {
+    "claims": [
+     {
+      "slug": "ssl-nelson-stage-2005-significant-outcomes"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "stepping-stones-to-literacy-curriculum",
+      "strength": "M"
+     }
+    ]
+   },
+   "ssl-nelson-stage-2005-significant-outcomes": {
+    "claims": [
+     {
+      "slug": "ssl-nelson-benner-gonzalez-2005-significant-outcomes"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "stepping-stones-to-literacy-curriculum",
       "strength": "M"
      }
     ]
@@ -118949,6 +123659,11 @@
       "polarity": "+",
       "slug": "incorporate-spacing-effects-in-cai-design",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "W"
      }
     ],
     "strategies": [
@@ -119430,6 +124145,11 @@
      {
       "polarity": "+",
       "slug": "establish-meaningful-communication-before-correction",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "talking-and-writing-means-to-learning",
       "strength": "W"
      }
     ],
@@ -121503,6 +126223,11 @@
       "polarity": "+",
       "slug": "explicit-versus-inferred-compliance-prompt-taxonomy",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "self-regulated-learning",
+      "strength": "W"
      }
     ]
    },
@@ -121790,6 +126515,11 @@
      }
     ],
     "principles": [
+     {
+      "polarity": "+",
+      "slug": "spaced-learning",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "tailor-spacing-intervals-and-explain-approach",
@@ -124124,6 +128854,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "reflection",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "trust-environment-context-for-reflection",
       "strength": "W"
      }
@@ -124563,6 +129298,13 @@
      {
       "polarity": "+",
       "slug": "short-story-explicit-strategy-instruction-package",
+      "strength": "W"
+     }
+    ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "direct-instruction",
       "strength": "W"
      }
     ],
@@ -125985,6 +130727,13 @@
       "slug": "split-attention-effect-degrades-learning"
      }
     ],
+    "patterns": [
+     {
+      "polarity": "+",
+      "slug": "multimedia-learning",
+      "strength": "W"
+     }
+    ],
     "principles": [
      {
       "polarity": "+",
@@ -126318,6 +131067,204 @@
       "polarity": "+",
       "slug": "scaffolding",
       "strength": "M"
+     }
+    ]
+   },
+   "tgfdv-intentions-null-results": {
+    "claims": [
+     {
+      "slug": "fhao-no-discernible-effects-behavior"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "tgfdv-high-school-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgfdv-positive-effects-rating": {
+    "claims": [
+     {
+      "slug": "bds-service-learning-potentially-positive-kav"
+     },
+     {
+      "slug": "project-criss-potentially-positive-comprehension-rating"
+     },
+     {
+      "slug": "tgfdv-quasi-experimental-significant-effects"
+     },
+     {
+      "slug": "tgfdv-rct-average-effect-not-significant"
+     },
+     {
+      "slug": "tgfdv-rct-significant-skill-perceptions"
+     },
+     {
+      "slug": "tgv-improvement-indices-18-16"
+     },
+     {
+      "slug": "tgv-kav-substantively-important-not-significant"
+     },
+     {
+      "slug": "too-good-for-drugs-no-discernible-kav-effects"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tgfdv-high-school-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgfdv-quasi-experimental-significant-effects": {
+    "claims": [
+     {
+      "slug": "bds-service-learning-potentially-positive-kav"
+     },
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgfdv-rct-significant-skill-perceptions"
+     },
+     {
+      "slug": "too-good-for-drugs-no-discernible-kav-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tgfdv-high-school-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgfdv-rct-average-effect-not-significant": {
+    "claims": [
+     {
+      "slug": "fhao-three-of-seven-outcomes-favor-program"
+     },
+     {
+      "slug": "lessons-in-character-no-discernible-kav-effects"
+     },
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgv-kav-substantively-important-not-significant"
+     },
+     {
+      "slug": "too-good-for-drugs-no-discernible-kav-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "tgfdv-high-school-curriculum",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "too-good-for-drugs-k8-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgfdv-rct-significant-skill-perceptions": {
+    "claims": [
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgfdv-quasi-experimental-significant-effects"
+     },
+     {
+      "slug": "tgv-significant-behavior-effects-20-weeks"
+     },
+     {
+      "slug": "too-good-for-drugs-no-discernible-kav-effects"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tgfdv-high-school-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgv-improvement-indices-18-16": {
+    "claims": [
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgv-kav-substantively-important-not-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "too-good-for-violence-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgv-kav-substantively-important-not-significant": {
+    "claims": [
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgfdv-rct-average-effect-not-significant"
+     },
+     {
+      "slug": "tgv-improvement-indices-18-16"
+     },
+     {
+      "slug": "tgv-significant-behavior-effects-20-weeks"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "too-good-for-violence-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "tgv-significant-behavior-effects-20-weeks": {
+    "claims": [
+     {
+      "slug": "tgfdv-rct-significant-skill-perceptions"
+     },
+     {
+      "slug": "tgv-kav-substantively-important-not-significant"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "too-good-for-drugs-prosocial-behavior-end-of-program-es-052"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "too-good-for-violence-curriculum",
+      "strength": "W"
      }
     ]
    },
@@ -126986,6 +131933,11 @@
     "principles": [
      {
       "polarity": "+",
+      "slug": "flexible-error-treatment-strategies",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "integrate-explicit-correction-with-meaningful-activities",
       "strength": "W"
      }
@@ -127161,6 +132113,84 @@
      }
     ]
    },
+   "too-good-for-drugs-no-discernible-kav-effects": {
+    "claims": [
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgfdv-quasi-experimental-significant-effects"
+     },
+     {
+      "slug": "tgfdv-rct-average-effect-not-significant"
+     },
+     {
+      "slug": "tgfdv-rct-significant-skill-perceptions"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "too-good-for-drugs-k8-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "too-good-for-drugs-potentially-positive-behavior-effects": {
+    "claims": [
+     {
+      "slug": "positive-action-positive-effects-behavior"
+     },
+     {
+      "slug": "tgfdv-positive-effects-rating"
+     },
+     {
+      "slug": "tgfdv-rct-significant-skill-perceptions"
+     },
+     {
+      "slug": "tgv-significant-behavior-effects-20-weeks"
+     },
+     {
+      "slug": "too-good-for-drugs-no-discernible-kav-effects"
+     },
+     {
+      "slug": "too-good-for-drugs-prosocial-behavior-end-of-program-es-052"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "too-good-for-drugs-k8-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "too-good-for-drugs-prosocial-behavior-end-of-program-es-052": {
+    "claims": [
+     {
+      "slug": "tgv-significant-behavior-effects-20-weeks"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "too-good-for-drugs-k8-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "tool-change-most-disruption-online-teaching": {
     "claims": [
      {
@@ -127215,6 +132245,11 @@
      {
       "polarity": "+",
       "slug": "digital-learning",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "systemic-understanding-guides-change-efforts",
       "strength": "W"
      }
     ],
@@ -127338,6 +132373,67 @@
       "polarity": "+",
       "slug": "information-studies-taxonomy-faceted-organizational-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "torgesen-2006-spellread-indeterminate": {
+    "claims": [
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     },
+     {
+      "slug": "rashotte-2001-spellread-significant-gains"
+     },
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     },
+     {
+      "slug": "spellread-one-year-followup-not-significant"
+     },
+     {
+      "slug": "spellread-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "spellread-potentially-positive-comprehension"
+     },
+     {
+      "slug": "spellread-potentially-positive-reading-fluency"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "spellread-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "torgesen-2010-positive-alphabetics-effects": {
+    "claims": [
+     {
+      "slug": "gunn-1996-negative-nonsignificant-alphabetics"
+     },
+     {
+      "slug": "lips-mixed-alphabetics-effects"
+     },
+     {
+      "slug": "lips-potentially-positive-comprehension-effects"
+     },
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lips-program-articulation-phonemic-sequencing",
+      "strength": "M"
      }
     ]
    },
@@ -128476,6 +133572,9 @@
       "slug": "adaptive-learning-improves-outcomes"
      },
      {
+      "slug": "cross-level-peer-tutoring-null-oral-proficiency"
+     },
+     {
       "slug": "direct-instruction-improves-outcomes"
      },
      {
@@ -129004,6 +134103,52 @@
      {
       "polarity": "~",
       "slug": "utaut-four-constructs-lms-acceptance-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "ucsmp-algebra-mixed-algebra-domain-effects": {
+    "claims": [
+     {
+      "slug": "no-evidence-other-ucsmp-secondary-courses"
+     },
+     {
+      "slug": "ucsmp-algebra-positive-general-mathematics-achievement"
+     },
+     {
+      "slug": "wwc-rating-ucsmp-algebra-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "ucsmp-algebra-positive-general-mathematics-achievement": {
+    "claims": [
+     {
+      "slug": "multiple-ucsmp-courses-positive-general-math-achievement"
+     },
+     {
+      "slug": "no-evidence-other-ucsmp-secondary-courses"
+     },
+     {
+      "slug": "ucsmp-algebra-mixed-algebra-domain-effects"
+     },
+     {
+      "slug": "wwc-rating-multiple-ucsmp-courses-potentially-positive"
+     },
+     {
+      "slug": "wwc-rating-ucsmp-algebra-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
       "strength": "W"
      }
     ]
@@ -130231,6 +135376,90 @@
      }
     ]
    },
+   "vip-no-treatment-language-status-interaction": {
+    "claims": [
+     {
+      "slug": "frequency-does-not-modulate-tc-effect"
+     },
+     {
+      "slug": "native-instructor-status-minor-factor"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "vip-vocabulary-curriculum-grades-4-6",
+      "strength": "M"
+     }
+    ]
+   },
+   "vip-null-ppvt-morphology-impacts": {
+    "claims": [
+     {
+      "slug": "vip-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "vip-word-mastery-significant-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "vip-vocabulary-curriculum-grades-4-6",
+      "strength": "M"
+     }
+    ]
+   },
+   "vip-potentially-positive-reading-achievement": {
+    "claims": [
+     {
+      "slug": "cwpt-grade4-differential-attrition-excluded"
+     },
+     {
+      "slug": "eir-comprehension-substantively-important-ns"
+     },
+     {
+      "slug": "reading-mastery-potentially-positive-effects-ell-reading"
+     },
+     {
+      "slug": "vip-null-ppvt-morphology-impacts"
+     },
+     {
+      "slug": "vip-word-mastery-significant-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "vip-vocabulary-curriculum-grades-4-6",
+      "strength": "M"
+     }
+    ]
+   },
+   "vip-word-mastery-significant-effect": {
+    "claims": [
+     {
+      "slug": "vip-null-ppvt-morphology-impacts"
+     },
+     {
+      "slug": "vip-potentially-positive-reading-achievement"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "vip-weekly-vocabulary-instruction-cycle",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "vip-vocabulary-curriculum-grades-4-6",
+      "strength": "M"
+     }
+    ]
+   },
    "virtual-communities-counter-supervision-isolation": {
     "claims": [
      {
@@ -130599,6 +135828,147 @@
       "polarity": "+",
       "slug": "match-interventions-to-stages-of-concern",
       "strength": "M"
+     }
+    ]
+   },
+   "voyager-alphabetics-null-significance": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-math-software-alphabetics"
+     },
+     {
+      "slug": "pat-lk-potentially-positive-early-reading-writing"
+     },
+     {
+      "slug": "rwt-no-advantage-over-auditory-discrimination-in-depth"
+     },
+     {
+      "slug": "rwt-significant-alphabetics-gains-versus-regular-instruction"
+     },
+     {
+      "slug": "ssl-nelson-benner-gonzalez-2005-significant-outcomes"
+     },
+     {
+      "slug": "ssl-nelson-stage-2005-significant-outcomes"
+     },
+     {
+      "slug": "torgesen-2010-positive-alphabetics-effects"
+     },
+     {
+      "slug": "voyager-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "voyager-universal-literacy-system-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "waterford-early-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "voyager-extent-of-evidence-by-domain": {
+    "claims": [
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     },
+     {
+      "slug": "voyager-potentially-negative-comprehension"
+     },
+     {
+      "slug": "voyager-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "voyager-study-average-effect-sizes-differ"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "voyager-universal-literacy-system-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "voyager-potentially-negative-comprehension": {
+    "claims": [
+     {
+      "slug": "voyager-extent-of-evidence-by-domain"
+     },
+     {
+      "slug": "voyager-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "voyager-universal-literacy-system-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "voyager-potentially-positive-alphabetics": {
+    "claims": [
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     },
+     {
+      "slug": "voyager-extent-of-evidence-by-domain"
+     },
+     {
+      "slug": "voyager-potentially-negative-comprehension"
+     },
+     {
+      "slug": "voyager-study-average-effect-sizes-differ"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "voyager-universal-literacy-system-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "voyager-study-average-effect-sizes-differ": {
+    "claims": [
+     {
+      "slug": "enhanced-proactive-reading-cirino-substantively-important-nonsignificant"
+     },
+     {
+      "slug": "failure-free-reading-no-discernible-effects-alphabetics"
+     },
+     {
+      "slug": "voyager-extent-of-evidence-by-domain"
+     },
+     {
+      "slug": "voyager-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "voyager-universal-literacy-system-program",
+      "strength": "W"
      }
     ]
    },
@@ -131329,6 +136699,154 @@
      {
       "polarity": "+",
       "slug": "rainbow-passage-ser-diagnostic-instrument",
+      "strength": "W"
+     }
+    ]
+   },
+   "werp-alphabetics-effects-vary-by-outcome": {
+    "claims": [
+     {
+      "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
+     },
+     {
+      "slug": "sound-box-favored-over-sound-sort-maslanka-joseph"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     },
+     {
+      "slug": "werp-no-discernible-comprehension"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "waterford-early-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "werp-evidence-base-single-study": {
+    "claims": [
+     {
+      "slug": "corrective-reading-small-evidence-base"
+     },
+     {
+      "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "reading-plus-baseline-equivalence-low-achievers-only"
+     },
+     {
+      "slug": "reading-plus-evidence-extent-small-one-study"
+     },
+     {
+      "slug": "rwt-evidence-base-single-small-trial"
+     },
+     {
+      "slug": "smart-evidence-base-single-small-rct"
+     },
+     {
+      "slug": "ssl-evidence-gaps-fluency-comprehension"
+     },
+     {
+      "slug": "werp-alphabetics-effects-vary-by-outcome"
+     },
+     {
+      "slug": "werp-hecht-close-study-design"
+     },
+     {
+      "slug": "werp-no-discernible-comprehension"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "waterford-early-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "werp-hecht-close-study-design": {
+    "claims": [
+     {
+      "slug": "reading-plus-baseline-equivalence-low-achievers-only"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "waterford-early-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "werp-no-discernible-comprehension": {
+    "claims": [
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     },
+     {
+      "slug": "werp-alphabetics-effects-vary-by-outcome"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "waterford-early-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "werp-potentially-positive-alphabetics": {
+    "claims": [
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     },
+     {
+      "slug": "voyager-study-average-effect-sizes-differ"
+     },
+     {
+      "slug": "werp-alphabetics-effects-vary-by-outcome"
+     },
+     {
+      "slug": "werp-evidence-base-single-study"
+     },
+     {
+      "slug": "werp-hecht-close-study-design"
+     },
+     {
+      "slug": "werp-no-discernible-comprehension"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "waterford-early-reading-program",
       "strength": "W"
      }
     ]
@@ -132360,6 +137878,11 @@
       "polarity": "~",
       "slug": "game-based-learning",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "worked-examples",
+      "strength": "W"
      }
     ]
    },
@@ -134292,6 +139815,204 @@
       "polarity": "+",
       "slug": "wtc-model-l2-pronunciation-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "wwc-corrections-eliminate-author-reported-significance": {
+    "claims": [
+     {
+      "slug": "cwpt-ctbs-effect-significance-discrepancy"
+     },
+     {
+      "slug": "fhao-three-of-seven-outcomes-favor-program"
+     },
+     {
+      "slug": "ic-ll-longitudinal-reading-quasi-experiment"
+     },
+     {
+      "slug": "too-good-for-drugs-potentially-positive-behavior-effects"
+     },
+     {
+      "slug": "too-good-for-drugs-prosocial-behavior-end-of-program-es-052"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "wwc-recalculation-nullifies-reported-cdp-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "too-good-for-drugs-k8-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-positive-effects-rating-daisyquest": {
+    "claims": [
+     {
+      "slug": "daisyquest-beats-reading-software-phonological-awareness"
+     },
+     {
+      "slug": "daisyquest-child-care-significant-gains"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "foster-1994-daisyquest-significant-both-measures"
+     },
+     {
+      "slug": "phonological-awareness-training-six-studies-significance-pattern"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "daisyquest-software-bundle",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-potentially-positive-rating-expert-mathematician": {
+    "claims": [
+     {
+      "slug": "baker-trial-pretest-difference-covariate-control"
+     },
+     {
+      "slug": "expert-mathematician-potentially-positive-math-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "expert-mathematician-logo-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-potentially-positive-rating-staying-in-school": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "cwk-potentially-positive-rating-single-study"
+     },
+     {
+      "slug": "financial-incentives-ged-receipt-significant"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-completing-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-progressing-in-school"
+     },
+     {
+      "slug": "financial-incentives-teen-parents-staying-in-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-rating-multiple-ucsmp-courses-potentially-positive": {
+    "claims": [
+     {
+      "slug": "multiple-ucsmp-courses-positive-general-math-achievement"
+     },
+     {
+      "slug": "no-evidence-other-ucsmp-secondary-courses"
+     },
+     {
+      "slug": "ucsmp-algebra-positive-general-mathematics-achievement"
+     },
+     {
+      "slug": "wwc-rating-ucsmp-algebra-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-rating-ucsmp-algebra-potentially-positive": {
+    "claims": [
+     {
+      "slug": "cwk-potentially-positive-rating-single-study"
+     },
+     {
+      "slug": "multiple-ucsmp-courses-positive-general-math-achievement"
+     },
+     {
+      "slug": "no-evidence-other-ucsmp-secondary-courses"
+     },
+     {
+      "slug": "ucsmp-algebra-mixed-algebra-domain-effects"
+     },
+     {
+      "slug": "ucsmp-algebra-positive-general-mathematics-achievement"
+     },
+     {
+      "slug": "wwc-rating-multiple-ucsmp-courses-potentially-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ucsmp-secondary-mathematics-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-recalculation-nullifies-reported-cdp-effects": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-age-group-mixed"
+     },
+     {
+      "slug": "cwpt-ctbs-effect-significance-discrepancy"
+     },
+     {
+      "slug": "fhao-three-of-seven-outcomes-favor-program"
+     },
+     {
+      "slug": "tgfdv-intentions-null-results"
+     },
+     {
+      "slug": "voyager-alphabetics-null-significance"
+     },
+     {
+      "slug": "werp-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "caring-school-community-four-component-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "caring-community-developmental-rationale",
+      "strength": "W"
      }
     ]
    },
@@ -145884,6 +151605,18 @@
      }
     ]
    },
+   "balanced-leadership-pd-program": {
+    "strategies": [
+     {
+      "slug": "consortium-training-model-lower-pd-costs"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "balanced-leadership-21-actions-framework"
+     }
+    ]
+   },
    "balloons-concepts-about-print-assessment": {
     "elements": [
      {
@@ -146176,6 +151909,25 @@
      }
     ]
    },
+   "bright-beginnings-curriculum-element": {
+    "elements": [
+     {
+      "slug": "curiosity-corner-curriculum"
+     }
+    ]
+   },
+   "building-decision-skills-curriculum": {
+    "elements": [
+     {
+      "slug": "facing-history-and-ourselves-curriculum"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "character-education"
+     }
+    ]
+   },
    "cai-structured-program": {
     "principles": [
      {
@@ -146194,6 +151946,13 @@
     "elements": [
      {
       "slug": "metaphor-anchors-admissions"
+     }
+    ]
+   },
+   "caring-school-community-four-component-program": {
+    "principles": [
+     {
+      "slug": "character-education"
      }
     ]
    },
@@ -152124,6 +157883,13 @@
      }
     ]
    },
+   "classwide-peer-tutoring-program": {
+    "elements": [
+     {
+      "slug": "cwpt-learning-management-system"
+     }
+    ]
+   },
    "cloud-technology-information-source-and-tool": {
     "elements": [
      {
@@ -155694,6 +161460,20 @@
      }
     ]
    },
+   "conference-telephone-set-telelecture": {
+    "elements": [
+     {
+      "slug": "eir-internet-teacher-training-program"
+     }
+    ]
+   },
+   "connect-with-kids-program": {
+    "elements": [
+     {
+      "slug": "facing-history-and-ourselves-curriculum"
+     }
+    ]
+   },
    "consensus-building": {
     "elements": [
      {
@@ -155954,6 +161734,25 @@
      }
     ]
    },
+   "curiosity-corner-curriculum": {
+    "elements": [
+     {
+      "slug": "bright-beginnings-curriculum-element"
+     }
+    ]
+   },
+   "cwpt-learning-management-system": {
+    "elements": [
+     {
+      "slug": "classwide-peer-tutoring-program"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "digital-learning"
+     }
+    ]
+   },
    "dahmus-dppc-translation-method": {
     "elements": [
      {
@@ -155965,6 +161764,13 @@
     "patterns": [
      {
       "slug": "self-regulated-learning"
+     }
+    ]
+   },
+   "daisyquest-software-bundle": {
+    "elements": [
+     {
+      "slug": "undersea-challenge-adaptive-test"
      }
     ]
    },
@@ -157160,6 +162966,11 @@
       "slug": "joint-book-reading-predicts-literacy-success"
      }
     ],
+    "elements": [
+     {
+      "slug": "dialogic-reading-crowd-peer-practice"
+     }
+    ],
     "strategies": [
      {
       "slug": "contextual_vocabulary_introduction"
@@ -157205,6 +163016,13 @@
      },
      {
       "slug": "text-talk"
+     }
+    ]
+   },
+   "dialogic-reading-crowd-peer-practice": {
+    "elements": [
+     {
+      "slug": "dialogic-reading"
      }
     ]
    },
@@ -157687,6 +163505,13 @@
      }
     ]
    },
+   "early-intervention-in-reading-program": {
+    "elements": [
+     {
+      "slug": "eir-internet-teacher-training-program"
+     }
+    ]
+   },
    "eckersley-design-helper-programs": {
     "theories": [
      {
@@ -157750,6 +163575,16 @@
      },
      {
       "slug": "teaching-styles-warmth-and-control"
+     }
+    ]
+   },
+   "eir-internet-teacher-training-program": {
+    "elements": [
+     {
+      "slug": "conference-telephone-set-telelecture"
+     },
+     {
+      "slug": "early-intervention-in-reading-program"
      }
     ]
    },
@@ -157928,6 +163763,13 @@
      },
      {
       "slug": "traditional-mc-item-stem-alternatives-distractors"
+     }
+    ]
+   },
+   "enhanced-proactive-reading-curriculum": {
+    "elements": [
+     {
+      "slug": "reading-mastery-direct-instruction-program"
      }
     ]
    },
@@ -158242,6 +164084,13 @@
      }
     ]
    },
+   "expert-mathematician-logo-curriculum": {
+    "elements": [
+     {
+      "slug": "objectives-by-strand-test"
+     }
+    ]
+   },
    "explicit-teaching": {
     "elements": [
      {
@@ -158277,6 +164126,16 @@
     "theories": [
      {
       "slug": "collaborative-learning-nine-characteristics-adult-literacy"
+     }
+    ]
+   },
+   "facing-history-and-ourselves-curriculum": {
+    "elements": [
+     {
+      "slug": "building-decision-skills-curriculum"
+     },
+     {
+      "slug": "connect-with-kids-program"
      }
     ]
    },
@@ -159006,6 +164865,13 @@
     "elements": [
      {
       "slug": "cresst-integrated-assessment-system"
+     }
+    ]
+   },
+   "fba-data-collection-process-components": {
+    "theories": [
+     {
+      "slug": "fba-individualized-problem-solving-process"
      }
     ]
    },
@@ -159834,6 +165700,13 @@
      }
     ]
    },
+   "fluency-formula-supplemental-curriculum": {
+    "elements": [
+     {
+      "slug": "read-naturally-fluency-program"
+     }
+    ]
+   },
    "fluency-way-lesson-guide-oral-proficiency": {
     "theories": [
      {
@@ -160560,6 +166433,13 @@
     "theories": [
      {
       "slug": "learning-centered-learning-five-assumptions"
+     }
+    ]
+   },
+   "high-school-redirection-program-model": {
+    "elements": [
+     {
+      "slug": "star-remedial-reading-program-hsr"
      }
     ]
    },
@@ -162966,6 +168846,16 @@
      }
     ]
    },
+   "objectives-by-strand-test": {
+    "elements": [
+     {
+      "slug": "expert-mathematician-logo-curriculum"
+     },
+     {
+      "slug": "type2-checklist-competency-assessment"
+     }
+    ]
+   },
    "observation": {
     "elements": [
      {
@@ -163173,6 +169063,13 @@
     "elements": [
      {
       "slug": "perspective-taking"
+     }
+    ]
+   },
+   "pat-lk-preschool-early-literacy-practice": {
+    "elements": [
+     {
+      "slug": "phonological-awareness-training-practice"
      }
     ]
    },
@@ -164184,6 +170081,13 @@
      }
     ]
    },
+   "phonological-awareness-training-practice": {
+    "elements": [
+     {
+      "slug": "pat-lk-preschool-early-literacy-practice"
+     }
+    ]
+   },
    "physical-education": {
     "strategies": [
      {
@@ -164236,6 +170140,18 @@
     "strategies": [
      {
       "slug": "focus_on_issues_of_justice"
+     }
+    ]
+   },
+   "positive-action-curriculum-program": {
+    "elements": [
+     {
+      "slug": "too-good-for-violence-curriculum"
+     }
+    ],
+    "principles": [
+     {
+      "slug": "character-education"
      }
     ]
    },
@@ -168421,6 +174337,23 @@
      }
     ]
    },
+   "read-naturally-fluency-program": {
+    "elements": [
+     {
+      "slug": "fluency-formula-supplemental-curriculum"
+     }
+    ]
+   },
+   "reading-mastery-direct-instruction-program": {
+    "elements": [
+     {
+      "slug": "enhanced-proactive-reading-curriculum"
+     },
+     {
+      "slug": "waterford-early-reading-program"
+     }
+    ]
+   },
    "real-world-math": {
     "strategies": [
      {
@@ -171344,6 +177277,13 @@
      }
     ]
    },
+   "star-remedial-reading-program-hsr": {
+    "elements": [
+     {
+      "slug": "high-school-redirection-program-model"
+     }
+    ]
+   },
    "state-objectives": {
     "elements": [
      {
@@ -171787,6 +177727,16 @@
     "principles": [
      {
       "slug": "annotating"
+     }
+    ]
+   },
+   "tgfdv-high-school-curriculum": {
+    "elements": [
+     {
+      "slug": "too-good-for-drugs-k8-curriculum"
+     },
+     {
+      "slug": "too-good-for-violence-curriculum"
      }
     ]
    },
@@ -172851,6 +178801,34 @@
      }
     ]
    },
+   "too-good-for-drugs-k8-curriculum": {
+    "elements": [
+     {
+      "slug": "tgfdv-high-school-curriculum"
+     },
+     {
+      "slug": "too-good-for-violence-curriculum"
+     }
+    ]
+   },
+   "too-good-for-violence-curriculum": {
+    "elements": [
+     {
+      "slug": "positive-action-curriculum-program"
+     },
+     {
+      "slug": "tgfdv-high-school-curriculum"
+     },
+     {
+      "slug": "too-good-for-drugs-k8-curriculum"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "optional-parent-community-involvement-components"
+     }
+    ]
+   },
    "tpack-based-preschool-language-education-course": {
     "designs": [
      {
@@ -172977,6 +178955,9 @@
    "type2-checklist-competency-assessment": {
     "elements": [
      {
+      "slug": "objectives-by-strand-test"
+     },
+     {
       "slug": "type1-traditional-competency-test"
      }
     ],
@@ -172988,6 +178969,13 @@
     "theories": [
      {
       "slug": "three-type-competency-assessment-taxonomy"
+     }
+    ]
+   },
+   "undersea-challenge-adaptive-test": {
+    "elements": [
+     {
+      "slug": "daisyquest-software-bundle"
      }
     ]
    },
@@ -173154,6 +179142,13 @@
      },
      {
       "slug": "google-expeditions-pioneer-program"
+     }
+    ]
+   },
+   "waterford-early-reading-program": {
+    "elements": [
+     {
+      "slug": "reading-mastery-direct-instruction-program"
      }
     ]
    },
@@ -188454,6 +194449,9 @@
     ],
     "theories": [
      {
+      "slug": "caring-community-developmental-rationale"
+     },
+     {
       "slug": "citizenship-competence-three-components"
      },
      {
@@ -203356,6 +209354,16 @@
      }
     ]
    },
+   "caring-community-developmental-rationale": {
+    "theories": [
+     {
+      "slug": "gilligans-ethic-of-care"
+     },
+     {
+      "slug": "kohlberg-moral-development"
+     }
+    ]
+   },
    "case-grammar-framework-dissimilation": {
     "theories": [
      {
@@ -205569,6 +211577,13 @@
     "theories": [
      {
       "slug": "cresst-model-of-learning-five-families"
+     }
+    ]
+   },
+   "criss-three-concepts-strategic-learning-framework": {
+    "strategies": [
+     {
+      "slug": "criss-modeled-strategies-with-extended-teacher-follow-up"
      }
     ]
    },
@@ -208004,6 +214019,13 @@
      }
     ]
    },
+   "fba-individualized-problem-solving-process": {
+    "elements": [
+     {
+      "slug": "fba-data-collection-process-components"
+     }
+    ]
+   },
    "federation-university-case-based-experiential-model": {
     "designs": [
      {
@@ -208880,6 +214902,9 @@
      }
     ],
     "theories": [
+     {
+      "slug": "caring-community-developmental-rationale"
+     },
      {
       "slug": "feminist-interconnected-science-framework"
      },
@@ -210115,6 +216140,9 @@
      }
     ],
     "theories": [
+     {
+      "slug": "caring-community-developmental-rationale"
+     },
      {
       "slug": "gilligans-ethic-of-care"
      },
@@ -217636,15 +223664,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 3571,
-  "designs": 117,
-  "elements": 762,
+  "claims": 3794,
+  "designs": 135,
+  "elements": 816,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3230,
-  "theories": 995
+  "strategies": 3251,
+  "theories": 999
  }
 }

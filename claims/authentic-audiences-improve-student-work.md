@@ -101,3 +101,4 @@ A review of research on the cognitive and social processes of writing, conceptio
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — a narrower finding that bears on this claim
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
+- [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related

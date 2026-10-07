@@ -74,6 +74,7 @@ Character education goes beyond teaching a list of rules ("always tell the truth
 ## Related Principles
 
 ## Examples
+
 - Class meetings used to set rules and resolve classroom disagreements collaboratively
 - Cross-grade "buddy" programs (e.g., older students as reading buddies for younger ones)
 - Service-learning projects (soup kitchens, tutoring, community repair projects) that connect classroom ethics to visible social consequences
@@ -81,6 +82,10 @@ Character education goes beyond teaching a list of rules ("always tell the truth
 - [Recommendations for university leaders, professors, staff, and students to foster civic learning across the three levels](../strategies/civic-learning-recommendations-university-stakeholders.md)
 - [Methodological orientations and strategies for professors to promote integrated learning of civic competence](../strategies/il-methodological-orientations-strategies.md)
 - [Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas](../strategies/integrate-reason-feeling-self-relationship-concept-context.md)
+- [Building Decision Skills ethics curriculum for middle and high school students](../elements/building-decision-skills-curriculum.md)
+- [Caring School Community™ program with four schoolwide components](../elements/caring-school-community-four-component-program.md)
+- [Positive Action K-12 character education curriculum](../elements/positive-action-curriculum-program.md)
+- [Pairing an ethics curriculum with integrated community service learning](../strategies/ethics-curriculum-with-integrated-service-learning.md)
 
 ## Key Sources
 - Elkind, D., & Sweet, F. (2004). How to do character education. Retrieved from http://www.goodcharacter.com/Article_4.html

@@ -30,7 +30,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (4 for, 10 mixed) · 20 studies (7 review, 4 causal, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (5 for, 11 mixed) · 21 studies (7 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -96,6 +96,8 @@ Several statements on the earlier page carried evidence markers with no claim be
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — choice works better when standards and success criteria remain explicit even as pathways vary
 - [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](../claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) [+W] — when children chose what to notice and interpret in their own unscripted play, they surfaced real mathematical reasoning alongside social and affective meaning
 - [Positive Student Response Cross Cultural Activities](../claims/positive-student-response-cross-cultural-activities.md) [+M]
+- [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](../claims/autonomy-at-one-level-may-inhibit-another.md) [~W] — attached 2026-10-07 from Dombey et al. (1999), which proposed "Treat autonomy as both the goal and the route of early literacy pedagogy".
+- [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](../claims/self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) [+W] — attached 2026-10-07 from Carter et al. (2014), which proposed "Let learners decide on feedback after performing, not before".
 
 ## Objective and learner-valued goal
 

@@ -65,6 +65,7 @@ Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.m
 - [Cold Calling](cold-calling.md) — an accountability mechanism often combined with scaffolded questioning, provided support follows the call
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](zpd-masked-rl-content-sequencing.md)
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](questioning-contrepreuve-disequilibration.md)
+- [Use an observational checklist to scaffold support levels: open-ended questioning for children needing less support, explicit instruction for children needing more](checklist-based-scaffolding-differentiated-support.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small groups take turns leading discussion using trained question prompts (predict, clarify, question, summarize), with the teacher modeling and fading over roughly 20 sessions.

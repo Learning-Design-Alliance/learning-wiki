@@ -47,6 +47,7 @@ Gilligan's framework surfaces classroom dilemmas that a pure justice lens can ob
 - [Turiel's Social Domain Theory](turiels-social-domain-theory.md) — both frameworks push back on treating moral reasoning as a single, unified developmental ladder
 - [Self-Determination Theory](self-determination-theory.md) — the autonomy, competence, and relatedness needs SDT identifies parallel the self/other balance Gilligan's Position 3 describes
 - [A feminist view of science based on interconnectedness, relationships as webs, and legitimate subjectivity](feminist-interconnected-science-framework.md)
+- [Developmental rationale: caring school communities meeting needs for autonomy, belonging, and competence](caring-community-developmental-rationale.md)
 
 ## Examples
 

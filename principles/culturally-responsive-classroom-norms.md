@@ -12,7 +12,7 @@ generated:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 18 studies (7 causal, 7 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 18 report an effect size · 1 claim rests on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 19 studies (7 causal, 7 quant-synthesis, 4 review, 1 associational), `q1`–`q4` · 6 of 19 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -107,6 +107,8 @@ Learners, settings and outcomes differ across these claims (school and college s
 ## Further evidence, not yet read against this model
 
 The earlier page cited one claim, [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M], which is now part of the model above. No other claim it cited is left to place. Its other support was the theory link to [Social Interdependence](social-interdependence.md) and the sources in Key Sources, none of which has a claim page here.
+- [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](../claims/sociocultural-sla-demonizes-socially-resistant-learners.md) [+W] — attached 2026-10-07 from Chen (2016), which proposed "Resist equating the sociocultural framework in SLA with legitimizing only particular methods of participation".
+- [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](../claims/reticent-students-academically-superior-duff.md) [+W] — attached 2026-10-07 from Chen (2016), which proposed "Resist equating the sociocultural framework in SLA with legitimizing only particular methods of participation".
 
 ## Objective and learner-valued goal
 

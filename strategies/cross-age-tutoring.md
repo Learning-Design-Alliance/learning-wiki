@@ -58,9 +58,11 @@ Cross age tutoring is one of the few arrangements that reliably benefits *both* 
 6. Fade adult support as the tutoring routine stabilizes [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — same-age variant; role asymmetry is weaker, so tutor training matters even more
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — students alternate the "teacher" role within a group, applying the same teaching-to-learn mechanism
 - [Cooperative Learning](cooperative-learning.md) — group-based alternative where helping structures are distributed rather than dyadic
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Reading Recovery–style buddy reading programs** — upper-elementary students pair with first-graders for repeated timed reading with error correction, a common cross age fluency intervention.

@@ -68,9 +68,11 @@ PALS combines the comprehension-strategy modeling of reciprocal teaching with th
 6. **Monitor and fade.** Circulate, reinforce accurate coaching, and progressively reduce script reliance as pairs internalize the strategies ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the teacher-led dialogic routine whose strategies PALS redistributes to peer pairs
 - [Peer Tutoring](peer-tutoring.md) — the broader family of same-age and cross-age tutoring arrangements PALS systematizes
 - [Jigsaw](jigsaw.md) — another cooperative structure with interdependent roles and individual accountability
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Vanderbilt Kennedy Center PALS** ([https://kc.vanderbilt.edu/pals](https://kc.vanderbilt.edu/pals)) — the official PALS Reading, Math, and K-PALS programs with teacher manuals and training materials, developed by Doug and Lynn Fuchs.

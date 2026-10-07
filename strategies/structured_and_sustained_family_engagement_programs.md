@@ -65,6 +65,7 @@ Engagement that is *structured* (planned, role-assigned, scheduled) and *sustain
 - Community-school partnerships — extend engagement to wraparound services
 - Student-led conferences — shift engagement from parent-recipient to student-led partnership
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
+- [Extend character education beyond the classroom with optional parental and community involvement components](optional-parent-community-involvement-components.md)
 
 ## Examples
 - **[National Network of Partnership Schools](https://nnps.jhucsos.com)** (Johns Hopkins University) — Epstein's framework in practice; member schools form action teams, write annual partnership plans, and evaluate six types of involvement.

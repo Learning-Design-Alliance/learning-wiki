@@ -83,6 +83,7 @@ Family engagement functions as an out-of-school support system that amplifies in
 - [Community-Based Learning](../principles/community-based-learning.md) — extends the partnership beyond the family to community organizations
 - [Check-ins](../elements/check-in.md) — the routine mechanism for sustaining two-way communication
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
+- [Extend character education beyond the classroom with optional parental and community involvement components](optional-parent-community-involvement-components.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.ptplus.org)** — National program in which educators visit families at home to build relational trust before academic partnership; associated with improved attendance and behavior in district evaluations.

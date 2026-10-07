@@ -59,8 +59,10 @@ CBM operationalizes [Assessment for Learning](../principles/assessment-for-learn
 5. Review graphs with the student, moving toward student-managed graphing as responsibility fades [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Formative assessment cycles](../patterns/formative-assessment.md) — CBM is a specialized, high-frequency form of the assess-adjust loop
 - [Mastery-based progression](../patterns/competency-based-learning.md) — CBM data can gate advancement decisions
+- [Use one-minute timed grade-level passages to monitor oral reading fluency progress](one-minute-timed-passage-fluency-monitoring.md)
 
 ## Examples
 - **AIMSweb / FastBridge** (Pearson/Renaissance) — commercial CBM systems with digital probes, automated graphing, and norm comparisons (https://www.fastbridge.org)

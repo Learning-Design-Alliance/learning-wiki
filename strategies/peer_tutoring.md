@@ -58,9 +58,12 @@ Peer tutoring works because both roles learn: tutees receive individualized, imm
 5. Debrief briefly — what explanations worked, what remained confusing — and rotate pairings periodically.
 
 ## Related Strategies
+
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the broader family of structured peer interaction; tutoring is its most asymmetric, role-differentiated form
 - [Direct Instruction](../patterns/direct-instruction.md) — tutoring typically follows initial teacher-led instruction; peers consolidate rather than introduce content
 - [Flipped Classroom](../patterns/flipped-classroom.md) — freed class time is a common venue for peer tutoring cycles
+- [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Classwide Peer Tutoring (CWPT)** — a well-researched reciprocal routine in which entire class pairs alternate weekly as tutor and tutee, with points, materials, and switching rules specified by the program; widely used in elementary reading and math.

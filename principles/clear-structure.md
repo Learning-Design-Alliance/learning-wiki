@@ -22,7 +22,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 24 studies (10 causal, 6 review, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 4 of 24 report an effect size · 9 claims rest on one study
+> **Evidence** · 18 claims (13 for, 5 mixed) · 25 studies (11 causal, 6 review, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 5 of 25 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -67,6 +67,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](../claims/cueing-outcompetes-signalling-alone-for-attention.md) [+W]
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](../claims/fewer-objects-easier-change-detection.md) [+W]
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](../claims/signalling-focuses-attention-reduces-change-detection-elsewhere.md) [+W]
+- [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](../claims/positive-clarity-moves-correlate-achievement.md) [+W] — attached 2026-10-07 from Snyder et al. (1991), which proposed "Design lessons with frequent positive clarity moves and avoid vagueness terms and mazes"; tests this page's relationship.
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](../claims/clear-variable-coordinate-beats-unclear.md) [+M] — attached 2026-10-07 from Snyder et al. (1991), which proposed "Design lessons with frequent positive clarity moves and avoid vagueness terms and mazes"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

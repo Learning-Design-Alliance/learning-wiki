@@ -17,7 +17,7 @@ sources:
 # Create a relaxed, non-threatening atmosphere before engaging students in communicative activities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article argues that communicative activities are harder to engage in under stress, discomfort, fatigue, emotional distress or hostility, so teachers should create a comfortable and harmonious atmosphere where students are not afraid to speak. It states that "A relaxed and friendly atmosphere is the first essential requirement", and that a friendly teacher encouraging a relaxed attitude helps students pass on their own ideas naturally.
@@ -43,6 +43,7 @@ The article argues that communicative activities are harder to engage in under s
 - [Students report games make the classroom atmosphere fun and increase participation](../claims/games-fun-atmosphere-participation.md) [+W]
 - [Students view games as relaxing and fun, building confidence for speaking](../claims/games-relaxing-fun-confidence.md) [+W]
 - [EFL students report that games reduce speaking stress and improve speaking skills](../claims/games-reduce-speaking-stress-improve-skills.md) [+W]
+- [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](../claims/speaking-practice-reduced-flca-increased-self-efficacy.md) [+W] — attached 2026-10-07 from Andrew Leichsenring (2010), which proposed "Provide supportive teacher gestures and sustained speaking practice opportunities to reduce foreign language classroom anxiety"; tests this page's relationship.
 
 ## Related Principles
 

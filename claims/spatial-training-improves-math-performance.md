@@ -64,3 +64,4 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
+- [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — a narrower finding that bears on this claim

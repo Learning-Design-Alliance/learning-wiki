@@ -59,10 +59,12 @@ Peer mediation works because explaining material to another person forces retrie
 5. Monitor and intervene on content errors and participation inequities; debrief both the content and the collaboration quality.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../strategies/reciprocal_teaching.md) — the canonical peer-mediated reading routine with rotating roles
 - [Jigsaw Method](../strategies/jigsaw_method.md) — interdependence by design; each peer holds a unique piece
 - [Peer Assessment](../strategies/peer_assessment.md) — structured peer evaluation against criteria
 - [Think-Pair-Share](../patterns/think-pair-share.md) — minimal peer mediation embedded in whole-class instruction
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; documented large comprehension gains with struggling readers.

@@ -34,7 +34,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 9 mixed) · 30 studies (9 causal, 7 qualitative, 4 quant-synthesis, 4 review, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 30 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (12 for, 9 mixed) · 32 studies (9 causal, 9 qualitative, 4 quant-synthesis, 4 review, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 32 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](../claims/home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) [+W] — the same digest, `q1`; says what household visits found, not what instruction built on it did.
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](../claims/mead-mother-tongue-status-affects-bilingual-learning.md) [~W] — a theoretical argument reported second-hand, `q1`; bears on accepting home language as a resource.
 - [Sharing Experiences Modifies Attitudes](../claims/sharing-experiences-modifies-attitudes.md) [+W]
+- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](../claims/local-indigenous-culture-student-interest.md) [+W] — attached 2026-10-07 from McGloin et al. (2009), which proposed "Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves".
+- [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](../claims/ells-recruit-everyday-language-sound-discussion.md) [+W] — attached 2026-10-07 from Suarez et al. (2008), which proposed "Invite students' everyday registers into science activities to encourage productive sense-making and mechanistic reasoning".
 
 ## Objective and learner-valued goal
 

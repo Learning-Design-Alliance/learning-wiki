@@ -13,7 +13,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 11 studies (3 causal, 3 quant-synthesis, 3 qualitative, 1 associational, 1 design), `q1`–`q4` · 3 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 12 studies (3 causal, 3 quant-synthesis, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 10 claims rest on one study
 
 ## Description and scope
 
@@ -69,6 +69,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+M] — not yet checked against its sources
 - [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W] — not settled: the text available could not confirm the entries (abstract)
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+M] — checked by the judge: all 2 entries pass (full text)
+- [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](../claims/cl-not-magic-wand-for-er-motivation.md) [~W] — attached 2026-10-07 from Jacobs (2000), which proposed "Literature Circles with rotating collaborative-skill roles for small-group pleasure reading".
+- [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](../claims/er-peer-interaction-greater-achievement-gains.md) [+W] — attached 2026-10-07 from Jacobs (2000), which proposed "Literature Circles with rotating collaborative-skill roles for small-group pleasure reading"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

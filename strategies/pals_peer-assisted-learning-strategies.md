@@ -60,9 +60,11 @@ PALS converts practice time into high-frequency, individualized responding: each
 5. Monitor pairs, award team points, and periodically re-assess to re-pair students as skills grow ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the role-exchange structure but targets comprehension strategies through dialogue rather than scripted practice
 - [Cooperative Learning](cooperative-learning.md) — the broader family of structured peer arrangements; PALS is a tightly scripted, skill-focused variant
 - [Cross-Age Tutoring](cross-age-tutoring.md) — pairs students of different ages; PALS instead pairs same-class peers
+- [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
 
 ## Examples
 - **Reading PALS (Grades 2–6)** — pairs alternate 10 minutes of partner reading with retell, 5 minutes of paragraph shrinking (summarize each paragraph in 10 words or fewer), and 10 minutes of prediction relay, earning points for accurate summaries and predictions. Materials and manuals are distributed by the [Vanderbilt IRCA PALS project](https://iris.peabody.vanderbilt.edu/).

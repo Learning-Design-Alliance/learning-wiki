@@ -43,6 +43,7 @@ The project's professional development program embeds known best practices from 
 ## Related Strategies
 
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
+- [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 
 ## Examples
 -

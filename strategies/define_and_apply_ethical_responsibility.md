@@ -84,12 +84,14 @@ The applying half works largely through argument. Requiring learners to construc
 8. **Return to the code.** Close by mapping the decision back onto the stated obligations, including where the code was silent or unhelpful.
 
 ## Related Strategies
+
 - [Ethical Responsibility Tools](ethical_responsibility_tools.md) — the frameworks and decision aids learners apply within this strategy
 - [SEL Discussions on Ethical Dilemmas](sel_discussions_on_ethical_dilemmas.md) — the dilemma-discussion format in a social-emotional frame
 - [Structured Academic Controversy](structured-academic-controversy.md) — the argument structure that makes contested discussion productive
 - [Barometer: Taking a Stand on Controversial Issues](barometer-taking_a_stand_on_controversial_issues.md) — a fast, physical commitment device for opening a contested question
 - [Case-Based Learning](case-based_learning.md) — the vehicle for the applying half of the strategy
 - [Civic Online Reasoning](civic-online-reasoning.md) — the same define-and-apply pattern for the ethics of information
+- [Pairing an ethics curriculum with integrated community service learning](ethics-curriculum-with-integrated-service-learning.md)
 
 ## Examples
 

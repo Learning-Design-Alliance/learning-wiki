@@ -59,9 +59,11 @@ RPT converts review and practice into an active, social format: explaining mater
 6. Monitor pairs, assess individual understanding with brief quizzes or assignments, and re-pair as needed.
 
 ## Related Strategies
+
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the broader family of structured peer interaction; RPT is a dyadic, role-alternating variant
 - [Collaborative Learning](../principles/collaborative-learning.md) — the principle that peer interaction can outperform individual work when structured
 - [Peer Teaching](peer-teaching.md) — the one-directional version; RPT adds role reversal so both students get the teaching benefit
+- [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples
 - **Classwide Student Teams–Achievement Divisions adaptations and Fantuzzo's reciprocal tutoring** — classwide RPT in elementary mathematics where dyads alternate tutor/tutee roles weekly with structured materials and reward systems; improved computation fluency and conduct.
