@@ -489,7 +489,7 @@ def check_manifest_integrity(pages: dict[str, Path]) -> list[dict]:
         if entry.get("status") not in ("ingested", "rejected"):
             issues.append({"file": rel, "type": "manifest_bad_status",
                             "detail": f"line {lineno} ({entry.get('id', '?')}): status={entry.get('status')!r}"})
-        elif entry["status"] == "ingested" and not entry.get("pages"):
+        elif entry["status"] == "ingested" and not entry.get("pages") and not entry.get("candidates"):
             issues.append({"file": rel, "type": "manifest_ingested_no_pages",
                             "detail": f"line {lineno} ({entry.get('id', '?')}): status=ingested but no pages"})
         elif entry["status"] == "rejected" and not entry.get("reason"):

@@ -492,6 +492,7 @@ def append_manifest_entry(
     pages: list | None = None,
     citations: dict | None = None,
     reason_code: str | None = None,
+    candidates: list | None = None,
 ) -> None:
     """Append one line to sources/manifest.ndjson — the append-only record of every
     source article the ingest pipeline has reviewed, ingested or rejected, so
@@ -516,13 +517,18 @@ def append_manifest_entry(
     deliberately when the gate could not run (no network) so a later audit can
     tell an unverified ingest from a clean one, rather than both reading as a
     bare "ingested".
+
+    `candidates` lists the principle and pattern candidates the source added to
+    eval/candidates/candidates.ndjson instead of writing pages (2026-10-07). An
+    "ingested" source needs pages or candidates: one whose only contribution was a
+    candidate has contributed, and must not read as a failed run.
     """
     import json
 
     if status not in ("ingested", "rejected"):
         raise ValueError(f"status must be 'ingested' or 'rejected', got {status!r}")
-    if status == "ingested" and not pages:
-        raise ValueError("'pages' is required and must be non-empty when status='ingested'")
+    if status == "ingested" and not pages and not candidates:
+        raise ValueError("'pages' or 'candidates' is required when status='ingested'")
     if status == "rejected" and not reason:
         raise ValueError("'reason' is required when status='rejected'")
     if status == "rejected" and reason_code not in REJECTION_CODES:
@@ -542,7 +548,9 @@ def append_manifest_entry(
         entry["reason"] = reason
         entry["reason_code"] = reason_code
     else:
-        entry["pages"] = pages
+        entry["pages"] = pages or []
+        if candidates:
+            entry["candidates"] = candidates
         if citations is not None:
             entry["citations"] = citations
 
