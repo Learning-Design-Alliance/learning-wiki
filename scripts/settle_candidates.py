@@ -88,7 +88,8 @@ Title: {title}
 Claims it cites:
 {claims}
 
-CANONICAL PAGES (existing):
+CANONICAL PAGES nearest by text (numbers refer to the full CANONICAL INDEX in the system message, which lists
+every canonical page; a page there that is not shown here may fit better):
 {canon}
 
 OPEN CANDIDATES (proposed from other sources, not yet pages):
@@ -96,10 +97,12 @@ OPEN CANDIDATES (proposed from other sources, not yet pages):
 
 Outcomes:
 - "attach": the candidate states a canonical page's idea, or a narrower case of it (one setting, population,
-  medium or component), so its evidence belongs on that page. Give "n", the page's number. Prefer attach
-  whenever a reader of that page should see this source.
+  medium or component), so its evidence belongs on that page. Give "n", the page's number in the CANONICAL
+  INDEX. Check the whole index, not only the pages shown. Prefer attach whenever a reader of that page should
+  see this source.
 - "join": no canonical page fits, but an open candidate states the same general idea. Give "n", its letter.
-- "new": a general, reusable principle or pattern that nothing listed covers.
+- "new": a general, reusable principle or pattern that no page in the whole CANONICAL INDEX covers, even as a
+  broader idea. Name the closest index page in "why" and say what it lacks.
 - "design": a specific course, programme, lesson sequence or product for one setting or population.
 - "drop": not a page: it restates one empirical finding (that is a claim), or is an aspiration or opinion
   with no actionable design content, or is too vague to act on.
@@ -228,10 +231,18 @@ def canon_neighbours(db, cand: dict, canon: set, k: int = 10) -> list:
     return [k for _, k in sorted(found, key=lambda x: -x[0])[:k]]
 
 
-def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: str) -> dict:
+def system_prompt(index: list) -> str:
+    """The canonical index, the same in every call so the provider can cache it."""
+    return (SYSTEM + "\n\nCANONICAL INDEX (every canonical principle and pattern page):\n"
+            + "\n".join(f"{i + 1}. [{r['folder'][:-1]}] {r['title']}" for i, r in enumerate(index)))
+
+
+def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: str,
+           index: list, system: str) -> dict:
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
     claims = cited_claims(cand)
+    pos = {r["key"]: i for i, r in enumerate(index)}
     extra = []
     for f, label in (("requirements", "Requirements"), ("constraints", "Constraints"),
                      ("target_learners", "Learners"), ("target_learning_goals", "Goals")):
@@ -243,12 +254,12 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
         description=(cand.get("description") or "")[:900], extra="\n".join(extra),
         claims="\n".join(f"{i + 1}. {c['title']} [evidence: {c['evidence'] or 'none recorded'}]"
                          for i, c in enumerate(claims)) or "(none)",
-        canon="\n".join(f"{i + 1}. [{r['folder'][:-1]}] {r['title']} — {r['description'][:220]}"
-                        for i, r in enumerate(canon_recs)) or "(none near)",
+        canon="\n".join(f"{pos[r['key']] + 1}. [{r['folder'][:-1]}] {r['title']} — {r['description'][:220]}"
+                         for r in canon_recs) or "(none near)",
         open="\n".join(f"{chr(65 + i)}. [{r.get('type')}] {r.get('title')} — {(r.get('description') or '')[:200]}"
                        f" (from {short_source(r)})" for i, r in enumerate(open_rows)) or "(none near)")
     for attempt in range(2):   # one resample: a reply with no JSON in it is a fault, not an answer
-        gen = oc.generate(model, SYSTEM, prompt, api_key, max_tokens=2500)
+        gen = oc.generate(model, system, prompt, api_key, max_tokens=2500)
         try:
             d = extract_json(gen.raw_text)
             break
@@ -261,9 +272,9 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
            "cost_usd": gen.cost_usd, "at": date.today().isoformat()}
     n = d.get("n")
     if d["outcome"] == "attach":
-        if not (isinstance(n, int) and 1 <= n <= len(canon_recs)):
+        if not (isinstance(n, int) and 1 <= n <= len(index)) or index[n - 1]["key"] == cand.get("page"):
             return {**out, "outcome": "error", "why": f"attach without a valid page number: {n!r}"}
-        target = canon_recs[n - 1]["key"]
+        target = index[n - 1]["key"]
         attached = []
         for item in d.get("claims") or []:
             k = item.get("k")
@@ -298,11 +309,14 @@ def settle(cands: list, open_pool: list, model: str, concurrency: int) -> list:
             recs[k] = lp.record(k, pages[k])
         return recs[k]
 
+    index = [rec(k) for k in sorted(canon) if k in pages]
+    system = system_prompt(index)
+
     def one(cand):
         db = sqlite3.connect(search_index.DB_PATH)
         try:
             near = [rec(k) for k in canon_neighbours(db, cand, canon) if k in pages]
-            return decide(cand, near, sim.near(cand), api_key, model)
+            return decide(cand, near, sim.near(cand), api_key, model, index, system)
         except Exception as e:
             return {"id": cand["id"], "outcome": "error", "why": f"{type(e).__name__}: {e}"[:300]}
         finally:
