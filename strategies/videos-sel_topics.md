@@ -60,9 +60,11 @@ Video combines visual and verbal channels, which can support comprehension of em
 6. **Close with reflection** — one sentence connecting the strategy shown in the video to something learners will try themselves.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the natural follow-up: rehearsing the social behavior the video modeled
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-viewing move that anchors the clip in learners' experience
 - [Class Discussion](../elements/class-discussion.md) — the core processing mechanism between viewing and application
+- [Use temperament-based classroom sessions with puppets, videos and activities to build empathy and dilemma resolution](temperament-based-puppet-classroom-sessions.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — "Big Ideas" video series on growth mindset, empathy, and perseverance, designed as short episodes with built-in discussion questions for elementary classrooms.

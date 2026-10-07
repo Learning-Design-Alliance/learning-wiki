@@ -70,3 +70,4 @@ Of five reviewed studies, only Frasco (2008) met WWC evidence standards; the oth
 - [The evidence base for the Wilson Reading System in beginning reading is small, with no studies addressing general reading achievement](wilson-reading-system-small-evidence-base.md) — related
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related
 - [Read Well® shows potentially positive effects on English language development for elementary school English language learners](read-well-potentially-positive-english-language-development.md) — related
+- [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related

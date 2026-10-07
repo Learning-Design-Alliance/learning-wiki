@@ -58,3 +58,4 @@ WWC review of the program's research base. The single qualifying study included 
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — possibly the same claim (merge candidate)
+- [Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts](waterford-upstart-positive-early-literacy-effects.md) — related

@@ -55,11 +55,13 @@ Continuous review counters the steep forgetting curve by re-exposing learners to
 - 
 
 ## Related Elements
+
 - [Spaced Repetition](spaced-repetition.md) — the scheduling algorithm that determines *when* review occurs
 - [Retrieval Practice](retrieval-practice.md) — the activity that makes review effective; review without retrieval is rereading
 - [Spiral Curriculum](spiral-curriculum.md) — the curricular structure that builds revisiting into topic sequencing
 - [Practice](practice.md) — review sessions are a form of distributed, cumulative practice
 - [Assessment](assessment.md) — cumulative low-stakes quizzes are the most common delivery vehicle
+- [Simple Solutions spiral-review program](simple-solutions-spiral-review-program.md)
 
 ## Patterns That Use This Element
 - Mastery Learning — repeated, criterion-referenced revisiting until fluency is reached

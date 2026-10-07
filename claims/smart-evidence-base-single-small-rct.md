@@ -50,3 +50,4 @@ The WWC's rating rationale (Appendices A5.1–A5.3) states the positive-effects 
 - [The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards](eir-small-evidence-base-one-rct.md) — related
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
+- [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related

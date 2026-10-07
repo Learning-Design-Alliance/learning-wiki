@@ -65,3 +65,4 @@ Randomized controlled trial meeting WWC standards with reservations (high child 
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related
 - [Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment](building-blocks-outperformed-pre-k-mathematics-head-to-head.md) — related
 - [The CMA-A math finding in the PCER study is not statistically significant after correction for multiple comparisons](pcer-cma-a-nonsignificant-after-correction.md) — related
+- [Pre-K Mathematics improves preschool children's mathematics achievement, with a WWC positive effects rating and strong evidence tier](pre-k-mathematics-positive-effects-math-achievement.md) — related

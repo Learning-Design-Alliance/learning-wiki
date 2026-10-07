@@ -49,6 +49,7 @@ CIRC is a reading and writing program for students in grades 2 through 6 with th
 ## Related Elements
 
 - [Bilingual Cooperative Integrated Reading and Composition (BCIRC) program](bcirc-program-element.md)
+- [Cooperative Integrated Reading and Composition® (CIRC) program](circ-program-element.md)
 
 ## Examples
 -

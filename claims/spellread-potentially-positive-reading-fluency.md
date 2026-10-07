@@ -48,3 +48,4 @@ WWC synthesis of two randomized controlled trials meeting evidence standards wit
 - [SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points](spellread-comprehension-index-twenty.md) — related
 - [SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points](spellread-positive-effects-alphabetics.md) — related
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — a broader claim this one bears on
+- [Reading Mastery has potentially positive effects on reading fluency for adolescent learners, with a WWC improvement index of +19 percentile points](reading-mastery-potentially-positive-fluency-adolescents.md) — related

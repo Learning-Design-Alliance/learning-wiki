@@ -49,10 +49,12 @@ Dialogic Reading is an interactive shared picture-book reading practice in which
 ## Related Elements
 
 - [Dialogic Reading](dialogic-reading.md)
+- [Dialogic reading: interactive shared picture-book reading with CROWD prompts and the PEER sequence](dialogic-reading-practice-crowd-peer.md)
 
 ## Examples
 
 - [Train teachers in Dialogic Reading via videotape, role-play, and group discussion](../strategies/videotape-roleplay-training-dialogic-reading.md)
+- [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](../strategies/gradual-shift-to-higher-level-prompts.md)
 
 ## Key Sources
 - WWC Intervention Report: Dialogic Reading. (2007). What Works Clearinghouse, U.S. Department of Education, Revised February 8, 2007. https://ies.ed.gov/ncee/wwc

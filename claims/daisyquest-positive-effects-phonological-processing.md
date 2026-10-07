@@ -57,3 +57,5 @@ WWC synthesis of two randomized controlled trials (Foster et al., 1994; Lonigan 
 - [Ready, Set, Leap!® has no significant effect on preschool phonological processing (domain average effect size 0.06)](ready-set-leap-null-phonological-processing.md) — related
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — related
+- [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
+- [Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations](phonological-awareness-training-thin-rct-evidence-base.md) — related

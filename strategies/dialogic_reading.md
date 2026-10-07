@@ -62,9 +62,11 @@ Dialogic reading converts a typically receptive activity into [Active Learning](
 6. [Demonstration](../elements/demonstration.md) of rich story-telling language comes early in the sequence; reduce modeling as the child takes over the telling.
 
 ## Related Strategies
+
 - Interactive read-alouds — a broader classroom technique; dialogic reading is its most structured, research-validated form for young children
 - Reciprocal teaching — the older-student analogue: structured dialogue turns comprehension responsibility over to the learner
 - Repeated reading — dialogic reading depends on multiple passes over the same book to raise prompt demands
+- [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](gradual-shift-to-higher-level-prompts.md)
 
 ## Related Elements
 - [Scaffolding](../elements/scaffolding.md) — the adult's expansions are contingent support calibrated just above the child's current language

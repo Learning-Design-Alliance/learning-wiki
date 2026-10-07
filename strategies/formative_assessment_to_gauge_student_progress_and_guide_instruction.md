@@ -66,6 +66,7 @@ Formative assessment is among the most consistently supported instructional prac
 - [Exit tickets](../strategies/exit-tickets.md) — end-of-session evidence collection for next-day planning
 - [Mastery learning](../strategies/mastery-learning.md) — extends formative loops into a full progression model with re-attempt until criteria are met
 - [Use the taxonomy to self-evaluate an implemented research experience and level up milestones](ur-taxonomy-self-evaluation-loop.md)
+- [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the evidence-collection step

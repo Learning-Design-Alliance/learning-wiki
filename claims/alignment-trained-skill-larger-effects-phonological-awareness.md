@@ -46,3 +46,4 @@ A footnote observation by the WWC across the O'Connor et al. and Slocum et al. s
 - [Segmentation is the only alphabetics outcome the WWC confirmed statistically significant across multiple studies](segmentation-only-consistently-confirmed-outcome.md) — a narrower finding that bears on this claim
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al. (1993)](blending-focus-training-significant-blending-outcomes-oconnor-1993.md) — a narrower finding that bears on this claim

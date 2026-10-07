@@ -47,7 +47,8 @@ Open Court Reading© is a reading program for grades K–6 published by McGraw-H
 - [The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency](../claims/open-court-reading-small-evidence-base-two-domains-uncovered.md) [~W]
 
 ## Related Elements
-- 
+
+- [Reading Mastery: a Direct Instruction reading curriculum for grades K–6 in three versions](reading-mastery-program-element.md)
 
 ## Examples
 -

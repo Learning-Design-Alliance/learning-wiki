@@ -26,7 +26,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 17 studies (6 causal, 5 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 18 studies (6 causal, 5 quant-synthesis, 3 review, 2 design, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -88,6 +88,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Students Difficulties Solar Movement Observable Changes](../claims/students-difficulties-solar-movement-observable-changes.md) [+M]
 - [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](../claims/scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) [+W] — attached 2026-10-07 from Sharples et al. (2015), which proposed "Scripted Personally Meaningful Inquiry"; tests this page's relationship.
+- [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+W] — attached 2026-10-07 from Morzinski et al. (2010), which proposed "Design inquiry activities around student ownership and authenticity to real science and engineering practices".
 
 ## Objective and learner-valued goal
 

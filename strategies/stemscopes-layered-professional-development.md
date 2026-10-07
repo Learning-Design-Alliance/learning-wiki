@@ -1,0 +1,54 @@
+---
+type: strategy
+id: stemscopes-layered-professional-development
+title: Layered professional development for curriculum implementation (webinars, workshops, coaching)
+description: Implementation is supported through multiple professional development formats rather than a single training event.
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-07
+sources:
+  - id: stemscopes-evidence-rating-summary-2024
+    resource: "https://www.stemscopes.com"
+    title: "STEMscopes evidence rating summary. (2024). Evidence rating: promising. https://www.stemscopes.com"
+    author: STEMscopes evidence rating summary
+---
+
+# Layered professional development for curriculum implementation (webinars, workshops, coaching)
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Implementation is supported through multiple professional development formats rather than a single training event. The article states that "Professional development options include webinars, in-person workshops, and blended formats," ranging "from foundational training on curriculum content and platform use to ongoing support through coaching and advanced learning modules," with customized plans available on request.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Districts may request customized plans aligned to local goals and educator needs
+#### Constraints
+- 
+
+### Target Learners
+- Teachers implementing the science curriculum
+
+### Target Learning Goals
+- Effective use of curriculum content and the digital platform
+
+## Related Strategies
+
+- [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
+- [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
+- [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
+- [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
+- [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
+- [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
+
+## Examples
+-
+
+## Key Sources
+- STEMscopes evidence rating summary. (2024). Evidence rating: promising. https://www.stemscopes.com

@@ -46,3 +46,5 @@ WWC systematic review computing improvement indices from the same two quasi-expe
 ## Related Claims
 - [Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects](circ-comprehension-findings-mixed-across-two-quasi-experiments.md) — related
 - [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](circ-potentially-positive-comprehension-adolescent-learners.md) — related
+- [Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points](core-plus-math-potentially-positive-effects.md) — related
+- [Reading Mastery shows no discernible effects on reading comprehension for adolescent learners, with an average improvement index of –7 percentile points](reading-mastery-no-discernible-comprehension-adolescents.md) — related

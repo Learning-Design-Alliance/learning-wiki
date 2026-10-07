@@ -88,12 +88,14 @@ The active ingredients are the ones shared with any effective SEL work rather th
 8. **Use the same words in real life.** When the situation happens for real, use the vocabulary and the response from the show — this is the step that makes it transfer rather than a story.
 
 ## Related Strategies
+
 - [Emotion Identification and Labeling](emotion_identification_and_labeling.md) — the vocabulary foundation the shows deliver
 - [Dramatic Play](dramatic_play.md) — the wider enactment context, with children in role themselves
 - [Acting / Role Play](acting-role-play.md) — the same rehearsal mechanism without the puppet's distancing layer, for older learners
 - [Emotion Identification Through Literature](emotion_identification_through_literature.md) — the same distancing achieved through characters in a text
 - [Emotion-Based Story Discussions](emotion-based_story_discussions.md) — discussion structure for emotions arising in narrative
 - [Literature and Social Stories](literature-social-stories.md) — scripted narratives for rehearsing specific social situations
+- [Use temperament-based classroom sessions with puppets, videos and activities to build empathy and dilemma resolution](temperament-based-puppet-classroom-sessions.md)
 
 ## Examples
 

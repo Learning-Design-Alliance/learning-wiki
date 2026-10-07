@@ -48,3 +48,4 @@ WWC synthesis of two studies (12,698 students in 36 schools) reporting: Tracey a
 - [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — related
 - [Tracey and Young (2004): grade 5 students using differentiated KidBiz3000® outscored comparison students on the SRI (effect size 0.29)](kidbiz-differentiated-sri-positive-effect.md) — related
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
+- [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related

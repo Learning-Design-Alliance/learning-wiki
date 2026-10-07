@@ -57,9 +57,11 @@ Prior knowledge is one of the strongest predictors of how much a learner takes f
 5. Revisit and update background knowledge continuously; treat it as formative information, not a fixed label
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the in-lesson counterpart: this strategy supplies the knowledge base that activation draws on
 - [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — broader content-area version of the same diagnostic work
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — lesson-level routines for surfacing what learners bring
+- [Use ongoing assessments to tailor early-childhood learning experiences](ongoing-assessment-tailored-early-learning.md)
 
 ## Examples
 - **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — teachers learn research-based maps of children's informal addition/subtraction strategies and use interviews with their own students to plan instruction; a well-documented model of background knowledge driving teaching decisions

@@ -42,6 +42,10 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
+- [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
+- [Combine live cohort sessions, self-guided application, peer coaching, and virtual office hours in literacy professional learning](cohort-peer-coaching-office-hours-pd-model.md)
+- [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
+- [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 
 ## Examples
 -

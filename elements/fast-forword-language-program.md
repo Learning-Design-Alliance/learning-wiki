@@ -48,7 +48,8 @@ Fast ForWord Language is "a computer-based instructional program developed to bu
 - [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](../claims/fast-forword-language-potentially-positive-english-language-development.md) [+W]
 
 ## Related Elements
-- 
+
+- [Fast ForWord® adaptive computer-based reading program](fast-forword-program-element.md)
 
 ## Examples
 

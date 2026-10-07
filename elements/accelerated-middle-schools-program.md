@@ -44,7 +44,8 @@ Accelerated middle schools are self-contained academic programs for middle schoo
 - [Accelerated middle schools show potentially positive effects on staying in school, with an average improvement index of +18 percentile points](../claims/accelerated-middle-schools-staying-in-school-potentially-positive.md) [+W]
 
 ## Related Elements
-- 
+
+- [ALAS dropout prevention program](alas-dropout-prevention-program.md)
 
 ## Examples
 -

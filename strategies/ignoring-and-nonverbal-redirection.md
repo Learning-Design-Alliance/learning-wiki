@@ -42,8 +42,10 @@ When misbehavior is a bit too serious or frequent to ignore, but not serious eno
 3. Watch for whether the student notices and responds to the cue; if the behavior continues or the cue seems to go unnoticed or misunderstood, escalate to a verbal response (see [Low-Profile Classroom Control](low-profile-classroom-control.md)).
 
 ## Related Strategies
+
 - [Low-Profile Classroom Control](low-profile-classroom-control.md) — the next tier up when ignoring or a nonverbal cue isn't enough
 - [Teacher Effectiveness Training / Conflict Resolution](teacher-effectiveness-training-conflict-resolution.md) — for misbehavior persistent enough that ignoring and nonverbal redirection have already failed
+- [Train teachers on technology management, report interpretation, and minimal redirection before computer-based instruction](teacher-training-computer-based-instruction.md)
 
 ## Key Sources
 - Guerrero, L. K., & Floyd, K. (2005). *Nonverbal communication in close relationships*. Erlbaum.

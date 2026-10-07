@@ -45,3 +45,4 @@ Randomized controlled trial of 27 Head Start classrooms in southeastern New York
 ## Related Claims
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](waterford-versus-letter-people-similar-outcomes.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related

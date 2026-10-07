@@ -53,3 +53,4 @@ WWC synthesis of the evidence base: one randomized controlled trial (Sivin-Kacha
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
 - [The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence](dreambox-potentially-positive-effects-small-evidence.md) — related
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related
+- [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related

@@ -50,3 +50,4 @@ Randomized controlled trial (PCER Consortium, 2008) with 18 preschools; print kn
 - [Curiosity Corner shows no discernible effects on phonological processing in the PCER randomized trial](curiosity-corner-no-discernible-phonological-effects.md) — related
 - [The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains](bright-beginnings-no-discernible-effects-preschool.md) — a broader claim this one bears on
 - [Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers](ready-set-leap-no-discernible-effects-preschool.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related

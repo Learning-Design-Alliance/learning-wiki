@@ -74,9 +74,12 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 - Tier assignment itself is the personalization mechanism: intensity of support scales with documented student need rather than being fixed in advance
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — MTSS is essentially formative assessment institutionalized at the school level
 - [Direct Instruction](../patterns/direct-instruction.md) — the typical instructional mode of Tier 2/3 intervention groups
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — shares the logic of advancement by demonstrated mastery rather than time
+- [Use ongoing assessments to tailor early-childhood learning experiences](ongoing-assessment-tailored-early-learning.md)
+- [Use a multi-stage screening tool (SSBD) to nominate and rank at-risk students for behavioral intervention](ssbd-multistage-screening-target-student-selection.md)
 
 ## Examples
 - **[National Center on Intensive Intervention](https://intensiveintervention.org)** — provides tools charts rating the evidence base and efficacy of academic and behavior intervention programs for Tier 3 selection.

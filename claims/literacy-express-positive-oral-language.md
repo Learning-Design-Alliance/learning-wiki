@@ -84,3 +84,4 @@ Randomized controlled trial in 12 Florida full-day preschools (188 children anal
 - [Literacy Express shows no discernible effects on cognition and math for preschool children](literacy-express-no-effects-cognition-math.md) — related
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
 - [Literacy Express has positive effects on print knowledge for preschool children, with significant effects in two of three studies](literacy-express-positive-print-knowledge.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related

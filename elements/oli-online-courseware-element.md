@@ -47,6 +47,7 @@ OLI is Carnegie Mellon University's online course platform providing "online cou
 ## Related Elements
 
 - [OLI cost structure: low or no cost courses with per-student maintenance fees for credit delivery](oli-cost-structure-maintenance-fees.md)
+- [PLEDGE platform for professional learning participants](pledge-professional-learning-platform.md)
 
 ## Examples
 -

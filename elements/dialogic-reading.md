@@ -61,6 +61,7 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 - [Act It Out](act-it-out.md) — a complementary way to deepen engagement with story content through enactment
 - [Check-In](check-in.md) — brief comprehension and distancing prompts ("Has that ever happened to you?") embedded in the reading
 - [Dialogic Reading practice with CROWD prompts and PEER technique](dialogic-reading-crowd-peer-practice.md)
+- [Dialogic reading: interactive shared picture-book reading with CROWD prompts and the PEER sequence](dialogic-reading-practice-crowd-peer.md)
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the adult models storytelling language, then fades support as the child takes over the narration
@@ -74,6 +75,7 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 **Head Start dialogic reading interventions** — multiple randomized trials (e.g., Whitehurst et al., 1988; Lonigan & Whitehurst, 1998) trained parents and classroom aides to use PEER sequences (Prompt–Evaluate–Expand–Repeat) over 4–6 weeks, producing significant expressive language gains.
 
 **[Dialogic Reading in Pre-K classrooms](https://www.naeyc.org)** — NAEYC guidance for teachers using small-group repeated read-alouds with wh- and distancing prompts, transitioning children to retelling by the third or fourth reading.
+- [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](../strategies/gradual-shift-to-higher-level-prompts.md)
 
 ## Key Sources
 - Whitehurst, G. J., Falco, F. L., Lonigan, C. J., Fischel, J. E., DeBaryshe, B. D., Valdez-Menchaca, M. C., & Caulfield, M. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)

@@ -61,8 +61,10 @@ GBG applies group contingency and reinforcement principles to reduce disruption 
 7. Use brief [Check-In](../elements/check-in.md) routines to review team functioning and repair team climate when needed.
 
 ## Related Strategies
+
 - [Cooperative learning with group rewards and individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) — GBG shares the group-contingency structure; pairing it with academic team goals extends it from management to learning
 - Empathic discipline briefings — a complementary teacher-practice approach to reducing suspensions and conflict
+- [Implement CW-FIT as 30- to 60-minute sessions three to four times per week, fading monitoring and rewards as behavior improves](cw-fit-session-frequency-fading-strategy.md)
 
 ## Examples
 - **PAX Good Behavior Game** (Paxis Institute) — disseminated in thousands of US schools; teacher training plus kernel-approach tools. https://www.paxis.org

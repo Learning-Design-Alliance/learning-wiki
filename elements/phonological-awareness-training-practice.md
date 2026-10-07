@@ -50,6 +50,7 @@ Phonological Awareness Training is a general practice aimed at enhancing young c
 ## Related Elements
 
 - [Phonological Awareness Training plus Letter Knowledge Training practice for preschool early literacy](pat-lk-preschool-early-literacy-practice.md)
+- [Phonological awareness training practices: rhyme detection, blending, and segmentation activities](phonological-awareness-training-practices-element.md)
 
 ## Examples
 
