@@ -436,7 +436,11 @@ def search_eric(query: str, rows: int) -> list:
     params = {
         "search": f"({query}) AND e_fulltextauth:1",
         "format": "json",
-        "rows": str(min(rows * 2, 200)),
+        # A page of 25 whatever `rows` is: the caller takes only what it needs, but
+        # asking for twice that (2 per topic once a batch spreads over 1,400 wiki
+        # topics) returned only already-processed records for most topics, so
+        # batch 13 (2026-10-07) made about 290 queries, 2 s apart, to find 45.
+        "rows": str(min(max(rows * 2, 25), 200)),
         "fields": "id,title,author,publicationdateyear,peerreviewed,e_fulltextauth",
     }
     try:
@@ -470,8 +474,6 @@ def search_eric(query: str, rows: int) -> list:
             "fetch_url": f"https://files.eric.ed.gov/fulltext/{eric_id}.pdf",
             "topic_hint": query,
         })
-        if len(entries) >= rows:
-            break
     return entries
 
 
@@ -486,7 +488,7 @@ DISCOVERY_CACHE_PATH = EVAL_ROOT / "corpus" / ".discovery_cache.json"
 
 # Bumped when a source's search changes what it returns, so results cached
 # under the old query are not reused. ERIC's "ft" is the e_fulltextauth filter.
-SEARCH_VERSIONS = {"eric": "ft"}
+SEARCH_VERSIONS = {"eric": "ft25"}
 
 
 def _load_discovery_cache() -> dict:
@@ -544,13 +546,17 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
                     cache[cache_key] = results
                     _save_discovery_cache(cache)  # written per-topic, not just at the end, so a
                                                    # crash partway through doesn't lose progress
+            taken = 0
             for entry in results:
                 if entry["id"] in seen_ids:
                     continue
                 seen_ids.add(entry["id"])
                 manifest.append(entry)
                 collected += 1
-                if collected >= target:
+                taken += 1
+                # A search returns a page; the topic still gets only its share, so
+                # one broad topic does not fill the batch.
+                if collected >= target or taken >= count:
                     break
         if verbose:
             print(f"[{source}] done: {collected}/{target} candidates found\n")
